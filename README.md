@@ -1,11 +1,29 @@
-# Collective Action in Tech
+# Collective Actions in Tech
 
-This repository serves to document all collective action from tech workers in the United States starting from 2016.
+This repository serves to document all collective actions from tech workers in the United States starting from 2016. 
 
-#### Definitions
-- __Tech worker__ - a tech worker is a worker whose income is paid for either directly or indirectly from a tech company.
-- __Collective action__ - any kind of concerted activity by workers
+The goal of logging collective action in tech is to give us, tech workers, more insight on worker power in the tech industry. Actions that are considered losses (such as the inability to cause change in the workplace) are also added to this repository since the goal is not to scrutinize the times we've won, but rather to analyze and evaluate on the moments of worker power in tech.
 
+In pursuing this as a public repository, I recognize that this data can be a double-edged sword. Tech workers will have access to the data, but so will our bosses and upper management at our companies. That said, management is organized. They work actively with politicians and laywers to suppress any forms of worker power. We need to be organized too. 
+
+This repository of collective action in tech is meant to be a live document. Feel free to submit PRs or fork the repository.
+
+## The Data
+
+This respository is mean to document all collective actions from tech workers. Lets define what _collective actions_ and _tech workers_ mean.
+
+__Tech worker__
+  - A tech worker is a worker whose income is paid for either directly or indirectly from a tech company.
+  
+__Collective action__
+  - Any kind of concerted activity by workers.
+  
+For the data to be useful, we'll want to make sure we're collecting enough data with relevant fields on each moment of collective action.
+
+__Date__
+  - While the date may seem trivial, collecting dates may be comlex for multi-day events such as pickets or online petitions. In this repo, we collect only the start date in international format DD-MM-YYYY.
+
+### List of Actions
 | Date | Company | Action | Employment Type | Worker Count | Struggle Type | Source | 
 | --- | --- | --- | --- | --- | --- | --- | 
 | 24-07-2017 | Facebook | Union representation | Vendor | 500 | Wages, Health benefits | http://unitehere.org/press-releases/cafeteria-workers-at-facebook-unionize-continuing-movement-for-a-more-inclusive-silicon-valley/ |
