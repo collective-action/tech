@@ -8,7 +8,7 @@ In pursuing this as a public repository, I recognize that this data can be a dou
 
 This repository of collective action in tech is meant to be a live document. Feel free to submit PRs or fork the repository.
 
-## The Data
+## Building our data
 
 This respository is mean to document all collective actions from tech workers. Lets define what _collective actions_ and _tech workers_ mean.
 
@@ -20,8 +20,16 @@ __Collective action__
   
 For the data to be useful, we'll want to make sure we're collecting enough data with relevant fields on each moment of collective action.
 
-__Date__
-  - While the date may seem trivial, collecting dates may be comlex for multi-day events such as pickets or online petitions. In this repo, we collect only the start date in international format DD-MM-YYYY.
+| Field | Description | 
+| --- | --- |
+| date | While the date may seem trivial, collecting dates may be comlex for multi-day events such as pickets or online petitions. In this repo, we collect only the start date in international format DD-MM-YYYY. |
+| company | Since worker power is usually to demand changes from a company, we want to make sure we capture the company in our dataset. Some moments of worker power may not have an associated company. For example, online petitions or a protests against the president may consist of workers from an amalgamation of companies. In which case we can leave this field blank. |
+| action | What was the form of the action that took place? |
+| employment type | What was the employment type of the workers who took action? FTEs? Contract workers? If there are multipe employment types, they should be listed in the order of most-relevant to least relevant. It is also possible that there is no affiliated employment type, which can be the case for many public petitions. |
+| union affiliation | Was a union affiliated? And if so, which one? |
+| worker count | The number of workers active in the action. Since we're only looking at collective actions, the number must be more than 1. |
+| struggle | The topic of struggle that caused the action. | 
+| source | The url of a reliable source that has reported on this event. |
 
 ### List of Actions
 | Date | Company | Action | Employment Type | Worker Count | Struggle Type | Source | 
