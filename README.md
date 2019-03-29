@@ -1,6 +1,6 @@
 # Collective Actions in Tech
 
-This repository serves to document all collective actions from tech workers in the United States starting from 2016. 
+This repository documents all collective actions from tech workers in the United States starting from 2016. 
 
 The goal of logging collective action in tech is to give us, tech workers, more insight on worker power in the tech industry. Actions that are considered losses (such as the inability to cause change in the workplace) are also added to this repository since the goal is not to scrutinize the times we've won, but rather to analyze and evaluate on the moments of worker power in tech.
 
