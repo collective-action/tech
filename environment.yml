@@ -1,0 +1,26 @@
+# To create the conda environment:
+# $ conda env create -f environment.yml
+#
+# To update the conda environment:
+# $ conda env update -f environment.yml
+#
+# To register the conda environment in Jupyter:
+# $ conda activate cait
+# $ python -m ipykernel install --user --name cait
+
+name: cait
+channels:
+- defaults
+- conda-forge
+dependencies:
+- python==3.7.2
+- jupyter>=1.0.0
+- pytest>=3.6.4
+- pandas
+- pip:
+  - black>=18.6b4
+  - papermill>=0.15.0
+  - pre-commit>=1.14.4
+  - lxml
+  - html5lib
+  - bs4
