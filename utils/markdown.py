@@ -9,8 +9,9 @@ from IPython.display import Markdown, display
 
 TOTAL_COLUMNS = 8
 META_FIELD_PATTERN = "[meta]"
-
-readme_path = os.path.realpath(
+PROJECT_NAME = "collective-actions-in-tech"
+HEADER_ROW_ID = "header"
+MD_PATH = os.path.realpath(
     os.path.join(os.path.dirname(os.path.abspath(__file__)), os.pardir, "README.md")
 )
 
@@ -57,7 +58,7 @@ def _md_table_to_df(table: MarkdownTable) -> pd.DataFrame:
     for i, tr in enumerate(trs):
         action = {}
         tds = tr.find_all("td")
-        if i > 0:
+        if ('id' not in tr.attrs) or ('id' in tr.attrs and tr.attrs['id'] != HEADER_ROW_ID):
             for key, val in tr.attrs.items():
                 action[_serialize_meta_field(key)] = val
             for td in tds:
@@ -73,9 +74,21 @@ def _df_to_md_table(df: pd.DataFrame, table_id: str) -> MarkdownTable:
     """ Converts a DataFrame to a markdown table. """
     soup = BeautifulSoup(f"<table id={table_id}></table>", "html.parser")
     cols = df.columns
+
+    # add row of headers
+    tr = soup.new_tag("tr")
+    tr['id'] = HEADER_ROW_ID
+    soup.table.append(tr)
+    for col in cols:
+        if not col.startswith(META_FIELD_PATTERN):
+            td = soup.new_tag("td")
+            td.string = str(col)
+            tr.append(td)
+
+    # add actions
     for index, row in df.iterrows():
         tr = soup.new_tag("tr")
-        soup.table.insert(0, tr)
+        soup.table.append(tr)
         for col in cols:
             if col.startswith(META_FIELD_PATTERN):
                 tr[_deserialize_meta_field(col)] = row[col]
@@ -84,6 +97,7 @@ def _df_to_md_table(df: pd.DataFrame, table_id: str) -> MarkdownTable:
                 td["data-column"] = col
                 td.string = str(row[col])
                 tr.append(td)
+
     return soup.prettify()
 
 
@@ -126,7 +140,7 @@ def _is_valid_table(table: MarkdownTable) -> bool:
     """ Checks if markdown table is malformed.
 
     Checks:
-    - the same number of td elements inside each tr element
+    - the number of td elements inside each tr element equals TOTAL_COLUMNS
     """
     assert table.startswith("<table")
     assert table.endswith("</table>")
@@ -158,7 +172,16 @@ def _replace_md_table(doc: MarkdownDocument, table_id: str, table: MarkdownTable
 
 
 def _sort_df(df: pd.DataFrame) -> pd.DataFrame:
-    """ Sort dataframe by date. """
+    """ Sort dataframe by date. 
+
+    Date is not used as index as multiple actions may happen on one date.
+
+    Args:
+        df (pd.DataFrame): The dataframe to sort
+    
+    Returns:
+        pd.Dataframe: the sorted Dataframe
+    """
     if "date" not in df.columns:
         raise DateColumnNotFound
     df["date"] = pd.to_datetime(df["date"])
@@ -226,8 +249,6 @@ def clean_md_document(input_fp: Path, table_id: str):
     table = _get_table_from_md_document(table_id, md_document)
     df = _md_table_to_df(table)
     df = _sort_df(df)
-    print(df)
     table = _df_to_md_table(df, table_id)
-    print(table)
     updated_md_document = _replace_md_table(md_document, table_id, table)
     input_fp.write_text(updated_md_document)

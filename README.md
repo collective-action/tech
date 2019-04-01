@@ -33,45 +33,108 @@ For the data to be useful, we'll want to make sure we're collecting enough data 
 
 ### List of Actions
 <table id="collective-actions-in-tech">
-  <tr>
-    <td>date</td>
-    <td>company</td>
-    <td>action</td>
-    <td>employment type</td>
-    <td>union affiliation</td>
-    <td>worker count</td>
-    <td>struggle</td>
-    <td>source</td>
-  </tr>
-  <tr data-author="organizejs">
-    <td class="date">18-01-2017</td>
-    <td class="company">Palantir</td>
-    <td class="action">Protest</td>
-    <td class="employment_type">None</td>
-    <td class="union_affiliation">None</td>
-    <td class="worker_count">50</td>
-    <td class="struggle_type">Ethics</td>
-    <td class="source">https://techcrunch.com/2017/01/18/tech-employees-protest-in-front-of-palantir-hq-over-fears-it-will-build-trumps-muslim-registry/</td>
-  </tr>
-  <tr data-author="organizejs">
-    <td class="date">24-07-2017</td>
-    <td class="company">Facebook</td>
-    <td class="action">Union represenation</td>
-    <td class="employment_type">Vendor</td>
-    <td class="union_affiliation">Unite Here Local 19</td>
-    <td class="worker_count">500</td>
-    <td class="struggle_type">Wages, Health benefits</td>
-    <td class="source">http://unitehere.org/press-releases/cafeteria-workers-at-facebook-unionize-continuing-movement-for-a-more-inclusive-silicon-valley/</td>
-  </tr>
-  <tr data-author="organizejs">
-    <td class="date">13-12-2016</td>
-    <td class="company">None</td>
-    <td class="action">Online pledge</td>
-    <td class="employment_type">None</td>
-    <td class="union_affiliation">None</td>
-    <td class="worker_count">2843</td>
-    <td class="struggle_type">Ethics</td>
-    <td class="source">https://neveragain.tech/</td>
-  </tr>
+ <tr id="header">
+  <td>
+   action
+  </td>
+  <td>
+   company
+  </td>
+  <td>
+   date
+  </td>
+  <td>
+   employment_type
+  </td>
+  <td>
+   source
+  </td>
+  <td>
+   struggle_type
+  </td>
+  <td>
+   union_affiliation
+  </td>
+  <td>
+   worker_count
+  </td>
+ </tr>
+ <tr data-author="organizejs">
+  <td data-column="action">
+   Online pledge
+  </td>
+  <td data-column="company">
+   None
+  </td>
+  <td data-column="date">
+   2016-12-13 00:00:00
+  </td>
+  <td data-column="employment_type">
+   None
+  </td>
+  <td data-column="source">
+   https://neveragain.tech/
+  </td>
+  <td data-column="struggle_type">
+   Ethics
+  </td>
+  <td data-column="union_affiliation">
+   None
+  </td>
+  <td data-column="worker_count">
+   2843
+  </td>
+ </tr>
+ <tr data-author="organizejs">
+  <td data-column="action">
+   Protest
+  </td>
+  <td data-column="company">
+   Palantir
+  </td>
+  <td data-column="date">
+   2017-01-18 00:00:00
+  </td>
+  <td data-column="employment_type">
+   None
+  </td>
+  <td data-column="source">
+   https://techcrunch.com/2017/01/18/tech-employees-protest-in-front-of-palantir-hq-over-fears-it-will-build-trumps-muslim-registry/
+  </td>
+  <td data-column="struggle_type">
+   Ethics
+  </td>
+  <td data-column="union_affiliation">
+   None
+  </td>
+  <td data-column="worker_count">
+   50
+  </td>
+ </tr>
+ <tr data-author="organizejs">
+  <td data-column="action">
+   Union represenation
+  </td>
+  <td data-column="company">
+   Facebook
+  </td>
+  <td data-column="date">
+   2017-07-24 00:00:00
+  </td>
+  <td data-column="employment_type">
+   Vendor
+  </td>
+  <td data-column="source">
+   http://unitehere.org/press-releases/cafeteria-workers-at-facebook-unionize-continuing-movement-for-a-more-inclusive-silicon-valley/
+  </td>
+  <td data-column="struggle_type">
+   Wages, Health benefits
+  </td>
+  <td data-column="union_affiliation">
+   Unite Here Local 19
+  </td>
+  <td data-column="worker_count">
+   500
+  </td>
+ </tr>
 </table>
-
