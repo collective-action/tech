@@ -5,7 +5,6 @@ This repository documents all collective actions from tech workers in the United
 This repository of collective action in tech is meant to be a live document. Feel free to submit PRs or fork the repository. See our [contribution guidelines](.CONTRIBUTING.md).
 
 ---
-
 <table id="collective-actions-in-tech">
  <tr id="header">
   <td>
@@ -21,7 +20,7 @@ This repository of collective action in tech is meant to be a live document. Fee
    action
   </td>
   <td>
-   company
+   employment_type
   </td>
   <td>
    union_affiliation
@@ -32,6 +31,9 @@ This repository of collective action in tech is meant to be a live document. Fee
   <td>
    struggle_type
   </td>
+  <td>
+   description
+  </td>
  </tr>
  <tr data-author="organizejs">
   <td data-column="date">
@@ -41,6 +43,7 @@ This repository of collective action in tech is meant to be a live document. Fee
    <a href="https://neveragain.tech/">
     Neveragain.tech
    </a>
+   ,
    <a href="https://en.wikipedia.org/wiki/Never_Again_pledge">
     Wikipedia
    </a>
@@ -62,6 +65,9 @@ This repository of collective action in tech is meant to be a live document. Fee
   </td>
   <td data-column="struggle_type">
    Ethics
+  </td>
+  <td data-column="description">
+   Online petition to ....
   </td>
  </tr>
  <tr data-author="organizejs">
@@ -91,6 +97,9 @@ This repository of collective action in tech is meant to be a live document. Fee
   <td data-column="struggle_type">
    Ethics
   </td>
+  <td data-column="description">
+   Tech employees protest in front of Palantir HQ over potential contract with Trump to build a Muslim registry.
+  </td>
  </tr>
  <tr data-author="organizejs">
   <td data-column="date">
@@ -118,6 +127,40 @@ This repository of collective action in tech is meant to be a live document. Fee
   </td>
   <td data-column="struggle_type">
    Wages, Health benefits
+  </td>
+  <td data-column="description">
+   TWC works with cafeteria workers at Facebook to Unionize
+  </td>
+ </tr>
+ <tr data-author="organizejs">
+  <td data-column="date">
+   2019-03-25
+  </td>
+  <td data-column="source">
+   <a href="https://www.vox.com/2019/3/25/18280718/uber-lyft-drivers-strike-la-los-angeles">
+    Vox
+   </a>
+  </td>
+  <td data-column="company">
+   Uber, Lyft
+  </td>
+  <td data-column="action">
+   Strike
+  </td>
+  <td data-column="employment_type">
+   Independent Contractors
+  </td>
+  <td data-column="union_affiliation">
+   None
+  </td>
+  <td data-column="worker_count">
+   100
+  </td>
+  <td data-column="struggle_type">
+   Wages
+  </td>
+  <td data-column="description">
+   Uber drivers stage 1-day strike in LA over cut reduction, Lyft drivers join
   </td>
  </tr>
 </table>

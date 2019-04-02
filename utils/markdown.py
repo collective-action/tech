@@ -22,6 +22,7 @@ FIELDS = [
     "union_affiliation",
     "worker_count",
     "struggle_type",
+    "description",
 ]
 MD_PATH = os.path.realpath(
     os.path.join(os.path.dirname(os.path.abspath(__file__)), os.pardir, "README.md")
@@ -79,12 +80,12 @@ def _md_table_to_df(table: MarkdownTable) -> pd.DataFrame:
     trs = soup.table.find_all("tr")
     for i, tr in enumerate(trs):
         action = {}
-        tds = tr.find_all("td")
         if ("id" not in tr.attrs) or (
             "id" in tr.attrs and tr.attrs["id"] != HEADER_ROW_ID
         ):
             for key, val in tr.attrs.items():
                 action[_serialize_meta_field(key)] = val
+            tds = tr.find_all("td")
             for td in tds:
                 key = td["data-column"]
                 val = "".join(str(e) for e in td.contents).strip()
@@ -92,7 +93,8 @@ def _md_table_to_df(table: MarkdownTable) -> pd.DataFrame:
         if action:
             actions.append(action)
     df = pd.read_json(json.dumps(actions), orient="list")
-    return df[FIELDS]
+    col_order = FIELDS + list(set(df.columns) - set(FIELDS))
+    return df[col_order]
 
 
 def _df_to_md_table(df: pd.DataFrame, table_id: str) -> MarkdownTable:
