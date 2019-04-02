@@ -58,7 +58,9 @@ def _md_table_to_df(table: MarkdownTable) -> pd.DataFrame:
     for i, tr in enumerate(trs):
         action = {}
         tds = tr.find_all("td")
-        if ('id' not in tr.attrs) or ('id' in tr.attrs and tr.attrs['id'] != HEADER_ROW_ID):
+        if ("id" not in tr.attrs) or (
+            "id" in tr.attrs and tr.attrs["id"] != HEADER_ROW_ID
+        ):
             for key, val in tr.attrs.items():
                 action[_serialize_meta_field(key)] = val
             for td in tds:
@@ -77,7 +79,7 @@ def _df_to_md_table(df: pd.DataFrame, table_id: str) -> MarkdownTable:
 
     # add row of headers
     tr = soup.new_tag("tr")
-    tr['id'] = HEADER_ROW_ID
+    tr["id"] = HEADER_ROW_ID
     soup.table.append(tr)
     for col in cols:
         if not col.startswith(META_FIELD_PATTERN):
@@ -159,11 +161,13 @@ def _clean_md_table(table: MarkdownTable) -> MarkdownTable:
     return soup.prettify()
 
 
-def _replace_md_table(doc: MarkdownDocument, table_id: str, table: MarkdownTable) -> MarkdownDocument:
+def _replace_md_table(
+    doc: MarkdownDocument, table_id: str, table: MarkdownTable
+) -> MarkdownDocument:
     """ Replace the table in {doc} with {table}. """
     assert _is_valid_table(table)
-    new_table = BeautifulSoup(table, 'html.parser')
-    soup = BeautifulSoup(doc, 'html.parser')
+    new_table = BeautifulSoup(table, "html.parser")
+    soup = BeautifulSoup(doc, "html.parser")
     table = soup.find("table", id=table_id)
     if not table:
         raise TableNotFound

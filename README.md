@@ -25,9 +25,9 @@ For the data to be useful, we'll want to make sure we're collecting enough data 
 | date | While the date may seem trivial, collecting dates may be comlex for multi-day events such as pickets or online petitions. In this repo, we collect only the start date in the format YYYY-MM-DD. |
 | company | Since worker power is usually to demand changes from a company, we want to make sure we capture the company in our dataset. Some moments of worker power may not have an associated company. For example, online petitions or a protests against the president may consist of workers from an amalgamation of companies. In which case we can leave this field blank. |
 | action | What was the form of the action that took place? |
-| employment type | What was the employment type of the workers who took action? FTEs? Contract workers? If there are multipe employment types, they should be listed in the order of most-relevant to least relevant. It is also possible that there is no affiliated employment type, which can be the case for many public petitions. |
-| union affiliation | Was a union affiliated? And if so, which one? |
-| worker count | The number of workers active in the action. Since we're only looking at collective actions, the number must be more than 1. |
+| employment_type | What was the employment type of the workers who took action? FTEs? Contract workers? If there are multipe employment types, they should be listed in the order of most-relevant to least relevant. It is also possible that there is no affiliated employment type, which can be the case for many public petitions. |
+| union_affiliation | Was a union affiliated? And if so, which one? |
+| worker_count | The number of workers active in the action. Since we're only looking at collective actions, the number must be more than 1. |
 | struggle | The topic of struggle that caused the action. | 
 | source | The url of a reliable source that has reported on this event. |
 
@@ -95,11 +95,11 @@ For the data to be useful, we'll want to make sure we're collecting enough data 
   <td data-column="date">
    2017-01-18 00:00:00
   </td>
-  <td data-column="employment_type">
-   None
-  </td>
   <td data-column="source">
    https://techcrunch.com/2017/01/18/tech-employees-protest-in-front-of-palantir-hq-over-fears-it-will-build-trumps-muslim-registry/
+  </td>
+  <td data-column="employment_type">
+   None
   </td>
   <td data-column="struggle_type">
    Ethics
