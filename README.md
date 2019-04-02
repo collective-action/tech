@@ -1,8 +1,10 @@
 # Collective Actions in Tech
 
-This repository documents all collective actions from tech workers in the United States starting from 2016. The goal of Collective Action in Tech is to give us, tech workers, more insight on trends in worker power in the tech industry. All actions by tech workers should be documented in this repository. 
+This repository documents all collective actions from tech workers in the United States starting from 2016. The goal of Collective Action in Tech is to give us, tech workers, more insight on trends in worker power in the tech industry. 
 
 This repository of collective action in tech is meant to be a live document. Feel free to submit PRs or fork the repository. See our [contribution guidelines](.CONTRIBUTING.md).
+
+---
 
 <table id="collective-actions-in-tech">
  <tr id="header">
@@ -30,16 +32,18 @@ This repository of collective action in tech is meant to be a live document. Fee
   <td>
    struggle_type
   </td>
-  <td>
-   source
-  </td>
-  <td>
-   struggle_type
-  </td>
  </tr>
  <tr>
   <td data-column="date">
-   2016-12-13 00:00:00
+   2016-12-13
+  </td>
+  <td data-column="source">
+   <a href="https://neveragain.tech/">
+    Neveragain.tech
+   </a>
+   <a href="https://en.wikipedia.org/wiki/Never_Again_pledge">
+    Wikipedia
+   </a>
   </td>
   <td data-column="source">
    <a href="https://neveragain.tech/">
@@ -67,7 +71,12 @@ This repository of collective action in tech is meant to be a live document. Fee
  </tr>
  <tr>
   <td data-column="date">
-   2017-01-18 00:00:00
+   2017-01-18
+  </td>
+  <td data-column="source">
+   <a href="https://techcrunch.com/2017/01/18/tech-employees-protest-in-front-of-palantir-hq-over-fears-it-will-build-trumps-muslim-registry/">
+    Tech Crunch
+   </a>
   </td>
   <td data-column="source">
    <a href="https://techcrunch.com/2017/01/18/tech-employees-protest-in-front-of-palantir-hq-over-fears-it-will-build-trumps-muslim-registry/">
@@ -95,7 +104,12 @@ This repository of collective action in tech is meant to be a live document. Fee
  </tr>
  <tr>
   <td data-column="date">
-   2017-07-24 00:00:00
+   2017-07-24
+  </td>
+  <td data-column="source">
+   <a href="http://unitehere.org/press-releases/cafeteria-workers-at-facebook-unionize-continuing-movement-for-a-more-inclusive-silicon-valley/">
+    Unite Here
+   </a>
   </td>
   <td data-column="source">
    <a href="http://unitehere.org/press-releases/cafeteria-workers-at-facebook-unionize-continuing-movement-for-a-more-inclusive-silicon-valley/">

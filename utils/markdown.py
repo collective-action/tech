@@ -4,6 +4,8 @@ import re
 import json
 import html
 import pandas as pd
+import bs4
+from datetime import datetime
 from pathlib import Path
 from bs4 import BeautifulSoup
 from IPython.display import Markdown, display
@@ -59,6 +61,16 @@ def _deserialize_meta_field(key: str) -> str:
     return key[len(META_FIELD_PATTERN) :]
 
 
+def _decode_df_to_md_fields(td: bs4.element.Tag, col:str, val:str) -> bs4.element.Tag:
+    """ Converts df fields to bs4 Tag / html format format. """
+    td.string = val
+    if col == "source":
+        td = BeautifulSoup(html.unescape(str(td)), 'html.parser')
+    elif col == "date":
+        td.string = str(datetime.strptime(td.string, '%Y-%m-%d %H:%M:%S').date())
+    return td
+
+
 def _md_table_to_df(table: MarkdownTable) -> pd.DataFrame:
     """ Converts a markdown table to a DataFrame. """
     assert _is_valid_md_table(table)
@@ -75,7 +87,7 @@ def _md_table_to_df(table: MarkdownTable) -> pd.DataFrame:
                 action[_serialize_meta_field(key)] = val
             for td in tds:
                 key = td["data-column"]
-                val = "".join(html.unescape(str(e)) for e in td.contents).strip()
+                val = "".join(str(e) for e in td.contents).strip()
                 action[key] = val
         if action:
             actions.append(action)
@@ -92,11 +104,10 @@ def _df_to_md_table(df: pd.DataFrame, table_id: str) -> MarkdownTable:
     tr = soup.new_tag("tr")
     tr["id"] = HEADER_ROW_ID
     soup.table.append(tr)
-    for col in cols:
-        if not col.startswith(META_FIELD_PATTERN):
-            td = soup.new_tag("td")
-            td.string = str(col)
-            tr.append(td)
+    for col in FIELDS:
+        td = soup.new_tag("td")
+        td.string = str(col)
+        tr.append(td)
 
     # add actions
     for index, row in df.iterrows():
@@ -109,6 +120,7 @@ def _df_to_md_table(df: pd.DataFrame, table_id: str) -> MarkdownTable:
                 td = soup.new_tag("td")
                 td["data-column"] = col
                 td.string = str(row[col])
+                td = _decode_df_to_md_fields(td, col, str(row[col]))
                 tr.append(td)
 
     return soup.prettify()
