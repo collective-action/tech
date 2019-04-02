@@ -2,6 +2,7 @@ import os
 import io
 import re
 import json
+import html
 import pandas as pd
 from pathlib import Path
 from bs4 import BeautifulSoup
@@ -12,13 +13,13 @@ PROJECT_NAME = "collective-actions-in-tech"
 HEADER_ROW_ID = "header"
 FIELDS = [
     "date",
+    "source",
     "company",
     "action",
     "employment_type",
     "union_affiliation",
     "worker_count",
     "struggle_type",
-    "source",
 ]
 MD_PATH = os.path.realpath(
     os.path.join(os.path.dirname(os.path.abspath(__file__)), os.pardir, "README.md")
@@ -74,7 +75,7 @@ def _md_table_to_df(table: MarkdownTable) -> pd.DataFrame:
                 action[_serialize_meta_field(key)] = val
             for td in tds:
                 key = td["data-column"]
-                val = td.string.strip()
+                val = "".join(html.unescape(str(e)) for e in td.contents).strip()
                 action[key] = val
         if action:
             actions.append(action)
@@ -207,7 +208,7 @@ def _sort_df(df: pd.DataFrame) -> pd.DataFrame:
     """
     if "date" not in df.columns:
         raise DateColumnNotFound
-    df["date"] = pd.to_datetime(df["date"])
+    df["date"] = pd.to_datetime(df["date"], unit='D')
     df.sort_values(by=["date"], inplace=True)
     df.reset_index(drop=True, inplace=True)
     return df

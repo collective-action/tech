@@ -52,8 +52,8 @@ row to the table.
         FTE
     </td>
     <td data-column="source">
-        [cnn.com](http://www.cnn.com/full/path/to/article),
-        [bbc.com](http://www.bbc.com/full/path/tp/article)
+        [CNN](http://www.cnn.com/full/path/to/article),
+        [BBC](http://www.bbc.com/full/path/tp/article)
     </td>
     <td data-column="struggle_type">
         Wages, Health benefits
