@@ -7,10 +7,19 @@ from pathlib import Path
 from bs4 import BeautifulSoup
 from IPython.display import Markdown, display
 
-TOTAL_COLUMNS = 8
 META_FIELD_PATTERN = "[meta]"
 PROJECT_NAME = "collective-actions-in-tech"
 HEADER_ROW_ID = "header"
+FIELDS = [
+    "date",
+    "company",
+    "action",
+    "employment_type",
+    "union_affiliation",
+    "worker_count",
+    "struggle_type",
+    "source",
+]
 MD_PATH = os.path.realpath(
     os.path.join(os.path.dirname(os.path.abspath(__file__)), os.pardir, "README.md")
 )
@@ -51,7 +60,7 @@ def _deserialize_meta_field(key: str) -> str:
 
 def _md_table_to_df(table: MarkdownTable) -> pd.DataFrame:
     """ Converts a markdown table to a DataFrame. """
-    assert _is_valid_table(table)
+    assert _is_valid_md_table(table)
     actions = []
     soup = BeautifulSoup(table, "html.parser")
     trs = soup.table.find_all("tr")
@@ -69,7 +78,8 @@ def _md_table_to_df(table: MarkdownTable) -> pd.DataFrame:
                 action[key] = val
         if action:
             actions.append(action)
-    return pd.read_json(json.dumps(actions), orient="list")
+    df = pd.read_json(json.dumps(actions), orient="list")
+    return df[FIELDS]
 
 
 def _df_to_md_table(df: pd.DataFrame, table_id: str) -> MarkdownTable:
@@ -133,25 +143,34 @@ def _get_table_from_md_document(table_id: str, doc: MarkdownDocument) -> Markdow
     assert len(tables) == 1
     table = tables[0]
     table = _clean_md_table(table)
-    if not _is_valid_table(table):
+    if not _is_valid_md_table(table):
         raise TableIsMalformed
     return table
 
 
-def _is_valid_table(table: MarkdownTable) -> bool:
+def _is_valid_md_table(table: MarkdownTable) -> bool:
     """ Checks if markdown table is malformed.
 
     Checks:
-    - the number of td elements inside each tr element equals TOTAL_COLUMNS
+    - the number of td elements inside each tr element equals len(FIELDS)
     """
     assert table.startswith("<table")
     assert table.endswith("</table>")
     soup = BeautifulSoup(table, "html.parser")
     trs = soup.table.find_all("tr")
-    for tr in trs:
+    for i, tr in enumerate(trs):
         tds = tr.find_all("td")
-        if len(tds) != TOTAL_COLUMNS:
+        if len(tds) != len(FIELDS):
             return False
+        if i == 0:
+            if "id" not in tr.attrs:
+                return False
+            if "id" in tr.attrs and tr.attrs["id"] != HEADER_ROW_ID:
+                return False
+        else:
+            for td in tds:
+                if td.attrs["data-column"] not in FIELDS:
+                    return False
     return True
 
 
@@ -165,7 +184,7 @@ def _replace_md_table(
     doc: MarkdownDocument, table_id: str, table: MarkdownTable
 ) -> MarkdownDocument:
     """ Replace the table in {doc} with {table}. """
-    assert _is_valid_table(table)
+    assert _is_valid_md_table(table)
     new_table = BeautifulSoup(table, "html.parser")
     soup = BeautifulSoup(doc, "html.parser")
     table = soup.find("table", id=table_id)
