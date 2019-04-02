@@ -5,6 +5,7 @@ This repository documents all collective actions from tech workers in the United
 This repository of collective action in tech is meant to be a live document. Feel free to submit PRs or fork the repository. See our [contribution guidelines](.CONTRIBUTING.md).
 
 ---
+
 <table id="collective-actions-in-tech">
  <tr id="header">
   <td>
@@ -20,7 +21,7 @@ This repository of collective action in tech is meant to be a live document. Fee
    action
   </td>
   <td>
-   employment_type
+   company
   </td>
   <td>
    union_affiliation
@@ -42,6 +43,11 @@ This repository of collective action in tech is meant to be a live document. Fee
    </a>
    <a href="https://en.wikipedia.org/wiki/Never_Again_pledge">
     Wikipedia
+   </a>
+  </td>
+  <td data-column="source">
+   <a href="https://neveragain.tech/">
+    Neveragain.tech
    </a>
   </td>
   <td data-column="company">
@@ -72,6 +78,11 @@ This repository of collective action in tech is meant to be a live document. Fee
     Tech Crunch
    </a>
   </td>
+  <td data-column="source">
+   <a href="https://techcrunch.com/2017/01/18/tech-employees-protest-in-front-of-palantir-hq-over-fears-it-will-build-trumps-muslim-registry/">
+    Tech Crunch
+   </a>
+  </td>
   <td data-column="company">
    Palantir
   </td>
@@ -94,6 +105,11 @@ This repository of collective action in tech is meant to be a live document. Fee
  <tr>
   <td data-column="date">
    2017-07-24
+  </td>
+  <td data-column="source">
+   <a href="http://unitehere.org/press-releases/cafeteria-workers-at-facebook-unionize-continuing-movement-for-a-more-inclusive-silicon-valley/">
+    Unite Here
+   </a>
   </td>
   <td data-column="source">
    <a href="http://unitehere.org/press-releases/cafeteria-workers-at-facebook-unionize-continuing-movement-for-a-more-inclusive-silicon-valley/">
