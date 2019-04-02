@@ -1,28 +1,15 @@
 # Collective Actions in Tech
 
-This repository documents all collective actions from tech workers in the United States starting from 2016. The goal of Collective Action in Tech is to give us, tech workers, more insight on trends in worker power in the tech industry. 
-
-In pursuing this as a public repository, I recognize that this data can be a double-edged sword. Tech workers will have access to the data, but so will our bosses and upper management at the companies we work at. That said, management is organized and are likely already working to identify trends in their worker's efforts to organize and to collaborate with politicians and laywers to suppress such efforts. We too need be organized too. We too need to use the data.
+This repository documents all collective actions from tech workers in the United States starting from 2016. The goal of Collective Action in Tech is to give us, tech workers, more insight on trends in worker power in the tech industry. All actions by tech workers should be documented in this repository. 
 
 This repository of collective action in tech is meant to be a live document. Feel free to submit PRs or fork the repository. See our [contribution guidelines](.CONTRIBUTING.md).
-
-## Scope
-
-This respository is scoped to document all collective actions from tech workers. 
-
-__Tech worker__
-  - A tech worker is a worker whose income is paid for either directly or indirectly from a tech company.
-  
-__Collective action__
-  - Any kind of concerted activity by workers.
-  
-For the data to be useful, we'll want to make sure we're collecting enough data with relevant fields on each moment of collective action. See the [contribution guidelines](.CONTRIBUTING.md) for details on the data fields.
-
-### List of Actions
 <table id="collective-actions-in-tech">
  <tr id="header">
   <td>
    date
+  </td>
+  <td>
+   source
   </td>
   <td>
    company
@@ -42,13 +29,15 @@ For the data to be useful, we'll want to make sure we're collecting enough data 
   <td>
    struggle_type
   </td>
-  <td>
-   source
-  </td>
  </tr>
  <tr>
   <td data-column="date">
    2016-12-13 00:00:00
+  </td>
+  <td data-column="source">
+   &lt;a href="https://neveragain.tech/"&gt;
+    Neveragain.tech
+   &lt;/a&gt;
   </td>
   <td data-column="company">
    None
@@ -68,13 +57,15 @@ For the data to be useful, we'll want to make sure we're collecting enough data 
   <td data-column="struggle_type">
    Ethics
   </td>
-  <td data-column="source">
-   https://neveragain.tech/
-  </td>
  </tr>
  <tr>
   <td data-column="date">
    2017-01-18 00:00:00
+  </td>
+  <td data-column="source">
+   &lt;a href="https://techcrunch.com/2017/01/18/tech-employees-protest-in-front-of-palantir-hq-over-fears-it-will-build-trumps-muslim-registry/"&gt;
+    Tech Crunch
+   &lt;/a&gt;
   </td>
   <td data-column="company">
    Palantir
@@ -94,13 +85,15 @@ For the data to be useful, we'll want to make sure we're collecting enough data 
   <td data-column="struggle_type">
    Ethics
   </td>
-  <td data-column="source">
-   https://techcrunch.com/2017/01/18/tech-employees-protest-in-front-of-palantir-hq-over-fears-it-will-build-trumps-muslim-registry/
-  </td>
  </tr>
  <tr>
   <td data-column="date">
    2017-07-24 00:00:00
+  </td>
+  <td data-column="source">
+   &lt;a href="http://unitehere.org/press-releases/cafeteria-workers-at-facebook-unionize-continuing-movement-for-a-more-inclusive-silicon-valley/"&gt;
+    Unite Here
+   &lt;/a&gt;
   </td>
   <td data-column="company">
    Facebook
@@ -119,9 +112,6 @@ For the data to be useful, we'll want to make sure we're collecting enough data 
   </td>
   <td data-column="struggle_type">
    Wages, Health benefits
-  </td>
-  <td data-column="source">
-   http://unitehere.org/press-releases/cafeteria-workers-at-facebook-unionize-continuing-movement-for-a-more-inclusive-silicon-valley/
   </td>
  </tr>
 </table>
