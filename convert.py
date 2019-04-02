@@ -20,7 +20,15 @@ def _get_parser():
         - export the table in the passed in markdown file to a csv
 		"""
         ),
-        # epilog=HELP_MSG,
+        epilog=textwrap.dedent(
+            """
+        # Convert to CSV file
+        $ python convert.py --to-csv --output data.csv
+
+        # Clean up the table in the README file
+        $ python convert.py --clean-up
+        """
+        ),
         formatter_class=argparse.RawDescriptionHelpFormatter,
     )
     parser.add_argument(
