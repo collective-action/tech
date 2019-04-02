@@ -33,7 +33,7 @@ This repository of collective action in tech is meant to be a live document. Fee
    struggle_type
   </td>
  </tr>
- <tr>
+ <tr data-author="organizejs">
   <td data-column="date">
    2016-12-13
   </td>
@@ -64,7 +64,7 @@ This repository of collective action in tech is meant to be a live document. Fee
    Ethics
   </td>
  </tr>
- <tr>
+ <tr data-author="organizejs">
   <td data-column="date">
    2017-01-18
   </td>
@@ -92,7 +92,7 @@ This repository of collective action in tech is meant to be a live document. Fee
    Ethics
   </td>
  </tr>
- <tr>
+ <tr data-author="organizejs">
   <td data-column="date">
    2017-07-24
   </td>
