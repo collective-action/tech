@@ -60,13 +60,13 @@ def _deserialize_meta_field(key: str) -> str:
     return key[len(META_FIELD_PATTERN) :]
 
 
-def _decode_df_to_md_fields(td: bs4.element.Tag, col:str, val:str) -> bs4.element.Tag:
+def _decode_df_to_md_fields(td: bs4.element.Tag, col: str, val: str) -> bs4.element.Tag:
     """ Converts df fields to bs4 Tag / html format format. """
     td.string = val
     if col == "source":
-        td = BeautifulSoup(html.unescape(str(td)), 'html.parser')
+        td = BeautifulSoup(html.unescape(str(td)), "html.parser")
     elif col == "date":
-        td.string = str(datetime.strptime(td.string, '%Y-%m-%d %H:%M:%S').date())
+        td.string = str(datetime.strptime(td.string, "%Y-%m-%d %H:%M:%S").date())
     return td
 
 
@@ -81,7 +81,7 @@ def _md_data_to_df(md_data: MarkdownData) -> pd.DataFrame:
 
         # add table attributes
         for key, val in table.attrs.items():
-            if key != 'class':
+            if key != "class":
                 action[_serialize_meta_field(key)] = val
 
         # add each tr in the table
@@ -118,8 +118,8 @@ def _df_to_md_data(df: pd.DataFrame, project_id: str) -> MarkdownData:
                 table[_deserialize_meta_field(col)] = row[col]
             else:
                 tr = soup.new_tag("tr")
-                td_key = soup.new_tag("td", attrs={"class" : "field-key"})
-                td_val = soup.new_tag("td", attrs={"class" : "field-value"})
+                td_key = soup.new_tag("td", attrs={"class": "field-key"})
+                td_val = soup.new_tag("td", attrs={"class": "field-value"})
                 td_key.string = col
                 td_val = _decode_df_to_md_fields(td_val, col, str(row[col]))
                 if row[col]:
@@ -140,7 +140,7 @@ def _get_data_from_md_document(project_id: str, doc: MarkdownDocument) -> Markdo
     an error.
 
     Args:
-        table_id: the id of the table
+        project_id: the id to look for
         doc: the markdown document to parse
 
     Raise:
@@ -173,6 +173,9 @@ def _is_valid_md_data(md_data: MarkdownData) -> bool:
     Checks:
     - the number of td elements inside each tr element equals or is less than len(FIELDS)
     - fields are correctly labeled
+
+    Args:
+        md_data: the markdown data div
     """
     assert md_data.startswith("<div")
     assert md_data.endswith("</div>")
@@ -189,16 +192,10 @@ def _is_valid_md_data(md_data: MarkdownData) -> bool:
     return True
 
 
-def _clean_md_data(md_data: MarkdownData) -> MarkdownData:
-    """ Cleans up the markdown table. """
-    soup = BeautifulSoup(md_data, "html.parser")
-    return soup.prettify()
-
-
 def _replace_md_data(
     doc: MarkdownDocument, project_id: str, md_data: MarkdownData
 ) -> MarkdownDocument:
-    """ Replace the table in {doc} with {table}. """
+    """ Replace the table in {doc} with {md_data}. """
     assert _is_valid_md_data(md_data)
     new_md_data = BeautifulSoup(md_data, "html.parser")
     soup = BeautifulSoup(doc, "html.parser")
@@ -215,30 +212,32 @@ def _sort_df(df: pd.DataFrame) -> pd.DataFrame:
     Date is not used as index as multiple actions may happen on one date.
 
     Args:
-        df (pd.DataFrame): The dataframe to sort
+        df: The dataframe to sort
 
     Returns:
-        pd.Dataframe: the sorted Dataframe
+        The sorted Dataframe
     """
     if "date" not in df.columns:
         raise DateColumnNotFound
-    df["date"] = pd.to_datetime(df["date"], unit='D')
+    df["date"] = pd.to_datetime(df["date"], unit="D")
     df.sort_values(by=["date"], ascending=False, inplace=True)
     df.reset_index(drop=True, inplace=True)
     return df
 
 
-def save_md_data_to_csv(input_fp: Path, project_id: str, output_fp: Path):
+def save_md_data_to_csv(
+    input_fp: Path, output_fp: Path, project_id: str = PROJECT_NAME
+) -> None:
     """ Saves table in markdown document as csv.
 
-    Saves a cleaned-up version of the table found in the passed in markdown
+    Saves a cleaned-up version of the markdown data found in the passed in markdown
     file as a csv.
 
     Args:
-        input_fp (Path): input file path
-        table_id (str): the id of the element to search for when finding the
-        table
-        output_fp (Path): the output file path
+        input_fp: input file path
+        project_id: the id of the element to search for when finding the
+        markdown data
+        output_fp: the output file path
     """
     md_document = input_fp.read_text()
     data = _get_data_from_md_document(project_id, md_document)
@@ -247,34 +246,36 @@ def save_md_data_to_csv(input_fp: Path, project_id: str, output_fp: Path):
     df.to_csv(output_fp)
 
 
-def get_df_from_md_document(input_fp: Path, table_id: str) -> pd.DataFrame:
+def get_df_from_md_document(
+    input_fp: Path, project_id: str = PROJECT_NAME
+) -> pd.DataFrame:
     """ Gets df from table in markdown document.
 
-    Returns a cleaned-up version of the table found in the passed in markdown
+    Returns a cleaned-up version of the markdown data found in the passed in markdown
     file as a dataframe.
 
     Args:
-        input_fp (Path): input file path
-        table_id (str): the id of the element to search for when finding the
-        table
+        input_fp: input file path
+        project_id: the id of the element to search for when finding the
+        markdown data
     """
     md_document = input_fp.read_text()
-    table = _get_table_from_md_document(table_id, md_document)
-    df = _md_data_to_df(table)
+    data = _get_data_from_md_document(project_id, md_document)
+    df = _md_data_to_df(data)
     df = _sort_df(df)
     return df
 
 
-def clean_md_document(input_fp: Path, project_id: str):
+def clean_md_document(input_fp: Path, project_id: str = PROJECT_NAME) -> None:
     """ Cleans the table from the markdown document.
 
-    Replaces the table in the passed in markdown file with a cleaned-up version
-    of the table.
+    Replaces the markdown data in the passed in markdown file with a cleaned-up version
+    of the data.
 
     Args:
-        input_fp (Path): input file path
-        table_id (str): the id of the element to search for when finding the
-        table
+        input_fp: input file path
+        project_id: the id of the element to search for when finding the
+        markdown data
     """
     md_document = input_fp.read_text()
     data = _get_data_from_md_document(project_id, md_document)

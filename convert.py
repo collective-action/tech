@@ -49,6 +49,6 @@ def _get_parser():
 if __name__ == "__main__":
     args = _get_parser()
     if args.clean_doc:
-        clean_md_document(Path(MD_PATH), PROJECT_NAME)
+        clean_md_document(Path(MD_PATH))
     if args.to_csv:
-        save_md_data_to_csv(Path(MD_PATH), PROJECT_NAME, Path(args.output))
+        save_md_data_to_csv(Path(MD_PATH), Path(args.output))
