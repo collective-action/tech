@@ -51,17 +51,17 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
 </details>
 
 #### Summary
-<div id="collective-actions-in-tech-summary">
+<div id="summary">
  <table>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">20</td>
+    <td data-summary="action-count">11</td>
   </tr>
  </table>
 </div>
 
 #### Actions
-<div id="collective-actions-in-tech">
+<div id="actions">
  <table data-author="organizejs">
   <tr>
    <td class="field-key">
@@ -118,7 +118,7 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
     description
    </td>
    <td class="field-value">
-    More than 900 Google workers have signed a letter objecting to the tech giant's treatment of temporary contractors, in what organizers are calling a “historical coalition” between Google’s full-time employees (FTEs) and temps, vendors and contractors (TVCs).
+    More than 900 Google workers have signed a letter objecting to the tech giant's treatment of temporary contractors, in what organizers are calling a "historical coalition" between Google"s full-time employees (FTEs) and temps, vendors and contractors (TVCs).
    </td>
   </tr>
  </table>

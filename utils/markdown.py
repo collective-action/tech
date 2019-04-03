@@ -5,13 +5,15 @@ import json
 import html
 import pandas as pd
 import bs4
+from copy import copy
 from datetime import datetime
 from pathlib import Path
 from bs4 import BeautifulSoup
 from IPython.display import Markdown, display
 
 META_FIELD_PATTERN = "[meta]"
-PROJECT_NAME = "collective-actions-in-tech"
+ACTIONS_ID = "actions"
+SUMMARY_ID = "summary"
 HEADER_ROW_ID = "header"
 FIELDS = [
     "date",
@@ -40,6 +42,10 @@ class DateColumnNotFound(Exception):
 
 
 class MarkdownDataNotFound(Exception):
+    pass
+
+
+class SummaryDataNotFound(Exception):
     pass
 
 
@@ -104,9 +110,9 @@ def _md_data_to_df(md_data: MarkdownData) -> pd.DataFrame:
     return df[col_order]
 
 
-def _df_to_md_data(df: pd.DataFrame, project_id: str) -> MarkdownData:
+def _df_to_md_data(df: pd.DataFrame, actions_id: str) -> MarkdownData:
     """ Converts a DataFrame to a markdown data. """
-    soup = BeautifulSoup(f"<div id={project_id}></div>", "html.parser")
+    soup = BeautifulSoup(f"<div id={actions_id}></div>", "html.parser")
     cols = df.columns
 
     for index, row in df.iterrows():
@@ -129,7 +135,7 @@ def _df_to_md_data(df: pd.DataFrame, project_id: str) -> MarkdownData:
     return soup.prettify()
 
 
-def _get_data_from_md_document(project_id: str, doc: MarkdownDocument) -> MarkdownData:
+def _get_data_from_md_document(actions_id: str, doc: MarkdownDocument) -> MarkdownData:
     """ Extract table from a markdown document.
 
     This function will not extract any table from the document. Instead, it looks specifically for a
@@ -139,7 +145,7 @@ def _get_data_from_md_document(project_id: str, doc: MarkdownDocument) -> Markdo
     an error.
 
     Args:
-        project_id: the id to look for
+        actions_id: the id to look for
         doc: the markdown document to parse
 
     Raise:
@@ -150,7 +156,7 @@ def _get_data_from_md_document(project_id: str, doc: MarkdownDocument) -> Markdo
     Returns:
         The parsed Markdown table
     """
-    md_data = re.findall(fr'<div id="{project_id}">+[\s\S]+<\/div>', doc)
+    md_data = re.findall(fr'<div id="{actions_id}">+[\s\S]+<\/div>', doc)
 
     if not md_data:
         raise MarkdownDataNotFound
@@ -192,12 +198,27 @@ def _is_valid_md_data(md_data: MarkdownData) -> bool:
 
 
 def _replace_md_data(
-    doc: MarkdownDocument, project_id: str, md_data: MarkdownData
+    doc: MarkdownDocument, actions_id: str, md_data: MarkdownData
 ) -> MarkdownDocument:
-    """ Replace the table in {doc} with {md_data}. """
+    """ Replace the table in {doc} with {md_data}. 
+
+    Replace the old markdown data with new md data that is passed into this function.
+
+    Args:
+        doc: The markdown document to modify
+        actions_id: The id of the md data div to look for
+        md_data: The markdown data to replace the old one with
+
+    Raises:
+        MarkdownDataNotFound: if no such table is found
+        MultipleMarkdownDataFound: if multiple tables are found
+
+    Return:
+        Updated markdown document
+    """
     assert _is_valid_md_data(md_data)
     new_md_data = BeautifulSoup(md_data, "html.parser")
-    old_md_data = re.findall(fr'<div id="{project_id}">+[\s\S]+<\/div>', doc)
+    old_md_data = re.findall(fr'<div id="{actions_id}">+[\s\S]+<\/div>', doc)
     if not old_md_data:
         raise MarkdownDataNotFound
     if len(old_md_data) > 1:
@@ -230,8 +251,22 @@ def _sort_df(df: pd.DataFrame) -> pd.DataFrame:
     return df
 
 
+def _update_summary_action(doc: MarkdownDocument, summary_id: str, summary_field: str, summary_value: str) -> MarkdownDocument:
+    """ Update the total actions field in the markdown document. """
+    soup = BeautifulSoup(doc, 'html.parser')
+    div = soup.find("div", id=summary_id)
+    if not div:
+        raise SummaryDataNotFound("<div> is missing")
+    td = div.table.tr.find("td", {"data-summary": summary_field})
+    if not td:
+        raise SummaryDataNotFound("<td> is missing")
+    td_new = copy(td)
+    td_new.string = summary_value
+    return doc.replace(str(td), str(td_new))
+
+
 def save_md_data_to_csv(
-    input_fp: Path, output_fp: Path, project_id: str = PROJECT_NAME
+    input_fp: Path, output_fp: Path, actions_id: str = ACTIONS_ID
 ) -> None:
     """ Saves table in markdown document as csv.
 
@@ -240,19 +275,19 @@ def save_md_data_to_csv(
 
     Args:
         input_fp: input file path
-        project_id: the id of the element to search for when finding the
+        actions_id: the id of the element to search for when finding the
         markdown data
         output_fp: the output file path
     """
     md_document = input_fp.read_text()
-    data = _get_data_from_md_document(project_id, md_document)
+    data = _get_data_from_md_document(actions_id, md_document)
     df = _md_data_to_df(data)
     df = _sort_df(df)
     df.to_csv(output_fp)
 
 
 def get_df_from_md_document(
-    input_fp: Path, project_id: str = PROJECT_NAME
+    input_fp: Path, actions_id: str = ACTIONS_ID
 ) -> pd.DataFrame:
     """ Gets df from table in markdown document.
 
@@ -261,17 +296,17 @@ def get_df_from_md_document(
 
     Args:
         input_fp: input file path
-        project_id: the id of the element to search for when finding the
+        actions_id: the id of the element to search for when finding the
         markdown data
     """
     md_document = input_fp.read_text()
-    data = _get_data_from_md_document(project_id, md_document)
+    data = _get_data_from_md_document(actions_id, md_document)
     df = _md_data_to_df(data)
     df = _sort_df(df)
     return df
 
 
-def clean_md_document(input_fp: Path, project_id: str = PROJECT_NAME) -> None:
+def clean_md_document(input_fp: Path, actions_id: str = ACTIONS_ID, summary_id: str = SUMMARY_ID) -> None:
     """ Cleans the table from the markdown document.
 
     Replaces the markdown data in the passed in markdown file with a cleaned-up version
@@ -279,13 +314,14 @@ def clean_md_document(input_fp: Path, project_id: str = PROJECT_NAME) -> None:
 
     Args:
         input_fp: input file path
-        project_id: the id of the element to search for when finding the
+        actions_id: the id of the element to search for when finding the
         markdown data
     """
     md_document = input_fp.read_text()
-    data = _get_data_from_md_document(project_id, md_document)
+    data = _get_data_from_md_document(actions_id, md_document)
     df = _md_data_to_df(data)
     df = _sort_df(df)
-    md_data = _df_to_md_data(df, project_id)
-    updated_md_document = _replace_md_data(md_document, project_id, md_data)
+    md_data = _df_to_md_data(df, actions_id)
+    updated_md_document = _replace_md_data(md_document, actions_id, md_data)
+    updated_md_document = _update_summary_action(md_document, summary_id, "action-count", str(len(df)))
     input_fp.write_text(updated_md_document)

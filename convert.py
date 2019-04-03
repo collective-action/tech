@@ -6,8 +6,7 @@ from utils.markdown import (
     get_df_from_md_document,
     clean_md_document,
     save_md_data_to_csv,
-    MD_PATH,
-    PROJECT_NAME,
+    MD_PATH
 )
 
 
