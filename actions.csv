@@ -1,18 +1,15 @@
 ,date,source,company,action,employment_type,union_affiliation,worker_count,description,notes,[meta]data-author
-0,2019-10-04,"<a href=""https://www.bbc.com/news/business-45734662"">
-     BBC
-    </a>",Uber,Strike,Independent Contractors,"Independent Workers Union of Great Britain (IWGB), Industrial Workers of the World (IWW)",50,"UberEats riders and a small number of workers from JD Wetherspoon, McDonald's and TGI Fridays have been staging walkouts in a pay dispute. Protests were being held in several UK cities, along with a rally in London.",Not just tech workers (the uber drivers). Part of a broader worldwide strike action by fast-food workers.,organizejs
-1,2019-04-02,"<a href=""https://www.theguardian.com/technology/2019/apr/02/google-workers-sign-letter-temp-contractors-protest"">
+0,2019-04-02,"<a href=""https://www.theguardian.com/technology/2019/apr/02/google-workers-sign-letter-temp-contractors-protest"">
      The Guardian
     </a>",Google,Petition,"FTE, contractors",,900+,"More than 900 Google workers have signed a letter objecting to the tech giant's treatment of temporary contractors, in what organizers are calling a ""historical coalition"" between Google""s full-time employees (FTEs) and temps, vendors and contractors (TVCs).",,organizejs
-2,2019-04-01,"<a href=""https://www.theguardian.com/technology/2019/apr/01/google-kay-coles-james-removal-employees-letter"">
+1,2019-04-01,"<a href=""https://www.theguardian.com/technology/2019/apr/01/google-kay-coles-james-removal-employees-letter"">
      The Guardian
     </a>
     ,
     <a href=""https://medium.com/@against.transphobia/googlers-against-transphobia-and-hate-b1b0a5dbf76"">
      Medium
     </a>",Google,Petition,"FTE, contractors",,2000+,"A group of Google employees have called for the removal of a rightwing thinktank leader from the company's new artificial intelligence council, citing her anti-LGBT and anti-immigrant record. Academic, civil society, and industry supporters have also signed the petition in mass.",,organizejs
-3,2019-03-28,"<a href=""https://github.com/996icu/996.ICU/"">
+2,2019-03-28,"<a href=""https://github.com/996icu/996.ICU/"">
      Github
     </a>
     ,
@@ -23,49 +20,52 @@
     <a href=""https://www.ft.com/content/72754638-55d1-11e9-91f9-b6515a54c5b1"">
      FT
     </a>",,Petition,,,+165000,"A campaign against long working hours by professionals in China's technology sector has become one of the fastest growing Github repository in Github's history. The ""anti-996"" campaign opposes employees working shifts of 9am-9pm, six days a week, which are commonly required by the country's tech giants.",,organizejs
-4,2019-03-25,"<a href=""https://www.vox.com/2019/3/25/18280718/uber-lyft-drivers-strike-la-los-angeles"">
+3,2019-03-25,"<a href=""https://www.vox.com/2019/3/25/18280718/uber-lyft-drivers-strike-la-los-angeles"">
      Vox
     </a>","Uber, Lyft",Strike,Independent Contractors,,100+,Uber and Lyft drivers in Los Angeles are refusing to pick up customers today — part of a one-day strike to protest Uber's recent decision to slash pay rates for drivers in the area.,,organizejs
-5,2019-03-19,"<a href=""https://www.theverge.com/2019/3/19/18254995/kickstarter-unionizing-union-representation-inclusivity-transparency-tech-us-crowdfunding"">
+4,2019-03-19,"<a href=""https://www.theverge.com/2019/3/19/18254995/kickstarter-unionizing-union-representation-inclusivity-transparency-tech-us-crowdfunding"">
      The Verge
     </a>",Kickstarter,Intent to Unionize,FTE,Office and Professional Employees International Union,,"Employees at Brooklyn's crowdfunding giant Kickstarter are forming a labor union called Kickstarter United, which will aim to secure more rights for the company's workers. If recognized by the company, Kickstarter would become the first major tech company in the US to have union representation.",,organizejs
-6,2019-02-22,"<a href=""https://slate.com/technology/2019/02/microsoft-workers-protest-hololens-pentagon-contract.html"">
+5,2019-02-22,"<a href=""https://slate.com/technology/2019/02/microsoft-workers-protest-hololens-pentagon-contract.html"">
      Slate
     </a>
     ,
     <a href=""https://www.buzzfeednews.com/article/carolineodonovan/microsoft-hololens-army"">
      Buzzfeed
     </a>",Microsoft,Petition,FTE,,290,"Microsoft employees circulated a letter among the company’s over 130,000-person staff demanding that executives cancel a $479 million contract with the US Army, IVAS, that will provide weapans technology to the U.S. Military to 'increase lethality' to amry soldiers. ""We did not sign up to develop weapons, and we demand a say in how our work is used.""",,organizejs
-7,2018-12-14,"<a href=""http://www.startribune.com/workers-protest-conditions-at-amazon-s-shakopee-center/502829882/"">
+6,2018-12-14,"<a href=""http://www.startribune.com/workers-protest-conditions-at-amazon-s-shakopee-center/502829882/"">
      Star Tribune
     </a>
 <a href=""https://www.seattletimes.com/business/somali-workers-in-minnesota-force-amazon-to-negotiate/"">
      Seattle Times
     </a>",Amazon,Protest,Contractors,,100,"Amid chants of ""Hear our voice,"" a group of about 100 Somali-American workers and their supporters marched to the entrance of Amazon""s Shakopee fulfillment center Friday evening to protestunfair working conditions.",,organizejs
-8,2018-11-27,"<a href=""https://medium.com/@googlersagainstdragonfly/we-are-google-employees-google-must-drop-dragonfly-4c8a30c5e5eb"">
+7,2018-11-27,"<a href=""https://medium.com/@googlersagainstdragonfly/we-are-google-employees-google-must-drop-dragonfly-4c8a30c5e5eb"">
      Medium
     </a>
     ,
     <a href=""https://slate.com/technology/2018/11/google-employees-sign-petition-to-end-project-dragonfly.html"">
      Slate
     </a>",Google,Petition,FTE,,740,"Google employees have signed an open letter published Tuesday on Medium demanding that the company cease work on Project Dragonfly, which is aimed at creating a search engine that the Chinese government would be able to control to censor certain results and surveil users. ""International human rights organizations and investigative reporters have also sounded the alarm, emphasizing serious human rights concerns and repeatedly calling on Google to cancel the project,"" the letter reads in part. ""So far, our leadership's response has been unsatisfactory.""",,organizejs
-9,2018-11-14,"<a href=""https://www.vox.com/the-goods/2018/11/15/18096181/long-island-city-amazon-hq2-protest"">
+8,2018-11-14,"<a href=""https://www.vox.com/the-goods/2018/11/15/18096181/long-island-city-amazon-hq2-protest"">
      Vox
     </a>",Amazon,Protest,,,100,"On November 14, one day after Amazon formally announced its plan to open half of its so-called ""second headquarters"" in New York City, nearly 100 politicians, union organizers, and community members gathered in a Long Island City park to protest the company's impending expansion.",Not worker centric.,organizejs
-10,2018-11-01,"<a href=""https://www.nytimes.com/2018/11/01/technology/google-walkout-sexual-harassment.html"">
+9,2018-11-01,"<a href=""https://www.nytimes.com/2018/11/01/technology/google-walkout-sexual-harassment.html"">
      NYTimes
     </a>
     ,
     <a href=""https://www.recode.net/2018/11/21/18105719/google-walkout-real-change-organizers-protest-discrimination-kara-swisher-recode-decode-podcast"">
      Recode
     </a>",Google,Walkout,"FTE, contractors",,20000+,"Google employees and contractors walked out of the company's offices around the world, one week after the New York Times reported that Google had protected three executives accused of sexual misconduct.",,organizejs
-11,2018-10-09,"<a href=""https://www.theguardian.com/technology/2018/oct/09/uber-uk-strike-users-urged-not-to-cross-digital-picket-line"">
+10,2018-10-09,"<a href=""https://www.theguardian.com/technology/2018/oct/09/uber-uk-strike-users-urged-not-to-cross-digital-picket-line"">
      The Guardian
     </a>
     ,
     <a href=""https://www.bbc.com/news/business-45796409"">
      BBC
     </a>",Uber,Strike,Independent Contractors,"The United Private Hire Drivers (UPHD), Independent Workers Union of Great Britain (IWGB)",100+,"""Hundreds"" of drivers are expected to switch off their apps from 1pm, making themselves unavailable for work, union organisers said. Protests are also being held outside the ride-hailing app's offices in London, Nottingham and Birmingham.",,organizejs
+11,2018-10-04,"<a href=""https://www.bbc.com/news/business-45734662"">
+     BBC
+    </a>",Uber,Strike,Independent Contractors,"Independent Workers Union of Great Britain (IWGB), Industrial Workers of the World (IWW)",50,"UberEats riders and a small number of workers from JD Wetherspoon, McDonald's and TGI Fridays have been staging walkouts in a pay dispute. Protests were being held in several UK cities, along with a rally in London.",Not just tech workers (the uber drivers). Part of a broader worldwide strike action by fast-food workers.,organizejs
 12,2018-07-31,"<a href=""https://www.buzzfeednews.com/article/carolineodonovan/palantir-ice-contract-protest"">
      Buzzfeed
     </a>

@@ -75,82 +75,6 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
     date
    </td>
    <td class="field-value">
-    2019-10-04
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    source
-   </td>
-   <td class="field-value">
-    <a href="https://www.bbc.com/news/business-45734662">
-     BBC
-    </a>
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    company
-   </td>
-   <td class="field-value">
-    Uber
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    action
-   </td>
-   <td class="field-value">
-    Strike
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    employment_type
-   </td>
-   <td class="field-value">
-    Independent Contractors
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    union_affiliation
-   </td>
-   <td class="field-value">
-    Independent Workers Union of Great Britain (IWGB), Industrial Workers of the World (IWW)
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    worker_count
-   </td>
-   <td class="field-value">
-    50
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    description
-   </td>
-   <td class="field-value">
-    UberEats riders and a small number of workers from JD Wetherspoon, McDonald's and TGI Fridays have been staging walkouts in a pay dispute. Protests were being held in several UK cities, along with a rally in London.
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    notes
-   </td>
-   <td class="field-value">
-    Not just tech workers (the uber drivers). Part of a broader worldwide strike action by fast-food workers.
-   </td>
-  </tr>
- </table>
- <table data-author="organizejs">
-  <tr>
-   <td class="field-key">
-    date
-   </td>
-   <td class="field-value">
     2019-04-02
    </td>
   </tr>
@@ -825,6 +749,82 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
    </td>
    <td class="field-value">
     "Hundreds" of drivers are expected to switch off their apps from 1pm, making themselves unavailable for work, union organisers said. Protests are also being held outside the ride-hailing app's offices in London, Nottingham and Birmingham.
+   </td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
+    2018-10-04
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    source
+   </td>
+   <td class="field-value">
+    <a href="https://www.bbc.com/news/business-45734662">
+     BBC
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    company
+   </td>
+   <td class="field-value">
+    Uber
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    Strike
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    employment_type
+   </td>
+   <td class="field-value">
+    Independent Contractors
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    union_affiliation
+   </td>
+   <td class="field-value">
+    Independent Workers Union of Great Britain (IWGB), Industrial Workers of the World (IWW)
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    worker_count
+   </td>
+   <td class="field-value">
+    50
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    UberEats riders and a small number of workers from JD Wetherspoon, McDonald's and TGI Fridays have been staging walkouts in a pay dispute. Protests were being held in several UK cities, along with a rally in London.
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    notes
+   </td>
+   <td class="field-value">
+    Not just tech workers (the uber drivers). Part of a broader worldwide strike action by fast-food workers.
    </td>
   </tr>
  </table>
