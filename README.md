@@ -62,112 +62,13 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
  <table>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">14</td>
+    <td data-summary="action-count">17</td>
   </tr>
  </table>
 </div>
 
 #### Actions
 <div id="actions">
-  <table data-author="organizejs">
-  <tr>
-   <td class="field-key">date</td>
-   <td class="field-value">2018-05-30</td>
-  </tr>
-  <tr>
-   <td class="field-key">source</td>
-   <td class="field-value">
-    <a href="https://jacobinmag.com/2018/06/google-project-maven-military-tech-workers">Jacobin</a>,
-    <a href="https://www.nytimes.com/2018/05/30/technology/google-project-maven-pentagon.html">NYTimes</a>,
-    <a href="https://www.coworker.org/petitions/tech-should-not-be-in-the-business-of-war">Coworker.org</a>
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">company</td>
-   <td class="field-value">Google</td>
-  </tr>
-  <tr>
-   <td class="field-key">action</td>
-   <td class="field-value">Petition</td>
-  </tr>
-  <tr>
-   <td class="field-key">employment_type</td>
-   <td class="field-value">FTE, Contractors</td>
-  </tr>
-  <tr>
-   <td class="field-key">worker_count</td>
-   <td class="field-value">5000</td>
-  </tr>
-  <tr>
-   <td class="field-key">description</td>
-   <td class="field-value"> Google employees have led a campaign demanding that the company terminate its contract with the Pentagon for Project Maven, a program that uses machine learning to improve targeting for drone strikes. Nearly five thousand Google workers signed an internal petition to cancel the project, and dozens resigned.</td>
-  </tr>
- </table>
- <table data-author="organizejs">
-  <tr>
-   <td class="field-key">date</td>
-   <td class="field-value">2018-12-14</td>
-  </tr>
-  <tr>
-   <td class="field-key">source</td>
-   <td class="field-value">
-    <a href="http://www.startribune.com/workers-protest-conditions-at-amazon-s-shakopee-center/502829882/">Star Tribune</a>     
-    <a href="https://www.seattletimes.com/business/somali-workers-in-minnesota-force-amazon-to-negotiate/">Seattle Times</a>
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">company</td>
-   <td class="field-value">Amazon</td>
-  </tr>
-  <tr>
-   <td class="field-key">action</td>
-   <td class="field-value">Protest</td>
-  </tr>
-  <tr>
-   <td class="field-key">employment_type</td>
-   <td class="field-value">Contractors</td>
-  </tr>
-  <tr>
-   <td class="field-key">worker_count</td>
-   <td class="field-value">100</td>
-  </tr>
-  <tr>
-   <td class="field-key">description</td>
-   <td class="field-value">Amid chants of "Hear our voice," a group of about 100 Somali-American workers and their supporters marched to the entrance of Amazon"s Shakopee fulfillment center Friday evening to protestunfair working conditions.</td>
-  </tr>
- </table>
-  <table data-author="organizejs">
-  <tr>
-   <td class="field-key">date</td>
-   <td class="field-value">2018-11-14</td>
-  </tr>
-  <tr>
-   <td class="field-key">source</td>
-   <td class="field-value">
-    <a href="https://www.vox.com/the-goods/2018/11/15/18096181/long-island-city-amazon-hq2-protest">Vox</a>
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">company</td>
-   <td class="field-value">Amazon</td>
-  </tr>
-  <tr>
-   <td class="field-key">action</td>
-   <td class="field-value">Protest</td>
-  </tr>
-  <tr>
-   <td class="field-key">worker_count</td>
-   <td class="field-value">100</td>
-  </tr>
-  <tr>
-   <td class="field-key">description</td>
-   <td class="field-value">On November 14, one day after Amazon formally announced its plan to open half of its so-called "second headquarters" in New York City, nearly 100 politicians, union organizers, and community members gathered in a Long Island City park to protest the company's impending expansion.</td>
-  </tr>
-  <tr>
-   <td class="field-key">notes</td>
-   <td class="field-value">Not worker centric.</td>
-  </tr>
- </table>
  <table data-author="organizejs">
   <tr>
    <td class="field-key">
@@ -461,6 +362,129 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
    </td>
    <td class="field-value">
     Employees at Brooklyn's crowdfunding giant Kickstarter are forming a labor union called Kickstarter United, which will aim to secure more rights for the company's workers. If recognized by the company, Kickstarter would become the first major tech company in the US to have union representation.
+   </td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
+    2018-12-14
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    source
+   </td>
+   <td class="field-value">
+    <a href="http://www.startribune.com/workers-protest-conditions-at-amazon-s-shakopee-center/502829882/">
+     Star Tribune
+    </a>
+    <a href="https://www.seattletimes.com/business/somali-workers-in-minnesota-force-amazon-to-negotiate/">
+     Seattle Times
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    company
+   </td>
+   <td class="field-value">
+    Amazon
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    Protest
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    employment_type
+   </td>
+   <td class="field-value">
+    Contractors
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    worker_count
+   </td>
+   <td class="field-value">
+    100
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    Amid chants of "Hear our voice," a group of about 100 Somali-American workers and their supporters marched to the entrance of Amazon"s Shakopee fulfillment center Friday evening to protestunfair working conditions.
+   </td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
+    2018-11-14
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    source
+   </td>
+   <td class="field-value">
+    <a href="https://www.vox.com/the-goods/2018/11/15/18096181/long-island-city-amazon-hq2-protest">
+     Vox
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    company
+   </td>
+   <td class="field-value">
+    Amazon
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    Protest
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    worker_count
+   </td>
+   <td class="field-value">
+    100
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    On November 14, one day after Amazon formally announced its plan to open half of its so-called "second headquarters" in New York City, nearly 100 politicians, union organizers, and community members gathered in a Long Island City park to protest the company's impending expansion.
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    notes
+   </td>
+   <td class="field-value">
+    Not worker centric.
    </td>
   </tr>
  </table>
@@ -777,6 +801,74 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
    </td>
    <td class="field-value">
     In an open letter posted to Microsoft's internal message board on Tuesday, hundreds of employees protested Microsoft's work with Immigration and Customs Enforcement and demanding that the company stop working with the agency.
+   </td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
+    2018-05-30
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    source
+   </td>
+   <td class="field-value">
+    <a href="https://jacobinmag.com/2018/06/google-project-maven-military-tech-workers">
+     Jacobin
+    </a>
+    ,
+    <a href="https://www.nytimes.com/2018/05/30/technology/google-project-maven-pentagon.html">
+     NYTimes
+    </a>
+    ,
+    <a href="https://www.coworker.org/petitions/tech-should-not-be-in-the-business-of-war">
+     Coworker.org
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    company
+   </td>
+   <td class="field-value">
+    Google
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    Petition
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    employment_type
+   </td>
+   <td class="field-value">
+    FTE, Contractors
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    worker_count
+   </td>
+   <td class="field-value">
+    5000
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    Google employees have led a campaign demanding that the company terminate its contract with the Pentagon for Project Maven, a program that uses machine learning to improve targeting for drone strikes. Nearly five thousand Google workers signed an internal petition to cancel the project, and dozens resigned.
    </td>
   </tr>
  </table>
