@@ -72,6 +72,34 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
  <table data-author="organizejs">
   <tr>
    <td class="field-key">date</td>
+   <td class="field-value">2014-09-19</td>
+  </tr>
+  <tr>
+   <td class="field-key">source</td>
+   <td class="field-value">
+    <a href="https://thinkprogress.org/silicon-valley-workers-protest-for-fair-wages-at-apple-stores-during-iphone-6-launch-860a32a25b98/">Think Progress</a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">action</td>
+   <td class="field-value">Protest</td>
+  </tr>
+  <tr>
+   <td class="field-key">employment_type</td>
+   <td class="field-value">Contract Workers</td>
+  </tr>
+  <tr>
+   <td class="field-key">union_affiliation</td>
+   <td class="field-value">Service Employees International Union (SEIU)</td>
+  </tr>
+  <tr>
+   <td class="field-key">description</td>
+   <td class="field-value">In front of Apple stores nationwide, tech company employees gathered to protest alongside hundreds of eager customers waiting in line to buy the iPhone 6. The protesters weren't disgruntled Apple engineers or developers; they were security officers, maintenance and custodial staff demanding better wages from tech companies.</td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">date</td>
    <td class="field-value">2014-03-03</td>
   </tr>
   <tr>
