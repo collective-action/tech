@@ -73,6 +73,79 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
 <div id="actions">
  <table data-author="organizejs">
   <tr>
+   <td class="field-key">date</td>
+   <td class="field-value">2018-02-16</td>
+  </tr>
+  <tr>
+   <td class="field-key">source</td>
+   <td class="field-value">
+    <a href="https://kotaku.com/developers-at-one-french-game-studio-have-been-on-strik-1823833426">Kotaku</a>,
+    <a href="https://www.pcgamer.com/the-eugen-systems-strike-is-over-but-the-battle-rages-on/">PC Gamer</a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">company</td>
+   <td class="field-value">Eugen Systems</td>
+  </tr>
+  <tr>
+   <td class="field-key">action</td>
+   <td class="field-value">Strike</td>
+  </tr>
+  <tr>
+   <td class="field-key">employment_type</td>
+   <td class="field-value">FTE</td>
+  </tr>
+  <tr>
+   <td class="field-key">worker_count</td>
+   <td class="field-value">20+</td>
+  </tr>
+  <tr>
+   <td class="field-key">description</td>
+   <td class="field-value">Employees at French game studio, Eugen Systems, walked out because of unpaid wages and breached contracts. The strike lasted a month a half.</td>
+  </tr>
+  <tr>
+   <td class="field-key">notes</td>
+   <td class="field-value">Ad-hoc notes. Delete the tr element entirely if you have no notes to add.</td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">date</td>
+   <td class="field-value">2019-03-26</td>
+  </tr>
+  <tr>
+   <td class="field-key">source</td>
+   <td class="field-value">
+    <a href="https://medium.com/@bu64dcjrytwitb8/on-recent-research-auditing-commercial-facial-analysis-technology-19148bda1832?fbclid=IwAR1Uwyfv8da3OSgnNS1Nm3takYuDG1ks5jelJYwjImutVT5UnJ3RrpYIpEw">Medium</a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">company</td>
+   <td class="field-value">Amazon</td>
+  </tr>
+  <tr>
+   <td class="field-key">action</td>
+   <td class="field-value">Petition</td>
+  </tr>
+  <tr>
+   <td class="field-key">employment_type</td>
+   <td class="field-value">Researchers</td>
+  </tr>
+  <tr>
+   <td class="field-key">union_affiliation</td>
+   <td class="field-value">Unite Here</td>
+  </tr>
+  <tr>
+   <td class="field-key">worker_count</td>
+   <td class="field-value">45</td>
+  </tr>
+  <tr>
+   <td class="field-key">description</td>
+   <td class="field-value">Researchers are calling on Amazon to stop selling facial recognition software to law enforcement. This letter follows similar calls by Amazon workers and civil rights organizations. "We call on Amazon to stop selling Rekognition to law enforcement as legislation and safeguards to prevent misuse are not in place."</td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
    <td class="field-key">
     date
    </td>
