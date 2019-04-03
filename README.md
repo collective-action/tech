@@ -69,6 +69,40 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
 
 #### Actions
 <div id="actions">
+  <table data-author="organizejs">
+  <tr>
+   <td class="field-key">date</td>
+   <td class="field-value">YYYY-MM-DD (choose the earliest relevant date)</td>
+  </tr>
+  <tr>
+   <td class="field-key">source</td>
+   <td class="field-value">
+    <a href="https://jacobinmag.com/2018/06/google-project-maven-military-tech-workers">Jacobin</a>,
+    <a href="https://www.nytimes.com/2018/05/30/technology/google-project-maven-pentagon.html">NYTimes</a>,
+    <a href="https://www.coworker.org/petitions/tech-should-not-be-in-the-business-of-war">Coworker.org</a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">company</td>
+   <td class="field-value">Google</td>
+  </tr>
+  <tr>
+   <td class="field-key">action</td>
+   <td class="field-value">Petition</td>
+  </tr>
+  <tr>
+   <td class="field-key">employment_type</td>
+   <td class="field-value">FTE, Contractors</td>
+  </tr>
+  <tr>
+   <td class="field-key">worker_count</td>
+   <td class="field-value">5000</td>
+  </tr>
+  <tr>
+   <td class="field-key">description</td>
+   <td class="field-value"> Google employees have led a campaign demanding that the company terminate its contract with the Pentagon for Project Maven, a program that uses machine learning to improve targeting for drone strikes. Nearly five thousand Google workers signed an internal petition to cancel the project, and dozens resigned.</td>
+  </tr>
+ </table>
  <table data-author="organizejs">
   <tr>
    <td class="field-key">date</td>
