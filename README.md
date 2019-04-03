@@ -65,6 +65,39 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
 
 #### Actions
 <div id="actions">
+  <table data-author="organizejs">
+  <tr>
+   <td class="field-key">date</td>
+   <td class="field-value">2018-07-31</td>
+  </tr>
+  <tr>
+   <td class="field-key">source</td>
+   <td class="field-value">
+    <a href="https://www.buzzfeednews.com/article/carolineodonovan/palantir-ice-contract-protest">Buzzfeed</a>,
+    <a href="https://www.paloaltoonline.com/news/2018/07/31/protesters-demand-palantir-end-ice-contracts">Palo Alto Online</a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">company</td>
+   <td class="field-value">Palantir</td>
+  </tr>
+  <tr>
+   <td class="field-key">action</td>
+   <td class="field-value">Protest</td>
+  </tr>
+  <tr>
+   <td class="field-key">worker_count</td>
+   <td class="field-value">50+</td>
+  </tr>
+  <tr>
+   <td class="field-key">description</td>
+   <td class="field-value">Dozens of protesters gathered outside the data analysis company Palantir in Palo Alto, California, on Tuesday to present Palantir’s employees and CEO Alex Karp with a letter asking for an end to the company’s contracts with US Immigration and Customs Enforcement (ICE).</td>
+  </tr>
+  <tr>
+   <td class="field-key">notes</td>
+   <td class="field-value">Not worker centric.</td>
+  </tr>
+ </table>
  <table data-author="organizejs">
   <tr>
    <td class="field-key">date</td>
