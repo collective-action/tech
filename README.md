@@ -1,6 +1,6 @@
 # Collective Actions in Tech
       
-This repository documents all collective actions from tech workers in the United States starting from 2015. The goal of Collective Action in Tech is to give us, tech workers, more insight on trends in worker power in the tech industry. 
+This repository is an attemp to document all collective actions from tech workers. The goal of Collective Action in Tech is to give us, tech workers, more insight on trends in worker power in the tech industry. 
 
 <details>
 <summary><strong><em>This repository is meant to be a live document. Learn about adding a new action.</em></strong></summary>
@@ -69,6 +69,38 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
 
 #### Actions
 <div id="actions">
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">date</td>
+   <td class="field-value">2014-03-03</td>
+  </tr>
+  <tr>
+   <td class="field-key">source</td>
+   <td class="field-value">
+    <a href="https://www.reuters.com/article/us-china-strikes/ibm-factory-strike-shows-shifting-china-labor-landscape-idUSBREA2804K20140309">Reuters</a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">company</td>
+   <td class="field-value">IBM</td>
+  </tr>
+  <tr>
+   <td class="field-key">action</td>
+   <td class="field-value">Strike</td>
+  </tr>
+  <tr>
+   <td class="field-key">employment_type</td>
+   <td class="field-value">Factory Workers</td>
+  </tr>
+  <tr>
+   <td class="field-key">worker_count</td>
+   <td class="field-value">1000+</td>
+  </tr>
+  <tr>
+   <td class="field-key">description</td>
+   <td class="field-value">More than 1,000 IBM factory workers walked off the job at the factory in Shenzhen, bordering Hong Kong, after managers on announced the terms of their transfer to new ownership under Chinese PC maker Lenovo Group Ltd.</td>
+  </tr>
+ </table>
  <table data-author="organizejs">
   <tr>
    <td class="field-key">date</td>
