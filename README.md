@@ -15,7 +15,7 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
 1. Commit the changes to a new branch and make a PR.
 
 > Except for the field 'date', any of the other fields can be omitted if not applicable to the action
-```
+```html
 <table data-author="@your-username">
  <tr>
   <td class="field-key">date</td>
