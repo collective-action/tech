@@ -69,7 +69,44 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
 
 #### Actions
 <div id="actions">
-   <table data-author="organizejs">
+  <table data-author="organizejs">
+  <tr>
+   <td class="field-key">date</td>
+   <td class="field-value">2018-10-09</td>
+  </tr>
+  <tr>
+   <td class="field-key">source</td>
+   <td class="field-value">
+    <a href="https://www.theguardian.com/technology/2018/oct/09/uber-uk-strike-users-urged-not-to-cross-digital-picket-line">The Guardian</a>,
+     <a href="https://www.bbc.com/news/business-45796409">BBC</a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">company</td>
+   <td class="field-value">Uber</td>
+  </tr>
+  <tr>
+   <td class="field-key">action</td>
+   <td class="field-value">Strike</td>
+  </tr>
+  <tr>
+   <td class="field-key">employment_type</td>
+   <td class="field-value">Independent Contractors</td>
+  </tr>
+  <tr>
+   <td class="field-key">union_affiliation</td>
+   <td class="field-value">The United Private Hire Drivers (UPHD), Independent Workers Union of Great Britain (IWGB)</td>
+  </tr>
+  <tr>
+   <td class="field-key">worker_count</td>
+   <td class="field-value">100+</td>
+  </tr>
+  <tr>
+   <td class="field-key">description</td>
+   <td class="field-value">"Hundreds" of drivers are expected to switch off their apps from 1pm, making themselves unavailable for work, union organisers said. Protests are also being held outside the ride-hailing app's offices in London, Nottingham and Birmingham.</td>
+  </tr>
+ </table>  
+ <table data-author="organizejs">
   <tr>
    <td class="field-key">date</td>
    <td class="field-value">2018-11-27</td>
