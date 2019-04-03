@@ -8,11 +8,13 @@ This repository is an attempt to document all collective actions from tech and a
 A quick summary of how to add a new action. See the [contribution guidelines](CONTRIBUTING.md) for more details.
 
 #### Steps
+1. Before contributing, make sure the action you intend to add is not already present. Submit a PR if you wish to edit it.
 1. Copy and paste the html code snippet below right below the opening `<div>` opening tag under __Actions__.
 1. Update the fields and verify that the changes look correct.
 1. Commit the changes to a new branch and make a PR.
 
 > Except for the field 'date', any of the other fields can be omitted if not applicable to the action. To omit a field, remove the \<tr\> element entirely.
+
 ```html
  <table data-author="your-username">
   <tr>
