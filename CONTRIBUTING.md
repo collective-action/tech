@@ -33,7 +33,6 @@ include, add it in the description field.
 | employment_type | What was the employment type of the workers who took action? FTEs? Contract workers? If there are multipe employment types, they should be listed in the order of most-relevant to least relevant. It is also possible that there is no affiliated employment type, which can be the case for many public petitions. |
 | union_affiliation | Was a union affiliated? And if so, which one? |
 | worker_count | The number of workers active in the action. Since we're only looking at collective actions, the number must be more than 1. Sometimes the sources do not state a concrete number when reporting. In those cases, lean on the conservative side. For example: "Hundreds of Uber drivers..." --> 100+ |
-| struggle | The topic of struggle that caused the action. |
 | source | The url of a reliable source that has reported on this event. |
 
 ## Formatting
@@ -68,10 +67,6 @@ row to the table.
     <tr>
         <td class="field-key">worker_count</td>
         <td class="field-value">100+</td>
-    </tr>
-    <tr>
-        <td class="field-key">struggle_type</td>
-        <td class="field-value">Wages</td>
     </tr>
     <tr>
         <td class="field-key">description</td>
