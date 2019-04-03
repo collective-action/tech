@@ -24,6 +24,7 @@ FIELDS = [
     "union_affiliation",
     "worker_count",
     "description",
+    "notes",
 ]
 MD_PATH = os.path.realpath(
     os.path.join(os.path.dirname(os.path.abspath(__file__)), os.pardir, "README.md")

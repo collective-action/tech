@@ -58,7 +58,7 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
  <table>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">11</td>
+    <td data-summary="action-count">14</td>
   </tr>
  </table>
 </div>
