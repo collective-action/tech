@@ -71,6 +71,39 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
 <div id="actions">
  <table data-author="organizejs">
   <tr>
+   <td class="field-key">date</td>
+   <td class="field-value">2017-03-14</td>
+  </tr>
+  <tr>
+   <td class="field-key">source</td>
+   <td class="field-value">
+    <a href="https://www.aljazeera.com/news/2017/03/silicon-valley-workers-protest-donald-trump-170314015033643.html">Aljazeera Name</a>, 
+    <a href="https://www.cnet.com/news/tech-stands-up-rally-against-president-trump-silicon-valley-rally-palo-alto/">CNET</a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">action</td>
+   <td class="field-value">Protest</td>
+  </tr>
+  <tr>
+   <td class="field-key">employment_type</td>
+   <td class="field-value">FTE, Contractors</td>
+  </tr>
+  <tr>
+   <td class="field-key">worker_count</td>
+   <td class="field-value">100+</td>
+  </tr>
+  <tr>
+   <td class="field-key">description</td>
+   <td class="field-value">Hundreds of protesters have attended a demonstration held by Silicon Valley workers against what participants call the discriminatory policymaking of US President Donald Trump and his administration.</td>
+  </tr>
+  <tr>
+   <td class="field-key">notes</td>
+   <td class="field-value">The rally was not only attended by tech workers.</td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
    <td class="field-key">
     date
    </td>
