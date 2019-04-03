@@ -8,7 +8,7 @@ This repository documents all collective actions from tech workers in the United
 A quick summary of how to add a new action. See the [contribution guidelines](CONTRIBUTING.md) for more details.
 
 #### Steps
-1. Copy and paste the html code snippet below right below the opening `<div>` opening tag.
+1. Copy and paste the html code snippet below right below the opening `<div>` opening tag under __Actions__.
 1. Update the fields and verify that the changes look correct.
 1. Commit the changes to a new branch and make a PR.
 
