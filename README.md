@@ -14,6 +14,7 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
 1. Update the fields and verify that the changes look correct.
 1. Commit the changes to a new branch and make a PR.
 
+> Except for the field 'date', any of the other fields can be omitted if not applicable to the action
 ```
 <table data-author="@your-username">
  <tr>
@@ -37,6 +38,10 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
  <tr>
   <td class="field-key">employment_type</td>
   <td class="field-value">[FTE, contractors, vendors, temps]</td>
+ </tr>
+ <tr>
+  <td class="field-key">union_affiliation</td>
+  <td class="field-value">Unite Here</td>
  </tr>
  <tr>
   <td class="field-key">worker_count</td>
