@@ -21,7 +21,6 @@ FIELDS = [
     "employment_type",
     "union_affiliation",
     "worker_count",
-    "struggle_type",
     "description",
 ]
 MD_PATH = os.path.realpath(

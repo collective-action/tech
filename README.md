@@ -57,10 +57,62 @@ This repository of collective action in tech is meant to be a live document. Fee
   </tr>
   <tr>
    <td class="field-key">
-    struggle_type
+    description
    </td>
    <td class="field-value">
-    Wages
+    Uber and Lyft drivers in Los Angeles are refusing to pick up customers today — part of a one-day strike to protest Uber's recent decision to slash pay rates for drivers in the area.
+   </td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
+    2018-06-25
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    source
+   </td>
+   <td class="field-value">
+    <a href="https://www.bloomberg.com/news/articles/2018-06-25/salesforce-employees-ask-ceo-to-revisit-ties-with-border-agency">
+     Bloomberg
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    company
+   </td>
+   <td class="field-value">
+    Salesforce
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    Petition
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    employment_type
+   </td>
+   <td class="field-value">
+    FTE
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    worker_count
+   </td>
+   <td class="field-value">
+    650
    </td>
   </tr>
   <tr>
@@ -68,7 +120,7 @@ This repository of collective action in tech is meant to be a live document. Fee
     description
    </td>
    <td class="field-value">
-    Uber drivers stage 1-day strike in LA over cut reduction, Lyft drivers join
+    Hundreds of Salesforce.com Inc. employees signed a letter to Chief Executive Officer Marc Benioff criticizing the company's contracts with the U.S. Customs and Border Protection agency.
    </td>
   </tr>
  </table>
@@ -96,7 +148,7 @@ This repository of collective action in tech is meant to be a live document. Fee
     company
    </td>
    <td class="field-value">
-    Faebook
+    Facebook
    </td>
   </tr>
   <tr>
@@ -133,18 +185,10 @@ This repository of collective action in tech is meant to be a live document. Fee
   </tr>
   <tr>
    <td class="field-key">
-    struggle_type
-   </td>
-   <td class="field-value">
-    Wages, Health Benefits
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
     description
    </td>
    <td class="field-value">
-    TWC workers work with cafeteria workers at Facebook to Unionize.
+    Over 500 food service workers at Facebook won union representation at the tech giant's campus in Menlo Park, CA. The workers, who are employed by contractor Flagship Facility Services, are calling for increased wages to compete with skyrocketing rents and more affordable health benefits.
    </td>
   </tr>
  </table>
@@ -193,18 +237,10 @@ This repository of collective action in tech is meant to be a live document. Fee
   </tr>
   <tr>
    <td class="field-key">
-    struggle_type
-   </td>
-   <td class="field-value">
-    Ethics
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
     description
    </td>
    <td class="field-value">
-    Tech employees protest in front of Palantir HQ over potential contract with Trump to build a Muslim registry.
+    50 people in the tech community came out in the pouring rain to demand the data mining startup take a firm stand against the makings of a Muslim registry.
    </td>
   </tr>
  </table>
@@ -245,14 +281,6 @@ This repository of collective action in tech is meant to be a live document. Fee
    </td>
    <td class="field-value">
     2843
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    struggle_type
-   </td>
-   <td class="field-value">
-    Ethics
    </td>
   </tr>
   <tr>
