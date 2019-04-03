@@ -10,6 +10,129 @@ This repository of collective action in tech is meant to be a live document. Fee
     date
    </td>
    <td class="field-value">
+    2019-04-01
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    source
+   </td>
+   <td class="field-value">
+    <a href="https://www.theguardian.com/technology/2019/apr/01/google-kay-coles-james-removal-employees-letter">
+     The Guardian
+    </a>,
+    <a href="https://medium.com/@against.transphobia/googlers-against-transphobia-and-hate-b1b0a5dbf76">
+     Medium
+    </a>     
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    company
+   </td>
+   <td class="field-value">
+    Google
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    Petition
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    employment_type
+   </td>
+   <td class="field-value">
+    FTE, contractors
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    worker_count
+   </td>
+   <td class="field-value">
+    2000+
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    A group of Google employees have called for the removal of a rightwing thinktank leader from the company's new artificial intelligence council, citing her anti-LGBT and anti-immigrant record. Academic, civil society, and industry supporters have also signed the petition in mass.
+   </td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
+    2019-04-02
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    source
+   </td>
+   <td class="field-value">
+    <a href="https://www.theguardian.com/technology/2019/apr/02/google-workers-sign-letter-temp-contractors-protest">
+     The Guardian
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    company
+   </td>
+   <td class="field-value">
+    Google
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    Petition
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    employment_type
+   </td>
+   <td class="field-value">
+    FTE, contractors
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    worker_count
+   </td>
+   <td class="field-value">
+    900+
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    More than 900 Google workers have signed a letter objecting to the tech giant's treatment of temporary contractors, in what organizers are calling a “historical coalition” between Google’s full-time employees (FTEs) and temps, vendors and contractors (TVCs).
+   </td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
     2018-11-01
    </td>
   </tr>
