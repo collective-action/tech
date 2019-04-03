@@ -28,11 +28,11 @@ MD_PATH = os.path.realpath(
     os.path.join(os.path.dirname(os.path.abspath(__file__)), os.pardir, "README.md")
 )
 
-MarkdownTable = str
+MarkdownData = str
 MarkdownDocument = str
 
 
-class TableIDNotFound(Exception):
+class MarkdownDataIDNotFound(Exception):
     pass
 
 
@@ -40,25 +40,23 @@ class DateColumnNotFound(Exception):
     pass
 
 
-class TableNotFound(Exception):
+class MarkdownDataNotFound(Exception):
     pass
 
 
-class MultipleTablesFound(Exception):
+class MultipleMarkdownDataFound(Exception):
     pass
 
 
-class TableIsMalformed(Exception):
+class MarkdownDataIsMalformed(Exception):
     pass
 
 
 def _serialize_meta_field(key: str) -> str:
-    """ """
     return f"{META_FIELD_PATTERN}{key}"
 
 
 def _deserialize_meta_field(key: str) -> str:
-    """ """
     return key[len(META_FIELD_PATTERN) :]
 
 
@@ -72,170 +70,165 @@ def _decode_df_to_md_fields(td: bs4.element.Tag, col:str, val:str) -> bs4.elemen
     return td
 
 
-def _md_table_to_df(table: MarkdownTable) -> pd.DataFrame:
-    """ Converts a markdown table to a DataFrame. """
-    assert _is_valid_md_table(table)
+def _md_data_to_df(md_data: MarkdownData) -> pd.DataFrame:
+    """ Converts a markdown data to a DataFrame. """
+    assert _is_valid_md_data(md_data)
     actions = []
-    soup = BeautifulSoup(table, "html.parser")
-    trs = soup.table.find_all("tr")
-    for i, tr in enumerate(trs):
+    soup = BeautifulSoup(md_data, "html.parser")
+    tables = soup.div.find_all("table")
+    for table in tables:
         action = {}
-        if ("id" not in tr.attrs) or (
-            "id" in tr.attrs and tr.attrs["id"] != HEADER_ROW_ID
-        ):
-            for key, val in tr.attrs.items():
+
+        # add table attributes
+        for key, val in table.attrs.items():
+            if key != 'class':
                 action[_serialize_meta_field(key)] = val
-            tds = tr.find_all("td")
-            for td in tds:
-                key = td["data-column"]
-                val = "".join(str(e) for e in td.contents).strip()
-                action[key] = val
+
+        # add each tr in the table
+        trs = table.find_all("tr")
+        for i, tr in enumerate(trs):
+            td_key = tr.find("td", class_="field-key")
+            td_val = tr.find("td", class_="field-value")
+            val = "".join(str(e) for e in td_val.contents).strip()
+            key = "".join(str(e) for e in td_key.contents).strip()
+            action[key] = val
+
+        # if one of the FIELDS are missing from md_data, add it in as None
+        for field in list(set(FIELDS) - set(action.keys())):
+            action[field] = None
+
         if action:
             actions.append(action)
+
     df = pd.read_json(json.dumps(actions), orient="list")
     col_order = FIELDS + list(set(df.columns) - set(FIELDS))
     return df[col_order]
 
 
-def _df_to_md_table(df: pd.DataFrame, table_id: str) -> MarkdownTable:
-    """ Converts a DataFrame to a markdown table. """
-    soup = BeautifulSoup(f"<table id={table_id}></table>", "html.parser")
+def _df_to_md_data(df: pd.DataFrame, project_id: str) -> MarkdownData:
+    """ Converts a DataFrame to a markdown data. """
+    soup = BeautifulSoup(f"<div id={project_id}></div>", "html.parser")
     cols = df.columns
 
-    # add row of headers
-    tr = soup.new_tag("tr")
-    tr["id"] = HEADER_ROW_ID
-    soup.table.append(tr)
-    for col in FIELDS:
-        td = soup.new_tag("td")
-        td.string = str(col)
-        tr.append(td)
-
-    # add actions
     for index, row in df.iterrows():
-        tr = soup.new_tag("tr")
-        soup.table.append(tr)
+        table = soup.new_tag("table")
+        soup.div.append(table)
         for col in cols:
             if col.startswith(META_FIELD_PATTERN):
-                tr[_deserialize_meta_field(col)] = row[col]
+                table[_deserialize_meta_field(col)] = row[col]
             else:
-                td = soup.new_tag("td")
-                td["data-column"] = col
-                td.string = str(row[col])
-                td = _decode_df_to_md_fields(td, col, str(row[col]))
-                tr.append(td)
+                tr = soup.new_tag("tr")
+                td_key = soup.new_tag("td", attrs={"class" : "field-key"})
+                td_val = soup.new_tag("td", attrs={"class" : "field-value"})
+                td_key.string = col
+                td_val = _decode_df_to_md_fields(td_val, col, str(row[col]))
+                if row[col]:
+                    tr.append(td_key)
+                    tr.append(td_val)
+                    table.append(tr)
 
     return soup.prettify()
 
 
-def _get_table_from_md_document(table_id: str, doc: MarkdownDocument) -> MarkdownTable:
+def _get_data_from_md_document(project_id: str, doc: MarkdownDocument) -> MarkdownData:
     """ Extract table from a markdown document.
 
-    A markdown document may have multiple tables in it. This function will not
-    extract any table from the document. Instead, it looks specifically for a
-    table expressed in html with the id {table_id}.
+    This function will not extract any table from the document. Instead, it looks specifically for a
+    tables in a div expressed in html with the id {table_id}.
 
     If multiple such tables are found, or none are found at all, it will raise
     an error.
 
     Args:
-        table_id (str): the id of the table
-        doc (MarkdownDocument): the markdown document to parse
+        table_id: the id of the table
+        doc: the markdown document to parse
 
     Raise:
-        TableNotFound: if no such table is found
-        MultipleTablesFound: if multiple tables are found
-        TableIsMalformed: if table is malformed
+        MarkdownDataNotFound: if no such table is found
+        MultipleMarkdownDataFound: if multiple tables are found
+        MarkdownDataIsMalformed: if table is malformed
 
     Returns:
         The parsed Markdown table
     """
-    tables = re.findall(fr"<table[\s\S]+{table_id}+[\s\S]+<\/table>", doc)
-    if not tables:
-        raise TableNotFound
-    if len(tables) > 1:
-        raise MultipleTablesFound
-    assert len(tables) == 1
-    table = tables[0]
-    table = _clean_md_table(table)
-    if not _is_valid_md_table(table):
-        raise TableIsMalformed
-    return table
+    md_data = re.findall(fr"<div[\s\S]+{project_id}+[\s\S]+<\/div>", doc)
+
+    if not md_data:
+        raise MarkdownDataNotFound
+    if len(md_data) > 1:
+        raise MultipleMarkdownDataFound
+    assert len(md_data) == 1
+
+    md_data = md_data[0]
+
+    if not _is_valid_md_data(md_data):
+        raise MarkdownDataIsMalformed
+
+    return md_data
 
 
-def _is_valid_md_table(table: MarkdownTable) -> bool:
+def _is_valid_md_data(md_data: MarkdownData) -> bool:
     """ Checks if markdown table is malformed.
 
     Checks:
-    - the number of td elements inside each tr element equals len(FIELDS)
+    - the number of td elements inside each tr element equals or is less than len(FIELDS)
+    - fields are correctly labeled
     """
-    assert table.startswith("<table")
-    assert table.endswith("</table>")
-    soup = BeautifulSoup(table, "html.parser")
-    trs = soup.table.find_all("tr")
-    for i, tr in enumerate(trs):
-        tds = tr.find_all("td")
-        if len(tds) != len(FIELDS):
+    assert md_data.startswith("<div")
+    assert md_data.endswith("</div>")
+    soup = BeautifulSoup(md_data, "html.parser")
+    tables = soup.div.find_all("table")
+    for table in tables:
+        trs = table.find_all("tr")
+        if len(trs) > len(FIELDS):
             return False
-        if i == 0:
-            if "id" not in tr.attrs:
+        for tr in trs:
+            td = tr.find("td", class_="field-key")
+            if td and td.string.strip() not in FIELDS:
                 return False
-            if "id" in tr.attrs and tr.attrs["id"] != HEADER_ROW_ID:
-                return False
-        else:
-            for td in tds:
-                if td.attrs["data-column"] not in FIELDS:
-                    return False
     return True
 
 
-def _clean_md_table(table: MarkdownTable) -> MarkdownTable:
+def _clean_md_data(md_data: MarkdownData) -> MarkdownData:
     """ Cleans up the markdown table. """
-    soup = BeautifulSoup(table, "html.parser")
+    soup = BeautifulSoup(md_data, "html.parser")
     return soup.prettify()
 
 
-def _replace_md_table(
-    doc: MarkdownDocument, table_id: str, table: MarkdownTable
+def _replace_md_data(
+    doc: MarkdownDocument, project_id: str, md_data: MarkdownData
 ) -> MarkdownDocument:
     """ Replace the table in {doc} with {table}. """
-    assert _is_valid_md_table(table)
-    new_table = BeautifulSoup(table, "html.parser")
+    assert _is_valid_md_data(md_data)
+    new_md_data = BeautifulSoup(md_data, "html.parser")
     soup = BeautifulSoup(doc, "html.parser")
-    table = soup.find("table", id=table_id)
-    if not table:
-        raise TableNotFound
-    old_soup = table.replace_with(new_table)
+    data = soup.find("div", id=project_id)
+    if not data:
+        raise MarkdownDataNotFound
+    old_soup = data.replace_with(new_md_data)
     return soup.prettify()
 
 
 def _sort_df(df: pd.DataFrame) -> pd.DataFrame:
-    """ Sort dataframe by date. 
+    """ Sort dataframe by date.
 
     Date is not used as index as multiple actions may happen on one date.
 
     Args:
         df (pd.DataFrame): The dataframe to sort
-    
+
     Returns:
         pd.Dataframe: the sorted Dataframe
     """
     if "date" not in df.columns:
         raise DateColumnNotFound
     df["date"] = pd.to_datetime(df["date"], unit='D')
-    df.sort_values(by=["date"], inplace=True)
+    df.sort_values(by=["date"], ascending=False, inplace=True)
     df.reset_index(drop=True, inplace=True)
     return df
 
 
-def _get_md_table_id(table: MarkdownTable) -> str:
-    """ Extract the table id. """
-    table_id = re.findall(fr"id=\"(.*?)\"", table)
-    if not table_id:
-        raise TableIDNotFound
-
-
-def save_md_table_to_csv(input_fp: Path, table_id: str, output_fp: Path):
+def save_md_data_to_csv(input_fp: Path, project_id: str, output_fp: Path):
     """ Saves table in markdown document as csv.
 
     Saves a cleaned-up version of the table found in the passed in markdown
@@ -248,8 +241,8 @@ def save_md_table_to_csv(input_fp: Path, table_id: str, output_fp: Path):
         output_fp (Path): the output file path
     """
     md_document = input_fp.read_text()
-    table = _get_table_from_md_document(table_id, md_document)
-    df = _md_table_to_df(table)
+    data = _get_data_from_md_document(project_id, md_document)
+    df = _md_data_to_df(data)
     df = _sort_df(df)
     df.to_csv(output_fp)
 
@@ -267,12 +260,12 @@ def get_df_from_md_document(input_fp: Path, table_id: str) -> pd.DataFrame:
     """
     md_document = input_fp.read_text()
     table = _get_table_from_md_document(table_id, md_document)
-    df = _md_table_to_df(table)
+    df = _md_data_to_df(table)
     df = _sort_df(df)
     return df
 
 
-def clean_md_document(input_fp: Path, table_id: str):
+def clean_md_document(input_fp: Path, project_id: str):
     """ Cleans the table from the markdown document.
 
     Replaces the table in the passed in markdown file with a cleaned-up version
@@ -284,9 +277,9 @@ def clean_md_document(input_fp: Path, table_id: str):
         table
     """
     md_document = input_fp.read_text()
-    table = _get_table_from_md_document(table_id, md_document)
-    df = _md_table_to_df(table)
+    data = _get_data_from_md_document(project_id, md_document)
+    df = _md_data_to_df(data)
     df = _sort_df(df)
-    table = _df_to_md_table(df, table_id)
-    updated_md_document = _replace_md_table(md_document, table_id, table)
+    md_data = _df_to_md_data(df, project_id)
+    updated_md_document = _replace_md_data(md_document, project_id, md_data)
     input_fp.write_text(updated_md_document)

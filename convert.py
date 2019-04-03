@@ -5,7 +5,7 @@ from pathlib import Path
 from utils.markdown import (
     get_df_from_md_document,
     clean_md_document,
-    save_md_table_to_csv,
+    save_md_data_to_csv,
     MD_PATH,
     PROJECT_NAME,
 )
@@ -26,7 +26,7 @@ def _get_parser():
         $ python convert.py --to-csv --output data.csv
 
         # Clean up the table in the README file
-        $ python convert.py --clean-up
+        $ python convert.py --clean-doc
         """
         ),
         formatter_class=argparse.RawDescriptionHelpFormatter,
@@ -51,4 +51,4 @@ if __name__ == "__main__":
     if args.clean_doc:
         clean_md_document(Path(MD_PATH), PROJECT_NAME)
     if args.to_csv:
-        save_md_table_to_csv(Path(MD_PATH), PROJECT_NAME, Path(args.output))
+        save_md_data_to_csv(Path(MD_PATH), PROJECT_NAME, Path(args.output))
