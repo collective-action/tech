@@ -1,11 +1,9 @@
 # Collective Actions in Tech
       
 This repository documents all collective actions from tech workers in the United States starting from 2016. The goal of Collective Action in Tech is to give us, tech workers, more insight on trends in worker power in the tech industry. 
-            
-This repository of collective action in tech is meant to be a live document. Feel free to submit PRs or fork the repository. See our [contribution guidelines](CONTRIBUTING.md).
 
 <details>
-<summary><strong><em>Adding a new action</em></strong></summary>
+<summary><strong><em>This repository is meant to be a live document. Learn about adding a new action.</em></strong></summary>
 
 A quick summary of how to add a new action. See the [contribution guidelines](CONTRIBUTING.md) for more details.
 
