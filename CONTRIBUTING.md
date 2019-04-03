@@ -28,12 +28,14 @@ include, add it in the description field.
 | Field | Description |
 | --- | --- |
 | date | While the date may seem trivial, collecting dates may be comlex for multi-day events such as pickets or online petitions. In this repo, we collect only the start date of the action in the format YYYY-MM-DD. |
+| source | The url of a reliable source that has reported on this event. |
 | company | Which is the company workers are standing up against? Some moments of worker power may not have an associated company. For example, online petitions or a protests against the president may consist of workers from an amalgamation of companies. In which case we can leave this field blank. |
 | action | What was the form of the action that took place? |
 | employment_type | What was the employment type of the workers who took action? FTEs? Contract workers? If there are multipe employment types, they should be listed in the order of most-relevant to least relevant. It is also possible that there is no affiliated employment type, which can be the case for many public petitions. |
 | union_affiliation | Was a union affiliated? And if so, which one? |
 | worker_count | The number of workers active in the action. Since we're only looking at collective actions, the number must be more than 1. Sometimes the sources do not state a concrete number when reporting. In those cases, lean on the conservative side. For example: "Hundreds of Uber drivers..." --> 100+ |
-| source | The url of a reliable source that has reported on this event. |
+| description | A short sentence describing the event where you can include information that isn't covered in the fields above. |
+| notes | Ad hoc notes about this event. |
 
 ## Formatting
 When adding an update to the README, use the provided html code below to add a
@@ -41,38 +43,40 @@ row to the table.
 
 ```html
 <!-- Example only -->
-<table data-author="organizejs">
-    <tr>
-        <td class="field-key">date</td>
-        <td class="field-value">2019-03-25</td>
-    </tr>
-    <tr>
-        <td class="field-key">source</td>
-        <td class="field-value">
-            <a href="https://www.vox.com/2019/3/25/18280718/uber-lyft-drivers-strike-la-los-angeles">Vox</a>
-        </td>
-    </tr>
-    <tr>
-        <td class="field-key">company</td>
-        <td class="field-value">Uber, Lyft</td>
-    </tr>
-    <tr>
-        <td class="field-key">action</td>
-        <td class="field-value">Strike</td>
-    </tr>
-    <tr>
-        <td class="field-key">employment_type</td>
-        <td class="field-value">Independent Contractors</td>
-    </tr>
-    <tr>
-        <td class="field-key">worker_count</td>
-        <td class="field-value">100+</td>
-    </tr>
-    <tr>
-        <td class="field-key">description</td>
-        <td class="field-value">Uber drivers stage 1-day strike in LA over cut reduction, Lyft drivers join</td>
-    </tr>
-</table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">date</td>
+   <td class="field-value">2018-01-01</td>
+  </tr>
+  <tr>
+   <td class="field-key">source</td>
+   <td class="field-value">
+    <a href="https://www.your.valid/source">CNN</a>,
+    <a href="https://www.your.valid/source">BBC</a>,
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">company</td>
+   <td class="field-value">Amazon</td>
+  </tr>
+  <tr>
+   <td class="field-key">action</td>
+   <td class="field-value">Protest</td>
+  </tr>
+  <!-- notice that 'employment_type' and 'union_affiliaition' fields are omitted -->
+  <tr>
+   <td class="field-key">worker_count</td>
+   <td class="field-value">1000</td>
+  </tr>
+  <tr>
+   <td class="field-key">description</td>
+   <td class="field-value">Thousands of people protest the new Amazon HQ in queens.</td>
+  </tr>
+  <tr>
+   <td class="field-key">notes</td>
+   <td class="field-value">Protest was not tech worker centric.</td>
+  </tr>
+ </table>
 ```
 When adding an action, use this html template, and insert it at the end of the `<table>` tag.
 

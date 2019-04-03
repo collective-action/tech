@@ -49,6 +49,10 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
    <td class="field-key">description</td>
    <td class="field-value">A short description of the event that took place.</td>
   </tr>
+  <tr>
+   <td class="field-key">notes</td>
+   <td class="field-value">Ad-hoc notes. Delete the tr element entirely if you have no notes to add.</td>
+  </tr>
  </table>
 ```
 </details>
@@ -65,97 +69,6 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
 
 #### Actions
 <div id="actions">
-  <table data-author="organizejs">
-  <tr>
-   <td class="field-key">date</td>
-   <td class="field-value">2018-07-31</td>
-  </tr>
-  <tr>
-   <td class="field-key">source</td>
-   <td class="field-value">
-    <a href="https://www.buzzfeednews.com/article/carolineodonovan/palantir-ice-contract-protest">Buzzfeed</a>,
-    <a href="https://www.paloaltoonline.com/news/2018/07/31/protesters-demand-palantir-end-ice-contracts">Palo Alto Online</a>
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">company</td>
-   <td class="field-value">Palantir</td>
-  </tr>
-  <tr>
-   <td class="field-key">action</td>
-   <td class="field-value">Protest</td>
-  </tr>
-  <tr>
-   <td class="field-key">worker_count</td>
-   <td class="field-value">50+</td>
-  </tr>
-  <tr>
-   <td class="field-key">description</td>
-   <td class="field-value">Dozens of protesters gathered outside the data analysis company Palantir in Palo Alto, California, on Tuesday to present Palantir’s employees and CEO Alex Karp with a letter asking for an end to the company’s contracts with US Immigration and Customs Enforcement (ICE).</td>
-  </tr>
-  <tr>
-   <td class="field-key">notes</td>
-   <td class="field-value">Not worker centric.</td>
-  </tr>
- </table>
- <table data-author="organizejs">
-  <tr>
-   <td class="field-key">date</td>
-   <td class="field-value">2019-03-28</td>
-  </tr>
-  <tr>
-   <td class="field-key">source</td>
-   <td class="field-value">
-    <a href="https://github.com/996icu/996.ICU/">Github</a>,
-    <a href="https://radiichina.com/github-protest-chinese-tech-996/">Radii</a>,
-    <a href="https://www.ft.com/content/72754638-55d1-11e9-91f9-b6515a54c5b1">FT</a>
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">action</td>
-   <td class="field-value">Petition</td>
-  </tr>
-  <tr>
-   <td class="field-key">worker_count</td>
-   <td class="field-value">+165000</td>
-  </tr>
-  <tr>
-   <td class="field-key">description</td>
-   <td class="field-value">A campaign against long working hours by professionals in China's technology sector has become one of the fastest growing Github repository in Github's history. The "anti-996" campaign opposes employees working shifts of 9am-9pm, six days a week, which are commonly required by the country’s tech giants.</td>
-  </tr>
- </table>
- <table data-author="organizejs">
-  <tr>
-   <td class="field-key">date</td>
-   <td class="field-value">2019-03-19</td>
-  </tr>
-  <tr>
-   <td class="field-key">source</td>
-   <td class="field-value">
-    <a href="https://www.theverge.com/2019/3/19/18254995/kickstarter-unionizing-union-representation-inclusivity-transparency-tech-us-crowdfunding">The Verge</a>
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">company</td>
-   <td class="field-value">Kickstarter</td>
-  </tr>
-  <tr>
-   <td class="field-key">action</td>
-   <td class="field-value">Intent to Unionize</td>
-  </tr>
-  <tr>
-   <td class="field-key">employment_type</td>
-   <td class="field-value">FTE</td>
-  </tr>
-  <tr>
-   <td class="field-key">union_affiliation</td>
-   <td class="field-value">Office and Professional Employees International Union</td>
-  </tr>
-  <tr>
-   <td class="field-key">description</td>
-   <td class="field-value">Employees at Brooklyn's crowdfunding giant Kickstarter are forming a labor union called Kickstarter United, which will aim to secure more rights for the company's workers. If recognized by the company, Kickstarter would become the first major tech company in the US to have union representation.</td>
-  </tr>
- </table>
  <table data-author="organizejs">
   <tr>
    <td class="field-key">
@@ -286,6 +199,58 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
     date
    </td>
    <td class="field-value">
+    2019-03-28
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    source
+   </td>
+   <td class="field-value">
+    <a href="https://github.com/996icu/996.ICU/">
+     Github
+    </a>
+    ,
+    <a href="https://radiichina.com/github-protest-chinese-tech-996/">
+     Radii
+    </a>
+    ,
+    <a href="https://www.ft.com/content/72754638-55d1-11e9-91f9-b6515a54c5b1">
+     FT
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    Petition
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    worker_count
+   </td>
+   <td class="field-value">
+    +165000
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    A campaign against long working hours by professionals in China's technology sector has become one of the fastest growing Github repository in Github's history. The "anti-996" campaign opposes employees working shifts of 9am-9pm, six days a week, which are commonly required by the country's tech giants.
+   </td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
     2019-03-25
    </td>
   </tr>
@@ -337,6 +302,66 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
    </td>
    <td class="field-value">
     Uber and Lyft drivers in Los Angeles are refusing to pick up customers today — part of a one-day strike to protest Uber's recent decision to slash pay rates for drivers in the area.
+   </td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
+    2019-03-19
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    source
+   </td>
+   <td class="field-value">
+    <a href="https://www.theverge.com/2019/3/19/18254995/kickstarter-unionizing-union-representation-inclusivity-transparency-tech-us-crowdfunding">
+     The Verge
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    company
+   </td>
+   <td class="field-value">
+    Kickstarter
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    Intent to Unionize
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    employment_type
+   </td>
+   <td class="field-value">
+    FTE
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    union_affiliation
+   </td>
+   <td class="field-value">
+    Office and Professional Employees International Union
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    Employees at Brooklyn's crowdfunding giant Kickstarter are forming a labor union called Kickstarter United, which will aim to secure more rights for the company's workers. If recognized by the company, Kickstarter would become the first major tech company in the US to have union representation.
    </td>
   </tr>
  </table>
@@ -401,6 +426,70 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
    </td>
    <td class="field-value">
     Google employees and contractors walked out of the company's offices around the world, one week after the New York Times reported that Google had protected three executives accused of sexual misconduct.
+   </td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
+    2018-07-31
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    source
+   </td>
+   <td class="field-value">
+    <a href="https://www.buzzfeednews.com/article/carolineodonovan/palantir-ice-contract-protest">
+     Buzzfeed
+    </a>
+    ,
+    <a href="https://www.paloaltoonline.com/news/2018/07/31/protesters-demand-palantir-end-ice-contracts">
+     Palo Alto Online
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    company
+   </td>
+   <td class="field-value">
+    Palantir
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    Protest
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    worker_count
+   </td>
+   <td class="field-value">
+    50+
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    Dozens of protesters gathered outside the data analysis company Palantir in Palo Alto, California, on Tuesday to present Palantir’s employees and CEO Alex Karp with a letter asking for an end to the company’s contracts with US Immigration and Customs Enforcement (ICE).
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    notes
+   </td>
+   <td class="field-value">
+    Not worker centric.
    </td>
   </tr>
  </table>
