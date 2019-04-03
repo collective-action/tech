@@ -69,6 +69,38 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
 
 #### Actions
 <div id="actions">
+  <table data-author="organizejs">
+  <tr>
+   <td class="field-key">date</td>
+   <td class="field-value">2018-11-14</td>
+  </tr>
+  <tr>
+   <td class="field-key">source</td>
+   <td class="field-value">
+    <a href="https://www.vox.com/the-goods/2018/11/15/18096181/long-island-city-amazon-hq2-protest">Vox</a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">company</td>
+   <td class="field-value">Amazon</td>
+  </tr>
+  <tr>
+   <td class="field-key">action</td>
+   <td class="field-value">Protest</td>
+  </tr>
+  <tr>
+   <td class="field-key">worker_count</td>
+   <td class="field-value">100</td>
+  </tr>
+  <tr>
+   <td class="field-key">description</td>
+   <td class="field-value">On November 14, one day after Amazon formally announced its plan to open half of its so-called "second headquarters" in New York City, nearly 100 politicians, union organizers, and community members gathered in a Long Island City park to protest the company's impending expansion.</td>
+  </tr>
+  <tr>
+   <td class="field-key">notes</td>
+   <td class="field-value">Not worker centric.</td>
+  </tr>
+ </table>
  <table data-author="organizejs">
   <tr>
    <td class="field-key">
