@@ -1,6 +1,6 @@
 # Collective Actions in Tech
       
-This repository is an attemp to document all collective actions from tech workers. The goal of Collective Action in Tech is to give us, tech workers, more insight on trends in worker power in the tech industry. 
+This repository is an attempt to document all collective actions from tech and adjacent industries included gaming, communications, and digital media. The goal of Collective Action in Tech is to give us, tech workers, more insight on trends in worker power in the tech industry. 
 
 <details>
 <summary><strong><em>This repository is meant to be a live document. Learn about adding a new action.</em></strong></summary>
@@ -69,6 +69,116 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
 
 #### Actions
 <div id="actions">
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">date</td>
+   <td class="field-value">2018-06-04</td>
+  </tr>
+  <tr>
+   <td class="field-key">source</td>
+   <td class="field-value">
+    <a href="https://www.southbendtribune.com/news/business/at-t-workers-strike-across-the-midwest-including-in-south/article_02c98d1d-a0b7-5f53-9d94-dcb9d830298b.html">South Bend Tribune</a>, 
+    <a href="https://www.salon.com/2018/06/14/att-workers-are-leading-a-massive-strike_partner/">Salon</a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">company</td>
+   <td class="field-value">AT&T</td>
+  </tr>
+  <tr>
+   <td class="field-key">action</td>
+   <td class="field-value">Strike</td>
+  </tr>
+  <tr>
+   <td class="field-key">employment_type</td>
+   <td class="field-value">Contract Workers</td>
+  </tr>
+  <tr>
+   <td class="field-key">union_affiliation</td>
+   <td class="field-value">Communication Workers of America (CWA)</td>
+  </tr>
+  <tr>
+   <td class="field-key">worker_count</td>
+   <td class="field-value">11000</td>
+  </tr>
+  <tr>
+   <td class="field-key">description</td>
+   <td class="field-value">Across the Midwest, thousands of AT&T workers striked against unfair labor practices in the ongoing negotiations with the company for a new contract. More than 11,000 workers belonging to the Communications Workers of America had joined, including roughly 1,500 across Indiana and 249 specifically in South Bend. For AT&T customers, the strike could mean some delays for installation and repairs.</td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">date</td>
+   <td class="field-value">2017-05-19</td>
+  </tr>
+  <tr>
+   <td class="field-key">source</td>
+   <td class="field-value">
+    <a href="https://www.reuters.com/article/us-usa-at-t-strike/about-37000-att-workers-go-on-three-day-strike-idUSKCN18F2CI">Reuters</a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">company</td>
+   <td class="field-value">AT&T</td>
+  </tr>
+  <tr>
+   <td class="field-key">action</td>
+   <td class="field-value">Strike</td>
+  </tr>
+  <tr>
+   <td class="field-key">employment_type</td>
+   <td class="field-value">Contract Workers</td>
+  </tr>
+  <tr>
+   <td class="field-key">union_affiliation</td>
+   <td class="field-value">Communication Workers of America (CWA)</td>
+  </tr>
+  <tr>
+   <td class="field-key">worker_count</td>
+   <td class="field-value">37000</td>
+  </tr>
+  <tr>
+   <td class="field-key">description</td>
+   <td class="field-value">About 37,000 AT&T workers, or less than 14 percent of the company’s total workforce, began a three-day strike. This is the first time that AT&T wireless workers are on strike, which could result in closed retail stores during the weekend, according to the Communications Workers of America (CWA) union.</td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">date</td>
+   <td class="field-value">2017-03-22</td>
+  </tr>
+  <tr>
+   <td class="field-key">source</td>
+   <td class="field-value">
+    <a href="https://www.siliconvalley.com/2017/03/23/at-strike-workers-go-back-to-work-after-one-day/">Silicon Valley</a>,
+    <a href="https://money.cnn.com/2017/03/22/news/companies/att-strike-landline-workers/index.html">CNN</a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">company</td>
+   <td class="field-value">AT&T</td>
+  </tr>
+  <tr>
+   <td class="field-key">action</td>
+   <td class="field-value">Strike</td>
+  </tr>
+  <tr>
+   <td class="field-key">employment_type</td>
+   <td class="field-value">Contract Workers</td>
+  </tr>
+  <tr>
+   <td class="field-key">union_affiliation</td>
+   <td class="field-value">Communication Workers of America (CWA)</td>
+  </tr>
+  <tr>
+   <td class="field-key">worker_count</td>
+   <td class="field-value">17000</td>
+  </tr>
+  <tr>
+   <td class="field-key">description</td>
+   <td class="field-value">About 17,000 AT&T workers walked off the job Wednesday. Workers say that AT&T was forcing technicians to work outside their areas of expertise. The union also was protesting the company's outsourcing and offshoring of jobs. AT&T wireless workers were not affected.</td>
+  </tr>
+ </table>
  <table data-author="organizejs">
   <tr>
    <td class="field-key">date</td>
