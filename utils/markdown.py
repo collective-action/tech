@@ -150,7 +150,7 @@ def _get_data_from_md_document(project_id: str, doc: MarkdownDocument) -> Markdo
     Returns:
         The parsed Markdown table
     """
-    md_data = re.findall(fr"<div[\s\S]+{project_id}+[\s\S]+<\/div>", doc)
+    md_data = re.findall(fr'<div id="{project_id}">+[\s\S]+<\/div>', doc)
 
     if not md_data:
         raise MarkdownDataNotFound
@@ -197,12 +197,18 @@ def _replace_md_data(
     """ Replace the table in {doc} with {md_data}. """
     assert _is_valid_md_data(md_data)
     new_md_data = BeautifulSoup(md_data, "html.parser")
-    soup = BeautifulSoup(doc, "html.parser")
-    data = soup.find("div", id=project_id)
-    if not data:
+    old_md_data = re.findall(fr'<div id="{project_id}">+[\s\S]+<\/div>', doc)
+    if not old_md_data:
         raise MarkdownDataNotFound
-    old_soup = data.replace_with(new_md_data)
-    return soup.prettify()
+    if len(old_md_data) > 1:
+        raise MultipleMarkdownDataFound
+    return doc.replace(old_md_data[0], new_md_data.prettify())
+
+
+def _prettify_md_doc(doc: MarkdownDocument) -> MarkdownDocument:
+    """ Prettify a md document. """
+    soup = BeautifulSoup(doc)
+    soup.table.prettify()
 
 
 def _sort_df(df: pd.DataFrame) -> pd.DataFrame:

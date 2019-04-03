@@ -10,7 +10,7 @@ This repository of collective action in tech is meant to be a live document. Fee
 A quick summary of how to add a new action. See the [contribution guidelines](CONTRIBUTING.md) for more details.
 
 #### Steps
-1. Copy and paste the html code snippet below right below the `<div id="collection-actions-in-tech">` opening tag. Don't worry about the formatting being consistent.
+1. Copy and paste the html code snippet below right below the opening `<div>` opening tag.
 1. Update the fields and verify that the changes look correct.
 1. Commit the changes to a new branch and make a PR.
 
@@ -495,6 +495,78 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
    </td>
    <td class="field-value">
     In an open letter posted to Microsoft's internal message board on Tuesday, hundreds of employees protested Microsoft's work with Immigration and Customs Enforcement and demanding that the company stop working with the agency.
+   </td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
+    2018-01-16
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    source
+   </td>
+   <td class="field-value">
+    <a href="https://www.jacobinmag.com/2018/04/lanetix-tech-workers-unionization-campaign-firing">
+     Jacobin
+    </a>
+    ,
+    <a href="https://www.bloomberg.com/news/articles/2018-11-10/software-startup-accused-of-union-busting-will-pay-ex-employees">
+     Bloomberg
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    company
+   </td>
+   <td class="field-value">
+    Lanetix
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    Intent to Unionize
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    employment_type
+   </td>
+   <td class="field-value">
+    FTE
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    union_affiliation
+   </td>
+   <td class="field-value">
+    NewsGuild-CWA
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    worker_count
+   </td>
+   <td class="field-value">
+    15
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    After fighting for better working conditions, tech workers at Lanetix sent a letter to management outlining workplace grievances and announcing their intention to unionize with NewsGuild-CWA. They also filed a petition with the National Labor Relations Board (NLRB).
    </td>
   </tr>
  </table>
