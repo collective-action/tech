@@ -62,216 +62,13 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
  <table>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">22</td>
+    <td data-summary="action-count">28</td>
   </tr>
  </table>
 </div>
 
 #### Actions
 <div id="actions">
- <table data-author="organizejs">
-  <tr>
-   <td class="field-key">date</td>
-   <td class="field-value">2018-06-04</td>
-  </tr>
-  <tr>
-   <td class="field-key">source</td>
-   <td class="field-value">
-    <a href="https://www.southbendtribune.com/news/business/at-t-workers-strike-across-the-midwest-including-in-south/article_02c98d1d-a0b7-5f53-9d94-dcb9d830298b.html">South Bend Tribune</a>, 
-    <a href="https://www.salon.com/2018/06/14/att-workers-are-leading-a-massive-strike_partner/">Salon</a>
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">company</td>
-   <td class="field-value">AT&T</td>
-  </tr>
-  <tr>
-   <td class="field-key">action</td>
-   <td class="field-value">Strike</td>
-  </tr>
-  <tr>
-   <td class="field-key">employment_type</td>
-   <td class="field-value">Contract Workers</td>
-  </tr>
-  <tr>
-   <td class="field-key">union_affiliation</td>
-   <td class="field-value">Communication Workers of America (CWA)</td>
-  </tr>
-  <tr>
-   <td class="field-key">worker_count</td>
-   <td class="field-value">11000</td>
-  </tr>
-  <tr>
-   <td class="field-key">description</td>
-   <td class="field-value">Across the Midwest, thousands of AT&T workers striked against unfair labor practices in the ongoing negotiations with the company for a new contract. More than 11,000 workers belonging to the Communications Workers of America had joined, including roughly 1,500 across Indiana and 249 specifically in South Bend. For AT&T customers, the strike could mean some delays for installation and repairs.</td>
-  </tr>
- </table>
- <table data-author="organizejs">
-  <tr>
-   <td class="field-key">date</td>
-   <td class="field-value">2017-05-19</td>
-  </tr>
-  <tr>
-   <td class="field-key">source</td>
-   <td class="field-value">
-    <a href="https://www.reuters.com/article/us-usa-at-t-strike/about-37000-att-workers-go-on-three-day-strike-idUSKCN18F2CI">Reuters</a>
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">company</td>
-   <td class="field-value">AT&T</td>
-  </tr>
-  <tr>
-   <td class="field-key">action</td>
-   <td class="field-value">Strike</td>
-  </tr>
-  <tr>
-   <td class="field-key">employment_type</td>
-   <td class="field-value">Contract Workers</td>
-  </tr>
-  <tr>
-   <td class="field-key">union_affiliation</td>
-   <td class="field-value">Communication Workers of America (CWA)</td>
-  </tr>
-  <tr>
-   <td class="field-key">worker_count</td>
-   <td class="field-value">37000</td>
-  </tr>
-  <tr>
-   <td class="field-key">description</td>
-   <td class="field-value">About 37,000 AT&T workers, or less than 14 percent of the company’s total workforce, began a three-day strike. This is the first time that AT&T wireless workers are on strike, which could result in closed retail stores during the weekend, according to the Communications Workers of America (CWA) union.</td>
-  </tr>
- </table>
- <table data-author="organizejs">
-  <tr>
-   <td class="field-key">date</td>
-   <td class="field-value">2017-03-22</td>
-  </tr>
-  <tr>
-   <td class="field-key">source</td>
-   <td class="field-value">
-    <a href="https://www.siliconvalley.com/2017/03/23/at-strike-workers-go-back-to-work-after-one-day/">Silicon Valley</a>,
-    <a href="https://money.cnn.com/2017/03/22/news/companies/att-strike-landline-workers/index.html">CNN</a>
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">company</td>
-   <td class="field-value">AT&T</td>
-  </tr>
-  <tr>
-   <td class="field-key">action</td>
-   <td class="field-value">Strike</td>
-  </tr>
-  <tr>
-   <td class="field-key">employment_type</td>
-   <td class="field-value">Contract Workers</td>
-  </tr>
-  <tr>
-   <td class="field-key">union_affiliation</td>
-   <td class="field-value">Communication Workers of America (CWA)</td>
-  </tr>
-  <tr>
-   <td class="field-key">worker_count</td>
-   <td class="field-value">17000</td>
-  </tr>
-  <tr>
-   <td class="field-key">description</td>
-   <td class="field-value">About 17,000 AT&T workers walked off the job Wednesday. Workers say that AT&T was forcing technicians to work outside their areas of expertise. The union also was protesting the company's outsourcing and offshoring of jobs. AT&T wireless workers were not affected.</td>
-  </tr>
- </table>
- <table data-author="organizejs">
-  <tr>
-   <td class="field-key">date</td>
-   <td class="field-value">2014-09-19</td>
-  </tr>
-  <tr>
-   <td class="field-key">source</td>
-   <td class="field-value">
-    <a href="https://thinkprogress.org/silicon-valley-workers-protest-for-fair-wages-at-apple-stores-during-iphone-6-launch-860a32a25b98/">Think Progress</a>
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">action</td>
-   <td class="field-value">Protest</td>
-  </tr>
-  <tr>
-   <td class="field-key">employment_type</td>
-   <td class="field-value">Contract Workers</td>
-  </tr>
-  <tr>
-   <td class="field-key">union_affiliation</td>
-   <td class="field-value">Service Employees International Union (SEIU)</td>
-  </tr>
-  <tr>
-   <td class="field-key">description</td>
-   <td class="field-value">In front of Apple stores nationwide, tech company employees gathered to protest alongside hundreds of eager customers waiting in line to buy the iPhone 6. The protesters weren't disgruntled Apple engineers or developers; they were security officers, maintenance and custodial staff demanding better wages from tech companies.</td>
-  </tr>
- </table>
- <table data-author="organizejs">
-  <tr>
-   <td class="field-key">date</td>
-   <td class="field-value">2014-03-03</td>
-  </tr>
-  <tr>
-   <td class="field-key">source</td>
-   <td class="field-value">
-    <a href="https://www.reuters.com/article/us-china-strikes/ibm-factory-strike-shows-shifting-china-labor-landscape-idUSBREA2804K20140309">Reuters</a>
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">company</td>
-   <td class="field-value">IBM</td>
-  </tr>
-  <tr>
-   <td class="field-key">action</td>
-   <td class="field-value">Strike</td>
-  </tr>
-  <tr>
-   <td class="field-key">employment_type</td>
-   <td class="field-value">Factory Workers</td>
-  </tr>
-  <tr>
-   <td class="field-key">worker_count</td>
-   <td class="field-value">1000+</td>
-  </tr>
-  <tr>
-   <td class="field-key">description</td>
-   <td class="field-value">More than 1,000 IBM factory workers walked off the job at the factory in Shenzhen, bordering Hong Kong, after managers on announced the terms of their transfer to new ownership under Chinese PC maker Lenovo Group Ltd.</td>
-  </tr>
- </table>
- <table data-author="organizejs">
-  <tr>
-   <td class="field-key">date</td>
-   <td class="field-value">2017-03-14</td>
-  </tr>
-  <tr>
-   <td class="field-key">source</td>
-   <td class="field-value">
-    <a href="https://www.aljazeera.com/news/2017/03/silicon-valley-workers-protest-donald-trump-170314015033643.html">Aljazeera Name</a>, 
-    <a href="https://www.cnet.com/news/tech-stands-up-rally-against-president-trump-silicon-valley-rally-palo-alto/">CNET</a>
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">action</td>
-   <td class="field-value">Protest</td>
-  </tr>
-  <tr>
-   <td class="field-key">employment_type</td>
-   <td class="field-value">FTE, Contractors</td>
-  </tr>
-  <tr>
-   <td class="field-key">worker_count</td>
-   <td class="field-value">100+</td>
-  </tr>
-  <tr>
-   <td class="field-key">description</td>
-   <td class="field-value">Hundreds of protesters have attended a demonstration held by Silicon Valley workers against what participants call the discriminatory policymaking of US President Donald Trump and his administration.</td>
-  </tr>
-  <tr>
-   <td class="field-key">notes</td>
-   <td class="field-value">The rally was not only attended by tech workers.</td>
-  </tr>
- </table>
  <table data-author="organizejs">
   <tr>
    <td class="field-key">
@@ -1289,6 +1086,78 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
     date
    </td>
    <td class="field-value">
+    2018-06-04
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    source
+   </td>
+   <td class="field-value">
+    <a href="https://www.southbendtribune.com/news/business/at-t-workers-strike-across-the-midwest-including-in-south/article_02c98d1d-a0b7-5f53-9d94-dcb9d830298b.html">
+     South Bend Tribune
+    </a>
+    ,
+    <a href="https://www.salon.com/2018/06/14/att-workers-are-leading-a-massive-strike_partner/">
+     Salon
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    company
+   </td>
+   <td class="field-value">
+    AT&amp;T
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    Strike
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    employment_type
+   </td>
+   <td class="field-value">
+    Contract Workers
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    union_affiliation
+   </td>
+   <td class="field-value">
+    Communication Workers of America (CWA)
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    worker_count
+   </td>
+   <td class="field-value">
+    11000
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    Across the Midwest, thousands of AT&amp;T workers striked against unfair labor practices in the ongoing negotiations with the company for a new contract. More than 11,000 workers belonging to the Communications Workers of America had joined, including roughly 1,500 across Indiana and 249 specifically in South Bend. For AT&amp;T customers, the strike could mean some delays for installation and repairs.
+   </td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
     2018-05-30
    </td>
   </tr>
@@ -1497,6 +1366,210 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
     date
    </td>
    <td class="field-value">
+    2017-05-19
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    source
+   </td>
+   <td class="field-value">
+    <a href="https://www.reuters.com/article/us-usa-at-t-strike/about-37000-att-workers-go-on-three-day-strike-idUSKCN18F2CI">
+     Reuters
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    company
+   </td>
+   <td class="field-value">
+    AT&amp;T
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    Strike
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    employment_type
+   </td>
+   <td class="field-value">
+    Contract Workers
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    union_affiliation
+   </td>
+   <td class="field-value">
+    Communication Workers of America (CWA)
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    worker_count
+   </td>
+   <td class="field-value">
+    37000
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    About 37,000 AT&amp;T workers, or less than 14 percent of the company’s total workforce, began a three-day strike. This is the first time that AT&amp;T wireless workers are on strike, which could result in closed retail stores during the weekend, according to the Communications Workers of America (CWA) union.
+   </td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
+    2017-03-22
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    source
+   </td>
+   <td class="field-value">
+    <a href="https://www.siliconvalley.com/2017/03/23/at-strike-workers-go-back-to-work-after-one-day/">
+     Silicon Valley
+    </a>
+    ,
+    <a href="https://money.cnn.com/2017/03/22/news/companies/att-strike-landline-workers/index.html">
+     CNN
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    company
+   </td>
+   <td class="field-value">
+    AT&amp;T
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    Strike
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    employment_type
+   </td>
+   <td class="field-value">
+    Contract Workers
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    union_affiliation
+   </td>
+   <td class="field-value">
+    Communication Workers of America (CWA)
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    worker_count
+   </td>
+   <td class="field-value">
+    17000
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    About 17,000 AT&amp;T workers walked off the job Wednesday. Workers say that AT&amp;T was forcing technicians to work outside their areas of expertise. The union also was protesting the company's outsourcing and offshoring of jobs. AT&amp;T wireless workers were not affected.
+   </td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
+    2017-03-14
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    source
+   </td>
+   <td class="field-value">
+    <a href="https://www.aljazeera.com/news/2017/03/silicon-valley-workers-protest-donald-trump-170314015033643.html">
+     Aljazeera Name
+    </a>
+    ,
+    <a href="https://www.cnet.com/news/tech-stands-up-rally-against-president-trump-silicon-valley-rally-palo-alto/">
+     CNET
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    Protest
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    employment_type
+   </td>
+   <td class="field-value">
+    FTE, Contractors
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    worker_count
+   </td>
+   <td class="field-value">
+    100+
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    Hundreds of protesters have attended a demonstration held by Silicon Valley workers against what participants call the discriminatory policymaking of US President Donald Trump and his administration.
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    notes
+   </td>
+   <td class="field-value">
+    The rally was not only attended by tech workers.
+   </td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
     2017-01-18
    </td>
   </tr>
@@ -1648,6 +1721,118 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
    </td>
    <td class="field-value">
     Janitors of WeWork protest at their company's Manhattan headquarters at 222 Broadway. In that same building, other renters and owners hire cleaning contractors at the standard city-wide rate, while WeWork pays an average of $11 an hour.
+   </td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
+    2014-09-19
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    source
+   </td>
+   <td class="field-value">
+    <a href="https://thinkprogress.org/silicon-valley-workers-protest-for-fair-wages-at-apple-stores-during-iphone-6-launch-860a32a25b98/">
+     Think Progress
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    Protest
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    employment_type
+   </td>
+   <td class="field-value">
+    Contract Workers
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    union_affiliation
+   </td>
+   <td class="field-value">
+    Service Employees International Union (SEIU)
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    In front of Apple stores nationwide, tech company employees gathered to protest alongside hundreds of eager customers waiting in line to buy the iPhone 6. The protesters weren't disgruntled Apple engineers or developers; they were security officers, maintenance and custodial staff demanding better wages from tech companies.
+   </td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
+    2014-03-03
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    source
+   </td>
+   <td class="field-value">
+    <a href="https://www.reuters.com/article/us-china-strikes/ibm-factory-strike-shows-shifting-china-labor-landscape-idUSBREA2804K20140309">
+     Reuters
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    company
+   </td>
+   <td class="field-value">
+    IBM
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    Strike
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    employment_type
+   </td>
+   <td class="field-value">
+    Factory Workers
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    worker_count
+   </td>
+   <td class="field-value">
+    1000+
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    More than 1,000 IBM factory workers walked off the job at the factory in Shenzhen, bordering Hong Kong, after managers on announced the terms of their transfer to new ownership under Chinese PC maker Lenovo Group Ltd.
    </td>
   </tr>
  </table>
