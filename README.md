@@ -69,6 +69,39 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
 
 #### Actions
 <div id="actions">
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">date</td>
+   <td class="field-value">2018-12-14</td>
+  </tr>
+  <tr>
+   <td class="field-key">source</td>
+   <td class="field-value">
+    <a href="http://www.startribune.com/workers-protest-conditions-at-amazon-s-shakopee-center/502829882/">Star Tribune</a>     
+    <a href="https://www.seattletimes.com/business/somali-workers-in-minnesota-force-amazon-to-negotiate/">Seattle Times</a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">company</td>
+   <td class="field-value">Amazon</td>
+  </tr>
+  <tr>
+   <td class="field-key">action</td>
+   <td class="field-value">Protest</td>
+  </tr>
+  <tr>
+   <td class="field-key">employment_type</td>
+   <td class="field-value">Contractors</td>
+  </tr>
+  <tr>
+   <td class="field-key">worker_count</td>
+   <td class="field-value">100</td>
+  </tr>
+  <tr>
+   <td class="field-key">description</td>
+   <td class="field-value">Amid chants of "Hear our voice," a group of about 100 Somali-American workers and their supporters marched to the entrance of Amazon"s Shakopee fulfillment center Friday evening to protestunfair working conditions.</td>
+  </tr>
+ </table>
   <table data-author="organizejs">
   <tr>
    <td class="field-key">date</td>
