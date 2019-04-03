@@ -20,7 +20,7 @@ This repository of collective action in tech is meant to be a live document. Fee
    <td class="field-value">
     <a href="https://www.nytimes.com/2018/06/19/technology/tech-companies-immigration-border.html">
      NYTimes
-    </a>
+    </a>,
     <a href="https://www.theverge.com/2018/6/21/17488328/microsoft-ice-employees-signatures-protest">
      The Verge
     </a>
