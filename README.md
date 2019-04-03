@@ -62,7 +62,7 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
  <table>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">17</td>
+    <td data-summary="action-count">22</td>
   </tr>
  </table>
 </div>
@@ -71,177 +71,78 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
 <div id="actions">
  <table data-author="organizejs">
   <tr>
-   <td class="field-key">date</td>
-   <td class="field-value">2015-06-18</td>
-  </tr>
-  <tr>
-   <td class="field-key">source</td>
+   <td class="field-key">
+    date
+   </td>
    <td class="field-value">
-    <a href="https://www.buzzfeednews.com/article/coralewis/wework-cleaners-push-for-raise">Buzzfeed</a>
+    2019-10-04
    </td>
   </tr>
   <tr>
-   <td class="field-key">company</td>
-   <td class="field-value">WeWork</td>
-  </tr>
-  <tr>
-   <td class="field-key">action</td>
-   <td class="field-value">Protest</td>
-  </tr>
-  <tr>
-   <td class="field-key">employment_type</td>
-   <td class="field-value">Contractors</td>
-  </tr>
-  <tr>
-   <td class="field-key">union_affiliation</td>
-   <td class="field-value">SEIU 32BJ</td>
-  </tr>
-  <tr>
-   <td class="field-key">description</td>
-   <td class="field-value">Janitors of WeWork protest at their company's Manhattan headquarters at 222 Broadway. In that same building, other renters and owners hire cleaning contractors at the standard city-wide rate, while WeWork pays an average of $11 an hour.</td>
-  </tr>
- </table>
- <table data-author="organizejs">
-  <tr>
-   <td class="field-key">date</td>
-   <td class="field-value">2019-10-04</td>
-  </tr>
-  <tr>
-   <td class="field-key">source</td>
+   <td class="field-key">
+    source
+   </td>
    <td class="field-value">
-    <a href="https://www.bbc.com/news/business-45734662">BBC</a>
+    <a href="https://www.bbc.com/news/business-45734662">
+     BBC
+    </a>
    </td>
   </tr>
   <tr>
-   <td class="field-key">company</td>
-   <td class="field-value">Uber</td>
-  </tr>
-  <tr>
-   <td class="field-key">action</td>
-   <td class="field-value">Strike</td>
-  </tr>
-  <tr>
-   <td class="field-key">employment_type</td>
-   <td class="field-value">Independent Contractors</td>
-  </tr>
-  <tr>
-   <td class="field-key">union_affiliation</td>
-   <td class="field-value">Independent Workers Union of Great Britain (IWGB), Industrial Workers of the World (IWW)</td>
-  </tr>
-  <tr>
-   <td class="field-key">worker_count</td>
-   <td class="field-value">50</td>
-  </tr>
-  <tr>
-   <td class="field-key">description</td>
-   <td class="field-value">UberEats riders and a small number of workers from JD Wetherspoon, McDonald's and TGI Fridays have been staging walkouts in a pay dispute. Protests were being held in several UK cities, along with a rally in London.</td>
-  </tr>
-  <tr>
-   <td class="field-key">notes</td>
-   <td class="field-value">Not just tech workers (the uber drivers). Part of a broader worldwide strike action by fast-food workers.</td>
-  </tr>
- </table> 
- <table data-author="organizejs">
-  <tr>
-   <td class="field-key">date</td>
-   <td class="field-value">2018-10-09</td>
-  </tr>
-  <tr>
-   <td class="field-key">source</td>
+   <td class="field-key">
+    company
+   </td>
    <td class="field-value">
-    <a href="https://www.theguardian.com/technology/2018/oct/09/uber-uk-strike-users-urged-not-to-cross-digital-picket-line">The Guardian</a>,
-     <a href="https://www.bbc.com/news/business-45796409">BBC</a>
+    Uber
    </td>
   </tr>
   <tr>
-   <td class="field-key">company</td>
-   <td class="field-value">Uber</td>
-  </tr>
-  <tr>
-   <td class="field-key">action</td>
-   <td class="field-value">Strike</td>
-  </tr>
-  <tr>
-   <td class="field-key">employment_type</td>
-   <td class="field-value">Independent Contractors</td>
-  </tr>
-  <tr>
-   <td class="field-key">union_affiliation</td>
-   <td class="field-value">The United Private Hire Drivers (UPHD), Independent Workers Union of Great Britain (IWGB)</td>
-  </tr>
-  <tr>
-   <td class="field-key">worker_count</td>
-   <td class="field-value">100+</td>
-  </tr>
-  <tr>
-   <td class="field-key">description</td>
-   <td class="field-value">"Hundreds" of drivers are expected to switch off their apps from 1pm, making themselves unavailable for work, union organisers said. Protests are also being held outside the ride-hailing app's offices in London, Nottingham and Birmingham.</td>
-  </tr>
- </table>  
- <table data-author="organizejs">
-  <tr>
-   <td class="field-key">date</td>
-   <td class="field-value">2018-11-27</td>
-  </tr>
-  <tr>
-   <td class="field-key">source</td>
+   <td class="field-key">
+    action
+   </td>
    <td class="field-value">
-    <a href="https://medium.com/@googlersagainstdragonfly/we-are-google-employees-google-must-drop-dragonfly-4c8a30c5e5eb">Medium</a>,
-    <a href="https://slate.com/technology/2018/11/google-employees-sign-petition-to-end-project-dragonfly.html">Slate</a>
+    Strike
    </td>
   </tr>
   <tr>
-   <td class="field-key">company</td>
-   <td class="field-value">Google</td>
-  </tr>
-  <tr>
-   <td class="field-key">action</td>
-   <td class="field-value">Petition</td>
-  </tr>
-  <tr>
-   <td class="field-key">employment_type</td>
-   <td class="field-value">FTE</td>
-  </tr>
-  <tr>
-   <td class="field-key">worker_count</td>
-   <td class="field-value">740</td>
-  </tr>
-  <tr>
-   <td class="field-key">description</td>
-   <td class="field-value">Google employees have signed an open letter published Tuesday on Medium demanding that the company cease work on Project Dragonfly, which is aimed at creating a search engine that the Chinese government would be able to control to censor certain results and surveil users. "International human rights organizations and investigative reporters have also sounded the alarm, emphasizing serious human rights concerns and repeatedly calling on Google to cancel the project," the letter reads in part. "So far, our leadership's response has been unsatisfactory."</td>
-  </tr>
- </table>
-  <table data-author="organizejs">
-  <tr>
-   <td class="field-key">date</td>
-   <td class="field-value">2019-02-22</td>
-  </tr>
-  <tr>
-   <td class="field-key">source</td>
+   <td class="field-key">
+    employment_type
+   </td>
    <td class="field-value">
-    <a href="https://slate.com/technology/2019/02/microsoft-workers-protest-hololens-pentagon-contract.html">Slate</a>,
-    <a href="https://www.buzzfeednews.com/article/carolineodonovan/microsoft-hololens-army">Buzzfeed</a>
+    Independent Contractors
    </td>
   </tr>
   <tr>
-   <td class="field-key">company</td>
-   <td class="field-value">Microsoft</td>
+   <td class="field-key">
+    union_affiliation
+   </td>
+   <td class="field-value">
+    Independent Workers Union of Great Britain (IWGB), Industrial Workers of the World (IWW)
+   </td>
   </tr>
   <tr>
-   <td class="field-key">action</td>
-   <td class="field-value">Petition</td>
+   <td class="field-key">
+    worker_count
+   </td>
+   <td class="field-value">
+    50
+   </td>
   </tr>
   <tr>
-   <td class="field-key">employment_type</td>
-   <td class="field-value">FTE</td>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    UberEats riders and a small number of workers from JD Wetherspoon, McDonald's and TGI Fridays have been staging walkouts in a pay dispute. Protests were being held in several UK cities, along with a rally in London.
+   </td>
   </tr>
   <tr>
-   <td class="field-key">worker_count</td>
-   <td class="field-value">290</td>
-  </tr>
-  <tr>
-   <td class="field-key">description</td>
-   <td class="field-value">Microsoft employees circulated a letter among the company’s over 130,000-person staff demanding that executives cancel a $479 million contract with the US Army, IVAS, that will provide weapans technology to the U.S. Military to 'increase lethality' to amry soldiers. "We did not sign up to develop weapons, and we demand a say in how our work is used."</td>
+   <td class="field-key">
+    notes
+   </td>
+   <td class="field-value">
+    Not just tech workers (the uber drivers). Part of a broader worldwide strike action by fast-food workers.
+   </td>
   </tr>
  </table>
  <table data-author="organizejs">
@@ -546,6 +447,70 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
     date
    </td>
    <td class="field-value">
+    2019-02-22
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    source
+   </td>
+   <td class="field-value">
+    <a href="https://slate.com/technology/2019/02/microsoft-workers-protest-hololens-pentagon-contract.html">
+     Slate
+    </a>
+    ,
+    <a href="https://www.buzzfeednews.com/article/carolineodonovan/microsoft-hololens-army">
+     Buzzfeed
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    company
+   </td>
+   <td class="field-value">
+    Microsoft
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    Petition
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    employment_type
+   </td>
+   <td class="field-value">
+    FTE
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    worker_count
+   </td>
+   <td class="field-value">
+    290
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    Microsoft employees circulated a letter among the company’s over 130,000-person staff demanding that executives cancel a $479 million contract with the US Army, IVAS, that will provide weapans technology to the U.S. Military to 'increase lethality' to amry soldiers. "We did not sign up to develop weapons, and we demand a say in how our work is used."
+   </td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
     2018-12-14
    </td>
   </tr>
@@ -600,6 +565,70 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
    </td>
    <td class="field-value">
     Amid chants of "Hear our voice," a group of about 100 Somali-American workers and their supporters marched to the entrance of Amazon"s Shakopee fulfillment center Friday evening to protestunfair working conditions.
+   </td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
+    2018-11-27
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    source
+   </td>
+   <td class="field-value">
+    <a href="https://medium.com/@googlersagainstdragonfly/we-are-google-employees-google-must-drop-dragonfly-4c8a30c5e5eb">
+     Medium
+    </a>
+    ,
+    <a href="https://slate.com/technology/2018/11/google-employees-sign-petition-to-end-project-dragonfly.html">
+     Slate
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    company
+   </td>
+   <td class="field-value">
+    Google
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    Petition
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    employment_type
+   </td>
+   <td class="field-value">
+    FTE
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    worker_count
+   </td>
+   <td class="field-value">
+    740
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    Google employees have signed an open letter published Tuesday on Medium demanding that the company cease work on Project Dragonfly, which is aimed at creating a search engine that the Chinese government would be able to control to censor certain results and surveil users. "International human rights organizations and investigative reporters have also sounded the alarm, emphasizing serious human rights concerns and repeatedly calling on Google to cancel the project," the letter reads in part. "So far, our leadership's response has been unsatisfactory."
    </td>
   </tr>
  </table>
@@ -724,6 +753,78 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
    </td>
    <td class="field-value">
     Google employees and contractors walked out of the company's offices around the world, one week after the New York Times reported that Google had protected three executives accused of sexual misconduct.
+   </td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
+    2018-10-09
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    source
+   </td>
+   <td class="field-value">
+    <a href="https://www.theguardian.com/technology/2018/oct/09/uber-uk-strike-users-urged-not-to-cross-digital-picket-line">
+     The Guardian
+    </a>
+    ,
+    <a href="https://www.bbc.com/news/business-45796409">
+     BBC
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    company
+   </td>
+   <td class="field-value">
+    Uber
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    Strike
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    employment_type
+   </td>
+   <td class="field-value">
+    Independent Contractors
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    union_affiliation
+   </td>
+   <td class="field-value">
+    The United Private Hire Drivers (UPHD), Independent Workers Union of Great Britain (IWGB)
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    worker_count
+   </td>
+   <td class="field-value">
+    100+
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    "Hundreds" of drivers are expected to switch off their apps from 1pm, making themselves unavailable for work, union organisers said. Protests are also being held outside the ride-hailing app's offices in London, Nottingham and Birmingham.
    </td>
   </tr>
  </table>
@@ -1284,6 +1385,66 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
    </td>
    <td class="field-value">
     Online petition by information technology workers to work against a United States government database identifying people by race, religion, or national origin, specifically in response to the Trump presidential campaign statements about creating a Muslim registry and deporting millions of illegal immigrants.
+   </td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
+    2015-06-18
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    source
+   </td>
+   <td class="field-value">
+    <a href="https://www.buzzfeednews.com/article/coralewis/wework-cleaners-push-for-raise">
+     Buzzfeed
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    company
+   </td>
+   <td class="field-value">
+    WeWork
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    Protest
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    employment_type
+   </td>
+   <td class="field-value">
+    Contractors
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    union_affiliation
+   </td>
+   <td class="field-value">
+    SEIU 32BJ
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    Janitors of WeWork protest at their company's Manhattan headquarters at 222 Broadway. In that same building, other renters and owners hire cleaning contractors at the standard city-wide rate, while WeWork pays an average of $11 an hour.
    </td>
   </tr>
  </table>
