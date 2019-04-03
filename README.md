@@ -69,6 +69,39 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
 
 #### Actions
 <div id="actions">
+  <table data-author="organizejs">
+  <tr>
+   <td class="field-key">date</td>
+   <td class="field-value">2019-02-22</td>
+  </tr>
+  <tr>
+   <td class="field-key">source</td>
+   <td class="field-value">
+    <a href="https://slate.com/technology/2019/02/microsoft-workers-protest-hololens-pentagon-contract.html">Slate</a>,
+    <a href="https://www.buzzfeednews.com/article/carolineodonovan/microsoft-hololens-army">Buzzfeed</a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">company</td>
+   <td class="field-value">Microsoft</td>
+  </tr>
+  <tr>
+   <td class="field-key">action</td>
+   <td class="field-value">Petition</td>
+  </tr>
+  <tr>
+   <td class="field-key">employment_type</td>
+   <td class="field-value">FTE</td>
+  </tr>
+  <tr>
+   <td class="field-key">worker_count</td>
+   <td class="field-value">290</td>
+  </tr>
+  <tr>
+   <td class="field-key">description</td>
+   <td class="field-value">Microsoft employees circulated a letter among the company’s over 130,000-person staff demanding that executives cancel a $479 million contract with the US Army, IVAS, that will provide weapans technology to the U.S. Military to 'increase lethality' to amry soldiers. "We did not sign up to develop weapons, and we demand a say in how our work is used."</td>
+  </tr>
+ </table>
  <table data-author="organizejs">
   <tr>
    <td class="field-key">
