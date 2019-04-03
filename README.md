@@ -72,7 +72,7 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
   <table data-author="organizejs">
   <tr>
    <td class="field-key">date</td>
-   <td class="field-value">YYYY-MM-DD (choose the earliest relevant date)</td>
+   <td class="field-value">2018-05-30</td>
   </tr>
   <tr>
    <td class="field-key">source</td>
