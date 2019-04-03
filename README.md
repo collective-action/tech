@@ -3,6 +3,64 @@
 This repository documents all collective actions from tech workers in the United States starting from 2016. The goal of Collective Action in Tech is to give us, tech workers, more insight on trends in worker power in the tech industry. 
             
 This repository of collective action in tech is meant to be a live document. Feel free to submit PRs or fork the repository. See our [contribution guidelines](CONTRIBUTING.md).
+
+<details>
+<summary><strong><em>Adding a new action</em></strong></summary>
+
+A quick summary of how to add a new action. See the [contribution guidelines](CONTRIBUTING.md) for more details.
+
+#### Steps
+1. Copy and paste the html code snippet below right below the `<div id="collection-actions-in-tech">` opening tag. Don't worry about the formatting being consistent.
+1. Update the fields and verify that the changes look correct.
+1. Commit the changes to a new branch and make a PR.
+
+```
+<table data-author="@your-username">
+ <tr>
+  <td class="field-key">date</td>
+  <td class="field-value">YYYY-MM-DD</td>
+ </tr>
+ <tr>
+  <td class="field-key">source</td>
+  <td class="field-value">
+   <a href="https://www.your.valid/source">Publication Name</a>
+  </td>
+ </tr>
+ <tr>
+  <td class="field-key">company</td>
+  <td class="field-value">Company Name</td>
+ </tr>
+ <tr>
+  <td class="field-key">action</td>
+  <td class="field-value">[Petition, Strike, Walkout, Union Represenation, etc]</td>
+ </tr>
+ <tr>
+  <td class="field-key">employment_type</td>
+  <td class="field-value">[FTE, contractors, vendors, temps]</td>
+ </tr>
+ <tr>
+  <td class="field-key">worker_count</td>
+  <td class="field-value">100</td>
+ </tr>
+ <tr>
+  <td class="field-key">description</td>
+  <td class="field-value">A short description of the event that took place.</td>
+ </tr>
+</table>
+```
+</details>
+
+#### Summary
+<div id="collective-actions-in-tech-summary">
+ <table>
+  <tr>
+    <td>Number of documented actions</td>
+    <td data-summary="action-count">20</td>
+  </tr>
+ </table>
+</div>
+
+#### Actions
 <div id="collective-actions-in-tech">
  <table data-author="organizejs">
   <tr>
