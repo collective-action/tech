@@ -10,69 +10,6 @@ This repository of collective action in tech is meant to be a live document. Fee
     date
    </td>
    <td class="field-value">
-    2019-04-01
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    source
-   </td>
-   <td class="field-value">
-    <a href="https://www.theguardian.com/technology/2019/apr/01/google-kay-coles-james-removal-employees-letter">
-     The Guardian
-    </a>,
-    <a href="https://medium.com/@against.transphobia/googlers-against-transphobia-and-hate-b1b0a5dbf76">
-     Medium
-    </a>     
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    company
-   </td>
-   <td class="field-value">
-    Google
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    action
-   </td>
-   <td class="field-value">
-    Petition
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    employment_type
-   </td>
-   <td class="field-value">
-    FTE, contractors
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    worker_count
-   </td>
-   <td class="field-value">
-    2000+
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    description
-   </td>
-   <td class="field-value">
-    A group of Google employees have called for the removal of a rightwing thinktank leader from the company's new artificial intelligence council, citing her anti-LGBT and anti-immigrant record. Academic, civil society, and industry supporters have also signed the petition in mass.
-   </td>
-  </tr>
- </table>
- <table data-author="organizejs">
-  <tr>
-   <td class="field-key">
-    date
-   </td>
-   <td class="field-value">
     2019-04-02
    </td>
   </tr>
@@ -133,7 +70,7 @@ This repository of collective action in tech is meant to be a live document. Fee
     date
    </td>
    <td class="field-value">
-    2018-11-01
+    2019-04-01
    </td>
   </tr>
   <tr>
@@ -141,11 +78,12 @@ This repository of collective action in tech is meant to be a live document. Fee
     source
    </td>
    <td class="field-value">
-    <a href="https://www.nytimes.com/2018/11/01/technology/google-walkout-sexual-harassment.html">
-     NYTimes
-    </a>,
-    <a href="https://www.recode.net/2018/11/21/18105719/google-walkout-real-change-organizers-protest-discrimination-kara-swisher-recode-decode-podcast">
-     Recode
+    <a href="https://www.theguardian.com/technology/2019/apr/01/google-kay-coles-james-removal-employees-letter">
+     The Guardian
+    </a>
+    ,
+    <a href="https://medium.com/@against.transphobia/googlers-against-transphobia-and-hate-b1b0a5dbf76">
+     Medium
     </a>
    </td>
   </tr>
@@ -162,7 +100,7 @@ This repository of collective action in tech is meant to be a live document. Fee
     action
    </td>
    <td class="field-value">
-    Walkout
+    Petition
    </td>
   </tr>
   <tr>
@@ -178,7 +116,7 @@ This repository of collective action in tech is meant to be a live document. Fee
     worker_count
    </td>
    <td class="field-value">
-    20000+
+    2000+
    </td>
   </tr>
   <tr>
@@ -186,133 +124,7 @@ This repository of collective action in tech is meant to be a live document. Fee
     description
    </td>
    <td class="field-value">
-    Google employees and contractors walked out of the company's offices around the world, one week after the New York Times reported that Google had protected three executives accused of sexual misconduct.
-   </td>
-  </tr>
- </table>
- <table data-author="organizejs">
-  <tr>
-   <td class="field-key">
-    date
-   </td>
-   <td class="field-value">
-    2018-06-21
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    source
-   </td>
-   <td class="field-value">
-    <a href="https://thehill.com/business-a-lobbying/393583-amazon-employees-protest-sale-of-facial-recognition-tech-to-law">
-     The Hill
-    </a>,
-    <a href="https://www.businessinsider.com/over-100-amazon-employees-sign-letter-jeff-bezos-stop-selling-facial-recognition-software-police-2018-6">
-     Business Insider
-    </a>     
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    company
-   </td>
-   <td class="field-value">
-    Amazon
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    action
-   </td>
-   <td class="field-value">
-    Petition
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    employment_type
-   </td>
-   <td class="field-value">
-    FTE
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    worker_count
-   </td>
-   <td class="field-value">
-    100+
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    description
-   </td>
-   <td class="field-value">
-    Workers at Amazon are circulating an internal letter to CEO Jeff Bezos, asking him to stop selling the company's Rekognition facial recognition software to law enforcement and to boot the data-mining firm Palantir from its cloud services.
-   </td>
-  </tr>
- </table>
- <table data-author="organizejs">
-  <tr>
-   <td class="field-key">
-    date
-   </td>
-   <td class="field-value">
-    2018-06-19
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    source
-   </td>
-   <td class="field-value">
-    <a href="https://www.nytimes.com/2018/06/19/technology/tech-companies-immigration-border.html">
-     NYTimes
-    </a>,
-    <a href="https://www.theverge.com/2018/6/21/17488328/microsoft-ice-employees-signatures-protest">
-     The Verge
-    </a>
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    company
-   </td>
-   <td class="field-value">
-    Microsoft
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    action
-   </td>
-   <td class="field-value">
-    Petition
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    employment_type
-   </td>
-   <td class="field-value">
-    FTE
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    worker_count
-   </td>
-   <td class="field-value">
-    300+
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    description
-   </td>
-   <td class="field-value">
-    In an open letter posted to Microsoft's internal message board on Tuesday, hundreds of employees protested Microsoft's work with Immigration and Customs Enforcement and demanding that the company stop working with the agency.
+    A group of Google employees have called for the removal of a rightwing thinktank leader from the company's new artificial intelligence council, citing her anti-LGBT and anti-immigrant record. Academic, civil society, and industry supporters have also signed the petition in mass.
    </td>
   </tr>
  </table>
@@ -382,6 +194,70 @@ This repository of collective action in tech is meant to be a live document. Fee
     date
    </td>
    <td class="field-value">
+    2018-11-01
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    source
+   </td>
+   <td class="field-value">
+    <a href="https://www.nytimes.com/2018/11/01/technology/google-walkout-sexual-harassment.html">
+     NYTimes
+    </a>
+    ,
+    <a href="https://www.recode.net/2018/11/21/18105719/google-walkout-real-change-organizers-protest-discrimination-kara-swisher-recode-decode-podcast">
+     Recode
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    company
+   </td>
+   <td class="field-value">
+    Google
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    Walkout
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    employment_type
+   </td>
+   <td class="field-value">
+    FTE, contractors
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    worker_count
+   </td>
+   <td class="field-value">
+    20000+
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    Google employees and contractors walked out of the company's offices around the world, one week after the New York Times reported that Google had protected three executives accused of sexual misconduct.
+   </td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
     2018-06-25
    </td>
   </tr>
@@ -433,6 +309,134 @@ This repository of collective action in tech is meant to be a live document. Fee
    </td>
    <td class="field-value">
     Hundreds of Salesforce.com Inc. employees signed a letter to Chief Executive Officer Marc Benioff criticizing the company's contracts with the U.S. Customs and Border Protection agency.
+   </td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
+    2018-06-21
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    source
+   </td>
+   <td class="field-value">
+    <a href="https://thehill.com/business-a-lobbying/393583-amazon-employees-protest-sale-of-facial-recognition-tech-to-law">
+     The Hill
+    </a>
+    ,
+    <a href="https://www.businessinsider.com/over-100-amazon-employees-sign-letter-jeff-bezos-stop-selling-facial-recognition-software-police-2018-6">
+     Business Insider
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    company
+   </td>
+   <td class="field-value">
+    Amazon
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    Petition
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    employment_type
+   </td>
+   <td class="field-value">
+    FTE
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    worker_count
+   </td>
+   <td class="field-value">
+    100+
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    Workers at Amazon are circulating an internal letter to CEO Jeff Bezos, asking him to stop selling the company's Rekognition facial recognition software to law enforcement and to boot the data-mining firm Palantir from its cloud services.
+   </td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
+    2018-06-19
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    source
+   </td>
+   <td class="field-value">
+    <a href="https://www.nytimes.com/2018/06/19/technology/tech-companies-immigration-border.html">
+     NYTimes
+    </a>
+    ,
+    <a href="https://www.theverge.com/2018/6/21/17488328/microsoft-ice-employees-signatures-protest">
+     The Verge
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    company
+   </td>
+   <td class="field-value">
+    Microsoft
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    Petition
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    employment_type
+   </td>
+   <td class="field-value">
+    FTE
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    worker_count
+   </td>
+   <td class="field-value">
+    300+
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    In an open letter posted to Microsoft's internal message board on Tuesday, hundreds of employees protested Microsoft's work with Immigration and Customs Enforcement and demanding that the company stop working with the agency.
    </td>
   </tr>
  </table>
