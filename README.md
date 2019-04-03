@@ -17,7 +17,7 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
  <table data-author="your-username">
   <tr>
    <td class="field-key">date</td>
-   <td class="field-value">YYYY-MM-DD</td>
+   <td class="field-value">YYYY-MM-DD (choose the earliest relevant date)</td>
   </tr>
   <tr>
    <td class="field-key">source</td>
@@ -65,6 +65,32 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
 
 #### Actions
 <div id="actions">
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">date</td>
+   <td class="field-value">2019-03-28</td>
+  </tr>
+  <tr>
+   <td class="field-key">source</td>
+   <td class="field-value">
+    <a href="https://github.com/996icu/996.ICU/">Github</a>,
+    <a href="https://radiichina.com/github-protest-chinese-tech-996/">Radii</a>,
+    <a href="https://www.ft.com/content/72754638-55d1-11e9-91f9-b6515a54c5b1">FT</a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">action</td>
+   <td class="field-value">Petition</td>
+  </tr>
+  <tr>
+   <td class="field-key">worker_count</td>
+   <td class="field-value">+165000</td>
+  </tr>
+  <tr>
+   <td class="field-key">description</td>
+   <td class="field-value">A campaign against long working hours by professionals in China's technology sector has become one of the fastest growing Github repository in Github's history. The "anti-996" campaign opposes employees working shifts of 9am-9pm, six days a week, which are commonly required by the country’s tech giants.</td>
+  </tr>
+ </table>
  <table data-author="organizejs">
   <tr>
    <td class="field-key">date</td>
