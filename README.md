@@ -73,6 +73,75 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
 <div id="actions">
  <table data-author="organizejs">
   <tr>
+   <td class="field-key">date</td>
+   <td class="field-value">2014-09-01</td>
+  </tr>
+  <tr>
+   <td class="field-key">source</td>
+   <td class="field-value">
+    <a href="https://www.bloomberg.com/news/articles/2015-04-30/microsoft-contract-workers-are-organizing">Bloomberg</a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">company</td>
+   <td class="field-value">Microsoft, LionBridge</td>
+  </tr>
+  <tr>
+   <td class="field-key">action</td>
+   <td class="field-value">Unionized</td>
+  </tr>
+  <tr>
+   <td class="field-key">union_affiliation</td>
+   <td class="field-value">Temporary Workers of America</td>
+  </tr>
+  <tr>
+   <td class="field-key">worker_count</td>
+   <td class="field-value">38</td>
+  </tr>
+  <tr>
+   <td class="field-key">description</td>
+   <td class="field-value">A group of temporary workers at Microsoft has signed its first union contract with their employer, a rare feat in a technology industry typically unfriendly to organized labor. 38 bug testers who review Microsoft apps voted to create a union, the Temporary Workers of America. They work full time in Microsoft’s offices but are employed by cloud services contractor LionBridge. </td>
+  </tr>
+  <tr>
+   <td class="field-key">notes</td>
+   <td class="field-value">Many of these employees were then <a href="https://www.seattletimes.com/business/microsoft/at-microsoft-contractor-union-win-is-a-mixed-result/">laid off</a>.</td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">date</td>
+   <td class="field-value">2018-05-14</td>
+  </tr>
+  <tr>
+   <td class="field-key">source</td>
+   <td class="field-value">
+    <a href="http://www.theinvestor.co.kr/view.php?ud=20180710000573">The Investor</a>,
+    <a href="https://www.koreatimes.co.kr/www/tech/2018/05/133_248940.html">Korea Times</a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">company</td>
+   <td class="field-value">Oracle</td>
+  </tr>
+  <tr>
+   <td class="field-key">action</td>
+   <td class="field-value">Strike</td>
+  </tr>
+  <tr>
+   <td class="field-key">union_affiliation</td>
+   <td class="field-value">The Oracle Korea Workers Union</td>
+  </tr>
+  <tr>
+   <td class="field-key">worker_count</td>
+   <td class="field-value">100+</td>
+  </tr>
+  <tr>
+   <td class="field-key">description</td>
+   <td class="field-value">Workers of Oracle Korea have been sat outside the main office for more than 50 days after 19 negotiations with the management from December to April failed. This is now the longest strike by employees of a foreign IT company in Korea. "Some people think we don't need a union because they believe we work at a leading global IT company and have well-paid jobs," Kim Chul-soo, president of the Oracle labor union, said. "It's not true at all." </td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
    <td class="field-key">
     date
    </td>
