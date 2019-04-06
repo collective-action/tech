@@ -66,184 +66,13 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
  <table>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">31</td>
+    <td data-summary="action-count">36</td>
   </tr>
  </table>
 </div>
 
 #### Actions
 <div id="actions">
- <table data-author="organizejs">
-  <tr>
-   <td class="field-key">date</td>
-   <td class="field-value">2018-08-23</td>
-  </tr>
-  <tr>
-   <td class="field-key">source</td>
-   <td class="field-value">
-    <a href="https://teamster.org/news/2018/08/teamster-shuttle-drivers-high-tech-companies-hold-action-fair-contract">Teamster</a>,
-    <a href="https://www.sfchronicle.com/business/article/Teamsters-target-tech-buses-in-Castro-District-13177065.php#photo-16057250">SF Chronicle</a>
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">action</td>
-   <td class="field-value">Protest</td>
-  </tr>
-  <tr>
-   <td class="field-key">employment_type</td>
-   <td class="field-value">Contract</td>
-  </tr>
-  <tr>
-   <td class="field-key">union_affiliation</td>
-   <td class="field-value">Teamster</td>
-  </tr>
-  <tr>
-   <td class="field-key">worker_count</td>
-   <td class="field-value">40</td>
-  </tr>
-  <tr>
-   <td class="field-key">description</td>
-   <td class="field-value">Members of the union that represents the folks behind the wheels of corporate shuttles stood and sat in front of those buses in the Castro district, demanding a secure pension for high-tech shuttle drivers. About 40 Teamsters blocked tech buses in a surprise protest. The drivers were from WeDriveU and Loop/Hallcon and transport employees for high-tech companies including  Apple, Tesla, Amazon, Twitter, LinkedIn, Salesforce, Electronic Arts, Lam and Facebook.</td>
-  </tr>
- </table>
- <table data-author="organizejs">
-  <tr>
-   <td class="field-key">date</td>
-   <td class="field-value">2015-02-26</td>
-  </tr>
-  <tr>
-   <td class="field-key">source</td>
-   <td class="field-value">
-    <a href="https://abc7news.com/business/apple-shuttle-drivers-rally-for-right-to-unionize/535814/">ABC 7 News</a>
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">company</td>
-   <td class="field-value">Apple, Compass Transportation</td>
-  </tr>
-  <tr>
-   <td class="field-key">action</td>
-   <td class="field-value">Protest</td>
-  </tr>
-  <tr>
-   <td class="field-key">employment_type</td>
-   <td class="field-value">Contract</td>
-  </tr>
-  <tr>
-   <td class="field-key">union_affiliation</td>
-   <td class="field-value">Teamster</td>
-  </tr>
-  <tr>
-   <td class="field-key">worker_count</td>
-   <td class="field-value">50</td>
-  </tr>
-  <tr>
-   <td class="field-key">description</td>
-   <td class="field-value">Union supporters of drivers who shuttle around Apple employees, were protesting outside the tech giant's Cupertino headquarters on Wednesday morning, ahead of their big vote Friday on whether to join the Teamsters Union. </td>
-  </tr>
- </table>
- <table data-author="organizejs">
-  <tr>
-   <td class="field-key">date</td>
-   <td class="field-value">2019-01-16</td>
-  </tr>
-  <tr>
-   <td class="field-key">source</td>
-   <td class="field-value">
-    <a href="https://medium.com/@BuzzFeedNewsStaffCouncil/letter-to-buzzfeed-pto-layoffs-f79d9c857a21">Medium</a>, 
-    <a href="https://techcrunch.com/2019/01/27/buzzfeed-employees-demand-it-pay-out-earned-pto-to-all-laid-off-u-s-staffers/">Techcrunch</a>
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">company</td>
-   <td class="field-value">Buzzfeed</td>
-  </tr>
-  <tr>
-   <td class="field-key">action</td>
-   <td class="field-value">Petition</td>
-  </tr>
-  <tr>
-   <td class="field-key">employment_type</td>
-   <td class="field-value">FTE</td>
-  </tr>
-  <tr>
-   <td class="field-key">worker_count</td>
-   <td class="field-value">600+</td>
-  </tr>
-  <tr>
-   <td class="field-key">description</td>
-   <td class="field-value">A group of current and former BuzzFeed employees are asking the company to pay out paid time off to all recently laid-off staff. In an open letter to BuzzFeed's CEO Jonah Peretti and editor in chief Ben Smith, the BuzzFeed News Staff Council write "BuzzFeed is refusing to pay out earned, accrued, and vested paid time off for almost all U.S. employees who have been laid off." </td>
-  </tr>
- </table>
- <table data-author="organizejs">
-  <tr>
-   <td class="field-key">date</td>
-   <td class="field-value">2014-09-01</td>
-  </tr>
-  <tr>
-   <td class="field-key">source</td>
-   <td class="field-value">
-    <a href="https://www.bloomberg.com/news/articles/2015-04-30/microsoft-contract-workers-are-organizing">Bloomberg</a>
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">company</td>
-   <td class="field-value">Microsoft, LionBridge</td>
-  </tr>
-  <tr>
-   <td class="field-key">action</td>
-   <td class="field-value">Unionized</td>
-  </tr>
-  <tr>
-   <td class="field-key">union_affiliation</td>
-   <td class="field-value">Temporary Workers of America</td>
-  </tr>
-  <tr>
-   <td class="field-key">worker_count</td>
-   <td class="field-value">38</td>
-  </tr>
-  <tr>
-   <td class="field-key">description</td>
-   <td class="field-value">A group of temporary workers at Microsoft has signed its first union contract with their employer, a rare feat in a technology industry typically unfriendly to organized labor. 38 bug testers who review Microsoft apps voted to create a union, the Temporary Workers of America. They work full time in Microsoft’s offices but are employed by cloud services contractor LionBridge. </td>
-  </tr>
-  <tr>
-   <td class="field-key">notes</td>
-   <td class="field-value">Many of these employees were then <a href="https://www.seattletimes.com/business/microsoft/at-microsoft-contractor-union-win-is-a-mixed-result/">laid off</a>.</td>
-  </tr>
- </table>
- <table data-author="organizejs">
-  <tr>
-   <td class="field-key">date</td>
-   <td class="field-value">2018-05-14</td>
-  </tr>
-  <tr>
-   <td class="field-key">source</td>
-   <td class="field-value">
-    <a href="http://www.theinvestor.co.kr/view.php?ud=20180710000573">The Investor</a>,
-    <a href="https://www.koreatimes.co.kr/www/tech/2018/05/133_248940.html">Korea Times</a>
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">company</td>
-   <td class="field-value">Oracle</td>
-  </tr>
-  <tr>
-   <td class="field-key">action</td>
-   <td class="field-value">Strike</td>
-  </tr>
-  <tr>
-   <td class="field-key">union_affiliation</td>
-   <td class="field-value">The Oracle Korea Workers Union</td>
-  </tr>
-  <tr>
-   <td class="field-key">worker_count</td>
-   <td class="field-value">100+</td>
-  </tr>
-  <tr>
-   <td class="field-key">description</td>
-   <td class="field-value">Workers of Oracle Korea have been sat outside the main office for more than 50 days after 19 negotiations with the management from December to April failed. This is now the longest strike by employees of a foreign IT company in Korea. "Some people think we don't need a union because they believe we work at a leading global IT company and have well-paid jobs," Kim Chul-soo, president of the Oracle labor union, said. "It's not true at all." </td>
-  </tr>
- </table>
  <table data-author="organizejs">
   <tr>
    <td class="field-key">
@@ -669,6 +498,70 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
    </td>
    <td class="field-value">
     Microsoft employees circulated a letter among the company’s over 130,000-person staff demanding that executives cancel a $479 million contract with the US Army, IVAS, that will provide weapans technology to the U.S. Military to 'increase lethality' to amry soldiers. "We did not sign up to develop weapons, and we demand a say in how our work is used."
+   </td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
+    2019-01-16
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    source
+   </td>
+   <td class="field-value">
+    <a href="https://medium.com/@BuzzFeedNewsStaffCouncil/letter-to-buzzfeed-pto-layoffs-f79d9c857a21">
+     Medium
+    </a>
+    ,
+    <a href="https://techcrunch.com/2019/01/27/buzzfeed-employees-demand-it-pay-out-earned-pto-to-all-laid-off-u-s-staffers/">
+     Techcrunch
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    company
+   </td>
+   <td class="field-value">
+    Buzzfeed
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    Petition
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    employment_type
+   </td>
+   <td class="field-value">
+    FTE
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    worker_count
+   </td>
+   <td class="field-value">
+    600+
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    A group of current and former BuzzFeed employees are asking the company to pay out paid time off to all recently laid-off staff. In an open letter to BuzzFeed's CEO Jonah Peretti and editor in chief Ben Smith, the BuzzFeed News Staff Council write "BuzzFeed is refusing to pay out earned, accrued, and vested paid time off for almost all U.S. employees who have been laid off."
    </td>
   </tr>
  </table>
@@ -1137,6 +1030,70 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
     date
    </td>
    <td class="field-value">
+    2018-08-23
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    source
+   </td>
+   <td class="field-value">
+    <a href="https://teamster.org/news/2018/08/teamster-shuttle-drivers-high-tech-companies-hold-action-fair-contract">
+     Teamster
+    </a>
+    ,
+    <a href="https://www.sfchronicle.com/business/article/Teamsters-target-tech-buses-in-Castro-District-13177065.php#photo-16057250">
+     SF Chronicle
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    Protest
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    employment_type
+   </td>
+   <td class="field-value">
+    Contract
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    union_affiliation
+   </td>
+   <td class="field-value">
+    Teamster
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    worker_count
+   </td>
+   <td class="field-value">
+    40
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    Members of the union that represents the folks behind the wheels of corporate shuttles stood and sat in front of those buses in the Castro district, demanding a secure pension for high-tech shuttle drivers. About 40 Teamsters blocked tech buses in a surprise protest. The drivers were from WeDriveU and Loop/Hallcon and transport employees for high-tech companies including  Apple, Tesla, Amazon, Twitter, LinkedIn, Salesforce, Electronic Arts, Lam and Facebook.
+   </td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
     2018-07-31
    </td>
   </tr>
@@ -1520,6 +1477,70 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
    </td>
    <td class="field-value">
     Google employees have led a campaign demanding that the company terminate its contract with the Pentagon for Project Maven, a program that uses machine learning to improve targeting for drone strikes. Nearly five thousand Google workers signed an internal petition to cancel the project, and dozens resigned.
+   </td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
+    2018-05-14
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    source
+   </td>
+   <td class="field-value">
+    <a href="http://www.theinvestor.co.kr/view.php?ud=20180710000573">
+     The Investor
+    </a>
+    ,
+    <a href="https://www.koreatimes.co.kr/www/tech/2018/05/133_248940.html">
+     Korea Times
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    company
+   </td>
+   <td class="field-value">
+    Oracle
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    Strike
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    union_affiliation
+   </td>
+   <td class="field-value">
+    The Oracle Korea Workers Union
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    worker_count
+   </td>
+   <td class="field-value">
+    100+
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    Workers of Oracle Korea have been sat outside the main office for more than 50 days after 19 negotiations with the management from December to April failed. This is now the longest strike by employees of a foreign IT company in Korea. "Some people think we don't need a union because they believe we work at a leading global IT company and have well-paid jobs," Kim Chul-soo, president of the Oracle labor union, said. "It's not true at all."
    </td>
   </tr>
  </table>
@@ -2105,6 +2126,74 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
     date
    </td>
    <td class="field-value">
+    2015-02-26
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    source
+   </td>
+   <td class="field-value">
+    <a href="https://abc7news.com/business/apple-shuttle-drivers-rally-for-right-to-unionize/535814/">
+     ABC 7 News
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    company
+   </td>
+   <td class="field-value">
+    Apple, Compass Transportation
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    Protest
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    employment_type
+   </td>
+   <td class="field-value">
+    Contract
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    union_affiliation
+   </td>
+   <td class="field-value">
+    Teamster
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    worker_count
+   </td>
+   <td class="field-value">
+    50
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    Union supporters of drivers who shuttle around Apple employees, were protesting outside the tech giant's Cupertino headquarters on Wednesday morning, ahead of their big vote Friday on whether to join the Teamsters Union.
+   </td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
     2014-09-19
    </td>
   </tr>
@@ -2148,6 +2237,74 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
    </td>
    <td class="field-value">
     In front of Apple stores nationwide, tech company employees gathered to protest alongside hundreds of eager customers waiting in line to buy the iPhone 6. The protesters weren't disgruntled Apple engineers or developers; they were security officers, maintenance and custodial staff demanding better wages from tech companies.
+   </td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
+    2014-09-01
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    source
+   </td>
+   <td class="field-value">
+    <a href="https://www.bloomberg.com/news/articles/2015-04-30/microsoft-contract-workers-are-organizing">
+     Bloomberg
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    company
+   </td>
+   <td class="field-value">
+    Microsoft, LionBridge
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    Unionized
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    union_affiliation
+   </td>
+   <td class="field-value">
+    Temporary Workers of America
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    worker_count
+   </td>
+   <td class="field-value">
+    38
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    A group of temporary workers at Microsoft has signed its first union contract with their employer, a rare feat in a technology industry typically unfriendly to organized labor. 38 bug testers who review Microsoft apps voted to create a union, the Temporary Workers of America. They work full time in Microsoft’s offices but are employed by cloud services contractor LionBridge.
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    notes
+   </td>
+   <td class="field-value">
+    Many of these employees were then &lt;a href="https://www.seattletimes.com/business/microsoft/at-microsoft-contractor-union-win-is-a-mixed-result/"&gt;laid off&lt;/a&gt;.
    </td>
   </tr>
  </table>
