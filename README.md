@@ -76,6 +76,34 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
  <table data-author="organizejs">
   <tr>
    <td class="field-key">date</td>
+   <td class="field-value">2018-06-04</td>
+  </tr>
+  <tr>
+   <td class="field-key">source</td>
+   <td class="field-value">
+    <a href="https://clb.org.hk/content/food-delivery-workers-china-strike-over-pay-cuts-and-unfair-work-practices">China Bulletin</a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">company</td>
+   <td class="field-value">Meituan</td>
+  </tr>
+  <tr>
+   <td class="field-key">action</td>
+   <td class="field-value">Strike</td>
+  </tr>
+  <tr>
+   <td class="field-key">employment_type</td>
+   <td class="field-value">Contractors, Food delivery drivers</td>
+  </tr>
+  <tr>
+   <td class="field-key">description</td>
+   <td class="field-value">There have been at least 15 strikes and protests by food delivery workers in China since 1 May as increased competition among delivery platforms has drastically reduced workers’ take-home pay. Workers contracted to food delivery giant Meituan in the northern city of Taiyuan staged a work stoppage in protest at a wide range of issues including pay levels, delivery times, insurance and high accident rates.</td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">date</td>
    <td class="field-value">2019-02-18</td>
   </tr>
   <tr>
