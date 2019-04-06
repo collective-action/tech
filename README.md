@@ -76,6 +76,42 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
  <table data-author="organizejs">
   <tr>
    <td class="field-key">date</td>
+   <td class="field-value">2016-03-31</td>
+  </tr>
+  <tr>
+   <td class="field-key">source</td>
+   <td class="field-value">
+    <a href="https://www.bizjournals.com/sanjose/news/2016/03/31/seiu-janitors-san-jose-rally-targets-adobe.html">Silicon Valley Business Journal</a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">company</td>
+   <td class="field-value">Adobe</td>
+  </tr>
+  <tr>
+   <td class="field-key">action</td>
+   <td class="field-value">Strike</td>
+  </tr>
+  <tr>
+   <td class="field-key">employment_type</td>
+   <td class="field-value">Contractors, Janitors</td>
+  </tr>
+  <tr>
+   <td class="field-key">union_affiliation</td>
+   <td class="field-value">Service Employees International Union-United Service Workers West SEIU-USWW</td>
+  </tr>
+  <tr>
+   <td class="field-key">worker_count</td>
+   <td class="field-value">100+</td>
+  </tr>
+  <tr>
+   <td class="field-key">description</td>
+   <td class="field-value">Service Employees International Union-United Service Workers West janitors' San Jose rally targets Adobe. Hundreds of SEIU-USWW members congregated on Cesar Chavez Day to draw attention to ongoing contract negotiations with cleaning service contractors and protest abuse of workers in the janitorial industry.</td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">date</td>
    <td class="field-value">2018-11-23</td>
   </tr>
   <tr>
