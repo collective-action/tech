@@ -76,6 +76,34 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
  <table data-author="organizejs">
   <tr>
    <td class="field-key">date</td>
+   <td class="field-value">2019-02-18</td>
+  </tr>
+  <tr>
+   <td class="field-key">source</td>
+   <td class="field-value">
+    <a href="https://clb.org.hk/content/food-delivery-drivers-strike-protest-post-new-year-pay-cuts">China Bulletin</a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">company</td>
+   <td class="field-value">Meituan, Ele.me</td>
+  </tr>
+  <tr>
+   <td class="field-key">action</td>
+   <td class="field-value">Strike</td>
+  </tr>
+  <tr>
+   <td class="field-key">employment_type</td>
+   <td class="field-value">Contractors, Food delivery drivers</td>
+  </tr>
+  <tr>
+   <td class="field-key">description</td>
+   <td class="field-value">Food delivery workers in at least five cities across China have staged a series of strikes protesting arbitrary reductions in pay rates introduced after the Lunar New Year Holiday. Workers for both major food delivery platforms, Meituan and Ele.me, stopped taking orders starting in February.</td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">date</td>
    <td class="field-value">2018-05-14</td>
   </tr>
   <tr>
@@ -95,7 +123,7 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
   </tr>
   <tr>
    <td class="field-key">employment_type</td>
-   <td class="field-value">Contractors</td>
+   <td class="field-value">Contractors, Food delivery drivers</td>
   </tr>
   <tr>
    <td class="field-key">union_affiliation</td>
