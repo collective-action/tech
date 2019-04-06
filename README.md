@@ -75,6 +75,34 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
 <div id="actions">
  <table data-author="organizejs">
   <tr>
+   <td class="field-key">date</td>
+   <td class="field-value"><2018-02-18/td>
+  </tr>
+  <tr>
+   <td class="field-key">source</td>
+   <td class="field-value">
+    <a href="https://medium.com/@anna.geiduschek/an-open-letter-from-tech-workers-to-doordash-dc387fdef0fe">Medium</a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">company</td>
+   <td class="field-value">Doordash</td>
+  </tr>
+  <tr>
+   <td class="field-key">action</td>
+   <td class="field-value">Petition</td>
+  </tr>
+  <tr>
+   <td class="field-key">worker_count</td>
+   <td class="field-value">320</td>
+  </tr>
+  <tr>
+   <td class="field-key">description</td>
+   <td class="field-value">After raising a round of $400 million, tech workers protest Doordash using workers' tip money to subsidize base pay. "Silicon Valley investors clearly don't care that DoorDash cheats drivers — in fact, DoorDash is likely being rewarded for adopting practices that improve their profit margins and treats drivers unfairly. However, investors do care that their startups can hire the best tech talent to help them execute on their mission."</td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
    <td class="field-key">
     date
    </td>
