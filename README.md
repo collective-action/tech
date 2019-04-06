@@ -76,6 +76,42 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
  <table data-author="organizejs">
   <tr>
    <td class="field-key">date</td>
+   <td class="field-value">2015-02-26</td>
+  </tr>
+  <tr>
+   <td class="field-key">source</td>
+   <td class="field-value">
+    <a href="https://abc7news.com/business/apple-shuttle-drivers-rally-for-right-to-unionize/535814/">ABC 7 News</a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">company</td>
+   <td class="field-value">Apple, Compass Transportation</td>
+  </tr>
+  <tr>
+   <td class="field-key">action</td>
+   <td class="field-value">Protest</td>
+  </tr>
+  <tr>
+   <td class="field-key">employment_type</td>
+   <td class="field-value">Vendor</td>
+  </tr>
+  <tr>
+   <td class="field-key">union_affiliation</td>
+   <td class="field-value">Teamster</td>
+  </tr>
+  <tr>
+   <td class="field-key">worker_count</td>
+   <td class="field-value">50</td>
+  </tr>
+  <tr>
+   <td class="field-key">description</td>
+   <td class="field-value">Union supporters of drivers who shuttle around Apple employees, were protesting outside the tech giant's Cupertino headquarters on Wednesday morning, ahead of their big vote Friday on whether to join the Teamsters Union. </td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">date</td>
    <td class="field-value">2019-01-16</td>
   </tr>
   <tr>
