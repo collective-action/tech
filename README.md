@@ -74,6 +74,39 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
  <table data-author="organizejs">
   <tr>
    <td class="field-key">date</td>
+   <td class="field-value">2019-01-16</td>
+  </tr>
+  <tr>
+   <td class="field-key">source</td>
+   <td class="field-value">
+    <a href="https://medium.com/@BuzzFeedNewsStaffCouncil/letter-to-buzzfeed-pto-layoffs-f79d9c857a21">Medium</a>, 
+    <a href="https://techcrunch.com/2019/01/27/buzzfeed-employees-demand-it-pay-out-earned-pto-to-all-laid-off-u-s-staffers/">Techcrunch</a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">company</td>
+   <td class="field-value">Buzzfeed</td>
+  </tr>
+  <tr>
+   <td class="field-key">action</td>
+   <td class="field-value">Petition</td>
+  </tr>
+  <tr>
+   <td class="field-key">employment_type</td>
+   <td class="field-value">FTE</td>
+  </tr>
+  <tr>
+   <td class="field-key">worker_count</td>
+   <td class="field-value">600+</td>
+  </tr>
+  <tr>
+   <td class="field-key">description</td>
+   <td class="field-value">A group of current and former BuzzFeed employees are asking the company to pay out paid time off to all recently laid-off staff. In an open letter to BuzzFeed's CEO Jonah Peretti and editor in chief Ben Smith, the BuzzFeed News Staff Council write "BuzzFeed is refusing to pay out earned, accrued, and vested paid time off for almost all U.S. employees who have been laid off." </td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">date</td>
    <td class="field-value">2014-09-01</td>
   </tr>
   <tr>
