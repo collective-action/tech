@@ -76,7 +76,36 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
  <table data-author="organizejs">
   <tr>
    <td class="field-key">date</td>
-   <td class="field-value"><2018-02-18/td>
+   <td class="field-value">2018-11-23</td>
+  </tr>
+  <tr>
+   <td class="field-key">source</td>
+   <td class="field-value">
+    <a href="https://www.buzzfeednews.com/article/carolineodonovan/instacart-delivery-workers-strike-gig-workers-labor-movement">Buzzfeed</a>,
+    <a href="https://www.change.org/p/instacart-revert-back-to-old-pay-system-for-instacart?fbclid=IwAR3wm28lI8iBs5-JXF-y9Ld-iqkGjrO3E566XJBrTSkiug3PuYHwv1RpDsY">Change.org</a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">company</td>
+   <td class="field-value">Instacart</td>
+  </tr>
+  <tr>
+   <td class="field-key">action</td>
+   <td class="field-value">Strike</td>
+  </tr>
+  <tr>
+   <td class="field-key">employment_type</td>
+   <td class="field-value">Independent Contractors, Drivers</td>
+  </tr>
+  <tr>
+   <td class="field-key">description</td>
+   <td class="field-value">A group of Instacart delivery workers is waging an ongoing "soft strike" against the company to demand better pay this Thanksgiving weekend for the third year in a row. The workers, who are independent contractors, say a recent change to the grocery delivery platform's pay structure was an effective pay cut that’s threatening their livelihoods. As a result, they’re refusing to deliver extra-heavy items, drive more than eight miles per order, or accept time-consuming, low-paying jobs.</td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">date</td>
+   <td class="field-value">2018-02-18</td>
   </tr>
   <tr>
    <td class="field-key">source</td>
