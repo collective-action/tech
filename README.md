@@ -76,6 +76,79 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
  <table data-author="organizejs">
   <tr>
    <td class="field-key">date</td>
+   <td class="field-value">2018-03-21</td>
+  </tr>
+  <tr>
+   <td class="field-key">source</td>
+   <td class="field-value">
+    <a href="https://www.reuters.com/article/us-amazon-com-spain/spains-amazon-workers-call-two-day-strike-over-wages-rights-idUSKCN1GP13L">Reuters</a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">company</td>
+   <td class="field-value">Amazon</td>
+  </tr>
+  <tr>
+   <td class="field-key">action</td>
+   <td class="field-value">Strike</td>
+  </tr>
+  <tr>
+   <td class="field-key">employment_type</td>
+   <td class="field-value">Contractors</td>
+  </tr>
+  <tr>
+   <td class="field-key">union_affiliation</td>
+   <td class="field-value">Comisiones Obreras (CCOO)</td>
+  </tr>
+  <tr>
+   <td class="field-key">worker_count</td>
+   <td class="field-value">1100</td>
+  </tr>
+  <tr>
+   <td class="field-key">description</td>
+   <td class="field-value">Over one thousand Amazon workers in Spain plan to stage their first strike with a two-day walkout to protest what unions claim are efforts to reduce employees' rights. The union claimed the company aims to block salary increases, cut wages and reduce payments for those working weekends or holidays as part of a new contract agreement.</td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">date</td>
+   <td class="field-value">2018-07-10</td>
+  </tr>
+  <tr>
+   <td class="field-key">source</td>
+   <td class="field-value">
+    <a href="https://www.reuters.com/article/us-amazon-com-spain-strike/spanish-amazon-workers-call-three-day-strike-over-wages-rights-idUSKBN1K01XZ">Reuters</a>,
+    <a href="https://www.buzzfeednews.com/article/leticiamiranda/labor-strike-against-amazon-in-spain-arrests-injuries">Buzzfeed</a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">company</td>
+   <td class="field-value">Amazon</td>
+  </tr>
+  <tr>
+   <td class="field-key">action</td>
+   <td class="field-value">Strike</td>
+  </tr>
+  <tr>
+   <td class="field-key">employment_type</td>
+   <td class="field-value">Contractors</td>
+  </tr>
+  <tr>
+   <td class="field-key">union_affiliation</td>
+   <td class="field-value">Comisiones Obreras (CCOO)</td>
+  </tr>
+  <tr>
+   <td class="field-key">worker_count</td>
+   <td class="field-value">950</td>
+  </tr>
+  <tr>
+   <td class="field-key">description</td>
+   <td class="field-value">Spanish labor unions have called on around 1,000 Amazon employees to walk out for three days next week in a dispute over what it says are efforts to reduce workers' rights.</td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">date</td>
    <td class="field-value">2019-02-28</td>
   </tr>
   <tr>
