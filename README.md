@@ -76,6 +76,42 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
  <table data-author="organizejs">
   <tr>
    <td class="field-key">date</td>
+   <td class="field-value">2019-02-28</td>
+  </tr>
+  <tr>
+   <td class="field-key">source</td>
+   <td class="field-value">
+    <a href="https://www.buzzfeednews.com/article/carolineodonovan/student-groups-protest-salesforce-palantir-ice-campus">Buzzfeed</a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">company</td>
+   <td class="field-value">Palantir, Salesforce</td>
+  </tr>
+  <tr>
+   <td class="field-key">action</td>
+   <td class="field-value">Protest</td>
+  </tr>
+  <tr>
+   <td class="field-key">employment_type</td>
+   <td class="field-value">FTE</td>
+  </tr>
+  <tr>
+   <td class="field-key">worker_count</td>
+   <td class="field-value">10</td>
+  </tr>
+  <tr>
+   <td class="field-key">description</td>
+   <td class="field-value">Ten Stanford students with a group called Students for the Liberation of All People (SLAP) protested a guest lecture by Salesforce executive Richard Socher on Tuesday. The students, who held signs — "Salesforcing families apart," "Richard are you getting rich from deportation?" and "Salesfart" — oppose the company's contract with Customs and Border Protection. Likewise they oppose Palantirs work with ICE.</td>
+  </tr>
+  <tr>
+   <td class="field-key">notes</td>
+   <td class="field-value">Not tech workers (yet).</td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">date</td>
    <td class="field-value">2018-11-20</td>
   </tr>
   <tr>
