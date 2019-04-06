@@ -76,6 +76,39 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
  <table data-author="organizejs">
   <tr>
    <td class="field-key">date</td>
+   <td class="field-value">2018-08-23</td>
+  </tr>
+  <tr>
+   <td class="field-key">source</td>
+   <td class="field-value">
+    <a href="https://teamster.org/news/2018/08/teamster-shuttle-drivers-high-tech-companies-hold-action-fair-contract">Teamster</a>,
+    <a href="https://www.sfchronicle.com/business/article/Teamsters-target-tech-buses-in-Castro-District-13177065.php#photo-16057250">SF Chronicle</a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">action</td>
+   <td class="field-value">Protest</td>
+  </tr>
+  <tr>
+   <td class="field-key">employment_type</td>
+   <td class="field-value">Contract</td>
+  </tr>
+  <tr>
+   <td class="field-key">union_affiliation</td>
+   <td class="field-value">Teamster</td>
+  </tr>
+  <tr>
+   <td class="field-key">worker_count</td>
+   <td class="field-value">40</td>
+  </tr>
+  <tr>
+   <td class="field-key">description</td>
+   <td class="field-value">Members of the union that represents the folks behind the wheels of corporate shuttles stood and sat in front of those buses in the Castro district, demanding a secure pension for high-tech shuttle drivers. About 40 Teamsters blocked tech buses in a surprise protest. The drivers were from WeDriveU and Loop/Hallcon and transport employees for high-tech companies including  Apple, Tesla, Amazon, Twitter, LinkedIn, Salesforce, Electronic Arts, Lam and Facebook.</td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">date</td>
    <td class="field-value">2015-02-26</td>
   </tr>
   <tr>
@@ -94,7 +127,7 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
   </tr>
   <tr>
    <td class="field-key">employment_type</td>
-   <td class="field-value">Vendor</td>
+   <td class="field-value">Contract</td>
   </tr>
   <tr>
    <td class="field-key">union_affiliation</td>
