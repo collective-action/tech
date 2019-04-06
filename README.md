@@ -75,6 +75,38 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
 <div id="actions">
  <table data-author="organizejs">
   <tr>
+   <td class="field-key">date</td>
+   <td class="field-value">2014-11-19</td>
+  </tr>
+  <tr>
+   <td class="field-key">source</td>
+   <td class="field-value">
+    <a href="https://bits.blogs.nytimes.com/2014/11/19/facebooks-bus-drivers-vote-to-unionize">NY Times</a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">company</td>
+   <td class="field-value">Facebook, Loop Transportation</td>
+  </tr>
+  <tr>
+   <td class="field-key">action</td>
+   <td class="field-value">Unionize</td>
+  </tr>
+  <tr>
+   <td class="field-key">employment_type</td>
+   <td class="field-value">Contract</td>
+  </tr>
+  <tr>
+   <td class="field-key">union_affiliation</td>
+   <td class="field-value">Teamster</td>
+  </tr>
+  <tr>
+   <td class="field-key">description</td>
+   <td class="field-value">The shuttle bus drivers who ferry Facebook employees to and from work voted on Wednesday to unionize, 43 to 28. The drivers, who are employees of Loop Transportation, a contractor for Facebook, voted to join Teamsters Local 853, with several of them saying their main concerns were inadequate pay and a stressful split shift schedule.</td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
    <td class="field-key">
     date
    </td>
