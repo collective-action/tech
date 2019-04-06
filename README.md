@@ -76,6 +76,38 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
  <table data-author="organizejs">
   <tr>
    <td class="field-key">date</td>
+   <td class="field-value">2018-11-20</td>
+  </tr>
+  <tr>
+   <td class="field-key">source</td>
+   <td class="field-value">
+    <a href="https://www.buzzfeednews.com/article/carolineodonovan/blue-apron-lawsuit-unpaid-wages">Buzzfeed</a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">company</td>
+   <td class="field-value">Blue Apron</td>
+  </tr>
+  <tr>
+   <td class="field-key">action</td>
+   <td class="field-value">Lawsuit</td>
+  </tr>
+  <tr>
+   <td class="field-key">employment_type</td>
+   <td class="field-value">Contract</td>
+  </tr>
+  <tr>
+   <td class="field-key">worker_count</td>
+   <td class="field-value">100</td>
+  </tr>
+  <tr>
+   <td class="field-key">description</td>
+   <td class="field-value">Blue Apron employees have filed a class-action lawsuit against the company, alleging that they weren't paid overtime, or for meal breaks, among other labor law violations. They are seeking back pay for missed wages and a trial by jury.</td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">date</td>
    <td class="field-value">2018-11-23</td>
   </tr>
   <tr>
