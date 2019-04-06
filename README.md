@@ -76,6 +76,38 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
  <table data-author="organizejs">
   <tr>
    <td class="field-key">date</td>
+   <td class="field-value">2017-01-30</td>
+  </tr>
+  <tr>
+   <td class="field-key">source</td>
+   <td class="field-value">
+    <a href="https://www.bizjournals.com/sanjose/news/2017/01/30/silicon-valley-private-security-guards-win-union.html">Silicon Valley Business Journal</a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">action</td>
+   <td class="field-value">Unionize</td>
+  </tr>
+  <tr>
+   <td class="field-key">employment_type</td>
+   <td class="field-value">Contract, Security Guards</td>
+  </tr>
+  <tr>
+   <td class="field-key">union_affiliation</td>
+   <td class="field-value">Service Employees International Union-United Service Workers West (SEIU-USWW)</td>
+  </tr>
+  <tr>
+   <td class="field-key">worker_count</td>
+   <td class="field-value">3000</td>
+  </tr>
+  <tr>
+   <td class="field-key">description</td>
+   <td class="field-value">In what union officials described as Silicon Valley’s largest private sector organizing effort, 3,000 private security guards on high tech campuses like Facebook, Cisco and Genentech have won recognition as members of Service Employees International Union-United Service Workers West (SEIU-USWW).</td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">date</td>
    <td class="field-value">2014-11-19</td>
   </tr>
   <tr>
