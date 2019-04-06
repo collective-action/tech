@@ -76,6 +76,44 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
  <table data-author="organizejs">
   <tr>
    <td class="field-key">date</td>
+   <td class="field-value">2018-11-23</td>
+  </tr>
+  <tr>
+   <td class="field-key">source</td>
+   <td class="field-value">
+    <a href="https://mashable.com/article/amazon-workers-black-friday-strike-europe-uk/#7mIzh6l4giqk">Mashable</a>,
+    <a href="https://www.uniglobalunion.org/news/amazon-workers-launch-wave-black-friday-strikes-and-protests">UNI Global Union</a>,
+    <a href="https://www.businessinsider.com/black-friday-amazon-workers-protest-poor-working-conditions-2018-11">Business Insider</a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">company</td>
+   <td class="field-value">Amazon</td>
+  </tr>
+  <tr>
+   <td class="field-key">action</td>
+   <td class="field-value">Strike</td>
+  </tr>
+  <tr>
+   <td class="field-key">employment_type</td>
+   <td class="field-value">Contractors, Warehouse workers</td>
+  </tr>
+  <tr>
+   <td class="field-key">union_affiliation</td>
+   <td class="field-value">UNI Global Union</td>
+  </tr>
+  <tr>
+   <td class="field-key">worker_count</td>
+   <td class="field-value">2400</td>
+  </tr>
+  <tr>
+   <td class="field-key">description</td>
+   <td class="field-value">Thousands of Amazon staff members across Europe protest on Black Friday over the way the company treats its warehouse workers.</td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">date</td>
    <td class="field-value">2018-03-21</td>
   </tr>
   <tr>
@@ -94,7 +132,7 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
   </tr>
   <tr>
    <td class="field-key">employment_type</td>
-   <td class="field-value">Contractors</td>
+   <td class="field-value">Contractors, Warehouse workers</td>
   </tr>
   <tr>
    <td class="field-key">union_affiliation</td>
