@@ -66,7 +66,7 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
  <table>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">36</td>
+    <td data-summary="action-count">43</td>
   </tr>
  </table>
 </div>
@@ -75,223 +75,54 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
 <div id="actions">
  <table data-author="organizejs">
   <tr>
-   <td class="field-key">date</td>
-   <td class="field-value">2018-06-04</td>
-  </tr>
-  <tr>
-   <td class="field-key">source</td>
+   <td class="field-key">
+    date
+   </td>
    <td class="field-value">
-    <a href="https://clb.org.hk/content/food-delivery-workers-china-strike-over-pay-cuts-and-unfair-work-practices">China Bulletin</a>
+    2019-04-04
    </td>
   </tr>
   <tr>
-   <td class="field-key">company</td>
-   <td class="field-value">Meituan</td>
-  </tr>
-  <tr>
-   <td class="field-key">action</td>
-   <td class="field-value">Strike</td>
-  </tr>
-  <tr>
-   <td class="field-key">employment_type</td>
-   <td class="field-value">Contractors, Food delivery drivers</td>
-  </tr>
-  <tr>
-   <td class="field-key">description</td>
-   <td class="field-value">There have been at least 15 strikes and protests by food delivery workers in China since 1 May as increased competition among delivery platforms has drastically reduced workers’ take-home pay. Workers contracted to food delivery giant Meituan in the northern city of Taiyuan staged a work stoppage in protest at a wide range of issues including pay levels, delivery times, insurance and high accident rates.</td>
-  </tr>
- </table>
- <table data-author="organizejs">
-  <tr>
-   <td class="field-key">date</td>
-   <td class="field-value">2019-02-18</td>
-  </tr>
-  <tr>
-   <td class="field-key">source</td>
+   <td class="field-key">
+    source
+   </td>
    <td class="field-value">
-    <a href="https://clb.org.hk/content/food-delivery-drivers-strike-protest-post-new-year-pay-cuts">China Bulletin</a>
+    <a href="https://www.wired.com/story/microsoft-employees-protest-treatment-women-ceo-nadella/">
+     Wired
+    </a>
    </td>
   </tr>
   <tr>
-   <td class="field-key">company</td>
-   <td class="field-value">Meituan, Ele.me</td>
-  </tr>
-  <tr>
-   <td class="field-key">action</td>
-   <td class="field-value">Strike</td>
-  </tr>
-  <tr>
-   <td class="field-key">employment_type</td>
-   <td class="field-value">Contractors, Food delivery drivers</td>
-  </tr>
-  <tr>
-   <td class="field-key">description</td>
-   <td class="field-value">Food delivery workers in at least five cities across China have staged a series of strikes protesting arbitrary reductions in pay rates introduced after the Lunar New Year Holiday. Workers for both major food delivery platforms, Meituan and Ele.me, stopped taking orders starting in February.</td>
-  </tr>
- </table>
- <table data-author="organizejs">
-  <tr>
-   <td class="field-key">date</td>
-   <td class="field-value">2018-05-14</td>
-  </tr>
-  <tr>
-   <td class="field-key">source</td>
+   <td class="field-key">
+    company
+   </td>
    <td class="field-value">
-    <a href="https://www.theguardian.com/australia-news/2018/may/16/food-delivery-riders-protest-against-wage-theft-by-deliveroo-foodora-and-ubereats">The Guardian</a>,
-    <a href="https://www.abc.net.au/news/2018-03-14/delivery-riders-march-against-ubereats,-foodora-and-deliveroo/9546822">ABC</a>
+    Microsoft
    </td>
   </tr>
   <tr>
-   <td class="field-key">company</td>
-   <td class="field-value">Deliveroo, Foodora, Uber</td>
-  </tr>
-  <tr>
-   <td class="field-key">action</td>
-   <td class="field-value">Protest</td>
-  </tr>
-  <tr>
-   <td class="field-key">employment_type</td>
-   <td class="field-value">Contractors, Food delivery drivers</td>
-  </tr>
-  <tr>
-   <td class="field-key">union_affiliation</td>
-   <td class="field-value">Transport Workers Union </td>
-  </tr>
-  <tr>
-   <td class="field-key">worker_count</td>
-   <td class="field-value">24+</td>
-  </tr>
-  <tr>
-   <td class="field-key">description</td>
-   <td class="field-value">Food delivery riders have marched in Sydney to demand UberEats, Deliveroo and Foodora provide pay increases and better working conditions to the many contractors darting from door to door around Australian cities. Dozens of protesters voiced their concerns in Surry Hills about the lack of regulation surrounding rider pay, safety protections and benefits like sick pay and superannuation.</td>
-  </tr>
- </table>
- <table data-author="organizejs">
-  <tr>
-   <td class="field-key">date</td>
-   <td class="field-value">2017-12-13</td>
-  </tr>
-  <tr>
-   <td class="field-key">source</td>
+   <td class="field-key">
+    action
+   </td>
    <td class="field-value">
-    <a href="https://unitehere.org/cafeteria-workers-at-yahoo-unionize/">Unite Here</a>
+    Protest
    </td>
   </tr>
   <tr>
-   <td class="field-key">company</td>
-   <td class="field-value">Yahoo</td>
-  </tr>
-  <tr>
-   <td class="field-key">action</td>
-   <td class="field-value">Unionize</td>
-  </tr>
-  <tr>
-   <td class="field-key">employment_type</td>
-   <td class="field-value">Contractors</td>
-  </tr>
-  <tr>
-   <td class="field-key">union_affiliation</td>
-   <td class="field-value">Unite Here</td>
-  </tr>
-  <tr>
-   <td class="field-key">worker_count</td>
-   <td class="field-value">118</td>
-  </tr>
-  <tr>
-   <td class="field-key">description</td>
-   <td class="field-value">118 food service workers at Yahoo won union representation at its headquarters in Sunnyvale, CA. The food service workers, who are employed by Yahoo’s contractor, Bon Appetit, are calling for respect and dignity, affordable health care, and increased wages to compete with increasing rents in the Bay Area.</td>
-  </tr>
- </table>
- <table data-author="organizejs">
-  <tr>
-   <td class="field-key">date</td>
-   <td class="field-value">2019-04-04</td>
-  </tr>
-  <tr>
-   <td class="field-key">source</td>
+   <td class="field-key">
+    employment_type
+   </td>
    <td class="field-value">
-    <a href="https://www.wired.com/story/microsoft-employees-protest-treatment-women-ceo-nadella/">Wired</a>
+    FTE
    </td>
   </tr>
   <tr>
-   <td class="field-key">company</td>
-   <td class="field-value">Microsoft</td>
-  </tr>
-  <tr>
-   <td class="field-key">action</td>
-   <td class="field-value">Protest</td>
-  </tr>
-  <tr>
-   <td class="field-key">employment_type</td>
-   <td class="field-value">FTE</td>
-  </tr>
-  <tr>
-   <td class="field-key">description</td>
-   <td class="field-value">A group of Microsoft employees appeared at an employee meeting with CEO Satya Nadella Thursday to protest the company’s treatment of women. It's not clear how many were part of the protest, but some female and male employees at the event wore all white, inspired by the congresswomen who wore suffragette white to the State of the Union in February.</td>
-  </tr>
- </table>
- <table data-author="organizejs">
-  <tr>
-   <td class="field-key">date</td>
-   <td class="field-value">2017-01-30</td>
-  </tr>
-  <tr>
-   <td class="field-key">source</td>
-   <td class="field-value">
-    <a href="https://www.bizjournals.com/sanjose/news/2017/01/30/silicon-valley-private-security-guards-win-union.html">Silicon Valley Business Journal</a>
+   <td class="field-key">
+    description
    </td>
-  </tr>
-  <tr>
-   <td class="field-key">action</td>
-   <td class="field-value">Unionize</td>
-  </tr>
-  <tr>
-   <td class="field-key">employment_type</td>
-   <td class="field-value">Contract, Security Guards</td>
-  </tr>
-  <tr>
-   <td class="field-key">union_affiliation</td>
-   <td class="field-value">Service Employees International Union-United Service Workers West (SEIU-USWW)</td>
-  </tr>
-  <tr>
-   <td class="field-key">worker_count</td>
-   <td class="field-value">3000</td>
-  </tr>
-  <tr>
-   <td class="field-key">description</td>
-   <td class="field-value">In what union officials described as Silicon Valley’s largest private sector organizing effort, 3,000 private security guards on high tech campuses like Facebook, Cisco and Genentech have won recognition as members of Service Employees International Union-United Service Workers West (SEIU-USWW).</td>
-  </tr>
- </table>
- <table data-author="organizejs">
-  <tr>
-   <td class="field-key">date</td>
-   <td class="field-value">2014-11-19</td>
-  </tr>
-  <tr>
-   <td class="field-key">source</td>
    <td class="field-value">
-    <a href="https://bits.blogs.nytimes.com/2014/11/19/facebooks-bus-drivers-vote-to-unionize">NY Times</a>
+    A group of Microsoft employees appeared at an employee meeting with CEO Satya Nadella Thursday to protest the company’s treatment of women. It's not clear how many were part of the protest, but some female and male employees at the event wore all white, inspired by the congresswomen who wore suffragette white to the State of the Union in February.
    </td>
-  </tr>
-  <tr>
-   <td class="field-key">company</td>
-   <td class="field-value">Facebook, Loop Transportation</td>
-  </tr>
-  <tr>
-   <td class="field-key">action</td>
-   <td class="field-value">Unionize</td>
-  </tr>
-  <tr>
-   <td class="field-key">employment_type</td>
-   <td class="field-value">Contract</td>
-  </tr>
-  <tr>
-   <td class="field-key">union_affiliation</td>
-   <td class="field-value">Teamster</td>
-  </tr>
-  <tr>
-   <td class="field-key">description</td>
-   <td class="field-value">The shuttle bus drivers who ferry Facebook employees to and from work voted on Wednesday to unionize, 43 to 28. The drivers, who are employees of Loop Transportation, a contractor for Facebook, voted to join Teamsters Local 853, with several of them saying their main concerns were inadequate pay and a stressful split shift schedule.</td>
   </tr>
  </table>
  <table data-author="organizejs">
@@ -719,6 +550,58 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
    </td>
    <td class="field-value">
     Microsoft employees circulated a letter among the company’s over 130,000-person staff demanding that executives cancel a $479 million contract with the US Army, IVAS, that will provide weapans technology to the U.S. Military to 'increase lethality' to amry soldiers. "We did not sign up to develop weapons, and we demand a say in how our work is used."
+   </td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
+    2019-02-18
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    source
+   </td>
+   <td class="field-value">
+    <a href="https://clb.org.hk/content/food-delivery-drivers-strike-protest-post-new-year-pay-cuts">
+     China Bulletin
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    company
+   </td>
+   <td class="field-value">
+    Meituan, Ele.me
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    Strike
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    employment_type
+   </td>
+   <td class="field-value">
+    Contractors, Food delivery drivers
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    Food delivery workers in at least five cities across China have staged a series of strikes protesting arbitrary reductions in pay rates introduced after the Lunar New Year Holiday. Workers for both major food delivery platforms, Meituan and Ele.me, stopped taking orders starting in February.
    </td>
   </tr>
  </table>
@@ -1639,6 +1522,58 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
     date
    </td>
    <td class="field-value">
+    2018-06-04
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    source
+   </td>
+   <td class="field-value">
+    <a href="https://clb.org.hk/content/food-delivery-workers-china-strike-over-pay-cuts-and-unfair-work-practices">
+     China Bulletin
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    company
+   </td>
+   <td class="field-value">
+    Meituan
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    Strike
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    employment_type
+   </td>
+   <td class="field-value">
+    Contractors, Food delivery drivers
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    There have been at least 15 strikes and protests by food delivery workers in China since 1 May as increased competition among delivery platforms has drastically reduced workers’ take-home pay. Workers contracted to food delivery giant Meituan in the northern city of Taiyuan staged a work stoppage in protest at a wide range of issues including pay levels, delivery times, insurance and high accident rates.
+   </td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
     2018-05-30
    </td>
   </tr>
@@ -1698,6 +1633,78 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
    </td>
    <td class="field-value">
     Google employees have led a campaign demanding that the company terminate its contract with the Pentagon for Project Maven, a program that uses machine learning to improve targeting for drone strikes. Nearly five thousand Google workers signed an internal petition to cancel the project, and dozens resigned.
+   </td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
+    2018-05-14
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    source
+   </td>
+   <td class="field-value">
+    <a href="https://www.theguardian.com/australia-news/2018/may/16/food-delivery-riders-protest-against-wage-theft-by-deliveroo-foodora-and-ubereats">
+     The Guardian
+    </a>
+    ,
+    <a href="https://www.abc.net.au/news/2018-03-14/delivery-riders-march-against-ubereats,-foodora-and-deliveroo/9546822">
+     ABC
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    company
+   </td>
+   <td class="field-value">
+    Deliveroo, Foodora, Uber
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    Protest
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    employment_type
+   </td>
+   <td class="field-value">
+    Contractors, Food delivery drivers
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    union_affiliation
+   </td>
+   <td class="field-value">
+    Transport Workers Union
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    worker_count
+   </td>
+   <td class="field-value">
+    24+
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    Food delivery riders have marched in Sydney to demand UberEats, Deliveroo and Foodora provide pay increases and better working conditions to the many contractors darting from door to door around Australian cities. Dozens of protesters voiced their concerns in Surry Hills about the lack of regulation surrounding rider pay, safety protections and benefits like sick pay and superannuation.
    </td>
   </tr>
  </table>
@@ -1906,6 +1913,74 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
    </td>
    <td class="field-value">
     After fighting for better working conditions, tech workers at Lanetix sent a letter to management outlining workplace grievances and announcing their intention to unionize with NewsGuild-CWA. They also filed a petition with the National Labor Relations Board (NLRB).
+   </td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
+    2017-12-13
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    source
+   </td>
+   <td class="field-value">
+    <a href="https://unitehere.org/cafeteria-workers-at-yahoo-unionize/">
+     Unite Here
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    company
+   </td>
+   <td class="field-value">
+    Yahoo
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    Unionize
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    employment_type
+   </td>
+   <td class="field-value">
+    Contractors
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    union_affiliation
+   </td>
+   <td class="field-value">
+    Unite Here
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    worker_count
+   </td>
+   <td class="field-value">
+    118
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    118 food service workers at Yahoo won union representation at its headquarters in Sunnyvale, CA. The food service workers, who are employed by Yahoo’s contractor, Bon Appetit, are calling for respect and dignity, affordable health care, and increased wages to compete with increasing rents in the Bay Area.
    </td>
   </tr>
  </table>
@@ -2187,6 +2262,66 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
     date
    </td>
    <td class="field-value">
+    2017-01-30
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    source
+   </td>
+   <td class="field-value">
+    <a href="https://www.bizjournals.com/sanjose/news/2017/01/30/silicon-valley-private-security-guards-win-union.html">
+     Silicon Valley Business Journal
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    Unionize
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    employment_type
+   </td>
+   <td class="field-value">
+    Contract, Security Guards
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    union_affiliation
+   </td>
+   <td class="field-value">
+    Service Employees International Union-United Service Workers West (SEIU-USWW)
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    worker_count
+   </td>
+   <td class="field-value">
+    3000
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    In what union officials described as Silicon Valley’s largest private sector organizing effort, 3,000 private security guards on high tech campuses like Facebook, Cisco and Genentech have won recognition as members of Service Employees International Union-United Service Workers West (SEIU-USWW).
+   </td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
     2017-01-18
    </td>
   </tr>
@@ -2406,6 +2541,66 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
    </td>
    <td class="field-value">
     Union supporters of drivers who shuttle around Apple employees, were protesting outside the tech giant's Cupertino headquarters on Wednesday morning, ahead of their big vote Friday on whether to join the Teamsters Union.
+   </td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
+    2014-11-19
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    source
+   </td>
+   <td class="field-value">
+    <a href="https://bits.blogs.nytimes.com/2014/11/19/facebooks-bus-drivers-vote-to-unionize">
+     NY Times
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    company
+   </td>
+   <td class="field-value">
+    Facebook, Loop Transportation
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    Unionize
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    employment_type
+   </td>
+   <td class="field-value">
+    Contract
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    union_affiliation
+   </td>
+   <td class="field-value">
+    Teamster
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    The shuttle bus drivers who ferry Facebook employees to and from work voted on Wednesday to unionize, 43 to 28. The drivers, who are employees of Loop Transportation, a contractor for Facebook, voted to join Teamsters Local 853, with several of them saying their main concerns were inadequate pay and a stressful split shift schedule.
    </td>
   </tr>
  </table>
