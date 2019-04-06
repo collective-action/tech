@@ -66,285 +66,13 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
  <table>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">43</td>
+    <td data-summary="action-count">51</td>
   </tr>
  </table>
 </div>
 
 #### Actions
 <div id="actions">
- <table data-author="organizejs">
-  <tr>
-   <td class="field-key">date</td>
-   <td class="field-value">2016-03-31</td>
-  </tr>
-  <tr>
-   <td class="field-key">source</td>
-   <td class="field-value">
-    <a href="https://www.bizjournals.com/sanjose/news/2016/03/31/seiu-janitors-san-jose-rally-targets-adobe.html">Silicon Valley Business Journal</a>
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">company</td>
-   <td class="field-value">Adobe</td>
-  </tr>
-  <tr>
-   <td class="field-key">action</td>
-   <td class="field-value">Strike</td>
-  </tr>
-  <tr>
-   <td class="field-key">employment_type</td>
-   <td class="field-value">Contractors, Janitors</td>
-  </tr>
-  <tr>
-   <td class="field-key">union_affiliation</td>
-   <td class="field-value">Service Employees International Union-United Service Workers West SEIU-USWW</td>
-  </tr>
-  <tr>
-   <td class="field-key">worker_count</td>
-   <td class="field-value">100+</td>
-  </tr>
-  <tr>
-   <td class="field-key">description</td>
-   <td class="field-value">Service Employees International Union-United Service Workers West janitors' San Jose rally targets Adobe. Hundreds of SEIU-USWW members congregated on Cesar Chavez Day to draw attention to ongoing contract negotiations with cleaning service contractors and protest abuse of workers in the janitorial industry.</td>
-  </tr>
- </table>
- <table data-author="organizejs">
-  <tr>
-   <td class="field-key">date</td>
-   <td class="field-value">2018-11-23</td>
-  </tr>
-  <tr>
-   <td class="field-key">source</td>
-   <td class="field-value">
-    <a href="https://mashable.com/article/amazon-workers-black-friday-strike-europe-uk/#7mIzh6l4giqk">Mashable</a>,
-    <a href="https://www.uniglobalunion.org/news/amazon-workers-launch-wave-black-friday-strikes-and-protests">UNI Global Union</a>,
-    <a href="https://www.businessinsider.com/black-friday-amazon-workers-protest-poor-working-conditions-2018-11">Business Insider</a>
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">company</td>
-   <td class="field-value">Amazon</td>
-  </tr>
-  <tr>
-   <td class="field-key">action</td>
-   <td class="field-value">Strike</td>
-  </tr>
-  <tr>
-   <td class="field-key">employment_type</td>
-   <td class="field-value">Contractors, Warehouse workers</td>
-  </tr>
-  <tr>
-   <td class="field-key">union_affiliation</td>
-   <td class="field-value">UNI Global Union</td>
-  </tr>
-  <tr>
-   <td class="field-key">worker_count</td>
-   <td class="field-value">2400</td>
-  </tr>
-  <tr>
-   <td class="field-key">description</td>
-   <td class="field-value">Thousands of Amazon staff members across Europe protest on Black Friday over the way the company treats its warehouse workers.</td>
-  </tr>
- </table>
- <table data-author="organizejs">
-  <tr>
-   <td class="field-key">date</td>
-   <td class="field-value">2018-03-21</td>
-  </tr>
-  <tr>
-   <td class="field-key">source</td>
-   <td class="field-value">
-    <a href="https://www.reuters.com/article/us-amazon-com-spain/spains-amazon-workers-call-two-day-strike-over-wages-rights-idUSKCN1GP13L">Reuters</a>
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">company</td>
-   <td class="field-value">Amazon</td>
-  </tr>
-  <tr>
-   <td class="field-key">action</td>
-   <td class="field-value">Strike</td>
-  </tr>
-  <tr>
-   <td class="field-key">employment_type</td>
-   <td class="field-value">Contractors, Warehouse workers</td>
-  </tr>
-  <tr>
-   <td class="field-key">union_affiliation</td>
-   <td class="field-value">Comisiones Obreras (CCOO)</td>
-  </tr>
-  <tr>
-   <td class="field-key">worker_count</td>
-   <td class="field-value">1100</td>
-  </tr>
-  <tr>
-   <td class="field-key">description</td>
-   <td class="field-value">Over one thousand Amazon workers in Spain plan to stage their first strike with a two-day walkout to protest what unions claim are efforts to reduce employees' rights. The union claimed the company aims to block salary increases, cut wages and reduce payments for those working weekends or holidays as part of a new contract agreement.</td>
-  </tr>
- </table>
- <table data-author="organizejs">
-  <tr>
-   <td class="field-key">date</td>
-   <td class="field-value">2018-07-10</td>
-  </tr>
-  <tr>
-   <td class="field-key">source</td>
-   <td class="field-value">
-    <a href="https://www.reuters.com/article/us-amazon-com-spain-strike/spanish-amazon-workers-call-three-day-strike-over-wages-rights-idUSKBN1K01XZ">Reuters</a>,
-    <a href="https://www.buzzfeednews.com/article/leticiamiranda/labor-strike-against-amazon-in-spain-arrests-injuries">Buzzfeed</a>
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">company</td>
-   <td class="field-value">Amazon</td>
-  </tr>
-  <tr>
-   <td class="field-key">action</td>
-   <td class="field-value">Strike</td>
-  </tr>
-  <tr>
-   <td class="field-key">employment_type</td>
-   <td class="field-value">Contractors</td>
-  </tr>
-  <tr>
-   <td class="field-key">union_affiliation</td>
-   <td class="field-value">Comisiones Obreras (CCOO)</td>
-  </tr>
-  <tr>
-   <td class="field-key">worker_count</td>
-   <td class="field-value">950</td>
-  </tr>
-  <tr>
-   <td class="field-key">description</td>
-   <td class="field-value">Spanish labor unions have called on around 1,000 Amazon employees to walk out for three days next week in a dispute over what it says are efforts to reduce workers' rights.</td>
-  </tr>
- </table>
- <table data-author="organizejs">
-  <tr>
-   <td class="field-key">date</td>
-   <td class="field-value">2019-02-28</td>
-  </tr>
-  <tr>
-   <td class="field-key">source</td>
-   <td class="field-value">
-    <a href="https://www.buzzfeednews.com/article/carolineodonovan/student-groups-protest-salesforce-palantir-ice-campus">Buzzfeed</a>
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">company</td>
-   <td class="field-value">Palantir, Salesforce</td>
-  </tr>
-  <tr>
-   <td class="field-key">action</td>
-   <td class="field-value">Protest</td>
-  </tr>
-  <tr>
-   <td class="field-key">employment_type</td>
-   <td class="field-value">FTE</td>
-  </tr>
-  <tr>
-   <td class="field-key">worker_count</td>
-   <td class="field-value">10</td>
-  </tr>
-  <tr>
-   <td class="field-key">description</td>
-   <td class="field-value">Ten Stanford students with a group called Students for the Liberation of All People (SLAP) protested a guest lecture by Salesforce executive Richard Socher on Tuesday. The students, who held signs — "Salesforcing families apart," "Richard are you getting rich from deportation?" and "Salesfart" — oppose the company's contract with Customs and Border Protection. Likewise they oppose Palantirs work with ICE.</td>
-  </tr>
-  <tr>
-   <td class="field-key">notes</td>
-   <td class="field-value">Not tech workers (yet).</td>
-  </tr>
- </table>
- <table data-author="organizejs">
-  <tr>
-   <td class="field-key">date</td>
-   <td class="field-value">2018-11-20</td>
-  </tr>
-  <tr>
-   <td class="field-key">source</td>
-   <td class="field-value">
-    <a href="https://www.buzzfeednews.com/article/carolineodonovan/blue-apron-lawsuit-unpaid-wages">Buzzfeed</a>
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">company</td>
-   <td class="field-value">Blue Apron</td>
-  </tr>
-  <tr>
-   <td class="field-key">action</td>
-   <td class="field-value">Lawsuit</td>
-  </tr>
-  <tr>
-   <td class="field-key">employment_type</td>
-   <td class="field-value">Contract</td>
-  </tr>
-  <tr>
-   <td class="field-key">worker_count</td>
-   <td class="field-value">100</td>
-  </tr>
-  <tr>
-   <td class="field-key">description</td>
-   <td class="field-value">Blue Apron employees have filed a class-action lawsuit against the company, alleging that they weren't paid overtime, or for meal breaks, among other labor law violations. They are seeking back pay for missed wages and a trial by jury.</td>
-  </tr>
- </table>
- <table data-author="organizejs">
-  <tr>
-   <td class="field-key">date</td>
-   <td class="field-value">2018-11-23</td>
-  </tr>
-  <tr>
-   <td class="field-key">source</td>
-   <td class="field-value">
-    <a href="https://www.buzzfeednews.com/article/carolineodonovan/instacart-delivery-workers-strike-gig-workers-labor-movement">Buzzfeed</a>,
-    <a href="https://www.change.org/p/instacart-revert-back-to-old-pay-system-for-instacart?fbclid=IwAR3wm28lI8iBs5-JXF-y9Ld-iqkGjrO3E566XJBrTSkiug3PuYHwv1RpDsY">Change.org</a>
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">company</td>
-   <td class="field-value">Instacart</td>
-  </tr>
-  <tr>
-   <td class="field-key">action</td>
-   <td class="field-value">Strike</td>
-  </tr>
-  <tr>
-   <td class="field-key">employment_type</td>
-   <td class="field-value">Independent Contractors, Drivers</td>
-  </tr>
-  <tr>
-   <td class="field-key">description</td>
-   <td class="field-value">A group of Instacart delivery workers is waging an ongoing "soft strike" against the company to demand better pay this Thanksgiving weekend for the third year in a row. The workers, who are independent contractors, say a recent change to the grocery delivery platform's pay structure was an effective pay cut that’s threatening their livelihoods. As a result, they’re refusing to deliver extra-heavy items, drive more than eight miles per order, or accept time-consuming, low-paying jobs.</td>
-  </tr>
- </table>
- <table data-author="organizejs">
-  <tr>
-   <td class="field-key">date</td>
-   <td class="field-value">2018-02-18</td>
-  </tr>
-  <tr>
-   <td class="field-key">source</td>
-   <td class="field-value">
-    <a href="https://medium.com/@anna.geiduschek/an-open-letter-from-tech-workers-to-doordash-dc387fdef0fe">Medium</a>
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">company</td>
-   <td class="field-value">Doordash</td>
-  </tr>
-  <tr>
-   <td class="field-key">action</td>
-   <td class="field-value">Petition</td>
-  </tr>
-  <tr>
-   <td class="field-key">worker_count</td>
-   <td class="field-value">320</td>
-  </tr>
-  <tr>
-   <td class="field-key">description</td>
-   <td class="field-value">After raising a round of $400 million, tech workers protest Doordash using workers' tip money to subsidize base pay. "Silicon Valley investors clearly don't care that DoorDash cheats drivers — in fact, DoorDash is likely being rewarded for adopting practices that improve their profit margins and treats drivers unfairly. However, investors do care that their startups can hire the best tech talent to help them execute on their mission."</td>
-  </tr>
- </table>
  <table data-author="organizejs">
   <tr>
    <td class="field-key">
@@ -767,6 +495,74 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
     date
    </td>
    <td class="field-value">
+    2019-02-28
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    source
+   </td>
+   <td class="field-value">
+    <a href="https://www.buzzfeednews.com/article/carolineodonovan/student-groups-protest-salesforce-palantir-ice-campus">
+     Buzzfeed
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    company
+   </td>
+   <td class="field-value">
+    Palantir, Salesforce
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    Protest
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    employment_type
+   </td>
+   <td class="field-value">
+    FTE
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    worker_count
+   </td>
+   <td class="field-value">
+    10
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    Ten Stanford students with a group called Students for the Liberation of All People (SLAP) protested a guest lecture by Salesforce executive Richard Socher on Tuesday. The students, who held signs — "Salesforcing families apart," "Richard are you getting rich from deportation?" and "Salesfart" — oppose the company's contract with Customs and Border Protection. Likewise they oppose Palantirs work with ICE.
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    notes
+   </td>
+   <td class="field-value">
+    Not tech workers (yet).
+   </td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
     2019-02-22
    </td>
   </tr>
@@ -1065,6 +861,198 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
    </td>
    <td class="field-value">
     Google employees have signed an open letter published Tuesday on Medium demanding that the company cease work on Project Dragonfly, which is aimed at creating a search engine that the Chinese government would be able to control to censor certain results and surveil users. "International human rights organizations and investigative reporters have also sounded the alarm, emphasizing serious human rights concerns and repeatedly calling on Google to cancel the project," the letter reads in part. "So far, our leadership's response has been unsatisfactory."
+   </td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
+    2018-11-23
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    source
+   </td>
+   <td class="field-value">
+    <a href="https://mashable.com/article/amazon-workers-black-friday-strike-europe-uk/#7mIzh6l4giqk">
+     Mashable
+    </a>
+    ,
+    <a href="https://www.uniglobalunion.org/news/amazon-workers-launch-wave-black-friday-strikes-and-protests">
+     UNI Global Union
+    </a>
+    ,
+    <a href="https://www.businessinsider.com/black-friday-amazon-workers-protest-poor-working-conditions-2018-11">
+     Business Insider
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    company
+   </td>
+   <td class="field-value">
+    Amazon
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    Strike
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    employment_type
+   </td>
+   <td class="field-value">
+    Contractors, Warehouse workers
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    union_affiliation
+   </td>
+   <td class="field-value">
+    UNI Global Union
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    worker_count
+   </td>
+   <td class="field-value">
+    2400
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    Thousands of Amazon staff members across Europe protest on Black Friday over the way the company treats its warehouse workers.
+   </td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
+    2018-11-23
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    source
+   </td>
+   <td class="field-value">
+    <a href="https://www.buzzfeednews.com/article/carolineodonovan/instacart-delivery-workers-strike-gig-workers-labor-movement">
+     Buzzfeed
+    </a>
+    ,
+    <a href="https://www.change.org/p/instacart-revert-back-to-old-pay-system-for-instacart?fbclid=IwAR3wm28lI8iBs5-JXF-y9Ld-iqkGjrO3E566XJBrTSkiug3PuYHwv1RpDsY">
+     Change.org
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    company
+   </td>
+   <td class="field-value">
+    Instacart
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    Strike
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    employment_type
+   </td>
+   <td class="field-value">
+    Independent Contractors, Drivers
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    A group of Instacart delivery workers is waging an ongoing "soft strike" against the company to demand better pay this Thanksgiving weekend for the third year in a row. The workers, who are independent contractors, say a recent change to the grocery delivery platform's pay structure was an effective pay cut that’s threatening their livelihoods. As a result, they’re refusing to deliver extra-heavy items, drive more than eight miles per order, or accept time-consuming, low-paying jobs.
+   </td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
+    2018-11-20
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    source
+   </td>
+   <td class="field-value">
+    <a href="https://www.buzzfeednews.com/article/carolineodonovan/blue-apron-lawsuit-unpaid-wages">
+     Buzzfeed
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    company
+   </td>
+   <td class="field-value">
+    Blue Apron
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    Lawsuit
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    employment_type
+   </td>
+   <td class="field-value">
+    Contract
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    worker_count
+   </td>
+   <td class="field-value">
+    100
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    Blue Apron employees have filed a class-action lawsuit against the company, alleging that they weren't paid overtime, or for meal breaks, among other labor law violations. They are seeking back pay for missed wages and a trial by jury.
    </td>
   </tr>
  </table>
@@ -1534,6 +1522,78 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
     date
    </td>
    <td class="field-value">
+    2018-07-10
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    source
+   </td>
+   <td class="field-value">
+    <a href="https://www.reuters.com/article/us-amazon-com-spain-strike/spanish-amazon-workers-call-three-day-strike-over-wages-rights-idUSKBN1K01XZ">
+     Reuters
+    </a>
+    ,
+    <a href="https://www.buzzfeednews.com/article/leticiamiranda/labor-strike-against-amazon-in-spain-arrests-injuries">
+     Buzzfeed
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    company
+   </td>
+   <td class="field-value">
+    Amazon
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    Strike
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    employment_type
+   </td>
+   <td class="field-value">
+    Contractors
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    union_affiliation
+   </td>
+   <td class="field-value">
+    Comisiones Obreras (CCOO)
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    worker_count
+   </td>
+   <td class="field-value">
+    950
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    Spanish labor unions have called on around 1,000 Amazon employees to walk out for three days next week in a dispute over what it says are efforts to reduce workers' rights.
+   </td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
     2018-06-25
    </td>
   </tr>
@@ -1730,6 +1790,58 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
     source
    </td>
    <td class="field-value">
+    <a href="https://clb.org.hk/content/food-delivery-workers-china-strike-over-pay-cuts-and-unfair-work-practices">
+     China Bulletin
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    company
+   </td>
+   <td class="field-value">
+    Meituan
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    Strike
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    employment_type
+   </td>
+   <td class="field-value">
+    Contractors, Food delivery drivers
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    There have been at least 15 strikes and protests by food delivery workers in China since 1 May as increased competition among delivery platforms has drastically reduced workers’ take-home pay. Workers contracted to food delivery giant Meituan in the northern city of Taiyuan staged a work stoppage in protest at a wide range of issues including pay levels, delivery times, insurance and high accident rates.
+   </td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
+    2018-06-04
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    source
+   </td>
+   <td class="field-value">
     <a href="https://www.southbendtribune.com/news/business/at-t-workers-strike-across-the-midwest-including-in-south/article_02c98d1d-a0b7-5f53-9d94-dcb9d830298b.html">
      South Bend Tribune
     </a>
@@ -1785,58 +1897,6 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
    </td>
    <td class="field-value">
     Across the Midwest, thousands of AT&amp;T workers striked against unfair labor practices in the ongoing negotiations with the company for a new contract. More than 11,000 workers belonging to the Communications Workers of America had joined, including roughly 1,500 across Indiana and 249 specifically in South Bend. For AT&amp;T customers, the strike could mean some delays for installation and repairs.
-   </td>
-  </tr>
- </table>
- <table data-author="organizejs">
-  <tr>
-   <td class="field-key">
-    date
-   </td>
-   <td class="field-value">
-    2018-06-04
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    source
-   </td>
-   <td class="field-value">
-    <a href="https://clb.org.hk/content/food-delivery-workers-china-strike-over-pay-cuts-and-unfair-work-practices">
-     China Bulletin
-    </a>
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    company
-   </td>
-   <td class="field-value">
-    Meituan
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    action
-   </td>
-   <td class="field-value">
-    Strike
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    employment_type
-   </td>
-   <td class="field-value">
-    Contractors, Food delivery drivers
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    description
-   </td>
-   <td class="field-value">
-    There have been at least 15 strikes and protests by food delivery workers in China since 1 May as increased competition among delivery platforms has drastically reduced workers’ take-home pay. Workers contracted to food delivery giant Meituan in the northern city of Taiyuan staged a work stoppage in protest at a wide range of issues including pay levels, delivery times, insurance and high accident rates.
    </td>
   </tr>
  </table>
@@ -1922,6 +1982,70 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
     source
    </td>
    <td class="field-value">
+    <a href="http://www.theinvestor.co.kr/view.php?ud=20180710000573">
+     The Investor
+    </a>
+    ,
+    <a href="https://www.koreatimes.co.kr/www/tech/2018/05/133_248940.html">
+     Korea Times
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    company
+   </td>
+   <td class="field-value">
+    Oracle
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    Strike
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    union_affiliation
+   </td>
+   <td class="field-value">
+    The Oracle Korea Workers Union
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    worker_count
+   </td>
+   <td class="field-value">
+    100+
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    Workers of Oracle Korea have been sat outside the main office for more than 50 days after 19 negotiations with the management from December to April failed. This is now the longest strike by employees of a foreign IT company in Korea. "Some people think we don't need a union because they believe we work at a leading global IT company and have well-paid jobs," Kim Chul-soo, president of the Oracle labor union, said. "It's not true at all."
+   </td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
+    2018-05-14
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    source
+   </td>
+   <td class="field-value">
     <a href="https://www.theguardian.com/australia-news/2018/may/16/food-delivery-riders-protest-against-wage-theft-by-deliveroo-foodora-and-ubereats">
      The Guardian
     </a>
@@ -1986,7 +2110,7 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
     date
    </td>
    <td class="field-value">
-    2018-05-14
+    2018-03-21
    </td>
   </tr>
   <tr>
@@ -1994,12 +2118,8 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
     source
    </td>
    <td class="field-value">
-    <a href="http://www.theinvestor.co.kr/view.php?ud=20180710000573">
-     The Investor
-    </a>
-    ,
-    <a href="https://www.koreatimes.co.kr/www/tech/2018/05/133_248940.html">
-     Korea Times
+    <a href="https://www.reuters.com/article/us-amazon-com-spain/spains-amazon-workers-call-two-day-strike-over-wages-rights-idUSKCN1GP13L">
+     Reuters
     </a>
    </td>
   </tr>
@@ -2008,7 +2128,7 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
     company
    </td>
    <td class="field-value">
-    Oracle
+    Amazon
    </td>
   </tr>
   <tr>
@@ -2021,10 +2141,18 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
   </tr>
   <tr>
    <td class="field-key">
+    employment_type
+   </td>
+   <td class="field-value">
+    Contractors, Warehouse workers
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
     union_affiliation
    </td>
    <td class="field-value">
-    The Oracle Korea Workers Union
+    Comisiones Obreras (CCOO)
    </td>
   </tr>
   <tr>
@@ -2032,7 +2160,7 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
     worker_count
    </td>
    <td class="field-value">
-    100+
+    1100
    </td>
   </tr>
   <tr>
@@ -2040,7 +2168,59 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
     description
    </td>
    <td class="field-value">
-    Workers of Oracle Korea have been sat outside the main office for more than 50 days after 19 negotiations with the management from December to April failed. This is now the longest strike by employees of a foreign IT company in Korea. "Some people think we don't need a union because they believe we work at a leading global IT company and have well-paid jobs," Kim Chul-soo, president of the Oracle labor union, said. "It's not true at all."
+    Over one thousand Amazon workers in Spain plan to stage their first strike with a two-day walkout to protest what unions claim are efforts to reduce employees' rights. The union claimed the company aims to block salary increases, cut wages and reduce payments for those working weekends or holidays as part of a new contract agreement.
+   </td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
+    2018-02-18
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    source
+   </td>
+   <td class="field-value">
+    <a href="https://medium.com/@anna.geiduschek/an-open-letter-from-tech-workers-to-doordash-dc387fdef0fe">
+     Medium
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    company
+   </td>
+   <td class="field-value">
+    Doordash
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    Petition
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    worker_count
+   </td>
+   <td class="field-value">
+    320
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    After raising a round of $400 million, tech workers protest Doordash using workers' tip money to subsidize base pay. "Silicon Valley investors clearly don't care that DoorDash cheats drivers — in fact, DoorDash is likely being rewarded for adopting practices that improve their profit margins and treats drivers unfairly. However, investors do care that their startups can hire the best tech talent to help them execute on their mission."
    </td>
   </tr>
  </table>
@@ -2685,6 +2865,74 @@ A quick summary of how to add a new action. See the [contribution guidelines](CO
    </td>
    <td class="field-value">
     Online petition by information technology workers to work against a United States government database identifying people by race, religion, or national origin, specifically in response to the Trump presidential campaign statements about creating a Muslim registry and deporting millions of illegal immigrants.
+   </td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
+    2016-03-31
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    source
+   </td>
+   <td class="field-value">
+    <a href="https://www.bizjournals.com/sanjose/news/2016/03/31/seiu-janitors-san-jose-rally-targets-adobe.html">
+     Silicon Valley Business Journal
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    company
+   </td>
+   <td class="field-value">
+    Adobe
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    Strike
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    employment_type
+   </td>
+   <td class="field-value">
+    Contractors, Janitors
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    union_affiliation
+   </td>
+   <td class="field-value">
+    Service Employees International Union-United Service Workers West SEIU-USWW
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    worker_count
+   </td>
+   <td class="field-value">
+    100+
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    Service Employees International Union-United Service Workers West janitors' San Jose rally targets Adobe. Hundreds of SEIU-USWW members congregated on Cesar Chavez Day to draw attention to ongoing contract negotiations with cleaning service contractors and protest abuse of workers in the janitorial industry.
    </td>
   </tr>
  </table>
