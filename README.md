@@ -2,7 +2,11 @@
 
 ![silicon valley unite](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiwV2sQj6hm4/v0/1000x-1.jpg)
 
-This repository is an attempt to document all collective actions from tech and adjacent industries included gaming, communications, and digital media. The goal of _Collective Action in Tech_ is to give us, tech workers, insights on trends in worker power in the tech industry. This archive is meant to provide us with the data to  find the connections between different struggles and to let us reflect collectively on moments in tech labor.
+This repository is an attempt to document all collective actions from workers in the tech industry.
+
+For the purposes of this project, the tech industry is defined to include any company whose core business is information technology. We are excluding adjacent industries such as gaming and digital media.
+
+The goal of _Collective Action in Tech_ is to give us, tech workers, insights on trends in worker power in the tech industry. This archive is meant to provide us with the data to  find the connections between different struggles and to let us reflect collectively on moments in tech labor.
 
 <details>
 <summary><strong><em>This repository is meant to be a live document. Learn about adding a new action.</em></strong></summary>
