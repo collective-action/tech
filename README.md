@@ -8,62 +8,7 @@ For the purposes of this project, the tech industry is defined to include any co
 
 The goal of _Collective Action in Tech_ is to give us, tech workers, insights on trends in worker power in the tech industry. This archive is meant to provide us with the data to  find the connections between different struggles and to let us reflect collectively on moments in tech labor.
 
-<details>
-<summary><strong><em>This repository is meant to be a live document. Learn about adding a new action.</em></strong></summary>
-
-A quick summary of how to add a new action. See the [contribution guidelines](CONTRIBUTING.md) for more details.
-
-#### Steps
-1. Before contributing, make sure the action you intend to add is not already present. Submit a PR if you wish to edit it.
-1. Copy and paste the html code snippet below right below the opening `<div>` opening tag under __Actions__.
-1. Update the fields and verify that the changes look correct.
-1. Commit the changes to a new branch and make a PR.
-
-> Except for the field 'date', any of the other fields can be omitted if not applicable to the action. To omit a field, remove the \<tr\> element entirely.
-
-```html
- <table data-author="your-username">
-  <tr>
-   <td class="field-key">date</td>
-   <td class="field-value">YYYY-MM-DD (choose the earliest relevant date)</td>
-  </tr>
-  <tr>
-   <td class="field-key">source</td>
-   <td class="field-value">
-    <a href="https://www.your.valid/source">Publication Name</a>
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">company</td>
-   <td class="field-value">Company Name</td>
-  </tr>
-  <tr>
-   <td class="field-key">action</td>
-   <td class="field-value">[Petition, Strike, Walkout, Union Represenation, etc]</td>
-  </tr>
-  <tr>
-   <td class="field-key">employment_type</td>
-   <td class="field-value">[FTE, contractors, vendors, temps]</td>
-  </tr>
-  <tr>
-   <td class="field-key">union_affiliation</td>
-   <td class="field-value">Unite Here</td>
-  </tr>
-  <tr>
-   <td class="field-key">worker_count</td>
-   <td class="field-value">100</td>
-  </tr>
-  <tr>
-   <td class="field-key">description</td>
-   <td class="field-value">A short description of the event that took place.</td>
-  </tr>
-  <tr>
-   <td class="field-key">notes</td>
-   <td class="field-value">Ad-hoc notes. Delete the tr element entirely if you have no notes to add.</td>
-  </tr>
- </table>
-```
-</details>
+<summary><strong><em>This repository is meant to be a live document. We need your help to ensure its accuracy and completeness! See the [Contribution Guidelines](CONTRIBUTING.md) for more information about how to contribute.</em></strong></summary>
 
 #### Summary
 <div id="summary">
