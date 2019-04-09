@@ -15,7 +15,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
  <table>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">51</td>
+    <td data-summary="action-count">48</td>
   </tr>
  </table>
 </div>
@@ -54,15 +54,15 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    Protest
+    protest
    </td>
   </tr>
   <tr>
    <td class="field-key">
-    employment_type
+    struggle
    </td>
    <td class="field-value">
-    FTE
+    discrimination
    </td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     description
    </td>
    <td class="field-value">
-    A group of Microsoft employees appeared at an employee meeting with CEO Satya Nadella Thursday to protest the company’s treatment of women. It's not clear how many were part of the protest, but some female and male employees at the event wore all white, inspired by the congresswomen who wore suffragette white to the State of the Union in February.
+    A group of Microsoft employees appeared at an employee meeting with CEO Satya Nadella Thursday to protest the company's treatment of women. It's not clear how many were part of the protest, but some female and male employees at the event wore all white, inspired by the congresswomen who wore suffragette white to the State of the Union in February.
    </td>
   </tr>
  </table>
@@ -106,15 +106,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    Petition
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    employment_type
-   </td>
-   <td class="field-value">
-    FTE, contractors
+    petition
    </td>
   </tr>
   <tr>
@@ -122,7 +114,15 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     worker_count
    </td>
    <td class="field-value">
-    900+
+    900
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    struggle
+   </td>
+   <td class="field-value">
+    working_conditions, pay_and_benefits
    </td>
   </tr>
   <tr>
@@ -175,18 +175,10 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
   </tr>
   <tr>
    <td class="field-key">
-    employment_type
+    struggle
    </td>
    <td class="field-value">
-    FTE, contractors
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    worker_count
-   </td>
-   <td class="field-value">
-    2000+
+    discrimination
    </td>
   </tr>
   <tr>
@@ -230,7 +222,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    Petition
+    petition
    </td>
   </tr>
   <tr>
@@ -238,7 +230,15 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     worker_count
    </td>
    <td class="field-value">
-    +165000
+    +195000
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    struggle
+   </td>
+   <td class="field-value">
+    working_conditions
    </td>
   </tr>
   <tr>
@@ -282,23 +282,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    Petition
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    employment_type
-   </td>
-   <td class="field-value">
-    Researchers
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    union_affiliation
-   </td>
-   <td class="field-value">
-    Unite Here
+    petition
    </td>
   </tr>
   <tr>
@@ -307,6 +291,14 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    </td>
    <td class="field-value">
     45
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    struggle
+   </td>
+   <td class="field-value">
+    ethics
    </td>
   </tr>
   <tr>
@@ -350,15 +342,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    Strike
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    employment_type
-   </td>
-   <td class="field-value">
-    Independent Contractors
+    strike
    </td>
   </tr>
   <tr>
@@ -366,7 +350,15 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     worker_count
    </td>
    <td class="field-value">
-    100+
+    100
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    struggle
+   </td>
+   <td class="field-value">
+    pay_and_benefits
    </td>
   </tr>
   <tr>
@@ -410,23 +402,15 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    Intent to Unionize
+    union_drive
    </td>
   </tr>
   <tr>
    <td class="field-key">
-    employment_type
+    struggle
    </td>
    <td class="field-value">
-    FTE
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    union_affiliation
-   </td>
-   <td class="field-value">
-    Office and Professional Employees International Union
+    working_conditions
    </td>
   </tr>
   <tr>
@@ -435,74 +419,6 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    </td>
    <td class="field-value">
     Employees at Brooklyn's crowdfunding giant Kickstarter are forming a labor union called Kickstarter United, which will aim to secure more rights for the company's workers. If recognized by the company, Kickstarter would become the first major tech company in the US to have union representation.
-   </td>
-  </tr>
- </table>
- <table data-author="organizejs">
-  <tr>
-   <td class="field-key">
-    date
-   </td>
-   <td class="field-value">
-    2019-02-28
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    source
-   </td>
-   <td class="field-value">
-    <a href="https://www.buzzfeednews.com/article/carolineodonovan/student-groups-protest-salesforce-palantir-ice-campus">
-     Buzzfeed
-    </a>
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    company
-   </td>
-   <td class="field-value">
-    Palantir, Salesforce
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    action
-   </td>
-   <td class="field-value">
-    Protest
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    employment_type
-   </td>
-   <td class="field-value">
-    FTE
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    worker_count
-   </td>
-   <td class="field-value">
-    10
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    description
-   </td>
-   <td class="field-value">
-    Ten Stanford students with a group called Students for the Liberation of All People (SLAP) protested a guest lecture by Salesforce executive Richard Socher on Tuesday. The students, who held signs — "Salesforcing families apart," "Richard are you getting rich from deportation?" and "Salesfart" — oppose the company's contract with Customs and Border Protection. Likewise they oppose Palantirs work with ICE.
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    notes
-   </td>
-   <td class="field-value">
-    Not tech workers (yet).
    </td>
   </tr>
  </table>
@@ -547,18 +463,18 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
   </tr>
   <tr>
    <td class="field-key">
-    employment_type
-   </td>
-   <td class="field-value">
-    FTE
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
     worker_count
    </td>
    <td class="field-value">
     290
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    struggle
+   </td>
+   <td class="field-value">
+    ethics
    </td>
   </tr>
   <tr>
@@ -602,15 +518,15 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    Strike
+    strike
    </td>
   </tr>
   <tr>
    <td class="field-key">
-    employment_type
+    struggle
    </td>
    <td class="field-value">
-    Contractors, Food delivery drivers
+    pay_and_benefits
    </td>
   </tr>
   <tr>
@@ -619,70 +535,6 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    </td>
    <td class="field-value">
     Food delivery workers in at least five cities across China have staged a series of strikes protesting arbitrary reductions in pay rates introduced after the Lunar New Year Holiday. Workers for both major food delivery platforms, Meituan and Ele.me, stopped taking orders starting in February.
-   </td>
-  </tr>
- </table>
- <table data-author="organizejs">
-  <tr>
-   <td class="field-key">
-    date
-   </td>
-   <td class="field-value">
-    2019-01-16
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    source
-   </td>
-   <td class="field-value">
-    <a href="https://medium.com/@BuzzFeedNewsStaffCouncil/letter-to-buzzfeed-pto-layoffs-f79d9c857a21">
-     Medium
-    </a>
-    ,
-    <a href="https://techcrunch.com/2019/01/27/buzzfeed-employees-demand-it-pay-out-earned-pto-to-all-laid-off-u-s-staffers/">
-     Techcrunch
-    </a>
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    company
-   </td>
-   <td class="field-value">
-    Buzzfeed
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    action
-   </td>
-   <td class="field-value">
-    Petition
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    employment_type
-   </td>
-   <td class="field-value">
-    FTE
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    worker_count
-   </td>
-   <td class="field-value">
-    600+
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    description
-   </td>
-   <td class="field-value">
-    A group of current and former BuzzFeed employees are asking the company to pay out paid time off to all recently laid-off staff. In an open letter to BuzzFeed's CEO Jonah Peretti and editor in chief Ben Smith, the BuzzFeed News Staff Council write "BuzzFeed is refusing to pay out earned, accrued, and vested paid time off for almost all U.S. employees who have been laid off."
    </td>
   </tr>
  </table>
@@ -721,15 +573,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    Protest
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    employment_type
-   </td>
-   <td class="field-value">
-    Contractors
+    protest
    </td>
   </tr>
   <tr>
@@ -738,6 +582,14 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    </td>
    <td class="field-value">
     100
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    struggle
+   </td>
+   <td class="field-value">
+    working_conditions
    </td>
   </tr>
   <tr>
@@ -785,15 +637,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    Petition
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    employment_type
-   </td>
-   <td class="field-value">
-    FTE
+    petition
    </td>
   </tr>
   <tr>
@@ -806,10 +650,74 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
   </tr>
   <tr>
    <td class="field-key">
+    struggle
+   </td>
+   <td class="field-value">
+    ethics
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
     description
    </td>
    <td class="field-value">
     Google employees have signed an open letter published Tuesday on Medium demanding that the company cease work on Project Dragonfly, which is aimed at creating a search engine that the Chinese government would be able to control to censor certain results and surveil users. "International human rights organizations and investigative reporters have also sounded the alarm, emphasizing serious human rights concerns and repeatedly calling on Google to cancel the project," the letter reads in part. "So far, our leadership's response has been unsatisfactory."
+   </td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
+    2018-11-23
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    source
+   </td>
+   <td class="field-value">
+    <a href="https://www.buzzfeednews.com/article/carolineodonovan/instacart-delivery-workers-strike-gig-workers-labor-movement">
+     Buzzfeed
+    </a>
+    ,
+    <a href="https://www.change.org/p/instacart-revert-back-to-old-pay-system-for-instacart?fbclid=IwAR3wm28lI8iBs5-JXF-y9Ld-iqkGjrO3E566XJBrTSkiug3PuYHwv1RpDsY">
+     Change.org
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    company
+   </td>
+   <td class="field-value">
+    Instacart
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    strike
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    struggle
+   </td>
+   <td class="field-value">
+    pay_and_benefits
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    A group of Instacart delivery workers is waging an ongoing "soft strike" against the company to demand better pay this Thanksgiving weekend for the third year in a row. The workers, who are independent contractors, say a recent change to the grocery delivery platform's pay structure was an effective pay cut that’s threatening their livelihoods. As a result, they’re refusing to deliver extra-heavy items, drive more than eight miles per order, or accept time-consuming, low-paying jobs.
    </td>
   </tr>
  </table>
@@ -858,22 +766,6 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
   </tr>
   <tr>
    <td class="field-key">
-    employment_type
-   </td>
-   <td class="field-value">
-    Contractors, Warehouse workers
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    union_affiliation
-   </td>
-   <td class="field-value">
-    UNI Global Union
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
     worker_count
    </td>
    <td class="field-value">
@@ -882,66 +774,18 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
   </tr>
   <tr>
    <td class="field-key">
+    struggle
+   </td>
+   <td class="field-value">
+    working_conditions
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
     description
    </td>
    <td class="field-value">
     Thousands of Amazon staff members across Europe protest on Black Friday over the way the company treats its warehouse workers.
-   </td>
-  </tr>
- </table>
- <table data-author="organizejs">
-  <tr>
-   <td class="field-key">
-    date
-   </td>
-   <td class="field-value">
-    2018-11-23
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    source
-   </td>
-   <td class="field-value">
-    <a href="https://www.buzzfeednews.com/article/carolineodonovan/instacart-delivery-workers-strike-gig-workers-labor-movement">
-     Buzzfeed
-    </a>
-    ,
-    <a href="https://www.change.org/p/instacart-revert-back-to-old-pay-system-for-instacart?fbclid=IwAR3wm28lI8iBs5-JXF-y9Ld-iqkGjrO3E566XJBrTSkiug3PuYHwv1RpDsY">
-     Change.org
-    </a>
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    company
-   </td>
-   <td class="field-value">
-    Instacart
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    action
-   </td>
-   <td class="field-value">
-    Strike
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    employment_type
-   </td>
-   <td class="field-value">
-    Independent Contractors, Drivers
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    description
-   </td>
-   <td class="field-value">
-    A group of Instacart delivery workers is waging an ongoing "soft strike" against the company to demand better pay this Thanksgiving weekend for the third year in a row. The workers, who are independent contractors, say a recent change to the grocery delivery platform's pay structure was an effective pay cut that’s threatening their livelihoods. As a result, they’re refusing to deliver extra-heavy items, drive more than eight miles per order, or accept time-consuming, low-paying jobs.
    </td>
   </tr>
  </table>
@@ -977,15 +821,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    Lawsuit
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    employment_type
-   </td>
-   <td class="field-value">
-    Contract
+    legal_action
    </td>
   </tr>
   <tr>
@@ -994,6 +830,14 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    </td>
    <td class="field-value">
     100
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    struggle
+   </td>
+   <td class="field-value">
+    pay_and_benefits, working_conditions
    </td>
   </tr>
   <tr>
@@ -1002,66 +846,6 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    </td>
    <td class="field-value">
     Blue Apron employees have filed a class-action lawsuit against the company, alleging that they weren't paid overtime, or for meal breaks, among other labor law violations. They are seeking back pay for missed wages and a trial by jury.
-   </td>
-  </tr>
- </table>
- <table data-author="organizejs">
-  <tr>
-   <td class="field-key">
-    date
-   </td>
-   <td class="field-value">
-    2018-11-14
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    source
-   </td>
-   <td class="field-value">
-    <a href="https://www.vox.com/the-goods/2018/11/15/18096181/long-island-city-amazon-hq2-protest">
-     Vox
-    </a>
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    company
-   </td>
-   <td class="field-value">
-    Amazon
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    action
-   </td>
-   <td class="field-value">
-    Protest
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    worker_count
-   </td>
-   <td class="field-value">
-    100
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    description
-   </td>
-   <td class="field-value">
-    On November 14, one day after Amazon formally announced its plan to open half of its so-called "second headquarters" in New York City, nearly 100 politicians, union organizers, and community members gathered in a Long Island City park to protest the company's impending expansion.
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    notes
-   </td>
-   <td class="field-value">
-    Not worker centric.
    </td>
   </tr>
  </table>
@@ -1101,15 +885,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    Walkout
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    employment_type
-   </td>
-   <td class="field-value">
-    FTE, contractors
+    protest
    </td>
   </tr>
   <tr>
@@ -1117,7 +893,15 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     worker_count
    </td>
    <td class="field-value">
-    20000+
+    20000
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    struggle
+   </td>
+   <td class="field-value">
+    discrimination
    </td>
   </tr>
   <tr>
@@ -1161,15 +945,15 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    Open Letter
+    petition
    </td>
   </tr>
   <tr>
    <td class="field-key">
-    employment_type
+    struggle
    </td>
    <td class="field-value">
-    FTE
+    ethics
    </td>
   </tr>
   <tr>
@@ -1178,14 +962,6 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    </td>
    <td class="field-value">
     An open letter signed by "employees of Microsoft" asks the cloud giant to abstain from bidding on the military's massive JEDI cloud computing contract for ethical reasons involving the application of artificial intelligence.
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    notes
-   </td>
-   <td class="field-value">
-    Not a petition as signatures were not collected.
    </td>
   </tr>
  </table>
@@ -1225,23 +1001,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    Strike
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    employment_type
-   </td>
-   <td class="field-value">
-    Independent Contractors
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    union_affiliation
-   </td>
-   <td class="field-value">
-    The United Private Hire Drivers (UPHD), Independent Workers Union of Great Britain (IWGB)
+    strike
    </td>
   </tr>
   <tr>
@@ -1249,7 +1009,15 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     worker_count
    </td>
    <td class="field-value">
-    100+
+    100
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    struggle
+   </td>
+   <td class="field-value">
+    pay_and_benefits, working_conditions
    </td>
   </tr>
   <tr>
@@ -1258,6 +1026,14 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    </td>
    <td class="field-value">
     "Hundreds" of drivers are expected to switch off their apps from 1pm, making themselves unavailable for work, union organisers said. Protests are also being held outside the ride-hailing app's offices in London, Nottingham and Birmingham.
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    tags
+   </td>
+   <td class="field-value">
+    UPHD, IWGB
    </td>
   </tr>
  </table>
@@ -1293,23 +1069,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    Strike
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    employment_type
-   </td>
-   <td class="field-value">
-    Independent Contractors
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    union_affiliation
-   </td>
-   <td class="field-value">
-    Independent Workers Union of Great Britain (IWGB), Industrial Workers of the World (IWW)
+    strike
    </td>
   </tr>
   <tr>
@@ -1322,18 +1082,18 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
   </tr>
   <tr>
    <td class="field-key">
-    description
+    struggle
    </td>
    <td class="field-value">
-    UberEats riders and a small number of workers from JD Wetherspoon, McDonald's and TGI Fridays have been staging walkouts in a pay dispute. Protests were being held in several UK cities, along with a rally in London.
+    pay_and_benefits
    </td>
   </tr>
   <tr>
    <td class="field-key">
-    notes
+    description
    </td>
    <td class="field-value">
-    Not just tech workers (the uber drivers). Part of a broader worldwide strike action by fast-food workers.
+    UberEats riders and a small number of workers from JD Wetherspoon, McDonald's and TGI Fridays have been staging walkouts in a pay dispute. Protests were being held in several UK cities, along with a rally in London.
    </td>
   </tr>
  </table>
@@ -1365,23 +1125,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    Protest
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    employment_type
-   </td>
-   <td class="field-value">
-    Contract
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    union_affiliation
-   </td>
-   <td class="field-value">
-    Teamster
+    protest
    </td>
   </tr>
   <tr>
@@ -1394,10 +1138,18 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
   </tr>
   <tr>
    <td class="field-key">
+    struggle
+   </td>
+   <td class="field-value">
+    pay_and_benefits
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
     description
    </td>
    <td class="field-value">
-    Members of the union that represents the folks behind the wheels of corporate shuttles stood and sat in front of those buses in the Castro district, demanding a secure pension for high-tech shuttle drivers. About 40 Teamsters blocked tech buses in a surprise protest. The drivers were from WeDriveU and Loop/Hallcon and transport employees for high-tech companies including  Apple, Tesla, Amazon, Twitter, LinkedIn, Salesforce, Electronic Arts, Lam and Facebook.
+    Members of the union that represents the folks behind the wheels of corporate shuttles stood and sat in front of those buses in the Castro district, demanding a secure pension for high-tech shuttle drivers. About 40 Teamsters blocked tech buses in a surprise protest. The drivers were from WeDriveU and Loop/Hallcon and transport employees for high-tech companies including Apple, Tesla, Amazon, Twitter, LinkedIn, Salesforce, Electronic Arts, Lam and Facebook.
    </td>
   </tr>
  </table>
@@ -1437,7 +1189,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    Protest
+    protest
    </td>
   </tr>
   <tr>
@@ -1445,7 +1197,15 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     worker_count
    </td>
    <td class="field-value">
-    50+
+    50
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    struggle
+   </td>
+   <td class="field-value">
+    ethics
    </td>
   </tr>
   <tr>
@@ -1454,14 +1214,6 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    </td>
    <td class="field-value">
     Dozens of protesters gathered outside the data analysis company Palantir in Palo Alto, California, on Tuesday to present Palantir’s employees and CEO Alex Karp with a letter asking for an end to the company’s contracts with US Immigration and Customs Enforcement (ICE).
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    notes
-   </td>
-   <td class="field-value">
-    Not worker centric.
    </td>
   </tr>
  </table>
@@ -1501,23 +1253,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    Strike
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    employment_type
-   </td>
-   <td class="field-value">
-    Contractors
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    union_affiliation
-   </td>
-   <td class="field-value">
-    Comisiones Obreras (CCOO)
+    strike
    </td>
   </tr>
   <tr>
@@ -1526,6 +1262,14 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    </td>
    <td class="field-value">
     950
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    struggle
+   </td>
+   <td class="field-value">
+    working_conditions
    </td>
   </tr>
   <tr>
@@ -1569,15 +1313,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    Petition
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    employment_type
-   </td>
-   <td class="field-value">
-    FTE
+    petition
    </td>
   </tr>
   <tr>
@@ -1586,6 +1322,14 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    </td>
    <td class="field-value">
     650
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    struggle
+   </td>
+   <td class="field-value">
+    ethics
    </td>
   </tr>
   <tr>
@@ -1633,15 +1377,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    Petition
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    employment_type
-   </td>
-   <td class="field-value">
-    FTE
+    petition
    </td>
   </tr>
   <tr>
@@ -1650,6 +1386,14 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    </td>
    <td class="field-value">
     100+
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    struggle
+   </td>
+   <td class="field-value">
+    ethics
    </td>
   </tr>
   <tr>
@@ -1697,15 +1441,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    Petition
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    employment_type
-   </td>
-   <td class="field-value">
-    FTE
+    petition
    </td>
   </tr>
   <tr>
@@ -1713,7 +1449,15 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     worker_count
    </td>
    <td class="field-value">
-    300+
+    300
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    struggle
+   </td>
+   <td class="field-value">
+    ethics
    </td>
   </tr>
   <tr>
@@ -1722,58 +1466,6 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    </td>
    <td class="field-value">
     In an open letter posted to Microsoft's internal message board on Tuesday, hundreds of employees protested Microsoft's work with Immigration and Customs Enforcement and demanding that the company stop working with the agency.
-   </td>
-  </tr>
- </table>
- <table data-author="organizejs">
-  <tr>
-   <td class="field-key">
-    date
-   </td>
-   <td class="field-value">
-    2018-06-04
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    source
-   </td>
-   <td class="field-value">
-    <a href="https://clb.org.hk/content/food-delivery-workers-china-strike-over-pay-cuts-and-unfair-work-practices">
-     China Bulletin
-    </a>
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    company
-   </td>
-   <td class="field-value">
-    Meituan
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    action
-   </td>
-   <td class="field-value">
-    Strike
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    employment_type
-   </td>
-   <td class="field-value">
-    Contractors, Food delivery drivers
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    description
-   </td>
-   <td class="field-value">
-    There have been at least 15 strikes and protests by food delivery workers in China since 1 May as increased competition among delivery platforms has drastically reduced workers’ take-home pay. Workers contracted to food delivery giant Meituan in the northern city of Taiyuan staged a work stoppage in protest at a wide range of issues including pay levels, delivery times, insurance and high accident rates.
    </td>
   </tr>
  </table>
@@ -1813,23 +1505,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    Strike
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    employment_type
-   </td>
-   <td class="field-value">
-    Contract Workers
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    union_affiliation
-   </td>
-   <td class="field-value">
-    Communication Workers of America (CWA)
+    strike
    </td>
   </tr>
   <tr>
@@ -1842,10 +1518,70 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
   </tr>
   <tr>
    <td class="field-key">
+    struggle
+   </td>
+   <td class="field-value">
+    unfair_labor_practices
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
     description
    </td>
    <td class="field-value">
     Across the Midwest, thousands of AT&amp;T workers striked against unfair labor practices in the ongoing negotiations with the company for a new contract. More than 11,000 workers belonging to the Communications Workers of America had joined, including roughly 1,500 across Indiana and 249 specifically in South Bend. For AT&amp;T customers, the strike could mean some delays for installation and repairs.
+   </td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
+    2018-06-04
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    source
+   </td>
+   <td class="field-value">
+    <a href="https://clb.org.hk/content/food-delivery-workers-china-strike-over-pay-cuts-and-unfair-work-practices">
+     China Bulletin
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    company
+   </td>
+   <td class="field-value">
+    Meituan
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    strike
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    struggle
+   </td>
+   <td class="field-value">
+    pay_and_benefits
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    There have been at least 15 strikes and protests by food delivery workers in China since 1 May as increased competition among delivery platforms has drastically reduced workers’ take-home pay. Workers contracted to food delivery giant Meituan in the northern city of Taiyuan staged a work stoppage in protest at a wide range of issues including pay levels, delivery times, insurance and high accident rates.
    </td>
   </tr>
  </table>
@@ -1894,18 +1630,18 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
   </tr>
   <tr>
    <td class="field-key">
-    employment_type
-   </td>
-   <td class="field-value">
-    FTE, Contractors
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
     worker_count
    </td>
    <td class="field-value">
     5000
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    struggle
+   </td>
+   <td class="field-value">
+    discrimination
    </td>
   </tr>
   <tr>
@@ -1953,15 +1689,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    Strike
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    union_affiliation
-   </td>
-   <td class="field-value">
-    The Oracle Korea Workers Union
+    strike
    </td>
   </tr>
   <tr>
@@ -1969,7 +1697,15 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     worker_count
    </td>
    <td class="field-value">
-    100+
+    100
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    struggle
+   </td>
+   <td class="field-value">
+    pay_and_benefits, discrimination
    </td>
   </tr>
   <tr>
@@ -1977,7 +1713,15 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     description
    </td>
    <td class="field-value">
-    Workers of Oracle Korea have been sat outside the main office for more than 50 days after 19 negotiations with the management from December to April failed. This is now the longest strike by employees of a foreign IT company in Korea. "Some people think we don't need a union because they believe we work at a leading global IT company and have well-paid jobs," Kim Chul-soo, president of the Oracle labor union, said. "It's not true at all."
+    Workers of Oracle Korea have been sat outside the main office for more than 50 days after 19 negotiations with the management from December to April failed. This is now the longest strike by employees of a foreign IT company in Korea. "Some people think we don't need a union because they believe we work at a leading global IT company and have well-paid jobs," Kim Chul-soo, president of the Oracle labor union, said. "It's not true at all." Workers are suffering from a decline in real wages because there has been no increase in basic salary for the last 10 years, while half of the salary is based on incentives. Hiring scams similar to those at local banks, along with sexual harassment are also among the union’s accusations.
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    tags
+   </td>
+   <td class="field-value">
+    sexual_harassment, hiring_scams
    </td>
   </tr>
  </table>
@@ -2017,23 +1761,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    Protest
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    employment_type
-   </td>
-   <td class="field-value">
-    Contractors, Food delivery drivers
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    union_affiliation
-   </td>
-   <td class="field-value">
-    Transport Workers Union
+    protest
    </td>
   </tr>
   <tr>
@@ -2042,6 +1770,14 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    </td>
    <td class="field-value">
     24+
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    struggle
+   </td>
+   <td class="field-value">
+    pay_and_benefits, working_conditions
    </td>
   </tr>
   <tr>
@@ -2085,23 +1821,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    Strike
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    employment_type
-   </td>
-   <td class="field-value">
-    Contractors, Warehouse workers
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    union_affiliation
-   </td>
-   <td class="field-value">
-    Comisiones Obreras (CCOO)
+    strike
    </td>
   </tr>
   <tr>
@@ -2110,6 +1830,14 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    </td>
    <td class="field-value">
     1100
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    struggle
+   </td>
+   <td class="field-value">
+    pay_and_benefits
    </td>
   </tr>
   <tr>
@@ -2153,7 +1881,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    Petition
+    petition
    </td>
   </tr>
   <tr>
@@ -2166,82 +1894,18 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
   </tr>
   <tr>
    <td class="field-key">
+    struggle
+   </td>
+   <td class="field-value">
+    pay_and_benefits
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
     description
    </td>
    <td class="field-value">
     After raising a round of $400 million, tech workers protest Doordash using workers' tip money to subsidize base pay. "Silicon Valley investors clearly don't care that DoorDash cheats drivers — in fact, DoorDash is likely being rewarded for adopting practices that improve their profit margins and treats drivers unfairly. However, investors do care that their startups can hire the best tech talent to help them execute on their mission."
-   </td>
-  </tr>
- </table>
- <table data-author="organizejs">
-  <tr>
-   <td class="field-key">
-    date
-   </td>
-   <td class="field-value">
-    2018-02-16
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    source
-   </td>
-   <td class="field-value">
-    <a href="https://kotaku.com/developers-at-one-french-game-studio-have-been-on-strik-1823833426">
-     Kotaku
-    </a>
-    ,
-    <a href="https://www.pcgamer.com/the-eugen-systems-strike-is-over-but-the-battle-rages-on/">
-     PC Gamer
-    </a>
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    company
-   </td>
-   <td class="field-value">
-    Eugen Systems
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    action
-   </td>
-   <td class="field-value">
-    Strike
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    employment_type
-   </td>
-   <td class="field-value">
-    FTE
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    worker_count
-   </td>
-   <td class="field-value">
-    20+
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    description
-   </td>
-   <td class="field-value">
-    Employees at French game studio, Eugen Systems, walked out because of unpaid wages and breached contracts. The strike lasted a month a half.
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    notes
-   </td>
-   <td class="field-value">
-    Ad-hoc notes. Delete the tr element entirely if you have no notes to add.
    </td>
   </tr>
  </table>
@@ -2281,23 +1945,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    Intent to Unionize
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    employment_type
-   </td>
-   <td class="field-value">
-    FTE
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    union_affiliation
-   </td>
-   <td class="field-value">
-    NewsGuild-CWA
+    union_drive
    </td>
   </tr>
   <tr>
@@ -2306,6 +1954,14 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    </td>
    <td class="field-value">
     15
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    struggle
+   </td>
+   <td class="field-value">
+    working_conditions, unfair_labor_practices
    </td>
   </tr>
   <tr>
@@ -2354,26 +2010,18 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
   </tr>
   <tr>
    <td class="field-key">
-    employment_type
-   </td>
-   <td class="field-value">
-    Contractors
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    union_affiliation
-   </td>
-   <td class="field-value">
-    Unite Here
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
     worker_count
    </td>
    <td class="field-value">
     118
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    struggle
+   </td>
+   <td class="field-value">
+    pay_and_benefits, working_conditions
    </td>
   </tr>
   <tr>
@@ -2417,23 +2065,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    Union representation
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    employment_type
-   </td>
-   <td class="field-value">
-    Vendor
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    union_affiliation
-   </td>
-   <td class="field-value">
-    Unite Here Local 19
+    union_representation
    </td>
   </tr>
   <tr>
@@ -2442,6 +2074,14 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    </td>
    <td class="field-value">
     500
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    struggle
+   </td>
+   <td class="field-value">
+    pay_and_benefits
    </td>
   </tr>
   <tr>
@@ -2485,23 +2125,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    Strike
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    employment_type
-   </td>
-   <td class="field-value">
-    Contract Workers
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    union_affiliation
-   </td>
-   <td class="field-value">
-    Communication Workers of America (CWA)
+    strike
    </td>
   </tr>
   <tr>
@@ -2514,10 +2138,18 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
   </tr>
   <tr>
    <td class="field-key">
+    struggle
+   </td>
+   <td class="field-value">
+    pay_and_benefits, working_conditions, job_security
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
     description
    </td>
    <td class="field-value">
-    About 37,000 AT&amp;T workers, or less than 14 percent of the company’s total workforce, began a three-day strike. This is the first time that AT&amp;T wireless workers are on strike, which could result in closed retail stores during the weekend, according to the Communications Workers of America (CWA) union.
+    About 37,000 AT&amp;T workers, or less than 14 percent of the company’s total workforce, began a three-day strike. This is the first time that AT&amp;T wireless workers are on strike, which could result in closed retail stores during the weekend, according to the Communications Workers of America (CWA) union. The workers are demanding wage increases that cover rising healthcare costs, job security against outsourcing, affordable healthcare and a fair scheduling policy.
    </td>
   </tr>
  </table>
@@ -2557,23 +2189,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    Strike
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    employment_type
-   </td>
-   <td class="field-value">
-    Contract Workers
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    union_affiliation
-   </td>
-   <td class="field-value">
-    Communication Workers of America (CWA)
+    strike
    </td>
   </tr>
   <tr>
@@ -2582,6 +2198,14 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    </td>
    <td class="field-value">
     17000
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    struggle
+   </td>
+   <td class="field-value">
+    working_conditions, job_security
    </td>
   </tr>
   <tr>
@@ -2621,15 +2245,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    Protest
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    employment_type
-   </td>
-   <td class="field-value">
-    FTE, Contractors
+    protest
    </td>
   </tr>
   <tr>
@@ -2637,7 +2253,15 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     worker_count
    </td>
    <td class="field-value">
-    100+
+    100
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    struggle
+   </td>
+   <td class="field-value">
+    ethics
    </td>
   </tr>
   <tr>
@@ -2650,10 +2274,10 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
   </tr>
   <tr>
    <td class="field-key">
-    notes
+    tags
    </td>
    <td class="field-value">
-    The rally was not only attended by tech workers.
+    non_tech_centric
    </td>
   </tr>
  </table>
@@ -2681,23 +2305,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    Unionize
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    employment_type
-   </td>
-   <td class="field-value">
-    Contract, Security Guards
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    union_affiliation
-   </td>
-   <td class="field-value">
-    Service Employees International Union-United Service Workers West (SEIU-USWW)
+    union_representation
    </td>
   </tr>
   <tr>
@@ -2710,10 +2318,26 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
   </tr>
   <tr>
    <td class="field-key">
+    struggle
+   </td>
+   <td class="field-value">
+    pay_and_benefits
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
     description
    </td>
    <td class="field-value">
     In what union officials described as Silicon Valley’s largest private sector organizing effort, 3,000 private security guards on high tech campuses like Facebook, Cisco and Genentech have won recognition as members of Service Employees International Union-United Service Workers West (SEIU-USWW).
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    tags
+   </td>
+   <td class="field-value">
+    SEIU
    </td>
   </tr>
  </table>
@@ -2749,7 +2373,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    Protest
+    protest
    </td>
   </tr>
   <tr>
@@ -2758,6 +2382,14 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    </td>
    <td class="field-value">
     50
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    struggle
+   </td>
+   <td class="field-value">
+    ethics
    </td>
   </tr>
   <tr>
@@ -2797,7 +2429,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    Online pledge
+    petition
    </td>
   </tr>
   <tr>
@@ -2806,6 +2438,14 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    </td>
    <td class="field-value">
     2843
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    struggle
+   </td>
+   <td class="field-value">
+    ethics
    </td>
   </tr>
   <tr>
@@ -2849,23 +2489,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    Strike
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    employment_type
-   </td>
-   <td class="field-value">
-    Contractors, Janitors
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    union_affiliation
-   </td>
-   <td class="field-value">
-    Service Employees International Union-United Service Workers West SEIU-USWW
+    strike
    </td>
   </tr>
   <tr>
@@ -2878,10 +2502,26 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
   </tr>
   <tr>
    <td class="field-key">
+    struggle
+   </td>
+   <td class="field-value">
+    pay_and_benefits, working_conditions
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
     description
    </td>
    <td class="field-value">
     Service Employees International Union-United Service Workers West janitors' San Jose rally targets Adobe. Hundreds of SEIU-USWW members congregated on Cesar Chavez Day to draw attention to ongoing contract negotiations with cleaning service contractors and protest abuse of workers in the janitorial industry.
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    tags
+   </td>
+   <td class="field-value">
+    SEIU
    </td>
   </tr>
  </table>
@@ -2917,23 +2557,15 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    Protest
+    protest
    </td>
   </tr>
   <tr>
    <td class="field-key">
-    employment_type
+    struggle
    </td>
    <td class="field-value">
-    Contractors
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    union_affiliation
-   </td>
-   <td class="field-value">
-    SEIU 32BJ
+    pay_and_benefits
    </td>
   </tr>
   <tr>
@@ -2942,6 +2574,14 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    </td>
    <td class="field-value">
     Janitors of WeWork protest at their company's Manhattan headquarters at 222 Broadway. In that same building, other renters and owners hire cleaning contractors at the standard city-wide rate, while WeWork pays an average of $11 an hour.
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    tags
+   </td>
+   <td class="field-value">
+    SEIU
    </td>
   </tr>
  </table>
@@ -2977,23 +2617,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    Protest
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    employment_type
-   </td>
-   <td class="field-value">
-    Contract
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    union_affiliation
-   </td>
-   <td class="field-value">
-    Teamster
+    protest
    </td>
   </tr>
   <tr>
@@ -3006,10 +2630,26 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
   </tr>
   <tr>
    <td class="field-key">
+    struggle
+   </td>
+   <td class="field-value">
+    working_conditions
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
     description
    </td>
    <td class="field-value">
-    Union supporters of drivers who shuttle around Apple employees, were protesting outside the tech giant's Cupertino headquarters on Wednesday morning, ahead of their big vote Friday on whether to join the Teamsters Union.
+    Union supporters of drivers who shuttle around Apple employees, were protesting outside the tech giant's Cupertino headquarters on Wednesday morning, ahead of their big vote Friday on whether to join the Teamsters Union. The teamsters trucked into Cupertino to protest working conditions for 120 full and part-time shuttle and bus drivers who work at Apple and other Silicon Valley companies, like Yahoo, eBay and Genentech
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    tags
+   </td>
+   <td class="field-value">
+    Teamster
    </td>
   </tr>
  </table>
@@ -3045,23 +2685,15 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    Unionize
+    union_representation
    </td>
   </tr>
   <tr>
    <td class="field-key">
-    employment_type
+    struggle
    </td>
    <td class="field-value">
-    Contract
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    union_affiliation
-   </td>
-   <td class="field-value">
-    Teamster
+    pay_and_benefits, working_conditions
    </td>
   </tr>
   <tr>
@@ -3070,6 +2702,14 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    </td>
    <td class="field-value">
     The shuttle bus drivers who ferry Facebook employees to and from work voted on Wednesday to unionize, 43 to 28. The drivers, who are employees of Loop Transportation, a contractor for Facebook, voted to join Teamsters Local 853, with several of them saying their main concerns were inadequate pay and a stressful split shift schedule.
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    tags
+   </td>
+   <td class="field-value">
+    Teamster
    </td>
   </tr>
  </table>
@@ -3097,23 +2737,15 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    Protest
+    protest
    </td>
   </tr>
   <tr>
    <td class="field-key">
-    employment_type
+    struggle
    </td>
    <td class="field-value">
-    Contract Workers
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    union_affiliation
-   </td>
-   <td class="field-value">
-    Service Employees International Union (SEIU)
+    pay_and_benefits
    </td>
   </tr>
   <tr>
@@ -3122,6 +2754,14 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    </td>
    <td class="field-value">
     In front of Apple stores nationwide, tech company employees gathered to protest alongside hundreds of eager customers waiting in line to buy the iPhone 6. The protesters weren't disgruntled Apple engineers or developers; they were security officers, maintenance and custodial staff demanding better wages from tech companies.
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    tags
+   </td>
+   <td class="field-value">
+    SEIU
    </td>
   </tr>
  </table>
@@ -3157,15 +2797,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    Unionized
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    union_affiliation
-   </td>
-   <td class="field-value">
-    Temporary Workers of America
+    union_representation
    </td>
   </tr>
   <tr>
@@ -3178,6 +2810,14 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
   </tr>
   <tr>
    <td class="field-key">
+    struggle
+   </td>
+   <td class="field-value">
+    unfair_labor_practice, job_security
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
     description
    </td>
    <td class="field-value">
@@ -3186,10 +2826,10 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
   </tr>
   <tr>
    <td class="field-key">
-    notes
+    tags
    </td>
    <td class="field-value">
-    Many of these employees were then &lt;a href="https://www.seattletimes.com/business/microsoft/at-microsoft-contractor-union-win-is-a-mixed-result/"&gt;laid off&lt;/a&gt;.
+    temporary_workers_of_america
    </td>
   </tr>
  </table>
@@ -3217,7 +2857,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     company
    </td>
    <td class="field-value">
-    IBM
+    IBM, Lenovo
    </td>
   </tr>
   <tr>
@@ -3225,15 +2865,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    Strike
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    employment_type
-   </td>
-   <td class="field-value">
-    Factory Workers
+    strike
    </td>
   </tr>
   <tr>
@@ -3241,7 +2873,15 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     worker_count
    </td>
    <td class="field-value">
-    1000+
+    1000
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    struggle
+   </td>
+   <td class="field-value">
+    pay_and_benefits
    </td>
   </tr>
   <tr>
@@ -3250,6 +2890,58 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    </td>
    <td class="field-value">
     More than 1,000 IBM factory workers walked off the job at the factory in Shenzhen, bordering Hong Kong, after managers on announced the terms of their transfer to new ownership under Chinese PC maker Lenovo Group Ltd.
+   </td>
+  </tr>
+ </table>
+ <table data-author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
+    2013-11-19
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    source
+   </td>
+   <td class="field-value">
+    <a href="https://www.windowscentral.com/nokia-employees-dongguan-factory-china-strike">
+     Windows Central
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    company
+   </td>
+   <td class="field-value">
+    Microsoft, Nokia
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    strike
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    worker_count
+   </td>
+   <td class="field-value">
+    100
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    Hundreds of workers at a Chinese Nokia factory located in Dongguan, Guangdong Province have on strike. As shown in the above photo, they're holding up a large banner in protest, which reads "Workers are not simple merchandise, assets or slaves. Please do not sell us. We have DIGNITY and RIGHTS!"
    </td>
   </tr>
  </table>

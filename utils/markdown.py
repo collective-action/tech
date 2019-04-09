@@ -20,11 +20,10 @@ FIELDS = [
     "source",
     "company",
     "action",
-    "employment_type",
-    "union_affiliation",
     "worker_count",
+    "struggle",
     "description",
-    "notes",
+    "tags",
 ]
 MD_PATH = os.path.realpath(
     os.path.join(os.path.dirname(os.path.abspath(__file__)), os.pardir, "README.md")
