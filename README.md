@@ -8,7 +8,7 @@ For the purposes of this project, the tech industry is defined to include any co
 
 The goal of _Collective Action in Tech_ is to give us, tech workers, insights on trends in worker power in the tech industry. This archive is meant to provide us with the data to  find the connections between different struggles and to let us reflect collectively on moments in tech labor.
 
-<summary><strong><em>This repository is meant to be a live document. We need your help to ensure its accuracy and completeness! See the [Contribution Guidelines](CONTRIBUTING.md) for more information about how to contribute.</em></strong></summary>
+**This repository is meant to be a live document. We need your help to ensure its accuracy and completeness! See the [Contribution Guidelines](CONTRIBUTING.md) for more information about how to contribute.**
 
 #### Summary
 <div id="summary">
