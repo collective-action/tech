@@ -12,7 +12,7 @@ pool:
 steps:
 
 - bash: |
-    echo "##vso[task.prependpath]/data/anaconda/bin"
+    echo "##vso[task.prependpath]$CONDA/bin"
   displayName: Add Conda to PATH
 
 - bash: conda env create --quiet --file environment.yml
