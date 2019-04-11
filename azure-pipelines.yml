@@ -19,7 +19,8 @@ steps:
   displayName: Add Conda to PATH
 
 - bash: |
-    source deactivate cait
+    echo "conda activate" >> ~/.bashrc
+    conda deactivate cait
     conda remove -q -n cait --all -y
     conda env create -f environment.yml
     conda env list  
