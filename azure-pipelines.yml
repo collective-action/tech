@@ -23,7 +23,7 @@ steps:
     conda remove -q -n cait --all -y
     conda env create -f environment.yml
     conda env list  
-    source activate cait
+    conda activate cait
   displayName: 'Build Configuration'
 
 - task: UsePythonVersion@0
