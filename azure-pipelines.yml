@@ -1,0 +1,36 @@
+# Python package
+# Create and test a Python package on multiple Python versions.
+# Add steps that analyze code, save the dist with the build record, publish to a PyPI-compatible index, and more:
+# https://docs.microsoft.com/azure/devops/pipelines/languages/python
+
+trigger:
+- master
+
+pool:
+  vmImage: 'Ubuntu-16.04'
+strategy:
+  matrix:
+    Python37:
+      python.version: '3.7'
+
+steps:
+- bash: |
+    echo "##vso[task.prependpath]/data/anaconda/bin"
+  displayName: Add Conda to PATH
+
+- bash: |
+    source deactivate cait
+    conda remove -q -n cait --all -y
+    conda env create -f environment.yml
+    conda env list  
+    source activate cait
+  displayName: 'Build Configuration'
+
+- task: UsePythonVersion@0
+  inputs:
+    versionSpec: '$(python.version)'
+  displayName: 'Use Python $(python.version)'
+
+- script: |
+    pytest
+  displayName: 'pytest'
