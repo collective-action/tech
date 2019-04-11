@@ -3,6 +3,7 @@ import json
 import html
 import bs4
 import re
+import dateparser
 from bs4 import BeautifulSoup
 from dataclasses import dataclass, field
 from datetime import datetime
@@ -65,7 +66,8 @@ class Action:
 
     def __post_init__(self):
         """ Used to validate fields. """
-        self.date = datetime.strptime(self.date, "%Y-%m-%d").date()
+        # self.date = datetime.strptime(self.date, "%Y-%m-%d").date()
+        self.date = dateparser.parse(self.date).date()
         self.sources = self.listify(self.sources)
         self.struggles = self.listify(self.struggles)
         self.action = self.action.strip().lower()
