@@ -19,12 +19,11 @@ steps:
   displayName: Add Conda to PATH
 
 - bash: |
-    echo "conda activate" >> ~/.bashrc
-    conda deactivate cait
+    source deactivate cait
     conda remove -q -n cait --all -y
     conda env create -f environment.yml
     conda env list  
-    conda activate cait
+    source activate cait
   displayName: 'Build Configuration'
 
 - task: UsePythonVersion@0
