@@ -8,23 +8,15 @@ trigger:
 
 pool:
   vmImage: 'Ubuntu-16.04'
-strategy:
-  matrix:
-    Python37:
-      python.version: '3.7'
 
 steps:
+
 - bash: |
     echo "##vso[task.prependpath]/data/anaconda/bin"
   displayName: Add Conda to PATH
 
-- bash: |
-    source deactivate cait
-    conda remove -q -n cait --all -y
-    conda env create -f environment.yml
-    conda env list  
-    source activate cait
-  displayName: 'Build Configuration'
+- bash: conda env create --quiet --file environment.yml
+  displayName: 'Install Conda Environment'
 
 - task: UsePythonVersion@0
   inputs:
@@ -32,5 +24,6 @@ steps:
   displayName: 'Use Python $(python.version)'
 
 - script: |
+    source activate cait
     pytest
   displayName: 'pytest'
