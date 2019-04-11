@@ -19,6 +19,6 @@ steps:
   displayName: 'Install Conda Environment'
 
 - script: |
-    source activate cait
+    conda activate cait
     pytest
   displayName: 'pytest'
