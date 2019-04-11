@@ -18,11 +18,6 @@ steps:
 - bash: conda env create --quiet --file environment.yml
   displayName: 'Install Conda Environment'
 
-- task: UsePythonVersion@0
-  inputs:
-    versionSpec: '$(python.version)'
-  displayName: 'Use Python $(python.version)'
-
 - script: |
     source activate cait
     pytest
