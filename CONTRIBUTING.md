@@ -4,7 +4,7 @@ One of the goals of this repo is to make sure that the data is as update-to-date
 
 To contribute, please use pull requests to add to the repo so that new additions can be checked for formatting, accuracy and validity.
 
-This document will cover three aspects of making contributions:
+This document will cover how to make a contribute:
 1. Github steps
 1. Data Fields
 1. Formatting Guidelines
@@ -25,25 +25,33 @@ of the fields are not applicable, you can omit the field. However, you cannot
 add a new field at this time. If there is additional information you'd like to
 include, add it in the description field.
 
-| Field | Description |
+| Field | Required | Description |
+| --- | --- | --- |
+| date | True | While the date may seem trivial, collecting dates may be comlex for multi-day events such as pickets or online petitions. In this repo, we collect only the start date of the action in the format YYYY-MM-DD. |
+| sources | True | The url(s) of reliable sources that has reported on this event. |
+| action | True | What was the form of the action that took place? |
+| struggles | True | The kind of struggle workers are standing up against. | 
+| description | True | A short sentence describing the event where you can include information that isn't covered in the fields above. |
+| locations | False | The location(s) of the action, or whether it was online. |
+| companies | False | Which company are workers are standing up against? Some moments of worker power may not have an associated company. For example, online petitions or a protests against the president may consist of workers from an amalgamation of companies. In which case we can omit this field. |
+| workers | False | The number of workers active in the action. Since we're only looking at collective actions, the number must be more than 1. Sometimes the sources do not state a concrete number when reporting. In those cases, lean on the conservative side. For example: "Hundreds of Uber drivers..." --> 100 |
+| tags | False | Tag the event with a term or word that you feel is relevant but not captured by the other fields. |
+
+In the table above, `action` and `struggles` must contain only the following values:
+
+| Fields | Valid Values | 
 | --- | --- |
-| date | While the date may seem trivial, collecting dates may be comlex for multi-day events such as pickets or online petitions. In this repo, we collect only the start date of the action in the format YYYY-MM-DD. |
-| source | The url of a reliable source that has reported on this event. |
-| company | Which is the company workers are standing up against? Some moments of worker power may not have an associated company. For example, online petitions or a protests against the president may consist of workers from an amalgamation of companies. In which case we can leave this field blank. |
-| action | What was the form of the action that took place? |
-| employment_type | What was the employment type of the workers who took action? FTEs? Contract workers? If there are multipe employment types, they should be listed in the order of most-relevant to least relevant. It is also possible that there is no affiliated employment type, which can be the case for many public petitions. |
-| union_affiliation | Was a union affiliated? And if so, which one? |
-| worker_count | The number of workers active in the action. Since we're only looking at collective actions, the number must be more than 1. Sometimes the sources do not state a concrete number when reporting. In those cases, lean on the conservative side. For example: "Hundreds of Uber drivers..." --> 100+ |
-| description | A short sentence describing the event where you can include information that isn't covered in the fields above. |
-| notes | Ad hoc notes about this event. |
+| action | strike, protest, petition, legal_action, union_drive, union_represenation | 
+| struggles | ethics, pay_and_benefits, working_conditions, discrimination, unfair_labor_practices, job_security |
 
 ## Formatting
 When adding an update to the README, use the provided html code below to add a
-row to the table.
+row to the table. Copy and paste the html snippet under the opening `<div>`
+tag in the README.
 
 ```html
 <!-- Example only -->
- <table data-author="organizejs">
+ <table author="organizejs">
   <tr>
    <td class="field-key">date</td>
    <td class="field-value">2018-01-01</td>
@@ -63,37 +71,42 @@ row to the table.
    <td class="field-key">action</td>
    <td class="field-value">Protest</td>
   </tr>
-  <!-- notice that 'employment_type' and 'union_affiliaition' fields are omitted -->
   <tr>
-   <td class="field-key">worker_count</td>
+   <td class="field-key">struggles</td>
+   <td class="field-value">Ethics</td>
+  </tr>
+  <tr>
+   <td class="field-key">worker</td>
    <td class="field-value">1000</td>
   </tr>
   <tr>
    <td class="field-key">description</td>
-   <td class="field-value">Thousands of people protest the new Amazon HQ in queens.</td>
+   <td class="field-value">Thousands of people protest a military contract in Queens.</td>
   </tr>
   <tr>
-   <td class="field-key">notes</td>
+   <td class="field-key">locations</td>
+   <td class="field-value">New York</td>
+  </tr>
+  <tr>
+   <td class="field-key">tags</td>
    <td class="field-value">Protest was not tech worker centric.</td>
   </tr>
  </table>
 ```
-When adding an action, use this html template, and insert it at the end of the `<table>` tag.
 
 Please note the following aspects:
 - If you would like your github username affiliated with the action you added,
-  add an attribute `data-author` in the `<table>` tag with your github username.
+  add an attribute `author` in the `<table>` tag with your github username.
   If you wish to remain anonymous, skip this step. Keep in mind, your github
   username will be affiliated with the PR.
 - Each `<td>` tag must have either have the class `field-key` or `field-value`.
-- Feel free to add multiple sources if it is relevant. Use the format
-  `[publisher](url)` for it to render correctly.
+- Feel free to add multiple sources if it is relevant. 
 - If you add multiple values to a field, make sure the values are
   comma-seprated. For example, if two types of struggle were involved in the action,
-  it would look like so: `Wages, Health Benefits`
+  it would look like so: `pay_and_benefits, working_conditions`
 - If a field is not applicable, remove the `<tr>` tag for it entirely.
 - DO NOT add additional fields to the table. If you wish to include other
-  information, add it in the description field.
+  information, add it in the description field or as a tag.
 
 ## Developer Features
 
@@ -105,14 +118,9 @@ date) and save the data to a csv.
 # to save to csv
 python convert.py --to-csv --output <output_file_path>
 
-# to clean up the README
-python convert.py --clean-doc
-```
+# to sort the actions in the readme and update the summary
+python convert.py --update-readme
 
-You can also use it in a notebook or in your python code.
-
-```python
-from utils.markdown import *
-
-df = get_df_from_md_document(Path(MD_PATH))
+# to update the readme using an updated csv file
+python convert.py --update-readme --csv new_actions.csv
 ```
