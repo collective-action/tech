@@ -21,7 +21,8 @@ dependencies:
   - black>=18.6b4
   - papermill>=0.15.0
   - pre-commit>=1.14.4
-  - lxml
+  - flake8
+  - lxml>=4.3.2
   - html5lib
   - bs4
   - dateparser
