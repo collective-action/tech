@@ -25,9 +25,11 @@ steps:
     conda env create -f environment.yml
     source $HOME/miniconda/etc/profile.d/conda.sh
     conda activate cait
-  displayName: Setup Conda/create environment
+    pip freeze
+  displayName: 'Setup Conda/create environment'
 
 - script: |
+    conda activate cait
     conda list env
     pip freeze
     pytest
