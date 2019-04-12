@@ -24,7 +24,7 @@ steps:
   displayName: Create Anaconda environment
 
 - bash: |
-    source activate myEnvironment
+    source activate cait
     pytest --junitxml=junit/unit-test.xml
   displayName: pytest
 
