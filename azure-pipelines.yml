@@ -23,16 +23,11 @@ steps:
     which conda
     conda --version
     conda env create -f environment.yml
-    echo $PATH
     source $HOME/miniconda/etc/profile.d/conda.sh
     conda activate cait
-  displayName: Add Conda to PATH
-
-- bash: conda env create --quiet --file environment.yml
-  displayName: 'Install Conda Environment'
+  displayName: Setup Conda/create environment
 
 - script: |
-    conda activate cait
     conda list env
     pip freeze
     pytest
