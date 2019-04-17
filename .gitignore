@@ -123,5 +123,5 @@ dmypy.json
 .pyre/
 
 # vim temp files: .swp/.swo
-.swp
-.swo
+*.swp
+*.swo
