@@ -19,7 +19,7 @@ steps:
     sudo chown -R $USER /usr/share/miniconda
   displayName: Take ownership of conda installation
 
-- script: |
+- bash: |
     conda env create --quiet --file environment.yml
   displayName: Create Anaconda environment
 
