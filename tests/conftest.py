@@ -22,7 +22,7 @@ def correctly_formatted_md_action() -> str:
  </tr>
  <tr>
   <td class="field-key">action</td>
-  <td class="field-value">petition</td>
+  <td class="field-value">open_letter</td>
  </tr>
  <tr>
   <td class="field-key">struggles</td>
@@ -62,7 +62,7 @@ def correctly_formatted_series_action() -> pd.Series:
             "author": "organizejs",
             "date": "2019-04-10",
             "sources": "https://www.recode.net/2019/4/10/18304877/amazon-climate-change-employees-tech-activism",
-            "action": "petition",
+            "action": "open_letter",
             "struggles": "ethics",
             "description": "More than 3,500 of the company's corporate employees signed their names to a letter published on Wednesday that urged Jeff Bezos to create a comprehensive climate-change plan for the company.",
             "locations": "online",
@@ -93,7 +93,7 @@ def correctly_formatted_md_actions():
   </tr>
   <tr>
    <td class="field-key">action</td>
-   <td class="field-value">petition</td>
+   <td class="field-value">open_letter</td>
   </tr>
   <tr>
    <td class="field-key">struggles</td>
@@ -171,7 +171,7 @@ def correctly_formatted_md_actions():
   </tr>
   <tr>
    <td class="field-key">action</td>
-   <td class="field-value">petition</td>
+   <td class="field-value">open_letter</td>
   </tr>
   <tr>
    <td class="field-key">struggles</td>
@@ -209,7 +209,7 @@ def correctly_formatted_df_actions():
                 "author": "organizejs",
                 "date": "2019-04-10",
                 "sources": "https://www.recode.net/2019/4/10/18304877/amazon-climate-change-employees-tech-activism",
-                "action": "petition",
+                "action": "open_letter",
                 "struggles": "ethics",
                 "description": "More than 3,500 of the company's corporate employees signed their names to a letter published on Wednesday that urged Jeff Bezos to create a comprehensive climate-change plan for the company.",
                 "locations": "online",
@@ -231,7 +231,7 @@ def correctly_formatted_df_actions():
                 "author": "organizejs",
                 "date": "2019-04-02",
                 "sources": "https://www.theguardian.com/technology/2019/apr/02/google-workers-sign-letter-temp-contractors-protest",
-                "action": "petition",
+                "action": "open_letter",
                 "struggles": ["working_conditions", "pay_and_benefits"],
                 "description": "More than 900 Google workers have signed a letter objecting to the tech giant's treatment of temporary contractors, in what organizers are calling a 'historical coalition' between Google's full-time employees (FTEs) and temps, vendors and contractors (TVCs).",
                 "locations": "online",
