@@ -48,7 +48,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    petition
+    open_letter
    </td>
   </tr>
   <tr>
@@ -184,7 +184,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    petition
+    open_letter
    </td>
   </tr>
   <tr>
@@ -256,7 +256,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    petition
+    open_letter
    </td>
   </tr>
   <tr>
@@ -324,7 +324,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    petition
+    open_letter
    </td>
   </tr>
   <tr>
@@ -384,7 +384,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    petition
+    open_letter
    </td>
   </tr>
   <tr>
@@ -584,7 +584,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    petition
+    open_letter
    </td>
   </tr>
   <tr>
@@ -784,7 +784,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    petition
+    open_letter
    </td>
   </tr>
   <tr>
@@ -1132,7 +1132,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    petition
+    open_letter
    </td>
   </tr>
   <tr>
@@ -1548,7 +1548,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    petition
+    open_letter
    </td>
   </tr>
   <tr>
@@ -1620,7 +1620,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    petition
+    open_letter
    </td>
   </tr>
   <tr>
@@ -1692,7 +1692,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    petition
+    open_letter
    </td>
   </tr>
   <tr>
@@ -1890,7 +1890,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
      www.nytimes.com
     </a>
     ,
-    <a href="https://www.coworker.org/petitions/tech-should-not-be-in-the-business-of-war" target="_blank">
+    <a href="https://www.coworker.org/petition/tech-should-not-be-in-the-business-of-war" target="_blank">
      www.coworker.org
     </a>
    </td>
@@ -1900,7 +1900,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    petition
+    open_letter
    </td>
   </tr>
   <tr>
@@ -2256,7 +2256,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    petition
+    open_letter
    </td>
   </tr>
   <tr>
@@ -2884,7 +2884,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    petition
+    open_letter
    </td>
   </tr>
   <tr>

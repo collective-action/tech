@@ -55,7 +55,7 @@ class Action:
     _valid_actions: ClassVar = [
         "strike",
         "protest",
-        "petition",
+        "open_letter",
         "legal_action",
         "union_drive",
         "union_representation",
