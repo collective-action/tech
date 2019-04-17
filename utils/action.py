@@ -1,4 +1,5 @@
 import pandas as pd
+import math
 import json
 import html
 import bs4
@@ -16,7 +17,17 @@ Url = str
 
 @dataclass
 class Action:
-    """ The class for an action we want to track. """
+    """ The class for an action we want to track.
+
+    This class is used to manage the data of an individual Action. It is used
+    to perform the following:
+        - set mandatory/optional fields
+        - set meta fields
+        - cast an validate data so that it knows how to read datafields from
+          markdown and dataframes
+        - output actions as for dataframes and markdown
+        - create and populate action instances from markdown and dataframes
+    """
 
     date: str
     sources: List[Url]
@@ -52,17 +63,25 @@ class Action:
 
     @staticmethod
     def is_none(field: Any) -> bool:
-        return True if field is None or field.lower() == "none" else False
+        if field is None:
+            return True
+        elif isinstance(field, float) and math.isnan(field):
+            return True
+        elif isinstance(field, str) and field.lower() == "none":
+            return True
+        elif isinstance(field, (list,)) and len(field) == 0:
+            return True
+        else:
+            return False
 
     def listify(self, field: Union[List[Any], Any]) -> List[Any]:
         if self.is_none(field):
             return None
         else:
-            return (
-                field.strip().lower()
-                if isinstance(field, (list,))
-                else [s.strip().lower() for s in field.split(",")]
-            )
+            if isinstance(field, (list,)):
+                return field
+            else:
+                return [s.strip().lower() for s in field.split(",")]
 
     def __post_init__(self):
         """ Used to validate fields. """
@@ -105,7 +124,14 @@ class Action:
         ]
 
     def __lt__(self, other):
+        """ Used to make Actions sortable. """
         return self.date < other.date
+
+    def __eq__(self, other):
+        """ Overrides the default implementation for equality. """
+        if isinstance(other, Action):
+            return self.__dict__.items() == other.__dict__.items()
+        return False
 
     def to_df(self) -> Dict[str, Any]:
         """ Return dict of all fields serialized to string """
@@ -182,7 +208,15 @@ class Action:
 
 @dataclass
 class Actions:
-    """ The class for a set of actions. """
+    """ The class for a set of actions.
+
+    This class is a collection of actions. It is used to for the four primary
+    usecases:
+        - to serialize the list of actions into a dataframe
+        - to serialize the list of actions into a markdown/html table
+        - to create and populate an Actions instance from a dataframe
+        - to create and populate an Actions instance from a markdown document
+    """
 
     action_id: ClassVar = "actions"
     actions: List[Action] = field(default_factory=lambda: [])
@@ -195,9 +229,17 @@ class Actions:
     )
 
     def __len__(self) -> int:
+        """ Get the number of actions. """
         return len(self.actions)
 
+    def __eq__(self, other):
+        """ Overrides the default implementation for equality. """
+        if isinstance(other, Actions):
+            return self.actions == other.actions
+        return False
+
     def sort(self, *args, **kwargs) -> "Actions":
+        """ Sorts the list of actions. """
         self.actions.sort(*args, **kwargs)
         return self
 
@@ -214,7 +256,7 @@ class Actions:
         return df[self.fields]
 
     def to_md(self):
-        """ Convert instance of Actions to markdown/HTML. """
+        """ Convert this instance of Actions to markdown/HTML. """
         soup = BeautifulSoup(f"<div id={self.action_id}></div>", "html.parser")
         for action in self.actions:
             table = soup.new_tag("table")
@@ -238,7 +280,7 @@ class Actions:
 
     @classmethod
     def read_from_md(cls, md_doc: MarkdownDocument) -> "Actions":
-        """ Create Actions from a markdown document. """
+        """ Create and populate an Actions instance from a Markdown Document. """
         md_data = re.findall(fr'<div id="{cls.action_id}">+[\s\S]+<\/div>', md_doc)
         assert len(md_data) == 1, f"multiple divs with id={cls.action_id} were found"
         md_data = md_data[0]
@@ -252,6 +294,7 @@ class Actions:
 
     @staticmethod
     def read_from_df(df: pd.DataFrame) -> "Actions":
+        """ Create and populate an Actions instance from a dataframe. """
         actions = Actions()
         for i, row in df.iterrows():
             action = Action.create_from_row(row)
