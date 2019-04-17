@@ -27,6 +27,74 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
  <table author="organizejs">
   <tr>
    <td class="field-key">
+    sources
+   </td>
+   <td class="field-value">
+    <a href="https://www.recode.net/2019/4/10/18304877/amazon-climate-change-employees-tech-activism" target="_blank">
+     www.recode.net
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    open_letter
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    struggles
+   </td>
+   <td class="field-value">
+    ethics
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    The company’s corporate employees signed their names to a letter published on Wednesday that urged Jeff Bezos to create a comprehensive climate-change plan for the company.
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    locations
+   </td>
+   <td class="field-value">
+    online
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    companies
+   </td>
+   <td class="field-value">
+    amazon
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    workers
+   </td>
+   <td class="field-value">
+    6000
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    tags
+   </td>
+   <td class="field-value">
+    environmental
+   </td>
+  </tr>
+ </table>
+ <table author="organizejs">
+  <tr>
+   <td class="field-key">
     date
    </td>
    <td class="field-value">
