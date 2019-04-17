@@ -33,7 +33,7 @@ def test_action_constructor():
 def _test_action(action: Action):
     assert action.date == dateparser.parse("2019-04-10").date() # test date
     assert action.author == "organizejs" # test meta data
-    assert action.action == "petition" # test regular field
+    assert action.action == "open_letter" # test regular field
     assert action.struggles == ["ethics"] # test list field
 
 
