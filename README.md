@@ -17,7 +17,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
  <table>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">49</td>
+    <td data-summary="action-count">50</td>
   </tr>
  </table>
 </div>
@@ -38,7 +38,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     sources
    </td>
    <td class="field-value">
-    <a href="https://www.theatlantic.com/technology/archive/2019/04/instagram-memers-are-unionizing/587308/?fbclid=IwAR0EnFo9HotAKa_uKH0snPJn5PyppLMYgz1wKElYUL-42LUE4p-_FOalBq0" target="_blank">
+    <a href="https://www.theatlantic.com/technology/archive/2019/04/instagram-memers-are-unionizing/587308/?fbclid=iwar0enfo9hotaka_ukh0snpjn5pypplmygz1wkelyul-42lue4p-_foalbq0" target="_blank">
      www.theatlantic.com
     </a>
    </td>
