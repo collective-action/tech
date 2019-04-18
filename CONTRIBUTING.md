@@ -41,7 +41,7 @@ In the table above, `action` and `struggles` must contain only the following val
 
 | Fields | Valid Values | 
 | --- | --- |
-| action | strike, protest, petition, legal_action, union_drive, union_represenation | 
+| action | strike, protest, open_letter, legal_action, union_drive, union_represenation | 
 | struggles | ethics, pay_and_benefits, working_conditions, discrimination, unfair_labor_practices, job_security |
 
 ## Formatting
