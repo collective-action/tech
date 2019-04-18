@@ -1,0 +1,34 @@
+# Python package
+# Create and test a Python package on multiple Python versions.
+# Add steps that analyze code, save the dist with the build record, publish to a PyPI-compatible index, and more:
+# https://docs.microsoft.com/azure/devops/pipelines/languages/python
+
+trigger:
+- master
+
+pool:
+  vmImage: 'Ubuntu-16.04'
+
+steps:
+
+- bash: |
+    echo "##vso[task.prependpath]$CONDA/bin"
+  displayName: Add conda to PATH
+
+- bash: |
+    sudo chown -R $USER /usr/share/miniconda
+  displayName: Take ownership of conda installation
+
+- bash: |
+    conda env create --quiet --file environment.yml
+  displayName: Create Anaconda environment
+
+- bash: |
+    source activate cait
+    pytest --junitxml=junit/unit-test.xml
+  displayName: pytest
+
+- task: PublishTestResults@2
+  inputs:
+    testResultsFiles: 'junit/*.xml'
+  condition: succeededOrFailed()
