@@ -30,6 +30,66 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     date
    </td>
    <td class="field-value">
+    2019-04-17
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    sources
+   </td>
+   <td class="field-value">
+    <a href="https://www.theatlantic.com/technology/archive/2019/04/instagram-memers-are-unionizing/587308/?fbclid=IwAR0EnFo9HotAKa_uKH0snPJn5PyppLMYgz1wKElYUL-42LUE4p-_FOalBq0" target="_blank">
+     www.theatlantic.com
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    union_drive
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    struggles
+   </td>
+   <td class="field-value">
+    working_conditions, pay_and_benefits
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    Instagram memers have had enough. They generate the engagement that helps keep Instagram growing—but, they argue, the multibillion-dollar platform doesn't pay them for their work, or give them any control. So they're fighting back. And before you write off IG Meme Union Local 69-420 as a joke, the organizers of the collective would like you to know that they are very serious.
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    locations
+   </td>
+   <td class="field-value">
+    online
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    companies
+   </td>
+   <td class="field-value">
+    instagram, facebook
+   </td>
+  </tr>
+ </table>
+ <table author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
     2019-04-10
    </td>
   </tr>
@@ -64,7 +124,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     description
    </td>
    <td class="field-value">
-    The company’s corporate employees signed their names to a letter published on Wednesday that urged Jeff Bezos to create a comprehensive climate-change plan for the company.
+    The company's corporate employees signed their names to a letter published on Wednesday that urged Jeff Bezos to create a comprehensive climate-change plan for the company.
    </td>
   </tr>
   <tr>
