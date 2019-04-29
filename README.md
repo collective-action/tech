@@ -24,6 +24,48 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
 
 #### Actions
 <div id="actions">
+ <table author="bentarnoff">
+  <tr>
+   <td class="field-key">date</td>
+   <td class="field-value">2019-04-22</td>
+  </tr>
+  <tr>
+   <td class="field-key">source</td>
+   <td class="field-value">
+    <a href="https://www.bloomberg.com/news/articles/2019-04-22/microsoft-workers-criticize-block-of-github-protest-in-china">Bloomberg</a>,
+    <a href="https://www.buzzfeednews.com/article/carolineodonovan/microsoft-petition-996-icu-workweek-china">BuzzFeed</a>,
+    <a href="https://gizmodo.com/microsoft-and-github-workers-take-a-stand-against-gruel-1834210579">Gizmodo</a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">company</td>
+   <td class="field-value">Microsoft, GitHub</td>
+  </tr>
+  <tr>
+   <td class="field-key">action</td>
+   <td class="field-value">open_letter</td>
+  </tr>
+  <tr>
+   <td class="field-key">struggles</td>
+   <td class="field-value">working_conditions</td>
+  </tr>
+  <tr>
+   <td class="field-key">worker</td>
+   <td class="field-value">375</td>
+  </tr>
+  <tr>
+   <td class="field-key">description</td>
+   <td class="field-value">Microsoft and GitHub workers have published an open letter of solidarity with the 996 movement on GitHub at https://github.com/MSWorkers/support.996.ICU, and have called on Microsoft to resist all pressure from the Chinese government to block or censor the 996 repo.</td>
+  </tr>
+  <tr>
+   <td class="field-key">locations</td>
+   <td class="field-value"></td>
+  </tr>
+  <tr>
+   <td class="field-key">tags</td>
+   <td class="field-value">China, internationalism.</td>
+  </tr>
+ </table>
  <table author="organizejs">
   <tr>
    <td class="field-key">
