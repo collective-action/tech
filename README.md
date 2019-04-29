@@ -31,13 +31,13 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    <td class="field-value">2019-04-26</td>
   </tr>
   <tr>
-   <td class="field-key">source</td>
+   <td class="field-key">sources</td>
    <td class="field-value">
     <a href="https://www.wired.com/story/dispute-googles-alleged-retaliation-intensifies/">Wired</a>, <a href="https://www.bloomberg.com/news/articles/2019-04-26/google-staffers-share-350-stories-of-systemic-retaliation">Bloomberg</a>
    </td>
   </tr>
   <tr>
-   <td class="field-key">company</td>
+   <td class="field-key">companies</td>
    <td class="field-value">Google</td>
   </tr>
   <tr>
@@ -49,7 +49,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    <td class="field-value">working_conditions</td>
   </tr>
   <tr>
-   <td class="field-key">worker</td>
+   <td class="field-key">workers</td>
    <td class="field-value">100s</td>
   </tr>
   <tr>
@@ -72,7 +72,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    <td class="field-value">2019-04-22</td>
   </tr>
   <tr>
-   <td class="field-key">source</td>
+   <td class="field-key">sources</td>
    <td class="field-value">
     <a href="https://www.bloomberg.com/news/articles/2019-04-22/microsoft-workers-criticize-block-of-github-protest-in-china">Bloomberg</a>,
     <a href="https://www.buzzfeednews.com/article/carolineodonovan/microsoft-petition-996-icu-workweek-china">BuzzFeed</a>,
@@ -80,7 +80,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    </td>
   </tr>
   <tr>
-   <td class="field-key">company</td>
+   <td class="field-key">companies</td>
    <td class="field-value">Microsoft, GitHub</td>
   </tr>
   <tr>
@@ -92,7 +92,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    <td class="field-value">working_conditions</td>
   </tr>
   <tr>
-   <td class="field-key">worker</td>
+   <td class="field-key">workers</td>
    <td class="field-value">375</td>
   </tr>
   <tr>
@@ -108,20 +108,20 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    <td class="field-value">China, internationalism.</td>
   </tr>
  </table>
- 
+
  <table author="bentarnoff">
   <tr>
    <td class="field-key">date</td>
    <td class="field-value">2019-04-01</td>
   </tr>
   <tr>
-   <td class="field-key">source</td>
+   <td class="field-key">sources</td>
    <td class="field-value">
     <a href="https://www.theregister.co.uk/2019/04/22/npm_fired_staff_union_complaints/">The Register</a>
    </td>
   </tr>
   <tr>
-   <td class="field-key">company</td>
+   <td class="field-key">companies</td>
    <td class="field-value">NPM</td>
   </tr>
   <tr>
@@ -133,7 +133,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    <td class="field-value">working_conditions</td>
   </tr>
   <tr>
-   <td class="field-key">worker</td>
+   <td class="field-key">workers</td>
    <td class="field-value">3</td>
   </tr>
   <tr>
@@ -149,8 +149,6 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    <td class="field-value"></td>
   </tr>
  </table>
-
-
  <table author="organizejs">
   <tr>
    <td class="field-key">
