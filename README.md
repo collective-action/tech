@@ -50,11 +50,11 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
   </tr>
   <tr>
    <td class="field-key">workers</td>
-   <td class="field-value">100s</td>
+   <td class="field-value">200</td>
   </tr>
   <tr>
    <td class="field-key">description</td>
-   <td class="field-value">Meredith Whittaker and Claire Stapleton held a town hall for Google workers to discuss the retaliation they have faced from management for engaging in organizing, and to share more than a dozen other stories of retaliation they have gathered. The meeting was held in New York but live-streamed to Google offices elsewhere.</td>
+   <td class="field-value">Meredith Whittaker and Claire Stapleton held a town hall for Google workers to discuss the retaliation they have faced from management for engaging in organizing, and to share more than a dozen other stories of retaliation they have gathered. The meeting was held in New York but live-streamed to Google offices elsewhere. This action involved hundreds of workers.</td>
   </tr>
   <tr>
    <td class="field-key">locations</td>
