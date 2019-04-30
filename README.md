@@ -24,6 +24,131 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
 
 #### Actions
 <div id="actions">
+ 
+ <table author="bentarnoff">
+  <tr>
+   <td class="field-key">date</td>
+   <td class="field-value">2019-04-26</td>
+  </tr>
+  <tr>
+   <td class="field-key">sources</td>
+   <td class="field-value">
+    <a href="https://www.wired.com/story/dispute-googles-alleged-retaliation-intensifies/">Wired</a>, <a href="https://www.bloomberg.com/news/articles/2019-04-26/google-staffers-share-350-stories-of-systemic-retaliation">Bloomberg</a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">companies</td>
+   <td class="field-value">Google</td>
+  </tr>
+  <tr>
+   <td class="field-key">action</td>
+   <td class="field-value">protest</td>
+  </tr>
+  <tr>
+   <td class="field-key">struggles</td>
+   <td class="field-value">working_conditions</td>
+  </tr>
+  <tr>
+   <td class="field-key">workers</td>
+   <td class="field-value">200</td>
+  </tr>
+  <tr>
+   <td class="field-key">description</td>
+   <td class="field-value">Meredith Whittaker and Claire Stapleton held a town hall for Google workers to discuss the retaliation they have faced from management for engaging in organizing, and to share more than a dozen other stories of retaliation they have gathered. The meeting was held in New York but live-streamed to Google offices elsewhere. This action involved hundreds of workers.</td>
+  </tr>
+  <tr>
+   <td class="field-key">locations</td>
+   <td class="field-value">New York</td>
+  </tr>
+  <tr>
+   <td class="field-key">tags</td>
+   <td class="field-value"></td>
+  </tr>
+ </table>
+ 
+<table author="bentarnoff">
+  <tr>
+   <td class="field-key">date</td>
+   <td class="field-value">2019-04-22</td>
+  </tr>
+  <tr>
+   <td class="field-key">sources</td>
+   <td class="field-value">
+    <a href="https://www.bloomberg.com/news/articles/2019-04-22/microsoft-workers-criticize-block-of-github-protest-in-china">Bloomberg</a>,
+    <a href="https://www.buzzfeednews.com/article/carolineodonovan/microsoft-petition-996-icu-workweek-china">BuzzFeed</a>,
+    <a href="https://gizmodo.com/microsoft-and-github-workers-take-a-stand-against-gruel-1834210579">Gizmodo</a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">companies</td>
+   <td class="field-value">Microsoft, GitHub</td>
+  </tr>
+  <tr>
+   <td class="field-key">action</td>
+   <td class="field-value">open_letter</td>
+  </tr>
+  <tr>
+   <td class="field-key">struggles</td>
+   <td class="field-value">working_conditions</td>
+  </tr>
+  <tr>
+   <td class="field-key">workers</td>
+   <td class="field-value">375</td>
+  </tr>
+  <tr>
+   <td class="field-key">description</td>
+   <td class="field-value">Microsoft and GitHub workers have published an open letter of solidarity with the 996 movement on GitHub at https://github.com/MSWorkers/support.996.ICU, and have called on Microsoft to resist all pressure from the Chinese government to block or censor the 996 repo.</td>
+  </tr>
+  <tr>
+   <td class="field-key">locations</td>
+   <td class="field-value"></td>
+  </tr>
+  <tr>
+   <td class="field-key">tags</td>
+   <td class="field-value">China, internationalism.</td>
+  </tr>
+ </table>
+
+ <table author="bentarnoff">
+  <tr>
+   <td class="field-key">date</td>
+   <td class="field-value">2019-04-01</td>
+  </tr>
+  <tr>
+   <td class="field-key">sources</td>
+   <td class="field-value">
+    <a href="https://www.theregister.co.uk/2019/04/22/npm_fired_staff_union_complaints/">The Register</a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">companies</td>
+   <td class="field-value">NPM</td>
+  </tr>
+  <tr>
+   <td class="field-key">action</td>
+   <td class="field-value">union_drive</td>
+  </tr>
+  <tr>
+   <td class="field-key">struggles</td>
+   <td class="field-value">working_conditions</td>
+  </tr>
+  <tr>
+   <td class="field-key">workers</td>
+   <td class="field-value">3</td>
+  </tr>
+  <tr>
+   <td class="field-key">description</td>
+   <td class="field-value">Recently fired NPM employees claim they were punished for trying to form a union. Four complaints have been filed with the National Labor Relations Board, alleging labor law violations by management.</td>
+  </tr>
+  <tr>
+   <td class="field-key">locations</td>
+   <td class="field-value">Oakland</td>
+  </tr>
+  <tr>
+   <td class="field-key">tags</td>
+   <td class="field-value"></td>
+  </tr>
+ </table>
  <table author="organizejs">
   <tr>
    <td class="field-key">
