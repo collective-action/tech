@@ -60,6 +60,7 @@ def _get_parser():
 
 
 def clean_readme(input_fp: Path, output_fp: Path):
+    print(f"Cleaning and Updating {input_fp}...")
     md_document = input_fp.read_text()
     actions = Actions.read_from_md(md_document)
     actions.sort(reverse=True)
@@ -68,6 +69,7 @@ def clean_readme(input_fp: Path, output_fp: Path):
 
 
 def save_readme_to_csv(input_fp: Path, output_fp: Path):
+    print(f"Saving actions to {output_fp}...")
     md_document = input_fp.read_text()
     actions = Actions.read_from_md(md_document)
     actions.sort(reverse=True)
@@ -76,6 +78,7 @@ def save_readme_to_csv(input_fp: Path, output_fp: Path):
 
 
 def update_readme_with_csv(readme: Path, csv: Path):
+    print(f"Updating {readme} with {csv}...")
     md_document = readme.read_text()
     df = pd.read_csv(csv)
     actions = Actions.read_from_df(df)
