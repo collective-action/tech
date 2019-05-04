@@ -30,6 +30,7 @@ steps:
 
 - bash: |
     source activate cait
+    ls -la
     python convert.py --update-readme
     python convert.py --to-csv --output actions.csv
     git config --local user.name "Azure Pipelines"
