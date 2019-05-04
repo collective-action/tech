@@ -28,6 +28,37 @@ steps:
     pytest --junitxml=junit/unit-test.xml
   displayName: pytest
 
+- bash: |
+    source activate cait
+    python convert.py --update-readme
+    python convert.py --to-csv --output actions.csv
+  displayName: 'Updating and cleaning up'
+
+- bash: |
+    git config --local user.name "Azure Pipelines"
+    git config --local user.email "organizejs@gmail.com"
+    git add README.md
+    git add actions.csv
+    git commit -m "Auto Update README & actions.csv  ***NO_CI***"
+  displayName: 'Build and commit'
+
+- task: DownloadSecureFile@1
+  inputs:
+    secureFile: github_deploy_key
+  displayName: 'Get the deploy key'
+
+- bash: |
+    mkdir ~/.ssh && mv $DOWNLOADSECUREFILE_SECUREFILEPATH ~/.ssh/id_rsa
+    chmod 700 ~/.ssh && chmod 600 ~/.ssh/id_rsa
+    ssh-keyscan -t rsa github.com >> ~/.ssh/known_hosts
+    git remote set-url --push origin git@github.com:organizejs/collective-actions-in-tech.git
+    git push origin HEAD:master
+  displayName: 'Push to GitHub'
+  condition: | 
+    # Run this step only if the variable Build.Reason is NOT ‘PullRequest’ and the variable Build.SourceBranch is ‘master’.
+    and(not(eq(variables['Build.Reason'], 'PullRequest')),
+        eq(variables['Build.SourceBranch'], 'refs/heads/master'))
+
 - task: PublishTestResults@2
   inputs:
     testResultsFiles: 'junit/*.xml'
