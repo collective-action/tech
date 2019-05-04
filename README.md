@@ -16,6 +16,10 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
 <div id="summary">
  <table>
   <tr>
+    <td>Last Updated</td>
+    <td data-summary="timestamp">04/05/2019 02:48PM</td>
+  </tr>
+  <tr>
     <td>Number of documented actions</td>
     <td data-summary="action-count">53</td>
   </tr>

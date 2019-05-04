@@ -1,5 +1,7 @@
 import re
 import bs4
+import datetime
+import pytz
 from copy import copy
 from pathlib import Path
 from bs4 import BeautifulSoup
@@ -53,14 +55,16 @@ def replace_md_data(
 def update_summary_action(
     doc: MarkdownDocument, summary_id: str, summary_field: str, summary_value: str
 ) -> MarkdownDocument:
-    """ Update the total actions field in the markdown document. """
+    """ Update a summary field in the markdown document. """
     soup = BeautifulSoup(doc, "html.parser")
     div = soup.find("div", id=summary_id)
     if not div:
-        raise SummaryDataNotFound("<div> is missing")
-    td = div.table.tr.find("td", {"data-summary": summary_field})
+        raise SummaryDataNotFound("<div> is missing.")
+    td = div.table.find("td", {"data-summary": summary_field})
     if not td:
-        raise SummaryDataNotFound("<td> is missing")
+        raise SummaryDataNotFound(
+            f"<td> with 'data-summary={summary_field}' is missing."
+        )
     td_new = copy(td)
     td_new.string = summary_value
     return doc.replace(str(td), str(td_new))
@@ -72,4 +76,7 @@ def update_markdown_document(
     """ Replace markdown table and update summary. """
     doc = replace_md_data(doc, action_id, actions.to_md())
     doc = update_summary_action(doc, SUMMARY_ID, "action-count", str(len(actions)))
+    tz = pytz.timezone("US/Eastern")
+    now = datetime.datetime.now(tz).strftime("%d/%m/%Y %I:%M%p")
+    doc = update_summary_action(doc, SUMMARY_ID, "timestamp", now)
     return doc
