@@ -42,7 +42,7 @@ steps:
 
 - task: DownloadSecureFile@1
   inputs:
-    secureFile: github_deploy_key
+    secureFile: deploy_key
   displayName: 'Get the deploy key'
 
 - bash: |
