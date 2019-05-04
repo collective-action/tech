@@ -55,7 +55,6 @@ steps:
     git push origin HEAD:master
   displayName: 'Push to GitHub'
   condition: | 
-    # Run this step only if the variable Build.Reason is NOT ‘PullRequest’ and the variable Build.SourceBranch is ‘master’.
     and(not(eq(variables['Build.Reason'], 'PullRequest')),
         eq(variables['Build.SourceBranch'], 'refs/heads/master'))
 
