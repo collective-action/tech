@@ -32,15 +32,12 @@ steps:
     source activate cait
     python convert.py --update-readme
     python convert.py --to-csv --output actions.csv
-  displayName: 'Updating and cleaning up'
-
-- bash: |
     git config --local user.name "Azure Pipelines"
     git config --local user.email "organizejs@gmail.com"
     git add README.md
     git add actions.csv
     git commit -m "Auto Update README & actions.csv  ***NO_CI***"
-  displayName: 'Build and commit'
+  displayName: 'Update, build and commit'
 
 - task: DownloadSecureFile@1
   inputs:
