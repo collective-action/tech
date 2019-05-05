@@ -25,6 +25,8 @@ of the fields are not applicable, you can omit the field. However, you cannot
 add a new field at this time. If there is additional information you'd like to
 include, add it in the description field.
 
+> Take note of the plurality of the fields. `action` is singular while `sources` is plural. 
+
 | Field | Required | Description |
 | --- | --- | --- |
 | date | True | While the date may seem trivial, collecting dates may be comlex for multi-day events such as pickets or online petitions. In this repo, we collect only the start date of the action in the format YYYY-MM-DD. |
@@ -46,8 +48,7 @@ In the table above, `action` and `struggles` must contain only the following val
 
 ## Formatting
 When adding an update to the README, use the provided html code below to add a
-row to the table. Copy and paste the html snippet under the opening `<div>`
-tag in the README.
+action. Copy and paste the html snippet under the opening `<div>` tag in the README.
 
 ```html
 <!-- Example only -->
@@ -57,14 +58,14 @@ tag in the README.
    <td class="field-value">2018-01-01</td>
   </tr>
   <tr>
-   <td class="field-key">source</td>
+   <td class="field-key">sources</td>
    <td class="field-value">
     <a href="https://www.your.valid/source">CNN</a>,
     <a href="https://www.your.valid/source">BBC</a>,
    </td>
   </tr>
   <tr>
-   <td class="field-key">company</td>
+   <td class="field-key">companies</td>
    <td class="field-value">Amazon</td>
   </tr>
   <tr>
@@ -100,7 +101,6 @@ Please note the following aspects:
   If you wish to remain anonymous, skip this step. Keep in mind, your github
   username will be affiliated with the PR.
 - Each `<td>` tag must have either have the class `field-key` or `field-value`.
-- Feel free to add multiple sources if it is relevant. 
 - If you add multiple values to a field, make sure the values are
   comma-seprated. For example, if two types of struggle were involved in the action,
   it would look like so: `pay_and_benefits, working_conditions`
