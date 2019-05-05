@@ -48,7 +48,9 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     ,
     <a href="https://www.cnn.com/2019/05/01/tech/google-employees-protest-may-day/index.html" target="_blank">
      www.cnn.com
-    </a>
+    </a>, <a href="https://twitter.com/GoogleWalkout/status/1123294379609870337?s=20" target="_blank">
+     www.twitter.com
+    </a>    
    </td>
   </tr>
   <tr>
