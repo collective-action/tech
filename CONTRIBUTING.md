@@ -16,7 +16,7 @@ Here are the basic steps to adding a new action using a pull request:
 1. The master branch is protected, so you won't be able to merge directly into
    it. Instead, create a new branch (with the event name you want to add in
    the branch title), and open a pull-request.
-1. Make a pull request from the branch you've created into the master branch.
+1. Make a [pull request](https://help.github.com/en/articles/creating-a-pull-request) from the branch you've created into the master branch.
 
 ## Data Fields
 
@@ -107,6 +107,19 @@ Please note the following aspects:
 - If a field is not applicable, remove the `<tr>` tag for it entirely.
 - DO NOT add additional fields to the table. If you wish to include other
   information, add it in the description field or as a tag.
+
+## Making A Pull Request (PR)
+
+You can learn about how to make a pull request [here](https://help.github.com/en/articles/creating-a-pull-request). 
+
+When you make a pull request, the request will trigger an Azure pipeline to kick off where it will perform the following:
+1. Test that the addition that was made complies with the data fields outlined above - if it does not comply, the Azure pipeline will block the merge.
+1. Cleans up the HTML code and updates the summary, including how many actions are reported
+1. Generates/updates the `actions.csv` file so that the file is up-to-date
+
+> The cleanup/update uses the `convert.py` file described in the "Developer Feature" section below
+
+After the azure pipeline performs these steps, it will automatically add the changes to the PR.
 
 ## Developer Features
 
