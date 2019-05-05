@@ -256,7 +256,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     workers
    </td>
    <td class="field-value">
-    375
+    450
    </td>
   </tr>
   <tr>
@@ -735,7 +735,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     workers
    </td>
    <td class="field-value">
-    195000
+    241000
    </td>
   </tr>
  </table>
