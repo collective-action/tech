@@ -17,7 +17,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">05/05/2019 01:30PM</td>
+    <td data-summary="timestamp">05/05/2019 01:45PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
@@ -48,9 +48,11 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     ,
     <a href="https://www.cnn.com/2019/05/01/tech/google-employees-protest-may-day/index.html" target="_blank">
      www.cnn.com
-    </a>, <a href="https://twitter.com/GoogleWalkout/status/1123294379609870337?s=20" target="_blank">
-     www.twitter.com
-    </a>    
+    </a>
+    ,
+    <a href="https://twitter.com/googlewalkout/status/1123294379609870337?s=20" target="_blank">
+     twitter.com
+    </a>
    </td>
   </tr>
   <tr>
