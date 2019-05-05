@@ -17,62 +17,94 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">05/05/2019 01:09PM</td>
+    <td data-summary="timestamp">05/05/2019 01:23PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">53</td>
+    <td data-summary="action-count">54</td>
   </tr>
  </table>
 </div>
 
 #### Actions
 <div id="actions">
-  <table author="organizejs">
+ <table author="organizejs">
   <tr>
-   <td class="field-key">date</td>
-   <td class="field-value">2019-05-01</td>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
+    2019-05-01
+   </td>
   </tr>
   <tr>
-   <td class="field-key">sources</td>
+   <td class="field-key">
+    sources
+   </td>
    <td class="field-value">
     <a href="https://slate.com/technology/2019/05/google-employees-are-protesting-to-remain-the-companys-watchdog.html" target="_blank">
      slate.com
-    </a>,
+    </a>
+    ,
     <a href="https://www.cnn.com/2019/05/01/tech/google-employees-protest-may-day/index.html" target="_blank">
      www.cnn.com
     </a>
    </td>
   </tr>
   <tr>
-   <td class="field-key">action</td>
-   <td class="field-value">protest</td>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    protest
+   </td>
   </tr>
   <tr>
-   <td class="field-key">struggles</td>
-   <td class="field-value">working_conditions</td>
+   <td class="field-key">
+    struggles
+   </td>
+   <td class="field-value">
+    working_conditions
+   </td>
   </tr>
   <tr>
-   <td class="field-key">description</td>
+   <td class="field-key">
+    description
+   </td>
    <td class="field-value">
     Google workers stage a sit-in on May Day, following allegations of retaliation from the company against employees who participated in walkouts last year. "Googlers from around the world gathered at 11am local time to sit together and show retaliation is #NotOkGoogle. The stories we've been collecting will be shared, demands will be read, and all will be in solidarity with those withstanding this chilling practice."
    </td>
   </tr>
   <tr>
-   <td class="field-key">locations</td>
-   <td class="field-value">us</td>
+   <td class="field-key">
+    locations
+   </td>
+   <td class="field-value">
+    us
+   </td>
   </tr>
   <tr>
-   <td class="field-key">companies</td>
-   <td class="field-value">google</td>
+   <td class="field-key">
+    companies
+   </td>
+   <td class="field-value">
+    google
+   </td>
   </tr>
   <tr>
-   <td class="field-key">workers</td>
-   <td class="field-value">1000</td>
+   <td class="field-key">
+    workers
+   </td>
+   <td class="field-value">
+    1000
+   </td>
   </tr>
   <tr>
-   <td class="field-key">tags</td>
-   <td class="field-value"></td>
+   <td class="field-key">
+    tags
+   </td>
+   <td class="field-value">
+   </td>
   </tr>
  </table>
  <table author="bentarnoff">
