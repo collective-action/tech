@@ -3,15 +3,21 @@
 	<head>
 		<title>{{ page.title }}</title>
 		<!-- link to main stylesheet -->
-        <link rel="stylesheet" type="text/css" href="{{ '/css/main.css' | relative_url }}">
+        <link rel="stylesheet" type="text/css" href="{{ 'assets/css/main.css' | relative_url }}">
+        <!-- link to fontawesome 5 -->
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
 	</head>
 	<body>
+		<!-- link to JS scripts-->
+        <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.0/showdown.min.js"></script>
+        <script src="{{ 'assets/js/lib/papaparse.min.js' | relative_url }}"></script>
+
 		<nav>
 		<ul>
             <li><a href="{{ '/' | relative_url }}">Home</a></li>
-            <li><a href="{{ '/about' | relative_url }}">About</a></li>
-            <li><a href="{{ '/cv' | relative_url }}">CV</a></li>
-            <li><a href="{{ '/blog' | relative_url }}">Blog</a></li>
+            <li><a href="https://github.com/organizejs/collective-actions-in-tech">Github</a></li>
+            <li><a href="https://github.com/organizejs/collective-actions-in-tech/blob/master/CONTRIBUTING.md">Contribute</a></li>
 		</ul>
 		</nav>
 		<div class="container">
@@ -21,8 +27,7 @@
 		</div><!-- /.container -->
 		<footer>
 		<ul>
-			<li><a href="mailto:organizejs@gmail.com">email</a></li>
-			<li><a href="https://github.com/organizejs">github.com/hankquinlan</a></li>
+			<li><a href="https://github.com/organizejs/collective-actions-in-tech">github.com/organizejs/collective-actions-in-tech</a></li>
 			</ul>
 		</footer>
 	</body>
