@@ -15,11 +15,11 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">10/05/2019 12:49AM</td>
+    <td data-summary="timestamp">10/05/2019 01:10AM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">54</td>
+    <td data-summary="action-count">55</td>
   </tr>
  </table>
 </div>
@@ -40,8 +40,8 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     sources
    </td>
    <td class="field-value">
-    <a href="https://www.nytimes.com/2019/05/08/technology/amazon-muslim-workers-complaint.html#click=https://t.co/9xmgNjLfoq" target="_blank">
-     nytimes.com
+    <a href="https://www.nytimes.com/2019/05/08/technology/amazon-muslim-workers-complaint.html#click=https://t.co/9xmgnjlfoq" target="_blank">
+     www.nytimes.com
     </a>
    </td>
   </tr>
@@ -74,7 +74,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     locations
    </td>
    <td class="field-value">
-    Minneapolis
+    minneapolis
    </td>
   </tr>
   <tr>
