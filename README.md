@@ -42,6 +42,85 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     sources
    </td>
    <td class="field-value">
+    <a href="https://medium.com/@GoogleWalkout/notokgoogle-demands-regarding-retaliation-697da244146f" target="_blank">
+     www.medium.com
+    </a>,
+    <a href="https://observer.com/2019/05/alphabet-ceo-larry-page-employees-walkouts/" target="_blank">
+     www.observer.com
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    open_letter
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    struggles
+   </td>
+   <td class="field-value">
+    working_conditions
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    Google employees publish an open letter demanding that Alphabet CEO Larry Page "immediately and publicly address the Walkout’s demands, and recommit Google to meeting them." The list of demands also asks for the company to allow Meredith to continue her work, fully funded, as before and to allow Claire to change teams without further retaliation. The letter calls out the broken nature of the HR department at Google, and demands for an open and transparent investigation on the department.
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    locations
+   </td>
+   <td class="field-value">
+    
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    companies
+   </td>
+   <td class="field-value">
+    google
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    workers
+   </td>
+   <td class="field-value">
+    
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    tags
+   </td>
+   <td class="field-value">
+    retaliation
+   </td>
+  </tr>
+ </table>
+ <table author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
+    2019-05-08
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    sources
+   </td>
+   <td class="field-value">
     <a href="https://www.nytimes.com/2019/05/08/technology/amazon-muslim-workers-complaint.html#click=https://t.co/9xmgnjlfoq" target="_blank">
      www.nytimes.com
     </a>
