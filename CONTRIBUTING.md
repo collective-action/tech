@@ -31,7 +31,7 @@ include, add it in the description field.
 | --- | --- | --- |
 | date | True | While the date may seem trivial, collecting dates may be comlex for multi-day events such as pickets or online petitions. In this repo, we collect only the start date of the action in the format YYYY-MM-DD. |
 | sources | True | The url(s) of reliable sources that has reported on this event. |
-| action | True | What was the form of the action that took place? (`union_drive`, `union_representation`, `open_letter`, `strike`, `protest`)|
+| action | True | What was the form of the action that took place? (`union_drive`, `union_representation`, `open_letter`, `strike`, `protest`, `legal_action`)|
 | struggles | True | The kind of struggle workers are standing up against. (`pay_and_benefits`, `working_conditions`, `unfair_labor_practices`, `job_security`, `ethics`, `discrimination`)| 
 | description | True | A short sentence describing the event where you can include information that isn't covered in the fields above. |
 | locations | False | The location(s) of the action, or whether it was online. |
