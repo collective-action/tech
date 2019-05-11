@@ -92,14 +92,6 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
   </tr>
   <tr>
    <td class="field-key">
-    workers
-   </td>
-   <td class="field-value">
-    
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
     tags
    </td>
    <td class="field-value">
