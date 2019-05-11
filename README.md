@@ -17,93 +17,17 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">11/05/2019 06:03PM</td>
+    <td data-summary="timestamp">11/05/2019 06:16PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">56</td>
+    <td data-summary="action-count">57</td>
   </tr>
  </table>
 </div>
 
 #### Actions
 <div id="actions">
- <table author="organizejs">
-  <tr>
-   <td class="field-key">
-    date
-   </td>
-   <td class="field-value">
-    2019-02-27
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    sources
-   </td>
-   <td class="field-value">
-    <a href="https://www.buzzfeednews.com/article/carolineodonovan/student-groups-protest-salesforce-palantir-ice-campus" target="_blank">
-     www.buzzfeed.com
-    </a>
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    action
-   </td>
-   <td class="field-value">
-    protest
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    struggles
-   </td>
-   <td class="field-value">
-    ethics
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    description
-   </td>
-   <td class="field-value">
-    Ten Stanford students with a group called Students for the Liberation of All People (SLAP) protested a guest lecture by Salesforce executive Richard Socher. The students, who held signs — "Salesforcing families apart," "Richard are you getting rich from deportation?" and "Salesfart" — oppose the company’s contract with Customs and Borders Protection (CBP).
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    locations
-   </td>
-   <td class="field-value">
-    stanford
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    workers
-   </td>
-   <td class="field-value">
-    10
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    companies
-   </td>
-   <td class="field-value">
-    palantir, salesforce
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    tags
-   </td>
-   <td class="field-value">
-    students
-   </td>
-  </tr>
- </table>
  <table author="organizejs">
   <tr>
    <td class="field-key">
@@ -1155,6 +1079,82 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    </td>
    <td class="field-value">
     kickstarter
+   </td>
+  </tr>
+ </table>
+ <table author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
+    2019-02-27
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    sources
+   </td>
+   <td class="field-value">
+    <a href="https://www.buzzfeednews.com/article/carolineodonovan/student-groups-protest-salesforce-palantir-ice-campus" target="_blank">
+     www.buzzfeednews.com
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    protest
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    struggles
+   </td>
+   <td class="field-value">
+    ethics
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    Ten Stanford students with a group called Students for the Liberation of All People (SLAP) protested a guest lecture by Salesforce executive Richard Socher. The students, who held signs — "Salesforcing families apart," "Richard are you getting rich from deportation?" and "Salesfart" — oppose the company’s contract with Customs and Borders Protection (CBP).
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    locations
+   </td>
+   <td class="field-value">
+    stanford
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    companies
+   </td>
+   <td class="field-value">
+    palantir, salesforce
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    workers
+   </td>
+   <td class="field-value">
+    10
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    tags
+   </td>
+   <td class="field-value">
+    students
    </td>
   </tr>
  </table>
