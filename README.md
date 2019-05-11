@@ -17,11 +17,11 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">10/05/2019 01:10AM</td>
+    <td data-summary="timestamp">11/05/2019 06:03PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">55</td>
+    <td data-summary="action-count">56</td>
   </tr>
  </table>
 </div>
@@ -118,11 +118,12 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     sources
    </td>
    <td class="field-value">
-    <a href="https://medium.com/@GoogleWalkout/notokgoogle-demands-regarding-retaliation-697da244146f" target="_blank">
-     www.medium.com
-    </a>,
+    <a href="https://medium.com/@googlewalkout/notokgoogle-demands-regarding-retaliation-697da244146f" target="_blank">
+     medium.com
+    </a>
+    ,
     <a href="https://observer.com/2019/05/alphabet-ceo-larry-page-employees-walkouts/" target="_blank">
-     www.observer.com
+     observer.com
     </a>
    </td>
   </tr>
