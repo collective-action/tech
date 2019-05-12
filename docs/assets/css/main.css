@@ -35,8 +35,43 @@ footer {
     text-align: center;
     font-size: .8em;
 }
-#action-count {
+#action-total {
     color: blue;
+}
+
+/* Search */
+#search {
+	position: relative;
+}
+#search > p > i {
+    left: 12px;
+    position: absolute;
+    top: 12px;
+    color: blue;
+    font-size: 20px;
+}
+#search > p > #action-count {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 700;
+    padding: 6px;
+    top: 8px;
+    right: 8px;
+    position: absolute;
+    background-color: #ccc;
+    display: none;
+}
+#search-input {
+	width: calc(100% - 120px - 2px); /* Full-width - padding - border */
+	font-size: 16px; /* Increase font-size */
+	padding: 12px 80px 12px 40px; /* Add some padding */
+	border: 1px solid blue; 
+	margin-bottom: 12px; /* Add some space below the input */
+}
+#search-input:focus {
+    outline-width: 0;
+    background-color: #f5f2f0;
 }
 
 /* Action */
