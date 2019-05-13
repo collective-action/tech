@@ -35,8 +35,84 @@ footer {
     text-align: center;
     font-size: .8em;
 }
-#action-count {
+#action-total {
     color: blue;
+}
+
+/* Search */
+#search {
+	position: relative;
+}
+#search #search-icon,
+#search #search-cancel-icon {
+    left: 12px;
+    position: absolute;
+    top: 12px;
+    color: blue;
+    font-size: 20px;
+}
+#search #search-cancel-icon {
+    display: none;
+}
+#search #action-count {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 700;
+    padding: 6px;
+    top: 8px;
+    right: 8px;
+    position: absolute;
+    background-color: #ccc;
+    display: none;
+    border-radius: 4px;
+}
+#search-input {
+	width: calc(100% - 120px - 2px); /* Full-width - padding - border */
+	font-size: 16px; /* Increase font-size */
+	padding: 12px 80px 12px 40px; /* Add some padding */
+	border: 1px solid blue; 
+}
+#search-input:focus {
+    outline-width: 0;
+    background-color: #f5f2f0;
+}
+
+/* Query Tags */
+#query {
+    width: 100%;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    position: relative;
+}
+#query #query-tags .query-tag {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 700;
+    padding: 6px;
+    display: inline-block;
+    background-color: blue;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-right: 12px;
+}
+#query #query-cancel {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 700;
+    padding: 6px;
+    display: inline-block;
+    border-radius: 4px;
+    border: 1px solid red;
+    color: red;
+    display: none;
+    cursor: pointer;
 }
 
 /* Action */
@@ -65,10 +141,19 @@ footer {
 .action .tags .tag {
     margin-right: 8px;
     margin-bottom: 8px;
-    padding: 8px;
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 700;
+    padding: 6px;
+    border-radius: 4px;
     background-color: #f5f2f0;
     color: blue;
     display: inline-block;
+    cursor: pointer;
+}
+.action .tags .tag.selected {
+    background-color: blue !important;
+    color: white;
 }
 .action:hover .tags .tag,
 .action .sources:hover .source {
@@ -83,9 +168,13 @@ footer {
     color: blue;
 }
 .action .sources .source {
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 700;
+    padding: 6px;
+    border-radius: 4px;
     background-color: #f5f2f0;
     display: inline-block;
-    padding: 8px;
     margin: 8px;
 }
 .action .source-icon {
