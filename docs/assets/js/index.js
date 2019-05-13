@@ -183,8 +183,6 @@ function populateHtml (df, query, showCount=false) {
           $(this).click(function() {
               tag = $(this).html()
               addQuery(tag)
-              // $('#search-input').val(tag)
-              // search(tag)
           })
       }
   })
@@ -206,7 +204,11 @@ function addQuery (tag) {
  **/
 function updateUrl () {
   let tags = getQueryTags()
-  // TODO
+  if (tags.length > 0) {
+    window.history.pushState({ foo: "bar" }, '', '/index?query=' + tags)
+  } else {
+    window.history.pushState({ foo: "bar" }, '', '/index')
+  }
 }
 
 /**
@@ -220,7 +222,7 @@ function getQueryTags () {
       return $(this).html()
     })
     .get()
-    .join()
+    .join(',')
 }
 
 /**
@@ -229,20 +231,19 @@ function getQueryTags () {
 function clearQueryTags () {
   $("#query-cancel").hide()
   $("#query-tags").empty()
+  updateUrl()
 }
 
 /**
  * Create df from csv
  * @param {array} array of rows of the csv
  */
-function createAndDisplayDf (data) {
+function createAndDisplayDf (data, callback) {
   let DataFrame = dfjs.DataFrame
   data.pop() // remove the last element, for some reason, papaparse loads an additional empty element
   masterDf = new DataFrame(data.slice(1), data[0])
   populateHtml(masterDf, null, false)
-
-  // Add summary to html
-  $('#action-total').append(masterDf.count())
+  callback()
 }
 
 /**
@@ -261,7 +262,7 @@ function includesAll(haystack, needles){
  * @param {str} query string
  */
 function search(query) {
-  query = query.replace(/\s/g,'').split(",")
+  query = query.split(",")
   tmpDf = masterDf.where(row => query.every((val) => row.toArray().includes(val)))
   if (tmpDf.count() === 0) {
       populateHtml(masterDf, null, true)
@@ -272,26 +273,44 @@ function search(query) {
 
 // entry point
 $(document).ready(function () {
+
   // load data
-  parseData(csvUrl, createAndDisplayDf)
+  parseData(csvUrl, function(data) {
+    createAndDisplayDf(data, function() {
 
-  // on query list update
-  $("#query-tags").on('DOMSubtreeModified', function() {
-    let tags = getQueryTags()
-    search(tags)
-  })
+      // Add summary to html
+      $('#action-total').append(masterDf.count())
 
-  $("#query-cancel").click(function() {
-    clearQueryTags()
-  })
+      // on query list update
+      $("#query-tags").on('DOMSubtreeModified', function() {
+        let tags = getQueryTags()
+        search(tags)
+      })
 
-  // on search
-  $('#search-input').keypress(function(e){
-    if(e.keyCode==13) {
-      // search($(this).val())
-      addQuery($(this).val())
-      $(this).val("")
-    }
+      // clear query 
+      $("#query-cancel").click(function() {
+        clearQueryTags()
+      })
+
+      // check url for params
+      let url = new URL(window.location)
+      let query = url.searchParams.get("query")
+      if (query) {
+        query = query.split(',')
+        for (let i = 0; i < query.length; i++) {
+          addQuery(query[i])
+        }
+      }
+
+      // on search
+      $('#search-input').keypress(function(e){
+        if(e.keyCode==13) {
+          addQuery($(this).val())
+          $(this).val("")
+        }
+      })
+ 
+    })
   })
-  
+ 
 })
