@@ -204,10 +204,11 @@ function addQuery (tag) {
  **/
 function updateUrl () {
   let tags = getQueryTags()
+  let pathname = window.location.pathname
   if (tags.length > 0) {
-    window.history.pushState({ foo: "bar" }, '', '/index?query=' + tags)
+    window.history.pushState({ foo: "bar" }, '', pathname + '?query=' + tags)
   } else {
-    window.history.pushState({ foo: "bar" }, '', '/index')
+    window.history.pushState({ foo: "bar" }, '', pathname)
   }
 }
 
