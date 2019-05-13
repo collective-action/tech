@@ -5,14 +5,17 @@ title: Collective Actions in Tech
 <div id="content">
     <h1>Collective Actions In Tech</h1>
     <p>This project attempts to document all collective actions from workers in the tech industry.</p>
-    <p>The goal is to give us, tech workers, insights on trends in worker power in the tech industry. This archive is meant to provide us with the data to find the connections between different struggless and to let us reflect collectively on moments in tech labor.</p>
+    <p>The goal is to give us, tech workers, insights on trends in worker power in the tech industry. This archive is meant to provide us with the data to find the connections between different struggless and to let us reflect on these moments of worker power in tech.</p>
     <p>Currently, there are <span id="action-total"></span> collective actions documented.</p>
+
     <div id="search">
-        <p>
-            <i class="fas fa-search"></i>
-            <input type="text" id="search-input" onkeyup="search()" placeholder="Search.."/>
-            <span id="action-count"></span>
-        </p>
+        <i id="search-icon" class="fas fa-search"></i>
+        <input type="text" id="search-input" placeholder="Search.."/>
+        <span id="action-count"></span>
+    </div>
+    <div id="query">
+        <div id="query-tags"></div>
+        <div id="query-cancel">Clear</div>
     </div>
 	<div id="actions"></div>
 </div>
