@@ -72,7 +72,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     description
    </td>
    <td class="field-value">
-    Google employees publish an open letter demanding that Alphabet CEO Larry Page "immediately and publicly address the Walkout’s demands, and recommit Google to meeting them." The list of demands also asks for the company to allow Meredith to continue her work, fully funded, as before and to allow Claire to change teams without further retaliation. The letter calls out the broken nature of the HR department at Google, and demands for an open and transparent investigation on the department.
+    Tech workers organized by the Tech Workers Coalition are protesting the Palantir's contract with ICE on the company's GitHub projects. The plan calls for organized waves of digital protesters to post a prepared message to their GitHub boards. The protest appeals to workers to consider their role, even if indirectly, in Palantir’s work with ICE. It also encourages people to add their own personal sentiments.
    </td>
   </tr>
   <tr>
@@ -80,7 +80,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     companies
    </td>
    <td class="field-value">
-    google
+    palantir
    </td>
   </tr>
   <tr>
@@ -88,7 +88,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     tags
    </td>
    <td class="field-value">
-    retaliation
+    ice
    </td>
   </tr>
  </table>
@@ -556,6 +556,10 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     <a href="https://www.recode.net/2019/4/10/18304877/amazon-climate-change-employees-tech-activism" target="_blank">
      www.recode.net
     </a>
+    ,
+    <a href="https://www.vox.com/business-and-finance/2019/4/11/18306389/amazon-employees-climate-change-plan" target="_blank">
+     www.vox.com
+    </a>
    </td>
   </tr>
   <tr>
@@ -579,7 +583,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     description
    </td>
    <td class="field-value">
-    Tech workers organized by the Tech Workers Coalition are protesting the Palantir's contract with ICE on the company's GitHub projects. The plan calls for organized waves of digital protesters to post a prepared message to their GitHub boards. The protest appeals to workers to consider their role, even if indirectly, in Palantir’s work with ICE. It also encourages people to add their own personal sentiments.
+    The company's corporate employees signed their names to a letter published on Wednesday that urged Jeff Bezos to create a comprehensive climate-change plan for the company.
    </td>
   </tr>
   <tr>
@@ -592,10 +596,18 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
   </tr>
   <tr>
    <td class="field-key">
+    workers
+   </td>
+   <td class="field-value">
+    5000
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
     companies
    </td>
    <td class="field-value">
-    palantir
+    amazon
    </td>
   </tr>
   <tr>
@@ -603,7 +615,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     tags
    </td>
    <td class="field-value">
-    ice
+    climate_change
    </td>
   </tr>
  </table>
