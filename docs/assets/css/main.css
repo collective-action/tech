@@ -2,6 +2,9 @@ body {
     margin: 60px auto;
     width: 70%;
 }
+nav {
+    position: relative;
+}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
@@ -37,6 +40,14 @@ footer {
 }
 #action-total {
     color: blue;
+}
+
+/* github star */
+nav > span {
+    display: inline;
+    position: absolute;
+    right: 0px;
+    top: -5px;
 }
 
 /* Search */
