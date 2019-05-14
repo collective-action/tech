@@ -17,11 +17,11 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">12/05/2019 11:34PM</td>
+    <td data-summary="timestamp">14/05/2019 12:23PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">57</td>
+    <td data-summary="action-count">58</td>
   </tr>
  </table>
 </div>
@@ -43,7 +43,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    </td>
    <td class="field-value">
     <a href="https://www.fastcompany.com/90348304/exclusive-tech-workers-organize-protest-against-palantir-on-the-github-coding-platform" target="_blank">
-     fastcompany.com
+     www.fastcompany.com
     </a>
     ,
     <a href="https://gist.github.com/noahzgordon/29af8c13106ddc591ccaa1ea0ce6af74" target="_blank">
