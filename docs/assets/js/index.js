@@ -251,7 +251,7 @@ function createAndDisplayDf (data, callback) {
  * Searches through the df
  * @param {str} query string
  */
-function includesAll(haystack, needles){ 
+function includesAll (haystack, needles) {
   for (let i = 0; i < needles.length; i++){
      if($.inArray(needles[i], haystack) == -1) return false;
   }
@@ -263,8 +263,8 @@ function includesAll(haystack, needles){
  * @param {str} query string
  */
 function search(query) {
-  query = query.split(",")
-  tmpDf = masterDf.where(row => query.every((val) => row.toArray().includes(val)))
+  query = query.split(",").map(item => item.trim())
+  tmpDf = masterDf.where(row => query.every(val => row.toArray().join(" ").includes(val)))
   if (tmpDf.count() === 0) {
       populateHtml(masterDf, null, true)
   } else {
