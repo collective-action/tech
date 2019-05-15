@@ -15,17 +15,81 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">12/05/2019 11:34PM</td>
+    <td data-summary="timestamp">14/05/2019 05:25PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">57</td>
+    <td data-summary="action-count">58</td>
   </tr>
  </table>
 </div>
 
 #### Actions
 <div id="actions">
+ <table author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
+    2019-05-11
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    sources
+   </td>
+   <td class="field-value">
+    <a href="https://www.fastcompany.com/90348304/exclusive-tech-workers-organize-protest-against-palantir-on-the-github-coding-platform" target="_blank">
+     www.fastcompany.com
+    </a>
+    ,
+    <a href="https://gist.github.com/noahzgordon/29af8c13106ddc591ccaa1ea0ce6af74" target="_blank">
+     gist.github.com
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    protest
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    struggles
+   </td>
+   <td class="field-value">
+    ethics
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    Tech workers organized by the Tech Workers Coalition are protesting the Palantir's contract with ICE on the company's GitHub projects. The plan calls for organized waves of digital protesters to post a prepared message to their GitHub boards. The protest appeals to workers to consider their role, even if indirectly, in Palantir’s work with ICE. It also encourages people to add their own personal sentiments.
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    companies
+   </td>
+   <td class="field-value">
+    palantir
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    tags
+   </td>
+   <td class="field-value">
+    ice
+   </td>
+  </tr>
+ </table>
  <table author="organizejs">
   <tr>
    <td class="field-key">
@@ -490,6 +554,10 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     <a href="https://www.recode.net/2019/4/10/18304877/amazon-climate-change-employees-tech-activism" target="_blank">
      www.recode.net
     </a>
+    ,
+    <a href="https://www.vox.com/business-and-finance/2019/4/11/18306389/amazon-employees-climate-change-plan" target="_blank">
+     www.vox.com
+    </a>
    </td>
   </tr>
   <tr>
@@ -537,7 +605,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     workers
    </td>
    <td class="field-value">
-    6000
+    5000
    </td>
   </tr>
   <tr>
@@ -545,7 +613,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     tags
    </td>
    <td class="field-value">
-    environmental
+    climate_change
    </td>
   </tr>
  </table>
