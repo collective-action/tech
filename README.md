@@ -1,7 +1,5 @@
 # Collective Actions in Tech
 
-![silicon valley unite](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiwV2sQj6hm4/v0/1000x-1.jpg)
-
 [![Build Status](https://dev.azure.com/jianshentan/collective-actions-in-tech/_apis/build/status/organizejs.collective-actions-in-tech?branchName=master)](https://dev.azure.com/jianshentan/collective-actions-in-tech/_build/latest?definitionId=2&branchName=master)
 
 This repository is an attempt to document all collective actions from workers in the tech industry.
