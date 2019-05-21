@@ -2,6 +2,10 @@ body {
     margin: 60px auto;
     width: 70%;
 }
+body.is-mobile {
+    margin: 30px auto;
+    width: 85%;
+}
 nav {
     position: relative;
 }
@@ -26,10 +30,17 @@ h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+.is-mobile h1 {
+    font-size: 2em;
+}
 p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
+}
+.is-mobile p {
+    font-size: 1.2em;
+    line-height: 1.2em;
 }
 img {
     max-width: 100%;
@@ -47,9 +58,26 @@ nav > span {
     display: inline;
     position: absolute;
     right: 0px;
-    top: 0px;
+    top: -1px;
 }
 
+/* Make search + query stick */
+#search-query {
+    background-color: white;
+    position:fixed;
+    top:0;
+    width:100%;
+    z-index:100;
+    padding-top: 1em;
+}
+#search-query.stuck {
+    margin: 0px auto;
+    width: 70%;
+}
+.is-mobile #search-query.stuck {
+    margin: 0px auto;
+    width: 85%;
+}
 /* Search */
 #search {
 	position: relative;
@@ -138,6 +166,26 @@ nav > span {
     display: grid;
     grid-gap: .75em;
     position: relative;
+}
+.is-mobile .action {
+    padding-left: 0px;
+    padding-right: 0px;
+
+    /* These are technically the same, but use both */
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+
+    -ms-word-break: break-all;
+    /* This is the dangerous one in WebKit, as it breaks things wherever */
+    word-break: break-all;
+    /* Instead use this non-standard one: */
+    word-break: break-word;
+
+    /* Adds a hyphen where the word breaks, if supported (No Blink) */
+    -ms-hyphens: auto;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    hyphens: auto;
 }
 .action:last-child {
     border-bottom: 1px solid #f5f2f0;

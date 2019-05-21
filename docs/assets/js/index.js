@@ -272,6 +272,34 @@ function search(query) {
   }
 }
 
+/**
+ * makes search query bar sticky when scrolling
+ */
+function moveScroller() {
+  var $anchor = $("#search-query-anchor");
+  var $scroller = $("#search-query");
+
+  var move = function() {
+    var st = $(window).scrollTop();
+    var ot = $anchor.offset().top;
+    if(st > ot) {
+      $scroller.css({
+        position: "fixed",
+        top: "0px"
+      });
+      $scroller.addClass("stuck")
+    } else {
+      $scroller.css({
+        position: "relative",
+        top: ""
+      });
+      $scroller.removeClass("stuck")
+    }
+  };
+  $(window).scroll(move);
+  move();
+}
+
 // entry point
 $(document).ready(function () {
 
@@ -313,5 +341,9 @@ $(document).ready(function () {
  
     })
   })
+
+  moveScroller()
  
 })
+
+
