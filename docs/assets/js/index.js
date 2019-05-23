@@ -175,16 +175,21 @@ function populateHtml (df, query, showCount=false) {
 
   // iterate through tags
   $(".tag").each(function() {
-      if (query && query.includes($(this).html())) {
-          // highlight if match
-          $(this).addClass("selected")
-      } else {
-          // make tags clickable
-          $(this).click(function() {
-              tag = $(this).html()
-              addQuery(tag)
-          })
-      }
+    let tag = $(this).html()
+    if (query && query.includes(tag)) {
+      // highlight if match
+      $(this).addClass("selected")
+      // setup click to unselect
+      $(this).click(function() {
+          removeQuery(tag)
+      })
+    } else {
+      $(this).removeClass("selected")
+      // setup click to select
+      $(this).click(function() {
+          addQuery(tag)
+      })
+    }
   })
 }
 
@@ -193,9 +198,36 @@ function populateHtml (df, query, showCount=false) {
  * @param {str} of tag to add
  */
 function addQuery (tag) {
+  // show clear button
   $("#query-cancel").show()
+
+  // create a query tag and add to the query bar
   let tagEl = $("<div>").addClass("query-tag").html(tag)
   $("#query-tags").append(tagEl)
+
+  // click to deselect
+  tagEl.click(function() {
+    removeQuery(tag)
+  })
+
+  // update url
+  updateUrl()
+}
+
+/**
+ * remove query
+ */
+function removeQuery (tag) {
+  let tagEls = getQueryTags()
+  for (let i = 0; i < tagEls.length; i++) {
+    let t = $(tagEls[i]).html()
+    if (t === tag) {
+      tagEls[i].remove()
+    }
+  }
+  if (getQueryTags().length <= 0) {
+    $("#query-cancel").hide()
+  }
   updateUrl()
 }
 
@@ -203,7 +235,7 @@ function addQuery (tag) {
  * Update url
  **/
 function updateUrl () {
-  let tags = getQueryTags()
+  let tags = getQueryTagsAsString().join(',')
   let pathname = window.location.pathname
   if (tags.length > 0) {
     window.history.pushState({ foo: "bar" }, '', pathname + '?query=' + tags)
@@ -214,16 +246,23 @@ function updateUrl () {
 
 /**
  * Gets tags in query-tags div
- * @return {array} of tags
+ * @return {array} of tag elements
  */
 function getQueryTags () {
+  return $("#query-tags").find(".query-tag")
+}
+
+/**
+ * Gets tags in query-tags div as string
+ * @return {array} of tags
+ */
+function getQueryTagsAsString () {
   return $("#query-tags")
     .find(".query-tag")
     .map(function() {
       return $(this).html()
     })
     .get()
-    .join(',')
 }
 
 /**
@@ -262,8 +301,8 @@ function includesAll (haystack, needles) {
  * Searches through the df
  * @param {str} query string
  */
-function search(query) {
-  query = query.split(",").map(item => item.trim())
+function search (query) {
+  query = query.map(item => item.trim())
   tmpDf = masterDf.where(row => query.every(val => row.toArray().join(" ").includes(val)))
   if (tmpDf.count() === 0) {
       populateHtml(masterDf, null, true)
@@ -275,7 +314,7 @@ function search(query) {
 /**
  * makes search query bar sticky when scrolling
  */
-function moveScroller() {
+function moveScroller () {
   var $anchor = $("#search-query-anchor");
   var $scroller = $("#search-query");
 
@@ -312,7 +351,7 @@ $(document).ready(function () {
 
       // on query list update
       $("#query-tags").on('DOMSubtreeModified', function() {
-        let tags = getQueryTags()
+        let tags = getQueryTagsAsString()
         search(tags)
       })
 
@@ -342,6 +381,7 @@ $(document).ready(function () {
     })
   })
 
+  // set up so search/query bar sticks to top
   moveScroller()
  
 })
