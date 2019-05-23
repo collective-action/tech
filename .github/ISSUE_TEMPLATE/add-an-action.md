@@ -7,4 +7,8 @@ assignees: ''
 
 ---
 
+## A description of the event
 
+## Links
+
+## Relevant tags
