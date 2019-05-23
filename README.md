@@ -32,6 +32,78 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     date
    </td>
    <td class="field-value">
+    2019-05-22
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    sources
+   </td>
+   <td class="field-value">
+    <a href="https://www.vox.com/recode/2019/5/22/18635604/amazon-shareholder-meeting-2019-climate-change-proposal" target="_blank">
+     www.vox.com
+    </a>
+    ,
+    <a href="https://gizmodo.com/jeff-bezos-wouldn-t-even-come-on-stage-to-listen-to-his-1834957220" target="_blank">
+     gizmodo.com
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    protest
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    struggles
+   </td>
+   <td class="field-value">
+    ethics
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    More than 50 Amazon employees from Amazon Employees for Climate Justice attended the shareholder meeting, where Emily Cunningham delivered an impassioned speech to shareholders urging them to support the resolution for Amazon to adopt a strong climate plan. Jeff Bezos did not come on stage when asked by Cunningham to make an appearance. Shareholders voted no.
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    companies
+   </td>
+   <td class="field-value">
+    amazon
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    workers
+   </td>
+   <td class="field-value">
+    50
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    tags
+   </td>
+   <td class="field-value">
+    climate_change
+   </td>
+  </tr>
+ </table>
+ <table author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
     2019-05-11
    </td>
   </tr>
