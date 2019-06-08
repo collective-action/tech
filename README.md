@@ -32,6 +32,78 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     date
    </td>
    <td class="field-value">
+    2019-05-08
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    sources
+   </td>
+   <td class="field-value">
+    <a href="https://www.washingtonpost.com/technology/2019/05/08/inside-facebook-second-class-workers-who-do-hardest-job-are-waging-quiet-battle/?noredirect=on&utm_term=.832acb00f260" target="_blank">
+     www.washingtonpost.com
+    </a>
+    ,
+    <a href="https://www.washingtonpost.com/business/2019/05/13/facebook-raising-pay-support-services-thousands-contractors-content-moderators/?utm_term=.f0b4e7b4bf3e" target="_blank">
+     www.washingtonpost.com
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    protest
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    struggles
+   </td>
+   <td class="field-value">
+    working_conditions
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    But for the past seven months, roughly a dozen moderators in the United States have been spearheading a quiet campaign inside the social media giant to air their grievances about unsatisfactory working conditions and their status as second-class citizens. The contractors, who have not previously spoken publicly about their efforts, are using their access to Facebook Workplace, the social network’s internal communication system, to wage their battle.
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    companies
+   </td>
+   <td class="field-value">
+    facebook, accenture
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    workers
+   </td>
+   <td class="field-value">
+    12
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    tags
+   </td>
+   <td class="field-value">
+    contract_workers 
+   </td>
+  </tr>
+ </table>
+ <table author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
     2019-05-22
    </td>
   </tr>
