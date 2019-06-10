@@ -1,6 +1,6 @@
 # Collective Actions in Tech
 
-[![Build Status](https://dev.azure.com/jianshentan/collective-actions-in-tech/_apis/build/status/organizejs.collective-actions-in-tech?branchName=master)](https://dev.azure.com/jianshentan/collective-actions-in-tech/_build/latest?definitionId=2&branchName=master)
+[![Build Status](https://dev.azure.com/jianshentan/collective-actions-in-tech/_apis/build/status/organizejs.cait%20-%20cleanup%20%26%20update?branchName=master)](https://dev.azure.com/jianshentan/collective-actions-in-tech/_build/latest?definitionId=4&branchName=master)
 
 This repository is an attempt to document all collective actions from workers in the tech industry.
 
