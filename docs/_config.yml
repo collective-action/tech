@@ -1,2 +1,9 @@
 name: Collective Actions in Tech
+url: https://collectiveactions.tech
+description: An archive of all collective actions from workers in the tech industry.
+twitter: 
+  username: organizejs
+  card: summary
 markdown: kramdown
+plugins:
+  - jekyll-seo-tag
