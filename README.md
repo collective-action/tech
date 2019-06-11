@@ -74,9 +74,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     description
    </td>
    <td class="field-value">
-    Staff at US-owned tech giant Oracle's China Development Centre in Beijing have staged protests after the company fired 900 staff from its China team, making up 60 per cent of its research and development effort there. Employees blamed tensions between the US and China for the cuts which came in the same week as the US announced additional tariffs on Chinese goods.
-
-    An employee referred to the Oracle co-founder's interview with Fox Business last October, in which Larry Ellison said that "we [the US] have a serious competition going with China, I’m on Team USA", and "if we let China produce more engineers than we do, if we let China's technology companies beat our technology companies, it won't be long that our military is behind technologically also".
+    Staff at US-owned tech giant Oracle's China Development Centre in Beijing have staged protests after the company fired 900 staff from its China team, making up 60 per cent of its research and development effort there. Employees blamed tensions between the US and China for the cuts which came in the same week as the US announced additional tariffs on Chinese goods. An employee referred to the Oracle co-founder's interview with Fox Business last October, in which Larry Ellison said that "we [the US] have a serious competition going with China, I’m on Team USA", and "if we let China produce more engineers than we do, if we let China's technology companies beat our technology companies, it won't be long that our military is behind technologically also".
    </td>
   </tr>
   <tr>
