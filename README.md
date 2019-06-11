@@ -15,101 +15,17 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">11/06/2019 12:34PM</td>
+    <td data-summary="timestamp">11/06/2019 06:16PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">61</td>
+    <td data-summary="action-count">62</td>
   </tr>
  </table>
 </div>
 
 #### Actions
 <div id="actions">
- <table author="organizejs">
-  <tr>
-   <td class="field-key">
-    date
-   </td>
-   <td class="field-value">
-    2019-05-09
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    sources
-   </td>
-   <td class="field-value">
-    <a href="https://clb.org.hk/content/senior-staff-oracle%E2%80%99s-beijing-research-centre-protest-layoffs" target="_blank">
-     clb.org.hk
-    </a>
-    ,
-    <a href="https://technode.com/2019/05/10/oracle-programmers-100000-recruitment/" target="_blank">
-     technode.com
-    </a>
-    ,
-    <a href="https://www.ft.com/content/16ffdcec-749d-11e9-bbad-7c18c0ea0201" target="_blank">
-     www.ft.com
-    </a>
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    action
-   </td>
-   <td class="field-value">
-    protest
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    struggles
-   </td>
-   <td class="field-value">
-    pay_and_benefits, job_security
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    description
-   </td>
-   <td class="field-value">
-    Staff at US-owned tech giant Oracle's China Development Centre in Beijing have staged protests after the company fired 900 staff from its China team, making up 60 per cent of its research and development effort there. Employees blamed tensions between the US and China for the cuts which came in the same week as the US announced additional tariffs on Chinese goods. An employee referred to the Oracle co-founder's interview with Fox Business last October, in which Larry Ellison said that "we [the US] have a serious competition going with China, I’m on Team USA", and "if we let China produce more engineers than we do, if we let China's technology companies beat our technology companies, it won't be long that our military is behind technologically also".
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    locations
-   </td>
-   <td class="field-value">
-    beijing
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    companies
-   </td>
-   <td class="field-value">
-    oracle
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    workers
-   </td>
-   <td class="field-value">
-    24
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    tags
-   </td>
-   <td class="field-value">
-    china
-   </td>
-  </tr>
- </table>
  <table author="organizejs">
   <tr>
    <td class="field-key">
@@ -243,6 +159,90 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    </td>
    <td class="field-value">
     ice
+   </td>
+  </tr>
+ </table>
+ <table author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
+    2019-05-09
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    sources
+   </td>
+   <td class="field-value">
+    <a href="https://clb.org.hk/content/senior-staff-oracle%e2%80%99s-beijing-research-centre-protest-layoffs" target="_blank">
+     clb.org.hk
+    </a>
+    ,
+    <a href="https://technode.com/2019/05/10/oracle-programmers-100000-recruitment/" target="_blank">
+     technode.com
+    </a>
+    ,
+    <a href="https://www.ft.com/content/16ffdcec-749d-11e9-bbad-7c18c0ea0201" target="_blank">
+     www.ft.com
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    protest
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    struggles
+   </td>
+   <td class="field-value">
+    pay_and_benefits, job_security
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    Staff at US-owned tech giant Oracle's China Development Centre in Beijing have staged protests after the company fired 900 staff from its China team, making up 60 per cent of its research and development effort there. Employees blamed tensions between the US and China for the cuts which came in the same week as the US announced additional tariffs on Chinese goods. An employee referred to the Oracle co-founder's interview with Fox Business last October, in which Larry Ellison said that "we [the US] have a serious competition going with China, I’m on Team USA", and "if we let China produce more engineers than we do, if we let China's technology companies beat our technology companies, it won't be long that our military is behind technologically also".
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    locations
+   </td>
+   <td class="field-value">
+    beijing
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    companies
+   </td>
+   <td class="field-value">
+    oracle
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    workers
+   </td>
+   <td class="field-value">
+    24
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    tags
+   </td>
+   <td class="field-value">
+    china
    </td>
   </tr>
  </table>
