@@ -15,85 +15,17 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">12/06/2019 05:43PM</td>
+    <td data-summary="timestamp">12/06/2019 06:32PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">63</td>
+    <td data-summary="action-count">64</td>
   </tr>
  </table>
 </div>
 
 #### Actions
 <div id="actions">
- <table author="organizejs">
-  <tr>
-   <td class="field-key">
-    date
-   </td>
-   <td class="field-value">
-    2014-11-04
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    sources
-   </td>
-   <td class="field-value">
-    <a href="https://www.chenpe.com/news/24911.html" target="_blank">
-     www.chenpe.com
-    </a>
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    action
-   </td>
-   <td class="field-value">
-    protest
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    struggles
-   </td>
-   <td class="field-value">
-    job_security
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    description
-   </td>
-   <td class="field-value">
-    Artesyn Technologies announced through their QQ blog that employees mainly from the hardware department were participating in a protest against Sony. They held their protest against what they called violent layoffs and discrimination and they appealed to Sony to disclose a list of those being discharged. They also demanded negotiations and a "fair, transparent and open" process.
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    companies
-   </td>
-   <td class="field-value">
-    sony
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    locations
-   </td>
-   <td class="field-value">
-    beijing
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    tags
-   </td>
-   <td class="field-value">
-    china
-   </td>
-  </tr>
- </table>
  <table author="organizejs">
   <tr>
    <td class="field-key">
@@ -4161,6 +4093,74 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    </td>
    <td class="field-value">
     teamster
+   </td>
+  </tr>
+ </table>
+ <table author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
+    2014-11-04
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    sources
+   </td>
+   <td class="field-value">
+    <a href="https://www.chenpe.com/news/24911.html" target="_blank">
+     www.chenpe.com
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    protest
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    struggles
+   </td>
+   <td class="field-value">
+    job_security
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    Artesyn Technologies announced through their QQ blog that employees mainly from the hardware department were participating in a protest against Sony. They held their protest against what they called violent layoffs and discrimination and they appealed to Sony to disclose a list of those being discharged. They also demanded negotiations and a "fair, transparent and open" process.
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    locations
+   </td>
+   <td class="field-value">
+    beijing
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    companies
+   </td>
+   <td class="field-value">
+    sony
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    tags
+   </td>
+   <td class="field-value">
+    china
    </td>
   </tr>
  </table>
