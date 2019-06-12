@@ -32,6 +32,74 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     date
    </td>
    <td class="field-value">
+    1998-11-23
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    sources
+   </td>
+   <td class="field-value">
+    <a href="http://www.cnn.com/TECH/computing/9811/23/mstemps.idg/" target="_blank">
+     www.cnn.com
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    legal_action
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    struggles
+   </td>
+   <td class="field-value">
+    working_conditions, pay_and_benefits
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    A law firm representing 10 current and former contract workers at Microsoft Corp. filed a lawsuit in U.S. District Court on Tuesday against the software giant, seeking damages and full-time employee benefits for its plaintiffs and thousands of other "misclassified" temporary employees. The 10 plaintiffs seek class-action status because they want to include some 6,000 current full-time Microsoft employees who have been "misclassified as nonemployees" under "various erroneous labels" and denied company benefits.
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    companies
+   </td>
+   <td class="field-value">
+    microsoft
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    workers
+   </td>
+   <td class="field-value">
+    10
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    tags
+   </td>
+   <td class="field-value">
+    contract_workers
+   </td>
+  </tr>
+ </table>
+ <table author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
     2019-05-22
    </td>
   </tr>
