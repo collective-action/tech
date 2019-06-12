@@ -175,7 +175,7 @@ function populateHtml (df, query, showCount=false) {
 
   // iterate through tags
   $(".tag").each(function() {
-    let tag = $(this).html()
+    let tag = $(this).html().trim()
     if (query && query.includes(tag)) {
       // highlight if match
       $(this).addClass("selected")
