@@ -50,7 +50,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     action
    </td>
    <td class="field-value">
-    protest, strike
+    protest
    </td>
   </tr>
   <tr>
