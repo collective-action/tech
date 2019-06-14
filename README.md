@@ -32,6 +32,82 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     date
    </td>
    <td class="field-value">
+    2019-06-13
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    sources
+   </td>
+   <td class="field-value">
+    <a href="https://www.japantimes.co.jp/news/2019/06/13/business/corporate-business/uber-eats-labor-union/#.XQPG-ohKgzM" target="_blank">
+     www.japantimes.co.jp
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    union_drive
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    struggles
+   </td>
+   <td class="field-value">
+    working_conditions 
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    Food delivery staff working in Japan for ride-hailing company Uber Technologies Inc. said Wednesday they plan to form a labor union in a bid to improve what they see as disadvantageous treatment for being classified as independent contractors rather than employees.
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    companies
+   </td>
+   <td class="field-value">
+    uber 
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    locations 
+   </td>
+   <td class="field-value">
+    tokyo
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    workers
+   </td>
+   <td class="field-value">
+    50
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    tags
+   </td>
+   <td class="field-value">
+    contractors, drivers
+   </td>
+  </tr>
+ </table>
+ <table author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
     2019-05-22
    </td>
   </tr>
