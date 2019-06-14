@@ -15,11 +15,11 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">12/06/2019 06:32PM</td>
+    <td data-summary="timestamp">14/06/2019 12:18PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">64</td>
+    <td data-summary="action-count">65</td>
   </tr>
  </table>
 </div>
@@ -40,7 +40,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     sources
    </td>
    <td class="field-value">
-    <a href="https://www.japantimes.co.jp/news/2019/06/13/business/corporate-business/uber-eats-labor-union/#.XQPG-ohKgzM" target="_blank">
+    <a href="https://www.japantimes.co.jp/news/2019/06/13/business/corporate-business/uber-eats-labor-union/#.xqpg-ohkgzm" target="_blank">
      www.japantimes.co.jp
     </a>
    </td>
@@ -58,7 +58,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     struggles
    </td>
    <td class="field-value">
-    working_conditions 
+    working_conditions
    </td>
   </tr>
   <tr>
@@ -71,18 +71,18 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
   </tr>
   <tr>
    <td class="field-key">
-    companies
+    locations
    </td>
    <td class="field-value">
-    uber 
+    tokyo
    </td>
   </tr>
   <tr>
    <td class="field-key">
-    locations 
+    companies
    </td>
    <td class="field-value">
-    tokyo
+    uber
    </td>
   </tr>
   <tr>
