@@ -15,93 +15,17 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">28/06/2019 04:54PM</td>
+    <td data-summary="timestamp">28/06/2019 05:31PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">70</td>
+    <td data-summary="action-count">73</td>
   </tr>
  </table>
 </div>
 
 #### Actions
 <div id="actions">
- <table author="organizejs">
-  <tr>
-   <td class="field-key">
-    date
-   </td>
-   <td class="field-value">
-    2018-04-28
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    sources
-   </td>
-   <td class="field-value">
-    <a href="https://technode.com/2018/04/28/didi-food-delivery-strike/" target="_blank">
-     technode.com
-    </a>
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    action
-   </td>
-   <td class="field-value">
-    strike
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    struggles
-   </td>
-   <td class="field-value">
-    working_conditions, pay_and_benefits
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    description
-   </td>
-   <td class="field-value">
-    Around 30 drivers gathered on Thursday at lunchtime, the peak hour for deliveries, to express their dissatisfaction with a serious drop in the number of orders and a change in rules for payments. The majority of the protesters were freelancers for Didi Waimai who complained of unfair rules and meager earnings.
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    locations
-   </td>
-   <td class="field-value">
-    wuxi, jiangsu, china
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    companies
-   </td>
-   <td class="field-value">
-    didi
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    workers
-   </td>
-   <td class="field-value">
-    30
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    tags
-   </td>
-   <td class="field-value">
-    drivers
-   </td>
-  </tr>
- </table>
  <table author="organizejs">
   <tr>
    <td class="field-key">
@@ -186,83 +110,6 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    </td>
   </tr>
  </table>
- <table author="organizejs">
-  <tr>
-   <td class="field-key">
-    date
-   </td>
-   <td class="field-value">
-    2019-06-19
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    sources
-   </td>
-   <td class="field-value">
-    <a href="https://www.vox.com/recode/2019/6/19/18691870/google-employees-activists-protest-alphabet-shareholder-meeting" target="_blank">
-     www.vox.com
-    </a>
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    action
-   </td>
-   <td class="field-value">
-    protest
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    struggles
-   </td>
-   <td class="field-value">
-    discrimination, ethics
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    description
-   </td>
-   <td class="field-value">
-    Google employees protest at Alphabet's shareholder meeting, joining community activists in demanding change from Google on how it handles sexual harassment in the workplace and its plans to build a censored search engine for China. Around 100 Google employees and community activists also protested as a united group outside Alphabet headquarters during the meeting. Google employees; labor and activist coalition Silicon Valley Rising; SEIU-USWW (a union representing janitorial staff and security officers); and local community groups helped organize the rally outside the meeting.
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    locations
-   </td>
-   <td class="field-value">
-    sunnyvale, california
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    companies
-   </td>
-   <td class="field-value">
-    google
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    workers
-   </td>
-   <td class="field-value">
-    100
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    tags
-   </td>
-   <td class="field-value">
-    shareholder_meeting
-   </td>
-  </tr>
- </table>
-
  <table author="organizejs">
   <tr>
    <td class="field-key">
@@ -424,6 +271,82 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    </td>
    <td class="field-value">
     ice, immigration
+   </td>
+  </tr>
+ </table>
+ <table author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
+    2019-06-19
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    sources
+   </td>
+   <td class="field-value">
+    <a href="https://www.vox.com/recode/2019/6/19/18691870/google-employees-activists-protest-alphabet-shareholder-meeting" target="_blank">
+     www.vox.com
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    protest
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    struggles
+   </td>
+   <td class="field-value">
+    discrimination, ethics
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    Google employees protest at Alphabet's shareholder meeting, joining community activists in demanding change from Google on how it handles sexual harassment in the workplace and its plans to build a censored search engine for China. Around 100 Google employees and community activists also protested as a united group outside Alphabet headquarters during the meeting. Google employees; labor and activist coalition Silicon Valley Rising; SEIU-USWW (a union representing janitorial staff and security officers); and local community groups helped organize the rally outside the meeting.
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    locations
+   </td>
+   <td class="field-value">
+    sunnyvale, california
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    companies
+   </td>
+   <td class="field-value">
+    google
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    workers
+   </td>
+   <td class="field-value">
+    100
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    tags
+   </td>
+   <td class="field-value">
+    shareholder_meeting
    </td>
   </tr>
  </table>
@@ -3622,6 +3545,82 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    </td>
    <td class="field-value">
     24
+   </td>
+  </tr>
+ </table>
+ <table author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
+    2018-04-28
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    sources
+   </td>
+   <td class="field-value">
+    <a href="https://technode.com/2018/04/28/didi-food-delivery-strike/" target="_blank">
+     technode.com
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    strike
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    struggles
+   </td>
+   <td class="field-value">
+    working_conditions, pay_and_benefits
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    Around 30 drivers gathered on Thursday at lunchtime, the peak hour for deliveries, to express their dissatisfaction with a serious drop in the number of orders and a change in rules for payments. The majority of the protesters were freelancers for Didi Waimai who complained of unfair rules and meager earnings.
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    locations
+   </td>
+   <td class="field-value">
+    wuxi, jiangsu, china
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    companies
+   </td>
+   <td class="field-value">
+    didi
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    workers
+   </td>
+   <td class="field-value">
+    30
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    tags
+   </td>
+   <td class="field-value">
+    drivers
    </td>
   </tr>
  </table>
