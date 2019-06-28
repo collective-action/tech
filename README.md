@@ -15,101 +15,17 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">28/06/2019 04:35PM</td>
+    <td data-summary="timestamp">28/06/2019 04:54PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">69</td>
+    <td data-summary="action-count">70</td>
   </tr>
  </table>
 </div>
 
 #### Actions
 <div id="actions">
- <table author="organizejs">
-  <tr>
-   <td class="field-key">
-    date
-   </td>
-   <td class="field-value">
-    2016-12-16
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    sources
-   </td>
-   <td class="field-value">
-    <a href="https://www.mic.com/articles/172403/ibm-s-ceo-wrote-trump-a-glowing-letter-employees-responded-with-list-of-demands" target="_blank">
-     www.mic.com
-    </a>
-    ,
-    <a href="https://www.coworker.org/petitions/ibmers-to-ceo-ginni-rometty-affirm-ibm-values" target="_blank">
-     www.coworker.org
-    </a>
-    ,
-    <a href="https://theintercept.com/2016/12/19/ibm-employees-launch-petition-protesting-cooperation-with-donald-trump/" target="_blank">
-     www.theintercept.com
-    </a>
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    action
-   </td>
-   <td class="field-value">
-    open_letter
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    struggles
-   </td>
-   <td class="field-value">
-    ethics
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    description
-   </td>
-   <td class="field-value">
-    IBM employees sign a petition protesting IBM's cooperation with Trump. After the IBM CEO Ginny Rometty sent a letter congratulating Trump on his presidency and refusing to rule out participation from building a muslim registry, IBM employees created a petition on coworker.org to demand that the company acknowledge the diversity of its staff and not work to further the more xenophobic aspects of Trump's agenda.
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    locations
-   </td>
-   <td class="field-value">
-    online, new_york
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    companies
-   </td>
-   <td class="field-value">
-    ibm
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    workers
-   </td>
-   <td class="field-value">
-    1000
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">
-    tags
-   </td>
-   <td class="field-value">
-    muslim_registry, immigration
-   </td>
-  </tr>
- </table>
  <table author="organizejs">
   <tr>
    <td class="field-key">
@@ -4161,6 +4077,90 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    </td>
    <td class="field-value">
     50
+   </td>
+  </tr>
+ </table>
+ <table author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
+    2016-12-16
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    sources
+   </td>
+   <td class="field-value">
+    <a href="https://www.mic.com/articles/172403/ibm-s-ceo-wrote-trump-a-glowing-letter-employees-responded-with-list-of-demands" target="_blank">
+     www.mic.com
+    </a>
+    ,
+    <a href="https://www.coworker.org/petitions/ibmers-to-ceo-ginni-rometty-affirm-ibm-values" target="_blank">
+     www.coworker.org
+    </a>
+    ,
+    <a href="https://theintercept.com/2016/12/19/ibm-employees-launch-petition-protesting-cooperation-with-donald-trump/" target="_blank">
+     theintercept.com
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    open_letter
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    struggles
+   </td>
+   <td class="field-value">
+    ethics
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    IBM employees sign a petition protesting IBM's cooperation with Trump. After the IBM CEO Ginny Rometty sent a letter congratulating Trump on his presidency and refusing to rule out participation from building a muslim registry, IBM employees created a petition on coworker.org to demand that the company acknowledge the diversity of its staff and not work to further the more xenophobic aspects of Trump's agenda.
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    locations
+   </td>
+   <td class="field-value">
+    online, new_york
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    companies
+   </td>
+   <td class="field-value">
+    ibm
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    workers
+   </td>
+   <td class="field-value">
+    1000
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    tags
+   </td>
+   <td class="field-value">
+    muslim_registry, immigration
    </td>
   </tr>
  </table>
