@@ -15,11 +15,11 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">28/06/2019 03:50PM</td>
+    <td data-summary="timestamp">28/06/2019 04:14PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">66</td>
+    <td data-summary="action-count">67</td>
   </tr>
  </table>
 </div>
@@ -44,8 +44,8 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
      www.bloomberg.com
     </a>
     ,
-    <a href="https://medium.com/@BanGoogleFromPride/an-open-petition-to-the-san-francisco-pride-board-of-directors-f8164486c2e4" target="_blank">
-     www.medium.com
+    <a href="https://medium.com/@bangooglefrompride/an-open-petition-to-the-san-francisco-pride-board-of-directors-f8164486c2e4" target="_blank">
+     medium.com
     </a>
    </td>
   </tr>
