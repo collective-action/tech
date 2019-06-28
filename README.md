@@ -15,11 +15,11 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">14/06/2019 12:18PM</td>
+    <td data-summary="timestamp">28/06/2019 03:50PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">65</td>
+    <td data-summary="action-count">66</td>
   </tr>
  </table>
 </div>
@@ -41,13 +41,15 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    </td>
    <td class="field-value">
     <a href="https://www.nytimes.com/2019/06/26/business/wayfair-walkout.html" target="_blank">
-      www.nytimes.com
-    </a>,
+     www.nytimes.com
+    </a>
+    ,
     <a href="https://www.cnn.com/2019/06/25/business/wayfair-walkout-detention-camps-trnd/index.html" target="_blank">
-      www.cnn.com
-    </a>,
+     www.cnn.com
+    </a>
+    ,
     <a href="https://www.jacobinmag.com/2019/06/wayfair-walkout-immigration-detention-centers" target="_blank">
-      www.jacobinmag.com
+     www.jacobinmag.com
     </a>
    </td>
   </tr>
@@ -64,7 +66,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     struggles
    </td>
    <td class="field-value">
-    ethics 
+    ethics
    </td>
   </tr>
   <tr>
