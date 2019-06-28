@@ -32,7 +32,87 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     date
    </td>
    <td class="field-value">
-    2019-06-13
+    2019-06-26
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    sources
+   </td>
+   <td class="field-value">
+    <a href="https://www.bloomberg.com/news/articles/2019-06-26/google-workers-petition-sf-pride-to-exclude-company-from-parade" target="_blank">
+     www.bloomberg.com
+    </a>
+    ,
+    <a href="https://medium.com/@BanGoogleFromPride/an-open-petition-to-the-san-francisco-pride-board-of-directors-f8164486c2e4" target="_blank">
+     www.medium.com
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    action
+   </td>
+   <td class="field-value">
+    open_letter
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    struggles
+   </td>
+   <td class="field-value">
+    discrimination
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    description
+   </td>
+   <td class="field-value">
+    About 100 Google employees urged the organizer of this weekend's San Francisco Pride parade to kick the company out of the celebration, escalating pressure on the internet giant to overhaul its handling of hate speech online. The employees wrote a letter to the board of directors of San Francisco Pride, asking that Google be dropped as a sponsor of the parade as well as excluded from having a presence at the event.
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    locations
+   </td>
+   <td class="field-value">
+    san_franciso
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    companies
+   </td>
+   <td class="field-value">
+    google
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    workers
+   </td>
+   <td class="field-value">
+    100
+   </td>
+  </tr>
+  <tr>
+   <td class="field-key">
+    tags
+   </td>
+   <td class="field-value">
+    pride
+   </td>
+  </tr>
+ </table>
+ <table author="organizejs">
+  <tr>
+   <td class="field-key">
+    date
+   </td>
+   <td class="field-value">
+    2019-06-26
    </td>
   </tr>
   <tr>
@@ -2496,7 +2576,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     locations
    </td>
    <td class="field-value">
-    san francisco
+    san_francisco
    </td>
   </tr>
   <tr>
@@ -3408,7 +3488,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     locations
    </td>
    <td class="field-value">
-    san francisco, virginia
+    san_francisco, virginia
    </td>
   </tr>
   <tr>
