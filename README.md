@@ -58,7 +58,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     struggles
    </td>
    <td class="field-value">
-    working_conditions, pay_and_benefit
+    working_conditions, pay_and_benefits
    </td>
   </tr>
   <tr>
