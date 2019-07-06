@@ -11,6 +11,7 @@ from datetime import datetime
 from typing import Any, List, Dict, ClassVar, Union
 from urllib.parse import urlparse
 from .markdown import MarkdownData, MarkdownDocument
+from .files import FileClient
 
 Url = str
 
@@ -29,12 +30,14 @@ class Action:
         - create and populate action instances from markdown and dataframes
     """
 
+    # mandatory fields
     date: str
     sources: List[Url]
     action: str
     struggles: List[str]
     description: str
 
+    # optional fields
     locations: List[str] = None
     companies: List[str] = None
     workers: int = None
@@ -133,7 +136,7 @@ class Action:
             return self.__dict__.items() == other.__dict__.items()
         return False
 
-    def to_df(self) -> Dict[str, Any]:
+    def to_dict(self) -> Dict[str, Any]:
         """ Return dict of all fields serialized to string """
         return {key: self.render_df(key) for key, value in self.__dict__.items()}
 
@@ -243,7 +246,7 @@ class Actions:
         self.actions.sort(*args, **kwargs)
         return self
 
-    def append(self, action: Action):
+    def append(self, action: Action) -> None:
         """ Append an action onto this instance of Actions. """
         self.actions.append(action)
 
@@ -251,11 +254,11 @@ class Actions:
         """ Converts this instance of Actions to a df. """
         data = []
         for action in self.actions:
-            data.append(action.to_df())
+            data.append(action.to_dict())
         df = pd.read_json(json.dumps(data), orient="list")
         return df[self.fields]
 
-    def to_md(self):
+    def to_md(self) -> None:
         """ Convert this instance of Actions to markdown/HTML. """
         soup = BeautifulSoup(f"<div id={self.action_id}></div>", "html.parser")
         for action in self.actions:
@@ -277,6 +280,17 @@ class Actions:
                 tr.append(td_val)
                 table.append(tr)
         return soup.prettify()
+
+    def to_files(self) -> None:
+        """ Convert this instance of Actions to files. """
+        fc = FileClient()
+        fc.remove_actions()
+        for i, action in enumerate(self.actions):
+            struggles = ""
+            for s in action.struggles:
+                struggles += f"{s},"
+            fn = f"[{i+1}]{action.date}.txt"
+            fc.save_to_file(filename=fn, action=action.to_dict())
 
     @classmethod
     def read_from_md(cls, md_doc: MarkdownDocument) -> "Actions":

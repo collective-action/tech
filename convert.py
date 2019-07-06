@@ -50,12 +50,17 @@ def _get_parser():
         "--update-readme", action="store_true", help="Update the table in the README."
     )
     parser.add_argument("--csv", help="uses csv to update readme")
+    parser.add_argument(
+        "--update-files", action="store_true", help="Update the actions folder."
+    )
 
     args = parser.parse_args()
     if args.to_csv and (args.output is None):
         parser.error("--to-csv requires --output.")
-    if args.csv and (args.update_readme is None):
-        parser.error("--csv requires --update-readme.")
+    if args.update_readme and (args.csv is None):
+        parser.error("--update-readme requires --csv.")
+    if args.update_files and (args.csv is None):
+        parser.error("--update-files requires --csv.")
     return args
 
 
@@ -87,8 +92,18 @@ def update_readme_with_csv(readme: Path, csv: Path):
     readme.write_text(md_document)
 
 
+def update_files(csv: Path):
+    print(f"Updating files in the /actions folder with {csv}...")
+    df = pd.read_csv(csv)
+    actions = Actions.read_from_df(df)
+    actions.sort(reverse=True)
+    actions.to_files()
+
+
 if __name__ == "__main__":
     args = _get_parser()
+    if args.update_files:
+        update_files(Path(args.csv))
     if args.update_readme:
         output_fp = Path(args.output) if args.output else README_PATH
         clean_readme(README_PATH, output_fp)
