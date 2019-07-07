@@ -12,10 +12,8 @@ This document will cover how to make a contribute:
 
 ## Github Steps to Contributing
 Here are the basic steps to adding a new action using a pull request:
-1. Edit the README.md in Github.com
-1. The master branch is protected, so you won't be able to merge directly into
-   it. Instead, create a new branch (with the event name you want to add in
-   the branch title), and open a pull-request.
+1. Create a new event under the '/actions' folder in the root directory on Github.com.
+1. Create a new branch (with the event name you want to add in the branch title), and open a pull-request.
 1. Make a [pull request](https://help.github.com/en/articles/creating-a-pull-request) from the branch you've created into the master branch.
 
 ## Data Fields
@@ -50,63 +48,23 @@ In the table above, `action` and `struggles` must contain only the following val
 When adding an update to the README, use the provided html code below to add a
 action. Copy and paste the html snippet under the opening `<div>` tag in the README.
 
-```html
-<!-- Example only -->
- <table author="organizejs">
-  <tr>
-   <td class="field-key">date</td>
-   <td class="field-value">2018-01-01</td>
-  </tr>
-  <tr>
-   <td class="field-key">sources</td>
-   <td class="field-value">
-    <a href="https://www.your.valid/source">CNN</a>,
-    <a href="https://www.your.valid/source">BBC</a>,
-   </td>
-  </tr>
-  <tr>
-   <td class="field-key">companies</td>
-   <td class="field-value">Amazon</td>
-  </tr>
-  <tr>
-   <td class="field-key">action</td>
-   <td class="field-value">protest</td>
-  </tr>
-  <tr>
-   <td class="field-key">struggles</td>
-   <td class="field-value">ethics</td>
-  </tr>
-  <tr>
-   <td class="field-key">worker</td>
-   <td class="field-value">1000</td>
-  </tr>
-  <tr>
-   <td class="field-key">description</td>
-   <td class="field-value">Thousands of people protest a military contract in Queens.</td>
-  </tr>
-  <tr>
-   <td class="field-key">locations</td>
-   <td class="field-value">New York</td>
-  </tr>
-  <tr>
-   <td class="field-key">tags</td>
-   <td class="field-value">non_tech_centric</td>
-  </tr>
- </table>
+```md
+- date: 2018-01-01
+- sources: https://www.your.valid/source1, https://www.your.valid/source2
+- companies: amazon
+- action: protest
+- struggles: ethics, discrimination
+- worker: 1000
+- description: Thousands of people protest a military contract in Queens.
+- locations: new_york
+- tags: military_contract
+- author: organizejs
 ```
 
 Please note the following aspects:
-- If you would like your github username affiliated with the action you added,
-  add an attribute `author` in the `<table>` tag with your github username.
-  If you wish to remain anonymous, skip this step. Keep in mind, your github
-  username will be affiliated with the PR.
-- Each `<td>` tag must have either have the class `field-key` or `field-value`.
-- If you add multiple values to a field, make sure the values are
-  comma-seprated. For example, if two types of struggle were involved in the action,
-  it would look like so: `pay_and_benefits, working_conditions`
-- If a field is not applicable, remove the `<tr>` tag for it entirely.
-- DO NOT add additional fields to the table. If you wish to include other
-  information, add it in the description field or as a tag.
+- If you would like your github username affiliated with the action you added, add an attribute `author` in the `<table>` tag with your github username. If you wish to remain anonymous, skip this step. Keep in mind, your github username will be affiliated with the PR.
+- If you add multiple values to a field, make sure the values are comma-seprated. For example, if two types of struggle were involved in the action, it would look like so: `pay_and_benefits, working_conditions`
+- DO NOT add additional fields to the file. If you wish to include other information, add it in the description field or as a tag.
 
 ## Making A Pull Request (PR)
 
@@ -114,26 +72,28 @@ You can learn about how to make a pull request [here](https://help.github.com/en
 
 When you make a pull request, the request will trigger an Azure pipeline to kick off where it will perform the following:
 1. Test that the addition that was made complies with the data fields outlined above - if it does not comply, the Azure pipeline will block the merge.
-1. Cleans up the HTML code and updates the summary, including how many actions are reported
-1. Generates/updates the `actions.csv` file so that the file is up-to-date
+1. Cleans up the files in /actions
+1. Updates the README.md including total actions
+1. Updates the `actions.csv` file so that the file is up-to-date
 
-> The cleanup/update uses the `convert.py` file described in the "Developer Feature" section below
+> The cleanup/update uses the `update.py` file described in the "Developer Feature" section below
 
 After the azure pipeline performs these steps, it will automatically add the changes to the PR.
 
 ## Developer Features
 
-This repository comes with a `convert.py` located in the root directory. You can
-use this file to clean up the table (such as sorting the contents of the table by
-date) and save the data to a csv.
+This repository comes with a `update.py` located in the root directory. 
+
+You can use this script to clean up the files in /actions, update the readme or
+the csv file.
 
 ```sh
-# to save to csv
-python convert.py --to-csv --output <output_file_path>
+# Update files in action folder
+$ python update.py --files-cleanup
 
-# to sort the actions in the readme and update the summary
-python convert.py --update-readme
+# Update actions.csv based on files
+$ python update.py --files-to-csv
 
-# to update the readme using an updated csv file
-python convert.py --update-readme --csv new_actions.csv
+# Update README.md based on files
+$ python update.py --files-to-readme
 ```

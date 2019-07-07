@@ -29,13 +29,13 @@ def _get_parser():
         epilog=textwrap.dedent(
             """
         # Update files in action folder
-        $ python update.py --files
+        $ python update.py --files-cleanup
 
         # Update actions.csv based on files
-        $ python update.py --to-csv
+        $ python update.py --files-to-csv
 
         # Update README.md based on files
-        $ python update.py --to-readme
+        $ python update.py --files-to-readme
         """
         ),
         formatter_class=argparse.RawDescriptionHelpFormatter,
