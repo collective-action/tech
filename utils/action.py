@@ -5,6 +5,7 @@ import html
 import bs4
 import re
 import dateparser
+from functools import partial
 from bs4 import BeautifulSoup
 from dataclasses import dataclass, field
 from datetime import datetime
@@ -150,9 +151,31 @@ class Action:
         else:
             return value
 
+    def to_str(self, field: str) -> str:
+        """ Convert field to string
+
+        Stringifies non-strings and lists.
+        """
+        assert (
+            field in self.__dataclass_fields__
+        ), f"Cannot serialize {field}. Not a valid field in Action."
+
+        value = self.__getattribute__(field)
+
+        ret = None
+        if field in ["date", "workers"]:
+            ret = str(value)
+        elif field in ["locations", "struggles", "companies", "tags", "sources"]:
+            ret = (
+                str(value).strip("[").strip("]").replace("'", "").replace('"', "")
+            )
+        else:
+            ret = value
+
+        return ret
+
     def to_md(self, field: str, td: bs4.element.Tag) -> str:
         """ Convert field for markdown
-
         Takes a td BeautifulSoup object and updates it according to the field
         type so that it renders correctly in markdown.
         """
@@ -208,6 +231,11 @@ class Action:
         d = {key: value for key, value in row.to_dict().items() if key in fields}
         return cls(**d)
 
+    @classmethod
+    def create_from_dict(cls, d: dict) -> "Action":
+        """ Create an action instance from a dictionary. """
+        return cls(**d)
+
 
 @dataclass
 class Actions:
@@ -260,25 +288,55 @@ class Actions:
 
     def to_md(self) -> None:
         """ Convert this instance of Actions to markdown/HTML. """
+        print("H: to md is being called.")
         soup = BeautifulSoup(f"<div id={self.action_id}></div>", "html.parser")
+        table = soup.new_tag("table")
+        soup.div.append(table)
+
+        def create_td_tag(tag):
+            td = soup.new_tag("td")
+            td.string = tag
+            return td
+
+        def create_emoji_tag():
+            emoji = soup.new_tag("g-emoji")
+            emoji["class"] = "g-emoji"
+            emoji["alias"] = "link"
+            emoji["fallback-src"] = "https://github.githubassets.com/images/icons/emoji/unicode/1f517.png"
+            emoji.string = ":link:"
+            return emoji
+
+        # table header
+        tr = soup.new_tag("tr")
+        tr.append(create_td_tag("date"))
+        tr.append(create_td_tag("description"))
+        tr.append(create_td_tag("link"))
+        table.append(tr)
+
+        # table body
         for action in self.actions:
-            table = soup.new_tag("table")
-            soup.div.append(table)
+            tr = soup.new_tag("tr")
+
             for meta_field in Action._meta_fields:
-                table[meta_field] = action.__getattribute__(meta_field)
-            for field in self.fields:
-                if action.__getattribute__(field) is None:
-                    continue
-                if field in Action._meta_fields:
-                    continue
-                tr = soup.new_tag("tr")
-                td_key = soup.new_tag("td", attrs={"class": "field-key"})
-                td_val = soup.new_tag("td", attrs={"class": "field-value"})
-                td_key.string = field
-                td_val = action.to_md(field, td_val)
-                tr.append(td_key)
-                tr.append(td_val)
-                table.append(tr)
+                tr[meta_field] = action.__getattribute__(meta_field)
+
+            td_date = soup.new_tag("td")
+            td_date.string = action.to_str("date")
+            tr.append(td_date)
+
+            td_action = soup.new_tag("td")
+            td_action.string = action.to_str("description")
+            tr.append(td_action)
+
+            td_action = soup.new_tag("td")
+            a = soup.new_tag("a")
+            a["href"] = "/actions/0000.md"
+            emoji = create_emoji_tag()
+            a.append(emoji)
+            td_action.append(a)
+            tr.append(td_action)
+
+            table.append(tr)
         return soup.prettify()
 
     def to_files(self) -> None:
@@ -289,7 +347,7 @@ class Actions:
             struggles = ""
             for s in action.struggles:
                 struggles += f"{s},"
-            fn = f"[{i+1}]{action.date}.txt"
+            fn = f"{i:04}.md"
             fc.save_to_file(filename=fn, action=action.to_dict())
 
     @classmethod
@@ -314,3 +372,14 @@ class Actions:
             action = Action.create_from_row(row)
             actions.append(action)
         return actions
+
+    @classmethod
+    def read_from_files(cls, files: List[str]) -> "Actions":
+        """ Create and populate an Actions instance from the actions folder. """
+        fc = FileClient()
+        actions = Actions()
+        for file in files:
+            action = Action.create_from_dict(fc.parse_file(file))
+            actions.append(action)
+        return actions
+
