@@ -205,22 +205,6 @@ class Action:
         return td
 
     @classmethod
-    def create_from_md(cls, table: bs4.element.Tag) -> "Action":
-        """ Create an Action instance from a md table. """
-        a = {}
-        trs = table.find_all("tr")
-        for key, val in table.attrs.items():
-            if key != "class":
-                a[key] = val
-        for i, tr in enumerate(trs):
-            td_key = tr.find("td", class_="field-key")
-            td_val = tr.find("td", class_="field-value")
-            val = "".join(str(e) for e in td_val.contents).strip()
-            key = "".join(str(e) for e in td_key.contents).strip()
-            a[key] = val
-        return cls(**a)
-
-    @classmethod
     def create_from_row(cls, row: pd.Series) -> "Action":
         """ Create an Action instance from a dataframe row. """
         fields = [
@@ -363,21 +347,7 @@ class Actions:
             for s in action.struggles:
                 struggles += f"{s},"
             fn = f"{i:04}.md"
-            fc.save_to_file(filename=fn, action=action.to_dict())
-
-    @classmethod
-    def read_from_md(cls, md_doc: MarkdownDocument) -> "Actions":
-        """ Create and populate an Actions instance from a Markdown Document. """
-        md_data = re.findall(fr'<div id="{cls.action_id}">+[\s\S]+<\/div>', md_doc)
-        assert len(md_data) == 1, f"multiple divs with id={cls.action_id} were found"
-        md_data = md_data[0]
-        soup = BeautifulSoup(md_data, "html.parser")
-        tables = soup.div.find_all("table")
-        actions = Actions()
-        for table in tables:
-            action = Action.create_from_md(table)
-            actions.append(action)
-        return actions
+            fc.save_to_file(filepath=fc.actions_folder/fn, action=action.to_dict())
 
     @staticmethod
     def read_from_df(df: pd.DataFrame) -> "Actions":
@@ -394,7 +364,9 @@ class Actions:
         fc = FileClient()
         actions = Actions()
         for file in files:
-            action = Action.create_from_dict(fc.parse_file(file))
+            action = Action.create_from_dict(
+                fc.parse_file(fc.actions_folder / file)
+            )
             actions.append(action)
         return actions
 

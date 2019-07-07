@@ -1,4 +1,5 @@
 from utils.action import Action, Actions
+from utils.files import FileClient
 from bs4 import BeautifulSoup
 import dateparser
 import pandas as pd
@@ -42,11 +43,18 @@ def _test_actions(actions: Actions):
     assert actions.actions[0].author == "organizejs"
 
 
-def test_action_create_from_md(correctly_formatted_md_action):
-    """ Test Action `create_from_md` function. """
-    soup = BeautifulSoup(correctly_formatted_md_action, "html.parser")
-    action = Action.create_from_md(soup.table)
+def test_action_create_from_file(correctly_formatted_action_file):
+    """ Test Action `create_from_dict` function. """
+    fc = FileClient()
+    a = fc.parse_file(correctly_formatted_action_file)
+    action = Action.create_from_dict(a)
     _test_action(action)
+
+
+def test_action_create_from_files(correctly_formatted_action_files):
+    """ Test Actions `read_from_files` function. """
+    actions = Actions.read_from_files(correctly_formatted_action_files)
+    _test_actions(actions)
 
 
 def test_action_create_from_row(correctly_formatted_series_action):
@@ -55,51 +63,10 @@ def test_action_create_from_row(correctly_formatted_series_action):
     _test_action(action)
 
 
-def test_actions_read_from_md(correctly_formatted_md_actions):
-    """ Test Actions `read_from_md` function. """
-    actions = Actions.read_from_md(correctly_formatted_md_actions)
-    _test_actions(actions)
-
-
 def test_actions_read_from_df(correctly_formatted_df_actions):
     """ Test Actions `read_from_df` function. """
     actions = Actions.read_from_df(correctly_formatted_df_actions)
     _test_actions(actions)
-
-
-def test_correctly_formatted_md_and_series_action_fixtures(
-    correctly_formatted_series_action, correctly_formatted_md_action
-):
-    """ Test that fixtures equal each other. They should! """
-    action_from_df = Action.create_from_row(correctly_formatted_series_action)
-    action_from_md = Action.create_from_md(BeautifulSoup(correctly_formatted_md_action,
-        "html.parser").table)
-    assert action_from_df == action_from_md
-
-
-def test_correctly_formatted_md_and_df_actions_fixtures(
-    correctly_formatted_df_actions, correctly_formatted_md_actions
-):
-    """ Test that fixtures equal each other. They should! """
-    actions_from_df = Actions.read_from_df(correctly_formatted_df_actions)
-    actions_from_md = Actions.read_from_md(correctly_formatted_md_actions)
-    assert actions_from_df == actions_from_md
-
-
-def test_actions_to_md(correctly_formatted_df_actions):
-    """ Test Actions `to_md` function. """
-    actions_from_df = Actions.read_from_df(correctly_formatted_df_actions)
-    actions_as_md = actions_from_df.to_md()
-    s1 = BeautifulSoup(actions_as_md, 'html.parser')
-    assert len(s1.div.find_all("table")) == 3
-
-
-def test_actions_to_df(correctly_formatted_md_actions):
-    """ Test Actions `to_df` function. """
-    actions_from_md = Actions.read_from_md(correctly_formatted_md_actions)
-    actions_as_df = actions_from_md.to_df()
-    assert len(actions_as_df) == 3
-    assert isinstance(actions_as_df, pd.DataFrame)
 
 
 def test_actions_sort(correctly_formatted_df_actions):

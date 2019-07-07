@@ -29,14 +29,14 @@ class FileClient:
             )
         )
 
-    def save_to_file(self, filename: str, action: dict) -> None:
+    def save_to_file(self, filepath: str, action: dict) -> None:
         """ Serialize action from json to md file. """
         text = ""
         for key, value in action.items():
             text += "- "
             text += key + ": "
             text += value + "\n"
-        f = open(self.actions_folder / filename, "w")
+        f = open(filepath, "w")
         f.write(text)
         f.close()
 
@@ -48,10 +48,11 @@ class FileClient:
             if os.path.isfile(os.path.join(self.actions_folder, f))
         ]
 
-    def parse_file(self, filename: str) -> dict:
+    def parse_file(self, filepath: str) -> dict:
         """ Parses a filename in the actions folder and returns dict. """
-        f = open(self.actions_folder / filename, "r")
-        contents = f.read()
+        f = open(filepath, "r")
+        contents = f.read().strip()
+        print(contents)
         d = {}
         for row in contents.split("\n"):
             if len(row) > 0:

@@ -12,9 +12,13 @@ from utils.markdown import (
 )
 from utils.files import FileClient
 
-README_PATH = Path(
+README = Path(
     os.path.realpath(os.path.join(os.path.abspath(__file__), os.pardir, "README.md"))
 )
+CSV = Path(
+    os.path.realpath(os.path.join(os.path.abspath(__file__), os.pardir, "actions.csv"))
+)
+
 
 
 def _get_parser():
@@ -22,8 +26,9 @@ def _get_parser():
         description=textwrap.dedent(
             """
         This script is used to:
-        - clean up the passed in markdown file,
-        - export the table in the passed in markdown file to a csv
+        - clean up files under /actions
+        - export the actions to a csv
+        - export the actions to the readme
 		"""
         ),
         epilog=textwrap.dedent(
@@ -67,7 +72,7 @@ def _get_parser():
 
 def update_files_from_csv():
     print(f"Updating files in the /actions folder from actions.csv...")
-    df = pd.read_csv("actions.csv")
+    df = pd.read_csv(CSV)
     actions = Actions.read_from_df(df)
     actions.to_files()
 
@@ -86,7 +91,7 @@ def update_csv_from_files():
     files = fc.get_all_files()
     actions = Actions.read_from_files(files)
     df = actions.to_df()
-    df.to_csv("actions.csv")
+    df.to_csv(CSV)
 
 
 def update_readme_from_files():
@@ -95,7 +100,7 @@ def update_readme_from_files():
     files = fc.get_all_files()
     actions = Actions.read_from_files(files)
     actions.sort()
-    readme = Path("README.md")
+    readme = Path(README)
     md_document = readme.read_text()
     md_document = update_markdown_document(md_document, Actions.action_id, actions)
     readme.write_text(md_document)
