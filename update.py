@@ -69,7 +69,6 @@ def update_files_from_csv():
     print(f"Updating files in the /actions folder from actions.csv...")
     df = pd.read_csv("actions.csv")
     actions = Actions.read_from_df(df)
-    actions.sort()
     actions.to_files()
 
 
@@ -78,7 +77,6 @@ def update_files():
     fc = FileClient()
     files = fc.get_all_files()
     actions = Actions.read_from_files(files)
-    actions.sort()
     actions.to_files()
 
 
@@ -87,7 +85,6 @@ def update_csv_from_files():
     fc = FileClient()
     files = fc.get_all_files()
     actions = Actions.read_from_files(files)
-    actions.sort()
     df = actions.to_df()
     df.to_csv("actions.csv")
 
@@ -97,7 +94,7 @@ def update_readme_from_files():
     fc = FileClient()
     files = fc.get_all_files()
     actions = Actions.read_from_files(files)
-    actions.sort(reverse=True)
+    actions.sort()
     readme = Path("README.md")
     md_document = readme.read_text()
     md_document = update_markdown_document(md_document, Actions.action_id, actions)

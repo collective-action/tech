@@ -279,26 +279,34 @@ class Actions:
         self.actions.append(action)
 
     def to_df(self) -> pd.DataFrame:
-        """ Converts this instance of Actions to a df. """
+        """ Converts this instance of Actions to a df.
+
+        This function will assert a least-recent to most-recent ordering of
+        events.
+        """
+        self.sort()
         data = []
         for action in self.actions:
             data.append(action.to_dict())
         df = pd.read_json(json.dumps(data), orient="list")
         return df[self.fields]
 
-    def to_md(self) -> None:
-        """ Convert this instance of Actions to markdown/HTML. """
-        print("H: to md is being called.")
+    def to_readme(self) -> None:
+        """ Convert this instance of Actions to markdown/HTML for the README.md.
+
+        This function will assert a most-recent to least-recent ordering of
+        events.
+        """
         soup = BeautifulSoup(f"<div id={self.action_id}></div>", "html.parser")
         table = soup.new_tag("table")
         soup.div.append(table)
 
-        def create_td_tag(tag):
+        def create_td_tag(tag) -> bs4.element.Tag:
             td = soup.new_tag("td")
             td.string = tag
             return td
 
-        def create_emoji_tag():
+        def create_emoji_tag() -> bs4.element.Tag:
             emoji = soup.new_tag("g-emoji")
             emoji["class"] = "g-emoji"
             emoji["alias"] = "link"
@@ -314,7 +322,8 @@ class Actions:
         table.append(tr)
 
         # table body
-        for action in self.actions:
+        self.sort(reverse=True)
+        for i, action in enumerate(self.actions):
             tr = soup.new_tag("tr")
 
             for meta_field in Action._meta_fields:
@@ -330,7 +339,8 @@ class Actions:
 
             td_action = soup.new_tag("td")
             a = soup.new_tag("a")
-            a["href"] = "/actions/0000.md"
+            total_actions = len(self.actions)
+            a["href"] = f"/actions/{len(self.actions) - 1 - i:04}.md"
             emoji = create_emoji_tag()
             a.append(emoji)
             td_action.append(a)
@@ -340,7 +350,12 @@ class Actions:
         return soup.prettify()
 
     def to_files(self) -> None:
-        """ Convert this instance of Actions to files. """
+        """ Convert this instance of Actions to files.
+
+        This function will assert a least-recent to most-recent ordering of
+        events.
+        """
+        self.sort()
         fc = FileClient()
         fc.remove_actions()
         for i, action in enumerate(self.actions):
