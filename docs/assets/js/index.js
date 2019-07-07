@@ -282,6 +282,7 @@ function createAndDisplayDf (data, callback) {
   let DataFrame = dfjs.DataFrame
   data.pop() // remove the last element, for some reason, papaparse loads an additional empty element
   masterDf = new DataFrame(data.slice(1), data[0])
+  masterDf = masterDf.sortBy("date", true)
   populateHtml(masterDf, null, false)
   callback()
 }
