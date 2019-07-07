@@ -5,12 +5,14 @@ import html
 import bs4
 import re
 import dateparser
+from functools import partial
 from bs4 import BeautifulSoup
 from dataclasses import dataclass, field
 from datetime import datetime
 from typing import Any, List, Dict, ClassVar, Union
 from urllib.parse import urlparse
 from .markdown import MarkdownData, MarkdownDocument
+from .files import FileClient
 
 Url = str
 
@@ -29,12 +31,14 @@ class Action:
         - create and populate action instances from markdown and dataframes
     """
 
+    # mandatory fields
     date: str
     sources: List[Url]
     action: str
     struggles: List[str]
     description: str
 
+    # optional fields
     locations: List[str] = None
     companies: List[str] = None
     workers: int = None
@@ -133,7 +137,7 @@ class Action:
             return self.__dict__.items() == other.__dict__.items()
         return False
 
-    def to_df(self) -> Dict[str, Any]:
+    def to_dict(self) -> Dict[str, Any]:
         """ Return dict of all fields serialized to string """
         return {key: self.render_df(key) for key, value in self.__dict__.items()}
 
@@ -147,9 +151,31 @@ class Action:
         else:
             return value
 
+    def to_str(self, field: str) -> str:
+        """ Convert field to string
+
+        Stringifies non-strings and lists.
+        """
+        assert (
+            field in self.__dataclass_fields__
+        ), f"Cannot serialize {field}. Not a valid field in Action."
+
+        value = self.__getattribute__(field)
+
+        ret = None
+        if field in ["date", "workers"]:
+            ret = str(value)
+        elif field in ["locations", "struggles", "companies", "tags", "sources"]:
+            ret = (
+                str(value).strip("[").strip("]").replace("'", "").replace('"', "")
+            )
+        else:
+            ret = value
+
+        return ret
+
     def to_md(self, field: str, td: bs4.element.Tag) -> str:
         """ Convert field for markdown
-
         Takes a td BeautifulSoup object and updates it according to the field
         type so that it renders correctly in markdown.
         """
@@ -179,22 +205,6 @@ class Action:
         return td
 
     @classmethod
-    def create_from_md(cls, table: bs4.element.Tag) -> "Action":
-        """ Create an Action instance from a md table. """
-        a = {}
-        trs = table.find_all("tr")
-        for key, val in table.attrs.items():
-            if key != "class":
-                a[key] = val
-        for i, tr in enumerate(trs):
-            td_key = tr.find("td", class_="field-key")
-            td_val = tr.find("td", class_="field-value")
-            val = "".join(str(e) for e in td_val.contents).strip()
-            key = "".join(str(e) for e in td_key.contents).strip()
-            a[key] = val
-        return cls(**a)
-
-    @classmethod
     def create_from_row(cls, row: pd.Series) -> "Action":
         """ Create an Action instance from a dataframe row. """
         fields = [
@@ -203,6 +213,11 @@ class Action:
             if value.type != ClassVar
         ]
         d = {key: value for key, value in row.to_dict().items() if key in fields}
+        return cls(**d)
+
+    @classmethod
+    def create_from_dict(cls, d: dict) -> "Action":
+        """ Create an action instance from a dictionary. """
         return cls(**d)
 
 
@@ -243,54 +258,96 @@ class Actions:
         self.actions.sort(*args, **kwargs)
         return self
 
-    def append(self, action: Action):
+    def append(self, action: Action) -> None:
         """ Append an action onto this instance of Actions. """
         self.actions.append(action)
 
     def to_df(self) -> pd.DataFrame:
-        """ Converts this instance of Actions to a df. """
+        """ Converts this instance of Actions to a df.
+
+        This function will assert a least-recent to most-recent ordering of
+        events.
+        """
+        self.sort()
         data = []
         for action in self.actions:
-            data.append(action.to_df())
+            data.append(action.to_dict())
         df = pd.read_json(json.dumps(data), orient="list")
         return df[self.fields]
 
-    def to_md(self):
-        """ Convert this instance of Actions to markdown/HTML. """
+    def to_readme(self) -> None:
+        """ Convert this instance of Actions to markdown/HTML for the README.md.
+
+        This function will assert a most-recent to least-recent ordering of
+        events.
+        """
         soup = BeautifulSoup(f"<div id={self.action_id}></div>", "html.parser")
-        for action in self.actions:
-            table = soup.new_tag("table")
-            soup.div.append(table)
+        table = soup.new_tag("table")
+        soup.div.append(table)
+
+        def create_td_tag(tag) -> bs4.element.Tag:
+            td = soup.new_tag("td")
+            td.string = tag
+            return td
+
+        def create_emoji_tag() -> bs4.element.Tag:
+            emoji = soup.new_tag("g-emoji")
+            emoji["class"] = "g-emoji"
+            emoji["alias"] = "link"
+            emoji["fallback-src"] = "https://github.githubassets.com/images/icons/emoji/unicode/1f517.png"
+            emoji.string = ":link:"
+            return emoji
+
+        # table header
+        tr = soup.new_tag("tr")
+        tr.append(create_td_tag("YYYYMMDD"))
+        tr.append(create_td_tag("description"))
+        tr.append(create_td_tag("link"))
+        table.append(tr)
+
+        # table body
+        self.sort(reverse=True)
+        for i, action in enumerate(self.actions):
+            tr = soup.new_tag("tr")
+
             for meta_field in Action._meta_fields:
-                table[meta_field] = action.__getattribute__(meta_field)
-            for field in self.fields:
-                if action.__getattribute__(field) is None:
-                    continue
-                if field in Action._meta_fields:
-                    continue
-                tr = soup.new_tag("tr")
-                td_key = soup.new_tag("td", attrs={"class": "field-key"})
-                td_val = soup.new_tag("td", attrs={"class": "field-value"})
-                td_key.string = field
-                td_val = action.to_md(field, td_val)
-                tr.append(td_key)
-                tr.append(td_val)
-                table.append(tr)
+                tr[meta_field] = action.__getattribute__(meta_field)
+
+            td_date = soup.new_tag("td")
+            td_date.string = action.to_str("date")
+            tr.append(td_date)
+
+            td_action = soup.new_tag("td")
+            td_action.string = action.to_str("description")
+            tr.append(td_action)
+
+            td_action = soup.new_tag("td")
+            a = soup.new_tag("a")
+            total_actions = len(self.actions)
+            a["href"] = f"/actions/{len(self.actions) - 1 - i:04}.md"
+            emoji = create_emoji_tag()
+            a.append(emoji)
+            td_action.append(a)
+            tr.append(td_action)
+
+            table.append(tr)
         return soup.prettify()
 
-    @classmethod
-    def read_from_md(cls, md_doc: MarkdownDocument) -> "Actions":
-        """ Create and populate an Actions instance from a Markdown Document. """
-        md_data = re.findall(fr'<div id="{cls.action_id}">+[\s\S]+<\/div>', md_doc)
-        assert len(md_data) == 1, f"multiple divs with id={cls.action_id} were found"
-        md_data = md_data[0]
-        soup = BeautifulSoup(md_data, "html.parser")
-        tables = soup.div.find_all("table")
-        actions = Actions()
-        for table in tables:
-            action = Action.create_from_md(table)
-            actions.append(action)
-        return actions
+    def to_files(self) -> None:
+        """ Convert this instance of Actions to files.
+
+        This function will assert a least-recent to most-recent ordering of
+        events.
+        """
+        self.sort()
+        fc = FileClient()
+        fc.remove_actions()
+        for i, action in enumerate(self.actions):
+            struggles = ""
+            for s in action.struggles:
+                struggles += f"{s},"
+            fn = f"{i:04}.md"
+            fc.save_to_file(filepath=fc.actions_folder/fn, action=action.to_dict())
 
     @staticmethod
     def read_from_df(df: pd.DataFrame) -> "Actions":
@@ -300,3 +357,16 @@ class Actions:
             action = Action.create_from_row(row)
             actions.append(action)
         return actions
+
+    @classmethod
+    def read_from_files(cls, files: List[str]) -> "Actions":
+        """ Create and populate an Actions instance from the actions folder. """
+        fc = FileClient()
+        actions = Actions()
+        for file in files:
+            action = Action.create_from_dict(
+                fc.parse_file(fc.actions_folder / file)
+            )
+            actions.append(action)
+        return actions
+

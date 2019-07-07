@@ -74,7 +74,7 @@ def update_markdown_document(
     doc: MarkdownDocument, action_id: str, actions: "Actions"
 ) -> MarkdownDocument:
     """ Replace markdown table and update summary. """
-    doc = replace_md_data(doc, action_id, actions.to_md())
+    doc = replace_md_data(doc, action_id, actions.to_readme())
     doc = update_summary_action(doc, SUMMARY_ID, "action-count", str(len(actions)))
     tz = pytz.timezone("US/Eastern")
     now = datetime.datetime.now(tz).strftime("%d/%m/%Y %I:%M%p")

@@ -33,8 +33,9 @@ steps:
 - bash: |
     source activate cait
     ls -la
-    python convert.py --update-readme
-    python convert.py --to-csv --output actions.csv
+    python update.py --files-cleanup
+    python update.py --files-to-csv
+    python update.py --files-to-readme
     git config --local user.name "Azure Pipelines"
     git config --local user.email "organizejs@gmail.com"
     git add README.md
