@@ -41,17 +41,17 @@ def _get_parser():
         formatter_class=argparse.RawDescriptionHelpFormatter,
     )
     parser.add_argument(
-        "--to-csv",
+        "--files-to-csv",
         action="store_true",
         help="Update data.csv based on the action folder."
     )
     parser.add_argument(
-        "--to-readme",
+        "--files-to-readme",
         action="store_true",
         help="Update the table in the README.md based on the action folder."
     )
     parser.add_argument(
-        "--files",
+        "--files-cleanup",
         action="store_true",
         help="Update the action folder by cleaning it up and sorting it."
     )
@@ -105,9 +105,9 @@ if __name__ == "__main__":
     args = _get_parser()
     if args.files:
         update_files()
-    if args.to_csv:
+    if args.files_to_csv:
         update_csv_from_files()
-    if args.to_readme:
+    if args.files_to_readme:
         update_readme_from_files()
     if args.csv_to_files:
         update_files_from_csv()
