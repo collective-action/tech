@@ -108,7 +108,7 @@ def update_readme_from_files():
 
 if __name__ == "__main__":
     args = _get_parser()
-    if args.files:
+    if args.files_cleanup:
         update_files()
     if args.files_to_csv:
         update_csv_from_files()
