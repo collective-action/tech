@@ -316,7 +316,7 @@ class Actions:
 
         # table header
         tr = soup.new_tag("tr")
-        tr.append(create_td_tag("date"))
+        tr.append(create_td_tag("YYYYMMDD"))
         tr.append(create_td_tag("description"))
         tr.append(create_td_tag("link"))
         table.append(tr)
