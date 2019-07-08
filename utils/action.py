@@ -128,8 +128,15 @@ class Action:
         ]
 
     def __lt__(self, other):
-        """ Used to make Actions sortable. """
-        return self.date < other.date
+        """ Used to make Actions sortable.
+
+        This will sort actions first based on the date, then based on the
+        length of the description.
+        """
+        if self.date == other.date:
+            return len(self.description) < len(other.description)
+        else:
+            return self.date < other.date
 
     def __eq__(self, other):
         """ Overrides the default implementation for equality. """
@@ -341,7 +348,7 @@ class Actions:
         """
         self.sort()
         fc = FileClient()
-        fc.remove_actions()
+        fc.remove_all_files()
         for i, action in enumerate(self.actions):
             struggles = ""
             for s in action.struggles:
@@ -364,9 +371,8 @@ class Actions:
         fc = FileClient()
         actions = Actions()
         for file in files:
-            action = Action.create_from_dict(
-                fc.parse_file(fc.actions_folder / file)
-            )
+            contents = fc.parse_file(fc.actions_folder / file)
+            action = Action.create_from_dict(contents)
             actions.append(action)
         return actions
 

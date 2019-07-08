@@ -15,7 +15,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">07/07/2019 11:38PM</td>
+    <td data-summary="timestamp">08/07/2019 03:09PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
@@ -353,12 +353,12 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     </a>
    </td>
   </tr>
-  <tr author="bentarnoff">
+  <tr author="organizejs">
    <td>
     2019-04-01
    </td>
    <td>
-    Recently fired NPM employees claim they were punished for trying to form a union. Four complaints have been filed with the National Labor Relations Board, alleging labor law violations by management.
+    A group of Google employees have called for the removal of a rightwing thinktank leader from the companies's new artificial intelligence council, citing her anti-LGBT and anti-immigrant record. Academic, civil society, and industry supporters have also signed the petition in mass.
    </td>
    <td>
     <a href="/actions/0051.md">
@@ -368,12 +368,12 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     </a>
    </td>
   </tr>
-  <tr author="organizejs">
+  <tr author="bentarnoff">
    <td>
     2019-04-01
    </td>
    <td>
-    A group of Google employees have called for the removal of a rightwing thinktank leader from the companies's new artificial intelligence council, citing her anti-LGBT and anti-immigrant record. Academic, civil society, and industry supporters have also signed the petition in mass.
+    Recently fired NPM employees claim they were punished for trying to form a union. Four complaints have been filed with the National Labor Relations Board, alleging labor law violations by management.
    </td>
    <td>
     <a href="/actions/0050.md">
