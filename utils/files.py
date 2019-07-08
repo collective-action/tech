@@ -42,6 +42,7 @@ class FileClient:
 
     def get_all_files(self) -> List[Path]:
         """ Get all the files in the actions folder. """
+        # TODO - make it so that it only returns files that end with .md
         return [
             f
             for f in os.listdir(self.actions_folder)
@@ -51,8 +52,8 @@ class FileClient:
     def parse_file(self, filepath: str) -> dict:
         """ Parses a filename in the actions folder and returns dict. """
         f = open(filepath, "r")
+        print(filepath)
         contents = f.read().strip()
-        print(contents)
         d = {}
         for row in contents.split("\n"):
             if len(row) > 0:
@@ -63,6 +64,6 @@ class FileClient:
 
     def remove_actions(self) -> None:
         """ Removes all actions from list of files. """
-        files = glob.glob(str(self.actions_folder / "*.txt"))
+        files = glob.glob(str(self.actions_folder / "*.md"))
         for file in files:
             os.remove(file)
