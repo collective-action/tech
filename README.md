@@ -15,11 +15,11 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">07/07/2019 06:54PM</td>
+    <td data-summary="timestamp">07/07/2019 08:16PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">72</td>
+    <td data-summary="action-count">74</td>
   </tr>
  </table>
 </div>
@@ -46,7 +46,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     Google workers, under the name “Ban Google From Pride,” protest their employer at Pride Parade amid controversy in the LGBTQ community over the company's harassment policies on YouTube videos.
    </td>
    <td>
-    <a href="/actions/0071.md">
+    <a href="/actions/0073.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -61,7 +61,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     Hundreds of workers at the online retailer Wayfair walked out of their jobs yesterday to protest the comapny's sale of $200,000 worth of bedroom furniture to a government contractor that operates a network of shelters for migrant children near the southwestern border. More than 500 employees signed a petition to the CEO calling for him to cease all business with the contractor and establish a code of ethics for their sales.
    </td>
    <td>
-    <a href="/actions/0070.md">
+    <a href="/actions/0072.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -74,6 +74,36 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    </td>
    <td>
     About 100 Google employees urged the organizer of this weekend's San Francisco Pride parade to kick the company out of the celebration, escalating pressure on the internet giant to overhaul its handling of hate speech online. The employees wrote a letter to the board of directors of San Francisco Pride, asking that Google be dropped as a sponsor of the parade as well as excluded from having a presence at the event.
+   </td>
+   <td>
+    <a href="/actions/0071.md">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="organizejs">
+   <td>
+    2019-06-24
+   </td>
+   <td>
+    A group of more than 30 Microsoft employees is lobbying coworkers to stop donating to the company's political action committee in an effort to starve the PAC of funds. While Microsoft pitches itself as an inclusive and progressive company — especially during Pride Month, with tweets and donations to LGBTQ+ causes — employees who have donated to the PAC say they have no control over which candidates are being supported, meaning that they have no say when the PAC financially supports bigoted candidates.
+   </td>
+   <td>
+    <a href="/actions/0070.md">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="organizejs">
+   <td>
+    2019-06-24
+   </td>
+   <td>
+    A group of more than 30 Microsoft employees is lobbying coworkers to stop donating to the company's political action committee in an effort to starve the PAC of funds. While Microsoft pitches itself as an inclusive and progressive company — especially during Pride Month, with tweets and donations to LGBTQ+ causes — employees who have donated to the PAC say they have no control over which candidates are being supported, meaning that they have no say when the PAC financially supports bigoted candidates.
    </td>
    <td>
     <a href="/actions/0069.md">
@@ -178,7 +208,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     2019-05-08
    </td>
    <td>
-    Google employees publish an open letter demanding that Alphabet CEO Larry Page "immediately and publicly address the Walkout’s demands, and recommit Google to meeting them." The list of demands also asks for the company to allow Meredith to continue her work, fully funded, as before and to allow Claire to change teams without further retaliation. The letter calls out the broken nature of the HR department at Google, and demands for an open and transparent investigation on the department.
+    Three Muslim Somali Workers at Amazon File Federal Discrimination Complaint, accusing the company of creating a hostile environment for Muslim workers and of retaliating against them for protesting their work conditions. These are the same workers who in December of 2018 protested against Amazon.
    </td>
    <td>
     <a href="/actions/0062.md">
@@ -208,7 +238,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     2019-05-08
    </td>
    <td>
-    Three Muslim Somali Workers at Amazon File Federal Discrimination Complaint, accusing the company of creating a hostile environment for Muslim workers and of retaliating against them for protesting their work conditions. These are the same workers who in December of 2018 protested against Amazon.
+    Google employees publish an open letter demanding that Alphabet CEO Larry Page "immediately and publicly address the Walkout’s demands, and recommit Google to meeting them." The list of demands also asks for the company to allow Meredith to continue her work, fully funded, as before and to allow Claire to change teams without further retaliation. The letter calls out the broken nature of the HR department at Google, and demands for an open and transparent investigation on the department.
    </td>
    <td>
     <a href="/actions/0060.md">
@@ -338,12 +368,12 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     </a>
    </td>
   </tr>
-  <tr author="bentarnoff">
+  <tr author="organizejs">
    <td>
     2019-04-01
    </td>
    <td>
-    Recently fired NPM employees claim they were punished for trying to form a union. Four complaints have been filed with the National Labor Relations Board, alleging labor law violations by management.
+    A group of Google employees have called for the removal of a rightwing thinktank leader from the companies's new artificial intelligence council, citing her anti-LGBT and anti-immigrant record. Academic, civil society, and industry supporters have also signed the petition in mass.
    </td>
    <td>
     <a href="/actions/0051.md">
@@ -353,12 +383,12 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     </a>
    </td>
   </tr>
-  <tr author="organizejs">
+  <tr author="bentarnoff">
    <td>
     2019-04-01
    </td>
    <td>
-    A group of Google employees have called for the removal of a rightwing thinktank leader from the companies's new artificial intelligence council, citing her anti-LGBT and anti-immigrant record. Academic, civil society, and industry supporters have also signed the petition in mass.
+    Recently fired NPM employees claim they were punished for trying to form a union. Four complaints have been filed with the National Labor Relations Board, alleging labor law violations by management.
    </td>
    <td>
     <a href="/actions/0050.md">
@@ -508,7 +538,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     2018-11-23
    </td>
    <td>
-    A group of Instacart delivery workers is waging an ongoing "soft strike" against the companies to demand better pay this Thanksgiving weekend for the third year in a row. The workers, who are independent contractors, say a recent change to the grocery delivery platform's pay structure was an effective pay cut that’s threatening their livelihoods. As a result, they’re refusing to deliver extra-heavy items, drive more than eight miles per order, or accept time-consuming, low-paying jobs. A group of delivery workers wrote  a letter sent to Instacart CEO Apoorva Mehta. The letter currently has more than 1,300 signatures on Change.org.
+    Thousands of Amazon staff members across Europe protest on Black Friday over the way the companies treats its warehouse workers.
    </td>
    <td>
     <a href="/actions/0040.md">
@@ -523,7 +553,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     2018-11-23
    </td>
    <td>
-    Thousands of Amazon staff members across Europe protest on Black Friday over the way the companies treats its warehouse workers.
+    A group of Instacart delivery workers is waging an ongoing "soft strike" against the companies to demand better pay this Thanksgiving weekend for the third year in a row. The workers, who are independent contractors, say a recent change to the grocery delivery platform's pay structure was an effective pay cut that’s threatening their livelihoods. As a result, they’re refusing to deliver extra-heavy items, drive more than eight miles per order, or accept time-consuming, low-paying jobs. A group of delivery workers wrote  a letter sent to Instacart CEO Apoorva Mehta. The letter currently has more than 1,300 signatures on Change.org.
    </td>
    <td>
     <a href="/actions/0039.md">
