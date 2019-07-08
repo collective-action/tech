@@ -16,6 +16,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
   <tr>
     <td>Last Updated</td>
     <td data-summary="timestamp">08/07/2019 03:09PM</td>
+    <td data-summary="timestamp">08/07/2019 11:36AM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
@@ -58,7 +59,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     2019-06-26
    </td>
    <td>
-    Hundreds of workers at the online retailer Wayfair walked out of their jobs yesterday to protest the comapny's sale of $200,000 worth of bedroom furniture to a government contractor that operates a network of shelters for migrant children near the southwestern border. More than 500 employees signed a petition to the CEO calling for him to cease all business with the contractor and establish a code of ethics for their sales.
+    About 100 Google employees urged the organizer of this weekend's San Francisco Pride parade to kick the company out of the celebration, escalating pressure on the internet giant to overhaul its handling of hate speech online. The employees wrote a letter to the board of directors of San Francisco Pride, asking that Google be dropped as a sponsor of the parade as well as excluded from having a presence at the event.
    </td>
    <td>
     <a href="/actions/0071.md">
@@ -73,7 +74,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     2019-06-26
    </td>
    <td>
-    About 100 Google employees urged the organizer of this weekend's San Francisco Pride parade to kick the company out of the celebration, escalating pressure on the internet giant to overhaul its handling of hate speech online. The employees wrote a letter to the board of directors of San Francisco Pride, asking that Google be dropped as a sponsor of the parade as well as excluded from having a presence at the event.
+    Hundreds of workers at the online retailer Wayfair walked out of their jobs yesterday to protest the comapny's sale of $200,000 worth of bedroom furniture to a government contractor that operates a network of shelters for migrant children near the southwestern border. More than 500 employees signed a petition to the CEO calling for him to cease all business with the contractor and establish a code of ethics for their sales.
    </td>
    <td>
     <a href="/actions/0070.md">
@@ -193,7 +194,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     2019-05-08
    </td>
    <td>
-    Google employees publish an open letter demanding that Alphabet CEO Larry Page "immediately and publicly address the Walkout’s demands, and recommit Google to meeting them." The list of demands also asks for the company to allow Meredith to continue her work, fully funded, as before and to allow Claire to change teams without further retaliation. The letter calls out the broken nature of the HR department at Google, and demands for an open and transparent investigation on the department.
+    But for the past seven months, roughly a dozen moderators in the United States have been spearheading a quiet campaign inside the social media giant to air their grievances about unsatisfactory working conditions and their status as second-class citizens. The contractors, who have not previously spoken publicly about their efforts, are using their access to Facebook Workplace, the social network’s internal communication system, to wage their battle.
    </td>
    <td>
     <a href="/actions/0062.md">
@@ -208,7 +209,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     2019-05-08
    </td>
    <td>
-    But for the past seven months, roughly a dozen moderators in the United States have been spearheading a quiet campaign inside the social media giant to air their grievances about unsatisfactory working conditions and their status as second-class citizens. The contractors, who have not previously spoken publicly about their efforts, are using their access to Facebook Workplace, the social network’s internal communication system, to wage their battle.
+    Google employees publish an open letter demanding that Alphabet CEO Larry Page "immediately and publicly address the Walkout’s demands, and recommit Google to meeting them." The list of demands also asks for the company to allow Meredith to continue her work, fully funded, as before and to allow Claire to change teams without further retaliation. The letter calls out the broken nature of the HR department at Google, and demands for an open and transparent investigation on the department.
    </td>
    <td>
     <a href="/actions/0061.md">
