@@ -1,6 +1,6 @@
 - date: 2019-01-17
 - sources: https://www.businessinsider.com/instacart-workers-request-22-cent-tips-protest-2019-1, https://actionnetwork.org/petitions/instacart-heres-our-22-cents-no-more-tip-theft-low-pay-and-black-box-pay-algorithms
-- action: open_letter, protest
+- action: open_letter
 - struggles: pay_and_benefits
 - description: 150 Instacart workers have started a petition to protest changes in how they are paid. The petition urges the company to change this policy. It also encourages Instacart users to pay "shoppers" the minimum $0.22 tip through the app and to pay the remainder of the tip in cash to ensure the tip amount primarily goes to workers.
 - locations: online
