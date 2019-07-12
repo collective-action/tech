@@ -15,11 +15,11 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">08/07/2019 08:47PM</td>
+    <td data-summary="timestamp">11/07/2019 08:06PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">74</td>
+    <td data-summary="action-count">75</td>
   </tr>
  </table>
 </div>
@@ -36,6 +36,21 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    </td>
    <td>
     link
+   </td>
+  </tr>
+  <tr author="organizejs">
+   <td>
+    2019-07-11
+   </td>
+   <td>
+    Hundreds of protestors demonstrated outside of the annual Amazon Web Services summit in New York, demanding the tech giant cut ties with government agencies that take part in immigrant deportations. The demonstrators, including Amazon warehouse workers, other tech employees, and immigrants outside the tech world, are calling on Amazon to cease its relationships with the US Immigration and Customs Enforcement (ICE) and the Department of Homeland Security.
+   </td>
+   <td>
+    <a href="/actions/0074.md">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
    </td>
   </tr>
   <tr author="organizejs">
