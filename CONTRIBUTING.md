@@ -78,7 +78,7 @@ When you make a pull request, the request will trigger an Azure pipeline to kick
 
 > The cleanup/update uses the `update.py` file described in the "Developer Feature" section below
 
-After the azure pipeline performs these steps, it will automatically add the changes to the PR.
+Shortly after the PR is accepted, you should see your newly added action on the website. The website relies on the `actions.csv` file, so as soon as that file is updated in the CI pipeline, the action should also be reflected on the website. 
 
 ## Developer Features
 
