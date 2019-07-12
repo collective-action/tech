@@ -25,17 +25,17 @@ include, add it in the description field.
 
 > Take note of the plurality of the fields. `action` is singular while `sources` is plural. 
 
-| Field | Required | Description |
-| --- | --- | --- |
-| date | True | While the date may seem trivial, collecting dates may be comlex for multi-day events such as pickets or online petitions. In this repo, we collect only the start date of the action in the format YYYY-MM-DD. |
-| sources | True | The url(s) of reliable sources that has reported on this event. |
-| action | True | What was the form of the action that took place? (`union_drive`, `union_representation`, `open_letter`, `strike`, `protest`, `legal_action`)|
-| struggles | True | The kind of struggle workers are standing up against. (`pay_and_benefits`, `working_conditions`, `unfair_labor_practices`, `job_security`, `ethics`, `discrimination`)| 
-| description | True | A short sentence describing the event where you can include information that isn't covered in the fields above. |
-| locations | False | The location(s) of the action, or whether it was online. |
-| companies | False | Which company are workers are standing up against? Some moments of worker power may not have an associated company. For example, online petitions or a protests against the president may consist of workers from an amalgamation of companies. In which case we can omit this field. |
-| workers | False | The number of workers active in the action. Since we're only looking at collective actions, the number must be more than 1. Sometimes the sources do not state a concrete number when reporting. In those cases, lean on the conservative side. For example: "Hundreds of Uber drivers..." --> 100 |
-| tags | False | Tag the event with a term or word that you feel is relevant but not captured by the other fields. |
+| Field | Required | Type | Description |
+| --- | --- | --- | --- |
+| date | True | YYYY-MM-DD | While the date may seem trivial, collecting dates may be comlex for multi-day events such as pickets or online petitions. In this repo, we collect only the start date of the action in the format YYYY-MM-DD. |
+| sources | True | List(url) | The url(s) of reliable sources that has reported on this event. |
+| action | True | str | What was the form of the action that took place? (`union_drive`, `union_representation`, `open_letter`, `strike`, `protest`, `legal_action`)|
+| struggles | True | List(str) | The kind of struggle workers are standing up against. (`pay_and_benefits`, `working_conditions`, `unfair_labor_practices`, `job_security`, `ethics`, `discrimination`)| 
+| description | True | str | A short paragraph describing the event where you can include information that isn't covered in the fields above. Multiple paragraphs are not allowed in this field. |
+| locations | False | List(str) | The location(s) of the action, or whether it was online. |
+| companies | False | List(str) | Which company are workers are standing up against? Some moments of worker power may not have an associated company. For example, online petitions or a protests against the president may consist of workers from an amalgamation of companies. In which case we can omit this field. |
+| workers | False | int | The number of workers active in the action. Since we're only looking at collective actions, the number must be more than 1. Sometimes the sources do not state a concrete number when reporting. In those cases, lean on the conservative side. For example: "Hundreds of Uber drivers..." --> 100 |
+| tags | False | List(str) | Tag the event with a term or word that you feel is relevant but not captured by the other fields. |
 
 In the table above, `action` and `struggles` must contain only the following values:
 
