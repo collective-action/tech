@@ -15,11 +15,11 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">12/07/2019 01:00PM</td>
+    <td data-summary="timestamp">12/07/2019 01:15PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">76</td>
+    <td data-summary="action-count">77</td>
   </tr>
  </table>
 </div>
@@ -46,7 +46,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     Amazon employees sent out an internal email calling on Amazon to stop working with the big data company Palantir, which works with federal agency Immigration and Customs Enforcement (ICE). This email, sent to employee mailing lists within Amazon Web Services, demanded that Palantir be removed from Amazon's cloud for violating its terms of service. It also called on Amazon to take a stand against ICE by making a statement establishing its position against immigration raids, deportations, and camps for migrants at the border.
    </td>
    <td>
-    <a href="/actions/0075.md">
+    <a href="/actions/0076.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -61,7 +61,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     Hundreds of protestors, including those from the Tech Workers Coalotion, demonstrated outside of the annual Amazon Web Services summit in New York, demanding the tech giant cut ties with government agencies that take part in immigrant deportations. The demonstrators, including Amazon warehouse workers, other tech employees, and immigrants outside the tech world, are calling on Amazon to cease its relationships with the US Immigration and Customs Enforcement (ICE) and the Department of Homeland Security.
    </td>
    <td>
-    <a href="/actions/0074.md">
+    <a href="/actions/0075.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -76,7 +76,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     Google workers, under the name “Ban Google From Pride,” protest their employer at Pride Parade amid controversy in the LGBTQ community over the company's harassment policies on YouTube videos.
    </td>
    <td>
-    <a href="/actions/0073.md">
+    <a href="/actions/0074.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -91,7 +91,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     Hundreds of workers at the online retailer Wayfair walked out of their jobs yesterday to protest the comapny's sale of $200,000 worth of bedroom furniture to a government contractor that operates a network of shelters for migrant children near the southwestern border. More than 500 employees signed a petition to the CEO calling for him to cease all business with the contractor and establish a code of ethics for their sales.
    </td>
    <td>
-    <a href="/actions/0072.md">
+    <a href="/actions/0073.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -106,7 +106,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     About 100 Google employees urged the organizer of this weekend's San Francisco Pride parade to kick the company out of the celebration, escalating pressure on the internet giant to overhaul its handling of hate speech online. The employees wrote a letter to the board of directors of San Francisco Pride, asking that Google be dropped as a sponsor of the parade as well as excluded from having a presence at the event.
    </td>
    <td>
-    <a href="/actions/0071.md">
+    <a href="/actions/0072.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -121,7 +121,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     A group of more than 30 Microsoft employees is lobbying coworkers to stop donating to the company's political action committee in an effort to starve the PAC of funds. While Microsoft pitches itself as an inclusive and progressive company — especially during Pride Month, with tweets and donations to LGBTQ+ causes — employees who have donated to the PAC say they have no control over which candidates are being supported, meaning that they have no say when the PAC financially supports bigoted candidates.
    </td>
    <td>
-    <a href="/actions/0070.md">
+    <a href="/actions/0071.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -134,6 +134,21 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    </td>
    <td>
     Google employees protest at Alphabet's shareholder meeting, joining community activists in demanding change from Google on how it handles sexual harassment in the workplace and its plans to build a censored search engine for China. Around 100 Google employees and community activists also protested as a united group outside Alphabet headquarters during the meeting. Google employees; labor and activist coalition Silicon Valley Rising; SEIU-USWW (a union representing janitorial staff and security officers); and local community groups helped organize the rally outside the meeting.
+   </td>
+   <td>
+    <a href="/actions/0070.md">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="nataliyaned">
+   <td>
+    2019-06-15
+   </td>
+   <td>
+    "Thousands" of Postmates employees activated a Blitz Up app on June 15. The app prevented them from taking any delivery jobs without a "Blitz bonus" of 1.5x the typical rate. The action was taken to protest pay cuts that went into effect May 2019. Blitz Up was created by the Pay Up Campaign, a group of Instacart workers that organized to protest pay cuts in January 2019.
    </td>
    <td>
     <a href="/actions/0069.md">
