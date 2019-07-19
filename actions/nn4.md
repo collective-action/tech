@@ -1,0 +1,10 @@
+- date: 2014-03-03
+- sources: https://www.sfchronicle.com/business/article/Facebook-cafeteria-workers-protest-pay-hours-in-14100891.php, https://www.sfexaminer.com/the-city/facebook-cafeteria-workers-call-out-social-media-giant/
+- action: protest
+- struggles: pay_and_benefits
+- description: Some of Facebook's cafeteria workers on Tuesday picketed at the social network's downtown office, following months of negotiations over higher wages and a shorter work day. The group’s union, Unite Here Local 2, says employees of food service operator Flagship Facility Services have to work multiple jobs to make ends meet in the nation's highest-cost rental market. Several dozen workers and allies, including a handful of Google and Facebook employee, marched outside the building’s doors as the work day let out. 
+- locations: san_francisco
+- companies: facebook
+- workers: 50
+- tags: unite_here, cafeteria_workers, fte_solidarity
+- author: organizejs
