@@ -1,0 +1,10 @@
+- date: 2019-04-19
+- sources: https://www.nottinghampost.com/news/nottingham-news/deliveroo-riders-take-nottingham-city-2754676
+- action: protest
+- struggles: working_conditions, pay_and_benefits
+- description: Deliveroo riders took to Nottingham city centre again to protest for improved working and pay conditions. Protesters are growing frustrated with a "lack of communication" and an "unwillingness to have their demands listened to" by the food delivery company.
+- locations: nottingham
+- companies: deliveroo
+- workers: 10
+- tags: delivery
+- author: organizejs
