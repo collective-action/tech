@@ -15,11 +15,11 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">21/07/2019 06:49AM</td>
+    <td data-summary="timestamp">21/07/2019 06:55AM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">85</td>
+    <td data-summary="action-count">86</td>
   </tr>
  </table>
 </div>
@@ -36,6 +36,21 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    </td>
    <td>
     link
+   </td>
+  </tr>
+  <tr author="nataliyaned">
+   <td>
+    2019-07-16
+   </td>
+   <td>
+    Cafeteria workers from Facebook's downtown San Francisco office picketed for higher wages, shorter working days, and improved healthcare coverage. The actions followed months of negotiation with the group's union Unite Here Local 2. The employees, who are contracted by Facebook through Flagship Facility Services, cited the high cost of living in the Bay Area and their need to work multiple jobs as motivations for the protest.
+   </td>
+   <td>
+    <a href="/actions/0085.md">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
    </td>
   </tr>
   <tr author="organizejs">
