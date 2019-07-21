@@ -15,11 +15,11 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">19/07/2019 04:44AM</td>
+    <td data-summary="timestamp">21/07/2019 06:49AM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">84</td>
+    <td data-summary="action-count">85</td>
   </tr>
  </table>
 </div>
@@ -46,7 +46,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     Amazon employees, many who are Somali-American workers, at a fulfillment center outside Minneapolis are calling on the company to improve safety and benefits on one of the top sales days of the year. 100 fulfillment workers and labor groups outside the cavernous warehouse are protesting the company's working conditions, benefits and corporate culture. The demonstration is planned for the first day of Prime Day, one of Amazon's flagship shopping events that generates billions of dollars in sales for the retail giant. White collar employees from Amazon HQ (of the group Amazon Employees for Climate Justice) in Seattle are flying out to support the protesters.
    </td>
    <td>
-    <a href="/actions/0083.md">
+    <a href="/actions/0084.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -61,7 +61,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     Amazon employees of DCH1 Amazonians United sign a petition to demand that their site leader meet with them to discuss providing the appropriate measures for days of excessive heat, among other issues. The top 3 are: 1) Prime Pay for Prime Days. 2) Health Insurance. 3) Getting A/C
    </td>
    <td>
-    <a href="/actions/0082.md">
+    <a href="/actions/0083.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -76,7 +76,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     Amazon employees sent out an internal email calling on Amazon to stop working with the big data company Palantir, which works with federal agency Immigration and Customs Enforcement (ICE). This email, sent to employee mailing lists within Amazon Web Services, demanded that Palantir be removed from Amazon's cloud for violating its terms of service. It also called on Amazon to take a stand against ICE by making a statement establishing its position against immigration raids, deportations, and camps for migrants at the border.
    </td>
    <td>
-    <a href="/actions/0081.md">
+    <a href="/actions/0082.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -89,6 +89,21 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    </td>
    <td>
     Hundreds of protestors, including those from the Tech Workers Coalition, demonstrated outside of the annual Amazon Web Services summit in New York, demanding the tech giant cut ties with government agencies that take part in immigrant deportations. The demonstrators, including Amazon warehouse workers, other tech employees, and immigrants outside the tech world, are calling on Amazon to cease its relationships with the US Immigration and Customs Enforcement (ICE) and the Department of Homeland Security.
+   </td>
+   <td>
+    <a href="/actions/0081.md">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="nataliyaned">
+   <td>
+    2019-07-10
+   </td>
+   <td>
+    Hundreds of Uber and Lyft drivers from the Bay Area traveled to Sacramento to persuade legislators to vote in favor of Assembly Bill 5. This piece of legislation would require rideshare companies to extend employee benefits to their drivers, who are currently classified as independent contractors. Workers protested outside the Capitol building, spoke at a public comment session, and met with individual legislators to argue for the passing the bill. A separate coalition of drivers was organized to protest the bill on the grounds of maintaining flexible working hours. Uber encouraged drivers to attend an opposition rally via in-app notification, and both Uber and Lyft offered funding to cover certain fees associated with attending the rally. The Senate Labor Committee ultimately voted to pass the bill, sending it to the Senate floor.
    </td>
    <td>
     <a href="/actions/0080.md">
