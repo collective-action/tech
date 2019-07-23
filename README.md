@@ -15,11 +15,11 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">23/07/2019 01:31PM</td>
+    <td data-summary="timestamp">23/07/2019 02:38PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">85</td>
+    <td data-summary="action-count">86</td>
   </tr>
  </table>
 </div>
@@ -44,6 +44,21 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    </td>
    <td>
     Cafeteria workers from Facebook's downtown San Francisco office picketed for higher wages, shorter working days, and improved healthcare coverage. The actions followed months of negotiation with the group's union Unite Here Local 2. The employees, who are contracted by Facebook through Flagship Facility Services, cited the high cost of living in the Bay Area and their need to work multiple jobs as motivations for the protest. Full-time employees from Google and Facebook joined the protest in support.
+   </td>
+   <td>
+    <a href="/actions/0085.md">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="organizejs">
+   <td>
+    2019-07-16
+   </td>
+   <td>
+    Rideshare drivers in Nairobi have gone on strike because of what they describe as low wages and poor working conditions. They are protesting unfair commissions from US-based Uber, Estonian firm Bold (formerly Taxify) and locally owned Little Cab. The strike entered its second week, continuing the protest over pitiable rates for the drivers.
    </td>
    <td>
     <a href="/actions/0084.md">
