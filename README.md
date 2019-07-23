@@ -15,11 +15,11 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">23/07/2019 02:49PM</td>
+    <td data-summary="timestamp">23/07/2019 02:57PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">87</td>
+    <td data-summary="action-count">88</td>
   </tr>
  </table>
 </div>
@@ -46,7 +46,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     Cafeteria workers from Facebook's downtown San Francisco office picketed for higher wages, shorter working days, and improved healthcare coverage. The actions followed months of negotiation with the group's union Unite Here Local 2. The employees, who are contracted by Facebook through Flagship Facility Services, cited the high cost of living in the Bay Area and their need to work multiple jobs as motivations for the protest. Full-time employees from Google and Facebook joined the protest in support.
    </td>
    <td>
-    <a href="/actions/0086.md">
+    <a href="/actions/0087.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -61,7 +61,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     Rideshare drivers in Nairobi have gone on strike because of what they describe as low wages and poor working conditions. They are protesting unfair commissions from US-based Uber, Estonian firm Bold (formerly Taxify) and locally owned Little Cab. The strike entered its second week, continuing the protest over pitiable rates for the drivers.
    </td>
    <td>
-    <a href="/actions/0085.md">
+    <a href="/actions/0086.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -76,7 +76,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     Amazon employees, many who are Somali-American workers, at a fulfillment center outside Minneapolis are calling on the company to improve safety and benefits on one of the top sales days of the year. 100 fulfillment workers and labor groups outside the cavernous warehouse are protesting the company's working conditions, benefits and corporate culture. The demonstration is planned for the first day of Prime Day, one of Amazon's flagship shopping events that generates billions of dollars in sales for the retail giant. White collar employees from Amazon HQ (of the group Amazon Employees for Climate Justice) in Seattle are flying out to support the protesters.
    </td>
    <td>
-    <a href="/actions/0084.md">
+    <a href="/actions/0085.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -91,7 +91,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     Amazon employees of DCH1 Amazonians United sign a petition to demand that their site leader meet with them to discuss providing the appropriate measures for days of excessive heat, among other issues. The top 3 are: 1) Prime Pay for Prime Days. 2) Health Insurance. 3) Getting A/C
    </td>
    <td>
-    <a href="/actions/0083.md">
+    <a href="/actions/0084.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -106,7 +106,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     Amazon employees sent out an internal email calling on Amazon to stop working with the big data company Palantir, which works with federal agency Immigration and Customs Enforcement (ICE). This email, sent to employee mailing lists within Amazon Web Services, demanded that Palantir be removed from Amazon's cloud for violating its terms of service. It also called on Amazon to take a stand against ICE by making a statement establishing its position against immigration raids, deportations, and camps for migrants at the border.
    </td>
    <td>
-    <a href="/actions/0082.md">
+    <a href="/actions/0083.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -121,7 +121,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     Hundreds of protestors, including those from the Tech Workers Coalition, demonstrated outside of the annual Amazon Web Services summit in New York, demanding the tech giant cut ties with government agencies that take part in immigrant deportations. The demonstrators, including Amazon warehouse workers, other tech employees, and immigrants outside the tech world, are calling on Amazon to cease its relationships with the US Immigration and Customs Enforcement (ICE) and the Department of Homeland Security.
    </td>
    <td>
-    <a href="/actions/0081.md">
+    <a href="/actions/0082.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -136,7 +136,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     Hundreds of Uber and Lyft drivers from the Bay Area traveled to Sacramento to persuade legislators to vote in favor of Assembly Bill 5. This piece of legislation would require rideshare companies to extend employee benefits to their drivers, who are currently classified as independent contractors. Workers protested outside the Capitol building, spoke at a public comment session, and met with individual legislators to argue for the passing the bill. A separate coalition of drivers was organized to protest the bill on the grounds of maintaining flexible working hours. Uber encouraged drivers to attend an opposition rally via in-app notification, and both Uber and Lyft offered funding to cover certain fees associated with attending the rally. The Senate Labor Committee ultimately voted to pass the bill, sending it to the Senate floor.
    </td>
    <td>
-    <a href="/actions/0080.md">
+    <a href="/actions/0081.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -151,7 +151,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     Google workers, under the name “Ban Google From Pride,” protest their employer at Pride Parade amid controversy in the LGBTQ community over the company's harassment policies on YouTube videos.
    </td>
    <td>
-    <a href="/actions/0079.md">
+    <a href="/actions/0080.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -166,7 +166,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     Hundreds of workers at the online retailer Wayfair walked out of their jobs yesterday to protest the comapny's sale of $200,000 worth of bedroom furniture to a government contractor that operates a network of shelters for migrant children near the southwestern border. More than 500 employees signed a petition to the CEO calling for him to cease all business with the contractor and establish a code of ethics for their sales.
    </td>
    <td>
-    <a href="/actions/0078.md">
+    <a href="/actions/0079.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -181,7 +181,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     About 100 Google employees urged the organizer of this weekend's San Francisco Pride parade to kick the company out of the celebration, escalating pressure on the internet giant to overhaul its handling of hate speech online. The employees wrote a letter to the board of directors of San Francisco Pride, asking that Google be dropped as a sponsor of the parade as well as excluded from having a presence at the event.
    </td>
    <td>
-    <a href="/actions/0077.md">
+    <a href="/actions/0078.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -196,7 +196,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     A group of more than 30 Microsoft employees is lobbying coworkers to stop donating to the company's political action committee in an effort to starve the PAC of funds. While Microsoft pitches itself as an inclusive and progressive company — especially during Pride Month, with tweets and donations to LGBTQ+ causes — employees who have donated to the PAC say they have no control over which candidates are being supported, meaning that they have no say when the PAC financially supports bigoted candidates.
    </td>
    <td>
-    <a href="/actions/0076.md">
+    <a href="/actions/0077.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -211,7 +211,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     Google employees protest at Alphabet's shareholder meeting, joining community activists in demanding change from Google on how it handles sexual harassment in the workplace and its plans to build a censored search engine for China. Around 100 Google employees and community activists also protested as a united group outside Alphabet headquarters during the meeting. Google employees; labor and activist coalition Silicon Valley Rising; SEIU-USWW (a union representing janitorial staff and security officers); and local community groups helped organize the rally outside the meeting.
    </td>
    <td>
-    <a href="/actions/0075.md">
+    <a href="/actions/0076.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -226,7 +226,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     "Thousands" of Postmates employees activated a Blitz Up app on June 15. The app prevented them from taking any delivery jobs without a "Blitz bonus" of 1.5x the typical rate. The action was taken to protest pay cuts that went into effect May 2019. Blitz Up was created by the Pay Up Campaign, a group of Instacart workers that organized to protest pay cuts in January 2019.
    </td>
    <td>
-    <a href="/actions/0074.md">
+    <a href="/actions/0075.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -241,7 +241,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     Food delivery staff working in Japan for ride-hailing company Uber Technologies Inc. said Wednesday they plan to form a labor union in a bid to improve what they see as disadvantageous treatment for being classified as independent contractors rather than employees.
    </td>
    <td>
-    <a href="/actions/0073.md">
+    <a href="/actions/0074.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -254,6 +254,21 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    </td>
    <td>
     Bikes Make Life Better (BMLB) contract staff working at Facebook started organizing with the Transport Workers Union, seeking to improve their pay and their safety. The union claims BMLB management has responded with intimidation tactics, including holding mandatory anti-union meetings in which they tell workers that they can’t talk about organizing at work, and if they become unionized, they could lose their contract with Facebook and therefore their jobs.
+   </td>
+   <td>
+    <a href="/actions/0073.md">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="organizejs">
+   <td>
+    2019-05-27
+   </td>
+   <td>
+    Spanish on-demand delivery startup Glovo is facing angry protests from couriers on its platform following the death of a 22-year-old rider in Barcelona where the business is headquartered. The victim was a Nepalese national called Pujan Koirala, who had been substituting for a registered Glovo courier at the time he was struck and killed by a garbage truck.
    </td>
    <td>
     <a href="/actions/0072.md">
