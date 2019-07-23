@@ -1,0 +1,10 @@
+- date: 2018-06-08
+- sources: https://clb.org.hk/content/didi-drivers-china-protest-pay-cuts-and-restrictive-work-practices
+- action: strike
+- struggles: pay_and_benefits
+- description: Nearly one hundred Didi drivers gathered in front of the company office in Hangzhou, Zhejiang, on 8 June protesting its new “guarantee scheme.” The scheme, rolled out in April, claimed to provide drivers with a stable income but required them to work at least ten hours a day. Didi then gradually reduced the orders for those drivers who refused to join the new scheme, sparking anger among drivers who wanted to maintain a more flexible work schedule. One driver said his income had fallen by 5,000 yuan as a result of the new system.
+- locations: hangzhou, zhejiang, china
+- companies: didi
+- workers: 90
+- tags: rideshare, drivers
+- author: organizejs
