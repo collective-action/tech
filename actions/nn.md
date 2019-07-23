@@ -1,0 +1,10 @@
+- date: 2019-07-16
+- sources: https://www.bbc.com/news/av/world-africa-49008968/uber-drivers-in-nairobi-explain-why-they-are-on-strike, https://www.businessdailyafrica.com/corporate/companies/Digital-taxis-strike-enters-second-week/4003102-5206366-rbvf36/index.html
+- action: strike
+- struggles: pay_and_benefits, working_conditions
+- description: Rideshare drivers in Nairobi have gone on strike because of what they describe as low wages and poor working conditions. They are protesting unfair commissions from US-based Uber, Estonian firm Bold (formerly Taxify) and locally owned Little Cab. The strike entered its second week, continuing the protest over pitiable rates for the drivers.
+- locations: nairobi
+- companies: uber, bolt, little_cab
+- workers: 30
+- tags: drivers
+- author: organizejs
