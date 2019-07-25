@@ -1,0 +1,11 @@
+- date: 2018-06-12
+- sources: https://www.reuters.com/article/legal-us-otc-uber/forced-into-arbitration-12500-drivers-claim-uber-wont-pay-fees-to-launch-cases-idUSKBN1O52C6, https://boingboing.net/2018/12/09/justice-denied.html
+- action: protest
+- struggles: pay_and_benefits, working_conditions
+- description: For Uber drivers, the only way to go after the company for alleged state and federal employment law violations was to file an independent arbitration claim. Amazingly, thousands of Uber drivers did just that. 12,501 Uber drivers took the company at its word and filed arbitration claims in California. Under the terms of the contract that Uber crammed down these drivers' throats, it must now pay $1,500 per driver to JAMS, the arbitration service it uses -- a total of $18.7m.
+- locations: usa
+- companies: uber
+- workers: 12500
+- tags: rideshare, drivers
+- author: organizejs
+
