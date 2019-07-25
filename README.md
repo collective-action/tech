@@ -15,7 +15,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">25/07/2019 12:46AM</td>
+    <td data-summary="timestamp">25/07/2019 02:09PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
@@ -208,7 +208,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     2019-06-24
    </td>
    <td>
-    A group of more than 30 Microsoft employees is lobbying coworkers to stop donating to the company's political action committee in an effort to starve the PAC of funds. While Microsoft pitches itself as an inclusive and progressive company — especially during Pride Month, with tweets and donations to LGBTQ+ causes — employees who have donated to the PAC say they have no control over which candidates are being supported, meaning that they have no say when the PAC financially supports bigoted candidates.
+    A group of more than 30 Microsoft employees is lobbying coworkers to stop donating to the company's political action committee in an effort to starve the PAC of funds. While Microsoft pitches itself as an inclusive and progressive company — especially during Pride Month, with tweets and donations to LGBTQ+ causes — employees who have donated to the PAC say they have no control over which candidates are being supported, meaning that they have no say when the PAC financially supports bigoted candidates. On July 2019, Microsoft has temporarily halted political donations through its political action committee after facing this backlash from employees.
    </td>
    <td>
     <a href="/actions/0081.md">
