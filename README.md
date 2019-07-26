@@ -15,7 +15,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">25/07/2019 02:09PM</td>
+    <td data-summary="timestamp">26/07/2019 07:03PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
@@ -715,10 +715,10 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
   </tr>
   <tr author="organizejs">
    <td>
-    2018-11-27
+    2018-12-06
    </td>
    <td>
-    Google employees have signed an open letter published Tuesday on Medium demanding that the companies cease work on Project Dragonfly, which is aimed at creating a search engine that the Chinese government would be able to control to censor certain results and surveil users. "International human rights organizations and investigative reporters have also sounded the alarm, emphasizing serious human rights concerns and repeatedly calling on Google to cancel the project," the letter reads in part. "So far, our leadership's response has been unsatisfactory."
+    For Uber drivers, the only way to go after the company for alleged state and federal employment law violations was to file an independent arbitration claim. Amazingly, thousands of Uber drivers did just that. 12,501 Uber drivers took the company at its word and filed arbitration claims in California. Under the terms of the contract that Uber crammed down these drivers' throats, it must now pay $1,500 per driver to JAMS, the arbitration service it uses -- a total of $18.7m.
    </td>
    <td>
     <a href="/actions/0047.md">
@@ -730,10 +730,10 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
   </tr>
   <tr author="organizejs">
    <td>
-    2018-11-23
+    2018-11-27
    </td>
    <td>
-    A group of Instacart delivery workers is waging an ongoing "soft strike" against the companies to demand better pay this Thanksgiving weekend for the third year in a row. The workers, who are independent contractors, say a recent change to the grocery delivery platform's pay structure was an effective pay cut that’s threatening their livelihoods. As a result, they’re refusing to deliver extra-heavy items, drive more than eight miles per order, or accept time-consuming, low-paying jobs. A group of delivery workers wrote  a letter sent to Instacart CEO Apoorva Mehta. The letter currently has more than 1,300 signatures on Change.org.
+    Google employees have signed an open letter published Tuesday on Medium demanding that the companies cease work on Project Dragonfly, which is aimed at creating a search engine that the Chinese government would be able to control to censor certain results and surveil users. "International human rights organizations and investigative reporters have also sounded the alarm, emphasizing serious human rights concerns and repeatedly calling on Google to cancel the project," the letter reads in part. "So far, our leadership's response has been unsatisfactory."
    </td>
    <td>
     <a href="/actions/0046.md">
@@ -748,10 +748,25 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     2018-11-23
    </td>
    <td>
-    Thousands of Amazon staff members across Europe protest on Black Friday over the way the companies treats its warehouse workers.
+    A group of Instacart delivery workers is waging an ongoing "soft strike" against the companies to demand better pay this Thanksgiving weekend for the third year in a row. The workers, who are independent contractors, say a recent change to the grocery delivery platform's pay structure was an effective pay cut that’s threatening their livelihoods. As a result, they’re refusing to deliver extra-heavy items, drive more than eight miles per order, or accept time-consuming, low-paying jobs. A group of delivery workers wrote  a letter sent to Instacart CEO Apoorva Mehta. The letter currently has more than 1,300 signatures on Change.org.
    </td>
    <td>
     <a href="/actions/0045.md">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="organizejs">
+   <td>
+    2018-11-23
+   </td>
+   <td>
+    Thousands of Amazon staff members across Europe protest on Black Friday over the way the companies treats its warehouse workers.
+   </td>
+   <td>
+    <a href="/actions/0044.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -766,7 +781,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     Blue Apron employees have filed a class-action lawsuit against the companies, alleging that they weren't paid overtime, or for meal breaks, among other labor law violations. They are seeking back pay for missed wages and a trial by jury.
    </td>
    <td>
-    <a href="/actions/0044.md">
+    <a href="/actions/0043.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -781,7 +796,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     Google employees and contractors walked out of the companies's offices around the world, one week after the New York Times reported that Google had protected three executives accused of sexual misconduct.
    </td>
    <td>
-    <a href="/actions/0043.md">
+    <a href="/actions/0042.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -796,7 +811,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     Hundreds of regular Didi drivers in Xiamen went on strike in protest against the company's advantageous policy towards drivers who have not yet formally registered. Drivers said their daily incomes had fallen to around 200-300 yuan per day, about the same as regular taxi drivers in the city, and that they were now struggling just to get by. After police arrived at the site of the protest and dispersed the crowd, the workers elected their own representatives to hold talks with the company, and vowed to continue with their protests until the situation improved.
    </td>
    <td>
-    <a href="/actions/0042.md">
+    <a href="/actions/0041.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -811,7 +826,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     An open letter signed by "employees of Microsoft" asks the cloud giant to abstain from bidding on the military's massive JEDI cloud computing contract for ethical reasons involving the application of artificial intelligence.
    </td>
    <td>
-    <a href="/actions/0041.md">
+    <a href="/actions/0040.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -826,7 +841,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     "Hundreds" of drivers are expected to switch off their apps from 1pm, making themselves unavailable for work, union organisers said. Protests are also being held outside the ride-hailing app's offices in London, Nottingham and Birmingham.
    </td>
    <td>
-    <a href="/actions/0040.md">
+    <a href="/actions/0039.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -841,7 +856,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     UberEats riders and a small number of workers from JD Wetherspoon, McDonald's and TGI Fridays have been staging walkouts in a pay dispute. Protests were being held in several UK cities, along with a rally in London.
    </td>
    <td>
-    <a href="/actions/0039.md">
+    <a href="/actions/0038.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -856,7 +871,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     Members of the union that represents the folks behind the wheels of corporate shuttles stood and sat in front of those buses in the Castro district, demanding a secure pension for high-tech shuttle drivers. About 40 Teamsters blocked tech buses in a surprise protest. The drivers were from WeDriveU and Loop/Hallcon and transport employees for high-tech companies including Apple, Tesla, Amazon, Twitter, LinkedIn, Salesforce, Electronic Arts, Lam and Facebook.
    </td>
    <td>
-    <a href="/actions/0038.md">
+    <a href="/actions/0037.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -871,7 +886,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     Dozens of protesters gathered outside the data analysis companies Palantir in Palo Alto, California, on Tuesday to present Palantir's employees and CEO Alex Karp with a letter asking for an end to the companies' contracts with US Immigration and Customs Enforcement (ICE).
    </td>
    <td>
-    <a href="/actions/0037.md">
+    <a href="/actions/0036.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -886,7 +901,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     Spanish labor unions have called on around 1,000 Amazon employees to walk out for three days next week in a dispute over what it says are efforts to reduce workers' rights.
    </td>
    <td>
-    <a href="/actions/0036.md">
+    <a href="/actions/0035.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -901,7 +916,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     A section of drivers from five taxi hailing companies including Uber and Taxify (now known as Bolt) took part in the industrial strike which started in early July 2018. The drivers through their association, Digital Taxi Forum want Uber and Co to double their rates and reduce their commissions so they can earn decent wages. The strike lasted 9 days, ending after Uber signed an agreement to ensure better pricing for drivers and improve welfare on the job.
    </td>
    <td>
-    <a href="/actions/0035.md">
+    <a href="/actions/0034.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -916,7 +931,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     Hundreds of Salesforce.com Inc. employees signed a letter to Chief Executive Officer Marc Benioff criticizing the companies's contracts with the U.S. Customs and Border Protection agency.
    </td>
    <td>
-    <a href="/actions/0034.md">
+    <a href="/actions/0033.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -931,7 +946,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     Workers at Amazon are circulating an internal letter to CEO Jeff Bezos, asking him to stop selling the companies's Rekognition facial recognition software to law enforcement and to boot the data-mining firm Palantir from its cloud services.
    </td>
    <td>
-    <a href="/actions/0033.md">
+    <a href="/actions/0032.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -944,21 +959,6 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    </td>
    <td>
     In an open letter posted to Microsoft's internal message board on Tuesday, hundreds of employees protested Microsoft's work with Immigration and Customs Enforcement and demanding that the companies stop working with the agency.
-   </td>
-   <td>
-    <a href="/actions/0032.md">
-     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
-      :link:
-     </g-emoji>
-    </a>
-   </td>
-  </tr>
-  <tr author="organizejs">
-   <td>
-    2018-06-12
-   </td>
-   <td>
-    For Uber drivers, the only way to go after the company for alleged state and federal employment law violations was to file an independent arbitration claim. Amazingly, thousands of Uber drivers did just that. 12,501 Uber drivers took the company at its word and filed arbitration claims in California. Under the terms of the contract that Uber crammed down these drivers' throats, it must now pay $1,500 per driver to JAMS, the arbitration service it uses -- a total of $18.7m.
    </td>
    <td>
     <a href="/actions/0031.md">
