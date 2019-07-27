@@ -15,11 +15,11 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">26/07/2019 07:03PM</td>
+    <td data-summary="timestamp">26/07/2019 10:06PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">93</td>
+    <td data-summary="action-count">94</td>
   </tr>
  </table>
 </div>
@@ -44,6 +44,21 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    </td>
    <td>
     Uber and Lyft drivers chanted and cheered outside the Uber headquarters building in San Francisco on Friday as they delivered a letter demanding negotiations for better working conditions. In an open letter, published to coincide with the protest, drivers called on Uber CEO Dara Khosrowshahi and Lyft co-founders Logan Green and John Zimmer for changes in treatment. Drivers tried to present the letter at the protest, but weren't able to enter Uber's headquarters.
+   </td>
+   <td>
+    <a href="/actions/0093.md">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="organizejs">
+   <td>
+    2019-07-19
+   </td>
+   <td>
+    As Assembly Bill 5 makes its way through the California state legislature, Uber and Lyft drivers are voicing their demands for better pay, basic workplace protections and the right to organize through unions. Drivers chanted and cheered outside the Uber headquarters building in San Francisco as they delivered a letter demanding negotiations for better working conditions.
    </td>
    <td>
     <a href="/actions/0092.md">
