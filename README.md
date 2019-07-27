@@ -15,7 +15,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">26/07/2019 10:06PM</td>
+    <td data-summary="timestamp">27/07/2019 01:12AM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
@@ -643,7 +643,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     2019-02-22
    </td>
    <td>
-    Microsoft employees circulated a letter among the companies' over 130,000-person staff demanding that executives cancel a $479 million contract with the US Army, IVAS, that will provide weapans technology to the U.S. Military to 'increase lethality' to amry soldiers. "We did not sign up to develop weapons, and we demand a say in how our work is used."
+    Microsoft employees circulated a letter among the companies' over 130,000-person staff demanding that executives cancel a $479 million contract with the US Army, IVAS, that will provide weapons technology to the U.S. Military to 'increase lethality' to army soldiers. "We did not sign up to develop weapons, and we demand a say in how our work is used."
    </td>
    <td>
     <a href="/actions/0053.md">
