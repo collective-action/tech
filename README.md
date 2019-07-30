@@ -15,7 +15,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">29/07/2019 09:08PM</td>
+    <td data-summary="timestamp">30/07/2019 05:07PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
@@ -733,7 +733,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     2018/12/14
    </td>
    <td>
-    Amid chants of "Hear our voice," a group of about 100 Somali-American workers and their supporters marched to the entrance of Amazon"s Shakopee fulfillment center Friday evening to protestunfair working conditions.
+    Amid chants of "Hear our voice," a group of about 100 Somali-American workers and their supporters marched to the entrance of Amazon"s Shakopee fulfillment center Friday evening to protest unfair working conditions.
    </td>
    <td>
     <a href="/actions/0048.md">
@@ -778,7 +778,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     2018/11/23
    </td>
    <td>
-    A group of Instacart delivery workers is waging an ongoing "soft strike" against the companies to demand better pay this Thanksgiving weekend for the third year in a row. The workers, who are independent contractors, say a recent change to the grocery delivery platform's pay structure was an effective pay cut that’s threatening their livelihoods. As a result, they’re refusing to deliver extra-heavy items, drive more than eight miles per order, or accept time-consuming, low-paying jobs. A group of delivery workers wrote  a letter sent to Instacart CEO Apoorva Mehta. The letter currently has more than 1,300 signatures on Change.org.
+    A group of Instacart delivery workers is waging an ongoing "soft strike" against the companies to demand better pay this Thanksgiving weekend for the third year in a row. The workers, who are independent contractors, say a recent change to the grocery delivery platform's pay structure was an effective pay cut that’s threatening their livelihoods. As a result, they’re refusing to deliver extra-heavy items, drive more than eight miles per order, or accept time-consuming, low-paying jobs. A group of delivery workers wrote  a letter sent to Instacart CEO Apoorva Mehta.
    </td>
    <td>
     <a href="/actions/0045.md">
@@ -793,7 +793,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     2018/11/23
    </td>
    <td>
-    Thousands of Amazon staff members across Europe protest on Black Friday over the way the companies treats its warehouse workers.
+    Thousands of Amazon staff members across Europe protest on Black Friday over the way the companies treats its warehouse workers. As shoppers in the U.S.A. log in to Amazon to find Black Friday deals, Amazon workers in the UK, Spain, France, Italy, and Germany are striking to protest working conditions in the company’s warehouses.
    </td>
    <td>
     <a href="/actions/0044.md">
@@ -808,7 +808,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     2018/11/20
    </td>
    <td>
-    Blue Apron employees have filed a class-action lawsuit against the companies, alleging that they weren't paid overtime, or for meal breaks, among other labor law violations. They are seeking back pay for missed wages and a trial by jury.
+    Blue Apron employees have filed a class-action lawsuit against the companies, alleging that they weren't paid overtime, or for meal breaks, among other labor law violations. They are seeking back pay for missed wages and a trial by jury. Blue Apron employs thousands of low-wage workers in food processing plants in New Jersey, Texas, and California, where this suit was filed. An employee alleges that Blue Apron routinely forced hourly employees to clock out before their meal break, effectively cheating them out of thirty minutes of pay per shift, a practice known in the world of labor law as “time shaving.”
    </td>
    <td>
     <a href="/actions/0043.md">
@@ -868,7 +868,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     2018/10/09
    </td>
    <td>
-    "Hundreds" of drivers are expected to switch off their apps from 1pm, making themselves unavailable for work, union organisers said. Protests are also being held outside the ride-hailing app's offices in London, Nottingham and Birmingham.
+    Hundreds of Uber drivers are expected to switch off their apps from 1pm, making themselves unavailable for work, union organisers said. Protests are also being held outside the ride-hailing app's offices in London, Nottingham and Birmingham.
    </td>
    <td>
     <a href="/actions/0039.md">
@@ -928,7 +928,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     2018/07/10
    </td>
    <td>
-    Spanish labor unions have called on around 1,000 Amazon employees to walk out for three days next week in a dispute over what it says are efforts to reduce workers' rights.
+    Spanish labor unions have called on around 1,000 Amazon employees to walk out for three days next week in a dispute over what it says are efforts to reduce workers' rights. The strike will took place at the San Fernando warehouse on the outskirts of Madrid, Amazon’s biggest in Spain, on July 16, 17 and 18, to coincide with a 1-1/2 day sale on the platform.
    </td>
    <td>
     <a href="/actions/0035.md">
@@ -1213,7 +1213,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     2017/03/14
    </td>
    <td>
-    Hundreds of protesters have attended a demonstration held by Silicon Valley workers against what participants call the discriminatory policymaking of US President Donald Trump and his administration.
+    Organizers say up to 1000 protesters have attended a demonstration held by Silicon Valley workers against the anti-immigration policymaking of US President Donald Trump and his administration. The protest was nearly five-hour-long outside Palo Alto City Hall in objection to Trump's immigration ban as well as in support of immigrants who spark innovation or work blue-collar jobs that keep those tech companies operating.
    </td>
    <td>
     <a href="/actions/0016.md">
@@ -1423,7 +1423,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     2014/03/03
    </td>
    <td>
-    More than 1,000 IBM factory workers walked off the job at the factory in Shenzhen, bordering Hong Kong, after managers on announced the terms of their transfer to new ownership under Chinese PC maker Lenovo Group Ltd.
+    More than 1,000 IBM factory workers walked off the job at the factory in Shenzhen, bordering Hong Kong, after managers on announced the terms of their transfer to new ownership under Chinese PC maker Lenovo Group Ltd. Experts say - the impetus for a strike was underpinned by the fact that the factory branch of the state-backed union was seen as a farce.
    </td>
    <td>
     <a href="/actions/0002.md">
@@ -1438,7 +1438,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     2013/11/19
    </td>
    <td>
-    Hundreds of workers at a Chinese Nokia factory located in Dongguan, Guangdong Province have on strike. As shown in the above photo, they're holding up a large banner in protest, which reads "Workers are not simple merchandise, assets or slaves. Please do not sell us. We have DIGNITY and RIGHTS!"
+    Hundreds of workers at a Chinese Nokia factory located in Dongguan, Guangdong Province have on strike. They're holding up a large banner in protest, which reads "Workers are not simple merchandise, assets or slaves. Please do not sell us. We have DIGNITY and RIGHTS!"
    </td>
    <td>
     <a href="/actions/0001.md">
