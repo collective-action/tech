@@ -25,7 +25,9 @@ class FileClient:
         """ Get the absolute path of the folder to put actions in. """
         return Path(
             os.path.abspath(
-                os.path.join(os.path.dirname(__file__), os.path.pardir, "actions")
+                os.path.join(
+                    os.path.dirname(__file__), os.path.pardir, "actions"
+                )
             )
         )
 
@@ -50,7 +52,7 @@ class FileClient:
         ]
 
     def parse_file(self, filepath: str) -> dict:
-        """ Parses a filename in the actions folder and returns dict. """
+        """ Parses a file in the actions folder and returns dict. """
         f = open(filepath, "r")
         contents = f.read().strip()
         d = {}

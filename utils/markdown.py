@@ -1,9 +1,7 @@
 import re
-import bs4
 import datetime
 import pytz
 from copy import copy
-from pathlib import Path
 from bs4 import BeautifulSoup
 
 SUMMARY_ID = "summary"
@@ -53,7 +51,10 @@ def replace_md_data(
 
 
 def update_summary_action(
-    doc: MarkdownDocument, summary_id: str, summary_field: str, summary_value: str
+    doc: MarkdownDocument,
+    summary_id: str,
+    summary_field: str,
+    summary_value: str,
 ) -> MarkdownDocument:
     """ Update a summary field in the markdown document. """
     soup = BeautifulSoup(doc, "html.parser")
@@ -75,7 +76,9 @@ def update_markdown_document(
 ) -> MarkdownDocument:
     """ Replace markdown table and update summary. """
     doc = replace_md_data(doc, action_id, actions.to_readme())
-    doc = update_summary_action(doc, SUMMARY_ID, "action-count", str(len(actions)))
+    doc = update_summary_action(
+        doc, SUMMARY_ID, "action-count", str(len(actions))
+    )
     tz = pytz.timezone("US/Eastern")
     now = datetime.datetime.now(tz).strftime("%d/%m/%Y %I:%M%p")
     doc = update_summary_action(doc, SUMMARY_ID, "timestamp", now)

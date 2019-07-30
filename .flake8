@@ -1,0 +1,9 @@
+[flake8]
+# Intial set of rules
+# Feel Free to add any new rule here with description of what it does.
+
+# E501	Line too long (82 > 79 characters)
+# W503  line break before binary operator
+
+ignore = E501, W503
+max-line-length = 79
