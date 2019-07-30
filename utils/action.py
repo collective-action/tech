@@ -1,17 +1,12 @@
 import pandas as pd
 import math
 import json
-import html
 import bs4
-import re
 import dateparser
-from functools import partial
 from bs4 import BeautifulSoup
 from dataclasses import dataclass, field
-from datetime import datetime
-from typing import Any, List, Dict, ClassVar, Union
+from typing import Any, List, Dict, ClassVar, Union, Iterable
 from urllib.parse import urlparse
-from .markdown import MarkdownData, MarkdownDocument
 from .files import FileClient
 
 Url = str
@@ -99,7 +94,9 @@ class Action:
         self.tags = self.listify(self.tags)
         self.locations = self.listify(self.locations)
 
-        self.workers = None if self.is_none(self.workers) else int(self.workers)
+        self.workers = (
+            None if self.is_none(self.workers) else int(self.workers)
+        )
 
         # make sure action is a valid action
         assert (
@@ -131,7 +128,7 @@ class Action:
         """ Used to make Actions sortable.
 
         This will sort actions first based on the date, then based on the
-        length of the description.
+        length of the description if the date is equal.
         """
         if self.date == other.date:
             return len(self.description) < len(other.description)
@@ -146,70 +143,39 @@ class Action:
 
     def to_dict(self) -> Dict[str, Any]:
         """ Return dict of all fields serialized to string """
-        return {key: self.render_df(key) for key, value in self.__dict__.items()}
+        return {
+            key: self.stringify(key) for key, value in self.__dict__.items()
+        }
 
-    def render_df(self, field: str) -> str:
-        """ Return the value of the field rendered for df. """
-        value = self.__getattribute__(field)
-        if field in ["date", "workers"]:
-            return str(value)
-        elif field in ["locations", "struggles", "companies", "tags", "sources"]:
-            return str(value).strip("[").strip("]").replace("'", "").replace('"', "")
-        else:
-            return value
-
-    def to_str(self, field: str) -> str:
-        """ Convert field to string
-
-        Stringifies non-strings and lists.
-        """
+    def stringify(self, field: str) -> str:
+        """ Returns the value of the field in str. """
         assert (
             field in self.__dataclass_fields__
         ), f"Cannot serialize {field}. Not a valid field in Action."
 
         value = self.__getattribute__(field)
-
         ret = None
-        if field in ["date", "workers"]:
+        if field in ["date"]:
+            ret = value.strftime("%Y/%m/%d")
+        elif field in ["workers"]:
             ret = str(value)
-        elif field in ["locations", "struggles", "companies", "tags", "sources"]:
+        elif field in [
+            "locations",
+            "struggles",
+            "companies",
+            "tags",
+            "sources",
+        ]:
             ret = (
-                str(value).strip("[").strip("]").replace("'", "").replace('"', "")
+                str(value)
+                .strip("[")
+                .strip("]")
+                .replace("'", "")
+                .replace('"', "")
             )
         else:
             ret = value
-
         return ret
-
-    def to_md(self, field: str, td: bs4.element.Tag) -> str:
-        """ Convert field for markdown
-        Takes a td BeautifulSoup object and updates it according to the field
-        type so that it renders correctly in markdown.
-        """
-        assert (
-            field in self.__dataclass_fields__
-        ), f"Cannot serialize {field}. Not a valid field in Action."
-
-        value = self.__getattribute__(field)
-
-        if field in ["date", "workers"]:
-            td.string = str(value)
-        elif field in ["locations", "struggles", "companies", "tags"]:
-            td.string = (
-                str(value).strip("[").strip("]").replace("'", "").replace('"', "")
-            )
-        elif field == "sources":
-            ret = []
-            for source in value:
-                tag = (
-                    f"<a href='{source}' target='_blank'>{urlparse(source).netloc}</a>"
-                )
-                ret.append(tag)
-            td.append(BeautifulSoup(html.unescape(", ".join(ret)), "html.parser"))
-        else:
-            td.string = value
-
-        return td
 
     @classmethod
     def create_from_row(cls, row: pd.Series) -> "Action":
@@ -219,7 +185,9 @@ class Action:
             for key, value in cls.__dataclass_fields__.items()
             if value.type != ClassVar
         ]
-        d = {key: value for key, value in row.to_dict().items() if key in fields}
+        d = {
+            key: value for key, value in row.to_dict().items() if key in fields
+        }
         return cls(**d)
 
     @classmethod
@@ -240,6 +208,7 @@ class Actions:
         - to create and populate an Actions instance from a markdown document
     """
 
+    actions_iterator: Iterable = None
     action_id: ClassVar = "actions"
     actions: List[Action] = field(default_factory=lambda: [])
     fields: List[str] = field(
@@ -249,6 +218,18 @@ class Actions:
             if value.type != ClassVar
         ]
     )
+
+    def __iter__(self):
+        """ Make this class iterable. """
+        return self
+
+    def __next__(self):
+        """ Override dunder method. """
+        if self.actions_iterator is None:
+            raise Exception(
+                "This instance of Actions is empty and not iterable."
+            )
+        return next(self.actions_iterator)
 
     def __len__(self) -> int:
         """ Get the number of actions. """
@@ -266,8 +247,12 @@ class Actions:
         return self
 
     def append(self, action: Action) -> None:
-        """ Append an action onto this instance of Actions. """
+        """
+        Append an action onto this instance of Actions and
+        make the actions iterable.
+        """
         self.actions.append(action)
+        self.actions_iterator = iter(self.actions)
 
     def to_df(self) -> pd.DataFrame:
         """ Converts this instance of Actions to a df.
@@ -301,7 +286,9 @@ class Actions:
             emoji = soup.new_tag("g-emoji")
             emoji["class"] = "g-emoji"
             emoji["alias"] = "link"
-            emoji["fallback-src"] = "https://github.githubassets.com/images/icons/emoji/unicode/1f517.png"
+            emoji[
+                "fallback-src"
+            ] = "https://github.githubassets.com/images/icons/emoji/unicode/1f517.png"
             emoji.string = ":link:"
             return emoji
 
@@ -321,16 +308,15 @@ class Actions:
                 tr[meta_field] = action.__getattribute__(meta_field)
 
             td_date = soup.new_tag("td")
-            td_date.string = action.to_str("date")
+            td_date.string = action.stringify("date")
             tr.append(td_date)
 
             td_action = soup.new_tag("td")
-            td_action.string = action.to_str("description")
+            td_action.string = action.stringify("description")
             tr.append(td_action)
 
             td_action = soup.new_tag("td")
             a = soup.new_tag("a")
-            total_actions = len(self.actions)
             a["href"] = f"/actions/{len(self.actions) - 1 - i:04}.md"
             emoji = create_emoji_tag()
             a.append(emoji)
@@ -354,7 +340,9 @@ class Actions:
             for s in action.struggles:
                 struggles += f"{s},"
             fn = f"{i:04}.md"
-            fc.save_to_file(filepath=fc.actions_folder/fn, action=action.to_dict())
+            fc.save_to_file(
+                filepath=fc.actions_folder / fn, action=action.to_dict()
+            )
 
     @staticmethod
     def read_from_df(df: pd.DataFrame) -> "Actions":
@@ -375,4 +363,3 @@ class Actions:
             action = Action.create_from_dict(contents)
             actions.append(action)
         return actions
-

@@ -2,6 +2,7 @@ import os
 import textwrap
 import argparse
 import pandas as pd
+import warnings
 from pathlib import Path
 from utils.action import Action, Actions
 from utils.markdown import (
@@ -18,7 +19,6 @@ README = Path(
 CSV = Path(
     os.path.realpath(os.path.join(os.path.abspath(__file__), os.pardir, "actions.csv"))
 )
-
 
 
 def _get_parser():
@@ -46,6 +46,11 @@ def _get_parser():
         formatter_class=argparse.RawDescriptionHelpFormatter,
     )
     parser.add_argument(
+        "--files-cleanup",
+        action="store_true",
+        help="Update the action folder by cleaning it up and sorting it."
+    )
+    parser.add_argument(
         "--files-to-csv",
         action="store_true",
         help="Update data.csv based on the action folder."
@@ -56,63 +61,73 @@ def _get_parser():
         help="Update the table in the README.md based on the action folder."
     )
     parser.add_argument(
-        "--files-cleanup",
+        "--csv-cleanup",
         action="store_true",
-        help="Update the action folder by cleaning it up and sorting it."
+        help="Update the csv file by cleaning it up and sorting it."
     )
     parser.add_argument(
         "--csv-to-files",
         action="store_true",
         help="Update the action folder from the actions.csv."
     )
+    parser.add_argument(
+        "--csv-to-readme",
+        action="store_true",
+        help="Update the table in the README.md from the actions.csv."
+    )
 
     args = parser.parse_args()
     return args
 
 
-def update_files_from_csv():
-    print(f"Updating files in the /actions folder from actions.csv...")
+def get_actions_from_files():
+    fc = FileClient()
+    files = fc.get_all_files()
+    return Actions.read_from_files(files).sort()
+
+
+def get_actions_from_csv():
     df = pd.read_csv(CSV)
-    actions = Actions.read_from_df(df)
-    actions.to_files()
+    return Actions.read_from_df(df).sort()
 
 
-def update_files():
-    print(f"Updating files in the /actions folder...")
-    fc = FileClient()
-    files = fc.get_all_files()
-    actions = Actions.read_from_files(files)
-    actions.to_files()
-
-
-def update_csv_from_files():
-    print(f"Updating actions.csv from files in the /actions folder...")
-    fc = FileClient()
-    files = fc.get_all_files()
-    actions = Actions.read_from_files(files)
-    df = actions.to_df()
-    df.to_csv(CSV)
-
-
-def update_readme_from_files():
-    print(f"Updating README.md from files in the /actions folder...")
-    fc = FileClient()
-    files = fc.get_all_files()
-    actions = Actions.read_from_files(files)
-    actions.sort()
+def save_actions_to_readme(actions):
     readme = Path(README)
     md_document = readme.read_text()
     md_document = update_markdown_document(md_document, Actions.action_id, actions)
     readme.write_text(md_document)
 
 
+def save_actions_to_csv(actions):
+    df = actions.to_df()
+    df.to_csv(CSV)
+
+
 if __name__ == "__main__":
+    warnings.filterwarnings("ignore", category=UserWarning, module='bs4')
     args = _get_parser()
+
     if args.files_cleanup:
-        update_files()
+        print("Cleaning up actions in files...")
+        actions = get_actions_from_files()
+        actions.to_files()
+
     if args.files_to_csv:
-        update_csv_from_files()
+        print("Using files to update the CSV...")
+        actions = get_actions_from_files()
+        save_actions_to_csv(actions)
+
     if args.files_to_readme:
-        update_readme_from_files()
+        print("Using files to update the README...")
+        actions = get_actions_from_files()
+        save_actions_to_readme(actions)
+
     if args.csv_to_files:
-        update_files_from_csv()
+        print("Using csv to update the files...")
+        actions = get_actions_from_csv()
+        actions.to_files()
+
+    if args.csv_to_readme:
+        print("Using csv to update the README...")
+        actions = get_actions_from_csv()
+        save_actions_to_readme(actions)
