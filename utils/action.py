@@ -264,7 +264,7 @@ class Actions:
         data = []
         for action in self.actions:
             data.append(action.to_dict())
-        df = pd.read_json(json.dumps(data), orient="list")
+        df = pd.read_json(json.dumps(data), orient="list", convert_dates=False)
         return df[self.fields]
 
     def to_readme(self) -> None:
