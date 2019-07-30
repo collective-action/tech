@@ -1,0 +1,10 @@
+- date: 2015/01/09
+- sources: https://www.buzzfeednews.com/article/carolineodonovan/instacart-just-settled-a-46-million-worker-lawsuit, https://time.com/3748438/instacart-lawsuit/
+- action: legal_action
+- struggles: unfair_labor_practices, pay_and_benefits
+- description: A lawsuit alleges that Instacart, an on-demand grocery delivery service valued at $2 billion, misclassifies its workers as independent contractors to avoid paying expenses like overtime, reimbursements for gas and workers' compensation. The class action complaint, which was filed on Jan. 9th but has not been previously reported, describes Instacart's business practices as "unethical, oppressive and unscrupulous" and seeks damages for anyone who has worked as a "shopper delivery person" for the company since 2012. In 2017, Instacart won a small victory — the grocery-on-demand startup just settled a class action lawsuit to the tune of $4.6 million.
+- locations: usa
+- companies: instacart
+- workers: None
+- tags: delivery_workers, independent_contract_workers
+- author: organizejs
