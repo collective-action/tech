@@ -13,10 +13,12 @@ channels:
 - defaults
 - conda-forge
 dependencies:
-- python==3.7.2
 - jupyter>=1.0.0
+- matplotlib>=3.1.1
+- python==3.7.2
 - pytest>=3.6.4
-- pandas
+- pandas>=0.24.2
+- wordcloud>=1.5.0
 - pip:
   - black>=18.6b4
   - papermill>=0.15.0
@@ -26,3 +28,4 @@ dependencies:
   - html5lib
   - bs4
   - dateparser
+  - pillow
