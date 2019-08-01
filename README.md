@@ -1,7 +1,5 @@
 # Collective Actions in Tech
 
-[![Build Status](https://dev.azure.com/jianshentan/collective-actions-in-tech/_apis/build/status/organizejs.cait%20-%20cleanup%20%26%20update?branchName=master)](https://dev.azure.com/jianshentan/collective-actions-in-tech/_build/latest?definitionId=4&branchName=master)
-
 This repository is an attempt to document all collective actions from workers in the tech industry.
 
 For the purposes of this project, the tech industry is defined to include any companies whose core business is information technology. We are excluding adjacent industries such as gaming and digital media.
@@ -15,7 +13,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">30/07/2019 06:57PM</td>
+    <td data-summary="timestamp">01/08/2019 11:17AM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
@@ -1480,3 +1478,5 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
   </tr>
  </table>
 </div>
+
+[![Build Status](https://dev.azure.com/jianshentan/collective-actions-in-tech/_apis/build/status/organizejs.cait%20-%20cleanup%20%26%20update?branchName=master)](https://dev.azure.com/jianshentan/collective-actions-in-tech/_build/latest?definitionId=4&branchName=master)
