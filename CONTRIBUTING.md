@@ -35,14 +35,18 @@ include, add it in the description field.
 | locations | False | List(str) | The location(s) of the action, or whether it was online. |
 | companies | False | List(str) | Which company are workers are standing up against? Some moments of worker power may not have an associated company. For example, online petitions or a protests against the president may consist of workers from an amalgamation of companies. In which case we can omit this field. |
 | workers | False | int | The number of workers active in the action. Since we're only looking at collective actions, the number must be more than 1. Sometimes the sources do not state a concrete number when reporting. In those cases, lean on the conservative side. For example: "Hundreds of Uber drivers..." --> 100 |
-| tags | False | List(str) | Tag the event with a term or word that you feel is relevant but not captured by the other fields. |
+| tags | False | List(str) | Tag the event with a term or word that you feel is relevant but not captured by the other fields. One good thing to add is the kind of worker who is taking action. Please see below for more information on tags. |
 
 In the table above, `action` and `struggles` must contain only the following values:
 
 | Fields | Valid Values | 
 | --- | --- |
-| action | strike, protest, open_letter, legal_action, union_drive, union_represenation | 
-| struggles | ethics, pay_and_benefits, working_conditions, discrimination, unfair_labor_practices, job_security |
+| action | `strike`, `protest`, `open_letter`, `legal_action`, `union_drive`, `union_represenation` | 
+| struggles | `ethics`, `pay_and_benefits`, `working_conditions`, `discrimination`, `unfair_labor_practices`, `job_security` |
+
+If any of the following __tags__ are applicable, please add them to the action:
+
+`white_collar_workers`, `blue_collar_workers`, `contract_workers`, `factory_workers`, `informal_workers`, `independent_contract_workers`, `coworker_solidarity`, `delivery_workers`, `industry_solidarity`, `international_solidarity`,  `food_service_workers`, `lgbtq`, `funding_raising`, `mijente`, `lgtbq`, `temporary_workers_of_america`, `military_contracts`,`trade_war`, `seiu`, `law_enforcement`, `sexism`, `muslim_registry`, `janitors`, `rideshare_workers`, `academics`, `moderators`, `gig_workers_rising`, `twc`, `drivers`, `security_guards`, `technicians`, `unite_here`, `climate_change`, `ice`, `ai`, `trump`, `retaliation`, `cbp`, `teamster`, `immigration`, `students`
 
 ## Formatting
 When adding an update to the README, use the provided html code below to add a
@@ -54,10 +58,10 @@ action. Copy and paste the html snippet under the opening `<div>` tag in the REA
 - companies: amazon
 - action: protest
 - struggles: ethics, discrimination
-- worker: 1000
+- workers: 1000
 - description: Thousands of people protest a military contract in Queens.
 - locations: new_york
-- tags: military_contract
+- tags: military_contract, delivery_workers
 - author: organizejs
 ```
 
