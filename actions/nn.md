@@ -1,0 +1,11 @@
+- date: 2018/12/06
+- sources: https://www.theguardian.com/technology/2018/dec/20/facebook-contractors-filter-digital-labor-dispute-christmas, https://medium.com/@techworkersco_79433/who-fired-the-ras-organizing-the-worst-job-at-facebook-97c63cb40683
+- action: open_letter
+- struggles: working_conditions, pay_and_benefits
+- description: 20 subcontractors working at Facebook Reality Labs signed a letter to their contracting firm, Filter Digital, seeking better employment terms. The letter addressed inequities between the Filter employees and other employees at the Facebook facility, including workers employed by other contractors. Ex. Facebook closes its office for 11 holidays per year, according to the letter, but Filter only observes five of those holidays. Since Facebook’s offices are closed on those days, preventing the Filter employees from working, they are forced to use six out of their 10 days of paid time off to cover the other holidays – or go without pay. A Facebook FTE shared a copy of the letter on Workplace and “got a lot of positive reception from full time employees and other contingent workers”
+- locations: seattle, washington, usa
+- companies: facebook, filter_digital
+- workers: 50
+- tags: contract_workers, coworker_solidarity
+- author: organizejs
+
