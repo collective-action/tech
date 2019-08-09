@@ -13,11 +13,11 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">08/08/2019 05:52PM</td>
+    <td data-summary="timestamp">09/08/2019 04:26PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">101</td>
+    <td data-summary="action-count">102</td>
   </tr>
  </table>
 </div>
@@ -34,6 +34,21 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    </td>
    <td>
     link
+   </td>
+  </tr>
+  <tr author="organizejs">
+   <td>
+    2019/08/08
+   </td>
+   <td>
+    A group of Amazon employees protested outside the Eagan, Minnesota, warehouse Thursday morning. While past protests have focused on allegedly poor workplace conditions, the Eagan protest was to raise concerns about a lack of parking at the warehouse. This is an issue because these workers' cars can be towed and fined at a cost of hundreds of dollars for being double-parked.
+   </td>
+   <td>
+    <a href="/actions/0101.md">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
    </td>
   </tr>
   <tr author="organizejs">
