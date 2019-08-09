@@ -13,11 +13,11 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">03/08/2019 11:08PM</td>
+    <td data-summary="timestamp">08/08/2019 05:52PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">100</td>
+    <td data-summary="action-count">101</td>
   </tr>
  </table>
 </div>
@@ -34,6 +34,21 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    </td>
    <td>
     link
+   </td>
+  </tr>
+  <tr author="organizejs">
+   <td>
+    2019/08/07
+   </td>
+   <td>
+    Dozens of WalMart tech workers rallied in San Bruno to protest gun violence and continued sale of weapons by WalMart which is the largest distributor of guns in the United States. They also had a moment of silence for the victims and families murdered and injured in the violent racist attacks. There are over 1,000 workers at the largest tech center of WalMart in the world. This was the first collective action of WalMart tech workers in the United States. They were also joined by a delegation of Youtube workers in solidarity. Youtube workers have also faced violent attacks at their work location in San Bruno.
+   </td>
+   <td>
+    <a href="/actions/0100.md">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
    </td>
   </tr>
   <tr author="organizejs">
