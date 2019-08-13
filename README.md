@@ -13,11 +13,11 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">10/08/2019 06:14PM</td>
+    <td data-summary="timestamp">13/08/2019 12:27PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">103</td>
+    <td data-summary="action-count">104</td>
   </tr>
  </table>
 </div>
@@ -34,6 +34,21 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    </td>
    <td>
     link
+   </td>
+  </tr>
+  <tr author="organizejs">
+   <td>
+    2019/08/12
+   </td>
+   <td>
+    A group of anonymous Whole Foods workers denounced their parent company Amazon's ties to Immigration and Customs Enforcement (ICE) in an open letter. The letter from Whole Foods workers is the latest push from within Amazon, where workers have been protesting their employer's opaque relationship with ICE and the Department of Homeland Security (DHS) for more than a year. Whole Worker — the protest group of Whole Foods employees — is calling for Amazon to "cease all business with Palantir and any other company involved in the continued oppression of marginalized groups."
+   </td>
+   <td>
+    <a href="/actions/0103.md">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
    </td>
   </tr>
   <tr author="organizejs">
