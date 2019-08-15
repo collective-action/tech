@@ -13,11 +13,11 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">14/08/2019 09:48PM</td>
+    <td data-summary="timestamp">15/08/2019 01:23AM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">106</td>
+    <td data-summary="action-count">109</td>
   </tr>
  </table>
 </div>
@@ -34,6 +34,51 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    </td>
    <td>
     link
+   </td>
+  </tr>
+  <tr author="organizejs">
+   <td>
+    2019/08/14
+   </td>
+   <td>
+    A group of Caviar employees has banded together to request a good faith renegotiation from DoorDash and Square, claiming mistreatment in the job transition process as DoorDash finalizes its plans to acquire Caviar from the payment company. It is unclear how many people this letter represents, though an anonymous Caviar member claims that the group is made up of the "majority" of non-management employees. (According to Crunchbase, Caviar employs between 100 and 250 people.)t
+   </td>
+   <td>
+    <a href="/actions/0108.md">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="organizejs">
+   <td>
+    2019/08/14
+   </td>
+   <td>
+    Google employees are demanding an end to the company’s work with agencies like CBP and ICE. Employees are circulating a petition asking the company not to bid on contracts with government agencies that enforce controversial immigration policies such as child detention.
+   </td>
+   <td>
+    <a href="/actions/0107.md">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="organizejs">
+   <td>
+    2019/08/13
+   </td>
+   <td>
+    After the El Paso and Gilroy shootings, A collective of prominent tech leaders that calls itself Build Tech We Trust signed a letter demanding that the tech industry stop the spread of hate and terrorism on digital platforms. "We are a collective of tech CEOs, activists, changemakers, and workers who believe the time to act to counter the hate and terrorism is now," stated the letter, which was signed by over 20 notable figures in the tech industry, including Ellen Pao, ReadySet CEO Y-Vonne Hutchinson, and Code2040 CEO Karla Monterroso.
+   </td>
+   <td>
+    <a href="/actions/0106.md">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
    </td>
   </tr>
   <tr author="organizejs">
