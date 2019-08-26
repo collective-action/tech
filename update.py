@@ -95,7 +95,7 @@ def get_cas_from_csv():
     return CollectiveActions.read_from_df(df).sort()
 
 
-def save_cas_to_readme(cas):
+def save_cas_to_readme(cas: CollectiveActions):
     readme = Path(README)
     md_document = readme.read_text()
     md_document = update_markdown_document(
@@ -104,7 +104,7 @@ def save_cas_to_readme(cas):
     readme.write_text(md_document)
 
 
-def save_cas_to_csv(cas):
+def save_cas_to_csv(cas: CollectiveActions):
     df = cas.to_df()
     df.to_csv(CSV)
 
