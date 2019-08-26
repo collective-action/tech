@@ -1,4 +1,4 @@
-from utils.action import CollectiveAction, CollectiveActions
+from utils.collective_action import CollectiveAction, CollectiveActions
 from utils.files import FileClient
 from bs4 import BeautifulSoup
 import dateparser

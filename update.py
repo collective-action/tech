@@ -4,7 +4,7 @@ import argparse
 import pandas as pd
 import warnings
 from pathlib import Path
-from utils.action import CollectiveAction, CollectiveActions
+from utils.collective_action import CollectiveAction, CollectiveActions
 from utils.markdown import (
     update_markdown_document,
     SUMMARY_ID,

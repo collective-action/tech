@@ -1,7 +1,7 @@
 import pytest
 import pandas as pd
 from pathlib import Path
-from utils.action import CollectiveAction, CollectiveActions
+from utils.collective_action import CollectiveAction, CollectiveActions
 from tempfile import TemporaryDirectory
 
 
