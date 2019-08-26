@@ -81,7 +81,7 @@ def update_markdown_document(
         doc, ca_id, cas.to_readme()
     )
     doc = update_ca_summary(
-        doc, SUMMARY_ID, "action-count", str(len(actions))
+        doc, SUMMARY_ID, "action-count", str(len(cas))
     )
     tz = pytz.timezone("US/Eastern")
     now = datetime.datetime.now(tz).strftime("%d/%m/%Y %I:%M%p")

@@ -4,7 +4,7 @@ import argparse
 import pandas as pd
 import warnings
 from pathlib import Path
-from utils.action import Action, Actions
+from utils.action import CollectiveAction, CollectiveActions
 from utils.markdown import (
     update_markdown_document,
     SUMMARY_ID,
@@ -14,10 +14,14 @@ from utils.markdown import (
 from utils.files import FileClient
 
 README = Path(
-    os.path.realpath(os.path.join(os.path.abspath(__file__), os.pardir, "README.md"))
+    os.path.realpath(
+        os.path.join(os.path.abspath(__file__), os.pardir, "README.md")
+    )
 )
 CSV = Path(
-    os.path.realpath(os.path.join(os.path.abspath(__file__), os.pardir, "actions.csv"))
+    os.path.realpath(
+        os.path.join(os.path.abspath(__file__), os.pardir, "actions.csv")
+    )
 )
 
 
@@ -48,86 +52,88 @@ def _get_parser():
     parser.add_argument(
         "--files-cleanup",
         action="store_true",
-        help="Update the action folder by cleaning it up and sorting it."
+        help="Update the collective action folder by cleaning it up and sorting it.",
     )
     parser.add_argument(
         "--files-to-csv",
         action="store_true",
-        help="Update data.csv based on the action folder."
+        help="Update data.csv based on the action folder.",
     )
     parser.add_argument(
         "--files-to-readme",
         action="store_true",
-        help="Update the table in the README.md based on the action folder."
+        help="Update the table in the README.md based on the action folder.",
     )
     parser.add_argument(
         "--csv-cleanup",
         action="store_true",
-        help="Update the csv file by cleaning it up and sorting it."
+        help="Update the csv file by cleaning it up and sorting it.",
     )
     parser.add_argument(
         "--csv-to-files",
         action="store_true",
-        help="Update the action folder from the actions.csv."
+        help="Update the collective action folder from the actions.csv.",
     )
     parser.add_argument(
         "--csv-to-readme",
         action="store_true",
-        help="Update the table in the README.md from the actions.csv."
+        help="Update the table in the README.md from the actions.csv.",
     )
 
     args = parser.parse_args()
     return args
 
 
-def get_actions_from_files():
+def get_cas_from_files():
     fc = FileClient()
     files = fc.get_all_files()
-    return Actions.read_from_files(files).sort()
+    return CollectiveActions.read_from_files(files).sort()
 
 
-def get_actions_from_csv():
+def get_cas_from_csv():
     df = pd.read_csv(CSV)
-    return Actions.read_from_df(df).sort()
+    return CollectiveActions.read_from_df(df).sort()
 
 
-def save_actions_to_readme(actions):
+def save_cas_to_readme(cas):
     readme = Path(README)
     md_document = readme.read_text()
-    md_document = update_markdown_document(md_document, Actions.action_id, actions)
+    md_document = update_markdown_document(
+        md_document, CollectiveActions.ca_id, cas
+    )
     readme.write_text(md_document)
 
 
-def save_actions_to_csv(actions):
-    df = actions.to_df()
+def save_cas_to_csv(cas):
+    df = cas.to_df()
     df.to_csv(CSV)
 
 
 if __name__ == "__main__":
-    warnings.filterwarnings("ignore", category=UserWarning, module='bs4')
+    warnings.filterwarnings("ignore", category=UserWarning, module="bs4")
     args = _get_parser()
 
     if args.files_cleanup:
         print("Cleaning up actions in files...")
-        actions = get_actions_from_files()
-        actions.to_files()
+        cas = get_cas_from_files()
+        cas.to_files()
 
     if args.files_to_csv:
         print("Using files to update the CSV...")
-        actions = get_actions_from_files()
-        save_actions_to_csv(actions)
+        cas = get_cas_from_files()
+        save_cas_to_csv(cas)
 
     if args.files_to_readme:
         print("Using files to update the README...")
-        actions = get_actions_from_files()
-        save_actions_to_readme(actions)
+        cas = get_cas_from_files()
+        save_cas_to_readme(cas)
 
     if args.csv_to_files:
         print("Using csv to update the files...")
-        actions = get_actions_from_csv()
-        actions.to_files()
+        cas = get_cas_from_csv()
+        cas.to_files()
 
     if args.csv_to_readme:
         print("Using csv to update the README...")
-        actions = get_actions_from_csv()
-        save_actions_to_readme(actions)
+        cas = get_cas_from_csv()
+        save_cas_to_readme(cas)

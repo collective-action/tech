@@ -310,7 +310,7 @@ class CollectiveActions:
             tr = soup.new_tag("tr")
 
             for meta_field in CollectiveAction._meta_fields:
-                tr[meta_field] = action.__getattribute__(meta_field)
+                tr[meta_field] = ca.__getattribute__(meta_field)
 
             td_date = soup.new_tag("td")
             td_date.string = ca.stringify("date")
@@ -322,7 +322,7 @@ class CollectiveActions:
 
             td_action = soup.new_tag("td")
             a = soup.new_tag("a")
-            a["href"] = f"/actions/{len(self.actions) - 1 - i:04}.md"
+            a["href"] = f"/actions/{len(self.cas) - 1 - i:04}.md"
             emoji = create_emoji_tag()
             a.append(emoji)
             td_action.append(a)
@@ -346,7 +346,7 @@ class CollectiveActions:
                 struggles += f"{s},"
             fn = f"{i:04}.md"
             fc.save_to_file(
-                filepath=fc.actions_folder / fn,
+                filepath=fc.cas_folder / fn,
                 ca=ca.to_dict(),
             )
 
