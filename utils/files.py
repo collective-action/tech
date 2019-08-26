@@ -14,14 +14,14 @@ class FileClient:
     ```
     """
 
-    actions_folder = ""
+    cas_folder = ""
 
     def __init__(self):
         """ Setup i/o stuff """
-        self.actions_folder = self.get_actions_folder()
+        self.cas_folder = self.get_cas_folder()
 
     @staticmethod
-    def get_actions_folder() -> Path:
+    def get_cas_folder() -> Path:
         """ Get the absolute path of the folder to put actions in. """
         return Path(
             os.path.abspath(
@@ -31,10 +31,10 @@ class FileClient:
             )
         )
 
-    def save_to_file(self, filepath: str, action: dict) -> None:
+    def save_to_file(self, filepath: str, ca: dict) -> None:
         """ Serialize action from json to md file. """
         text = ""
-        for key, value in action.items():
+        for key, value in ca.items():
             text += "- "
             text += key + ": "
             text += value + "\n"
@@ -46,8 +46,8 @@ class FileClient:
         """ Get all the files in the actions folder. """
         return [
             f
-            for f in os.listdir(self.actions_folder)
-            if os.path.isfile(os.path.join(self.actions_folder, f))
+            for f in os.listdir(self.cas_folder)
+            if os.path.isfile(os.path.join(self.cas_folder, f))
             and f.lower().endswith(".md")
         ]
 
@@ -65,6 +65,6 @@ class FileClient:
 
     def remove_all_files(self) -> None:
         """ Removes all actions from list of files. """
-        files = glob.glob(str(self.actions_folder / "*.md"))
+        files = glob.glob(str(self.cas_folder / "*.md"))
         for file in files:
             os.remove(file)

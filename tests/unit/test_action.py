@@ -1,26 +1,29 @@
-from utils.action import Action, Actions
+from utils.action import CollectiveAction, CollectiveActions
 from utils.files import FileClient
 from bs4 import BeautifulSoup
 import dateparser
 import pandas as pd
 
+# ca is short for collective_action
+# cas is plural for `ca`
 
-def test_action_constructor():
+
+def test_ca_constructor():
     """ Test Action constructor. """
     # test only mandatory
-    Action(
+    CollectiveAction(
         date="2019-01-01",
         sources=["http://www.google.com"],
-        action="strike",
+        actions=["strike"],
         struggles=["working_conditions"],
         description="Foo bar.",
     )
 
     # test all fields
-    Action(
+    CollectiveAction(
         date="2019-01-01",
         sources=["http://www.google.com"],
-        action="strike",
+        actions=["strike"],
         struggles=["working_conditions"],
         description="Foo bar.",
         locations=["Boston"],
@@ -31,48 +34,48 @@ def test_action_constructor():
     )
 
 
-def _test_action(action: Action):
-    assert action.date == dateparser.parse("2019-04-10").date() # test date
-    assert action.author == "organizejs" # test meta data
-    assert action.action == "open_letter" # test regular field
-    assert action.struggles == ["ethics"] # test list field
+def _test_ca(ca: CollectiveAction):
+    assert ca.date == dateparser.parse("2019-04-10").date() # test date
+    assert ca.author == "organizejs" # test meta data
+    assert ca.actions == ["open_letter"] # test list field
+    assert ca.struggles == ["ethics"] # test list field
 
 
-def _test_actions(actions: Actions):
-    assert len(actions) == 3
-    assert actions.actions[0].author == "organizejs"
+def _test_cas(cas: CollectiveActions):
+    assert len(cas) == 3
+    assert cas.cas[0].author == "organizejs"
 
 
-def test_action_create_from_file(correctly_formatted_action_file):
-    """ Test Action `create_from_dict` function. """
+def test_ca_create_from_file(correctly_formatted_ca_file):
+    """ Test CollectiveAction `create_from_dict` function. """
     fc = FileClient()
-    a = fc.parse_file(correctly_formatted_action_file)
-    action = Action.create_from_dict(a)
-    _test_action(action)
+    a = fc.parse_file(correctly_formatted_ca_file)
+    ca = CollectiveAction.create_from_dict(a)
+    _test_ca(ca)
 
 
-def test_action_create_from_files(correctly_formatted_action_files):
-    """ Test Actions `read_from_files` function. """
-    actions = Actions.read_from_files(correctly_formatted_action_files)
-    _test_actions(actions)
+def test_ca_create_from_files(correctly_formatted_cas_files):
+    """ Test CollectiveActions `read_from_files` function. """
+    cas = CollectiveActions.read_from_files(correctly_formatted_cas_files)
+    _test_cas(cas)
 
 
-def test_action_create_from_row(correctly_formatted_series_action):
-    """ Test Action `create_from_row` function. """
-    action = Action.create_from_row(correctly_formatted_series_action)
-    _test_action(action)
+def test_ca_create_from_row(correctly_formatted_ca_series):
+    """ Test CollectiveAction `create_from_row` function. """
+    ca = CollectiveAction.create_from_row(correctly_formatted_ca_series)
+    _test_ca(ca)
 
 
-def test_actions_read_from_df(correctly_formatted_df_actions):
-    """ Test Actions `read_from_df` function. """
-    actions = Actions.read_from_df(correctly_formatted_df_actions)
-    _test_actions(actions)
+def test_cas_read_from_df(correctly_formatted_cas_df):
+    """ Test CollectiveActions `read_from_df` function. """
+    cas = CollectiveActions.read_from_df(correctly_formatted_cas_df)
+    _test_cas(cas)
 
 
-def test_actions_sort(correctly_formatted_df_actions):
-    """ Test that Actions is sortable. """
-    actions_from_df = Actions.read_from_df(correctly_formatted_df_actions)
-    sorted_actions = actions_from_df.sort()
-    assert sorted_actions.actions[0].date == dateparser.parse("2019-04-02").date()
-    reverse_sorted_actions = actions_from_df.sort(reverse=True)
-    assert reverse_sorted_actions.actions[0].date == dateparser.parse("2019-04-10").date()
+def test_cas_sort(correctly_formatted_cas_df):
+    """ Test that CollectiveActions is sortable. """
+    cas_from_df = CollectiveActions.read_from_df(correctly_formatted_cas_df)
+    sorted_cas = cas_from_df.sort()
+    assert sorted_cas.cas[0].date == dateparser.parse("2019-04-02").date()
+    reverse_sorted_cas = cas_from_df.sort(reverse=True)
+    assert reverse_sorted_cas.cas[0].date == dateparser.parse("2019-04-10").date()
