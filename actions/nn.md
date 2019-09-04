@@ -1,0 +1,10 @@
+- date: 2019/08/26
+- sources: https://www.vice.com/en_us/article/a35g8k/hundreds-of-uber-drivers-will-caravan-600-miles-across-california-to-demand-better-working-conditions, https://www.cnet.com/news/uber-and-lyft-driver-caravan-lands-in-californias-capital-demanding-a-living-wage/
+- actions: protest, strike
+- struggles: pay_and_benefits, working_conditions
+- description: A caravan of 200 Uber and Lyft drivers drove from Los Angeles and through San Francisco to the Capitol to rally support for AB 5. Drivers called the companies’ proposal insufficient, saying there was no language about guaranteed minimum pay while they are driving around seeking customers. They piled into 75 cars and drove roughly 600 miles, advocating for the passage of AB5 that would vastly improve their working conditions. 
+- locations: los_angeles, san_francisco, california, usa
+- companies: lyft, uber
+- workers: 200
+- tags: independent_contract_workers, ab5, rideshare_workers, drivers
+- author: organizejs
