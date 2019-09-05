@@ -128,6 +128,11 @@ if __name__ == "__main__":
         cas = get_cas_from_files()
         save_cas_to_readme(cas)
 
+    if args.csv_cleanup:
+        print("Cleaning up the csv file...")
+        cas = get_cas_from_csv()
+        save_cas_to_csv(cas)
+
     if args.csv_to_files:
         print("Using csv to update the files...")
         cas = get_cas_from_csv()
