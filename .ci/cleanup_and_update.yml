@@ -1,8 +1,3 @@
-# Python package
-# Create and test a Python package on multiple Python versions.
-# Add steps that analyze code, save the dist with the build record, publish to a PyPI-compatible index, and more:
-# https://docs.microsoft.com/azure/devops/pipelines/languages/python
-
 trigger:
 - master
 
@@ -33,15 +28,16 @@ steps:
 - bash: |
     source activate cait
     ls -la
-    python update.py --files-cleanup
-    python update.py --files-to-csv
-    python update.py --files-to-readme
+    python .ci/update.py
+    # python update.py --files-cleanup
+    # python update.py --files-to-csv
+    # python update.py --files-to-readme
     git config --local user.name "Azure Pipelines"
     git config --local user.email "organizejs@gmail.com"
     git add README.md
     git add actions.csv
     git add actions
-    git commit -m "Auto Update README & actions.csv  ***NO_CI***"
+    git commit -m "Auto Update README & actions.csv from files ***NO_CI***"
   displayName: 'Update, build and commit'
 
 - task: DownloadSecureFile@1

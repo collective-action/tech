@@ -123,6 +123,11 @@ if __name__ == "__main__":
         save_actions_to_readme(actions)
 
     if args.csv_to_files:
+        print("Clearning up the actions in the csv...")
+        actions = get_actions_from_csv()
+        save_actions_to_csv(actions)
+
+    if args.csv_to_files:
         print("Using csv to update the files...")
         actions = get_actions_from_csv()
         actions.to_files()
