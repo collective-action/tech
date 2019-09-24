@@ -15,11 +15,11 @@ This document will cover how to contribute:
 
 Events must be "collective" and contain "evidence of action" by currently or recently employed "tech workers". All events must be publicly reported on in a publication.
 
-(1) "Collective". Must involve a minimum of two employees who recognize themselves as a group united by a shared cause and/or issue. The cause and/or issue should be relevant to a broader public, defined as a community which is not directly related to the company through employment or financial ties. The broader public does not include company shareholders, businesses with shared interests, or owners of company property, which include consumers of company products. An action that would typically not be deemed relevant to a broader public on its own merit may qualify if the group presents an argument that it is occurring in response to a cause and/or issue that is relevant to a broader public (e.g. an employee who is believed to have been fired as retaliation for a recent protest).
+(1) "Collective". Must involve a minimum of two employees who recognize themselves as a group united by a shared cause and/or issue. The cause and/or issue should be relevant to a broader public, defined as a community which is not directly related to the company through employment or financial ties. The broader public does not include company shareholders, businesses with shared interests, or owners of company property, which include consumers of company products. An action that would typically not be deemed relevant to a broader public on its own merit may qualify if the group presents an argument that it is occurring in response to a cause and/or issue that is relevant to a broader public (e.g. an employee who is believed to have been fired as retaliation for a recent protest). 
 
-(2) "Evidence of action". Must involve an attempt to present the cause and/or issue outside of the immediate group. Actions may be either internal (available or visible only to other employees) or external (available or visible to the broader public). Lawsuits may be be included if they are granted class action status or if they incite additional collective action.
+(2) "Evidence of action". Must involve an attempt to present the cause and/or issue outside of the immediate group. Actions may be either internal (available or visible only to other employees) or external (available or visible to the broader public). Lawsuits may be be included if they are granted class action status or if they incite additional collective action. Actions should not be the initiated by company management.
 
-(3) "Tech workers". Defined as current or recently employed (within the last year) workers in the tech industry. Tech industry includes but is not limited to information technology, Internet, hardware, software. Does not include adjacent industries, e.g. digital media (e.g. Vox, Buzzfeed) or the video game industry (unless the company's primary business is in any of the above categories, e.g. Niantic). Does include online retailers (e.g. Amazon, Wayfair) and social media companies.
+(3) "Tech workers". Defined as current or recently employed (within the last year) workers in the tech industry. Tech industry includes but is not limited to information technology, Internet, hardware, software. Does not include adjacent industries, e.g. digital media (e.g. Vox, Buzzfeed) or the video game industry (unless the company's primary business is in any of the above categories, e.g. Niantic). Does include online retailers (e.g. Amazon, Wayfair) and social media companies. Academics whose research concerns technology and students or interns who are preparing to enter the tech industry can be considered tech workers. 
 
 **If you are unsure about whether an action fits the definition, we encourage you to contribute anyways! We are always interested in hearing about new types of collective actions. The above definition may evolve over time.**
 
@@ -42,7 +42,7 @@ include, add it in the description field.
 | --- | --- | --- | --- |
 | date | True | YYYY-MM-DD | While the date may seem trivial, collecting dates may be comlex for multi-day events such as pickets or online petitions. In this repo, we collect only the start date of the action in the format YYYY-MM-DD. |
 | sources | True | List(url) | The url(s) of reliable sources that has reported on this event. |
-| action | True | str | What was the form of the action that took place? (`union_drive`, `union_representation`, `open_letter`, `strike`, `protest`, `legal_action`)|
+| actions | True | List(str) | What was the form of the action that took place? (`union_drive`, `union_representation`, `open_letter`, `strike`, `protest`, `legal_action`) |
 | struggles | True | List(str) | The kind of struggle workers are standing up against. (`pay_and_benefits`, `working_conditions`, `unfair_labor_practices`, `job_security`, `ethics`, `discrimination`)| 
 | description | True | str | A short paragraph describing the event where you can include information that isn't covered in the fields above. Multiple paragraphs are not allowed in this field. |
 | locations | False | List(str) | The location(s) of the action, or whether it was online. |
@@ -50,11 +50,11 @@ include, add it in the description field.
 | workers | False | int | The number of workers active in the action. Since we're only looking at collective actions, the number must be more than 1. Sometimes the sources do not state a concrete number when reporting. In those cases, lean on the conservative side. For example: "Hundreds of Uber drivers..." --> 100 |
 | tags | False | List(str) | Tag the event with a term or word that you feel is relevant but not captured by the other fields. One good thing to add is the kind of worker who is taking action. Please see below for more information on tags. |
 
-In the table above, `action` and `struggles` must contain only the following values:
+In the table above, `actions` and `struggles` must contain only the following values:
 
 | Fields | Valid Values | 
 | --- | --- |
-| action | `strike`, `protest`, `open_letter`, `legal_action`, `union_drive`, `union_represenation` | 
+| actions | `strike`, `protest`, `open_letter`, `legal_action`, `union_drive`, `union_represenation` | 
 | struggles | `ethics`, `pay_and_benefits`, `working_conditions`, `discrimination`, `unfair_labor_practices`, `job_security` |
 
 If any of the following __tags__ are applicable, please add them to the action:
@@ -69,7 +69,7 @@ action. Copy and paste the html snippet under the opening `<div>` tag in the REA
 - date: 2018-01-01
 - sources: https://www.your.valid/source1, https://www.your.valid/source2
 - companies: amazon
-- action: protest
+- actions: protest, open_letter
 - struggles: ethics, discrimination
 - workers: 1000
 - description: Thousands of people protest a military contract in Queens.
@@ -80,7 +80,7 @@ action. Copy and paste the html snippet under the opening `<div>` tag in the REA
 
 Please note the following aspects:
 - If you would like your github username affiliated with the action you added, add an attribute `author` in the `<table>` tag with your github username. If you wish to remain anonymous, skip this step. Keep in mind, your github username will be affiliated with the PR.
-- If you add multiple values to a field, make sure the values are comma-seprated. For example, if two types of struggle were involved in the action, it would look like so: `pay_and_benefits, working_conditions`
+- If you add multiple values to a field, make sure the values are comma-seprated. For example, if two types of struggle were involved, it would look like so: `pay_and_benefits, working_conditions`
 - DO NOT add additional fields to the file. If you wish to include other information, add it in the description field or as a tag.
 
 ## Making A Pull Request (PR)

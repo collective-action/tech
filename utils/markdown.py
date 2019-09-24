@@ -23,7 +23,7 @@ class MultipleMarkdownDataFound(Exception):
 
 
 def replace_md_data(
-    doc: MarkdownDocument, actions_id: str, md_data: MarkdownData
+    doc: MarkdownDocument, cas_id: str, md_data: MarkdownData
 ) -> MarkdownDocument:
     """ Replace the table in {doc} with {md_data}.
 
@@ -31,7 +31,7 @@ def replace_md_data(
 
     Args:
         doc: The markdown document to modify
-        actions_id: The id of the md data div to look for
+        cas_id: The id of the md data div to look for
         md_data: The markdown data to replace the old one with
 
     Raises:
@@ -42,7 +42,7 @@ def replace_md_data(
         Updated markdown document
     """
     new_md_data = BeautifulSoup(md_data, "html.parser")
-    old_md_data = re.findall(fr'<div id="{actions_id}">+[\s\S]+<\/div>', doc)
+    old_md_data = re.findall(fr'<div id="{cas_id}">+[\s\S]+<\/div>', doc)
     if not old_md_data:
         raise MarkdownDataNotFound
     if len(old_md_data) > 1:
@@ -50,7 +50,7 @@ def replace_md_data(
     return doc.replace(old_md_data[0], new_md_data.prettify())
 
 
-def update_summary_action(
+def update_ca_summary(
     doc: MarkdownDocument,
     summary_id: str,
     summary_field: str,
@@ -72,14 +72,18 @@ def update_summary_action(
 
 
 def update_markdown_document(
-    doc: MarkdownDocument, action_id: str, actions: "Actions"
+    doc: MarkdownDocument,
+    ca_id: str,
+    cas: "CollectiveActions",
 ) -> MarkdownDocument:
     """ Replace markdown table and update summary. """
-    doc = replace_md_data(doc, action_id, actions.to_readme())
-    doc = update_summary_action(
-        doc, SUMMARY_ID, "action-count", str(len(actions))
+    doc = replace_md_data(
+        doc, ca_id, cas.to_readme()
+    )
+    doc = update_ca_summary(
+        doc, SUMMARY_ID, "action-count", str(len(cas))
     )
     tz = pytz.timezone("US/Eastern")
     now = datetime.datetime.now(tz).strftime("%d/%m/%Y %I:%M%p")
-    doc = update_summary_action(doc, SUMMARY_ID, "timestamp", now)
+    doc = update_ca_summary(doc, SUMMARY_ID, "timestamp", now)
     return doc
