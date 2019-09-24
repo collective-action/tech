@@ -17,9 +17,9 @@ def was_csv_updated() -> bool:
     csv_actions = get_actions_from_csv()
     files_actions = get_actions_from_files()
     return (
-        return True
+        True
         if len(csv_actions) > len(files_actions)
-        else return False
+        else False
     )
 
 if __name__ == "__main__":
