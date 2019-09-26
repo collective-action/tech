@@ -28,10 +28,7 @@ steps:
 - bash: |
     source activate cait
     ls -la
-    python .ci/update.py
-    # python update.py --files-cleanup
-    # python update.py --files-to-csv
-    # python update.py --files-to-readme
+    python update.py --auto
     git config --local user.name "Azure Pipelines"
     git config --local user.email "organizejs@gmail.com"
     git add README.md

@@ -1,27 +1,15 @@
 import os
 import textwrap
 import argparse
-import pandas as pd
 import warnings
-from pathlib import Path
-from utils.collective_action import CollectiveAction, CollectiveActions
-from utils.markdown import (
-    update_markdown_document,
-    SUMMARY_ID,
-    MarkdownData,
-    MarkdownDocument,
-)
 from utils.files import FileClient
-
-README = Path(
-    os.path.realpath(
-        os.path.join(os.path.abspath(__file__), os.pardir, "README.md")
-    )
-)
-CSV = Path(
-    os.path.realpath(
-        os.path.join(os.path.abspath(__file__), os.pardir, "actions.csv")
-    )
+from utils.convert import (
+    get_cas_from_csv,
+    get_cas_from_files,
+    save_cas_to_readme,
+    save_cas_to_csv,
+    README,
+    CSV
 )
 
 
@@ -37,6 +25,10 @@ def _get_parser():
         ),
         epilog=textwrap.dedent(
             """
+        # Automatically detect if csv or files are most up-to-date and update
+        # accordingly
+        $ python update.py --auto
+
         # Update files in action folder
         $ python update.py --files-cleanup
 
@@ -48,6 +40,11 @@ def _get_parser():
         """
         ),
         formatter_class=argparse.RawDescriptionHelpFormatter,
+    )
+    parser.add_argument(
+        "--auto",
+        action="store_true",
+        help="automatically detect if csv of files are most up-to-date and update accordingly."
     )
     parser.add_argument(
         "--files-cleanup",
@@ -84,34 +81,35 @@ def _get_parser():
     return args
 
 
-def get_cas_from_files():
-    fc = FileClient()
-    files = fc.get_all_files()
-    return CollectiveActions.read_from_files(files).sort()
-
-
-def get_cas_from_csv():
-    df = pd.read_csv(CSV)
-    return CollectiveActions.read_from_df(df).sort()
-
-
-def save_cas_to_readme(cas: CollectiveActions):
-    readme = Path(README)
-    md_document = readme.read_text()
-    md_document = update_markdown_document(
-        md_document, CollectiveActions.ca_id, cas
+def was_csv_updated() -> bool:
+    """ This function compares the last modified time on the csv file to the
+    actions folder to check which was last modified. """
+    csv_last_modified_time = os.path.getmtime(str(CSV))
+    files_last_modified_time = os.path.getmtime(str(FileClient.get_cas_folder()))
+    return (
+        True
+        if csv_last_modified_time > files_last_modified_time
+        else False
     )
-    readme.write_text(md_document)
-
-
-def save_cas_to_csv(cas: CollectiveActions):
-    df = cas.to_df()
-    df.to_csv(CSV)
 
 
 if __name__ == "__main__":
     warnings.filterwarnings("ignore", category=UserWarning, module="bs4")
     args = _get_parser()
+
+    if args.auto:
+        print("Update repo automatically.")
+        if was_csv_updated():
+            print("CSV is most up-to-date, updating files and readme accordingly.")
+            cas = get_cas_from_csv()
+            save_cas_to_csv(cas)
+            cas.to_files()
+        else:
+            print("Files are most up-to-date, updating csv and readme accordingly.")
+            cas = get_cas_from_files()
+            cas.to_files()
+            save_cas_to_csv(cas)
+        save_cas_to_readme(cas)
 
     if args.files_cleanup:
         print("Cleaning up actions in files...")
@@ -135,7 +133,7 @@ if __name__ == "__main__":
 
     if args.csv_to_files:
         print("Clearning up the actions in the csv...")
-        actions = get_actions_from_csv()
+        actions = get_cas_from_csv()
         save_actions_to_csv(actions)
 
     if args.csv_to_files:
