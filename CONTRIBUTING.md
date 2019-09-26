@@ -24,10 +24,22 @@ Events must be "collective" and contain "evidence of action" by currently or rec
 **If you are unsure about whether an action fits the definition, we encourage you to contribute anyways! We are always interested in hearing about new types of collective actions. The above definition may evolve over time.**
 
 ## Github Steps to Contributing
-Here are the basic steps to adding a new action using a pull request:
-1. Create a new event under the '/actions' folder in the root directory on Github.com.
-1. Create a new branch (with the event name you want to add in the branch title), and open a pull-request.
-1. Make a [pull request](https://help.github.com/en/articles/creating-a-pull-request) from the branch you've created into the master branch.
+
+There are two ways that you can add or update collective actions in this repo: updating the `actions.csv` file __or__ the `.md` files inside of the `actions/` folder. Only update one or the other. Once you've made your update, commit those changes to a new branch and create a pull-request into the master branch.
+
+Once the changes get pushed to the repo, the CI pipeline will automatically update the rest of the repo accordingly by checking whether there are more events in the `actions/` folder or the `actions.csv` file. If there are more actions in the `actions.csv` file, it will update the rest of the repo based on that file. Likewise, if there are more actions in the `actions/` folder, it will update the rest of the repo using those actions. This means you *should* not be updating both the `actions/` folder AND the `actions.csv`. 
+
+If there are the same number of actions in both the `actions.csv` file and the `actions/` folder, the CI pipeline will use the `actions.csv` file as the source of truth and update the rest of the repo based on it.
+
+__Updating the actions folder__
+
+Create a new markdown file under the '/actions' folder in the root directory of this repo. We recommend naming it something unique like `<username>-<action>.md` so that it doesn't conflict with any other file.
+
+Once your changes are committed, the CI pipeline will automatically sort all the events inside the `actions/` folder. It will also update the `README.md` and the `actions.csv` accordingly.
+
+__Updating the csv__
+
+If you plan on editing or adding multiple events, we recommend using this method. Simply update the fields of the `actions.csv` or add new collective actions to the list. If you are adding new events, simply add them on at the end of the CSV file as new rows. Once your changes are committed, the CI pipeline will automatically sort all the events and update the CSV file. It will also update the `README.md` and the `actions/` folder accordingly.
 
 ## Data Fields
 
