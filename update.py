@@ -83,12 +83,17 @@ def _get_parser():
 
 def was_csv_updated() -> bool:
     """ This function compares the last modified time on the csv file to the
-    actions folder to check which was last modified. """
-    csv_last_modified_time = os.path.getmtime(str(CSV))
-    files_last_modified_time = os.path.getmtime(str(FileClient.get_cas_folder()))
+    actions folder to check which was last modified.
+
+    1. check if csv or files have more actions.
+    2. if same number of actions, assume the update was made in the csv
+    """
+    csv_actions = get_cas_from_csv()
+    file_actions = get_cas_from_files()
+
     return (
         True
-        if csv_last_modified_time > files_last_modified_time
+        if len(csv_actions) >= len(file_actions)
         else False
     )
 
