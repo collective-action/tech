@@ -26,6 +26,7 @@ steps:
   displayName: pytest
 
 - bash: |
+    source activate cait
     python update.py --auto
   displayName: Run update code to see if any errors occur.
 
