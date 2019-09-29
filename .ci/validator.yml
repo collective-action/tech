@@ -25,6 +25,10 @@ steps:
     pytest --junitxml=junit/unit-test.xml
   displayName: pytest
 
+- bash: |
+    python update --auto
+  displayName: Run update code to see if any errors occur.
+
 - task: PublishTestResults@2
   inputs:
     testResultsFiles: 'junit/*.xml'
