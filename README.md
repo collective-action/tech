@@ -13,11 +13,11 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">26/09/2019 12:44PM</td>
+    <td data-summary="timestamp">26/09/2019 06:46PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">138</td>
+    <td data-summary="action-count">141</td>
   </tr>
  </table>
 </div>
@@ -44,7 +44,37 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     Hopkins Coalition Against ICE (HCAI), a student organization, organized three protests over the course of the 2018-19 school year against contracts between Johns Hopkins University Center for Law Enforcement Medicine and ICE (U.S. Dept. of Immigrations Customs and Enforcement). In response, the Center announced that they would not be renewing their contract.
    </td>
    <td>
-    <a href="/actions/0137.md">
+    <a href="/actions/0140.md">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="organizejs">
+   <td>
+    2019/09/18
+   </td>
+   <td>
+    Mere days before Microsoft workers are set to walk out of their jobs and publicly call on their employer to reduce carbon emissions and sever its ties with fossil fuel companies, the tech giant has announced a major partnership with two of the biggest corporations in the oil industry. Microsoft employees have responded with a fiery statement condemning the partnership and calling on fellow employees to join them in walking out on September 20th. The protest is part of a global general strike on September 20th 2019.
+   </td>
+   <td>
+    <a href="/actions/0139.md">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="organizejs">
+   <td>
+    2019/09/17
+   </td>
+   <td>
+    Google employees have announced they are joining their big tech counterparts at Amazon and Microsoft in walking off the job on Sept. 20 to participate in the global climate strike. Over 2,000 Google workers have signed a pledge supporting climate action at Google. They will be sharing their reasons for signing on their Twitter page. The protest is part of a global general strike on September 20th 2019.
+   </td>
+   <td>
+    <a href="/actions/0138.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -57,6 +87,21 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    </td>
    <td>
     Microsoft employees are using a shared Google spreadsheet to compile data on salary and bonuses. The spreadsheet also makes note of employee level, or rank, within the company in an attempt to encourage greater transparency on compensation.
+   </td>
+   <td>
+    <a href="/actions/0137.md">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="organizejs">
+   <td>
+    2019/09/09
+   </td>
+   <td>
+    Over 1700 Amazon employees have signed an internal petition pledging to walk out over their employer's lack of action on climate change. The demonstration, scheduled to start at 11:30 am Pacific time on September 20, will mark the first time in Amazon’s 25-year history that workers at its Seattle headquarters have walked off the job, though many are taking paid vacation to do so. Most of the workers who have signed on so far work in Seattle, but employees in other offices, including in Europe, have indicated an interest in the event as well. The protest is part of a global general strike on September 20th 2019.
    </td>
    <td>
     <a href="/actions/0136.md">
