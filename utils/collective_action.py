@@ -80,6 +80,7 @@ class CollectiveAction:
             if isinstance(field, (list,)):
                 return field
             else:
+                field = field.strip('\"')
                 return [s.strip().lower() for s in field.split(",")]
 
     def __post_init__(self):
@@ -114,7 +115,7 @@ class CollectiveAction:
             assert (
                 BeautifulSoup(source, "html.parser").a is not None
                 or urlparse(source).netloc is not ""
-            ), f"'{source}' is in valid. source must be a valid url or an html link tag element"
+            ), f"'{source}' is invalid. source must be a valid url or an html link tag element"
 
         # if html, extract only href from sources
         self.sources = [
