@@ -71,7 +71,7 @@ In the table above, `actions` and `struggles` must contain only the following va
 
 If any of the following __tags__ are applicable, please add them to the action:
 
-`white_collar_workers`, `blue_collar_workers`, `contract_workers`, `factory_workers`, `informal_workers`, `independent_contract_workers`, `coworker_solidarity`, `delivery_workers`, `industry_solidarity`, `international_solidarity`,  `food_service_workers`, `lgbtq`, `funding_raising`, `mijente`, `lgtbq`, `temporary_workers_of_america`, `military_contracts`,`trade_war`, `seiu`, `law_enforcement`, `sexism`, `muslim_registry`, `janitors`, `rideshare_workers`, `academics`, `moderators`, `gig_workers_rising`, `twc`, `drivers`, `security_guards`, `technicians`, `unite_here`, `climate_change`, `ice`, `ai`, `trump`, `retaliation`, `cbp`, `teamster`, `immigration`, `students`
+`white_collar_workers`, `blue_collar_workers`, `contract_workers`, `factory_workers`, `informal_workers`, `independent_contract_workers`, `workers_not_specified`, `coworker_solidarity`, `delivery_workers`, `industry_solidarity`, `international_solidarity`,  `food_service_workers`, `lgbtq`, `funding_raising`, `mijente`, `lgtbq`, `temporary_workers_of_america`, `military_contracts`,`trade_war`, `seiu`, `law_enforcement`, `sexism`, `muslim_registry`, `janitors`, `rideshare_workers`, `academics`, `moderators`, `gig_workers_rising`, `twc`, `drivers`, `security_guards`, `technicians`, `unite_here`, `climate_change`, `ice`, `ai`, `trump`, `retaliation`, `cbp`, `teamster`, `immigration`, `students`
 
 ## Formatting
 When adding an update to the README, use the provided html code below to add a
