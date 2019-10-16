@@ -1,0 +1,10 @@
+- date: 2019/10/02
+- sources: http://thetartan.org/2019/10/7/news/palantir-protest
+- actions: protest 
+- struggles: ethics
+- description: A coalition of students protested Palantir & other ICE-friendly recruitment on the Carnegie Mellon University campus 
+- locations: usa, pittsburgh
+- companies: Carnegie Mellon University
+- workers: 40
+- tags: students, mijente, academics
+- author: moates
