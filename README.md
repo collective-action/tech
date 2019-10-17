@@ -13,11 +13,11 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">11/10/2019 01:29PM</td>
+    <td data-summary="timestamp">17/10/2019 01:02PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">174</td>
+    <td data-summary="action-count">175</td>
   </tr>
  </table>
 </div>
@@ -42,6 +42,21 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    </td>
    <td>
     Approximately 60 Amazon workers walked out of a delivery center in Eagan, Minnesota to demand increased wages, weight restrictions on boxes, and abolishing a cap on 30 hour workweeks. The strike lasted two and half hours until a manager promised to address concerns the following morning.
+   </td>
+   <td>
+    <a href="/actions/0174.md">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="moates">
+   <td>
+    2019/10/02
+   </td>
+   <td>
+    A coalition of students protested Palantir &amp; other ICE-friendly recruitment on the Carnegie Mellon University campus. They disrupted a Palantir recruitment event, held 500 in-person conversations with passing colleagues, &amp; collected 150 promises from fellow students to not work or engage with Palantir.
    </td>
    <td>
     <a href="/actions/0173.md">
