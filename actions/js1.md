@@ -1,0 +1,10 @@
+- date: 2019/10/03
+- sources: https://english.kyodonews.net/news/2019/10/d2198529f08b-update1-uber-eats-delivery-staff-in-japan-form-labor-union.html, https://www.japantimes.co.jp/news/2019/10/03/business/corporate-business/uber-eats-delivery-staff-japan-form-labor-union/#.XauRDOhKiHs
+- actions: union_representation
+- struggles: working_conditions
+- description: Staff in Japan of ride-hailing company Uber's food delivery service formed a labor union Thursday to negotiate contract terms and seek improved working conditions. The union, formed by 17 platformers, also plans to request the Japanese unit of the U.S. company to ensure fair treatment among delivery riders and review how distance-based wages are set.
+- locations: tokyo, japan
+- companies: uber
+- workers: 17
+- tags: independent_contract_workers, delivery_workers
+- author: organizejs
