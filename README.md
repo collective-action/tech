@@ -13,11 +13,11 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">11/11/2019 04:44PM</td>
+    <td data-summary="timestamp">11/11/2019 05:12PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">194</td>
+    <td data-summary="action-count">195</td>
   </tr>
  </table>
 </div>
@@ -34,6 +34,21 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    </td>
    <td>
     link
+   </td>
+  </tr>
+  <tr author="nataliyaned">
+   <td>
+    2019/11/06
+   </td>
+   <td>
+    Uber and Lyft employees protested outside the homes of three company investors to highlight the inequality between them and their workforce in a campaign called "Deactivate Uber Billionaires". The San Francisco Chronicle reports that protests occured at "the San Francisco office of GV, the venture capital arm of Google parent Alphabet that was an early Uber investor; the Atherton mansion of Bill Gurley, an Uber board member and venture capitalist; and the Beverly Hills home of Uber co-founder Garrett Camp". The protests coincide with the end of Uber's stock lockup period six months after their IPO.
+   </td>
+   <td>
+    <a href="/actions/0194.md">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
    </td>
   </tr>
   <tr author="nataliyaned">
