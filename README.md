@@ -13,11 +13,11 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">11/11/2019 05:12PM</td>
+    <td data-summary="timestamp">11/11/2019 05:26PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">195</td>
+    <td data-summary="action-count">198</td>
   </tr>
  </table>
 </div>
@@ -36,6 +36,36 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     link
    </td>
   </tr>
+  <tr author="organizejs">
+   <td>
+    2019/11/08
+   </td>
+   <td>
+    WeWork employees have formed a group to campaign for better severance pay, employment conditions and an end to "deception, exclusion and selfishness at the company's highest levels" following the turmoil of its failed IPO process. The WeWorkers Coalition announced its existence on Friday with a letter to management setting out demands including for sexual assault claims to be "taken seriously" and for thousands of employees about to lose their jobs to receive "fair and reasonable separation terms". "Thousands of us will be laid off in the upcoming weeks. But we want our time here to have meant something" the group said in its letter. A software engineer at WeWork who is helping to organise the WeWorkers Coalition, said 185 people had signed the letter to management, while at least 600 expressed an interest in joining ahead of the group publicising its launch this week. The coalition wants cleaners and maintenance staff to receive full benefits and fair pay.
+   </td>
+   <td>
+    <a href="/actions/0197.md">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="organizejs">
+   <td>
+    2019/11/06
+   </td>
+   <td>
+    Shutterstock engineers were tasked with the creation of a search blacklist that would wipe from query results images associated with keywords forbidden by the Chinese government, including images of the Hong Kong protests. The company's decision to silently aid China's censorship agenda comes at a time of heightened scrutiny into the relationship between corporate America and President Xi Jinping's authoritarian regime. More than 180 Shutterstock workers to sign a petition against the search blacklist and accuse the company of trading its values for access to the lucrative Chinese market. They write that by "complying, we are enabling injustices, including the discrimination of the people of Hong Kong, the suppression of Chinese political dissent, and undermining the sovereignty of Taiwanese people."
+   </td>
+   <td>
+    <a href="/actions/0196.md">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
   <tr author="nataliyaned">
    <td>
     2019/11/06
@@ -44,7 +74,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     Uber and Lyft employees protested outside the homes of three company investors to highlight the inequality between them and their workforce in a campaign called "Deactivate Uber Billionaires". The San Francisco Chronicle reports that protests occured at "the San Francisco office of GV, the venture capital arm of Google parent Alphabet that was an early Uber investor; the Atherton mansion of Bill Gurley, an Uber board member and venture capitalist; and the Beverly Hills home of Uber co-founder Garrett Camp". The protests coincide with the end of Uber's stock lockup period six months after their IPO.
    </td>
    <td>
-    <a href="/actions/0194.md">
+    <a href="/actions/0195.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -59,7 +89,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     Over 1000 Google employees have signed a letter calling for their employer to take action on the issues of climate change and immigration. The letter called on Google to commit to zero carbon emissions by 2030, end all contracts with fossil fuel companies and climate change denying or delaying "think tanks, lobbyists, and politicians", and end all collaboration with organizations or individuals "enabling the incarceration, surveillance, displacement, or oppression of refugees or frontline communities".
    </td>
    <td>
-    <a href="/actions/0193.md">
+    <a href="/actions/0194.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -74,7 +104,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     "Thousands" of Instacart shoppers went on strike from Nov. 3rd to Nov. 5th to protest the company's new tipping policy, which returns a portion of tips to the corporation rather than the workers. Participating shoppers refused to answer requests on the app. Instacart workers are considered contractors currently but this will change on January 1st in the state of California under AB5 legislation.
    </td>
    <td>
-    <a href="/actions/0192.md">
+    <a href="/actions/0193.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -89,7 +119,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     Instacart workers circulated an open letter on Medium prior to a walkout scheduled for Nov. 3rd to Nov. 5th. Employees are protesting the company's history of systematically devaluing labor, using algorithms to reduce pay to employees and changing tipping structures to return profit to the company. Over 200 workers have signed the letter.
    </td>
    <td>
-    <a href="/actions/0191.md">
+    <a href="/actions/0192.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -104,7 +134,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     Over 200 employees of the data visualization company Tableau protested their company's contracts with the federal government. They called on their company to drop these contracts in oppositio to the actions of ICE (U.S. Immigration and Customs Enforcement) throughout the US and at the US-Mexico border. An open letter was also published on Medium.
    </td>
    <td>
-    <a href="/actions/0190.md">
+    <a href="/actions/0191.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -119,7 +149,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     More than 250 Facebook employees signed a letter to management protesting the company's decision to keep political ads, including those making false claims, on the social network during the 2020 US Presidential election. The letter was posted on Facebook Workplace, an internal communication service within the company.
    </td>
    <td>
-    <a href="/actions/0189.md">
+    <a href="/actions/0190.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -134,7 +164,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     Approximately 40 Google employees in Zurich held a meeting at the office to discuss unions and labor rights with representatives from Syndicom, a Swiss labor union. Employees had invited Syndicom to speak earlier in June but the event was cancelled at the request of management. Management later announced they would be holding a series of talk on labor rights and would allow Syndicom to join.
    </td>
    <td>
-    <a href="/actions/0188.md">
+    <a href="/actions/0189.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -149,7 +179,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     Microsoft employees are circulating a letter supporting an effort to get its GitHub subsidiary to cancel a contract with the U.S. Immigration and Customs Enforcement agency, the latest effort among tech-company staff to influence corporate policy on government work. The letter reflects concerns that Microsoft’s sales to the agency implicate the software maker in the government’s detention of immigrants.
    </td>
    <td>
-    <a href="/actions/0187.md">
+    <a href="/actions/0188.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -164,7 +194,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     Staff in Japan of ride-hailing company Uber's food delivery service formed a labor union Thursday to negotiate contract terms and seek improved working conditions. The union, formed by 17 platformers, also plans to request the Japanese unit of the U.S. company to ensure fair treatment among delivery riders and review how distance-based wages are set.
    </td>
    <td>
-    <a href="/actions/0186.md">
+    <a href="/actions/0187.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -179,7 +209,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     After GitHub CEO Nat Friedman wrote in an internal letter on Tuesday that the company plans to renew a contract worth $200,000 with ICE to license its GitHub Enterprise Server, GitHub's employees began publicly pressuring their company's leadership to stop working with the immigration agency over human rights concerns.
    </td>
    <td>
-    <a href="/actions/0185.md">
+    <a href="/actions/0186.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -194,7 +224,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     Approximately 60 Amazon workers walked out of a delivery center in Eagan, Minnesota to demand increased wages, weight restrictions on boxes, and abolishing a cap on 30 hour workweeks. The strike lasted two and half hours until a manager promised to address concerns the following morning.
    </td>
    <td>
-    <a href="/actions/0184.md">
+    <a href="/actions/0185.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -209,7 +239,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     A coalition of students protested Palantir &amp; other ICE-friendly recruitment on the Carnegie Mellon University campus. They disrupted a Palantir recruitment event, held 500 in-person conversations with passing colleagues, &amp; collected 150 promises from fellow students to not work or engage with Palantir.
    </td>
    <td>
-    <a href="/actions/0183.md">
+    <a href="/actions/0184.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -224,7 +254,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     Kickstarter workers have sent a letter to management asking them to voluntarily recognize their union. If management refuses to recognize the union, workers have the option to go to the NLRB to authorize a union election.
    </td>
    <td>
-    <a href="/actions/0182.md">
+    <a href="/actions/0183.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -239,7 +269,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     Amazon workers at a delivery center in Sacramento circulated a petition to reinstate two workers believed to have been unfairly fired and to give part-time workers paid time off. Management reinstated the two fired workers but did not acquiese to the request for paid time off. The action led workers to form a new group: Amazonians United Sacramento.
    </td>
    <td>
-    <a href="/actions/0181.md">
+    <a href="/actions/0182.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -254,7 +284,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     Deliveroo workers held wildcat strikes in 16 different UK cities in September in response to lowered wages. Strikers have blocked access to delivery-only kitchens that specifically cater to Deliveroo and other services and have publicly picketed. The Independent Workers of Great Britain Couriers and Logistics Branch (IWGB CLB) has been involved in organizing protests and reports that membership has grown 25% in recent months.
    </td>
    <td>
-    <a href="/actions/0180.md">
+    <a href="/actions/0181.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -269,7 +299,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     Over 400 Facebook employees protested publicly against the company's treatment of foreign workers on H1B visas days after a Chinese employee committed suicide by jumping off the roof of a company building. Workers at the company have started publicly posting and speaking out about the mistreatment of international workers, who are only allowed to stay in the US if they are sponsored by their employer and thus face greater pressures not to speak out against working conditions. Two separate GoFundMe pages have been started to raise money for a memorial and a protest event (over $6,000) and for Chen's family (over $122,000). Facebook has since fired one of the employees who organized the protest, Yi Yin. Yin also spoke to the press about the suicide after the company instructed him not to speak about the suicide.
    </td>
    <td>
-    <a href="/actions/0179.md">
+    <a href="/actions/0180.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -284,7 +314,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     Students at UC Berkeley have led protests and circulated petitions to stop Palantir from attending campus events due to their standing contracts with ICE. 50 students attended a protest and over 700 students and faculty signed a petition to stop an upcoming informational session.
    </td>
    <td>
-    <a href="/actions/0178.md">
+    <a href="/actions/0179.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -299,7 +329,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     Contract workers at Google in Pittsburgh have voted to unionize, joining the United Steel Workers Union. News outlets report that this is the first successful unionization of white-collar tech contractors. Workers intend to use their position to bargain for compensation, benefits, and job security comparable to Google employees. Google currently employs more contract workers (135,000) than direct Google employees (115,000) according to the Guardian. A group of Google employees have signed a letter of support and others have published a petition calling for the company to sign a neutrality agreement and abstain from union-busting tactics.
    </td>
    <td>
-    <a href="/actions/0177.md">
+    <a href="/actions/0178.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -314,7 +344,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     Students at Brown demonstrated against four companies (Amazon, Microsoft, Palantir, and Ernst &amp; Young) at an on-campus career fair. All four companies have done business with ICE. The students have also started an online petition to protest Brown's connections to these four companies.
    </td>
    <td>
-    <a href="/actions/0176.md">
+    <a href="/actions/0177.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -329,7 +359,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     Google employees created an internal document describing cases of discrimination and retaliation by the company. 45 cases were reported.
    </td>
    <td>
-    <a href="/actions/0175.md">
+    <a href="/actions/0176.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -344,7 +374,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     Hopkins Coalition Against ICE (HCAI), a student organization, organized three protests over the course of the 2018-19 school year against contracts between Johns Hopkins University Center for Law Enforcement Medicine and ICE (U.S. Dept. of Immigrations Customs and Enforcement). In response, the Center announced that they would not be renewing their contract.
    </td>
    <td>
-    <a href="/actions/0174.md">
+    <a href="/actions/0175.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -359,7 +389,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     Mere days before Microsoft workers are set to walk out of their jobs and publicly call on their employer to reduce carbon emissions and sever its ties with fossil fuel companies, the tech giant has announced a major partnership with two of the biggest corporations in the oil industry. Microsoft employees have responded with a fiery statement condemning the partnership and calling on fellow employees to join them in walking out on September 20th. The protest is part of a global general strike on September 20th 2019.
    </td>
    <td>
-    <a href="/actions/0173.md">
+    <a href="/actions/0174.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -374,7 +404,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     Google employees have announced they are joining their big tech counterparts at Amazon and Microsoft in walking off the job on Sept. 20 to participate in the global climate strike. Over 2,000 Google workers have signed a pledge supporting climate action at Google. They will be sharing their reasons for signing on their Twitter page. The protest is part of a global general strike on September 20th 2019.
    </td>
    <td>
-    <a href="/actions/0172.md">
+    <a href="/actions/0173.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -389,7 +419,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     Over 2000 students from at least two dozen universities have signed a petition calling for universities to cut their ties with Palantir and vowing not to work for the company due to their connections with ICE. The petition was organized by Mijente and has concided with multiple protests on college campuses in recent weeks, coinciding with recruiting season.
    </td>
    <td>
-    <a href="/actions/0171.md">
+    <a href="/actions/0172.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -404,7 +434,7 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
     Microsoft employees are using a shared Google spreadsheet to compile data on salary and bonuses. The spreadsheet also makes note of employee level, or rank, within the company in an attempt to encourage greater transparency on compensation.
    </td>
    <td>
-    <a href="/actions/0170.md">
+    <a href="/actions/0171.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -417,6 +447,21 @@ The goal of _Collective Action in Tech_ is to give us, tech workers, insights on
    </td>
    <td>
     Over 1700 Amazon employees have signed an internal petition pledging to walk out over their employer's lack of action on climate change. The demonstration, scheduled to start at 11:30 am Pacific time on September 20, will mark the first time in Amazon’s 25-year history that workers at its Seattle headquarters have walked off the job, though many are taking paid vacation to do so. Most of the workers who have signed on so far work in Seattle, but employees in other offices, including in Europe, have indicated an interest in the event as well. The protest is part of a global general strike on September 20th 2019.
+   </td>
+   <td>
+    <a href="/actions/0170.md">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="organizejs">
+   <td>
+    2019/09/07
+   </td>
+   <td>
+    A group of Facebook employees published an anonymous memo saying the culture at the company has only gotten worse for nonwhite workers. Published on Medium, the letter documents a variety of micro- and full-blown aggressions employees say they have endured over the last year from managers, HR, and their white colleagues. The memo was co-written by 12 current employees, including black, Latinx, and Asian women workers. One program manager describes being told by two white employees to "clean up after their mess" at breakfast. When the program manager flagged the incident for their supervisor, they were told to "dress more professionally."
    </td>
    <td>
     <a href="/actions/0169.md">
