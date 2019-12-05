@@ -1,7 +1,7 @@
 - date: 2019/11/22
 - sources: https://techcrunch.com/2019/11/21/google-employees-will-rally-in-protest-of-alleged-worker-retaliation/, https://www.vox.com/recode/2019/11/22/20978537/google-workers-suspension-employee-activists-protest
 - actions: protest
-- struggles: working_conditions
+- struggles: unfair_labor_practices
 - description: A group of roughly 200 Googler and other protesters rallied outside of the search giant’s offices in San Francisco on Friday, demanding the company reinstate two colleagues who they say were unjustly punished for workplace organizing at the company — calling it an attack on accountability and transparency in tech. Google has said the employees were placed on administrative leave for violating company policies about accessing sensitive internal documents and monitoring employees’ calendar events. They accuse management of targeting Rebecca Rivers and Laurence Berland, because of their involvement in worker activism at the company. Rivers helped put together a petition against Google’s work for US immigration enforcement agency Customs and Border Patrol (CBP), and Berland was involved with employee protests about hate speech policies on YouTube. Protesters are demanding that Rivers and Berland be reinstated at work immediately. Organizers called their suspension an “attempt to silence workers,” in an email about the rally.
 - locations: san_francisco, california, usa
 - companies: google
