@@ -1,7 +1,7 @@
 - date: 2019/11/13
 - sources: https://www.vice.com/en_us/article/evjwwp/as-githubs-conference-begins-five-employees-resign-over-protest-ice-contract
-- actions: union_drive
-- struggles: pay_and_benefits, working_conditions
+- actions: protest
+- struggles: ethics
 - description: Before Github’s CEO Nat Friedman delivered his keynote address at Github Universe, an annual Github-hosted conference, dozens of tech workers and immigrant rights activists protested outside with a replica of the cages ICE uses to detain migrant families and children. “The demonstration [is in response to] GitHub's contract with ICE and is intended to show support for the GitHub workers who are organizing internally to get the contract cancelled,” said a representative of Tech Workers Coalition, the group organizing the protest. Just before the annual conference, 5 Githubbers left the company, citing Github's involvement with ICE. 
 - locations: san_francisco, california, usa
 - companies: Github, Microsoft
