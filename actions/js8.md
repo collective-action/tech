@@ -1,0 +1,10 @@
+- date: 2019/12/4
+- sources: https://www.latimes.com/business/technology/story/2019-12-04/github-open-source-developers-ice-contract
+- actions: open_letter
+- struggles: ethics
+- description: In an open letter published Wednesday on GitHub, software developers representing the open source community joined the call for GitHub to immediately cancel the $200,000 contract with ICE. "Open source is about inverting power structures and creating access and opportunities for everyone," the letter, signed by 167 developers at the time of publication, reads. "We, the undersigned, cannot see how to reconcile our ethics with GitHub’s continued support of ICE. Moreover, your lack of transparency around the ethical standards you use for conducting business is also concerning to a community that is focused around doing everything out in the open."
+- locations: online
+- companies: Github, Microsoft
+- workers: 200
+- tags: white_collar_workers, industry_solidarity, immigration, ice
+- author: organizejs
