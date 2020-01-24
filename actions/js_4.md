@@ -1,0 +1,9 @@
+- date: 2019/12/13
+- sources: https://www.businessinsider.com/google-employees-flood-top-lawyer-with-emails-in-protest-2019-12, https://www.bloomberg.com/news/articles/2019-12-13/google-culture-war-escalates-as-era-of-transparency-wanes
+- actions: protest
+- struggles: working_conditions
+- description: A group of Googlers unhappy with the company's expanding 'need to know' restrictions on internal documents have come up with a clever form of protest: A new tool that sends auto alerts to Google's top lawyer every time an employee opens a company document. The deluge of notifications was meant as a protest to what they saw as Walker’s insistence on controlling the minutiae of their professional lives. 
+- locations: online
+- companies: google
+- tags: white_collar_workers
+- author: organizejs
