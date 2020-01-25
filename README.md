@@ -13,11 +13,11 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">18/01/2020 03:13PM</td>
+    <td data-summary="timestamp">24/01/2020 11:54PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">212</td>
+    <td data-summary="action-count">220</td>
   </tr>
  </table>
 </div>
@@ -38,10 +38,130 @@ The goal of this archive is to provide data and insights on organizing in the te
   </tr>
   <tr author="organizejs">
    <td>
+    2020/01/13
+   </td>
+   <td>
+    Many of the app's 130,000 workers claim to have seen their pay drop by more than 50 percent in 2019 alone, as the company has sought to lower costs and appease its investors. Workers are now calling for a national boycott. They’re asking customers and the general public to tweet under the hashtag #DeleteInstacart on January 19, and to email Instacart CEO Apoorva Mehta on January 20, asking him to restore the 10 percent default tip—which workers lost back in 2016. (The default tip sits at five percent.)
+   </td>
+   <td>
+    <a href="/actions/0219.md">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="organizejs">
+   <td>
+    2019/12/23
+   </td>
+   <td>
+    More than 30 Amazon workers at a Sacramento warehouse walked off the job, demanding they receive paid time off. 36 workers — out of around 100 in total on the shift— left work two hours early after they read a letter to management out loud stating their demands to be granted paid time off (PTO) and meet with management to discuss their concerns, according to a worker at the site. These workers — who say they lift hundreds of packages a day in “back-breaking” labor —currently receive zero PTO days a year. The walkout comes weeks after workers say management has ignored their requests to meet with leaders of a group organizing around the issue. So far, workers have circulated an internal and public petition gaining over 4,000 signatures in total.
+   </td>
+   <td>
+    <a href="/actions/0218.md">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="organizejs">
+   <td>
+    2019/12/23
+   </td>
+   <td>
+    One-third of the night shift at one of Amazon's Sacramento warehouse walked off the job in the wee hours of December 23. Workers went together on a break to deliver their demands to management, then clocked out. Night-shift workers delivered a petition with 4,015 signatures to management during their 2:30 a.m. break on December 23. After reading out loud their demands for a meeting with management and paid time off, 36 of the 100 night-shift workers clocked out at 2:45 a.m. and walked off the job mid-shift.
+   </td>
+   <td>
+    <a href="/actions/0217.md">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="organizejs">
+   <td>
+    2019/12/19
+   </td>
+   <td>
+    In an open letter, several engineers, researchers, analysts, and designers working with global companies such as Google and Facebook have condemned the Citizenship (Amendment) Act in India. The letter, issued "in solidarity with the Indian democracy", was posted through the "TechAgainstFascism" handle on Medium. It called upon technology leaders to take a stance and publicly denounce the "fascist acts by the Indian government". "We call upon the leaders to use technology as a force for good, to refuse to share user details with the government, refuse to shut off the Internet at the government's whim, provide tools for citizen mobilization, and ensure that content moderation is not skewing pro-government," it said.
+   </td>
+   <td>
+    <a href="/actions/0216.md">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="organizejs">
+   <td>
+    2019/12/13
+   </td>
+   <td>
+    A group of Googlers unhappy with the company's expanding 'need to know' restrictions on internal documents have come up with a clever form of protest: A new tool that sends auto alerts to Google's top lawyer every time an employee opens a company document. The deluge of notifications was meant as a protest to what they saw as Walker’s insistence on controlling the minutiae of their professional lives.
+   </td>
+   <td>
+    <a href="/actions/0215.md">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="organizejs">
+   <td>
+    2019/12/12
+   </td>
+   <td>
+    E-scooter workers in San Francisco at the Ford-owned start-up Spin joined a union on Wednesday—a first in the fledgling industry. Roughly 40 Spin workers—who collect, repair, deploy, and charge Spin’s fleet of more than 500 electric scooters on the streets of San Francisco—are now part of Teamsters Local 665, as first reported by the San Francisco Examiner. The union says workers want to negotiate for better pay, health care, and retirement security in their first contract.
+   </td>
+   <td>
+    <a href="/actions/0214.md">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="organizejs">
+   <td>
+    2019/12/10
+   </td>
+   <td>
+    Injured former Amazon warehouse workers and labor organizers in Chicago are protesting dangerous work speed and high injury rates today outside one of the company’s brick-and-mortar stores in downtown Chicago. The action coincides with the release of a new report on injury rates in one of the region’s largest and most dangerous warehouses, MDW7, the first in Illinois with automated robots. The report and protest in Chicago coincides with the launch of a national coalition, known as Athena, of three dozen grassroots labor, antitrust, and digital rights organizations—the first unified resistance effort in the United States against the delivery giant.
+   </td>
+   <td>
+    <a href="/actions/0213.md">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="organizejs">
+   <td>
     2019/12/04
    </td>
    <td>
     In an open letter published Wednesday on GitHub, software developers representing the open source community joined the call for GitHub to immediately cancel the $200,000 contract with ICE. "Open source is about inverting power structures and creating access and opportunities for everyone," the letter, signed by 167 developers at the time of publication, reads. "We, the undersigned, cannot see how to reconcile our ethics with GitHub’s continued support of ICE. Moreover, your lack of transparency around the ethical standards you use for conducting business is also concerning to a community that is focused around doing everything out in the open."
+   </td>
+   <td>
+    <a href="/actions/0212.md">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="organizejs">
+   <td>
+    2019/12/03
+   </td>
+   <td>
+    Amazon delivery station employees in Sacramento are demanding fair treatment and benefits equal to those of other Amazon workers. By Sunday, more than 200 workers had signed a petition requesting an explanation for why they receive fewer paid days off per year than typical Amazon warehouse workers. The workers, who call themselves Amazonians United Sacramento, say that unlike other Amazon employees, they receive no paid time off. These workers, who sort and prepare packages for final-mile delivery in a station called DSM1, said they were told by Amazon managers that they get less paid time off (PTO) because they are classified by the company as Class Q workers. The Sacramento employees said they were previously unaware of any such classification.
    </td>
    <td>
     <a href="/actions/0211.md">
