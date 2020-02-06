@@ -1,0 +1,10 @@
+- date: 2019/07/13
+- sources: https://www.merca20.com/los-problemas-con-los-que-se-enfrentan-los-repartidores-de-comida-en-apps/ https://www.xataka.com.mx/aplicaciones/vacaciones-jubilacion-horario-flexible-que-repartidores-uber-eats-rappi-sindelantal-piden-al-ser-empleados-mexico
+- actions: protest
+- struggles: working_conditions, pay_and_benefits
+- description: After increasing concerns about accident and death rates for delivery drivers, delivery workers across Mexico rallied under the hashtag #NiUnRepartidorMenos (translation: Not One Deliveryperson More). The workers have demanded better working conditions, and advocate that labor law better considers gig apps. They look to companies for improved insurace coverage, company protection from theft, and look to governments for fairer delivery driver licensing.  Workers in the movement have succeded in meeting with several companies. 
+- locations: mexico, online
+- companies: Glovo, Uber, Rappi, SinDelantal, DiDi_Food, 
+- workers: 20000 
+- tags: contract_workers, delivery_workers
+- author: moates
