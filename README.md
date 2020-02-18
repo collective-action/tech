@@ -13,11 +13,11 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">13/02/2020 04:16PM</td>
+    <td data-summary="timestamp">18/02/2020 09:43AM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">225</td>
+    <td data-summary="action-count">226</td>
   </tr>
  </table>
 </div>
@@ -34,6 +34,21 @@ The goal of this archive is to provide data and insights on organizing in the te
    </td>
    <td>
     link
+   </td>
+  </tr>
+  <tr author="nataliyaned">
+   <td>
+    2020/02/05
+   </td>
+   <td>
+    Rideshare workers organized under Rideshare Drivers United filed wage claims with the California Labor Commissioner's Office seeking to be reimbursed for unpaid wages under AB5. AB5 took effect on Jan. 1 in California but is being disputed by rideshare companies who seek to keep drivers classified as contractors as opposed to employees. Under AB5, many drivers would be entitled to higher wages, pay for overtime, and compensation for work-related expenses.
+   </td>
+   <td>
+    <a href="/actions/0225.md">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
    </td>
   </tr>
   <tr author="nataliyaned">
