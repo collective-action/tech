@@ -13,11 +13,11 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">18/02/2020 09:43AM</td>
+    <td data-summary="timestamp">19/02/2020 07:00PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">226</td>
+    <td data-summary="action-count">227</td>
   </tr>
  </table>
 </div>
@@ -34,6 +34,21 @@ The goal of this archive is to provide data and insights on organizing in the te
    </td>
    <td>
     link
+   </td>
+  </tr>
+  <tr author="organizejs">
+   <td>
+    2020/02/18
+   </td>
+   <td>
+    Employees at the crowdfunding platform Kickstarter voted to unionize. The decision, which was formalized by a vote count at the National Labor Relations Board, came down to a narrow margin, with 46 employees voting in favor of the move and 37 opposing it. The debate over a union — and whether such representation was appropriate for highly paid tech workers — had been a source of tension at the company for many months.
+   </td>
+   <td>
+    <a href="/actions/0226.md">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
    </td>
   </tr>
   <tr author="nataliyaned">
