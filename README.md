@@ -13,7 +13,7 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">22/02/2020 09:40AM</td>
+    <td data-summary="timestamp">22/02/2020 12:00PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
@@ -2321,7 +2321,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2018/01/16
    </td>
    <td>
-    After fighting for better working conditions, tech workers at Lanetix sent a letter to management outlining workplace grievances and announcing their intention to unionize with NewsGuild-CWA. They also filed a petition with the National Labor Relations Board (NLRB).
+    After fighting for better working conditions, tech workers at Lanetix sent a letter to management outlining workplace grievances and announcing their intention to unionize with NewsGuild-CWA. They also filed a petition with the National Labor Relations Board (NLRB). The entire engineering staff was terminated after the petition was filed. In response, the San Francisco Tech Workers' Coalition, Lanetix workers from Virginia and San Francisco, and picketed Lanetix's offices in San Francisco. The NLRB investigation found evidence of unfair labor practices and the workers received a settlement in exchange for waiving their right to be reinstated.
    </td>
    <td>
     <a href="/actions/0074.md">
