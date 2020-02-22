@@ -9,24 +9,28 @@ on:
 jobs:
   build:
     if: github.event_name == 'push' && contains(toJson(github.event.commits), '***NO_CI***') == false
-
     runs-on: ubuntu-18.04
-
+    
     steps:
-    - uses: actions/checkout@v2
-      persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
-      fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
+      
+    - uses: actions/checkout@master
+      persist-credentials: false
+      fetch-depth: 0
+      
     - name: Set up conda
       run: |
         sudo chown -R $USER /usr/share/miniconda
+        
     - name: Install conda environment
       run: |
         conda env create --quiet --file environment.yml
+        
     - name: Pytest
       run: |
         eval "$(conda shell.bash hook)"
         conda activate cait
         pytest --junitxml=junit/unit-test.xml
+        
     - name: Update, build, commit
       run: |
         eval "$(conda shell.bash hook)"
@@ -38,8 +42,10 @@ jobs:
         git add actions.csv
         git add actions
         git commit -m "Auto Update ***NO_CI***"
+        
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_ACTION_TOKEN }}
+        force: true
       
