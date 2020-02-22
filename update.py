@@ -87,6 +87,8 @@ def was_csv_updated() -> bool:
     """
     csv_dt = get_last_modified(CSV)
     fc_dt = FileClient().get_datetime_of_last_modified_file()
+    print(f"'actions.csv' was last updated: {str(csv_dt)}")
+    print(f"Action folder was last updated: {str(fc_dt)}")
     return True if csv_dt > fc_dt else False
 
 
