@@ -1,11 +1,8 @@
 name: Validator
 
 on:
-  # Trigger the workflow on push or pull request,
+  # Trigger the workflow on pull request,
   # but only for the master branch
-  push:
-    branches:
-      - master
   pull_request:
     branches:
       - master
@@ -25,9 +22,9 @@ jobs:
         conda env create --quiet --file environment.yml
     - name: Pytest
       run: |
-        source activate cait
+        conda activate cait
         pytest --junitxml=junit/unit-test.xml
     - name: Run update code to check for errors
       run: |
-        source activate cait
+        conda activate cait
         python update.py --auto
