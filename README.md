@@ -1,4 +1,4 @@
-# Collective Actions in Tech
+# Collective Action in Tech
 
 This repository is an attempt to document all collective actions from workers in the tech industry.
 
