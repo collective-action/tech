@@ -9,12 +9,23 @@ from utils.markdown import update_markdown_document
 
 README = Path(
     os.path.realpath(
-        os.path.join(os.path.abspath(__file__), os.pardir, os.pardir, "README.md")
+        os.path.join(
+            os.path.abspath(__file__), os.pardir, os.pardir, "README.md"
+        )
     )
 )
 CSV = Path(
     os.path.realpath(
-        os.path.join(os.path.abspath(__file__), os.pardir, os.pardir, "actions.csv")
+        os.path.join(
+            os.path.abspath(__file__), os.pardir, os.pardir, "actions.csv"
+        )
+    )
+)
+CSV_FLAG = Path(
+    os.path.realpath(
+        os.path.join(
+            os.path.abspath(__file__), os.pardir, os.pardir, "CSV_FLAG"
+        )
     )
 )
 
@@ -42,6 +53,3 @@ def save_cas_to_readme(cas: CollectiveActions):
 def save_cas_to_csv(cas: CollectiveActions):
     df = cas.to_df()
     df.to_csv(CSV)
-
-
-

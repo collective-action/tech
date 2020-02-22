@@ -2,7 +2,6 @@ import os
 import textwrap
 import argparse
 import warnings
-from utils.files import FileClient, get_last_modified
 from utils.convert import (
     get_cas_from_csv,
     get_cas_from_files,
@@ -10,6 +9,7 @@ from utils.convert import (
     save_cas_to_csv,
     README,
     CSV,
+    CSV_FLAG,
 )
 
 
@@ -81,33 +81,23 @@ def _get_parser():
     return args
 
 
-def was_csv_updated() -> bool:
-    """ This function compares the last modified time on the csv file to the
-    actions folder to check which was last modified.
-    """
-    csv_dt = get_last_modified(CSV)
-    fc_dt = FileClient().get_datetime_of_last_modified_file()
-    print(f"'actions.csv' was last updated: {str(csv_dt)}")
-    print(f"Action folder was last updated: {str(fc_dt)}")
-    return True if csv_dt > fc_dt else False
-
-
 if __name__ == "__main__":
     warnings.filterwarnings("ignore", category=UserWarning, module="bs4")
     args = _get_parser()
 
     if args.auto:
         print("Update repo automatically.")
-        if was_csv_updated():
+        if CSV_FLAG.exists():
             print(
-                "CSV is most up-to-date, updating files and readme accordingly."
+                "CSV_FLAG is present; updating files and readme accordingly."
             )
             cas = get_cas_from_csv()
             save_cas_to_csv(cas)
             cas.to_files()
+            os.remove(CSV_FLAG)
         else:
             print(
-                "Files are most up-to-date, updating csv and readme accordingly."
+                "CSV_FLAG is not present; updating csv and readme accordingly."
             )
             cas = get_cas_from_files()
             cas.to_files()

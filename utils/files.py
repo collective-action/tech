@@ -2,13 +2,6 @@ import os
 import glob
 from typing import List
 from pathlib import Path
-import datetime
-
-
-def get_last_modified(filepath: str) -> datetime:
-    """ Get the last modified datetime of a file """
-    t = os.path.getmtime(filepath)
-    return datetime.datetime.fromtimestamp(t)
 
 
 class FileClient:
@@ -57,16 +50,6 @@ class FileClient:
             if os.path.isfile(os.path.join(self.cas_folder, f))
             and f.lower().endswith(".md")
         ]
-
-    def get_datetime_of_last_modified_file(self) -> datetime:
-        """ Gets the datetime of the most recently updated file. """
-        files = self.get_all_files()
-        most_recent_dt = datetime.datetime(2000, 1, 1)
-        for f in files:
-            dt = get_last_modified(self.cas_folder / f)
-            if dt > most_recent_dt:
-                most_recent_dt = dt
-        return most_recent_dt
 
     def parse_file(self, filepath: str) -> dict:
         """ Parses a file in the actions folder and returns dict. """
