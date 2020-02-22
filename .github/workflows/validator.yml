@@ -3,9 +3,6 @@ name: Validator
 on:
   # Trigger the workflow on push or pull request,
   # but only for the master branch
-  push:
-    branches:
-      - master
   pull_request:
     branches:
       - master
@@ -23,7 +20,7 @@ jobs:
     - name: Install conda environment
       run: |
         conda env create --quiet --file environment.yml
-        source ~/miniconda/etc/profile.d/conda.sh
+        eval "$(conda shell.bash hook)"
     - name: Pytest
       run: |
         conda activate cait
