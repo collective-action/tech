@@ -2,14 +2,14 @@ import os
 import textwrap
 import argparse
 import warnings
-from utils.files import FileClient
+from utils.files import FileClient, get_last_modified
 from utils.convert import (
     get_cas_from_csv,
     get_cas_from_files,
     save_cas_to_readme,
     save_cas_to_csv,
     README,
-    CSV
+    CSV,
 )
 
 
@@ -44,7 +44,7 @@ def _get_parser():
     parser.add_argument(
         "--auto",
         action="store_true",
-        help="automatically detect if csv of files are most up-to-date and update accordingly."
+        help="automatically detect if csv of files are most up-to-date and update accordingly.",
     )
     parser.add_argument(
         "--files-cleanup",
@@ -84,18 +84,10 @@ def _get_parser():
 def was_csv_updated() -> bool:
     """ This function compares the last modified time on the csv file to the
     actions folder to check which was last modified.
-
-    1. check if csv or files have more actions.
-    2. if same number of actions, assume the update was made in the csv
     """
-    csv_actions = get_cas_from_csv()
-    file_actions = get_cas_from_files()
-
-    return (
-        True
-        if len(csv_actions) >= len(file_actions)
-        else False
-    )
+    csv_dt = get_last_modified(CSV)
+    fc_dt = FileClient().get_datetime_of_last_modified_file()
+    return True if csv_dt > fc_dt else False
 
 
 if __name__ == "__main__":
@@ -105,12 +97,16 @@ if __name__ == "__main__":
     if args.auto:
         print("Update repo automatically.")
         if was_csv_updated():
-            print("CSV is most up-to-date, updating files and readme accordingly.")
+            print(
+                "CSV is most up-to-date, updating files and readme accordingly."
+            )
             cas = get_cas_from_csv()
             save_cas_to_csv(cas)
             cas.to_files()
         else:
-            print("Files are most up-to-date, updating csv and readme accordingly.")
+            print(
+                "Files are most up-to-date, updating csv and readme accordingly."
+            )
             cas = get_cas_from_files()
             cas.to_files()
             save_cas_to_csv(cas)
