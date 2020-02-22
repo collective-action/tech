@@ -27,9 +27,7 @@ Events must be "collective" and contain "evidence of action" by currently or rec
 
 There are two ways that you can add or update collective actions in this repo: updating the `actions.csv` file __or__ the `.md` files inside of the `actions/` folder. Only update one or the other. Once you've made your update, commit those changes to a new branch and create a pull-request into the master branch.
 
-Once the changes get pushed to the repo, the CI pipeline will automatically update the rest of the repo accordingly by checking whether there are more events in the `actions/` folder or the `actions.csv` file. If there are more actions in the `actions.csv` file, it will update the rest of the repo based on that file. Likewise, if there are more actions in the `actions/` folder, it will update the rest of the repo using those actions. This means you *should* not be updating both the `actions/` folder AND the `actions.csv`. 
-
-If there are the same number of actions in both the `actions.csv` file and the `actions/` folder, the CI pipeline will use the `actions.csv` file as the source of truth and update the rest of the repo based on it.
+Once the changes get pushed to the repo, the CI pipeline will automatically sync the content on the README.md, the website, and the CSV, and the actions-folder. By default, the CI pipeline will synchronize with the `actions/` folder. However, if you choose to update the `actions.csv` file, you'll want the CI pipeline to synchronize with the `actions.csv` instead. To do this, you'll need to add an empty file, called `CSV_FLAG` (Note that there are no extensions to the file), to the root directory of the repository before making your PR.  This additional file will notify the CI pipeline to synchronize with the `actions.csv` file instead of performing its default behavior, which is to synchronize with the `actions/` folder. 
 
 __Updating the actions folder__
 
@@ -39,7 +37,7 @@ Once your changes are committed, the CI pipeline will automatically sort all the
 
 __Updating the csv__
 
-If you plan on editing or adding multiple events, we recommend using this method. Simply update the fields of the `actions.csv` or add new collective actions to the list. If you are adding new events, simply add them on at the end of the CSV file as new rows. Once your changes are committed, the CI pipeline will automatically sort all the events and update the CSV file. It will also update the `README.md` and the `actions/` folder accordingly.
+If you plan on editing or adding multiple events, we recommend using this method. Simply update the fields of the `actions.csv` or add new collective actions to the list. If you are adding new events, simply add them on at the end of the CSV file as new rows. Once your changes are committed, the CI pipeline will automatically sort all the events and update the CSV file. It will also update the `README.md` and the `actions/` folder accordingly. Don't forget to add a new file, called `CSV_FLAG` (with no extensions) to the root directory of the repo before making your PR.
 
 ## Data Fields
 
