@@ -13,9 +13,8 @@ jobs:
     
     steps:
       
-    - uses: actions/checkout@master
-      persist-credentials: false
-      fetch-depth: 0
+    - name: Checkout
+      uses: actions/checkout@master
       
     - name: Set up conda
       run: |
@@ -48,4 +47,6 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_ACTION_TOKEN }}
         force: true
+        persist-credentials: false
+        fetch-depth: 0
       
