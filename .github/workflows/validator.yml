@@ -23,11 +23,12 @@ jobs:
     - name: Install conda environment
       run: |
         conda env create --quiet --file environment.yml
+        conda init bash
     - name: Pytest
       run: |
-        source activate cait
+        conda activate cait
         pytest --junitxml=junit/unit-test.xml
     - name: Run update code to check for errors
       run: |
-        source activate cait
+        conda activate cait
         python update.py --auto
