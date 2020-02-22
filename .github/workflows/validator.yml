@@ -20,12 +20,13 @@ jobs:
     - name: Install conda environment
       run: |
         conda env create --quiet --file environment.yml
-        eval "$(conda shell.bash hook)"
     - name: Pytest
       run: |
+        eval "$(conda shell.bash hook)"
         conda activate cait
         pytest --junitxml=junit/unit-test.xml
     - name: Run update code to check for errors
       run: |
+        eval "$(conda shell.bash hook)"
         conda activate cait
         python update.py --auto
