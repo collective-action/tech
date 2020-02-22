@@ -5,13 +5,13 @@ One of the goals of this repo is to make sure that the data is as update-to-date
 To contribute, please use pull requests to add to the repo so that new additions can be checked for formatting, accuracy and validity.
 
 This document will cover how to contribute:
-1. Defining Collective Action
-1. Github Steps
+1. Defining "Collective Action"
+1. How To Contribute on GitHub
 1. Data Fields
 1. Formatting Guidelines
 1. Developer Features
 
-## Defining Collective Action
+## Defining "Collective Action"
 
 Events must be "collective" and contain "evidence of action" by currently or recently employed "tech workers". All events must be publicly reported on in a publication.
 
@@ -23,7 +23,7 @@ Events must be "collective" and contain "evidence of action" by currently or rec
 
 **If you are unsure about whether an action fits the definition, we encourage you to contribute anyways! We are always interested in hearing about new types of collective actions. The above definition may evolve over time.**
 
-## Github Steps to Contributing
+## How To Contribute on GitHub
 
 There are two ways that you can add or update collective actions in this repo: updating the `actions.csv` file __or__ the `.md` files inside of the `actions/` folder. Only update one or the other. Once you've made your update, commit those changes to a new branch and create a pull-request into the master branch.
 
