@@ -20,6 +20,7 @@ jobs:
     - name: Install conda environment
       run: |
         conda env create --quiet --file environment.yml
+        conda init bash
     - name: Pytest
       run: |
         conda activate cait
