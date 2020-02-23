@@ -1,7 +1,6 @@
-name: Update
+name: Sync
 
 on:
-  # Trigger the workflow on push to master branch
   push:
     branches:
       - master

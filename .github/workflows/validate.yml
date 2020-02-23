@@ -1,8 +1,6 @@
-name: Validator
+name: Validate
 
 on:
-  # Trigger the workflow on push or pull request,
-  # but only for the master branch
   pull_request:
     branches:
       - master
@@ -14,17 +12,21 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+
     - name: Set up conda
       run: |
         sudo chown -R $USER /usr/share/miniconda
+
     - name: Install conda environment
       run: |
         conda env create --quiet --file environment.yml
+
     - name: Pytest
       run: |
         eval "$(conda shell.bash hook)"
         conda activate cait
         pytest --junitxml=junit/unit-test.xml
+
     - name: Run update code to check for errors
       run: |
         eval "$(conda shell.bash hook)"
