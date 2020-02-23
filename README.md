@@ -14,11 +14,11 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">22/02/2020 09:42PM</td>
+    <td data-summary="timestamp">23/02/2020 12:48PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">227</td>
+    <td data-summary="action-count">228</td>
   </tr>
  </table>
 </div>
@@ -45,7 +45,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Employees at the crowdfunding platform Kickstarter voted to unionize. The decision, which was formalized by a vote count at the National Labor Relations Board, came down to a narrow margin, with 46 employees voting in favor of the move and 37 opposing it. The debate over a union — and whether such representation was appropriate for highly paid tech workers — had been a source of tension at the company for many months.
    </td>
    <td>
-    <a href="/actions/0226.md">
+    <a href="/actions/0227.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -60,7 +60,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Rideshare workers organized under Rideshare Drivers United filed wage claims with the California Labor Commissioner's Office seeking to be reimbursed for unpaid wages under AB5. AB5 took effect on Jan. 1 in California but is being disputed by rideshare companies who seek to keep drivers classified as contractors as opposed to employees. Under AB5, many drivers would be entitled to higher wages, pay for overtime, and compensation for work-related expenses.
    </td>
    <td>
-    <a href="/actions/0225.md">
+    <a href="/actions/0226.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -73,6 +73,21 @@ The goal of this archive is to provide data and insights on organizing in the te
    </td>
    <td>
     Members of Amazon Employees for Climate Justice submitted comments to the U.S. Securities and Exchange Commission against a new regulation that would prevent smaller shareholders from proposing shareholder resolutions (i.e. proposals to change how a company is run). Under the new rules, shareholders would have to presently hold at least $25,000 worth of shares or have held $2,000 worth of shares continuously for the last three years. The group has argued that this prevents smaller shareholders from voicing their opinion. Included in this group are many recently hired tech employees with small caches of employer stock. While shareholder resolutions are not binding, they have had some success in pushing corporations towards taking a stance on social issues such as gender equity.
+   </td>
+   <td>
+    <a href="/actions/0225.md">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="organizejs">
+   <td>
+    2020/02/03
+   </td>
+   <td>
+    A group of Instacart employees in the Chicago suburb Skokie voted to unionize with the United Food and Commercial Workers Local 1546—a historic win for the grocery delivery platform. The vote was 10-to-4 in favor of the union, according to workers. "The overwhelming majority of the employees made history by becoming the first Instacart employees to win a certified union election in the United States," UFCW Local 1546 wrote in a press statement.
    </td>
    <td>
     <a href="/actions/0224.md">
