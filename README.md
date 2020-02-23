@@ -1,7 +1,7 @@
 # Collective Action in Tech
 ![Sync](https://github.com/organizejs/collective-action-in-tech/workflows/Sync/badge.svg)
 
-This repository is an attempt to document all collective actions from workers in the tech industry.
+This repository documents all collective actions from workers in the tech industry.
 
 For the purposes of this project, the tech industry is defined to include any companies whose core business is information technology. We are excluding adjacent industries such as gaming and digital media.
 
