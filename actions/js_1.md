@@ -1,0 +1,10 @@
+- date: 2020/02/20
+- sources: https://www.marketwatch.com/story/hundreds-of-oracle-workers-stage-walkout-to-protest-larry-ellisons-fundraiser-for-trump-2020-02-20, https://www.marketwatch.com/story/hundreds-of-oracle-workers-stage-walkout-to-protest-larry-ellisons-fundraiser-for-trump-2020-02-20
+- actions: strike, protest
+- struggles: ethics
+- description: People left their desks at Oracle offices around the world to protest Chairman Larry Ellison’s fundraiser a day earlier for President Donald Trump. The protest, called No Ethics/No Work, involved about 300 employees walking out of their offices or stopping work at remote locations at noon local time and devoting the rest of the day to volunteering or civic engagement.
+- locations: usa, online
+- companies: oracle
+- workers: 300
+- tags: white_collar_workers
+- author: organizejs
