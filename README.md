@@ -1,4 +1,5 @@
 # Collective Action in Tech
+![Update](https://github.com/organizejs/collective-action-in-tech/workflows/Update/badge.svg)
 
 This repository is an attempt to document all collective actions from workers in the tech industry.
 
