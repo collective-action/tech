@@ -3444,5 +3444,3 @@ The goal of this archive is to provide data and insights on organizing in the te
   </tr>
  </table>
 </div>
-
-[![Build Status](https://dev.azure.com/jianshentan/collective-actions-in-tech/_apis/build/status/organizejs.cait%20-%20cleanup%20%26%20update?branchName=master)](https://dev.azure.com/jianshentan/collective-actions-in-tech/_build/latest?definitionId=4&branchName=master)
