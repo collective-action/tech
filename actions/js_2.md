@@ -5,6 +5,5 @@
 - description: Oracle founder and CTO Larry Ellison‘s decision to throw a fundraiser for President Donald Trump has angered  Oracle employees, who have set up a Change.org petition demanding he cancel the fundraiser. “As Oracle employees, we must hold our leaders accountable for upholding their ethical responsibilities,” the petition, which anyone can sign, continues. “Ellison’s financial support of Donald Trump endangers the well-being of women, immigrants, communities of color, the environment, LGBTQ and trans communities, disabled people and workers everywhere.”
 - locations: online
 - companies: oracle
-- workers: 9000
 - tags: white_collar_workers, trump
 - author: organizejs
