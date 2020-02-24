@@ -14,11 +14,11 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">23/02/2020 05:10PM</td>
+    <td data-summary="timestamp">24/02/2020 06:18AM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">228</td>
+    <td data-summary="action-count">230</td>
   </tr>
  </table>
 </div>
@@ -39,10 +39,40 @@ The goal of this archive is to provide data and insights on organizing in the te
   </tr>
   <tr author="organizejs">
    <td>
+    2020/02/20
+   </td>
+   <td>
+    People left their desks at Oracle offices around the world to protest Chairman Larry Ellison’s fundraiser a day earlier for President Donald Trump. The protest, called No Ethics/No Work, involved about 300 employees walking out of their offices or stopping work at remote locations at noon local time and devoting the rest of the day to volunteering or civic engagement.
+   </td>
+   <td>
+    <a href="/actions/0229.md">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="organizejs">
+   <td>
     2020/02/18
    </td>
    <td>
     Employees at the crowdfunding platform Kickstarter voted to unionize. The decision, which was formalized by a vote count at the National Labor Relations Board, came down to a narrow margin, with 46 employees voting in favor of the move and 37 opposing it. The debate over a union — and whether such representation was appropriate for highly paid tech workers — had been a source of tension at the company for many months.
+   </td>
+   <td>
+    <a href="/actions/0228.md">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="organizejs">
+   <td>
+    2020/02/14
+   </td>
+   <td>
+    Oracle founder and CTO Larry Ellison‘s decision to throw a fundraiser for President Donald Trump has angered  Oracle employees, who have set up a Change.org petition demanding he cancel the fundraiser. “As Oracle employees, we must hold our leaders accountable for upholding their ethical responsibilities,” the petition, which anyone can sign, continues. “Ellison’s financial support of Donald Trump endangers the well-being of women, immigrants, communities of color, the environment, LGBTQ and trans communities, disabled people and workers everywhere.”
    </td>
    <td>
     <a href="/actions/0227.md">
