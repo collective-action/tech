@@ -46,7 +46,7 @@ of the fields are not applicable, you can omit the field. However, you cannot
 add a new field at this time. If there is additional information you'd like to
 include, add it in the description field.
 
-> Take note of the plurality of the fields. `action` is singular while `sources` is plural. 
+> Take note of the plurality of the fields. `actions` and `sources` are plural. 
 
 | Field | Required | Type | Description |
 | --- | --- | --- | --- |
@@ -54,22 +54,24 @@ include, add it in the description field.
 | sources | True | List(url) | The url(s) of reliable sources that has reported on this event. |
 | actions | True | List(str) | What was the form of the action that took place? (`union_drive`, `union_representation`, `open_letter`, `strike`, `protest`, `legal_action`) |
 | struggles | True | List(str) | The kind of struggle workers are standing up against. (`pay_and_benefits`, `working_conditions`, `unfair_labor_practices`, `job_security`, `ethics`, `discrimination`)| 
+| employment_type | True | List(str) | The employment type(s) of the workers involved in the collective action. (`white_collar_workers`, `blue_collar_workers`, `in_house_workers`, `contract_workers`, `gig_workers`, `na`)|
 | description | True | str | A short paragraph describing the event where you can include information that isn't covered in the fields above. Multiple paragraphs are not allowed in this field. |
 | locations | False | List(str) | The location(s) of the action, or whether it was online. |
 | companies | False | List(str) | Which company are workers are standing up against? Some moments of worker power may not have an associated company. For example, online petitions or a protests against the president may consist of workers from an amalgamation of companies. In which case we can omit this field. |
 | workers | False | int | The number of workers active in the action. Since we're only looking at collective actions, the number must be more than 1. Sometimes the sources do not state a concrete number when reporting. In those cases, lean on the conservative side. For example: "Hundreds of Uber drivers..." --> 100 |
 | tags | False | List(str) | Tag the event with a term or word that you feel is relevant but not captured by the other fields. One good thing to add is the kind of worker who is taking action. Please see below for more information on tags. |
 
-In the table above, `actions` and `struggles` must contain only the following values:
+In the table above, `actions`, `struggles`, `employment_type` must contain only the following values:
 
 | Fields | Valid Values | 
 | --- | --- |
 | actions | `strike`, `protest`, `open_letter`, `legal_action`, `union_drive`, `union_represenation` | 
 | struggles | `ethics`, `pay_and_benefits`, `working_conditions`, `discrimination`, `unfair_labor_practices`, `job_security` |
+| employment_type | `white_collar_workers`, `blue_collar_workers`, `in_house_workers`, `contract_workers`, `gig_workers`, `na` |
 
 If any of the following __tags__ are applicable, please add them to the action:
 
-`white_collar_workers`, `blue_collar_workers`, `contract_workers`, `factory_workers`, `informal_workers`, `independent_contract_workers`, `workers_not_specified`, `coworker_solidarity`, `delivery_workers`, `industry_solidarity`, `international_solidarity`,  `food_service_workers`, `lgbtq`, `funding_raising`, `mijente`, `lgtbq`, `temporary_workers_of_america`, `military_contracts`,`trade_war`, `seiu`, `law_enforcement`, `sexism`, `muslim_registry`, `janitors`, `rideshare_workers`, `academics`, `moderators`, `gig_workers_rising`, `twc`, `drivers`, `security_guards`, `technicians`, `unite_here`, `climate_change`, `ice`, `ai`, `trump`, `retaliation`, `cbp`, `teamster`, `immigration`, `students`
+`coworker_solidarity`, `industry_solidarity`, `international_solidarity`, `lgbtq`, `fund_raising`, `mijente`, `temporary_workers_of_america`, `military_contracts`, `trade_war`, `seiu`, `law_enforcement`, `sexism`, `muslim_registry`, `academics`, `moderators`, `gig_workers_rising`, `twc`, `unite_here`, `climate_change`, `ice`, `ai`, `trump`, `retaliation`, `cbp`, `teamster`, `immigration`, `students`
 
 ## Formatting
 When adding an update to the README, use the provided html code below to add a
@@ -81,6 +83,7 @@ action. Copy and paste the html snippet under the opening `<div>` tag in the REA
 - companies: amazon
 - actions: protest, open_letter
 - struggles: ethics, discrimination
+- employment_type: white_collar_workers, in_house_workers
 - workers: 1000
 - description: Thousands of people protest a military contract in Queens.
 - locations: new_york
