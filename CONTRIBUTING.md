@@ -110,6 +110,12 @@ When you make a pull request, the request will trigger an Azure pipeline to kick
 
 Shortly after the PR is accepted, you should see your newly added action on the website. The website relies on the `actions.csv` file, so as soon as that file is updated in the CI pipeline, the action should also be reflected on the website. 
 
+## Citing the Repository
+
+If you are using data from the repository for an academic publication, please include a citation with the following information: Tan, J.S. and Nataliya Nedzhvetskaya. (2020). Collective Actions In Tech. https://github.com/collective-action/tech
+
+If you are using the repository for a journalistic publication, please include a link (collectiveactions.tech) in your article.
+
 ## Developer Features
 
 This repository comes with a `update.py` located in the root directory. 
