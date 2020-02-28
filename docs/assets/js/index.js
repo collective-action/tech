@@ -3,9 +3,10 @@ $:false
 Papa:false
 dfjs:false
 */
-const csvUrl = 'https://raw.githubusercontent.com/organizejs/collective-actions-in-tech/master/actions.csv'
+const csvUrl = 'https://raw.githubusercontent.com/collective-action/tech/master/actions.csv'
 var masterDf = null /* global */
 var queryTags = []
+var searchFields = ['tags', 'companies', 'actions', 'struggles', 'locations']
 
 /**
  * Gets the domain hostname from a url.
@@ -147,11 +148,19 @@ function rowToHtml (row) {
 /**
  * Populated the HTML with a df
  * @param {df} dataframe 
+ * @param {query} str
+ * @param {showCount} bool
  */
 function populateHtml (df, query, showCount=false) {
   $('#actions').empty()
 
-  // show number results if search
+  // if df is null
+  if (df === null) {
+    $('#actions').html("No actions found.");
+    return
+  }
+
+  // show number results of search
   if (df.count() === masterDf.count() && !showCount) {
     $('#action-count').hide()
   } else {
@@ -291,22 +300,15 @@ function createAndDisplayDf (data, callback) {
  * Searches through the df
  * @param {str} query string
  */
-function includesAll (haystack, needles) {
-  for (let i = 0; i < needles.length; i++){
-     if($.inArray(needles[i], haystack) == -1) return false;
-  }
-  return true;
-}
-
-/**
- * Searches through the df
- * @param {str} query string
- */
 function search (query) {
   query = query.map(item => item.trim())
-  tmpDf = masterDf.where(row => query.every(val => row.toArray().join(" ").includes(val)))
+  tmpDf = masterDf.where(
+    row => query.every(
+      val => row.select(...searchFields).toArray().join(" ").includes(val)
+    )
+  )
   if (tmpDf.count() === 0) {
-      populateHtml(masterDf, null, true)
+      populateHtml(null)
   } else {
       populateHtml(tmpDf, query, true)
   }
