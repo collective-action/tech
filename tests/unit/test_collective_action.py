@@ -16,6 +16,7 @@ def test_ca_constructor():
         sources=["http://www.google.com"],
         actions=["strike"],
         struggles=["working_conditions"],
+        employment_types=["white_collar_workers", "in_house_workers"],
         description="Foo bar.",
     )
 
@@ -25,6 +26,7 @@ def test_ca_constructor():
         sources=["http://www.google.com"],
         actions=["strike"],
         struggles=["working_conditions"],
+        employment_types=["white_collar_workers", "in_house_workers"],
         description="Foo bar.",
         locations=["Boston"],
         companies=["google"],
@@ -39,6 +41,7 @@ def _test_ca(ca: CollectiveAction):
     assert ca.author == "organizejs" # test meta data
     assert ca.actions == ["open_letter"] # test list field
     assert ca.struggles == ["ethics"] # test list field
+    assert ca.employment_types == ["white_collar_workers", "in_house_workers"]
 
 
 def _test_cas(cas: CollectiveActions):

@@ -31,6 +31,7 @@ class CollectiveAction:
     sources: List[Url]
     actions: List[str]
     struggles: List[str]
+    employment_types: List[str]
     description: str
 
     # optional fields
@@ -58,6 +59,15 @@ class CollectiveAction:
         "legal_action",
         "union_drive",
         "union_representation",
+    ]
+
+    _valid_employement_types: ClassVar = [
+        "blue_collar_workers",
+        "white_collar_workers",
+        "in_house_workers",
+        "contract_workers",
+        "gig_workers",
+        "na"
     ]
 
     @staticmethod
@@ -89,6 +99,7 @@ class CollectiveAction:
         self.sources = self.listify(self.sources)
         self.struggles = self.listify(self.struggles)
         self.actions = self.listify(self.actions)
+        self.employment_types = self.listify(self.employment_types)
 
         self.companies = self.listify(self.companies)
         self.tags = self.listify(self.tags)
@@ -109,6 +120,12 @@ class CollectiveAction:
             assert (
                 struggle in self._valid_struggles
             ), f"'{struggle}' is not a valid input. Valid inputs are: {self._valid_struggles}"
+
+        # make sure all struggles are valid struggles
+        for employment_type in self.employment_types:
+            assert (
+                employment_type in self._valid_employement_types
+            ), f"'{employment_type}' is not a valid input. Valid inputs are: {self._valid_employement_types}"
 
         # make sure source is either a url or a html link tag <a>
         for source in self.sources:
@@ -164,6 +181,7 @@ class CollectiveAction:
             "locations",
             "actions",
             "struggles",
+            "employment_types",
             "companies",
             "tags",
             "sources",

@@ -6,7 +6,12 @@ dfjs:false
 const csvUrl = 'https://raw.githubusercontent.com/collective-action/tech/master/actions.csv'
 var masterDf = null /* global */
 var queryTags = []
-var searchFields = ['tags', 'companies', 'actions', 'struggles', 'locations']
+var searchFields = ['tags', 'companies', 'actions', 'struggles', 'locations', 'employment_types']
+var tagFields = ['tags', 'companies', 'actions', 'struggles', 'locations', 'employment_types']
+var hiddenFields = ['author', 'workers']
+var sourceField = 'sources'
+var descriptionField = 'description'
+var dateField = 'date'
 
 /**
  * Gets the domain hostname from a url.
@@ -74,7 +79,6 @@ function getAllSourceElementsExcept (sourcesEl) {
  * @return {HtmlElement} Html element to add
  */
 function rowToHtml (row) {
-  let action = $("<div class='action'></div>")
   let date = $("<div class='date'></div>")
   let tags = $("<div class='tags'></div>")
   let description = $("<div class='description'></div>")
@@ -97,46 +101,38 @@ function rowToHtml (row) {
 
   for (let key in row) {
     let val = row[key]
-    switch (key) {
-      case 'null':
-        break
-      case 'date':
-        let options = { 
-          weekday: 'long', 
-          year: 'numeric', 
-          month: 'long', 
-          day: 'numeric', 
-          timeZone: 'UTC' 
-        }
-        let dateStr = new Date(val).toLocaleDateString('en-US', options)
-        date.html(dateStr)
-        break
-      case 'description':
-        description.html(val)
-        break
-      case 'sources':
-        let urls = val.split(',')
-        for (let i = 0; i < urls.length; i++) {
-          sources.append(createUrlEl(urls[i]))
-        }
-        break
-      case 'workers':
-        break
-      case 'author':
-        break
-      default:
-        if (val) {
-          let vals = val.split(',')
-          for (let i = 0; i < vals.length; i++) {
-            if (vals[i] !== 'None') {
-              tags.append(createTagEl(vals[i]))
-            }
+    if (key == dateField) {
+      let options = { 
+        weekday: 'long', 
+        year: 'numeric', 
+        month: 'long', 
+        day: 'numeric', 
+        timeZone: 'UTC' 
+      }
+      let dateStr = new Date(val).toLocaleDateString('en-US', options)
+      date.html(dateStr)
+    } else if (key == descriptionField) {
+      description.html(val)
+    } else if (key == sourceField) {
+      let urls = val.split(',')
+      for (let i = 0; i < urls.length; i++) {
+        sources.append(createUrlEl(urls[i]))
+      }
+    } else if (tagFields.includes(key)) {
+      if (val) {
+        let vals = val.split(',')
+        for (let i = 0; i < vals.length; i++) {
+          if (vals[i] !== 'None') {
+            tags.append(createTagEl(vals[i]))
           }
         }
-        break
+      }
+    } else {
+      continue
     }
   }
 
+  let action = $("<div class='action'></div>")
   action.append(date)
   action.append(description)
   action.append(sources)
