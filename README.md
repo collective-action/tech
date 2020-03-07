@@ -19,11 +19,11 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">07/03/2020 11:56AM</td>
+    <td data-summary="timestamp">07/03/2020 05:38PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">232</td>
+    <td data-summary="action-count">233</td>
   </tr>
  </table>
 </div>
@@ -40,6 +40,21 @@ The goal of this archive is to provide data and insights on organizing in the te
    </td>
    <td>
     link
+   </td>
+  </tr>
+  <tr author="nataliyaned">
+   <td>
+    2020/02/29
+   </td>
+   <td>
+    Over the past few months, Amazon workers across the country have called on the company to provide part-time employees with paid sick leave. Amazon workers in New York City have started an online petition on coworker.org to advocate for paid time off, paid sick leave, and a process to appeal final warnings. Over 1,200 people have signed the petition. Workers at the Skokie, Illinois facility have written a letter to management and are circulating a petition demanding backdated paid time off. Though many workers log more than 20 hours a week, they are still recognized as part-time employees of the company. These events follow similar actions taken by Amazon workers in Sacramento late in 2019.
+   </td>
+   <td>
+    <a href="/actions/0232.md">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
    </td>
   </tr>
   <tr author="organizejs">
