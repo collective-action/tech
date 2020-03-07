@@ -19,11 +19,11 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">07/03/2020 11:54AM</td>
+    <td data-summary="timestamp">07/03/2020 11:56AM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">231</td>
+    <td data-summary="action-count">232</td>
   </tr>
  </table>
 </div>
@@ -50,7 +50,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     People left their desks at Oracle offices around the world to protest Chairman Larry Ellison’s fundraiser a day earlier for President Donald Trump. The protest, called No Ethics/No Work, involved about 300 employees walking out of their offices or stopping work at remote locations at noon local time and devoting the rest of the day to volunteering or civic engagement.
    </td>
    <td>
-    <a href="/actions/0230.md">
+    <a href="/actions/0231.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -65,7 +65,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Employees at the crowdfunding platform Kickstarter voted to unionize. The decision, which was formalized by a vote count at the National Labor Relations Board, came down to a narrow margin, with 46 employees voting in favor of the move and 37 opposing it. The debate over a union — and whether such representation was appropriate for highly paid tech workers — had been a source of tension at the company for many months.
    </td>
    <td>
-    <a href="/actions/0229.md">
+    <a href="/actions/0230.md">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -78,6 +78,21 @@ The goal of this archive is to provide data and insights on organizing in the te
    </td>
    <td>
     Oracle founder and CTO Larry Ellison‘s decision to throw a fundraiser for President Donald Trump has angered  Oracle employees, who have set up a Change.org petition demanding he cancel the fundraiser. “As Oracle employees, we must hold our leaders accountable for upholding their ethical responsibilities,” the petition, which anyone can sign, continues. “Ellison’s financial support of Donald Trump endangers the well-being of women, immigrants, communities of color, the environment, LGBTQ and trans communities, disabled people and workers everywhere.”
+   </td>
+   <td>
+    <a href="/actions/0229.md">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="nataliyaned">
+   <td>
+    2020/02/12
+   </td>
+   <td>
+    Rideshare workers have signed a petition calling on the LAX (Los Angeles) airport to provide them with better bathrooms. Currently all workers are forced to use six port-a-potties and one external handwashing station located on airport grounds. LAX management responded by saying they will install three additional port-a-potties and two more external handwashing stations. Drivers, organized through the Mobile Workers Alliance, continue to call for more.
    </td>
    <td>
     <a href="/actions/0228.md">
