@@ -50,11 +50,11 @@ include, add it in the description field.
 
 | Field | Required | Type | Description |
 | --- | --- | --- | --- |
-| date | True | YYYY-MM-DD | While the date may seem trivial, collecting dates may be comlex for multi-day events such as pickets or online petitions. In this repo, we collect only the start date of the action in the format YYYY-MM-DD. |
+| date | True | YYYY/MM/DD | While the date may seem trivial, collecting dates may be comlex for multi-day events such as pickets or online petitions. In this repo, we collect only the start date of the action in the format YYYY/MM/DD. |
 | sources | True | List(url) | The url(s) of reliable sources that has reported on this event. |
 | actions | True | List(str) | What was the form of the action that took place? (`union_drive`, `union_representation`, `open_letter`, `strike`, `protest`, `legal_action`) |
 | struggles | True | List(str) | The kind of struggle workers are standing up against. (`pay_and_benefits`, `working_conditions`, `unfair_labor_practices`, `job_security`, `ethics`, `discrimination`)| 
-| employment_type | True | List(str) | The employment type(s) of the workers involved in the collective action. (`white_collar_workers`, `blue_collar_workers`, `in_house_workers`, `contract_workers`, `gig_workers`, `na`)|
+| employment_types | True | List(str) | The employment type(s) of the workers involved in the collective action. (`white_collar_workers`, `blue_collar_workers`, `in_house_workers`, `contract_workers`, `gig_workers`, `na`)|
 | description | True | str | A short paragraph describing the event where you can include information that isn't covered in the fields above. Multiple paragraphs are not allowed in this field. |
 | locations | False | List(str) | The location(s) of the action, or whether it was online. |
 | companies | False | List(str) | Which company are workers are standing up against? Some moments of worker power may not have an associated company. For example, online petitions or a protests against the president may consist of workers from an amalgamation of companies. In which case we can omit this field. |
@@ -71,22 +71,22 @@ In the table above, `actions`, `struggles`, `employment_type` must contain only 
 
 If any of the following __tags__ are applicable, please add them to the action:
 
-`coworker_solidarity`, `industry_solidarity`, `international_solidarity`, `lgbtq`, `fund_raising`, `mijente`, `temporary_workers_of_america`, `military_contracts`, `trade_war`, `seiu`, `law_enforcement`, `sexism`, `muslim_registry`, `academics`, `moderators`, `gig_workers_rising`, `twc`, `unite_here`, `climate_change`, `ice`, `ai`, `trump`, `retaliation`, `cbp`, `teamster`, `immigration`, `students`
+`coworker_solidarity`, `industry_solidarity`, `international_solidarity`, `lgbtq`, `fund_raising`, `mijente`, `temporary_workers_of_america`, `military_contracts`, `trade_war`, `seiu`, `law_enforcement`, `sexism`, `muslim_registry`, `academics`, `moderators`, `gig_workers_rising`, `twc`, `unite_here`, `climate_change`, `ice`, `ai`, `trump`, `retaliation`, `cbp`, `teamster`, `immigration`, `students`, `coronavirus`, `None` (if none apply)
 
 ## Formatting
 When adding an update to the README, use the provided html code below to add a
 action. Copy and paste the html snippet under the opening `<div>` tag in the README.
 
 ```md
-- date: 2018-01-01
+- date: 2018/01/15
 - sources: https://www.your.valid/source1, https://www.your.valid/source2
-- companies: amazon
 - actions: protest, open_letter
 - struggles: ethics, discrimination
-- employment_type: white_collar_workers, in_house_workers
-- workers: 1000
+- employment_types: white_collar_workers, in_house_workers
 - description: Thousands of people protest a military contract in Queens.
 - locations: new_york
+- companies: amazon
+- workers: 1000
 - tags: military_contract, delivery_workers
 - author: organizejs
 ```
