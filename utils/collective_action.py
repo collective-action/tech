@@ -50,6 +50,7 @@ class CollectiveAction:
         "discrimination",
         "unfair_labor_practices",
         "job_security",
+        "na",
     ]
 
     _valid_actions: ClassVar = [
@@ -67,7 +68,7 @@ class CollectiveAction:
         "in_house_workers",
         "contract_workers",
         "gig_workers",
-        "na"
+        "na",
     ]
 
     @staticmethod
