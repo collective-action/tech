@@ -19,11 +19,11 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">23/03/2020 03:34PM</td>
+    <td data-summary="timestamp">23/03/2020 05:24PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">234</td>
+    <td data-summary="action-count">245</td>
   </tr>
  </table>
 </div>
@@ -40,6 +40,171 @@ The goal of this archive is to provide data and insights on organizing in the te
    </td>
    <td>
     link
+   </td>
+  </tr>
+  <tr author="organizejs">
+   <td>
+    2020/03/19
+   </td>
+   <td>
+    A group of 153 Google employees from 11 European offices wrote to the company’s management requesting the establishment of the council. Google’s management agreed to take the first steps toward creating the council and will soon begin negotiating with employees about its scope. (The creation of such works councils-- which aim to give employees the right to be consulted by management about issues such as organizational changes or job cuts -- is required by the European Union if enough of a company’s employees in at least two countries file a written request). The works council is likely to include employee representatives from more than 35 Google offices across Europe, according to the people familiar with the matte
+   </td>
+   <td>
+    <a href="/actions/0244.md">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="organizejs">
+   <td>
+    2020/03/19
+   </td>
+   <td>
+    Ride-hail drivers in California gathered outside Uber headquarters in San Francisco, Los Angeles, and San Diego to demand that gig platforms provide immediate relief to their cash-strapped, at-risk workers, including by adhering to California’s new labor law known as AB5. Drivers are calling on California to enforce its new employment law as illness, confusion, and hardship from COVID-19 sweep their industries. They are also calling for the $110 million set aside by Uber, Lyft, Doordash, Postmates, and Instacart for fighting that law to instead be used to give workers some relief.
+   </td>
+   <td>
+    <a href="/actions/0243.md">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="organizejs">
+   <td>
+    2020/03/19
+   </td>
+   <td>
+    As the novel coronavirus spreads around the world, Uber and Lyft drivers in California are asking both companies to do more to protect them. A coalition of drivers released a list of demands, signed by thousands, asking the ride-hailing services to take immediate steps to help ensure their safety. The demands include providing free COVID-19 screenings to all drivers, along with 14 days paid leave for all affected drivers. The drivers are organized with advocacy group Mobile Workers Alliance.
+   </td>
+   <td>
+    <a href="/actions/0242.md">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="organizejs">
+   <td>
+    2020/03/19
+   </td>
+   <td>
+    Mijente, an immigrant rights group is calling on ICE to stop hunting down undocumented immigrants amid the coronavirus crisis. In an open letter published on Github, Microsoft workers backed mijente's campaign, calling on tech companies not to share their technologies with ICE.
+   </td>
+   <td>
+    <a href="/actions/0241.md">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="organizejs">
+   <td>
+    2020/03/18
+   </td>
+   <td>
+    At an Amazon warehouse and shipping center at Saran just outside Orleans, a city south of Paris, 250-300 workers staged a strike, gathering outside and calling for its closure. It normally employs some 1,800 full-time staff. They are calling on the online retailer to cease operations or make it easier for employees not wanting to work during the coronavirus outbreak to stay away.
+   </td>
+   <td>
+    <a href="/actions/0240.md">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="organizejs">
+   <td>
+    2020/03/17
+   </td>
+   <td>
+    As the coronavirus continues to spread, Amazon logistics workers circulated a petition calling for the company to put in place more “protective measures,”  in which they demanded that the company provide paid sick leave to all its employees, even those who do not have a positive COVID-19 diagnosis, given the scarcity of coronavirus tests. They also requested child-care funds for workers with children, increased hazard pay, an end to penalties for working too slowly, and an immediate closure of any facility where a worker tests positive. “While Amazon has made some limited coronavirus accommodations, it needs a comprehensive plan to ensure the safety of all of its workers and the larger public, including giving workers paid leave and not simply extending our unpaid leave, as was announced recently,” the petition states.
+   </td>
+   <td>
+    <a href="/actions/0239.md">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="organizejs">
+   <td>
+    2020/03/17
+   </td>
+   <td>
+    A group of Google employees has sent a memo to company leadership demanding stronger commitments to protect the more vulnerable members of Google’s workforce, primarily its contract workers, during the ongoing coronavirus crisis. The memo notes that some Google contractors, like those in the company’s Pittsburgh office employed by an independent company called HCL Technologies, have been forced to come into the office, even as full-time Google employees were first allowed and then instructed to stay home.
+   </td>
+   <td>
+    <a href="/actions/0238.md">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="organizejs">
+   <td>
+    2020/03/17
+   </td>
+   <td>
+    Pittsburgh's office Google contractors employed by an independent company called HCL Technologies, have been forced to come into the office, even as full-time Google employees were first allowed and then instructed to stay home. Some HCL contractors wore black in a protest at the Pittsburgh office’s cafeteria on Monday. This action is linked to the memo that Googlers sent out on the same day.
+   </td>
+   <td>
+    <a href="/actions/0237.md">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="organizjes">
+   <td>
+    2020/03/13
+   </td>
+   <td>
+    Employees of online software collaboration tool Glitch won their union with the Communications Workers of America (CWA). The move comes after 90% of the workers indicated their support for joining CWA and authorized CWA to be their bargaining representative. Glitch will join the CWA Local 1101, as part of the Campaign to Organize Digital Employees (CODE-CWA) initiative, which was launched back in January.
+   </td>
+   <td>
+    <a href="/actions/0236.md">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="organizejs">
+   <td>
+    2020/03/12
+   </td>
+   <td>
+    A group of five baristas who operate the espresso machines at Slack’s corporate headquarters in San Francisco learned on March 6 that they were losing their contracted positions just prior to a decision by the company to move to remote operations to curb the spread of COVID-19. The baristas claim that Slack caught wind of their intention to criticize the company publicly—and in what they claim to be an organizing victory, they learned that their severance would be extended to 90 days.
+   </td>
+   <td>
+    <a href="/actions/0235.md">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="organizejs">
+   <td>
+    2020/03/06
+   </td>
+   <td>
+    Gig Workers Rising launched a petition calling on the heads of the biggest gig economy platforms to give workers paid sick leave amid the coronavirus outbreak. That petition garnered more than 900 signatures. In the petition, the workers say they are often on the “front lines of exposure,” given that every day they come in contact with various people, including those arriving at airports or heading to the hospital. Without paid sick leave, the gig workers say they are often forced to choose between making ends meet and taking care of their health, and therefore the health of the company's customers.
+   </td>
+   <td>
+    <a href="/actions/0234.md">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
    </td>
   </tr>
   <tr author="nataliyaned">
