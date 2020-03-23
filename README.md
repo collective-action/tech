@@ -19,7 +19,7 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">23/03/2020 03:31PM</td>
+    <td data-summary="timestamp">23/03/2020 03:34PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
@@ -377,7 +377,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2019/11/25
    </td>
    <td>
-    Over a hundred Amazon workers and their supporters gathered outside the facility on Monday to protest working conditions that they say only worsen as the e-tailing giant gears up to deliver a rush of packages ahead of Christmas and Hanukkah. 600 workers at an Amazon fulfillment center in New York signed a letter and protested working conditions. Amazon workers face injury rates over three times the industry average, and are asking for increased break time and better transit benefits.
+    Over a hundred Amazon workers and their supporters gathered outside the facility to protest working conditions that they say only worsen as the e-tailing giant gears up to deliver a rush of packages ahead of Christmas and Hanukkah. 600 workers at an Amazon fulfillment center in New York signed a letter and protested working conditions. Amazon workers face injury rates over three times the industry average, and are asking for increased break time and better transit benefits.
    </td>
    <td>
     <a href="/actions/0211.md">
