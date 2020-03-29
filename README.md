@@ -19,11 +19,11 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">23/03/2020 05:24PM</td>
+    <td data-summary="timestamp">28/03/2020 09:52PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">245</td>
+    <td data-summary="action-count">246</td>
   </tr>
  </table>
 </div>
@@ -40,6 +40,21 @@ The goal of this archive is to provide data and insights on organizing in the te
    </td>
    <td>
     link
+   </td>
+  </tr>
+  <tr author="nataliyaned">
+   <td>
+    2020/03/22
+   </td>
+   <td>
+    Amazonians United, a group of Amazon employee advocates around the US, won paid time off for part-time logistics workers in the midst the coronavirus pandemic. Amazon has also said it will raise pay for warehouse workers and delivery drivers by $2 per hour through April. For several weeks, the Amazonians United group has been calling for improved working conditions and paid time off using petitions and walkouts, including actions by groups in the Sacramento, Chicago, and New York areas.
+   </td>
+   <td>
+    <a href="/actions/0245.md">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
    </td>
   </tr>
   <tr author="organizejs">
