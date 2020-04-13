@@ -338,7 +338,9 @@ function moveScroller () {
   move();
 }
 
-// entry point
+/** 
+ * entry point
+ */
 $(document).ready(function () {
 
   // load data

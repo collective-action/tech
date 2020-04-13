@@ -19,6 +19,19 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+#nav-mobile-menu {
+    color: blue;
+}
+/* mobile menu */
+@media only screen and (max-width: 600px) {
+  nav #nav-menu li {
+      display: block;
+      border-top: 1px solid #eee;
+      padding-top: 1em;
+      padding-bottom: 1em;
+      margin-right: inherit;
+  }
+}
 a {
     text-decoration: none;
     color: blue;
