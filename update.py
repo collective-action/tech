@@ -7,6 +7,7 @@ from utils.convert import (
     get_cas_from_files,
     save_cas_to_readme,
     save_cas_to_csv,
+    save_cas_to_json,
     README,
     CSV,
     CSV_FLAG,
@@ -54,7 +55,12 @@ def _get_parser():
     parser.add_argument(
         "--files-to-csv",
         action="store_true",
-        help="Update data.csv based on the action folder.",
+        help="Update actions.csv based on the action folder.",
+    )
+    parser.add_argument(
+        "--files-to-json",
+        action="store_true",
+        help="Update actions.json based on the action folder.",
     )
     parser.add_argument(
         "--files-to-readme",
@@ -113,6 +119,11 @@ if __name__ == "__main__":
         print("Using files to update the CSV...")
         cas = get_cas_from_files()
         save_cas_to_csv(cas)
+
+    if args.files_to_json:
+        print("Using files to update the JSON...")
+        cas = get_cas_from_files()
+        save_cas_to_json(cas)
 
     if args.files_to_readme:
         print("Using files to update the README...")

@@ -1,4 +1,5 @@
 import os
+import json
 import pandas as pd
 from pathlib import Path
 
@@ -18,6 +19,13 @@ CSV = Path(
     os.path.realpath(
         os.path.join(
             os.path.abspath(__file__), os.pardir, os.pardir, "actions.csv"
+        )
+    )
+)
+JSON = Path(
+    os.path.realpath(
+        os.path.join(
+            os.path.abspath(__file__), os.pardir, os.pardir, "actions.json"
         )
     )
 )
@@ -53,3 +61,9 @@ def save_cas_to_readme(cas: CollectiveActions):
 def save_cas_to_csv(cas: CollectiveActions):
     df = cas.to_df()
     df.to_csv(CSV)
+
+
+def save_cas_to_json(cas: CollectiveActions):
+    data = cas.to_dict()
+    with open('actions.json', 'w') as outfile:
+        json.dump(data, outfile, default=CollectiveAction.json_converter)

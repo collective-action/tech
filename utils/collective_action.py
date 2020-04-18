@@ -3,8 +3,9 @@ import math
 import json
 import bs4
 import dateparser
+import datetime
 from bs4 import BeautifulSoup
-from dataclasses import dataclass, field
+from dataclasses import dataclass, field, asdict
 from typing import Any, List, Dict, ClassVar, Union, Iterable
 from urllib.parse import urlparse
 from .files import FileClient
@@ -161,6 +162,10 @@ class CollectiveAction:
         return False
 
     def to_dict(self) -> Dict[str, Any]:
+        """ Return dict of all fields. """
+        return asdict(self)
+
+    def to_readable_dict(self) -> Dict[str, Any]:
         """ Return dict of all fields serialized to string """
         return {
             key: self.stringify(key) for key, value in self.__dict__.items()
@@ -170,12 +175,13 @@ class CollectiveAction:
         """ Returns the value of the field in str. """
         assert (
             field in self.__dataclass_fields__
-        ), f"Cannot serialize {field}. Not a valid field in CollectivenAction."
+        ), f"Cannot serialize {field}. Not a valid field in Collective Action."
 
         value = self.__getattribute__(field)
         ret = None
         if field in ["date"]:
             ret = value.strftime("%Y/%m/%d")
+            # ret = CollectiveAction.date_converter(value)
         elif field in ["workers"]:
             ret = str(value)
         elif field in [
@@ -197,6 +203,12 @@ class CollectiveAction:
         else:
             ret = value
         return ret
+
+    @classmethod
+    def json_converter(cls, o: Any) -> str:
+        """ converts datetime to str if type is datetime """
+        if isinstance(o, datetime.date):
+            return o.strftime("%Y/%m/%d")
 
     @classmethod
     def create_from_row(cls, row: pd.Series) -> "CollectiveAction":
@@ -286,7 +298,7 @@ class CollectiveActions:
         self.sort()
         data = []
         for ca in self.cas:
-            data.append(ca.to_dict())
+            data.append(ca.to_readable_dict())
         df = pd.read_json(json.dumps(data), orient="list", convert_dates=False)
         return df[self.fields]
 
@@ -369,6 +381,11 @@ class CollectiveActions:
                 filepath=fc.cas_folder / fn,
                 ca=ca.to_dict(),
             )
+
+    def to_dict(self) -> str:
+        """ Convert this instance of Actions to JSON. """
+        self.sort()
+        return [ca.to_dict() for ca in self.cas]
 
     @staticmethod
     def read_from_df(df: pd.DataFrame) -> "CollectiveActions":
