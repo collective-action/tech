@@ -1,14 +1,13 @@
 import pandas as pd
-import math
 import json
 import bs4
-import dateparser
+import datetime
 from bs4 import BeautifulSoup
 from dataclasses import dataclass, field, asdict
-from typing import Any, List, Dict, ClassVar, Union, Iterable
+from typing import Any, List, Dict, ClassVar, Iterable
 from urllib.parse import urlparse
 from .files import FileClient
-from .misc import Url
+from .misc import Url, NoneType
 
 
 @dataclass
@@ -71,43 +70,18 @@ class CollectiveAction:
     ]
 
     @staticmethod
-    def is_none(field: Any) -> bool:
-        if field is None:
-            return True
-        elif isinstance(field, float) and math.isnan(field):
-            return True
-        elif isinstance(field, str) and field.lower() == "none":
-            return True
-        elif isinstance(field, (list,)) and len(field) == 0:
-            return True
-        else:
-            return False
-
-    def listify(self, field: Union[List[Any], Any]) -> List[Any]:
-        if self.is_none(field):
-            return None
-        else:
-            if isinstance(field, (list,)):
-                return field
-            else:
-                field = field.strip('\"')
-                return [s.strip().lower() for s in field.split(",")]
-
     def __post_init__(self):
         """ Used to validate fields. """
-        self.date = dateparser.parse(self.date).date()
-        self.sources = self.listify(self.sources)
-        self.struggles = self.listify(self.struggles)
-        self.actions = self.listify(self.actions)
-        self.employment_types = self.listify(self.employment_types)
-
-        self.companies = self.listify(self.companies)
-        self.tags = self.listify(self.tags)
-        self.locations = self.listify(self.locations)
-
-        self.workers = (
-            None if self.is_none(self.workers) else int(self.workers)
-        )
+        # check all the types
+        assert isinstance(self.date, (pd.Timestamp, datetime.date))
+        assert isinstance(self.sources, list)
+        assert isinstance(self.struggles, list)
+        assert isinstance(self.actions, list)
+        assert isinstance(self.employment_types, list)
+        assert isinstance(self.companies, (list, NoneType))
+        assert isinstance(self.tags, (list, NoneType))
+        assert isinstance(self.locations, (list, NoneType))
+        assert isinstance(self.workers, (int, float, NoneType))
 
         # make sure action is a valid action
         for action in self.actions:
@@ -142,6 +116,9 @@ class CollectiveAction:
             for source in self.sources
         ]
 
+        # change date to datetime
+        self.date = pd.Timestamp.to_pydatetime(self.date)
+
     def __lt__(self, other):
         """ Used to make CollectiveActions sortable.
 
@@ -163,7 +140,7 @@ class CollectiveAction:
         """ Return dict of all fields. """
         return asdict(self)
 
-    def to_readable_dict(self) -> Dict[str, Any]:
+    def stringify_fields(self) -> Dict[str, Any]:
         """ Return dict of all fields serialized to string """
         return {
             key: self.stringify(key) for key, value in self.__dict__.items()
@@ -179,7 +156,6 @@ class CollectiveAction:
         ret = None
         if field in ["date"]:
             ret = value.strftime("%Y/%m/%d")
-            # ret = CollectiveAction.date_converter(value)
         elif field in ["workers"]:
             ret = str(value)
         elif field in [
@@ -235,9 +211,7 @@ class CollectiveActions:
 
     cas_iterator: Iterable = None
     ca_id: ClassVar = "actions"
-    cas: List[CollectiveAction] = field(
-        default_factory=lambda: []
-    )
+    cas: List[CollectiveAction] = field(default_factory=lambda: [])
     fields: List[str] = field(
         default_factory=lambda: [
             key
@@ -282,7 +256,7 @@ class CollectiveActions:
         self.cas_iterator = iter(self.cas)
 
     def to_df(self) -> pd.DataFrame:
-        """ Converts this instance of CollectiveActions to a df.
+        """ Converts this instance of CollectiveActions to a df (for CSV)
 
         This function will assert a least-recent to most-recent ordering of
         events.
@@ -290,7 +264,7 @@ class CollectiveActions:
         self.sort()
         data = []
         for ca in self.cas:
-            data.append(ca.to_readable_dict())
+            data.append(ca.stringify_fields())
         df = pd.read_json(json.dumps(data), orient="list", convert_dates=False)
         return df[self.fields]
 
@@ -300,9 +274,7 @@ class CollectiveActions:
         This function will assert a most-recent to least-recent ordering of
         events.
         """
-        soup = BeautifulSoup(
-            f"<div id={self.ca_id}></div>", "html.parser"
-        )
+        soup = BeautifulSoup(f"<div id={self.ca_id}></div>", "html.parser")
         table = soup.new_tag("table")
         soup.div.append(table)
 
@@ -369,19 +341,16 @@ class CollectiveActions:
             for s in ca.struggles:
                 struggles += f"{s},"
             fn = f"{i:04}.json"
-            fc.save_to_file(
-                filepath=fc.cas_folder / fn,
-                ca=ca.to_dict(),
-            )
+            fc.save_to_file(filepath=fc.cas_folder / fn, ca=ca.to_dict())
 
     def to_dict(self) -> str:
         """ Convert this instance of Actions to JSON. """
         self.sort()
         return [ca.to_dict() for ca in self.cas]
 
-    @staticmethod
-    def read_from_df(df: pd.DataFrame) -> "CollectiveActions":
-        """ Create and populate an CollectiveActions instance from a dataframe. """
+    @classmethod
+    def read_from_df(cls, df: pd.DataFrame) -> "CollectiveActions":
+        """ Create and populate a CollectiveActions instance from a dataframe. (CSV/JSON) """
         cas = CollectiveActions()
         for i, row in df.iterrows():
             ca = CollectiveAction.create_from_row(row)
@@ -390,7 +359,7 @@ class CollectiveActions:
 
     @classmethod
     def read_from_files(cls, files: List[str]) -> "CollectiveActions":
-        """ Create and populate an CollectiveActions instance from the actions folder. """
+        """ Create and populate a CollectiveActions instance from the actions folder. """
         fc = FileClient()
         cas = CollectiveActions()
         for file in files:

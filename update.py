@@ -4,14 +4,13 @@ import argparse
 import warnings
 from utils.convert import (
     get_cas_from_csv,
+    get_cas_from_json,
     get_cas_from_files,
     save_cas_to_readme,
     save_cas_to_csv,
     save_cas_to_json,
-    README,
-    CSV,
-    CSV_FLAG,
 )
+from utils.misc import CSV_FLAG
 
 
 def _get_parser():
@@ -22,7 +21,7 @@ def _get_parser():
         - clean up files under /actions
         - export the actions to a csv
         - export the actions to the readme
-		"""
+        """
         ),
         epilog=textwrap.dedent(
             """
@@ -157,4 +156,5 @@ if __name__ == "__main__":
 
     if args.json_to_files:
         print("Using JSON to update files...")
-        pass
+        cas = get_cas_from_json()
+        cas.to_files()

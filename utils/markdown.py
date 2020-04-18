@@ -72,17 +72,11 @@ def update_ca_summary(
 
 
 def update_markdown_document(
-    doc: MarkdownDocument,
-    ca_id: str,
-    cas: "CollectiveActions",
+    doc: MarkdownDocument, ca_id: str, cas: "CollectiveActions"
 ) -> MarkdownDocument:
     """ Replace markdown table and update summary. """
-    doc = replace_md_data(
-        doc, ca_id, cas.to_readme()
-    )
-    doc = update_ca_summary(
-        doc, SUMMARY_ID, "action-count", str(len(cas))
-    )
+    doc = replace_md_data(doc, ca_id, cas.to_readme())
+    doc = update_ca_summary(doc, SUMMARY_ID, "action-count", str(len(cas)))
     tz = pytz.timezone("US/Eastern")
     now = datetime.datetime.now(tz).strftime("%d/%m/%Y %I:%M%p")
     doc = update_ca_summary(doc, SUMMARY_ID, "timestamp", now)
