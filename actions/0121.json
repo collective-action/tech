@@ -1,1 +1,28 @@
-{"date": "2019/03/25", "sources": ["https://www.vox.com/2019/3/25/18280718/uber-lyft-drivers-strike-la-los-angeles"], "actions": ["strike"], "struggles": ["pay_and_benefits"], "employment_types": ["gig_workers"], "description": "Uber and Lyft drivers in Los Angeles are refusing to pick up customers today \u2014 part of a one-day strike to protest Uber's recent decision to slash pay rates for drivers in the area.", "locations": ["los_angeles", "california", "usa"], "companies": ["uber", "lyft"], "workers": 100.0, "tags": null, "author": "organizejs"}
+{
+    "date": "2019/03/25",
+    "sources": [
+        "https://www.vox.com/2019/3/25/18280718/uber-lyft-drivers-strike-la-los-angeles"
+    ],
+    "actions": [
+        "strike"
+    ],
+    "struggles": [
+        "pay_and_benefits"
+    ],
+    "employment_types": [
+        "gig_workers"
+    ],
+    "description": "Uber and Lyft drivers in Los Angeles are refusing to pick up customers today \u2014 part of a one-day strike to protest Uber's recent decision to slash pay rates for drivers in the area.",
+    "locations": [
+        "los_angeles",
+        "california",
+        "usa"
+    ],
+    "companies": [
+        "uber",
+        "lyft"
+    ],
+    "workers": 100,
+    "tags": null,
+    "author": "organizejs"
+}

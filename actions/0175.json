@@ -1,1 +1,28 @@
-{"date": "2019/09/04", "sources": ["http://www.nordiclabourjournal.org/nyheter/news-2019/article.2019-09-09.4705108683", "https://www.itfglobal.org/en/news/riders-setup-soup-kitchen-in-oslo-in-fight-decent-work"], "actions": ["strike", "union_drive"], "struggles": ["pay_and_benefits"], "employment_types": ["gig_workers"], "description": "In Oslo, hundreds of striking riders are cycling around to gather support for their demand for a collective agreement. The striking riders are organised in what used to be the Norwegian Transport Workers' Union, which is now part of Fellesforbundet. The strike has already had consequences for Foodora. The employees demand higher salaries and compensation for expenses incurred using their own private bikes at work. The striking riders cycle around Oslo every day in what they call Critical Mass, something that demonstrates the strike is ongoing and that it is growing day by day. The strike lasted 5 weeks.", "locations": ["oslo", "norway"], "companies": ["foodera"], "workers": 140.0, "tags": null, "author": "organizejs"}
+{
+    "date": "2019/09/04",
+    "sources": [
+        "http://www.nordiclabourjournal.org/nyheter/news-2019/article.2019-09-09.4705108683",
+        "https://www.itfglobal.org/en/news/riders-setup-soup-kitchen-in-oslo-in-fight-decent-work"
+    ],
+    "actions": [
+        "strike",
+        "union_drive"
+    ],
+    "struggles": [
+        "pay_and_benefits"
+    ],
+    "employment_types": [
+        "gig_workers"
+    ],
+    "description": "In Oslo, hundreds of striking riders are cycling around to gather support for their demand for a collective agreement. The striking riders are organised in what used to be the Norwegian Transport Workers' Union, which is now part of Fellesforbundet. The strike has already had consequences for Foodora. The employees demand higher salaries and compensation for expenses incurred using their own private bikes at work. The striking riders cycle around Oslo every day in what they call Critical Mass, something that demonstrates the strike is ongoing and that it is growing day by day. The strike lasted 5 weeks.",
+    "locations": [
+        "oslo",
+        "norway"
+    ],
+    "companies": [
+        "foodera"
+    ],
+    "workers": 140,
+    "tags": null,
+    "author": "organizejs"
+}

@@ -1,1 +1,31 @@
-{"date": "2019/10/03", "sources": ["https://www.washingtonpost.com/technology/2019/10/09/employees-ask-github-cancel-ice-contract-we-cannot-offset-human-lives-with-money/", "https://www.washingtonpost.com/context/letter-from-github-employees-to-ceo-about-the-company-s-ice-contract/fb280de9-2bc3-40d5-b1a5-e3b954bf0d25/", "https://www.vox.com/recode/2019/10/9/20906605/github-ice-contract-immigration-ice-dan-friedman"], "actions": ["open_letter"], "struggles": ["ethics"], "employment_types": ["white_collar_workers"], "description": "After GitHub CEO Nat Friedman wrote in an internal letter on Tuesday that the company plans to renew a contract worth $200,000 with ICE to license its GitHub Enterprise Server, GitHub's employees began publicly pressuring their company's leadership to stop working with the immigration agency over human rights concerns.", "locations": ["usa", "online"], "companies": ["github", "microsoft"], "workers": 150.0, "tags": ["ice"], "author": "organizejs"}
+{
+    "date": "2019/10/03",
+    "sources": [
+        "https://www.washingtonpost.com/technology/2019/10/09/employees-ask-github-cancel-ice-contract-we-cannot-offset-human-lives-with-money/",
+        "https://www.washingtonpost.com/context/letter-from-github-employees-to-ceo-about-the-company-s-ice-contract/fb280de9-2bc3-40d5-b1a5-e3b954bf0d25/",
+        "https://www.vox.com/recode/2019/10/9/20906605/github-ice-contract-immigration-ice-dan-friedman"
+    ],
+    "actions": [
+        "open_letter"
+    ],
+    "struggles": [
+        "ethics"
+    ],
+    "employment_types": [
+        "white_collar_workers"
+    ],
+    "description": "After GitHub CEO Nat Friedman wrote in an internal letter on Tuesday that the company plans to renew a contract worth $200,000 with ICE to license its GitHub Enterprise Server, GitHub's employees began publicly pressuring their company's leadership to stop working with the immigration agency over human rights concerns.",
+    "locations": [
+        "usa",
+        "online"
+    ],
+    "companies": [
+        "github",
+        "microsoft"
+    ],
+    "workers": 150,
+    "tags": [
+        "ice"
+    ],
+    "author": "organizejs"
+}

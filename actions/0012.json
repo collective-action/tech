@@ -1,1 +1,27 @@
-{"date": "2007/07/14", "sources": ["https://www.bloomberg.com/news/articles/2007-07-13/the-gandhi-protestsbusinessweek-business-news-stock-market-and-financial-advice"], "actions": ["protest"], "struggles": ["job_security"], "employment_types": ["white_collar_workers"], "description": "Approximately a thousand foreign tech workers protested US H1B visa caps on the streets of San Jose. A shortage of visas has created difficult conditions for workers.", "locations": ["san_jose", "california", "usa"], "companies": null, "workers": 1000.0, "tags": ["immigration"], "author": "nataliyaned"}
+{
+    "date": "2007/07/14",
+    "sources": [
+        "https://www.bloomberg.com/news/articles/2007-07-13/the-gandhi-protestsbusinessweek-business-news-stock-market-and-financial-advice"
+    ],
+    "actions": [
+        "protest"
+    ],
+    "struggles": [
+        "job_security"
+    ],
+    "employment_types": [
+        "white_collar_workers"
+    ],
+    "description": "Approximately a thousand foreign tech workers protested US H1B visa caps on the streets of San Jose. A shortage of visas has created difficult conditions for workers.",
+    "locations": [
+        "san_jose",
+        "california",
+        "usa"
+    ],
+    "companies": null,
+    "workers": 1000,
+    "tags": [
+        "immigration"
+    ],
+    "author": "nataliyaned"
+}

@@ -2,6 +2,8 @@ import pandas as pd
 import json
 import bs4
 import datetime
+import dateparser
+import math
 from bs4 import BeautifulSoup
 from dataclasses import dataclass, field, asdict
 from typing import Any, List, Dict, ClassVar, Iterable
@@ -69,11 +71,10 @@ class CollectiveAction:
         "na",
     ]
 
-    @staticmethod
     def __post_init__(self):
         """ Used to validate fields. """
         # check all the types
-        assert isinstance(self.date, (pd.Timestamp, datetime.date))
+        assert isinstance(self.date, (str, pd.Timestamp, datetime.date))
         assert isinstance(self.sources, list)
         assert isinstance(self.struggles, list)
         assert isinstance(self.actions, list)
@@ -116,8 +117,18 @@ class CollectiveAction:
             for source in self.sources
         ]
 
+        # cast workers to int
+        if isinstance(self.workers, float):
+            if math.isnan(self.workers):
+                self.workers = None
+            else:
+                self.workers = int(self.workers)
+
         # change date to datetime
-        self.date = pd.Timestamp.to_pydatetime(self.date)
+        if isinstance(self.date, str):
+            self.date = dateparser.parse(self.date).date()
+        if isinstance(self.date, pd.Timestamp):
+            self.date = pd.Timestamp.to_pydatetime(self.date)
 
     def __lt__(self, other):
         """ Used to make CollectiveActions sortable.
@@ -191,10 +202,10 @@ class CollectiveAction:
         }
         return cls(**d)
 
-    @classmethod
-    def create_from_dict(cls, d: dict) -> "CollectiveAction":
-        """ Create an action instance from a dictionary. """
-        return cls(**d)
+    # @classmethod
+    # def create_from_dict(cls, d: dict) -> "CollectiveAction":
+    #     """ Create an action instance from a dictionary. """
+    #     return cls(**d)
 
 
 @dataclass
@@ -352,7 +363,7 @@ class CollectiveActions:
     def read_from_df(cls, df: pd.DataFrame) -> "CollectiveActions":
         """ Create and populate a CollectiveActions instance from a dataframe. (CSV/JSON) """
         cas = CollectiveActions()
-        for i, row in df.iterrows():
+        for _, row in df.iterrows():
             ca = CollectiveAction.create_from_row(row)
             cas.append(ca)
         return cas
@@ -364,6 +375,6 @@ class CollectiveActions:
         cas = CollectiveActions()
         for file in files:
             contents = fc.parse_file(fc.cas_folder / file)
-            ca = CollectiveAction.create_from_dict(contents)
+            ca = CollectiveAction(**contents)
             cas.append(ca)
         return cas

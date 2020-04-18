@@ -1,1 +1,30 @@
-{"date": "2019/08/07", "sources": ["https://www.indybay.org/newsitems/2019/08/07/18825265.php"], "actions": ["protest"], "struggles": ["ethics"], "employment_types": ["white_collar_workers"], "description": "Dozens of WalMart tech workers rallied in San Bruno to protest gun violence and continued sale of weapons by WalMart which is the largest distributor of guns in the United States. They also had a moment of silence for the victims and families murdered and injured in the violent racist attacks. There are over 1,000 workers at the largest tech center of WalMart in the world. This was the first collective action of WalMart tech workers in the United States. They were also joined by a delegation of Youtube workers in solidarity. Youtube workers have also faced violent attacks at their work location in San Bruno.", "locations": ["san_bruno", "california", "usa"], "companies": ["walmart"], "workers": 24.0, "tags": ["industry_solidarity", "gun_violence"], "author": "organizejs"}
+{
+    "date": "2019/08/07",
+    "sources": [
+        "https://www.indybay.org/newsitems/2019/08/07/18825265.php"
+    ],
+    "actions": [
+        "protest"
+    ],
+    "struggles": [
+        "ethics"
+    ],
+    "employment_types": [
+        "white_collar_workers"
+    ],
+    "description": "Dozens of WalMart tech workers rallied in San Bruno to protest gun violence and continued sale of weapons by WalMart which is the largest distributor of guns in the United States. They also had a moment of silence for the victims and families murdered and injured in the violent racist attacks. There are over 1,000 workers at the largest tech center of WalMart in the world. This was the first collective action of WalMart tech workers in the United States. They were also joined by a delegation of Youtube workers in solidarity. Youtube workers have also faced violent attacks at their work location in San Bruno.",
+    "locations": [
+        "san_bruno",
+        "california",
+        "usa"
+    ],
+    "companies": [
+        "walmart"
+    ],
+    "workers": 24,
+    "tags": [
+        "industry_solidarity",
+        "gun_violence"
+    ],
+    "author": "organizejs"
+}

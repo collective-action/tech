@@ -1,1 +1,27 @@
-{"date": "2020/01/13", "sources": ["https://www.vice.com/amp/en_us/article/884npb/instacart-workers-are-calling-for-a-national-boycott-of-the-grocery-delivery-app"], "actions": ["protest"], "struggles": ["pay_and_benefits"], "employment_types": ["blue_collar_workers", "gig_workers"], "description": "Many of the app's 130,000 workers claim to have seen their pay drop by more than 50 percent in 2019 alone, as the company has sought to lower costs and appease its investors. Workers are now calling for a national boycott. They\u2019re asking customers and the general public to tweet under the hashtag #DeleteInstacart on January 19, and to email Instacart CEO Apoorva Mehta on January 20, asking him to restore the 10 percent default tip\u2014which workers lost back in 2016. (The default tip sits at five percent.)", "locations": ["online", "usa"], "companies": ["instacart"], "workers": NaN, "tags": null, "author": "organizejs"}
+{
+    "date": "2020/01/13",
+    "sources": [
+        "https://www.vice.com/amp/en_us/article/884npb/instacart-workers-are-calling-for-a-national-boycott-of-the-grocery-delivery-app"
+    ],
+    "actions": [
+        "protest"
+    ],
+    "struggles": [
+        "pay_and_benefits"
+    ],
+    "employment_types": [
+        "blue_collar_workers",
+        "gig_workers"
+    ],
+    "description": "Many of the app's 130,000 workers claim to have seen their pay drop by more than 50 percent in 2019 alone, as the company has sought to lower costs and appease its investors. Workers are now calling for a national boycott. They\u2019re asking customers and the general public to tweet under the hashtag #DeleteInstacart on January 19, and to email Instacart CEO Apoorva Mehta on January 20, asking him to restore the 10 percent default tip\u2014which workers lost back in 2016. (The default tip sits at five percent.)",
+    "locations": [
+        "online",
+        "usa"
+    ],
+    "companies": [
+        "instacart"
+    ],
+    "workers": null,
+    "tags": null,
+    "author": "organizejs"
+}

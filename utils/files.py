@@ -38,7 +38,7 @@ class FileClient:
     def save_to_file(self, filepath: str, ca: dict) -> None:
         """ Serialize action from json to md file. """
         f = open(filepath, "w")
-        json.dump(ca, f, default=ca_json_converter)
+        json.dump(ca, f, default=ca_json_converter, indent=4)
         f.close()
 
     def get_all_files(self) -> List[Path]:

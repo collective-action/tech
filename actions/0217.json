@@ -1,1 +1,27 @@
-{"date": "2019/12/10", "sources": ["https://www.vice.com/amp/en_us/article/ywaaay/injured-amazon-warehouse-workers-are-protesting-dangerous-work-speed", "https://chicago.suntimes.com/metro-state/2019/12/10/21005210/amazon-employees-hurt-injured-work-activists"], "actions": ["protest"], "struggles": ["working_conditions"], "employment_types": ["blue_collar_workers"], "description": "Injured former Amazon warehouse workers and labor organizers in Chicago are protesting dangerous work speed and high injury rates today outside one of the company\u2019s brick-and-mortar stores in downtown Chicago. The action coincides with the release of a new report on injury rates in one of the region\u2019s largest and most dangerous warehouses, MDW7, the first in Illinois with automated robots. The report and protest in Chicago coincides with the launch of a national coalition, known as Athena, of three dozen grassroots labor, antitrust, and digital rights organizations\u2014the first unified resistance effort in the United States against the delivery giant.", "locations": ["chicago", "usa"], "companies": ["amazon"], "workers": 40.0, "tags": null, "author": "organizejs"}
+{
+    "date": "2019/12/10",
+    "sources": [
+        "https://www.vice.com/amp/en_us/article/ywaaay/injured-amazon-warehouse-workers-are-protesting-dangerous-work-speed",
+        "https://chicago.suntimes.com/metro-state/2019/12/10/21005210/amazon-employees-hurt-injured-work-activists"
+    ],
+    "actions": [
+        "protest"
+    ],
+    "struggles": [
+        "working_conditions"
+    ],
+    "employment_types": [
+        "blue_collar_workers"
+    ],
+    "description": "Injured former Amazon warehouse workers and labor organizers in Chicago are protesting dangerous work speed and high injury rates today outside one of the company\u2019s brick-and-mortar stores in downtown Chicago. The action coincides with the release of a new report on injury rates in one of the region\u2019s largest and most dangerous warehouses, MDW7, the first in Illinois with automated robots. The report and protest in Chicago coincides with the launch of a national coalition, known as Athena, of three dozen grassroots labor, antitrust, and digital rights organizations\u2014the first unified resistance effort in the United States against the delivery giant.",
+    "locations": [
+        "chicago",
+        "usa"
+    ],
+    "companies": [
+        "amazon"
+    ],
+    "workers": 40,
+    "tags": null,
+    "author": "organizejs"
+}

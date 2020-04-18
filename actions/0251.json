@@ -1,1 +1,33 @@
-{"date": "2020/04/06", "sources": ["https://www.vice.com/en_us/article/4age5j/amazon-workers-in-new-york-are-striking-for-the-second-week-in-a-row-as-coronavirus-cases-pile-up", "https://nypost.com/2020/04/06/amazon-faces-another-staten-island-warehouse-strike/", "https://finance.yahoo.com/news/amazon-warehouse-workers-second-walkout-one-week-over-coronavirus-fears-195814468.html"], "actions": ["protest"], "struggles": ["working_conditions", "pay_and_benefits"], "employment_types": ["in_house_workers", "blue_collar_workers"], "description": "For the second week in a row, workers at an Amazon warehouse in Staten Island held a walkout to protest the company's handling of the coronavirus crisis. Organizers state that they have heard of over 25 cases of coronavirus at the facility. In response, workers are calling for an extension of paid time off and improved sanitation in the facility. Last week, the company fired one of the organizers of the previous week's walkout. ", "locations": ["new_york_city", "new_york", "usa"], "companies": ["amazon"], "workers": 50.0, "tags": ["coronavirus"], "author": "nataliyaned"}
+{
+    "date": "2020/04/06",
+    "sources": [
+        "https://www.vice.com/en_us/article/4age5j/amazon-workers-in-new-york-are-striking-for-the-second-week-in-a-row-as-coronavirus-cases-pile-up",
+        "https://nypost.com/2020/04/06/amazon-faces-another-staten-island-warehouse-strike/",
+        "https://finance.yahoo.com/news/amazon-warehouse-workers-second-walkout-one-week-over-coronavirus-fears-195814468.html"
+    ],
+    "actions": [
+        "protest"
+    ],
+    "struggles": [
+        "working_conditions",
+        "pay_and_benefits"
+    ],
+    "employment_types": [
+        "in_house_workers",
+        "blue_collar_workers"
+    ],
+    "description": "For the second week in a row, workers at an Amazon warehouse in Staten Island held a walkout to protest the company's handling of the coronavirus crisis. Organizers state that they have heard of over 25 cases of coronavirus at the facility. In response, workers are calling for an extension of paid time off and improved sanitation in the facility. Last week, the company fired one of the organizers of the previous week's walkout. ",
+    "locations": [
+        "new_york_city",
+        "new_york",
+        "usa"
+    ],
+    "companies": [
+        "amazon"
+    ],
+    "workers": 50,
+    "tags": [
+        "coronavirus"
+    ],
+    "author": "nataliyaned"
+}

@@ -1,1 +1,29 @@
-{"date": "2019/09/05", "sources": ["https://abc7news.com/business/delivery-app-drivers-rally-for-higher-wages-at-sf-headquarters/5519192/"], "actions": ["protest"], "struggles": ["pay_and_benefits"], "employment_types": ["gig_workers"], "description": "Employees from Instacart, Doordash, and Postmates rallied outside of company headquarters to protest low wages. Doordash is rolling out a new pay model at the end of September which, it claims, will offer better pay for shoppers.", "locations": ["san_francisco", "california", "usa"], "companies": ["postmates", "doordash", "instacart"], "workers": NaN, "tags": null, "author": "nataliyaned"}
+{
+    "date": "2019/09/05",
+    "sources": [
+        "https://abc7news.com/business/delivery-app-drivers-rally-for-higher-wages-at-sf-headquarters/5519192/"
+    ],
+    "actions": [
+        "protest"
+    ],
+    "struggles": [
+        "pay_and_benefits"
+    ],
+    "employment_types": [
+        "gig_workers"
+    ],
+    "description": "Employees from Instacart, Doordash, and Postmates rallied outside of company headquarters to protest low wages. Doordash is rolling out a new pay model at the end of September which, it claims, will offer better pay for shoppers.",
+    "locations": [
+        "san_francisco",
+        "california",
+        "usa"
+    ],
+    "companies": [
+        "postmates",
+        "doordash",
+        "instacart"
+    ],
+    "workers": null,
+    "tags": null,
+    "author": "nataliyaned"
+}

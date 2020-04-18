@@ -1,1 +1,28 @@
-{"date": "2019/03/06", "sources": ["https://onezero.medium.com/uber-delivery-workers-in-mexico-track-thieves-through-a-secret-whatsapp-network-d5795a0e3b41", "https://sira-apps-sindicato.jimdosite.com/", "https://www.facebook.com/pg/sirapps/about/?ref=page_internal"], "actions": ["union_drive"], "struggles": ["working_conditions", "pay_and_benefits"], "employment_types": ["contract_workers", "gig_workers"], "description": "At least 16 Mexican app delivery drivers met to form the Sindicato Independiente de Repartidores en Aplicaciones (SIRA APPS, rough translation: Independent Union of App Deliverypeople). The union seeks legal recognition, and demands worker accident insurance, worker-led onboarding for new delivery drivers, and assistance with social benefits registration.", "locations": ["mexico", "merida"], "companies": null, "workers": 16.0, "tags": null, "author": "moates"}
+{
+    "date": "2019/03/06",
+    "sources": [
+        "https://onezero.medium.com/uber-delivery-workers-in-mexico-track-thieves-through-a-secret-whatsapp-network-d5795a0e3b41",
+        "https://sira-apps-sindicato.jimdosite.com/",
+        "https://www.facebook.com/pg/sirapps/about/?ref=page_internal"
+    ],
+    "actions": [
+        "union_drive"
+    ],
+    "struggles": [
+        "working_conditions",
+        "pay_and_benefits"
+    ],
+    "employment_types": [
+        "contract_workers",
+        "gig_workers"
+    ],
+    "description": "At least 16 Mexican app delivery drivers met to form the Sindicato Independiente de Repartidores en Aplicaciones (SIRA APPS, rough translation: Independent Union of App Deliverypeople). The union seeks legal recognition, and demands worker accident insurance, worker-led onboarding for new delivery drivers, and assistance with social benefits registration.",
+    "locations": [
+        "mexico",
+        "merida"
+    ],
+    "companies": null,
+    "workers": 16,
+    "tags": null,
+    "author": "moates"
+}

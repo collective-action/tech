@@ -1,1 +1,30 @@
-{"date": "2019/07/26", "sources": ["https://financialtribune.com/articles/sci-tech/99111/github-bans-iran-based-users", "https://github.com/1995parham/github-do-not-ban-us"], "actions": ["protest", "open_letter"], "struggles": ["discrimination"], "employment_types": ["white_collar_workers"], "description": "GitHub users have created a repository to protest the company's decision to ban Iranians from accessing the site due to US sanctions. The repository combines multiple types of actions, serving as an open letter to the company and collecting known incidences of Iranian users being denied access, in addition to highlighting the contributions of Iranian developers. ", "locations": ["worldwide", "iran"], "companies": ["github"], "workers": 945.0, "tags": ["international_solidarity"], "author": "nataliyaned"}
+{
+    "date": "2019/07/26",
+    "sources": [
+        "https://financialtribune.com/articles/sci-tech/99111/github-bans-iran-based-users",
+        "https://github.com/1995parham/github-do-not-ban-us"
+    ],
+    "actions": [
+        "protest",
+        "open_letter"
+    ],
+    "struggles": [
+        "discrimination"
+    ],
+    "employment_types": [
+        "white_collar_workers"
+    ],
+    "description": "GitHub users have created a repository to protest the company's decision to ban Iranians from accessing the site due to US sanctions. The repository combines multiple types of actions, serving as an open letter to the company and collecting known incidences of Iranian users being denied access, in addition to highlighting the contributions of Iranian developers. ",
+    "locations": [
+        "worldwide",
+        "iran"
+    ],
+    "companies": [
+        "github"
+    ],
+    "workers": 945,
+    "tags": [
+        "international_solidarity"
+    ],
+    "author": "nataliyaned"
+}

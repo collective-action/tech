@@ -1,1 +1,30 @@
-{"date": "2019/09/26", "sources": ["https://www.vice.com/en_us/article/qvgn9q/do-not-discuss-the-incident-facebook-told-employee-fired-after-speaking-about-worker-suicide", "https://www.gofundme.com/f/say-no-to-toxic-work-environment", "https://www.gofundme.com/f/qinchen-memorial-fund"], "actions": ["protest"], "struggles": ["ethics", "working_conditions"], "employment_types": ["white_collar_workers"], "description": "Over 400 Facebook employees protested publicly against the company's treatment of foreign workers on H1B visas days after a Chinese employee committed suicide by jumping off the roof of a company building. Workers at the company have started publicly posting and speaking out about the mistreatment of international workers, who are only allowed to stay in the US if they are sponsored by their employer and thus face greater pressures not to speak out against working conditions. Two separate GoFundMe pages have been started to raise money for a memorial and a protest event (over $6,000) and for Chen's family (over $122,000). Facebook has since fired one of the employees who organized the protest, Yi Yin. Yin also spoke to the press about the suicide after the company instructed him not to speak about the suicide. ", "locations": ["menlo_park", "california", "usa"], "companies": ["facebook"], "workers": 400.0, "tags": null, "author": "nataliyaned"}
+{
+    "date": "2019/09/26",
+    "sources": [
+        "https://www.vice.com/en_us/article/qvgn9q/do-not-discuss-the-incident-facebook-told-employee-fired-after-speaking-about-worker-suicide",
+        "https://www.gofundme.com/f/say-no-to-toxic-work-environment",
+        "https://www.gofundme.com/f/qinchen-memorial-fund"
+    ],
+    "actions": [
+        "protest"
+    ],
+    "struggles": [
+        "ethics",
+        "working_conditions"
+    ],
+    "employment_types": [
+        "white_collar_workers"
+    ],
+    "description": "Over 400 Facebook employees protested publicly against the company's treatment of foreign workers on H1B visas days after a Chinese employee committed suicide by jumping off the roof of a company building. Workers at the company have started publicly posting and speaking out about the mistreatment of international workers, who are only allowed to stay in the US if they are sponsored by their employer and thus face greater pressures not to speak out against working conditions. Two separate GoFundMe pages have been started to raise money for a memorial and a protest event (over $6,000) and for Chen's family (over $122,000). Facebook has since fired one of the employees who organized the protest, Yi Yin. Yin also spoke to the press about the suicide after the company instructed him not to speak about the suicide. ",
+    "locations": [
+        "menlo_park",
+        "california",
+        "usa"
+    ],
+    "companies": [
+        "facebook"
+    ],
+    "workers": 400,
+    "tags": null,
+    "author": "nataliyaned"
+}

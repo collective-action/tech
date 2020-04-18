@@ -1,1 +1,30 @@
-{"date": "2019/03/04", "sources": ["https://www.bloomberg.com/news/articles/2019-03-04/holdout-jeff-bezos-confronted-by-amazon-moms-demanding-daycare"], "actions": ["protest"], "struggles": ["pay_and_benefits"], "employment_types": ["white_collar_workers"], "description": "A group of employees at Amazon have called for the company to provide a backup daycare benefit. The group collected accounts of employees who have been negatively impacted by a lack of daycare to present to senior managers. They have also called for management to collect more data on child care among employees.", "locations": ["seattle", "washington", "usa"], "companies": ["amazon"], "workers": 1800.0, "tags": ["sexism", "child_care"], "author": "nataliyaned"}
+{
+    "date": "2019/03/04",
+    "sources": [
+        "https://www.bloomberg.com/news/articles/2019-03-04/holdout-jeff-bezos-confronted-by-amazon-moms-demanding-daycare"
+    ],
+    "actions": [
+        "protest"
+    ],
+    "struggles": [
+        "pay_and_benefits"
+    ],
+    "employment_types": [
+        "white_collar_workers"
+    ],
+    "description": "A group of employees at Amazon have called for the company to provide a backup daycare benefit. The group collected accounts of employees who have been negatively impacted by a lack of daycare to present to senior managers. They have also called for management to collect more data on child care among employees.",
+    "locations": [
+        "seattle",
+        "washington",
+        "usa"
+    ],
+    "companies": [
+        "amazon"
+    ],
+    "workers": 1800,
+    "tags": [
+        "sexism",
+        "child_care"
+    ],
+    "author": "nataliyaned"
+}

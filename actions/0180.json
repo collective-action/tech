@@ -1,1 +1,26 @@
-{"date": "2019/09/13", "sources": ["https://onezero.medium.com/leak-of-microsoft-salaries-shows-fight-for-higher-compensation-3010c589b41e"], "actions": ["protest"], "struggles": ["pay_and_benefits", "working_conditions"], "employment_types": ["white_collar_workers"], "description": "Microsoft employees are using a shared Google spreadsheet to compile data on salary and bonuses. The spreadsheet also makes note of employee level, or rank, within the company in an attempt to encourage greater transparency on compensation.", "locations": ["online"], "companies": ["microsoft"], "workers": 400.0, "tags": null, "author": "nataliyaned"}
+{
+    "date": "2019/09/13",
+    "sources": [
+        "https://onezero.medium.com/leak-of-microsoft-salaries-shows-fight-for-higher-compensation-3010c589b41e"
+    ],
+    "actions": [
+        "protest"
+    ],
+    "struggles": [
+        "pay_and_benefits",
+        "working_conditions"
+    ],
+    "employment_types": [
+        "white_collar_workers"
+    ],
+    "description": "Microsoft employees are using a shared Google spreadsheet to compile data on salary and bonuses. The spreadsheet also makes note of employee level, or rank, within the company in an attempt to encourage greater transparency on compensation.",
+    "locations": [
+        "online"
+    ],
+    "companies": [
+        "microsoft"
+    ],
+    "workers": 400,
+    "tags": null,
+    "author": "nataliyaned"
+}
