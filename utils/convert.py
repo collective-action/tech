@@ -5,6 +5,7 @@ from pathlib import Path
 
 from utils.collective_action import CollectiveAction, CollectiveActions
 from utils.files import FileClient
+from utils.misc import ca_json_converter
 from utils.markdown import update_markdown_document
 
 
@@ -66,4 +67,4 @@ def save_cas_to_csv(cas: CollectiveActions):
 def save_cas_to_json(cas: CollectiveActions):
     data = cas.to_dict()
     with open('actions.json', 'w') as outfile:
-        json.dump(data, outfile, default=CollectiveAction.json_converter)
+        json.dump(data, outfile, default=ca_json_converter)

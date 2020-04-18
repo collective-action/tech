@@ -3,14 +3,12 @@ import math
 import json
 import bs4
 import dateparser
-import datetime
 from bs4 import BeautifulSoup
 from dataclasses import dataclass, field, asdict
 from typing import Any, List, Dict, ClassVar, Union, Iterable
 from urllib.parse import urlparse
 from .files import FileClient
-
-Url = str
+from .misc import Url
 
 
 @dataclass
@@ -205,12 +203,6 @@ class CollectiveAction:
         return ret
 
     @classmethod
-    def json_converter(cls, o: Any) -> str:
-        """ converts datetime to str if type is datetime """
-        if isinstance(o, datetime.date):
-            return o.strftime("%Y/%m/%d")
-
-    @classmethod
     def create_from_row(cls, row: pd.Series) -> "CollectiveAction":
         """ Create an CollectiveAction instance from a dataframe row. """
         fields = [
@@ -376,7 +368,7 @@ class CollectiveActions:
             struggles = ""
             for s in ca.struggles:
                 struggles += f"{s},"
-            fn = f"{i:04}.md"
+            fn = f"{i:04}.json"
             fc.save_to_file(
                 filepath=fc.cas_folder / fn,
                 ca=ca.to_dict(),

@@ -82,6 +82,11 @@ def _get_parser():
         action="store_true",
         help="Update the table in the README.md from the actions.csv.",
     )
+    parser.add_argument(
+        "--json-to-files",
+        action="store_true",
+        help="Update the collective action folder based on the json file.",
+    )
 
     args = parser.parse_args()
     return args
@@ -137,8 +142,8 @@ if __name__ == "__main__":
 
     if args.csv_to_files:
         print("Clearning up the actions in the csv...")
-        actions = get_cas_from_csv()
-        save_actions_to_csv(actions)
+        cas = get_cas_from_csv()
+        cas.to_files()
 
     if args.csv_to_files:
         print("Using csv to update the files...")
@@ -149,3 +154,7 @@ if __name__ == "__main__":
         print("Using csv to update the README...")
         cas = get_cas_from_csv()
         save_cas_to_readme(cas)
+
+    if args.json_to_files:
+        print("Using JSON to update files...")
+        pass

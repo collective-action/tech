@@ -1,16 +1,20 @@
 import os
 import glob
+import json
 from typing import List
 from pathlib import Path
+from utils.misc import ca_json_converter
 
 
 class FileClient:
     """ This class manages the file system of Actions.
 
     When serializing or deserializing, it will assume the following format:
-    ```md
-    - <field1>: <value1>
-    - <field2>: <value2>
+    ```json
+    {
+      <field1>: [<value1>, <value2>]
+      <field2>: <value2>
+    }
     ```
     """
 
@@ -33,13 +37,8 @@ class FileClient:
 
     def save_to_file(self, filepath: str, ca: dict) -> None:
         """ Serialize action from json to md file. """
-        text = ""
-        for key, value in ca.items():
-            text += "- "
-            text += key + ": "
-            text += value + "\n"
         f = open(filepath, "w")
-        f.write(text)
+        json.dump(ca, f, default=ca_json_converter)
         f.close()
 
     def get_all_files(self) -> List[Path]:
@@ -48,23 +47,16 @@ class FileClient:
             f
             for f in os.listdir(self.cas_folder)
             if os.path.isfile(os.path.join(self.cas_folder, f))
-            and f.lower().endswith(".md")
+            and f.lower().endswith(".json")
         ]
 
     def parse_file(self, filepath: str) -> dict:
         """ Parses a file in the actions folder and returns dict. """
         f = open(filepath, "r")
-        contents = f.read().strip()
-        d = {}
-        for row in contents.split("\n"):
-            if len(row) > 0:
-                key = row.split(": ", 1)[0][1:].strip()
-                value = row.split(": ", 1)[1]
-                d[key] = value
-        return d
+        return json.load(f)
 
     def remove_all_files(self) -> None:
         """ Removes all actions from list of files. """
-        files = glob.glob(str(self.cas_folder / "*.md"))
+        files = glob.glob(str(self.cas_folder / "*.json"))
         for file in files:
             os.remove(file)
