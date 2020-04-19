@@ -74,26 +74,46 @@ If any of the following __tags__ are applicable, please add them to the action:
 `coworker_solidarity`, `industry_solidarity`, `international_solidarity`, `lgbtq`, `fund_raising`, `mijente`, `temporary_workers_of_america`, `military_contracts`, `trade_war`, `seiu`, `law_enforcement`, `sexism`, `muslim_registry`, `academics`, `moderators`, `gig_workers_rising`, `twc`, `unite_here`, `climate_change`, `ice`, `ai`, `trump`, `retaliation`, `cbp`, `teamster`, `immigration`, `students`, `coronavirus`, `None` (if none apply)
 
 ## Formatting
-When adding an update to the README, use the provided html code below to add a
-action. Copy and paste the html snippet under the opening `<div>` tag in the README.
+Add your data using the standard JSON convention:
 
-```md
-- date: 2018/01/15
-- sources: https://www.your.valid/source1, https://www.your.valid/source2
-- actions: protest, open_letter
-- struggles: ethics, discrimination
-- employment_types: white_collar_workers, in_house_workers
-- description: Thousands of people protest a military contract in Queens.
-- locations: new_york
-- companies: amazon
-- workers: 1000
-- tags: military_contract, delivery_workers
-- author: organizejs
+```json
+{
+  "date": "2018/01/15"
+  "sources": [
+    "https://www.your.valid/source1",
+    "https://www.your.valid/source2"
+  ],
+  "actions": [
+    "protest",
+    "open_letter"
+  ],
+  "struggles": [
+    "ethics",
+    "discrimination"
+  ],
+  "employment_types": [
+    "white_collar_workers",
+    "in_house_workers"
+  ],
+  "description": "Thousands of people protest a military contract in Queens."
+  "locations": [
+    "new_york"
+  ],
+  "companies": [
+    "amazon"
+  ],
+  "workers": 1000
+  "tags": [
+    "military_contract",
+    "delivery_workers"
+  ],
+  "author": organizejs
+}
 ```
 
 Please note the following aspects:
+- We expect the standard JSON format. You can use a [JSON validator](https://jsonlint.com/) to check that its correctly formatted.
 - If you would like your github username affiliated with the action you added, add an attribute `author` in the `<table>` tag with your github username. If you wish to remain anonymous, skip this step. Keep in mind, your github username will be affiliated with the PR.
-- If you add multiple values to a field, make sure the values are comma-seprated. For example, if two types of struggle were involved, it would look like so: `pay_and_benefits, working_conditions`
 - DO NOT add additional fields to the file. If you wish to include other information, add it in the description field or as a tag.
 
 ## Making A Pull Request (PR)
@@ -104,11 +124,11 @@ When you make a pull request, the request will trigger an Azure pipeline to kick
 1. Test that the addition that was made complies with the data fields outlined above - if it does not comply, the Azure pipeline will block the merge.
 1. Cleans up the files in /actions
 1. Updates the README.md including total actions
-1. Updates the `actions.csv` file so that the file is up-to-date
+1. Updates the `actions.csv` and `actions.json` files so that the file is up-to-date
 
 > The cleanup/update uses the `update.py` file described in the "Developer Feature" section below
 
-Shortly after the PR is accepted, you should see your newly added action on the website. The website relies on the `actions.csv` file, so as soon as that file is updated in the CI pipeline, the action should also be reflected on the website. 
+Shortly after the PR is accepted, you should see your newly added action on the website. The website relies on the `actions.json` file, so as soon as that file is updated in the CI pipeline, the action should also be reflected on the website. 
 
 ## Developer Features
 
@@ -126,4 +146,7 @@ $ python update.py --files-to-csv
 
 # Update README.md based on files
 $ python update.py --files-to-readme
+
+# Update actions.json based on files
+$ python update.py --files-to-json
 ```
