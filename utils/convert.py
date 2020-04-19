@@ -3,15 +3,18 @@ import pandas as pd
 from pathlib import Path
 
 from utils.collective_action import CollectiveActions
-from utils.files import FileClient
+from utils.files import get_all_files
 from utils.misc import ca_json_converter, README, CSV, JSON
 from utils.markdown import update_markdown_document
 
 
+"""
+These functions gets CollectiveActions
+from any format (CSV, JSON, Folder)
+"""
 def get_cas_from_files():
     """ Get CAS from action files. """
-    fc = FileClient()
-    files = fc.get_all_files()
+    files = get_all_files()
     return CollectiveActions.read_from_files(files).sort()
 
 
@@ -25,6 +28,15 @@ def get_cas_from_json():
     """ Get CAS from JSON. """
     df = pd.read_json(JSON)
     return CollectiveActions.read_from_df(df).sort()
+
+
+"""
+These functions saves CollectiveActions
+to any format (CSV, JSON, Folder, README)
+"""
+def save_cas_to_files(cas: CollectiveActions):
+    """ Save CAS to action folder. """
+    cas.to_files()
 
 
 def save_cas_to_readme(cas: CollectiveActions):

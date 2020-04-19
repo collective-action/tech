@@ -8,6 +8,15 @@ Url = str
 NoneType = type(None)
 
 
+ACTION_FOLDER = Path(
+    os.path.realpath(
+        os.path.join(
+            os.path.abspath(__file__), os.pardir, os.pardir, "actions"
+        )
+    )
+)
+
+
 README = Path(
     os.path.realpath(
         os.path.join(

@@ -4,12 +4,13 @@ import bs4
 import datetime
 import dateparser
 import math
+import ast
 from bs4 import BeautifulSoup
 from dataclasses import dataclass, field, asdict
 from typing import Any, List, Dict, ClassVar, Iterable
 from urllib.parse import urlparse
-from .files import FileClient
-from .misc import Url, NoneType
+from .files import save_to_file, parse_file, remove_all_files
+from .misc import Url, NoneType, ACTION_FOLDER
 
 
 @dataclass
@@ -151,14 +152,22 @@ class CollectiveAction:
         """ Return dict of all fields. """
         return asdict(self)
 
-    def stringify_fields(self) -> Dict[str, Any]:
+    def stringify(self) -> Dict[str, str]:
+        """ Return a dict of all fields serialized to a string. """
+        return {
+            key: str(value) for key, value in self.__dict__.items()
+        }
+
+    def smart_stringify_fields(self) -> Dict[str, Any]:
         """ Return dict of all fields serialized to string """
+        # TODO not in use
         return {
             key: self.stringify(key) for key, value in self.__dict__.items()
         }
 
-    def stringify(self, field: str) -> str:
+    def smart_stringify(self, field: str) -> str:
         """ Returns the value of the field in str. """
+        # TODO not in use
         assert (
             field in self.__dataclass_fields__
         ), f"Cannot serialize {field}. Not a valid field in Collective Action."
@@ -192,20 +201,22 @@ class CollectiveAction:
     @classmethod
     def create_from_row(cls, row: pd.Series) -> "CollectiveAction":
         """ Create an CollectiveAction instance from a dataframe row. """
+        def literal_eval(val) -> Any:
+            """ Converts a string literal to python object. """
+            try:
+                return ast.literal_eval(val)
+            except (SyntaxError, ValueError):
+                return val
+
         fields = [
             key
             for key, value in cls.__dataclass_fields__.items()
             if value.type != ClassVar
         ]
         d = {
-            key: value for key, value in row.to_dict().items() if key in fields
+            key: literal_eval(value) for key, value in row.to_dict().items() if key in fields
         }
         return cls(**d)
-
-    # @classmethod
-    # def create_from_dict(cls, d: dict) -> "CollectiveAction":
-    #     """ Create an action instance from a dictionary. """
-    #     return cls(**d)
 
 
 @dataclass
@@ -275,7 +286,8 @@ class CollectiveActions:
         self.sort()
         data = []
         for ca in self.cas:
-            data.append(ca.stringify_fields())
+            # data.append(ca.smart_stringify_fields())
+            data.append(ca.stringify())
         df = pd.read_json(json.dumps(data), orient="list", convert_dates=False)
         return df[self.fields]
 
@@ -320,11 +332,11 @@ class CollectiveActions:
                 tr[meta_field] = ca.__getattribute__(meta_field)
 
             td_date = soup.new_tag("td")
-            td_date.string = ca.stringify("date")
+            td_date.string = ca.date
             tr.append(td_date)
 
             td_action = soup.new_tag("td")
-            td_action.string = ca.stringify("description")
+            td_action.string = ca.description
             tr.append(td_action)
 
             td_action = soup.new_tag("td")
@@ -345,14 +357,13 @@ class CollectiveActions:
         events.
         """
         self.sort()
-        fc = FileClient()
-        fc.remove_all_files()
+        remove_all_files()
         for i, ca in enumerate(self.cas):
             struggles = ""
             for s in ca.struggles:
                 struggles += f"{s},"
             fn = f"{i:04}.json"
-            fc.save_to_file(filepath=fc.cas_folder / fn, ca=ca.to_dict())
+            save_to_file(filepath=ACTION_FOLDER / fn, ca=ca.to_dict())
 
     def to_dict(self) -> str:
         """ Convert this instance of Actions to JSON. """
@@ -371,10 +382,9 @@ class CollectiveActions:
     @classmethod
     def read_from_files(cls, files: List[str]) -> "CollectiveActions":
         """ Create and populate a CollectiveActions instance from the actions folder. """
-        fc = FileClient()
         cas = CollectiveActions()
         for file in files:
-            contents = fc.parse_file(fc.cas_folder / file)
+            contents = parse_file(ACTION_FOLDER / file)
             ca = CollectiveAction(**contents)
             cas.append(ca)
         return cas

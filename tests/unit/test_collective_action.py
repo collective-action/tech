@@ -53,32 +53,32 @@ def test_ca_create_from_file(correctly_formatted_ca_file):
     """ Test CollectiveAction `create_from_dict` function. """
     fc = FileClient()
     a = fc.parse_file(correctly_formatted_ca_file)
-    ca = CollectiveAction.create_from_dict(a)
+    ca = CollectiveAction(**a)
     _test_ca(ca)
 
 
-def test_ca_create_from_files(correctly_formatted_cas_files):
+def test_cas_create_from_files(correctly_formatted_cas_files):
     """ Test CollectiveActions `read_from_files` function. """
     cas = CollectiveActions.read_from_files(correctly_formatted_cas_files)
     _test_cas(cas)
 
 
-def test_ca_create_from_row(correctly_formatted_ca_series):
-    """ Test CollectiveAction `create_from_row` function. """
-    ca = CollectiveAction.create_from_row(correctly_formatted_ca_series)
-    _test_ca(ca)
-
-
-def test_cas_read_from_df(correctly_formatted_cas_df):
-    """ Test CollectiveActions `read_from_df` function. """
-    cas = CollectiveActions.read_from_df(correctly_formatted_cas_df)
-    _test_cas(cas)
-
-
-def test_cas_sort(correctly_formatted_cas_df):
-    """ Test that CollectiveActions is sortable. """
-    cas_from_df = CollectiveActions.read_from_df(correctly_formatted_cas_df)
-    sorted_cas = cas_from_df.sort()
-    assert sorted_cas.cas[0].date == dateparser.parse("2019-04-02").date()
-    reverse_sorted_cas = cas_from_df.sort(reverse=True)
-    assert reverse_sorted_cas.cas[0].date == dateparser.parse("2019-04-10").date()
+# def test_cas_create_from_row(correctly_formatted_ca_series):
+#     """ Test CollectiveAction `create_from_row` function. """
+#     ca = CollectiveAction.create_from_row(correctly_formatted_ca_series)
+#     _test_ca(ca)
+# 
+# 
+# def test_cas_read_from_df(correctly_formatted_cas_df):
+#     """ Test CollectiveActions `read_from_df` function. """
+#     cas = CollectiveActions.read_from_df(correctly_formatted_cas_df)
+#     _test_cas(cas)
+# 
+# 
+# def test_cas_sort(correctly_formatted_cas_df):
+#     """ Test that CollectiveActions is sortable. """
+#     cas_from_df = CollectiveActions.read_from_df(correctly_formatted_cas_df)
+#     sorted_cas = cas_from_df.sort()
+#     assert sorted_cas.cas[0].date == dateparser.parse("2019-04-02").date()
+#     reverse_sorted_cas = cas_from_df.sort(reverse=True)
+#     assert reverse_sorted_cas.cas[0].date == dateparser.parse("2019-04-10").date()
