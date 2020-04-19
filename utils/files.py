@@ -3,7 +3,7 @@ import glob
 import json
 from typing import List
 from pathlib import Path
-from utils.misc import ca_json_converter, ACTION_FOLDER
+from utils.misc import ca_json_converter
 
 
 """ These functions are helpers for dealing with action files
@@ -16,6 +16,8 @@ When serializing or deserializing, it will assume the following format:
 }
 ```
 """
+
+
 def save_to_file(filepath: str, ca: dict) -> None:
     """ Serialize action from json to md file. """
     f = open(filepath, "w")
@@ -23,12 +25,12 @@ def save_to_file(filepath: str, ca: dict) -> None:
     f.close()
 
 
-def get_all_files() -> List[Path]:
+def get_all_files(folder: Path) -> List[Path]:
     """ Get all the files in the actions folder. """
     return [
         f
-        for f in os.listdir(ACTION_FOLDER)
-        if os.path.isfile(os.path.join(ACTION_FOLDER, f))
+        for f in os.listdir(folder)
+        if os.path.isfile(os.path.join(folder, f))
         and f.lower().endswith(".json")
     ]
 
@@ -39,8 +41,8 @@ def parse_file(filepath: str) -> dict:
     return json.load(f)
 
 
-def remove_all_files() -> None:
+def remove_all_files(folder: Path) -> None:
     """ Removes all actions from list of files. """
-    files = glob.glob(str(ACTION_FOLDER / "*.json"))
+    files = glob.glob(str(Path(folder) / "*.json"))
     for file in files:
         os.remove(file)

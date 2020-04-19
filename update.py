@@ -9,6 +9,7 @@ from utils.convert import (
     save_cas_to_readme,
     save_cas_to_csv,
     save_cas_to_json,
+    save_cas_to_files,
 )
 from utils.misc import CSV_FLAG
 
@@ -91,9 +92,7 @@ def _get_parser():
         help="Update README.md from CSV file.",
     )
     parser.add_argument(
-        "--csv-to-json",
-        action="store_true",
-        help="Update JSON from CSV file.",
+        "--csv-to-json", action="store_true", help="Update JSON from CSV file."
     )
 
     # json > Any
@@ -113,9 +112,7 @@ def _get_parser():
         help="Update README.md from JSON file.",
     )
     parser.add_argument(
-        "--json-to-csv",
-        action="store_true",
-        help="Update CSV from JSON file.",
+        "--json-to-csv", action="store_true", help="Update CSV from JSON file."
     )
 
     args = parser.parse_args()

@@ -1,0 +1,78 @@
+[
+    {
+        "date": "1979/09/01",
+        "sources": [
+            "https://twitter.com/clancynewyork/status/1175872040814993408?s=19",
+            "http://www-cs-students.stanford.edu/~cale/cs201/apartheid.comp.html"
+        ],
+        "actions": [
+            "protest"
+        ],
+        "struggles": [
+            "ethics"
+        ],
+        "employment_types": [
+            "white_collar_workers"
+        ],
+        "description": "IBM workers formed an organization, IBM: Speak Up!, to protest the company's involvement with apartheid South Africa. The company created the computer system that upheld the country's passbook system. The company officially divested from South Africa in 1987.",
+        "locations": [
+            "worldwide"
+        ],
+        "companies": [
+            "ibm"
+        ],
+        "workers": null,
+        "tags": [
+            "international_solidarity"
+        ],
+        "author": "nataliyaned"
+    },
+    {
+        "date": "1986/09/16",
+        "sources": [
+            "https://www.nytimes.com/1986/09/16/science/software-seen-as-obstacle-in-developing-star-wars.html"
+        ],
+        "actions": [
+            "open_letter"
+        ],
+        "struggles": [
+            "ethics"
+        ],
+        "employment_types": [
+            "white_collar_workers"
+        ],
+        "description": "Fourteen employees at AT&T sign a letter warning the U.S. military of over 10,000 possible errors in the Star Wars system.",
+        "locations": [
+            "usa"
+        ],
+        "companies": [
+            "at&t"
+        ],
+        "workers": 14,
+        "tags": null,
+        "author": "nataliyaned"
+    },
+    {
+        "date": "1986/09/16",
+        "sources": [
+            "https://www.nytimes.com/1986/09/16/science/software-seen-as-obstacle-in-developing-star-wars.html"
+        ],
+        "actions": [
+            "open_letter"
+        ],
+        "struggles": [
+            "ethics"
+        ],
+        "employment_types": [
+            "white_collar_workers"
+        ],
+        "description": "A group of computer professionals, led by Computer Professionals for Social Responsibility (CPSR), signs a petition arguing that Pres. Reagan's Star Wars system is not feasible given current technology. Such a system would be prone to major errors, they argued, and would be irresponsible to implement.",
+        "locations": [
+            "usa"
+        ],
+        "companies": null,
+        "workers": 30,
+        "tags": null,
+        "author": "nataliyaned"
+    }
+]

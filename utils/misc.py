@@ -1,4 +1,5 @@
 import datetime
+import ast
 import os
 from pathlib import Path
 from typing import Any
@@ -57,3 +58,11 @@ def ca_json_converter(o: Any) -> str:
     """ converts datetime to str if type is datetime """
     if isinstance(o, datetime.date):
         return o.strftime("%Y/%m/%d")
+
+
+def literal_eval(val) -> Any:
+    """ Converts a string literal to python object. """
+    try:
+        return ast.literal_eval(val)
+    except (SyntaxError, ValueError):
+        return val
