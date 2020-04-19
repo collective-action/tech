@@ -95,7 +95,7 @@ Add your data using the standard JSON convention:
     "white_collar_workers",
     "in_house_workers"
   ],
-  "description": "Thousands of people protest a military contract in Queens."
+  "description": "Thousands of people protest a military contract in Queens.",
   "locations": [
     "new_york"
   ],
