@@ -78,7 +78,7 @@ Add your data using the standard JSON convention:
 
 ```json
 {
-  "date": "2018/01/15"
+  "date": "2018/01/15",
   "sources": [
     "https://www.your.valid/source1",
     "https://www.your.valid/source2"
@@ -102,12 +102,12 @@ Add your data using the standard JSON convention:
   "companies": [
     "amazon"
   ],
-  "workers": 1000
+  "workers": 1000,
   "tags": [
     "military_contract",
     "delivery_workers"
   ],
-  "author": organizejs
+  "author": "organizejs"
 }
 ```
 
