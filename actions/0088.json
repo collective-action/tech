@@ -1,0 +1,29 @@
+{
+    "date": "2018/06/19",
+    "sources": [
+        "https://www.nytimes.com/2018/06/19/technology/tech-companies-immigration-border.html",
+        "https://www.theverge.com/2018/6/21/17488328/microsoft-ice-employees-signatures-protest"
+    ],
+    "actions": [
+        "open_letter"
+    ],
+    "struggles": [
+        "ethics"
+    ],
+    "employment_types": [
+        "white_collar_workers"
+    ],
+    "description": "In an open letter posted to Microsoft's internal message board on Tuesday, hundreds of employees protested Microsoft's work with Immigration and Customs Enforcement and demanding that the companies stop working with the agency.",
+    "locations": [
+        "online",
+        "usa"
+    ],
+    "companies": [
+        "microsoft"
+    ],
+    "workers": 300,
+    "tags": [
+        "ice"
+    ],
+    "author": "organizejs"
+}

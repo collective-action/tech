@@ -1,0 +1,30 @@
+{
+    "date": "2019/06/26",
+    "sources": [
+        "https://www.bloomberg.com/news/articles/2019-06-26/google-workers-petition-sf-pride-to-exclude-company-from-parade",
+        "https://medium.com/@bangooglefrompride/an-open-petition-to-the-san-francisco-pride-board-of-directors-f8164486c2e4"
+    ],
+    "actions": [
+        "open_letter"
+    ],
+    "struggles": [
+        "discrimination"
+    ],
+    "employment_types": [
+        "white_collar_workers"
+    ],
+    "description": "About 100 Google employees urged the organizer of this weekend's San Francisco Pride parade to kick the company out of the celebration, escalating pressure on the internet giant to overhaul its handling of hate speech online. The employees wrote a letter to the board of directors of San Francisco Pride, asking that Google be dropped as a sponsor of the parade as well as excluded from having a presence at the event.",
+    "locations": [
+        "san_francisco",
+        "california",
+        "usa"
+    ],
+    "companies": [
+        "google"
+    ],
+    "workers": 100,
+    "tags": [
+        "lgbtq"
+    ],
+    "author": "organizejs"
+}

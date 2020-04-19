@@ -1,6 +1,6 @@
-import datetime
+import re
 from bs4 import BeautifulSoup
-from utils.markdown import *
+from utils.markdown import replace_md_data
 
 
 def test_replace_md_data():
@@ -35,7 +35,9 @@ def test_replace_md_data():
 """
     updated_doc = replace_md_data(doc, cas_id, md_data)
     assert updated_doc.startswith(start_text)
-    md = re.findall(fr'<div id="{updated_cas_id}">+[\s\S]+<\/div>', updated_doc)
+    md = re.findall(
+        fr'<div id="{updated_cas_id}">+[\s\S]+<\/div>', updated_doc
+    )
     soup = BeautifulSoup(md[0], "html.parser")
     assert soup.div.attrs["id"] == updated_cas_id
 

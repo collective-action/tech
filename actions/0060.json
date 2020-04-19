@@ -1,0 +1,28 @@
+{
+    "date": "2016/12/03",
+    "sources": [
+        "https://www.thestreet.com/story/13906592/1/why-uber-faces-a-day-of-protests-on-tuesday-tech-roundup.html"
+    ],
+    "actions": [
+        "protest"
+    ],
+    "struggles": [
+        "pay_and_benefits",
+        "working_conditions"
+    ],
+    "employment_types": [
+        "gig_workers"
+    ],
+    "description": "Uber drivers in 20 cities join the Fight for $15 movement, boycotting the app for one day to protest wages.",
+    "locations": [
+        "usa"
+    ],
+    "companies": [
+        "uber"
+    ],
+    "workers": null,
+    "tags": [
+        "drivers"
+    ],
+    "author": "nataliyaned"
+}

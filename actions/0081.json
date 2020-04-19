@@ -1,0 +1,30 @@
+{
+    "date": "2018/05/14",
+    "sources": [
+        "https://www.theguardian.com/australia-news/2018/may/16/food-delivery-riders-protest-against-wage-theft-by-deliveroo-foodora-and-ubereats",
+        "https://www.abc.net.au/news/2018-03-14/delivery-riders-march-against-ubereats-foodora-and-deliveroo/9546822"
+    ],
+    "actions": [
+        "protest"
+    ],
+    "struggles": [
+        "pay_and_benefits",
+        "working_conditions"
+    ],
+    "employment_types": [
+        "gig_workers"
+    ],
+    "description": "Food delivery riders have marched in Sydney to demand UberEats, Deliveroo and Foodora provide pay increases and better working conditions to the many contractors darting from door to door around Australian cities. Dozens of protesters voiced their concerns in Surry Hills about the lack of regulation surrounding rider pay, safety protections and benefits like sick pay and superannuation.",
+    "locations": [
+        "sydney",
+        "australia"
+    ],
+    "companies": [
+        "deliveroo",
+        "foodora",
+        "uber"
+    ],
+    "workers": 24,
+    "tags": null,
+    "author": "organizejs"
+}
