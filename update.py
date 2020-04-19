@@ -43,6 +43,8 @@ def _get_parser():
         # Update actions.json based on files
         $ python update.py --files-to-json
 
+        ...
+
         """
         ),
         formatter_class=argparse.RawDescriptionHelpFormatter,
@@ -128,7 +130,7 @@ if __name__ == "__main__":
         print("Update repo automatically.")
         if CSV_FLAG.exists():
             print(
-                "CSV_FLAG is present; updating files and readme accordingly."
+                "CSV_FLAG is present; updating files, json and readme accordingly."
             )
             cas = get_cas_from_csv()
             save_cas_to_csv(cas)
@@ -136,7 +138,7 @@ if __name__ == "__main__":
             os.remove(CSV_FLAG)
         else:
             print(
-                "CSV_FLAG is not present; updating csv and readme accordingly."
+                "CSV_FLAG is not present; updating csv, json and readme using the action folder."
             )
             cas = get_cas_from_files()
             cas.to_files()

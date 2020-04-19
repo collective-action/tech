@@ -293,7 +293,7 @@ class CollectiveActions:
 
             td_action = soup.new_tag("td")
             a = soup.new_tag("a")
-            a["href"] = f"/actions/{len(self.cas) - 1 - i:04}.md"
+            a["href"] = f"/actions/{len(self.cas) - 1 - i:04}.json"
             emoji = create_emoji_tag()
             a.append(emoji)
             td_action.append(a)
