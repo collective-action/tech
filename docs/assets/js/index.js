@@ -3,7 +3,7 @@ $:false
 Papa:false
 dfjs:false
 */
-const csvUrl = 'https://raw.githubusercontent.com/collective-action/tech/master/actions.csv'
+const jsonUrl = 'https://raw.githubusercontent.com/collective-action/tech/master/actions.json'
 var masterDf = null /* global */
 var queryTags = []
 var searchFields = ['tags', 'companies', 'actions', 'struggles', 'locations', 'employment_types']
@@ -48,13 +48,19 @@ function createTagEl (tag) {
  * @param {function} the callback that will consume the parsed csv
  */
 function parseData (url, callback) {
-  Papa.parse(url, {
-    download: true,
-    dynamicTyping: true,
-    complete: function (results) {
-      callback(results.data)
-    }
-  })
+  $.getJSON(url, function(data) {
+    callback(data);
+  });
+  // Papa.parse(url, {
+  //   download: true,
+  //   dynamicTyping: true,
+  //   complete: function (results) {
+  //     console.log(typeof results)
+  //     console.log(results.data)
+  //     console.log(JSON.parse(results.data))
+  //     callback(results.data)
+  //   }
+  // })
 }
 
 /**
@@ -114,13 +120,13 @@ function rowToHtml (row) {
     } else if (key == descriptionField) {
       description.html(val)
     } else if (key == sourceField) {
-      let urls = val.split(',')
+      let urls = val
       for (let i = 0; i < urls.length; i++) {
         sources.append(createUrlEl(urls[i]))
       }
     } else if (tagFields.includes(key)) {
       if (val) {
-        let vals = val.split(',')
+        let vals = val
         for (let i = 0; i < vals.length; i++) {
           if (vals[i] !== 'None') {
             tags.append(createTagEl(vals[i]))
@@ -155,6 +161,8 @@ function populateHtml (df, query, showCount=false) {
     $('#actions').html("No actions found.");
     return
   }
+
+  console.log(masterDf.count())
 
   // show number results of search
   if (df.count() === masterDf.count() && !showCount) {
@@ -285,8 +293,9 @@ function clearQueryTags () {
  */
 function createAndDisplayDf (data, callback) {
   let DataFrame = dfjs.DataFrame
-  data.pop() // remove the last element, for some reason, papaparse loads an additional empty element
-  masterDf = new DataFrame(data.slice(1), data[0])
+  // data.pop() // remove the last element, for some reason, papaparse loads an additional empty element
+  // masterDf = new DataFrame(data.slice(1), data[0])
+  masterDf = new DataFrame(data)
   masterDf = masterDf.sortBy("date", true)
   populateHtml(masterDf, null, false)
   callback()
@@ -344,7 +353,7 @@ function moveScroller () {
 $(document).ready(function () {
 
   // load data
-  parseData(csvUrl, function(data) {
+  parseData(jsonUrl, function(data) {
     createAndDisplayDf(data, function() {
 
       // Add summary to html
