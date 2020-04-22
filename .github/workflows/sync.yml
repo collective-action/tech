@@ -41,6 +41,7 @@ jobs:
         git config --local user.email "organizejs@gmail.com"
         git add README.md
         git add actions.csv
+        git add actions.json
         git add actions
         git commit -m "Auto Update ***NO_CI***"
         
