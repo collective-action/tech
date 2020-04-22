@@ -14,6 +14,14 @@ from utils.convert import (
 from utils.misc import CSV_FLAG
 
 
+def save_cas_to_all(cas: CollectiveActions):
+    """ update cas to json, csv, readme, and actions folder. """
+    save_cas_to_csv(cas)
+    save_cas_to_json(cas)
+    save_cas_to_readme(cas)
+    cas.to_files()    
+
+    
 def _get_parser():
     parser = argparse.ArgumentParser(
         description=textwrap.dedent(
@@ -119,7 +127,7 @@ def _get_parser():
 
     args = parser.parse_args()
     return args
-
+    
 
 if __name__ == "__main__":
     warnings.filterwarnings("ignore", category=UserWarning, module="bs4")
@@ -133,18 +141,13 @@ if __name__ == "__main__":
                 "CSV_FLAG is present; updating files, json and readme accordingly."
             )
             cas = get_cas_from_csv()
-            save_cas_to_csv(cas)
-            cas.to_files()
             os.remove(CSV_FLAG)
         else:
             print(
                 "CSV_FLAG is not present; updating csv, json and readme using the action folder."
             )
             cas = get_cas_from_files()
-            cas.to_files()
-            save_cas_to_csv(cas)
-
-        save_cas_to_readme(cas)
+        save_cas_to_all(cas)
 
     # files > Any
     if args.files_cleanup:
