@@ -12,6 +12,7 @@ from utils.convert import (
     save_cas_to_files,
 )
 from utils.misc import CSV_FLAG
+from utils.collective_action import CollectiveActions
 
 
 def save_cas_to_all(cas: CollectiveActions):
