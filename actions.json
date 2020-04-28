@@ -7415,6 +7415,36 @@
         "author": "nataliyaned"
     },
     {
+        "date": "2020/04/20",
+        "sources": [
+            "https://www.theguardian.com/world/2020/apr/20/coronavirus-digital-contact-tracing-will-fail-unless-privacy-is-respected-experts-warn",
+            "https://techcrunch.com/2020/04/20/academics-contact-tracing/"
+        ],
+        "actions": [
+            "open_letter"
+        ],
+        "struggles": [
+            "ethics"
+        ],
+        "employment_types": [
+            "white_collar_workers"
+        ],
+        "description": "Over 300 academics from 26 countries signed a letter calling for contact-tracing apps to respect user privacy and to limit large-scale, centralized surveillance in favor of decentralized systems. The signatories favored the DP-3T protocol and systems like Apple and Google\u2019s cross-platform solution over the PEPP-T system designed by a set of European countries.",
+        "locations": [
+            "worldwide",
+            "online"
+        ],
+        "companies": [
+            "na"
+        ],
+        "workers": 301,
+        "tags": [
+            "coronavirus",
+            "surveillance"
+        ],
+        "author": "nataliyaned"
+    },
+    {
         "date": "2020/04/21",
         "sources": [
             "https://www.vice.com/amp/en_us/article/jge77g/hundreds-of-amazon-workers-are-not-going-to-work-in-nationwide-protest",
@@ -7442,6 +7472,36 @@
         "workers": 301,
         "tags": [
             "coronavirus"
+        ],
+        "author": "nataliyaned"
+    },
+    {
+        "date": "2020/04/24",
+        "sources": [
+            "https://amp.ft.com/content/d0698260-c02b-4abe-912a-fa0066e294c2",
+            "https://dnyuz.com/2020/04/24/huawei-employees-sue-company-after-police-detention/"
+        ],
+        "actions": [
+            "legal_action"
+        ],
+        "struggles": [
+            "ethics"
+        ],
+        "employment_types": [
+            "white_collar_workers",
+            "in_house_workers"
+        ],
+        "description": "Two former Huawei employees are suing the company alleging that it used its local connections to the police to detain employees who posed problems for the company. One of the employees had started a chat group where there was open discussion of Huawei breaking US sanctions with Iran. That same employee claims two other members from the chat group were detained and later released as well. The Financial Times quoted Shenzhen-based labour rights lawyer, Pang Kun, who estimated that there were more than 10 others currently detained at a local jail as a result of company disputes.",
+        "locations": [
+            "shen zhen",
+            "china"
+        ],
+        "companies": [
+            "huawei"
+        ],
+        "workers": 2,
+        "tags": [
+            "na"
         ],
         "author": "nataliyaned"
     },
