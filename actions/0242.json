@@ -1,31 +1,31 @@
 {
     "date": "2020/03/19",
     "sources": [
-        "https://www.cnet.com/news/uber-lyft-drivers-demand-companies-do-more-to-protect-them-from-coronavirus/",
-        "https://www.sacbee.com/news/politics-government/capitol-alert/article241304131.html",
-        "https://www.forbes.com/sites/janetwburns/2020/03/19/drivers-protest-outside-uber-hq-for-covid-19-sick-leave-and-pay-under-california-law-ab5/#1d4e6af48f7a"
+        "https://www.businessinsider.com/ice-mijente-microsoft-coronavirus-crisis-2020-3",
+        "https://github.com/msworkers/against.ice"
     ],
     "actions": [
         "open_letter"
     ],
     "struggles": [
-        "working_conditions",
-        "unfair_labor_practices"
+        "ethics"
     ],
     "employment_types": [
-        "gig_workers"
+        "white_collar_workers",
+        "in_house_workers"
     ],
-    "description": "As the novel coronavirus spreads around the world, Uber and Lyft drivers in California are asking both companies to do more to protect them. A coalition of drivers released a list of demands, signed by thousands, asking the ride-hailing services to take immediate steps to help ensure their safety. The demands include providing free COVID-19 screenings to all drivers, along with 14 days paid leave for all affected drivers. The drivers are organized with advocacy group Mobile Workers Alliance.",
+    "description": "Mijente, an immigrant rights group is calling on ICE to stop hunting down undocumented immigrants amid the coronavirus crisis. In an open letter published on Github, Microsoft workers backed mijente's campaign, calling on tech companies not to share their technologies with ICE.",
     "locations": [
-        "california",
-        "usa"
+        "usa",
+        "online"
     ],
     "companies": [
-        "lyft",
-        "uber"
+        "microsoft"
     ],
-    "workers": 2000,
+    "workers": null,
     "tags": [
+        "ice",
+        "immigration",
         "coronavirus"
     ],
     "author": "organizejs"

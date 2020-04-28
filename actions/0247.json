@@ -1,30 +1,32 @@
 {
     "date": "2020/03/30",
     "sources": [
-        "https://www.vox.com/recode/2020/3/30/21200495/instacart-strike-coronavirus-covid-19-working-conditions-amazon-whole-foods-gig-economy",
-        "https://www.washingtonpost.com/technology/2020/03/27/instacart-strike-worker-coronavirus/",
-        "https://www.cnbc.com/2020/04/02/coronavirus-instacart-is-giving-its-shoppers-health-and-safety-kids.html",
-        "https://medium.com/@gigworkerscollective/instacart-emergency-walk-off-ebdf11b6995a"
+        "https://www.cnn.com/2020/03/29/tech/amazon-workers-walkout-coronavirus/index.html",
+        "https://nypost.com/2020/03/30/coronavirus-in-ny-amazons-staten-island-employees-strike-over-response/",
+        "https://www.vice.com/en_us/article/4age5j/amazon-workers-in-new-york-are-striking-for-the-second-week-in-a-row-as-coronavirus-cases-pile-up"
     ],
     "actions": [
-        "strike"
+        "strike",
+        "protest"
     ],
     "struggles": [
         "working_conditions",
         "pay_and_benefits"
     ],
     "employment_types": [
-        "gig_workers",
+        "in_house_workers",
         "blue_collar_workers"
     ],
-    "description": "Instacart workers, organized by Instacart Shoppers and Gig Workers Collective, went on strike on Monday in protest of lack of protections offered by the company during the coronavirus epidemic. Strikers are calling for the company to provide hand sanitizer and disinfectant wipes, hazard pay, and easier qualification standards for the 14 days of sick leave currently offered by the company (a policy set to expire on April 8th). Update: Instacart has said it will give all workers a health kit including a reusable cloth mask, hand sanitizer, and a thermometer. The size of the strike has not been reported.",
+    "description": "Amazon workers in Staten Island walked off the job to call for the company to temporarily close and sanitize the facilities following several positive tests for coronavirus among employees. The NY Post reported than more than 100 workers participated in the action. Vice has reported 62.",
     "locations": [
+        "new_york_city",
+        "new_york",
         "usa"
     ],
     "companies": [
-        "instacart"
+        "amazon"
     ],
-    "workers": 1000,
+    "workers": 62,
     "tags": [
         "coronavirus"
     ],

@@ -19,11 +19,11 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">28/04/2020 05:15PM</td>
+    <td data-summary="timestamp">28/04/2020 05:24PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">253</td>
+    <td data-summary="action-count">256</td>
   </tr>
  </table>
 </div>
@@ -44,13 +44,43 @@ The goal of this archive is to provide data and insights on organizing in the te
   </tr>
   <tr author="nataliyaned">
    <td>
+    2020-04-26
+   </td>
+   <td>
+    Amazon employees went on strike after the company allegedly fired a worker who chose to stay at home with her two children during the pandemic. Workers also protested the company's announcement that it would phase out their new paid-leave policy on May 1st. The company announced that two more employees had tested positive for the virus the night before the protest. Reporting from Vice and a tweet from a local community center suggest that this also served as impetus for the strike. Organizers claimed that more than 50 employees were involved in the strike, while management claimed it was 25.
+   </td>
+   <td>
+    <a href="/actions/0255.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="nataliyaned">
+   <td>
+    2020-04-21
+   </td>
+   <td>
+    Over 300 Amazon workers across the country signed a pledge to call out of work to protest the company's reaction to the coronavirus pandemic. Participants claim the company continues to fall short in providing personal protective equipment and are calling for a more flexible paid leave policy that would allow them to take care of sick family members.
+   </td>
+   <td>
+    <a href="/actions/0254.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="nataliyaned">
+   <td>
     2020-04-13
    </td>
    <td>
     As a gesture of solidarity, tech workers have started tweeting with the hashtags #TechSolidarity, #AmazonStrike, #HuelgaAmazon to indicate support for striking Amazon workers. The Twitter page, @TechSpeaksOut, was reportedly designed to exert public pressure tech corporations. In addition to taking to Twitter, activists have started GoFundMes and mutual aid campaigns to benefit workers.
    </td>
    <td>
-    <a href="/actions/0252.json">
+    <a href="/actions/0253.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -65,7 +95,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     For the second week in a row, workers at an Amazon warehouse in Staten Island held a walkout to protest the company's handling of the coronavirus crisis. Organizers state that they have heard of over 25 cases of coronavirus at the facility. In response, workers are calling for an extension of paid time off and improved sanitation in the facility. Last week, the company fired one of the organizers of the previous week's walkout.
    </td>
    <td>
-    <a href="/actions/0251.json">
+    <a href="/actions/0252.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -80,7 +110,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Amazon workers, organized by DCH1 Amazonians United, staged a walkout at a facility in Chicago calling on the company to temporarily close and sanitize the facility following two positive coronavirus tests among employees. Additionally, the workers are calling for the company to cover any health bills accrued by employees and family members that have contracted coronavirus at the facility, plus more time on-the-job to incorporate safety practices such as regular hand sanitizing. This is the fourth such action organized by DCH1 Amazonians in response to the coronavirus outbreak.
    </td>
    <td>
-    <a href="/actions/0250.json">
+    <a href="/actions/0251.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -95,7 +125,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Whole Foods employees went on strike to call for guaranteed pay during sick leave, reinstatement of health insurance for part-time and seasonal employees, coverage of coronavirus testing and treatment, improved sanitation at worksites, and immediate shutdown of any locations where employees test positive. The strike came amid a surge of activism from grocery and delivery workers at several companies.
    </td>
    <td>
-    <a href="/actions/0249.json">
+    <a href="/actions/0250.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -110,7 +140,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Amazon warehouse workers near Detroit staged a demonstration to call for more stringent cleaning practices in their facility and reimbursement for any health bills incurred by employees (and their families) who had contracted coronavirus on the job. Management reports that fewer than 15 employees joined in, while organizers say there were 40 participants.
    </td>
    <td>
-    <a href="/actions/0248.json">
+    <a href="/actions/0249.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -125,7 +155,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Instacart workers, organized by Instacart Shoppers and Gig Workers Collective, went on strike on Monday in protest of lack of protections offered by the company during the coronavirus epidemic. Strikers are calling for the company to provide hand sanitizer and disinfectant wipes, hazard pay, and easier qualification standards for the 14 days of sick leave currently offered by the company (a policy set to expire on April 8th). Update: Instacart has said it will give all workers a health kit including a reusable cloth mask, hand sanitizer, and a thermometer. The size of the strike has not been reported.
    </td>
    <td>
-    <a href="/actions/0247.json">
+    <a href="/actions/0248.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -140,7 +170,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Amazon workers in Staten Island walked off the job to call for the company to temporarily close and sanitize the facilities following several positive tests for coronavirus among employees. The NY Post reported than more than 100 workers participated in the action. Vice has reported 62.
    </td>
    <td>
-    <a href="/actions/0246.json">
+    <a href="/actions/0247.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -155,7 +185,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Amazonians United, a group of Amazon employee advocates around the US, won paid time off for part-time logistics workers in the midst the coronavirus pandemic. Amazon has also said it will raise pay for warehouse workers and delivery drivers by $2 per hour through April. For several weeks, the Amazonians United group has been calling for improved working conditions and paid time off using petitions and walkouts, including actions by groups in the Sacramento, Chicago, and New York areas.
    </td>
    <td>
-    <a href="/actions/0245.json">
+    <a href="/actions/0246.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -170,7 +200,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     A group of 153 Google employees from 11 European offices wrote to the company’s management requesting the establishment of the council. Google’s management agreed to take the first steps toward creating the council and will soon begin negotiating with employees about its scope. (The creation of such works councils-- which aim to give employees the right to be consulted by management about issues such as organizational changes or job cuts -- is required by the European Union if enough of a company’s employees in at least two countries file a written request). The works council is likely to include employee representatives from more than 35 Google offices across Europe, according to the people familiar with the matte
    </td>
    <td>
-    <a href="/actions/0244.json">
+    <a href="/actions/0245.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -185,7 +215,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Ride-hail drivers in California gathered outside Uber headquarters in San Francisco, Los Angeles, and San Diego to demand that gig platforms provide immediate relief to their cash-strapped, at-risk workers, including by adhering to California’s new labor law known as AB5. Drivers are calling on California to enforce its new employment law as illness, confusion, and hardship from COVID-19 sweep their industries. They are also calling for the $110 million set aside by Uber, Lyft, Doordash, Postmates, and Instacart for fighting that law to instead be used to give workers some relief.
    </td>
    <td>
-    <a href="/actions/0243.json">
+    <a href="/actions/0244.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -200,7 +230,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     As the novel coronavirus spreads around the world, Uber and Lyft drivers in California are asking both companies to do more to protect them. A coalition of drivers released a list of demands, signed by thousands, asking the ride-hailing services to take immediate steps to help ensure their safety. The demands include providing free COVID-19 screenings to all drivers, along with 14 days paid leave for all affected drivers. The drivers are organized with advocacy group Mobile Workers Alliance.
    </td>
    <td>
-    <a href="/actions/0242.json">
+    <a href="/actions/0243.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -215,7 +245,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Mijente, an immigrant rights group is calling on ICE to stop hunting down undocumented immigrants amid the coronavirus crisis. In an open letter published on Github, Microsoft workers backed mijente's campaign, calling on tech companies not to share their technologies with ICE.
    </td>
    <td>
-    <a href="/actions/0241.json">
+    <a href="/actions/0242.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -230,7 +260,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     At an Amazon warehouse and shipping center at Saran just outside Orleans, a city south of Paris, 250-300 workers staged a strike, gathering outside and calling for its closure. It normally employs some 1,800 full-time staff. They are calling on the online retailer to cease operations or make it easier for employees not wanting to work during the coronavirus outbreak to stay away.
    </td>
    <td>
-    <a href="/actions/0240.json">
+    <a href="/actions/0241.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -243,6 +273,21 @@ The goal of this archive is to provide data and insights on organizing in the te
    </td>
    <td>
     As the coronavirus continues to spread, Amazon logistics workers circulated a petition calling for the company to put in place more “protective measures,”  in which they demanded that the company provide paid sick leave to all its employees, even those who do not have a positive COVID-19 diagnosis, given the scarcity of coronavirus tests. They also requested child-care funds for workers with children, increased hazard pay, an end to penalties for working too slowly, and an immediate closure of any facility where a worker tests positive. “While Amazon has made some limited coronavirus accommodations, it needs a comprehensive plan to ensure the safety of all of its workers and the larger public, including giving workers paid leave and not simply extending our unpaid leave, as was announced recently,” the petition states.
+   </td>
+   <td>
+    <a href="/actions/0240.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="nataliyaned">
+   <td>
+    2020-03-17
+   </td>
+   <td>
+    Over 5000 Amazon employees signed an open letter to Jeff Bezos calling for improved working conditions during the coronavirus pandemic, including paid sick leave regardless of diagnosis, child care, and 1.5x hazard pay. Since then, on March 22nd, the letter has been updated to include a call for transparency on any diagnosed covid-19 cases at the facilities, a halt on the shipping of non-essential items, and medical coverage to part-time employees. On March 27th, Amazon Employees for Climate Justice emailed its constituents (mostly corporate employees) to encourage them to sign the open letter, which purportedly lead to an additional 580 signatures.
    </td>
    <td>
     <a href="/actions/0239.json">

@@ -1,12 +1,12 @@
 {
-    "date": "2020/04/06",
+    "date": "2020/04/04",
     "sources": [
-        "https://www.vice.com/en_us/article/4age5j/amazon-workers-in-new-york-are-striking-for-the-second-week-in-a-row-as-coronavirus-cases-pile-up",
-        "https://nypost.com/2020/04/06/amazon-faces-another-staten-island-warehouse-strike/",
-        "https://finance.yahoo.com/news/amazon-warehouse-workers-second-walkout-one-week-over-coronavirus-fears-195814468.html"
+        "https://www.commondreams.org/news/2020/04/04/despite-threats-management-amazon-warehouse-workers-chicago-strike-demand-better",
+        "https://patch.com/illinois/chicago/cars-picket-amazon-workers-striking-coronavirus-safety"
     ],
     "actions": [
-        "protest"
+        "protest",
+        "strike"
     ],
     "struggles": [
         "working_conditions",
@@ -16,16 +16,16 @@
         "in_house_workers",
         "blue_collar_workers"
     ],
-    "description": "For the second week in a row, workers at an Amazon warehouse in Staten Island held a walkout to protest the company's handling of the coronavirus crisis. Organizers state that they have heard of over 25 cases of coronavirus at the facility. In response, workers are calling for an extension of paid time off and improved sanitation in the facility. Last week, the company fired one of the organizers of the previous week's walkout. ",
+    "description": "Amazon workers, organized by DCH1 Amazonians United, staged a walkout at a facility in Chicago calling on the company to temporarily close and sanitize the facility following two positive coronavirus tests among employees. Additionally, the workers are calling for the company to cover any health bills accrued by employees and family members that have contracted coronavirus at the facility, plus more time on-the-job to incorporate safety practices such as regular hand sanitizing. This is the fourth such action organized by DCH1 Amazonians in response to the coronavirus outbreak. ",
     "locations": [
-        "new_york_city",
-        "new_york",
+        "chicago",
+        "illinois",
         "usa"
     ],
     "companies": [
         "amazon"
     ],
-    "workers": 50,
+    "workers": 20,
     "tags": [
         "coronavirus"
     ],
