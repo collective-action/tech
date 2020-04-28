@@ -1,33 +1,30 @@
 {
-    "date": "2020/04/13",
+    "date": "2020/04/10",
     "sources": [
-        "https://gizmodo.com/tech-workers-speak-out-in-support-of-amazon-warehouse-s-1842839301",
-        "https://chuffed.org/project/help-amazon-warehouse-workers-exposed-to-covid-19",
-        "https://www.givedirectly.org/covid-19/us/",
-        "https://twitter.com/techspeaksout"
+        "https://www.peoplesworld.org/article/more-people-will-die-uber-and-lyft-drivers-demand-companies-protect-workers/",
+        "https://mobilealliance.org/wp-content/uploads/2020/04/MWA-Letter-to-Feuer-Apr-10-2020.pdf"
     ],
     "actions": [
-        "protest"
+        "open_letter"
     ],
     "struggles": [
-        "ethics",
-        "working_conditions",
-        "unfair_labor_practices"
+        "pay_and_benefits",
+        "working_conditions"
     ],
     "employment_types": [
-        "white_collar_workers"
+        "gig_workers"
     ],
-    "description": "As a gesture of solidarity, tech workers have started tweeting with the hashtags #TechSolidarity, #AmazonStrike, #HuelgaAmazon to indicate support for striking Amazon workers. The Twitter page, @TechSpeaksOut, was reportedly designed to exert public pressure tech corporations. In addition to taking to Twitter, activists have started GoFundMes and mutual aid campaigns to benefit workers.",
+    "description": "Rideshare drivers, partnered with the Mobile Workers Alliance, sent a letter to the Los Angeles City Attorney calling for the city to mandate that Lyft and Uber provide personal protective equipment to their employees, including masks and hand sanitizer, as well as access to handwashing stations in certain locations such as the airport.",
     "locations": [
-        "online"
+        "los angeles",
+        "california"
     ],
     "companies": [
-        "amazon"
+        "lyft",
+        "uber"
     ],
     "workers": null,
     "tags": [
-        "industry_solidarity",
-        "coworker_solidarity",
         "coronavirus"
     ],
     "author": "nataliyaned"
