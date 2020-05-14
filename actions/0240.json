@@ -1,10 +1,12 @@
 {
-    "date": "2020/03/18",
+    "date": "2020/03/17",
     "sources": [
-        "https://www.reuters.com/article/us-health-coronavirus-france-amazon/french-amazon-workers-protest-in-coronavirus-pushback-iduskbn2152mp"
+        "https://medium.com/@amazoniansunitednyc/we-amazon-workers-demand-coronavirus-protections-16f28ad8b15f",
+        "https://www.cnbc.com/2020/03/19/amazon-warehouse-worker-in-new-york-tests-positive-for-the-coronavirus.html",
+        "https://www.theatlantic.com/health/archive/2020/03/amazon-warehouse-employee-has-coronavirus/608341/"
     ],
     "actions": [
-        "strike"
+        "open_letter"
     ],
     "struggles": [
         "working_conditions",
@@ -14,17 +16,17 @@
         "blue_collar_workers",
         "in_house_workers"
     ],
-    "description": "At an Amazon warehouse and shipping center at Saran just outside Orleans, a city south of Paris, 250-300 workers staged a strike, gathering outside and calling for its closure. It normally employs some 1,800 full-time staff. They are calling on the online retailer to cease operations or make it easier for employees not wanting to work during the coronavirus outbreak to stay away.",
+    "description": "As the coronavirus continues to spread, Amazon logistics workers circulated a petition calling for the company to put in place more \u201cprotective measures,\u201d  in which they demanded that the company provide paid sick leave to all its employees, even those who do not have a positive COVID-19 diagnosis, given the scarcity of coronavirus tests. They also requested child-care funds for workers with children, increased hazard pay, an end to penalties for working too slowly, and an immediate closure of any facility where a worker tests positive. \u201cWhile Amazon has made some limited coronavirus accommodations, it needs a comprehensive plan to ensure the safety of all of its workers and the larger public, including giving workers paid leave and not simply extending our unpaid leave, as was announced recently,\u201d the petition states. ",
     "locations": [
-        "saran",
-        "paris",
-        "france"
+        "new_york",
+        "usa"
     ],
     "companies": [
         "amazon"
     ],
-    "workers": 250,
+    "workers": 1800,
     "tags": [
+        "coworker_solidarity",
         "coronavirus"
     ],
     "author": "organizejs"
