@@ -51,16 +51,6 @@ function parseData (url, callback) {
   $.getJSON(url, function(data) {
     callback(data);
   });
-  // Papa.parse(url, {
-  //   download: true,
-  //   dynamicTyping: true,
-  //   complete: function (results) {
-  //     console.log(typeof results)
-  //     console.log(results.data)
-  //     console.log(JSON.parse(results.data))
-  //     callback(results.data)
-  //   }
-  // })
 }
 
 /**
