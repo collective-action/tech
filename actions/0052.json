@@ -27,5 +27,14 @@
     ],
     "workers": 100,
     "tags": null,
-    "author": "nataliyaned"
+    "author": "nataliyaned",
+    "latlngs": [
+        [
+            37.389317899999995,
+            -121.97901174515997
+        ]
+    ],
+    "addresses": [
+        "McAfee, Mission College Boulevard, Agnew, Santa Clara, Santa Clara County, California, 94054, United States of America"
+    ]
 }

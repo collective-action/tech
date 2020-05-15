@@ -27,5 +27,14 @@
     "tags": [
         "industry_solidarity"
     ],
-    "author": "organizejs"
+    "author": "organizejs",
+    "latlngs": [
+        [
+            37.4443293,
+            -122.1598465
+        ]
+    ],
+    "addresses": [
+        "Palo Alto, Santa Clara County, California, United States of America"
+    ]
 }

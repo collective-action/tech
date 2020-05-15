@@ -31,5 +31,14 @@
         "coworker_solidarity",
         "coronavirus"
     ],
-    "author": "organizejs"
+    "author": "organizejs",
+    "latlngs": [
+        [
+            42.3627717,
+            -71.087257
+        ]
+    ],
+    "addresses": [
+        "Google, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+    ]
 }

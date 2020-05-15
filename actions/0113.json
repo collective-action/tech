@@ -27,5 +27,14 @@
     "tags": [
         "sexism"
     ],
-    "author": "organizejs"
+    "author": "organizejs",
+    "latlngs": [
+        [
+            37.53094035,
+            -122.2634054811483
+        ]
+    ],
+    "addresses": [
+        "Oracle, Oracle Parkway, Redwood Shores, Redwood City, San Mateo County, California, 94065, United States of America"
+    ]
 }

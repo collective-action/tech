@@ -27,5 +27,14 @@
     ],
     "workers": 12500,
     "tags": null,
-    "author": "organizejs"
+    "author": "organizejs",
+    "latlngs": [
+        [
+            37.7899898,
+            -122.3999799
+        ]
+    ],
+    "addresses": [
+        "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America"
+    ]
 }

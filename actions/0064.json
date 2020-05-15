@@ -30,5 +30,19 @@
     "tags": [
         "seiu"
     ],
-    "author": "organizejs"
+    "author": "organizejs",
+    "latlngs": [
+        [
+            37.484668049999996,
+            -122.1483654685629
+        ],
+        [
+            39.3024491,
+            -120.5471773
+        ]
+    ],
+    "addresses": [
+        "Facebook, Bayfront Expressway, Belle Haven, Menlo Park, San Mateo County, California, 94025-1246, United States of America",
+        "Cisco, Placer County, California, 95278, United States of America"
+    ]
 }

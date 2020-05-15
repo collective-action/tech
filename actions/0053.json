@@ -25,5 +25,14 @@
     ],
     "workers": 700,
     "tags": null,
-    "author": "nataliyaned"
+    "author": "nataliyaned",
+    "latlngs": [
+        [
+            31.5877145,
+            -106.3916453
+        ]
+    ],
+    "addresses": [
+        "Lexmark, Boulevard Independencia, Ciudad Ju\u00e1rez, Ju\u00e1rez, Chihuahua, 32575, M\u00e9xico"
+    ]
 }

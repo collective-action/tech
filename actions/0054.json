@@ -29,5 +29,14 @@
     "tags": [
         "seiu"
     ],
-    "author": "organizejs"
+    "author": "organizejs",
+    "latlngs": [
+        [
+            37.33196605,
+            -121.8954904847011
+        ]
+    ],
+    "addresses": [
+        "333, Japantown, San Jose, Santa Clara County, California, United States of America"
+    ]
 }

@@ -27,5 +27,19 @@
     "tags": [
         "moderators"
     ],
-    "author": "organizejs"
+    "author": "organizejs",
+    "latlngs": [
+        [
+            30.2691649,
+            -97.7455041
+        ],
+        [
+            37.3339398,
+            -121.8895142
+        ]
+    ],
+    "addresses": [
+        "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States of America",
+        "Accenture, West San Fernando Street, Downtown Historic District, Japantown, San Jose, Santa Clara County, California, 95110, United States of America"
+    ]
 }

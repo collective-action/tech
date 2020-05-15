@@ -48,5 +48,39 @@
     "tags": [
         "ice"
     ],
-    "author": "organizejs"
+    "author": "organizejs",
+    "latlngs": [
+        [
+            50.8523727,
+            9.7311825
+        ],
+        [
+            51.3622584,
+            12.452329749225527
+        ],
+        [
+            50.3465747,
+            7.4912868
+        ],
+        [
+            51.5369716,
+            6.5877929
+        ],
+        [
+            51.653494949999995,
+            7.59464606445661
+        ],
+        [
+            48.198871499999996,
+            10.848663796329923
+        ]
+    ],
+    "addresses": [
+        "Amazon-Stra\u00dfe, Hohe Luft, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
+        "Amazon, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland",
+        "Amazon stra\u00dfe, Industriepark A61/GVZ Koblenz, R\u00fcbenach, Koblenz, Rheinland-Pfalz, 56330, Deutschland",
+        "Amazon, Amazonstra\u00dfe, Winterswick, Rheinberg, Kreis Wesel, Nordrhein-Westfalen, 47495, Deutschland",
+        "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
+        "Amazon-Logistikzentrum, Graben, Landkreis Augsburg, Bayern, 86836, Deutschland"
+    ]
 }

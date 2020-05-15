@@ -32,5 +32,14 @@
         "immigration",
         "trump"
     ],
-    "author": "organizejs"
+    "author": "organizejs",
+    "latlngs": [
+        [
+            44.05795005,
+            -92.50701462052399
+        ]
+    ],
+    "addresses": [
+        "IBM, Rochester, Olmsted County, Minnesota, 55901:55960, United States of America"
+    ]
 }

@@ -28,5 +28,14 @@
     "tags": [
         "industry_solidarity"
     ],
-    "author": "organizejs"
+    "author": "organizejs",
+    "latlngs": [
+        [
+            37.4440869,
+            -122.16287540411753
+        ]
+    ],
+    "addresses": [
+        "Palantir, University Avenue, Southgate, Palo Alto, Santa Clara County, California, 94301, United States of America"
+    ]
 }

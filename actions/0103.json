@@ -25,5 +25,14 @@
     ],
     "workers": 100,
     "tags": null,
-    "author": "organizejs"
+    "author": "organizejs",
+    "latlngs": [
+        [
+            33.9446707,
+            -117.026448
+        ]
+    ],
+    "addresses": [
+        "Apron Lane, Beaumont, Riverside County, California, 92223, United States of America"
+    ]
 }

@@ -30,5 +30,14 @@
     ],
     "workers": 600,
     "tags": null,
-    "author": "ericandrewlewis"
+    "author": "ericandrewlewis",
+    "latlngs": [
+        [
+            40.6193387,
+            -74.0727749
+        ]
+    ],
+    "addresses": [
+        "Amazon Court, Clifton, Todt Hill, New York, Staten Island, Richmond County, New York, 10304, United States of America"
+    ]
 }

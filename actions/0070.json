@@ -29,5 +29,19 @@
     ],
     "workers": 550,
     "tags": null,
-    "author": "nataliyaned"
+    "author": "nataliyaned",
+    "latlngs": [
+        [
+            47.6142939,
+            -122.3239636
+        ],
+        [
+            27.048664,
+            -82.060911
+        ]
+    ],
+    "addresses": [
+        "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America",
+        "Damo Street, North Port, Sarasota County, Florida, United States of America"
+    ]
 }

@@ -28,5 +28,19 @@
     ],
     "workers": null,
     "tags": null,
-    "author": "organizejs"
+    "author": "organizejs",
+    "latlngs": [
+        [
+            41.14127715,
+            -77.46294984398486
+        ],
+        [
+            30.2691649,
+            -97.7455041
+        ]
+    ],
+    "addresses": [
+        "Instagram-Ferris_Joshua / Marycate.minnigh, Campus Drive, Sunset Pines, Lock Haven, Clinton County, Pennsylvania, 17745, United States of America",
+        "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States of America"
+    ]
 }

@@ -36,5 +36,19 @@
         "international_solidarity",
         "industry_solidarity"
     ],
-    "author": "bentarnoff"
+    "author": "bentarnoff",
+    "latlngs": [
+        [
+            35.139622349999996,
+            -80.92306993327955
+        ],
+        [
+            37.7821769,
+            -122.3912458
+        ]
+    ],
+    "addresses": [
+        "Microsoft, Yorkwood, Charlotte, Mecklenburg County, North Carolina, United States of America",
+        "GitHub, Colin P. Kelly Junior Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States of America"
+    ]
 }

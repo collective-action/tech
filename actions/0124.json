@@ -26,5 +26,7 @@
     ],
     "workers": 3,
     "tags": null,
-    "author": "bentarnoff"
+    "author": "bentarnoff",
+    "latlngs": null,
+    "addresses": null
 }

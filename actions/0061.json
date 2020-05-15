@@ -27,5 +27,14 @@
     "tags": [
         "industry_solidarity"
     ],
-    "author": "organizejs"
+    "author": "organizejs",
+    "latlngs": [
+        [
+            39.7837304,
+            -100.4458825
+        ]
+    ],
+    "addresses": [
+        "United States"
+    ]
 }

@@ -34,5 +34,24 @@
     ],
     "workers": 20000,
     "tags": null,
-    "author": "moates"
+    "author": "moates",
+    "latlngs": [
+        [
+            19.42437,
+            -99.168218
+        ],
+        [
+            47.2269198,
+            8.8245459
+        ],
+        [
+            19.4326296,
+            -99.1331785
+        ]
+    ],
+    "addresses": [
+        "Uber, Calle Hamburgo, Ju\u00e1rez, Ciudad de M\u00e9xico, Cuauht\u00e9moc, Ciudad de M\u00e9xico, 06600, M\u00e9xico",
+        "Rapperswil, Wahlkreis See-Gaster, Sankt Gallen, 8640, Switzerland",
+        "Ciudad de M\u00e9xico, Cuauht\u00e9moc, Ciudad de M\u00e9xico, 06060, M\u00e9xico"
+    ]
 }

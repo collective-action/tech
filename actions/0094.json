@@ -23,5 +23,14 @@
     ],
     "workers": 100,
     "tags": null,
-    "author": "nataliyaned"
+    "author": "nataliyaned",
+    "latlngs": [
+        [
+            35.0957495,
+            128.8548256
+        ]
+    ],
+    "addresses": [
+        "Samsung, \ub179\uc0b0\uc0b0\ub2e8321\ub85c, \uac15\uc11c\uad6c, \ubd80\uc0b0, 46755, \ub300\ud55c\ubbfc\uad6d"
+    ]
 }

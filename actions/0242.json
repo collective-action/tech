@@ -30,5 +30,14 @@
         "immigration",
         "coronavirus"
     ],
-    "author": "organizejs"
+    "author": "organizejs",
+    "latlngs": [
+        [
+            37.41096725,
+            -122.07138737347663
+        ]
+    ],
+    "addresses": [
+        "Microsoft Silicon Valley, Mountain View, Santa Clara County, California, United States of America"
+    ]
 }

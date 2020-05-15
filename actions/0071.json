@@ -26,5 +26,19 @@
     ],
     "workers": 500,
     "tags": null,
-    "author": "nataliyaned"
+    "author": "nataliyaned",
+    "latlngs": [
+        [
+            51.653494949999995,
+            7.59464606445661
+        ],
+        [
+            45.0777055,
+            9.454322716507177
+        ]
+    ],
+    "addresses": [
+        "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
+        "Amazon, Cascina Sforza, Castel San Giovanni, Piacenza, Emilia-Romagna, Italia"
+    ]
 }

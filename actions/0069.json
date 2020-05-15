@@ -29,5 +29,14 @@
     "tags": [
         "twc"
     ],
-    "author": "organizejs"
+    "author": "organizejs",
+    "latlngs": [
+        [
+            37.484668049999996,
+            -122.1483654685629
+        ]
+    ],
+    "addresses": [
+        "Facebook, Bayfront Expressway, Belle Haven, Menlo Park, San Mateo County, California, 94025-1246, United States of America"
+    ]
 }

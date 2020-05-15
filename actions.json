@@ -27,7 +27,9 @@
         "tags": [
             "international_solidarity"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "1986/09/16",
@@ -54,7 +56,16 @@
         ],
         "workers": 14,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                45.5733162,
+                -122.5587111463347
+            ]
+        ],
+        "addresses": [
+            "10025, Northeast Cascades Parkway, Portland, Multnomah County, Oregon, 97220, United States of America"
+        ]
     },
     {
         "date": "1986/09/16",
@@ -79,7 +90,16 @@
         "companies": null,
         "workers": 30,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                39.7837304,
+                -100.4458825
+            ]
+        ],
+        "addresses": [
+            "United States"
+        ]
     },
     {
         "date": "1994/01/24",
@@ -105,7 +125,9 @@
         "companies": null,
         "workers": 50000,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "1998/11/23",
@@ -133,7 +155,16 @@
         ],
         "workers": 10,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                35.139622349999996,
+                -80.92306993327955
+            ]
+        ],
+        "addresses": [
+            "Microsoft, Yorkwood, Charlotte, Mecklenburg County, North Carolina, United States of America"
+        ]
     },
     {
         "date": "1999/06/04",
@@ -166,7 +197,16 @@
         "tags": [
             "washtech"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                47.5388725,
+                -122.2901728
+            ]
+        ],
+        "addresses": [
+            "Microsoft Gathering Hall, 32nd Avenue South, Columbia City, Holly Park, Seattle, King County, Washington, 98118, United States of America"
+        ]
     },
     {
         "date": "1999/10/01",
@@ -198,7 +238,9 @@
         "tags": [
             "cwa"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2000/11/16",
@@ -231,7 +273,16 @@
             "washtech",
             "cwa"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                47.6142939,
+                -122.3239636
+            ]
+        ],
+        "addresses": [
+            "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
+        ]
     },
     {
         "date": "2000/11/23",
@@ -259,7 +310,16 @@
         ],
         "workers": 5000,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                47.6142939,
+                -122.3239636
+            ]
+        ],
+        "addresses": [
+            "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
+        ]
     },
     {
         "date": "2001/01/09",
@@ -296,7 +356,9 @@
             "cwa",
             "retaliation"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2004/09/29",
@@ -325,7 +387,16 @@
         ],
         "workers": 140000,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                44.05795005,
+                -92.50701462052399
+            ]
+        ],
+        "addresses": [
+            "IBM, Rochester, Olmsted County, Minnesota, 55901:55960, United States of America"
+        ]
     },
     {
         "date": "2006/03/09",
@@ -357,7 +428,16 @@
             "washtech",
             "cwa"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                47.5388725,
+                -122.2901728
+            ]
+        ],
+        "addresses": [
+            "Microsoft Gathering Hall, 32nd Avenue South, Columbia City, Holly Park, Seattle, King County, Washington, 98118, United States of America"
+        ]
     },
     {
         "date": "2007/07/14",
@@ -386,7 +466,16 @@
         "tags": [
             "immigration"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                37.3361905,
+                -121.8905833
+            ]
+        ],
+        "addresses": [
+            "San Jose, Santa Clara County, California, United States of America"
+        ]
     },
     {
         "date": "2007/09/26",
@@ -414,7 +503,9 @@
         "tags": [
             "immigration"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2007/10/30",
@@ -443,7 +534,16 @@
         "tags": [
             "immigration"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                37.3361905,
+                -121.8905833
+            ]
+        ],
+        "addresses": [
+            "San Jose, Santa Clara County, California, United States of America"
+        ]
     },
     {
         "date": "2009/05/18",
@@ -472,7 +572,9 @@
         ],
         "workers": 1000,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2009/12/16",
@@ -500,7 +602,9 @@
         ],
         "workers": null,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2011/12/28",
@@ -528,7 +632,16 @@
         ],
         "workers": 8000,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                32.1576782,
+                118.86592783961245
+            ]
+        ],
+        "addresses": [
+            "LG, \u6816\u971e\u533a, \u6c5f\u82cf\u7701, China \u4e2d\u56fd"
+        ]
     },
     {
         "date": "2012/01/11",
@@ -557,7 +670,9 @@
         ],
         "workers": 150,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2012/01/17",
@@ -590,7 +705,16 @@
         ],
         "workers": null,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                41.593329749999995,
+                -83.08084569825326
+            ]
+        ],
+        "addresses": [
+            "Davis-Besse Nuclear Power Station, Locust Point, Carroll Township, Ottawa County, Ohio, United States of America"
+        ]
     },
     {
         "date": "2012/04/27",
@@ -618,7 +742,9 @@
         ],
         "workers": 200,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2012/05/01",
@@ -647,7 +773,16 @@
         ],
         "workers": 1000,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                -23.16559635,
+                -46.94674960550789
+            ]
+        ],
+        "addresses": [
+            "Foxconn, Avenida Marginal, Jardim Tannus, Aeroporto, Jundia\u00ed, Regi\u00e3o Imediata de Jundia\u00ed, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Campinas, S\u00e3o Paulo, Regi\u00e3o Sudeste, 13212-010, Brasil"
+        ]
     },
     {
         "date": "2012/06/05",
@@ -675,7 +810,16 @@
         "companies": null,
         "workers": null,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                25.0375198,
+                121.5636796
+            ]
+        ],
+        "addresses": [
+            "\u81fa\u5317\u5e02, \u4fe1\u7fa9\u5340, \u81fa\u5317\u5e02, 11008, Taiwan"
+        ]
     },
     {
         "date": "2012/10/01",
@@ -703,7 +847,16 @@
         ],
         "workers": 3000,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                34.7284406,
+                113.7595316
+            ]
+        ],
+        "addresses": [
+            "Foxconn Technology Group, \u7ecf\u5317\u4e8c\u8def, \u5546\u90fd\u8def\u8857\u9053, \u5703\u7530\u4e61, \u7ba1\u57ce\u56de\u65cf\u533a, \u90d1\u5dde\u5e02, \u6cb3\u5357\u7701, 450046, China \u4e2d\u56fd"
+        ]
     },
     {
         "date": "2013/02/06",
@@ -734,7 +887,9 @@
         ],
         "workers": null,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2013/03/15",
@@ -765,7 +920,16 @@
         "tags": [
             "drivers"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                37.7899898,
+                -122.3999799
+            ]
+        ],
+        "addresses": [
+            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America"
+        ]
     },
     {
         "date": "2013/05/19",
@@ -797,7 +961,21 @@
         ],
         "workers": null,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                50.8523727,
+                9.7311825
+            ],
+            [
+                51.3622584,
+                12.452329749225527
+            ]
+        ],
+        "addresses": [
+            "Amazon-Stra\u00dfe, Hohe Luft, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
+            "Amazon, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland"
+        ]
     },
     {
         "date": "2013/07/04",
@@ -825,7 +1003,9 @@
         ],
         "workers": null,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2013/09/19",
@@ -859,7 +1039,21 @@
         "tags": [
             "students"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                50.8523727,
+                9.7311825
+            ],
+            [
+                51.3622584,
+                12.452329749225527
+            ]
+        ],
+        "addresses": [
+            "Amazon-Stra\u00dfe, Hohe Luft, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
+            "Amazon, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland"
+        ]
     },
     {
         "date": "2013/09/19",
@@ -893,7 +1087,21 @@
         ],
         "workers": null,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                50.8523727,
+                9.7311825
+            ],
+            [
+                51.3622584,
+                12.452329749225527
+            ]
+        ],
+        "addresses": [
+            "Amazon-Stra\u00dfe, Hohe Luft, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
+            "Amazon, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland"
+        ]
     },
     {
         "date": "2013/11/19",
@@ -923,7 +1131,9 @@
         ],
         "workers": 100,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2013/12/16",
@@ -971,7 +1181,36 @@
         "tags": [
             "international_solidarity"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                50.8523727,
+                9.7311825
+            ],
+            [
+                51.3622584,
+                12.452329749225527
+            ],
+            [
+                48.198871499999996,
+                10.848663796329923
+            ],
+            [
+                51.653494949999995,
+                7.59464606445661
+            ],
+            [
+                47.6142939,
+                -122.3239636
+            ]
+        ],
+        "addresses": [
+            "Amazon-Stra\u00dfe, Hohe Luft, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
+            "Amazon, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland",
+            "Amazon-Logistikzentrum, Graben, Landkreis Augsburg, Bayern, 86836, Deutschland",
+            "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
+            "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
+        ]
     },
     {
         "date": "2014/01/16",
@@ -1003,7 +1242,9 @@
         "tags": [
             "retaliation"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2014/03/03",
@@ -1032,7 +1273,16 @@
         ],
         "workers": 1000,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                22.54208855,
+                113.9430328
+            ]
+        ],
+        "addresses": [
+            "\u8054\u60f3\u7814\u53d1\u4e2d\u5fc3, \u9ad8\u65b0\u5357\u4e00\u9053, \u5927\u51b2, \u7ca4\u6d77\u8857\u9053, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518057, China \u4e2d\u56fd"
+        ]
     },
     {
         "date": "2014/03/31",
@@ -1060,7 +1310,16 @@
         ],
         "workers": 340,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                51.3622584,
+                12.452329749225527
+            ]
+        ],
+        "addresses": [
+            "Amazon, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland"
+        ]
     },
     {
         "date": "2014/04/01",
@@ -1089,7 +1348,16 @@
         ],
         "workers": 55000,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                51.5414364,
+                -2.641349791380809
+            ]
+        ],
+        "addresses": [
+            "Amazon, Goldcrest Way, Central Park Distribution Park, Pilning and Severn Beach, Pilning, South Gloucestershire, South West England, England, BS35 4DJ, United Kingdom"
+        ]
     },
     {
         "date": "2014/04/03",
@@ -1122,7 +1390,16 @@
         "tags": [
             "lgbtq"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                37.38734885,
+                -122.0601159053321
+            ]
+        ],
+        "addresses": [
+            "Mozilla, East Evelyn Avenue, Mondrian, Mountain View, Santa Clara County, California, 94041, United States of America"
+        ]
     },
     {
         "date": "2014/04/19",
@@ -1154,7 +1431,31 @@
         ],
         "workers": 60000,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                37.41897865,
+                -122.08237793989416
+            ],
+            [
+                37.32915255,
+                -122.03225451655098
+            ],
+            [
+                32.939795,
+                -117.1026021
+            ],
+            [
+                37.33196605,
+                -121.8954904847011
+            ]
+        ],
+        "addresses": [
+            "Google, Mountain View, Santa Clara County, California, United States of America",
+            "Apple, Monta Vista, Cupertino, Santa Clara County, California, United States of America",
+            "Intel, Scripps Summit Drive, Sabre Springs, San Diego, San Diego County, California, 92131, United States of America",
+            "333, Japantown, San Jose, Santa Clara County, California, United States of America"
+        ]
     },
     {
         "date": "2014/09/01",
@@ -1186,7 +1487,9 @@
         ],
         "workers": 262,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2014/09/01",
@@ -1217,7 +1520,21 @@
         "tags": [
             "temporary_workers_of_america"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                35.139622349999996,
+                -80.92306993327955
+            ],
+            [
+                47.578722799999994,
+                -122.17154487755995
+            ]
+        ],
+        "addresses": [
+            "Microsoft, Yorkwood, Charlotte, Mecklenburg County, North Carolina, United States of America",
+            "Lionbridge, Factoria Boulevard Southeast, Woodridge, Factoria, Bellevue, King County, Washington, 98006, United States of America"
+        ]
     },
     {
         "date": "2014/09/19",
@@ -1247,7 +1564,16 @@
         "tags": [
             "seiu"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                34.1276036,
+                -95.4174606
+            ]
+        ],
+        "addresses": [
+            "Apple, Choctaw County, Oklahoma, United States of America"
+        ]
     },
     {
         "date": "2014/11/04",
@@ -1276,7 +1602,16 @@
         ],
         "workers": null,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                39.9079196,
+                116.4058833
+            ]
+        ],
+        "addresses": [
+            "1, \u4e1c\u957f\u5b89\u8857, \u5317\u4eac\u5e02, \u4e1c\u57ce\u533a, \u5317\u4eac\u5e02, 100010, China \u4e2d\u56fd"
+        ]
     },
     {
         "date": "2014/11/19",
@@ -1310,7 +1645,16 @@
             "teamster",
             "drivers"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                37.484668049999996,
+                -122.1483654685629
+            ]
+        ],
+        "addresses": [
+            "Facebook, Bayfront Expressway, Belle Haven, Menlo Park, San Mateo County, California, 94025-1246, United States of America"
+        ]
     },
     {
         "date": "2014/12/03",
@@ -1343,7 +1687,16 @@
         ],
         "workers": 550,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                47.6142939,
+                -122.3239636
+            ]
+        ],
+        "addresses": [
+            "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
+        ]
     },
     {
         "date": "2015/01/09",
@@ -1372,7 +1725,9 @@
         ],
         "workers": null,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2015/02/03",
@@ -1402,7 +1757,16 @@
         ],
         "workers": 4400,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                30.187622849999997,
+                120.1935601
+            ]
+        ],
+        "addresses": [
+            "\u534e\u4e09\u901a\u4fe1, \u957f\u6cb3\u8857\u9053, \u676d\u5dde\u5e02, \u6d59\u6c5f\u7701, China \u4e2d\u56fd"
+        ]
     },
     {
         "date": "2015/02/26",
@@ -1436,7 +1800,16 @@
             "teamster",
             "drivers"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                37.32915255,
+                -122.03225451655098
+            ]
+        ],
+        "addresses": [
+            "Apple, Monta Vista, Cupertino, Santa Clara County, California, United States of America"
+        ]
     },
     {
         "date": "2015/05/04",
@@ -1466,7 +1839,21 @@
         ],
         "workers": null,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                37.3771412,
+                -122.03367714666899
+            ],
+            [
+                37.3504112,
+                -121.9016582
+            ]
+        ],
+        "addresses": [
+            "190, Aries Way, Sunnyvale, Santa Clara County, California, 94086, United States of America",
+            "Universal Protection Service, North 1st Street, Civic Center Plaza, Japantown, San Jose, Santa Clara County, California, 95110, United States of America"
+        ]
     },
     {
         "date": "2015/06/18",
@@ -1499,7 +1886,16 @@
         "tags": [
             "seiu"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                40.7189373,
+                -74.0020369
+            ]
+        ],
+        "addresses": [
+            "WeWork, Broadway, SoHo, Manhattan, Manhattan Community Board 2, New York County, New York, 10003, United States of America"
+        ]
     },
     {
         "date": "2015/07/20",
@@ -1527,7 +1923,9 @@
         ],
         "workers": null,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2015/08/20",
@@ -1556,7 +1954,9 @@
         "tags": [
             "coworker_solidarity"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2016/02/07",
@@ -1588,7 +1988,16 @@
         "tags": [
             "drivers"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                37.7899898,
+                -122.3999799
+            ]
+        ],
+        "addresses": [
+            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America"
+        ]
     },
     {
         "date": "2016/02/10",
@@ -1619,7 +2028,16 @@
         ],
         "workers": 100,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                37.389317899999995,
+                -121.97901174515997
+            ]
+        ],
+        "addresses": [
+            "McAfee, Mission College Boulevard, Agnew, Santa Clara, Santa Clara County, California, 94054, United States of America"
+        ]
     },
     {
         "date": "2016/02/17",
@@ -1648,7 +2066,16 @@
         ],
         "workers": 700,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                31.5877145,
+                -106.3916453
+            ]
+        ],
+        "addresses": [
+            "Lexmark, Boulevard Independencia, Ciudad Ju\u00e1rez, Ju\u00e1rez, Chihuahua, 32575, M\u00e9xico"
+        ]
     },
     {
         "date": "2016/03/31",
@@ -1681,7 +2108,16 @@
         "tags": [
             "seiu"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                37.33196605,
+                -121.8954904847011
+            ]
+        ],
+        "addresses": [
+            "333, Japantown, San Jose, Santa Clara County, California, United States of America"
+        ]
     },
     {
         "date": "2016/04/21",
@@ -1718,7 +2154,16 @@
         "tags": [
             "drivers"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                37.7899898,
+                -122.3999799
+            ]
+        ],
+        "addresses": [
+            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America"
+        ]
     },
     {
         "date": "2016/05/10",
@@ -1750,7 +2195,16 @@
         "tags": [
             "drivers"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                40.7859179,
+                -73.9849146
+            ]
+        ],
+        "addresses": [
+            "Yachthafen(Blick \u00fcber New Yersey), Hudson River Greenway, Upper West Side, Manhattan Community Board 7, New York County, New York, 10024, United States of America"
+        ]
     },
     {
         "date": "2016/08/11",
@@ -1780,7 +2234,16 @@
         ],
         "workers": 100,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                51.5314216,
+                -0.1113624
+            ]
+        ],
+        "addresses": [
+            "Deliveroo, Pentonville Road, Angel, Pentonville, London Borough of Islington, London, Greater London, England, N1 9JB, United Kingdom"
+        ]
     },
     {
         "date": "2016/10/05",
@@ -1811,7 +2274,16 @@
         ],
         "workers": 43,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                37.389317899999995,
+                -121.97901174515997
+            ]
+        ],
+        "addresses": [
+            "McAfee, Mission College Boulevard, Agnew, Santa Clara, Santa Clara County, California, 94054, United States of America"
+        ]
     },
     {
         "date": "2016/10/14",
@@ -1838,7 +2310,9 @@
         ],
         "workers": null,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2016/12/03",
@@ -1868,7 +2342,16 @@
         "tags": [
             "drivers"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                37.7899898,
+                -122.3999799
+            ]
+        ],
+        "addresses": [
+            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America"
+        ]
     },
     {
         "date": "2016/12/13",
@@ -1899,7 +2382,16 @@
         "tags": [
             "industry_solidarity"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                39.7837304,
+                -100.4458825
+            ]
+        ],
+        "addresses": [
+            "United States"
+        ]
     },
     {
         "date": "2016/12/16",
@@ -1935,7 +2427,16 @@
             "immigration",
             "trump"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                44.05795005,
+                -92.50701462052399
+            ]
+        ],
+        "addresses": [
+            "IBM, Rochester, Olmsted County, Minnesota, 55901:55960, United States of America"
+        ]
     },
     {
         "date": "2017/01/18",
@@ -1967,7 +2468,16 @@
             "industry_solidarity",
             "trump"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                37.4440869,
+                -122.16287540411753
+            ]
+        ],
+        "addresses": [
+            "Palantir, University Avenue, Southgate, Palo Alto, Santa Clara County, California, 94301, United States of America"
+        ]
     },
     {
         "date": "2017/01/30",
@@ -2001,7 +2511,21 @@
         "tags": [
             "seiu"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                37.484668049999996,
+                -122.1483654685629
+            ],
+            [
+                39.3024491,
+                -120.5471773
+            ]
+        ],
+        "addresses": [
+            "Facebook, Bayfront Expressway, Belle Haven, Menlo Park, San Mateo County, California, 94025-1246, United States of America",
+            "Cisco, Placer County, California, 95278, United States of America"
+        ]
     },
     {
         "date": "2017/02/01",
@@ -2036,7 +2560,16 @@
             "immigration",
             "trump"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                37.41897865,
+                -122.08237793989416
+            ]
+        ],
+        "addresses": [
+            "Google, Mountain View, Santa Clara County, California, United States of America"
+        ]
     },
     {
         "date": "2017/02/04",
@@ -2066,7 +2599,16 @@
             "immigration",
             "trump"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                30.2691649,
+                -97.7455041
+            ]
+        ],
+        "addresses": [
+            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States of America"
+        ]
     },
     {
         "date": "2017/03/14",
@@ -2097,7 +2639,16 @@
         "tags": [
             "industry_solidarity"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                37.4443293,
+                -122.1598465
+            ]
+        ],
+        "addresses": [
+            "Palo Alto, Santa Clara County, California, United States of America"
+        ]
     },
     {
         "date": "2017/03/22",
@@ -2133,7 +2684,21 @@
         "tags": [
             "technicians"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                33.80967965,
+                -117.83605415
+            ],
+            [
+                39.5276588,
+                -119.862383
+            ]
+        ],
+        "addresses": [
+            "AT&T, North Tustin Street, McPherson, Orange, Orange County, California, 92867, United States of America",
+            "AT&T, North McCarran Boulevard, Edgewater, West Reno, Reno, Washoe County, Nevada, 89523, United States of America"
+        ]
     },
     {
         "date": "2017/07/24",
@@ -2166,7 +2731,16 @@
         "tags": [
             "twc"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                37.484668049999996,
+                -122.1483654685629
+            ]
+        ],
+        "addresses": [
+            "Facebook, Bayfront Expressway, Belle Haven, Menlo Park, San Mateo County, California, 94025-1246, United States of America"
+        ]
     },
     {
         "date": "2017/08/23",
@@ -2199,7 +2773,21 @@
         ],
         "workers": 550,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                47.6142939,
+                -122.3239636
+            ],
+            [
+                27.048664,
+                -82.060911
+            ]
+        ],
+        "addresses": [
+            "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America",
+            "Damo Street, North Port, Sarasota County, Florida, United States of America"
+        ]
     },
     {
         "date": "2017/11/25",
@@ -2229,7 +2817,21 @@
         ],
         "workers": 500,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                51.653494949999995,
+                7.59464606445661
+            ],
+            [
+                45.0777055,
+                9.454322716507177
+            ]
+        ],
+        "addresses": [
+            "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
+            "Amazon, Cascina Sforza, Castel San Giovanni, Piacenza, Emilia-Romagna, Italia"
+        ]
     },
     {
         "date": "2017/12/13",
@@ -2260,7 +2862,16 @@
         ],
         "workers": 65,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                40.722465,
+                -73.9977307
+            ]
+        ],
+        "addresses": [
+            "72, Spring Street, Little Italy, Manhattan, Manhattan Community Board 2, New York County, New York, 10013, United States of America"
+        ]
     },
     {
         "date": "2017/12/13",
@@ -2291,7 +2902,16 @@
         ],
         "workers": 118,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                37.4181243,
+                -122.02538023988251
+            ]
+        ],
+        "addresses": [
+            "Yahoo, Sunnyvale, Santa Clara County, California, United States of America"
+        ]
     },
     {
         "date": "2018/01/16",
@@ -2343,7 +2963,9 @@
         ],
         "workers": 15,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2018/02/18",
@@ -2371,7 +2993,9 @@
         ],
         "workers": 320,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2018/03/06",
@@ -2402,7 +3026,16 @@
         "tags": [
             "students"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                37.4417249,
+                -122.1725159
+            ]
+        ],
+        "addresses": [
+            "Apple Store, Stanford Shopping Center, Stanford, Palo Alto, Santa Clara County, California, 94025, United States of America"
+        ]
     },
     {
         "date": "2018/03/21",
@@ -2430,7 +3063,16 @@
         ],
         "workers": 1100,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                40.44726385,
+                -3.4982889
+            ]
+        ],
+        "addresses": [
+            "Amazon, Avenida de la Astronom\u00eda, Parque Empresarial Puerta de Madrid, El Jard\u00edn, San Fernando de Henares, \u00c1rea metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28850, Espa\u00f1a"
+        ]
     },
     {
         "date": "2018/04/02",
@@ -2458,7 +3100,9 @@
         ],
         "workers": 300,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2018/04/06",
@@ -2490,7 +3134,9 @@
         "tags": [
             "academics"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2018/04/28",
@@ -2523,7 +3169,9 @@
         ],
         "workers": 30,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2018/05/14",
@@ -2555,7 +3203,9 @@
         ],
         "workers": 24,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2018/05/14",
@@ -2587,7 +3237,9 @@
         "tags": [
             "sexism"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2018/05/15",
@@ -2614,7 +3266,16 @@
         ],
         "workers": 373,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                65.4102317,
+                -163.0526448
+            ]
+        ],
+        "addresses": [
+            "Caviar Creek, Nome, Alaska, United States of America"
+        ]
     },
     {
         "date": "2018/05/30",
@@ -2648,7 +3309,16 @@
         "tags": [
             "military_contracts"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                42.3627717,
+                -71.087257
+            ]
+        ],
+        "addresses": [
+            "Google, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+        ]
     },
     {
         "date": "2018/06/04",
@@ -2676,7 +3346,9 @@
         ],
         "workers": null,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2018/06/04",
@@ -2708,7 +3380,9 @@
         ],
         "workers": 100,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2018/06/08",
@@ -2740,7 +3414,9 @@
         ],
         "workers": 90,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2018/06/19",
@@ -2773,7 +3449,16 @@
         "tags": [
             "ice"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                35.139622349999996,
+                -80.92306993327955
+            ]
+        ],
+        "addresses": [
+            "Microsoft, Yorkwood, Charlotte, Mecklenburg County, North Carolina, United States of America"
+        ]
     },
     {
         "date": "2018/06/21",
@@ -2807,7 +3492,21 @@
         "tags": [
             "law_enforcement"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                47.6142939,
+                -122.3239636
+            ],
+            [
+                37.4440869,
+                -122.16287540411753
+            ]
+        ],
+        "addresses": [
+            "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America",
+            "Palantir, University Avenue, Southgate, Palo Alto, Santa Clara County, California, 94301, United States of America"
+        ]
     },
     {
         "date": "2018/06/21",
@@ -2836,7 +3535,16 @@
         "tags": [
             "military_contracts"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                42.3627717,
+                -71.087257
+            ]
+        ],
+        "addresses": [
+            "Google, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+        ]
     },
     {
         "date": "2018/06/25",
@@ -2868,7 +3576,16 @@
         "tags": [
             "cbp"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                45.5328206,
+                -122.9032132
+            ]
+        ],
+        "addresses": [
+            "Salesforce, Northeast Cornelius Pass Road, Orenco, Hillsboro, Washington County, Oregon, 97124, United States of America"
+        ]
     },
     {
         "date": "2018/07/03",
@@ -2900,7 +3617,9 @@
         ],
         "workers": 30,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2018/07/10",
@@ -2929,7 +3648,16 @@
         ],
         "workers": 950,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                40.44726385,
+                -3.4982889
+            ]
+        ],
+        "addresses": [
+            "Amazon, Avenida de la Astronom\u00eda, Parque Empresarial Puerta de Madrid, El Jard\u00edn, San Fernando de Henares, \u00c1rea metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28850, Espa\u00f1a"
+        ]
     },
     {
         "date": "2018/07/24",
@@ -2956,7 +3684,16 @@
         ],
         "workers": 100,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                35.0957495,
+                128.8548256
+            ]
+        ],
+        "addresses": [
+            "Samsung, \ub179\uc0b0\uc0b0\ub2e8321\ub85c, \uac15\uc11c\uad6c, \ubd80\uc0b0, 46755, \ub300\ud55c\ubbfc\uad6d"
+        ]
     },
     {
         "date": "2018/07/31",
@@ -2988,7 +3725,16 @@
         "tags": [
             "industry_solidarity"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                37.4440869,
+                -122.16287540411753
+            ]
+        ],
+        "addresses": [
+            "Palantir, University Avenue, Southgate, Palo Alto, Santa Clara County, California, 94301, United States of America"
+        ]
     },
     {
         "date": "2018/08/01",
@@ -3016,7 +3762,9 @@
         ],
         "workers": 450,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2018/08/23",
@@ -3047,7 +3795,16 @@
             "teamster",
             "drivers"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                37.7790262,
+                -122.4199061
+            ]
+        ],
+        "addresses": [
+            "San Francisco, San Francisco City and County, California, United States of America"
+        ]
     },
     {
         "date": "2018/10/04",
@@ -3074,7 +3831,16 @@
         ],
         "workers": 50,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                52.4746766,
+                -1.91586332385543
+            ]
+        ],
+        "addresses": [
+            "UBER, Broad Street, Ladywood, Birmingham, West Midlands Combined Authority, West Midlands, England, B15 1AE, United Kingdom"
+        ]
     },
     {
         "date": "2018/10/09",
@@ -3112,7 +3878,21 @@
         ],
         "workers": 100,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                51.5148804,
+                -0.0718856
+            ],
+            [
+                52.4746766,
+                -1.91586332385543
+            ]
+        ],
+        "addresses": [
+            "Uber, Leman Street, Spitalfields, London Borough of Tower Hamlets, London, Greater London, England, E1 8FA, United Kingdom",
+            "UBER, Broad Street, Ladywood, Birmingham, West Midlands Combined Authority, West Midlands, England, B15 1AE, United Kingdom"
+        ]
     },
     {
         "date": "2018/10/12",
@@ -3142,7 +3922,16 @@
         ],
         "workers": null,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                35.139622349999996,
+                -80.92306993327955
+            ]
+        ],
+        "addresses": [
+            "Microsoft, Yorkwood, Charlotte, Mecklenburg County, North Carolina, United States of America"
+        ]
     },
     {
         "date": "2018/10/24",
@@ -3174,7 +3963,9 @@
         ],
         "workers": 100,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2018/11/01",
@@ -3208,7 +3999,16 @@
         "tags": [
             "sexism"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                42.3627717,
+                -71.087257
+            ]
+        ],
+        "addresses": [
+            "Google, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+        ]
     },
     {
         "date": "2018/11/20",
@@ -3237,7 +4037,16 @@
         ],
         "workers": 100,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                33.9446707,
+                -117.026448
+            ]
+        ],
+        "addresses": [
+            "Apron Lane, Beaumont, Riverside County, California, 92223, United States of America"
+        ]
     },
     {
         "date": "2018/11/23",
@@ -3278,7 +4087,36 @@
         ],
         "workers": 2400,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                51.653494949999995,
+                7.59464606445661
+            ],
+            [
+                49.20773805,
+                2.6199324110680884
+            ],
+            [
+                45.0777055,
+                9.454322716507177
+            ],
+            [
+                41.4015005,
+                2.1921906095749035
+            ],
+            [
+                51.5414364,
+                -2.641349791380809
+            ]
+        ],
+        "addresses": [
+            "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
+            "Amazon, Villem\u00e9trie, Senlis, Oise, Hauts-de-France, France m\u00e9tropolitaine, 60300, France",
+            "Amazon, Cascina Sforza, Castel San Giovanni, Piacenza, Emilia-Romagna, Italia",
+            "Amazon, Carrer de Badajoz, el Parc i la Llacuna del Poblenou, Sant Mart\u00ed, Barcelona, Barcelon\u00e8s, Barcelona, Catalunya, 08001, Espa\u00f1a",
+            "Amazon, Goldcrest Way, Central Park Distribution Park, Pilning and Severn Beach, Pilning, South Gloucestershire, South West England, England, BS35 4DJ, United Kingdom"
+        ]
     },
     {
         "date": "2018/11/23",
@@ -3306,7 +4144,9 @@
         ],
         "workers": 1300,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2018/11/27",
@@ -3340,7 +4180,21 @@
         ],
         "workers": 740,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                42.3627717,
+                -71.087257
+            ],
+            [
+                22.278428,
+                114.182429
+            ]
+        ],
+        "addresses": [
+            "Google, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America",
+            "Google, \u8ed2\u5c3c\u8a69\u9053 Hennessy Road, \u6469\u5229\u81e3\u5c71 Morrison Hill, \u9285\u947c\u7063 Causeway Bay, \u897f\u74b0 Sai Wan, \u9999\u6e2f\u5cf6 Hong Kong Island, \u7063\u4ed4\u5340 Wan Chai District, \u9999\u6e2f Hong Kong, China \u4e2d\u56fd"
+        ]
     },
     {
         "date": "2018/12/04",
@@ -3372,7 +4226,16 @@
         "tags": [
             "drivers"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                40.7859179,
+                -73.9849146
+            ]
+        ],
+        "addresses": [
+            "Yachthafen(Blick \u00fcber New Yersey), Hudson River Greenway, Upper West Side, Manhattan Community Board 7, New York County, New York, 10024, United States of America"
+        ]
     },
     {
         "date": "2018/12/06",
@@ -3403,7 +4266,16 @@
         ],
         "workers": 12500,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                37.7899898,
+                -122.3999799
+            ]
+        ],
+        "addresses": [
+            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America"
+        ]
     },
     {
         "date": "2018/12/06",
@@ -3437,7 +4309,16 @@
         "tags": [
             "coworker_solidarity"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                47.62913015,
+                -122.34138479964494
+            ]
+        ],
+        "addresses": [
+            "Facebook Westlake, Westlake Avenue North, Westlake, Seattle, King County, Washington, 98109, United States of America"
+        ]
     },
     {
         "date": "2018/12/14",
@@ -3466,7 +4347,16 @@
         ],
         "workers": 100,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                44.9696354,
+                -93.2884766
+            ]
+        ],
+        "addresses": [
+            "Wounded Amazon, Lyndale Avenue South, Loring Park, Minneapolis, Hennepin County, Minnesota, 55403, United States of America"
+        ]
     },
     {
         "date": "2018/12/16",
@@ -3495,7 +4385,16 @@
         ],
         "workers": 100,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                34.7284406,
+                113.7595316
+            ]
+        ],
+        "addresses": [
+            "Foxconn Technology Group, \u7ecf\u5317\u4e8c\u8def, \u5546\u90fd\u8def\u8857\u9053, \u5703\u7530\u4e61, \u7ba1\u57ce\u56de\u65cf\u533a, \u90d1\u5dde\u5e02, \u6cb3\u5357\u7701, 450046, China \u4e2d\u56fd"
+        ]
     },
     {
         "date": "2019/01/17",
@@ -3526,7 +4425,9 @@
         ],
         "workers": 150,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2019/01/18",
@@ -3557,7 +4458,16 @@
         "tags": [
             "sexism"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                37.53094035,
+                -122.2634054811483
+            ]
+        ],
+        "addresses": [
+            "Oracle, Oracle Parkway, Redwood Shores, Redwood City, San Mateo County, California, 94065, United States of America"
+        ]
     },
     {
         "date": "2019/02/01",
@@ -3586,7 +4496,9 @@
         ],
         "workers": 30,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2019/02/18",
@@ -3631,7 +4543,9 @@
         ],
         "workers": null,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2019/02/22",
@@ -3664,7 +4578,16 @@
         "tags": [
             "military_contracts"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                35.139622349999996,
+                -80.92306993327955
+            ]
+        ],
+        "addresses": [
+            "Microsoft, Yorkwood, Charlotte, Mecklenburg County, North Carolina, United States of America"
+        ]
     },
     {
         "date": "2019/02/27",
@@ -3696,7 +4619,21 @@
         "tags": [
             "students"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                37.4440869,
+                -122.16287540411753
+            ],
+            [
+                37.44422195,
+                -122.1625195
+            ]
+        ],
+        "addresses": [
+            "Palantir, University Avenue, Southgate, Palo Alto, Santa Clara County, California, 94301, United States of America",
+            "Salesforce IQ, Emerson Street, University South, Palo Alto, Santa Clara County, California, 94301, United States of America"
+        ]
     },
     {
         "date": "2019/03/04",
@@ -3728,7 +4665,16 @@
             "sexism",
             "child_care"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                47.6142939,
+                -122.3239636
+            ]
+        ],
+        "addresses": [
+            "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
+        ]
     },
     {
         "date": "2019/03/06",
@@ -3758,7 +4704,16 @@
         "companies": null,
         "workers": 16,
         "tags": null,
-        "author": "moates"
+        "author": "moates",
+        "latlngs": [
+            [
+                20.9670759,
+                -89.6237402
+            ]
+        ],
+        "addresses": [
+            "M\u00e9rida, Yucat\u00e1n, M\u00e9xico"
+        ]
     },
     {
         "date": "2019/03/19",
@@ -3788,7 +4743,16 @@
         ],
         "workers": null,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                40.7321996,
+                -73.9598257
+            ]
+        ],
+        "addresses": [
+            "Kickstarter HQ, West Street, Greenpoint, New York, Brooklyn, Kings County, New York, 11222, United States of America"
+        ]
     },
     {
         "date": "2019/03/25",
@@ -3818,7 +4782,9 @@
         ],
         "workers": 100,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2019/03/26",
@@ -3851,7 +4817,16 @@
             "academics",
             "law_enforcement"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                47.6142939,
+                -122.3239636
+            ]
+        ],
+        "addresses": [
+            "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
+        ]
     },
     {
         "date": "2019/03/28",
@@ -3881,7 +4856,16 @@
         "companies": null,
         "workers": 241000,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                35.000074,
+                104.999927
+            ]
+        ],
+        "addresses": [
+            "\u4e2d\u56fd"
+        ]
     },
     {
         "date": "2019/04/01",
@@ -3911,7 +4895,9 @@
         ],
         "workers": 3,
         "tags": null,
-        "author": "bentarnoff"
+        "author": "bentarnoff",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2019/04/01",
@@ -3945,7 +4931,16 @@
         "tags": [
             "ai"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                42.3627717,
+                -71.087257
+            ]
+        ],
+        "addresses": [
+            "Google, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+        ]
     },
     {
         "date": "2019/04/02",
@@ -3977,7 +4972,16 @@
         "tags": [
             "coworker_solidarity"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                42.3627717,
+                -71.087257
+            ]
+        ],
+        "addresses": [
+            "Google, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+        ]
     },
     {
         "date": "2019/04/04",
@@ -4008,7 +5012,16 @@
         "tags": [
             "sexism"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                47.5388725,
+                -122.2901728
+            ]
+        ],
+        "addresses": [
+            "Microsoft Gathering Hall, 32nd Avenue South, Columbia City, Holly Park, Seattle, King County, Washington, 98118, United States of America"
+        ]
     },
     {
         "date": "2019/04/10",
@@ -4041,7 +5054,16 @@
         "tags": [
             "climate_change"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                47.6142939,
+                -122.3239636
+            ]
+        ],
+        "addresses": [
+            "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
+        ]
     },
     {
         "date": "2019/04/17",
@@ -4073,7 +5095,21 @@
         ],
         "workers": null,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                41.14127715,
+                -77.46294984398486
+            ],
+            [
+                30.2691649,
+                -97.7455041
+            ]
+        ],
+        "addresses": [
+            "Instagram-Ferris_Joshua / Marycate.minnigh, Campus Drive, Sunset Pines, Lock Haven, Clinton County, Pennsylvania, 17745, United States of America",
+            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States of America"
+        ]
     },
     {
         "date": "2019/04/19",
@@ -4102,7 +5138,9 @@
         ],
         "workers": 10,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2019/04/22",
@@ -4142,7 +5180,21 @@
             "international_solidarity",
             "industry_solidarity"
         ],
-        "author": "bentarnoff"
+        "author": "bentarnoff",
+        "latlngs": [
+            [
+                35.139622349999996,
+                -80.92306993327955
+            ],
+            [
+                37.7821769,
+                -122.3912458
+            ]
+        ],
+        "addresses": [
+            "Microsoft, Yorkwood, Charlotte, Mecklenburg County, North Carolina, United States of America",
+            "GitHub, Colin P. Kelly Junior Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States of America"
+        ]
     },
     {
         "date": "2019/04/25",
@@ -4171,7 +5223,16 @@
         ],
         "workers": 1000,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                31.2969721,
+                121.1624993
+            ]
+        ],
+        "addresses": [
+            "Alibaba, \u660c\u5409\u8def, \u5b89\u4ead\u9547, \u5609\u5b9a\u533a, \u4e0a\u6d77\u5e02, 201805, China \u4e2d\u56fd"
+        ]
     },
     {
         "date": "2019/04/26",
@@ -4203,7 +5264,16 @@
         "tags": [
             "retaliation"
         ],
-        "author": "bentarnoff"
+        "author": "bentarnoff",
+        "latlngs": [
+            [
+                40.7417176,
+                -74.0041592
+            ]
+        ],
+        "addresses": [
+            "111, 8th Avenue, Manhattan, Manhattan Community Board 5, New York County, New York, 10011, United States of America"
+        ]
     },
     {
         "date": "2019/05/01",
@@ -4237,7 +5307,16 @@
         "tags": [
             "retaliation"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                42.3627717,
+                -71.087257
+            ]
+        ],
+        "addresses": [
+            "Google, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+        ]
     },
     {
         "date": "2019/05/08",
@@ -4268,7 +5347,16 @@
         "tags": [
             "retaliation"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                44.9696354,
+                -93.2884766
+            ]
+        ],
+        "addresses": [
+            "Wounded Amazon, Lyndale Avenue South, Loring Park, Minneapolis, Hennepin County, Minnesota, 55403, United States of America"
+        ]
     },
     {
         "date": "2019/05/08",
@@ -4299,7 +5387,21 @@
         "tags": [
             "moderators"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                30.2691649,
+                -97.7455041
+            ],
+            [
+                37.3339398,
+                -121.8895142
+            ]
+        ],
+        "addresses": [
+            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States of America",
+            "Accenture, West San Fernando Street, Downtown Historic District, Japantown, San Jose, Santa Clara County, California, 95110, United States of America"
+        ]
     },
     {
         "date": "2019/05/08",
@@ -4330,7 +5432,16 @@
         "tags": [
             "retaliation"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                42.3627717,
+                -71.087257
+            ]
+        ],
+        "addresses": [
+            "Google, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+        ]
     },
     {
         "date": "2019/05/09",
@@ -4364,7 +5475,16 @@
             "trade_wars",
             "trump"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                40.046504,
+                116.28356116115287
+            ]
+        ],
+        "addresses": [
+            "\u7532\u9aa8\u6587\u5927\u53a6, \u8f6f\u4ef6\u56ed\u4e09\u53f7\u8def, \u4e2d\u5173\u6751\u8f6f\u4ef6\u56ed, \u4e1c\u5317\u65fa\u6751, \u6d77\u6dc0\u533a, \u5317\u4eac\u5e02, 100093, China \u4e2d\u56fd"
+        ]
     },
     {
         "date": "2019/05/11",
@@ -4396,7 +5516,16 @@
             "industry_solidarity",
             "twc"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                37.4440869,
+                -122.16287540411753
+            ]
+        ],
+        "addresses": [
+            "Palantir, University Avenue, Southgate, Palo Alto, Santa Clara County, California, 94301, United States of America"
+        ]
     },
     {
         "date": "2019/05/22",
@@ -4428,7 +5557,16 @@
         "tags": [
             "climate_change"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                47.6142939,
+                -122.3239636
+            ]
+        ],
+        "addresses": [
+            "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
+        ]
     },
     {
         "date": "2019/05/27",
@@ -4458,7 +5596,9 @@
         ],
         "workers": 30,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2019/06/06",
@@ -4490,7 +5630,16 @@
             "students",
             "immigration"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                37.4440869,
+                -122.16287540411753
+            ]
+        ],
+        "addresses": [
+            "Palantir, University Avenue, Southgate, Palo Alto, Santa Clara County, California, 94301, United States of America"
+        ]
     },
     {
         "date": "2019/06/07",
@@ -4521,7 +5670,16 @@
         ],
         "workers": 50,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                37.484668049999996,
+                -122.1483654685629
+            ]
+        ],
+        "addresses": [
+            "Facebook, Bayfront Expressway, Belle Haven, Menlo Park, San Mateo County, California, 94025-1246, United States of America"
+        ]
     },
     {
         "date": "2019/06/12",
@@ -4555,7 +5713,16 @@
             "funding_raising",
             "twc"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                47.62913015,
+                -122.34138479964494
+            ]
+        ],
+        "addresses": [
+            "Facebook Westlake, Westlake Avenue North, Westlake, Seattle, King County, Washington, 98109, United States of America"
+        ]
     },
     {
         "date": "2019/06/13",
@@ -4583,7 +5750,9 @@
         ],
         "workers": 50,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2019/06/15",
@@ -4614,7 +5783,9 @@
         ],
         "workers": 1000,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2019/06/19",
@@ -4647,7 +5818,16 @@
             "coworker_solidarity",
             "sexism"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                37.40858695,
+                -122.02648926338104
+            ]
+        ],
+        "addresses": [
+            "1184, North Mathilda Avenue, Sunnyvale, Santa Clara County, California, 94089, United States of America"
+        ]
     },
     {
         "date": "2019/06/24",
@@ -4681,7 +5861,16 @@
         "tags": [
             "lgbtq"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                47.5388725,
+                -122.2901728
+            ]
+        ],
+        "addresses": [
+            "Microsoft Gathering Hall, 32nd Avenue South, Columbia City, Holly Park, Seattle, King County, Washington, 98118, United States of America"
+        ]
     },
     {
         "date": "2019/06/26",
@@ -4713,7 +5902,16 @@
         "tags": [
             "lgbtq"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                37.41897865,
+                -122.08237793989416
+            ]
+        ],
+        "addresses": [
+            "Google, Mountain View, Santa Clara County, California, United States of America"
+        ]
     },
     {
         "date": "2019/06/26",
@@ -4746,7 +5944,9 @@
         "tags": [
             "ice"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2019/06/30",
@@ -4779,7 +5979,16 @@
         "tags": [
             "lgtbq"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                37.41897865,
+                -122.08237793989416
+            ]
+        ],
+        "addresses": [
+            "Google, Mountain View, Santa Clara County, California, United States of America"
+        ]
     },
     {
         "date": "2019/07/10",
@@ -4811,7 +6020,9 @@
         ],
         "workers": 100,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2019/07/11",
@@ -4845,7 +6056,16 @@
             "twc",
             "mijente"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                40.722465,
+                -73.9977307
+            ]
+        ],
+        "addresses": [
+            "72, Spring Street, Little Italy, Manhattan, Manhattan Community Board 2, New York County, New York, 10013, United States of America"
+        ]
     },
     {
         "date": "2019/07/11",
@@ -4876,7 +6096,21 @@
         "tags": [
             "ice"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                47.6142939,
+                -122.3239636
+            ],
+            [
+                37.4440869,
+                -122.16287540411753
+            ]
+        ],
+        "addresses": [
+            "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America",
+            "Palantir, University Avenue, Southgate, Palo Alto, Santa Clara County, California, 94301, United States of America"
+        ]
     },
     {
         "date": "2019/07/13",
@@ -4906,7 +6140,9 @@
         ],
         "workers": 5,
         "tags": null,
-        "author": "moates"
+        "author": "moates",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2019/07/13",
@@ -4944,7 +6180,26 @@
         ],
         "workers": 20000,
         "tags": null,
-        "author": "moates"
+        "author": "moates",
+        "latlngs": [
+            [
+                19.42437,
+                -99.168218
+            ],
+            [
+                47.2269198,
+                8.8245459
+            ],
+            [
+                19.4326296,
+                -99.1331785
+            ]
+        ],
+        "addresses": [
+            "Uber, Calle Hamburgo, Ju\u00e1rez, Ciudad de M\u00e9xico, Cuauht\u00e9moc, Ciudad de M\u00e9xico, 06600, M\u00e9xico",
+            "Rapperswil, Wahlkreis See-Gaster, Sankt Gallen, 8640, Switzerland",
+            "Ciudad de M\u00e9xico, Cuauht\u00e9moc, Ciudad de M\u00e9xico, 06060, M\u00e9xico"
+        ]
     },
     {
         "date": "2019/07/15",
@@ -4975,7 +6230,16 @@
         ],
         "workers": 800,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                41.84040105,
+                -87.68351928672685
+            ]
+        ],
+        "addresses": [
+            "Amazon Distribution, South Western Avenue, Canalport, Lower West Side, Chicago, Cook County, Illinois, 60643, United States of America"
+        ]
     },
     {
         "date": "2019/07/15",
@@ -5009,7 +6273,16 @@
         "tags": [
             "coworker_solidarity"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                44.9696354,
+                -93.2884766
+            ]
+        ],
+        "addresses": [
+            "Wounded Amazon, Lyndale Avenue South, Loring Park, Minneapolis, Hennepin County, Minnesota, 55403, United States of America"
+        ]
     },
     {
         "date": "2019/07/16",
@@ -5041,7 +6314,9 @@
         ],
         "workers": 30,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2019/07/16",
@@ -5077,7 +6352,16 @@
             "unite_here",
             "coworker_solidarity"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                37.4815072,
+                -122.1572098
+            ]
+        ],
+        "addresses": [
+            "Facebook Way, Belle Haven, Menlo Park, San Mateo County, California, 94025-1246, United States of America"
+        ]
     },
     {
         "date": "2019/07/19",
@@ -5109,7 +6393,21 @@
         ],
         "workers": null,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                37.7899898,
+                -122.3999799
+            ],
+            [
+                37.7759881,
+                -122.3919991
+            ]
+        ],
+        "addresses": [
+            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+            "Lyft, Berry Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States of America"
+        ]
     },
     {
         "date": "2019/07/19",
@@ -5142,7 +6440,21 @@
         ],
         "workers": 40,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                37.7899898,
+                -122.3999799
+            ],
+            [
+                37.7759881,
+                -122.3919991
+            ]
+        ],
+        "addresses": [
+            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+            "Lyft, Berry Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States of America"
+        ]
     },
     {
         "date": "2019/07/23",
@@ -5169,7 +6481,16 @@
         ],
         "workers": 200,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                42.3627717,
+                -71.087257
+            ]
+        ],
+        "addresses": [
+            "Google, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+        ]
     },
     {
         "date": "2019/07/26",
@@ -5203,7 +6524,9 @@
         "tags": [
             "international_solidarity"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2019/07/26",
@@ -5235,7 +6558,16 @@
         ],
         "workers": null,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                48.1386201,
+                11.5776179
+            ]
+        ],
+        "addresses": [
+            "Google, Hofgraben, Bezirksteil Graggenau, Stadtbezirk 01 Altstadt-Lehel, M\u00fcnchen, Bayern, 80331, Deutschland"
+        ]
     },
     {
         "date": "2019/08/07",
@@ -5267,7 +6599,9 @@
             "industry_solidarity",
             "gun_violence"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2019/08/08",
@@ -5296,7 +6630,9 @@
         ],
         "workers": 80,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2019/08/12",
@@ -5329,7 +6665,21 @@
         ],
         "workers": null,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                47.6142939,
+                -122.3239636
+            ],
+            [
+                32.815940350000005,
+                -96.75223175473414
+            ]
+        ],
+        "addresses": [
+            "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America",
+            "WholeFoods, Abrams Road, Lakewood, Rawlins, Dallas, Dallas County, Texas, 75214:75243, United States of America"
+        ]
     },
     {
         "date": "2019/08/13",
@@ -5354,7 +6704,16 @@
         "companies": null,
         "workers": null,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                39.7837304,
+                -100.4458825
+            ]
+        ],
+        "addresses": [
+            "United States"
+        ]
     },
     {
         "date": "2019/08/14",
@@ -5385,7 +6744,16 @@
         ],
         "workers": 600,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                42.3627717,
+                -71.087257
+            ]
+        ],
+        "addresses": [
+            "Google, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+        ]
     },
     {
         "date": "2019/08/14",
@@ -5414,7 +6782,21 @@
         ],
         "workers": null,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                65.4102317,
+                -163.0526448
+            ],
+            [
+                30.4422494,
+                -84.32472631122516
+            ]
+        ],
+        "addresses": [
+            "Caviar Creek, Nome, Alaska, United States of America",
+            "The Square, Zion Hill, Tallahassee, Leon County, Florida, United States of America"
+        ]
     },
     {
         "date": "2019/08/22",
@@ -5446,7 +6828,16 @@
             "immigration",
             "ice"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                37.4440869,
+                -122.16287540411753
+            ]
+        ],
+        "addresses": [
+            "Palantir, University Avenue, Southgate, Palo Alto, Santa Clara County, California, 94301, United States of America"
+        ]
     },
     {
         "date": "2019/08/22",
@@ -5483,7 +6874,21 @@
         ],
         "workers": 200,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                37.7899898,
+                -122.3999799
+            ],
+            [
+                37.7759881,
+                -122.3919991
+            ]
+        ],
+        "addresses": [
+            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+            "Lyft, Berry Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States of America"
+        ]
     },
     {
         "date": "2019/08/30",
@@ -5513,7 +6918,9 @@
         ],
         "workers": 90,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2019/09/04",
@@ -5543,7 +6950,9 @@
         ],
         "workers": 140,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2019/09/05",
@@ -5574,7 +6983,16 @@
         ],
         "workers": null,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                37.7753423,
+                -122.39763106771915
+            ]
+        ],
+        "addresses": [
+            "UserTesting, 5th Street, South of Market, San Francisco, San Francisco City and County, California, 94017, United States of America"
+        ]
     },
     {
         "date": "2019/09/07",
@@ -5602,7 +7020,9 @@
         ],
         "workers": 12,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2019/09/09",
@@ -5639,7 +7059,16 @@
             "climate_strike",
             "climate_change"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                47.6142939,
+                -122.3239636
+            ]
+        ],
+        "addresses": [
+            "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
+        ]
     },
     {
         "date": "2019/09/12",
@@ -5672,7 +7101,9 @@
         "tags": [
             "coronavirus"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2019/09/13",
@@ -5700,7 +7131,9 @@
         ],
         "workers": 400,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2019/09/16",
@@ -5733,7 +7166,16 @@
             "ice",
             "mijente"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                37.4440869,
+                -122.16287540411753
+            ]
+        ],
+        "addresses": [
+            "Palantir, University Avenue, Southgate, Palo Alto, Santa Clara County, California, 94301, United States of America"
+        ]
     },
     {
         "date": "2019/09/17",
@@ -5768,7 +7210,16 @@
             "climate_strike",
             "climate_change"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                42.3627717,
+                -71.087257
+            ]
+        ],
+        "addresses": [
+            "Google, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+        ]
     },
     {
         "date": "2019/09/18",
@@ -5805,7 +7256,16 @@
             "climate_strike",
             "climate_change"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                47.5388725,
+                -122.2901728
+            ]
+        ],
+        "addresses": [
+            "Microsoft Gathering Hall, 32nd Avenue South, Columbia City, Holly Park, Seattle, King County, Washington, 98118, United States of America"
+        ]
     },
     {
         "date": "2019/09/19",
@@ -5836,7 +7296,16 @@
             "immigration",
             "ice"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                39.284749399999995,
+                -76.62047463969989
+            ]
+        ],
+        "addresses": [
+            "Baltimore, Maryland, United States of America"
+        ]
     },
     {
         "date": "2019/09/23",
@@ -5866,7 +7335,16 @@
         ],
         "workers": 45,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                42.3627717,
+                -71.087257
+            ]
+        ],
+        "addresses": [
+            "Google, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+        ]
     },
     {
         "date": "2019/09/25",
@@ -5902,7 +7380,16 @@
             "immigration",
             "ice"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                41.5286839,
+                -71.2330488
+            ]
+        ],
+        "addresses": [
+            "Amazon Drive, South Portsmouth, Portsmouth, Rhode Island, United States of America"
+        ]
     },
     {
         "date": "2019/09/25",
@@ -5934,7 +7421,9 @@
         ],
         "workers": 73,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2019/09/26",
@@ -5968,7 +7457,9 @@
             "immigration",
             "ice"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2019/09/26",
@@ -6000,7 +7491,16 @@
         ],
         "workers": 400,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                37.484668049999996,
+                -122.1483654685629
+            ]
+        ],
+        "addresses": [
+            "Facebook, Bayfront Expressway, Belle Haven, Menlo Park, San Mateo County, California, 94025-1246, United States of America"
+        ]
     },
     {
         "date": "2019/09/28",
@@ -6028,7 +7528,16 @@
         ],
         "workers": null,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                51.5314216,
+                -0.1113624
+            ]
+        ],
+        "addresses": [
+            "Deliveroo, Pentonville Road, Angel, Pentonville, London Borough of Islington, London, Greater London, England, N1 9JB, United Kingdom"
+        ]
     },
     {
         "date": "2019/09/30",
@@ -6059,7 +7568,16 @@
         ],
         "workers": 78,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                38.6767343,
+                -121.4948028
+            ]
+        ],
+        "addresses": [
+            "Amazon Avenue, Sacramento, Sacramento County, California, 95835, United States of America"
+        ]
     },
     {
         "date": "2019/10/02",
@@ -6089,7 +7607,16 @@
         ],
         "workers": null,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                40.7321996,
+                -73.9598257
+            ]
+        ],
+        "addresses": [
+            "Kickstarter HQ, West Street, Greenpoint, New York, Brooklyn, Kings County, New York, 11222, United States of America"
+        ]
     },
     {
         "date": "2019/10/02",
@@ -6123,7 +7650,16 @@
             "mijente",
             "academics"
         ],
-        "author": "moates"
+        "author": "moates",
+        "latlngs": [
+            [
+                40.4441619,
+                -79.942728259225
+            ]
+        ],
+        "addresses": [
+            "Carnegie Mellon University, Holyrood Road, Squirrel Hill North, Pittsburgh, Allegheny County, Pennsylvania, 15213, United States of America"
+        ]
     },
     {
         "date": "2019/10/03",
@@ -6153,7 +7689,9 @@
         ],
         "workers": 60,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2019/10/03",
@@ -6188,7 +7726,21 @@
         "tags": [
             "ice"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                37.7821769,
+                -122.3912458
+            ],
+            [
+                35.139622349999996,
+                -80.92306993327955
+            ]
+        ],
+        "addresses": [
+            "GitHub, Colin P. Kelly Junior Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States of America",
+            "Microsoft, Yorkwood, Charlotte, Mecklenburg County, North Carolina, United States of America"
+        ]
     },
     {
         "date": "2019/10/03",
@@ -6217,7 +7769,9 @@
         ],
         "workers": 17,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2019/10/04",
@@ -6251,7 +7805,16 @@
             "ice",
             "industry_solidarity"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                35.139622349999996,
+                -80.92306993327955
+            ]
+        ],
+        "addresses": [
+            "Microsoft, Yorkwood, Charlotte, Mecklenburg County, North Carolina, United States of America"
+        ]
     },
     {
         "date": "2019/10/21",
@@ -6281,7 +7844,16 @@
         ],
         "workers": 40,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                47.3798034,
+                8.5297304
+            ]
+        ],
+        "addresses": [
+            "Google, Lagerstrasse, Langstrasse, Aussersihl, Z\u00fcrich, Bezirk Z\u00fcrich, Z\u00fcrich, 8021, Switzerland"
+        ]
     },
     {
         "date": "2019/10/28",
@@ -6312,7 +7884,16 @@
         ],
         "workers": 251,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                30.2691649,
+                -97.7455041
+            ]
+        ],
+        "addresses": [
+            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States of America"
+        ]
     },
     {
         "date": "2019/10/29",
@@ -6346,7 +7927,16 @@
             "ice",
             "immigration"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                47.6476152,
+                -122.3383842
+            ]
+        ],
+        "addresses": [
+            "Tableau Software - NorthEdge, North 34th Street, Eastlake, Fremont, Seattle, King County, Washington, 98103, United States of America"
+        ]
     },
     {
         "date": "2019/11/01",
@@ -6374,7 +7964,9 @@
         ],
         "workers": 212,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2019/11/03",
@@ -6402,7 +7994,9 @@
         ],
         "workers": 1000,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2019/11/04",
@@ -6434,7 +8028,9 @@
             "ice",
             "climate_change"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2019/11/06",
@@ -6477,7 +8073,21 @@
         "tags": [
             "drivers"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                37.7899898,
+                -122.3999799
+            ],
+            [
+                37.7759881,
+                -122.3919991
+            ]
+        ],
+        "addresses": [
+            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+            "Lyft, Berry Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States of America"
+        ]
     },
     {
         "date": "2019/11/06",
@@ -6506,7 +8116,9 @@
         "tags": [
             "us_china_conflict"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2019/11/08",
@@ -6539,7 +8151,9 @@
         "tags": [
             "coworker_solidarity"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2019/11/13",
@@ -6572,7 +8186,21 @@
             "immigration",
             "ice"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                37.7821769,
+                -122.3912458
+            ],
+            [
+                37.41096725,
+                -122.07138737347663
+            ]
+        ],
+        "addresses": [
+            "GitHub, Colin P. Kelly Junior Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States of America",
+            "Microsoft Silicon Valley, Mountain View, Santa Clara County, California, United States of America"
+        ]
     },
     {
         "date": "2019/11/19",
@@ -6604,7 +8232,16 @@
             "coworker_solidartiry",
             "retaliation"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                37.41897865,
+                -122.08237793989416
+            ]
+        ],
+        "addresses": [
+            "Google, Mountain View, Santa Clara County, California, United States of America"
+        ]
     },
     {
         "date": "2019/11/20",
@@ -6644,7 +8281,21 @@
         "tags": [
             "unite_here"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                37.41897865,
+                -122.08237793989416
+            ],
+            [
+                37.41897865,
+                -122.08237793989416
+            ]
+        ],
+        "addresses": [
+            "Google, Mountain View, Santa Clara County, California, United States of America",
+            "Google, Mountain View, Santa Clara County, California, United States of America"
+        ]
     },
     {
         "date": "2019/11/22",
@@ -6676,7 +8327,16 @@
         "tags": [
             "coworker_solidarity"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                37.41897865,
+                -122.08237793989416
+            ]
+        ],
+        "addresses": [
+            "Google, Mountain View, Santa Clara County, California, United States of America"
+        ]
     },
     {
         "date": "2019/11/25",
@@ -6710,7 +8370,16 @@
         ],
         "workers": 600,
         "tags": null,
-        "author": "ericandrewlewis"
+        "author": "ericandrewlewis",
+        "latlngs": [
+            [
+                40.6193387,
+                -74.0727749
+            ]
+        ],
+        "addresses": [
+            "Amazon Court, Clifton, Todt Hill, New York, Staten Island, Richmond County, New York, 10304, United States of America"
+        ]
     },
     {
         "date": "2019/11/29",
@@ -6762,7 +8431,41 @@
         "tags": [
             "ice"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                50.8523727,
+                9.7311825
+            ],
+            [
+                51.3622584,
+                12.452329749225527
+            ],
+            [
+                50.3465747,
+                7.4912868
+            ],
+            [
+                51.5369716,
+                6.5877929
+            ],
+            [
+                51.653494949999995,
+                7.59464606445661
+            ],
+            [
+                48.198871499999996,
+                10.848663796329923
+            ]
+        ],
+        "addresses": [
+            "Amazon-Stra\u00dfe, Hohe Luft, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
+            "Amazon, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland",
+            "Amazon stra\u00dfe, Industriepark A61/GVZ Koblenz, R\u00fcbenach, Koblenz, Rheinland-Pfalz, 56330, Deutschland",
+            "Amazon, Amazonstra\u00dfe, Winterswick, Rheinberg, Kreis Wesel, Nordrhein-Westfalen, 47495, Deutschland",
+            "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
+            "Amazon-Logistikzentrum, Graben, Landkreis Augsburg, Bayern, 86836, Deutschland"
+        ]
     },
     {
         "date": "2019/11/29",
@@ -6801,7 +8504,21 @@
         "tags": [
             "ice"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                52.75329925,
+                -1.9215828894833442
+            ],
+            [
+                52.542566050000005,
+                -0.2383390628291427
+            ]
+        ],
+        "addresses": [
+            "Amazon.co.uk, Towers Business Park, Brereton and Ravenhill, Cannock Chase, Staffordshire, West Midlands, England, WS15 1LX, United Kingdom",
+            "Amazon, Flaxley Road, Old Fletton, Peterborough, City of Peterborough, East of England, England, PE2 9EN, United Kingdom"
+        ]
     },
     {
         "date": "2019/12/03",
@@ -6833,7 +8550,16 @@
         "tags": [
             "retaliation"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                42.3627717,
+                -71.087257
+            ]
+        ],
+        "addresses": [
+            "Google, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+        ]
     },
     {
         "date": "2019/12/03",
@@ -6862,7 +8588,16 @@
         ],
         "workers": 200,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                38.6767343,
+                -121.4948028
+            ]
+        ],
+        "addresses": [
+            "Amazon Avenue, Sacramento, Sacramento County, California, 95835, United States of America"
+        ]
     },
     {
         "date": "2019/12/04",
@@ -6894,7 +8629,9 @@
             "immigration",
             "ice"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2019/12/10",
@@ -6924,7 +8661,16 @@
         ],
         "workers": 40,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                41.84040105,
+                -87.68351928672685
+            ]
+        ],
+        "addresses": [
+            "Amazon Distribution, South Western Avenue, Canalport, Lower West Side, Chicago, Cook County, Illinois, 60643, United States of America"
+        ]
     },
     {
         "date": "2019/12/12",
@@ -6957,7 +8703,16 @@
         "tags": [
             "teamster"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                37.7841938,
+                -122.3992122
+            ]
+        ],
+        "addresses": [
+            "SPiN SF, Folsom Street, South of Market, San Francisco, San Francisco City and County, California, 94105, United States of America"
+        ]
     },
     {
         "date": "2019/12/13",
@@ -6985,7 +8740,9 @@
         ],
         "workers": null,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2019/12/19",
@@ -7013,7 +8770,9 @@
         "tags": [
             "international_solidarity"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2019/12/23",
@@ -7043,7 +8802,16 @@
         ],
         "workers": 36,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                38.6767343,
+                -121.4948028
+            ]
+        ],
+        "addresses": [
+            "Amazon Avenue, Sacramento, Sacramento County, California, 95835, United States of America"
+        ]
     },
     {
         "date": "2019/12/23",
@@ -7072,7 +8840,16 @@
         ],
         "workers": 36,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                38.6767343,
+                -121.4948028
+            ]
+        ],
+        "addresses": [
+            "Amazon Avenue, Sacramento, Sacramento County, California, 95835, United States of America"
+        ]
     },
     {
         "date": "2020/01/13",
@@ -7103,7 +8880,9 @@
         ],
         "workers": null,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2020/01/26",
@@ -7133,7 +8912,9 @@
         "tags": [
             "climate_change"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2020/02/03",
@@ -7164,7 +8945,9 @@
         ],
         "workers": 10,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2020/02/03",
@@ -7191,7 +8974,9 @@
         ],
         "workers": 3,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2020/02/05",
@@ -7220,7 +9005,21 @@
         ],
         "workers": 101,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                37.7899898,
+                -122.3999799
+            ],
+            [
+                37.7759881,
+                -122.3919991
+            ]
+        ],
+        "addresses": [
+            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+            "Lyft, Berry Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States of America"
+        ]
     },
     {
         "date": "2020/02/09",
@@ -7251,7 +9050,9 @@
             "climate_change",
             "ai"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2020/02/12",
@@ -7282,7 +9083,9 @@
         ],
         "workers": 2000,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2020/02/14",
@@ -7314,7 +9117,9 @@
         "tags": [
             "trump"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2020/02/18",
@@ -7346,7 +9151,16 @@
         "tags": [
             "opeiu"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                40.7321996,
+                -73.9598257
+            ]
+        ],
+        "addresses": [
+            "Kickstarter HQ, West Street, Greenpoint, New York, Brooklyn, Kings County, New York, 11222, United States of America"
+        ]
     },
     {
         "date": "2020/02/20",
@@ -7379,7 +9193,16 @@
         ],
         "workers": 300,
         "tags": null,
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                32.6099702,
+                -110.7651843
+            ]
+        ],
+        "addresses": [
+            "Oracle, Pinal County, Arizona, 85623, United States of America"
+        ]
     },
     {
         "date": "2020/02/29",
@@ -7421,7 +9244,26 @@
         ],
         "workers": 1260,
         "tags": null,
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                40.722465,
+                -73.9977307
+            ],
+            [
+                42.0174292,
+                -87.71964605734546
+            ],
+            [
+                38.6767343,
+                -121.4948028
+            ]
+        ],
+        "addresses": [
+            "72, Spring Street, Little Italy, Manhattan, Manhattan Community Board 2, New York County, New York, 10013, United States of America",
+            "3639, West Howard Street, Skokie, Cook County, Illinois, 60076, United States of America",
+            "Amazon Avenue, Sacramento, Sacramento County, California, 95835, United States of America"
+        ]
     },
     {
         "date": "2020/03/06",
@@ -7460,7 +9302,21 @@
         "tags": [
             "coronavirus"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                37.7899898,
+                -122.3999799
+            ],
+            [
+                37.7759881,
+                -122.3919991
+            ]
+        ],
+        "addresses": [
+            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+            "Lyft, Berry Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States of America"
+        ]
     },
     {
         "date": "2020/03/12",
@@ -7496,7 +9352,16 @@
             "fund_raising",
             "coronavirus"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                35.2960341,
+                -120.6532192
+            ]
+        ],
+        "addresses": [
+            "Slack Street, San Luis Obispo, San Luis Obispo County, California, 93410, United States of America"
+        ]
     },
     {
         "date": "2020/03/13",
@@ -7527,7 +9392,9 @@
         ],
         "workers": null,
         "tags": null,
-        "author": "organizjes"
+        "author": "organizjes",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2020/03/17",
@@ -7561,7 +9428,9 @@
             "coworker_solidarity",
             "coronavirus"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2020/03/17",
@@ -7596,7 +9465,16 @@
             "coworker_solidarity",
             "coronavirus"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                42.3627717,
+                -71.087257
+            ]
+        ],
+        "addresses": [
+            "Google, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+        ]
     },
     {
         "date": "2020/03/17",
@@ -7630,7 +9508,16 @@
             "coronavirus",
             "coworker_solidarity"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                40.722465,
+                -73.9977307
+            ]
+        ],
+        "addresses": [
+            "72, Spring Street, Little Italy, Manhattan, Manhattan Community Board 2, New York County, New York, 10013, United States of America"
+        ]
     },
     {
         "date": "2020/03/17",
@@ -7669,7 +9556,21 @@
             "coworker_solidarity",
             "coronavirus"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                47.9619318,
+                1.8440185793930501
+            ],
+            [
+                48.837679,
+                2.3909358
+            ]
+        ],
+        "addresses": [
+            "Amazon.fr ORY1, Rue de l'Olivier, Deret Logistique, Saran, Orl\u00e9ans, Loiret, Centre-Val de Loire, France m\u00e9tropolitaine, 45770, France",
+            "Amazon, Rue de Charenton, Quartier de Bercy, Paris, \u00cele-de-France, France m\u00e9tropolitaine, 75012, France"
+        ]
     },
     {
         "date": "2020/03/18",
@@ -7703,7 +9604,16 @@
         "tags": [
             "coronavirus"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                47.6142939,
+                -122.3239636
+            ]
+        ],
+        "addresses": [
+            "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
+        ]
     },
     {
         "date": "2020/03/19",
@@ -7737,7 +9647,16 @@
             "immigration",
             "coronavirus"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                37.41096725,
+                -122.07138737347663
+            ]
+        ],
+        "addresses": [
+            "Microsoft Silicon Valley, Mountain View, Santa Clara County, California, United States of America"
+        ]
     },
     {
         "date": "2020/03/19",
@@ -7782,7 +9701,31 @@
         "tags": [
             "coronavirus"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                37.7759881,
+                -122.3919991
+            ],
+            [
+                37.7899898,
+                -122.3999799
+            ],
+            [
+                32.771334,
+                -117.0673605
+            ],
+            [
+                32.771334,
+                -117.0673605
+            ]
+        ],
+        "addresses": [
+            "Lyft, Berry Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States of America",
+            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+            "Uber / Lyft Driver Drop Off, East Campus Drive, Montezuma Mesa, San Diego, San Diego County, California, 92182, United States of America",
+            "Uber / Lyft Driver Drop Off, East Campus Drive, Montezuma Mesa, San Diego, San Diego County, California, 92182, United States of America"
+        ]
     },
     {
         "date": "2020/03/19",
@@ -7818,7 +9761,16 @@
         "tags": [
             "coronavirus"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                51.3540073,
+                11.4415021
+            ]
+        ],
+        "addresses": [
+            "\u00dcber den Querst\u00fccken, Querfurt, Saalekreis, Sachsen-Anhalt, Deutschland"
+        ]
     },
     {
         "date": "2020/03/19",
@@ -7849,7 +9801,16 @@
             "coworker_solidarity",
             "international_solidarity"
         ],
-        "author": "organizejs"
+        "author": "organizejs",
+        "latlngs": [
+            [
+                42.3627717,
+                -71.087257
+            ]
+        ],
+        "addresses": [
+            "Google, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+        ]
     },
     {
         "date": "2020/03/22",
@@ -7885,7 +9846,16 @@
         "tags": [
             "coronavirus"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                40.6193387,
+                -74.0727749
+            ]
+        ],
+        "addresses": [
+            "Amazon Court, Clifton, Todt Hill, New York, Staten Island, Richmond County, New York, 10304, United States of America"
+        ]
     },
     {
         "date": "2020/03/30",
@@ -7919,7 +9889,16 @@
         "tags": [
             "coronavirus"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                47.6142939,
+                -122.3239636
+            ]
+        ],
+        "addresses": [
+            "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
+        ]
     },
     {
         "date": "2020/03/30",
@@ -7955,7 +9934,9 @@
         "tags": [
             "coronavirus"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2020/03/31",
@@ -7986,7 +9967,16 @@
         "tags": [
             "coronavirus"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                47.6142939,
+                -122.3239636
+            ]
+        ],
+        "addresses": [
+            "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
+        ]
     },
     {
         "date": "2020/03/31",
@@ -8022,7 +10012,16 @@
         "tags": [
             "coronavirus"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                41.84040105,
+                -87.68351928672685
+            ]
+        ],
+        "addresses": [
+            "Amazon Distribution, South Western Avenue, Canalport, Lower West Side, Chicago, Cook County, Illinois, 60643, United States of America"
+        ]
     },
     {
         "date": "2020/04/04",
@@ -8058,7 +10057,16 @@
         "tags": [
             "coronavirus"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                40.6193387,
+                -74.0727749
+            ]
+        ],
+        "addresses": [
+            "Amazon Court, Clifton, Todt Hill, New York, Staten Island, Richmond County, New York, 10304, United States of America"
+        ]
     },
     {
         "date": "2020/04/06",
@@ -8093,7 +10101,16 @@
         "tags": [
             "coronavirus"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                40.722465,
+                -73.9977307
+            ]
+        ],
+        "addresses": [
+            "72, Spring Street, Little Italy, Manhattan, Manhattan Community Board 2, New York County, New York, 10013, United States of America"
+        ]
     },
     {
         "date": "2020/04/10",
@@ -8127,7 +10144,9 @@
         "tags": [
             "coronavirus"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2020/04/13",
@@ -8163,7 +10182,9 @@
             "coworker_solidarity",
             "coronavirus"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2020/04/20",
@@ -8195,7 +10216,9 @@
             "coronavirus",
             "surveillance"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": null,
+        "addresses": null
     },
     {
         "date": "2020/04/21",
@@ -8228,7 +10251,16 @@
         "tags": [
             "coronavirus"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                47.6142939,
+                -122.3239636
+            ]
+        ],
+        "addresses": [
+            "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
+        ]
     },
     {
         "date": "2020/04/24",
@@ -8260,7 +10292,16 @@
         "tags": [
             "na"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                22.652495950000002,
+                114.05589115565374
+            ]
+        ],
+        "addresses": [
+            "\u534e\u4e3a\u6280\u672f\u6709\u9650\u516c\u53f8, \u96ea\u8c61\u6751, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518100, China \u4e2d\u56fd"
+        ]
     },
     {
         "date": "2020/04/26",
@@ -8293,6 +10334,15 @@
         "tags": [
             "coronavirus"
         ],
-        "author": "nataliyaned"
+        "author": "nataliyaned",
+        "latlngs": [
+            [
+                44.80059945,
+                -93.48865500885567
+            ]
+        ],
+        "addresses": [
+            "Amazon Fullfillment Center MSP1, 4th Avenue East, Valley Haven Mobile Home Park, Shakopee, Scott County, Minnesota, 55379, United States of America"
+        ]
     }
 ]

@@ -30,5 +30,14 @@
         "funding_raising",
         "twc"
     ],
-    "author": "organizejs"
+    "author": "organizejs",
+    "latlngs": [
+        [
+            47.62913015,
+            -122.34138479964494
+        ]
+    ],
+    "addresses": [
+        "Facebook Westlake, Westlake Avenue North, Westlake, Seattle, King County, Washington, 98109, United States of America"
+    ]
 }

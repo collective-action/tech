@@ -26,5 +26,14 @@
     "companies": null,
     "workers": 241000,
     "tags": null,
-    "author": "organizejs"
+    "author": "organizejs",
+    "latlngs": [
+        [
+            35.000074,
+            104.999927
+        ]
+    ],
+    "addresses": [
+        "\u4e2d\u56fd"
+    ]
 }

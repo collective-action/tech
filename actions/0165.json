@@ -28,5 +28,14 @@
     ],
     "workers": null,
     "tags": null,
-    "author": "nataliyaned"
+    "author": "nataliyaned",
+    "latlngs": [
+        [
+            48.1386201,
+            11.5776179
+        ]
+    ],
+    "addresses": [
+        "Google, Hofgraben, Bezirksteil Graggenau, Stadtbezirk 01 Altstadt-Lehel, M\u00fcnchen, Bayern, 80331, Deutschland"
+    ]
 }

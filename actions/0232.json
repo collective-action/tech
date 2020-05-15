@@ -29,5 +29,14 @@
     ],
     "workers": 300,
     "tags": null,
-    "author": "organizejs"
+    "author": "organizejs",
+    "latlngs": [
+        [
+            32.6099702,
+            -110.7651843
+        ]
+    ],
+    "addresses": [
+        "Oracle, Pinal County, Arizona, 85623, United States of America"
+    ]
 }

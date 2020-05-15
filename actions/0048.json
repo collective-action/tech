@@ -29,5 +29,14 @@
     "tags": [
         "seiu"
     ],
-    "author": "organizejs"
+    "author": "organizejs",
+    "latlngs": [
+        [
+            40.7189373,
+            -74.0020369
+        ]
+    ],
+    "addresses": [
+        "WeWork, Broadway, SoHo, Manhattan, Manhattan Community Board 2, New York County, New York, 10003, United States of America"
+    ]
 }

@@ -29,5 +29,14 @@
     ],
     "workers": null,
     "tags": null,
-    "author": "nataliyaned"
+    "author": "nataliyaned",
+    "latlngs": [
+        [
+            41.593329749999995,
+            -83.08084569825326
+        ]
+    ],
+    "addresses": [
+        "Davis-Besse Nuclear Power Station, Locust Point, Carroll Township, Ottawa County, Ohio, United States of America"
+    ]
 }

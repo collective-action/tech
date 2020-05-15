@@ -29,5 +29,14 @@
         "coworker_solidarity",
         "sexism"
     ],
-    "author": "organizejs"
+    "author": "organizejs",
+    "latlngs": [
+        [
+            37.40858695,
+            -122.02648926338104
+        ]
+    ],
+    "addresses": [
+        "1184, North Mathilda Avenue, Sunnyvale, Santa Clara County, California, 94089, United States of America"
+    ]
 }

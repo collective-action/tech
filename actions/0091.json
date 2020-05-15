@@ -28,5 +28,14 @@
     "tags": [
         "cbp"
     ],
-    "author": "organizejs"
+    "author": "organizejs",
+    "latlngs": [
+        [
+            45.5328206,
+            -122.9032132
+        ]
+    ],
+    "addresses": [
+        "Salesforce, Northeast Cornelius Pass Road, Orenco, Hillsboro, Washington County, Oregon, 97124, United States of America"
+    ]
 }

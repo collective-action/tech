@@ -23,5 +23,14 @@
     ],
     "workers": 373,
     "tags": null,
-    "author": "nataliyaned"
+    "author": "nataliyaned",
+    "latlngs": [
+        [
+            65.4102317,
+            -163.0526448
+        ]
+    ],
+    "addresses": [
+        "Caviar Creek, Nome, Alaska, United States of America"
+    ]
 }

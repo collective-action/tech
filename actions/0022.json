@@ -24,5 +24,14 @@
     "companies": null,
     "workers": null,
     "tags": null,
-    "author": "nataliyaned"
+    "author": "nataliyaned",
+    "latlngs": [
+        [
+            25.0375198,
+            121.5636796
+        ]
+    ],
+    "addresses": [
+        "\u81fa\u5317\u5e02, \u4fe1\u7fa9\u5340, \u81fa\u5317\u5e02, 11008, Taiwan"
+    ]
 }

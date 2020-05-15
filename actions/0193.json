@@ -30,5 +30,14 @@
         "mijente",
         "academics"
     ],
-    "author": "moates"
+    "author": "moates",
+    "latlngs": [
+        [
+            40.4441619,
+            -79.942728259225
+        ]
+    ],
+    "addresses": [
+        "Carnegie Mellon University, Holyrood Road, Squirrel Hill North, Pittsburgh, Allegheny County, Pennsylvania, 15213, United States of America"
+    ]
 }

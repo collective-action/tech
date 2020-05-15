@@ -26,5 +26,14 @@
     ],
     "workers": 40,
     "tags": null,
-    "author": "nataliyaned"
+    "author": "nataliyaned",
+    "latlngs": [
+        [
+            47.3798034,
+            8.5297304
+        ]
+    ],
+    "addresses": [
+        "Google, Lagerstrasse, Langstrasse, Aussersihl, Z\u00fcrich, Bezirk Z\u00fcrich, Z\u00fcrich, 8021, Switzerland"
+    ]
 }

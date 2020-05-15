@@ -32,5 +32,19 @@
     "tags": [
         "technicians"
     ],
-    "author": "organizejs"
+    "author": "organizejs",
+    "latlngs": [
+        [
+            33.80967965,
+            -117.83605415
+        ],
+        [
+            39.5276588,
+            -119.862383
+        ]
+    ],
+    "addresses": [
+        "AT&T, North Tustin Street, McPherson, Orange, Orange County, California, 92867, United States of America",
+        "AT&T, North McCarran Boulevard, Edgewater, West Reno, Reno, Washoe County, Nevada, 89523, United States of America"
+    ]
 }

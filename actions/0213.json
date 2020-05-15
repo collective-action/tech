@@ -35,5 +35,19 @@
     "tags": [
         "ice"
     ],
-    "author": "organizejs"
+    "author": "organizejs",
+    "latlngs": [
+        [
+            52.75329925,
+            -1.9215828894833442
+        ],
+        [
+            52.542566050000005,
+            -0.2383390628291427
+        ]
+    ],
+    "addresses": [
+        "Amazon.co.uk, Towers Business Park, Brereton and Ravenhill, Cannock Chase, Staffordshire, West Midlands, England, WS15 1LX, United Kingdom",
+        "Amazon, Flaxley Road, Old Fletton, Peterborough, City of Peterborough, East of England, England, PE2 9EN, United Kingdom"
+    ]
 }

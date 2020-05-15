@@ -23,5 +23,14 @@
     ],
     "workers": 14,
     "tags": null,
-    "author": "nataliyaned"
+    "author": "nataliyaned",
+    "latlngs": [
+        [
+            45.5733162,
+            -122.5587111463347
+        ]
+    ],
+    "addresses": [
+        "10025, Northeast Cascades Parkway, Portland, Multnomah County, Oregon, 97220, United States of America"
+    ]
 }

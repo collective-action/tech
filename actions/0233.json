@@ -38,5 +38,24 @@
     ],
     "workers": 1260,
     "tags": null,
-    "author": "nataliyaned"
+    "author": "nataliyaned",
+    "latlngs": [
+        [
+            40.722465,
+            -73.9977307
+        ],
+        [
+            42.0174292,
+            -87.71964605734546
+        ],
+        [
+            38.6767343,
+            -121.4948028
+        ]
+    ],
+    "addresses": [
+        "72, Spring Street, Little Italy, Manhattan, Manhattan Community Board 2, New York County, New York, 10013, United States of America",
+        "3639, West Howard Street, Skokie, Cook County, Illinois, 60076, United States of America",
+        "Amazon Avenue, Sacramento, Sacramento County, California, 95835, United States of America"
+    ]
 }

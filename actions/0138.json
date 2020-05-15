@@ -30,5 +30,14 @@
         "trade_wars",
         "trump"
     ],
-    "author": "organizejs"
+    "author": "organizejs",
+    "latlngs": [
+        [
+            40.046504,
+            116.28356116115287
+        ]
+    ],
+    "addresses": [
+        "\u7532\u9aa8\u6587\u5927\u53a6, \u8f6f\u4ef6\u56ed\u4e09\u53f7\u8def, \u4e2d\u5173\u6751\u8f6f\u4ef6\u56ed, \u4e1c\u5317\u65fa\u6751, \u6d77\u6dc0\u533a, \u5317\u4eac\u5e02, 100093, China \u4e2d\u56fd"
+    ]
 }

@@ -24,5 +24,7 @@
     ],
     "workers": 1000,
     "tags": null,
-    "author": "nataliyaned"
+    "author": "nataliyaned",
+    "latlngs": null,
+    "addresses": null
 }

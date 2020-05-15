@@ -29,5 +29,14 @@
     "tags": [
         "teamster"
     ],
-    "author": "organizejs"
+    "author": "organizejs",
+    "latlngs": [
+        [
+            37.7841938,
+            -122.3992122
+        ]
+    ],
+    "addresses": [
+        "SPiN SF, Folsom Street, South of Market, San Francisco, San Francisco City and County, California, 94105, United States of America"
+    ]
 }

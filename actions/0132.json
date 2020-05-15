@@ -25,5 +25,14 @@
     ],
     "workers": 1000,
     "tags": null,
-    "author": "organizejs"
+    "author": "organizejs",
+    "latlngs": [
+        [
+            31.2969721,
+            121.1624993
+        ]
+    ],
+    "addresses": [
+        "Alibaba, \u660c\u5409\u8def, \u5b89\u4ead\u9547, \u5609\u5b9a\u533a, \u4e0a\u6d77\u5e02, 201805, China \u4e2d\u56fd"
+    ]
 }

@@ -26,5 +26,19 @@
     ],
     "workers": null,
     "tags": null,
-    "author": "nataliyaned"
+    "author": "nataliyaned",
+    "latlngs": [
+        [
+            37.3771412,
+            -122.03367714666899
+        ],
+        [
+            37.3504112,
+            -121.9016582
+        ]
+    ],
+    "addresses": [
+        "190, Aries Way, Sunnyvale, Santa Clara County, California, 94086, United States of America",
+        "Universal Protection Service, North 1st Street, Civic Center Plaza, Japantown, San Jose, Santa Clara County, California, 95110, United States of America"
+    ]
 }

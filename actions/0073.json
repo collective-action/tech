@@ -27,5 +27,14 @@
     ],
     "workers": 118,
     "tags": null,
-    "author": "organizejs"
+    "author": "organizejs",
+    "latlngs": [
+        [
+            37.4181243,
+            -122.02538023988251
+        ]
+    ],
+    "addresses": [
+        "Yahoo, Sunnyvale, Santa Clara County, California, United States of America"
+    ]
 }

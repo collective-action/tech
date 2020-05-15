@@ -29,5 +29,19 @@
     ],
     "workers": null,
     "tags": null,
-    "author": "organizejs"
+    "author": "organizejs",
+    "latlngs": [
+        [
+            47.6142939,
+            -122.3239636
+        ],
+        [
+            32.815940350000005,
+            -96.75223175473414
+        ]
+    ],
+    "addresses": [
+        "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America",
+        "WholeFoods, Abrams Road, Lakewood, Rawlins, Dallas, Dallas County, Texas, 75214:75243, United States of America"
+    ]
 }

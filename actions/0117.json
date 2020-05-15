@@ -28,5 +28,19 @@
     "tags": [
         "students"
     ],
-    "author": "organizejs"
+    "author": "organizejs",
+    "latlngs": [
+        [
+            37.4440869,
+            -122.16287540411753
+        ],
+        [
+            37.44422195,
+            -122.1625195
+        ]
+    ],
+    "addresses": [
+        "Palantir, University Avenue, Southgate, Palo Alto, Santa Clara County, California, 94301, United States of America",
+        "Salesforce IQ, Emerson Street, University South, Palo Alto, Santa Clara County, California, 94301, United States of America"
+    ]
 }

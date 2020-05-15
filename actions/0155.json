@@ -26,5 +26,7 @@
     ],
     "workers": 5,
     "tags": null,
-    "author": "moates"
+    "author": "moates",
+    "latlngs": null,
+    "addresses": null
 }

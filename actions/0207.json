@@ -29,5 +29,19 @@
         "immigration",
         "ice"
     ],
-    "author": "organizejs"
+    "author": "organizejs",
+    "latlngs": [
+        [
+            37.7821769,
+            -122.3912458
+        ],
+        [
+            37.41096725,
+            -122.07138737347663
+        ]
+    ],
+    "addresses": [
+        "GitHub, Colin P. Kelly Junior Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States of America",
+        "Microsoft Silicon Valley, Mountain View, Santa Clara County, California, United States of America"
+    ]
 }

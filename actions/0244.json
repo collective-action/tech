@@ -32,5 +32,14 @@
     "tags": [
         "coronavirus"
     ],
-    "author": "organizejs"
+    "author": "organizejs",
+    "latlngs": [
+        [
+            51.3540073,
+            11.4415021
+        ]
+    ],
+    "addresses": [
+        "\u00dcber den Querst\u00fccken, Querfurt, Saalekreis, Sachsen-Anhalt, Deutschland"
+    ]
 }

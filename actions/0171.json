@@ -25,5 +25,19 @@
     ],
     "workers": null,
     "tags": null,
-    "author": "organizejs"
+    "author": "organizejs",
+    "latlngs": [
+        [
+            65.4102317,
+            -163.0526448
+        ],
+        [
+            30.4422494,
+            -84.32472631122516
+        ]
+    ],
+    "addresses": [
+        "Caviar Creek, Nome, Alaska, United States of America",
+        "The Square, Zion Hill, Tallahassee, Leon County, Florida, United States of America"
+    ]
 }

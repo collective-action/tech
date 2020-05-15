@@ -25,5 +25,7 @@
     ],
     "workers": 10,
     "tags": null,
-    "author": "organizejs"
+    "author": "organizejs",
+    "latlngs": null,
+    "addresses": null
 }

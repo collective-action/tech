@@ -24,5 +24,14 @@
     ],
     "workers": null,
     "tags": null,
-    "author": "nataliyaned"
+    "author": "nataliyaned",
+    "latlngs": [
+        [
+            51.5314216,
+            -0.1113624
+        ]
+    ],
+    "addresses": [
+        "Deliveroo, Pentonville Road, Angel, Pentonville, London Borough of Islington, London, Greater London, England, N1 9JB, United Kingdom"
+    ]
 }

@@ -35,5 +35,19 @@
         "coworker_solidarity",
         "coronavirus"
     ],
-    "author": "organizejs"
+    "author": "organizejs",
+    "latlngs": [
+        [
+            47.9619318,
+            1.8440185793930501
+        ],
+        [
+            48.837679,
+            2.3909358
+        ]
+    ],
+    "addresses": [
+        "Amazon.fr ORY1, Rue de l'Olivier, Deret Logistique, Saran, Orl\u00e9ans, Loiret, Centre-Val de Loire, France m\u00e9tropolitaine, 45770, France",
+        "Amazon, Rue de Charenton, Quartier de Bercy, Paris, \u00cele-de-France, France m\u00e9tropolitaine, 75012, France"
+    ]
 }

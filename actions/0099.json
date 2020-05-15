@@ -34,5 +34,19 @@
     ],
     "workers": 100,
     "tags": null,
-    "author": "organizejs"
+    "author": "organizejs",
+    "latlngs": [
+        [
+            51.5148804,
+            -0.0718856
+        ],
+        [
+            52.4746766,
+            -1.91586332385543
+        ]
+    ],
+    "addresses": [
+        "Uber, Leman Street, Spitalfields, London Borough of Tower Hamlets, London, Greater London, England, E1 8FA, United Kingdom",
+        "UBER, Broad Street, Ladywood, Birmingham, West Midlands Combined Authority, West Midlands, England, B15 1AE, United Kingdom"
+    ]
 }

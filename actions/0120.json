@@ -26,5 +26,14 @@
     ],
     "workers": null,
     "tags": null,
-    "author": "organizejs"
+    "author": "organizejs",
+    "latlngs": [
+        [
+            40.7321996,
+            -73.9598257
+        ]
+    ],
+    "addresses": [
+        "Kickstarter HQ, West Street, Greenpoint, New York, Brooklyn, Kings County, New York, 11222, United States of America"
+    ]
 }

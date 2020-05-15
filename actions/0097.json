@@ -27,5 +27,14 @@
         "teamster",
         "drivers"
     ],
-    "author": "organizejs"
+    "author": "organizejs",
+    "latlngs": [
+        [
+            37.7790262,
+            -122.4199061
+        ]
+    ],
+    "addresses": [
+        "San Francisco, San Francisco City and County, California, United States of America"
+    ]
 }

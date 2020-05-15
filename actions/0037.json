@@ -28,5 +28,29 @@
     ],
     "workers": 60000,
     "tags": null,
-    "author": "nataliyaned"
+    "author": "nataliyaned",
+    "latlngs": [
+        [
+            37.41897865,
+            -122.08237793989416
+        ],
+        [
+            37.32915255,
+            -122.03225451655098
+        ],
+        [
+            32.939795,
+            -117.1026021
+        ],
+        [
+            37.33196605,
+            -121.8954904847011
+        ]
+    ],
+    "addresses": [
+        "Google, Mountain View, Santa Clara County, California, United States of America",
+        "Apple, Monta Vista, Cupertino, Santa Clara County, California, United States of America",
+        "Intel, Scripps Summit Drive, Sabre Springs, San Diego, San Diego County, California, 92131, United States of America",
+        "333, Japantown, San Jose, Santa Clara County, California, United States of America"
+    ]
 }

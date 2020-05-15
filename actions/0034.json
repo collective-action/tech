@@ -24,5 +24,14 @@
     ],
     "workers": 340,
     "tags": null,
-    "author": "nataliyaned"
+    "author": "nataliyaned",
+    "latlngs": [
+        [
+            51.3622584,
+            12.452329749225527
+        ]
+    ],
+    "addresses": [
+        "Amazon, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland"
+    ]
 }

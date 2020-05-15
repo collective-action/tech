@@ -27,5 +27,14 @@
         "immigration",
         "ice"
     ],
-    "author": "nataliyaned"
+    "author": "nataliyaned",
+    "latlngs": [
+        [
+            39.284749399999995,
+            -76.62047463969989
+        ]
+    ],
+    "addresses": [
+        "Baltimore, Maryland, United States of America"
+    ]
 }

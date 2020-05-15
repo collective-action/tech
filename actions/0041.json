@@ -25,5 +25,14 @@
     ],
     "workers": null,
     "tags": null,
-    "author": "organizejs"
+    "author": "organizejs",
+    "latlngs": [
+        [
+            39.9079196,
+            116.4058833
+        ]
+    ],
+    "addresses": [
+        "1, \u4e1c\u957f\u5b89\u8857, \u5317\u4eac\u5e02, \u4e1c\u57ce\u533a, \u5317\u4eac\u5e02, 100010, China \u4e2d\u56fd"
+    ]
 }

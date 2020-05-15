@@ -21,5 +21,14 @@
     "companies": null,
     "workers": 30,
     "tags": null,
-    "author": "nataliyaned"
+    "author": "nataliyaned",
+    "latlngs": [
+        [
+            39.7837304,
+            -100.4458825
+        ]
+    ],
+    "addresses": [
+        "United States"
+    ]
 }

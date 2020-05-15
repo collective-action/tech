@@ -26,5 +26,14 @@
     "tags": [
         "seiu"
     ],
-    "author": "organizejs"
+    "author": "organizejs",
+    "latlngs": [
+        [
+            34.1276036,
+            -95.4174606
+        ]
+    ],
+    "addresses": [
+        "Apple, Choctaw County, Oklahoma, United States of America"
+    ]
 }

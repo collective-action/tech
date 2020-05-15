@@ -27,5 +27,19 @@
     "tags": [
         "ice"
     ],
-    "author": "organizejs"
+    "author": "organizejs",
+    "latlngs": [
+        [
+            47.6142939,
+            -122.3239636
+        ],
+        [
+            37.4440869,
+            -122.16287540411753
+        ]
+    ],
+    "addresses": [
+        "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America",
+        "Palantir, University Avenue, Southgate, Palo Alto, Santa Clara County, California, 94301, United States of America"
+    ]
 }

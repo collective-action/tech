@@ -30,5 +30,14 @@
         "ice",
         "industry_solidarity"
     ],
-    "author": "organizejs"
+    "author": "organizejs",
+    "latlngs": [
+        [
+            35.139622349999996,
+            -80.92306993327955
+        ]
+    ],
+    "addresses": [
+        "Microsoft, Yorkwood, Charlotte, Mecklenburg County, North Carolina, United States of America"
+    ]
 }

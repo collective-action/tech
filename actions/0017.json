@@ -24,5 +24,14 @@
     ],
     "workers": 8000,
     "tags": null,
-    "author": "nataliyaned"
+    "author": "nataliyaned",
+    "latlngs": [
+        [
+            32.1576782,
+            118.86592783961245
+        ]
+    ],
+    "addresses": [
+        "LG, \u6816\u971e\u533a, \u6c5f\u82cf\u7701, China \u4e2d\u56fd"
+    ]
 }

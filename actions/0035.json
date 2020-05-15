@@ -25,5 +25,14 @@
     ],
     "workers": 55000,
     "tags": null,
-    "author": "nataliyaned"
+    "author": "nataliyaned",
+    "latlngs": [
+        [
+            51.5414364,
+            -2.641349791380809
+        ]
+    ],
+    "addresses": [
+        "Amazon, Goldcrest Way, Central Park Distribution Park, Pilning and Severn Beach, Pilning, South Gloucestershire, South West England, England, BS35 4DJ, United Kingdom"
+    ]
 }

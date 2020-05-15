@@ -32,5 +32,14 @@
         "immigration",
         "ice"
     ],
-    "author": "nataliyaned"
+    "author": "nataliyaned",
+    "latlngs": [
+        [
+            41.5286839,
+            -71.2330488
+        ]
+    ],
+    "addresses": [
+        "Amazon Drive, South Portsmouth, Portsmouth, Rhode Island, United States of America"
+    ]
 }
