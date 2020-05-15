@@ -15,9 +15,14 @@
     ],
     "description": "Around 30 drivers gathered on Thursday at lunchtime, the peak hour for deliveries, to express their dissatisfaction with a serious drop in the number of orders and a change in rules for payments. The majority of the protesters were freelancers for Didi Waimai who complained of unfair rules and meager earnings.",
     "locations": [
-        "wuxi",
-        "jiangsu",
-        "china"
+        [
+            "wuxi",
+            "china"
+        ],
+        [
+            "jiangsu",
+            "china"
+        ]
     ],
     "companies": [
         "didi"

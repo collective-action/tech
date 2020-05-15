@@ -16,9 +16,14 @@
     ],
     "description": "About 17,000 AT&T workers walked off the job Wednesday. Workers say that AT&T was forcing technicians to work outside their areas of expertise. The union also was protesting the companies's outsourcing and offshoring of jobs. AT&T wireless workers were not affected.",
     "locations": [
-        "california",
-        "nevada",
-        "usa"
+        [
+            "california",
+            "usa"
+        ],
+        [
+            "nevada",
+            "usa"
+        ]
     ],
     "companies": [
         "at&t"

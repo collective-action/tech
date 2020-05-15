@@ -15,9 +15,11 @@
     ],
     "description": "Members of the union that represents the folks behind the wheels of corporate shuttles stood and sat in front of those buses in the Castro district, demanding a secure pension for high-tech shuttle drivers. About 40 Teamsters blocked tech buses in a surprise protest. The drivers were from WeDriveU and Loop/Hallcon and transport employees for high-tech companies including Apple, Tesla, Amazon, Twitter, LinkedIn, Salesforce, Electronic Arts, Lam and Facebook.",
     "locations": [
-        "san_francisco",
-        "california",
-        "usa"
+        [
+            "san francisco",
+            "california",
+            "usa"
+        ]
     ],
     "companies": null,
     "workers": 40,

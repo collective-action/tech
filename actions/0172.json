@@ -14,9 +14,11 @@
     "employment_types": [
         "na"
     ],
-    "description": "More than 60\" Palantir employees have signed a petition to management calling for the company to send profits from ICE contracts to charity. This comes after the company renewed its second contract with ICE on Aug. 19.",
+    "description": "More than 60' Palantir employees have signed a petition to management calling for the company to send profits from ICE contracts to charity. This comes after the company renewed its second contract with ICE on Aug. 19.",
     "locations": [
-        "usa"
+        [
+            "usa"
+        ]
     ],
     "companies": [
         "palantir"

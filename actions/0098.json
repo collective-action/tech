@@ -14,7 +14,9 @@
     ],
     "description": "UberEats riders and a small number of workers from JD Wetherspoon, McDonald's and TGI Fridays have been staging walkouts in a pay dispute. Protests were being held in several UK cities, along with a rally in London.",
     "locations": [
-        "uk"
+        [
+            "uk"
+        ]
     ],
     "companies": [
         "uber"

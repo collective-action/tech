@@ -12,11 +12,13 @@
     "employment_types": [
         "white_collar_workers"
     ],
-    "description": "\"Hundreds\" of immigrant tech workers protested H1B visa caps on the streets of San Jose carrying banners and signs. A shortage of H1B visas has led to insecure working conditions and labor shortages among tech firms.",
+    "description": "Hundreds' of immigrant tech workers protested H1B visa caps on the streets of San Jose carrying banners and signs. A shortage of H1B visas has led to insecure working conditions and labor shortages among tech firms.",
     "locations": [
-        "san_jose",
-        "california",
-        "usa"
+        [
+            "san jose",
+            "california",
+            "usa"
+        ]
     ],
     "companies": null,
     "workers": 200,

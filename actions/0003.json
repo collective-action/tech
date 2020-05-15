@@ -15,7 +15,9 @@
     ],
     "description": "Computer Professionals for Social Responsibility (CPSR) launches an online petition in opposition to the Clipper Chip, a cryptographic device intended to provide a standard for securing private voice communication. The group expresses concern about the possibility of surveillance through decryption keys held by government agencies. The petition obtains over 50,000 signatures. An earlier physical letter, sent directly to the President, received 40 signatures from cryptography and computing experts.",
     "locations": [
-        "online"
+        [
+            "online"
+        ]
     ],
     "companies": null,
     "workers": 50000,

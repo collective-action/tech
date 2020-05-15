@@ -14,8 +14,10 @@
     ],
     "description": "LG workers in Nanjing went on strike to protest the low pay they receive relative to Korean LG employees at the same plant.",
     "locations": [
-        "nanjing",
-        "china"
+        [
+            "nanjing",
+            "china"
+        ]
     ],
     "companies": [
         "lg"

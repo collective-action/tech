@@ -16,8 +16,11 @@
     ],
     "description": "Pittsburgh's office Google contractors employed by an independent company called HCL Technologies, have been forced to come into the office, even as full-time Google employees were first allowed and then instructed to stay home. Some HCL contractors wore black in a protest at the Pittsburgh office\u2019s cafeteria on Monday. This action is linked to the memo that Googlers sent out on the same day.",
     "locations": [
-        "pittsburgh",
-        "usa"
+        [
+            "pittsburgh",
+            "pennsylvania",
+            "usa"
+        ]
     ],
     "companies": [
         "google"

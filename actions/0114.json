@@ -15,8 +15,10 @@
     ],
     "description": "Deliveroo riders took to Nottingham's Speakers' Corner to strike in a pay dispute. Riders were striking over the fees paid for long and short distance deliveries in the Nottingham area. Riders receive no pension, holiday or sickness pay, and must cover their own equipment costs and expenses and pay national insurance and tax on their earnings.",
     "locations": [
-        "nottingham",
-        "uk"
+        [
+            "nottingham",
+            "uk"
+        ]
     ],
     "companies": [
         "deliveroo"

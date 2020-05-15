@@ -13,10 +13,14 @@
     "employment_types": [
         "gig_workers"
     ],
-    "description": "150 Instacart workers have started a petition to protest changes in how they are paid. The petition urges the company to change this policy. It also encourages Instacart users to pay \"shoppers\" the minimum $0.22 tip through the app and to pay the remainder of the tip in cash to ensure the tip amount primarily goes to workers.",
+    "description": "150 Instacart workers have started a petition to protest changes in how they are paid. The petition urges the company to change this policy. It also encourages Instacart users to pay 'shoppers' the minimum $0.22 tip through the app and to pay the remainder of the tip in cash to ensure the tip amount primarily goes to workers.",
     "locations": [
-        "online",
-        "usa"
+        [
+            "online"
+        ],
+        [
+            "usa"
+        ]
     ],
     "companies": [
         "instacart"

@@ -15,8 +15,10 @@
     ],
     "description": "Hundreds of Lexmark workers have protested working conditions at manufacturing plants in Juarez, Mexico for months. At least 700 workers went on strike in December 2015. Workers have called for union representation, improved wages, and investigation into sexual harassment allegations.",
     "locations": [
-        "juarez",
-        "mexico"
+        [
+            "juarez",
+            "mexico"
+        ]
     ],
     "companies": [
         "lexmark"

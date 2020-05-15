@@ -14,9 +14,11 @@
     ],
     "description": "After anonymously receiving several pages of confidential compensation guidelines, the Washington Alliance of Technology Workers has relaunched an effort the unionize employees at Microsoft. The leaked guidelines showed that wages at the company barely rose in the last two years, which the union hopes will be a rallying cry for workers. In 2003, the company stopped giving employees stock options, opting for stock instead.",
     "locations": [
-        "seattle",
-        "washington",
-        "usa"
+        [
+            "seattle",
+            "washington",
+            "usa"
+        ]
     ],
     "companies": [
         "microsoft"

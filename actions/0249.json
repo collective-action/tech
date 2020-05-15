@@ -16,9 +16,9 @@
     ],
     "description": "Amazon warehouse workers near Detroit staged a demonstration to call for more stringent cleaning practices in their facility and reimbursement for any health bills incurred by employees (and their families) who had contracted coronavirus on the job. Management reports that fewer than 15 employees joined in, while organizers say there were 40 participants. ",
     "locations": [
-        "detroit",
-        "michigan",
-        "usa"
+        [
+            "usa"
+        ]
     ],
     "companies": [
         "amazon"

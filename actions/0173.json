@@ -16,10 +16,16 @@
     ],
     "description": "Gig Workers Rising and Mobile Workers Alliance have organized a protest caravan of rideshare workers to advocate for AB5, a bill in the California State Legislature that would require rideshare companies to recognize their drivers as employees. The caravan plans to drive roughly 600 miles, from Southern California to San Francisco to Sacramento, as part of their action.",
     "locations": [
-        "sacramento",
-        "san_francisco",
-        "california",
-        "usa"
+        [
+            "sacramento",
+            "california",
+            "usa"
+        ],
+        [
+            "san francisco",
+            "california",
+            "usa"
+        ]
     ],
     "companies": [
         "uber",

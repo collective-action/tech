@@ -15,8 +15,12 @@
     ],
     "description": "The company's corporate employees signed their names to a letter published on Wednesday that urged Jeff Bezos to create a comprehensive climate-change plan for the company.",
     "locations": [
-        "online",
-        "usa"
+        [
+            "online"
+        ],
+        [
+            "usa"
+        ]
     ],
     "companies": [
         "amazon"

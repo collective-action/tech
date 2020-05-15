@@ -14,8 +14,10 @@
     ],
     "description": "Approximately 200 FoxConn workers in Wuhan, China threatened to jump of the roof of a building yesterday to protest low wages. The protests recalled a series of worker suicides in 2010 and a similar protest held in January at the same facility.",
     "locations": [
-        "wuhan",
-        "china"
+        [
+            "wuhan",
+            "china"
+        ]
     ],
     "companies": [
         "foxconn"

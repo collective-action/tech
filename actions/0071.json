@@ -14,8 +14,12 @@
     ],
     "description": "Workers in six Amazon warehouses in Germany and at the company's main distribution hub in Italy strike on Black Friday over a pay dispute.",
     "locations": [
-        "germany",
-        "italy"
+        [
+            "germany"
+        ],
+        [
+            "italy"
+        ]
     ],
     "companies": [
         "amazon"

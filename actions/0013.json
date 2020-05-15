@@ -14,8 +14,10 @@
     ],
     "description": "Roughly  a thousand foreign tech workers protested US H1B visa caps in Washington DC. They urged Congress to increase the number of visas supplied annually.",
     "locations": [
-        "washington_dc",
-        "usa"
+        [
+            "washington_dc",
+            "usa"
+        ]
     ],
     "companies": null,
     "workers": 1000,

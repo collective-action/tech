@@ -12,11 +12,16 @@
     "employment_types": [
         "na"
     ],
-    "description": "Students from Leipzig University have formed an organization known as \"Amazon Solidarity Alliance\" and have collected 500 signatures in support of ongoing strikes by Amazon workers in Leipzig. The company frequently employs students in temporary positions.",
+    "description": "Students from Leipzig University have formed an organization known as 'Amazon Solidarity Alliance' and have collected 500 signatures in support of ongoing strikes by Amazon workers in Leipzig. The company frequently employs students in temporary positions.",
     "locations": [
-        "bad hersfeld",
-        "leipzig",
-        "germany"
+        [
+            "bad hersfeld",
+            "germany"
+        ],
+        [
+            "leipzig",
+            "germany"
+        ]
     ],
     "companies": [
         "amazon"

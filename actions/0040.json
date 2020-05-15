@@ -15,7 +15,9 @@
     ],
     "description": "In front of Apple stores nationwide, tech companies employees gathered to protest alongside hundreds of eager customers waiting in line to buy the iPhone 6. The protesters weren't disgruntled Apple engineers or developers; they were security officers, maintenance and custodial staff demanding better wages from tech companies.",
     "locations": [
-        "usa"
+        [
+            "usa"
+        ]
     ],
     "companies": [
         "apple"

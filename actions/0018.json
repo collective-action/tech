@@ -15,8 +15,10 @@
     ],
     "description": "150 FoxConn workers in Wuhan, China threatened suicide and ultimately spent two days on the roof of their plant to protest forced reassignments. In 2010, 18 FoxConn workers attempted suicide with a resulting 14 deaths.",
     "locations": [
-        "wuhan",
-        "china"
+        [
+            "wuhan",
+            "china"
+        ]
     ],
     "companies": [
         "foxconn"

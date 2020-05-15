@@ -17,8 +17,10 @@
     ],
     "description": "A section of drivers from five taxi hailing companies including Uber and Taxify (now known as Bolt) took part in the industrial strike which started in early July 2018. The drivers through their association, Digital Taxi Forum want Uber and Co to double their rates and reduce their commissions so they can earn decent wages. The strike lasted 9 days, ending after Uber signed an agreement to ensure better pricing for drivers and improve welfare on the job.",
     "locations": [
-        "nairobi",
-        "kenya"
+        [
+            "nairobi",
+            "kenya"
+        ]
     ],
     "companies": [
         "uber",

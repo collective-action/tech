@@ -14,15 +14,32 @@
     "employment_types": [
         "blue_collar_workers"
     ],
-    "description": "Hundreds of Amazon workers in Germany walked off the job as the online retailer kicked off its \"Black Friday\" sales bonanza, escalating a long-simmering battle for better pay and working conditions. The strike called by the powerful Verdi union is set to last until Tuesday morning and will also cover \"Cyber Monday\", another extravaganza of online discounts in what is a crucial sales period for Amazon. Verdi members are demanding a collective agreement for a living wage.",
+    "description": "Hundreds of Amazon workers in Germany walked off the job as the online retailer kicked off its 'Black Friday' sales bonanza, escalating a long-simmering battle for better pay and working conditions. The strike called by the powerful Verdi union is set to last until Tuesday morning and will also cover 'Cyber Monday', another extravaganza of online discounts in what is a crucial sales period for Amazon. Verdi members are demanding a collective agreement for a living wage.",
     "locations": [
-        "leipzig",
-        "bad_hersfeld",
-        "koblenz",
-        "rheinberg",
-        "werne",
-        "graben",
-        "germany"
+        [
+            "bad hersfeld",
+            "germany"
+        ],
+        [
+            "leipzig",
+            "germany"
+        ],
+        [
+            "koblenz",
+            "germany"
+        ],
+        [
+            "rheinberg",
+            "germany"
+        ],
+        [
+            "werne",
+            "germany"
+        ],
+        [
+            "graben",
+            "germany"
+        ]
     ],
     "companies": [
         "amazon"

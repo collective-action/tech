@@ -15,8 +15,12 @@
     ],
     "description": "Google employees are demanding an end to the company\u2019s work with agencies like CBP and ICE. Employees are circulating a petition asking the company not to bid on contracts with government agencies that enforce controversial immigration policies such as child detention.",
     "locations": [
-        "online",
-        "usa"
+        [
+            "online"
+        ],
+        [
+            "usa"
+        ]
     ],
     "companies": [
         "google"

@@ -15,8 +15,10 @@
     ],
     "description": "Over 300 academics from 26 countries signed a letter calling for contact-tracing apps to respect user privacy and to limit large-scale, centralized surveillance in favor of decentralized systems. The signatories favored the DP-3T protocol and systems like Apple and Google\u2019s cross-platform solution over the PEPP-T system designed by a set of European countries.",
     "locations": [
-        "worldwide",
-        "online"
+        [
+            "worldwide",
+            "online"
+        ]
     ],
     "companies": [
         "na"

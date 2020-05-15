@@ -14,8 +14,11 @@
     ],
     "description": "Three Muslim Somali Workers at Amazon File Federal Discrimination Complaint, accusing the company of creating a hostile environment for Muslim workers and of retaliating against them for protesting their work conditions. These are the same workers who in December of 2018 protested against Amazon.",
     "locations": [
-        "minneapolis",
-        "usa"
+        [
+            "minneapolis",
+            "minnesota",
+            "usa"
+        ]
     ],
     "companies": [
         "amazon"

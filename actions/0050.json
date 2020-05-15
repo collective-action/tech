@@ -14,7 +14,9 @@
     ],
     "description": "Three online petitions were started to protest parental leave policies at Netflix. The company recently began to offer a one-year paid parental leave but excluded employees in its DVD-by-mail service, who are typically lower paid than streaming employees and receive fewer benefits.",
     "locations": [
-        "online"
+        [
+            "online"
+        ]
     ],
     "companies": [
         "netflix"

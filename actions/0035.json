@@ -16,7 +16,9 @@
     ],
     "description": "In the UK, an activist group called Amazon Anonymous delivered a letter and a petition with 55,000 signatures to Amazon. The letter called for higher wages and improved working conditions for warehouse workers, including longer breaks and an end to the practice of compulsory overtime. ",
     "locations": [
-        "uk"
+        [
+            "uk"
+        ]
     ],
     "companies": [
         "amazon"

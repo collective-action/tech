@@ -14,7 +14,9 @@
     ],
     "description": "A group of Samsung factory employees in South Korea organized to call for safer working conditions and medical compensation from the company. After three years of protests, Samsung has agreed to accept the compensation terms and issue an apology.",
     "locations": [
-        "south_korea"
+        [
+            "south korea"
+        ]
     ],
     "companies": [
         "samsung"

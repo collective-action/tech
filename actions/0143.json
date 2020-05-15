@@ -16,9 +16,11 @@
     ],
     "description": "Bikes Make Life Better (BMLB) contract staff working at Facebook started organizing with the Transport Workers Union, seeking to improve their pay and their safety. The union claims BMLB management has responded with intimidation tactics, including holding mandatory anti-union meetings in which they tell workers that they can\u2019t talk about organizing at work, and if they become unionized, they could lose their contract with Facebook and therefore their jobs.",
     "locations": [
-        "menlo_park",
-        "california",
-        "usa"
+        [
+            "menlo park",
+            "california",
+            "usa"
+        ]
     ],
     "companies": [
         "facebook"

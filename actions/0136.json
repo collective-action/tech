@@ -15,7 +15,9 @@
     ],
     "description": "But for the past seven months, roughly a dozen moderators in the United States have been spearheading a quiet campaign inside the social media giant to air their grievances about unsatisfactory working conditions and their status as second-class citizens. The contractors, who have not previously spoken publicly about their efforts, are using their access to Facebook Workplace, the social network\u2019s internal communication system, to wage their battle.",
     "locations": [
-        "usa"
+        [
+            "usa"
+        ]
     ],
     "companies": [
         "facebook",

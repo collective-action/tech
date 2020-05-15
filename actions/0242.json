@@ -16,8 +16,10 @@
     ],
     "description": "Mijente, an immigrant rights group is calling on ICE to stop hunting down undocumented immigrants amid the coronavirus crisis. In an open letter published on Github, Microsoft workers backed mijente's campaign, calling on tech companies not to share their technologies with ICE.",
     "locations": [
-        "usa",
-        "online"
+        [
+            "california",
+            "usa"
+        ]
     ],
     "companies": [
         "microsoft"

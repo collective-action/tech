@@ -16,9 +16,11 @@
     ],
     "description": "Hundreds of workers at the online retailer Wayfair walked out of their jobs yesterday to protest the comapny's sale of $200,000 worth of bedroom furniture to a government contractor that operates a network of shelters for migrant children near the southwestern border. More than 500 employees signed a petition to the CEO calling for him to cease all business with the contractor and establish a code of ethics for their sales.",
     "locations": [
-        "boston",
-        "massachusetts",
-        "usa"
+        [
+            "boston",
+            "massachusetts",
+            "usa"
+        ]
     ],
     "companies": [
         "wayfair"

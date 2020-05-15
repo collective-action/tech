@@ -12,11 +12,13 @@
     "employment_types": [
         "na"
     ],
-    "description": "Stanford Students Against Addictive Devices, a group of computer science students at the university, stage a protest at Apple Headquarters. They call for Apple to design devices with an \"essential mode\", allowing the user to activate only basic functions. The group previously held a protest at the Apple store in downtown Palo Alto.",
+    "description": "Stanford Students Against Addictive Devices, a group of computer science students at the university, stage a protest at Apple Headquarters. They call for Apple to design devices with an 'essential mode', allowing the user to activate only basic functions. The group previously held a protest at the Apple store in downtown Palo Alto.",
     "locations": [
-        "palo_alto",
-        "california",
-        "usa"
+        [
+            "palo alto",
+            "california",
+            "usa"
+        ]
     ],
     "companies": [
         "apple"

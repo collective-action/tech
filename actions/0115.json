@@ -14,12 +14,26 @@
     ],
     "description": "Food delivery workers in at least five cities across China have staged a series of strikes protesting arbitrary reductions in pay rates introduced after the Lunar New Year Holiday. Workers for both major food delivery platforms, Meituan and Ele.me, stopped taking orders starting in February.",
     "locations": [
-        "linyi",
-        "dongguan",
-        "jinan",
-        "pinghu",
-        "qingdao",
-        "china"
+        [
+            "linyi",
+            "china"
+        ],
+        [
+            "dongguan",
+            "china"
+        ],
+        [
+            "jinan",
+            "china"
+        ],
+        [
+            "pinghu",
+            "china"
+        ],
+        [
+            "qingdao",
+            "china"
+        ]
     ],
     "companies": [
         "meituan",

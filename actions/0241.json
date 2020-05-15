@@ -16,9 +16,12 @@
     ],
     "description": "At an Amazon warehouse and shipping center at Saran just outside Orleans, a city south of Paris, 250-300 workers staged a strike, gathering outside and calling for its closure. It normally employs some 1,800 full-time staff. They are calling on the online retailer to cease operations or make it easier for employees not wanting to work during the coronavirus outbreak to stay away.",
     "locations": [
-        "saran",
-        "paris",
-        "france"
+        [
+            "usa"
+        ],
+        [
+            "online"
+        ]
     ],
     "companies": [
         "amazon"

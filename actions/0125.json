@@ -16,8 +16,12 @@
     ],
     "description": "A group of Google employees have called for the removal of a rightwing thinktank leader from the companies's new artificial intelligence council, citing her anti-LGBT and anti-immigrant record. Academic, civil society, and industry supporters have also signed the petition in mass.",
     "locations": [
-        "online",
-        "usa"
+        [
+            "online"
+        ],
+        [
+            "usa"
+        ]
     ],
     "companies": [
         "google"

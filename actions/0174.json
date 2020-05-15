@@ -15,9 +15,11 @@
     ],
     "description": "Google contract workers in Pittsburgh voted to unionize and petitioned the National Labor Relations Board to set up a representation election. Two-thirds of the workers, formally employed by HCL America, were in favor of the action. United Steelworkers helped to organize the union drive through their Pittsburgh Association of Tech Professionals (PATP) project.",
     "locations": [
-        "pittsburgh",
-        "pennsylvania",
-        "usa"
+        [
+            "pittsburgh",
+            "pennsylvania",
+            "usa"
+        ]
     ],
     "companies": [
         "google"

@@ -15,9 +15,12 @@
     ],
     "description": "Janitors of WeWork protest at their companies's Manhattan headquarters at 222 Broadway. In that same building, other renters and owners hire cleaning contractors at the standard city-wide rate, while WeWork pays an average of $11 an hour.",
     "locations": [
-        "manhattan",
-        "new_york",
-        "usa"
+        [
+            "manhattan",
+            "new york city",
+            "new york",
+            "usa"
+        ]
     ],
     "companies": [
         "wework"

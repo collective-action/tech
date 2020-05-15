@@ -16,9 +16,14 @@
     ],
     "description": "Mere days before Microsoft workers are set to walk out of their jobs and publicly call on their employer to reduce carbon emissions and sever its ties with fossil fuel companies, the tech giant has announced a major partnership with two of the biggest corporations in the oil industry. Microsoft employees have responded with a fiery statement condemning the partnership and calling on fellow employees to join them in walking out on September 20th. The protest is part of a global general strike on September 20th 2019.",
     "locations": [
-        "online",
-        "seattle",
-        "usa"
+        [
+            "online"
+        ],
+        [
+            "seattle",
+            "washington",
+            "usa"
+        ]
     ],
     "companies": [
         "microsoft"

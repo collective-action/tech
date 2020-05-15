@@ -15,7 +15,9 @@
     ],
     "description": "Uber drivers in 20 cities join the Fight for $15 movement, boycotting the app for one day to protest wages.",
     "locations": [
-        "usa"
+        [
+            "usa"
+        ]
     ],
     "companies": [
         "uber"

@@ -15,7 +15,9 @@
     ],
     "description": "Instacart workers circulated an open letter on Medium prior to a walkout scheduled for Nov. 3rd to Nov. 5th. Employees are protesting the company's history of systematically devaluing labor, using algorithms to reduce pay to employees and changing tipping structures to return profit to the company. Over 200 workers have signed the letter.",
     "locations": [
-        "online"
+        [
+            "online"
+        ]
     ],
     "companies": [
         "instacart"

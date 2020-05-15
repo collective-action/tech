@@ -17,8 +17,12 @@
     ],
     "description": "People left their desks at Oracle offices around the world to protest Chairman Larry Ellison\u2019s fundraiser a day earlier for President Donald Trump. The protest, called No Ethics/No Work, involved about 300 employees walking out of their offices or stopping work at remote locations at noon local time and devoting the rest of the day to volunteering or civic engagement.",
     "locations": [
-        "usa",
-        "online"
+        [
+            "usa"
+        ],
+        [
+            "online"
+        ]
     ],
     "companies": [
         "oracle"

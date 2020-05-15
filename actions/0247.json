@@ -19,9 +19,9 @@
     ],
     "description": "Amazon workers in Staten Island walked off the job to call for the company to temporarily close and sanitize the facilities following several positive tests for coronavirus among employees. The NY Post reported than more than 100 workers participated in the action. Vice has reported 62.",
     "locations": [
-        "new_york_city",
-        "new_york",
-        "usa"
+        [
+            "usa"
+        ]
     ],
     "companies": [
         "amazon"

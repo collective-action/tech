@@ -14,7 +14,9 @@
     ],
     "description": "Workers threatened to boycott Instacart after it announced plans to replace their tips with an optional 10% service fee. Two days ahead of the planned boycott, Instacart said tips will stay.",
     "locations": [
-        "usa"
+        [
+            "usa"
+        ]
     ],
     "companies": [
         "instacart"

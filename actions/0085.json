@@ -14,8 +14,10 @@
     ],
     "description": "There have been at least 15 strikes and protests by food delivery workers in China since 1 May as increased competition among delivery platforms has drastically reduced workers' take-home pay. Workers contracted to food delivery giant Meituan in the northern city of Taiyuan staged a work stoppage in protest at a wide range of issues including pay levels, delivery times, insurance and high accident rates.",
     "locations": [
-        "taiyuan",
-        "china"
+        [
+            "taiyuan",
+            "china"
+        ]
     ],
     "companies": [
         "meituan"

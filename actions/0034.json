@@ -14,8 +14,10 @@
     ],
     "description": "Several hundred Amazon workers in Leipzig, Germany went on strike as part of a union effort to raise wages. The company reported 340 workers were involved whereas the union (Verdi) reported the number was closer to 500.",
     "locations": [
-        "leipzig",
-        "germany"
+        [
+            "leipzig",
+            "germany"
+        ]
     ],
     "companies": [
         "amazon"

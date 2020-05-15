@@ -15,9 +15,11 @@
     ],
     "description": "Rideshare workers have signed a petition calling on the LAX (Los Angeles) airport to provide them with better bathrooms. Currently all workers are forced to use six port-a-potties and one external handwashing station located on airport grounds. LAX management responded by saying they will install three additional port-a-potties and two more external handwashing stations. Drivers, organized through the Mobile Workers Alliance, continue to call for more.",
     "locations": [
-        "los_angeles",
-        "california",
-        "usa"
+        [
+            "los angeles",
+            "california",
+            "usa"
+        ]
     ],
     "companies": [
         "uber",

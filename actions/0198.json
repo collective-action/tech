@@ -16,8 +16,10 @@
     ],
     "description": "Approximately 40 Google employees in Zurich held a meeting at the office to discuss unions and labor rights with representatives from Syndicom, a Swiss labor union. Employees had invited Syndicom to speak earlier in June but the event was cancelled at the request of management. Management later announced they would be holding a series of talk on labor rights and would allow Syndicom to join.",
     "locations": [
-        "zurich",
-        "switzerland"
+        [
+            "zurich",
+            "switzerland"
+        ]
     ],
     "companies": [
         "google"

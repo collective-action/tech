@@ -13,11 +13,13 @@
     "employment_types": [
         "in_house_workers"
     ],
-    "description": "In one of the first reported unionization attempts at a \"dot com company\", an affiliate of the Communication Workers of America known as the Washington Alliance of Technology Workers (WashTech) sought to unionize a group of 400 customer service employees at Amazon. Amazon closed the call center before the campaign could proceed further due to financial pressures following the dot-com bubble in the early 2000s. Amazon has disputed unionization by arguing that the employees are owners of the company since they are given stock options.",
+    "description": "In one of the first reported unionization attempts at a 'dot com company', an affiliate of the Communication Workers of America known as the Washington Alliance of Technology Workers (WashTech) sought to unionize a group of 400 customer service employees at Amazon. Amazon closed the call center before the campaign could proceed further due to financial pressures following the dot-com bubble in the early 2000s. Amazon has disputed unionization by arguing that the employees are owners of the company since they are given stock options.",
     "locations": [
-        "seattle",
-        "washington",
-        "usa"
+        [
+            "seattle",
+            "washington",
+            "usa"
+        ]
     ],
     "companies": [
         "amazon"

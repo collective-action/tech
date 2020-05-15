@@ -16,9 +16,11 @@
     ],
     "description": "E-scooter workers in San Francisco at the Ford-owned start-up Spin joined a union on Wednesday\u2014a first in the fledgling industry. Roughly 40 Spin workers\u2014who collect, repair, deploy, and charge Spin\u2019s fleet of more than 500 electric scooters on the streets of San Francisco\u2014are now part of Teamsters Local 665, as first reported by the San Francisco Examiner. The union says workers want to negotiate for better pay, health care, and retirement security in their first contract.",
     "locations": [
-        "san_francisco",
-        "california",
-        "usa"
+        [
+            "san francisco",
+            "california",
+            "usa"
+        ]
     ],
     "companies": [
         "spin"

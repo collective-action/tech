@@ -14,11 +14,13 @@
     "employment_types": [
         "blue_collar_workers"
     ],
-    "description": "Amazon workers at a delivery center in Sacramento circulated a petition to reinstate two workers believed to have been unfairly fired and to give part-time workers paid time off. Management reinstated the two fired workers but did not acquiese to the request for paid time off. The action led workers to form a new group: Amazonians United Sacramento. ",
+    "description": "Amazon workers at a delivery center in Sacramento circulated a petition to reinstate two workers believed to have been unfairly fired and to give part-time workers paid time off. Management reinstated the two fired workers but did not acquiese to the request for paid time off. The action led workers to form a new group: Amazonians United Sacramento.",
     "locations": [
-        "sacramento",
-        "california",
-        "usa"
+        [
+            "sacramento",
+            "california",
+            "usa"
+        ]
     ],
     "companies": [
         "amazon"

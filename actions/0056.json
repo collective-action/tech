@@ -15,8 +15,11 @@
     ],
     "description": "Uber recognizes an association of drivers, the Independent Drivers Guild, which is affiliated with the International Association of Machinists and Aerospace Workers. The organization represents approximately 35,000 drivers in the New York City area and provides access to discounted insurance, legal services, and roadside assistance. The group has been promised monthly meetings with management but at the expense of agreeing not the formally unionize for the next five years.",
     "locations": [
-        "usa",
-        "new_york"
+        [
+            "new york city",
+            "new york",
+            "usa"
+        ]
     ],
     "companies": [
         "uber"

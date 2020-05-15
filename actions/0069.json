@@ -16,9 +16,11 @@
     ],
     "description": "Over 500 food service workers at Facebook won union representation at the tech giant's campus in Menlo Park, CA. The workers, who are employed by contractor Flagship Facility Services, are calling for increased wages to compete with skyrocketing rents and more affordable health benefits.",
     "locations": [
-        "menlo_park",
-        "california",
-        "usa"
+        [
+            "menlo park",
+            "california",
+            "usa"
+        ]
     ],
     "companies": [
         "facebook"

@@ -16,9 +16,14 @@
     ],
     "description": "German Amazon workers have continued to strike and protest in an attempt to get the company to recognize industry-level wages set under collective bargaining agreements. Workers in Bad Hersfeld and Leipzig have conducted a series of strikes since May. On Sept. 20th, a bus drove workers from Bad Hersfeld to Leipzig to join the two movements. ",
     "locations": [
-        "bad hersfeld",
-        "leipzig",
-        "germany"
+        [
+            "bad hersfeld",
+            "germany"
+        ],
+        [
+            "leipzig",
+            "germany"
+        ]
     ],
     "companies": [
         "amazon"

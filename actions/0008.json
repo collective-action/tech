@@ -13,9 +13,11 @@
     "employment_types": [
         "blue_collar_workers"
     ],
-    "description": "The United Food and Commercial Workers Union is attempting to organize roughly 5,000 workers at eight Amazon distribution centers across the U.S. The New York Times reports that \"low-key\" unionization efforts have been going on in the company for the last two years.",
+    "description": "The United Food and Commercial Workers Union is attempting to organize roughly 5,000 workers at eight Amazon distribution centers across the U.S. The New York Times reports that 'low-key' unionization efforts have been going on in the company for the last two years.",
     "locations": [
-        "usa"
+        [
+            "usa"
+        ]
     ],
     "companies": [
         "amazon"

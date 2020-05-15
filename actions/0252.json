@@ -18,9 +18,11 @@
     ],
     "description": "For the second week in a row, workers at an Amazon warehouse in Staten Island held a walkout to protest the company's handling of the coronavirus crisis. Organizers state that they have heard of over 25 cases of coronavirus at the facility. In response, workers are calling for an extension of paid time off and improved sanitation in the facility. Last week, the company fired one of the organizers of the previous week's walkout. ",
     "locations": [
-        "new_york_city",
-        "new_york",
-        "usa"
+        [
+            "new york city",
+            "new york",
+            "usa"
+        ]
     ],
     "companies": [
         "amazon"

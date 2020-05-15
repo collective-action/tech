@@ -14,9 +14,12 @@
     ],
     "description": "Kickstarter workers have sent a letter to management asking them to voluntarily recognize their union. If management refuses to recognize the union, workers have the option to go to the NLRB to authorize a union election.",
     "locations": [
-        "brooklyn",
-        "new_york",
-        "usa"
+        [
+            "brooklyn",
+            "new york city",
+            "new york",
+            "usa"
+        ]
     ],
     "companies": [
         "kickstarter"

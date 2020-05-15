@@ -15,9 +15,11 @@
     ],
     "description": "Approximately 60 Amazon workers walked out of a delivery center in Eagan, Minnesota to demand increased wages, weight restrictions on boxes, and abolishing a cap on 30 hour workweeks. The strike lasted two and half hours until a manager promised to address concerns the following morning.",
     "locations": [
-        "eagan",
-        "minnesota",
-        "usa"
+        [
+            "eagan",
+            "minnesota",
+            "usa"
+        ]
     ],
     "companies": [
         "amazon"

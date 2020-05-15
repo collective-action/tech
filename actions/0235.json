@@ -17,9 +17,11 @@
     ],
     "description": "A group of five baristas who operate the espresso machines at Slack\u2019s corporate headquarters in San Francisco learned on March 6 that they were losing their contracted positions just prior to a decision by the company to move to remote operations to curb the spread of COVID-19. The baristas claim that Slack caught wind of their intention to criticize the company publicly\u2014and in what they claim to be an organizing victory, they learned that their severance would be extended to 90 days.",
     "locations": [
-        "san_francisco",
-        "california",
-        "usa"
+        [
+            "san francisco",
+            "california",
+            "usa"
+        ]
     ],
     "companies": [
         "slack"

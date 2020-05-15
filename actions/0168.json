@@ -14,10 +14,14 @@
     "employment_types": [
         "blue_collar_workers"
     ],
-    "description": "A group of anonymous Whole Foods workers denounced their parent company Amazon's ties to Immigration and Customs Enforcement (ICE) in an open letter. The letter from Whole Foods workers is the latest push from within Amazon, where workers have been protesting their employer's opaque relationship with ICE and the Department of Homeland Security (DHS) for more than a year. Whole Worker \u2014 the protest group of Whole Foods employees \u2014 is calling for Amazon to \"cease all business with Palantir and any other company involved in the continued oppression of marginalized groups.",
+    "description": "A group of anonymous Whole Foods workers denounced their parent company Amazon's ties to Immigration and Customs Enforcement (ICE) in an open letter. The letter from Whole Foods workers is the latest push from within Amazon, where workers have been protesting their employer's opaque relationship with ICE and the Department of Homeland Security (DHS) for more than a year. Whole Worker \u2014 the protest group of Whole Foods employees \u2014 is calling for Amazon to 'cease all business with Palantir and any other company involved in the continued oppression of marginalized groups.",
     "locations": [
-        "online",
-        "usa"
+        [
+            "online"
+        ],
+        [
+            "usa"
+        ]
     ],
     "companies": [
         "amazon",

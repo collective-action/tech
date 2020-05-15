@@ -16,8 +16,10 @@
     ],
     "description": "Food delivery riders have marched in Sydney to demand UberEats, Deliveroo and Foodora provide pay increases and better working conditions to the many contractors darting from door to door around Australian cities. Dozens of protesters voiced their concerns in Surry Hills about the lack of regulation surrounding rider pay, safety protections and benefits like sick pay and superannuation.",
     "locations": [
-        "sydney",
-        "australia"
+        [
+            "sydney",
+            "australia"
+        ]
     ],
     "companies": [
         "deliveroo",

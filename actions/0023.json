@@ -14,8 +14,10 @@
     ],
     "description": "FoxConn workers in Zhengzhou held walkouts on three separate days to protest working conditions at the plant. News outlets also report workers have been purposefully scratching newly manufactured iPhones in protest. China Labor Watch estimates that 3,000 workers took part in the walkouts.",
     "locations": [
-        "zhengzhou",
-        "china"
+        [
+            "zhengzhou",
+            "china"
+        ]
     ],
     "companies": [
         "foxconn"

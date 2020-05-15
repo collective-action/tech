@@ -15,8 +15,10 @@
     ],
     "description": "Employees at H3C, a Chinese network device company acquired by HP, have been protesting the appointment of a new chairman for the last three weeks. More than 4,400 people have signed a petition and 3,000 have joined the strike. Workers have expressed concern that the election of Mao Yunan, a senior manager at HP, would lead to layoffs and would endanger promised employee stock option plans.",
     "locations": [
-        "hangzhou",
-        "china"
+        [
+            "hangzhou",
+            "china"
+        ]
     ],
     "companies": [
         "h3c",

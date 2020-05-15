@@ -15,7 +15,9 @@
     ],
     "description": "Microsoft employees are using a shared Google spreadsheet to compile data on salary and bonuses. The spreadsheet also makes note of employee level, or rank, within the company in an attempt to encourage greater transparency on compensation.",
     "locations": [
-        "online"
+        [
+            "online"
+        ]
     ],
     "companies": [
         "microsoft"

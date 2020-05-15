@@ -18,7 +18,12 @@
     ],
     "description": "Amazonians United, a group of Amazon employee advocates around the US, won paid time off for part-time logistics workers in the midst the coronavirus pandemic. Amazon has also said it will raise pay for warehouse workers and delivery drivers by $2 per hour through April. For several weeks, the Amazonians United group has been calling for improved working conditions and paid time off using petitions and walkouts, including actions by groups in the Sacramento, Chicago, and New York areas.",
     "locations": [
-        "usa"
+        [
+            "staten island",
+            "new york city",
+            "new york",
+            "usa"
+        ]
     ],
     "companies": [
         "amazon"

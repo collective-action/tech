@@ -16,10 +16,18 @@
     ],
     "description": "Hundreds of Uber drivers are expected to switch off their apps from 1pm, making themselves unavailable for work, union organisers said. Protests are also being held outside the ride-hailing app's offices in London, Nottingham and Birmingham.",
     "locations": [
-        "london",
-        "nottingham",
-        "birmingham",
-        "uk"
+        [
+            "london",
+            "uk"
+        ],
+        [
+            "nottingham",
+            "uk"
+        ],
+        [
+            "birmingham",
+            "uk"
+        ]
     ],
     "companies": [
         "uber"

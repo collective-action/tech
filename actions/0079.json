@@ -14,8 +14,12 @@
     ],
     "description": "A group of academics working on artificial technologies call for a boycott of the Korea Advanced Institute of Science and Technology, a South Korean university. KAIST is believed to be developing AI weapons through a collaboration with a defense contractor. An open letter has been signed by 50 academics.",
     "locations": [
-        "south_korea",
-        "online"
+        [
+            "south korea"
+        ],
+        [
+            "online"
+        ]
     ],
     "companies": [
         "korea_advanced_institute_of_science_and_technology"

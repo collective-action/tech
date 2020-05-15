@@ -14,9 +14,11 @@
     ],
     "description": "Approximately a thousand foreign tech workers protested US H1B visa caps on the streets of San Jose. A shortage of visas has created difficult conditions for workers.",
     "locations": [
-        "san_jose",
-        "california",
-        "usa"
+        [
+            "san jose",
+            "california",
+            "usa"
+        ]
     ],
     "companies": null,
     "workers": 1000,

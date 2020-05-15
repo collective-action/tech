@@ -14,8 +14,10 @@
     ],
     "description": "Engineers at Yahoo France held a strike to protest the company's plans to shut down an R&D office in Echirolles, laying off 78 people or roughly one-third of the company's total employees in the country. ",
     "locations": [
-        "echirolles",
-        "france"
+        [
+            "echirolles",
+            "france"
+        ]
     ],
     "companies": [
         "yahoo"

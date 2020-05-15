@@ -13,11 +13,17 @@
     "employment_types": [
         "white_collar_workers"
     ],
-    "description": "Google employees have signed an open letter published Tuesday on Medium demanding that the companies cease work on Project Dragonfly, which is aimed at creating a search engine that the Chinese government would be able to control to censor certain results and surveil users. \"International human rights organizations and investigative reporters have also sounded the alarm, emphasizing serious human rights concerns and repeatedly calling on Google to cancel the project,\" the letter reads in part. \"So far, our leadership's response has been unsatisfactory.",
+    "description": "Google employees have signed an open letter published Tuesday on Medium demanding that the companies cease work on Project Dragonfly, which is aimed at creating a search engine that the Chinese government would be able to control to censor certain results and surveil users. 'International human rights organizations and investigative reporters have also sounded the alarm, emphasizing serious human rights concerns and repeatedly calling on Google to cancel the project,' the letter reads in part. 'So far, our leadership's response has been unsatisfactory.",
     "locations": [
-        "online",
-        "usa",
-        "china"
+        [
+            "online"
+        ],
+        [
+            "usa"
+        ],
+        [
+            "china"
+        ]
     ],
     "companies": [
         "google"

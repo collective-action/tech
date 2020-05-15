@@ -14,10 +14,14 @@
     ],
     "description": "Google employees around the world walked off the job to protest Pres. Trump's immigration ban. Google co-founder Sergey Brin and CEO Sundar Pichai spoke at the walk-out at the Mountain View headquarters.",
     "locations": [
-        "mountain_view",
-        "california",
-        "usa",
-        "worldwide"
+        [
+            "mountain view",
+            "california",
+            "usa"
+        ],
+        [
+            "worldwide"
+        ]
     ],
     "companies": [
         "google"

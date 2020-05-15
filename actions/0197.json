@@ -15,8 +15,12 @@
     ],
     "description": "Microsoft employees are circulating a letter supporting an effort to get its GitHub subsidiary to cancel a contract with the U.S. Immigration and Customs Enforcement agency, the latest effort among tech-company staff to influence corporate policy on government work. The letter reflects concerns that Microsoft\u2019s sales to the agency implicate the software maker in the government\u2019s detention of immigrants. ",
     "locations": [
-        "usa",
-        "online"
+        [
+            "usa"
+        ],
+        [
+            "online"
+        ]
     ],
     "companies": [
         "microsoft"

@@ -15,8 +15,10 @@
     ],
     "description": "Hundreds of temporary workers for FoxConn rallied on the streets on Zhengzhou to protest unpaid signing bonuses. Protests continued for two nights before being broken up by police.",
     "locations": [
-        "zhengzhou",
-        "china"
+        [
+            "zhengzhou",
+            "china"
+        ]
     ],
     "companies": [
         "foxconn"

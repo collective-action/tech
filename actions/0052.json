@@ -16,9 +16,11 @@
     ],
     "description": "Intel cafeteria workers held a rally outside of company headquarters in Santa Clara to protest wages that have failed to keep up with the area's rising cost of living. Two weeks earlier the employees  delivered a petition to management asking for fair process to form a union.",
     "locations": [
-        "santa_clara",
-        "california",
-        "usa"
+        [
+            "santa clara",
+            "california",
+            "usa"
+        ]
     ],
     "companies": [
         "intel"

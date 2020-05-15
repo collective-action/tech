@@ -14,10 +14,14 @@
     "employment_types": [
         "white_collar_workers"
     ],
-    "description": "A campaign against long working hours by professionals in China's technology sector has become one of the fastest growing Github repository in Github's history. The \"anti-996\" campaign opposes employees working shifts of 9am-9pm, six days a week, which are commonly required by the country's tech giants.",
+    "description": "A campaign against long working hours by professionals in China's technology sector has become one of the fastest growing Github repository in Github's history. The 'anti-996' campaign opposes employees working shifts of 9am-9pm, six days a week, which are commonly required by the country's tech giants.",
     "locations": [
-        "online",
-        "china"
+        [
+            "online"
+        ],
+        [
+            "china"
+        ]
     ],
     "companies": null,
     "workers": 241000,

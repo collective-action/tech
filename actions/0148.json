@@ -17,9 +17,11 @@
     ],
     "description": "A group of more than 30 Microsoft employees is lobbying coworkers to stop donating to the company's political action committee in an effort to starve the PAC of funds. While Microsoft pitches itself as an inclusive and progressive company\u200a\u2014\u200aespecially during Pride Month, with tweets and donations to LGBTQ+ causes\u200a\u2014\u200aemployees who have donated to the PAC say they have no control over which candidates are being supported, meaning that they have no say when the PAC financially supports bigoted candidates. On July 2019, Microsoft has temporarily halted political donations through its political action committee after facing this backlash from employees.",
     "locations": [
-        "seattle",
-        "washington",
-        "usa"
+        [
+            "seattle",
+            "washington",
+            "usa"
+        ]
     ],
     "companies": [
         "microsoft"

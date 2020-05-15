@@ -14,9 +14,11 @@
     "employment_types": [
         "white_collar_workers"
     ],
-    "description": "Google employees publish an open letter demanding that Alphabet CEO Larry Page \"immediately and publicly address the Walkout\u2019s demands, and recommit Google to meeting them.\" The list of demands also asks for the company to allow Meredith to continue her work, fully funded, as before and to allow Claire to change teams without further retaliation. The letter calls out the broken nature of the HR department at Google, and demands for an open and transparent investigation on the department.",
+    "description": "Google employees publish an open letter demanding that Alphabet CEO Larry Page 'immediately and publicly address the Walkout\u2019s demands, and recommit Google to meeting them.' The list of demands also asks for the company to allow Meredith to continue her work, fully funded, as before and to allow Claire to change teams without further retaliation. The letter calls out the broken nature of the HR department at Google, and demands for an open and transparent investigation on the department.",
     "locations": [
-        "usa"
+        [
+            "usa"
+        ]
     ],
     "companies": [
         "google"

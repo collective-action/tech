@@ -15,8 +15,11 @@
     ],
     "description": "Employees at the crowdfunding platform Kickstarter voted to unionize. The decision, which was formalized by a vote count at the National Labor Relations Board, came down to a narrow margin, with 46 employees voting in favor of the move and 37 opposing it. The debate over a union \u2014 and whether such representation was appropriate for highly paid tech workers \u2014 had been a source of tension at the company for many months.",
     "locations": [
-        "new_york",
-        "usa"
+        [
+            "new york city",
+            "new york",
+            "usa"
+        ]
     ],
     "companies": [
         "kickstarter"

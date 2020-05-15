@@ -16,7 +16,9 @@
     ],
     "description": "Mechnical Turk workers have adopted a platform named Turkopticon, which allows them to review tasks and requestors on the platform. Turkopticon was created through a collaboration between a UC Irvine computer scientist and a union leader for IG Metall.",
     "locations": [
-        "worldwide"
+        [
+            "worldwide"
+        ]
     ],
     "companies": [
         "amazon",

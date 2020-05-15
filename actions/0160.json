@@ -18,9 +18,11 @@
     ],
     "description": "Cafeteria workers from Facebook's downtown San Francisco office picketed for higher wages, shorter working days, and improved healthcare coverage. The actions followed months of negotiation with the group's union Unite Here Local 2. The employees, who are contracted by Facebook through Flagship Facility Services, cited the high cost of living in the Bay Area and their need to work multiple jobs as motivations for the protest. Full-time employees from Google and Facebook joined the protest in support.",
     "locations": [
-        "san_francisco",
-        "california",
-        "usa"
+        [
+            "san francisco",
+            "california",
+            "usa"
+        ]
     ],
     "companies": [
         "facebook"

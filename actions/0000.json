@@ -15,7 +15,9 @@
     ],
     "description": "IBM workers formed an organization, IBM: Speak Up!, to protest the company's involvement with apartheid South Africa. The company created the computer system that upheld the country's passbook system. The company officially divested from South Africa in 1987.",
     "locations": [
-        "worldwide"
+        [
+            "worldwide"
+        ]
     ],
     "companies": [
         "ibm"

@@ -14,7 +14,9 @@
     ],
     "description": "Reddit and Mozilla, among others, posted prominent messages protesting NSA surveillance practices unveiled by whistleblower Edward Snowden. The protest was organized by the Internet Defense League, an organization of more than 30,000 websites that fights for Web freedom.",
     "locations": [
-        "online"
+        [
+            "online"
+        ]
     ],
     "companies": [
         "reddit",

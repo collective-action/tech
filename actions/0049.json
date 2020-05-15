@@ -13,9 +13,11 @@
     "employment_types": [
         "white_collar_workers"
     ],
-    "description": "Google employees have started an internal spreadsheet to share data on salary and bonuses. Employees have reportedly used the spreadsheet to advocate for greater compensation. ",
+    "description": "Google employees have started an internal spreadsheet to share data on salary and bonuses. Employees have reportedly used the spreadsheet to advocate for greater compensation.",
     "locations": [
-        "online"
+        [
+            "online"
+        ]
     ],
     "companies": [
         "google"

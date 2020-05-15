@@ -14,9 +14,11 @@
     ],
     "description": "Uber and Lyft drivers in Los Angeles are refusing to pick up customers today \u2014 part of a one-day strike to protest Uber's recent decision to slash pay rates for drivers in the area.",
     "locations": [
-        "los_angeles",
-        "california",
-        "usa"
+        [
+            "los angeles",
+            "california",
+            "usa"
+        ]
     ],
     "companies": [
         "uber",

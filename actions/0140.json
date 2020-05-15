@@ -15,9 +15,11 @@
     ],
     "description": "More than 50 Amazon employees from Amazon Employees for Climate Justice attended the shareholder meeting, where Emily Cunningham delivered an impassioned speech to shareholders urging them to support the resolution for Amazon to adopt a strong climate plan. Jeff Bezos did not come on stage when asked by Cunningham to make an appearance. Shareholders voted no.",
     "locations": [
-        "seattle",
-        "washington",
-        "usa"
+        [
+            "seattle",
+            "washington",
+            "usa"
+        ]
     ],
     "companies": [
         "amazon"

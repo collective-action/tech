@@ -16,8 +16,10 @@
     ],
     "description": "Spanish on-demand delivery startup Glovo is facing angry protests from couriers on its platform following the death of a 22-year-old rider in Barcelona where the business is headquartered. The victim was a Nepalese national called Pujan Koirala, who had been substituting for a registered Glovo courier at the time he was struck and killed by a garbage truck.",
     "locations": [
-        "barcelona",
-        "spain"
+        [
+            "barcelona",
+            "spain"
+        ]
     ],
     "companies": [
         "glovo"

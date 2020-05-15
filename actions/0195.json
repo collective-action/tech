@@ -16,8 +16,12 @@
     ],
     "description": "After GitHub CEO Nat Friedman wrote in an internal letter on Tuesday that the company plans to renew a contract worth $200,000 with ICE to license its GitHub Enterprise Server, GitHub's employees began publicly pressuring their company's leadership to stop working with the immigration agency over human rights concerns.",
     "locations": [
-        "usa",
-        "online"
+        [
+            "usa"
+        ],
+        [
+            "online"
+        ]
     ],
     "companies": [
         "github",

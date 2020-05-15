@@ -14,9 +14,11 @@
     ],
     "description": "Employees from Instacart, Doordash, and Postmates rallied outside of company headquarters to protest low wages. Doordash is rolling out a new pay model at the end of September which, it claims, will offer better pay for shoppers.",
     "locations": [
-        "san_francisco",
-        "california",
-        "usa"
+        [
+            "san francisco",
+            "california",
+            "usa"
+        ]
     ],
     "companies": [
         "postmates",

@@ -33,10 +33,15 @@
     ],
     "description": "After fighting for better working conditions, tech workers at Lanetix sent a letter to management outlining workplace grievances and announcing their intention to unionize with NewsGuild-CWA. They also filed a petition with the National Labor Relations Board (NLRB). The entire engineering staff was terminated after the petition was filed. In response, the San Francisco Tech Workers' Coalition, Lanetix workers from Virginia and San Francisco, and picketed Lanetix's offices in San Francisco. The NLRB investigation found evidence of unfair labor practices and the workers received a settlement in exchange for waiving their right to be reinstated.",
     "locations": [
-        "san_francisco",
-        "virginia",
-        "california",
-        "usa"
+        [
+            "san francisco",
+            "california",
+            "usa"
+        ],
+        [
+            "virginia",
+            "usa"
+        ]
     ],
     "companies": [
         "lanetix"

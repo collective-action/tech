@@ -17,9 +17,11 @@
     ],
     "description": "Contract workers at Google in Pittsburgh have voted to unionize, joining the United Steel Workers Union. News outlets report that this is the first successful unionization of white-collar tech contractors. Workers intend to use their position to bargain for compensation, benefits, and job security comparable to Google employees. Google currently employs more contract workers (135,000) than direct Google employees (115,000) according to the Guardian. A group of Google employees have signed a letter of support and others have published a petition calling for the company to sign a neutrality agreement and abstain from union-busting tactics.",
     "locations": [
-        "pittsburgh",
-        "pennsylvania",
-        "usa"
+        [
+            "pittsburgh",
+            "pennsylvania",
+            "usa"
+        ]
     ],
     "companies": [
         "google"

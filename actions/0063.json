@@ -14,9 +14,11 @@
     ],
     "description": "50 people in the tech community came out in the pouring rain to demand the data mining startup take a firm stand against the makings of a Muslim registry.",
     "locations": [
-        "palo_alto",
-        "california",
-        "usa"
+        [
+            "palo alto",
+            "california",
+            "usa"
+        ]
     ],
     "companies": [
         "palantir"

@@ -17,13 +17,21 @@
     ],
     "description": "Over the past few months, Amazon workers across the country have called on the company to provide part-time employees with paid sick leave. Amazon workers in New York City have started an online petition on coworker.org to advocate for paid time off, paid sick leave, and a process to appeal final warnings. Over 1,200 people have signed the petition. Workers at the Skokie, Illinois facility have written a letter to management and are circulating a petition demanding backdated paid time off. Though many workers log more than 20 hours a week, they are still recognized as part-time employees of the company. These events follow similar actions taken by Amazon workers in Sacramento late in 2019.",
     "locations": [
-        "new_york_city",
-        "new_york",
-        "skokie",
-        "illinois",
-        "sacramento",
-        "california",
-        "usa"
+        [
+            "new york city",
+            "new york",
+            "usa"
+        ],
+        [
+            "skokie",
+            "illinois",
+            "usa"
+        ],
+        [
+            "sacramento",
+            "california",
+            "usa"
+        ]
     ],
     "companies": [
         "amazon"

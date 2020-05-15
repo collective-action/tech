@@ -16,9 +16,11 @@
     ],
     "description": "118 food service workers at Yahoo won union representation at its headquarters in Sunnyvale, CA. The food service workers, who are employed by Yahoo's contractor, Bon Appetit, are calling for respect and dignity, affordable health care, and increased wages to compete with increasing rents in the Bay Area.",
     "locations": [
-        "sunnyvale",
-        "california",
-        "usa"
+        [
+            "sunnyvale",
+            "california",
+            "usa"
+        ]
     ],
     "companies": [
         "yahoo"

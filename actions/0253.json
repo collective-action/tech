@@ -16,8 +16,11 @@
     ],
     "description": "Rideshare drivers, partnered with the Mobile Workers Alliance, sent a letter to the Los Angeles City Attorney calling for the city to mandate that Lyft and Uber provide personal protective equipment to their employees, including masks and hand sanitizer, as well as access to handwashing stations in certain locations such as the airport.",
     "locations": [
-        "los angeles",
-        "california"
+        [
+            "los angeles",
+            "california",
+            "usa"
+        ]
     ],
     "companies": [
         "lyft",

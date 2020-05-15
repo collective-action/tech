@@ -15,8 +15,12 @@
     ],
     "description": "More than 250 Facebook employees signed a letter to management protesting the company's decision to keep political ads, including those making false claims, on the social network during the 2020 US Presidential election. The letter was posted on Facebook Workplace, an internal communication service within the company.",
     "locations": [
-        "usa",
-        "online"
+        [
+            "usa"
+        ],
+        [
+            "online"
+        ]
     ],
     "companies": [
         "facebook"

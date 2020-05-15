@@ -15,9 +15,11 @@
     ],
     "description": "Recently fired NPM employees claim they were punished for trying to form a union. Four complaints have been filed with the National Labor Relations Board, alleging labor law violations by management.",
     "locations": [
-        "oakland",
-        "california",
-        "usa"
+        [
+            "oakland",
+            "california",
+            "usa"
+        ]
     ],
     "companies": [
         "npm"

@@ -15,10 +15,14 @@
     "employment_types": [
         "gig_workers"
     ],
-    "description": "Hundreds of Mechanical Turk workers participate in an email writing campaign to Amazon founder Jeff Bezos to protest low pay and worker representation. The workers are organized by \"We Are Dynamo\", a self-described guild for crowdsourced workers started by workers and academics.",
+    "description": "Hundreds of Mechanical Turk workers participate in an email writing campaign to Amazon founder Jeff Bezos to protest low pay and worker representation. The workers are organized by 'We Are Dynamo', a self-described guild for crowdsourced workers started by workers and academics.",
     "locations": [
-        "usa",
-        "online"
+        [
+            "usa"
+        ],
+        [
+            "online"
+        ]
     ],
     "companies": [
         "amazon"

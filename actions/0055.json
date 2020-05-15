@@ -17,9 +17,14 @@
     ],
     "description": "Uber settled two class-action lawsuits that argued independent contractors should be classified as company employees. Uber agreed to pay drivers $84 million (and an additional $16 million upon IPO and pending increased valuation). Drivers were allowed to form associations in California and Massachusetts and see the data behind their rating. In later months, more than 150 drivers called for the judge to vacate the settlement.",
     "locations": [
-        "california",
-        "massachusetts",
-        "usa"
+        [
+            "california",
+            "usa"
+        ],
+        [
+            "massachusetts",
+            "usa"
+        ]
     ],
     "companies": [
         "uber"

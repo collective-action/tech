@@ -15,9 +15,11 @@
     ],
     "description": "Students at Brown demonstrated against four companies (Amazon, Microsoft, Palantir, and Ernst & Young) at an on-campus career fair. All four companies have done business with ICE. The students have also started an online petition to protest Brown's connections to these four companies. ",
     "locations": [
-        "providence",
-        "rhode_island",
-        "usa"
+        [
+            "providence",
+            "rhode island",
+            "usa"
+        ]
     ],
     "companies": [
         "palantir",

@@ -14,9 +14,11 @@
     ],
     "description": "Security guards at Broadcom, contracted through Universal Protection Service, rallied outside of company headquarters to protest retaliation for union organizing. The group was joined by Rev. Jesse Jackson and his Rainbow/PUSH Coalition, which has recently been pushing for greater diversity and equity in tech. UPS employees who have pushed for union organization through SEIU have reportedly had their wages cut.",
     "locations": [
-        "santa_clara",
-        "california",
-        "usa"
+        [
+            "santa clara",
+            "california",
+            "usa"
+        ]
     ],
     "companies": [
         "broadcom",

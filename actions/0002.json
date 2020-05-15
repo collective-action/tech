@@ -14,7 +14,9 @@
     ],
     "description": "A group of computer professionals, led by Computer Professionals for Social Responsibility (CPSR), signs a petition arguing that Pres. Reagan's Star Wars system is not feasible given current technology. Such a system would be prone to major errors, they argued, and would be irresponsible to implement.",
     "locations": [
-        "usa"
+        [
+            "usa"
+        ]
     ],
     "companies": null,
     "workers": 30,

@@ -16,8 +16,12 @@
     ],
     "description": "Google employees and contractors walked out of the companies's offices around the world, one week after the New York Times reported that Google had protected three executives accused of sexual misconduct.",
     "locations": [
-        "usa",
-        "worldwide"
+        [
+            "usa"
+        ],
+        [
+            "worldwide"
+        ]
     ],
     "companies": [
         "google"

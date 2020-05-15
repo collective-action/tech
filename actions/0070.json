@@ -16,8 +16,12 @@
     ],
     "description": "Mechanical Turk workers and organizers collaborated with researchers at Stanford\u2019s Crowd Research Collective to create Daemo, a crowd-sourced platform that provides a higher-paying alternative to Amazon's Mechanical Turk. Some Mechnical Turk workers involved with the project later came out in opposition to the original WIRED article in their own Medium article. They argued that WIRED incorrectly identified Daemo as a project originating at Stanford, as opposed to from the workers themselves and called for changes to Daemo's governing board.",
     "locations": [
-        "usa",
-        "online"
+        [
+            "usa"
+        ],
+        [
+            "online"
+        ]
     ],
     "companies": [
         "amazon",

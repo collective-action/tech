@@ -13,10 +13,12 @@
     "employment_types": [
         "blue_collar_workers"
     ],
-    "description": "Hundreds of workers at a Chinese Nokia factory located in Dongguan, Guangdong Province have on strike. They're holding up a large banner in protest, which reads \"Workers are not simple merchandise, assets or slaves. Please do not sell us. We have DIGNITY and RIGHTS!",
+    "description": "Hundreds of workers at a Chinese Nokia factory located in Dongguan, Guangdong Province have on strike. They're holding up a large banner in protest, which reads 'Workers are not simple merchandise, assets or slaves. Please do not sell us. We have DIGNITY and RIGHTS!",
     "locations": [
-        "dongguan",
-        "china"
+        [
+            "dongguan",
+            "china"
+        ]
     ],
     "companies": [
         "microsoft",

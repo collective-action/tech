@@ -16,9 +16,11 @@
     ],
     "description": "A group of temporary workers at Microsoft that includes accountants and lawyers has organized into a bargaining unit and is asking for representation through a local union, the Washington Alliance of Technology Workers. The employees expressed frustration at their status as contract workers, citing a lack of benefits as a motivating factor for the unionization attempt.",
     "locations": [
-        "seattle",
-        "washington",
-        "usa"
+        [
+            "seattle",
+            "washington",
+            "usa"
+        ]
     ],
     "companies": [
         "microsoft"

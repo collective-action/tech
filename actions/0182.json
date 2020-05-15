@@ -16,8 +16,12 @@
     ],
     "description": "Google employees have announced they are joining their big tech counterparts at Amazon and Microsoft in walking off the job on Sept. 20 to participate in the global climate strike. Over 2,000 Google workers have signed a pledge supporting climate action at Google. They will be sharing their reasons for signing on their Twitter page. The protest is part of a global general strike on September 20th 2019.",
     "locations": [
-        "online",
-        "usa"
+        [
+            "online"
+        ],
+        [
+            "usa"
+        ]
     ],
     "companies": [
         "google"

@@ -19,7 +19,7 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">28/04/2020 06:30PM</td>
+    <td data-summary="timestamp">14/05/2020 10:13PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
@@ -497,7 +497,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2020-02-09
    </td>
    <td>
-    AI researchers and engineers from around the world signed an online open letter calling for the tech industry to refrain from using AI technologies to "exacerbate the climate crisis". The letter, authored by Tech Won't Drill It, has been signed by over 100 AI researchers.
+    AI researchers and engineers from around the world signed an online open letter calling for the tech industry to refrain from using AI technologies to 'exacerbate the climate crisis'. The letter, authored by Tech Won't Drill It, has been signed by over 100 AI researchers.
    </td>
    <td>
     <a href="/actions/0228.json">
@@ -542,7 +542,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2020-02-03
    </td>
    <td>
-    A group of Instacart employees in the Chicago suburb Skokie voted to unionize with the United Food and Commercial Workers Local 1546—a historic win for the grocery delivery platform. The vote was 10-to-4 in favor of the union, according to workers. "The overwhelming majority of the employees made history by becoming the first Instacart employees to win a certified union election in the United States," UFCW Local 1546 wrote in a press statement.
+    A group of Instacart employees in the Chicago suburb Skokie voted to unionize with the United Food and Commercial Workers Local 1546—a historic win for the grocery delivery platform. The vote was 10-to-4 in favor of the union, according to workers. 'The overwhelming majority of the employees made history by becoming the first Instacart employees to win a certified union election in the United States,' UFCW Local 1546 wrote in a press statement.
    </td>
    <td>
     <a href="/actions/0225.json">
@@ -617,7 +617,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2019-12-19
    </td>
    <td>
-    In an open letter, several engineers, researchers, analysts, and designers working with global companies such as Google and Facebook have condemned the Citizenship (Amendment) Act in India. The letter, issued "in solidarity with the Indian democracy", was posted through the "TechAgainstFascism" handle on Medium. It called upon technology leaders to take a stance and publicly denounce the "fascist acts by the Indian government". "We call upon the leaders to use technology as a force for good, to refuse to share user details with the government, refuse to shut off the Internet at the government's whim, provide tools for citizen mobilization, and ensure that content moderation is not skewing pro-government," it said.
+    In an open letter, several engineers, researchers, analysts, and designers working with global companies such as Google and Facebook have condemned the Citizenship (Amendment) Act in India. The letter, issued 'in solidarity with the Indian democracy', was posted through the 'TechAgainstFascism' handle on Medium. It called upon technology leaders to take a stance and publicly denounce the 'fascist acts by the Indian government'. 'We call upon the leaders to use technology as a force for good, to refuse to share user details with the government, refuse to shut off the Internet at the government's whim, provide tools for citizen mobilization, and ensure that content moderation is not skewing pro-government,' it said.
    </td>
    <td>
     <a href="/actions/0220.json">
@@ -677,7 +677,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2019-12-04
    </td>
    <td>
-    In an open letter published Wednesday on GitHub, software developers representing the open source community joined the call for GitHub to immediately cancel the $200,000 contract with ICE. "Open source is about inverting power structures and creating access and opportunities for everyone," the letter, signed by 167 developers at the time of publication, reads. "We, the undersigned, cannot see how to reconcile our ethics with GitHub’s continued support of ICE. Moreover, your lack of transparency around the ethical standards you use for conducting business is also concerning to a community that is focused around doing everything out in the open."
+    In an open letter published Wednesday on GitHub, software developers representing the open source community joined the call for GitHub to immediately cancel the $200,000 contract with ICE. 'Open source is about inverting power structures and creating access and opportunities for everyone,' the letter, signed by 167 developers at the time of publication, reads. 'We, the undersigned, cannot see how to reconcile our ethics with GitHub’s continued support of ICE. Moreover, your lack of transparency around the ethical standards you use for conducting business is also concerning to a community that is focused around doing everything out in the open.'
    </td>
    <td>
     <a href="/actions/0216.json">
@@ -707,7 +707,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2019-12-03
    </td>
    <td>
-    Four recently fired Google engineers who were active in organizing within the company say they will push for a federal investigation into the search and advertising giant for unfair labor practices. In a medium post, the four former employees announced their intent to file charges with the National Labor Relations Board for what they allege was retaliation from the company against their roles in organizing workers. In the letter, they write: "Last week, Google fired us for engaging in protected labor organizing." Update: Complaint was officially filed with the NLRB.
+    Four recently fired Google engineers who were active in organizing within the company say they will push for a federal investigation into the search and advertising giant for unfair labor practices. In a medium post, the four former employees announced their intent to file charges with the National Labor Relations Board for what they allege was retaliation from the company against their roles in organizing workers. In the letter, they write: 'Last week, Google fired us for engaging in protected labor organizing.' Update: Complaint was officially filed with the NLRB.
    </td>
    <td>
     <a href="/actions/0214.json">
@@ -737,7 +737,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2019-11-29
    </td>
    <td>
-    Hundreds of Amazon workers in Germany walked off the job as the online retailer kicked off its "Black Friday" sales bonanza, escalating a long-simmering battle for better pay and working conditions. The strike called by the powerful Verdi union is set to last until Tuesday morning and will also cover "Cyber Monday", another extravaganza of online discounts in what is a crucial sales period for Amazon. Verdi members are demanding a collective agreement for a living wage.
+    Hundreds of Amazon workers in Germany walked off the job as the online retailer kicked off its 'Black Friday' sales bonanza, escalating a long-simmering battle for better pay and working conditions. The strike called by the powerful Verdi union is set to last until Tuesday morning and will also cover 'Cyber Monday', another extravaganza of online discounts in what is a crucial sales period for Amazon. Verdi members are demanding a collective agreement for a living wage.
    </td>
    <td>
     <a href="/actions/0212.json">
@@ -827,7 +827,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2019-11-08
    </td>
    <td>
-    WeWork employees have formed a group to campaign for better severance pay, employment conditions and an end to "deception, exclusion and selfishness at the company's highest levels" following the turmoil of its failed IPO process. The WeWorkers Coalition announced its existence on Friday with a letter to management setting out demands including for sexual assault claims to be "taken seriously" and for thousands of employees about to lose their jobs to receive "fair and reasonable separation terms". "Thousands of us will be laid off in the upcoming weeks. But we want our time here to have meant something" the group said in its letter. A software engineer at WeWork who is helping to organise the WeWorkers Coalition, said 185 people had signed the letter to management, while at least 600 expressed an interest in joining ahead of the group publicising its launch this week. The coalition wants cleaners and maintenance staff to receive full benefits and fair pay.
+    WeWork employees have formed a group to campaign for better severance pay, employment conditions and an end to 'deception, exclusion and selfishness at the company's highest levels' following the turmoil of its failed IPO process. The WeWorkers Coalition announced its existence on Friday with a letter to management setting out demands including for sexual assault claims to be 'taken seriously' and for thousands of employees about to lose their jobs to receive 'fair and reasonable separation terms'. 'Thousands of us will be laid off in the upcoming weeks. But we want our time here to have meant something' the group said in its letter. A software engineer at WeWork who is helping to organise the WeWorkers Coalition, said 185 people had signed the letter to management, while at least 600 expressed an interest in joining ahead of the group publicising its launch this week. The coalition wants cleaners and maintenance staff to receive full benefits and fair pay.
    </td>
    <td>
     <a href="/actions/0206.json">
@@ -842,7 +842,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2019-11-06
    </td>
    <td>
-    Shutterstock engineers were tasked with the creation of a search blacklist that would wipe from query results images associated with keywords forbidden by the Chinese government, including images of the Hong Kong protests. The company's decision to silently aid China's censorship agenda comes at a time of heightened scrutiny into the relationship between corporate America and President Xi Jinping's authoritarian regime. More than 180 Shutterstock workers to sign a petition against the search blacklist and accuse the company of trading its values for access to the lucrative Chinese market. They write that by "complying, we are enabling injustices, including the discrimination of the people of Hong Kong, the suppression of Chinese political dissent, and undermining the sovereignty of Taiwanese people."
+    Shutterstock engineers were tasked with the creation of a search blacklist that would wipe from query results images associated with keywords forbidden by the Chinese government, including images of the Hong Kong protests. The company's decision to silently aid China's censorship agenda comes at a time of heightened scrutiny into the relationship between corporate America and President Xi Jinping's authoritarian regime. More than 180 Shutterstock workers to sign a petition against the search blacklist and accuse the company of trading its values for access to the lucrative Chinese market. They write that by 'complying, we are enabling injustices, including the discrimination of the people of Hong Kong, the suppression of Chinese political dissent, and undermining the sovereignty of Taiwanese people.'
    </td>
    <td>
     <a href="/actions/0205.json">
@@ -857,7 +857,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2019-11-06
    </td>
    <td>
-    Uber and Lyft employees protested outside the homes of three company investors to highlight the inequality between them and their workforce in a campaign called "Deactivate Uber Billionaires". The San Francisco Chronicle reports that protests occured at "the San Francisco office of GV, the venture capital arm of Google parent Alphabet that was an early Uber investor; the Atherton mansion of Bill Gurley, an Uber board member and venture capitalist; and the Beverly Hills home of Uber co-founder Garrett Camp". The protests coincide with the end of Uber's stock lockup period six months after their IPO.
+    Uber and Lyft employees protested outside the homes of three company investors to highlight the inequality between them and their workforce in a campaign called 'Deactivate Uber Billionaires'. The San Francisco Chronicle reports that protests occured at 'the San Francisco office of GV, the venture capital arm of Google parent Alphabet that was an early Uber investor; the Atherton mansion of Bill Gurley, an Uber board member and venture capitalist; and the Beverly Hills home of Uber co-founder Garrett Camp'. The protests coincide with the end of Uber's stock lockup period six months after their IPO.
    </td>
    <td>
     <a href="/actions/0204.json">
@@ -872,7 +872,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2019-11-04
    </td>
    <td>
-    Over 1000 Google employees have signed a letter calling for their employer to take action on the issues of climate change and immigration. The letter called on Google to commit to zero carbon emissions by 2030, end all contracts with fossil fuel companies and climate change denying or delaying "think tanks, lobbyists, and politicians", and end all collaboration with organizations or individuals "enabling the incarceration, surveillance, displacement, or oppression of refugees or frontline communities".
+    Over 1000 Google employees have signed a letter calling for their employer to take action on the issues of climate change and immigration. The letter called on Google to commit to zero carbon emissions by 2030, end all contracts with fossil fuel companies and climate change denying or delaying 'think tanks, lobbyists, and politicians', and end all collaboration with organizations or individuals 'enabling the incarceration, surveillance, displacement, or oppression of refugees or frontline communities'.
    </td>
    <td>
     <a href="/actions/0203.json">
@@ -887,7 +887,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2019-11-03
    </td>
    <td>
-    "Thousands" of Instacart shoppers went on strike from Nov. 3rd to Nov. 5th to protest the company's new tipping policy, which returns a portion of tips to the corporation rather than the workers. Participating shoppers refused to answer requests on the app. Instacart workers are considered contractors currently but this will change on January 1st in the state of California under AB5 legislation.
+    Thousands' of Instacart shoppers went on strike from Nov. 3rd to Nov. 5th to protest the company's new tipping policy, which returns a portion of tips to the corporation rather than the workers. Participating shoppers refused to answer requests on the app. Instacart workers are considered contractors currently but this will change on January 1st in the state of California under AB5 legislation.
    </td>
    <td>
     <a href="/actions/0202.json">
@@ -1262,7 +1262,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2019-09-07
    </td>
    <td>
-    A group of Facebook employees published an anonymous memo saying the culture at the company has only gotten worse for nonwhite workers. Published on Medium, the letter documents a variety of micro- and full-blown aggressions employees say they have endured over the last year from managers, HR, and their white colleagues. The memo was co-written by 12 current employees, including black, Latinx, and Asian women workers. One program manager describes being told by two white employees to "clean up after their mess" at breakfast. When the program manager flagged the incident for their supervisor, they were told to "dress more professionally."
+    A group of Facebook employees published an anonymous memo saying the culture at the company has only gotten worse for nonwhite workers. Published on Medium, the letter documents a variety of micro- and full-blown aggressions employees say they have endured over the last year from managers, HR, and their white colleagues. The memo was co-written by 12 current employees, including black, Latinx, and Asian women workers. One program manager describes being told by two white employees to 'clean up after their mess' at breakfast. When the program manager flagged the incident for their supervisor, they were told to 'dress more professionally.'
    </td>
    <td>
     <a href="/actions/0177.json">
@@ -1337,7 +1337,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2019-08-22
    </td>
    <td>
-    More than 60" Palantir employees have signed a petition to management calling for the company to send profits from ICE contracts to charity. This comes after the company renewed its second contract with ICE on Aug. 19.
+    More than 60' Palantir employees have signed a petition to management calling for the company to send profits from ICE contracts to charity. This comes after the company renewed its second contract with ICE on Aug. 19.
    </td>
    <td>
     <a href="/actions/0172.json">
@@ -1352,7 +1352,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2019-08-14
    </td>
    <td>
-    A group of Caviar employees has banded together to request a good faith renegotiation from DoorDash and Square, claiming mistreatment in the job transition process as DoorDash finalizes its plans to acquire Caviar from the payment company. It is unclear how many people this letter represents, though an anonymous Caviar member claims that the group is made up of the "majority" of non-management employees. (According to Crunchbase, Caviar employs between 100 and 250 people.)t
+    A group of Caviar employees has banded together to request a good faith renegotiation from DoorDash and Square, claiming mistreatment in the job transition process as DoorDash finalizes its plans to acquire Caviar from the payment company. It is unclear how many people this letter represents, though an anonymous Caviar member claims that the group is made up of the 'majority' of non-management employees. (According to Crunchbase, Caviar employs between 100 and 250 people.)t
    </td>
    <td>
     <a href="/actions/0171.json">
@@ -1382,7 +1382,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2019-08-13
    </td>
    <td>
-    After the El Paso and Gilroy shootings, A collective of prominent tech leaders that calls itself Build Tech We Trust signed a letter demanding that the tech industry stop the spread of hate and terrorism on digital platforms. "We are a collective of tech CEOs, activists, changemakers, and workers who believe the time to act to counter the hate and terrorism is now," stated the letter, which was signed by over 20 notable figures in the tech industry, including Ellen Pao, ReadySet CEO Y-Vonne Hutchinson, and Code2040 CEO Karla Monterroso.
+    After the El Paso and Gilroy shootings, A collective of prominent tech leaders that calls itself Build Tech We Trust signed a letter demanding that the tech industry stop the spread of hate and terrorism on digital platforms. 'We are a collective of tech CEOs, activists, changemakers, and workers who believe the time to act to counter the hate and terrorism is now,' stated the letter, which was signed by over 20 notable figures in the tech industry, including Ellen Pao, ReadySet CEO Y-Vonne Hutchinson, and Code2040 CEO Karla Monterroso.
    </td>
    <td>
     <a href="/actions/0169.json">
@@ -1397,7 +1397,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2019-08-12
    </td>
    <td>
-    A group of anonymous Whole Foods workers denounced their parent company Amazon's ties to Immigration and Customs Enforcement (ICE) in an open letter. The letter from Whole Foods workers is the latest push from within Amazon, where workers have been protesting their employer's opaque relationship with ICE and the Department of Homeland Security (DHS) for more than a year. Whole Worker — the protest group of Whole Foods employees — is calling for Amazon to "cease all business with Palantir and any other company involved in the continued oppression of marginalized groups.
+    A group of anonymous Whole Foods workers denounced their parent company Amazon's ties to Immigration and Customs Enforcement (ICE) in an open letter. The letter from Whole Foods workers is the latest push from within Amazon, where workers have been protesting their employer's opaque relationship with ICE and the Department of Homeland Security (DHS) for more than a year. Whole Worker — the protest group of Whole Foods employees — is calling for Amazon to 'cease all business with Palantir and any other company involved in the continued oppression of marginalized groups.
    </td>
    <td>
     <a href="/actions/0168.json">
@@ -1727,7 +1727,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2019-06-15
    </td>
    <td>
-    Thousands" of Postmates employees activated a Blitz Up app on June 15. The app prevented them from taking any delivery jobs without a "Blitz bonus" of 1.5x the typical rate. The action was taken to protest pay cuts that went into effect May 2019. Blitz Up was created by the Pay Up Campaign, a group of Instacart workers that organized to protest pay cuts in January 2019.
+    Thousands' of Postmates employees activated a Blitz Up app on June 15. The app prevented them from taking any delivery jobs without a 'Blitz bonus' of 1.5x the typical rate. The action was taken to protest pay cuts that went into effect May 2019. Blitz Up was created by the Pay Up Campaign, a group of Instacart workers that organized to protest pay cuts in January 2019.
    </td>
    <td>
     <a href="/actions/0146.json">
@@ -1847,7 +1847,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2019-05-09
    </td>
    <td>
-    Staff at US-owned tech giant Oracle's China Development Centre in Beijing have staged protests after the company fired 900 staff from its China team, making up 60 per cent of its research and development effort there. Employees blamed tensions between the US and China for the cuts which came in the same week as the US announced additional tariffs on Chinese goods. An employee referred to the Oracle co-founder's interview with Fox Business last October, in which Larry Ellison said that "we [the US] have a serious competition going with China, I’m on Team USA", and "if we let China produce more engineers than we do, if we let China's technology companies beat our technology companies, it won't be long that our military is behind technologically also".
+    Staff at US-owned tech giant Oracle's China Development Centre in Beijing have staged protests after the company fired 900 staff from its China team, making up 60 per cent of its research and development effort there. Employees blamed tensions between the US and China for the cuts which came in the same week as the US announced additional tariffs on Chinese goods. An employee referred to the Oracle co-founder's interview with Fox Business last October, in which Larry Ellison said that 'we [the US] have a serious competition going with China, I’m on Team USA', and 'if we let China produce more engineers than we do, if we let China's technology companies beat our technology companies, it won't be long that our military is behind technologically also'.
    </td>
    <td>
     <a href="/actions/0138.json">
@@ -1862,7 +1862,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2019-05-08
    </td>
    <td>
-    Google employees publish an open letter demanding that Alphabet CEO Larry Page "immediately and publicly address the Walkout’s demands, and recommit Google to meeting them." The list of demands also asks for the company to allow Meredith to continue her work, fully funded, as before and to allow Claire to change teams without further retaliation. The letter calls out the broken nature of the HR department at Google, and demands for an open and transparent investigation on the department.
+    Google employees publish an open letter demanding that Alphabet CEO Larry Page 'immediately and publicly address the Walkout’s demands, and recommit Google to meeting them.' The list of demands also asks for the company to allow Meredith to continue her work, fully funded, as before and to allow Claire to change teams without further retaliation. The letter calls out the broken nature of the HR department at Google, and demands for an open and transparent investigation on the department.
    </td>
    <td>
     <a href="/actions/0137.json">
@@ -1907,7 +1907,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2019-05-01
    </td>
    <td>
-    Google workers stage a sit-in on May Day, following allegations of retaliation from the company against employees who participated in walkouts last year. "Googlers from around the world gathered at 11am local time to sit together and show retaliation is #NotOkGoogle. The stories we've been collecting will be shared, demands will be read, and all will be in solidarity with those withstanding this chilling practice.
+    Google workers stage a sit-in on May Day, following allegations of retaliation from the company against employees who participated in walkouts last year. 'Googlers from around the world gathered at 11am local time to sit together and show retaliation is #NotOkGoogle. The stories we've been collecting will be shared, demands will be read, and all will be in solidarity with those withstanding this chilling practice.
    </td>
    <td>
     <a href="/actions/0134.json">
@@ -1937,7 +1937,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2019-04-25
    </td>
    <td>
-    A GitHub user called on those who condemn 996 to respond to Jack Ma's endorsement of the widely criticized work schedule by sending an official copy of China's labor law on May 4 to the Alibaba headquarters. Ma, founder of Alibaba and the richest man in China, dismissed outcry on social media over the grueling working hours in China's tech industry in a blog post on April 12. "To be able to work 996 is a huge blessing," he said. The GitHub post estimates 1,000 participants will participate.
+    A GitHub user called on those who condemn 996 to respond to Jack Ma's endorsement of the widely criticized work schedule by sending an official copy of China's labor law on May 4 to the Alibaba headquarters. Ma, founder of Alibaba and the richest man in China, dismissed outcry on social media over the grueling working hours in China's tech industry in a blog post on April 12. 'To be able to work 996 is a huge blessing,' he said. The GitHub post estimates 1,000 participants will participate.
    </td>
    <td>
     <a href="/actions/0132.json">
@@ -1967,7 +1967,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2019-04-19
    </td>
    <td>
-    Deliveroo riders took to Nottingham city centre again to protest for improved working and pay conditions. Protesters are growing frustrated with a "lack of communication" and an "unwillingness to have their demands listened to" by the food delivery company.
+    Deliveroo riders took to Nottingham city centre again to protest for improved working and pay conditions. Protesters are growing frustrated with a 'lack of communication' and an 'unwillingness to have their demands listened to' by the food delivery company.
    </td>
    <td>
     <a href="/actions/0130.json">
@@ -2027,7 +2027,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2019-04-02
    </td>
    <td>
-    More than 900 Google workers have signed a letter objecting to the tech giant's treatment of temporary contractors, in what organizers are calling a "historical coalition" between Google"s full-time employees (FTEs) and temps, vendors and contractors (TVCs).
+    More than 900 Google workers have signed a letter objecting to the tech giant's treatment of temporary contractors, in what organizers are calling a 'historical coalition' between Google's full-time employees (FTEs) and temps, vendors and contractors (TVCs).
    </td>
    <td>
     <a href="/actions/0126.json">
@@ -2072,7 +2072,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2019-03-28
    </td>
    <td>
-    A campaign against long working hours by professionals in China's technology sector has become one of the fastest growing Github repository in Github's history. The "anti-996" campaign opposes employees working shifts of 9am-9pm, six days a week, which are commonly required by the country's tech giants.
+    A campaign against long working hours by professionals in China's technology sector has become one of the fastest growing Github repository in Github's history. The 'anti-996' campaign opposes employees working shifts of 9am-9pm, six days a week, which are commonly required by the country's tech giants.
    </td>
    <td>
     <a href="/actions/0123.json">
@@ -2087,7 +2087,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2019-03-26
    </td>
    <td>
-    Researchers are calling on Amazon to stop selling facial recognition software to law enforcement. This letter follows similar calls by Amazon workers and civil rights organizations. "We call on Amazon to stop selling Rekognition to law enforcement as legislation and safeguards to prevent misuse are not in place.
+    Researchers are calling on Amazon to stop selling facial recognition software to law enforcement. This letter follows similar calls by Amazon workers and civil rights organizations. 'We call on Amazon to stop selling Rekognition to law enforcement as legislation and safeguards to prevent misuse are not in place.
    </td>
    <td>
     <a href="/actions/0122.json">
@@ -2162,7 +2162,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2019-02-27
    </td>
    <td>
-    Ten Stanford students with a group called Students for the Liberation of All People (SLAP) protested a guest lecture by Salesforce executive Richard Socher. The students, who held signs — "Salesforcing families apart," "Richard are you getting rich from deportation?" and "Salesfart" — oppose the company’s contract with Customs and Borders Protection (CBP).
+    Ten Stanford students with a group called Students for the Liberation of All People (SLAP) protested a guest lecture by Salesforce executive Richard Socher. The students, who held signs — 'Salesforcing families apart,' 'Richard are you getting rich from deportation?' and 'Salesfart' — oppose the company’s contract with Customs and Borders Protection (CBP).
    </td>
    <td>
     <a href="/actions/0117.json">
@@ -2177,7 +2177,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2019-02-22
    </td>
    <td>
-    Microsoft employees circulated a letter among the companies' over 130,000-person staff demanding that executives cancel a $479 million contract with the US Army, IVAS, that will provide weapons technology to the U.S. Military to 'increase lethality' to army soldiers. "We did not sign up to develop weapons, and we demand a say in how our work is used.
+    Microsoft employees circulated a letter among the companies' over 130,000-person staff demanding that executives cancel a $479 million contract with the US Army, IVAS, that will provide weapons technology to the U.S. Military to 'increase lethality' to army soldiers. 'We did not sign up to develop weapons, and we demand a say in how our work is used.
    </td>
    <td>
     <a href="/actions/0116.json">
@@ -2222,7 +2222,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2019-01-18
    </td>
    <td>
-    Attorneys seek to represent more than 4,200 women in a lawsuit against Oracle that alleged that female employees were paid on average $13,000 less per year than men doing similar work. An analysis of payroll data found disparities with an "extraordinarily high degree of statistical significance", the complaint said. Women made 3.8% less in base salaries on average than men in the same job categories, 13.2% less in bonuses, and 33.1% less in stock value, it alleges.
+    Attorneys seek to represent more than 4,200 women in a lawsuit against Oracle that alleged that female employees were paid on average $13,000 less per year than men doing similar work. An analysis of payroll data found disparities with an 'extraordinarily high degree of statistical significance', the complaint said. Women made 3.8% less in base salaries on average than men in the same job categories, 13.2% less in bonuses, and 33.1% less in stock value, it alleges.
    </td>
    <td>
     <a href="/actions/0113.json">
@@ -2237,7 +2237,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2019-01-17
    </td>
    <td>
-    150 Instacart workers have started a petition to protest changes in how they are paid. The petition urges the company to change this policy. It also encourages Instacart users to pay "shoppers" the minimum $0.22 tip through the app and to pay the remainder of the tip in cash to ensure the tip amount primarily goes to workers.
+    150 Instacart workers have started a petition to protest changes in how they are paid. The petition urges the company to change this policy. It also encourages Instacart users to pay 'shoppers' the minimum $0.22 tip through the app and to pay the remainder of the tip in cash to ensure the tip amount primarily goes to workers.
    </td>
    <td>
     <a href="/actions/0112.json">
@@ -2267,7 +2267,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2018-12-14
    </td>
    <td>
-    Amid chants of "Hear our voice," a group of about 100 Somali-American workers and their supporters marched to the entrance of Amazon"s Shakopee fulfillment center Friday evening to protest unfair working conditions.
+    Amid chants of 'Hear our voice,' a group of about 100 Somali-American workers and their supporters marched to the entrance of Amazon's Shakopee fulfillment center Friday evening to protest unfair working conditions.
    </td>
    <td>
     <a href="/actions/0110.json">
@@ -2282,7 +2282,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2018-12-06
    </td>
    <td>
-    20 subcontractors working at Facebook Reality Labs signed a letter to their contracting firm, Filter Digital, seeking better employment terms. The letter addressed inequities between the Filter employees and other employees at the Facebook facility, including workers employed by other contractors. Ex. Facebook closes its office for 11 holidays per year, according to the letter, but Filter only observes five of those holidays. Since Facebook's offices are closed on those days, preventing the Filter employees from working, they are forced to use six out of their 10 days of paid time off to cover the other holidays – or go without pay. A Facebook FTE shared a copy of the letter on Workplace and "got a lot of positive reception from full time employees and other contingent workers
+    20 subcontractors working at Facebook Reality Labs signed a letter to their contracting firm, Filter Digital, seeking better employment terms. The letter addressed inequities between the Filter employees and other employees at the Facebook facility, including workers employed by other contractors. Ex. Facebook closes its office for 11 holidays per year, according to the letter, but Filter only observes five of those holidays. Since Facebook's offices are closed on those days, preventing the Filter employees from working, they are forced to use six out of their 10 days of paid time off to cover the other holidays – or go without pay. A Facebook FTE shared a copy of the letter on Workplace and 'got a lot of positive reception from full time employees and other contingent workers
    </td>
    <td>
     <a href="/actions/0109.json">
@@ -2327,7 +2327,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2018-11-27
    </td>
    <td>
-    Google employees have signed an open letter published Tuesday on Medium demanding that the companies cease work on Project Dragonfly, which is aimed at creating a search engine that the Chinese government would be able to control to censor certain results and surveil users. "International human rights organizations and investigative reporters have also sounded the alarm, emphasizing serious human rights concerns and repeatedly calling on Google to cancel the project," the letter reads in part. "So far, our leadership's response has been unsatisfactory.
+    Google employees have signed an open letter published Tuesday on Medium demanding that the companies cease work on Project Dragonfly, which is aimed at creating a search engine that the Chinese government would be able to control to censor certain results and surveil users. 'International human rights organizations and investigative reporters have also sounded the alarm, emphasizing serious human rights concerns and repeatedly calling on Google to cancel the project,' the letter reads in part. 'So far, our leadership's response has been unsatisfactory.
    </td>
    <td>
     <a href="/actions/0106.json">
@@ -2342,7 +2342,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2018-11-23
    </td>
    <td>
-    A group of Instacart delivery workers is waging an ongoing "soft strike" against the companies to demand better pay this Thanksgiving weekend for the third year in a row. The workers, who are independent contractors, say a recent change to the grocery delivery platform's pay structure was an effective pay cut that’s threatening their livelihoods. As a result, they’re refusing to deliver extra-heavy items, drive more than eight miles per order, or accept time-consuming, low-paying jobs. A group of delivery workers wrote  a letter sent to Instacart CEO Apoorva Mehta.
+    A group of Instacart delivery workers is waging an ongoing 'soft strike' against the companies to demand better pay this Thanksgiving weekend for the third year in a row. The workers, who are independent contractors, say a recent change to the grocery delivery platform's pay structure was an effective pay cut that’s threatening their livelihoods. As a result, they’re refusing to deliver extra-heavy items, drive more than eight miles per order, or accept time-consuming, low-paying jobs. A group of delivery workers wrote  a letter sent to Instacart CEO Apoorva Mehta.
    </td>
    <td>
     <a href="/actions/0105.json">
@@ -2417,7 +2417,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2018-10-12
    </td>
    <td>
-    An open letter signed by "employees of Microsoft" asks the cloud giant to abstain from bidding on the military's massive JEDI cloud computing contract for ethical reasons involving the application of artificial intelligence.
+    An open letter signed by 'employees of Microsoft' asks the cloud giant to abstain from bidding on the military's massive JEDI cloud computing contract for ethical reasons involving the application of artificial intelligence.
    </td>
    <td>
     <a href="/actions/0100.json">
@@ -2567,7 +2567,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2018-06-21
    </td>
    <td>
-    Earlier this year, a group of influential software engineers in Google’s cloud division, referred to as the "Group of Nine", surprised their superiors by refusing to work on a cutting-edge security feature. Known as “air gap,” the technology would have helped Google win sensitive military contracts. The coders weren’t persuaded their employer should be using its technological might to help the government wage war, according to four current and former employees. After hearing the engineers’ objections, Urs Hölzle, Google’s top technical executive, said the air gap feature would be postponed, one of the people said.
+    Earlier this year, a group of influential software engineers in Google’s cloud division, referred to as the 'Group of Nine', surprised their superiors by refusing to work on a cutting-edge security feature. Known as “air gap,” the technology would have helped Google win sensitive military contracts. The coders weren’t persuaded their employer should be using its technological might to help the government wage war, according to four current and former employees. After hearing the engineers’ objections, Urs Hölzle, Google’s top technical executive, said the air gap feature would be postponed, one of the people said.
    </td>
    <td>
     <a href="/actions/0090.json">
@@ -2687,7 +2687,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2018-05-14
    </td>
    <td>
-    Workers of Oracle Korea have been sat outside the main office for more than 50 days after 19 negotiations with the management from December to April failed. This is now the longest strike by employees of a foreign IT companies in Korea. "Some people think we don't need a union because they believe we work at a leading global IT companies and have well-paid jobs," Kim Chul-soo, president of the Oracle labor union, said. "It's not true at all." Workers are suffering from a decline in real wages because there has been no increase in basic salary for the last 10 years, while half of the salary is based on incentives. Hiring scams similar to those at local banks, along with sexual harassment are also among the union’s accusations.
+    Workers of Oracle Korea have been sat outside the main office for more than 50 days after 19 negotiations with the management from December to April failed. This is now the longest strike by employees of a foreign IT companies in Korea. 'Some people think we don't need a union because they believe we work at a leading global IT companies and have well-paid jobs,' Kim Chul-soo, president of the Oracle labor union, said. 'It's not true at all.' Workers are suffering from a decline in real wages because there has been no increase in basic salary for the last 10 years, while half of the salary is based on incentives. Hiring scams similar to those at local banks, along with sexual harassment are also among the union’s accusations.
    </td>
    <td>
     <a href="/actions/0082.json">
@@ -2777,7 +2777,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2018-03-06
    </td>
    <td>
-    Stanford Students Against Addictive Devices, a group of computer science students at the university, stage a protest at Apple Headquarters. They call for Apple to design devices with an "essential mode", allowing the user to activate only basic functions. The group previously held a protest at the Apple store in downtown Palo Alto.
+    Stanford Students Against Addictive Devices, a group of computer science students at the university, stage a protest at Apple Headquarters. They call for Apple to design devices with an 'essential mode', allowing the user to activate only basic functions. The group previously held a protest at the Apple store in downtown Palo Alto.
    </td>
    <td>
     <a href="/actions/0076.json">
@@ -2792,7 +2792,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2018-02-18
    </td>
    <td>
-    After raising a round of $400 million, tech workers protest Doordash using workers' tip money to subsidize base pay. "Silicon Valley investors clearly don't care that DoorDash cheats drivers — in fact, DoorDash is likely being rewarded for adopting practices that improve their profit margins and treats drivers unfairly. However, investors do care that their startups can hire the best tech talent to help them execute on their mission.
+    After raising a round of $400 million, tech workers protest Doordash using workers' tip money to subsidize base pay. 'Silicon Valley investors clearly don't care that DoorDash cheats drivers — in fact, DoorDash is likely being rewarded for adopting practices that improve their profit margins and treats drivers unfairly. However, investors do care that their startups can hire the best tech talent to help them execute on their mission.
    </td>
    <td>
     <a href="/actions/0075.json">
@@ -2927,7 +2927,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2017-02-04
    </td>
    <td>
-    A "handful" of Facebook employees have vowed not to fly for 90 days following Pres. Trump's immigration ban. The company has said it is not affiliated with this protest.
+    A 'handful' of Facebook employees have vowed not to fly for 90 days following Pres. Trump's immigration ban. The company has said it is not affiliated with this protest.
    </td>
    <td>
     <a href="/actions/0066.json">
@@ -3257,7 +3257,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2015-01-09
    </td>
    <td>
-    A lawsuit alleges that Instacart, an on-demand grocery delivery service valued at $2 billion, misclassifies its workers as independent contractors to avoid paying expenses like overtime, reimbursements for gas and workers' compensation. The class action complaint, which was filed on Jan. 9th but has not been previously reported, describes Instacart's business practices as "unethical, oppressive and unscrupulous" and seeks damages for anyone who has worked as a "shopper delivery person" for the company since 2012. In 2017, Instacart won a small victory — the grocery-on-demand startup just settled a class action lawsuit to the tune of $4.6 million.
+    A lawsuit alleges that Instacart, an on-demand grocery delivery service valued at $2 billion, misclassifies its workers as independent contractors to avoid paying expenses like overtime, reimbursements for gas and workers' compensation. The class action complaint, which was filed on Jan. 9th but has not been previously reported, describes Instacart's business practices as 'unethical, oppressive and unscrupulous' and seeks damages for anyone who has worked as a 'shopper delivery person' for the company since 2012. In 2017, Instacart won a small victory — the grocery-on-demand startup just settled a class action lawsuit to the tune of $4.6 million.
    </td>
    <td>
     <a href="/actions/0044.json">
@@ -3272,7 +3272,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2014-12-03
    </td>
    <td>
-    Hundreds of Mechanical Turk workers participate in an email writing campaign to Amazon founder Jeff Bezos to protest low pay and worker representation. The workers are organized by "We Are Dynamo", a self-described guild for crowdsourced workers started by workers and academics.
+    Hundreds of Mechanical Turk workers participate in an email writing campaign to Amazon founder Jeff Bezos to protest low pay and worker representation. The workers are organized by 'We Are Dynamo', a self-described guild for crowdsourced workers started by workers and academics.
    </td>
    <td>
     <a href="/actions/0043.json">
@@ -3302,7 +3302,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2014-11-04
    </td>
    <td>
-    Artesyn Technologies announced through their QQ blog that employees mainly from the hardware department were participating in a protest against Sony. They held their protest against what they called violent layoffs and discrimination and they appealed to Sony to disclose a list of those being discharged. They also demanded negotiations and a "fair, transparent and open" process.
+    Artesyn Technologies announced through their QQ blog that employees mainly from the hardware department were participating in a protest against Sony. They held their protest against what they called violent layoffs and discrimination and they appealed to Sony to disclose a list of those being discharged. They also demanded negotiations and a 'fair, transparent and open' process.
    </td>
    <td>
     <a href="/actions/0041.json">
@@ -3362,7 +3362,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2014-04-19
    </td>
    <td>
-    Tech workers from Google, Apple, Intel, and Adobe Systems brought a class action lawsuit against their respective companies, claiming that they conspired to keep salaries down by adhering to "no-hire" agreements among themselves. The case ended in a $325 million settlement that paid out roughly $4,000 to 60,000 employees.
+    Tech workers from Google, Apple, Intel, and Adobe Systems brought a class action lawsuit against their respective companies, claiming that they conspired to keep salaries down by adhering to 'no-hire' agreements among themselves. The case ended in a $325 million settlement that paid out roughly $4,000 to 60,000 employees.
    </td>
    <td>
     <a href="/actions/0037.json">
@@ -3467,7 +3467,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2013-11-19
    </td>
    <td>
-    Hundreds of workers at a Chinese Nokia factory located in Dongguan, Guangdong Province have on strike. They're holding up a large banner in protest, which reads "Workers are not simple merchandise, assets or slaves. Please do not sell us. We have DIGNITY and RIGHTS!
+    Hundreds of workers at a Chinese Nokia factory located in Dongguan, Guangdong Province have on strike. They're holding up a large banner in protest, which reads 'Workers are not simple merchandise, assets or slaves. Please do not sell us. We have DIGNITY and RIGHTS!
    </td>
    <td>
     <a href="/actions/0030.json">
@@ -3497,7 +3497,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2013-09-19
    </td>
    <td>
-    Students from Leipzig University have formed an organization known as "Amazon Solidarity Alliance" and have collected 500 signatures in support of ongoing strikes by Amazon workers in Leipzig. The company frequently employs students in temporary positions.
+    Students from Leipzig University have formed an organization known as 'Amazon Solidarity Alliance' and have collected 500 signatures in support of ongoing strikes by Amazon workers in Leipzig. The company frequently employs students in temporary positions.
    </td>
    <td>
     <a href="/actions/0028.json">
@@ -3527,7 +3527,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2013-05-19
    </td>
    <td>
-    Amazon workers at two German facilities (Bad Hersfeld and Leipzig) walked off the job to protest low wages and the company's refusal to sign a collective bargaining agreement for the retail sector. Der Speigel reports that this is the "first strike in the online retail giant's history".
+    Amazon workers at two German facilities (Bad Hersfeld and Leipzig) walked off the job to protest low wages and the company's refusal to sign a collective bargaining agreement for the retail sector. Der Speigel reports that this is the 'first strike in the online retail giant's history'.
    </td>
    <td>
     <a href="/actions/0026.json">
@@ -3692,7 +3692,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2009-05-18
    </td>
    <td>
-    "Thousands" of Baidu employees filed complaints at the Labor Office in Shenzen to protest recent wage cuts. Earlier in the month, "hundreds" of employees were part of an office sit-in. The company cut wages for sales employees by approximately 30% in response to cost pressures resulting from the global financial crisis.
+    Thousands' of Baidu employees filed complaints at the Labor Office in Shenzen to protest recent wage cuts. Earlier in the month, 'hundreds' of employees were part of an office sit-in. The company cut wages for sales employees by approximately 30% in response to cost pressures resulting from the global financial crisis.
    </td>
    <td>
     <a href="/actions/0015.json">
@@ -3707,7 +3707,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2007-10-30
    </td>
    <td>
-    "Hundreds" of immigrant tech workers protested H1B visa caps on the streets of San Jose carrying banners and signs. A shortage of H1B visas has led to insecure working conditions and labor shortages among tech firms.
+    Hundreds' of immigrant tech workers protested H1B visa caps on the streets of San Jose carrying banners and signs. A shortage of H1B visas has led to insecure working conditions and labor shortages among tech firms.
    </td>
    <td>
     <a href="/actions/0014.json">
@@ -3797,7 +3797,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2000-11-23
    </td>
    <td>
-    The United Food and Commercial Workers Union is attempting to organize roughly 5,000 workers at eight Amazon distribution centers across the U.S. The New York Times reports that "low-key" unionization efforts have been going on in the company for the last two years.
+    The United Food and Commercial Workers Union is attempting to organize roughly 5,000 workers at eight Amazon distribution centers across the U.S. The New York Times reports that 'low-key' unionization efforts have been going on in the company for the last two years.
    </td>
    <td>
     <a href="/actions/0008.json">
@@ -3812,7 +3812,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2000-11-16
    </td>
    <td>
-    In one of the first reported unionization attempts at a "dot com company", an affiliate of the Communication Workers of America known as the Washington Alliance of Technology Workers (WashTech) sought to unionize a group of 400 customer service employees at Amazon. Amazon closed the call center before the campaign could proceed further due to financial pressures following the dot-com bubble in the early 2000s. Amazon has disputed unionization by arguing that the employees are owners of the company since they are given stock options.
+    In one of the first reported unionization attempts at a 'dot com company', an affiliate of the Communication Workers of America known as the Washington Alliance of Technology Workers (WashTech) sought to unionize a group of 400 customer service employees at Amazon. Amazon closed the call center before the campaign could proceed further due to financial pressures following the dot-com bubble in the early 2000s. Amazon has disputed unionization by arguing that the employees are owners of the company since they are given stock options.
    </td>
    <td>
     <a href="/actions/0007.json">
@@ -3857,7 +3857,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     1998-11-23
    </td>
    <td>
-    A law firm representing 10 current and former contract workers at Microsoft Corp. filed a lawsuit in U.S. District Court on Tuesday against the software giant, seeking damages and full-time employee benefits for its plaintiffs and thousands of other "misclassified" temporary employees. The 10 plaintiffs seek class-action status because they want to include some 6,000 current full-time Microsoft employees who have been "misclassified as nonemployees" under "various erroneous labels" and denied company benefits.
+    A law firm representing 10 current and former contract workers at Microsoft Corp. filed a lawsuit in U.S. District Court on Tuesday against the software giant, seeking damages and full-time employee benefits for its plaintiffs and thousands of other 'misclassified' temporary employees. The 10 plaintiffs seek class-action status because they want to include some 6,000 current full-time Microsoft employees who have been 'misclassified as nonemployees' under 'various erroneous labels' and denied company benefits.
    </td>
    <td>
     <a href="/actions/0004.json">

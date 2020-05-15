@@ -14,8 +14,11 @@
     ],
     "description": "After a multiyear campaign by app-based drivers, some of whom were organized under the Independent Driver's Guild, New York City's Taxi and Limousine Commission passed a new law setting minimum wage at $17.22 per hour in the city. ",
     "locations": [
-        "new_york_city",
-        "usa"
+        [
+            "new york city",
+            "new york",
+            "usa"
+        ]
     ],
     "companies": [
         "uber",

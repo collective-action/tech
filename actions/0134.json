@@ -14,10 +14,14 @@
     "employment_types": [
         "white_collar_workers"
     ],
-    "description": "Google workers stage a sit-in on May Day, following allegations of retaliation from the company against employees who participated in walkouts last year. \"Googlers from around the world gathered at 11am local time to sit together and show retaliation is #NotOkGoogle. The stories we've been collecting will be shared, demands will be read, and all will be in solidarity with those withstanding this chilling practice.",
+    "description": "Google workers stage a sit-in on May Day, following allegations of retaliation from the company against employees who participated in walkouts last year. 'Googlers from around the world gathered at 11am local time to sit together and show retaliation is #NotOkGoogle. The stories we've been collecting will be shared, demands will be read, and all will be in solidarity with those withstanding this chilling practice.",
     "locations": [
-        "usa",
-        "worldwide"
+        [
+            "usa"
+        ],
+        [
+            "worldwide"
+        ]
     ],
     "companies": [
         "google"

@@ -13,13 +13,23 @@
     "employment_types": [
         "gig_workers"
     ],
-    "description": "Uber and Lyft employees protested outside the homes of three company investors to highlight the inequality between them and their workforce in a campaign called \"Deactivate Uber Billionaires\". The San Francisco Chronicle reports that protests occured at \"the San Francisco office of GV, the venture capital arm of Google parent Alphabet that was an early Uber investor; the Atherton mansion of Bill Gurley, an Uber board member and venture capitalist; and the Beverly Hills home of Uber co-founder Garrett Camp\". The protests coincide with the end of Uber's stock lockup period six months after their IPO.",
+    "description": "Uber and Lyft employees protested outside the homes of three company investors to highlight the inequality between them and their workforce in a campaign called 'Deactivate Uber Billionaires'. The San Francisco Chronicle reports that protests occured at 'the San Francisco office of GV, the venture capital arm of Google parent Alphabet that was an early Uber investor; the Atherton mansion of Bill Gurley, an Uber board member and venture capitalist; and the Beverly Hills home of Uber co-founder Garrett Camp'. The protests coincide with the end of Uber's stock lockup period six months after their IPO.",
     "locations": [
-        "san_francisco",
-        "atherton",
-        "los_angeles",
-        "california",
-        "usa"
+        [
+            "san francisco",
+            "california",
+            "usa"
+        ],
+        [
+            "los angeles",
+            "california",
+            "usa"
+        ],
+        [
+            "atherton",
+            "california",
+            "usa"
+        ]
     ],
     "companies": [
         "uber",

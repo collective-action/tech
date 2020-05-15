@@ -14,9 +14,11 @@
     ],
     "description": "Students for the Liberation of All People (SLAP), a student organization at Stanford, places a banner across the street from Palantir's entrance reading \u201cOUR SOFTWARE IS SO POWERFUL IT SEPARATES FAMILIES.\u201d in protest of the company's involvement with U.S. Immigration and Customs Enforcement. ",
     "locations": [
-        "palo_alto",
-        "california",
-        "usa"
+        [
+            "palo alto",
+            "california",
+            "usa"
+        ]
     ],
     "companies": [
         "palantir"

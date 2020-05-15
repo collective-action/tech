@@ -15,9 +15,11 @@
     ],
     "description": "A group of technicians at an Amazon facility in Middletown, Delaware filed a petition with the NLRB to organize a union but ultimately voted against it, 21-6, after pressure from management and anti-union consultants. ",
     "locations": [
-        "middletown",
-        "delaware",
-        "usa"
+        [
+            "middletown",
+            "delaware",
+            "usa"
+        ]
     ],
     "companies": [
         "amazon"

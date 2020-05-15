@@ -14,8 +14,10 @@
     ],
     "description": "Over one thousand Amazon workers in Spain plan to stage their first strike with a two-day walkout to protest what unions claim are efforts to reduce employees' rights. The union claimed the companies aims to block salary increases, cut wages and reduce payments for those working weekends or holidays as part of a new contract agreement.",
     "locations": [
-        "madrid",
-        "spain"
+        [
+            "madrid",
+            "spain"
+        ]
     ],
     "companies": [
         "amazon"

@@ -14,8 +14,12 @@
     ],
     "description": "Google employees created an internal document describing cases of discrimination and retaliation by the company. 45 cases were reported.",
     "locations": [
-        "usa",
-        "online"
+        [
+            "usa"
+        ],
+        [
+            "online"
+        ]
     ],
     "companies": [
         "google"

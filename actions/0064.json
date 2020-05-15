@@ -15,9 +15,11 @@
     ],
     "description": "In what union officials described as Silicon Valley's largest private sector organizing effort, 3,000 private security guards on high tech campuses like Facebook, Cisco and Genentech have won recognition as members of Service Employees International Union-United Service Workers West (SEIU-USWW).",
     "locations": [
-        "san_jose",
-        "california",
-        "usa"
+        [
+            "san jose",
+            "california",
+            "usa"
+        ]
     ],
     "companies": [
         "facebook",

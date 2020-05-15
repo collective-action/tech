@@ -14,8 +14,11 @@
     ],
     "description": "A coalition of students protested Palantir & other ICE-friendly recruitment on the Carnegie Mellon University campus. They disrupted a Palantir recruitment event, held 500 in-person conversations with passing colleagues, & collected 150 promises from fellow students to not work or engage with Palantir.",
     "locations": [
-        "usa",
-        "pittsburgh"
+        [
+            "pittsburgh",
+            "pennsylvania",
+            "usa"
+        ]
     ],
     "companies": [
         "carnegie mellon university",

@@ -15,8 +15,10 @@
     ],
     "description": "Thousands of FoxConn workers in Jundiai, Brazil protested dangerous working conditions outside of the company's local plant. Complaints included lack of water and air conditioning at facilities, covercrowded buses, and low quality food in the cafeterias.",
     "locations": [
-        "jundiai",
-        "brazil"
+        [
+            "jundiai",
+            "brazil"
+        ]
     ],
     "companies": [
         "foxconn"

@@ -17,7 +17,9 @@
     ],
     "description": "Over two hundred Mechanical Turk workers and academics, organized through Dynamo, have collaborated and signed a set of ethical guidelines for scholars requesting labor through the platform. The Wiki page includes information on fair payment, communication practices, and the basics of requesting.",
     "locations": [
-        "online"
+        [
+            "online"
+        ]
     ],
     "companies": [
         "amazon",

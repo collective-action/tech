@@ -16,11 +16,21 @@
     ],
     "description": "Thousands of Amazon staff members across Europe protest on Black Friday over the way the companies treats its warehouse workers. As shoppers in the U.S.A. log in to Amazon to find Black Friday deals, Amazon workers in the UK, Spain, France, Italy, and Germany are striking to protest working conditions in the company\u2019s warehouses.",
     "locations": [
-        "germany",
-        "france",
-        "italy",
-        "spain",
-        "uk"
+        [
+            "germany"
+        ],
+        [
+            "france"
+        ],
+        [
+            "italy"
+        ],
+        [
+            "spain"
+        ],
+        [
+            "uk"
+        ]
     ],
     "companies": [
         "amazon"

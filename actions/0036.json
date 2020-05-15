@@ -15,9 +15,11 @@
     ],
     "description": "Mozilla employees used a number of means to call for the resignation of CEO Brendan Eich who donated $1,000 in 2008 to support California's Proposition 8, legislature that would have made gay marriage illegal in the state. Three of Mozilla Foundation's board members resigned in protest, and other employees took to social media and wrote blog posts. Other companies, most prominently dating site OKCupid, encouraged their users to stop using the Firefox browser. Eich did ultimately resign.",
     "locations": [
-        "mountain_view",
-        "california",
-        "usa"
+        [
+            "mountain view",
+            "california",
+            "usa"
+        ]
     ],
     "companies": [
         "mozilla",

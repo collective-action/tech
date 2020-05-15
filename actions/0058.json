@@ -16,9 +16,11 @@
     ],
     "description": "Intel cafeteria workers voted to unionize joining forces with Unite Here Local 19.",
     "locations": [
-        "santa_clara",
-        "california",
-        "usa"
+        [
+            "santa clara",
+            "california",
+            "usa"
+        ]
     ],
     "companies": [
         "intel"

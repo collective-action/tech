@@ -14,8 +14,10 @@
     ],
     "description": "Naver Corp., South Korea's dominant Internet portal and search engine, said that it has established the company's first labor union. After receiving official approval, the union started receiving membership applications from potential members, Naver's union said. More than 300 people joined within two hours.",
     "locations": [
-        "seoul",
-        "korea"
+        [
+            "seoul",
+            "south korea"
+        ]
     ],
     "companies": [
         "naver"

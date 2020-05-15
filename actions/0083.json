@@ -14,7 +14,9 @@
     ],
     "description": "Fellow gig workers have banded together through a GoFundMe fundraiser to cover the immediate funeral costs of a delivery worker for Caviar who was killed on the job, while demanding that the company ultimately cover the amount. More than $19,000 has been raised. Referenced on page 142 of Ghost Work (Mary Gray and Siddarth Suri)",
     "locations": [
-        "usa"
+        [
+            "usa"
+        ]
     ],
     "companies": [
         "caviar"

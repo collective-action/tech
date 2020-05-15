@@ -18,8 +18,10 @@
     ],
     "description": "At least 16 Mexican app delivery drivers met to form the Sindicato Independiente de Repartidores en Aplicaciones (SIRA APPS, rough translation: Independent Union of App Deliverypeople). The union seeks legal recognition, and demands worker accident insurance, worker-led onboarding for new delivery drivers, and assistance with social benefits registration.",
     "locations": [
-        "mexico",
-        "merida"
+        [
+            "merida",
+            "mexico"
+        ]
     ],
     "companies": null,
     "workers": 16,
