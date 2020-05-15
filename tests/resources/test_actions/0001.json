@@ -14,7 +14,10 @@
     ],
     "description": "Fourteen employees at AT&T sign a letter warning the U.S. military of over 10,000 possible errors in the Star Wars system.",
     "locations": [
-        "usa"
+        [
+            "usa",
+            "online"
+        ]
     ],
     "companies": [
         "at&t"

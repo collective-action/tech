@@ -36,7 +36,7 @@ class CollectiveAction:
     description: str
 
     # optional fields
-    locations: List[str] = None
+    locations: List[List[str]] = None
     companies: List[str] = None
     workers: int = None
     tags: List[str] = None
@@ -83,6 +83,7 @@ class CollectiveAction:
         assert isinstance(self.companies, (list, NoneType))
         assert isinstance(self.tags, (list, NoneType))
         assert isinstance(self.locations, (list, NoneType))
+        assert all(isinstance(el, list) for el in self.locations)
         assert isinstance(self.workers, (int, float, NoneType))
 
         # make sure action is a valid action

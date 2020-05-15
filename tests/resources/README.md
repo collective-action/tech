@@ -19,7 +19,7 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">19/04/2020 01:19AM</td>
+    <td data-summary="timestamp">14/05/2020 09:31PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
@@ -50,7 +50,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     A group of computer professionals, led by Computer Professionals for Social Responsibility (CPSR), signs a petition arguing that Pres. Reagan's Star Wars system is not feasible given current technology. Such a system would be prone to major errors, they argued, and would be irresponsible to implement.
    </td>
    <td>
-    <a href="/actions/0002.md">
+    <a href="/actions/0002.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -65,7 +65,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Fourteen employees at AT&amp;T sign a letter warning the U.S. military of over 10,000 possible errors in the Star Wars system.
    </td>
    <td>
-    <a href="/actions/0001.md">
+    <a href="/actions/0001.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -80,7 +80,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     IBM workers formed an organization, IBM: Speak Up!, to protest the company's involvement with apartheid South Africa. The company created the computer system that upheld the country's passbook system. The company officially divested from South Africa in 1987.
    </td>
    <td>
-    <a href="/actions/0000.md">
+    <a href="/actions/0000.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
