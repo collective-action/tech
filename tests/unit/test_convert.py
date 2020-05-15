@@ -21,6 +21,7 @@ def test_get_cas_from_files(action_folder_path):
 
 
 def test_get_cas_from_csv(csv_path):
+    print(csv_path)
     get_cas_from_csv(csv_path=csv_path)
 
 
