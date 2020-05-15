@@ -24,5 +24,19 @@
     "tags": [
         "international_solidarity"
     ],
-    "author": "nataliyaned"
+    "author": "nataliyaned",
+    "latlngs": [
+        [
+            35.139622349999996,
+            -80.92306993327955
+        ],
+        [
+            47.578722799999994,
+            -122.17154487755995
+        ]
+    ],
+    "addresses": [
+        "Microsoft, Yorkwood, Charlotte, Mecklenburg County, North Carolina, United States of America",
+        "Lionbridge, Factoria Boulevard Southeast, Woodridge, Factoria, Bellevue, King County, Washington, 98006, United States of America"
+    ]
 }

@@ -7,8 +7,9 @@ import math
 from pathlib import Path
 from bs4 import BeautifulSoup
 from dataclasses import dataclass, field, asdict
-from typing import Any, List, Dict, ClassVar, Iterable
+from typing import Any, List, Dict, ClassVar, Iterable, Tuple
 from urllib.parse import urlparse
+from geopy.geocoders import Nominatim
 from .files import save_to_file, parse_file, remove_all_files
 from .misc import Url, literal_eval, NoneType, ACTION_FOLDER
 
@@ -41,6 +42,8 @@ class CollectiveAction:
     workers: int = None
     tags: List[str] = None
     author: str = None
+    latlngs: List[Tuple[float, float]] = None
+    addresses: List[str] = None
 
     _meta_fields: ClassVar = ["author"]
 
@@ -82,9 +85,17 @@ class CollectiveAction:
         assert isinstance(self.employment_types, list)
         assert isinstance(self.companies, (list, NoneType))
         assert isinstance(self.tags, (list, NoneType))
-        assert isinstance(self.locations, (list, NoneType))
-        assert all(isinstance(el, list) for el in self.locations)
         assert isinstance(self.workers, (int, float, NoneType))
+
+        assert isinstance(self.locations, (list, NoneType))
+        if isinstance(self.locations, list):
+            assert all(isinstance(el, list) for el in self.locations)
+
+        assert isinstance(self.latlngs, (list, float, NoneType))
+        if isinstance(self.latlngs, list):
+            assert all(isinstance(el, list) for el in self.latlngs)
+
+        assert isinstance(self.addresses, (list, float, NoneType))
 
         # make sure action is a valid action
         for action in self.actions:
@@ -132,6 +143,10 @@ class CollectiveAction:
         if isinstance(self.date, pd.Timestamp):
             self.date = pd.Timestamp.to_pydatetime(self.date)
 
+        # if latlng is not set, set it
+        if not self.latlngs and not self.addresses:
+            self.latlngs, self.addresses = self.get_locs()
+
     def __lt__(self, other):
         """ Used to make CollectiveActions sortable.
 
@@ -152,6 +167,44 @@ class CollectiveAction:
     def to_dict(self) -> Dict[str, Any]:
         """ Return dict of all fields. """
         return asdict(self)
+
+    def get_locs(self) -> Tuple[List[str], List[Tuple[float, float]]]:
+        """ Generate lat/lngs by passing in location + company string to Geopy. """
+        geolocator = Nominatim(user_agent="collective_action")
+        latlngs = []
+        addresses = []
+
+        def add_address_latlng(loc):
+            """ mini helper func to append lat/loc and address """
+            latlngs.append((loc.latitude, loc.longitude))
+            addresses.append(loc.address)
+
+        for location in self.locations:
+            location = ", ".join(location)
+
+            # skip is location is online or worldwide
+            if location in ["online", "worldwide"]:
+                continue
+
+            # attach company name to each city/state/country location
+            if self.companies:
+                for company in self.companies:
+                    loc = geolocator.geocode(f"{company}, {location}")
+                    if loc:
+                        add_address_latlng(loc)
+
+            # if no company listed, just use location
+            else:
+                loc = geolocator.geocode(f"{location}")
+                if loc:
+                    add_address_latlng(loc)
+
+        if len(latlngs) == 0:
+            latlngs = None
+        if len(addresses) == 0:
+            addresses = None
+
+        return latlngs, addresses
 
     def stringify(self) -> Dict[str, str]:
         """ Return a dict of all fields serialized to a string. """
