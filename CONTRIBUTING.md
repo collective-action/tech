@@ -56,7 +56,7 @@ include, add it in the description field.
 | struggles | True | List(str) | The kind of struggle workers are standing up against. (`pay_and_benefits`, `working_conditions`, `unfair_labor_practices`, `job_security`, `ethics`, `discrimination`)| 
 | employment_types | True | List(str) | The employment type(s) of the workers involved in the collective action. (`white_collar_workers`, `blue_collar_workers`, `in_house_workers`, `contract_workers`, `gig_workers`, `na`)|
 | description | True | str | A short paragraph describing the event where you can include information that isn't covered in the fields above. Multiple paragraphs are not allowed in this field. |
-| locations | False | List(str) | The location(s) of the action, or whether it was online. |
+| locations | False | List(List(str)) | The location(s) of the action, or whether it was online. `[["<city1>", "<state1>", "<country1>"], ["<city2>", "<state2>", "<country2>"]]` |
 | companies | False | List(str) | Which company are workers are standing up against? Some moments of worker power may not have an associated company. For example, online petitions or a protests against the president may consist of workers from an amalgamation of companies. In which case we can omit this field. |
 | workers | False | int | The number of workers active in the action. Since we're only looking at collective actions, the number must be more than 1. Sometimes the sources do not state a concrete number when reporting. In those cases, lean on the conservative side. For example: "Hundreds of Uber drivers..." --> 100 |
 | tags | False | List(str) | Tag the event with a term or word that you feel is relevant but not captured by the other fields. One good thing to add is the kind of worker who is taking action. Please see below for more information on tags. |
@@ -97,7 +97,13 @@ Add your data using the standard JSON convention:
   ],
   "description": "Thousands of people protest a military contract in Queens.",
   "locations": [
-    "new_york"
+    [
+      "new_york",
+      "usa"
+    ],
+    [
+      "online"
+    ]
   ],
   "companies": [
     "amazon"
