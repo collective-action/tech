@@ -1,0 +1,51 @@
+{
+    "date": "2020/05/01",
+    "sources": [
+        "https://www.washingtonpost.com/technology/2020/05/01/amazon-instacart-workers-strike/",
+        "https://www.wired.com/story/amazon-instacart-target-coronavirus-may-day-strike/"
+    ],
+    "actions": [
+        "protest",
+        "strike"
+    ],
+    "struggles": [
+        "working_conditions"
+    ],
+    "employment_types": [
+        "in_house_workers",
+        "blue_collar_workers",
+        "gig_workers"
+    ],
+    "description": "Workers at Amazon, Whole Foods, Instacart, Target, and Shipt walked off the job on May 1st (International Workers' Day) to call for better working conditions under the covid-19 pandemic. The Washington Post reports that \"a small crowd\" outside of an Amazon Staten Island warehouse was made up of Amazon workers and also healthcare professionals who appeared out of solidarity with their cause. The scale of the action is difficult to measure, given its broad geography. Walkouts and protests were reported in Atlanta, New York, and the Bay Area.",
+    "locations": [
+        [
+            "usa"
+        ]
+    ],
+    "companies": [
+        "amazon",
+        "instacart",
+        "target",
+        "shipt"
+    ],
+    "workers": 1000,
+    "tags": [
+        "coronavirus",
+        "delivery_workers"
+    ],
+    "author": "nataliyaned",
+    "latlngs": [
+        [
+            47.6142939,
+            -122.3239636
+        ],
+        [
+            40.766716450000004,
+            -73.0676212343522
+        ]
+    ],
+    "addresses": [
+        "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America",
+        "Target, Sayville, Suffolk County, New York, United States of America"
+    ]
+}
