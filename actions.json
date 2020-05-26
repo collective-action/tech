@@ -10348,6 +10348,40 @@
     {
         "date": "2020/05/01",
         "sources": [
+            "https://www.vice.com/en_ca/article/gy4qew/foodora-couriers-want-to-be-among-first-gig-economy-workers-to-unionize-in-canada"
+        ],
+        "actions": [
+            "union_drive"
+        ],
+        "struggles": [
+            "pay_and_benefits",
+            "working_conditions"
+        ],
+        "employment_types": [
+            "gig_workers"
+        ],
+        "description": "Foodora couriers announced their intention to join a union of Canadian post workers and held a union drive.",
+        "locations": [
+            [
+                "toronto",
+                "ontario",
+                "canada"
+            ]
+        ],
+        "companies": [
+            "foodora"
+        ],
+        "workers": 1000,
+        "tags": [
+            "delivery_workers"
+        ],
+        "author": "nataliyaned",
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "date": "2020/05/01",
+        "sources": [
             "https://www.washingtonpost.com/technology/2020/05/01/amazon-instacart-workers-strike/",
             "https://www.wired.com/story/amazon-instacart-target-coronavirus-may-day-strike/"
         ],
