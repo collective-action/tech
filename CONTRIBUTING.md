@@ -25,13 +25,13 @@ Events must be "collective" and contain "evidence of action" by currently or rec
 
 ## How To Contribute on GitHub
 
-There are two ways that you can add or update collective actions in this repo: updating the `actions.csv` file __or__ the `.md` files inside of the `actions/` folder. Only update one or the other. Once you've made your update, commit those changes to a new branch and create a pull-request into the master branch.
+There are two ways that you can add or update collective actions in this repo: updating the `actions.csv` file __or__ the `.json` files inside of the `actions/` folder. Only update one or the other. Once you've made your update, commit those changes to a new branch and create a pull-request into the master branch.
 
 Once the changes get pushed to the repo, the CI pipeline will automatically sync the content on the README.md, the website, and the CSV, and the actions-folder. By default, the CI pipeline will synchronize with the `actions/` folder. However, if you choose to update the `actions.csv` file, you'll want the CI pipeline to synchronize with the `actions.csv` instead. To do this, you'll need to add an empty file, called `CSV_FLAG` (Note that there are no extensions to the file), to the root directory of the repository before making your PR.  This additional file will notify the CI pipeline to synchronize with the `actions.csv` file instead of performing its default behavior, which is to synchronize with the `actions/` folder. 
 
 __Updating the actions folder__
 
-Create a new markdown file under the '/actions' folder in the root directory of this repo. We recommend naming it something unique like `<username>-<action>.md` so that it doesn't conflict with any other file.
+Create a new json file under the '/actions' folder in the root directory of this repo. We recommend naming it something unique like `<username>-<action>.json` so that it doesn't conflict with any other file.
 
 Once your changes are committed, the CI pipeline will automatically sort all the events inside the `actions/` folder. It will also update the `README.md` and the `actions.csv` accordingly.
 
