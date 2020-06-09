@@ -1,0 +1,33 @@
+{
+    "date": "2020/05/11",
+    "sources": [
+        "https://www.wedriveprogress.org/caravan",
+        "https://www.vice.com/en_us/article/g5ppqq/uber-and-lyft-drivers-organize-caravan-outside-uber-hq",
+        "https://techcrunch.com/2020/05/11/rideshare-drivers-stage-caravan-protest-over-ubers-labor-practices/"
+    ],
+    "actions": [
+        "protest"
+    ],
+    "struggles": [
+        "working_conditions"
+    ],
+    "employment_types": [
+        "gig_workers"
+    ],
+    "description": "Around 100 Uber and Lyft drivers are staging a caravan protest at Uber's San Francisco headquarters to demand Uber comply with gig worker protections law AB 5, pay into the state's unemployment insurance fund and drop the ballot initiative it proposed along with Lyft and DoorDash that aims to keep gig workers classified as independent contractors. "Uber, Lyft and other gig companies are continuing in the same path of abusing and completely taking advantage of workers while putting them at risk," rideshare driver and organizer with Gig Workers Rising Edan Alva told TechCrunch. This protest comes shortly after California Attorney General Xavier Becerra, along with city attorneys from Los Angeles, San Diego and San Francisco, filed a lawsuit asserting Uber and Lyft gain an unfair and unlawful competitive advantage by misclassifying workers as independent contractors.",
+    "locations": [
+        [
+            "san francisco",
+            "california",
+            "usa"
+        ]
+    ],
+    "companies": [
+        "uber"
+    ],
+    "workers": 100,
+    "tags": [
+        "coronavirus"
+    ],
+    "author": "organizejs"
+}
