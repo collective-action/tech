@@ -27,5 +27,14 @@
         "coronavirus",
         "online_action"
     ],
-    "author": "organizejs"
+    "author": "organizejs",
+    "latlngs": [
+        [
+            47.6142939,
+            -122.3239636
+        ]
+    ],
+    "addresses": [
+        "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
+    ]
 }
