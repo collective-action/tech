@@ -71,7 +71,7 @@ In the table above, `actions`, `struggles`, `employment_type` must contain only 
 
 If any of the following __tags__ are applicable, please add them to the action:
 
-`coworker_solidarity`, `industry_solidarity`, `international_solidarity`, `lgbtq`, `fund_raising`, `mijente`, `temporary_workers_of_america`, `military_contracts`, `trade_war`, `seiu`, `law_enforcement`, `sexism`, `muslim_registry`, `academics`, `moderators`, `gig_workers_rising`, `twc`, `unite_here`, `climate_change`, `ice`, `ai`, `trump`, `retaliation`, `cbp`, `teamster`, `immigration`, `students`, `coronavirus`, `None` (if none apply)
+`coworker_solidarity`, `industry_solidarity`, `international_solidarity`, `lgbtq`, `fund_raising`, `mijente`, `temporary_workers_of_america`, `military_contracts`, `trade_war`, `seiu`, `law_enforcement`, `sexism`, `muslim_registry`, `academics`, `moderators`, `gig_workers_rising`, `twc`, `unite_here`, `climate_change`, `ice`, `ai`, `trump`, `retaliation`, `cbp`, `teamster`, `immigration`, `students`, `coronavirus`, `antiracism`,`blm`, `None` (if none apply)
 
 ## Formatting
 Add your data using the standard JSON convention:
