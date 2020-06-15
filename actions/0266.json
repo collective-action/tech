@@ -1,8 +1,8 @@
 {
-    "id": 266,
+    "id": 267,
     "date": "2020/06/08",
     "sources": [
-        "https://onezero.medium.com/250-microsoft-employees-call-on-ceo-to-cancel-police-contracts-and-support-defunding-seattle-pd-e89fa5d9e843, https://finance.yahoo.com/news/microsoft-employees-petition-seattle-police-contracts-161102239.html"
+        "https://medium.com/@fbcontentmods/this-is-a-message-of-solidarity-from-a-group-of-current-and-former-content-moderators-at-facebook-6af1b3b2a020"
     ],
     "actions": [
         "open_letter"
@@ -11,32 +11,23 @@
         "ethics"
     ],
     "employment_types": [
-        "white_collar_workers",
-        "in_house_workers"
+        "contract_workers"
     ],
-    "description": "Hundreds of Microsoft employees have signed a letter to the company\u2019s top executives asking for Microsoft to take action in the wake of national protests. The initiative came out of a Facebook group called \"Young Microsoft FTEs\". The email to the Microsoft executives includes a list of requests, including increased leniency for Microsoft workers in performance reviews due to the coronavirus pandemic and protests; the company formally condemning the use of tear gas, rubber bullets, and flashbangs; increasing Microsoft\u2019s employee donation matches; the cancellation of contracts with SPD and other law enforcement agencies; support for defunding the SPD; signing a petition for the resignation of Seattle Mayor Jenny Durkan; and support for a list of demands from BLM Seattle. Employees volunteered to be CC\u2019d on the email in a show of solidarity, though their inclusion was not intended to show explicit support for every request, according to the email.",
+    "description": "Nine current and former Facebook content moderators posted a message of solidarity with the Black community in the wake of the George Floyd protests and in support of the virtual walkout. The authors noted that they would have attended the walkout \"if Facebook would allow it. As outsourced contractors, non-disclosure agreements deter us from speaking openly about what we do and witness for most of our waking hours.\" The workers also remarked on the lack of protections they receive from their employer. \"We would walk out with you \u2014 if we could afford it. At the moment, content moderators have no possibility, no network or platform or financial security \u2014 especially when we are atomized in pandemic and remotely micromanaged \u2014 to stage an effective walkout without risking fines, our income and even our right to stay in the countries where we live and work.\"",
     "online": true,
-    "locations": [
-        "seattle-washington-usa"
-    ],
+    "locations": null,
     "companies": [
-        "microsoft"
+        "facebook"
     ],
-    "workers": 250,
+    "workers": 9,
     "tags": [
         "antiracism",
-        "blm"
+        "blm",
+        "moderators"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            47.5388725,
-            -122.2901728
-        ]
-    ],
-    "addresses": [
-        "Microsoft Gathering Hall, 32nd Avenue South, Columbia City, Holly Park, Seattle, King County, Washington, 98118, United States of America"
-    ]
+    "latlngs": null,
+    "addresses": null
 }
