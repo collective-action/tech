@@ -1,8 +1,9 @@
 import json
 import pandas as pd
 from pathlib import Path
+from airtable import Airtable
 
-from utils.collective_action import CollectiveActions
+from utils.collective_action import CollectiveActions, CollectiveAction
 from utils.files import get_all_files
 from utils.misc import ca_json_converter, README, CSV, JSON, ACTION_FOLDER
 from utils.markdown import update_markdown_document
@@ -13,6 +14,21 @@ These functions gets CollectiveActions
 from any format (CSV, JSON, Folder)
 """
 
+def get_cas_from_airtable(secret: str, app: str, table: str):
+    """ Get CAS from airtable. """
+    cas = CollectiveActions()
+    airtable = Airtable(app, table, api_key=secret)
+    pages = airtable.get_iter(maxRecords=1000)
+    records = []
+    for page in pages:
+        for record in page:
+            records.append(record["fields"])
+    for record in records:
+        if bool(record):
+            cas.append(
+                CollectiveAction(**record)
+            )
+    return cas
 
 def get_cas_from_files(folder_path: str = ACTION_FOLDER):
     """ Get CAS from action files. """
