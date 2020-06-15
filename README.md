@@ -19,11 +19,11 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">15/06/2020 10:20AM</td>
+    <td data-summary="timestamp">15/06/2020 10:35AM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">265</td>
+    <td data-summary="action-count">266</td>
   </tr>
  </table>
 </div>
@@ -40,6 +40,21 @@ The goal of this archive is to provide data and insights on organizing in the te
    </td>
    <td>
     link
+   </td>
+  </tr>
+  <tr author="nataliyaned">
+   <td>
+    2020-06-08
+   </td>
+   <td>
+    Hundreds of Microsoft employees have signed a letter to the company’s top executives asking for Microsoft to take action in the wake of national protests. The initiative came out of a Facebook group called "Young Microsoft FTEs". The email to the Microsoft executives includes a list of requests, including increased leniency for Microsoft workers in performance reviews due to the coronavirus pandemic and protests; the company formally condemning the use of tear gas, rubber bullets, and flashbangs; increasing Microsoft’s employee donation matches; the cancellation of contracts with SPD and other law enforcement agencies; support for defunding the SPD; signing a petition for the resignation of Seattle Mayor Jenny Durkan; and support for a list of demands from BLM Seattle. Employees volunteered to be CC’d on the email in a show of solidarity, though their inclusion was not intended to show explicit support for every request, according to the email.
+   </td>
+   <td>
+    <a href="/actions/0265.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
    </td>
   </tr>
   <tr author="nataliyaned">
