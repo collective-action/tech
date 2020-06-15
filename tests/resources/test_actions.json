@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "date": "1979/09/01",
         "sources": [
             "https://twitter.com/clancynewyork/status/1175872040814993408?s=19",
@@ -42,6 +43,7 @@
         ]
     },
     {
+        "id": 2,
         "date": "1986/09/16",
         "sources": [
             "https://www.nytimes.com/1986/09/16/science/software-seen-as-obstacle-in-developing-star-wars.html"
@@ -70,6 +72,7 @@
         "author": "nataliyaned"
     },
     {
+        "id": 3,
         "date": "1986/09/16",
         "sources": [
             "https://www.nytimes.com/1986/09/16/science/software-seen-as-obstacle-in-developing-star-wars.html"

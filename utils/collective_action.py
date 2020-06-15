@@ -30,7 +30,7 @@ class CollectiveAction:
     """
 
     # mandatory fields
-    counter: int
+    id: int
     date: str
     sources: List[Url]
     actions: List[str]
