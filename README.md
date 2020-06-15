@@ -19,11 +19,11 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">15/06/2020 05:20PM</td>
+    <td data-summary="timestamp">15/06/2020 05:35PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">266</td>
+    <td data-summary="action-count">267</td>
   </tr>
  </table>
 </div>
@@ -48,6 +48,21 @@ The goal of this archive is to provide data and insights on organizing in the te
    </td>
    <td>
     Hundreds of Microsoft employees have signed a letter to the company’s top executives asking for Microsoft to take action in the wake of national protests. The initiative came out of a Facebook group called "Young Microsoft FTEs". The email to the Microsoft executives includes a list of requests, including increased leniency for Microsoft workers in performance reviews due to the coronavirus pandemic and protests; the company formally condemning the use of tear gas, rubber bullets, and flashbangs; increasing Microsoft’s employee donation matches; the cancellation of contracts with SPD and other law enforcement agencies; support for defunding the SPD; signing a petition for the resignation of Seattle Mayor Jenny Durkan; and support for a list of demands from BLM Seattle. Employees volunteered to be CC’d on the email in a show of solidarity, though their inclusion was not intended to show explicit support for every request, according to the email.
+   </td>
+   <td>
+    <a href="/actions/0266.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="nataliyaned">
+   <td>
+    2020-06-08
+   </td>
+   <td>
+    Nine current and former Facebook content moderators posted a message of solidarity with the Black community in the wake of the George Floyd protests and in support of the virtual walkout. The authors noted that they would have attended the walkout "if Facebook would allow it. As outsourced contractors, non-disclosure agreements deter us from speaking openly about what we do and witness for most of our waking hours." The workers also remarked on the lack of protections they receive from their employer. "We would walk out with you — if we could afford it. At the moment, content moderators have no possibility, no network or platform or financial security — especially when we are atomized in pandemic and remotely micromanaged — to stage an effective walkout without risking fines, our income and even our right to stay in the countries where we live and work."
    </td>
    <td>
     <a href="/actions/0265.json">
