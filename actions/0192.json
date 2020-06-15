@@ -1,4 +1,5 @@
 {
+    "id": 193,
     "date": "2019/10/02",
     "sources": [
         "https://www.vice.com/en_us/article/9ken8v/kickstarter-workers-just-asked-for-union-recognition-despite-pushback-from-ceo"
@@ -13,20 +14,18 @@
         "white_collar_workers"
     ],
     "description": "Kickstarter workers have sent a letter to management asking them to voluntarily recognize their union. If management refuses to recognize the union, workers have the option to go to the NLRB to authorize a union election.",
+    "online": null,
     "locations": [
-        [
-            "brooklyn",
-            "new york city",
-            "new york",
-            "usa"
-        ]
+        "brooklyn-new york city-new york-usa"
     ],
     "companies": [
         "kickstarter"
     ],
     "workers": null,
     "tags": null,
-    "author": "nataliyaned",
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": [
         [
             40.7321996,

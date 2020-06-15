@@ -1,4 +1,5 @@
 {
+    "id": 55,
     "date": "2016/03/31",
     "sources": [
         "https://www.bizjournals.com/sanjose/news/2016/03/31/seiu-janitors-san-jose-rally-targets-adobe.html"
@@ -15,12 +16,9 @@
         "contract_workers"
     ],
     "description": "Service Employees International Union-United Service Workers West janitors' San Jose rally targets Adobe. Hundreds of SEIU-USWW members congregated on Cesar Chavez Day to draw attention to ongoing contract negotiations with cleaning service contractors and protest abuse of workers in the janitorial industry.",
+    "online": null,
     "locations": [
-        [
-            "san jose",
-            "california",
-            "usa"
-        ]
+        "san jose-california-usa"
     ],
     "companies": [
         "adobe"
@@ -29,7 +27,9 @@
     "tags": [
         "seiu"
     ],
-    "author": "organizejs",
+    "author": [
+        "organizejs"
+    ],
     "latlngs": [
         [
             37.33196605,

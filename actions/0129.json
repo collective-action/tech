@@ -1,4 +1,5 @@
 {
+    "id": 130,
     "date": "2019/04/17",
     "sources": [
         "https://www.theatlantic.com/technology/archive/2019/04/instagram-memers-are-unionizing/587308/?fbclid=iwar0enfo9hotaka_ukh0snpjn5pypplmygz1wkelyul-42lue4p-_foalbq0"
@@ -14,13 +15,9 @@
         "gig_workers"
     ],
     "description": "Instagram memers have had enough. They generate the engagement that helps keep Instagram growing\u2014but, they argue, the multibillion-dollar platform doesn't pay them for their work, or give them any control. So they're fighting back. And before you write off IG Meme Union Local 69-420 as a joke, the organizers of the collective would like you to know that they are very serious.",
+    "online": true,
     "locations": [
-        [
-            "online"
-        ],
-        [
-            "usa"
-        ]
+        "usa"
     ],
     "companies": [
         "instagram",
@@ -28,7 +25,9 @@
     ],
     "workers": null,
     "tags": null,
-    "author": "organizejs",
+    "author": [
+        "organizejs"
+    ],
     "latlngs": [
         [
             41.14127715,

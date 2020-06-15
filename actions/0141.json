@@ -1,8 +1,8 @@
 {
+    "id": 142,
     "date": "2019/05/27",
     "sources": [
-        "https://techcrunch.com/2019/05/28/glovo-faces-safety-protests-after-delivery-rider-killed-on-the-job/",
-        "https://elpais.com/economia/2019/05/27/actualidad/1558983633_840887.html"
+        "https://techcrunch.com/2019/05/28/glovo-faces-safety-protests-after-delivery-rider-killed-on-the-job/, https://elpais.com/economia/2019/05/27/actualidad/1558983633_840887.html"
     ],
     "actions": [
         "protest"
@@ -15,18 +15,18 @@
         "gig_workers"
     ],
     "description": "Spanish on-demand delivery startup Glovo is facing angry protests from couriers on its platform following the death of a 22-year-old rider in Barcelona where the business is headquartered. The victim was a Nepalese national called Pujan Koirala, who had been substituting for a registered Glovo courier at the time he was struck and killed by a garbage truck.",
+    "online": null,
     "locations": [
-        [
-            "barcelona",
-            "spain"
-        ]
+        "barcelona-spain"
     ],
     "companies": [
         "glovo"
     ],
     "workers": 30,
     "tags": null,
-    "author": "organizejs",
+    "author": [
+        "organizejs"
+    ],
     "latlngs": null,
     "addresses": null
 }

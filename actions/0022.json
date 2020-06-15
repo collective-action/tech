@@ -1,4 +1,5 @@
 {
+    "id": 23,
     "date": "2012/06/05",
     "sources": [
         "https://www.voanews.com/east-asia/outside-glitzy-taiwan-trade-show-workers-fight-pay-and-rest"
@@ -15,16 +16,16 @@
         "blue_collar_workers"
     ],
     "description": "Outside of Taiwan's Computex trade show, labor groups protested poor working conditions and inadequate pay for both white-collar and blue-collar workers",
+    "online": null,
     "locations": [
-        [
-            "taipei",
-            "taiwan"
-        ]
+        "taipei-taiwan"
     ],
     "companies": null,
     "workers": null,
     "tags": null,
-    "author": "nataliyaned",
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": [
         [
             25.0375198,

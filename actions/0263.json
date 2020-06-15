@@ -1,8 +1,8 @@
 {
+    "id": 264,
     "date": "2020/05/28",
     "sources": [
-        "https://www.latimes.com/business/technology/story/2020-05-28/amazon-whole-foods-workers-track-coronavirus-cases",
-        "https://www.theguardian.com/world/2020/may/06/tracking-tool-allows-amazon-workers-to-report-covid-19-cases"
+        "https://www.latimes.com/business/technology/story/2020-05-28/amazon-whole-foods-workers-track-coronavirus-cases, https://www.theguardian.com/world/2020/may/06/tracking-tool-allows-amazon-workers-to-report-covid-19-cases"
     ],
     "actions": [
         "protest"
@@ -14,10 +14,9 @@
         "white_collar_workers"
     ],
     "description": "Jana Jumpp, an Amazon employee in Indiana, has been tracking cases and logged at least 500 cases in 125 Amazon facilities as of late April. Jumpp has a counterpart at Amazon-owned Whole Foods, Katie Doan, who has been collecting cases since April 2. The two women have never spoken, but they describe nearly identical work fielding a torrent of private messages, searching Facebook groups, Reddit, Twitter and news outlets for reports of infections, and meticulously updating Google documents with the numbers.",
+    "online": null,
     "locations": [
-        [
-            "usa"
-        ]
+        "usa"
     ],
     "companies": [
         "amazon"
@@ -27,7 +26,9 @@
         "coronavirus",
         "online_action"
     ],
-    "author": "organizejs",
+    "author": [
+        "organizejs"
+    ],
     "latlngs": [
         [
             47.6142939,

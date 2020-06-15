@@ -1,10 +1,8 @@
 {
+    "id": 257,
     "date": "2020/04/21",
     "sources": [
-        "https://www.vice.com/amp/en_us/article/jge77g/hundreds-of-amazon-workers-are-not-going-to-work-in-nationwide-protest",
-        "https://thehill.com/policy/technology/493772-hundreds-of-amazon-workers-to-walk-off-starting-tuesday",
-        "https://nypost.com/2020/04/21/300-amazon-employees-refuse-to-work-amid-coronavirus-safety-worries/",
-        "https://www.wired.com/story/amazon-sick-out-tech-warehouse-workers-protest/"
+        "https://www.vice.com/amp/en_us/article/jge77g/hundreds-of-amazon-workers-are-not-going-to-work-in-nationwide-protest, https://thehill.com/policy/technology/493772-hundreds-of-amazon-workers-to-walk-off-starting-tuesday, https://nypost.com/2020/04/21/300-amazon-employees-refuse-to-work-amid-coronavirus-safety-worries/, https://www.wired.com/story/amazon-sick-out-tech-warehouse-workers-protest/"
     ],
     "actions": [
         "strike"
@@ -17,10 +15,9 @@
         "in_house_workers"
     ],
     "description": "Over 300 Amazon workers across the country signed a pledge to call out of work to protest the company's reaction to the coronavirus pandemic. Participants claim the company continues to fall short in providing personal protective equipment and are calling for a more flexible paid leave policy that would allow them to take care of sick family members.",
+    "online": null,
     "locations": [
-        [
-            "usa"
-        ]
+        "usa"
     ],
     "companies": [
         "amazon"
@@ -29,7 +26,9 @@
     "tags": [
         "coronavirus"
     ],
-    "author": "nataliyaned",
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": [
         [
             47.6142939,

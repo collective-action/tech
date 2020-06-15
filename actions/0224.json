@@ -1,8 +1,8 @@
 {
+    "id": 225,
     "date": "2020/01/26",
     "sources": [
-        "https://www.washingtonpost.com/technology/2020/01/26/amazon-employees-plan-mass-defiance-company-communications-policy-support-colleagues/",
-        "https://medium.com/@amazonemployeesclimatejustice/amazon-employees-share-our-views-on-company-business-f5abcdea849"
+        "https://www.washingtonpost.com/technology/2020/01/26/amazon-employees-plan-mass-defiance-company-communications-policy-support-colleagues/, https://medium.com/@amazonemployeesclimatejustice/amazon-employees-share-our-views-on-company-business-f5abcdea849"
     ],
     "actions": [
         "open_letter"
@@ -14,11 +14,8 @@
         "white_collar_workers"
     ],
     "description": "Amazon Employees for Climate Action published a Medium post with quotations from 364 employees criticizing the company for its continued involvement with the fossil fuel industry. Notably, all quotes included employee name and company title. Some quotes touched on other ethical issues in addition to climate change, such as the company's contracts with ICE. The action violates a company policy that prohibits employees from publicly speaking about the business without prior company approval. The employee group is currently calling for Amazon to go carbon neutral by 2030, to cut ties with fossil fuel companies, and to stop funding politicians and lobbyists who deny climate change. This action is a response to Amazon's previous threats to fire internal critics.",
-    "locations": [
-        [
-            "online"
-        ]
-    ],
+    "online": true,
+    "locations": null,
     "companies": [
         "amazon"
     ],
@@ -26,7 +23,9 @@
     "tags": [
         "climate_change"
     ],
-    "author": "nataliyaned",
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": null,
     "addresses": null
 }

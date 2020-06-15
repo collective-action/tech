@@ -1,8 +1,8 @@
 {
+    "id": 245,
     "date": "2020/03/19",
     "sources": [
-        "https://www.forbes.com/sites/janetwburns/2020/03/19/drivers-protest-outside-uber-hq-for-covid-19-sick-leave-and-pay-under-california-law-ab5/#3b5daa808f7a",
-        "https://twitter.com/veenadubal/status/1240410264119283712"
+        "https://www.forbes.com/sites/janetwburns/2020/03/19/drivers-protest-outside-uber-hq-for-covid-19-sick-leave-and-pay-under-california-law-ab5/#3b5daa808f7a, https://twitter.com/veenadubal/status/1240410264119283712"
     ],
     "actions": [
         "strike",
@@ -16,10 +16,9 @@
         "gig_workers"
     ],
     "description": "Ride-hail drivers in California gathered outside Uber headquarters in San Francisco, Los Angeles, and San Diego to demand that gig platforms provide immediate relief to their cash-strapped, at-risk workers, including by adhering to California\u2019s new labor law known as AB5. Drivers are calling on California to enforce its new employment law as illness, confusion, and hardship from COVID-19 sweep their industries. They are also calling for the $110 million set aside by Uber, Lyft, Doordash, Postmates, and Instacart for fighting that law to instead be used to give workers some relief.",
+    "online": null,
     "locations": [
-        [
-            "europe"
-        ]
+        "europe"
     ],
     "companies": [
         "uber",
@@ -32,7 +31,9 @@
     "tags": [
         "coronavirus"
     ],
-    "author": "organizejs",
+    "author": [
+        "organizejs"
+    ],
     "latlngs": [
         [
             51.3540073,

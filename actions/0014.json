@@ -1,4 +1,5 @@
 {
+    "id": 15,
     "date": "2007/10/30",
     "sources": [
         "https://www.nytimes.com/2007/10/30/technology/30iht-techlabor.1.8109819.html?searchresultposition=1"
@@ -13,19 +14,18 @@
         "white_collar_workers"
     ],
     "description": "Hundreds' of immigrant tech workers protested H1B visa caps on the streets of San Jose carrying banners and signs. A shortage of H1B visas has led to insecure working conditions and labor shortages among tech firms.",
+    "online": null,
     "locations": [
-        [
-            "san jose",
-            "california",
-            "usa"
-        ]
+        "san jose-california-usa"
     ],
     "companies": null,
     "workers": 200,
     "tags": [
         "immigration"
     ],
-    "author": "nataliyaned",
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": [
         [
             37.3361905,

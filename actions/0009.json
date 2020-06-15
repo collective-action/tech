@@ -1,10 +1,8 @@
 {
+    "id": 10,
     "date": "2001/01/09",
     "sources": [
-        "https://www.nytimes.com/2001/01/09/business/technology-the-first-unionization-vote-by-dot-com-workers-is-set.html?rref=collection%2ftimestopic%2fcommunications%20workers%20of%20america",
-        "https://money.cnn.com/2001/02/19/sunsetting/biz_etown/",
-        "https://www.sfgate.com/business/article/etown-runs-out-of-money-shuts-down-web-site-s-2951974.php",
-        "https://www.wired.com/2001/01/union-to-etown-threats-unfair/"
+        "https://www.nytimes.com/2001/01/09/business/technology-the-first-unionization-vote-by-dot-com-workers-is-set.html?rref=collection%2ftimestopic%2fcommunications%20workers%20of%20america, https://money.cnn.com/2001/02/19/sunsetting/biz_etown/, https://www.sfgate.com/business/article/etown-runs-out-of-money-shuts-down-web-site-s-2951974.php, https://www.wired.com/2001/01/union-to-etown-threats-unfair/"
     ],
     "actions": [
         "union_representation"
@@ -17,12 +15,9 @@
         "in_house_workers"
     ],
     "description": "Customer service representatives at etown.com, a website that provides information on consumer electronics. voted on whether to join the Communication Workers of America. The New York Times reports that this is the first unionization vote at a dot com. Two workers who lead unionization efforts were reportedly fired by the company in the time leading up to the vote. Management threatened to shut down the company if unionization proceeded, which prompted CWA to file a motion with the NLRB. The company ultimately did shut down in mid-February 2001, due to  failure to secure additional venture capital funding.",
+    "online": null,
     "locations": [
-        [
-            "san francisco",
-            "california",
-            "usa"
-        ]
+        "san francisco-california-usa"
     ],
     "companies": [
         "etown"
@@ -33,7 +28,9 @@
         "cwa",
         "retaliation"
     ],
-    "author": "nataliyaned",
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": null,
     "addresses": null
 }

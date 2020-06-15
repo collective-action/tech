@@ -1,4 +1,5 @@
 {
+    "id": 34,
     "date": "2014/03/03",
     "sources": [
         "https://www.reuters.com/article/us-china-strikes/ibm-factory-strike-shows-shifting-china-labor-landscape-idusbrea2804k20140309"
@@ -13,11 +14,9 @@
         "blue_collar_workers"
     ],
     "description": "More than 1,000 IBM factory workers walked off the job at the factory in Shenzhen, bordering Hong Kong, after managers on announced the terms of their transfer to new ownership under Chinese PC maker Lenovo Group Ltd. Experts say - the impetus for a strike was underpinned by the fact that the factory branch of the state-backed union was seen as a farce.",
+    "online": null,
     "locations": [
-        [
-            "shenzhen",
-            "china"
-        ]
+        "shenzhen-china"
     ],
     "companies": [
         "ibm",
@@ -25,7 +24,9 @@
     ],
     "workers": 1000,
     "tags": null,
-    "author": "organizejs",
+    "author": [
+        "organizejs"
+    ],
     "latlngs": [
         [
             22.54208855,

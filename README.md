@@ -19,7 +19,7 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">12/06/2020 10:53PM</td>
+    <td data-summary="timestamp">15/06/2020 01:20AM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
@@ -447,7 +447,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     </a>
    </td>
   </tr>
-  <tr author="organizjes">
+  <tr author="organizejs">
    <td>
     2020-03-13
    </td>

@@ -1,8 +1,8 @@
 {
+    "id": 212,
     "date": "2019/11/25",
     "sources": [
-        "https://www.vox.com/the-goods/2019/11/27/20985691/amazon-workers-black-friday-2019",
-        "https://nypost.com/2019/11/25/workers-at-amazons-staten-island-warehouse-to-hold-rally-over-high-injury-rates/"
+        "https://www.vox.com/the-goods/2019/11/27/20985691/amazon-workers-black-friday-2019, https://nypost.com/2019/11/25/workers-at-amazons-staten-island-warehouse-to-hold-rally-over-high-injury-rates/"
     ],
     "actions": [
         "open_letter",
@@ -17,20 +17,18 @@
         "in_house_workers"
     ],
     "description": "Over a hundred Amazon workers and their supporters gathered outside the facility to protest working conditions that they say only worsen as the e-tailing giant gears up to deliver a rush of packages ahead of Christmas and Hanukkah. 600 workers at an Amazon fulfillment center in New York signed a letter and protested working conditions. Amazon workers face injury rates over three times the industry average, and are asking for increased break time and better transit benefits.",
+    "online": null,
     "locations": [
-        [
-            "staten island",
-            "new york city",
-            "new york",
-            "usa"
-        ]
+        "staten island-new york city-new york-usa"
     ],
     "companies": [
         "amazon"
     ],
     "workers": 600,
     "tags": null,
-    "author": "ericandrewlewis",
+    "author": [
+        "ericandrewlewis"
+    ],
     "latlngs": [
         [
             40.6193387,
@@ -38,6 +36,6 @@
         ]
     ],
     "addresses": [
-        "Amazon Court, Clifton, Todt Hill, New York, Staten Island, Richmond County, New York, 10304, United States of America"
+        "Amazon Court, Clifton, Todt Hill, New York, Richmond County, New York, 10304, United States of America"
     ]
 }

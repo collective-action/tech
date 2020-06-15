@@ -1,4 +1,5 @@
 {
+    "id": 229,
     "date": "2020/02/09",
     "sources": [
         "https://medium.com/@techwontdrillit/tech-wont-drill-it-a63594dc6e66"
@@ -14,11 +15,8 @@
         "in_house_workers"
     ],
     "description": "AI researchers and engineers from around the world signed an online open letter calling for the tech industry to refrain from using AI technologies to 'exacerbate the climate crisis'. The letter, authored by Tech Won't Drill It, has been signed by over 100 AI researchers.",
-    "locations": [
-        [
-            "online"
-        ]
-    ],
+    "online": true,
+    "locations": null,
     "companies": null,
     "workers": 141,
     "tags": [
@@ -27,7 +25,9 @@
         "climate_change",
         "ai"
     ],
-    "author": "nataliyaned",
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": null,
     "addresses": null
 }

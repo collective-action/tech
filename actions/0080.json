@@ -1,4 +1,5 @@
 {
+    "id": 81,
     "date": "2018/04/28",
     "sources": [
         "https://technode.com/2018/04/28/didi-food-delivery-strike/"
@@ -14,22 +15,19 @@
         "gig_workers"
     ],
     "description": "Around 30 drivers gathered on Thursday at lunchtime, the peak hour for deliveries, to express their dissatisfaction with a serious drop in the number of orders and a change in rules for payments. The majority of the protesters were freelancers for Didi Waimai who complained of unfair rules and meager earnings.",
+    "online": null,
     "locations": [
-        [
-            "wuxi",
-            "china"
-        ],
-        [
-            "jiangsu",
-            "china"
-        ]
+        "wuxi-china",
+        "jiangsu-china"
     ],
     "companies": [
         "didi"
     ],
     "workers": 30,
     "tags": null,
-    "author": "organizejs",
+    "author": [
+        "organizejs"
+    ],
     "latlngs": null,
     "addresses": null
 }

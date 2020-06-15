@@ -1,4 +1,5 @@
 {
+    "id": 74,
     "date": "2017/12/13",
     "sources": [
         "https://unitehere.org/cafeteria-workers-at-yahoo-unionize/"
@@ -15,19 +16,18 @@
         "blue_collar_workers"
     ],
     "description": "118 food service workers at Yahoo won union representation at its headquarters in Sunnyvale, CA. The food service workers, who are employed by Yahoo's contractor, Bon Appetit, are calling for respect and dignity, affordable health care, and increased wages to compete with increasing rents in the Bay Area.",
+    "online": null,
     "locations": [
-        [
-            "sunnyvale",
-            "california",
-            "usa"
-        ]
+        "sunnyvale-california-usa"
     ],
     "companies": [
         "yahoo"
     ],
     "workers": 118,
     "tags": null,
-    "author": "organizejs",
+    "author": [
+        "organizejs"
+    ],
     "latlngs": [
         [
             37.4181243,

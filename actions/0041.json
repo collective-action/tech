@@ -1,4 +1,5 @@
 {
+    "id": 42,
     "date": "2014/11/04",
     "sources": [
         "https://www.chenpe.com/news/24911.html"
@@ -14,18 +15,18 @@
         "white_collar_workers"
     ],
     "description": "Artesyn Technologies announced through their QQ blog that employees mainly from the hardware department were participating in a protest against Sony. They held their protest against what they called violent layoffs and discrimination and they appealed to Sony to disclose a list of those being discharged. They also demanded negotiations and a 'fair, transparent and open' process.",
+    "online": null,
     "locations": [
-        [
-            "beijing",
-            "china"
-        ]
+        "beijing-china"
     ],
     "companies": [
         "sony"
     ],
     "workers": null,
     "tags": null,
-    "author": "organizejs",
+    "author": [
+        "organizejs"
+    ],
     "latlngs": [
         [
             39.9079196,

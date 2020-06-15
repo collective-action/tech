@@ -1,4 +1,5 @@
 {
+    "id": 112,
     "date": "2018/12/16",
     "sources": [
         "https://www.scmp.com/news/china/article/2178201/chinese-workers-apple-supplier-foxconn-stage-street-protest-over-unpaid"
@@ -14,18 +15,18 @@
         "contract_workers"
     ],
     "description": "Hundreds of temporary workers for FoxConn rallied on the streets on Zhengzhou to protest unpaid signing bonuses. Protests continued for two nights before being broken up by police.",
+    "online": null,
     "locations": [
-        [
-            "zhengzhou",
-            "china"
-        ]
+        "zhengzhou-china"
     ],
     "companies": [
         "foxconn"
     ],
     "workers": 100,
     "tags": null,
-    "author": "nataliyaned",
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": [
         [
             34.7284406,

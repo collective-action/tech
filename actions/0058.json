@@ -1,4 +1,5 @@
 {
+    "id": 59,
     "date": "2016/10/05",
     "sources": [
         "https://www.thenation.com/article/the-silicon-valley-union-victories-you-havent-heard-of/"
@@ -15,19 +16,18 @@
         "contract_workers"
     ],
     "description": "Intel cafeteria workers voted to unionize joining forces with Unite Here Local 19.",
+    "online": null,
     "locations": [
-        [
-            "santa clara",
-            "california",
-            "usa"
-        ]
+        "santa clara-california-usa"
     ],
     "companies": [
         "intel"
     ],
     "workers": 43,
     "tags": null,
-    "author": "nataliyaned",
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": [
         [
             37.389317899999995,

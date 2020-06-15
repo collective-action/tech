@@ -1,8 +1,8 @@
 {
+    "id": 252,
     "date": "2020/04/04",
     "sources": [
-        "https://www.commondreams.org/news/2020/04/04/despite-threats-management-amazon-warehouse-workers-chicago-strike-demand-better",
-        "https://patch.com/illinois/chicago/cars-picket-amazon-workers-striking-coronavirus-safety"
+        "https://www.commondreams.org/news/2020/04/04/despite-threats-management-amazon-warehouse-workers-chicago-strike-demand-better, https://patch.com/illinois/chicago/cars-picket-amazon-workers-striking-coronavirus-safety"
     ],
     "actions": [
         "protest",
@@ -17,13 +17,9 @@
         "blue_collar_workers"
     ],
     "description": "Amazon workers, organized by DCH1 Amazonians United, staged a walkout at a facility in Chicago calling on the company to temporarily close and sanitize the facility following two positive coronavirus tests among employees. Additionally, the workers are calling for the company to cover any health bills accrued by employees and family members that have contracted coronavirus at the facility, plus more time on-the-job to incorporate safety practices such as regular hand sanitizing. This is the fourth such action organized by DCH1 Amazonians in response to the coronavirus outbreak. ",
+    "online": null,
     "locations": [
-        [
-            "staten island",
-            "new york city",
-            "new york",
-            "usa"
-        ]
+        "staten island-new york city-new york-usa"
     ],
     "companies": [
         "amazon"
@@ -32,7 +28,9 @@
     "tags": [
         "coronavirus"
     ],
-    "author": "nataliyaned",
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": [
         [
             40.6193387,
@@ -40,6 +38,6 @@
         ]
     ],
     "addresses": [
-        "Amazon Court, Clifton, Todt Hill, New York, Staten Island, Richmond County, New York, 10304, United States of America"
+        "Amazon Court, Clifton, Todt Hill, New York, Richmond County, New York, 10304, United States of America"
     ]
 }

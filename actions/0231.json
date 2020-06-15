@@ -1,8 +1,8 @@
 {
+    "id": 232,
     "date": "2020/02/18",
     "sources": [
-        "https://www.nbcnews.com/tech/tech-news/kickstarter-workers-vote-form-first-union-tech-industry-n1138006",
-        "https://www.nytimes.com/2020/02/18/technology/kickstarter-union.html"
+        "https://www.nbcnews.com/tech/tech-news/kickstarter-workers-vote-form-first-union-tech-industry-n1138006, https://www.nytimes.com/2020/02/18/technology/kickstarter-union.html"
     ],
     "actions": [
         "union_representation"
@@ -14,12 +14,9 @@
         "white_collar_workers"
     ],
     "description": "Employees at the crowdfunding platform Kickstarter voted to unionize. The decision, which was formalized by a vote count at the National Labor Relations Board, came down to a narrow margin, with 46 employees voting in favor of the move and 37 opposing it. The debate over a union \u2014 and whether such representation was appropriate for highly paid tech workers \u2014 had been a source of tension at the company for many months.",
+    "online": null,
     "locations": [
-        [
-            "new york city",
-            "new york",
-            "usa"
-        ]
+        "new york city-new york-usa"
     ],
     "companies": [
         "kickstarter"
@@ -28,7 +25,9 @@
     "tags": [
         "opeiu"
     ],
-    "author": "organizejs",
+    "author": [
+        "organizejs"
+    ],
     "latlngs": [
         [
             40.7321996,

@@ -1,4 +1,5 @@
 {
+    "id": 187,
     "date": "2019/09/25",
     "sources": [
         "http://www.browndailyherald.com/2019/09/26/students-protest-companies-tied-ice-career-fair/"
@@ -14,12 +15,9 @@
         "na"
     ],
     "description": "Students at Brown demonstrated against four companies (Amazon, Microsoft, Palantir, and Ernst & Young) at an on-campus career fair. All four companies have done business with ICE. The students have also started an online petition to protest Brown's connections to these four companies. ",
+    "online": null,
     "locations": [
-        [
-            "providence",
-            "rhode island",
-            "usa"
-        ]
+        "providence-rhode island-usa"
     ],
     "companies": [
         "palantir",
@@ -32,7 +30,9 @@
         "immigration",
         "ice"
     ],
-    "author": "nataliyaned",
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": [
         [
             41.5286839,

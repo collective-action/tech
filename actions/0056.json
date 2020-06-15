@@ -1,8 +1,8 @@
 {
+    "id": 57,
     "date": "2016/05/10",
     "sources": [
-        "https://www.nytimes.com/2016/05/11/technology/uber-agrees-to-union-deal-in-new-york.html",
-        "https://www.wired.com/2017/05/how-drivers-are-finally-outfoxing-uber/"
+        "https://www.nytimes.com/2016/05/11/technology/uber-agrees-to-union-deal-in-new-york.html, https://www.wired.com/2017/05/how-drivers-are-finally-outfoxing-uber/"
     ],
     "actions": [
         "union_representation"
@@ -14,12 +14,9 @@
         "gig_workers"
     ],
     "description": "Uber recognizes an association of drivers, the Independent Drivers Guild, which is affiliated with the International Association of Machinists and Aerospace Workers. The organization represents approximately 35,000 drivers in the New York City area and provides access to discounted insurance, legal services, and roadside assistance. The group has been promised monthly meetings with management but at the expense of agreeing not the formally unionize for the next five years.",
+    "online": null,
     "locations": [
-        [
-            "new york city",
-            "new york",
-            "usa"
-        ]
+        "new york city-new york-usa"
     ],
     "companies": [
         "uber"
@@ -28,7 +25,9 @@
     "tags": [
         "drivers"
     ],
-    "author": "nataliyaned",
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": [
         [
             40.7859179,
@@ -36,6 +35,6 @@
         ]
     ],
     "addresses": [
-        "Yachthafen(Blick \u00fcber New Yersey), Hudson River Greenway, Upper West Side, Manhattan Community Board 7, New York County, New York, 10024, United States of America"
+        "Yachthafen(Blick \u00fcber New Yersey), Hudson River Greenway, Upper West Side, Manhattan, Manhattan Community Board 7, New York County, New York, 10024, United States of America"
     ]
 }

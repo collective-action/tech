@@ -1,8 +1,8 @@
 {
+    "id": 69,
     "date": "2017/03/22",
     "sources": [
-        "https://www.siliconvalley.com/2017/03/23/at-strike-workers-go-back-to-work-after-one-day/",
-        "https://money.cnn.com/2017/03/22/news/companies/att-strike-landline-workers/index.html"
+        "https://www.siliconvalley.com/2017/03/23/at-strike-workers-go-back-to-work-after-one-day/, https://money.cnn.com/2017/03/22/news/companies/att-strike-landline-workers/index.html"
     ],
     "actions": [
         "strike"
@@ -15,15 +15,10 @@
         "blue_collar_workers"
     ],
     "description": "About 17,000 AT&T workers walked off the job Wednesday. Workers say that AT&T was forcing technicians to work outside their areas of expertise. The union also was protesting the companies's outsourcing and offshoring of jobs. AT&T wireless workers were not affected.",
+    "online": null,
     "locations": [
-        [
-            "california",
-            "usa"
-        ],
-        [
-            "nevada",
-            "usa"
-        ]
+        "california-usa",
+        "nevada-usa"
     ],
     "companies": [
         "at&t"
@@ -32,7 +27,9 @@
     "tags": [
         "technicians"
     ],
-    "author": "organizejs",
+    "author": [
+        "organizejs"
+    ],
     "latlngs": [
         [
             33.80967965,

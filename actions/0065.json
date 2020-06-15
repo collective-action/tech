@@ -1,4 +1,5 @@
 {
+    "id": 66,
     "date": "2017/02/01",
     "sources": [
         "https://www.usatoday.com/story/tech/talkingtech/2017/01/30/googlers-stage-worldwide-walkout-trump-immigration-ban-rally-mountain-view-serge-brin-sundar-pichai/97265938/"
@@ -13,15 +14,10 @@
         "na"
     ],
     "description": "Google employees around the world walked off the job to protest Pres. Trump's immigration ban. Google co-founder Sergey Brin and CEO Sundar Pichai spoke at the walk-out at the Mountain View headquarters.",
+    "online": null,
     "locations": [
-        [
-            "mountain view",
-            "california",
-            "usa"
-        ],
-        [
-            "worldwide"
-        ]
+        "mountain view-california-usa",
+        "worldwide"
     ],
     "companies": [
         "google"
@@ -31,7 +27,9 @@
         "immigration",
         "trump"
     ],
-    "author": "nataliyaned",
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": [
         [
             37.41897865,

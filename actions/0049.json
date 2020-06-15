@@ -1,4 +1,5 @@
 {
+    "id": 50,
     "date": "2015/07/20",
     "sources": [
         "https://qz.com/458615/theres-reportedly-a-big-secret-spreadsheet-where-google-employees-share-their-salaries/"
@@ -14,17 +15,16 @@
         "white_collar_workers"
     ],
     "description": "Google employees have started an internal spreadsheet to share data on salary and bonuses. Employees have reportedly used the spreadsheet to advocate for greater compensation.",
-    "locations": [
-        [
-            "online"
-        ]
-    ],
+    "online": true,
+    "locations": null,
     "companies": [
         "google"
     ],
     "workers": null,
     "tags": null,
-    "author": "nataliyaned",
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": null,
     "addresses": null
 }

@@ -1,9 +1,8 @@
 {
+    "id": 139,
     "date": "2019/05/09",
     "sources": [
-        "https://clb.org.hk/content/senior-staff-oracle%e2%80%99s-beijing-research-centre-protest-layoffs",
-        "https://technode.com/2019/05/10/oracle-programmers-100000-recruitment/",
-        "https://www.ft.com/content/16ffdcec-749d-11e9-bbad-7c18c0ea0201"
+        "https://clb.org.hk/content/senior-staff-oracle%e2%80%99s-beijing-research-centre-protest-layoffs, https://technode.com/2019/05/10/oracle-programmers-100000-recruitment/, https://www.ft.com/content/16ffdcec-749d-11e9-bbad-7c18c0ea0201"
     ],
     "actions": [
         "protest"
@@ -16,11 +15,9 @@
         "white_collar_workers"
     ],
     "description": "Staff at US-owned tech giant Oracle's China Development Centre in Beijing have staged protests after the company fired 900 staff from its China team, making up 60 per cent of its research and development effort there. Employees blamed tensions between the US and China for the cuts which came in the same week as the US announced additional tariffs on Chinese goods. An employee referred to the Oracle co-founder's interview with Fox Business last October, in which Larry Ellison said that 'we [the US] have a serious competition going with China, I\u2019m on Team USA', and 'if we let China produce more engineers than we do, if we let China's technology companies beat our technology companies, it won't be long that our military is behind technologically also'.",
+    "online": null,
     "locations": [
-        [
-            "beijing",
-            "china"
-        ]
+        "beijing-china"
     ],
     "companies": [
         "oracle"
@@ -30,7 +27,9 @@
         "trade_wars",
         "trump"
     ],
-    "author": "organizejs",
+    "author": [
+        "organizejs"
+    ],
     "latlngs": [
         [
             40.046504,

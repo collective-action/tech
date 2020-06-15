@@ -1,4 +1,5 @@
 {
+    "id": 86,
     "date": "2018/06/04",
     "sources": [
         "https://clb.org.hk/content/food-delivery-workers-china-strike-over-pay-cuts-and-unfair-work-practices"
@@ -13,18 +14,18 @@
         "gig_workers"
     ],
     "description": "There have been at least 15 strikes and protests by food delivery workers in China since 1 May as increased competition among delivery platforms has drastically reduced workers' take-home pay. Workers contracted to food delivery giant Meituan in the northern city of Taiyuan staged a work stoppage in protest at a wide range of issues including pay levels, delivery times, insurance and high accident rates.",
+    "online": null,
     "locations": [
-        [
-            "taiyuan",
-            "china"
-        ]
+        "taiyuan-china"
     ],
     "companies": [
         "meituan"
     ],
     "workers": null,
     "tags": null,
-    "author": "organizejs",
+    "author": [
+        "organizejs"
+    ],
     "latlngs": null,
     "addresses": null
 }

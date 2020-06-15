@@ -1,9 +1,8 @@
 {
+    "id": 56,
     "date": "2016/04/21",
     "sources": [
-        "https://venturebeat.com/2016/01/03/oconnor-v-uber-why-the-days-of-driver-flexibility-are-already-numbered/",
-        "https://www.uber.com/newsroom/growing-and-growing-up",
-        "https://prospect.org/article/demand-and-demanding-their-rights"
+        "https://venturebeat.com/2016/01/03/oconnor-v-uber-why-the-days-of-driver-flexibility-are-already-numbered/, https://www.uber.com/newsroom/growing-and-growing-up, https://prospect.org/article/demand-and-demanding-their-rights"
     ],
     "actions": [
         "legal_action"
@@ -16,15 +15,10 @@
         "gig_workers"
     ],
     "description": "Uber settled two class-action lawsuits that argued independent contractors should be classified as company employees. Uber agreed to pay drivers $84 million (and an additional $16 million upon IPO and pending increased valuation). Drivers were allowed to form associations in California and Massachusetts and see the data behind their rating. In later months, more than 150 drivers called for the judge to vacate the settlement.",
+    "online": null,
     "locations": [
-        [
-            "california",
-            "usa"
-        ],
-        [
-            "massachusetts",
-            "usa"
-        ]
+        "california-usa",
+        "massachusetts-usa"
     ],
     "companies": [
         "uber"
@@ -33,7 +27,9 @@
     "tags": [
         "drivers"
     ],
-    "author": "nataliyaned",
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": [
         [
             37.7899898,

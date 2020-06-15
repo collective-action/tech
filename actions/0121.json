@@ -1,4 +1,5 @@
 {
+    "id": 122,
     "date": "2019/03/25",
     "sources": [
         "https://www.vox.com/2019/3/25/18280718/uber-lyft-drivers-strike-la-los-angeles"
@@ -13,12 +14,9 @@
         "gig_workers"
     ],
     "description": "Uber and Lyft drivers in Los Angeles are refusing to pick up customers today \u2014 part of a one-day strike to protest Uber's recent decision to slash pay rates for drivers in the area.",
+    "online": null,
     "locations": [
-        [
-            "los angeles",
-            "california",
-            "usa"
-        ]
+        "los angeles-california-usa"
     ],
     "companies": [
         "uber",
@@ -26,7 +24,9 @@
     ],
     "workers": 100,
     "tags": null,
-    "author": "organizejs",
+    "author": [
+        "organizejs"
+    ],
     "latlngs": null,
     "addresses": null
 }

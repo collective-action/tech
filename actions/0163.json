@@ -1,4 +1,5 @@
 {
+    "id": 164,
     "date": "2019/07/23",
     "sources": [
         "https://www.seattletimes.com/business/google-settles-age-discrimination-class-action-lawsuit-with-more-than-200-workers-for-11-million/"
@@ -13,17 +14,18 @@
         "white_collar_workers"
     ],
     "description": "Google settled a class action lawsuit launched by several hundred older workers who claimed they were not hired by the company on the basis of their age. The company paid out $11 million to the plaintiffs. Between 2007 to 2013, they argued, the median age in the tech industry was 41, while the median age at Google was 29.",
+    "online": null,
     "locations": [
-        [
-            "usa"
-        ]
+        "usa"
     ],
     "companies": [
         "google"
     ],
     "workers": 200,
     "tags": null,
-    "author": "nataliyaned",
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": [
         [
             42.3627717,

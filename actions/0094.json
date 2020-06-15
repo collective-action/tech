@@ -1,4 +1,5 @@
 {
+    "id": 95,
     "date": "2018/07/24",
     "sources": [
         "https://www.bostonglobe.com/business/2018/07/24/samsung-workers-agree-end-standoff-workers-deaths/co5pnkkgjsygaxcwszyghm/story.html"
@@ -13,17 +14,18 @@
         "blue_collar_workers"
     ],
     "description": "A group of Samsung factory employees in South Korea organized to call for safer working conditions and medical compensation from the company. After three years of protests, Samsung has agreed to accept the compensation terms and issue an apology.",
+    "online": null,
     "locations": [
-        [
-            "south korea"
-        ]
+        "south korea"
     ],
     "companies": [
         "samsung"
     ],
     "workers": 100,
     "tags": null,
-    "author": "nataliyaned",
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": [
         [
             35.0957495,

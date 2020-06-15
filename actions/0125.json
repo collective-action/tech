@@ -1,8 +1,8 @@
 {
+    "id": 126,
     "date": "2019/04/01",
     "sources": [
-        "https://www.theguardian.com/technology/2019/apr/01/google-kay-coles-james-removal-employees-letter",
-        "https://medium.com/@against.transphobia/googlers-against-transphobia-and-hate-b1b0a5dbf76"
+        "https://www.theguardian.com/technology/2019/apr/01/google-kay-coles-james-removal-employees-letter, https://medium.com/@against.transphobia/googlers-against-transphobia-and-hate-b1b0a5dbf76"
     ],
     "actions": [
         "open_letter"
@@ -15,13 +15,9 @@
         "white_collar_workers"
     ],
     "description": "A group of Google employees have called for the removal of a rightwing thinktank leader from the companies's new artificial intelligence council, citing her anti-LGBT and anti-immigrant record. Academic, civil society, and industry supporters have also signed the petition in mass.",
+    "online": true,
     "locations": [
-        [
-            "online"
-        ],
-        [
-            "usa"
-        ]
+        "usa"
     ],
     "companies": [
         "google"
@@ -30,7 +26,9 @@
     "tags": [
         "ai"
     ],
-    "author": "organizejs",
+    "author": [
+        "organizejs"
+    ],
     "latlngs": [
         [
             42.3627717,

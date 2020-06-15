@@ -1,9 +1,8 @@
 {
+    "id": 158,
     "date": "2019/07/15",
     "sources": [
-        "https://www.coworker.org/petitions/amazon-management-meet-with-dch1-amazonians-united-now",
-        "https://labornotes.org/2019/07/amazon-warehouse-worker-why-im-taking-action",
-        "https://www.buzzfeednews.com/amphtml/carolineodonovan/amazon-worker-protests-chicago-heat-wave"
+        "https://www.coworker.org/petitions/amazon-management-meet-with-dch1-amazonians-united-now, https://labornotes.org/2019/07/amazon-warehouse-worker-why-im-taking-action, https://www.buzzfeednews.com/amphtml/carolineodonovan/amazon-worker-protests-chicago-heat-wave"
     ],
     "actions": [
         "open_letter"
@@ -15,19 +14,18 @@
         "blue_collar_workers"
     ],
     "description": "Amazon employees of DCH1 Amazonians United sign a petition to demand that their site leader meet with them to discuss providing the appropriate measures for days of excessive heat, among other issues. The top 3 are: 1) Prime Pay for Prime Days. 2) Health Insurance. 3) Getting A/C",
+    "online": null,
     "locations": [
-        [
-            "chicago",
-            "illinois",
-            "usa"
-        ]
+        "chicago-illinois-usa"
     ],
     "companies": [
         "amazon"
     ],
     "workers": 800,
     "tags": null,
-    "author": "organizejs",
+    "author": [
+        "organizejs"
+    ],
     "latlngs": [
         [
             41.84040105,
@@ -35,6 +33,6 @@
         ]
     ],
     "addresses": [
-        "Amazon Distribution, South Western Avenue, Canalport, Lower West Side, Chicago, Cook County, Illinois, 60643, United States of America"
+        "Amazon Distribution, South Western Avenue, Lower West Side, Illinois Medical District, Chicago, Cook County, Illinois, 60643, United States of America"
     ]
 }

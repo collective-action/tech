@@ -1,4 +1,5 @@
 {
+    "id": 67,
     "date": "2017/02/04",
     "sources": [
         "https://www.businessinsider.com/facebook-employees-protes-trumps-immigration-ban-by-boycotting-flying-2017-2"
@@ -13,10 +14,9 @@
         "na"
     ],
     "description": "A 'handful' of Facebook employees have vowed not to fly for 90 days following Pres. Trump's immigration ban. The company has said it is not affiliated with this protest.",
+    "online": null,
     "locations": [
-        [
-            "usa"
-        ]
+        "usa"
     ],
     "companies": [
         "facebook"
@@ -26,7 +26,9 @@
         "immigration",
         "trump"
     ],
-    "author": "nataliyaned",
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": [
         [
             30.2691649,

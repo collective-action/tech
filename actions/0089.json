@@ -1,8 +1,8 @@
 {
+    "id": 90,
     "date": "2018/06/21",
     "sources": [
-        "https://thehill.com/business-a-lobbying/393583-amazon-employees-protest-sale-of-facial-recognition-tech-to-law",
-        "https://www.businessinsider.com/over-100-amazon-employees-sign-letter-jeff-bezos-stop-selling-facial-recognition-software-police-2018-6"
+        "https://thehill.com/business-a-lobbying/393583-amazon-employees-protest-sale-of-facial-recognition-tech-to-law, https://www.businessinsider.com/over-100-amazon-employees-sign-letter-jeff-bezos-stop-selling-facial-recognition-software-police-2018-6"
     ],
     "actions": [
         "open_letter"
@@ -14,13 +14,9 @@
         "white_collar_workers"
     ],
     "description": "Workers at Amazon are circulating an internal letter to CEO Jeff Bezos, asking him to stop selling the companies's Rekognition facial recognition software to law enforcement and to boot the data-mining firm Palantir from its cloud services.",
+    "online": true,
     "locations": [
-        [
-            "online"
-        ],
-        [
-            "usa"
-        ]
+        "usa"
     ],
     "companies": [
         "amazon",
@@ -30,7 +26,9 @@
     "tags": [
         "law_enforcement"
     ],
-    "author": "organizejs",
+    "author": [
+        "organizejs"
+    ],
     "latlngs": [
         [
             47.6142939,

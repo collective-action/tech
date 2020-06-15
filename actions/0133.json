@@ -1,8 +1,8 @@
 {
+    "id": 134,
     "date": "2019/04/26",
     "sources": [
-        "https://www.wired.com/story/dispute-googles-alleged-retaliation-intensifies/",
-        "https://www.bloomberg.com/news/articles/2019-04-26/google-staffers-share-350-stories-of-systemic-retaliation"
+        "https://www.wired.com/story/dispute-googles-alleged-retaliation-intensifies/, https://www.bloomberg.com/news/articles/2019-04-26/google-staffers-share-350-stories-of-systemic-retaliation"
     ],
     "actions": [
         "protest"
@@ -14,12 +14,9 @@
         "white_collar_workers"
     ],
     "description": "Meredith Whittaker and Claire Stapleton held a town hall for Google workers to discuss the retaliation they have faced from management for engaging in organizing, and to share more than a dozen other stories of retaliation they have gathered. The meeting was held in New York but live-streamed to Google offices elsewhere. This action involved hundreds of workers.",
+    "online": null,
     "locations": [
-        [
-            "new york city",
-            "new york",
-            "usa"
-        ]
+        "new york city-new york-usa"
     ],
     "companies": [
         "google"
@@ -28,7 +25,9 @@
     "tags": [
         "retaliation"
     ],
-    "author": "bentarnoff",
+    "author": [
+        "bentarnoff"
+    ],
     "latlngs": [
         [
             40.7417176,
@@ -36,6 +35,6 @@
         ]
     ],
     "addresses": [
-        "111, 8th Avenue, Manhattan, Manhattan Community Board 5, New York County, New York, 10011, United States of America"
+        "Google, 8th Avenue, Chelsea, Manhattan, Manhattan Community Board 5, New York County, New York, 10011, United States of America"
     ]
 }

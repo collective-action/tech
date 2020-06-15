@@ -1,8 +1,8 @@
 {
+    "id": 22,
     "date": "2012/05/01",
     "sources": [
-        "https://www.itproportal.com/2012/05/01/workers-could-start-strike-at-foxconn-factory-in-brazil/",
-        "https://www.cnbc.com/id/100353348"
+        "https://www.itproportal.com/2012/05/01/workers-could-start-strike-at-foxconn-factory-in-brazil/, https://www.cnbc.com/id/100353348"
     ],
     "actions": [
         "protest"
@@ -14,18 +14,18 @@
         "blue_collar_workers"
     ],
     "description": "Thousands of FoxConn workers in Jundiai, Brazil protested dangerous working conditions outside of the company's local plant. Complaints included lack of water and air conditioning at facilities, covercrowded buses, and low quality food in the cafeterias.",
+    "online": null,
     "locations": [
-        [
-            "jundiai",
-            "brazil"
-        ]
+        "jundiai-brazil"
     ],
     "companies": [
         "foxconn"
     ],
     "workers": 1000,
     "tags": null,
-    "author": "nataliyaned",
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": [
         [
             -23.16559635,

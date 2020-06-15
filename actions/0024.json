@@ -1,8 +1,8 @@
 {
+    "id": 25,
     "date": "2013/02/06",
     "sources": [
-        "https://www.newscientist.com/article/mg21729036-200-crowdsourcing-grows-up-as-online-workers-unite/",
-        "https://prospect.org/article/demand-and-demanding-their-rights"
+        "https://www.newscientist.com/article/mg21729036-200-crowdsourcing-grows-up-as-online-workers-unite/, https://prospect.org/article/demand-and-demanding-their-rights"
     ],
     "actions": [
         "protest"
@@ -15,19 +15,19 @@
         "gig_workers"
     ],
     "description": "Mechnical Turk workers have adopted a platform named Turkopticon, which allows them to review tasks and requestors on the platform. Turkopticon was created through a collaboration between a UC Irvine computer scientist and a union leader for IG Metall.",
+    "online": null,
     "locations": [
-        [
-            "worldwide"
-        ]
+        "worldwide"
     ],
     "companies": [
         "amazon",
-        "mechanical_turk",
-        ""
+        "mechanical_turk"
     ],
     "workers": null,
     "tags": null,
-    "author": "nataliyaned",
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": null,
     "addresses": null
 }

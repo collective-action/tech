@@ -1,8 +1,8 @@
 {
+    "id": 4,
     "date": "1994/01/24",
     "sources": [
-        "https://www.nytimes.com/1994/06/12/magazine/battle-of-the-clipper-chip.html",
-        "http://cpsr.org/prevsite/program/clipper/clipper.html/"
+        "https://www.nytimes.com/1994/06/12/magazine/battle-of-the-clipper-chip.html, http://cpsr.org/prevsite/program/clipper/clipper.html/"
     ],
     "actions": [
         "open_letter"
@@ -14,15 +14,14 @@
         "white_collar_workers"
     ],
     "description": "Computer Professionals for Social Responsibility (CPSR) launches an online petition in opposition to the Clipper Chip, a cryptographic device intended to provide a standard for securing private voice communication. The group expresses concern about the possibility of surveillance through decryption keys held by government agencies. The petition obtains over 50,000 signatures. An earlier physical letter, sent directly to the President, received 40 signatures from cryptography and computing experts.",
-    "locations": [
-        [
-            "online"
-        ]
-    ],
+    "online": true,
+    "locations": null,
     "companies": null,
     "workers": 50000,
     "tags": null,
-    "author": "nataliyaned",
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": null,
     "addresses": null
 }

@@ -1,4 +1,5 @@
 {
+    "id": 228,
     "date": "2020/02/05",
     "sources": [
         "https://www.sfchronicle.com/business/article/uber-lyft-drivers-to-state-enforce-ab5-get-us-15030205.php"
@@ -13,11 +14,9 @@
         "gig_workers"
     ],
     "description": "Rideshare workers organized under Rideshare Drivers United filed wage claims with the California Labor Commissioner's Office seeking to be reimbursed for unpaid wages under AB5. AB5 took effect on Jan. 1 in California but is being disputed by rideshare companies who seek to keep drivers classified as contractors as opposed to employees. Under AB5, many drivers would be entitled to higher wages, pay for overtime, and compensation for work-related expenses.",
+    "online": null,
     "locations": [
-        [
-            "california",
-            "usa"
-        ]
+        "california-usa"
     ],
     "companies": [
         "uber",
@@ -25,7 +24,9 @@
     ],
     "workers": 101,
     "tags": null,
-    "author": "nataliyaned",
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": [
         [
             37.7899898,

@@ -1,4 +1,5 @@
 {
+    "id": 80,
     "date": "2018/04/06",
     "sources": [
         "https://www.thetimes.co.uk/article/academics-stride-into-battle-to-halt-march-of-the-korean-killer-robots-0wt052m6r"
@@ -13,13 +14,9 @@
         "na"
     ],
     "description": "A group of academics working on artificial technologies call for a boycott of the Korea Advanced Institute of Science and Technology, a South Korean university. KAIST is believed to be developing AI weapons through a collaboration with a defense contractor. An open letter has been signed by 50 academics.",
+    "online": true,
     "locations": [
-        [
-            "south korea"
-        ],
-        [
-            "online"
-        ]
+        "south korea"
     ],
     "companies": [
         "korea_advanced_institute_of_science_and_technology"
@@ -28,7 +25,9 @@
     "tags": [
         "academics"
     ],
-    "author": "nataliyaned",
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": null,
     "addresses": null
 }

@@ -1,4 +1,5 @@
 {
+    "id": 64,
     "date": "2017/01/18",
     "sources": [
         "https://techcrunch.com/2017/01/18/tech-employees-protest-in-front-of-palantir-hq-over-fears-it-will-build-trumps-muslim-registry/"
@@ -13,12 +14,9 @@
         "na"
     ],
     "description": "50 people in the tech community came out in the pouring rain to demand the data mining startup take a firm stand against the makings of a Muslim registry.",
+    "online": null,
     "locations": [
-        [
-            "palo alto",
-            "california",
-            "usa"
-        ]
+        "palo alto-california-usa"
     ],
     "companies": [
         "palantir"
@@ -28,7 +26,9 @@
         "industry_solidarity",
         "trump"
     ],
-    "author": "organizejs",
+    "author": [
+        "organizejs"
+    ],
     "latlngs": [
         [
             37.4440869,

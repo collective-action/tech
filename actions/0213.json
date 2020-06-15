@@ -1,8 +1,8 @@
 {
+    "id": 214,
     "date": "2019/11/29",
     "sources": [
-        "https://metro.co.uk/2019/11/29/amazon-hit-by-black-friday-srikes-and-protests-across-europe-11238471/",
-        "https://www.bbc.com/news/uk-england-50603875"
+        "https://metro.co.uk/2019/11/29/amazon-hit-by-black-friday-srikes-and-protests-across-europe-11238471/, https://www.bbc.com/news/uk-england-50603875"
     ],
     "actions": [
         "protest"
@@ -14,19 +14,11 @@
         "blue_collar_workers"
     ],
     "description": "Amazon was targeted by a UK-wide protest organised to coincide with Black Friday and Cyber Monday demanding an end to \u2018appalling\u2019 working conditions. Trade union GMB co-ordinated the British demonstrations to take place across two of the busiest shopping days of the year. 'Workers are breaking bones, being knocked unconscious and being taken away in ambulances,' GMB national officer Mick Rix said in a statement. Labour leader Jeremy Corbyn visited protesters outside an Amazon depot in Sheffield. The union cited figures suggesting there had been more than 600 ambulance call-outs to Amazon warehouses over a three-year period and just as many serious incidents reported to the Health and Safety Executive for various injuries.",
+    "online": null,
     "locations": [
-        [
-            "sheffield",
-            "uk"
-        ],
-        [
-            "rugeley",
-            "uk"
-        ],
-        [
-            "peterborough",
-            "uk"
-        ]
+        "sheffield-uk",
+        "rugeley-uk",
+        "peterborough-uk"
     ],
     "companies": [
         "amazon"
@@ -35,7 +27,9 @@
     "tags": [
         "ice"
     ],
-    "author": "organizejs",
+    "author": [
+        "organizejs"
+    ],
     "latlngs": [
         [
             52.75329925,

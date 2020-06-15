@@ -1,8 +1,8 @@
 {
+    "id": 243,
     "date": "2020/03/19",
     "sources": [
-        "https://www.businessinsider.com/ice-mijente-microsoft-coronavirus-crisis-2020-3",
-        "https://github.com/msworkers/against.ice"
+        "https://www.businessinsider.com/ice-mijente-microsoft-coronavirus-crisis-2020-3, https://github.com/msworkers/against.ice"
     ],
     "actions": [
         "open_letter"
@@ -15,11 +15,9 @@
         "in_house_workers"
     ],
     "description": "Mijente, an immigrant rights group is calling on ICE to stop hunting down undocumented immigrants amid the coronavirus crisis. In an open letter published on Github, Microsoft workers backed mijente's campaign, calling on tech companies not to share their technologies with ICE.",
+    "online": null,
     "locations": [
-        [
-            "california",
-            "usa"
-        ]
+        "california-usa"
     ],
     "companies": [
         "microsoft"
@@ -30,7 +28,9 @@
         "immigration",
         "coronavirus"
     ],
-    "author": "organizejs",
+    "author": [
+        "organizejs"
+    ],
     "latlngs": [
         [
             37.41096725,

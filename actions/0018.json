@@ -1,8 +1,8 @@
 {
+    "id": 19,
     "date": "2012/01/11",
     "sources": [
-        "https://www.telegraph.co.uk/news/worldnews/asia/china/9006988/mass-suicide-protest-at-apple-manufacturer-foxconn-factory.html",
-        "https://www.cbsnews.com/news/what-happened-after-the-foxconn-suicides/"
+        "https://www.telegraph.co.uk/news/worldnews/asia/china/9006988/mass-suicide-protest-at-apple-manufacturer-foxconn-factory.html, https://www.cbsnews.com/news/what-happened-after-the-foxconn-suicides/"
     ],
     "actions": [
         "protest"
@@ -14,18 +14,18 @@
         "blue_collar_workers"
     ],
     "description": "150 FoxConn workers in Wuhan, China threatened suicide and ultimately spent two days on the roof of their plant to protest forced reassignments. In 2010, 18 FoxConn workers attempted suicide with a resulting 14 deaths.",
+    "online": null,
     "locations": [
-        [
-            "wuhan",
-            "china"
-        ]
+        "wuhan-china"
     ],
     "companies": [
         "foxconn"
     ],
     "workers": 150,
     "tags": null,
-    "author": "nataliyaned",
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": null,
     "addresses": null
 }

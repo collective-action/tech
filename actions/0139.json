@@ -1,8 +1,8 @@
 {
+    "id": 140,
     "date": "2019/05/11",
     "sources": [
-        "https://www.fastcompany.com/90348304/exclusive-tech-workers-organize-protest-against-palantir-on-the-github-coding-platform",
-        "https://gist.github.com/noahzgordon/29af8c13106ddc591ccaa1ea0ce6af74"
+        "https://www.fastcompany.com/90348304/exclusive-tech-workers-organize-protest-against-palantir-on-the-github-coding-platform, https://gist.github.com/noahzgordon/29af8c13106ddc591ccaa1ea0ce6af74"
     ],
     "actions": [
         "protest"
@@ -14,10 +14,9 @@
         "na"
     ],
     "description": "Tech workers organized by the Tech Workers Coalition are protesting the Palantir's contract with ICE on the company's GitHub projects. The plan calls for organized waves of digital protesters to post a prepared message to their GitHub boards. The protest appeals to workers to consider their role, even if indirectly, in Palantir\u2019s work with ICE. It also encourages people to add their own personal sentiments.",
+    "online": null,
     "locations": [
-        [
-            "usa"
-        ]
+        "usa"
     ],
     "companies": [
         "palantir"
@@ -28,7 +27,9 @@
         "industry_solidarity",
         "twc"
     ],
-    "author": "organizejs",
+    "author": [
+        "organizejs"
+    ],
     "latlngs": [
         [
             37.4440869,

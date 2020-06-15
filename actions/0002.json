@@ -1,4 +1,5 @@
 {
+    "id": 3,
     "date": "1986/09/16",
     "sources": [
         "https://www.nytimes.com/1986/09/16/science/software-seen-as-obstacle-in-developing-star-wars.html"
@@ -13,15 +14,16 @@
         "white_collar_workers"
     ],
     "description": "A group of computer professionals, led by Computer Professionals for Social Responsibility (CPSR), signs a petition arguing that Pres. Reagan's Star Wars system is not feasible given current technology. Such a system would be prone to major errors, they argued, and would be irresponsible to implement.",
+    "online": null,
     "locations": [
-        [
-            "usa"
-        ]
+        "usa"
     ],
     "companies": null,
     "workers": 30,
     "tags": null,
-    "author": "nataliyaned",
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": [
         [
             39.7837304,

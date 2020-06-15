@@ -1,8 +1,8 @@
 {
+    "id": 98,
     "date": "2018/08/23",
     "sources": [
-        "https://teamster.org/news/2018/08/teamster-shuttle-drivers-high-tech-companies-hold-action-fair-contract",
-        "https://www.sfchronicle.com/business/article/teamsters-target-tech-buses-in-castro-district-13177065.php#photo-16057250"
+        "https://teamster.org/news/2018/08/teamster-shuttle-drivers-high-tech-companies-hold-action-fair-contract, https://www.sfchronicle.com/business/article/teamsters-target-tech-buses-in-castro-district-13177065.php#photo-16057250"
     ],
     "actions": [
         "protest"
@@ -14,12 +14,9 @@
         "contract_workers"
     ],
     "description": "Members of the union that represents the folks behind the wheels of corporate shuttles stood and sat in front of those buses in the Castro district, demanding a secure pension for high-tech shuttle drivers. About 40 Teamsters blocked tech buses in a surprise protest. The drivers were from WeDriveU and Loop/Hallcon and transport employees for high-tech companies including Apple, Tesla, Amazon, Twitter, LinkedIn, Salesforce, Electronic Arts, Lam and Facebook.",
+    "online": null,
     "locations": [
-        [
-            "san francisco",
-            "california",
-            "usa"
-        ]
+        "san francisco-california-usa"
     ],
     "companies": null,
     "workers": 40,
@@ -27,7 +24,9 @@
         "teamster",
         "drivers"
     ],
-    "author": "organizejs",
+    "author": [
+        "organizejs"
+    ],
     "latlngs": [
         [
             37.7790262,

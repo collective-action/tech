@@ -1,4 +1,5 @@
 {
+    "id": 53,
     "date": "2016/02/10",
     "sources": [
         "https://www.usatoday.com/story/tech/news/2016/02/10/cafeteria-workers-intel-rally-over-low-wages/80204798/"
@@ -15,19 +16,18 @@
         "contract_workers"
     ],
     "description": "Intel cafeteria workers held a rally outside of company headquarters in Santa Clara to protest wages that have failed to keep up with the area's rising cost of living. Two weeks earlier the employees  delivered a petition to management asking for fair process to form a union.",
+    "online": null,
     "locations": [
-        [
-            "santa clara",
-            "california",
-            "usa"
-        ]
+        "santa clara-california-usa"
     ],
     "companies": [
         "intel"
     ],
     "workers": 100,
     "tags": null,
-    "author": "nataliyaned",
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": [
         [
             37.389317899999995,

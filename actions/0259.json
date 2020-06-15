@@ -1,4 +1,5 @@
 {
+    "id": 260,
     "date": "2020/05/01",
     "sources": [
         "https://www.vice.com/en_ca/article/gy4qew/foodora-couriers-want-to-be-among-first-gig-economy-workers-to-unionize-in-canada"
@@ -14,12 +15,9 @@
         "gig_workers"
     ],
     "description": "Foodora couriers announced their intention to join a union of Canadian post workers and held a union drive.",
+    "online": null,
     "locations": [
-        [
-            "toronto",
-            "ontario",
-            "canada"
-        ]
+        "toronto-ontario-canada"
     ],
     "companies": [
         "foodora"
@@ -28,7 +26,9 @@
     "tags": [
         "delivery_workers"
     ],
-    "author": "nataliyaned",
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": null,
     "addresses": null
 }

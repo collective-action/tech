@@ -1,4 +1,5 @@
 {
+    "id": 189,
     "date": "2019/09/26",
     "sources": [
         "https://www.dailycal.org/2019/09/24/under-pressure-palan"
@@ -14,12 +15,9 @@
         "na"
     ],
     "description": "Students at UC Berkeley have led protests and circulated petitions to stop Palantir from attending campus events due to their standing contracts with ICE. 50 students attended a protest and over 700 students and faculty signed a petition to stop an upcoming informational session.",
+    "online": null,
     "locations": [
-        [
-            "berkeley",
-            "california",
-            "usa"
-        ]
+        "berkeley-california-usa"
     ],
     "companies": [
         "palantir"
@@ -30,7 +28,9 @@
         "immigration",
         "ice"
     ],
-    "author": "nataliyaned",
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": null,
     "addresses": null
 }

@@ -1,8 +1,8 @@
 {
+    "id": 157,
     "date": "2019/07/13",
     "sources": [
-        "https://www.merca20.com/los-problemas-con-los-que-se-enfrentan-los-repartidores-de-comida-en-apps/",
-        "https://www.xataka.com.mx/aplicaciones/vacaciones-jubilacion-horario-flexible-que-repartidores-uber-eats-rappi-sindelantal-piden-al-ser-empleados-mexico"
+        "https://www.merca20.com/los-problemas-con-los-que-se-enfrentan-los-repartidores-de-comida-en-apps/, https://www.xataka.com.mx/aplicaciones/vacaciones-jubilacion-horario-flexible-que-repartidores-uber-eats-rappi-sindelantal-piden-al-ser-empleados-mexico"
     ],
     "actions": [
         "protest"
@@ -16,25 +16,22 @@
         "gig_workers"
     ],
     "description": "After increasing concerns about accident and death rates for delivery drivers, delivery workers across Mexico rallied under the hashtag #NiUnRepartidorMenos (translation: Not One Deliveryperson More). The workers have demanded better working conditions, and advocate that labor law better considers gig apps. They look to companies for improved insurance coverage, company protection from theft, and look to governments for fairer delivery driver licensing.  Workers in the movement have succeeded in meeting with several companies. ",
+    "online": true,
     "locations": [
-        [
-            "mexico"
-        ],
-        [
-            "online"
-        ]
+        "mexico"
     ],
     "companies": [
         "glovo",
         "uber",
         "rappi",
         "sindelantal",
-        "didi_food",
-        ""
+        "didi_food"
     ],
     "workers": 20000,
     "tags": null,
-    "author": "moates",
+    "author": [
+        "moates"
+    ],
     "latlngs": [
         [
             19.42437,
@@ -43,15 +40,10 @@
         [
             47.2269198,
             8.8245459
-        ],
-        [
-            19.4326296,
-            -99.1331785
         ]
     ],
     "addresses": [
         "Uber, Calle Hamburgo, Ju\u00e1rez, Ciudad de M\u00e9xico, Cuauht\u00e9moc, Ciudad de M\u00e9xico, 06600, M\u00e9xico",
-        "Rapperswil, Wahlkreis See-Gaster, Sankt Gallen, 8640, Switzerland",
-        "Ciudad de M\u00e9xico, Cuauht\u00e9moc, Ciudad de M\u00e9xico, 06060, M\u00e9xico"
+        "Rapperswil, Wahlkreis See-Gaster, Sankt Gallen, 8640, Switzerland"
     ]
 }

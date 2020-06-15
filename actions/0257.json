@@ -1,8 +1,8 @@
 {
+    "id": 258,
     "date": "2020/04/24",
     "sources": [
-        "https://amp.ft.com/content/d0698260-c02b-4abe-912a-fa0066e294c2",
-        "https://dnyuz.com/2020/04/24/huawei-employees-sue-company-after-police-detention/"
+        "https://amp.ft.com/content/d0698260-c02b-4abe-912a-fa0066e294c2, https://dnyuz.com/2020/04/24/huawei-employees-sue-company-after-police-detention/"
     ],
     "actions": [
         "legal_action"
@@ -15,11 +15,9 @@
         "in_house_workers"
     ],
     "description": "Two former Huawei employees are suing the company alleging that it used its local connections to the police to detain employees who posed problems for the company. One of the employees had started a chat group where there was open discussion of Huawei breaking US sanctions with Iran. That same employee claims two other members from the chat group were detained and later released as well. The Financial Times quoted Shenzhen-based labour rights lawyer, Pang Kun, who estimated that there were more than 10 others currently detained at a local jail as a result of company disputes.",
+    "online": null,
     "locations": [
-        [
-            "shen zhen",
-            "china"
-        ]
+        "shen zhen-china"
     ],
     "companies": [
         "huawei"
@@ -28,7 +26,9 @@
     "tags": [
         "na"
     ],
-    "author": "nataliyaned",
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": [
         [
             22.652495950000002,
@@ -36,6 +36,6 @@
         ]
     ],
     "addresses": [
-        "\u534e\u4e3a\u6280\u672f\u6709\u9650\u516c\u53f8, \u96ea\u8c61\u6751, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518100, China \u4e2d\u56fd"
+        "\u534e\u4e3a\u6280\u672f\u6709\u9650\u516c\u53f8, \u9f99\u5c97\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518100, China \u4e2d\u56fd"
     ]
 }

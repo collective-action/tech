@@ -1,8 +1,8 @@
 {
+    "id": 141,
     "date": "2019/05/22",
     "sources": [
-        "https://www.vox.com/recode/2019/5/22/18635604/amazon-shareholder-meeting-2019-climate-change-proposal",
-        "https://gizmodo.com/jeff-bezos-wouldn-t-even-come-on-stage-to-listen-to-his-1834957220"
+        "https://www.vox.com/recode/2019/5/22/18635604/amazon-shareholder-meeting-2019-climate-change-proposal, https://gizmodo.com/jeff-bezos-wouldn-t-even-come-on-stage-to-listen-to-his-1834957220"
     ],
     "actions": [
         "protest"
@@ -14,12 +14,9 @@
         "white_collar_workers"
     ],
     "description": "More than 50 Amazon employees from Amazon Employees for Climate Justice attended the shareholder meeting, where Emily Cunningham delivered an impassioned speech to shareholders urging them to support the resolution for Amazon to adopt a strong climate plan. Jeff Bezos did not come on stage when asked by Cunningham to make an appearance. Shareholders voted no.",
+    "online": null,
     "locations": [
-        [
-            "seattle",
-            "washington",
-            "usa"
-        ]
+        "seattle-washington-usa"
     ],
     "companies": [
         "amazon"
@@ -28,7 +25,9 @@
     "tags": [
         "climate_change"
     ],
-    "author": "organizejs",
+    "author": [
+        "organizejs"
+    ],
     "latlngs": [
         [
             47.6142939,

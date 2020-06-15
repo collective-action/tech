@@ -1,4 +1,5 @@
 {
+    "id": 116,
     "date": "2019/02/18",
     "sources": [
         "https://clb.org.hk/content/food-delivery-drivers-strike-protest-post-new-year-pay-cuts"
@@ -13,27 +14,13 @@
         "gig_workers"
     ],
     "description": "Food delivery workers in at least five cities across China have staged a series of strikes protesting arbitrary reductions in pay rates introduced after the Lunar New Year Holiday. Workers for both major food delivery platforms, Meituan and Ele.me, stopped taking orders starting in February.",
+    "online": null,
     "locations": [
-        [
-            "linyi",
-            "china"
-        ],
-        [
-            "dongguan",
-            "china"
-        ],
-        [
-            "jinan",
-            "china"
-        ],
-        [
-            "pinghu",
-            "china"
-        ],
-        [
-            "qingdao",
-            "china"
-        ]
+        "linyi-china",
+        "dongguan-china",
+        "jinan-china",
+        "pinghu-china",
+        "qingdao-china"
     ],
     "companies": [
         "meituan",
@@ -41,7 +28,9 @@
     ],
     "workers": null,
     "tags": null,
-    "author": "organizejs",
+    "author": [
+        "organizejs"
+    ],
     "latlngs": null,
     "addresses": null
 }

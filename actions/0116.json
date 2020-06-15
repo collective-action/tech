@@ -1,8 +1,8 @@
 {
+    "id": 117,
     "date": "2019/02/22",
     "sources": [
-        "https://slate.com/technology/2019/02/microsoft-workers-protest-hololens-pentagon-contract.html",
-        "https://www.buzzfeednews.com/article/carolineodonovan/microsoft-hololens-army"
+        "https://slate.com/technology/2019/02/microsoft-workers-protest-hololens-pentagon-contract.html, https://www.buzzfeednews.com/article/carolineodonovan/microsoft-hololens-army"
     ],
     "actions": [
         "open_letter"
@@ -14,13 +14,10 @@
         "white_collar_workers"
     ],
     "description": "Microsoft employees circulated a letter among the companies' over 130,000-person staff demanding that executives cancel a $479 million contract with the US Army, IVAS, that will provide weapons technology to the U.S. Military to 'increase lethality' to army soldiers. 'We did not sign up to develop weapons, and we demand a say in how our work is used.",
+    "online": true,
     "locations": [
-        [
-            "online"
-        ],
-        [
-            "usa"
-        ]
+        "online",
+        "usa"
     ],
     "companies": [
         "microsoft"
@@ -29,7 +26,9 @@
     "tags": [
         "military_contracts"
     ],
-    "author": "organizejs",
+    "author": [
+        "organizejs"
+    ],
     "latlngs": [
         [
             35.139622349999996,

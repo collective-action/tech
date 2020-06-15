@@ -1,8 +1,8 @@
 {
+    "id": 256,
     "date": "2020/04/20",
     "sources": [
-        "https://www.theguardian.com/world/2020/apr/20/coronavirus-digital-contact-tracing-will-fail-unless-privacy-is-respected-experts-warn",
-        "https://techcrunch.com/2020/04/20/academics-contact-tracing/"
+        "https://www.theguardian.com/world/2020/apr/20/coronavirus-digital-contact-tracing-will-fail-unless-privacy-is-respected-experts-warn, https://techcrunch.com/2020/04/20/academics-contact-tracing/"
     ],
     "actions": [
         "open_letter"
@@ -14,11 +14,9 @@
         "white_collar_workers"
     ],
     "description": "Over 300 academics from 26 countries signed a letter calling for contact-tracing apps to respect user privacy and to limit large-scale, centralized surveillance in favor of decentralized systems. The signatories favored the DP-3T protocol and systems like Apple and Google\u2019s cross-platform solution over the PEPP-T system designed by a set of European countries.",
+    "online": true,
     "locations": [
-        [
-            "worldwide",
-            "online"
-        ]
+        "worldwide"
     ],
     "companies": [
         "na"
@@ -28,7 +26,9 @@
         "coronavirus",
         "surveillance"
     ],
-    "author": "nataliyaned",
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": null,
     "addresses": null
 }

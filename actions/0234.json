@@ -1,9 +1,8 @@
 {
+    "id": 235,
     "date": "2020/03/06",
     "sources": [
-        "https://fortune.com/2020/03/10/gig-workers-petition-for-sick-leave-coronavirus/",
-        "https://www.coworker.org/petitions/demand-gig-economy-companies-give-paid-sick-time-off-during-coronavirus",
-        "https://www.fastcompany.com/90472535/coronavirus-paid-sick-leave"
+        "https://fortune.com/2020/03/10/gig-workers-petition-for-sick-leave-coronavirus/, https://www.coworker.org/petitions/demand-gig-economy-companies-give-paid-sick-time-off-during-coronavirus, https://www.fastcompany.com/90472535/coronavirus-paid-sick-leave"
     ],
     "actions": [
         "open_letter"
@@ -16,14 +15,9 @@
         "gig_workers"
     ],
     "description": "Gig Workers Rising launched a petition calling on the heads of the biggest gig economy platforms to give workers paid sick leave amid the coronavirus outbreak. That petition garnered more than 900 signatures. In the petition, the workers say they are often on the \u201cfront lines of exposure,\u201d given that every day they come in contact with various people, including those arriving at airports or heading to the hospital. Without paid sick leave, the gig workers say they are often forced to choose between making ends meet and taking care of their health, and therefore the health of the company's customers. ",
+    "online": true,
     "locations": [
-        [
-            "california",
-            "usa"
-        ],
-        [
-            "online"
-        ]
+        "california-usa"
     ],
     "companies": [
         "uber",
@@ -35,7 +29,9 @@
     "tags": [
         "coronavirus"
     ],
-    "author": "organizejs",
+    "author": [
+        "organizejs"
+    ],
     "latlngs": [
         [
             37.7899898,
@@ -44,10 +40,15 @@
         [
             37.7759881,
             -122.3919991
+        ],
+        [
+            37.7834546,
+            -122.4080358
         ]
     ],
     "addresses": [
         "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
-        "Lyft, Berry Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States of America"
+        "Lyft, Berry Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States of America",
+        "Doordash HQ, Stevenson Street, Union Square, San Francisco, San Francisco City and County, California, 94104, United States of America"
     ]
 }

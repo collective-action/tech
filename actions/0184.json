@@ -1,4 +1,5 @@
 {
+    "id": 185,
     "date": "2019/09/19",
     "sources": [
         "https://www.jhunewsletter.com/article/2019/09/university-will-not-renew-its-contracts-with-ice?fbclid=iwar2qil9rnrrv2giufwqcqxv6qwsfl1r-_4uui76dh7jkljjmidg2ttcrk4s"
@@ -13,12 +14,9 @@
         "na"
     ],
     "description": "Hopkins Coalition Against ICE (HCAI), a student organization, organized three protests over the course of the 2018-19 school year against contracts between Johns Hopkins University Center for Law Enforcement Medicine and ICE (U.S. Dept. of Immigrations Customs and Enforcement). In response, the Center announced that they would not be renewing their contract.",
+    "online": null,
     "locations": [
-        [
-            "baltimore",
-            "maryland",
-            "usa"
-        ]
+        "baltimore-maryland-usa"
     ],
     "companies": null,
     "workers": null,
@@ -27,7 +25,9 @@
         "immigration",
         "ice"
     ],
-    "author": "nataliyaned",
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": [
         [
             39.284749399999995,

@@ -1,8 +1,8 @@
 {
+    "id": 236,
     "date": "2020/03/12",
     "sources": [
-        "https://www.vice.com/en_us/article/n7jkdx/baristas-at-slack-say-theyve-won-90-days-of-severance",
-        "https://www.theverge.com/2020/3/12/21177319/slack-paying-contractors-after-laid-off-baristas-send-letter"
+        "https://www.vice.com/en_us/article/n7jkdx/baristas-at-slack-say-theyve-won-90-days-of-severance, https://www.theverge.com/2020/3/12/21177319/slack-paying-contractors-after-laid-off-baristas-send-letter"
     ],
     "actions": [
         "open_letter",
@@ -16,12 +16,9 @@
         "contract_workers"
     ],
     "description": "A group of five baristas who operate the espresso machines at Slack\u2019s corporate headquarters in San Francisco learned on March 6 that they were losing their contracted positions just prior to a decision by the company to move to remote operations to curb the spread of COVID-19. The baristas claim that Slack caught wind of their intention to criticize the company publicly\u2014and in what they claim to be an organizing victory, they learned that their severance would be extended to 90 days.",
+    "online": null,
     "locations": [
-        [
-            "san francisco",
-            "california",
-            "usa"
-        ]
+        "san francisco-california-usa"
     ],
     "companies": [
         "slack"
@@ -32,7 +29,9 @@
         "fund_raising",
         "coronavirus"
     ],
-    "author": "organizejs",
+    "author": [
+        "organizejs"
+    ],
     "latlngs": [
         [
             35.2960341,

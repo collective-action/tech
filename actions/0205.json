@@ -1,4 +1,5 @@
 {
+    "id": 206,
     "date": "2019/11/06",
     "sources": [
         "https://static.theintercept.com/amp/shutterstock-china-censorship-tech.html"
@@ -13,11 +14,8 @@
         "white_collar_workers"
     ],
     "description": "Shutterstock engineers were tasked with the creation of a search blacklist that would wipe from query results images associated with keywords forbidden by the Chinese government, including images of the Hong Kong protests. The company's decision to silently aid China's censorship agenda comes at a time of heightened scrutiny into the relationship between corporate America and President Xi Jinping's authoritarian regime. More than 180 Shutterstock workers to sign a petition against the search blacklist and accuse the company of trading its values for access to the lucrative Chinese market. They write that by 'complying, we are enabling injustices, including the discrimination of the people of Hong Kong, the suppression of Chinese political dissent, and undermining the sovereignty of Taiwanese people.'",
-    "locations": [
-        [
-            "online"
-        ]
-    ],
+    "online": true,
+    "locations": null,
     "companies": [
         "shutterstock"
     ],
@@ -25,7 +23,9 @@
     "tags": [
         "us_china_conflict"
     ],
-    "author": "organizejs",
+    "author": [
+        "organizejs"
+    ],
     "latlngs": null,
     "addresses": null
 }

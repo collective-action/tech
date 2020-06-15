@@ -1,8 +1,8 @@
 {
+    "id": 171,
     "date": "2019/08/14",
     "sources": [
-        "https://medium.com/@no.gcp.for.cbp/google-must-stand-against-human-rights-abuses-nogcpforcbp-88c60e1fc35e",
-        "https://www.vox.com/2019/8/14/20805562/human-rights-concerns-google-employees-petition-cbp-ice"
+        "https://medium.com/@no.gcp.for.cbp/google-must-stand-against-human-rights-abuses-nogcpforcbp-88c60e1fc35e, https://www.vox.com/2019/8/14/20805562/human-rights-concerns-google-employees-petition-cbp-ice"
     ],
     "actions": [
         "open_letter"
@@ -14,20 +14,18 @@
         "white_collar_workers"
     ],
     "description": "Google employees are demanding an end to the company\u2019s work with agencies like CBP and ICE. Employees are circulating a petition asking the company not to bid on contracts with government agencies that enforce controversial immigration policies such as child detention.",
+    "online": true,
     "locations": [
-        [
-            "online"
-        ],
-        [
-            "usa"
-        ]
+        "usa"
     ],
     "companies": [
         "google"
     ],
     "workers": 600,
     "tags": null,
-    "author": "organizejs",
+    "author": [
+        "organizejs"
+    ],
     "latlngs": [
         [
             42.3627717,

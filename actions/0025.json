@@ -1,4 +1,5 @@
 {
+    "id": 26,
     "date": "2013/03/15",
     "sources": [
         "http://allthingsd.com/20130315/uber-drivers-protest-outside-the-companys-san-francisco-headquarters/"
@@ -13,12 +14,9 @@
         "gig_workers"
     ],
     "description": "A group of approximately 30 Uber drivers protested outside of the company's San Francisco headquarters to protest lowered pay and lack of job security, including the firing of 500 drivers over the last month. ",
+    "online": null,
     "locations": [
-        [
-            "san francisco",
-            "california",
-            "usa"
-        ]
+        "san francisco-california-usa"
     ],
     "companies": [
         "uber"
@@ -27,7 +25,9 @@
     "tags": [
         "drivers"
     ],
-    "author": "nataliyaned",
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": [
         [
             37.7899898,

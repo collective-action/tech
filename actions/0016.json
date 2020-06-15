@@ -1,4 +1,5 @@
 {
+    "id": 17,
     "date": "2009/12/16",
     "sources": [
         "https://techcrunch.com/2009/12/16/yahoo-engineers-strike-after-closure-of-french-rd-site-results-in-78-laid-off/"
@@ -13,18 +14,18 @@
         "white_collar_workers"
     ],
     "description": "Engineers at Yahoo France held a strike to protest the company's plans to shut down an R&D office in Echirolles, laying off 78 people or roughly one-third of the company's total employees in the country. ",
+    "online": null,
     "locations": [
-        [
-            "echirolles",
-            "france"
-        ]
+        "echirolles-france"
     ],
     "companies": [
         "yahoo"
     ],
     "workers": null,
     "tags": null,
-    "author": "nataliyaned",
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": null,
     "addresses": null
 }

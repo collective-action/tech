@@ -1,4 +1,5 @@
 {
+    "id": 49,
     "date": "2015/06/18",
     "sources": [
         "https://www.buzzfeednews.com/article/coralewis/wework-cleaners-push-for-raise"
@@ -14,13 +15,9 @@
         "contract_workers"
     ],
     "description": "Janitors of WeWork protest at their companies's Manhattan headquarters at 222 Broadway. In that same building, other renters and owners hire cleaning contractors at the standard city-wide rate, while WeWork pays an average of $11 an hour.",
+    "online": null,
     "locations": [
-        [
-            "manhattan",
-            "new york city",
-            "new york",
-            "usa"
-        ]
+        "manhattan-new york city-new york-usa"
     ],
     "companies": [
         "wework"
@@ -29,14 +26,16 @@
     "tags": [
         "seiu"
     ],
-    "author": "organizejs",
+    "author": [
+        "organizejs"
+    ],
     "latlngs": [
         [
-            40.7189373,
-            -74.0020369
+            40.704059,
+            -74.011355
         ]
     ],
     "addresses": [
-        "WeWork, Broadway, SoHo, Manhattan, Manhattan Community Board 2, New York County, New York, 10003, United States of America"
+        "WeWork, Broad Street, Financial District, Manhattan, Manhattan Community Board 1, New York County, New York, 10004, United States of America"
     ]
 }

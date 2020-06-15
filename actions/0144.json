@@ -1,8 +1,8 @@
 {
+    "id": 145,
     "date": "2019/06/12",
     "sources": [
-        "https://www.gofundme.com/f/solidarity-fund-for-fired-fb-contingent-workers",
-        "https://medium.com/@techworkersco_79433/who-fired-the-ras-organizing-the-worst-job-at-facebook-97c63cb40683"
+        "https://www.gofundme.com/f/solidarity-fund-for-fired-fb-contingent-workers, https://medium.com/@techworkersco_79433/who-fired-the-ras-organizing-the-worst-job-at-facebook-97c63cb40683"
     ],
     "actions": [
         "protest"
@@ -14,12 +14,9 @@
         "na"
     ],
     "description": "Workers for workers, a group of Facebook employees who organize to support the company's contract workers, started a gofundme campaign to materially support 9 contingent workers who were fired for violating non-existant company policy. Workers for Workers is drawing on its network of mostly tech workers to provide support for the 9 contingent workers who were suddenly let go. The campaign will support these folks in their hour of greatest need, aiming to raise $40,000 to cover their basic living expenses for the next two months as they seek to clear their name within Facebook and find a new job on short notice. ",
+    "online": null,
     "locations": [
-        [
-            "seattle",
-            "washington",
-            "usa"
-        ]
+        "seattle-washington-usa"
     ],
     "companies": [
         "facebook"
@@ -30,7 +27,9 @@
         "funding_raising",
         "twc"
     ],
-    "author": "organizejs",
+    "author": [
+        "organizejs"
+    ],
     "latlngs": [
         [
             47.62913015,

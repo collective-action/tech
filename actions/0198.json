@@ -1,8 +1,8 @@
 {
+    "id": 199,
     "date": "2019/10/21",
     "sources": [
-        "https://www.bloomberg.com/amp/news/articles/2019-10-21/swiss-google-employees-defy-managers-stage-labor-event?__twitter_impression=true",
-        "https://www.vox.com/recode/2019/10/21/20924697/google-unionization-switzerland-zurich-syndicom-zooglers"
+        "https://www.bloomberg.com/amp/news/articles/2019-10-21/swiss-google-employees-defy-managers-stage-labor-event?__twitter_impression=true, https://www.vox.com/recode/2019/10/21/20924697/google-unionization-switzerland-zurich-syndicom-zooglers"
     ],
     "actions": [
         "union_drive"
@@ -15,18 +15,18 @@
         "white_collar_workers"
     ],
     "description": "Approximately 40 Google employees in Zurich held a meeting at the office to discuss unions and labor rights with representatives from Syndicom, a Swiss labor union. Employees had invited Syndicom to speak earlier in June but the event was cancelled at the request of management. Management later announced they would be holding a series of talk on labor rights and would allow Syndicom to join.",
+    "online": null,
     "locations": [
-        [
-            "zurich",
-            "switzerland"
-        ]
+        "zurich-switzerland"
     ],
     "companies": [
         "google"
     ],
     "workers": 40,
     "tags": null,
-    "author": "nataliyaned",
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": [
         [
             47.3798034,

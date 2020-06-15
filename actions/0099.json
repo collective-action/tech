@@ -1,8 +1,8 @@
 {
+    "id": 100,
     "date": "2018/10/09",
     "sources": [
-        "https://www.theguardian.com/technology/2018/oct/09/uber-uk-strike-users-urged-not-to-cross-digital-picket-line",
-        "https://www.bbc.com/news/business-45796409"
+        "https://www.theguardian.com/technology/2018/oct/09/uber-uk-strike-users-urged-not-to-cross-digital-picket-line, https://www.bbc.com/news/business-45796409"
     ],
     "actions": [
         "strike"
@@ -15,26 +15,20 @@
         "gig_workers"
     ],
     "description": "Hundreds of Uber drivers are expected to switch off their apps from 1pm, making themselves unavailable for work, union organisers said. Protests are also being held outside the ride-hailing app's offices in London, Nottingham and Birmingham.",
+    "online": null,
     "locations": [
-        [
-            "london",
-            "uk"
-        ],
-        [
-            "nottingham",
-            "uk"
-        ],
-        [
-            "birmingham",
-            "uk"
-        ]
+        "london-uk",
+        "nottingham-uk",
+        "birmingham-uk"
     ],
     "companies": [
         "uber"
     ],
     "workers": 100,
     "tags": null,
-    "author": "organizejs",
+    "author": [
+        "organizejs"
+    ],
     "latlngs": [
         [
             51.5148804,

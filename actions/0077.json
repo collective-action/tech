@@ -1,4 +1,5 @@
 {
+    "id": 78,
     "date": "2018/03/21",
     "sources": [
         "https://www.reuters.com/article/us-amazon-com-spain/spains-amazon-workers-call-two-day-strike-over-wages-rights-iduskcn1gp13l"
@@ -13,25 +14,25 @@
         "blue_collar_workers"
     ],
     "description": "Over one thousand Amazon workers in Spain plan to stage their first strike with a two-day walkout to protest what unions claim are efforts to reduce employees' rights. The union claimed the companies aims to block salary increases, cut wages and reduce payments for those working weekends or holidays as part of a new contract agreement.",
+    "online": null,
     "locations": [
-        [
-            "madrid",
-            "spain"
-        ]
+        "madrid-spain"
     ],
     "companies": [
         "amazon"
     ],
     "workers": 1100,
     "tags": null,
-    "author": "organizejs",
+    "author": [
+        "organizejs"
+    ],
     "latlngs": [
         [
-            40.44726385,
-            -3.4982889
+            40.4456444,
+            -3.497602995250682
         ]
     ],
     "addresses": [
-        "Amazon, Avenida de la Astronom\u00eda, Parque Empresarial Puerta de Madrid, El Jard\u00edn, San Fernando de Henares, \u00c1rea metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28850, Espa\u00f1a"
+        "Amazon, Avenida de la Astronom\u00eda, El Jard\u00edn, San Fernando de Henares, \u00c1rea metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28850, Espa\u00f1a"
     ]
 }

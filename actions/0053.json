@@ -1,4 +1,5 @@
 {
+    "id": 54,
     "date": "2016/02/17",
     "sources": [
         "https://www.theguardian.com/world/2016/feb/17/juarez-factory-workers-protest-rights-occupy-style-sit-in-lexmark"
@@ -14,18 +15,18 @@
         "blue_collar_workers"
     ],
     "description": "Hundreds of Lexmark workers have protested working conditions at manufacturing plants in Juarez, Mexico for months. At least 700 workers went on strike in December 2015. Workers have called for union representation, improved wages, and investigation into sexual harassment allegations.",
+    "online": null,
     "locations": [
-        [
-            "juarez",
-            "mexico"
-        ]
+        "juarez-mexico"
     ],
     "companies": [
         "lexmark"
     ],
     "workers": 700,
     "tags": null,
-    "author": "nataliyaned",
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": [
         [
             31.5877145,

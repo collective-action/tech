@@ -1,8 +1,8 @@
 {
+    "id": 239,
     "date": "2020/03/17",
     "sources": [
-        "https://www.theverge.com/2020/3/17/21184495/google-employees-memo-contract-workers-coronavirus-covid-19",
-        "https://www.businessinsider.com/google-workers-raise-internal-concerns-tvc-policies-for-covid-19-2020-3"
+        "https://www.theverge.com/2020/3/17/21184495/google-employees-memo-contract-workers-coronavirus-covid-19, https://www.businessinsider.com/google-workers-raise-internal-concerns-tvc-policies-for-covid-19-2020-3"
     ],
     "actions": [
         "open_letter"
@@ -15,13 +15,9 @@
         "in_house_workers"
     ],
     "description": "A group of Google employees has sent a memo to company leadership demanding stronger commitments to protect the more vulnerable members of Google\u2019s workforce, primarily its contract workers, during the ongoing coronavirus crisis. The memo notes that some Google contractors, like those in the company\u2019s Pittsburgh office employed by an independent company called HCL Technologies, have been forced to come into the office, even as full-time Google employees were first allowed and then instructed to stay home.",
+    "online": true,
     "locations": [
-        [
-            "online"
-        ],
-        [
-            "usa"
-        ]
+        "usa"
     ],
     "companies": [
         "google"
@@ -31,7 +27,9 @@
         "coworker_solidarity",
         "coronavirus"
     ],
-    "author": "organizejs",
+    "author": [
+        "organizejs"
+    ],
     "latlngs": [
         [
             42.3627717,

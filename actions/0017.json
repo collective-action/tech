@@ -1,4 +1,5 @@
 {
+    "id": 18,
     "date": "2011/12/28",
     "sources": [
         "https://www.reuters.com/article/us-china-lg-strike-idustre7br0jh20111228"
@@ -13,18 +14,18 @@
         "blue_collar_workers"
     ],
     "description": "LG workers in Nanjing went on strike to protest the low pay they receive relative to Korean LG employees at the same plant.",
+    "online": null,
     "locations": [
-        [
-            "nanjing",
-            "china"
-        ]
+        "nanjing-china"
     ],
     "companies": [
         "lg"
     ],
     "workers": 8000,
     "tags": null,
-    "author": "nataliyaned",
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": [
         [
             32.1576782,

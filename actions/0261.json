@@ -1,4 +1,5 @@
 {
+    "id": 262,
     "date": "2020/05/05",
     "sources": [
         "https://supchina.com/2020/05/05/internet-writers-protest-what-they-call-unfair-contracts-with-tencent-company/"
@@ -13,10 +14,9 @@
         "gig_workers"
     ],
     "description": "Hundreds of thousands of writers signed to China Literature (subsidiary of Tencent), the country's biggest online publisher, went on an online strike, protesting against exploitative contracts and the company's regular infringement of their intellectual property rights. The strike's organizers were demonstrating against proposed changes to China Literature\u2019s business model and contracts with its writers. Writers stopped publishing new content on the website on the day of the strike. This change would negatively affect writers' income, which primarily comes from subscription fees and tips from their readers. 'Financially speaking, we were already drowning in quicksand before the rumors. Now they are trying to give us a death blow' a China Literature writer",
+    "online": null,
     "locations": [
-        [
-            "china"
-        ]
+        "china"
     ],
     "companies": [
         "chinese literature",
@@ -24,7 +24,9 @@
     ],
     "workers": 100001,
     "tags": null,
-    "author": "organizejs",
+    "author": [
+        "organizejs"
+    ],
     "latlngs": [
         [
             23.09733995,

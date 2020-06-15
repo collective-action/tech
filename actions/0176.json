@@ -1,4 +1,5 @@
 {
+    "id": 177,
     "date": "2019/09/05",
     "sources": [
         "https://abc7news.com/business/delivery-app-drivers-rally-for-higher-wages-at-sf-headquarters/5519192/"
@@ -13,12 +14,9 @@
         "gig_workers"
     ],
     "description": "Employees from Instacart, Doordash, and Postmates rallied outside of company headquarters to protest low wages. Doordash is rolling out a new pay model at the end of September which, it claims, will offer better pay for shoppers.",
+    "online": null,
     "locations": [
-        [
-            "san francisco",
-            "california",
-            "usa"
-        ]
+        "san francisco-california-usa"
     ],
     "companies": [
         "postmates",
@@ -27,14 +25,21 @@
     ],
     "workers": null,
     "tags": null,
-    "author": "nataliyaned",
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": [
         [
             37.7753423,
             -122.39763106771915
+        ],
+        [
+            37.7834546,
+            -122.4080358
         ]
     ],
     "addresses": [
-        "UserTesting, 5th Street, South of Market, San Francisco, San Francisco City and County, California, 94017, United States of America"
+        "UserTesting, 5th Street, South of Market, San Francisco, San Francisco City and County, California, 94017, United States of America",
+        "Doordash HQ, Stevenson Street, Union Square, San Francisco, San Francisco City and County, California, 94104, United States of America"
     ]
 }

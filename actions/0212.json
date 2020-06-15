@@ -1,8 +1,8 @@
 {
+    "id": 213,
     "date": "2019/11/29",
     "sources": [
-        "https://www.rte.ie/news/business/2019/1129/1095932-amazon-german-strike/",
-        "https://www.forbes.com/sites/isabeltogoh/2019/11/29/black-friday-strikes-and-protests-hit-amazon-in-france-and-germany/#269a045a5bb3"
+        "https://www.rte.ie/news/business/2019/1129/1095932-amazon-german-strike/, https://www.forbes.com/sites/isabeltogoh/2019/11/29/black-friday-strikes-and-protests-hit-amazon-in-france-and-germany/#269a045a5bb3"
     ],
     "actions": [
         "strike"
@@ -15,31 +15,14 @@
         "blue_collar_workers"
     ],
     "description": "Hundreds of Amazon workers in Germany walked off the job as the online retailer kicked off its 'Black Friday' sales bonanza, escalating a long-simmering battle for better pay and working conditions. The strike called by the powerful Verdi union is set to last until Tuesday morning and will also cover 'Cyber Monday', another extravaganza of online discounts in what is a crucial sales period for Amazon. Verdi members are demanding a collective agreement for a living wage.",
+    "online": null,
     "locations": [
-        [
-            "bad hersfeld",
-            "germany"
-        ],
-        [
-            "leipzig",
-            "germany"
-        ],
-        [
-            "koblenz",
-            "germany"
-        ],
-        [
-            "rheinberg",
-            "germany"
-        ],
-        [
-            "werne",
-            "germany"
-        ],
-        [
-            "graben",
-            "germany"
-        ]
+        "bad hersfeld-germany",
+        "leipzig-germany",
+        "koblenz-germany",
+        "rheinberg-germany",
+        "werne-germany",
+        "graben-germany"
     ],
     "companies": [
         "amazon"
@@ -48,7 +31,9 @@
     "tags": [
         "ice"
     ],
-    "author": "organizejs",
+    "author": [
+        "organizejs"
+    ],
     "latlngs": [
         [
             50.8523727,

@@ -1,4 +1,5 @@
 {
+    "id": 43,
     "date": "2014/11/19",
     "sources": [
         "https://bits.blogs.nytimes.com/2014/11/19/facebooks-bus-drivers-vote-to-unionize"
@@ -14,12 +15,9 @@
         "contract_workers"
     ],
     "description": "The shuttle bus drivers who ferry Facebook employees to and from work voted on Wednesday to unionize, 43 to 28. The drivers, who are employees of Loop Transportation, a contractor for Facebook, voted to join Teamsters Local 853, with several of them saying their main concerns were inadequate pay and a stressful split shift schedule.",
+    "online": null,
     "locations": [
-        [
-            "menlo park",
-            "california",
-            "usa"
-        ]
+        "menlo park-california-usa"
     ],
     "companies": [
         "facebook",
@@ -30,7 +28,9 @@
         "teamster",
         "drivers"
     ],
-    "author": "organizejs",
+    "author": [
+        "organizejs"
+    ],
     "latlngs": [
         [
             37.484668049999996,

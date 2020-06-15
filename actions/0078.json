@@ -1,4 +1,5 @@
 {
+    "id": 79,
     "date": "2018/04/02",
     "sources": [
         "https://en.yna.co.kr/view/aen20180402010200320"
@@ -13,18 +14,18 @@
         "white_collar_workers"
     ],
     "description": "Naver Corp., South Korea's dominant Internet portal and search engine, said that it has established the company's first labor union. After receiving official approval, the union started receiving membership applications from potential members, Naver's union said. More than 300 people joined within two hours.",
+    "online": null,
     "locations": [
-        [
-            "seoul",
-            "south korea"
-        ]
+        "seoul-south korea"
     ],
     "companies": [
         "naver"
     ],
     "workers": 300,
     "tags": null,
-    "author": "organizejs",
+    "author": [
+        "organizejs"
+    ],
     "latlngs": null,
     "addresses": null
 }

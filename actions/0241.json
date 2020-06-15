@@ -1,4 +1,5 @@
 {
+    "id": 242,
     "date": "2020/03/18",
     "sources": [
         "https://www.reuters.com/article/us-health-coronavirus-france-amazon/french-amazon-workers-protest-in-coronavirus-pushback-iduskbn2152mp"
@@ -15,13 +16,9 @@
         "in_house_workers"
     ],
     "description": "At an Amazon warehouse and shipping center at Saran just outside Orleans, a city south of Paris, 250-300 workers staged a strike, gathering outside and calling for its closure. It normally employs some 1,800 full-time staff. They are calling on the online retailer to cease operations or make it easier for employees not wanting to work during the coronavirus outbreak to stay away.",
+    "online": true,
     "locations": [
-        [
-            "usa"
-        ],
-        [
-            "online"
-        ]
+        "usa"
     ],
     "companies": [
         "amazon"
@@ -30,7 +27,9 @@
     "tags": [
         "coronavirus"
     ],
-    "author": "organizejs",
+    "author": [
+        "organizejs"
+    ],
     "latlngs": [
         [
             47.6142939,

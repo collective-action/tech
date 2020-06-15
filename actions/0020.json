@@ -1,4 +1,5 @@
 {
+    "id": 21,
     "date": "2012/04/27",
     "sources": [
         "https://www.reuters.com/article/us-china-foxconn/workers-protest-at-foxconn-plant-in-china-idusbre83q0jv20120427"
@@ -13,18 +14,18 @@
         "blue_collar_workers"
     ],
     "description": "Approximately 200 FoxConn workers in Wuhan, China threatened to jump of the roof of a building yesterday to protest low wages. The protests recalled a series of worker suicides in 2010 and a similar protest held in January at the same facility.",
+    "online": null,
     "locations": [
-        [
-            "wuhan",
-            "china"
-        ]
+        "wuhan-china"
     ],
     "companies": [
         "foxconn"
     ],
     "workers": 200,
     "tags": null,
-    "author": "nataliyaned",
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": null,
     "addresses": null
 }

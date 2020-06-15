@@ -1,8 +1,8 @@
 {
+    "id": 201,
     "date": "2019/10/29",
     "sources": [
-        "https://www.geekwire.com/2019/tableau-employees-hold-rally-seattle-ask-leadership-sever-ties-ice-cbp/",
-        "https://medium.com/@tableauempethicsalliance/drawing-a-line-77606d6dafff"
+        "https://www.geekwire.com/2019/tableau-employees-hold-rally-seattle-ask-leadership-sever-ties-ice-cbp/, https://medium.com/@tableauempethicsalliance/drawing-a-line-77606d6dafff"
     ],
     "actions": [
         "protest",
@@ -15,12 +15,9 @@
         "na"
     ],
     "description": "Over 200 employees of the data visualization company Tableau protested their company's contracts with the federal government. They called on their company to drop these contracts in oppositio to the actions of ICE (U.S. Immigration and Customs Enforcement) throughout the US and at the US-Mexico border. An open letter was also published on Medium.",
+    "online": null,
     "locations": [
-        [
-            "seattle",
-            "washington",
-            "usa"
-        ]
+        "seattle-washington-usa"
     ],
     "companies": [
         "tableau"
@@ -30,7 +27,9 @@
         "ice",
         "immigration"
     ],
-    "author": "nataliyaned",
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": [
         [
             47.6476152,

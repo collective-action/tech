@@ -1,9 +1,8 @@
 {
+    "id": 152,
     "date": "2019/06/30",
     "sources": [
-        "https://www.vox.com/platform/amp/recode/2019/6/28/19303292/google-protest-pride-parade-lgbtq-youtube-harassment",
-        "https://medium.com/@bangooglefrompride/ban-google-from-pride-to-march-in-protest-of-harassment-and-discrimination-on-youtube-d8dcc6fde06e",
-        "https://twitter.com/shiringhaffary/status/1145387654202048512?s=19"
+        "https://www.vox.com/platform/amp/recode/2019/6/28/19303292/google-protest-pride-parade-lgbtq-youtube-harassment, https://medium.com/@bangooglefrompride/ban-google-from-pride-to-march-in-protest-of-harassment-and-discrimination-on-youtube-d8dcc6fde06e, https://twitter.com/shiringhaffary/status/1145387654202048512?s=19"
     ],
     "actions": [
         "protest"
@@ -15,12 +14,9 @@
         "white_collar_workers"
     ],
     "description": "Google workers, under the name \u201cBan Google From Pride,\u201d protest their employer at Pride Parade amid controversy in the LGBTQ community over the company's harassment policies on YouTube videos.",
+    "online": null,
     "locations": [
-        [
-            "san francisco",
-            "california",
-            "usa"
-        ]
+        "san francisco-california-usa"
     ],
     "companies": [
         "google"
@@ -29,7 +25,9 @@
     "tags": [
         "lgtbq"
     ],
-    "author": "organizejs",
+    "author": [
+        "organizejs"
+    ],
     "latlngs": [
         [
             37.41897865,

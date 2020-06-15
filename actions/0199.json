@@ -1,8 +1,8 @@
 {
+    "id": 200,
     "date": "2019/10/28",
     "sources": [
-        "https://www.nytimes.com/2019/10/28/technology/facebook-mark-zuckerberg-political-ads.html",
-        "https://www.nytimes.com/2019/10/28/technology/facebook-mark-zuckerberg-letter.html?action=click&module=relatedlinks&pgtype=article"
+        "https://www.nytimes.com/2019/10/28/technology/facebook-mark-zuckerberg-political-ads.html, https://www.nytimes.com/2019/10/28/technology/facebook-mark-zuckerberg-letter.html?action=click&module=relatedlinks&pgtype=article"
     ],
     "actions": [
         "open_letter"
@@ -14,20 +14,18 @@
         "na"
     ],
     "description": "More than 250 Facebook employees signed a letter to management protesting the company's decision to keep political ads, including those making false claims, on the social network during the 2020 US Presidential election. The letter was posted on Facebook Workplace, an internal communication service within the company.",
+    "online": true,
     "locations": [
-        [
-            "usa"
-        ],
-        [
-            "online"
-        ]
+        "usa"
     ],
     "companies": [
         "facebook"
     ],
     "workers": 251,
     "tags": null,
-    "author": "nataliyaned",
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": [
         [
             30.2691649,

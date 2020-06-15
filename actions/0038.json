@@ -1,9 +1,8 @@
 {
+    "id": 39,
     "date": "2014/09/01",
     "sources": [
-        "https://www.chronicle.com/article/intellectual-piecework/190039/",
-        "http://wiki.wearedynamo.org/index.php/guidelines_for_academic_requesters",
-        "https://medium.com/@niloufar_s/the-guidelines-for-ethical-research-on-amazon-mechanical-turk-researchers-care-about-fair-payment-427e816762ee"
+        "https://www.chronicle.com/article/intellectual-piecework/190039/, http://wiki.wearedynamo.org/index.php/guidelines_for_academic_requesters, https://medium.com/@niloufar_s/the-guidelines-for-ethical-research-on-amazon-mechanical-turk-researchers-care-about-fair-payment-427e816762ee"
     ],
     "actions": [
         "open_letter"
@@ -16,19 +15,17 @@
         "gig_workers"
     ],
     "description": "Over two hundred Mechanical Turk workers and academics, organized through Dynamo, have collaborated and signed a set of ethical guidelines for scholars requesting labor through the platform. The Wiki page includes information on fair payment, communication practices, and the basics of requesting.",
-    "locations": [
-        [
-            "online"
-        ]
-    ],
+    "online": true,
+    "locations": null,
     "companies": [
         "amazon",
-        "mechanical_turk",
-        ""
+        "mechanical_turk"
     ],
     "workers": 262,
     "tags": null,
-    "author": "nataliyaned",
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": null,
     "addresses": null
 }

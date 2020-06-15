@@ -1,8 +1,8 @@
 {
+    "id": 44,
     "date": "2014/12/03",
     "sources": [
-        "https://www.theguardian.com/technology/2014/dec/03/amazon-mechanical-turk-workers-protest-jeff-bezos",
-        "http://www.wearedynamo.org/dearjeffbezos"
+        "https://www.theguardian.com/technology/2014/dec/03/amazon-mechanical-turk-workers-protest-jeff-bezos, http://www.wearedynamo.org/dearjeffbezos"
     ],
     "actions": [
         "open_letter"
@@ -16,20 +16,18 @@
         "gig_workers"
     ],
     "description": "Hundreds of Mechanical Turk workers participate in an email writing campaign to Amazon founder Jeff Bezos to protest low pay and worker representation. The workers are organized by 'We Are Dynamo', a self-described guild for crowdsourced workers started by workers and academics.",
+    "online": true,
     "locations": [
-        [
-            "usa"
-        ],
-        [
-            "online"
-        ]
+        "usa"
     ],
     "companies": [
         "amazon"
     ],
     "workers": 550,
     "tags": null,
-    "author": "nataliyaned",
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": [
         [
             47.6142939,

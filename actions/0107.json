@@ -1,4 +1,5 @@
 {
+    "id": 108,
     "date": "2018/12/04",
     "sources": [
         "https://www.washingtonpost.com/technology/2018/12/04/new-rules-guarantee-minimum-wage-nyc-uber-lyft-drivers/"
@@ -13,12 +14,9 @@
         "gig_workers"
     ],
     "description": "After a multiyear campaign by app-based drivers, some of whom were organized under the Independent Driver's Guild, New York City's Taxi and Limousine Commission passed a new law setting minimum wage at $17.22 per hour in the city. ",
+    "online": null,
     "locations": [
-        [
-            "new york city",
-            "new york",
-            "usa"
-        ]
+        "new york city-new york-usa"
     ],
     "companies": [
         "uber",
@@ -28,7 +26,9 @@
     "tags": [
         "drivers"
     ],
-    "author": "nataliyaned",
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": [
         [
             40.7859179,
@@ -36,6 +36,6 @@
         ]
     ],
     "addresses": [
-        "Yachthafen(Blick \u00fcber New Yersey), Hudson River Greenway, Upper West Side, Manhattan Community Board 7, New York County, New York, 10024, United States of America"
+        "Yachthafen(Blick \u00fcber New Yersey), Hudson River Greenway, Upper West Side, Manhattan, Manhattan Community Board 7, New York County, New York, 10024, United States of America"
     ]
 }

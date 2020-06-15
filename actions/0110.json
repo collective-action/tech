@@ -1,4 +1,5 @@
 {
+    "id": 111,
     "date": "2018/12/14",
     "sources": [
         "http://www.startribune.com/workers-protest-conditions-at-amazon-s-shakopee-center/502829882/"
@@ -13,19 +14,18 @@
         "blue_collar_workers"
     ],
     "description": "Amid chants of 'Hear our voice,' a group of about 100 Somali-American workers and their supporters marched to the entrance of Amazon's Shakopee fulfillment center Friday evening to protest unfair working conditions.",
+    "online": null,
     "locations": [
-        [
-            "minneapolis",
-            "minnesota",
-            "usa"
-        ]
+        "minneapolis-minnesota-usa"
     ],
     "companies": [
         "amazon"
     ],
     "workers": 100,
     "tags": null,
-    "author": "organizejs",
+    "author": [
+        "organizejs"
+    ],
     "latlngs": [
         [
             44.9696354,

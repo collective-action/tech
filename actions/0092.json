@@ -1,9 +1,8 @@
 {
+    "id": 93,
     "date": "2018/07/03",
     "sources": [
-        "https://www.capitalfm.co.ke/business/2018/07/uber-little-taxify-drivers-strike-demanding-better-rates/",
-        "https://qz.com/africa/1327568/uber-taxify-little-cab-kenya-drivers-end-strike/",
-        "http://www.africanews.com/2018/07/03/uber-taxify-drivers-in-kenya-protest-against-working-long-hours-for-little-money/"
+        "https://www.capitalfm.co.ke/business/2018/07/uber-little-taxify-drivers-strike-demanding-better-rates/, https://qz.com/africa/1327568/uber-taxify-little-cab-kenya-drivers-end-strike/, http://www.africanews.com/2018/07/03/uber-taxify-drivers-in-kenya-protest-against-working-long-hours-for-little-money/"
     ],
     "actions": [
         "strike"
@@ -16,11 +15,9 @@
         "gig_workers"
     ],
     "description": "A section of drivers from five taxi hailing companies including Uber and Taxify (now known as Bolt) took part in the industrial strike which started in early July 2018. The drivers through their association, Digital Taxi Forum want Uber and Co to double their rates and reduce their commissions so they can earn decent wages. The strike lasted 9 days, ending after Uber signed an agreement to ensure better pricing for drivers and improve welfare on the job.",
+    "online": null,
     "locations": [
-        [
-            "nairobi",
-            "kenya"
-        ]
+        "nairobi-kenya"
     ],
     "companies": [
         "uber",
@@ -28,7 +25,9 @@
     ],
     "workers": 30,
     "tags": null,
-    "author": "organizejs",
+    "author": [
+        "organizejs"
+    ],
     "latlngs": null,
     "addresses": null
 }

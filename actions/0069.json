@@ -1,8 +1,8 @@
 {
+    "id": 70,
     "date": "2017/07/24",
     "sources": [
-        "http://unitehere.org/press-releases/cafeteria-workers-at-facebook-unionize-continuing-movement-for-a-more-inclusive-silicon-valley",
-        "https://www.salon.com/2017/09/04/silicon-valleys-burgeoning-labor-movement/"
+        "http://unitehere.org/press-releases/cafeteria-workers-at-facebook-unionize-continuing-movement-for-a-more-inclusive-silicon-valley, https://www.salon.com/2017/09/04/silicon-valleys-burgeoning-labor-movement/"
     ],
     "actions": [
         "union_representation"
@@ -15,12 +15,9 @@
         "blue_collar_workers"
     ],
     "description": "Over 500 food service workers at Facebook won union representation at the tech giant's campus in Menlo Park, CA. The workers, who are employed by contractor Flagship Facility Services, are calling for increased wages to compete with skyrocketing rents and more affordable health benefits.",
+    "online": null,
     "locations": [
-        [
-            "menlo park",
-            "california",
-            "usa"
-        ]
+        "menlo park-california-usa"
     ],
     "companies": [
         "facebook"
@@ -29,7 +26,9 @@
     "tags": [
         "twc"
     ],
-    "author": "organizejs",
+    "author": [
+        "organizejs"
+    ],
     "latlngs": [
         [
             37.484668049999996,

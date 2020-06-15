@@ -1,4 +1,5 @@
 {
+    "id": 191,
     "date": "2019/09/28",
     "sources": [
         "https://notesfrombelow.org/article/deliveroo-workers-launch-new-strike-wave"
@@ -14,17 +15,18 @@
         "gig_workers"
     ],
     "description": "Deliveroo workers held wildcat strikes in 16 different UK cities in September in response to lowered wages. Strikers have blocked access to delivery-only kitchens that specifically cater to Deliveroo and other services and have publicly picketed. The Independent Workers of Great Britain Couriers and Logistics Branch (IWGB CLB) has been involved in organizing protests and reports that membership has grown 25% in recent months.",
+    "online": null,
     "locations": [
-        [
-            "uk"
-        ]
+        "uk"
     ],
     "companies": [
         "deliveroo"
     ],
     "workers": null,
     "tags": null,
-    "author": "nataliyaned",
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": [
         [
             51.5314216,

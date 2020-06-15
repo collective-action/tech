@@ -1,4 +1,5 @@
 {
+    "id": 104,
     "date": "2018/11/20",
     "sources": [
         "https://www.buzzfeednews.com/article/carolineodonovan/blue-apron-lawsuit-unpaid-wages"
@@ -14,18 +15,18 @@
         "blue_collar_workers"
     ],
     "description": "Blue Apron employees have filed a class-action lawsuit against the companies, alleging that they weren't paid overtime, or for meal breaks, among other labor law violations. They are seeking back pay for missed wages and a trial by jury. Blue Apron employs thousands of low-wage workers in food processing plants in New Jersey, Texas, and California, where this suit was filed. An employee alleges that Blue Apron routinely forced hourly employees to clock out before their meal break, effectively cheating them out of thirty minutes of pay per shift, a practice known in the world of labor law as \u201ctime shaving.\u201d",
+    "online": null,
     "locations": [
-        [
-            "california",
-            "usa"
-        ]
+        "california-usa"
     ],
     "companies": [
         "blue apron"
     ],
     "workers": 100,
     "tags": null,
-    "author": "organizejs",
+    "author": [
+        "organizejs"
+    ],
     "latlngs": [
         [
             33.9446707,

@@ -1,4 +1,5 @@
 {
+    "id": 40,
     "date": "2014/09/01",
     "sources": [
         "https://www.bloomberg.com/news/articles/2015-04-30/microsoft-contract-workers-are-organizing"
@@ -14,10 +15,9 @@
         "contract_workers"
     ],
     "description": "A group of temporary workers at Microsoft has signed its first union contract with their employer, a rare feat in a technology industry typically unfriendly to organized labor. 38 bug testers who review Microsoft apps voted to create a union, the Temporary Workers of America. They work full time in Microsoft's offices but are employed by cloud services contractor LionBridge.",
+    "online": null,
     "locations": [
-        [
-            "usa"
-        ]
+        "usa"
     ],
     "companies": [
         "microsoft",
@@ -27,7 +27,9 @@
     "tags": [
         "temporary_workers_of_america"
     ],
-    "author": "organizejs",
+    "author": [
+        "organizejs"
+    ],
     "latlngs": [
         [
             35.139622349999996,

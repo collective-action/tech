@@ -1,4 +1,5 @@
 {
+    "id": 65,
     "date": "2017/01/30",
     "sources": [
         "https://www.bizjournals.com/sanjose/news/2017/01/30/silicon-valley-private-security-guards-win-union.html"
@@ -14,12 +15,9 @@
         "blue_collar_workers"
     ],
     "description": "In what union officials described as Silicon Valley's largest private sector organizing effort, 3,000 private security guards on high tech campuses like Facebook, Cisco and Genentech have won recognition as members of Service Employees International Union-United Service Workers West (SEIU-USWW).",
+    "online": null,
     "locations": [
-        [
-            "san jose",
-            "california",
-            "usa"
-        ]
+        "san jose-california-usa"
     ],
     "companies": [
         "facebook",
@@ -30,7 +28,9 @@
     "tags": [
         "seiu"
     ],
-    "author": "organizejs",
+    "author": [
+        "organizejs"
+    ],
     "latlngs": [
         [
             37.484668049999996,

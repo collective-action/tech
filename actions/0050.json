@@ -1,4 +1,5 @@
 {
+    "id": 51,
     "date": "2015/08/20",
     "sources": [
         "https://www.huffingtonpost.ca/2015/08/20/netflix-under-pressure-to-expand-1-year-parental-leave-to-lower-paid-workers-in-dvd-division_n_8018070.html"
@@ -13,11 +14,8 @@
         "na"
     ],
     "description": "Three online petitions were started to protest parental leave policies at Netflix. The company recently began to offer a one-year paid parental leave but excluded employees in its DVD-by-mail service, who are typically lower paid than streaming employees and receive fewer benefits.",
-    "locations": [
-        [
-            "online"
-        ]
-    ],
+    "online": true,
+    "locations": null,
     "companies": [
         "netflix"
     ],
@@ -25,7 +23,9 @@
     "tags": [
         "coworker_solidarity"
     ],
-    "author": "nataliyaned",
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": null,
     "addresses": null
 }

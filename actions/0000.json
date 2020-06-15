@@ -1,8 +1,8 @@
 {
+    "id": 1,
     "date": "1979/09/01",
     "sources": [
-        "https://twitter.com/clancynewyork/status/1175872040814993408?s=19",
-        "http://www-cs-students.stanford.edu/~cale/cs201/apartheid.comp.html"
+        "https://twitter.com/clancynewyork/status/1175872040814993408?s=19, http://www-cs-students.stanford.edu/~cale/cs201/apartheid.comp.html"
     ],
     "actions": [
         "protest"
@@ -14,10 +14,9 @@
         "white_collar_workers"
     ],
     "description": "IBM workers formed an organization, IBM: Speak Up!, to protest the company's involvement with apartheid South Africa. The company created the computer system that upheld the country's passbook system. The company officially divested from South Africa in 1987.",
+    "online": null,
     "locations": [
-        [
-            "worldwide"
-        ]
+        "worldwide"
     ],
     "companies": [
         "ibm"
@@ -26,7 +25,9 @@
     "tags": [
         "international_solidarity"
     ],
-    "author": "nataliyaned",
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": null,
     "addresses": null
 }

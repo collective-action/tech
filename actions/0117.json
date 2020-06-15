@@ -1,4 +1,5 @@
 {
+    "id": 118,
     "date": "2019/02/27",
     "sources": [
         "https://www.buzzfeednews.com/article/carolineodonovan/student-groups-protest-salesforce-palantir-ice-campus"
@@ -13,12 +14,9 @@
         "na"
     ],
     "description": "Ten Stanford students with a group called Students for the Liberation of All People (SLAP) protested a guest lecture by Salesforce executive Richard Socher. The students, who held signs \u2014 'Salesforcing families apart,' 'Richard are you getting rich from deportation?' and 'Salesfart' \u2014 oppose the company\u2019s contract with Customs and Borders Protection (CBP).",
+    "online": null,
     "locations": [
-        [
-            "stanford",
-            "california",
-            "usa"
-        ]
+        "stanford-california-usa"
     ],
     "companies": [
         "palantir",
@@ -28,7 +26,9 @@
     "tags": [
         "students"
     ],
-    "author": "organizejs",
+    "author": [
+        "organizejs"
+    ],
     "latlngs": [
         [
             37.4440869,

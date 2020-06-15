@@ -1,4 +1,5 @@
 {
+    "id": 121,
     "date": "2019/03/19",
     "sources": [
         "https://www.theverge.com/2019/3/19/18254995/kickstarter-unionizing-union-representation-inclusivity-transparency-tech-us-crowdfunding"
@@ -13,20 +14,18 @@
         "white_collar_workers"
     ],
     "description": "Employees at Brooklyn's crowdfunding giant Kickstarter are forming a labor union called Kickstarter United, which will aim to secure more rights for the companies's workers. If recognized by the companies, Kickstarter would become the first major tech companies in the US to have union representation.",
+    "online": null,
     "locations": [
-        [
-            "brooklyn",
-            "new york city",
-            "new york",
-            "usa"
-        ]
+        "brooklyn-new york city-new york-usa"
     ],
     "companies": [
         "kickstarter"
     ],
     "workers": null,
     "tags": null,
-    "author": "organizejs",
+    "author": [
+        "organizejs"
+    ],
     "latlngs": [
         [
             40.7321996,

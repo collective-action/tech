@@ -1,4 +1,5 @@
 {
+    "id": 41,
     "date": "2014/09/19",
     "sources": [
         "https://thinkprogress.org/silicon-valley-workers-protest-for-fair-wages-at-apple-stores-during-iphone-6-launch-860a32a25b98/"
@@ -14,10 +15,9 @@
         "blue_collar_workers"
     ],
     "description": "In front of Apple stores nationwide, tech companies employees gathered to protest alongside hundreds of eager customers waiting in line to buy the iPhone 6. The protesters weren't disgruntled Apple engineers or developers; they were security officers, maintenance and custodial staff demanding better wages from tech companies.",
+    "online": null,
     "locations": [
-        [
-            "usa"
-        ]
+        "usa"
     ],
     "companies": [
         "apple"
@@ -26,14 +26,16 @@
     "tags": [
         "seiu"
     ],
-    "author": "organizejs",
+    "author": [
+        "organizejs"
+    ],
     "latlngs": [
         [
-            34.1276036,
-            -95.4174606
+            42.3489328,
+            -71.0823899
         ]
     ],
     "addresses": [
-        "Apple, Choctaw County, Oklahoma, United States of America"
+        "Apple Store, Boylston Street, Block F, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States of America"
     ]
 }

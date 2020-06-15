@@ -1,4 +1,5 @@
 {
+    "id": 148,
     "date": "2019/06/19",
     "sources": [
         "https://www.vox.com/recode/2019/6/19/18691870/google-employees-activists-protest-alphabet-shareholder-meeting"
@@ -14,12 +15,9 @@
         "white_collar_workers"
     ],
     "description": "Google employees protest at Alphabet's shareholder meeting, joining community activists in demanding change from Google on how it handles sexual harassment in the workplace and its plans to build a censored search engine for China. Around 100 Google employees and community activists also protested as a united group outside Alphabet headquarters during the meeting. Google employees; labor and activist coalition Silicon Valley Rising; SEIU-USWW (a union representing janitorial staff and security officers); and local community groups helped organize the rally outside the meeting.",
+    "online": null,
     "locations": [
-        [
-            "sunnyvale",
-            "california",
-            "usa"
-        ]
+        "sunnyvale-california-usa"
     ],
     "companies": [
         "google"
@@ -29,7 +27,9 @@
         "coworker_solidarity",
         "sexism"
     ],
-    "author": "organizejs",
+    "author": [
+        "organizejs"
+    ],
     "latlngs": [
         [
             37.40858695,
