@@ -4,6 +4,7 @@ import bs4
 import datetime
 import dateparser
 import math
+import ast
 from pathlib import Path
 from bs4 import BeautifulSoup
 from dataclasses import dataclass, field, asdict
@@ -29,6 +30,7 @@ class CollectiveAction:
     """
 
     # mandatory fields
+    counter: int
     date: str
     sources: List[Url]
     actions: List[str]
@@ -37,6 +39,7 @@ class CollectiveAction:
     description: str
 
     # optional fields
+    online: bool = None
     locations: List[List[str]] = None
     companies: List[str] = None
     workers: int = None
@@ -47,49 +50,18 @@ class CollectiveAction:
 
     _meta_fields: ClassVar = ["author"]
 
-    _valid_struggles: ClassVar = [
-        "ethics",
-        "pay_and_benefits",
-        "working_conditions",
-        "discrimination",
-        "unfair_labor_practices",
-        "job_security",
-        "na",
-    ]
-
-    _valid_actions: ClassVar = [
-        "strike",
-        "protest",
-        "open_letter",
-        "legal_action",
-        "union_drive",
-        "union_representation",
-    ]
-
-    _valid_employement_types: ClassVar = [
-        "blue_collar_workers",
-        "white_collar_workers",
-        "in_house_workers",
-        "contract_workers",
-        "gig_workers",
-        "na",
-    ]
-
     def __post_init__(self):
         """ Used to validate fields. """
         # check all the types
         assert isinstance(self.date, (str, pd.Timestamp, datetime.date))
-        assert isinstance(self.sources, list)
+        assert isinstance(self.sources, (str, list))
         assert isinstance(self.struggles, list)
         assert isinstance(self.actions, list)
         assert isinstance(self.employment_types, list)
         assert isinstance(self.companies, (list, NoneType))
         assert isinstance(self.tags, (list, NoneType))
         assert isinstance(self.workers, (int, float, NoneType))
-
         assert isinstance(self.locations, (list, NoneType))
-        if isinstance(self.locations, list):
-            assert all(isinstance(el, list) for el in self.locations)
 
         assert isinstance(self.latlngs, (list, float, NoneType))
         if isinstance(self.latlngs, list):
@@ -97,23 +69,9 @@ class CollectiveAction:
 
         assert isinstance(self.addresses, (list, float, NoneType))
 
-        # make sure action is a valid action
-        for action in self.actions:
-            assert (
-                action in self._valid_actions
-            ), f"'{action}' is not a valid input. Valid inputs are: {self._valid_actions}"
-
-        # make sure all struggles are valid struggles
-        for struggle in self.struggles:
-            assert (
-                struggle in self._valid_struggles
-            ), f"'{struggle}' is not a valid input. Valid inputs are: {self._valid_struggles}"
-
-        # make sure all struggles are valid struggles
-        for employment_type in self.employment_types:
-            assert (
-                employment_type in self._valid_employement_types
-            ), f"'{employment_type}' is not a valid input. Valid inputs are: {self._valid_employement_types}"
+        # if source is str, turn it into a list
+        if isinstance(self.sources, str):
+            self.sources = [self.sources]
 
         # make sure source is either a url or a html link tag <a>
         for source in self.sources:
@@ -179,25 +137,27 @@ class CollectiveAction:
             latlngs.append((loc.latitude, loc.longitude))
             addresses.append(loc.address)
 
-        for location in self.locations:
-            location = ", ".join(location)
+        if self.locations:
+            for location in self.locations:
+                location = ", ".join(location.split("-"))
 
-            # skip is location is online or worldwide
-            if location in ["online", "worldwide"]:
-                continue
+                # skip is location is online or worldwide
+                if location in ["worldwide"]:
+                    continue
+                print(location)
 
-            # attach company name to each city/state/country location
-            if self.companies:
-                for company in self.companies:
-                    loc = geolocator.geocode(f"{company}, {location}")
+                # attach company name to each city/state/country location
+                if self.companies:
+                    for company in self.companies:
+                        loc = geolocator.geocode(f"{company}, {location}")
+                        if loc:
+                            add_address_latlng(loc)
+
+                # if no company listed, just use location
+                else:
+                    loc = geolocator.geocode(f"{location}")
                     if loc:
                         add_address_latlng(loc)
-
-            # if no company listed, just use location
-            else:
-                loc = geolocator.geocode(f"{location}")
-                if loc:
-                    add_address_latlng(loc)
 
         if len(latlngs) == 0:
             latlngs = None

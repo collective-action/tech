@@ -3,6 +3,7 @@ import textwrap
 import argparse
 import warnings
 from utils.convert import (
+    get_cas_from_airtable,
     get_cas_from_csv,
     get_cas_from_json,
     get_cas_from_files,
@@ -20,9 +21,9 @@ def save_cas_to_all(cas: CollectiveActions):
     save_cas_to_csv(cas)
     save_cas_to_json(cas)
     save_cas_to_readme(cas)
-    cas.to_files()    
+    cas.to_files()
 
-    
+
 def _get_parser():
     parser = argparse.ArgumentParser(
         description=textwrap.dedent(
@@ -52,6 +53,8 @@ def _get_parser():
         # Update actions.json based on files
         $ python update.py --files-to-json
 
+        # Update csv/json/files based on airtable
+        $ python update.py --airtable --secret SECRET --app APP --table TABLE
         ...
 
         """
@@ -62,6 +65,25 @@ def _get_parser():
         "--auto",
         action="store_true",
         help="automatically detect if csv of files are most up-to-date and update accordingly.",
+    )
+
+    # airtable
+    parser.add_argument(
+        "--airtable",
+        action="store_true",
+        help="Update CSV/JSON/Files using an airtable connection"
+    )
+    parser.add_argument(
+        "--secret",
+        help="Your airtable secret key. Should start with `key`"
+    )
+    parser.add_argument(
+        "--app",
+        help="Your airtable app base id. Should start with `app`"
+    )
+    parser.add_argument(
+        "--table",
+        help="Your airtable table name. The name of the table."
     )
 
     # files > Any
@@ -128,7 +150,7 @@ def _get_parser():
 
     args = parser.parse_args()
     return args
-    
+
 
 if __name__ == "__main__":
     warnings.filterwarnings("ignore", category=UserWarning, module="bs4")
@@ -148,6 +170,15 @@ if __name__ == "__main__":
                 "CSV_FLAG is not present; updating csv, json and readme using the action folder."
             )
             cas = get_cas_from_files()
+        save_cas_to_all(cas)
+
+    # airtable
+    if args.airtable:
+        print("Updating repo based on airtable.")
+        assert args.secret
+        assert args.app
+        assert args.table
+        cas = get_cas_from_airtable(args.secret, args.app, args.table)
         save_cas_to_all(cas)
 
     # files > Any

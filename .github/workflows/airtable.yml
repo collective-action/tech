@@ -1,0 +1,50 @@
+name: Airtable
+
+on:
+  schedule:
+    - cron:  '*/15 * * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-18.04
+
+    steps:
+
+    - name: Checkout
+      uses: actions/checkout@master
+      with:
+        persist-credentials: false
+        fetch-depth: 0
+
+    - name: Set up conda
+      run: |
+        sudo chown -R $USER /usr/share/miniconda
+
+    - name: Install conda environment
+      run: |
+        conda env create --quiet --file environment.yml
+
+    - name: Pytest
+      run: |
+        eval "$(conda shell.bash hook)"
+        conda activate cait
+        pytest --junitxml=junit/unit-test.xml
+
+    - name: sync with airtable, commit changes
+      run: |
+        eval "$(conda shell.bash hook)"
+        conda activate cait
+        python update.py --airtable --secret ${{ secrets.AIRTABLE_SECRET }} --app ${{ secrets.AIRTABLE_APP }} --table "Collective Action in Tech"
+        git config --local user.name "Github Actions"
+        git config --local user.email "organizejs@gmail.com"
+        git add README.md
+        git add actions.csv
+        git add actions.json
+        git add actions
+        git commit -m "Airtable Update ***NO_CI***"
+
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_ACTION_TOKEN }}
+        force: true
