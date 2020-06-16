@@ -9,7 +9,7 @@ The goal of this archive is to provide data and insights on organizing in the te
 
 **This repository is meant to be a live document. We need your help to ensure its accuracy and completeness! See the [Contribution Guidelines](CONTRIBUTING.md) for more information about how to contribute.**
 
-> Journalists. Please include a link to the repository (collectiveactions.tech) in your article if this data has informed your work.
+> Journalists. Please include a link to the repository (collectiveaction.tech) in your article if this data has informed your work.
 > 
 > Academics. Please include a citation to the repository if you have used this data in your project. Tan, J.S. and Nataliya Nedzhvetskaya. (2020). Collective Actions In Tech. https://github.com/collective-action/tech 
 
