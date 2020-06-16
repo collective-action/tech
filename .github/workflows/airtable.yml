@@ -34,7 +34,7 @@ jobs:
       run: |
         eval "$(conda shell.bash hook)"
         conda activate cait
-        python update.py --airtable --secret ${{ secrets.AIRTABLE_SECRET }} --app ${{ secrets.AIRTABLE_APP }} --table "Collective Action in Tech"
+        python update.py --airtable --secret ${{ secrets.AIRTABLE_SECRET }} --app ${{ secrets.AIRTABLE_APP }} --table "primary"
         git config --local user.name "Github Actions"
         git config --local user.email "organizejs@gmail.com"
         git add README.md
