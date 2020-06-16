@@ -7,11 +7,12 @@ For the purposes of this project, the tech industry is defined to include any co
 
 The goal of this archive is to provide data and insights on organizing in the tech industry, to find the connections between different efforts, and to build worker power in tech.
 
-**This repository is meant to be a live document. We need your help to ensure its accuracy and completeness! See the [Contribution Guidelines](CONTRIBUTING.md) for more information about how to contribute.**
+**This repository is meant to be a live document. We need your help to ensure its accuracy and completeness! Add new actions by filling out this [form](https://airtable.com/shrT1A5QWKtquXv3D).**
 
+#### How to credit this repository
 > Journalists. Please include a link to the repository (collectiveaction.tech) in your article if this data has informed your work.
 > 
-> Academics. Please include a citation to the repository if you have used this data in your project. Tan, J.S. and Nataliya Nedzhvetskaya. (2020). Collective Actions In Tech. https://github.com/collective-action/tech 
+> Academics. Please include a citation to the repository if you have used this data in your project. Tan, JS and Nataliya Nedzhvetskaya. (2020). Collective Action In Tech. https://github.com/collective-action/tech 
 
 
 #### Summary
@@ -19,7 +20,7 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">16/06/2020 02:21PM</td>
+    <td data-summary="timestamp">16/06/2020 02:06PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
