@@ -1,5 +1,5 @@
 # Collective Action in Tech
-![Sync](https://github.com/organizejs/collective-action-in-tech/workflows/Sync/badge.svg)
+![Airtable](https://github.com/collective-action/tech/workflows/Airtable/badge.svg)
 
 This repository documents all collective actions from workers in the tech industry.
 
