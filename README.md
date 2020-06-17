@@ -20,7 +20,7 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">16/06/2020 11:50PM</td>
+    <td data-summary="timestamp">17/06/2020 12:06AM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
@@ -168,7 +168,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2020-05-01
    </td>
    <td>
-    Foodora couriers announced their intention to join a union of Canadian post workers and held a union drive.
+    Foodora couriers announced their intention to join a union of Canadian post workers and held a union drive. If successful, this would make Foodora workers the first app-based employees to unionize in Canada. In April 2020 the company announced its intention to leave the Canadian market and initiated bankruptcy proceedings, making the future of the business and the unionizing effort uncertain.
    </td>
    <td>
     <a href="/actions/0259.json">
