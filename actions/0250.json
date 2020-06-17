@@ -1,12 +1,11 @@
 {
-    "id": 251,
+    "id": 250,
     "date": "2020/03/31",
     "sources": [
-        "https://www.cnbc.com/2020/03/31/grocery-and-delivery-workers-demand-more-coronavirus-protection-say-pay-isnt-enough.html, https://www.coworker.org/petitions/global-retail-worker-sick-out"
+        "https://www.reuters.com/article/us-health-coronavirus-amazon-com-warehou/amazon-warehouse-workers-protest-near-detroit-days-after-nyc-walkout-iduskbn21j6ix"
     ],
     "actions": [
-        "strike",
-        "open_letter"
+        "protest"
     ],
     "struggles": [
         "working conditions",
@@ -16,16 +15,15 @@
         "in_house_workers",
         "blue_collar_workers"
     ],
-    "description": "Whole Foods employees went on strike to call for guaranteed pay during sick leave, reinstatement of health insurance for part-time and seasonal employees, coverage of coronavirus testing and treatment, improved sanitation at worksites, and immediate shutdown of any locations where employees test positive. The strike came amid a surge of activism from grocery and delivery workers at several companies. ",
+    "description": "Amazon warehouse workers near Detroit staged a demonstration to call for more stringent cleaning practices in their facility and reimbursement for any health bills incurred by employees (and their families) who had contracted coronavirus on the job. Management reports that fewer than 15 employees joined in, while organizers say there were 40 participants. ",
     "online": null,
     "locations": [
-        "chicago-illinois-usa"
+        "usa"
     ],
     "companies": [
-        "amazon",
-        "whole_foods"
+        "amazon"
     ],
-    "workers": 1000,
+    "workers": 40,
     "tags": [
         "coronavirus"
     ],
@@ -34,11 +32,11 @@
     ],
     "latlngs": [
         [
-            41.84040105,
-            -87.68351928672685
+            47.6142939,
+            -122.3239636
         ]
     ],
     "addresses": [
-        "Amazon Distribution, South Western Avenue, Lower West Side, Illinois Medical District, Chicago, Cook County, Illinois, 60643, United States of America"
+        "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
     ]
 }

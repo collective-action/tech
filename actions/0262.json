@@ -1,40 +1,44 @@
 {
-    "id": 263,
-    "date": "2020/05/11",
+    "id": 262,
+    "date": "2020/05/05",
     "sources": [
-        "https://www.wedriveprogress.org/caravan, https://www.vice.com/en_us/article/g5ppqq/uber-and-lyft-drivers-organize-caravan-outside-uber-hq, https://techcrunch.com/2020/05/11/rideshare-drivers-stage-caravan-protest-over-ubers-labor-practices/"
+        "https://supchina.com/2020/05/05/internet-writers-protest-what-they-call-unfair-contracts-with-tencent-company/"
     ],
     "actions": [
-        "protest"
+        "strike"
     ],
     "struggles": [
-        "working conditions"
+        "pay_and_benefits"
     ],
     "employment_types": [
         "gig_workers"
     ],
-    "description": "Around 100 Uber and Lyft drivers are staging a caravan protest at Uber's San Francisco headquarters to demand Uber comply with gig worker protections law AB 5, pay into the state's unemployment insurance fund and drop the ballot initiative it proposed along with Lyft and DoorDash that aims to keep gig workers classified as independent contractors. 'Uber, Lyft and other gig companies are continuing in the same path of abusing and completely taking advantage of workers while putting them at risk,' rideshare driver and organizer with Gig Workers Rising Edan Alva told TechCrunch. This protest comes shortly after California Attorney General Xavier Becerra, along with city attorneys from Los Angeles, San Diego and San Francisco, filed a lawsuit asserting Uber and Lyft gain an unfair and unlawful competitive advantage by misclassifying workers as independent contractors.",
+    "description": "Hundreds of thousands of writers signed to China Literature (subsidiary of Tencent), the country's biggest online publisher, went on an online strike, protesting against exploitative contracts and the company's regular infringement of their intellectual property rights. The strike's organizers were demonstrating against proposed changes to China Literature\u2019s business model and contracts with its writers. Writers stopped publishing new content on the website on the day of the strike. This change would negatively affect writers' income, which primarily comes from subscription fees and tips from their readers. 'Financially speaking, we were already drowning in quicksand before the rumors. Now they are trying to give us a death blow' a China Literature writer",
     "online": null,
     "locations": [
-        "san francisco-california-usa"
+        "china"
     ],
     "companies": [
-        "uber"
+        "chinese literature",
+        "tencent"
     ],
-    "workers": 100,
-    "tags": [
-        "coronavirus"
-    ],
+    "workers": 100001,
+    "tags": null,
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            37.7899898,
-            -122.3999799
+            23.09733995,
+            113.29374279344763
+        ],
+        [
+            22.52586985,
+            113.93041229445548
         ]
     ],
     "addresses": [
-        "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America"
+        "274, \u9038\u4ed9\u8def, \u65b0\u6e2f\u8857\u9053, \u5e7f\u5dde\u5e02, \u6d77\u73e0\u533a, \u5e7f\u4e1c\u7701, 510105, China \u4e2d\u56fd",
+        "33\u53f7, \u7ca4\u6d77\u8857\u9053, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518054, China \u4e2d\u56fd"
     ]
 }

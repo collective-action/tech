@@ -1,41 +1,47 @@
 {
-    "id": 209,
-    "date": "2019/11/19",
+    "id": 208,
+    "date": "2019/11/13",
     "sources": [
-        "https://www.cnbc.com/2019/11/19/google-employees-protested-security-team-interrogation-memo-says.html"
+        "https://www.vice.com/en_us/article/evjwwp/as-githubs-conference-begins-five-employees-resign-over-protest-ice-contract"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
-        "unfair_labor_practices"
+        "ethics"
     ],
     "employment_types": [
         "white_collar_workers"
     ],
-    "description": "Google employees held a protest in San Francisco days before the company ended its long-held TGIF meetings, according to an internal memo obtained by CNBC. Some 20 people organized at Google's office in downtown San Francisco to protest the company placing Rebecca Rivers and Laurence Berland on sudden and indefinite administrative leave the prior week, the memo states. Authors of the memo, which was circulated internally at Google on Monday, claimed the actions were an act of retaliation against the workers.",
+    "description": "Before Github\u2019s CEO Nat Friedman delivered his keynote address at Github Universe, an annual Github-hosted conference, dozens of tech workers and immigrant rights activists protested outside with a replica of the cages ICE uses to detain migrant families and children. \u201cThe demonstration [is in response to] GitHub's contract with ICE and is intended to show support for the GitHub workers who are organizing internally to get the contract cancelled,\u201d said a representative of Tech Workers Coalition, the group organizing the protest. Just before the annual conference, 5 Githubbers left the company, citing Github's involvement with ICE. ",
     "online": null,
     "locations": [
         "san francisco-california-usa"
     ],
     "companies": [
-        "google"
+        "github",
+        "microsoft"
     ],
-    "workers": 20,
+    "workers": 24,
     "tags": [
-        "coworker_solidartiry",
-        "retaliation"
+        "immigration",
+        "ice"
     ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            37.41897865,
-            -122.08237793989416
+            37.7821769,
+            -122.3912458
+        ],
+        [
+            37.41096725,
+            -122.07138737347663
         ]
     ],
     "addresses": [
-        "Google, Mountain View, Santa Clara County, California, United States of America"
+        "GitHub, Colin P. Kelly Junior Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States of America",
+        "Microsoft Silicon Valley, Mountain View, Santa Clara County, California, United States of America"
     ]
 }

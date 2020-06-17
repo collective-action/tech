@@ -1,31 +1,30 @@
 {
-    "id": 243,
-    "date": "2020/03/19",
+    "id": 242,
+    "date": "2020/03/18",
     "sources": [
-        "https://www.businessinsider.com/ice-mijente-microsoft-coronavirus-crisis-2020-3, https://github.com/msworkers/against.ice"
+        "https://www.reuters.com/article/us-health-coronavirus-france-amazon/french-amazon-workers-protest-in-coronavirus-pushback-iduskbn2152mp"
     ],
     "actions": [
-        "open_letter"
+        "strike"
     ],
     "struggles": [
-        "ethics"
+        "working conditions",
+        "unfair_labor_practices"
     ],
     "employment_types": [
-        "white_collar_workers",
+        "blue_collar_workers",
         "in_house_workers"
     ],
-    "description": "Mijente, an immigrant rights group is calling on ICE to stop hunting down undocumented immigrants amid the coronavirus crisis. In an open letter published on Github, Microsoft workers backed mijente's campaign, calling on tech companies not to share their technologies with ICE.",
-    "online": null,
+    "description": "At an Amazon warehouse and shipping center at Saran just outside Orleans, a city south of Paris, 250-300 workers staged a strike, gathering outside and calling for its closure. It normally employs some 1,800 full-time staff. They are calling on the online retailer to cease operations or make it easier for employees not wanting to work during the coronavirus outbreak to stay away.",
+    "online": true,
     "locations": [
-        "california-usa"
+        "usa"
     ],
     "companies": [
-        "microsoft"
+        "amazon"
     ],
-    "workers": null,
+    "workers": 250,
     "tags": [
-        "ice",
-        "immigration",
         "coronavirus"
     ],
     "author": [
@@ -33,11 +32,11 @@
     ],
     "latlngs": [
         [
-            37.41096725,
-            -122.07138737347663
+            47.6142939,
+            -122.3239636
         ]
     ],
     "addresses": [
-        "Microsoft Silicon Valley, Mountain View, Santa Clara County, California, United States of America"
+        "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
     ]
 }

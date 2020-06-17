@@ -1,30 +1,31 @@
 {
-    "id": 256,
-    "date": "2020/04/20",
+    "id": 255,
+    "date": "2020/04/13",
     "sources": [
-        "https://www.theguardian.com/world/2020/apr/20/coronavirus-digital-contact-tracing-will-fail-unless-privacy-is-respected-experts-warn, https://techcrunch.com/2020/04/20/academics-contact-tracing/"
+        "https://gizmodo.com/tech-workers-speak-out-in-support-of-amazon-warehouse-s-1842839301, https://chuffed.org/project/help-amazon-warehouse-workers-exposed-to-covid-19, https://www.givedirectly.org/covid-19/us/, https://twitter.com/techspeaksout"
     ],
     "actions": [
-        "open_letter"
+        "protest"
     ],
     "struggles": [
-        "ethics"
+        "ethics",
+        "working conditions",
+        "unfair_labor_practices"
     ],
     "employment_types": [
         "white_collar_workers"
     ],
-    "description": "Over 300 academics from 26 countries signed a letter calling for contact-tracing apps to respect user privacy and to limit large-scale, centralized surveillance in favor of decentralized systems. The signatories favored the DP-3T protocol and systems like Apple and Google\u2019s cross-platform solution over the PEPP-T system designed by a set of European countries.",
+    "description": "As a gesture of solidarity, tech workers have started tweeting with the hashtags #TechSolidarity, #AmazonStrike, #HuelgaAmazon to indicate support for striking Amazon workers. The Twitter page, @TechSpeaksOut, was reportedly designed to exert public pressure tech corporations. In addition to taking to Twitter, activists have started GoFundMes and mutual aid campaigns to benefit workers.",
     "online": true,
-    "locations": [
-        "worldwide"
-    ],
+    "locations": null,
     "companies": [
-        "na"
+        "amazon"
     ],
-    "workers": 301,
+    "workers": null,
     "tags": [
-        "coronavirus",
-        "surveillance"
+        "industry_solidarity",
+        "coworker_solidarity",
+        "coronavirus"
     ],
     "author": [
         "nataliyaned"

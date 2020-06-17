@@ -1,32 +1,44 @@
 {
-    "id": 237,
-    "date": "2020/03/13",
+    "id": 236,
+    "date": "2020/03/12",
     "sources": [
-        "https://techcrunch.com/2020/03/13/online-code-collaboration-tool-glitch-votes-to-unionize/, https://cwa-union.org/news/releases/tech-workers-app-developer-glitch-vote-form-union-and-join-cwa-organizing-initiative"
+        "https://www.vice.com/en_us/article/n7jkdx/baristas-at-slack-say-theyve-won-90-days-of-severance, https://www.theverge.com/2020/3/12/21177319/slack-paying-contractors-after-laid-off-baristas-send-letter"
     ],
     "actions": [
-        "union_representation"
+        "open_letter",
+        "legal_action"
     ],
     "struggles": [
-        "na"
+        "job_security"
     ],
     "employment_types": [
-        "white_collar_workers",
-        "in_house_workers"
+        "blue_collar_workers",
+        "contract_workers"
     ],
-    "description": "Employees of online software collaboration tool Glitch won their union with the Communications Workers of America (CWA). The move comes after 90% of the workers indicated their support for joining CWA and authorized CWA to be their bargaining representative. Glitch will join the CWA Local 1101, as part of the Campaign to Organize Digital Employees (CODE-CWA) initiative, which was launched back in January.",
+    "description": "A group of five baristas who operate the espresso machines at Slack\u2019s corporate headquarters in San Francisco learned on March 6 that they were losing their contracted positions just prior to a decision by the company to move to remote operations to curb the spread of COVID-19. The baristas claim that Slack caught wind of their intention to criticize the company publicly\u2014and in what they claim to be an organizing victory, they learned that their severance would be extended to 90 days.",
     "online": null,
     "locations": [
-        "new york city-new york-usa"
+        "san francisco-california-usa"
     ],
     "companies": [
-        "glitch"
+        "slack"
     ],
-    "workers": null,
-    "tags": null,
+    "workers": 5,
+    "tags": [
+        "coworker_solidarity",
+        "fund_raising",
+        "coronavirus"
+    ],
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            35.2960341,
+            -120.6532192
+        ]
+    ],
+    "addresses": [
+        "Slack Street, San Luis Obispo, San Luis Obispo County, California, 93410, United States of America"
+    ]
 }

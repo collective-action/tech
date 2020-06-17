@@ -1,39 +1,39 @@
 {
-    "id": 192,
-    "date": "2019/09/30",
+    "id": 191,
+    "date": "2019/09/28",
     "sources": [
-        "https://www.theverge.com/2019/10/1/20892693/amazon-protest-time-off-part-time-workers-sacramento-fired, https://www.vice.com/en_us/article/43k7yp/organized-amazon-warehouse-workers-just-got-two-fired-co-workers-rehired"
+        "https://notesfrombelow.org/article/deliveroo-workers-launch-new-strike-wave"
     ],
     "actions": [
-        "open_letter"
+        "strike"
     ],
     "struggles": [
-        "job_security",
-        "pay_and_benefits"
+        "pay_and_benefits",
+        "job_security"
     ],
     "employment_types": [
-        "blue_collar_workers"
+        "gig_workers"
     ],
-    "description": "Amazon workers at a delivery center in Sacramento circulated a petition to reinstate two workers believed to have been unfairly fired and to give part-time workers paid time off. Management reinstated the two fired workers but did not acquiese to the request for paid time off. The action led workers to form a new group: Amazonians United Sacramento.",
+    "description": "Deliveroo workers held wildcat strikes in 16 different UK cities in September in response to lowered wages. Strikers have blocked access to delivery-only kitchens that specifically cater to Deliveroo and other services and have publicly picketed. The Independent Workers of Great Britain Couriers and Logistics Branch (IWGB CLB) has been involved in organizing protests and reports that membership has grown 25% in recent months.",
     "online": null,
     "locations": [
-        "sacramento-california-usa"
+        "uk"
     ],
     "companies": [
-        "amazon"
+        "deliveroo"
     ],
-    "workers": 78,
+    "workers": null,
     "tags": null,
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            38.6767343,
-            -121.4948028
+            51.5314216,
+            -0.1113624
         ]
     ],
     "addresses": [
-        "Amazon Avenue, Sacramento, Sacramento County, California, 95835, United States of America"
+        "Deliveroo, Pentonville Road, Pentonville, Finsbury, London Borough of Islington, London, Greater London, England, N1 9JB, United Kingdom"
     ]
 }

@@ -1,43 +1,42 @@
 {
-    "id": 247,
-    "date": "2020/03/22",
+    "id": 246,
+    "date": "2020/03/19",
     "sources": [
-        "https://www.cnbc.com/2020/03/23/amazon-gives-part-time-warehouse-workers-paid-leave-amid-coronavirus.html, https://medium.com/@dch1united/amazonians-united-wins-pto-for-all-amazon-workers-f17e6ffbb192"
+        "https://www.bloomberg.com/news/articles/2020-03-19/google-agrees-to-worker-council-in-europe-amid-recurring-discord"
     ],
     "actions": [
-        "open_letter",
-        "strike"
+        "legal_action"
     ],
     "struggles": [
-        "pay_and_benefits",
-        "working conditions"
+        "na"
     ],
     "employment_types": [
-        "blue_collar_workers",
+        "white_collar_workers",
         "in_house_workers"
     ],
-    "description": "Amazonians United, a group of Amazon employee advocates around the US, won paid time off for part-time logistics workers in the midst the coronavirus pandemic. Amazon has also said it will raise pay for warehouse workers and delivery drivers by $2 per hour through April. For several weeks, the Amazonians United group has been calling for improved working conditions and paid time off using petitions and walkouts, including actions by groups in the Sacramento, Chicago, and New York areas.",
+    "description": "A group of 153 Google employees from 11 European offices wrote to the company\u2019s management requesting the establishment of the council. Google\u2019s management agreed to take the first steps toward creating the council and will soon begin negotiating with employees about its scope. (The creation of such works councils-- which aim to give employees the right to be consulted by management about issues such as organizational changes or job cuts -- is required by the European Union if enough of a company\u2019s employees in at least two countries file a written request). The works council is likely to include employee representatives from more than 35 Google offices across Europe, according to the people familiar with the matte",
     "online": null,
     "locations": [
-        "staten island-new york city-new york-usa"
+        "usa"
     ],
     "companies": [
-        "amazon"
+        "google"
     ],
-    "workers": 251,
+    "workers": 153,
     "tags": [
-        "coronavirus"
+        "coworker_solidarity",
+        "international_solidarity"
     ],
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
     "latlngs": [
         [
-            40.6193387,
-            -74.0727749
+            42.3627717,
+            -71.087257
         ]
     ],
     "addresses": [
-        "Amazon Court, Clifton, Todt Hill, New York, Richmond County, New York, 10304, United States of America"
+        "Google, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
     ]
 }

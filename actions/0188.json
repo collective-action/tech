@@ -1,33 +1,30 @@
 {
-    "id": 189,
-    "date": "2019/09/26",
+    "id": 188,
+    "date": "2019/09/25",
     "sources": [
-        "https://www.dailycal.org/2019/09/24/under-pressure-palan"
+        "https://www.salon.com/2019/09/25/in-historic-first-tech-contractors-for-google-vote-to-unionize/, https://www.theguardian.com/technology/2019/sep/23/google-pittsburgh-union-roots-transform-tech-industry?cmp=share_androidapp_copy_to_clipboard"
     ],
     "actions": [
-        "protest",
-        "open_letter"
+        "union_representation"
     ],
     "struggles": [
-        "ethics"
+        "job_security",
+        "pay_and_benefits"
     ],
     "employment_types": [
-        "na"
+        "contract_workers",
+        "white_collar_workers"
     ],
-    "description": "Students at UC Berkeley have led protests and circulated petitions to stop Palantir from attending campus events due to their standing contracts with ICE. 50 students attended a protest and over 700 students and faculty signed a petition to stop an upcoming informational session.",
+    "description": "Contract workers at Google in Pittsburgh have voted to unionize, joining the United Steel Workers Union. News outlets report that this is the first successful unionization of white-collar tech contractors. Workers intend to use their position to bargain for compensation, benefits, and job security comparable to Google employees. Google currently employs more contract workers (135,000) than direct Google employees (115,000) according to the Guardian. A group of Google employees have signed a letter of support and others have published a petition calling for the company to sign a neutrality agreement and abstain from union-busting tactics.",
     "online": null,
     "locations": [
-        "berkeley-california-usa"
+        "pittsburgh-pennsylvania-usa"
     ],
     "companies": [
-        "palantir"
+        "google"
     ],
-    "workers": 700,
-    "tags": [
-        "students",
-        "immigration",
-        "ice"
-    ],
+    "workers": 73,
+    "tags": null,
     "author": [
         "nataliyaned"
     ],

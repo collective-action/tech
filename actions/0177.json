@@ -1,29 +1,45 @@
 {
-    "id": 178,
-    "date": "2019/09/07",
+    "id": 177,
+    "date": "2019/09/05",
     "sources": [
-        "https://medium.com/@blindfb2020/facebook-empowers-racism-against-its-employees-of-color-fbbfaf55ab76, https://www.theroot.com/black-facebook-workers-write-open-letter-to-company-we-1839776402"
+        "https://abc7news.com/business/delivery-app-drivers-rally-for-higher-wages-at-sf-headquarters/5519192/"
     ],
     "actions": [
-        "open_letter"
+        "protest"
     ],
     "struggles": [
-        "discrimination"
+        "pay_and_benefits"
     ],
     "employment_types": [
-        "white_collar_workers"
+        "gig_workers"
     ],
-    "description": "A group of Facebook employees published an anonymous memo saying the culture at the company has only gotten worse for nonwhite workers. Published on Medium, the letter documents a variety of micro- and full-blown aggressions employees say they have endured over the last year from managers, HR, and their white colleagues. The memo was co-written by 12 current employees, including black, Latinx, and Asian women workers. One program manager describes being told by two white employees to 'clean up after their mess' at breakfast. When the program manager flagged the incident for their supervisor, they were told to 'dress more professionally.'",
-    "online": true,
-    "locations": null,
+    "description": "Employees from Instacart, Doordash, and Postmates rallied outside of company headquarters to protest low wages. Doordash is rolling out a new pay model at the end of September which, it claims, will offer better pay for shoppers.",
+    "online": null,
+    "locations": [
+        "san francisco-california-usa"
+    ],
     "companies": [
-        "facebook"
+        "postmates",
+        "doordash",
+        "instacart"
     ],
-    "workers": 12,
+    "workers": null,
     "tags": null,
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.7753423,
+            -122.39763106771915
+        ],
+        [
+            37.7834546,
+            -122.4080358
+        ]
+    ],
+    "addresses": [
+        "UserTesting, 5th Street, South of Market, San Francisco, San Francisco City and County, California, 94017, United States of America",
+        "Doordash HQ, Stevenson Street, Union Square, San Francisco, San Francisco City and County, California, 94104, United States of America"
+    ]
 }

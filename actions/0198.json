@@ -1,39 +1,41 @@
 {
-    "id": 199,
-    "date": "2019/10/21",
+    "id": 198,
+    "date": "2019/10/04",
     "sources": [
-        "https://www.bloomberg.com/amp/news/articles/2019-10-21/swiss-google-employees-defy-managers-stage-labor-event?__twitter_impression=true, https://www.vox.com/recode/2019/10/21/20924697/google-unionization-switzerland-zurich-syndicom-zooglers"
+        "https://www.bloomberg.com/news/articles/2019-10-10/microsoft-employees-call-to-end-github-ice-contract, https://www.businessinsider.com/microsoft-github-ice-contracts-solidarity-2019-10"
     ],
     "actions": [
-        "union_drive"
+        "open_letter"
     ],
     "struggles": [
-        "working conditions",
-        "job_security"
+        "ethics"
     ],
     "employment_types": [
         "white_collar_workers"
     ],
-    "description": "Approximately 40 Google employees in Zurich held a meeting at the office to discuss unions and labor rights with representatives from Syndicom, a Swiss labor union. Employees had invited Syndicom to speak earlier in June but the event was cancelled at the request of management. Management later announced they would be holding a series of talk on labor rights and would allow Syndicom to join.",
-    "online": null,
+    "description": "Microsoft employees are circulating a letter supporting an effort to get its GitHub subsidiary to cancel a contract with the U.S. Immigration and Customs Enforcement agency, the latest effort among tech-company staff to influence corporate policy on government work. The letter reflects concerns that Microsoft\u2019s sales to the agency implicate the software maker in the government\u2019s detention of immigrants. ",
+    "online": true,
     "locations": [
-        "zurich-switzerland"
+        "usa"
     ],
     "companies": [
-        "google"
+        "microsoft"
     ],
-    "workers": 40,
-    "tags": null,
+    "workers": 200,
+    "tags": [
+        "ice",
+        "industry_solidarity"
+    ],
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
     "latlngs": [
         [
-            47.3798034,
-            8.5297304
+            35.139622349999996,
+            -80.92306993327955
         ]
     ],
     "addresses": [
-        "Google, Lagerstrasse, Langstrasse, Aussersihl, Z\u00fcrich, Bezirk Z\u00fcrich, Z\u00fcrich, 8021, Switzerland"
+        "Microsoft, Yorkwood, Charlotte, Mecklenburg County, North Carolina, United States of America"
     ]
 }

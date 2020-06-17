@@ -1,35 +1,42 @@
 {
-    "id": 254,
-    "date": "2020/04/10",
+    "id": 253,
+    "date": "2020/04/06",
     "sources": [
-        "https://www.peoplesworld.org/article/more-people-will-die-uber-and-lyft-drivers-demand-companies-protect-workers/, https://mobilealliance.org/wp-content/uploads/2020/04/MWA-Letter-to-Feuer-Apr-10-2020.pdf"
+        "https://www.vice.com/en_us/article/4age5j/amazon-workers-in-new-york-are-striking-for-the-second-week-in-a-row-as-coronavirus-cases-pile-up, https://nypost.com/2020/04/06/amazon-faces-another-staten-island-warehouse-strike/, https://finance.yahoo.com/news/amazon-warehouse-workers-second-walkout-one-week-over-coronavirus-fears-195814468.html"
     ],
     "actions": [
-        "open_letter"
+        "protest"
     ],
     "struggles": [
-        "pay_and_benefits",
-        "working conditions"
+        "working conditions",
+        "pay_and_benefits"
     ],
     "employment_types": [
-        "gig_workers"
+        "in_house_workers",
+        "blue_collar_workers"
     ],
-    "description": "Rideshare drivers, partnered with the Mobile Workers Alliance, sent a letter to the Los Angeles City Attorney calling for the city to mandate that Lyft and Uber provide personal protective equipment to their employees, including masks and hand sanitizer, as well as access to handwashing stations in certain locations such as the airport.",
+    "description": "For the second week in a row, workers at an Amazon warehouse in Staten Island held a walkout to protest the company's handling of the coronavirus crisis. Organizers state that they have heard of over 25 cases of coronavirus at the facility. In response, workers are calling for an extension of paid time off and improved sanitation in the facility. Last week, the company fired one of the organizers of the previous week's walkout. ",
     "online": null,
     "locations": [
-        "los angeles-california-usa"
+        "new york city-new york-usa"
     ],
     "companies": [
-        "lyft",
-        "uber"
+        "amazon"
     ],
-    "workers": null,
+    "workers": 50,
     "tags": [
         "coronavirus"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            40.722465,
+            -73.9977307
+        ]
+    ],
+    "addresses": [
+        "72, Spring Street, Little Italy, Manhattan, Manhattan Community Board 2, New York County, New York, 10013, United States of America"
+    ]
 }

@@ -1,32 +1,29 @@
 {
-    "id": 238,
-    "date": "2020/03/17",
+    "id": 237,
+    "date": "2020/03/13",
     "sources": [
-        "https://www.theverge.com/2020/3/17/21184495/google-employees-memo-contract-workers-coronavirus-covid-19, https://www.businessinsider.com/google-workers-raise-internal-concerns-tvc-policies-for-covid-19-2020-3"
+        "https://techcrunch.com/2020/03/13/online-code-collaboration-tool-glitch-votes-to-unionize/, https://cwa-union.org/news/releases/tech-workers-app-developer-glitch-vote-form-union-and-join-cwa-organizing-initiative"
     ],
     "actions": [
-        "protest"
+        "union_representation"
     ],
     "struggles": [
-        "unfair_labor_practices"
+        "na"
     ],
     "employment_types": [
         "white_collar_workers",
         "in_house_workers"
     ],
-    "description": "Pittsburgh's office Google contractors employed by an independent company called HCL Technologies, have been forced to come into the office, even as full-time Google employees were first allowed and then instructed to stay home. Some HCL contractors wore black in a protest at the Pittsburgh office\u2019s cafeteria on Monday. This action is linked to the memo that Googlers sent out on the same day.",
+    "description": "Employees of online software collaboration tool Glitch won their union with the Communications Workers of America (CWA). The move comes after 90% of the workers indicated their support for joining CWA and authorized CWA to be their bargaining representative. Glitch will join the CWA Local 1101, as part of the Campaign to Organize Digital Employees (CODE-CWA) initiative, which was launched back in January.",
     "online": null,
     "locations": [
-        "pittsburgh-pennsylvania-usa"
+        "new york city-new york-usa"
     ],
     "companies": [
-        "google"
+        "glitch"
     ],
-    "workers": 10,
-    "tags": [
-        "coworker_solidarity",
-        "coronavirus"
-    ],
+    "workers": null,
+    "tags": null,
     "author": [
         "organizejs"
     ],

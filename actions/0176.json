@@ -1,11 +1,12 @@
 {
-    "id": 177,
-    "date": "2019/09/05",
+    "id": 176,
+    "date": "2019/09/04",
     "sources": [
-        "https://abc7news.com/business/delivery-app-drivers-rally-for-higher-wages-at-sf-headquarters/5519192/"
+        "http://www.nordiclabourjournal.org/nyheter/news-2019/article.2019-09-09.4705108683, https://www.itfglobal.org/en/news/riders-setup-soup-kitchen-in-oslo-in-fight-decent-work"
     ],
     "actions": [
-        "protest"
+        "strike",
+        "union_drive"
     ],
     "struggles": [
         "pay_and_benefits"
@@ -13,33 +14,19 @@
     "employment_types": [
         "gig_workers"
     ],
-    "description": "Employees from Instacart, Doordash, and Postmates rallied outside of company headquarters to protest low wages. Doordash is rolling out a new pay model at the end of September which, it claims, will offer better pay for shoppers.",
+    "description": "In Oslo, hundreds of striking riders are cycling around to gather support for their demand for a collective agreement. The striking riders are organised in what used to be the Norwegian Transport Workers' Union, which is now part of Fellesforbundet. The strike has already had consequences for Foodora. The employees demand higher salaries and compensation for expenses incurred using their own private bikes at work. The striking riders cycle around Oslo every day in what they call Critical Mass, something that demonstrates the strike is ongoing and that it is growing day by day. The strike lasted 5 weeks.",
     "online": null,
     "locations": [
-        "san francisco-california-usa"
+        "oslo-norway"
     ],
     "companies": [
-        "postmates",
-        "doordash",
-        "instacart"
+        "foodera"
     ],
-    "workers": null,
+    "workers": 140,
     "tags": null,
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
-    "latlngs": [
-        [
-            37.7753423,
-            -122.39763106771915
-        ],
-        [
-            37.7834546,
-            -122.4080358
-        ]
-    ],
-    "addresses": [
-        "UserTesting, 5th Street, South of Market, San Francisco, San Francisco City and County, California, 94017, United States of America",
-        "Doordash HQ, Stevenson Street, Union Square, San Francisco, San Francisco City and County, California, 94104, United States of America"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

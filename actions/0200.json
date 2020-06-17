@@ -1,11 +1,10 @@
 {
-    "id": 201,
-    "date": "2019/10/29",
+    "id": 200,
+    "date": "2019/10/28",
     "sources": [
-        "https://www.geekwire.com/2019/tableau-employees-hold-rally-seattle-ask-leadership-sever-ties-ice-cbp/, https://medium.com/@tableauempethicsalliance/drawing-a-line-77606d6dafff"
+        "https://www.nytimes.com/2019/10/28/technology/facebook-mark-zuckerberg-political-ads.html, https://www.nytimes.com/2019/10/28/technology/facebook-mark-zuckerberg-letter.html?action=click&module=relatedlinks&pgtype=article"
     ],
     "actions": [
-        "protest",
         "open_letter"
     ],
     "struggles": [
@@ -14,29 +13,26 @@
     "employment_types": [
         "na"
     ],
-    "description": "Over 200 employees of the data visualization company Tableau protested their company's contracts with the federal government. They called on their company to drop these contracts in oppositio to the actions of ICE (U.S. Immigration and Customs Enforcement) throughout the US and at the US-Mexico border. An open letter was also published on Medium.",
-    "online": null,
+    "description": "More than 250 Facebook employees signed a letter to management protesting the company's decision to keep political ads, including those making false claims, on the social network during the 2020 US Presidential election. The letter was posted on Facebook Workplace, an internal communication service within the company.",
+    "online": true,
     "locations": [
-        "seattle-washington-usa"
+        "usa"
     ],
     "companies": [
-        "tableau"
+        "facebook"
     ],
-    "workers": 201,
-    "tags": [
-        "ice",
-        "immigration"
-    ],
+    "workers": 251,
+    "tags": null,
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            47.6476152,
-            -122.3383842
+            30.2691649,
+            -97.7455041
         ]
     ],
     "addresses": [
-        "Tableau Software - NorthEdge, North 34th Street, Eastlake, Fremont, Seattle, King County, Washington, 98103, United States of America"
+        "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States of America"
     ]
 }

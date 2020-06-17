@@ -6448,6 +6448,40 @@
         ]
     },
     {
+        "id": 272,
+        "date": "2019/08/01",
+        "sources": [
+            "https://www.cbc.ca/news/canada/toronto/food-courier-union-1.5239414, https://www.cbc.ca/news/canada/toronto/foodora-union-vote-ends-1.5244950, https://nowtoronto.com/food-and-drink/food/foodora-union-ruling/, https://nowtoronto.com/food-and-drink/food/foodora-leaving-canada/"
+        ],
+        "actions": [
+            "union_representation"
+        ],
+        "struggles": [
+            "pay_and_benefits",
+            "working conditions"
+        ],
+        "employment_types": [
+            "gig_workers"
+        ],
+        "description": "Foodora couriers in Toronto are preparing to vote on union certification in what could create Canada's first unionized workforce of app-based workers. An application by the Canadian Union of Postal Workers was filed last week with the Ontario Labour Relations Board, months after a campaign was launched that addressed working conditions. The union says couriers intend to negotiate a better compensation model, health and safety protections when workers are injured and recognition of basic rights of workers that aren't recognized by Foodora, which classifies them as independent contractors. Update: In February 2020, the Ontario Labour Relations Board rules that Foodora workers are dependent contractors and have the right to unionize. In April 2020, Foodora announced it was pulling out of the Canadian market. ",
+        "online": null,
+        "locations": [
+            "toronto-ontario-canada"
+        ],
+        "companies": [
+            "foodera"
+        ],
+        "workers": null,
+        "tags": [
+            "delivery_workers"
+        ],
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
         "id": 167,
         "date": "2019/08/07",
         "sources": [
@@ -10286,6 +10320,39 @@
         "addresses": [
             "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America"
         ]
+    },
+    {
+        "id": 271,
+        "date": "2020/05/23",
+        "sources": [
+            "https://hk.appledaily.com/breaking/20200527/6PTZ5EDM7HK2NQDMSGESGVGAQA/"
+        ],
+        "actions": [
+            "strike"
+        ],
+        "struggles": [
+            "pay_and_benefits"
+        ],
+        "employment_types": [
+            "gig_workers"
+        ],
+        "description": "Deliveroo workers went on strike for multiple days in Hong Kong over the company's new payment structure. ",
+        "online": null,
+        "locations": [
+            "hong kong-china"
+        ],
+        "companies": [
+            "deliveroo"
+        ],
+        "workers": 200,
+        "tags": [
+            "delivery_workers"
+        ],
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 264,

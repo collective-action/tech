@@ -1,42 +1,38 @@
 {
-    "id": 219,
-    "date": "2019/12/12",
+    "id": 218,
+    "date": "2019/12/10",
     "sources": [
-        "https://www.vice.com/en_us/article/dyggwv/e-scooter-workers-just-formed-their-first-union"
+        "https://www.vice.com/amp/en_us/article/ywaaay/injured-amazon-warehouse-workers-are-protesting-dangerous-work-speed, https://chicago.suntimes.com/metro-state/2019/12/10/21005210/amazon-employees-hurt-injured-work-activists"
     ],
     "actions": [
-        "union_representation"
+        "protest"
     ],
     "struggles": [
-        "pay_and_benefits",
         "working conditions"
     ],
     "employment_types": [
-        "blue_collar_workers",
-        "in_house_workers"
+        "blue_collar_workers"
     ],
-    "description": "E-scooter workers in San Francisco at the Ford-owned start-up Spin joined a union on Wednesday\u2014a first in the fledgling industry. Roughly 40 Spin workers\u2014who collect, repair, deploy, and charge Spin\u2019s fleet of more than 500 electric scooters on the streets of San Francisco\u2014are now part of Teamsters Local 665, as first reported by the San Francisco Examiner. The union says workers want to negotiate for better pay, health care, and retirement security in their first contract.",
+    "description": "Injured former Amazon warehouse workers and labor organizers in Chicago are protesting dangerous work speed and high injury rates today outside one of the company\u2019s brick-and-mortar stores in downtown Chicago. The action coincides with the release of a new report on injury rates in one of the region\u2019s largest and most dangerous warehouses, MDW7, the first in Illinois with automated robots. The report and protest in Chicago coincides with the launch of a national coalition, known as Athena, of three dozen grassroots labor, antitrust, and digital rights organizations\u2014the first unified resistance effort in the United States against the delivery giant.",
     "online": null,
     "locations": [
-        "san francisco-california-usa"
+        "chicago-illinois-usa"
     ],
     "companies": [
-        "spin"
+        "amazon"
     ],
     "workers": 40,
-    "tags": [
-        "teamster"
-    ],
+    "tags": null,
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            37.7841938,
-            -122.3992122
+            41.84040105,
+            -87.68351928672685
         ]
     ],
     "addresses": [
-        "SPiN SF, Folsom Street, South of Market, San Francisco, San Francisco City and County, California, 94105, United States of America"
+        "Amazon Distribution, South Western Avenue, Lower West Side, Illinois Medical District, Chicago, Cook County, Illinois, 60643, United States of America"
     ]
 }

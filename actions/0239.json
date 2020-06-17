@@ -1,42 +1,42 @@
 {
-    "id": 240,
+    "id": 239,
     "date": "2020/03/17",
     "sources": [
-        "https://medium.com/@amazonemployeesclimatejustice/coronavirus-amazon-log-cfdc9a6f4437, https://medium.com/@amazoniansunitednyc/we-amazon-workers-demand-coronavirus-protections-16f28ad8b15f"
+        "https://www.theverge.com/2020/3/17/21184495/google-employees-memo-contract-workers-coronavirus-covid-19, https://www.businessinsider.com/google-workers-raise-internal-concerns-tvc-policies-for-covid-19-2020-3"
     ],
     "actions": [
         "open_letter"
     ],
     "struggles": [
-        "working conditions"
+        "unfair_labor_practices"
     ],
     "employment_types": [
-        "blue_collar_workers",
-        "white_collar_workers"
+        "white_collar_workers",
+        "in_house_workers"
     ],
-    "description": "Over 5000 Amazon employees signed an open letter to Jeff Bezos calling for improved working conditions during the coronavirus pandemic, including paid sick leave regardless of diagnosis, child care, and 1.5x hazard pay. Since then, on March 22nd, the letter has been updated to include a call for transparency on any diagnosed covid-19 cases at the facilities, a halt on the shipping of non-essential items, and medical coverage to part-time employees. On March 27th, Amazon Employees for Climate Justice emailed its constituents (mostly corporate employees) to encourage them to sign the open letter, which purportedly lead to an additional 580 signatures.",
-    "online": null,
+    "description": "A group of Google employees has sent a memo to company leadership demanding stronger commitments to protect the more vulnerable members of Google\u2019s workforce, primarily its contract workers, during the ongoing coronavirus crisis. The memo notes that some Google contractors, like those in the company\u2019s Pittsburgh office employed by an independent company called HCL Technologies, have been forced to come into the office, even as full-time Google employees were first allowed and then instructed to stay home.",
+    "online": true,
     "locations": [
-        "new york city-new york-usa"
+        "usa"
     ],
     "companies": [
-        "amazon"
+        "google"
     ],
-    "workers": 5210,
+    "workers": null,
     "tags": [
-        "coronavirus",
-        "coworker_solidarity"
+        "coworker_solidarity",
+        "coronavirus"
     ],
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
     "latlngs": [
         [
-            40.722465,
-            -73.9977307
+            42.3627717,
+            -71.087257
         ]
     ],
     "addresses": [
-        "72, Spring Street, Little Italy, Manhattan, Manhattan Community Board 2, New York County, New York, 10013, United States of America"
+        "Google, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
     ]
 }

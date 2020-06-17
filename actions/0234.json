@@ -1,54 +1,52 @@
 {
-    "id": 235,
-    "date": "2020/03/06",
+    "id": 234,
+    "date": "2020/02/29",
     "sources": [
-        "https://fortune.com/2020/03/10/gig-workers-petition-for-sick-leave-coronavirus/, https://www.coworker.org/petitions/demand-gig-economy-companies-give-paid-sick-time-off-during-coronavirus, https://www.fastcompany.com/90472535/coronavirus-paid-sick-leave"
+        "https://www.buzzfeednews.com/article/carolineodonovan/warehouse-workers-say-they-caught-amazon-breaking-the-law, https://www.coworker.org/petitions/amazon-give-us-fair-compensation-a-fair-workplace-and-fair-accommodations?just_launched=true"
     ],
     "actions": [
         "open_letter"
     ],
     "struggles": [
-        "working conditions",
-        "unfair_labor_practices"
+        "unfair_labor_practices",
+        "pay_and_benefits"
     ],
     "employment_types": [
-        "gig_workers"
+        "blue_collar_workers",
+        "in_house_workers"
     ],
-    "description": "Gig Workers Rising launched a petition calling on the heads of the biggest gig economy platforms to give workers paid sick leave amid the coronavirus outbreak. That petition garnered more than 900 signatures. In the petition, the workers say they are often on the \u201cfront lines of exposure,\u201d given that every day they come in contact with various people, including those arriving at airports or heading to the hospital. Without paid sick leave, the gig workers say they are often forced to choose between making ends meet and taking care of their health, and therefore the health of the company's customers. ",
-    "online": true,
+    "description": "Over the past few months, Amazon workers across the country have called on the company to provide part-time employees with paid sick leave. Amazon workers in New York City have started an online petition on coworker.org to advocate for paid time off, paid sick leave, and a process to appeal final warnings. Over 1,200 people have signed the petition. Workers at the Skokie, Illinois facility have written a letter to management and are circulating a petition demanding backdated paid time off. Though many workers log more than 20 hours a week, they are still recognized as part-time employees of the company. These events follow similar actions taken by Amazon workers in Sacramento late in 2019.",
+    "online": null,
     "locations": [
-        "california-usa"
+        "new york city-new york-usa",
+        "skokie-illinois-usa",
+        "sacramento-california-usa"
     ],
     "companies": [
-        "uber",
-        "lyft",
-        "instacart",
-        "doordash"
+        "amazon"
     ],
-    "workers": 900,
-    "tags": [
-        "coronavirus"
-    ],
+    "workers": 1260,
+    "tags": null,
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            37.7899898,
-            -122.3999799
+            40.722465,
+            -73.9977307
         ],
         [
-            37.7759881,
-            -122.3919991
+            42.0174292,
+            -87.71964605734546
         ],
         [
-            37.7834546,
-            -122.4080358
+            38.6767343,
+            -121.4948028
         ]
     ],
     "addresses": [
-        "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
-        "Lyft, Berry Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States of America",
-        "Doordash HQ, Stevenson Street, Union Square, San Francisco, San Francisco City and County, California, 94104, United States of America"
+        "72, Spring Street, Little Italy, Manhattan, Manhattan Community Board 2, New York County, New York, 10013, United States of America",
+        "3639, West Howard Street, Skokie, Cook County, Illinois, 60076, United States of America",
+        "Amazon Avenue, Sacramento, Sacramento County, California, 95835, United States of America"
     ]
 }

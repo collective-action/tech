@@ -1,40 +1,49 @@
 {
-    "id": 211,
-    "date": "2019/11/22",
+    "id": 210,
+    "date": "2019/11/20",
     "sources": [
-        "https://techcrunch.com/2019/11/21/google-employees-will-rally-in-protest-of-alleged-worker-retaliation/, https://www.vox.com/recode/2019/11/22/20978537/google-workers-suspension-employee-activists-protest"
+        "https://www.vox.com/recode/2019/12/31/21043467/google-union-cafeteria-workers-unionized-alphabet-silicon-valley-mountainview, https://www.cnbctv18.com/politics/over-2000-underpaid-overworked-google-workers-unionised-4974661.htm"
     ],
     "actions": [
-        "protest"
+        "union_representation",
+        "union_drive"
     ],
     "struggles": [
-        "unfair_labor_practices"
+        "pay_and_benefits"
     ],
     "employment_types": [
-        "white_collar_workers"
+        "contract_workers",
+        "blue_collar_workers"
     ],
-    "description": "A group of roughly 200 Googler and other protesters rallied outside of the search giant\u2019s offices in San Francisco on Friday, demanding the company reinstate two colleagues who they say were unjustly punished for workplace organizing at the company \u2014 calling it an attack on accountability and transparency in tech. Google has said the employees were placed on administrative leave for violating company policies about accessing sensitive internal documents and monitoring employees\u2019 calendar events. They accuse management of targeting Rebecca Rivers and Laurence Berland, because of their involvement in worker activism at the company. Rivers helped put together a petition against Google\u2019s work for US immigration enforcement agency Customs and Border Patrol (CBP), and Berland was involved with employee protests about hate speech policies on YouTube. Protesters are demanding that Rivers and Berland be reinstated at work immediately. Organizers called their suspension an \u201cattempt to silence workers,\u201d in an email about the rally.",
+    "description": "Approximately 2,300 contract workers employed in food service at Google have voted to unionize under a local chapter of Unite Here. Workers expressed dissatisfaction with their low wages, which start at $35,000 in the Bay Area, and lack of benefits compared to full-time Google employees. Some reported incidents of discrimination and bullying. The workers are officially employed by Compass Group, a third party contractor. The vote followed a two year effort.",
     "online": null,
     "locations": [
+        "mountain view-california-usa",
         "san francisco-california-usa"
     ],
     "companies": [
-        "google"
+        "google",
+        "compass_group"
     ],
-    "workers": 200,
+    "workers": 2300,
     "tags": [
-        "coworker_solidarity"
+        "unite_here"
     ],
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
     "latlngs": [
+        [
+            37.41897865,
+            -122.08237793989416
+        ],
         [
             37.41897865,
             -122.08237793989416
         ]
     ],
     "addresses": [
+        "Google, Mountain View, Santa Clara County, California, United States of America",
         "Google, Mountain View, Santa Clara County, California, United States of America"
     ]
 }

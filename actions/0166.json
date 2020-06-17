@@ -1,33 +1,33 @@
 {
-    "id": 167,
-    "date": "2019/08/07",
+    "id": 272,
+    "date": "2019/08/01",
     "sources": [
-        "https://www.indybay.org/newsitems/2019/08/07/18825265.php"
+        "https://www.cbc.ca/news/canada/toronto/food-courier-union-1.5239414, https://www.cbc.ca/news/canada/toronto/foodora-union-vote-ends-1.5244950, https://nowtoronto.com/food-and-drink/food/foodora-union-ruling/, https://nowtoronto.com/food-and-drink/food/foodora-leaving-canada/"
     ],
     "actions": [
-        "protest"
+        "union_representation"
     ],
     "struggles": [
-        "ethics"
+        "pay_and_benefits",
+        "working conditions"
     ],
     "employment_types": [
-        "white_collar_workers"
+        "gig_workers"
     ],
-    "description": "Dozens of WalMart tech workers rallied in San Bruno to protest gun violence and continued sale of weapons by WalMart which is the largest distributor of guns in the United States. They also had a moment of silence for the victims and families murdered and injured in the violent racist attacks. There are over 1,000 workers at the largest tech center of WalMart in the world. This was the first collective action of WalMart tech workers in the United States. They were also joined by a delegation of Youtube workers in solidarity. Youtube workers have also faced violent attacks at their work location in San Bruno.",
+    "description": "Foodora couriers in Toronto are preparing to vote on union certification in what could create Canada's first unionized workforce of app-based workers. An application by the Canadian Union of Postal Workers was filed last week with the Ontario Labour Relations Board, months after a campaign was launched that addressed working conditions. The union says couriers intend to negotiate a better compensation model, health and safety protections when workers are injured and recognition of basic rights of workers that aren't recognized by Foodora, which classifies them as independent contractors. Update: In February 2020, the Ontario Labour Relations Board rules that Foodora workers are dependent contractors and have the right to unionize. In April 2020, Foodora announced it was pulling out of the Canadian market. ",
     "online": null,
     "locations": [
-        "san bruno-california-usa"
+        "toronto-ontario-canada"
     ],
     "companies": [
-        "walmart"
+        "foodera"
     ],
-    "workers": 24,
+    "workers": null,
     "tags": [
-        "industry_solidarity",
-        "gun_violence"
+        "delivery_workers"
     ],
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
     "latlngs": null,
     "addresses": null

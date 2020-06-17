@@ -1,31 +1,31 @@
 {
-    "id": 176,
-    "date": "2019/09/04",
+    "id": 175,
+    "date": "2019/08/30",
     "sources": [
-        "http://www.nordiclabourjournal.org/nyheter/news-2019/article.2019-09-09.4705108683, https://www.itfglobal.org/en/news/riders-setup-soup-kitchen-in-oslo-in-fight-decent-work"
+        "https://www.washingtonpost.com/technology/2019/08/30/google-contract-workers-vote-form-union-amid-employee-discord-over-treatment/"
     ],
     "actions": [
-        "strike",
-        "union_drive"
+        "union_representation"
     ],
     "struggles": [
-        "pay_and_benefits"
+        "pay_and_benefits",
+        "working conditions"
     ],
     "employment_types": [
-        "gig_workers"
+        "contract_workers"
     ],
-    "description": "In Oslo, hundreds of striking riders are cycling around to gather support for their demand for a collective agreement. The striking riders are organised in what used to be the Norwegian Transport Workers' Union, which is now part of Fellesforbundet. The strike has already had consequences for Foodora. The employees demand higher salaries and compensation for expenses incurred using their own private bikes at work. The striking riders cycle around Oslo every day in what they call Critical Mass, something that demonstrates the strike is ongoing and that it is growing day by day. The strike lasted 5 weeks.",
+    "description": "Google contract workers in Pittsburgh voted to unionize and petitioned the National Labor Relations Board to set up a representation election. Two-thirds of the workers, formally employed by HCL America, were in favor of the action. United Steelworkers helped to organize the union drive through their Pittsburgh Association of Tech Professionals (PATP) project.",
     "online": null,
     "locations": [
-        "oslo-norway"
+        "pittsburgh-pennsylvania-usa"
     ],
     "companies": [
-        "foodera"
+        "google"
     ],
-    "workers": 140,
+    "workers": 90,
     "tags": null,
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
     "latlngs": null,
     "addresses": null

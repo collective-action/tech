@@ -1,29 +1,29 @@
 {
-    "id": 265,
-    "date": "2020/06/01",
+    "id": 271,
+    "date": "2020/05/23",
     "sources": [
-        "https://www.nytimes.com/2020/06/01/technology/facebook-employee-protest-trump.html, https://www.washingtonpost.com/business/2020/06/01/facebook-zuckerberg-donation-trump/"
+        "https://hk.appledaily.com/breaking/20200527/6PTZ5EDM7HK2NQDMSGESGVGAQA/"
     ],
     "actions": [
-        "protest"
+        "strike"
     ],
     "struggles": [
-        "ethics"
+        "pay_and_benefits"
     ],
     "employment_types": [
-        "na"
+        "gig_workers"
     ],
-    "description": "Facebook employees hosted a virtual walkout, refusing to work for the time of the event, in protest of the company's failure to take a tougher stance on Trump's posts in reaction to the George Floyd protests. Many employees also expressed solidarity with the Black Lives Matter movement. The New York Times reports that employees have also circulated petitions internally and threatened to resign in response to the event. The previous week Twitter added fact-check and warning labels to two tweets from the president that broke Twitter\u2019s rules around voter suppression and glorification of violence.",
-    "online": true,
-    "locations": null,
+    "description": "Deliveroo workers went on strike for multiple days in Hong Kong over the company's new payment structure. ",
+    "online": null,
+    "locations": [
+        "hong kong-china"
+    ],
     "companies": [
-        "facebook"
+        "deliveroo"
     ],
-    "workers": null,
+    "workers": 200,
     "tags": [
-        "antiracism",
-        "blm",
-        "trump"
+        "delivery_workers"
     ],
     "author": [
         "nataliyaned"

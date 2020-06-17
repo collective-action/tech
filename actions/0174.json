@@ -1,32 +1,46 @@
 {
-    "id": 175,
-    "date": "2019/08/30",
+    "id": 174,
+    "date": "2019/08/22",
     "sources": [
-        "https://www.washingtonpost.com/technology/2019/08/30/google-contract-workers-vote-form-union-amid-employee-discord-over-treatment/"
+        "https://www.vice.com/en_us/article/a35g8k/hundreds-of-uber-drivers-will-caravan-600-miles-across-california-to-demand-better-working-conditions, https://techcrunch.com/2019/08/22/hundreds-of-uber-and-lyft-drivers-to-launch-a-protest-caravan-across-california/"
     ],
     "actions": [
-        "union_representation"
+        "protest"
     ],
     "struggles": [
         "pay_and_benefits",
         "working conditions"
     ],
     "employment_types": [
-        "contract_workers"
+        "gig_workers"
     ],
-    "description": "Google contract workers in Pittsburgh voted to unionize and petitioned the National Labor Relations Board to set up a representation election. Two-thirds of the workers, formally employed by HCL America, were in favor of the action. United Steelworkers helped to organize the union drive through their Pittsburgh Association of Tech Professionals (PATP) project.",
+    "description": "Gig Workers Rising and Mobile Workers Alliance have organized a protest caravan of rideshare workers to advocate for AB5, a bill in the California State Legislature that would require rideshare companies to recognize their drivers as employees. The caravan plans to drive roughly 600 miles, from Southern California to San Francisco to Sacramento, as part of their action.",
     "online": null,
     "locations": [
-        "pittsburgh-pennsylvania-usa"
+        "sacramento-california-usa",
+        "san francisco-california-usa"
     ],
     "companies": [
-        "google"
+        "uber",
+        "lyft"
     ],
-    "workers": 90,
+    "workers": 200,
     "tags": null,
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.7899898,
+            -122.3999799
+        ],
+        [
+            37.7759881,
+            -122.3919991
+        ]
+    ],
+    "addresses": [
+        "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "Lyft, Berry Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States of America"
+    ]
 }

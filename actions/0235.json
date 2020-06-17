@@ -1,32 +1,32 @@
 {
-    "id": 236,
-    "date": "2020/03/12",
+    "id": 235,
+    "date": "2020/03/06",
     "sources": [
-        "https://www.vice.com/en_us/article/n7jkdx/baristas-at-slack-say-theyve-won-90-days-of-severance, https://www.theverge.com/2020/3/12/21177319/slack-paying-contractors-after-laid-off-baristas-send-letter"
+        "https://fortune.com/2020/03/10/gig-workers-petition-for-sick-leave-coronavirus/, https://www.coworker.org/petitions/demand-gig-economy-companies-give-paid-sick-time-off-during-coronavirus, https://www.fastcompany.com/90472535/coronavirus-paid-sick-leave"
     ],
     "actions": [
-        "open_letter",
-        "legal_action"
+        "open_letter"
     ],
     "struggles": [
-        "job_security"
+        "working conditions",
+        "unfair_labor_practices"
     ],
     "employment_types": [
-        "blue_collar_workers",
-        "contract_workers"
+        "gig_workers"
     ],
-    "description": "A group of five baristas who operate the espresso machines at Slack\u2019s corporate headquarters in San Francisco learned on March 6 that they were losing their contracted positions just prior to a decision by the company to move to remote operations to curb the spread of COVID-19. The baristas claim that Slack caught wind of their intention to criticize the company publicly\u2014and in what they claim to be an organizing victory, they learned that their severance would be extended to 90 days.",
-    "online": null,
+    "description": "Gig Workers Rising launched a petition calling on the heads of the biggest gig economy platforms to give workers paid sick leave amid the coronavirus outbreak. That petition garnered more than 900 signatures. In the petition, the workers say they are often on the \u201cfront lines of exposure,\u201d given that every day they come in contact with various people, including those arriving at airports or heading to the hospital. Without paid sick leave, the gig workers say they are often forced to choose between making ends meet and taking care of their health, and therefore the health of the company's customers. ",
+    "online": true,
     "locations": [
-        "san francisco-california-usa"
+        "california-usa"
     ],
     "companies": [
-        "slack"
+        "uber",
+        "lyft",
+        "instacart",
+        "doordash"
     ],
-    "workers": 5,
+    "workers": 900,
     "tags": [
-        "coworker_solidarity",
-        "fund_raising",
         "coronavirus"
     ],
     "author": [
@@ -34,11 +34,21 @@
     ],
     "latlngs": [
         [
-            35.2960341,
-            -120.6532192
+            37.7899898,
+            -122.3999799
+        ],
+        [
+            37.7759881,
+            -122.3919991
+        ],
+        [
+            37.7834546,
+            -122.4080358
         ]
     ],
     "addresses": [
-        "Slack Street, San Luis Obispo, San Luis Obispo County, California, 93410, United States of America"
+        "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "Lyft, Berry Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States of America",
+        "Doordash HQ, Stevenson Street, Union Square, San Francisco, San Francisco City and County, California, 94104, United States of America"
     ]
 }

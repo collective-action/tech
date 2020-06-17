@@ -1,49 +1,41 @@
 {
-    "id": 210,
-    "date": "2019/11/20",
+    "id": 209,
+    "date": "2019/11/19",
     "sources": [
-        "https://www.vox.com/recode/2019/12/31/21043467/google-union-cafeteria-workers-unionized-alphabet-silicon-valley-mountainview, https://www.cnbctv18.com/politics/over-2000-underpaid-overworked-google-workers-unionised-4974661.htm"
+        "https://www.cnbc.com/2019/11/19/google-employees-protested-security-team-interrogation-memo-says.html"
     ],
     "actions": [
-        "union_representation",
-        "union_drive"
+        "protest"
     ],
     "struggles": [
-        "pay_and_benefits"
+        "unfair_labor_practices"
     ],
     "employment_types": [
-        "contract_workers",
-        "blue_collar_workers"
+        "white_collar_workers"
     ],
-    "description": "Approximately 2,300 contract workers employed in food service at Google have voted to unionize under a local chapter of Unite Here. Workers expressed dissatisfaction with their low wages, which start at $35,000 in the Bay Area, and lack of benefits compared to full-time Google employees. Some reported incidents of discrimination and bullying. The workers are officially employed by Compass Group, a third party contractor. The vote followed a two year effort.",
+    "description": "Google employees held a protest in San Francisco days before the company ended its long-held TGIF meetings, according to an internal memo obtained by CNBC. Some 20 people organized at Google's office in downtown San Francisco to protest the company placing Rebecca Rivers and Laurence Berland on sudden and indefinite administrative leave the prior week, the memo states. Authors of the memo, which was circulated internally at Google on Monday, claimed the actions were an act of retaliation against the workers.",
     "online": null,
     "locations": [
-        "mountain view-california-usa",
         "san francisco-california-usa"
     ],
     "companies": [
-        "google",
-        "compass_group"
+        "google"
     ],
-    "workers": 2300,
+    "workers": 20,
     "tags": [
-        "unite_here"
+        "coworker_solidartiry",
+        "retaliation"
     ],
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
     "latlngs": [
-        [
-            37.41897865,
-            -122.08237793989416
-        ],
         [
             37.41897865,
             -122.08237793989416
         ]
     ],
     "addresses": [
-        "Google, Mountain View, Santa Clara County, California, United States of America",
         "Google, Mountain View, Santa Clara County, California, United States of America"
     ]
 }

@@ -1,45 +1,39 @@
 {
-    "id": 187,
-    "date": "2019/09/25",
+    "id": 186,
+    "date": "2019/09/23",
     "sources": [
-        "http://www.browndailyherald.com/2019/09/26/students-protest-companies-tied-ice-career-fair/"
+        "https://www.vice.com/en_us/article/vb53wy/45-google-employees-explain-how-they-were-retaliated-against-for-reporting-abuse"
     ],
     "actions": [
-        "protest",
-        "open_letter"
+        "protest"
     ],
     "struggles": [
-        "ethics"
+        "discrimination"
     ],
     "employment_types": [
-        "na"
+        "white_collar_workers"
     ],
-    "description": "Students at Brown demonstrated against four companies (Amazon, Microsoft, Palantir, and Ernst & Young) at an on-campus career fair. All four companies have done business with ICE. The students have also started an online petition to protest Brown's connections to these four companies. ",
-    "online": null,
+    "description": "Google employees created an internal document describing cases of discrimination and retaliation by the company. 45 cases were reported.",
+    "online": true,
     "locations": [
-        "providence-rhode island-usa"
+        "usa",
+        "online"
     ],
     "companies": [
-        "palantir",
-        "microsoft",
-        "amazon"
+        "google"
     ],
-    "workers": null,
-    "tags": [
-        "students",
-        "immigration",
-        "ice"
-    ],
+    "workers": 45,
+    "tags": null,
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            41.5286839,
-            -71.2330488
+            42.3627717,
+            -71.087257
         ]
     ],
     "addresses": [
-        "Amazon Drive, South Portsmouth, Portsmouth, Rhode Island, United States of America"
+        "Google, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
     ]
 }

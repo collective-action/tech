@@ -1,27 +1,33 @@
 {
-    "id": 181,
-    "date": "2019/09/13",
+    "id": 180,
+    "date": "2019/09/12",
     "sources": [
-        "https://onezero.medium.com/leak-of-microsoft-salaries-shows-fight-for-higher-compensation-3010c589b41e"
+        "https://www.law360.com/employment/articles/1255452/uber-lyft-drivers-fail-to-win-employee-status-via-injunction"
     ],
     "actions": [
-        "protest"
+        "legal_action"
     ],
     "struggles": [
         "pay_and_benefits",
-        "working conditions"
+        "unfair_labor_practices"
     ],
     "employment_types": [
-        "white_collar_workers"
+        "contract_workers",
+        "gig_workers"
     ],
-    "description": "Microsoft employees are using a shared Google spreadsheet to compile data on salary and bonuses. The spreadsheet also makes note of employee level, or rank, within the company in an attempt to encourage greater transparency on compensation.",
-    "online": true,
-    "locations": null,
+    "description": "Uber drivers filed an injunction to classify workers as employees and to compensate them for overtime pay, paid sick leave and reimbursement for business expenses. On September 17, Lyft drivers filed a similar injunction. Update: New motions have been added to the injunction in March 2020 in light of the coronavirus outbreak. On March 20, 2020, a Massachusetts federal judge ruled that the companies would not be required to classify their drivers as employees.",
+    "online": null,
+    "locations": [
+        "massachusetts-usa"
+    ],
     "companies": [
-        "microsoft"
+        "uber",
+        "lyft"
     ],
-    "workers": 400,
-    "tags": null,
+    "workers": 2,
+    "tags": [
+        "coronavirus"
+    ],
     "author": [
         "nataliyaned"
     ],

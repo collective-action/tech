@@ -1,41 +1,40 @@
 {
-    "id": 212,
-    "date": "2019/11/25",
+    "id": 211,
+    "date": "2019/11/22",
     "sources": [
-        "https://www.vox.com/the-goods/2019/11/27/20985691/amazon-workers-black-friday-2019, https://nypost.com/2019/11/25/workers-at-amazons-staten-island-warehouse-to-hold-rally-over-high-injury-rates/"
+        "https://techcrunch.com/2019/11/21/google-employees-will-rally-in-protest-of-alleged-worker-retaliation/, https://www.vox.com/recode/2019/11/22/20978537/google-workers-suspension-employee-activists-protest"
     ],
     "actions": [
-        "open_letter",
         "protest"
     ],
     "struggles": [
-        "working conditions",
-        "pay_and_benefits"
+        "unfair_labor_practices"
     ],
     "employment_types": [
-        "blue_collar_workers",
-        "in_house_workers"
+        "white_collar_workers"
     ],
-    "description": "Over a hundred Amazon workers and their supporters gathered outside the facility to protest working conditions that they say only worsen as the e-tailing giant gears up to deliver a rush of packages ahead of Christmas and Hanukkah. 600 workers at an Amazon fulfillment center in New York signed a letter and protested working conditions. Amazon workers face injury rates over three times the industry average, and are asking for increased break time and better transit benefits.",
+    "description": "A group of roughly 200 Googler and other protesters rallied outside of the search giant\u2019s offices in San Francisco on Friday, demanding the company reinstate two colleagues who they say were unjustly punished for workplace organizing at the company \u2014 calling it an attack on accountability and transparency in tech. Google has said the employees were placed on administrative leave for violating company policies about accessing sensitive internal documents and monitoring employees\u2019 calendar events. They accuse management of targeting Rebecca Rivers and Laurence Berland, because of their involvement in worker activism at the company. Rivers helped put together a petition against Google\u2019s work for US immigration enforcement agency Customs and Border Patrol (CBP), and Berland was involved with employee protests about hate speech policies on YouTube. Protesters are demanding that Rivers and Berland be reinstated at work immediately. Organizers called their suspension an \u201cattempt to silence workers,\u201d in an email about the rally.",
     "online": null,
     "locations": [
-        "staten island-new york city-new york-usa"
+        "san francisco-california-usa"
     ],
     "companies": [
-        "amazon"
+        "google"
     ],
-    "workers": 600,
-    "tags": null,
+    "workers": 200,
+    "tags": [
+        "coworker_solidarity"
+    ],
     "author": [
-        "ericandrewlewis"
+        "organizejs"
     ],
     "latlngs": [
         [
-            40.6193387,
-            -74.0727749
+            37.41897865,
+            -122.08237793989416
         ]
     ],
     "addresses": [
-        "Amazon Court, Clifton, Todt Hill, New York, Richmond County, New York, 10304, United States of America"
+        "Google, Mountain View, Santa Clara County, California, United States of America"
     ]
 }

@@ -1,11 +1,11 @@
 {
-    "id": 203,
-    "date": "2019/11/03",
+    "id": 202,
+    "date": "2019/11/01",
     "sources": [
-        "https://sf.eater.com/2019/11/4/20947832/instacart-shoppers-strike, https://medium.com/@vanessabain/dear-instacart-customers-664dbb59016e"
+        "https://mashable.com/article/instacart-shoppers-work-stoppage-open-letter-apoorva-mehta/, https://medium.com/@nopenever50/dear-apoorva-mehta-founder-and-ceo-of-instacart-944ca4db6ad0"
     ],
     "actions": [
-        "strike"
+        "open_letter"
     ],
     "struggles": [
         "pay_and_benefits"
@@ -13,15 +13,13 @@
     "employment_types": [
         "gig_workers"
     ],
-    "description": "Thousands' of Instacart shoppers went on strike from Nov. 3rd to Nov. 5th to protest the company's new tipping policy, which returns a portion of tips to the corporation rather than the workers. Participating shoppers refused to answer requests on the app. Instacart workers are considered contractors currently but this will change on January 1st in the state of California under AB5 legislation.",
-    "online": null,
-    "locations": [
-        "usa"
-    ],
+    "description": "Instacart workers circulated an open letter on Medium prior to a walkout scheduled for Nov. 3rd to Nov. 5th. Employees are protesting the company's history of systematically devaluing labor, using algorithms to reduce pay to employees and changing tipping structures to return profit to the company. Over 200 workers have signed the letter.",
+    "online": true,
+    "locations": null,
     "companies": [
         "instacart"
     ],
-    "workers": 1000,
+    "workers": 212,
     "tags": null,
     "author": [
         "nataliyaned"

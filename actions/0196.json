@@ -1,31 +1,46 @@
 {
-    "id": 197,
+    "id": 196,
     "date": "2019/10/03",
     "sources": [
-        "https://english.kyodonews.net/news/2019/10/d2198529f08b-update1-uber-eats-delivery-staff-in-japan-form-labor-union.html, https://www.japantimes.co.jp/news/2019/10/03/business/corporate-business/uber-eats-delivery-staff-japan-form-labor-union/#.xaurdohkihs"
+        "https://www.washingtonpost.com/technology/2019/10/09/employees-ask-github-cancel-ice-contract-we-cannot-offset-human-lives-with-money/, https://www.washingtonpost.com/context/letter-from-github-employees-to-ceo-about-the-company-s-ice-contract/fb280de9-2bc3-40d5-b1a5-e3b954bf0d25/, https://www.vox.com/recode/2019/10/9/20906605/github-ice-contract-immigration-ice-dan-friedman"
     ],
     "actions": [
-        "union_representation"
+        "open_letter"
     ],
     "struggles": [
-        "working conditions"
+        "ethics"
     ],
     "employment_types": [
-        "gig_workers"
+        "white_collar_workers"
     ],
-    "description": "Staff in Japan of ride-hailing company Uber's food delivery service formed a labor union Thursday to negotiate contract terms and seek improved working conditions. The union, formed by 17 platformers, also plans to request the Japanese unit of the U.S. company to ensure fair treatment among delivery riders and review how distance-based wages are set.",
-    "online": null,
+    "description": "After GitHub CEO Nat Friedman wrote in an internal letter on Tuesday that the company plans to renew a contract worth $200,000 with ICE to license its GitHub Enterprise Server, GitHub's employees began publicly pressuring their company's leadership to stop working with the immigration agency over human rights concerns.",
+    "online": true,
     "locations": [
-        "tokyo-japan"
+        "usa"
     ],
     "companies": [
-        "uber"
+        "github",
+        "microsoft"
     ],
-    "workers": 17,
-    "tags": null,
+    "workers": 150,
+    "tags": [
+        "ice"
+    ],
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.7821769,
+            -122.3912458
+        ],
+        [
+            35.139622349999996,
+            -80.92306993327955
+        ]
+    ],
+    "addresses": [
+        "GitHub, Colin P. Kelly Junior Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States of America",
+        "Microsoft, Yorkwood, Charlotte, Mecklenburg County, North Carolina, United States of America"
+    ]
 }

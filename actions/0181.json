@@ -1,43 +1,30 @@
 {
-    "id": 182,
-    "date": "2019/09/16",
+    "id": 181,
+    "date": "2019/09/13",
     "sources": [
-        "https://www.msn.com/en-us/news/us/at-uc-berkeley-brown-and-yale-students-are-fighting-to-keep-palantir-off-campus-over-its-ice-contracts/ar-aahtquj, https://notechforice.com/20190916-2/"
+        "https://onezero.medium.com/leak-of-microsoft-salaries-shows-fight-for-higher-compensation-3010c589b41e"
     ],
     "actions": [
-        "open_letter"
+        "protest"
     ],
     "struggles": [
-        "ethics"
+        "pay_and_benefits",
+        "working conditions"
     ],
     "employment_types": [
-        "na"
+        "white_collar_workers"
     ],
-    "description": "Over 2000 students from at least two dozen universities have signed a petition calling for universities to cut their ties with Palantir and vowing not to work for the company due to their connections with ICE. The petition was organized by Mijente and has concided with multiple protests on college campuses in recent weeks, coinciding with recruiting season. ",
-    "online": null,
-    "locations": [
-        "usa"
-    ],
+    "description": "Microsoft employees are using a shared Google spreadsheet to compile data on salary and bonuses. The spreadsheet also makes note of employee level, or rank, within the company in an attempt to encourage greater transparency on compensation.",
+    "online": true,
+    "locations": null,
     "companies": [
-        "palantir"
+        "microsoft"
     ],
-    "workers": 2000,
-    "tags": [
-        "students",
-        "immigration",
-        "ice",
-        "mijente"
-    ],
+    "workers": 400,
+    "tags": null,
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            37.4440869,
-            -122.16287540411753
-        ]
-    ],
-    "addresses": [
-        "Palantir, University Avenue, Southgate, Palo Alto, Santa Clara County, California, 94301, United States of America"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

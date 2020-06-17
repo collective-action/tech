@@ -1,52 +1,40 @@
 {
-    "id": 234,
-    "date": "2020/02/29",
+    "id": 233,
+    "date": "2020/02/20",
     "sources": [
-        "https://www.buzzfeednews.com/article/carolineodonovan/warehouse-workers-say-they-caught-amazon-breaking-the-law, https://www.coworker.org/petitions/amazon-give-us-fair-compensation-a-fair-workplace-and-fair-accommodations?just_launched=true"
+        "https://www.marketwatch.com/story/hundreds-of-oracle-workers-stage-walkout-to-protest-larry-ellisons-fundraiser-for-trump-2020-02-20, https://www.marketwatch.com/story/hundreds-of-oracle-workers-stage-walkout-to-protest-larry-ellisons-fundraiser-for-trump-2020-02-20"
     ],
     "actions": [
-        "open_letter"
+        "strike",
+        "protest"
     ],
     "struggles": [
-        "unfair_labor_practices",
-        "pay_and_benefits"
+        "ethics",
+        "discrimination"
     ],
     "employment_types": [
-        "blue_collar_workers",
-        "in_house_workers"
+        "white_collar_workers"
     ],
-    "description": "Over the past few months, Amazon workers across the country have called on the company to provide part-time employees with paid sick leave. Amazon workers in New York City have started an online petition on coworker.org to advocate for paid time off, paid sick leave, and a process to appeal final warnings. Over 1,200 people have signed the petition. Workers at the Skokie, Illinois facility have written a letter to management and are circulating a petition demanding backdated paid time off. Though many workers log more than 20 hours a week, they are still recognized as part-time employees of the company. These events follow similar actions taken by Amazon workers in Sacramento late in 2019.",
-    "online": null,
+    "description": "People left their desks at Oracle offices around the world to protest Chairman Larry Ellison\u2019s fundraiser a day earlier for President Donald Trump. The protest, called No Ethics/No Work, involved about 300 employees walking out of their offices or stopping work at remote locations at noon local time and devoting the rest of the day to volunteering or civic engagement.",
+    "online": true,
     "locations": [
-        "new york city-new york-usa",
-        "skokie-illinois-usa",
-        "sacramento-california-usa"
+        "usa"
     ],
     "companies": [
-        "amazon"
+        "oracle"
     ],
-    "workers": 1260,
+    "workers": 300,
     "tags": null,
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
     "latlngs": [
         [
-            40.722465,
-            -73.9977307
-        ],
-        [
-            42.0174292,
-            -87.71964605734546
-        ],
-        [
-            38.6767343,
-            -121.4948028
+            32.6099702,
+            -110.7651843
         ]
     ],
     "addresses": [
-        "72, Spring Street, Little Italy, Manhattan, Manhattan Community Board 2, New York County, New York, 10013, United States of America",
-        "3639, West Howard Street, Skokie, Cook County, Illinois, 60076, United States of America",
-        "Amazon Avenue, Sacramento, Sacramento County, California, 95835, United States of America"
+        "Oracle, Pinal County, Arizona, 85623, United States of America"
     ]
 }

@@ -1,24 +1,27 @@
 {
-    "id": 170,
-    "date": "2019/08/13",
+    "id": 169,
+    "date": "2019/08/12",
     "sources": [
-        "https://www.theverge.com/2019/8/14/20805968/caviar-employees-doordash-square-acquisition-mistreatment-renegotiate-offers"
+        "https://www.theverge.com/2019/8/12/20802893/whole-foods-employees-amazon-ice-protest-palantir-facial-recognition, https://thehill.com/policy/technology/457154-whole-foods-workers-denounce-amazon-ties-to-ice, https://docs.google.com/document/u/1/d/1v-ukklbicbgy-tckpkwy9dj_izdwu93g_frsr6yzv3m/mobilebasic"
     ],
     "actions": [
-        "open_letter"
+        "protest"
     ],
     "struggles": [
         "ethics"
     ],
     "employment_types": [
-        "white_collar_workers"
+        "blue_collar_workers"
     ],
-    "description": "After the El Paso and Gilroy shootings, A collective of prominent tech leaders that calls itself Build Tech We Trust signed a letter demanding that the tech industry stop the spread of hate and terrorism on digital platforms. 'We are a collective of tech CEOs, activists, changemakers, and workers who believe the time to act to counter the hate and terrorism is now,' stated the letter, which was signed by over 20 notable figures in the tech industry, including Ellen Pao, ReadySet CEO Y-Vonne Hutchinson, and Code2040 CEO Karla Monterroso.",
-    "online": null,
+    "description": "A group of anonymous Whole Foods workers denounced their parent company Amazon's ties to Immigration and Customs Enforcement (ICE) in an open letter. The letter from Whole Foods workers is the latest push from within Amazon, where workers have been protesting their employer's opaque relationship with ICE and the Department of Homeland Security (DHS) for more than a year. Whole Worker \u2014 the protest group of Whole Foods employees \u2014 is calling for Amazon to 'cease all business with Palantir and any other company involved in the continued oppression of marginalized groups.",
+    "online": true,
     "locations": [
         "usa"
     ],
-    "companies": null,
+    "companies": [
+        "amazon",
+        "wholefoods"
+    ],
     "workers": null,
     "tags": null,
     "author": [
@@ -26,11 +29,16 @@
     ],
     "latlngs": [
         [
-            39.7837304,
-            -100.4458825
+            47.6142939,
+            -122.3239636
+        ],
+        [
+            32.815940350000005,
+            -96.75223175473414
         ]
     ],
     "addresses": [
-        "United States"
+        "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America",
+        "WholeFoods, Abrams Road, Lakewood, Rawlins, Dallas, Dallas County, Texas, 75214:75243, United States of America"
     ]
 }

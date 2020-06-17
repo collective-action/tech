@@ -1,47 +1,34 @@
 {
-    "id": 208,
-    "date": "2019/11/13",
+    "id": 207,
+    "date": "2019/11/08",
     "sources": [
-        "https://www.vice.com/en_us/article/evjwwp/as-githubs-conference-begins-five-employees-resign-over-protest-ice-contract"
+        "https://www.ft.com/content/a3483930-0253-11ea-b7bc-f3fa4e77dd47, https://www.nytimes.com/2019/11/08/business/wework-employee-letter.html"
     ],
     "actions": [
-        "protest"
+        "open_letter"
     ],
     "struggles": [
-        "ethics"
+        "job_security",
+        "working conditions",
+        "pay_and_benefits"
     ],
     "employment_types": [
-        "white_collar_workers"
+        "white_collar_workers",
+        "blue_collar_workers"
     ],
-    "description": "Before Github\u2019s CEO Nat Friedman delivered his keynote address at Github Universe, an annual Github-hosted conference, dozens of tech workers and immigrant rights activists protested outside with a replica of the cages ICE uses to detain migrant families and children. \u201cThe demonstration [is in response to] GitHub's contract with ICE and is intended to show support for the GitHub workers who are organizing internally to get the contract cancelled,\u201d said a representative of Tech Workers Coalition, the group organizing the protest. Just before the annual conference, 5 Githubbers left the company, citing Github's involvement with ICE. ",
-    "online": null,
-    "locations": [
-        "san francisco-california-usa"
-    ],
+    "description": "WeWork employees have formed a group to campaign for better severance pay, employment conditions and an end to 'deception, exclusion and selfishness at the company's highest levels' following the turmoil of its failed IPO process.\u00a0The WeWorkers Coalition announced its existence on Friday with a letter to management setting out demands including for sexual assault claims to be 'taken seriously' and for thousands of employees about to lose their jobs to receive 'fair and reasonable separation terms'.\u00a0'Thousands of us will be laid off in the upcoming weeks. But we want our time here to have meant something' the group said in its letter. A software engineer at WeWork who is helping to organise the WeWorkers Coalition, said 185 people had signed the letter to management, while at least 600 expressed an interest in joining ahead of the group publicising its launch this week.\u00a0The coalition wants cleaners and maintenance staff to receive full benefits and fair pay.",
+    "online": true,
+    "locations": null,
     "companies": [
-        "github",
-        "microsoft"
+        "wework"
     ],
-    "workers": 24,
+    "workers": 185,
     "tags": [
-        "immigration",
-        "ice"
+        "coworker_solidarity"
     ],
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            37.7821769,
-            -122.3912458
-        ],
-        [
-            37.41096725,
-            -122.07138737347663
-        ]
-    ],
-    "addresses": [
-        "GitHub, Colin P. Kelly Junior Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States of America",
-        "Microsoft Silicon Valley, Mountain View, Santa Clara County, California, United States of America"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

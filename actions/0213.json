@@ -1,29 +1,33 @@
 {
-    "id": 214,
+    "id": 213,
     "date": "2019/11/29",
     "sources": [
-        "https://metro.co.uk/2019/11/29/amazon-hit-by-black-friday-srikes-and-protests-across-europe-11238471/, https://www.bbc.com/news/uk-england-50603875"
+        "https://www.rte.ie/news/business/2019/1129/1095932-amazon-german-strike/, https://www.forbes.com/sites/isabeltogoh/2019/11/29/black-friday-strikes-and-protests-hit-amazon-in-france-and-germany/#269a045a5bb3"
     ],
     "actions": [
-        "protest"
+        "strike"
     ],
     "struggles": [
-        "working conditions"
+        "working conditions",
+        "pay_and_benefits"
     ],
     "employment_types": [
         "blue_collar_workers"
     ],
-    "description": "Amazon was targeted by a UK-wide protest organised to coincide with Black Friday and Cyber Monday demanding an end to \u2018appalling\u2019 working conditions. Trade union GMB co-ordinated the British demonstrations to take place across two of the busiest shopping days of the year. 'Workers are breaking bones, being knocked unconscious and being taken away in ambulances,' GMB national officer Mick Rix said in a statement. Labour leader Jeremy Corbyn visited protesters outside an Amazon depot in Sheffield. The union cited figures suggesting there had been more than 600 ambulance call-outs to Amazon warehouses over a three-year period and just as many serious incidents reported to the Health and Safety Executive for various injuries.",
+    "description": "Hundreds of Amazon workers in Germany walked off the job as the online retailer kicked off its 'Black Friday' sales bonanza, escalating a long-simmering battle for better pay and working conditions. The strike called by the powerful Verdi union is set to last until Tuesday morning and will also cover 'Cyber Monday', another extravaganza of online discounts in what is a crucial sales period for Amazon. Verdi members are demanding a collective agreement for a living wage.",
     "online": null,
     "locations": [
-        "sheffield-uk",
-        "rugeley-uk",
-        "peterborough-uk"
+        "bad hersfeld-germany",
+        "leipzig-germany",
+        "koblenz-germany",
+        "rheinberg-germany",
+        "werne-germany",
+        "graben-germany"
     ],
     "companies": [
         "amazon"
     ],
-    "workers": 12,
+    "workers": 200,
     "tags": [
         "ice"
     ],
@@ -32,16 +36,36 @@
     ],
     "latlngs": [
         [
-            52.75329925,
-            -1.9215828894833442
+            50.8523727,
+            9.7311825
         ],
         [
-            52.542566050000005,
-            -0.2383390628291427
+            51.3622584,
+            12.452329749225527
+        ],
+        [
+            50.3465747,
+            7.4912868
+        ],
+        [
+            51.5369716,
+            6.5877929
+        ],
+        [
+            51.653494949999995,
+            7.59464606445661
+        ],
+        [
+            48.198871499999996,
+            10.848663796329923
         ]
     ],
     "addresses": [
-        "Amazon.co.uk, Towers Business Park, Brereton and Ravenhill, Cannock Chase, Staffordshire, West Midlands, England, WS15 1LX, United Kingdom",
-        "Amazon, Flaxley Road, Old Fletton, Peterborough, City of Peterborough, East of England, England, PE2 9EN, United Kingdom"
+        "Amazon-Stra\u00dfe, Hohe Luft, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
+        "Amazon, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland",
+        "Amazon stra\u00dfe, Industriepark A61/GVZ Koblenz, R\u00fcbenach, Koblenz, Rheinland-Pfalz, 56330, Deutschland",
+        "Amazon, Amazonstra\u00dfe, Winterswick, Rheinberg, Kreis Wesel, Nordrhein-Westfalen, 47495, Deutschland",
+        "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
+        "Amazon-Logistikzentrum, Graben, Landkreis Augsburg, Bayern, 86836, Deutschland"
     ]
 }
