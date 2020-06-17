@@ -1,41 +1,43 @@
 {
-    "id": 264,
-    "date": "2020/05/28",
+    "id": 276,
+    "date": "2020/05/05",
     "sources": [
-        "https://www.latimes.com/business/technology/story/2020-05-28/amazon-whole-foods-workers-track-coronavirus-cases, https://www.theguardian.com/world/2020/may/06/tracking-tool-allows-amazon-workers-to-report-covid-19-cases"
+        "https://www.nbcnews.com/tech/tech-news/amazon-sued-nyc-workers-seeking-coronavirus-protection-not-money-n1223871, https://www.oregonlive.com/business/2020/05/amazon-sued-by-salem-warehouse-worker-over-coronavirus-response.html"
     ],
     "actions": [
-        "protest"
+        "legal_action"
     ],
     "struggles": [
         "working conditions"
     ],
     "employment_types": [
-        "white_collar_workers"
+        "blue_collar_workers",
+        "in_house_workers"
     ],
-    "description": "Jana Jumpp, an Amazon employee in Indiana, has been tracking cases and logged at least 500 cases in 125 Amazon facilities as of late April. Jumpp has a counterpart at Amazon-owned Whole Foods, Katie Doan, who has been collecting cases since April 2. The two women have never spoken, but they describe nearly identical work fielding a torrent of private messages, searching Facebook groups, Reddit, Twitter and news outlets for reports of infections, and meticulously updating Google documents with the numbers.",
+    "description": "Amazon has been sued by workers at two different locations, New York City and Salem, Oregon, for its failure to protect its employees during the coronavirus pandemic. Three Amazon employees from the New York fulfillment center sued the company for failing to follow local public health guidance, claiming the company purposefully miscommunicated with workers. The employees are not seeking compensation, only an order that Amazon comply with guidance. A former employee from Salem alleged that she was fired after taking a medical leave for a coronavirus infection and speaking out publicly about safety issues.",
     "online": null,
     "locations": [
-        "usa"
+        "new york city-new york-usa",
+        "salem-oregon-usa"
     ],
     "companies": [
         "amazon"
     ],
-    "workers": 2,
+    "workers": 4,
     "tags": [
-        "coronavirus",
-        "online_action"
+        "retaliation",
+        "coronavirus"
     ],
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            47.6142939,
-            -122.3239636
+            40.722465,
+            -73.9977307
         ]
     ],
     "addresses": [
-        "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
+        "72, Spring Street, Little Italy, Manhattan, Manhattan Community Board 2, New York County, New York, 10013, United States of America"
     ]
 }

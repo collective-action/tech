@@ -1,40 +1,34 @@
 {
-    "id": 263,
-    "date": "2020/05/11",
+    "id": 260,
+    "date": "2020/05/01",
     "sources": [
-        "https://www.wedriveprogress.org/caravan, https://www.vice.com/en_us/article/g5ppqq/uber-and-lyft-drivers-organize-caravan-outside-uber-hq, https://techcrunch.com/2020/05/11/rideshare-drivers-stage-caravan-protest-over-ubers-labor-practices/"
+        "https://www.vice.com/en_ca/article/gy4qew/foodora-couriers-want-to-be-among-first-gig-economy-workers-to-unionize-in-canada, https://www.globenewswire.com/news-release/2020/04/27/2022709/0/en/foodora-Canada-announces-plans-to-close-business-while-assuring-support-for-employees.html, https://www.thestar.com/business/2020/04/29/foodora-declares-bankruptcy-in-canada-leaving-47-million-in-debt.html"
     ],
     "actions": [
-        "protest"
+        "union_drive"
     ],
     "struggles": [
+        "pay_and_benefits",
         "working conditions"
     ],
     "employment_types": [
         "gig_workers"
     ],
-    "description": "Around 100 Uber and Lyft drivers are staging a caravan protest at Uber's San Francisco headquarters to demand Uber comply with gig worker protections law AB 5, pay into the state's unemployment insurance fund and drop the ballot initiative it proposed along with Lyft and DoorDash that aims to keep gig workers classified as independent contractors. 'Uber, Lyft and other gig companies are continuing in the same path of abusing and completely taking advantage of workers while putting them at risk,' rideshare driver and organizer with Gig Workers Rising Edan Alva told TechCrunch. This protest comes shortly after California Attorney General Xavier Becerra, along with city attorneys from Los Angeles, San Diego and San Francisco, filed a lawsuit asserting Uber and Lyft gain an unfair and unlawful competitive advantage by misclassifying workers as independent contractors.",
+    "description": "Foodora couriers announced their intention to join a union of Canadian post workers and held a union drive. If successful, this would make Foodora workers the first app-based employees to unionize in Canada. In April 2020 the company announced its intention to leave the Canadian market and initiated bankruptcy proceedings, making the future of the business and the unionizing effort uncertain.",
     "online": null,
     "locations": [
-        "san francisco-california-usa"
+        "toronto-ontario-canada"
     ],
     "companies": [
-        "uber"
+        "foodora"
     ],
-    "workers": 100,
+    "workers": 1000,
     "tags": [
-        "coronavirus"
+        "delivery_workers"
     ],
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
-    "latlngs": [
-        [
-            37.7899898,
-            -122.3999799
-        ]
-    ],
-    "addresses": [
-        "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

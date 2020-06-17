@@ -1,34 +1,41 @@
 {
-    "id": 260,
-    "date": "2020/05/01",
+    "id": 258,
+    "date": "2020/04/24",
     "sources": [
-        "https://www.vice.com/en_ca/article/gy4qew/foodora-couriers-want-to-be-among-first-gig-economy-workers-to-unionize-in-canada, https://www.globenewswire.com/news-release/2020/04/27/2022709/0/en/foodora-Canada-announces-plans-to-close-business-while-assuring-support-for-employees.html, https://www.thestar.com/business/2020/04/29/foodora-declares-bankruptcy-in-canada-leaving-47-million-in-debt.html"
+        "https://amp.ft.com/content/d0698260-c02b-4abe-912a-fa0066e294c2, https://dnyuz.com/2020/04/24/huawei-employees-sue-company-after-police-detention/"
     ],
     "actions": [
-        "union_drive"
+        "legal_action"
     ],
     "struggles": [
-        "pay_and_benefits",
-        "working conditions"
+        "ethics"
     ],
     "employment_types": [
-        "gig_workers"
+        "white_collar_workers",
+        "in_house_workers"
     ],
-    "description": "Foodora couriers announced their intention to join a union of Canadian post workers and held a union drive. If successful, this would make Foodora workers the first app-based employees to unionize in Canada. In April 2020 the company announced its intention to leave the Canadian market and initiated bankruptcy proceedings, making the future of the business and the unionizing effort uncertain.",
+    "description": "Two former Huawei employees are suing the company alleging that it used its local connections to the police to detain employees who posed problems for the company. One of the employees had started a chat group where there was open discussion of Huawei breaking US sanctions with Iran. That same employee claims two other members from the chat group were detained and later released as well. The Financial Times quoted Shenzhen-based labour rights lawyer, Pang Kun, who estimated that there were more than 10 others currently detained at a local jail as a result of company disputes.",
     "online": null,
     "locations": [
-        "toronto-ontario-canada"
+        "shen zhen-china"
     ],
     "companies": [
-        "foodora"
+        "huawei"
     ],
-    "workers": 1000,
+    "workers": 2,
     "tags": [
-        "delivery_workers"
+        "na"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            22.652495950000002,
+            114.05589115565374
+        ]
+    ],
+    "addresses": [
+        "\u534e\u4e3a\u6280\u672f\u6709\u9650\u516c\u53f8, \u9f99\u5c97\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518100, China \u4e2d\u56fd"
+    ]
 }

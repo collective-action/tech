@@ -1,35 +1,43 @@
 {
-    "id": 254,
-    "date": "2020/04/10",
+    "id": 252,
+    "date": "2020/04/04",
     "sources": [
-        "https://www.peoplesworld.org/article/more-people-will-die-uber-and-lyft-drivers-demand-companies-protect-workers/, https://mobilealliance.org/wp-content/uploads/2020/04/MWA-Letter-to-Feuer-Apr-10-2020.pdf"
+        "https://www.commondreams.org/news/2020/04/04/despite-threats-management-amazon-warehouse-workers-chicago-strike-demand-better, https://patch.com/illinois/chicago/cars-picket-amazon-workers-striking-coronavirus-safety"
     ],
     "actions": [
-        "open_letter"
+        "protest",
+        "strike"
     ],
     "struggles": [
-        "pay_and_benefits",
-        "working conditions"
+        "working conditions",
+        "pay_and_benefits"
     ],
     "employment_types": [
-        "gig_workers"
+        "in_house_workers",
+        "blue_collar_workers"
     ],
-    "description": "Rideshare drivers, partnered with the Mobile Workers Alliance, sent a letter to the Los Angeles City Attorney calling for the city to mandate that Lyft and Uber provide personal protective equipment to their employees, including masks and hand sanitizer, as well as access to handwashing stations in certain locations such as the airport.",
+    "description": "Amazon workers, organized by DCH1 Amazonians United, staged a walkout at a facility in Chicago calling on the company to temporarily close and sanitize the facility following two positive coronavirus tests among employees. Additionally, the workers are calling for the company to cover any health bills accrued by employees and family members that have contracted coronavirus at the facility, plus more time on-the-job to incorporate safety practices such as regular hand sanitizing. This is the fourth such action organized by DCH1 Amazonians in response to the coronavirus outbreak. ",
     "online": null,
     "locations": [
-        "los angeles-california-usa"
+        "staten island-new york city-new york-usa"
     ],
     "companies": [
-        "lyft",
-        "uber"
+        "amazon"
     ],
-    "workers": null,
+    "workers": 20,
     "tags": [
         "coronavirus"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            40.6193387,
+            -74.0727749
+        ]
+    ],
+    "addresses": [
+        "Amazon Court, Clifton, Todt Hill, New York, Richmond County, New York, 10304, United States of America"
+    ]
 }

@@ -1,0 +1,32 @@
+{
+    "id": 270,
+    "date": "2020/06/06",
+    "sources": [
+        "https://www.washingtonpost.com/technology/2020/06/06/chan-zuckerberg-initiative-open-letter-trump/"
+    ],
+    "actions": [
+        "open_letter"
+    ],
+    "struggles": [
+        "ethics"
+    ],
+    "employment_types": [
+        "white_collar_workers"
+    ],
+    "description": "Scientists funded by the Chan Zuckerberg Initiative addressed a letter to Mark Zuckerberg critiquing Facebook's role in diffusing inaccurate information, in particular Donald Trump's \"when the looting starts, the shooting starts\" comment in relation to the George Floyd protests. The authors argued that the letter promotes violence. ",
+    "online": true,
+    "locations": null,
+    "companies": [
+        "facebook"
+    ],
+    "workers": 141,
+    "tags": [
+        "academics",
+        "ai"
+    ],
+    "author": [
+        "nataliyaned"
+    ],
+    "latlngs": null,
+    "addresses": null
+}

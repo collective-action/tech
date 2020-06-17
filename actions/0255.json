@@ -1,35 +1,42 @@
 {
-    "id": 255,
-    "date": "2020/04/13",
+    "id": 253,
+    "date": "2020/04/06",
     "sources": [
-        "https://gizmodo.com/tech-workers-speak-out-in-support-of-amazon-warehouse-s-1842839301, https://chuffed.org/project/help-amazon-warehouse-workers-exposed-to-covid-19, https://www.givedirectly.org/covid-19/us/, https://twitter.com/techspeaksout"
+        "https://www.vice.com/en_us/article/4age5j/amazon-workers-in-new-york-are-striking-for-the-second-week-in-a-row-as-coronavirus-cases-pile-up, https://nypost.com/2020/04/06/amazon-faces-another-staten-island-warehouse-strike/, https://finance.yahoo.com/news/amazon-warehouse-workers-second-walkout-one-week-over-coronavirus-fears-195814468.html"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
-        "ethics",
         "working conditions",
-        "unfair_labor_practices"
+        "pay_and_benefits"
     ],
     "employment_types": [
-        "white_collar_workers"
+        "in_house_workers",
+        "blue_collar_workers"
     ],
-    "description": "As a gesture of solidarity, tech workers have started tweeting with the hashtags #TechSolidarity, #AmazonStrike, #HuelgaAmazon to indicate support for striking Amazon workers. The Twitter page, @TechSpeaksOut, was reportedly designed to exert public pressure tech corporations. In addition to taking to Twitter, activists have started GoFundMes and mutual aid campaigns to benefit workers.",
-    "online": true,
-    "locations": null,
+    "description": "For the second week in a row, workers at an Amazon warehouse in Staten Island held a walkout to protest the company's handling of the coronavirus crisis. Organizers state that they have heard of over 25 cases of coronavirus at the facility. In response, workers are calling for an extension of paid time off and improved sanitation in the facility. Last week, the company fired one of the organizers of the previous week's walkout. ",
+    "online": null,
+    "locations": [
+        "new york city-new york-usa"
+    ],
     "companies": [
         "amazon"
     ],
-    "workers": null,
+    "workers": 50,
     "tags": [
-        "industry_solidarity",
-        "coworker_solidarity",
         "coronavirus"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            40.722465,
+            -73.9977307
+        ]
+    ],
+    "addresses": [
+        "72, Spring Street, Little Italy, Manhattan, Manhattan Community Board 2, New York County, New York, 10013, United States of America"
+    ]
 }

@@ -1,12 +1,11 @@
 {
-    "id": 245,
+    "id": 244,
     "date": "2020/03/19",
     "sources": [
-        "https://www.forbes.com/sites/janetwburns/2020/03/19/drivers-protest-outside-uber-hq-for-covid-19-sick-leave-and-pay-under-california-law-ab5/#3b5daa808f7a, https://twitter.com/veenadubal/status/1240410264119283712"
+        "https://www.cnet.com/news/uber-lyft-drivers-demand-companies-do-more-to-protect-them-from-coronavirus/, https://www.sacbee.com/news/politics-government/capitol-alert/article241304131.html, https://www.forbes.com/sites/janetwburns/2020/03/19/drivers-protest-outside-uber-hq-for-covid-19-sick-leave-and-pay-under-california-law-ab5/#1d4e6af48f7a"
     ],
     "actions": [
-        "strike",
-        "protest"
+        "open_letter"
     ],
     "struggles": [
         "working conditions",
@@ -15,19 +14,18 @@
     "employment_types": [
         "gig_workers"
     ],
-    "description": "Ride-hail drivers in California gathered outside Uber headquarters in San Francisco, Los Angeles, and San Diego to demand that gig platforms provide immediate relief to their cash-strapped, at-risk workers, including by adhering to California\u2019s new labor law known as AB5. Drivers are calling on California to enforce its new employment law as illness, confusion, and hardship from COVID-19 sweep their industries. They are also calling for the $110 million set aside by Uber, Lyft, Doordash, Postmates, and Instacart for fighting that law to instead be used to give workers some relief.",
+    "description": "As the novel coronavirus spreads around the world, Uber and Lyft drivers in California are asking both companies to do more to protect them. A coalition of drivers released a list of demands, signed by thousands, asking the ride-hailing services to take immediate steps to help ensure their safety. The demands include providing free COVID-19 screenings to all drivers, along with 14 days paid leave for all affected drivers. The drivers are organized with advocacy group Mobile Workers Alliance.",
     "online": null,
     "locations": [
-        "europe"
+        "san francisco-california-usa",
+        "los angeles-california-usa",
+        "san diego-california-usa"
     ],
     "companies": [
-        "uber",
         "lyft",
-        "doordash",
-        "postmates",
-        "instacart"
+        "uber"
     ],
-    "workers": null,
+    "workers": 2000,
     "tags": [
         "coronavirus"
     ],
@@ -36,11 +34,26 @@
     ],
     "latlngs": [
         [
-            51.3540073,
-            11.4415021
+            37.7759881,
+            -122.3919991
+        ],
+        [
+            37.7899898,
+            -122.3999799
+        ],
+        [
+            32.771334,
+            -117.0673605
+        ],
+        [
+            32.771334,
+            -117.0673605
         ]
     ],
     "addresses": [
-        "\u00dcber den Querst\u00fccken, Querfurt, Saalekreis, Sachsen-Anhalt, Deutschland"
+        "Lyft, Berry Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States of America",
+        "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "Uber / Lyft Driver Drop Off, East Campus Drive, Montezuma Mesa, San Diego, San Diego County, California, 92182, United States of America",
+        "Uber / Lyft Driver Drop Off, East Campus Drive, Montezuma Mesa, San Diego, San Diego County, California, 92182, United States of America"
     ]
 }

@@ -1,52 +1,41 @@
 {
-    "id": 261,
-    "date": "2020/05/01",
+    "id": 259,
+    "date": "2020/04/26",
     "sources": [
-        "https://www.washingtonpost.com/technology/2020/05/01/amazon-instacart-workers-strike/, https://www.wired.com/story/amazon-instacart-target-coronavirus-may-day-strike/"
+        "https://www.vice.com/en_us/article/n7jaaq/amazon-reinstates-fired-warehouse-worker-after-employees-strike, https://twitter.com/AwoodMpls/status/1254449858343251970?s=19"
     ],
     "actions": [
-        "protest",
         "strike"
     ],
     "struggles": [
-        "working conditions"
+        "pay_and_benefits"
     ],
     "employment_types": [
-        "in_house_workers",
         "blue_collar_workers",
-        "gig_workers"
+        "in_house_workers"
     ],
-    "description": "Workers at Amazon, Whole Foods, Instacart, Target, and Shipt walked off the job on May 1st (International Workers' Day) to call for better working conditions under the covid-19 pandemic. The Washington Post reports that \"a small crowd\" outside of an Amazon Staten Island warehouse was made up of Amazon workers and also healthcare professionals who appeared out of solidarity with their cause. The scale of the action is difficult to measure, given its broad geography. Walkouts and protests were reported in Atlanta, New York, and the Bay Area.",
+    "description": "Amazon employees went on strike after the company allegedly fired a worker who chose to stay at home with her two children during the pandemic. Workers also protested the company's announcement that it would phase out their new paid-leave policy on May 1st. The company announced that two more employees had tested positive for the virus the night before the protest. Reporting from Vice and a tweet from a local community center suggest that this also served as impetus for the strike. Organizers claimed that more than 50 employees were involved in the strike, while management claimed it was 25.",
     "online": null,
     "locations": [
-        "usa"
+        "shakopee-minnesota-usa"
     ],
     "companies": [
-        "amazon",
-        "instacart",
-        "target",
-        "shipt"
+        "amazon"
     ],
-    "workers": 1000,
+    "workers": 51,
     "tags": [
-        "coronavirus",
-        "delivery_workers"
+        "coronavirus"
     ],
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            47.6142939,
-            -122.3239636
-        ],
-        [
-            33.2469982,
-            -117.29321092216239
+            44.80059945,
+            -93.48865500885567
         ]
     ],
     "addresses": [
-        "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America",
-        "Target, San Luis Rey, Oceanside, San Diego County, California, United States of America"
+        "Amazon Fullfillment Center MSP1, 4th Avenue East, Valley Haven Mobile Home Park, Shakopee, Scott County, Minnesota, 55379, United States of America"
     ]
 }

@@ -1,42 +1,33 @@
 {
-    "id": 266,
-    "date": "2020/06/08",
+    "id": 265,
+    "date": "2020/06/01",
     "sources": [
-        "https://onezero.medium.com/250-microsoft-employees-call-on-ceo-to-cancel-police-contracts-and-support-defunding-seattle-pd-e89fa5d9e843, https://finance.yahoo.com/news/microsoft-employees-petition-seattle-police-contracts-161102239.html"
+        "https://www.nytimes.com/2020/06/01/technology/facebook-employee-protest-trump.html, https://www.washingtonpost.com/business/2020/06/01/facebook-zuckerberg-donation-trump/"
     ],
     "actions": [
-        "open_letter"
+        "protest"
     ],
     "struggles": [
         "ethics"
     ],
     "employment_types": [
-        "white_collar_workers",
-        "in_house_workers"
+        "na"
     ],
-    "description": "Hundreds of Microsoft employees have signed a letter to the company\u2019s top executives asking for Microsoft to take action in the wake of national protests. The initiative came out of a Facebook group called \"Young Microsoft FTEs\". The email to the Microsoft executives includes a list of requests, including increased leniency for Microsoft workers in performance reviews due to the coronavirus pandemic and protests; the company formally condemning the use of tear gas, rubber bullets, and flashbangs; increasing Microsoft\u2019s employee donation matches; the cancellation of contracts with SPD and other law enforcement agencies; support for defunding the SPD; signing a petition for the resignation of Seattle Mayor Jenny Durkan; and support for a list of demands from BLM Seattle. Employees volunteered to be CC\u2019d on the email in a show of solidarity, though their inclusion was not intended to show explicit support for every request, according to the email.",
+    "description": "Facebook employees hosted a virtual walkout, refusing to work for the time of the event, in protest of the company's failure to take a tougher stance on Trump's posts in reaction to the George Floyd protests. Many employees also expressed solidarity with the Black Lives Matter movement. The New York Times reports that employees have also circulated petitions internally and threatened to resign in response to the event. The previous week Twitter added fact-check and warning labels to two tweets from the president that broke Twitter\u2019s rules around voter suppression and glorification of violence.",
     "online": true,
-    "locations": [
-        "seattle-washington-usa"
-    ],
+    "locations": null,
     "companies": [
-        "microsoft"
+        "facebook"
     ],
-    "workers": 250,
+    "workers": null,
     "tags": [
         "antiracism",
-        "blm"
+        "blm",
+        "trump"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            47.5388725,
-            -122.2901728
-        ]
-    ],
-    "addresses": [
-        "Microsoft Gathering Hall, 32nd Avenue South, Columbia City, Holly Park, Seattle, King County, Washington, 98118, United States of America"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

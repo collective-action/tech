@@ -1,12 +1,12 @@
 {
-    "id": 252,
-    "date": "2020/04/04",
+    "id": 251,
+    "date": "2020/03/31",
     "sources": [
-        "https://www.commondreams.org/news/2020/04/04/despite-threats-management-amazon-warehouse-workers-chicago-strike-demand-better, https://patch.com/illinois/chicago/cars-picket-amazon-workers-striking-coronavirus-safety"
+        "https://www.cnbc.com/2020/03/31/grocery-and-delivery-workers-demand-more-coronavirus-protection-say-pay-isnt-enough.html, https://www.coworker.org/petitions/global-retail-worker-sick-out"
     ],
     "actions": [
-        "protest",
-        "strike"
+        "strike",
+        "open_letter"
     ],
     "struggles": [
         "working conditions",
@@ -16,15 +16,16 @@
         "in_house_workers",
         "blue_collar_workers"
     ],
-    "description": "Amazon workers, organized by DCH1 Amazonians United, staged a walkout at a facility in Chicago calling on the company to temporarily close and sanitize the facility following two positive coronavirus tests among employees. Additionally, the workers are calling for the company to cover any health bills accrued by employees and family members that have contracted coronavirus at the facility, plus more time on-the-job to incorporate safety practices such as regular hand sanitizing. This is the fourth such action organized by DCH1 Amazonians in response to the coronavirus outbreak. ",
+    "description": "Whole Foods employees went on strike to call for guaranteed pay during sick leave, reinstatement of health insurance for part-time and seasonal employees, coverage of coronavirus testing and treatment, improved sanitation at worksites, and immediate shutdown of any locations where employees test positive. The strike came amid a surge of activism from grocery and delivery workers at several companies. ",
     "online": null,
     "locations": [
-        "staten island-new york city-new york-usa"
+        "chicago-illinois-usa"
     ],
     "companies": [
-        "amazon"
+        "amazon",
+        "whole_foods"
     ],
-    "workers": 20,
+    "workers": 1000,
     "tags": [
         "coronavirus"
     ],
@@ -33,11 +34,11 @@
     ],
     "latlngs": [
         [
-            40.6193387,
-            -74.0727749
+            41.84040105,
+            -87.68351928672685
         ]
     ],
     "addresses": [
-        "Amazon Court, Clifton, Todt Hill, New York, Richmond County, New York, 10304, United States of America"
+        "Amazon Distribution, South Western Avenue, Lower West Side, Illinois Medical District, Chicago, Cook County, Illinois, 60643, United States of America"
     ]
 }

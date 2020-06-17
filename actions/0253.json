@@ -1,29 +1,28 @@
 {
-    "id": 253,
-    "date": "2020/04/06",
+    "id": 274,
+    "date": "2020/04/01",
     "sources": [
-        "https://www.vice.com/en_us/article/4age5j/amazon-workers-in-new-york-are-striking-for-the-second-week-in-a-row-as-coronavirus-cases-pile-up, https://nypost.com/2020/04/06/amazon-faces-another-staten-island-warehouse-strike/, https://finance.yahoo.com/news/amazon-warehouse-workers-second-walkout-one-week-over-coronavirus-fears-195814468.html"
+        "https://www.nytimes.com/2020/04/15/business/amazon-france-covid.html"
     ],
     "actions": [
-        "protest"
+        "legal_action"
     ],
     "struggles": [
-        "working conditions",
-        "pay_and_benefits"
+        "working conditions"
     ],
     "employment_types": [
         "in_house_workers",
         "blue_collar_workers"
     ],
-    "description": "For the second week in a row, workers at an Amazon warehouse in Staten Island held a walkout to protest the company's handling of the coronavirus crisis. Organizers state that they have heard of over 25 cases of coronavirus at the facility. In response, workers are calling for an extension of paid time off and improved sanitation in the facility. Last week, the company fired one of the organizers of the previous week's walkout. ",
+    "description": "Amazon's French SUD-Commerce union launched a lawsuit against the company alleging that they had failed to uphold coronavirus safety measures at six different warehouses in the country.  French courts ruled in favor of the union. The company was forced to stop its operations for five days, while continuing to pay workers, in order to improve safety. Delivery was also restricted to food, hygiene, and medical products at this time.",
     "online": null,
     "locations": [
-        "new york city-new york-usa"
+        "france"
     ],
     "companies": [
         "amazon"
     ],
-    "workers": 50,
+    "workers": null,
     "tags": [
         "coronavirus"
     ],
@@ -32,11 +31,11 @@
     ],
     "latlngs": [
         [
-            40.722465,
-            -73.9977307
+            49.20773805,
+            2.6199324110680884
         ]
     ],
     "addresses": [
-        "72, Spring Street, Little Italy, Manhattan, Manhattan Community Board 2, New York County, New York, 10013, United States of America"
+        "Amazon, Villem\u00e9trie, Senlis, Oise, Hauts-de-France, France m\u00e9tropolitaine, 60300, France"
     ]
 }

@@ -1,30 +1,31 @@
 {
-    "id": 256,
-    "date": "2020/04/20",
+    "id": 254,
+    "date": "2020/04/10",
     "sources": [
-        "https://www.theguardian.com/world/2020/apr/20/coronavirus-digital-contact-tracing-will-fail-unless-privacy-is-respected-experts-warn, https://techcrunch.com/2020/04/20/academics-contact-tracing/"
+        "https://www.peoplesworld.org/article/more-people-will-die-uber-and-lyft-drivers-demand-companies-protect-workers/, https://mobilealliance.org/wp-content/uploads/2020/04/MWA-Letter-to-Feuer-Apr-10-2020.pdf"
     ],
     "actions": [
         "open_letter"
     ],
     "struggles": [
-        "ethics"
+        "pay_and_benefits",
+        "working conditions"
     ],
     "employment_types": [
-        "white_collar_workers"
+        "gig_workers"
     ],
-    "description": "Over 300 academics from 26 countries signed a letter calling for contact-tracing apps to respect user privacy and to limit large-scale, centralized surveillance in favor of decentralized systems. The signatories favored the DP-3T protocol and systems like Apple and Google\u2019s cross-platform solution over the PEPP-T system designed by a set of European countries.",
-    "online": true,
+    "description": "Rideshare drivers, partnered with the Mobile Workers Alliance, sent a letter to the Los Angeles City Attorney calling for the city to mandate that Lyft and Uber provide personal protective equipment to their employees, including masks and hand sanitizer, as well as access to handwashing stations in certain locations such as the airport.",
+    "online": null,
     "locations": [
-        "worldwide"
+        "los angeles-california-usa"
     ],
     "companies": [
-        "na"
+        "lyft",
+        "uber"
     ],
-    "workers": 301,
+    "workers": null,
     "tags": [
-        "coronavirus",
-        "surveillance"
+        "coronavirus"
     ],
     "author": [
         "nataliyaned"
