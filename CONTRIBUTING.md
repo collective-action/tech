@@ -6,6 +6,7 @@ To contribute, please use pull requests to add to the repo so that new additions
 
 This document will cover how to contribute:
 1. Defining "Collective Action"
+1. How to Contribute on Airtable
 1. How To Contribute on GitHub
 1. Data Fields
 1. Formatting Guidelines
@@ -22,6 +23,10 @@ Events must be "collective" and contain "evidence of action" by currently or rec
 (3) "Tech workers". Defined as current or recently employed (within the last year) workers in the tech industry. Tech industry includes but is not limited to information technology, Internet, hardware, software. Does not include adjacent industries, e.g. digital media (e.g. Vox, Buzzfeed) or the video game industry (unless the company's primary business is in any of the above categories, e.g. Niantic). Does include online retailers (e.g. Amazon, Wayfair) and social media companies. Academics whose research concerns technology and students or interns who are preparing to enter the tech industry can be considered tech workers. 
 
 **If you are unsure about whether an action fits the definition, we encourage you to contribute anyways! We are always interested in hearing about new types of collective actions. The above definition may evolve over time.**
+
+## How To Contribute on Airtable
+
+Airtable is the easiest way to add to the repository. Simply fill out the form located here: https://airtable.com/shrT1A5QWKtquXv3D. More formatting directions are included on the form itself. Once your addition is approved, it will update to Github.
 
 ## How To Contribute on GitHub
 
