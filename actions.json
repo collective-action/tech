@@ -10377,12 +10377,19 @@
             "white_collar_workers"
         ],
         "description": "Scientists funded by the Chan Zuckerberg Initiative addressed a letter to Mark Zuckerberg critiquing Facebook's role in diffusing inaccurate information, in particular Donald Trump's \"when the looting starts, the shooting starts\" comment in relation to the George Floyd protests. The authors argued that the letter promotes violence. ",
-        "online": null,
+        "online": true,
         "locations": null,
-        "companies": null,
-        "workers": null,
-        "tags": null,
-        "author": null,
+        "companies": [
+            "facebook"
+        ],
+        "workers": 141,
+        "tags": [
+            "academics",
+            "ai"
+        ],
+        "author": [
+            "nataliyaned"
+        ],
         "latlngs": null,
         "addresses": null
     },
