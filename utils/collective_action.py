@@ -144,7 +144,6 @@ class CollectiveAction:
                 # skip is location is online or worldwide
                 if location in ["worldwide"]:
                     continue
-                print(location)
 
                 # attach company name to each city/state/country location
                 if self.companies:
