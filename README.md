@@ -20,11 +20,11 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">23/06/2020 07:06PM</td>
+    <td data-summary="timestamp">23/06/2020 07:21PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">276</td>
+    <td data-summary="action-count">277</td>
   </tr>
  </table>
 </div>
@@ -49,6 +49,21 @@ The goal of this archive is to provide data and insights on organizing in the te
    </td>
    <td>
     Over 1, 650 Google employees have signed an open letter to CEO Sundar Pichai demanding the company stop selling its technology to police forces across the US. “The past weeks have shown us that addressing racism is not merely an issue of words, but of actions taken to dismantle the actual structures that perpetuate it, ” the letter, written by the employee group Googlers Against Racism, reads. “While we as individuals hold difficult but necessary conversations with our family, friends and peers, we are also incredibly disappointed by our company’s response.”
+   </td>
+   <td>
+    <a href="/actions/0276.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="nataliyaned">
+   <td>
+    2020-06-12
+   </td>
+   <td>
+    Foodora couriers overwhelmingly voted to join the Canadian Union of Postal Workers (CUPW). 88% of workers who voted supported joining the union. In April 2020, Foodora announced it was leaving the country after the Ontario Labor Board voted to recognize the couriers as company employees. While this makes the vote largely symbolic, it nevertheless makes Foodora's union the first certified gig workers' union in Canada.
    </td>
    <td>
     <a href="/actions/0275.json">
