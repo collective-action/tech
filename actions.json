@@ -8290,9 +8290,7 @@
             "amazon"
         ],
         "workers": 200,
-        "tags": [
-            "ice"
-        ],
+        "tags": null,
         "author": [
             "organizejs"
         ],
@@ -8357,9 +8355,7 @@
             "amazon"
         ],
         "workers": 12,
-        "tags": [
-            "ice"
-        ],
+        "tags": null,
         "author": [
             "organizejs"
         ],
