@@ -1,41 +1,34 @@
 {
-    "id": 257,
-    "date": "2020/04/21",
+    "id": 256,
+    "date": "2020/04/20",
     "sources": [
-        "https://www.vice.com/amp/en_us/article/jge77g/hundreds-of-amazon-workers-are-not-going-to-work-in-nationwide-protest, https://thehill.com/policy/technology/493772-hundreds-of-amazon-workers-to-walk-off-starting-tuesday, https://nypost.com/2020/04/21/300-amazon-employees-refuse-to-work-amid-coronavirus-safety-worries/, https://www.wired.com/story/amazon-sick-out-tech-warehouse-workers-protest/"
+        "https://www.theguardian.com/world/2020/apr/20/coronavirus-digital-contact-tracing-will-fail-unless-privacy-is-respected-experts-warn, https://techcrunch.com/2020/04/20/academics-contact-tracing/"
     ],
     "actions": [
-        "strike"
+        "open_letter"
     ],
     "struggles": [
-        "working conditions"
+        "ethics"
     ],
     "employment_types": [
-        "blue_collar_workers",
-        "in_house_workers"
+        "white_collar_workers"
     ],
-    "description": "Over 300 Amazon workers across the country signed a pledge to call out of work to protest the company's reaction to the coronavirus pandemic. Participants claim the company continues to fall short in providing personal protective equipment and are calling for a more flexible paid leave policy that would allow them to take care of sick family members.",
-    "online": null,
+    "description": "Over 300 academics from 26 countries signed a letter calling for contact-tracing apps to respect user privacy and to limit large-scale, centralized surveillance in favor of decentralized systems. The signatories favored the DP-3T protocol and systems like Apple and Google\u2019s cross-platform solution over the PEPP-T system designed by a set of European countries.",
+    "online": true,
     "locations": [
-        "usa"
+        "worldwide"
     ],
     "companies": [
-        "amazon"
+        "na"
     ],
     "workers": 301,
     "tags": [
-        "coronavirus"
+        "coronavirus",
+        "surveillance"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            47.6142939,
-            -122.3239636
-        ]
-    ],
-    "addresses": [
-        "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

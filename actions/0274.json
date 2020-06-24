@@ -1,42 +1,40 @@
 {
-    "id": 266,
-    "date": "2020/06/08",
+    "id": 268,
+    "date": "2020/06/06",
     "sources": [
-        "https://onezero.medium.com/250-microsoft-employees-call-on-ceo-to-cancel-police-contracts-and-support-defunding-seattle-pd-e89fa5d9e843, https://finance.yahoo.com/news/microsoft-employees-petition-seattle-police-contracts-161102239.html"
+        "https://www.buzzfeednews.com/article/carolineodonovan/facebook-contractors-say-they-were-punished-for-wanting-a"
     ],
     "actions": [
-        "open_letter"
+        "protest"
     ],
     "struggles": [
-        "ethics"
+        "working conditions"
     ],
     "employment_types": [
-        "white_collar_workers",
-        "in_house_workers"
+        "contract_workers"
     ],
-    "description": "Hundreds of Microsoft employees have signed a letter to the company\u2019s top executives asking for Microsoft to take action in the wake of national protests. The initiative came out of a Facebook group called \"Young Microsoft FTEs\". The email to the Microsoft executives includes a list of requests, including increased leniency for Microsoft workers in performance reviews due to the coronavirus pandemic and protests; the company formally condemning the use of tear gas, rubber bullets, and flashbangs; increasing Microsoft\u2019s employee donation matches; the cancellation of contracts with SPD and other law enforcement agencies; support for defunding the SPD; signing a petition for the resignation of Seattle Mayor Jenny Durkan; and support for a list of demands from BLM Seattle. Employees volunteered to be CC\u2019d on the email in a show of solidarity, though their inclusion was not intended to show explicit support for every request, according to the email.",
-    "online": true,
+    "description": "Contract workers for Facebook in Austin, Texas, say they have been retaliated against for union organizing, resulting in two workers\u2019 departure in recent weeks. The workers, who help Facebook find and triage internal bugs, are unhappy with their employer, the India-based firm WiPro, and have been organizing in the workplace to pressure both companies for improvements. Recently, two people involved in the organizing campaign who were vocal about these issues departed the company. Both had posted heated messages on an internal message board about the need to improve conditions for the contingent workers and encouraging remaining staff to support a union drive, and say their departures followed retaliation from WiPro. Since January, the Communication Workers of America (CWA) labor union has been promoting its Campaign to Organize Digital Employees (CODE). The organization is especially interested in organizing workers who, like the Austin-based contingent Facebook workers, perform work for major tech firms but aren\u2019t directly employed by them.",
+    "online": null,
     "locations": [
-        "seattle-washington-usa"
+        "austin-texas-usa"
     ],
     "companies": [
-        "microsoft"
+        "facebook"
     ],
-    "workers": 250,
+    "workers": null,
     "tags": [
-        "antiracism",
-        "blm"
+        "retaliation"
     ],
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            47.5388725,
-            -122.2901728
+            30.2691649,
+            -97.7455041
         ]
     ],
     "addresses": [
-        "Microsoft Gathering Hall, 32nd Avenue South, Columbia City, Holly Park, Seattle, King County, Washington, 98118, United States of America"
+        "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States of America"
     ]
 }

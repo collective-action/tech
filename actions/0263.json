@@ -1,30 +1,29 @@
 {
-    "id": 260,
-    "date": "2020/05/01",
+    "id": 275,
+    "date": "2020/04/30",
     "sources": [
-        "https://www.vice.com/en_ca/article/gy4qew/foodora-couriers-want-to-be-among-first-gig-economy-workers-to-unionize-in-canada, https://www.globenewswire.com/news-release/2020/04/27/2022709/0/en/foodora-Canada-announces-plans-to-close-business-while-assuring-support-for-employees.html, https://www.thestar.com/business/2020/04/29/foodora-declares-bankruptcy-in-canada-leaving-47-million-in-debt.html"
+        "https://www.transnational-strike.info/2020/05/03/addressing-the-pandemic-at-amazon-open-letter-to-jeff-bezos-and-stefano-perego/, http://inthesetimes.com/working/entry/22501/amazon-europe-united-states-international-labor-organizing-workers-bezos"
     ],
     "actions": [
-        "union_drive"
+        "open_letter"
     ],
     "struggles": [
-        "pay_and_benefits",
         "working conditions"
     ],
     "employment_types": [
-        "gig_workers"
+        "in_house_workers",
+        "blue_collar_workers"
     ],
-    "description": "Foodora couriers announced their intention to join a union of Canadian post workers and held a union drive. If successful, this would make Foodora workers the first app-based employees to unionize in Canada. In April 2020 the company announced its intention to leave the Canadian market and initiated bankruptcy proceedings, making the future of the business and the unionizing effort uncertain. ",
-    "online": null,
-    "locations": [
-        "toronto-ontario-canada"
-    ],
+    "description": "Amazon Workers International, speaking on behalf of Amazon workers across the U.S. and Europe, sent an open letter to Jeff Bezos and Stefano Perego, VP of European Fulfillment. The letter called for making covid-era wage increases and breaks permanent and suspending productivity feedback. In addition, AWI demanded more transparency around covid cases at Amazon, improved sick leave, and good faith bargaining with unions. ",
+    "online": true,
+    "locations": null,
     "companies": [
-        "foodora"
+        "amazon"
     ],
-    "workers": 1000,
+    "workers": 8,
     "tags": [
-        "delivery_workers"
+        "international_solidarity",
+        "coronavirus"
     ],
     "author": [
         "nataliyaned"
