@@ -20,7 +20,7 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">26/06/2020 07:06PM</td>
+    <td data-summary="timestamp">26/06/2020 07:20PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
