@@ -1,41 +1,41 @@
 {
-    "id": 259,
-    "date": "2020/04/26",
+    "id": 258,
+    "date": "2020/04/24",
     "sources": [
-        "https://www.vice.com/en_us/article/n7jaaq/amazon-reinstates-fired-warehouse-worker-after-employees-strike, https://twitter.com/AwoodMpls/status/1254449858343251970?s=19"
+        "https://amp.ft.com/content/d0698260-c02b-4abe-912a-fa0066e294c2, https://dnyuz.com/2020/04/24/huawei-employees-sue-company-after-police-detention/"
     ],
     "actions": [
-        "strike"
+        "legal_action"
     ],
     "struggles": [
-        "pay_and_benefits"
+        "ethics"
     ],
     "employment_types": [
-        "blue_collar_workers",
+        "white_collar_workers",
         "in_house_workers"
     ],
-    "description": "Amazon employees went on strike after the company allegedly fired a worker who chose to stay at home with her two children during the pandemic. Workers also protested the company's announcement that it would phase out their new paid-leave policy on May 1st. The company announced that two more employees had tested positive for the virus the night before the protest. Reporting from Vice and a tweet from a local community center suggest that this also served as impetus for the strike. Organizers claimed that more than 50 employees were involved in the strike, while management claimed it was 25.",
+    "description": "Two former Huawei employees are suing the company alleging that it used its local connections to the police to detain employees who posed problems for the company. One of the employees had started a chat group where there was open discussion of Huawei breaking US sanctions with Iran. That same employee claims two other members from the chat group were detained and later released as well. The Financial Times quoted Shenzhen-based labour rights lawyer, Pang Kun, who estimated that there were more than 10 others currently detained at a local jail as a result of company disputes.",
     "online": null,
     "locations": [
-        "shakopee-minnesota-usa"
+        "shen zhen-china"
     ],
     "companies": [
-        "amazon"
+        "huawei"
     ],
-    "workers": 51,
+    "workers": 2,
     "tags": [
-        "coronavirus"
+        "na"
     ],
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            44.80059945,
-            -93.48865500885567
+            22.652495950000002,
+            114.05589115565374
         ]
     ],
     "addresses": [
-        "Amazon Fullfillment Center MSP1, 4th Avenue East, Valley Haven Mobile Home Park, Shakopee, Scott County, Minnesota, 55379, United States of America"
+        "\u534e\u4e3a\u6280\u672f\u6709\u9650\u516c\u53f8, \u9f99\u5c97\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518100, China \u4e2d\u56fd"
     ]
 }

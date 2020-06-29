@@ -1,32 +1,41 @@
 {
-    "id": 270,
-    "date": "2020/06/06",
+    "id": 264,
+    "date": "2020/05/28",
     "sources": [
-        "https://www.washingtonpost.com/technology/2020/06/06/chan-zuckerberg-initiative-open-letter-trump/"
+        "https://www.latimes.com/business/technology/story/2020-05-28/amazon-whole-foods-workers-track-coronavirus-cases, https://www.theguardian.com/world/2020/may/06/tracking-tool-allows-amazon-workers-to-report-covid-19-cases"
     ],
     "actions": [
-        "open_letter"
+        "protest"
     ],
     "struggles": [
-        "ethics"
+        "working conditions"
     ],
     "employment_types": [
         "white_collar_workers"
     ],
-    "description": "Scientists funded by the Chan Zuckerberg Initiative addressed a letter to Mark Zuckerberg critiquing Facebook's role in diffusing inaccurate information, in particular Donald Trump's \"when the looting starts, the shooting starts\" comment in relation to the George Floyd protests. The authors argued that the letter promotes violence. ",
-    "online": true,
-    "locations": null,
-    "companies": [
-        "facebook"
+    "description": "Jana Jumpp, an Amazon employee in Indiana, has been tracking cases and logged at least 500 cases in 125 Amazon facilities as of late April. Jumpp has a counterpart at Amazon-owned Whole Foods, Katie Doan, who has been collecting cases since April 2. The two women have never spoken, but they describe nearly identical work fielding a torrent of private messages, searching Facebook groups, Reddit, Twitter and news outlets for reports of infections, and meticulously updating Google documents with the numbers.",
+    "online": null,
+    "locations": [
+        "usa"
     ],
-    "workers": 141,
+    "companies": [
+        "amazon"
+    ],
+    "workers": 2,
     "tags": [
-        "academics",
-        "ai"
+        "coronavirus",
+        "online_action"
     ],
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            47.6142939,
+            -122.3239636
+        ]
+    ],
+    "addresses": [
+        "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
+    ]
 }

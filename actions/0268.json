@@ -1,33 +1,41 @@
 {
-    "id": 271,
-    "date": "2020/05/23",
+    "id": 287,
+    "date": "2020/05/07",
     "sources": [
-        "https://hk.appledaily.com/breaking/20200527/6PTZ5EDM7HK2NQDMSGESGVGAQA/"
+        "https://www.vice.com/en_us/article/akzw4p/amazon-warehouse-workers-send-thousands-of-petitions-to-jeff-bezos-and-jay-carneys-homes"
     ],
     "actions": [
-        "strike"
+        "open_letter"
     ],
     "struggles": [
         "pay_and_benefits"
     ],
     "employment_types": [
-        "gig_workers"
+        "in_house_workers",
+        "blue_collar_workers"
     ],
-    "description": "Deliveroo workers went on strike for multiple days in Hong Kong over the company's new payment structure. ",
+    "description": "Amazon warehouse workers plan to deliver thousands signed petitions to the residences of Amazon CEO Jeff Bezos and lead Amazon spokesperson Jay Carney on Thursday, demanding the reinstatement of its recently terminated unlimited paid leave policy. In late April, Amazon announced that it would end its unlimited unpaid leave policy on May 1. The policy, which was introduced in response to COVID-19, allowed workers to call out sick without penalty. As of Wednesday, more than 5,300 workers from 350 locations, including Amazon warehouses, delivery pick-up stations, and Whole Foods stores, had signed onto petitions. The action was organized by a number of labor groups including the Athena coalition.",
     "online": null,
     "locations": [
-        "hong kong-china"
+        "usa"
     ],
     "companies": [
-        "deliveroo"
+        "amazon"
     ],
-    "workers": 200,
+    "workers": 5300,
     "tags": [
-        "delivery_workers"
+        "coronavirus"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            47.6142939,
+            -122.3239636
+        ]
+    ],
+    "addresses": [
+        "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
+    ]
 }

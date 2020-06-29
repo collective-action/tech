@@ -1,27 +1,26 @@
 {
-    "id": 254,
-    "date": "2020/04/10",
+    "id": 284,
+    "date": "2020/04/08",
     "sources": [
-        "https://www.peoplesworld.org/article/more-people-will-die-uber-and-lyft-drivers-demand-companies-protect-workers/, https://mobilealliance.org/wp-content/uploads/2020/04/MWA-Letter-to-Feuer-Apr-10-2020.pdf"
+        "https://www.latimes.com/business/technology/story/2020-04-09/fearful-of-covid-19-amazon-workers-ask-for-state-probe-of-working-conditions"
     ],
     "actions": [
-        "open_letter"
+        "legal_action"
     ],
     "struggles": [
-        "pay_and_benefits",
         "working conditions"
     ],
     "employment_types": [
-        "gig_workers"
+        "in_house_workers",
+        "blue_collar_workers"
     ],
-    "description": "Rideshare drivers, partnered with the Mobile Workers Alliance, sent a letter to the Los Angeles City Attorney calling for the city to mandate that Lyft and Uber provide personal protective equipment to their employees, including masks and hand sanitizer, as well as access to handwashing stations in certain locations such as the airport.",
+    "description": "Workers at Amazon\u2019s Eastvale fulfillment center in Riverside County filed complaints with state and county regulators alleging that the company failed to properly shutdown and disinfect facilities after receiving its first reported case of coronavirus. The company also delayed telling employees of third case of coronavirus for over five days, putting employees at risk. The filings were compiled by the Warehouse Worker Resource Center on behalf of LGB3 employees.",
     "online": null,
     "locations": [
-        "los angeles-california-usa"
+        "eastvale-california-usa"
     ],
     "companies": [
-        "lyft",
-        "uber"
+        "amazon"
     ],
     "workers": null,
     "tags": [
@@ -30,6 +29,13 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            33.9985319,
+            -117.55285054999999
+        ]
+    ],
+    "addresses": [
+        "Amazon Warehouse, Goodman Way, Eastvale, Riverside County, California, 91752, United States of America"
+    ]
 }

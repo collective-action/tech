@@ -28,9 +28,7 @@
         "amazon"
     ],
     "workers": 200,
-    "tags": [
-        "ice"
-    ],
+    "tags": null,
     "author": [
         "organizejs"
     ],

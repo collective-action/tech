@@ -715,12 +715,12 @@
         ],
         "latlngs": [
             [
-                41.593329749999995,
-                -83.08084569825326
+                39.1438833,
+                -84.521244
             ]
         ],
         "addresses": [
-            "Davis-Besse Nuclear Power Station, Locust Point, Carroll Township, Ottawa County, Ohio, United States of America"
+            "Ludlow Garage, Ludlow Avenue, Clifton Business District, Clifton, Cincinnati, Hamilton County, Ohio, 45220, United States of America"
         ]
     },
     {
@@ -8290,9 +8290,7 @@
             "amazon"
         ],
         "workers": 200,
-        "tags": [
-            "ice"
-        ],
+        "tags": null,
         "author": [
             "organizejs"
         ],
@@ -8357,9 +8355,7 @@
             "amazon"
         ],
         "workers": 12,
-        "tags": [
-            "ice"
-        ],
+        "tags": null,
         "author": [
             "organizejs"
         ],
@@ -10007,6 +10003,47 @@
         ]
     },
     {
+        "id": 284,
+        "date": "2020/04/08",
+        "sources": [
+            "https://www.latimes.com/business/technology/story/2020-04-09/fearful-of-covid-19-amazon-workers-ask-for-state-probe-of-working-conditions"
+        ],
+        "actions": [
+            "legal_action"
+        ],
+        "struggles": [
+            "working conditions"
+        ],
+        "employment_types": [
+            "in_house_workers",
+            "blue_collar_workers"
+        ],
+        "description": "Workers at Amazon\u2019s Eastvale fulfillment center in Riverside County filed complaints with state and county regulators alleging that the company failed to properly shutdown and disinfect facilities after receiving its first reported case of coronavirus. The company also delayed telling employees of third case of coronavirus for over five days, putting employees at risk. The filings were compiled by the Warehouse Worker Resource Center on behalf of LGB3 employees.",
+        "online": null,
+        "locations": [
+            "eastvale-california-usa"
+        ],
+        "companies": [
+            "amazon"
+        ],
+        "workers": null,
+        "tags": [
+            "coronavirus"
+        ],
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": [
+            [
+                33.9985319,
+                -117.55285054999999
+            ]
+        ],
+        "addresses": [
+            "Amazon Warehouse, Goodman Way, Eastvale, Riverside County, California, 91752, United States of America"
+        ]
+    },
+    {
         "id": 254,
         "date": "2020/04/10",
         "sources": [
@@ -10282,7 +10319,7 @@
         "employment_types": [
             "gig_workers"
         ],
-        "description": "Foodora couriers announced their intention to join a union of Canadian post workers and held a union drive. If successful, this would make Foodora workers the first app-based employees to unionize in Canada. In April 2020 the company announced its intention to leave the Canadian market and initiated bankruptcy proceedings, making the future of the business and the unionizing effort uncertain.",
+        "description": "Foodora couriers announced their intention to join a union of Canadian post workers and held a union drive. If successful, this would make Foodora workers the first app-based employees to unionize in Canada. In April 2020 the company announced its intention to leave the Canadian market and initiated bankruptcy proceedings, making the future of the business and the unionizing effort uncertain. ",
         "online": null,
         "locations": [
             "toronto-ontario-canada"
@@ -10437,6 +10474,47 @@
         "addresses": [
             "274, \u9038\u4ed9\u8def, \u65b0\u6e2f\u8857\u9053, \u5e7f\u5dde\u5e02, \u6d77\u73e0\u533a, \u5e7f\u4e1c\u7701, 510105, China \u4e2d\u56fd",
             "33\u53f7, \u7ca4\u6d77\u8857\u9053, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518054, China \u4e2d\u56fd"
+        ]
+    },
+    {
+        "id": 287,
+        "date": "2020/05/07",
+        "sources": [
+            "https://www.vice.com/en_us/article/akzw4p/amazon-warehouse-workers-send-thousands-of-petitions-to-jeff-bezos-and-jay-carneys-homes"
+        ],
+        "actions": [
+            "open_letter"
+        ],
+        "struggles": [
+            "pay_and_benefits"
+        ],
+        "employment_types": [
+            "in_house_workers",
+            "blue_collar_workers"
+        ],
+        "description": "Amazon warehouse workers plan to deliver thousands signed petitions to the residences of Amazon CEO Jeff Bezos and lead Amazon spokesperson Jay Carney on Thursday, demanding the reinstatement of its recently terminated unlimited paid leave policy. In late April, Amazon announced that it would end its unlimited unpaid leave policy on May 1. The policy, which was introduced in response to COVID-19, allowed workers to call out sick without penalty. As of Wednesday, more than 5,300 workers from 350 locations, including Amazon warehouses, delivery pick-up stations, and Whole Foods stores, had signed onto petitions. The action was organized by a number of labor groups including the Athena coalition.",
+        "online": null,
+        "locations": [
+            "usa"
+        ],
+        "companies": [
+            "amazon"
+        ],
+        "workers": 5300,
+        "tags": [
+            "coronavirus"
+        ],
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": [
+            [
+                47.6142939,
+                -122.3239636
+            ]
+        ],
+        "addresses": [
+            "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
         ]
     },
     {
@@ -10732,5 +10810,183 @@
         "addresses": [
             "Microsoft Gathering Hall, 32nd Avenue South, Columbia City, Holly Park, Seattle, King County, Washington, 98118, United States of America"
         ]
+    },
+    {
+        "id": 283,
+        "date": "2020/06/12",
+        "sources": [
+            "https://rabble.ca/news/2020/06/foodsters-union-certification-win-symbolic-other-gig-workers"
+        ],
+        "actions": [
+            "union_representation"
+        ],
+        "struggles": [
+            "working conditions"
+        ],
+        "employment_types": [
+            "gig_workers"
+        ],
+        "description": "Foodora couriers overwhelmingly voted to join the Canadian Union of Postal Workers (CUPW). 88% of workers who voted supported joining the union. In April 2020, Foodora announced it was leaving the country after the Ontario Labor Board voted to recognize the couriers as company employees. While this makes the vote largely symbolic, it nevertheless makes Foodora's union the first certified gig workers' union in Canada.",
+        "online": null,
+        "locations": [
+            "toronto-ontario-canada"
+        ],
+        "companies": [
+            "foodora"
+        ],
+        "workers": null,
+        "tags": [
+            "delivery_workers"
+        ],
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 285,
+        "date": "2020/06/15",
+        "sources": [
+            "https://medium.com/@macprac/open-letter-the-mit-college-of-computing-must-address-systemic-racism-b8c63ccc3d36\n"
+        ],
+        "actions": [
+            "open_letter"
+        ],
+        "struggles": [
+            "ethics"
+        ],
+        "employment_types": [
+            "white_collar_workers"
+        ],
+        "description": "Over 90 individuals and organizations affiliated with MIT have signed a letter to the MIT College of Computing Leadership calling for the college to make a public statement condemning the death of George Floyd, developing a plan to address \"the legacy of anti-blackness and the relationship between technology and policing\", and breaking ties with companies that sell to police departments and ICE. Long-term asks include hiring more Black faculty and recruiting and accepting more Black undergraduate and graduate students.",
+        "online": true,
+        "locations": [
+            "cambridge-massachusetts-usa"
+        ],
+        "companies": [
+            "mit"
+        ],
+        "workers": 91,
+        "tags": [
+            "blm",
+            "antiracism",
+            "academics"
+        ],
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": [
+            [
+                42.3583961,
+                -71.09567787663931
+            ]
+        ],
+        "addresses": [
+            "Massachusetts Institute of Technology, Third Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+        ]
+    },
+    {
+        "id": 286,
+        "date": "2020/06/18",
+        "sources": [
+            "https://medium.com/@catalina.brennan.gatica/sign-on-open-letter-to-gig-companies-regarding-black-lives-matter-4b48420e238d"
+        ],
+        "actions": [
+            "open_letter"
+        ],
+        "struggles": [
+            "ethics"
+        ],
+        "employment_types": [
+            "gig_workers"
+        ],
+        "description": "Gig Workers Rising organized an open letter from workers calling for economic justice from their employees, many of whom are Black and Brown, as a means of responding meaningfully to anti-racist protests. The letter calls out companies for releasing statements that \"have included various platitudes about your commitment to Racial Justice and the Black community\" without promising \"real change\". Among the demands are: (1) \"meaningful representation at work\", (2) \"benefits to take care of ourselves and our families\", (3) \"a living wage\", (4) and dropping the AB5 ballot measure. To date, the letter has received over 330 signatures.",
+        "online": true,
+        "locations": null,
+        "companies": [
+            "uber",
+            "lyft",
+            "doordash",
+            "instacart",
+            "postmates"
+        ],
+        "workers": 339,
+        "tags": [
+            "blm",
+            "antiracism"
+        ],
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 279,
+        "date": "2020/06/22",
+        "sources": [
+            "https://www.theverge.com/2020/6/22/21299736/google-employees-cut-ties-police-law-enforcement-black-lives-matter, https://gizmodo.com/1-600-googlers-call-for-an-end-to-all-contracts-with-c-1844124793?rev=1592864623516, https://www.businessinsider.com/googlers-send-letter-ceo-sundar-pichai-stop-working-with-police-2020-6"
+        ],
+        "actions": [
+            "open letter"
+        ],
+        "struggles": [
+            "ethics"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "in-house workers"
+        ],
+        "description": "Over 1, 650 Google employees have signed an open letter to CEO Sundar Pichai demanding the company stop selling its technology to police forces across the US. \u201cThe past weeks have shown us that addressing racism is not merely an issue of words, but of actions taken to dismantle the actual structures that perpetuate it, \u201d the letter, written by the employee group Googlers Against Racism, reads. \u201cWhile we as individuals hold difficult but necessary conversations with our family, friends and peers, we are also incredibly disappointed by our company\u2019s response.\u201d",
+        "online": true,
+        "locations": null,
+        "companies": [
+            "google"
+        ],
+        "workers": 1650,
+        "tags": [
+            "blm",
+            "antiracism"
+        ],
+        "author": [
+            "organizejs"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 288,
+        "date": "2020/06/23",
+        "sources": [
+            "https://medium.com/@CoalitionForCriticalTechnology/abolish-the-techtoprisonpipeline-9b5b14366b16"
+        ],
+        "actions": [
+            "open letter"
+        ],
+        "struggles": [
+            "ethics",
+            "discrimination"
+        ],
+        "employment_types": [
+            "white collar workers"
+        ],
+        "description": "Hundreds of expert researchers and practitioners across a variety of technical, scientific, and humanistic fields (including statistics, machine learning and artificial intelligence, law, sociology, history, communication studies and anthropology) sign a letter calling for a forthcoming publication entitled \u201cA Deep Neural Network Model to Predict Criminality Using Image Processing\u201d, to be rescinded from publication. The letter also urges for such research topics to not be published in the future.",
+        "online": true,
+        "locations": null,
+        "companies": [
+            "Springer Publishing"
+        ],
+        "workers": 600,
+        "tags": [
+            "blm",
+            "antiracism",
+            "academics"
+        ],
+        "author": [
+            "organizejs"
+        ],
+        "latlngs": null,
+        "addresses": null
     }
 ]

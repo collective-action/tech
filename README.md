@@ -20,11 +20,11 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">22/06/2020 11:35PM</td>
+    <td data-summary="timestamp">29/06/2020 02:20PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">275</td>
+    <td data-summary="action-count">282</td>
   </tr>
  </table>
 </div>
@@ -43,6 +43,81 @@ The goal of this archive is to provide data and insights on organizing in the te
     link
    </td>
   </tr>
+  <tr author="organizejs">
+   <td>
+    2020-06-23
+   </td>
+   <td>
+    Hundreds of expert researchers and practitioners across a variety of technical, scientific, and humanistic fields (including statistics, machine learning and artificial intelligence, law, sociology, history, communication studies and anthropology) sign a letter calling for a forthcoming publication entitled “A Deep Neural Network Model to Predict Criminality Using Image Processing”, to be rescinded from publication. The letter also urges for such research topics to not be published in the future.
+   </td>
+   <td>
+    <a href="/actions/0281.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="organizejs">
+   <td>
+    2020-06-22
+   </td>
+   <td>
+    Over 1, 650 Google employees have signed an open letter to CEO Sundar Pichai demanding the company stop selling its technology to police forces across the US. “The past weeks have shown us that addressing racism is not merely an issue of words, but of actions taken to dismantle the actual structures that perpetuate it, ” the letter, written by the employee group Googlers Against Racism, reads. “While we as individuals hold difficult but necessary conversations with our family, friends and peers, we are also incredibly disappointed by our company’s response.”
+   </td>
+   <td>
+    <a href="/actions/0280.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="nataliyaned">
+   <td>
+    2020-06-18
+   </td>
+   <td>
+    Gig Workers Rising organized an open letter from workers calling for economic justice from their employees, many of whom are Black and Brown, as a means of responding meaningfully to anti-racist protests. The letter calls out companies for releasing statements that "have included various platitudes about your commitment to Racial Justice and the Black community" without promising "real change". Among the demands are: (1) "meaningful representation at work", (2) "benefits to take care of ourselves and our families", (3) "a living wage", (4) and dropping the AB5 ballot measure. To date, the letter has received over 330 signatures.
+   </td>
+   <td>
+    <a href="/actions/0279.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="nataliyaned">
+   <td>
+    2020-06-15
+   </td>
+   <td>
+    Over 90 individuals and organizations affiliated with MIT have signed a letter to the MIT College of Computing Leadership calling for the college to make a public statement condemning the death of George Floyd, developing a plan to address "the legacy of anti-blackness and the relationship between technology and policing", and breaking ties with companies that sell to police departments and ICE. Long-term asks include hiring more Black faculty and recruiting and accepting more Black undergraduate and graduate students.
+   </td>
+   <td>
+    <a href="/actions/0278.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="nataliyaned">
+   <td>
+    2020-06-12
+   </td>
+   <td>
+    Foodora couriers overwhelmingly voted to join the Canadian Union of Postal Workers (CUPW). 88% of workers who voted supported joining the union. In April 2020, Foodora announced it was leaving the country after the Ontario Labor Board voted to recognize the couriers as company employees. While this makes the vote largely symbolic, it nevertheless makes Foodora's union the first certified gig workers' union in Canada.
+   </td>
+   <td>
+    <a href="/actions/0277.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
   <tr author="nataliyaned">
    <td>
     2020-06-08
@@ -51,7 +126,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Hundreds of Microsoft employees have signed a letter to the company’s top executives asking for Microsoft to take action in the wake of national protests. The initiative came out of a Facebook group called "Young Microsoft FTEs". The email to the Microsoft executives includes a list of requests, including increased leniency for Microsoft workers in performance reviews due to the coronavirus pandemic and protests; the company formally condemning the use of tear gas, rubber bullets, and flashbangs; increasing Microsoft’s employee donation matches; the cancellation of contracts with SPD and other law enforcement agencies; support for defunding the SPD; signing a petition for the resignation of Seattle Mayor Jenny Durkan; and support for a list of demands from BLM Seattle. Employees volunteered to be CC’d on the email in a show of solidarity, though their inclusion was not intended to show explicit support for every request, according to the email.
    </td>
    <td>
-    <a href="/actions/0274.json">
+    <a href="/actions/0276.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -66,7 +141,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Nine current and former Facebook content moderators posted a message of solidarity with the Black community in the wake of the George Floyd protests and in support of the virtual walkout. The authors noted that they would have attended the walkout "if Facebook would allow it. As outsourced contractors, non-disclosure agreements deter us from speaking openly about what we do and witness for most of our waking hours." The workers also remarked on the lack of protections they receive from their employer. "We would walk out with you — if we could afford it. At the moment, content moderators have no possibility, no network or platform or financial security — especially when we are atomized in pandemic and remotely micromanaged — to stage an effective walkout without risking fines, our income and even our right to stay in the countries where we live and work."
    </td>
    <td>
-    <a href="/actions/0273.json">
+    <a href="/actions/0275.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -81,7 +156,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Contract workers for Facebook in Austin, Texas, say they have been retaliated against for union organizing, resulting in two workers’ departure in recent weeks. The workers, who help Facebook find and triage internal bugs, are unhappy with their employer, the India-based firm WiPro, and have been organizing in the workplace to pressure both companies for improvements. Recently, two people involved in the organizing campaign who were vocal about these issues departed the company. Both had posted heated messages on an internal message board about the need to improve conditions for the contingent workers and encouraging remaining staff to support a union drive, and say their departures followed retaliation from WiPro. Since January, the Communication Workers of America (CWA) labor union has been promoting its Campaign to Organize Digital Employees (CODE). The organization is especially interested in organizing workers who, like the Austin-based contingent Facebook workers, perform work for major tech firms but aren’t directly employed by them.
    </td>
    <td>
-    <a href="/actions/0272.json">
+    <a href="/actions/0274.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -96,7 +171,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Scientists funded by the Chan Zuckerberg Initiative addressed a letter to Mark Zuckerberg critiquing Facebook's role in diffusing inaccurate information, in particular Donald Trump's "when the looting starts, the shooting starts" comment in relation to the George Floyd protests. The authors argued that the letter promotes violence.
    </td>
    <td>
-    <a href="/actions/0271.json">
+    <a href="/actions/0273.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -111,7 +186,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Facebook employees hosted a virtual walkout, refusing to work for the time of the event, in protest of the company's failure to take a tougher stance on Trump's posts in reaction to the George Floyd protests. Many employees also expressed solidarity with the Black Lives Matter movement. The New York Times reports that employees have also circulated petitions internally and threatened to resign in response to the event. The previous week Twitter added fact-check and warning labels to two tweets from the president that broke Twitter’s rules around voter suppression and glorification of violence.
    </td>
    <td>
-    <a href="/actions/0270.json">
+    <a href="/actions/0272.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -126,7 +201,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Jana Jumpp, an Amazon employee in Indiana, has been tracking cases and logged at least 500 cases in 125 Amazon facilities as of late April. Jumpp has a counterpart at Amazon-owned Whole Foods, Katie Doan, who has been collecting cases since April 2. The two women have never spoken, but they describe nearly identical work fielding a torrent of private messages, searching Facebook groups, Reddit, Twitter and news outlets for reports of infections, and meticulously updating Google documents with the numbers.
    </td>
    <td>
-    <a href="/actions/0269.json">
+    <a href="/actions/0271.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -141,7 +216,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Deliveroo workers went on strike for multiple days in Hong Kong over the company's new payment structure.
    </td>
    <td>
-    <a href="/actions/0268.json">
+    <a href="/actions/0270.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -156,7 +231,22 @@ The goal of this archive is to provide data and insights on organizing in the te
     Around 100 Uber and Lyft drivers are staging a caravan protest at Uber's San Francisco headquarters to demand Uber comply with gig worker protections law AB 5, pay into the state's unemployment insurance fund and drop the ballot initiative it proposed along with Lyft and DoorDash that aims to keep gig workers classified as independent contractors. 'Uber, Lyft and other gig companies are continuing in the same path of abusing and completely taking advantage of workers while putting them at risk,' rideshare driver and organizer with Gig Workers Rising Edan Alva told TechCrunch. This protest comes shortly after California Attorney General Xavier Becerra, along with city attorneys from Los Angeles, San Diego and San Francisco, filed a lawsuit asserting Uber and Lyft gain an unfair and unlawful competitive advantage by misclassifying workers as independent contractors.
    </td>
    <td>
-    <a href="/actions/0267.json">
+    <a href="/actions/0269.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="nataliyaned">
+   <td>
+    2020-05-07
+   </td>
+   <td>
+    Amazon warehouse workers plan to deliver thousands signed petitions to the residences of Amazon CEO Jeff Bezos and lead Amazon spokesperson Jay Carney on Thursday, demanding the reinstatement of its recently terminated unlimited paid leave policy. In late April, Amazon announced that it would end its unlimited unpaid leave policy on May 1. The policy, which was introduced in response to COVID-19, allowed workers to call out sick without penalty. As of Wednesday, more than 5,300 workers from 350 locations, including Amazon warehouses, delivery pick-up stations, and Whole Foods stores, had signed onto petitions. The action was organized by a number of labor groups including the Athena coalition.
+   </td>
+   <td>
+    <a href="/actions/0268.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -171,7 +261,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Hundreds of thousands of writers signed to China Literature (subsidiary of Tencent), the country's biggest online publisher, went on an online strike, protesting against exploitative contracts and the company's regular infringement of their intellectual property rights. The strike's organizers were demonstrating against proposed changes to China Literature’s business model and contracts with its writers. Writers stopped publishing new content on the website on the day of the strike. This change would negatively affect writers' income, which primarily comes from subscription fees and tips from their readers. 'Financially speaking, we were already drowning in quicksand before the rumors. Now they are trying to give us a death blow' a China Literature writer
    </td>
    <td>
-    <a href="/actions/0266.json">
+    <a href="/actions/0267.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -186,7 +276,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Amazon has been sued by workers at two different locations, New York City and Salem, Oregon, for its failure to protect its employees during the coronavirus pandemic. Three Amazon employees from the New York fulfillment center sued the company for failing to follow local public health guidance, claiming the company purposefully miscommunicated with workers. The employees are not seeking compensation, only an order that Amazon comply with guidance. A former employee from Salem alleged that she was fired after taking a medical leave for a coronavirus infection and speaking out publicly about safety issues.
    </td>
    <td>
-    <a href="/actions/0265.json">
+    <a href="/actions/0266.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -201,7 +291,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Workers at Amazon, Whole Foods, Instacart, Target, and Shipt walked off the job on May 1st (International Workers' Day) to call for better working conditions under the covid-19 pandemic. The Washington Post reports that "a small crowd" outside of an Amazon Staten Island warehouse was made up of Amazon workers and also healthcare professionals who appeared out of solidarity with their cause. The scale of the action is difficult to measure, given its broad geography. Walkouts and protests were reported in Atlanta, New York, and the Bay Area.
    </td>
    <td>
-    <a href="/actions/0264.json">
+    <a href="/actions/0265.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -216,7 +306,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Foodora couriers announced their intention to join a union of Canadian post workers and held a union drive. If successful, this would make Foodora workers the first app-based employees to unionize in Canada. In April 2020 the company announced its intention to leave the Canadian market and initiated bankruptcy proceedings, making the future of the business and the unionizing effort uncertain.
    </td>
    <td>
-    <a href="/actions/0263.json">
+    <a href="/actions/0264.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -231,7 +321,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Amazon Workers International, speaking on behalf of Amazon workers across the U.S. and Europe, sent an open letter to Jeff Bezos and Stefano Perego, VP of European Fulfillment. The letter called for making covid-era wage increases and breaks permanent and suspending productivity feedback. In addition, AWI demanded more transparency around covid cases at Amazon, improved sick leave, and good faith bargaining with unions.
    </td>
    <td>
-    <a href="/actions/0262.json">
+    <a href="/actions/0263.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -246,7 +336,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Amazon employees went on strike after the company allegedly fired a worker who chose to stay at home with her two children during the pandemic. Workers also protested the company's announcement that it would phase out their new paid-leave policy on May 1st. The company announced that two more employees had tested positive for the virus the night before the protest. Reporting from Vice and a tweet from a local community center suggest that this also served as impetus for the strike. Organizers claimed that more than 50 employees were involved in the strike, while management claimed it was 25.
    </td>
    <td>
-    <a href="/actions/0261.json">
+    <a href="/actions/0262.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -261,7 +351,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Two former Huawei employees are suing the company alleging that it used its local connections to the police to detain employees who posed problems for the company. One of the employees had started a chat group where there was open discussion of Huawei breaking US sanctions with Iran. That same employee claims two other members from the chat group were detained and later released as well. The Financial Times quoted Shenzhen-based labour rights lawyer, Pang Kun, who estimated that there were more than 10 others currently detained at a local jail as a result of company disputes.
    </td>
    <td>
-    <a href="/actions/0260.json">
+    <a href="/actions/0261.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -276,7 +366,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Over 300 Amazon workers across the country signed a pledge to call out of work to protest the company's reaction to the coronavirus pandemic. Participants claim the company continues to fall short in providing personal protective equipment and are calling for a more flexible paid leave policy that would allow them to take care of sick family members.
    </td>
    <td>
-    <a href="/actions/0259.json">
+    <a href="/actions/0260.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -291,7 +381,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Over 300 academics from 26 countries signed a letter calling for contact-tracing apps to respect user privacy and to limit large-scale, centralized surveillance in favor of decentralized systems. The signatories favored the DP-3T protocol and systems like Apple and Google’s cross-platform solution over the PEPP-T system designed by a set of European countries.
    </td>
    <td>
-    <a href="/actions/0258.json">
+    <a href="/actions/0259.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -306,7 +396,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     As a gesture of solidarity, tech workers have started tweeting with the hashtags #TechSolidarity, #AmazonStrike, #HuelgaAmazon to indicate support for striking Amazon workers. The Twitter page, @TechSpeaksOut, was reportedly designed to exert public pressure tech corporations. In addition to taking to Twitter, activists have started GoFundMes and mutual aid campaigns to benefit workers.
    </td>
    <td>
-    <a href="/actions/0257.json">
+    <a href="/actions/0258.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -319,6 +409,21 @@ The goal of this archive is to provide data and insights on organizing in the te
    </td>
    <td>
     Rideshare drivers, partnered with the Mobile Workers Alliance, sent a letter to the Los Angeles City Attorney calling for the city to mandate that Lyft and Uber provide personal protective equipment to their employees, including masks and hand sanitizer, as well as access to handwashing stations in certain locations such as the airport.
+   </td>
+   <td>
+    <a href="/actions/0257.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="nataliyaned">
+   <td>
+    2020-04-08
+   </td>
+   <td>
+    Workers at Amazon’s Eastvale fulfillment center in Riverside County filed complaints with state and county regulators alleging that the company failed to properly shutdown and disinfect facilities after receiving its first reported case of coronavirus. The company also delayed telling employees of third case of coronavirus for over five days, putting employees at risk. The filings were compiled by the Warehouse Worker Resource Center on behalf of LGB3 employees.
    </td>
    <td>
     <a href="/actions/0256.json">
