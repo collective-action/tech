@@ -5843,8 +5843,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                42.3506879,
+                -71.0732592
+            ]
+        ],
+        "addresses": [
+            "Wayfair, Berkeley Street, Block B, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States of America"
+        ]
     },
     {
         "id": 152,
