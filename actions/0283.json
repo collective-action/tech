@@ -1,0 +1,83 @@
+{
+    "id": 292,
+    "date": "2020/07/01",
+    "sources": [
+        "https://www.wsws.org/en/articles/2020/07/04/braz-j04.html, https://www.facebook.com/watch/?v=367281267582648"
+    ],
+    "actions": [
+        "protest",
+        "strike"
+    ],
+    "struggles": [
+        "working conditions",
+        "pay_and_benefits"
+    ],
+    "employment_types": [
+        "gig_workers"
+    ],
+    "description": "Thousands of delivery workers have engaged in a strike on Wednesday demanding better working conditions in more than 10 Brazilian capitals, as well as in cities in Argentina and Mexico. This was spurred by lack of health benefits in light of the covid-19 pandemic. The workers organized themselves outside the unions with broad popular support as they spread their movement through the internet using the hashtags #BrequeDosApps (brake the apps) and #YoNoReparto (I won\u2019t deliver). Besides the risk of being exposed to the virus, workers report long working hours\u2014often more than 14 hours a day\u2014for increasingly low pay, without health insurance or labor rights.",
+    "online": null,
+    "locations": [
+        "rio de janiero-brazil",
+        "s\u00e3o paulo-brazil",
+        "argentina",
+        "mexico"
+    ],
+    "companies": [
+        "loggi",
+        "iFood",
+        "rappi",
+        "uber"
+    ],
+    "workers": 5000,
+    "tags": [
+        "coronavirus"
+    ],
+    "author": [
+        "nataliyaned"
+    ],
+    "latlngs": [
+        [
+            -23.5408511,
+            -46.767282173446574
+        ],
+        [
+            -21.2180398,
+            -47.7985009230547
+        ],
+        [
+            47.2260752,
+            8.8172776
+        ],
+        [
+            -36.8691092,
+            -60.1620626
+        ],
+        [
+            57.8680579,
+            -5.1274406
+        ],
+        [
+            18.6534612,
+            -91.8401158
+        ],
+        [
+            47.2269198,
+            8.8245459
+        ],
+        [
+            19.42437,
+            -99.168218
+        ]
+    ],
+    "addresses": [
+        "iFood, Avenida dos Autonomistas, Vila Osasco, Osasco, S\u00e3o Paulo, Regi\u00e3o Sudeste, 06020-010, Brasil",
+        "Parque Uber, Jardim Bot\u00e2nico, Ribeir\u00e3o Preto, Regi\u00e3o Imediata de Ribeir\u00e3o Preto, Regi\u00e3o Metropolitana de Ribeir\u00e3o Preto, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Ribeir\u00e3o Preto, S\u00e3o Paulo, Regi\u00e3o Sudeste, Brasil",
+        "7, Alpenstrasse, Rapperswil-Jona, Wahlkreis See-Gaster, Sankt Gallen, 8640, Switzerland",
+        "Cristian Uber, Hinojo, Partido de Olavarr\u00eda, Buenos Aires, 7318, Argentina",
+        "Loggie, Ullapool, Highland, Scotland, IV23 2SG, United Kingdom",
+        "Ifood, 61A, FRACC. MARINA DEL REY, Ciudad del Carmen, Carmen, Campeche, 24100, M\u00e9xico",
+        "Rapperswil, Wahlkreis See-Gaster, Sankt Gallen, 8640, Switzerland",
+        "Uber, Calle Hamburgo, Ju\u00e1rez, Ciudad de M\u00e9xico, Cuauht\u00e9moc, Ciudad de M\u00e9xico, 06600, M\u00e9xico"
+    ]
+}
