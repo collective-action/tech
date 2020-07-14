@@ -31,7 +31,8 @@
     ],
     "workers": 5000,
     "tags": [
-        "coronavirus"
+        "coronavirus",
+        "delivery_workers"
     ],
     "author": [
         "nataliyaned"
