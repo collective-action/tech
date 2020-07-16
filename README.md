@@ -20,7 +20,7 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">16/07/2020 11:51AM</td>
+    <td data-summary="timestamp">16/07/2020 12:06PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
@@ -63,7 +63,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2020-06-23
    </td>
    <td>
-    Two former Pinterest employees, both Black women, spoke out on Twitter about the racism they experienced in the workplace. One of the employees, Ifeoma Ozoma, said she was not being fairly paid according to company data. She also said she had to come up with a list of pros to defend promoting former slave plantations for wedding venues. After speaking out, a white employee of the company doxxed her, placing her personal contact information online. He was fired soon after. Another former employee, Erika Shimizu Ban, said her expenses with Black organizations had been repeatedly questioned.
+    Two former Pinterest employees, both Black women, spoke out on Twitter about the racism they experienced in the workplace. One of the employees, Ifeoma Ozoma, said she was not being fairly paid according to company data. She also said she had to come up with a list of pros to defend promoting former slave plantations for wedding venues. After speaking out, a white employee of the company doxxed her, placing her personal contact information online. He was fired soon after. Another former employee, Aerica Shimizu Ban, said her expenses with Black organizations had been repeatedly questioned.
    </td>
    <td>
     <a href="/actions/0282.json">
