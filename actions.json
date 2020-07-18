@@ -3572,8 +3572,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                7.2077919,
+                38.613507
+            ]
+        ],
+        "addresses": [
+            "Bolt, Addis Ababa to Nairobi road, \u1218\u120d\u12ab \u12a1\u12f3, \u123b\u1238\u1218\u1294 / Shashamane, East Shewa, \u12a6\u122e\u121a\u12eb \u12ad\u120d\u120d / Oromia, Ethiopia"
+        ]
     },
     {
         "id": 94,
@@ -3989,8 +3996,8 @@
         ],
         "latlngs": [
             [
-                33.9446707,
-                -117.026448
+                33.944245,
+                -117.0263957
             ]
         ],
         "addresses": [
@@ -6083,6 +6090,10 @@
         ],
         "latlngs": [
             [
+                -34.5814605,
+                -58.4513731
+            ],
+            [
                 19.42437,
                 -99.168218
             ],
@@ -6092,6 +6103,7 @@
             ]
         ],
         "addresses": [
+            "Glovo, Avenida Federico Lacroze, Colegiales, Buenos Aires, Comuna 15, C1427EDN, Argentina",
             "Uber, Calle Hamburgo, Ju\u00e1rez, Ciudad de M\u00e9xico, Cuauht\u00e9moc, Ciudad de M\u00e9xico, 06600, M\u00e9xico",
             "Rapperswil, Wahlkreis See-Gaster, Sankt Gallen, 8640, Switzerland"
         ]
@@ -6206,8 +6218,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                7.2077919,
+                38.613507
+            ]
+        ],
+        "addresses": [
+            "Bolt, Addis Ababa to Nairobi road, \u1218\u120d\u12ab \u12a1\u12f3, \u123b\u1238\u1218\u1294 / Shashamane, East Shewa, \u12a6\u122e\u121a\u12eb \u12ad\u120d\u120d / Oromia, Ethiopia"
+        ]
     },
     {
         "id": 161,
@@ -6244,12 +6263,12 @@
         ],
         "latlngs": [
             [
-                37.4815072,
-                -122.1572098
+                37.484668049999996,
+                -122.1483654685629
             ]
         ],
         "addresses": [
-            "Facebook Way, Belle Haven, Menlo Park, San Mateo County, California, 94025-1246, United States of America"
+            "Facebook, Bayfront Expressway, Belle Haven, Menlo Park, San Mateo County, California, 94025-1246, United States of America"
         ]
     },
     {
@@ -8565,12 +8584,12 @@
         ],
         "latlngs": [
             [
-                37.7841938,
-                -122.3992122
+                37.7871368,
+                -122.2795012
             ]
         ],
         "addresses": [
-            "SPiN SF, Folsom Street, South of Market, San Francisco, San Francisco City and County, California, 94105, United States of America"
+            "SPIN!, Mariner Square Loop, Jack London Square, Alameda, Alameda County, California, 94607, United States of America"
         ]
     },
     {
