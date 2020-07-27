@@ -1,6 +1,6 @@
-name: Collective Actions in Tech
-url: https://collectiveactions.tech
-description: An archive of all collective actions from workers in the tech industry.
+name: Collective Action in Tech
+url: https://collectiveaction.tech
+description: An archive of all collective action from workers in the tech industry.
 markdown: kramdown
 plugins:
   - jekyll-seo-tag
