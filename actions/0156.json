@@ -34,6 +34,10 @@
     ],
     "latlngs": [
         [
+            -34.5814605,
+            -58.4513731
+        ],
+        [
             19.42437,
             -99.168218
         ],
@@ -43,6 +47,7 @@
         ]
     ],
     "addresses": [
+        "Glovo, Avenida Federico Lacroze, Colegiales, Buenos Aires, Comuna 15, C1427EDN, Argentina",
         "Uber, Calle Hamburgo, Ju\u00e1rez, Ciudad de M\u00e9xico, Cuauht\u00e9moc, Ciudad de M\u00e9xico, 06600, M\u00e9xico",
         "Rapperswil, Wahlkreis See-Gaster, Sankt Gallen, 8640, Switzerland"
     ]
