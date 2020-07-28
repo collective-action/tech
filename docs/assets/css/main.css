@@ -46,12 +46,28 @@ h1 {
 .is-mobile h1 {
     font-size: 2em;
 }
+h2 {
+    font-size: 2em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+.is-mobile h2 {
+    font-size: 1.5em;
+}
 p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
 }
 .is-mobile p {
+    font-size: 1.2em;
+    line-height: 1.2em;
+}
+ul, ol {
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: #333;
+}
+.is-mobile ul, .is-mobile ol {
     font-size: 1.2em;
     line-height: 1.2em;
 }
