@@ -2,7 +2,7 @@ name: Airtable
 
 on:
   schedule:
-    - cron:  '*/15 * * * *'
+    - cron:  '*/60 * * * *'
 
 jobs:
   build:
