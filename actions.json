@@ -67,7 +67,7 @@
             ]
         ],
         "addresses": [
-            "10025, Northeast Cascades Parkway, Portland, Multnomah County, Oregon, 97220, United States of America"
+            "AT&T, 10025, Northeast Cascades Parkway, Portland, Multnomah County, Oregon, 97220, United States of America"
         ]
     },
     {
@@ -210,7 +210,7 @@
             ]
         ],
         "addresses": [
-            "Microsoft Gathering Hall, 32nd Avenue South, Columbia City, Holly Park, Seattle, King County, Washington, 98118, United States of America"
+            "Microsoft Gathering Hall, 7054, 32nd Avenue South, Columbia City, Holly Park, Seattle, King County, Washington, 98118, United States of America"
         ]
     },
     {
@@ -286,7 +286,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
+            "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
         ]
     },
     {
@@ -325,7 +325,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
+            "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
         ]
     },
     {
@@ -441,7 +441,7 @@
             ]
         ],
         "addresses": [
-            "Microsoft Gathering Hall, 32nd Avenue South, Columbia City, Holly Park, Seattle, King County, Washington, 98118, United States of America"
+            "Microsoft Gathering Hall, 7054, 32nd Avenue South, Columbia City, Holly Park, Seattle, King County, Washington, 98118, United States of America"
         ]
     },
     {
@@ -720,7 +720,7 @@
             ]
         ],
         "addresses": [
-            "Ludlow Garage, Ludlow Avenue, Clifton Business District, Clifton, Cincinnati, Hamilton County, Ohio, 45220, United States of America"
+            "Ludlow Garage, 342, Ludlow Avenue, Clifton Business District, Clifton, Cincinnati, Hamilton County, Ohio, 45220, United States of America"
         ]
     },
     {
@@ -938,7 +938,7 @@
             ]
         ],
         "addresses": [
-            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America"
+            "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America"
         ]
     },
     {
@@ -972,8 +972,8 @@
         ],
         "latlngs": [
             [
-                50.8523727,
-                9.7311825
+                50.8453279,
+                9.678334853465138
             ],
             [
                 51.3622584,
@@ -981,8 +981,8 @@
             ]
         ],
         "addresses": [
-            "Amazon-Stra\u00dfe, Hohe Luft, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
-            "Amazon, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland"
+            "Amazon Logistik GmbH, 1, Eichhof, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
+            "Amazon, 1, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland"
         ]
     },
     {
@@ -1048,8 +1048,8 @@
         ],
         "latlngs": [
             [
-                50.8523727,
-                9.7311825
+                50.8453279,
+                9.678334853465138
             ],
             [
                 51.3622584,
@@ -1057,8 +1057,8 @@
             ]
         ],
         "addresses": [
-            "Amazon-Stra\u00dfe, Hohe Luft, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
-            "Amazon, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland"
+            "Amazon Logistik GmbH, 1, Eichhof, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
+            "Amazon, 1, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland"
         ]
     },
     {
@@ -1093,8 +1093,8 @@
         ],
         "latlngs": [
             [
-                50.8523727,
-                9.7311825
+                50.8453279,
+                9.678334853465138
             ],
             [
                 51.3622584,
@@ -1102,8 +1102,8 @@
             ]
         ],
         "addresses": [
-            "Amazon-Stra\u00dfe, Hohe Luft, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
-            "Amazon, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland"
+            "Amazon Logistik GmbH, 1, Eichhof, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
+            "Amazon, 1, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland"
         ]
     },
     {
@@ -1176,8 +1176,8 @@
         ],
         "latlngs": [
             [
-                50.8523727,
-                9.7311825
+                50.8453279,
+                9.678334853465138
             ],
             [
                 51.3622584,
@@ -1197,11 +1197,11 @@
             ]
         ],
         "addresses": [
-            "Amazon-Stra\u00dfe, Hohe Luft, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
-            "Amazon, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland",
+            "Amazon Logistik GmbH, 1, Eichhof, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
+            "Amazon, 1, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland",
             "Amazon-Logistikzentrum, Graben, Landkreis Augsburg, Bayern, 86836, Deutschland",
             "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
-            "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
+            "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
         ]
     },
     {
@@ -1274,7 +1274,7 @@
             ]
         ],
         "addresses": [
-            "\u8054\u60f3\u7814\u53d1\u4e2d\u5fc3, \u9ad8\u65b0\u5357\u4e00\u9053, \u5927\u51b2, \u7ca4\u6d77\u8857\u9053, \u5e7f\u4e1c\u7701, 518057, China \u4e2d\u56fd"
+            "\u8054\u60f3\u7814\u53d1\u4e2d\u5fc3, 16\u53f7, \u9ad8\u65b0\u5357\u4e00\u9053, \u5927\u51b2, \u7ca4\u6d77\u8857\u9053, \u5e7f\u4e1c\u7701, 518057, China \u4e2d\u56fd"
         ]
     },
     {
@@ -1312,7 +1312,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland"
+            "Amazon, 1, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland"
         ]
     },
     {
@@ -1392,7 +1392,7 @@
             ]
         ],
         "addresses": [
-            "Mozilla, East Evelyn Avenue, Mondrian, Mountain View, Santa Clara County, California, 94041, United States of America"
+            "Mozilla, 331, East Evelyn Avenue, Mondrian, Mountain View, Santa Clara County, California, 94041, United States of America"
         ]
     },
     {
@@ -1447,8 +1447,8 @@
         "addresses": [
             "Google, Mountain View, Santa Clara County, California, United States of America",
             "Apple, Monta Vista, Cupertino, Santa Clara County, California, United States of America",
-            "Intel, Scripps Summit Drive, Sabre Springs, San Diego, San Diego County, California, 92131, United States of America",
-            "333, Japantown, San Jose, Santa Clara County, California, United States of America"
+            "Intel, 12220, Scripps Summit Drive, Sabre Springs, San Diego, San Diego County, California, 92131, United States of America",
+            "Adobe, 333, Japantown, San Jose, Santa Clara County, California, United States of America"
         ]
     },
     {
@@ -1526,7 +1526,7 @@
         ],
         "addresses": [
             "Microsoft, Yorkwood, Charlotte, Mecklenburg County, North Carolina, United States of America",
-            "Lionbridge, Factoria Boulevard Southeast, Woodridge, Factoria, Bellevue, King County, Washington, 98006, United States of America"
+            "Lionbridge, 3525, Factoria Boulevard Southeast, Woodridge, Factoria, Bellevue, King County, Washington, 98006, United States of America"
         ]
     },
     {
@@ -1567,7 +1567,7 @@
             ]
         ],
         "addresses": [
-            "Apple Store, Boylston Street, Block F, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States of America"
+            "Apple Store, 815, Boylston Street, Block F, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States of America"
         ]
     },
     {
@@ -1606,7 +1606,7 @@
             ]
         ],
         "addresses": [
-            "1, \u4e1c\u957f\u5b89\u8857, \u5317\u4eac\u5e02, \u4e1c\u57ce\u533a, \u5317\u4eac\u5e02, 100010, China \u4e2d\u56fd"
+            "Sony store, 1, \u4e1c\u957f\u5b89\u8857, \u5317\u4eac\u5e02, \u4e1c\u57ce\u533a, \u5317\u4eac\u5e02, 100010, China \u4e2d\u56fd"
         ]
     },
     {
@@ -1689,7 +1689,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
+            "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
         ]
     },
     {
@@ -1848,7 +1848,7 @@
             ]
         ],
         "addresses": [
-            "190, Aries Way, Sunnyvale, Santa Clara County, California, 94086, United States of America",
+            "Broadcom, 190, Aries Way, Sunnyvale, Santa Clara County, California, 94086, United States of America",
             "Universal Protection Service, North 1st Street, Civic Center Plaza, Japantown, San Jose, Santa Clara County, California, 95110, United States of America"
         ]
     },
@@ -1890,7 +1890,7 @@
             ]
         ],
         "addresses": [
-            "WeWork, Broad Street, Financial District, Manhattan, Manhattan Community Board 1, New York County, New York, 10004, United States of America"
+            "WeWork, 85, Broad Street, Financial District, Manhattan, Manhattan Community Board 1, New York County, New York, 10004, United States of America"
         ]
     },
     {
@@ -1992,7 +1992,7 @@
             ]
         ],
         "addresses": [
-            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America"
+            "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America"
         ]
     },
     {
@@ -2113,7 +2113,7 @@
             ]
         ],
         "addresses": [
-            "333, Japantown, San Jose, Santa Clara County, California, United States of America"
+            "Adobe, 333, Japantown, San Jose, Santa Clara County, California, United States of America"
         ]
     },
     {
@@ -2155,7 +2155,7 @@
             ]
         ],
         "addresses": [
-            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America"
+            "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America"
         ]
     },
     {
@@ -2346,7 +2346,7 @@
             ]
         ],
         "addresses": [
-            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America"
+            "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America"
         ]
     },
     {
@@ -2467,7 +2467,7 @@
             ]
         ],
         "addresses": [
-            "Palantir, University Avenue, Southgate, Palo Alto, Santa Clara County, California, 94301, United States of America"
+            "Palantir, 156, University Avenue, Southgate, Palo Alto, Santa Clara County, California, 94301, United States of America"
         ]
     },
     {
@@ -2598,7 +2598,7 @@
             ]
         ],
         "addresses": [
-            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States of America"
+            "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States of America"
         ]
     },
     {
@@ -2683,7 +2683,7 @@
             ]
         ],
         "addresses": [
-            "AT&T, North Tustin Street, McPherson, Orange, Orange County, California, 92867, United States of America",
+            "AT&T, 1302, North Tustin Street, McPherson, Orange, Orange County, California, 92867, United States of America",
             "At&t, East Washington Street, Carson Hot Springs, Carson City, Nevada, 89703-3814, United States of America"
         ]
     },
@@ -2769,7 +2769,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America",
+            "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America",
             "Damo Street, North Port, Sarasota County, Florida, United States of America"
         ]
     },
@@ -2853,7 +2853,7 @@
             ]
         ],
         "addresses": [
-            "72, Spring Street, Little Italy, Manhattan, Manhattan Community Board 2, New York County, New York, 10013, United States of America"
+            "Amazon, 72, Spring Street, Little Italy, Manhattan, Manhattan Community Board 2, New York County, New York, 10013, United States of America"
         ]
     },
     {
@@ -2997,7 +2997,7 @@
             ]
         ],
         "addresses": [
-            "Apple Store, Stanford Shopping Center, Stanford, Palo Alto, Santa Clara County, California, 94025, United States of America"
+            "Apple Store, 660, Stanford Shopping Center, Stanford, Palo Alto, Santa Clara County, California, 94025, United States of America"
         ]
     },
     {
@@ -3035,7 +3035,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Avenida de la Astronom\u00eda, El Jard\u00edn, San Fernando de Henares, \u00c1rea metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28850, Espa\u00f1a"
+            "Amazon, 24, Avenida de la Astronom\u00eda, El Jard\u00edn, San Fernando de Henares, \u00c1rea metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28850, Espa\u00f1a"
         ]
     },
     {
@@ -3278,7 +3278,7 @@
             ]
         ],
         "addresses": [
-            "Google, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
         ]
     },
     {
@@ -3458,8 +3458,8 @@
             ]
         ],
         "addresses": [
-            "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America",
-            "Palantir, University Avenue, Southgate, Palo Alto, Santa Clara County, California, 94301, United States of America"
+            "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America",
+            "Palantir, 156, University Avenue, Southgate, Palo Alto, Santa Clara County, California, 94301, United States of America"
         ]
     },
     {
@@ -3499,7 +3499,7 @@
             ]
         ],
         "addresses": [
-            "Google, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
         ]
     },
     {
@@ -3539,7 +3539,7 @@
             ]
         ],
         "addresses": [
-            "Salesforce, Northeast Cornelius Pass Road, Orenco, Hillsboro, Washington County, Oregon, 97124, United States of America"
+            "Salesforce, 2035, Northeast Cornelius Pass Road, Orenco, Hillsboro, Washington County, Oregon, 97124, United States of America"
         ]
     },
     {
@@ -3617,7 +3617,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Avenida de la Astronom\u00eda, El Jard\u00edn, San Fernando de Henares, \u00c1rea metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28850, Espa\u00f1a"
+            "Amazon, 24, Avenida de la Astronom\u00eda, El Jard\u00edn, San Fernando de Henares, \u00c1rea metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28850, Espa\u00f1a"
         ]
     },
     {
@@ -3655,7 +3655,7 @@
             ]
         ],
         "addresses": [
-            "337-52, \uc0bc\uc131\ub85c302\ubc88\uae38, \uc601\ud1b5\uad6c, \uc218\uc6d0\uc2dc, \uacbd\uae30\ub3c4, 16513, \ub300\ud55c\ubbfc\uad6d"
+            "Dream Vill, 337-52, \uc0bc\uc131\ub85c302\ubc88\uae38, \uc601\ud1b5\uad6c, \uc218\uc6d0\uc2dc, \uacbd\uae30\ub3c4, 16513, \ub300\ud55c\ubbfc\uad6d"
         ]
     },
     {
@@ -3695,7 +3695,7 @@
             ]
         ],
         "addresses": [
-            "Palantir, University Avenue, Southgate, Palo Alto, Santa Clara County, California, 94301, United States of America"
+            "Palantir, 156, University Avenue, Southgate, Palo Alto, Santa Clara County, California, 94301, United States of America"
         ]
     },
     {
@@ -3804,7 +3804,7 @@
             ]
         ],
         "addresses": [
-            "Uber, Leman Street, Spitalfields, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, E1 8FA, United Kingdom"
+            "Uber, 2, Leman Street, Spitalfields, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, E1 8FA, United Kingdom"
         ]
     },
     {
@@ -3849,8 +3849,8 @@
             ]
         ],
         "addresses": [
-            "Uber, Leman Street, Spitalfields, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, E1 8FA, United Kingdom",
-            "UBER, Broad Street, Ladywood, Birmingham, West Midlands Combined Authority, West Midlands, England, B15 1AE, United Kingdom"
+            "Uber, 2, Leman Street, Spitalfields, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, E1 8FA, United Kingdom",
+            "UBER, 100, Broad Street, Ladywood, Birmingham, West Midlands Combined Authority, West Midlands, England, B15 1AE, United Kingdom"
         ]
     },
     {
@@ -3962,7 +3962,7 @@
             ]
         ],
         "addresses": [
-            "Google, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
         ]
     },
     {
@@ -4137,8 +4137,8 @@
             ]
         ],
         "addresses": [
-            "Google, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America",
-            "Google, \u8ed2\u5c3c\u8a69\u9053 Hennessy Road, \u6469\u5229\u81e3\u5c71 Morrison Hill, \u9285\u947c\u7063 Causeway Bay, \u4e2d\u5340 Central District, \u9999\u6e2f\u5cf6 Hong Kong Island, \u7063\u4ed4\u5340 Wan Chai District, \u9999\u6e2f Hong Kong, China \u4e2d\u56fd"
+            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America",
+            "Google, 555, \u8ed2\u5c3c\u8a69\u9053 Hennessy Road, \u6469\u5229\u81e3\u5c71 Morrison Hill, \u9285\u947c\u7063 Causeway Bay, \u4e2d\u5340 Central District, \u9999\u6e2f\u5cf6 Hong Kong Island, \u7063\u4ed4\u5340 Wan Chai District, \u9999\u6e2f Hong Kong, China \u4e2d\u56fd"
         ]
     },
     {
@@ -4218,7 +4218,7 @@
             ]
         ],
         "addresses": [
-            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America"
+            "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America"
         ]
     },
     {
@@ -4260,7 +4260,7 @@
             ]
         ],
         "addresses": [
-            "Facebook Westlake, Westlake Avenue North, Westlake, Seattle, King County, Washington, 98109, United States of America"
+            "Facebook Westlake, 1101, Westlake Avenue North, Westlake, Seattle, King County, Washington, 98109, United States of America"
         ]
     },
     {
@@ -4408,7 +4408,7 @@
             ]
         ],
         "addresses": [
-            "Oracle, Oracle Parkway, Redwood Shores, Redwood City, San Mateo County, California, 94065, United States of America"
+            "Oracle, 400, Oracle Parkway, Redwood Shores, Redwood City, San Mateo County, California, 94065, United States of America"
         ]
     },
     {
@@ -4562,8 +4562,8 @@
             ]
         ],
         "addresses": [
-            "Palantir, University Avenue, Southgate, Palo Alto, Santa Clara County, California, 94301, United States of America",
-            "Salesforce IQ, Emerson Street, University South, Palo Alto, Santa Clara County, California, 94301, United States of America"
+            "Palantir, 156, University Avenue, Southgate, Palo Alto, Santa Clara County, California, 94301, United States of America",
+            "Salesforce IQ, 500, Emerson Street, University South, Palo Alto, Santa Clara County, California, 94301, United States of America"
         ]
     },
     {
@@ -4604,7 +4604,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
+            "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
         ]
     },
     {
@@ -4753,7 +4753,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
+            "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
         ]
     },
     {
@@ -4861,7 +4861,7 @@
             ]
         ],
         "addresses": [
-            "Google, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
         ]
     },
     {
@@ -4901,7 +4901,7 @@
             ]
         ],
         "addresses": [
-            "Google, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
         ]
     },
     {
@@ -4941,7 +4941,7 @@
             ]
         ],
         "addresses": [
-            "Microsoft Gathering Hall, 32nd Avenue South, Columbia City, Holly Park, Seattle, King County, Washington, 98118, United States of America"
+            "Microsoft Gathering Hall, 7054, 32nd Avenue South, Columbia City, Holly Park, Seattle, King County, Washington, 98118, United States of America"
         ]
     },
     {
@@ -4981,7 +4981,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
+            "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
         ]
     },
     {
@@ -5026,7 +5026,7 @@
         ],
         "addresses": [
             "Instagram-Ferris_Joshua / Marycate.minnigh, Campus Drive, Sunset Pines, Lock Haven, Clinton County, Pennsylvania, 17745, United States of America",
-            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States of America"
+            "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States of America"
         ]
     },
     {
@@ -5107,7 +5107,7 @@
         ],
         "addresses": [
             "Microsoft, Yorkwood, Charlotte, Mecklenburg County, North Carolina, United States of America",
-            "GitHub, Colin P. Kelly Junior Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States of America"
+            "GitHub, 88, Colin P. Kelly Junior Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States of America"
         ]
     },
     {
@@ -5186,7 +5186,7 @@
             ]
         ],
         "addresses": [
-            "Google, 8th Avenue, Chelsea, Manhattan, Manhattan Community Board 5, New York County, New York, 10011, United States of America"
+            "Google, 111, 8th Avenue, Chelsea, Manhattan, Manhattan Community Board 5, New York County, New York, 10011, United States of America"
         ]
     },
     {
@@ -5227,7 +5227,7 @@
             ]
         ],
         "addresses": [
-            "Google, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
         ]
     },
     {
@@ -5312,8 +5312,8 @@
             ]
         ],
         "addresses": [
-            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States of America",
-            "Accenture, West San Fernando Street, Downtown Historic District, Japantown, San Jose, Santa Clara County, California, 95110, United States of America"
+            "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States of America",
+            "Accenture, 50, West San Fernando Street, Downtown Historic District, Japantown, San Jose, Santa Clara County, California, 95110, United States of America"
         ]
     },
     {
@@ -5354,7 +5354,7 @@
             ]
         ],
         "addresses": [
-            "Google, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
         ]
     },
     {
@@ -5438,7 +5438,7 @@
             ]
         ],
         "addresses": [
-            "Palantir, University Avenue, Southgate, Palo Alto, Santa Clara County, California, 94301, United States of America"
+            "Palantir, 156, University Avenue, Southgate, Palo Alto, Santa Clara County, California, 94301, United States of America"
         ]
     },
     {
@@ -5478,7 +5478,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
+            "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
         ]
     },
     {
@@ -5551,7 +5551,7 @@
             ]
         ],
         "addresses": [
-            "Palantir, University Avenue, Southgate, Palo Alto, Santa Clara County, California, 94301, United States of America"
+            "Palantir, 156, University Avenue, Southgate, Palo Alto, Santa Clara County, California, 94301, United States of America"
         ]
     },
     {
@@ -5632,7 +5632,7 @@
             ]
         ],
         "addresses": [
-            "Facebook Westlake, Westlake Avenue North, Westlake, Seattle, King County, Washington, 98109, United States of America"
+            "Facebook Westlake, 1101, Westlake Avenue North, Westlake, Seattle, King County, Washington, 98109, United States of America"
         ]
     },
     {
@@ -5736,7 +5736,7 @@
             ]
         ],
         "addresses": [
-            "1194, North Mathilda Avenue, Sunnyvale, Santa Clara County, California, 94089, United States of America"
+            "Google MAT2, 1194, North Mathilda Avenue, Sunnyvale, Santa Clara County, California, 94089, United States of America"
         ]
     },
     {
@@ -5777,7 +5777,7 @@
             ]
         ],
         "addresses": [
-            "Microsoft Gathering Hall, 32nd Avenue South, Columbia City, Holly Park, Seattle, King County, Washington, 98118, United States of America"
+            "Microsoft Gathering Hall, 7054, 32nd Avenue South, Columbia City, Holly Park, Seattle, King County, Washington, 98118, United States of America"
         ]
     },
     {
@@ -5857,7 +5857,7 @@
             ]
         ],
         "addresses": [
-            "Wayfair, Berkeley Street, Block A, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States of America"
+            "Wayfair, 222, Berkeley Street, Block A, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States of America"
         ]
     },
     {
@@ -5972,7 +5972,7 @@
             ]
         ],
         "addresses": [
-            "72, Spring Street, Little Italy, Manhattan, Manhattan Community Board 2, New York County, New York, 10013, United States of America"
+            "Amazon, 72, Spring Street, Little Italy, Manhattan, Manhattan Community Board 2, New York County, New York, 10013, United States of America"
         ]
     },
     {
@@ -6017,8 +6017,8 @@
             ]
         ],
         "addresses": [
-            "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America",
-            "Palantir, University Avenue, Southgate, Palo Alto, Santa Clara County, California, 94301, United States of America"
+            "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America",
+            "Palantir, 156, University Avenue, Southgate, Palo Alto, Santa Clara County, California, 94301, United States of America"
         ]
     },
     {
@@ -6103,7 +6103,7 @@
             ]
         ],
         "addresses": [
-            "Glovo, Avenida Federico Lacroze, Colegiales, Buenos Aires, Comuna 15, C1427EDN, Argentina",
+            "Glovo, 3590, Avenida Federico Lacroze, Colegiales, Buenos Aires, Comuna 15, C1427EDN, Argentina",
             "Uber, Calle Hamburgo, Ju\u00e1rez, Ciudad de M\u00e9xico, Cuauht\u00e9moc, Ciudad de M\u00e9xico, 06600, M\u00e9xico",
             "Rapperswil, Wahlkreis See-Gaster, Sankt Gallen, 8640, Switzerland"
         ]
@@ -6143,7 +6143,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Distribution, South Western Avenue, Lower West Side, Chicago, Cook County, Illinois, 60643, United States of America"
+            "Amazon Distribution, 2801, South Western Avenue, Lower West Side, Chicago, Cook County, Illinois, 60643, United States of America"
         ]
     },
     {
@@ -6312,7 +6312,7 @@
             ]
         ],
         "addresses": [
-            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+            "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
             "Lyft, Kansas Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States of America"
         ]
     },
@@ -6357,7 +6357,7 @@
             ]
         ],
         "addresses": [
-            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+            "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
             "Lyft, Kansas Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States of America"
         ]
     },
@@ -6396,7 +6396,7 @@
             ]
         ],
         "addresses": [
-            "Google, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
         ]
     },
     {
@@ -6612,8 +6612,8 @@
             ]
         ],
         "addresses": [
-            "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America",
-            "WholeFoods, Abrams Road, Lakewood, Rawlins, Dallas, Dallas County, Texas, 75214:75243, United States of America"
+            "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America",
+            "WholeFoods, 2118, Abrams Road, Lakewood, Rawlins, Dallas, Dallas County, Texas, 75214:75243, United States of America"
         ]
     },
     {
@@ -6687,7 +6687,7 @@
             ]
         ],
         "addresses": [
-            "Google, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
         ]
     },
     {
@@ -6779,7 +6779,7 @@
             ]
         ],
         "addresses": [
-            "Palantir, University Avenue, Southgate, Palo Alto, Santa Clara County, California, 94301, United States of America"
+            "Palantir, 156, University Avenue, Southgate, Palo Alto, Santa Clara County, California, 94301, United States of America"
         ]
     },
     {
@@ -6824,7 +6824,7 @@
             ]
         ],
         "addresses": [
-            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+            "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
             "Lyft, Kansas Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States of America"
         ]
     },
@@ -6933,7 +6933,7 @@
             ]
         ],
         "addresses": [
-            "UserTesting, 5th Street, South of Market, San Francisco, San Francisco City and County, California, 94017, United States of America",
+            "UserTesting, 690, 5th Street, South of Market, San Francisco, San Francisco City and County, California, 94017, United States of America",
             "Doordash HQ, Stevenson Street, Union Square, San Francisco, San Francisco City and County, California, 94104, United States of America"
         ]
     },
@@ -7005,7 +7005,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
+            "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
         ]
     },
     {
@@ -7114,7 +7114,7 @@
             ]
         ],
         "addresses": [
-            "Palantir, University Avenue, Southgate, Palo Alto, Santa Clara County, California, 94301, United States of America"
+            "Palantir, 156, University Avenue, Southgate, Palo Alto, Santa Clara County, California, 94301, United States of America"
         ]
     },
     {
@@ -7156,7 +7156,7 @@
             ]
         ],
         "addresses": [
-            "Google, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
         ]
     },
     {
@@ -7198,7 +7198,7 @@
             ]
         ],
         "addresses": [
-            "Microsoft Gathering Hall, 32nd Avenue South, Columbia City, Holly Park, Seattle, King County, Washington, 98118, United States of America"
+            "Microsoft Gathering Hall, 7054, 32nd Avenue South, Columbia City, Holly Park, Seattle, King County, Washington, 98118, United States of America"
         ]
     },
     {
@@ -7277,7 +7277,7 @@
             ]
         ],
         "addresses": [
-            "Google, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
         ]
     },
     {
@@ -7666,7 +7666,7 @@
             ]
         ],
         "addresses": [
-            "GitHub, Colin P. Kelly Junior Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States of America",
+            "GitHub, 88, Colin P. Kelly Junior Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States of America",
             "Microsoft, Yorkwood, Charlotte, Mecklenburg County, North Carolina, United States of America"
         ]
     },
@@ -7778,7 +7778,7 @@
             ]
         ],
         "addresses": [
-            "Google, Lagerstrasse, Langstrasse, Aussersihl, Z\u00fcrich, Bezirk Z\u00fcrich, Z\u00fcrich, 8021, Switzerland"
+            "Google, 100, Lagerstrasse, Langstrasse, Aussersihl, Z\u00fcrich, Bezirk Z\u00fcrich, Z\u00fcrich, 8021, Switzerland"
         ]
     },
     {
@@ -7816,7 +7816,7 @@
             ]
         ],
         "addresses": [
-            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States of America"
+            "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States of America"
         ]
     },
     {
@@ -7858,7 +7858,7 @@
             ]
         ],
         "addresses": [
-            "Tableau Software - NorthEdge, North 34th Street, Eastlake, Fremont, Seattle, King County, Washington, 98103, United States of America"
+            "Tableau Software - NorthEdge, 1621, North 34th Street, Eastlake, Fremont, Seattle, King County, Washington, 98103, United States of America"
         ]
     },
     {
@@ -7999,7 +7999,7 @@
             ]
         ],
         "addresses": [
-            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+            "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
             "Lyft, Kansas Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States of America"
         ]
     },
@@ -8111,7 +8111,7 @@
             ]
         ],
         "addresses": [
-            "GitHub, Colin P. Kelly Junior Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States of America",
+            "GitHub, 88, Colin P. Kelly Junior Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States of America",
             "Microsoft Silicon Valley, Mountain View, Santa Clara County, California, United States of America"
         ]
     },
@@ -8322,8 +8322,8 @@
         ],
         "latlngs": [
             [
-                50.8523727,
-                9.7311825
+                50.8453279,
+                9.678334853465138
             ],
             [
                 51.3622584,
@@ -8347,8 +8347,8 @@
             ]
         ],
         "addresses": [
-            "Amazon-Stra\u00dfe, Hohe Luft, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
-            "Amazon, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland",
+            "Amazon Logistik GmbH, 1, Eichhof, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
+            "Amazon, 1, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland",
             "Amazon stra\u00dfe, Industriepark A61/GVZ Koblenz, R\u00fcbenach, Koblenz, Rheinland-Pfalz, 56330, Deutschland",
             "Amazon, Amazonstra\u00dfe, Winterswick, Rheinberg, Kreis Wesel, Nordrhein-Westfalen, 47495, Deutschland",
             "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
@@ -8397,7 +8397,7 @@
         ],
         "addresses": [
             "Amazon.co.uk, Towers Business Park, Brereton and Ravenhill, Cannock Chase, Staffordshire, West Midlands, England, WS15 1LX, United Kingdom",
-            "Amazon, Flaxley Road, Old Fletton, Peterborough, City of Peterborough, East of England, England, PE2 9EN, United Kingdom"
+            "Amazon, Unit 1, Flaxley Road, Old Fletton, Peterborough, City of Peterborough, East of England, England, PE2 9EN, United Kingdom"
         ]
     },
     {
@@ -8437,7 +8437,7 @@
             ]
         ],
         "addresses": [
-            "Google, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
         ]
     },
     {
@@ -8547,7 +8547,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Distribution, South Western Avenue, Lower West Side, Chicago, Cook County, Illinois, 60643, United States of America"
+            "Amazon Distribution, 2801, South Western Avenue, Lower West Side, Chicago, Cook County, Illinois, 60643, United States of America"
         ]
     },
     {
@@ -8891,7 +8891,7 @@
             ]
         ],
         "addresses": [
-            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+            "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
             "Lyft, Kansas Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States of America"
         ]
     },
@@ -9119,8 +9119,8 @@
             ]
         ],
         "addresses": [
-            "72, Spring Street, Little Italy, Manhattan, Manhattan Community Board 2, New York County, New York, 10013, United States of America",
-            "3639, West Howard Street, Skokie, Cook County, Illinois, 60076, United States of America",
+            "Amazon, 72, Spring Street, Little Italy, Manhattan, Manhattan Community Board 2, New York County, New York, 10013, United States of America",
+            "Amazon Fulfillment Center DIL7, 3639, West Howard Street, Skokie, Cook County, Illinois, 60076, United States of America",
             "Amazon Avenue, Sacramento, Sacramento County, California, 95835, United States of America"
         ]
     },
@@ -9173,7 +9173,7 @@
             ]
         ],
         "addresses": [
-            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+            "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
             "Lyft, Kansas Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States of America",
             "Doordash HQ, Stevenson Street, Union Square, San Francisco, San Francisco City and County, California, 94104, United States of America"
         ]
@@ -9328,7 +9328,7 @@
             ]
         ],
         "addresses": [
-            "Google, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
         ]
     },
     {
@@ -9370,7 +9370,7 @@
             ]
         ],
         "addresses": [
-            "72, Spring Street, Little Italy, Manhattan, Manhattan Community Board 2, New York County, New York, 10013, United States of America"
+            "Amazon, 72, Spring Street, Little Italy, Manhattan, Manhattan Community Board 2, New York County, New York, 10013, United States of America"
         ]
     },
     {
@@ -9419,7 +9419,7 @@
         ],
         "addresses": [
             "Amazon.fr ORY1, Rue de l'Olivier, Deret Logistique, Saran, Orl\u00e9ans, Loiret, Centre-Val de Loire, France m\u00e9tropolitaine, 45770, France",
-            "Amazon, Rue de Charenton, Quartier de Bercy, Paris, \u00cele-de-France, France m\u00e9tropolitaine, 75012, France"
+            "Amazon, 235, Rue de Charenton, Quartier de Bercy, Paris, \u00cele-de-France, France m\u00e9tropolitaine, 75012, France"
         ]
     },
     {
@@ -9461,7 +9461,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
+            "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
         ]
     },
     {
@@ -9602,7 +9602,7 @@
         ],
         "addresses": [
             "Lyft, Kansas Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States of America",
-            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+            "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
             "Uber / Lyft Driver Drop Off, East Campus Drive, Montezuma Mesa, San Diego, San Diego County, California, 92182, United States of America",
             "Uber / Lyft Driver Drop Off, East Campus Drive, Montezuma Mesa, San Diego, San Diego County, California, 92182, United States of America"
         ]
@@ -9692,7 +9692,7 @@
             ]
         ],
         "addresses": [
-            "Google, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
         ]
     },
     {
@@ -9778,7 +9778,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
+            "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
         ]
     },
     {
@@ -9855,7 +9855,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
+            "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
         ]
     },
     {
@@ -9899,7 +9899,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Distribution, South Western Avenue, Lower West Side, Chicago, Cook County, Illinois, 60643, United States of America"
+            "Amazon Distribution, 2801, South Western Avenue, Lower West Side, Chicago, Cook County, Illinois, 60643, United States of America"
         ]
     },
     {
@@ -10025,7 +10025,7 @@
             ]
         ],
         "addresses": [
-            "72, Spring Street, Little Italy, Manhattan, Manhattan Community Board 2, New York County, New York, 10013, United States of America"
+            "Amazon, 72, Spring Street, Little Italy, Manhattan, Manhattan Community Board 2, New York County, New York, 10013, United States of America"
         ]
     },
     {
@@ -10211,7 +10211,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
+            "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
         ]
     },
     {
@@ -10293,7 +10293,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Fullfillment Center MSP1, 4th Avenue East, Valley Haven Mobile Home Park, Shakopee, Scott County, Minnesota, 55379, United States of America"
+            "Amazon Fullfillment Center MSP1, 2601, 4th Avenue East, Valley Haven Mobile Home Park, Shakopee, Scott County, Minnesota, 55379, United States of America"
         ]
     },
     {
@@ -10411,7 +10411,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America",
+            "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America",
             "Target, San Luis Rey, Oceanside, San Diego County, California, United States of America"
         ]
     },
@@ -10455,7 +10455,7 @@
             ]
         ],
         "addresses": [
-            "72, Spring Street, Little Italy, Manhattan, Manhattan Community Board 2, New York County, New York, 10013, United States of America"
+            "Amazon, 72, Spring Street, Little Italy, Manhattan, Manhattan Community Board 2, New York County, New York, 10013, United States of America"
         ]
     },
     {
@@ -10498,8 +10498,8 @@
             ]
         ],
         "addresses": [
-            "274, \u9038\u4ed9\u8def, \u65b0\u6e2f\u8857\u9053, \u5e7f\u5dde\u5e02, \u6d77\u73e0\u533a, \u5e7f\u4e1c\u7701, 510105, China \u4e2d\u56fd",
-            "33\u53f7, \u7ca4\u6d77\u8857\u9053, \u5e7f\u4e1c\u7701, 518054, China \u4e2d\u56fd"
+            "\u4e2d\u6587\u5802, 274, \u9038\u4ed9\u8def, \u65b0\u6e2f\u8857\u9053, \u5e7f\u5dde\u5e02, \u6d77\u73e0\u533a, \u5e7f\u4e1c\u7701, 510105, China \u4e2d\u56fd",
+            "\u817e\u8baf\u6ee8\u6d77\u5927\u53a6, 33\u53f7, \u7ca4\u6d77\u8857\u9053, \u5e7f\u4e1c\u7701, 518054, China \u4e2d\u56fd"
         ]
     },
     {
@@ -10540,7 +10540,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
+            "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
         ]
     },
     {
@@ -10580,7 +10580,7 @@
             ]
         ],
         "addresses": [
-            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America"
+            "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America"
         ]
     },
     {
@@ -10654,7 +10654,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
+            "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
         ]
     },
     {
@@ -10759,7 +10759,7 @@
             ]
         ],
         "addresses": [
-            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States of America"
+            "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States of America"
         ]
     },
     {
@@ -10834,7 +10834,7 @@
             ]
         ],
         "addresses": [
-            "Microsoft Gathering Hall, 32nd Avenue South, Columbia City, Holly Park, Seattle, King County, Washington, 98118, United States of America"
+            "Microsoft Gathering Hall, 7054, 32nd Avenue South, Columbia City, Holly Park, Seattle, King County, Washington, 98118, United States of America"
         ]
     },
     {
@@ -11055,7 +11055,7 @@
             ]
         ],
         "addresses": [
-            "Pinterest, Brannan Street, South of Market, San Francisco, San Francisco City and County, California, 94017, United States of America"
+            "Pinterest, 651, Brannan Street, South of Market, San Francisco, San Francisco City and County, California, 94017, United States of America"
         ]
     },
     {
@@ -11132,9 +11132,9 @@
             ]
         ],
         "addresses": [
-            "iFood, Avenida dos Autonomistas, Osasco, Regi\u00e3o Imediata de S\u00e3o Paulo, Regi\u00e3o Metropolitana de S\u00e3o Paulo, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de S\u00e3o Paulo, S\u00e3o Paulo, Regi\u00e3o Sudeste, 06020-010, Brasil",
+            "iFood, 1496, Avenida dos Autonomistas, Osasco, Regi\u00e3o Imediata de S\u00e3o Paulo, Regi\u00e3o Metropolitana de S\u00e3o Paulo, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de S\u00e3o Paulo, S\u00e3o Paulo, Regi\u00e3o Sudeste, 06020-010, Brasil",
             "Parque Uber, Jardim Bot\u00e2nico, Ribeir\u00e3o Preto, Regi\u00e3o Imediata de Ribeir\u00e3o Preto, Regi\u00e3o Metropolitana de Ribeir\u00e3o Preto, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Ribeir\u00e3o Preto, S\u00e3o Paulo, Regi\u00e3o Sudeste, Brasil",
-            "7, Alpenstrasse, Rapperswil-Jona, Wahlkreis See-Gaster, Sankt Gallen, 8640, Switzerland",
+            "MI TIERRA AG - vinoteca argentina, 7, Alpenstrasse, Rapperswil-Jona, Wahlkreis See-Gaster, Sankt Gallen, 8640, Switzerland",
             "Cristian Uber, Hinojo, Partido de Olavarr\u00eda, Buenos Aires, 7318, Argentina",
             "Loggie, Ullapool, Highland, Scotland, IV23 2SG, United Kingdom",
             "Ifood, 61A, FRACC. MARINA DEL REY, Ciudad del Carmen, Carmen, Campeche, 24100, M\u00e9xico",
