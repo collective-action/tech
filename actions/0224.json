@@ -1,32 +1,38 @@
 {
-    "id": 224,
-    "date": "2020/01/13",
+    "id": 223,
+    "date": "2019/12/23",
     "sources": [
-        "https://www.vice.com/amp/en_us/article/884npb/instacart-workers-are-calling-for-a-national-boycott-of-the-grocery-delivery-app"
+        "https://www.vox.com/recode/2019/12/10/21005098/amazon-warehouse-workers-sacramento"
     ],
     "actions": [
-        "protest"
+        "strike"
     ],
     "struggles": [
-        "pay_and_benefits"
+        "working conditions"
     ],
     "employment_types": [
-        "blue_collar_workers",
-        "gig_workers"
+        "blue_collar_workers"
     ],
-    "description": "Many of the app's 130,000 workers claim to have seen their pay drop by more than 50 percent in 2019 alone, as the company has sought to lower costs and appease its investors. Workers are now calling for a national boycott. They\u2019re asking customers and the general public to tweet under the hashtag #DeleteInstacart on January 19, and to email Instacart CEO Apoorva Mehta on January 20, asking him to restore the 10 percent default tip\u2014which workers lost back in 2016. (The default tip sits at five percent.)",
-    "online": true,
+    "description": "More than 30 Amazon workers at a Sacramento warehouse walked off the job, demanding they receive paid time off. 36 workers \u2014 out of around 100 in total on the shift\u2014 left work two hours early after they read a letter to management out loud stating their demands to be granted paid time off (PTO) and meet with management to discuss their concerns, according to a worker at the site. These workers \u2014 who say they lift hundreds of packages a day in \u201cback-breaking\u201d labor \u2014currently receive zero PTO days a year. The walkout comes weeks after workers say management has ignored their requests to meet with leaders of a group organizing around the issue. So far, workers have circulated an internal and public petition gaining over 4,000 signatures in total.",
+    "online": null,
     "locations": [
-        "usa"
+        "sacramento-california-usa"
     ],
     "companies": [
-        "instacart"
+        "amazon"
     ],
-    "workers": null,
+    "workers": 36,
     "tags": null,
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            38.6767343,
+            -121.4948028
+        ]
+    ],
+    "addresses": [
+        "Amazon Avenue, Sacramento, Sacramento County, California, 95835, United States of America"
+    ]
 }

@@ -1,32 +1,36 @@
 {
-    "id": 279,
-    "date": "2020/06/22",
+    "id": 293,
+    "date": "2020/06/09",
     "sources": [
-        "https://www.theverge.com/2020/6/22/21299736/google-employees-cut-ties-police-law-enforcement-black-lives-matter, https://gizmodo.com/1-600-googlers-call-for-an-end-to-all-contracts-with-c-1844124793?rev=1592864623516, https://www.businessinsider.com/googlers-send-letter-ceo-sundar-pichai-stop-working-with-police-2020-6"
+        "https://www.wsws.org/en/articles/2020/06/12/braz-j12.html"
     ],
     "actions": [
-        "open_letter"
+        "protest",
+        "strike"
     ],
     "struggles": [
-        "ethics"
+        "working conditions",
+        "pay_and_benefits"
     ],
     "employment_types": [
-        "white_collar_workers",
-        "in_house_workers"
+        "gig_workers"
     ],
-    "description": "Over 1, 650 Google employees have signed an open letter to CEO Sundar Pichai demanding the company stop selling its technology to police forces across the US. \u201cThe past weeks have shown us that addressing racism is not merely an issue of words, but of actions taken to dismantle the actual structures that perpetuate it, \u201d the letter, written by the employee group Googlers Against Racism, reads. \u201cWhile we as individuals hold difficult but necessary conversations with our family, friends and peers, we are also incredibly disappointed by our company\u2019s response.\u201d",
-    "online": true,
-    "locations": null,
+    "description": "Loggi delivery workers in Brazil went on strike starting June 9th to protest poor working conditions, including lack of protections against coronavirus, and low pay. Protestors also commemorated the death of a fellow worker, Thiago Coelho, who was killed in a motorcycle accident. ",
+    "online": null,
+    "locations": [
+        "rio de janiero-brazil",
+        "s\u00e3o paulo-brazil"
+    ],
     "companies": [
-        "google"
+        "loggi"
     ],
-    "workers": 1650,
+    "workers": null,
     "tags": [
-        "blm",
-        "antiracism"
+        "coronavirus",
+        "delivery_workers"
     ],
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
     "latlngs": null,
     "addresses": null
