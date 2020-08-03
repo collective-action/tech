@@ -39,19 +39,26 @@ a {
 a:hover {
     text-decoration: underline;
 }
+h1, h2, h3 {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
 h1 {
     font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 .is-mobile h1 {
     font-size: 2em;
 }
 h2 {
     font-size: 2em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 .is-mobile h2 {
     font-size: 1.5em;
+}
+h3 {
+    font-size: 1.75em;
+}
+.is-mobile h3 {
+    font-size: 1.25em;
 }
 p {
     font-size: 1.5em;
