@@ -1,74 +1,300 @@
 ---
 layout: default
 title: Collective action in tech for Black Lives Matter
-image: assets/images/share-blm.png
+image: assets/images/blm-share.png
 description: A guide for collective action in tech for Black Lives Matter
 ---
 <style>
 .grey-box {
-    background-color: #eee;
-    padding: 16px;
+  background-color: #eee;
+  padding: 8px 16px;
+  font-family: 'helvetica', 'Arial', 'Sans-Serif';
+}
+.grey-box ul {
+  list-style: inherit;
+}
+.grey-box p,
+.grey-box li {
+  font-size: 1.2rem;
+}
+.hero {
+  text-align: center;
+  background-color: blue;
+  color: white;
+  background-image: url("assets/images/blm-hero.png");
+  background-position: center;
+  background-size: cover;
+  min-height: 420px;
+  position: relative;
+}
+.hero-content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 85%;
+}
+.hero-subtitle {
+  font-size: 1.5rem;
+}
+ul {
+  list-style: none;
 }
 </style>
 <div id="content">
-    <h1>Collective Action In Tech For Black Lives Matter</h1>
+  <div class="hero">
+    <div class="hero-content">
+      <h1>Collective Action In Tech For Black Lives Matter</h1>
+      <div class="hero-subtitle"><em>This is a guide to organize tech workers to support the anti-racism movement.</em></div>
+    </div>
+  </div>
+
+  <div style="text-align:center">
     <h3>Table of contents:</h3>
-    <ol>
-      <li><a href="#section1">Tech Workers Against White Supremacy</a></li>
-      <li><a href="#section2">Steps to Collective Action</a></li>
-      <li><a href="#section3">Templates for Collective Action</a></li>
-    </ol>
-    <hr>
+    <p><a href="#section1">1. Tech Workers Against White Supremacy</a></p>
+    <p><a href="#section2">2. Steps to Collective Action</a></p>
+    <p><a href="#section3">3. Template Demand Letter</a></p>
+  </div>
 
-    <h2 id="section1">Tech Workers Against White Supremacy</h2>
-    <p>In recent weeks, the murders of George Floyd, Breonna Taylor, Ahmaud Arbery, Rayshard Brooks, and countless other Black Americans have compelled thousands of people across the US and the world to take collective action against systemic racism. Mass protests have made headlines and forced a renewed reckoning with centuries of violence inflicted on Black communities by white supremacy. As many Black activists and scholars have argued<sup><a href="#note1">1</a></sup>, ending white supremacy will require the radical reconstruction of our entire society.<p>
-    <p>Crucially, this involves changing the material conditions that make Black lives matter less. We cannot achieve racial justice and create a secure and thriving democracy without also transforming our economic systems, Michelle Alexander <a href="https://www.nytimes.com/2020/06/08/opinion/george-floyd-protests-race.html">wrote</a> in a recent New York Times op-ed. This point is frequently emphasized by Black Lives Matter organizers, who have centered the demand for economic justice from the beginning. The Movement for Black Lives <a href="https://m4bl.org/policy-platforms/economic-justice/">platform</a> calls for universal health care, a living wage, and stronger labor rights, while abolitionists have consistently <a href="http://criticalresistance.org/resisting-policing-dismantle-divest-defund/">drawn</a> a link between divesting from policing and prisons and investing in services that feed, house, educate, and employ Black people.</p>
-    <p>Within the tech industry, the link between racism and economic deprivation is particularly stark. Black people are disproportionately represented in roles that are contingent, poorly paid, and highly surveilled, from delivery workers to ride-hail drivers to warehouse workers. An <a href="https://medium.com/@catalina.brennan.gatica/sign-on-open-letter-to-gig-companies-regarding-black-lives-matter-4b48420e238d">open letter from Gig Workers Rising</a> describes how tech firms exploit such workers: denying them living wages, essential benefits, and representation within the workplace. The conditions that make police killings of Black people possible and inevitable are the same conditions that make the exploitation of Black and brown workers possible and inevitable, the letter reads. Racism is profitable, in other words: it lets the tech industrys predominantly white male leadership devalue certain kinds of workers and certain kinds of labor. Even in white-collar positions within tech firms, Black workers earn lower salaries on average.</p>
-    <p>...</p>
-    <h2>Anti-Racism in Tech</h2>
-    <p>For the two years that we have been archiving the history of <a href="https://collectiveaction.tech/">collective action in the tech industry</a>, we have seen workers across roles, companies, and geographies building anti-racist coalitions. Now is the moment to elevate that organizing into an industry-wide movement for Black lives. Here are some next steps:</p>
-    <ol>
-      <li>First, we have to acknowledge that the tech industry has a long history of anti-Blackness. In 1979, IBMs computer system was being used to run South Africas apartheid-era passbook system. Workers at the company formed an organization (<a href="http://www-cs-students.stanford.edu/~cale/cs201/apartheid.comp.html">IBM: Speak Up!</a>) to protest the company's role in perpetuating racism. Under worker pressure, the company officially divested from South Africa in 1987. In 2019, white-collar Black employees at Facebook published an <a href="https://www.theroot.com/black-facebook-workers-write-open-letter-to-company-we-1839776402">anonymous memo</a> documenting how the micro and macro aggressions they experienced on a daily basis left them feeling like we do not belong here. These actions are forty years apart but show a continuous thread of anti-Black sentiment, rhetoric, and action within tech companies.  They also demonstrate how tech workers can organize to hold our employers accountable. Too little has changed during this time. Organizing is a proven pathway to change.</li>
-      <li>
-    </ol>
+  <hr>
 
-    <hr>
-    <h2 id="section2">Steps to Collective Action</h2>
-    <p><strong>Build A Collective</strong></p>
-    <p>Organizing your workplace takes courage and deep solidarity.  One to one conversations about the current state of an issue and how your coworkers feel about it is the number one tool in your toolbox.  Here are the steps we recommend for building your collective:</p>
+  <h2 id="section1">Tech Workers Against White Supremacy</h2>
+  <p>
+  In recent weeks, the murders of George Floyd, Breonna Taylor, Ahmaud Arbery, Rayshard Brooks, and countless other Black Americans have compelled thousands of people across the US and the world to take collective action against systemic racism. Mass protests have made headlines and forced a renewed reckoning with centuries of violence inflicted on Black communities by white supremacy. <strong>As many Black activists and scholars have <a href="https://www.theatlantic.com/magazine/archive/2014/06/the-case-for-reparations/361631/">argued</a>, <a href="https://marker.medium.com/its-time-we-dealt-with-white-supremacy-in-tech-8f7816fe809">ending</a> white supremacy will require the radical reconstruction of our entire society.</strong>
+  <p>
+  <p>
+  Crucially, this involves changing the material conditions that make Black lives matter less. We cannot achieve racial justice and create a secure and thriving democracy without also transforming our economic systems, Michelle Alexander <a href="https://www.nytimes.com/2020/06/08/opinion/george-floyd-protests-race.html">wrote</a> in a recent New York Times op-ed. This point is frequently emphasized by Black Lives Matter organizers, who have centered the demand for economic justice from the beginning. The Movement for Black Lives <a href="https://m4bl.org/policy-platforms/economic-justice/">platform</a> calls for universal health care, a living wage, and stronger labor rights, while abolitionists have consistently <a href="http://criticalresistance.org/resisting-policing-dismantle-divest-defund/">drawn</a> a link between divesting from policing and prisons and investing in services that feed, house, educate, and employ Black people.
+  </p>
+  <p>
+  <strong>Within the tech industry, the link between racism and economic deprivation is particularly stark.</strong> Black people are disproportionately represented in roles that are contingent, poorly paid, and highly surveilled, from delivery workers to ride-hail drivers to warehouse workers. An <a href="https://medium.com/@catalina.brennan.gatica/sign-on-open-letter-to-gig-companies-regarding-black-lives-matter-4b48420e238d">open letter from Gig Workers Rising</a> describes how tech firms exploit such workers: denying them living wages, essential benefits, and representation within the workplace. The conditions that make police killings of Black people possible and inevitable are the same conditions that make the exploitation of Black and brown workers possible and inevitable, the letter reads. Racism is profitable, in other words: it lets the tech industrys predominantly white male leadership devalue certain kinds of workers and certain kinds of labor.
+  </p>
+  <p>
+  Yet tech executives attempt to erase this reality by issuing bland statements in support of Black Lives Mattereven as they profit from making Black lives matter less or create technologies that enforce systemic racism. To take one particularly egregious example, Amazon leadership affirmed its solidarity with the Black community in the fight against systemic racism and injustice one month after firing Black warehouse worker Christian Smalls for organizing to demand better health protections and then <a href="https://www.vice.com/en_ca/article/5dm8bx/leaked-amazon-memo-details-plan-to-smear-fired-warehouse-organizer-hes-not-smart-or-articulate">concocting</a> a racist smear campaign against him.
+  </p>
+  <p>
+  But the tech industry doesnt run on the labor of executives. Like any industry, it runs on the labor of workers. And, <strong>as tech workers, we are in a unique position to leverage our power over production to force meaningful change.</strong> Executives wont save us. Only collective action by workers across the entire industrywarehouse workers and software engineers, content moderators and ride-hail driverscan dismantle white supremacy within tech and beyond.
+  </p>
+
+  <h3>Anti-Racism in Tech</h3>
+  <p>
+  For the two years that we have been archiving the history of <a href="https://collectiveaction.tech">collective action in the tech industry</a>, we have seen workers across roles, companies, and geographies building anti-racist coalitions. Now is the moment to elevate that organizing into an industry-wide movement for Black lives. Here are some next steps:
+  </p>
+  <ol>
+    <li>
+      <strong>First, we have to acknowledge that the tech industry has a long history of anti-Blackness.</strong> In 1979, IBMs computer system was being used to run South Africas apartheid-era passbook system. Workers at the company formed an organization (<a href="http://www-cs-students.stanford.edu/~cale/cs201/apartheid.comp.html">IBM: Speak Up!</a>) to protest the company's role in perpetuating racism. Under worker pressure, the company officially divested from South Africa in 1987. In 2019, white-collar Black employees at Facebook published an <a href="https://www.theroot.com/black-facebook-workers-write-open-letter-to-company-we-1839776402">anonymous memo</a> documenting how the micro and macro aggressions they experienced on a daily basis left them feeling like we do not belong here. <strong>These actions are forty years apart but show a continuous thread of anti-Black sentiment, rhetoric, and action within tech companies. They also demonstrate how tech workers can organize to hold our employers accountable. Too little has changed during this time. Organizing is a proven pathway to change.</strong>
+      <br><br>
+    </li>
+    <li>
+      <strong>Second, we need to understand the ways in which technology can be built to be racist.</strong> In a 2019 article for the academic journal <a href="https://science.sciencemag.org/content/366/6464/421.full"><em>Science</em></a>, sociologist Ruha Benjamin points out that algorithms, far from being neutral, can perpetuate racial oppression. An <a href="https://onezero.medium.com/we-must-fight-face-surveillance-to-protect-black-lives-5ffcd0b4c28a">open letter by the Algorithmic Justice League</a> highlights numerous examples of how surveillance technologies developed by tech companies are used by law enforcement agencies to criminalize Black and Brown communities. Mijente has <a href="https://mijente.net/wp-content/uploads/2018/10/WHO%E2%80%99S-BEHIND-ICE_-The-Tech-and-Data-Companies-Fueling-Deportations_v3-.pdf">documented</a> the extensive work performed by the tech industry to facilitate ICEs deportation and detention regime and AI has <a href="https://www.fastcompany.com/90269688/high-tech-redlining-ai-is-quietly-upgrading-institutional-racism">revived</a> outlawed forms of institutionalized discrimination such as redlining.
+      <br><br>
+      Tech workers have taken collective action against these injustices. Since 2018, we have <a href="https://collectiveaction.tech/?query=ice">recorded</a> 16 visible collective actions in tech to <a href="https://www.fastcompany.com/90348304/exclusive-tech-workers-organize-protest-against-palantir-on-the-github-coding-platform">protest</a> the industrys <a href="https://www.nytimes.com/2018/06/19/technology/tech-companies-immigration-border.html">complicity</a> with ICE<sup><a href="#note4">4</a>, <a href="#note5">5</a>, <a href="#note6">6</a>, <a href="#note7">7</a></sup>. Moreover, Amazon workers have <a href="https://gizmodo.com/amazon-workers-demand-jeff-bezos-cancel-face-recognitio-1827037509">organized</a> to demand that management stop selling facial recognition to law enforcement, citing the governments targeting of Black activists as a particular cause for concern. These campaigns offer a promising foundation on which to construct a broader movement. Tech workers, especially those from Black, Indigenous, and POC communities, must have a say in what they build and how it is used. 
+      <br><br>
+    </li>
+    <li>
+      <strong>Third, we need to recognize that achieving racial justice requires raising standards for all workers.</strong> Anti-racism is a project of collective liberation. White supremacy divides workers from one another, and prevents them from engaging in shared struggle. This is why the struggle for Black liberation, from the Reconstruction era to the civil rights movement to Black Lives Matter, has always also been a class struggle. As Jamelle Bouie <a href="https://www.nytimes.com/2020/06/26/opinion/black-lives-matter-injustice.html">writes</a>, the fight against the privileges and distinctions of race can also lay the foundations for a broader assault on the privileges and distinctions of class. The emancipation of the American working class as a whole requires the emancipation of the Black workers who have historically been its most oppressed members.
+      <br><br>
+      This is especially evident in the tech industry, where Black people and people of color are heavily concentrated in lower-paid roles. According to the Equal Employment Opportunity Commission, while Black people represent 13% of the total U.S. population, only 3% of employees at the top 75 Silicon Valley firms were Black in 2017. More recent diversity reports from Facebook, Google, and Microsoft indicate that only <a href="https://diversity.fb.com/read-report/">3.8%</a>, <a href="https://kstatic.googleusercontent.com/files/25badfc6b6d1b33f3b87372ff7545d79261520d821e6ee9a82c4ab2de42a01216be2156bc5a60ae3337ffe7176d90b8b2b3000891ac6e516a650ecebf0e3f866">3.7%</a>, and <a href="https://www.microsoft.com/en-us/diversity/inside-microsoft/default.aspx">4.5%</a> of their employees identify as Black. An even smaller proportion fill technical or leadership roles. Amazons diversity report boasts over <a href="https://www.aboutamazon.com/working-at-amazon/diversity-and-inclusion/our-workforce-data">26%</a> Black representation. This is both true and misleading, because only a small fraction of that 26% gets to build or manage Amazons technology. Most of the Black people Amazon employs work in fulfillment centers doing the physically taxing and emotionally draining work Amazon needs to profit. Black workers in tech are far more likely to be subcontracted than directly employed. A 2016 <a href="https://www.siliconvalleyrising.org/files/TechsInvisibleWorkforce.pdf">report</a> by Silicon Valley Rising found that Black and Latino workers make up only 10% of Silicon Valleys directly employed workforce, but 26% of its white-collar contract workforce and 58% of its blue-collar contract workforce. <strong>We call for improved compensation, benefits, and representation for techs subcontracted, contingent, and blue-collar workers.</strong>
+      <br><br>
+      Undervaluing the labor of one group of workers hurts all workers: an injury to one is an injury to all. When Black workers gain power, all workers benefit. Additionally, any agenda that seeks to confront anti-Blackness in tech must seek to address the absence of Black voices in decision making and to recognize <a href="https://www.instagram.com/techcandobetter/">those who</a> are leading the charge.
+      <br><br>
+    </li>
+    <li>
+      <strong>Lastly, as organizers, we must all be a part of the change and shoulder the burden together.</strong>
+      <br><br>
+      Over the past few years, an unprecedented wave of rank-and-file mobilization has swept the tech industry. But despite the fact that white men dominate the white-collar rungs of the industry, collective action has generally been led by women, non-binary workers, and people of color. This is no coincidence.. An <a href="https://logicmag.io/the-making-of-the-tech-worker-movement/full-text/">analysis of the tech worker movement</a> suggests that people who have been marginalized in tech are more likely to endure the injustices perpetuated by the industry and thus more likely to see the need for collective action, as well as to forge solidarities across roles and levels.
+      <br><br>
+      But such workers also face constant discrimination and harrassment and may be less able to take risks. While leadership for anti-Black racism movements has been Black-led, <strong>we must recognize that workers in a system biased against them cannot shoulder the burdens and risks alone while also fighting oppression in the workplace.</strong>
+    </li>
+  </ol>
+
+  <div id="section2" class="hero">
+    <div class="hero-content">
+      <h1>Steps to Collective Action</h1>
+      <div class="hero-subtitle"><em>Here are the steps we recommend for building your collective.</em></div>
+    </div>
+  </div>
+
+  <p>Change isnt made from the top down, especially when management holds all of the power. Companies have gathered, guarded, and centralized power that they wield to uphold a profitable status quo. Collective action driven by workers balances the scales and brings strength to our demands.</p>
+  <h2>Build A Collective</h2>
+  <p>Organizing your workplace takes courage and deep solidarity. One to one conversations about the current state of an issue and how your coworkers feel about it is the number one tool in your toolbox. Here are the steps we recommend for building your collective:</p>
+  <ul>
+    <li>
+      <strong><u>Inner Circle</u></strong>
+      <p>
+        Start with the people you know and feel comfortable chatting with about difficult topics. Can you think of 3-5 coworkers who want to see more accountability from management? These are generally your workplace friends or folks whove already openly expressed dissatisfaction with your companys commitment to dismantling systemic racism. Heres an example of how to reach out to your friends:
+      </p>
+      <div class="grey-box">
+        <p>"Hiya, friend! Did you see (the open letter from Microsoft employees / the CEO of Snap is refusing to publish diversity reports / Amazon is only committing to a one-year moratorium of police use of Rekognition)?"</p>
+        <p>"Ya, I thought that was __ too. It made me think about our own company and how management has pretty much just made a vague statement about BLM."</p>
+        <p>"Has anyone else mentioned how we could do more as a company? Maybe we should start working on a statement to management about how our company needs to do better."</p>
+        <p>"Im in, are you in?"</p>
+      </div>
+      <br>
+    </li>
+    <li>
+      <strong><u>Outer Circles</u></strong>
+      <p>
+        After youve identified 3-5 people who want to get involved and have volunteered to help, it's time to identify how you can reach as many people as possible within your company without risking a leak to management. A good way to do this is to ask your circle of supporters to identify their own inner circle at the company. Who are their friends and who do they know has expressed dissatisfaction with how management is addressing systemic racism? Another good way to expand your organizing efforts while staying under managements radar is to start an employee resource group or a <a href="https://docs.google.com/document/u/1/d/1jGaALKzJBRoNbhRFvHfadL97OJwH3zqbx4ENMRgthbc/edit#">bookclub centered on Black Lives Matter</a>.
+      </p>
+    </li>
+    <li>
+      <strong><u>Securing Organizers</u></strong>
+      <p>
+        Its important to center the security of your group early on by encouraging the use of encrypted communication tools like Signal. In addition to creating private and secure channels for organizing, documenting worker performance and good standing is a critical proactive step to strengthening individuals who may face retaliation from organizing efforts. One good way to remain open while keeping the group secure is to divide up access to documents and information so that only active members of each working group can see necessary docs for their work. This ensures a bad actor doesnt have access to all of your sensitive information. Organizers across tech have been targeted, disciplined, and fired for challenging management.
+      </p>
+    </li>
+    <li>
+      <strong><u>Strategic Outreach Mapping</u></strong>
+      <p>
+        Identify which groups within your company are most likely to strengthen your collective action. Are there teams at your company who hold more influence than others? Are there teams who are disproportionately impacted by systemic racism? Try to find trustworthy inroads into these groups and start building consensus for collective action. Its usually best to have a strong point person for each group who understands the social dynamics and has time to cultivate support.
+      </p>
+    </li>
+    <li>
+      <strong><u>Fortify Perspectives</u></strong>
+      <p>
+        Systemic racism is visible in your tech company. Organizing for justice in the workplace is exponentially stronger when fortified and led by Black voices. It is crucial to cultivate support that amplifies the demands of fellow Black coworkers without doubling down on the daily burden of systemic racism. If your group does not include the Black coworkers around you, it's time to reflect. 
+      </p>
+    </li>
+    <li>
+      <strong><u>Measure Support</u></strong>
+      <p>
+        Beyond keeping track of the number of people who support taking collective action, it's important to keep track of the level of support each person expresses. It might be helpful to think of support on a scale of 1-5, 1 being an organizer and 5 an active opponent. If someone enthusiastically offers to help organize maybe put them down as a solid 1. If they express reservation and want to learn more, maybe theyre a persuadable 3. And if they strongly oppose and leak the effort to management, they are a definite 5. Whatever system you use, it's important to securely keep track of how people are currently feeling and stay sensitive to how they want to be involved. 
+      </p>
+    </li>
+    <li>
+      <strong><u>Build Bridges</u></strong>
+      <p>
+        Assuming good intentions and good faith is one of the strongest ways to build solidarity across varied perspectives. Although it's important to remain open to the possibility that some co-workers might be working with management to undermine organized labor, try not to let the idea of bad faith divide worker power. When they divide us, management wins. 
+      </p>
+    </li>
+    <li>
+      <strong><u>Reach Critical Mass</u></strong>
+      <p>
+        Building power among workers is a numbers game. The level of worker power it takes to hold management accountable and challenge systemic racism is different for each company and your organizer group is the best judge of what number makes your collective effective. Err on the side of caution and push for more support than you think youll need. There will be pressure from management that affects your collective and can pull support from your effort.  
+      </p>
+    </li>
+  </ul>
+
+  <h2>Identify Demands</h2>
+  <p>Systemic racism has shaped our society and our workplaces. In what ways is your workplace reinforcing racism and exploiting the Black community? If management were committed to dismantling racist systems, wouldnt there already be measurable goals and existing anti-racism measures in place? Its time for workers to use our collective leverage and start demanding specific commitments that hold leadership accountable.</p>
+  <ul>
+    <li>
+      <strong><u>Template Internal Demand Letter</u></strong>
+      <p>
+        Here is a <a href="#section3">template demand letter</a> with specific, time bound anti-racist actions that you can pull from as you put together your own tailored letter. Think about the working conditions of your workplace and how they currently reinforce systemic racism.  Also take into account how your labor contributes to systemic racism outside your company. How does the product you're building impact the Black community? 
+      </p>
+    </li>
+    <li>
+      <strong><u>Reaching Consensus</u></strong>
+      <p>
+        Establish a consensus system, like <a href="http://jakecalabrese.com/learning-with-fist-of-five-voting/">Fist of Five</a>, that can be used to work up to a super majority of support for sending the letter to management. This might take time but its important to get to a place where most folks support the content of the letter and are willing to fight for each demand.
+      </p>
+    </li>
+  </ul>
+
+  <h2>Taking Action</h2>
+  <p>
+    Now that your coworkers are unified, proud, and ready to fight for an anti-racist workplace, its time to discuss what you're willing to do to pressure management into meeting your demands.  There are many ways to put pressure on leadership but here are a few tried and true methods:
+  </p>
+  <ul>
+    <li>
+      <strong><u><a href="https://www.nytimes.com/2020/06/01/technology/facebook-employee-protest-trump.html">8:46 Minute Labor Stoppage</a></u></strong>
+      <p>
+        Close your computer in honor of George Floyd and stop working for 8 minutes and 46 seconds to show you're willing to withhold labor if your demands are not met. 
+      </p>
+    </li>
+    <li>
+      <strong><u>Open Letter</u></strong>
+      <p>
+        Publish your demands and publicly cite how the company is failing the Black community. Use the companys own values/mission statement in your list of demands. How do these demands fit in with the values that the company claims to adhere to? 
+      </p>
+    </li>
+    <li>
+      <strong><u>Social Media Pressure Campaign</u></strong>
+      <p>
+        Mount a full media pressure campaign and use a common social media account to provide sharable content.
+      </p>
+    </li>
+    <li>
+      <strong><u>Full Day Sick Out / Strike</u></strong>
+      <p>
+        Choose a full day to collectively stop working and signal to management that you refuse to contribute to systemic racism.
+      </p>
+    </li>
+    <li>
+      <strong><u>Visible Action</u></strong>
+      <p>
+        Create a public action that brings attention to leaderships failure to act. 
+      </p>
+    </li>
+    <li>
+      <strong><u>Indefinite Sick Out / Strike</u></strong>
+      <p>
+        If management continues to stall, collectively stop working for as long as it takes.
+      </p>
+    </li>
+  </ul>
+
+  <h2>Protect Each Other</h2>
+  <p>
+  As a rule of thumb, you should always act in a group and never alone, even if it's just one other coworker, since concerted activity is protected under <a href="https://www.nlrb.gov/about-nlrb/rights-we-protect/the-law/employees/concerted-activity">Section 7 of the National Labor Relations Act</a>. Holding management accountable is hard and can be risky but were safer when we take action together. Its important for your group to spend time naming boundaries and planning a response to retaliation. Will you form a committee to review claims of retaliation from fellow organizers?  Will you create a sliding scale of collective action to put pressure on management if they are found to be retaliating against individuals? If you create a plan to protect your collective early, youll be one step ahead of management. Check out Vice magazines <a href="https://www.vice.com/en_us/article/y3md3v/how-to-organize-your-workplace-without-getting-caught">guide</a> to secure labor organizing for more information.
+  </p>
+
+  <div id="section3" class="hero">
+    <div class="hero-content">
+      <h1>Template Demand Letter</h1>
+      <div class="hero-subtitle"><em>Use this template to kickstart your letter.</em></div>
+    </div>
+  </div>
+  <p>After you build a collective, it's important to create a plan for how you'll communicate your values and demands to management. We've put together a template demand letter to send directly to your leadership and management team. Feel free to make this your own. </p>
+  <div class="grey-box">
+    <p>Dear <em>&lt;COMPANY LEADERSHIP&gt;</em>,</p>
+    <p><em>&lt;COMPANY&gt;</em> has made a Black Lives Matter solidarity statement, we've had a group meeting, and we've heard from leadership about the need for change. Leadership has committed to making changes but its not enough. Its time <em>&lt;COMPANY&gt;</em> makes internal changes that address systemic racism with the urgency this moment calls for. We are the workers who build this platform and we demand accountability.</p>
+    <p><em>&lt;Sentence or two about company values and how they are not living up to them if they continue to participate in systemic racism.&gt;</em></p>
+    <p><strong>Internal Commitments to Dismantling Systemic Racism</strong></p>
     <ul>
-      <li>
-        <strong>Inner Circle</strong>
-        <br>
-        Start with the people you know and feel comfortable chatting with about difficult topics.  Can you think of 3-5 coworkers who want to see more accountability from management?  These are generally your workplace friends or folks whove already openly expressed dissatisfaction with your companys commitment to dismantling systemic racism. Heres an example of how to reach out to your friends:
-        <div class="grey-box">
-          "Hiya, friend!  Did you see (the open letter from Microsoft employees / the CEO of Snap is refusing to publish diversity reports / Amazon is only committing to a one-year moratorium of police use of Rekognition)?"
-          <br><br>
-          "Ya, I thought that was __ too.  It made me think about our own company and how management has pretty much just made a vague statement about BLM."
-          <br><br>
-          "Has anyone else mentioned how we could do more as a company?  Maybe we should start working on a statement to management about how our company needs to do better."
-          <br><br>
-          "Im in, are you in?"
-        </div>
-      </li>
+      <li>Introduce pay equity by instituting transparent salary bands that elevate workers to consistent compensation levels.</li>
+      <li>Make measurable hiring commitments at every level of the company.</li>
+      <li>Commit to Black presence on hiring committees for every new employee.</li>
+      <li>Commit to __% of Black leadership by 2021 and __% Black leadership roles by 2022.</li>
+      <li>Commit to 3rd party oversight of performance reviews to check for and address racism.</li>
+      <li>Commit to documented, consistent, and transparent approaches to addressing reports of racism in the workplace.</li>
+      <li>Commit to paying any PoC employee for time giving feedback on D&I initiatives.</li>
+      <li>Allow employees to work remotely so we can choose to live where we find community.</li>
+      <li>Commit to having internal training and leadership programs that have similar diversity standards as above (with safe spaces/communities for Black and POC employees).</li>
+    </ul>
+    <p><strong>Product Commitments to Dismantling Systemic Racism </strong></p>
+    <ul>
+      <li>No Tech for Oppression commitment that enables employees to anonymously report and upvote concerns about the impact of product decisions on society.  Followed by leadership &gt; employee transparency about how these concerns are being addressed.</li>
+      <li>Cancel any contracts with government agencies who are complicit in state violence, including ICE, CBP, the FBI, the CIA, the military, as well as state and local law enforcement.</li>
+      <li>Commit to monthly audit of all algorithms by the <a href="https://www.ajlunited.org/take-action">Algorithmic Justice League</a>.</li>
+    </ul>
+    <p><strong>External Commitments to Dismantling Systemic Racism</strong></p>
+    <ul>
+      <li>Funding non-predatory trainings within the Black community.</li>
+      <li>Commit to holding 15% of hiring/tech/talk/career events in Black community spaces or in coordination with Black community organizations</li>
+      <li>__% of advertising dollars that go to community sponsorship go to Black led organizations.</li>
+      <li>Policy of giving up speaking spot to Black participant if there is not __% representation at conference.</li>
     </ul>
 
-    <hr>
-    <h2 id="section3">Templates for Collective Action</h2>
-    <p><strong>Sample outreach conversation</strong></p>
-    <div class="grey-box">
-      <p>"Hey I saw this template shared on social media. I think a lot of the demands apply to us. Do folks want to talk through how we can use this?"</p>
-      <p>"Our management has already put out X statement, but I think we - as workers - should get together and come up with a Black Lives Matter solidarity statement so that were making this demand from the bottom up."</p>
-      <p>"Leadership has committed to making changes but its not enough. Its time we make internal changes that address systemic racism with the urgency this moment calls for. We are the workers who build this platform so we should have the power to demand accountability."</p>
-    </div>
+  </div>
 
-    <p><strong>Template Demand Letter</strong></p>
-    <p>COMPANY has made a Black Lives Matter solidarity statement, weve had a group meeting, and weve heard from leadership about the need for change.  Leadership has committed to making changes but its not enough. Its time COMPANY makes internal changes that address systemic racism with the urgency this moment calls for.  We are the workers who build this platform and we demand accountability.</p>
-    <p>&lt;Sentence or two about company values and how they are not living up to them if they continue to participate in systemic racism.&gt;</p>
+  <h2>Sample outreach conversation</h2>
+  <p>When you approach coworkers, you can use the following sample messages.</p>
+  <div class="grey-box">
+    <p>"Hey I saw this template shared on social media. I think a lot of the demands apply to us. Do folks want to talk through how we can use this?"</p>
+    <p>"Our management has already put out a statement, but I think weas workersshould get together and come up with a Black Lives Matter solidarity statement to keep our company accountable."</p>
+  </div>
 
-    <hr>
-    <p><strong>Footnotes:</strong></p>
-    <p id="note1"><sup>1</sup> A footnote is an explanatory comment placed at the bottom of a page and linked to from the location within the page where the information contained in the note applies.</p>
+  <br>
+  <hr>
 
+  <h2>Theres a Movement Behind You</h2>
+  <p>This guide is a jumping off point. These are strategy templates that workers can take to utilize collective action in the workplace. But remember, each situation is unique and you should feel free to take whats useful from this guide and make it your own. <strong>If you would like guidance on your plan of action, please contact us at <a href="mailto:collectiveactionintech@protonmail.com">collectiveactionintech [at] protonmail.com</a> or direct-message us on Twitter <a href="https://twitter.com/tech_actions">@tech_actions</a>.</strong> Well do our best to connect you with experienced tech industry organizers that can give you support.
+
+  <p>Theres a movement behind you - go start talking to your coworkers, build a collective, and take action!</p>
+
+  <br><br>
+  
 </div>
 <!-- /.content-->
