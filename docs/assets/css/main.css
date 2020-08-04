@@ -1,287 +1,287 @@
 body {
-    margin: 60px auto;
-    width: 70%;
+  margin: 60px auto;
+  width: 70%;
 }
 body.is-mobile {
-    margin: 30px auto;
-    width: 85%;
+  margin: 30px auto;
+  width: 85%;
 }
 nav {
-    position: relative;
+  position: relative;
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
-    list-style: none;
-    font-weight: bold;
+  font-family:'Helvetica', 'Arial', 'Sans-Serif';
+  padding: 0px;
+  list-style: none;
+  font-weight: bold;
 }
 nav ul li, footer ul li {
-    display: inline;
-    margin-right: 20px;
+  display: inline;
+  margin-right: 20px;
 }
 #nav-mobile-menu {
-    color: blue;
+  color: blue;
 }
 /* mobile menu */
 @media only screen and (max-width: 600px) {
   nav #nav-menu li {
-      display: block;
-      border-top: 1px solid #eee;
-      padding-top: 1em;
-      padding-bottom: 1em;
-      margin-right: inherit;
+    display: block;
+    border-top: 1px solid #eee;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-right: inherit;
   }
 }
 a {
-    text-decoration: none;
-    color: blue;
+  text-decoration: none;
+  color: blue;
 }
 a:hover {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 h1, h2, h3 {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+  font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 h1 {
-    font-size: 3em;
+  font-size: 3rem;
 }
 .is-mobile h1 {
-    font-size: 2em;
+  font-size: 2.5rem;
 }
 h2 {
-    font-size: 2em;
+  font-size: 2rem;
 }
 .is-mobile h2 {
-    font-size: 1.5em;
+  font-size: 1.75rem;
 }
 h3 {
-    font-size: 1.75em;
+  font-size: 1.75rem;
 }
 .is-mobile h3 {
-    font-size: 1.25em;
+  font-size: 1.5rem;
 }
 p {
-    font-size: 1.5em;
-    line-height: 1.4em;
-    color: #333;
+  font-size: 1.5rem;
+  line-height: 1.9rem;
+  color: #333;
 }
 .is-mobile p {
-    font-size: 1.2em;
-    line-height: 1.2em;
+  font-size: 1.3rem;
+  line-height: 1.8rem;
 }
 ul, ol {
-    font-size: 1.5em;
-    line-height: 1.4em;
-    color: #333;
+  font-size: 1.5rem;
+  line-height: 1.9rem;
+  color: #333;
 }
 .is-mobile ul, .is-mobile ol {
-    font-size: 1.2em;
-    line-height: 1.2em;
+  font-size: 1.3rem;
+  line-height: 1.8rem;
 }
 img {
-    max-width: 100%;
+  max-width: 100%;
 }
 footer {
-    text-align: center;
-    font-size: .8em;
+  text-align: center;
+  font-size: .8rem;
 }
 #action-total {
-    color: blue;
+  color: blue;
 }
 
 /* github star */
 nav > span {
-    display: inline;
-    position: absolute;
-    right: 0px;
-    top: -1px;
+  display: inline;
+  position: absolute;
+  right: 0px;
+  top: -1px;
 }
 
 /* Make search + query stick */
 #search-query {
-    background-color: white;
-    position:fixed;
-    top:0;
-    width:100%;
-    z-index:100;
-    padding-top: 1em;
+  background-color: white;
+  position:fixed;
+  top:0;
+  width:100%;
+  z-index:100;
+  padding-top: 1rem;
 }
 #search-query.stuck {
-    margin: 0px auto;
-    width: 70%;
+  margin: 0px auto;
+  width: 70%;
 }
 .is-mobile #search-query.stuck {
-    margin: 0px auto;
-    width: 85%;
+  margin: 0px auto;
+  width: 85%;
 }
 /* Search */
 #search {
-	position: relative;
+  position: relative;
 }
 #search #search-icon,
 #search #search-cancel-icon {
-    left: 12px;
-    position: absolute;
-    top: 12px;
-    color: blue;
-    font-size: 20px;
+  left: 12px;
+  position: absolute;
+  top: 12px;
+  color: blue;
+  font-size: 20px;
 }
 #search #search-cancel-icon {
-    display: none;
+  display: none;
 }
 #search #action-count {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    font-size: 14px;
-    line-height: 16px;
-    font-weight: 700;
-    padding: 6px;
-    top: 8px;
-    right: 8px;
-    position: absolute;
-    background-color: #ccc;
-    display: none;
-    border-radius: 4px;
+  font-family:'Helvetica', 'Arial', 'Sans-Serif';
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 700;
+  padding: 6px;
+  top: 8px;
+  right: 8px;
+  position: absolute;
+  background-color: #ccc;
+  display: none;
+  border-radius: 4px;
 }
 #search-input {
-	width: calc(100% - 120px - 2px); /* Full-width - padding - border */
-	font-size: 16px; /* Increase font-size */
-	padding: 12px 80px 12px 40px; /* Add some padding */
-	border: 1px solid blue; 
+  width: calc(100% - 120px - 2px); /* Full-width - padding - border */
+  font-size: 16px; /* Increase font-size */
+  padding: 12px 80px 12px 40px; /* Add some padding */
+  border: 1px solid blue; 
 }
 #search-input:focus {
-    outline-width: 0;
-    background-color: #f5f2f0;
+  outline-width: 0;
+  background-color: #f5f2f0;
 }
 
 /* Query Tags */
 #query {
-    width: 100%;
-    margin-top: 1em;
-    margin-bottom: 1em;
-    position: relative;
+  width: 100%;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  position: relative;
 }
 #query #query-tags .query-tag {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    font-size: 14px;
-    line-height: 16px;
-    font-weight: 700;
-    padding: 6px;
-    display: inline-block;
-    background-color: blue;
-    color: white;
-    border-radius: 4px;
-    cursor: pointer;
-    margin-right: 12px;
+  font-family:'Helvetica', 'Arial', 'Sans-Serif';
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 700;
+  padding: 6px;
+  display: inline-block;
+  background-color: blue;
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-right: 12px;
 }
 #query #query-cancel {
-    position: absolute;
-    right: 0px;
-    top: 0px;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    font-size: 14px;
-    line-height: 16px;
-    font-weight: 700;
-    padding: 6px;
-    display: inline-block;
-    border-radius: 4px;
-    border: 1px solid red;
-    color: red;
-    display: none;
-    cursor: pointer;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  font-family:'Helvetica', 'Arial', 'Sans-Serif';
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 700;
+  padding: 6px;
+  display: inline-block;
+  border-radius: 4px;
+  border: 1px solid red;
+  color: red;
+  display: none;
+  cursor: pointer;
 }
 
 /* Action */
 #actions{
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+  font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 .action {
-    line-height: 1.4em;
-    border-top: 1px solid #f5f2f0;
-    padding-top: 1em;
-    padding-bottom: 1em;
-    padding-left: 0.5em;
-    padding-right: 0.5em;
-    display: grid;
-    grid-gap: .75em;
-    position: relative;
+  line-height: 1.4rem;
+  border-top: 1px solid #f5f2f0;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  display: grid;
+  grid-gap: .75rem;
+  position: relative;
 }
 .is-mobile .action {
-    padding-left: 0px;
-    padding-right: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
 
-    /* These are technically the same, but use both */
-    overflow-wrap: break-word;
-    word-wrap: break-word;
+  /* These are technically the same, but use both */
+  overflow-wrap: break-word;
+  word-wrap: break-word;
 
-    -ms-word-break: break-all;
-    /* This is the dangerous one in WebKit, as it breaks things wherever */
-    word-break: break-all;
-    /* Instead use this non-standard one: */
-    word-break: break-word;
+  -ms-word-break: break-all;
+  /* This is the dangerous one in WebKit, as it breaks things wherever */
+  word-break: break-all;
+  /* Instead use this non-standard one: */
+  word-break: break-word;
 
-    /* Adds a hyphen where the word breaks, if supported (No Blink) */
-    -ms-hyphens: auto;
-    -moz-hyphens: auto;
-    -webkit-hyphens: auto;
-    hyphens: auto;
+  /* Adds a hyphen where the word breaks, if supported (No Blink) */
+  -ms-hyphens: auto;
+  -moz-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;
 }
 .action:last-child {
-    border-bottom: 1px solid #f5f2f0;
+  border-bottom: 1px solid #f5f2f0;
 }
 .action:hover,
 .action .sources:hover {
-    background-color: #f5f2f0;
+  background-color: #f5f2f0;
 }
 .action .date {
-    font-weight: 700;
+  font-weight: 700;
 }
 .action .tags .tag {
-    margin-right: 8px;
-    margin-bottom: 8px;
-    font-size: 14px;
-    line-height: 16px;
-    font-weight: 700;
-    padding: 6px;
-    border-radius: 4px;
-    background-color: #f5f2f0;
-    color: blue;
-    display: inline-block;
-    cursor: pointer;
+  margin-right: 8px;
+  margin-bottom: 8px;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 700;
+  padding: 6px;
+  border-radius: 4px;
+  background-color: #f5f2f0;
+  color: blue;
+  display: inline-block;
+  cursor: pointer;
 }
 .action .tags .tag.selected {
-    background-color: blue !important;
-    color: white;
+  background-color: blue !important;
+  color: white;
 }
 .action:hover .tags .tag,
 .action .sources:hover .source {
-    background-color: white;
+  background-color: white;
 }
 .action .sources {
-    display: None;
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    background-color: white;
-    color: blue;
+  display: None;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: white;
+  color: blue;
 }
 .action .sources .source {
-    font-size: 14px;
-    line-height: 16px;
-    font-weight: 700;
-    padding: 6px;
-    border-radius: 4px;
-    background-color: #f5f2f0;
-    display: inline-block;
-    margin: 8px;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 700;
+  padding: 6px;
+  border-radius: 4px;
+  background-color: #f5f2f0;
+  display: inline-block;
+  margin: 8px;
 }
 .action .source-icon {
-    cursor: pointer;
-    position: absolute;
-    top: 1em;
-    right: 1em;
+  cursor: pointer;
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
 }
 .action .source-icon i {
-    color: blue;
-    margin-left: 8px;
-    margin-right: 8px;
+  color: blue;
+  margin-left: 8px;
+  margin-right: 8px;
 }
