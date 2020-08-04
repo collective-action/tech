@@ -8069,6 +8069,70 @@
         "addresses": null
     },
     {
+        "id": 297,
+        "date": "2019/11/12",
+        "sources": [
+            "https://www.vice.com/en_ca/article/d3aqkz/a-fired-kickstarter-organizer-is-trying-to-unionize-tech-workers-using-kickstarter, https://www.kickstarter.com/projects/clarissaredwine/solidarity-onboarding?ref=user_menu"
+        ],
+        "actions": [
+            "protest"
+        ],
+        "struggles": [
+            "unfair_labor_practices"
+        ],
+        "employment_types": [
+            "white_collar_workers"
+        ],
+        "description": "Tech activists, artists, and creators who helped organize Google, Facebook, WeWork, Kickstarter, and more annotated an assemblage of common anti-union statements.  The zine's organizer-driven content is an inoculation tool for tech workers that exposes them to union busting rhetoric and arms them with pro union rebuttals. ",
+        "online": true,
+        "locations": [
+            "san francisco-california-usa",
+            "brooklyn-new york city-new york-usa"
+        ],
+        "companies": [
+            "kickstarter",
+            "google",
+            "wework",
+            "facebook"
+        ],
+        "workers": 10,
+        "tags": [
+            "industry_solidarity"
+        ],
+        "author": [
+            "clarissa"
+        ],
+        "latlngs": [
+            [
+                37.41897865,
+                -122.08237793989416
+            ],
+            [
+                37.778011,
+                -122.4121644
+            ],
+            [
+                37.484668049999996,
+                -122.1483654685629
+            ],
+            [
+                40.7321996,
+                -73.9598257
+            ],
+            [
+                40.7007485,
+                -73.9725542
+            ]
+        ],
+        "addresses": [
+            "Google, Mountain View, Santa Clara County, California, United States of America",
+            "WeWork, 1161, Mission Street, West SoMa, San Francisco, San Francisco City and County, California, 94103, United States of America",
+            "Facebook, Bayfront Expressway, Belle Haven, Menlo Park, San Mateo County, California, 94025-1246, United States of America",
+            "Kickstarter HQ, West Street, Brooklyn, New York, 11222, United States of America",
+            "WeWork, Market Street, Brooklyn Navy Yard, Brooklyn, New York, 11251, United States of America"
+        ]
+    },
+    {
         "id": 208,
         "date": "2019/11/13",
         "sources": [
@@ -9549,6 +9613,39 @@
         ]
     },
     {
+        "id": 295,
+        "date": "2020/03/19",
+        "sources": [
+            "https://technode.com/2020/04/29/there-are-no-food-delivery-winners/,\nhttps://technode.com/2019/02/25/meituan-deliveryman-strike/,\nhttps://maps.clb.org.hk/?i18n_language=en_US&map=1&startDate=2019-02&endDate=2019-02&eventId=2020010622223453021"
+        ],
+        "actions": [
+            "strike"
+        ],
+        "struggles": [
+            "pay_and_benefits"
+        ],
+        "employment_types": [
+            "gig_workers"
+        ],
+        "description": "Food delivery drivers carried out a series of strikes in several major cities across China in protest of lowered wages from the dominant food delivery platform, Meituan Dianping.  Workers lined up delivery scooters and bikes displaying signs that read, \"stop taking orders.\u201d  The work stoppage created tension between delivery drivers and food vendors, sometimes leading to physical confrontation.",
+        "online": null,
+        "locations": [
+            "dongguan-china"
+        ],
+        "companies": [
+            "meituan"
+        ],
+        "workers": 100,
+        "tags": [
+            "delivery_workers"
+        ],
+        "author": [
+            "clarissa"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
         "id": 244,
         "date": "2020/03/19",
         "sources": [
@@ -10138,6 +10235,76 @@
         ],
         "latlngs": null,
         "addresses": null
+    },
+    {
+        "id": 294,
+        "date": "2020/04/17",
+        "sources": [
+            "https://www.wsws.org/en/articles/2020/04/25/braz-a25.html, https://www.wsws.org/en/articles/2020/04/20/spai-a20.html"
+        ],
+        "actions": [
+            "strike",
+            "protest"
+        ],
+        "struggles": [
+            "working conditions",
+            "pay_and_benefits"
+        ],
+        "employment_types": [
+            "gig_workers"
+        ],
+        "description": "Over the past few days, food delivery workers have carried out strikes in several countries demanding safe working conditions in the face of the coronavirus pandemic and an increase in delivery rates to ensure the workers a livable income. The countries include Brazil, Spain, Argentina, and Ecuador.",
+        "online": null,
+        "locations": [
+            "teresina-piau\u00ed-brazil",
+            "rio de janiero-brazil",
+            "s\u00e3o paulo-brazil",
+            "buenos aires-argentina",
+            "cordoba-spain",
+            "quito-ecuador",
+            "madrid-spain",
+            "cartagena-spain"
+        ],
+        "companies": [
+            "loggi",
+            "iFood",
+            "rappi",
+            "uber",
+            "glovo",
+            "deliveroo"
+        ],
+        "workers": null,
+        "tags": [
+            "coronavirus",
+            "delivery_workers"
+        ],
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": [
+            [
+                -23.5408511,
+                -46.767282173446574
+            ],
+            [
+                -21.2180398,
+                -47.7985009230547
+            ],
+            [
+                -36.8691092,
+                -60.1620626
+            ],
+            [
+                -34.5814605,
+                -58.4513731
+            ]
+        ],
+        "addresses": [
+            "iFood, 1496, Avenida dos Autonomistas, Osasco, Regi\u00e3o Imediata de S\u00e3o Paulo, Regi\u00e3o Metropolitana de S\u00e3o Paulo, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de S\u00e3o Paulo, S\u00e3o Paulo, Regi\u00e3o Sudeste, 06020-010, Brasil",
+            "Parque Uber, Jardim Bot\u00e2nico, Ribeir\u00e3o Preto, Regi\u00e3o Imediata de Ribeir\u00e3o Preto, Regi\u00e3o Metropolitana de Ribeir\u00e3o Preto, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Ribeir\u00e3o Preto, S\u00e3o Paulo, Regi\u00e3o Sudeste, Brasil",
+            "Cristian Uber, Hinojo, Partido de Olavarr\u00eda, Buenos Aires, 7318, Argentina",
+            "Glovo, 3590, Avenida Federico Lacroze, Colegiales, Buenos Aires, Comuna 15, C1427EDN, Argentina"
+        ]
     },
     {
         "id": 256,
@@ -10843,6 +11010,43 @@
         ]
     },
     {
+        "id": 293,
+        "date": "2020/06/09",
+        "sources": [
+            "https://www.wsws.org/en/articles/2020/06/12/braz-j12.html"
+        ],
+        "actions": [
+            "protest",
+            "strike"
+        ],
+        "struggles": [
+            "working conditions",
+            "pay_and_benefits"
+        ],
+        "employment_types": [
+            "gig_workers"
+        ],
+        "description": "Loggi delivery workers in Brazil went on strike starting June 9th to protest poor working conditions, including lack of protections against coronavirus, and low pay. Protestors also commemorated the death of a fellow worker, Thiago Coelho, who was killed in a motorcycle accident. ",
+        "online": null,
+        "locations": [
+            "rio de janiero-brazil",
+            "s\u00e3o paulo-brazil"
+        ],
+        "companies": [
+            "loggi"
+        ],
+        "workers": null,
+        "tags": [
+            "coronavirus",
+            "delivery_workers"
+        ],
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
         "id": 283,
         "date": "2020/06/12",
         "sources": [
@@ -11006,7 +11210,7 @@
         "online": true,
         "locations": null,
         "companies": [
-            "Springer Publishing"
+            "springer publishing"
         ],
         "workers": 600,
         "tags": [

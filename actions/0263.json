@@ -1,33 +1,41 @@
 {
-    "id": 275,
-    "date": "2020/04/30",
+    "id": 257,
+    "date": "2020/04/21",
     "sources": [
-        "https://www.transnational-strike.info/2020/05/03/addressing-the-pandemic-at-amazon-open-letter-to-jeff-bezos-and-stefano-perego/, http://inthesetimes.com/working/entry/22501/amazon-europe-united-states-international-labor-organizing-workers-bezos"
+        "https://www.vice.com/amp/en_us/article/jge77g/hundreds-of-amazon-workers-are-not-going-to-work-in-nationwide-protest, https://thehill.com/policy/technology/493772-hundreds-of-amazon-workers-to-walk-off-starting-tuesday, https://nypost.com/2020/04/21/300-amazon-employees-refuse-to-work-amid-coronavirus-safety-worries/, https://www.wired.com/story/amazon-sick-out-tech-warehouse-workers-protest/"
     ],
     "actions": [
-        "open_letter"
+        "strike"
     ],
     "struggles": [
         "working conditions"
     ],
     "employment_types": [
-        "in_house_workers",
-        "blue_collar_workers"
+        "blue_collar_workers",
+        "in_house_workers"
     ],
-    "description": "Amazon Workers International, speaking on behalf of Amazon workers across the U.S. and Europe, sent an open letter to Jeff Bezos and Stefano Perego, VP of European Fulfillment. The letter called for making covid-era wage increases and breaks permanent and suspending productivity feedback. In addition, AWI demanded more transparency around covid cases at Amazon, improved sick leave, and good faith bargaining with unions. ",
-    "online": true,
-    "locations": null,
+    "description": "Over 300 Amazon workers across the country signed a pledge to call out of work to protest the company's reaction to the coronavirus pandemic. Participants claim the company continues to fall short in providing personal protective equipment and are calling for a more flexible paid leave policy that would allow them to take care of sick family members.",
+    "online": null,
+    "locations": [
+        "usa"
+    ],
     "companies": [
         "amazon"
     ],
-    "workers": 8,
+    "workers": 301,
     "tags": [
-        "international_solidarity",
         "coronavirus"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            47.6142939,
+            -122.3239636
+        ]
+    ],
+    "addresses": [
+        "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
+    ]
 }

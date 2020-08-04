@@ -1,41 +1,34 @@
 {
-    "id": 259,
-    "date": "2020/04/26",
+    "id": 256,
+    "date": "2020/04/20",
     "sources": [
-        "https://www.vice.com/en_us/article/n7jaaq/amazon-reinstates-fired-warehouse-worker-after-employees-strike, https://twitter.com/AwoodMpls/status/1254449858343251970?s=19"
+        "https://www.theguardian.com/world/2020/apr/20/coronavirus-digital-contact-tracing-will-fail-unless-privacy-is-respected-experts-warn, https://techcrunch.com/2020/04/20/academics-contact-tracing/"
     ],
     "actions": [
-        "strike"
+        "open_letter"
     ],
     "struggles": [
-        "pay_and_benefits"
+        "ethics"
     ],
     "employment_types": [
-        "blue_collar_workers",
-        "in_house_workers"
+        "white_collar_workers"
     ],
-    "description": "Amazon employees went on strike after the company allegedly fired a worker who chose to stay at home with her two children during the pandemic. Workers also protested the company's announcement that it would phase out their new paid-leave policy on May 1st. The company announced that two more employees had tested positive for the virus the night before the protest. Reporting from Vice and a tweet from a local community center suggest that this also served as impetus for the strike. Organizers claimed that more than 50 employees were involved in the strike, while management claimed it was 25.",
-    "online": null,
+    "description": "Over 300 academics from 26 countries signed a letter calling for contact-tracing apps to respect user privacy and to limit large-scale, centralized surveillance in favor of decentralized systems. The signatories favored the DP-3T protocol and systems like Apple and Google\u2019s cross-platform solution over the PEPP-T system designed by a set of European countries.",
+    "online": true,
     "locations": [
-        "shakopee-minnesota-usa"
+        "worldwide"
     ],
     "companies": [
-        "amazon"
+        "na"
     ],
-    "workers": 51,
+    "workers": 301,
     "tags": [
-        "coronavirus"
+        "coronavirus",
+        "surveillance"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            44.80059945,
-            -93.48865500885567
-        ]
-    ],
-    "addresses": [
-        "Amazon Fullfillment Center MSP1, 2601, 4th Avenue East, Valley Haven Mobile Home Park, Shakopee, Scott County, Minnesota, 55379, United States of America"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

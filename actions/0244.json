@@ -1,43 +1,41 @@
 {
-    "id": 243,
-    "date": "2020/03/19",
+    "id": 273,
+    "date": "2020/03/18",
     "sources": [
-        "https://www.businessinsider.com/ice-mijente-microsoft-coronavirus-crisis-2020-3, https://github.com/msworkers/against.ice"
+        "https://www.nytimes.com/2020/05/14/technology/amazon-unions-france-coronavirus.html, https://www.reuters.com/article/us-health-coronavirus-france-amazon-idUSKBN2152MP"
     ],
     "actions": [
-        "open_letter"
+        "strike"
     ],
     "struggles": [
-        "ethics"
+        "working conditions"
     ],
     "employment_types": [
-        "white_collar_workers",
-        "in_house_workers"
+        "in_house_workers",
+        "blue_collar_workers"
     ],
-    "description": "Mijente, an immigrant rights group is calling on ICE to stop hunting down undocumented immigrants amid the coronavirus crisis. In an open letter published on Github, Microsoft workers backed mijente's campaign, calling on tech companies not to share their technologies with ICE.",
+    "description": "French Amazon employees at six warehouses protested and threatened walkouts over lax covid-19 protections, calling for the company to adhere to social distancing, provide personal protective equipment, and initiate employee temperature checks. A spokesperson for Amazon's French CFDT union estimated that between 30-40% of Amazon employees in the country were no longer showing up to work over safety concerns or because of childcare obligations. A French law requires workplaces to keep paying workers who refuse to work over safety concerns. ",
     "online": null,
     "locations": [
-        "california-usa"
+        "saran-france"
     ],
     "companies": [
-        "microsoft"
+        "amazon"
     ],
-    "workers": null,
+    "workers": 250,
     "tags": [
-        "ice",
-        "immigration",
         "coronavirus"
     ],
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            37.41096725,
-            -122.07138737347663
+            47.9619318,
+            1.8440185793930501
         ]
     ],
     "addresses": [
-        "Microsoft Silicon Valley, Mountain View, Santa Clara County, California, United States of America"
+        "Amazon.fr ORY1, Rue de l'Olivier, Deret Logistique, Saran, Orl\u00e9ans, Loiret, Centre-Val de Loire, France m\u00e9tropolitaine, 45770, France"
     ]
 }
