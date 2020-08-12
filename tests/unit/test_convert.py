@@ -36,10 +36,10 @@ def test_save_cas_to_readme(cas, readme_path):
     save_cas_to_readme(cas, readme_path=readme_path)
 
 
-# def test_save_cas_to_csv(cas, tmp_session):
-#     fp = os.path.join(tmp_session, "actions.csv")
-#     open(fp, "w").close()  # create new file
-#     save_cas_to_csv(cas, csv_path=fp)
+def test_save_cas_to_csv(cas, tmp_session):
+    fp = os.path.join(tmp_session, "actions.csv")
+    open(fp, "w").close()  # create new file
+    save_cas_to_csv(cas, csv_path=fp)
 
 
 def test_save_cas_to_json(cas, tmp_session):
