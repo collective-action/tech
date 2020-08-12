@@ -1,34 +1,33 @@
 {
-    "id": 299,
-    "date": "2020/08/01",
+    "id": 303,
+    "date": "2020/07/20",
     "sources": [
-        "https://www.vice.com/en_au/article/ep4qdz/amazon-workers-blocked-delivery-trucks-from-leaving-a-warehouse-for-hours"
+        "https://www.vice.com/en_us/article/m7jpgy/open-source-community-changing-github-avatars-drop-ice"
     ],
     "actions": [
-        "strike",
         "protest"
     ],
     "struggles": [
-        "job security",
-        "unfair labor practices"
+        "ethics"
     ],
     "employment_types": [
-        "blue collar workers",
-        "in-house workers"
+        "open source community"
     ],
-    "description": "A caravan of protestors demanding increased pay and COVID-19 protections disrupted business at an Amazon Distribution Center in the San Francisco Bay Area. The caravan was organized by Bay Area Amazonians.",
-    "online": null,
-    "locations": [
-        "San-Leandro-California-USA"
-    ],
+    "description": "Github users have launched a campaign to pressure the company to drop its contracts with ICE. Users have changed their profile pictures to the company's mascot, Octocat, with a message reading \"Drop ICE\". ",
+    "online": true,
+    "locations": null,
     "companies": [
-        "Amazon"
+        "github",
+        "microsoft"
     ],
-    "workers": 30,
+    "workers": null,
     "tags": [
-        "coronavirus"
+        "ice",
+        "immigration"
     ],
-    "author": null,
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": null,
     "addresses": null
 }

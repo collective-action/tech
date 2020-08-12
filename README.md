@@ -20,11 +20,11 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">12/08/2020 05:19PM</td>
+    <td data-summary="timestamp">12/08/2020 06:19PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">289</td>
+    <td data-summary="action-count">292</td>
   </tr>
  </table>
 </div>
@@ -43,12 +43,57 @@ The goal of this archive is to provide data and insights on organizing in the te
     link
    </td>
   </tr>
+  <tr author="nataliyaned">
+   <td>
+    2020-08-09
+   </td>
+   <td>
+    Several dozen Former Amazon workers held a protest outside of Jeff Bezos' New York City penthouse to call for greater protections for warehouse workers during the pandemic, along with the right to unionize and a national wealth tax on the top 3 percent of earners. The protest was organized by Christian Smalls, a former Amazon employee who was fired after organizing a walkout to protest the company's handling of coronavirus. Since then, Smalls has founded an organizedcalled the Congress of Essential Workers, dedicated to protecting workers during the pandemic.
+   </td>
+   <td>
+    <a href="/actions/0291.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
   <tr author="">
    <td>
     2020-08-01
    </td>
    <td>
     A caravan of protestors demanding increased pay and COVID-19 protections disrupted business at an Amazon Distribution Center in the San Francisco Bay Area. The caravan was organized by Bay Area Amazonians.
+   </td>
+   <td>
+    <a href="/actions/0290.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="nataliyaned">
+   <td>
+    2020-07-20
+   </td>
+   <td>
+    Employees at Google's Zurich office voted to recognize the Syndicom union as their employee representative. Employees first reached out to Syndicom after management failed to address their concerns over "Project Dragonfly", a search engine that would enable the Chinese government to censor certain results. Employee representatives function as consultants and do not engage in collective bargaining.
+   </td>
+   <td>
+    <a href="/actions/0289.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="nataliyaned">
+   <td>
+    2020-07-20
+   </td>
+   <td>
+    Github users have launched a campaign to pressure the company to drop its contracts with ICE. Users have changed their profile pictures to the company's mascot, Octocat, with a message reading "Drop ICE".
    </td>
    <td>
     <a href="/actions/0288.json">
