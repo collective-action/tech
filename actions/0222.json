@@ -1,38 +1,29 @@
 {
-    "id": 222,
-    "date": "2019/12/23",
+    "id": 221,
+    "date": "2019/12/19",
     "sources": [
-        "https://www.labornotes.org/2020/01/amazon-warehouse-workers-deliver-christmas-walkout, https://www.coworker.org/petitions/amazon-meet-with-amazonians-united-sacramento-about-paid-time-off"
+        "https://static.theintercept.com/amp/shutterstock-china-censorship-tech.html, https://medium.com/@techagainstfascism/in-solidarity-with-pluralism-and-peaceful-dissent-in-india-b9c40e0d4476"
     ],
     "actions": [
-        "strike"
+        "open_letter"
     ],
     "struggles": [
-        "working conditions"
+        "ethics"
     ],
     "employment_types": [
-        "blue_collar_workers"
+        "white_collar_workers"
     ],
-    "description": "One-third of the night shift at one of Amazon's Sacramento warehouse walked off the job in the wee hours of December 23. Workers went together on a break to deliver their demands to management, then clocked out. Night-shift workers delivered a petition with 4,015 signatures to management during their 2:30 a.m. break on December 23. After reading out loud their demands for a meeting with management and paid time off, 36 of the 100 night-shift workers clocked out at 2:45 a.m. and walked off the job mid-shift.",
-    "online": null,
-    "locations": [
-        "sacramento-california-usa"
+    "description": "In an open letter, several engineers, researchers, analysts, and designers working with global companies such as Google and Facebook have condemned the Citizenship (Amendment) Act in India. The letter, issued 'in solidarity with the Indian democracy', was posted through the 'TechAgainstFascism' handle on Medium. It called upon technology leaders to take a stance and publicly denounce the 'fascist acts by the Indian government'. 'We call upon the leaders to use technology as a force for good, to refuse to share user details with the government, refuse to shut off the Internet at the government's whim, provide tools for citizen mobilization, and ensure that content moderation is not skewing pro-government,' it said.",
+    "online": true,
+    "locations": null,
+    "companies": null,
+    "workers": 400,
+    "tags": [
+        "international_solidarity"
     ],
-    "companies": [
-        "amazon"
-    ],
-    "workers": 36,
-    "tags": null,
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            38.6767343,
-            -121.4948028
-        ]
-    ],
-    "addresses": [
-        "Amazon Avenue, Sacramento, Sacramento County, California, 95835, United States of America"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

@@ -1,42 +1,59 @@
 {
-    "id": 246,
+    "id": 244,
     "date": "2020/03/19",
     "sources": [
-        "https://www.bloomberg.com/news/articles/2020-03-19/google-agrees-to-worker-council-in-europe-amid-recurring-discord"
+        "https://www.cnet.com/news/uber-lyft-drivers-demand-companies-do-more-to-protect-them-from-coronavirus/, https://www.sacbee.com/news/politics-government/capitol-alert/article241304131.html, https://www.forbes.com/sites/janetwburns/2020/03/19/drivers-protest-outside-uber-hq-for-covid-19-sick-leave-and-pay-under-california-law-ab5/#1d4e6af48f7a"
     ],
     "actions": [
-        "legal_action"
+        "open_letter"
     ],
     "struggles": [
-        "na"
+        "working conditions",
+        "unfair_labor_practices"
     ],
     "employment_types": [
-        "white_collar_workers",
-        "in_house_workers"
+        "gig_workers"
     ],
-    "description": "A group of 153 Google employees from 11 European offices wrote to the company\u2019s management requesting the establishment of the council. Google\u2019s management agreed to take the first steps toward creating the council and will soon begin negotiating with employees about its scope. (The creation of such works councils-- which aim to give employees the right to be consulted by management about issues such as organizational changes or job cuts -- is required by the European Union if enough of a company\u2019s employees in at least two countries file a written request). The works council is likely to include employee representatives from more than 35 Google offices across Europe, according to the people familiar with the matte",
+    "description": "As the novel coronavirus spreads around the world, Uber and Lyft drivers in California are asking both companies to do more to protect them. A coalition of drivers released a list of demands, signed by thousands, asking the ride-hailing services to take immediate steps to help ensure their safety. The demands include providing free COVID-19 screenings to all drivers, along with 14 days paid leave for all affected drivers. The drivers are organized with advocacy group Mobile Workers Alliance.",
     "online": null,
     "locations": [
-        "usa"
+        "san francisco-california-usa",
+        "los angeles-california-usa",
+        "san diego-california-usa"
     ],
     "companies": [
-        "google"
+        "lyft",
+        "uber"
     ],
-    "workers": 153,
+    "workers": 2000,
     "tags": [
-        "coworker_solidarity",
-        "international_solidarity"
+        "coronavirus"
     ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            42.3627717,
-            -71.087257
+            37.7509149,
+            -122.40246883416269
+        ],
+        [
+            37.7899898,
+            -122.3999799
+        ],
+        [
+            32.771334,
+            -117.0673605
+        ],
+        [
+            32.771334,
+            -117.0673605
         ]
     ],
     "addresses": [
-        "Google, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+        "Lyft, Kansas Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States of America",
+        "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "Uber / Lyft Driver Drop Off, East Campus Drive, Montezuma Mesa, San Diego, San Diego County, California, 92182, United States of America",
+        "Uber / Lyft Driver Drop Off, East Campus Drive, Montezuma Mesa, San Diego, San Diego County, California, 92182, United States of America"
     ]
 }

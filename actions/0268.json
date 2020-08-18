@@ -1,30 +1,36 @@
 {
-    "id": 287,
-    "date": "2020/05/07",
+    "id": 261,
+    "date": "2020/05/01",
     "sources": [
-        "https://www.vice.com/en_us/article/akzw4p/amazon-warehouse-workers-send-thousands-of-petitions-to-jeff-bezos-and-jay-carneys-homes"
+        "https://www.washingtonpost.com/technology/2020/05/01/amazon-instacart-workers-strike/, https://www.wired.com/story/amazon-instacart-target-coronavirus-may-day-strike/"
     ],
     "actions": [
-        "open_letter"
+        "protest",
+        "strike"
     ],
     "struggles": [
-        "pay_and_benefits"
+        "working conditions"
     ],
     "employment_types": [
         "in_house_workers",
-        "blue_collar_workers"
+        "blue_collar_workers",
+        "gig_workers"
     ],
-    "description": "Amazon warehouse workers plan to deliver thousands signed petitions to the residences of Amazon CEO Jeff Bezos and lead Amazon spokesperson Jay Carney on Thursday, demanding the reinstatement of its recently terminated unlimited paid leave policy. In late April, Amazon announced that it would end its unlimited unpaid leave policy on May 1. The policy, which was introduced in response to COVID-19, allowed workers to call out sick without penalty. As of Wednesday, more than 5,300 workers from 350 locations, including Amazon warehouses, delivery pick-up stations, and Whole Foods stores, had signed onto petitions. The action was organized by a number of labor groups including the Athena coalition.",
+    "description": "Workers at Amazon, Whole Foods, Instacart, Target, and Shipt walked off the job on May 1st (International Workers' Day) to call for better working conditions under the covid-19 pandemic. The Washington Post reports that \"a small crowd\" outside of an Amazon Staten Island warehouse was made up of Amazon workers and also healthcare professionals who appeared out of solidarity with their cause. The scale of the action is difficult to measure, given its broad geography. Walkouts and protests were reported in Atlanta, New York, and the Bay Area.",
     "online": null,
     "locations": [
         "usa"
     ],
     "companies": [
-        "amazon"
+        "amazon",
+        "instacart",
+        "target",
+        "shipt"
     ],
-    "workers": 5300,
+    "workers": 1000,
     "tags": [
-        "coronavirus"
+        "coronavirus",
+        "delivery_workers"
     ],
     "author": [
         "nataliyaned"
@@ -33,9 +39,14 @@
         [
             47.6142939,
             -122.3239636
+        ],
+        [
+            33.2469982,
+            -117.29321092216239
         ]
     ],
     "addresses": [
-        "Amazon Go Grocery, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
+        "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America",
+        "Target, San Luis Rey, Oceanside, San Diego County, California, United States of America"
     ]
 }

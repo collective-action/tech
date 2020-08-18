@@ -1,44 +1,34 @@
 {
-    "id": 262,
-    "date": "2020/05/05",
+    "id": 260,
+    "date": "2020/05/01",
     "sources": [
-        "https://supchina.com/2020/05/05/internet-writers-protest-what-they-call-unfair-contracts-with-tencent-company/"
+        "https://www.vice.com/en_ca/article/gy4qew/foodora-couriers-want-to-be-among-first-gig-economy-workers-to-unionize-in-canada, https://www.globenewswire.com/news-release/2020/04/27/2022709/0/en/foodora-Canada-announces-plans-to-close-business-while-assuring-support-for-employees.html, https://www.thestar.com/business/2020/04/29/foodora-declares-bankruptcy-in-canada-leaving-47-million-in-debt.html"
     ],
     "actions": [
-        "strike"
+        "union_drive"
     ],
     "struggles": [
-        "pay_and_benefits"
+        "pay_and_benefits",
+        "working conditions"
     ],
     "employment_types": [
         "gig_workers"
     ],
-    "description": "Hundreds of thousands of writers signed to China Literature (subsidiary of Tencent), the country's biggest online publisher, went on an online strike, protesting against exploitative contracts and the company's regular infringement of their intellectual property rights. The strike's organizers were demonstrating against proposed changes to China Literature\u2019s business model and contracts with its writers. Writers stopped publishing new content on the website on the day of the strike. This change would negatively affect writers' income, which primarily comes from subscription fees and tips from their readers. 'Financially speaking, we were already drowning in quicksand before the rumors. Now they are trying to give us a death blow' a China Literature writer",
+    "description": "Foodora couriers announced their intention to join a union of Canadian post workers and held a union drive. If successful, this would make Foodora workers the first app-based employees to unionize in Canada. In April 2020 the company announced its intention to leave the Canadian market and initiated bankruptcy proceedings, making the future of the business and the unionizing effort uncertain. ",
     "online": null,
     "locations": [
-        "china"
+        "toronto-ontario-canada"
     ],
     "companies": [
-        "chinese literature",
-        "tencent"
+        "foodora"
     ],
-    "workers": 100001,
-    "tags": null,
+    "workers": 1000,
+    "tags": [
+        "delivery_workers"
+    ],
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
-    "latlngs": [
-        [
-            23.09733995,
-            113.29374279344763
-        ],
-        [
-            22.52586985,
-            113.93041229445548
-        ]
-    ],
-    "addresses": [
-        "274, \u9038\u4ed9\u8def, \u65b0\u6e2f\u8857\u9053, \u5e7f\u5dde\u5e02, \u6d77\u73e0\u533a, \u5e7f\u4e1c\u7701, 510105, China \u4e2d\u56fd",
-        "33\u53f7, \u7ca4\u6d77\u8857\u9053, \u5e7f\u4e1c\u7701, 518054, China \u4e2d\u56fd"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

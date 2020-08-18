@@ -1,33 +1,32 @@
 {
-    "id": 288,
-    "date": "2020/06/23",
+    "id": 283,
+    "date": "2020/06/12",
     "sources": [
-        "https://medium.com/@CoalitionForCriticalTechnology/abolish-the-techtoprisonpipeline-9b5b14366b16"
+        "https://rabble.ca/news/2020/06/foodsters-union-certification-win-symbolic-other-gig-workers"
     ],
     "actions": [
-        "open_letter"
+        "union_representation"
     ],
     "struggles": [
-        "ethics",
-        "discrimination"
+        "working conditions"
     ],
     "employment_types": [
-        "white_collar_workers"
+        "gig_workers"
     ],
-    "description": "Hundreds of expert researchers and practitioners across a variety of technical, scientific, and humanistic fields (including statistics, machine learning and artificial intelligence, law, sociology, history, communication studies and anthropology) sign a letter calling for a forthcoming publication entitled \u201cA Deep Neural Network Model to Predict Criminality Using Image Processing\u201d, to be rescinded from publication. The letter also urges for such research topics to not be published in the future.",
-    "online": true,
-    "locations": null,
+    "description": "Foodora couriers overwhelmingly voted to join the Canadian Union of Postal Workers (CUPW). 88% of workers who voted supported joining the union. In April 2020, Foodora announced it was leaving the country after the Ontario Labor Board voted to recognize the couriers as company employees. While this makes the vote largely symbolic, it nevertheless makes Foodora's union the first certified gig workers' union in Canada.",
+    "online": null,
+    "locations": [
+        "toronto-ontario-canada"
+    ],
     "companies": [
-        "Springer Publishing"
+        "foodora"
     ],
-    "workers": 600,
+    "workers": null,
     "tags": [
-        "blm",
-        "antiracism",
-        "academics"
+        "delivery_workers"
     ],
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
     "latlngs": null,
     "addresses": null

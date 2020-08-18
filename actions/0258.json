@@ -1,35 +1,41 @@
 {
-    "id": 255,
-    "date": "2020/04/13",
+    "id": 284,
+    "date": "2020/04/08",
     "sources": [
-        "https://gizmodo.com/tech-workers-speak-out-in-support-of-amazon-warehouse-s-1842839301, https://chuffed.org/project/help-amazon-warehouse-workers-exposed-to-covid-19, https://www.givedirectly.org/covid-19/us/, https://twitter.com/techspeaksout"
+        "https://www.latimes.com/business/technology/story/2020-04-09/fearful-of-covid-19-amazon-workers-ask-for-state-probe-of-working-conditions"
     ],
     "actions": [
-        "protest"
+        "legal_action"
     ],
     "struggles": [
-        "ethics",
-        "working conditions",
-        "unfair_labor_practices"
+        "working conditions"
     ],
     "employment_types": [
-        "white_collar_workers"
+        "in_house_workers",
+        "blue_collar_workers"
     ],
-    "description": "As a gesture of solidarity, tech workers have started tweeting with the hashtags #TechSolidarity, #AmazonStrike, #HuelgaAmazon to indicate support for striking Amazon workers. The Twitter page, @TechSpeaksOut, was reportedly designed to exert public pressure tech corporations. In addition to taking to Twitter, activists have started GoFundMes and mutual aid campaigns to benefit workers.",
-    "online": true,
-    "locations": null,
+    "description": "Workers at Amazon\u2019s Eastvale fulfillment center in Riverside County filed complaints with state and county regulators alleging that the company failed to properly shutdown and disinfect facilities after receiving its first reported case of coronavirus. The company also delayed telling employees of third case of coronavirus for over five days, putting employees at risk. The filings were compiled by the Warehouse Worker Resource Center on behalf of LGB3 employees.",
+    "online": null,
+    "locations": [
+        "eastvale-california-usa"
+    ],
     "companies": [
         "amazon"
     ],
     "workers": null,
     "tags": [
-        "industry_solidarity",
-        "coworker_solidarity",
         "coronavirus"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            33.9985319,
+            -117.55285054999999
+        ]
+    ],
+    "addresses": [
+        "Amazon Warehouse, Goodman Way, Eastvale, Riverside County, California, 91752, United States of America"
+    ]
 }

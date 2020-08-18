@@ -1,43 +1,46 @@
 {
-    "id": 247,
-    "date": "2020/03/22",
+    "id": 245,
+    "date": "2020/03/19",
     "sources": [
-        "https://www.cnbc.com/2020/03/23/amazon-gives-part-time-warehouse-workers-paid-leave-amid-coronavirus.html, https://medium.com/@dch1united/amazonians-united-wins-pto-for-all-amazon-workers-f17e6ffbb192"
+        "https://www.forbes.com/sites/janetwburns/2020/03/19/drivers-protest-outside-uber-hq-for-covid-19-sick-leave-and-pay-under-california-law-ab5/#3b5daa808f7a, https://twitter.com/veenadubal/status/1240410264119283712"
     ],
     "actions": [
-        "open_letter",
-        "strike"
+        "strike",
+        "protest"
     ],
     "struggles": [
-        "pay_and_benefits",
-        "working conditions"
+        "working conditions",
+        "unfair_labor_practices"
     ],
     "employment_types": [
-        "blue_collar_workers",
-        "in_house_workers"
+        "gig_workers"
     ],
-    "description": "Amazonians United, a group of Amazon employee advocates around the US, won paid time off for part-time logistics workers in the midst the coronavirus pandemic. Amazon has also said it will raise pay for warehouse workers and delivery drivers by $2 per hour through April. For several weeks, the Amazonians United group has been calling for improved working conditions and paid time off using petitions and walkouts, including actions by groups in the Sacramento, Chicago, and New York areas.",
+    "description": "Ride-hail drivers in California gathered outside Uber headquarters in San Francisco, Los Angeles, and San Diego to demand that gig platforms provide immediate relief to their cash-strapped, at-risk workers, including by adhering to California\u2019s new labor law known as AB5. Drivers are calling on California to enforce its new employment law as illness, confusion, and hardship from COVID-19 sweep their industries. They are also calling for the $110 million set aside by Uber, Lyft, Doordash, Postmates, and Instacart for fighting that law to instead be used to give workers some relief.",
     "online": null,
     "locations": [
-        "staten island-new york city-new york-usa"
+        "europe"
     ],
     "companies": [
-        "amazon"
+        "uber",
+        "lyft",
+        "doordash",
+        "postmates",
+        "instacart"
     ],
-    "workers": 251,
+    "workers": null,
     "tags": [
         "coronavirus"
     ],
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
     "latlngs": [
         [
-            40.6193387,
-            -74.0727749
+            51.3540073,
+            11.4415021
         ]
     ],
     "addresses": [
-        "Amazon Court, Clifton, Todt Hill, New York, Richmond County, New York, 10304, United States of America"
+        "\u00dcber den Querst\u00fccken, Querfurt, Saalekreis, Sachsen-Anhalt, Deutschland"
     ]
 }

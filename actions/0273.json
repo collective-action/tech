@@ -1,28 +1,29 @@
 {
-    "id": 270,
-    "date": "2020/06/06",
+    "id": 271,
+    "date": "2020/05/23",
     "sources": [
-        "https://www.washingtonpost.com/technology/2020/06/06/chan-zuckerberg-initiative-open-letter-trump/"
+        "https://hk.appledaily.com/breaking/20200527/6PTZ5EDM7HK2NQDMSGESGVGAQA/"
     ],
     "actions": [
-        "open_letter"
+        "strike"
     ],
     "struggles": [
-        "ethics"
+        "pay_and_benefits"
     ],
     "employment_types": [
-        "white_collar_workers"
+        "gig_workers"
     ],
-    "description": "Scientists funded by the Chan Zuckerberg Initiative addressed a letter to Mark Zuckerberg critiquing Facebook's role in diffusing inaccurate information, in particular Donald Trump's \"when the looting starts, the shooting starts\" comment in relation to the George Floyd protests. The authors argued that the letter promotes violence. ",
-    "online": true,
-    "locations": null,
+    "description": "Deliveroo workers went on strike for multiple days in Hong Kong over the company's new payment structure. ",
+    "online": null,
+    "locations": [
+        "hong kong-china"
+    ],
     "companies": [
-        "facebook"
+        "deliveroo"
     ],
-    "workers": 141,
+    "workers": 200,
     "tags": [
-        "academics",
-        "ai"
+        "delivery_workers"
     ],
     "author": [
         "nataliyaned"
