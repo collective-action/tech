@@ -2,7 +2,10 @@
     "id": 10,
     "date": "2001/01/09",
     "sources": [
-        "https://www.nytimes.com/2001/01/09/business/technology-the-first-unionization-vote-by-dot-com-workers-is-set.html?rref=collection%2ftimestopic%2fcommunications%20workers%20of%20america, https://money.cnn.com/2001/02/19/sunsetting/biz_etown/, https://www.sfgate.com/business/article/etown-runs-out-of-money-shuts-down-web-site-s-2951974.php, https://www.wired.com/2001/01/union-to-etown-threats-unfair/"
+        "https://www.nytimes.com/2001/01/09/business/technology-the-first-unionization-vote-by-dot-com-workers-is-set.html?rref=collection%2ftimestopic%2fcommunications%20workers%20of%20america",
+        "https://money.cnn.com/2001/02/19/sunsetting/biz_etown/",
+        "https://www.sfgate.com/business/article/etown-runs-out-of-money-shuts-down-web-site-s-2951974.php",
+        "https://www.wired.com/2001/01/union-to-etown-threats-unfair/"
     ],
     "actions": [
         "union representation"

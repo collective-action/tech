@@ -3,7 +3,8 @@
         "id": 1,
         "date": "1979/09/01",
         "sources": [
-            "https://twitter.com/clancynewyork/status/1175872040814993408?s=19, http://www-cs-students.stanford.edu/~cale/cs201/apartheid.comp.html"
+            "https://twitter.com/clancynewyork/status/1175872040814993408?s=19",
+            "http://www-cs-students.stanford.edu/~cale/cs201/apartheid.comp.html"
         ],
         "actions": [
             "protest"
@@ -110,7 +111,8 @@
         "id": 4,
         "date": "1994/01/24",
         "sources": [
-            "https://www.nytimes.com/1994/06/12/magazine/battle-of-the-clipper-chip.html, http://cpsr.org/prevsite/program/clipper/clipper.html/"
+            "https://www.nytimes.com/1994/06/12/magazine/battle-of-the-clipper-chip.html",
+            "http://cpsr.org/prevsite/program/clipper/clipper.html/"
         ],
         "actions": [
             "open letter"
@@ -176,7 +178,8 @@
         "id": 6,
         "date": "1999/06/04",
         "sources": [
-            "https://www.latimes.com/archives/la-xpm-1999-jun-04-fi-44011-story.html, https://www.questia.com/newspaper/1p2-32575557/the-seeds-of-a-high-tech-union-sprout-in-washington"
+            "https://www.latimes.com/archives/la-xpm-1999-jun-04-fi-44011-story.html",
+            "https://www.questia.com/newspaper/1p2-32575557/the-seeds-of-a-high-tech-union-sprout-in-washington"
         ],
         "actions": [
             "union drive"
@@ -217,7 +220,9 @@
         "id": 7,
         "date": "1999/10/01",
         "sources": [
-            "https://www.computerworld.com/article/3019552/ibm-union-calls-it-quits.html, https://www.nytimes.com/1985/07/17/us/union-plans-drive-to-organize-ibm.html?rref=collection%2ftimestopic%2fcommunications%20workers%20of%20america, https://cwa-union.org/news/entry/ibm_employees_and_cwa_launch_allianceibm"
+            "https://www.computerworld.com/article/3019552/ibm-union-calls-it-quits.html",
+            "https://www.nytimes.com/1985/07/17/us/union-plans-drive-to-organize-ibm.html?rref=collection%2ftimestopic%2fcommunications%20workers%20of%20america",
+            "https://cwa-union.org/news/entry/ibm_employees_and_cwa_launch_allianceibm"
         ],
         "actions": [
             "union drive"
@@ -332,7 +337,10 @@
         "id": 10,
         "date": "2001/01/09",
         "sources": [
-            "https://www.nytimes.com/2001/01/09/business/technology-the-first-unionization-vote-by-dot-com-workers-is-set.html?rref=collection%2ftimestopic%2fcommunications%20workers%20of%20america, https://money.cnn.com/2001/02/19/sunsetting/biz_etown/, https://www.sfgate.com/business/article/etown-runs-out-of-money-shuts-down-web-site-s-2951974.php, https://www.wired.com/2001/01/union-to-etown-threats-unfair/"
+            "https://www.nytimes.com/2001/01/09/business/technology-the-first-unionization-vote-by-dot-com-workers-is-set.html?rref=collection%2ftimestopic%2fcommunications%20workers%20of%20america",
+            "https://money.cnn.com/2001/02/19/sunsetting/biz_etown/",
+            "https://www.sfgate.com/business/article/etown-runs-out-of-money-shuts-down-web-site-s-2951974.php",
+            "https://www.wired.com/2001/01/union-to-etown-threats-unfair/"
         ],
         "actions": [
             "union representation"
@@ -368,7 +376,8 @@
         "id": 11,
         "date": "2004/09/29",
         "sources": [
-            "http://www.nbcnews.com/id/6134119/ns/business-us_business/t/ibm-reaches-partial-pension-settlement/, https://www.nytimes.com/2006/01/06/business/worldbusiness/06iht-ibm.html"
+            "http://www.nbcnews.com/id/6134119/ns/business-us_business/t/ibm-reaches-partial-pension-settlement/",
+            "https://www.nytimes.com/2006/01/06/business/worldbusiness/06iht-ibm.html"
         ],
         "actions": [
             "legal action"
@@ -656,7 +665,8 @@
         "id": 19,
         "date": "2012/01/11",
         "sources": [
-            "https://www.telegraph.co.uk/news/worldnews/asia/china/9006988/mass-suicide-protest-at-apple-manufacturer-foxconn-factory.html, https://www.cbsnews.com/news/what-happened-after-the-foxconn-suicides/"
+            "https://www.telegraph.co.uk/news/worldnews/asia/china/9006988/mass-suicide-protest-at-apple-manufacturer-foxconn-factory.html",
+            "https://www.cbsnews.com/news/what-happened-after-the-foxconn-suicides/"
         ],
         "actions": [
             "protest"
@@ -687,7 +697,8 @@
         "id": 20,
         "date": "2012/01/17",
         "sources": [
-            "https://www.nbcnews.com/news/world/wikipedia-goes-dark-piracy-bill-protest-day-flna117714, https://bits.blogs.nytimes.com/2012/01/18/for-online-protests-throwing-spaghetti-against-the-internet/"
+            "https://www.nbcnews.com/news/world/wikipedia-goes-dark-piracy-bill-protest-day-flna117714",
+            "https://bits.blogs.nytimes.com/2012/01/18/for-online-protests-throwing-spaghetti-against-the-internet/"
         ],
         "actions": [
             "protest"
@@ -758,7 +769,8 @@
         "id": 22,
         "date": "2012/05/01",
         "sources": [
-            "https://www.itproportal.com/2012/05/01/workers-could-start-strike-at-foxconn-factory-in-brazil/, https://www.cnbc.com/id/100353348"
+            "https://www.itproportal.com/2012/05/01/workers-could-start-strike-at-foxconn-factory-in-brazil/",
+            "https://www.cnbc.com/id/100353348"
         ],
         "actions": [
             "protest"
@@ -872,7 +884,8 @@
         "id": 25,
         "date": "2013/02/06",
         "sources": [
-            "https://www.newscientist.com/article/mg21729036-200-crowdsourcing-grows-up-as-online-workers-unite/, https://prospect.org/article/demand-and-demanding-their-rights"
+            "https://www.newscientist.com/article/mg21729036-200-crowdsourcing-grows-up-as-online-workers-unite/",
+            "https://prospect.org/article/demand-and-demanding-their-rights"
         ],
         "actions": [
             "protest"
@@ -1065,7 +1078,8 @@
         "id": 30,
         "date": "2013/09/19",
         "sources": [
-            "https://www.workers.org/2013/09/24/amazon-workers-strike-germany/, https://www.nytimes.com/2013/08/05/business/workers-of-amazon-divergent.html"
+            "https://www.workers.org/2013/09/24/amazon-workers-strike-germany/",
+            "https://www.nytimes.com/2013/08/05/business/workers-of-amazon-divergent.html"
         ],
         "actions": [
             "strike",
@@ -1319,7 +1333,8 @@
         "id": 36,
         "date": "2014/04/01",
         "sources": [
-            "https://www.ibtimes.co.uk/protesters-fight-against-amazon-over-living-wage-demands-1442174, https://www.reuters.com/article/us-amazon-strikes/amazon-workers-in-germany-strike-again-in-protracted-pay-dispute-idusbrea2u0l220140331"
+            "https://www.ibtimes.co.uk/protesters-fight-against-amazon-over-living-wage-demands-1442174",
+            "https://www.reuters.com/article/us-amazon-strikes/amazon-workers-in-germany-strike-again-in-protracted-pay-dispute-idusbrea2u0l220140331"
         ],
         "actions": [
             "open letter"
@@ -1358,7 +1373,8 @@
         "id": 37,
         "date": "2014/04/03",
         "sources": [
-            "https://www.telegraph.co.uk/technology/news/10729575/mozilla-staff-call-for-new-ceo-to-stand-down-over-donation-to-anti-gay-marriage-campaign.html, https://www.dailymail.co.uk/news/article-2596405/mozilla-ceo-resigns-furor-gay-rights.html"
+            "https://www.telegraph.co.uk/technology/news/10729575/mozilla-staff-call-for-new-ceo-to-stand-down-over-donation-to-anti-gay-marriage-campaign.html",
+            "https://www.dailymail.co.uk/news/article-2596405/mozilla-ceo-resigns-furor-gay-rights.html"
         ],
         "actions": [
             "protest"
@@ -1399,7 +1415,8 @@
         "id": 38,
         "date": "2014/04/19",
         "sources": [
-            "https://www.nbcnews.com/tech/tech-news/workers-tech-poaching-case-likely-get-average-4k-n113451, https://www.independent.ie/business/technology/four-us-tech-firms-face-3bn-payout-over-claims-they-conspired-on-pay-30199663.html"
+            "https://www.nbcnews.com/tech/tech-news/workers-tech-poaching-case-likely-get-average-4k-n113451",
+            "https://www.independent.ie/business/technology/four-us-tech-firms-face-3bn-payout-over-claims-they-conspired-on-pay-30199663.html"
         ],
         "actions": [
             "legal action"
@@ -1455,7 +1472,9 @@
         "id": 39,
         "date": "2014/09/01",
         "sources": [
-            "https://www.chronicle.com/article/intellectual-piecework/190039/, http://wiki.wearedynamo.org/index.php/guidelines_for_academic_requesters, https://medium.com/@niloufar_s/the-guidelines-for-ethical-research-on-amazon-mechanical-turk-researchers-care-about-fair-payment-427e816762ee"
+            "https://www.chronicle.com/article/intellectual-piecework/190039/",
+            "http://wiki.wearedynamo.org/index.php/guidelines_for_academic_requesters",
+            "https://medium.com/@niloufar_s/the-guidelines-for-ethical-research-on-amazon-mechanical-turk-researchers-care-about-fair-payment-427e816762ee"
         ],
         "actions": [
             "open letter"
@@ -1656,7 +1675,8 @@
         "id": 44,
         "date": "2014/12/03",
         "sources": [
-            "https://www.theguardian.com/technology/2014/dec/03/amazon-mechanical-turk-workers-protest-jeff-bezos, http://www.wearedynamo.org/dearjeffbezos"
+            "https://www.theguardian.com/technology/2014/dec/03/amazon-mechanical-turk-workers-protest-jeff-bezos",
+            "http://www.wearedynamo.org/dearjeffbezos"
         ],
         "actions": [
             "open letter"
@@ -1696,7 +1716,8 @@
         "id": 45,
         "date": "2015/01/09",
         "sources": [
-            "https://www.buzzfeednews.com/article/carolineodonovan/instacart-just-settled-a-46-million-worker-lawsuit, https://time.com/3748438/instacart-lawsuit/"
+            "https://www.buzzfeednews.com/article/carolineodonovan/instacart-just-settled-a-46-million-worker-lawsuit",
+            "https://time.com/3748438/instacart-lawsuit/"
         ],
         "actions": [
             "legal action"
@@ -2120,7 +2141,9 @@
         "id": 56,
         "date": "2016/04/21",
         "sources": [
-            "https://venturebeat.com/2016/01/03/oconnor-v-uber-why-the-days-of-driver-flexibility-are-already-numbered/, https://www.uber.com/newsroom/growing-and-growing-up, https://prospect.org/article/demand-and-demanding-their-rights"
+            "https://venturebeat.com/2016/01/03/oconnor-v-uber-why-the-days-of-driver-flexibility-are-already-numbered/",
+            "https://www.uber.com/newsroom/growing-and-growing-up",
+            "https://prospect.org/article/demand-and-demanding-their-rights"
         ],
         "actions": [
             "legal action"
@@ -2162,7 +2185,8 @@
         "id": 57,
         "date": "2016/05/10",
         "sources": [
-            "https://www.nytimes.com/2016/05/11/technology/uber-agrees-to-union-deal-in-new-york.html, https://www.wired.com/2017/05/how-drivers-are-finally-outfoxing-uber/"
+            "https://www.nytimes.com/2016/05/11/technology/uber-agrees-to-union-deal-in-new-york.html",
+            "https://www.wired.com/2017/05/how-drivers-are-finally-outfoxing-uber/"
         ],
         "actions": [
             "union representation"
@@ -2202,7 +2226,8 @@
         "id": 58,
         "date": "2016/08/11",
         "sources": [
-            "https://techcrunch.com/2016/08/11/deliveroo-drivers-hold-protest-in-london-over-possible-changes-to-the-way-they-are-paid, https://www.theguardian.com/lifeandstyle/2016/aug/11/deliveroo-couriers-demonstrate-against-new-contract"
+            "https://techcrunch.com/2016/08/11/deliveroo-drivers-hold-protest-in-london-over-possible-changes-to-the-way-they-are-paid",
+            "https://www.theguardian.com/lifeandstyle/2016/aug/11/deliveroo-couriers-demonstrate-against-new-contract"
         ],
         "actions": [
             "strike"
@@ -2353,7 +2378,8 @@
         "id": 62,
         "date": "2016/12/13",
         "sources": [
-            "https://neveragain.tech/, https://en.wikipedia.org/wiki/never_again_pledge"
+            "https://neveragain.tech/",
+            "https://en.wikipedia.org/wiki/never_again_pledge"
         ],
         "actions": [
             "open letter"
@@ -2391,7 +2417,9 @@
         "id": 63,
         "date": "2016/12/16",
         "sources": [
-            "https://www.mic.com/articles/172403/ibm-s-ceo-wrote-trump-a-glowing-letter-employees-responded-with-list-of-demands, https://www.coworker.org/petitions/ibmers-to-ceo-ginni-rometty-affirm-ibm-values, https://theintercept.com/2016/12/19/ibm-employees-launch-petition-protesting-cooperation-with-donald-trump/"
+            "https://www.mic.com/articles/172403/ibm-s-ceo-wrote-trump-a-glowing-letter-employees-responded-with-list-of-demands",
+            "https://www.coworker.org/petitions/ibmers-to-ceo-ginni-rometty-affirm-ibm-values",
+            "https://theintercept.com/2016/12/19/ibm-employees-launch-petition-protesting-cooperation-with-donald-trump/"
         ],
         "actions": [
             "open letter"
@@ -2605,7 +2633,8 @@
         "id": 68,
         "date": "2017/03/14",
         "sources": [
-            "https://www.aljazeera.com/news/2017/03/silicon-valley-workers-protest-donald-trump-170314015033643.html, https://www.cnet.com/news/tech-stands-up-rally-against-president-trump-silicon-valley-rally-palo-alto/"
+            "https://www.aljazeera.com/news/2017/03/silicon-valley-workers-protest-donald-trump-170314015033643.html",
+            "https://www.cnet.com/news/tech-stands-up-rally-against-president-trump-silicon-valley-rally-palo-alto/"
         ],
         "actions": [
             "protest"
@@ -2644,7 +2673,8 @@
         "id": 69,
         "date": "2017/03/22",
         "sources": [
-            "https://www.siliconvalley.com/2017/03/23/at-strike-workers-go-back-to-work-after-one-day/, https://money.cnn.com/2017/03/22/news/companies/att-strike-landline-workers/index.html"
+            "https://www.siliconvalley.com/2017/03/23/at-strike-workers-go-back-to-work-after-one-day/",
+            "https://money.cnn.com/2017/03/22/news/companies/att-strike-landline-workers/index.html"
         ],
         "actions": [
             "strike"
@@ -2691,7 +2721,8 @@
         "id": 70,
         "date": "2017/07/24",
         "sources": [
-            "http://unitehere.org/press-releases/cafeteria-workers-at-facebook-unionize-continuing-movement-for-a-more-inclusive-silicon-valley, https://www.salon.com/2017/09/04/silicon-valleys-burgeoning-labor-movement/"
+            "http://unitehere.org/press-releases/cafeteria-workers-at-facebook-unionize-continuing-movement-for-a-more-inclusive-silicon-valley",
+            "https://www.salon.com/2017/09/04/silicon-valleys-burgeoning-labor-movement/"
         ],
         "actions": [
             "union representation"
@@ -2732,7 +2763,8 @@
         "id": 71,
         "date": "2017/08/23",
         "sources": [
-            "https://www.wired.com/story/amazons-turker-crowd-has-had-enough/, https://medium.com/@socialcontractcr/daemos-crowd-has-had-enough-5b62c1fceb30"
+            "https://www.wired.com/story/amazons-turker-crowd-has-had-enough/",
+            "https://medium.com/@socialcontractcr/daemos-crowd-has-had-enough-5b62c1fceb30"
         ],
         "actions": [
             "open letter"
@@ -2900,7 +2932,25 @@
         "id": 75,
         "date": "2018/01/16",
         "sources": [
-            "https://www.jacobinmag.com/2018/04/lanetix-tech-workers-unionization-campaign-firing, https://www.bloomberg.com/news/articles/2018-11-10/software-startup-accused-of-union-busting-will-pay-ex-employees, https://gist.github.com/bwestergard/a5ddc5583d37554cc40a0e2b86511371, https://gist.github.com/bwestergard/11f21ed3efa35284f653fce49178eaae, https://www.sfchronicle.com/business/article/sf-tech-company-fired-software-engineers-seeking-12541301.php, https://web.archive.org/web/20180131000726/https://www.bna.com/tech-startup-fires-n73014474793/, https://medium.com/tech-workers-coalition/joint-statement-of-solidarity-with-unjustly-fired-lanetix-workers-354daaa4b306, https://www.bloomberg.com/news/articles/2018-02-26/coders-want-to-unionize-with-help-from-trump, http://www.sfweekly.com/news/s-f-tech-workers-protest-for-the-right-to-unionize/, https://nplusonemag.com/issue-31/politics/code-red/, http://www.spacedaily.com/afp/180427012948.386pka56.html, https://www.youtube.com/watch?v=itihrpelgka#t=1h26m27s, https://www.fastcompany.com/90209362/from-amazon-to-microsoft-tech-companies-faced-yet-another-ethical-reckoning-this-week, https://www.theguardian.com/commentisfree/2018/aug/09/silicon-valley-tech-workers-labor-activism, https://www.wired.com/story/labor-board-backs-startup-engineers-fired-unionizing/, https://www.fastcompany.com/90250388/the-advocate-bjorn-westergard, https://www.fastcompany.com/90244860/silicon-valleys-new-playbook-for-tech-worker-led-resistance, https://www.vice.com/en_us/article/598kyx/the-future-of-capitalism-is-san-francisco-on-steroids-v25n3, http://www.newsguild.org/mediaguild3/software-company-learns-a-tough-lesson-about-union-busting-fired-workers-win-big-back-pay-settlement/"
+            "https://www.jacobinmag.com/2018/04/lanetix-tech-workers-unionization-campaign-firing",
+            "https://www.bloomberg.com/news/articles/2018-11-10/software-startup-accused-of-union-busting-will-pay-ex-employees",
+            "https://gist.github.com/bwestergard/a5ddc5583d37554cc40a0e2b86511371",
+            "https://gist.github.com/bwestergard/11f21ed3efa35284f653fce49178eaae",
+            "https://www.sfchronicle.com/business/article/sf-tech-company-fired-software-engineers-seeking-12541301.php",
+            "https://web.archive.org/web/20180131000726/https://www.bna.com/tech-startup-fires-n73014474793/",
+            "https://medium.com/tech-workers-coalition/joint-statement-of-solidarity-with-unjustly-fired-lanetix-workers-354daaa4b306",
+            "https://www.bloomberg.com/news/articles/2018-02-26/coders-want-to-unionize-with-help-from-trump",
+            "http://www.sfweekly.com/news/s-f-tech-workers-protest-for-the-right-to-unionize/",
+            "https://nplusonemag.com/issue-31/politics/code-red/",
+            "http://www.spacedaily.com/afp/180427012948.386pka56.html",
+            "https://www.youtube.com/watch?v=itihrpelgka#t=1h26m27s",
+            "https://www.fastcompany.com/90209362/from-amazon-to-microsoft-tech-companies-faced-yet-another-ethical-reckoning-this-week",
+            "https://www.theguardian.com/commentisfree/2018/aug/09/silicon-valley-tech-workers-labor-activism",
+            "https://www.wired.com/story/labor-board-backs-startup-engineers-fired-unionizing/",
+            "https://www.fastcompany.com/90250388/the-advocate-bjorn-westergard",
+            "https://www.fastcompany.com/90244860/silicon-valleys-new-playbook-for-tech-worker-led-resistance",
+            "https://www.vice.com/en_us/article/598kyx/the-future-of-capitalism-is-san-francisco-on-steroids-v25n3",
+            "http://www.newsguild.org/mediaguild3/software-company-learns-a-tough-lesson-about-union-busting-fired-workers-win-big-back-pay-settlement/"
         ],
         "actions": [
             "union drive"
@@ -3139,7 +3189,8 @@
         "id": 82,
         "date": "2018/05/14",
         "sources": [
-            "https://www.theguardian.com/australia-news/2018/may/16/food-delivery-riders-protest-against-wage-theft-by-deliveroo-foodora-and-ubereats, https://www.abc.net.au/news/2018-03-14/delivery-riders-march-against-ubereats-foodora-and-deliveroo/9546822"
+            "https://www.theguardian.com/australia-news/2018/may/16/food-delivery-riders-protest-against-wage-theft-by-deliveroo-foodora-and-ubereats",
+            "https://www.abc.net.au/news/2018-03-14/delivery-riders-march-against-ubereats-foodora-and-deliveroo/9546822"
         ],
         "actions": [
             "protest"
@@ -3173,7 +3224,8 @@
         "id": 83,
         "date": "2018/05/14",
         "sources": [
-            "http://www.theinvestor.co.kr/view.php?ud=20180710000573, https://www.koreatimes.co.kr/www/tech/2018/05/133_248940.html"
+            "http://www.theinvestor.co.kr/view.php?ud=20180710000573",
+            "https://www.koreatimes.co.kr/www/tech/2018/05/133_248940.html"
         ],
         "actions": [
             "strike"
@@ -3245,7 +3297,9 @@
         "id": 85,
         "date": "2018/05/30",
         "sources": [
-            "https://jacobinmag.com/2018/06/google-project-maven-military-tech-workers, https://www.nytimes.com/2018/05/30/technology/google-project-maven-pentagon.html, https://www.coworker.org/petition/tech-should-not-be-in-the-business-of-war"
+            "https://jacobinmag.com/2018/06/google-project-maven-military-tech-workers",
+            "https://www.nytimes.com/2018/05/30/technology/google-project-maven-pentagon.html",
+            "https://www.coworker.org/petition/tech-should-not-be-in-the-business-of-war"
         ],
         "actions": [
             "open letter"
@@ -3380,7 +3434,8 @@
         "id": 89,
         "date": "2018/06/19",
         "sources": [
-            "https://www.nytimes.com/2018/06/19/technology/tech-companies-immigration-border.html, https://www.theverge.com/2018/6/21/17488328/microsoft-ice-employees-signatures-protest"
+            "https://www.nytimes.com/2018/06/19/technology/tech-companies-immigration-border.html",
+            "https://www.theverge.com/2018/6/21/17488328/microsoft-ice-employees-signatures-protest"
         ],
         "actions": [
             "open letter"
@@ -3420,7 +3475,8 @@
         "id": 90,
         "date": "2018/06/21",
         "sources": [
-            "https://thehill.com/business-a-lobbying/393583-amazon-employees-protest-sale-of-facial-recognition-tech-to-law, https://www.businessinsider.com/over-100-amazon-employees-sign-letter-jeff-bezos-stop-selling-facial-recognition-software-police-2018-6"
+            "https://thehill.com/business-a-lobbying/393583-amazon-employees-protest-sale-of-facial-recognition-tech-to-law",
+            "https://www.businessinsider.com/over-100-amazon-employees-sign-letter-jeff-bezos-stop-selling-facial-recognition-software-police-2018-6"
         ],
         "actions": [
             "open letter"
@@ -3546,7 +3602,9 @@
         "id": 93,
         "date": "2018/07/03",
         "sources": [
-            "https://www.capitalfm.co.ke/business/2018/07/uber-little-taxify-drivers-strike-demanding-better-rates/, https://qz.com/africa/1327568/uber-taxify-little-cab-kenya-drivers-end-strike/, http://www.africanews.com/2018/07/03/uber-taxify-drivers-in-kenya-protest-against-working-long-hours-for-little-money/"
+            "https://www.capitalfm.co.ke/business/2018/07/uber-little-taxify-drivers-strike-demanding-better-rates/",
+            "https://qz.com/africa/1327568/uber-taxify-little-cab-kenya-drivers-end-strike/",
+            "http://www.africanews.com/2018/07/03/uber-taxify-drivers-in-kenya-protest-against-working-long-hours-for-little-money/"
         ],
         "actions": [
             "strike"
@@ -3586,7 +3644,8 @@
         "id": 94,
         "date": "2018/07/10",
         "sources": [
-            "https://www.reuters.com/article/us-amazon-com-spain-strike/spanish-amazon-workers-call-three-day-strike-over-wages-rights-iduskbn1k01xz, https://www.buzzfeednews.com/article/leticiamiranda/labor-strike-against-amazon-in-spain-arrests-injuries"
+            "https://www.reuters.com/article/us-amazon-com-spain-strike/spanish-amazon-workers-call-three-day-strike-over-wages-rights-iduskbn1k01xz",
+            "https://www.buzzfeednews.com/article/leticiamiranda/labor-strike-against-amazon-in-spain-arrests-injuries"
         ],
         "actions": [
             "strike"
@@ -3662,7 +3721,8 @@
         "id": 96,
         "date": "2018/07/31",
         "sources": [
-            "https://www.buzzfeednews.com/article/carolineodonovan/palantir-ice-contract-protest, https://www.paloaltoonline.com/news/2018/07/31/protesters-demand-palantir-end-ice-contracts"
+            "https://www.buzzfeednews.com/article/carolineodonovan/palantir-ice-contract-protest",
+            "https://www.paloaltoonline.com/news/2018/07/31/protesters-demand-palantir-end-ice-contracts"
         ],
         "actions": [
             "protest"
@@ -3734,7 +3794,8 @@
         "id": 98,
         "date": "2018/08/23",
         "sources": [
-            "https://teamster.org/news/2018/08/teamster-shuttle-drivers-high-tech-companies-hold-action-fair-contract, https://www.sfchronicle.com/business/article/teamsters-target-tech-buses-in-castro-district-13177065.php#photo-16057250"
+            "https://teamster.org/news/2018/08/teamster-shuttle-drivers-high-tech-companies-hold-action-fair-contract",
+            "https://www.sfchronicle.com/business/article/teamsters-target-tech-buses-in-castro-district-13177065.php#photo-16057250"
         ],
         "actions": [
             "protest"
@@ -3811,7 +3872,8 @@
         "id": 100,
         "date": "2018/10/09",
         "sources": [
-            "https://www.theguardian.com/technology/2018/oct/09/uber-uk-strike-users-urged-not-to-cross-digital-picket-line, https://www.bbc.com/news/business-45796409"
+            "https://www.theguardian.com/technology/2018/oct/09/uber-uk-strike-users-urged-not-to-cross-digital-picket-line",
+            "https://www.bbc.com/news/business-45796409"
         ],
         "actions": [
             "strike"
@@ -3927,7 +3989,8 @@
         "id": 103,
         "date": "2018/11/01",
         "sources": [
-            "https://www.nytimes.com/2018/11/01/technology/google-walkout-sexual-harassment.html, https://www.recode.net/2018/11/21/18105719/google-walkout-real-change-organizers-protest-discrimination-kara-swisher-recode-decode-podcast"
+            "https://www.nytimes.com/2018/11/01/technology/google-walkout-sexual-harassment.html",
+            "https://www.recode.net/2018/11/21/18105719/google-walkout-real-change-organizers-protest-discrimination-kara-swisher-recode-decode-podcast"
         ],
         "actions": [
             "strike"
@@ -4008,7 +4071,9 @@
         "id": 105,
         "date": "2018/11/23",
         "sources": [
-            "https://mashable.com/article/amazon-workers-black-friday-strike-europe-uk/#7mizh6l4giqk, https://www.uniglobalunion.org/news/amazon-workers-launch-wave-black-friday-strikes-and-protests, https://www.businessinsider.com/black-friday-amazon-workers-protest-poor-working-conditions-2018-11"
+            "https://mashable.com/article/amazon-workers-black-friday-strike-europe-uk/#7mizh6l4giqk",
+            "https://www.uniglobalunion.org/news/amazon-workers-launch-wave-black-friday-strikes-and-protests",
+            "https://www.businessinsider.com/black-friday-amazon-workers-protest-poor-working-conditions-2018-11"
         ],
         "actions": [
             "strike"
@@ -4070,7 +4135,8 @@
         "id": 106,
         "date": "2018/11/23",
         "sources": [
-            "https://www.buzzfeednews.com/article/carolineodonovan/instacart-delivery-workers-strike-gig-workers-labor-movement, https://www.change.org/p/instacart-revert-back-to-old-pay-system-for-instacart"
+            "https://www.buzzfeednews.com/article/carolineodonovan/instacart-delivery-workers-strike-gig-workers-labor-movement",
+            "https://www.change.org/p/instacart-revert-back-to-old-pay-system-for-instacart"
         ],
         "actions": [
             "strike"
@@ -4101,7 +4167,8 @@
         "id": 107,
         "date": "2018/11/27",
         "sources": [
-            "https://medium.com/@googlersagainstdragonfly/we-are-google-employees-google-must-drop-dragonfly-4c8a30c5e5eb, https://slate.com/technology/2018/11/google-employees-sign-petition-to-end-project-dragonfly.html"
+            "https://medium.com/@googlersagainstdragonfly/we-are-google-employees-google-must-drop-dragonfly-4c8a30c5e5eb",
+            "https://slate.com/technology/2018/11/google-employees-sign-petition-to-end-project-dragonfly.html"
         ],
         "actions": [
             "open letter"
@@ -4186,7 +4253,9 @@
         "id": 109,
         "date": "2018/12/06",
         "sources": [
-            "https://www.reuters.com/article/legal-us-otc-uber/forced-into-arbitration-12500-drivers-claim-uber-wont-pay-fees-to-launch-cases-iduskbn1o52c6, https://boingboing.net/2018/12/09/justice-denied.html, https://gizmodo.com/ubers-arbitration-policy-comes-back-to-bite-it-in-the-a-1830892372"
+            "https://www.reuters.com/article/legal-us-otc-uber/forced-into-arbitration-12500-drivers-claim-uber-wont-pay-fees-to-launch-cases-iduskbn1o52c6",
+            "https://boingboing.net/2018/12/09/justice-denied.html",
+            "https://gizmodo.com/ubers-arbitration-policy-comes-back-to-bite-it-in-the-a-1830892372"
         ],
         "actions": [
             "protest"
@@ -4225,7 +4294,8 @@
         "id": 110,
         "date": "2018/12/06",
         "sources": [
-            "https://www.theguardian.com/technology/2018/dec/20/facebook-contractors-filter-digital-labor-dispute-christmas, https://medium.com/@techworkersco_79433/who-fired-the-ras-organizing-the-worst-job-at-facebook-97c63cb40683"
+            "https://www.theguardian.com/technology/2018/dec/20/facebook-contractors-filter-digital-labor-dispute-christmas",
+            "https://medium.com/@techworkersco_79433/who-fired-the-ras-organizing-the-worst-job-at-facebook-97c63cb40683"
         ],
         "actions": [
             "open letter"
@@ -4344,7 +4414,8 @@
         "id": 113,
         "date": "2019/01/17",
         "sources": [
-            "https://www.businessinsider.com/instacart-workers-request-22-cent-tips-protest-2019-1, https://actionnetwork.org/petitions/instacart-heres-our-22-cents-no-more-tip-theft-low-pay-and-black-box-pay-algorithms"
+            "https://www.businessinsider.com/instacart-workers-request-22-cent-tips-protest-2019-1",
+            "https://actionnetwork.org/petitions/instacart-heres-our-22-cents-no-more-tip-theft-low-pay-and-black-box-pay-algorithms"
         ],
         "actions": [
             "open letter"
@@ -4483,7 +4554,8 @@
         "id": 117,
         "date": "2019/02/22",
         "sources": [
-            "https://slate.com/technology/2019/02/microsoft-workers-protest-hololens-pentagon-contract.html, https://www.buzzfeednews.com/article/carolineodonovan/microsoft-hololens-army"
+            "https://slate.com/technology/2019/02/microsoft-workers-protest-hololens-pentagon-contract.html",
+            "https://www.buzzfeednews.com/article/carolineodonovan/microsoft-hololens-army"
         ],
         "actions": [
             "open letter"
@@ -4611,7 +4683,9 @@
         "id": 120,
         "date": "2019/03/06",
         "sources": [
-            "https://onezero.medium.com/uber-delivery-workers-in-mexico-track-thieves-through-a-secret-whatsapp-network-d5795a0e3b41, https://sira-apps-sindicato.jimdosite.com/, https://www.facebook.com/pg/sirapps/about/?ref=page_internal"
+            "https://onezero.medium.com/uber-delivery-workers-in-mexico-track-thieves-through-a-secret-whatsapp-network-d5795a0e3b41",
+            "https://sira-apps-sindicato.jimdosite.com/",
+            "https://www.facebook.com/pg/sirapps/about/?ref=page_internal"
         ],
         "actions": [
             "union drive"
@@ -4760,7 +4834,9 @@
         "id": 124,
         "date": "2019/03/28",
         "sources": [
-            "https://github.com/996icu/996.icu/, https://radiichina.com/github-protest-chinese-tech-996/, https://www.ft.com/content/72754638-55d1-11e9-91f9-b6515a54c5b1"
+            "https://github.com/996icu/996.icu/",
+            "https://radiichina.com/github-protest-chinese-tech-996/",
+            "https://www.ft.com/content/72754638-55d1-11e9-91f9-b6515a54c5b1"
         ],
         "actions": [
             "open letter"
@@ -4796,7 +4872,8 @@
         "id": 125,
         "date": "2019/04/01",
         "sources": [
-            "https://www.theregister.co.uk/2019/04/22/npm_fired_staff_union_complaints, https://www.salon.com/2019/04/30/software-engineers-at-prominent-tech-firm-say-they-were-fired-for-trying-to-unionize-report/"
+            "https://www.theregister.co.uk/2019/04/22/npm_fired_staff_union_complaints",
+            "https://www.salon.com/2019/04/30/software-engineers-at-prominent-tech-firm-say-they-were-fired-for-trying-to-unionize-report/"
         ],
         "actions": [
             "union drive"
@@ -4827,7 +4904,8 @@
         "id": 126,
         "date": "2019/04/01",
         "sources": [
-            "https://www.theguardian.com/technology/2019/apr/01/google-kay-coles-james-removal-employees-letter, https://medium.com/@against.transphobia/googlers-against-transphobia-and-hate-b1b0a5dbf76"
+            "https://www.theguardian.com/technology/2019/apr/01/google-kay-coles-james-removal-employees-letter",
+            "https://medium.com/@against.transphobia/googlers-against-transphobia-and-hate-b1b0a5dbf76"
         ],
         "actions": [
             "open letter"
@@ -4948,7 +5026,8 @@
         "id": 129,
         "date": "2019/04/10",
         "sources": [
-            "https://www.recode.net/2019/4/10/18304877/amazon-climate-change-employees-tech-activism, https://www.vox.com/business-and-finance/2019/4/11/18306389/amazon-employees-climate-change-plan"
+            "https://www.recode.net/2019/4/10/18304877/amazon-climate-change-employees-tech-activism",
+            "https://www.vox.com/business-and-finance/2019/4/11/18306389/amazon-employees-climate-change-plan"
         ],
         "actions": [
             "open letter"
@@ -5065,7 +5144,9 @@
         "id": 132,
         "date": "2019/04/22",
         "sources": [
-            "https://www.bloomberg.com/news/articles/2019-04-22/microsoft-workers-criticize-block-of-github-protest-in-china, https://www.buzzfeednews.com/article/carolineodonovan/microsoft-petition-996-icu-workweek-china, https://gizmodo.com/microsoft-and-github-workers-take-a-stand-against-gruel-1834210579"
+            "https://www.bloomberg.com/news/articles/2019-04-22/microsoft-workers-criticize-block-of-github-protest-in-china",
+            "https://www.buzzfeednews.com/article/carolineodonovan/microsoft-petition-996-icu-workweek-china",
+            "https://gizmodo.com/microsoft-and-github-workers-take-a-stand-against-gruel-1834210579"
         ],
         "actions": [
             "open letter"
@@ -5114,7 +5195,8 @@
         "id": 133,
         "date": "2019/04/25",
         "sources": [
-            "https://technode.com/2019/04/25/996-protesters-organize-performance-art-prank-against-jack-ma/, https://www.nytimes.com/2019/04/29/technology/china-996-jack-ma.html"
+            "https://technode.com/2019/04/25/996-protesters-organize-performance-art-prank-against-jack-ma/",
+            "https://www.nytimes.com/2019/04/29/technology/china-996-jack-ma.html"
         ],
         "actions": [
             "protest"
@@ -5153,7 +5235,8 @@
         "id": 134,
         "date": "2019/04/26",
         "sources": [
-            "https://www.wired.com/story/dispute-googles-alleged-retaliation-intensifies/, https://www.bloomberg.com/news/articles/2019-04-26/google-staffers-share-350-stories-of-systemic-retaliation"
+            "https://www.wired.com/story/dispute-googles-alleged-retaliation-intensifies/",
+            "https://www.bloomberg.com/news/articles/2019-04-26/google-staffers-share-350-stories-of-systemic-retaliation"
         ],
         "actions": [
             "protest"
@@ -5193,7 +5276,9 @@
         "id": 135,
         "date": "2019/05/01",
         "sources": [
-            "https://slate.com/technology/2019/05/google-employees-are-protesting-to-remain-the-companys-watchdog.html, https://www.cnn.com/2019/05/01/tech/google-employees-protest-may-day/index.html, https://twitter.com/googlewalkout/status/1123294379609870337?s=20"
+            "https://slate.com/technology/2019/05/google-employees-are-protesting-to-remain-the-companys-watchdog.html",
+            "https://www.cnn.com/2019/05/01/tech/google-employees-protest-may-day/index.html",
+            "https://twitter.com/googlewalkout/status/1123294379609870337?s=20"
         ],
         "actions": [
             "protest"
@@ -5274,7 +5359,8 @@
         "id": 137,
         "date": "2019/05/08",
         "sources": [
-            "https://www.washingtonpost.com/technology/2019/05/08/inside-facebook-second-class-workers-who-do-hardest-job-are-waging-quiet-battle/?noredirect=on&utm_term=.832acb00f260, https://www.washingtonpost.com/business/2019/05/13/facebook-raising-pay-support-services-thousands-contractors-content-moderators/?utm_term=.f0b4e7b4bf3e"
+            "https://www.washingtonpost.com/technology/2019/05/08/inside-facebook-second-class-workers-who-do-hardest-job-are-waging-quiet-battle/?noredirect=on&utm_term=.832acb00f260",
+            "https://www.washingtonpost.com/business/2019/05/13/facebook-raising-pay-support-services-thousands-contractors-content-moderators/?utm_term=.f0b4e7b4bf3e"
         ],
         "actions": [
             "protest"
@@ -5320,7 +5406,8 @@
         "id": 138,
         "date": "2019/05/08",
         "sources": [
-            "https://medium.com/@googlewalkout/notokgoogle-demands-regarding-retaliation-697da244146f, https://observer.com/2019/05/alphabet-ceo-larry-page-employees-walkouts/"
+            "https://medium.com/@googlewalkout/notokgoogle-demands-regarding-retaliation-697da244146f",
+            "https://observer.com/2019/05/alphabet-ceo-larry-page-employees-walkouts/"
         ],
         "actions": [
             "open letter"
@@ -5361,7 +5448,9 @@
         "id": 139,
         "date": "2019/05/09",
         "sources": [
-            "https://clb.org.hk/content/senior-staff-oracle%e2%80%99s-beijing-research-centre-protest-layoffs, https://technode.com/2019/05/10/oracle-programmers-100000-recruitment/, https://www.ft.com/content/16ffdcec-749d-11e9-bbad-7c18c0ea0201"
+            "https://clb.org.hk/content/senior-staff-oracle%e2%80%99s-beijing-research-centre-protest-layoffs",
+            "https://technode.com/2019/05/10/oracle-programmers-100000-recruitment/",
+            "https://www.ft.com/content/16ffdcec-749d-11e9-bbad-7c18c0ea0201"
         ],
         "actions": [
             "protest"
@@ -5403,7 +5492,8 @@
         "id": 140,
         "date": "2019/05/11",
         "sources": [
-            "https://www.fastcompany.com/90348304/exclusive-tech-workers-organize-protest-against-palantir-on-the-github-coding-platform, https://gist.github.com/noahzgordon/29af8c13106ddc591ccaa1ea0ce6af74"
+            "https://www.fastcompany.com/90348304/exclusive-tech-workers-organize-protest-against-palantir-on-the-github-coding-platform",
+            "https://gist.github.com/noahzgordon/29af8c13106ddc591ccaa1ea0ce6af74"
         ],
         "actions": [
             "protest"
@@ -5445,7 +5535,8 @@
         "id": 141,
         "date": "2019/05/22",
         "sources": [
-            "https://www.vox.com/recode/2019/5/22/18635604/amazon-shareholder-meeting-2019-climate-change-proposal, https://gizmodo.com/jeff-bezos-wouldn-t-even-come-on-stage-to-listen-to-his-1834957220"
+            "https://www.vox.com/recode/2019/5/22/18635604/amazon-shareholder-meeting-2019-climate-change-proposal",
+            "https://gizmodo.com/jeff-bezos-wouldn-t-even-come-on-stage-to-listen-to-his-1834957220"
         ],
         "actions": [
             "protest"
@@ -5485,7 +5576,8 @@
         "id": 142,
         "date": "2019/05/27",
         "sources": [
-            "https://techcrunch.com/2019/05/28/glovo-faces-safety-protests-after-delivery-rider-killed-on-the-job/, https://elpais.com/economia/2019/05/27/actualidad/1558983633_840887.html"
+            "https://techcrunch.com/2019/05/28/glovo-faces-safety-protests-after-delivery-rider-killed-on-the-job/",
+            "https://elpais.com/economia/2019/05/27/actualidad/1558983633_840887.html"
         ],
         "actions": [
             "protest"
@@ -5558,7 +5650,8 @@
         "id": 144,
         "date": "2019/06/07",
         "sources": [
-            "https://www.bloomberg.com/news/articles/2019-06-07/contract-bike-staff-say-facebook-isn-t-protecting-their-rights, https://www.shadowproof.com/2019/06/11/facebook-bikeshare-workers-organize-against-anti-union-campaign/"
+            "https://www.bloomberg.com/news/articles/2019-06-07/contract-bike-staff-say-facebook-isn-t-protecting-their-rights",
+            "https://www.shadowproof.com/2019/06/11/facebook-bikeshare-workers-organize-against-anti-union-campaign/"
         ],
         "actions": [
             "union drive"
@@ -5597,7 +5690,8 @@
         "id": 145,
         "date": "2019/06/12",
         "sources": [
-            "https://www.gofundme.com/f/solidarity-fund-for-fired-fb-contingent-workers, https://medium.com/@techworkersco_79433/who-fired-the-ras-organizing-the-worst-job-at-facebook-97c63cb40683"
+            "https://www.gofundme.com/f/solidarity-fund-for-fired-fb-contingent-workers",
+            "https://medium.com/@techworkersco_79433/who-fired-the-ras-organizing-the-worst-job-at-facebook-97c63cb40683"
         ],
         "actions": [
             "protest"
@@ -5670,7 +5764,9 @@
         "id": 147,
         "date": "2019/06/15",
         "sources": [
-            "https://www.wweek.com/news/2019/06/13/portland-postmates-workers-to-join-national-protest-of-pay-cut-by-only-accepting-surge-price-deliveries/, https://payup.wtf/blitzup, https://katu.com/news/local/postmates-workers-demand-raise-by-using-a-blitz-up"
+            "https://www.wweek.com/news/2019/06/13/portland-postmates-workers-to-join-national-protest-of-pay-cut-by-only-accepting-surge-price-deliveries/",
+            "https://payup.wtf/blitzup",
+            "https://katu.com/news/local/postmates-workers-demand-raise-by-using-a-blitz-up"
         ],
         "actions": [
             "protest"
@@ -5743,7 +5839,9 @@
         "id": 149,
         "date": "2019/06/24",
         "sources": [
-            "https://onezero.medium.com/a-group-of-microsoft-employees-is-fighting-the-companys-political-action-committee-7dae732290e3, https://politics.slashdot.org/story/19/06/24/1835230/a-group-of-microsoft-employees-is-fighting-the-companys-political-action-committee, https://www.geekwire.com/2019/internal-email-microsoft-suspends-pac-donations-temporarily-following-employee-uproar"
+            "https://onezero.medium.com/a-group-of-microsoft-employees-is-fighting-the-companys-political-action-committee-7dae732290e3",
+            "https://politics.slashdot.org/story/19/06/24/1835230/a-group-of-microsoft-employees-is-fighting-the-companys-political-action-committee",
+            "https://www.geekwire.com/2019/internal-email-microsoft-suspends-pac-donations-temporarily-following-employee-uproar"
         ],
         "actions": [
             "protest"
@@ -5784,7 +5882,8 @@
         "id": 150,
         "date": "2019/06/26",
         "sources": [
-            "https://www.bloomberg.com/news/articles/2019-06-26/google-workers-petition-sf-pride-to-exclude-company-from-parade, https://medium.com/@bangooglefrompride/an-open-petition-to-the-san-francisco-pride-board-of-directors-f8164486c2e4"
+            "https://www.bloomberg.com/news/articles/2019-06-26/google-workers-petition-sf-pride-to-exclude-company-from-parade",
+            "https://medium.com/@bangooglefrompride/an-open-petition-to-the-san-francisco-pride-board-of-directors-f8164486c2e4"
         ],
         "actions": [
             "open letter"
@@ -5824,7 +5923,9 @@
         "id": 151,
         "date": "2019/06/26",
         "sources": [
-            "https://www.nytimes.com/2019/06/26/business/wayfair-walkout.html, https://www.cnn.com/2019/06/25/business/wayfair-walkout-detention-camps-trnd/index.html, https://www.jacobinmag.com/2019/06/wayfair-walkout-immigration-detention-centers"
+            "https://www.nytimes.com/2019/06/26/business/wayfair-walkout.html",
+            "https://www.cnn.com/2019/06/25/business/wayfair-walkout-detention-camps-trnd/index.html",
+            "https://www.jacobinmag.com/2019/06/wayfair-walkout-immigration-detention-centers"
         ],
         "actions": [
             "strike"
@@ -5864,7 +5965,9 @@
         "id": 152,
         "date": "2019/06/30",
         "sources": [
-            "https://www.vox.com/platform/amp/recode/2019/6/28/19303292/google-protest-pride-parade-lgbtq-youtube-harassment, https://medium.com/@bangooglefrompride/ban-google-from-pride-to-march-in-protest-of-harassment-and-discrimination-on-youtube-d8dcc6fde06e, https://twitter.com/shiringhaffary/status/1145387654202048512?s=19"
+            "https://www.vox.com/platform/amp/recode/2019/6/28/19303292/google-protest-pride-parade-lgbtq-youtube-harassment",
+            "https://medium.com/@bangooglefrompride/ban-google-from-pride-to-march-in-protest-of-harassment-and-discrimination-on-youtube-d8dcc6fde06e",
+            "https://twitter.com/shiringhaffary/status/1145387654202048512?s=19"
         ],
         "actions": [
             "protest"
@@ -5904,7 +6007,8 @@
         "id": 153,
         "date": "2019/07/10",
         "sources": [
-            "https://www.latimes.com/business/technology/la-fi-tn-gig-workers-ab5-lorena-gonzalez-uber-lyft-sacramento-20190710-story.html, https://www.latimes.com/business/technology/la-fi-tn-ab5-uber-lyft-rally-sacramento-pay-20190715-story.html"
+            "https://www.latimes.com/business/technology/la-fi-tn-gig-workers-ab5-lorena-gonzalez-uber-lyft-sacramento-20190710-story.html",
+            "https://www.latimes.com/business/technology/la-fi-tn-ab5-uber-lyft-rally-sacramento-pay-20190715-story.html"
         ],
         "actions": [
             "protest"
@@ -5937,7 +6041,8 @@
         "id": 154,
         "date": "2019/07/11",
         "sources": [
-            "https://www.theguardian.com/us-news/2019/jul/11/amazon-ice-protest-immigrant-tech, https://www.washingtonpost.com/business/2019/07/12/no-tech-ice-protesters-demand-amazon-cut-ties-with-federal-immigration-enforcement/?utm_term=.5b8cbfae4ec5"
+            "https://www.theguardian.com/us-news/2019/jul/11/amazon-ice-protest-immigrant-tech",
+            "https://www.washingtonpost.com/business/2019/07/12/no-tech-ice-protesters-demand-amazon-cut-ties-with-federal-immigration-enforcement/?utm_term=.5b8cbfae4ec5"
         ],
         "actions": [
             "protest"
@@ -5979,7 +6084,8 @@
         "id": 155,
         "date": "2019/07/11",
         "sources": [
-            "https://www.forbes.com/sites/rachelsandler/2019/07/11/internal-email-amazon-faces-pressure-from-more-than-500-employees-to-cut-ties-with-palantir-for-working-with-ice/#7707abe77539, https://www.businessinsider.com/amazon-employees-letter-protest-palantir-ice-camps-2019-7?r=us&ir=t"
+            "https://www.forbes.com/sites/rachelsandler/2019/07/11/internal-email-amazon-faces-pressure-from-more-than-500-employees-to-cut-ties-with-palantir-for-working-with-ice/#7707abe77539",
+            "https://www.businessinsider.com/amazon-employees-letter-protest-palantir-ice-camps-2019-7?r=us&ir=t"
         ],
         "actions": [
             "open letter"
@@ -6058,7 +6164,8 @@
         "id": 157,
         "date": "2019/07/13",
         "sources": [
-            "https://www.merca20.com/los-problemas-con-los-que-se-enfrentan-los-repartidores-de-comida-en-apps/, https://www.xataka.com.mx/aplicaciones/vacaciones-jubilacion-horario-flexible-que-repartidores-uber-eats-rappi-sindelantal-piden-al-ser-empleados-mexico"
+            "https://www.merca20.com/los-problemas-con-los-que-se-enfrentan-los-repartidores-de-comida-en-apps/",
+            "https://www.xataka.com.mx/aplicaciones/vacaciones-jubilacion-horario-flexible-que-repartidores-uber-eats-rappi-sindelantal-piden-al-ser-empleados-mexico"
         ],
         "actions": [
             "protest"
@@ -6112,7 +6219,9 @@
         "id": 158,
         "date": "2019/07/15",
         "sources": [
-            "https://www.coworker.org/petitions/amazon-management-meet-with-dch1-amazonians-united-now, https://labornotes.org/2019/07/amazon-warehouse-worker-why-im-taking-action, https://www.buzzfeednews.com/amphtml/carolineodonovan/amazon-worker-protests-chicago-heat-wave"
+            "https://www.coworker.org/petitions/amazon-management-meet-with-dch1-amazonians-united-now",
+            "https://labornotes.org/2019/07/amazon-warehouse-worker-why-im-taking-action",
+            "https://www.buzzfeednews.com/amphtml/carolineodonovan/amazon-worker-protests-chicago-heat-wave"
         ],
         "actions": [
             "open letter"
@@ -6150,7 +6259,9 @@
         "id": 159,
         "date": "2019/07/15",
         "sources": [
-            "https://jacobinmag.com/2019/07/amazon-shakopee-strike-prime-day, https://www.cnet.com/news/prime-day-brings-out-wave-of-activism-against-amazon/, https://www.theverge.com/2019/7/16/20696154/amazon-prime-day-2019-strike-warehouse-workers-inhumane-conditions-the-rate-productivity"
+            "https://jacobinmag.com/2019/07/amazon-shakopee-strike-prime-day",
+            "https://www.cnet.com/news/prime-day-brings-out-wave-of-activism-against-amazon/",
+            "https://www.theverge.com/2019/7/16/20696154/amazon-prime-day-2019-strike-warehouse-workers-inhumane-conditions-the-rate-productivity"
         ],
         "actions": [
             "strike"
@@ -6191,7 +6302,8 @@
         "id": 160,
         "date": "2019/07/16",
         "sources": [
-            "https://www.bbc.com/news/av/world-africa-49008968/uber-drivers-in-nairobi-explain-why-they-are-on-strike, https://www.businessdailyafrica.com/corporate/companies/digital-taxis-strike-enters-second-week/4003102-5206366-rbvf36/index.html"
+            "https://www.bbc.com/news/av/world-africa-49008968/uber-drivers-in-nairobi-explain-why-they-are-on-strike",
+            "https://www.businessdailyafrica.com/corporate/companies/digital-taxis-strike-enters-second-week/4003102-5206366-rbvf36/index.html"
         ],
         "actions": [
             "strike"
@@ -6232,7 +6344,9 @@
         "id": 161,
         "date": "2019/07/16",
         "sources": [
-            "https://www.sfchronicle.com/business/article/facebook-cafeteria-workers-protest-pay-hours-in-14100891.php, https://www.sfexaminer.com/the-city/facebook-cafeteria-workers-call-out-social-media-giant/, https://www.theguardian.com/us-news/2019/jul/22/facebook-cafeteria-workers-protest"
+            "https://www.sfchronicle.com/business/article/facebook-cafeteria-workers-protest-pay-hours-in-14100891.php",
+            "https://www.sfexaminer.com/the-city/facebook-cafeteria-workers-call-out-social-media-giant/",
+            "https://www.theguardian.com/us-news/2019/jul/22/facebook-cafeteria-workers-protest"
         ],
         "actions": [
             "protest"
@@ -6275,7 +6389,8 @@
         "id": 162,
         "date": "2019/07/19",
         "sources": [
-            "https://techcrunch.com/2019/07/18/uber-and-lyft-drivers-demand-better-pay-workplace-protections-and-driver-led-unions/, https://sanfrancisco.cbslocal.com/2019/07/19/uber-lyft-drivers-hq-protest-working-conditions/"
+            "https://techcrunch.com/2019/07/18/uber-and-lyft-drivers-demand-better-pay-workplace-protections-and-driver-led-unions/",
+            "https://sanfrancisco.cbslocal.com/2019/07/19/uber-lyft-drivers-hq-protest-working-conditions/"
         ],
         "actions": [
             "protest"
@@ -6320,7 +6435,9 @@
         "id": 163,
         "date": "2019/07/19",
         "sources": [
-            "https://sanfrancisco.cbslocal.com/2019/07/19/uber-lyft-drivers-hq-protest-working-conditions/, https://techcrunch.com/2019/07/18/uber-and-lyft-drivers-demand-better-pay-workplace-protections-and-driver-led-unions/, https://www.cnet.com/news/uber-lyft-drivers-stage-protest-for-better-working-conditions/"
+            "https://sanfrancisco.cbslocal.com/2019/07/19/uber-lyft-drivers-hq-protest-working-conditions/",
+            "https://techcrunch.com/2019/07/18/uber-and-lyft-drivers-demand-better-pay-workplace-protections-and-driver-led-unions/",
+            "https://www.cnet.com/news/uber-lyft-drivers-stage-protest-for-better-working-conditions/"
         ],
         "actions": [
             "strike"
@@ -6403,7 +6520,8 @@
         "id": 165,
         "date": "2019/07/26",
         "sources": [
-            "https://financialtribune.com/articles/sci-tech/99111/github-bans-iran-based-users, https://github.com/1995parham/github-do-not-ban-us"
+            "https://financialtribune.com/articles/sci-tech/99111/github-bans-iran-based-users",
+            "https://github.com/1995parham/github-do-not-ban-us"
         ],
         "actions": [
             "protest",
@@ -6438,7 +6556,8 @@
         "id": 166,
         "date": "2019/07/26",
         "sources": [
-            "https://www.technologyreview.com/s/614055/youtube-union-ig-metall-labor-gdpr-privacy-policy-creators/, https://www.fairtube.info/en/"
+            "https://www.technologyreview.com/s/614055/youtube-union-ig-metall-labor-gdpr-privacy-policy-creators/",
+            "https://www.fairtube.info/en/"
         ],
         "actions": [
             "union representation"
@@ -6477,7 +6596,10 @@
         "id": 272,
         "date": "2019/08/01",
         "sources": [
-            "https://www.cbc.ca/news/canada/toronto/food-courier-union-1.5239414, https://www.cbc.ca/news/canada/toronto/foodora-union-vote-ends-1.5244950, https://nowtoronto.com/food-and-drink/food/foodora-union-ruling/, https://nowtoronto.com/food-and-drink/food/foodora-leaving-canada/"
+            "https://www.cbc.ca/news/canada/toronto/food-courier-union-1.5239414",
+            "https://www.cbc.ca/news/canada/toronto/foodora-union-vote-ends-1.5244950",
+            "https://nowtoronto.com/food-and-drink/food/foodora-union-ruling/",
+            "https://nowtoronto.com/food-and-drink/food/foodora-leaving-canada/"
         ],
         "actions": [
             "union representation"
@@ -6576,7 +6698,9 @@
         "id": 169,
         "date": "2019/08/12",
         "sources": [
-            "https://www.theverge.com/2019/8/12/20802893/whole-foods-employees-amazon-ice-protest-palantir-facial-recognition, https://thehill.com/policy/technology/457154-whole-foods-workers-denounce-amazon-ties-to-ice, https://docs.google.com/document/u/1/d/1v-ukklbicbgy-tckpkwy9dj_izdwu93g_frsr6yzv3m/mobilebasic"
+            "https://www.theverge.com/2019/8/12/20802893/whole-foods-employees-amazon-ice-protest-palantir-facial-recognition",
+            "https://thehill.com/policy/technology/457154-whole-foods-workers-denounce-amazon-ties-to-ice",
+            "https://docs.google.com/document/u/1/d/1v-ukklbicbgy-tckpkwy9dj_izdwu93g_frsr6yzv3m/mobilebasic"
         ],
         "actions": [
             "protest"
@@ -6656,7 +6780,8 @@
         "id": 171,
         "date": "2019/08/14",
         "sources": [
-            "https://medium.com/@no.gcp.for.cbp/google-must-stand-against-human-rights-abuses-nogcpforcbp-88c60e1fc35e, https://www.vox.com/2019/8/14/20805562/human-rights-concerns-google-employees-petition-cbp-ice"
+            "https://medium.com/@no.gcp.for.cbp/google-must-stand-against-human-rights-abuses-nogcpforcbp-88c60e1fc35e",
+            "https://www.vox.com/2019/8/14/20805562/human-rights-concerns-google-employees-petition-cbp-ice"
         ],
         "actions": [
             "open letter"
@@ -6744,7 +6869,8 @@
         "id": 173,
         "date": "2019/08/22",
         "sources": [
-            "https://www.washingtonpost.com/business/2019/08/22/war-inside-palantir-data-mining-firms-ties-ice-under-attack-by-employees/, https://www.businessinsider.com/palantir-employees-ice-petition-alex-karp-2019-8"
+            "https://www.washingtonpost.com/business/2019/08/22/war-inside-palantir-data-mining-firms-ties-ice-under-attack-by-employees/",
+            "https://www.businessinsider.com/palantir-employees-ice-petition-alex-karp-2019-8"
         ],
         "actions": [
             "open letter",
@@ -6786,7 +6912,8 @@
         "id": 174,
         "date": "2019/08/22",
         "sources": [
-            "https://www.vice.com/en_us/article/a35g8k/hundreds-of-uber-drivers-will-caravan-600-miles-across-california-to-demand-better-working-conditions, https://techcrunch.com/2019/08/22/hundreds-of-uber-and-lyft-drivers-to-launch-a-protest-caravan-across-california/"
+            "https://www.vice.com/en_us/article/a35g8k/hundreds-of-uber-drivers-will-caravan-600-miles-across-california-to-demand-better-working-conditions",
+            "https://techcrunch.com/2019/08/22/hundreds-of-uber-and-lyft-drivers-to-launch-a-protest-caravan-across-california/"
         ],
         "actions": [
             "protest"
@@ -6864,7 +6991,8 @@
         "id": 176,
         "date": "2019/09/04",
         "sources": [
-            "http://www.nordiclabourjournal.org/nyheter/news-2019/article.2019-09-09.4705108683, https://www.itfglobal.org/en/news/riders-setup-soup-kitchen-in-oslo-in-fight-decent-work"
+            "http://www.nordiclabourjournal.org/nyheter/news-2019/article.2019-09-09.4705108683",
+            "https://www.itfglobal.org/en/news/riders-setup-soup-kitchen-in-oslo-in-fight-decent-work"
         ],
         "actions": [
             "strike",
@@ -6941,7 +7069,8 @@
         "id": 178,
         "date": "2019/09/07",
         "sources": [
-            "https://medium.com/@blindfb2020/facebook-empowers-racism-against-its-employees-of-color-fbbfaf55ab76, https://www.theroot.com/black-facebook-workers-write-open-letter-to-company-we-1839776402"
+            "https://medium.com/@blindfb2020/facebook-empowers-racism-against-its-employees-of-color-fbbfaf55ab76",
+            "https://www.theroot.com/black-facebook-workers-write-open-letter-to-company-we-1839776402"
         ],
         "actions": [
             "open letter"
@@ -6970,7 +7099,8 @@
         "id": 179,
         "date": "2019/09/09",
         "sources": [
-            "https://medium.com/@amazonemployeesclimatejustice/amazon-employees-are-joining-the-global-climate-walkout-9-20-9bfa4cbb1ce3, https://www.wired.com/story/amazon-walkout-climate-change/"
+            "https://medium.com/@amazonemployeesclimatejustice/amazon-employees-are-joining-the-global-climate-walkout-9-20-9bfa4cbb1ce3",
+            "https://www.wired.com/story/amazon-walkout-climate-change/"
         ],
         "actions": [
             "open letter",
@@ -7078,7 +7208,8 @@
         "id": 182,
         "date": "2019/09/16",
         "sources": [
-            "https://www.msn.com/en-us/news/us/at-uc-berkeley-brown-and-yale-students-are-fighting-to-keep-palantir-off-campus-over-its-ice-contracts/ar-aahtquj, https://notechforice.com/20190916-2/"
+            "https://www.msn.com/en-us/news/us/at-uc-berkeley-brown-and-yale-students-are-fighting-to-keep-palantir-off-campus-over-its-ice-contracts/ar-aahtquj",
+            "https://notechforice.com/20190916-2/"
         ],
         "actions": [
             "open letter"
@@ -7121,7 +7252,8 @@
         "id": 183,
         "date": "2019/09/17",
         "sources": [
-            "https://medium.com/@googworkersac/google-workers-are-striking-for-climate-sept-20-7eba2100b621i, https://fortune.com/2019/09/16/global-climate-strike-protest-google-amazon-microsoft-walkout"
+            "https://medium.com/@googworkersac/google-workers-are-striking-for-climate-sept-20-7eba2100b621i",
+            "https://fortune.com/2019/09/16/global-climate-strike-protest-google-amazon-microsoft-walkout"
         ],
         "actions": [
             "open letter",
@@ -7163,7 +7295,8 @@
         "id": 184,
         "date": "2019/09/18",
         "sources": [
-            "https://github.com/msworkers/for.climateaction, https://gizmodo.com/just-days-ahead-of-employee-climate-strike-microsoft-a-1838229409"
+            "https://github.com/msworkers/for.climateaction",
+            "https://gizmodo.com/just-days-ahead-of-employee-climate-strike-microsoft-a-1838229409"
         ],
         "actions": [
             "open letter",
@@ -7329,7 +7462,8 @@
         "id": 188,
         "date": "2019/09/25",
         "sources": [
-            "https://www.salon.com/2019/09/25/in-historic-first-tech-contractors-for-google-vote-to-unionize/, https://www.theguardian.com/technology/2019/sep/23/google-pittsburgh-union-roots-transform-tech-industry?cmp=share_androidapp_copy_to_clipboard"
+            "https://www.salon.com/2019/09/25/in-historic-first-tech-contractors-for-google-vote-to-unionize/",
+            "https://www.theguardian.com/technology/2019/sep/23/google-pittsburgh-union-roots-transform-tech-industry?cmp=share_androidapp_copy_to_clipboard"
         ],
         "actions": [
             "union representation"
@@ -7398,7 +7532,9 @@
         "id": 190,
         "date": "2019/09/26",
         "sources": [
-            "https://www.vice.com/en_us/article/qvgn9q/do-not-discuss-the-incident-facebook-told-employee-fired-after-speaking-about-worker-suicide, https://www.gofundme.com/f/say-no-to-toxic-work-environment, https://www.gofundme.com/f/qinchen-memorial-fund"
+            "https://www.vice.com/en_us/article/qvgn9q/do-not-discuss-the-incident-facebook-told-employee-fired-after-speaking-about-worker-suicide",
+            "https://www.gofundme.com/f/say-no-to-toxic-work-environment",
+            "https://www.gofundme.com/f/qinchen-memorial-fund"
         ],
         "actions": [
             "protest"
@@ -7476,7 +7612,8 @@
         "id": 192,
         "date": "2019/09/30",
         "sources": [
-            "https://www.theverge.com/2019/10/1/20892693/amazon-protest-time-off-part-time-workers-sacramento-fired, https://www.vice.com/en_us/article/43k7yp/organized-amazon-warehouse-workers-just-got-two-fired-co-workers-rehired"
+            "https://www.theverge.com/2019/10/1/20892693/amazon-protest-time-off-part-time-workers-sacramento-fired",
+            "https://www.vice.com/en_us/article/43k7yp/organized-amazon-warehouse-workers-just-got-two-fired-co-workers-rehired"
         ],
         "actions": [
             "open letter"
@@ -7628,7 +7765,9 @@
         "id": 196,
         "date": "2019/10/03",
         "sources": [
-            "https://www.washingtonpost.com/technology/2019/10/09/employees-ask-github-cancel-ice-contract-we-cannot-offset-human-lives-with-money/, https://www.washingtonpost.com/context/letter-from-github-employees-to-ceo-about-the-company-s-ice-contract/fb280de9-2bc3-40d5-b1a5-e3b954bf0d25/, https://www.vox.com/recode/2019/10/9/20906605/github-ice-contract-immigration-ice-dan-friedman"
+            "https://www.washingtonpost.com/technology/2019/10/09/employees-ask-github-cancel-ice-contract-we-cannot-offset-human-lives-with-money/",
+            "https://www.washingtonpost.com/context/letter-from-github-employees-to-ceo-about-the-company-s-ice-contract/fb280de9-2bc3-40d5-b1a5-e3b954bf0d25/",
+            "https://www.vox.com/recode/2019/10/9/20906605/github-ice-contract-immigration-ice-dan-friedman"
         ],
         "actions": [
             "open letter"
@@ -7674,7 +7813,8 @@
         "id": 197,
         "date": "2019/10/03",
         "sources": [
-            "https://english.kyodonews.net/news/2019/10/d2198529f08b-update1-uber-eats-delivery-staff-in-japan-form-labor-union.html, https://www.japantimes.co.jp/news/2019/10/03/business/corporate-business/uber-eats-delivery-staff-japan-form-labor-union/#.xaurdohkihs"
+            "https://english.kyodonews.net/news/2019/10/d2198529f08b-update1-uber-eats-delivery-staff-in-japan-form-labor-union.html",
+            "https://www.japantimes.co.jp/news/2019/10/03/business/corporate-business/uber-eats-delivery-staff-japan-form-labor-union/#.xaurdohkihs"
         ],
         "actions": [
             "union representation"
@@ -7705,7 +7845,8 @@
         "id": 198,
         "date": "2019/10/04",
         "sources": [
-            "https://www.bloomberg.com/news/articles/2019-10-10/microsoft-employees-call-to-end-github-ice-contract, https://www.businessinsider.com/microsoft-github-ice-contracts-solidarity-2019-10"
+            "https://www.bloomberg.com/news/articles/2019-10-10/microsoft-employees-call-to-end-github-ice-contract",
+            "https://www.businessinsider.com/microsoft-github-ice-contracts-solidarity-2019-10"
         ],
         "actions": [
             "open letter"
@@ -7746,7 +7887,8 @@
         "id": 199,
         "date": "2019/10/21",
         "sources": [
-            "https://www.bloomberg.com/amp/news/articles/2019-10-21/swiss-google-employees-defy-managers-stage-labor-event?__twitter_impression=true, https://www.vox.com/recode/2019/10/21/20924697/google-unionization-switzerland-zurich-syndicom-zooglers"
+            "https://www.bloomberg.com/amp/news/articles/2019-10-21/swiss-google-employees-defy-managers-stage-labor-event?__twitter_impression=true",
+            "https://www.vox.com/recode/2019/10/21/20924697/google-unionization-switzerland-zurich-syndicom-zooglers"
         ],
         "actions": [
             "union drive"
@@ -7785,7 +7927,8 @@
         "id": 200,
         "date": "2019/10/28",
         "sources": [
-            "https://www.nytimes.com/2019/10/28/technology/facebook-mark-zuckerberg-political-ads.html, https://www.nytimes.com/2019/10/28/technology/facebook-mark-zuckerberg-letter.html?action=click&module=relatedlinks&pgtype=article"
+            "https://www.nytimes.com/2019/10/28/technology/facebook-mark-zuckerberg-political-ads.html",
+            "https://www.nytimes.com/2019/10/28/technology/facebook-mark-zuckerberg-letter.html?action=click&module=relatedlinks&pgtype=article"
         ],
         "actions": [
             "open letter"
@@ -7823,7 +7966,8 @@
         "id": 201,
         "date": "2019/10/29",
         "sources": [
-            "https://www.geekwire.com/2019/tableau-employees-hold-rally-seattle-ask-leadership-sever-ties-ice-cbp/, https://medium.com/@tableauempethicsalliance/drawing-a-line-77606d6dafff"
+            "https://www.geekwire.com/2019/tableau-employees-hold-rally-seattle-ask-leadership-sever-ties-ice-cbp/",
+            "https://medium.com/@tableauempethicsalliance/drawing-a-line-77606d6dafff"
         ],
         "actions": [
             "protest",
@@ -7865,7 +8009,8 @@
         "id": 202,
         "date": "2019/11/01",
         "sources": [
-            "https://mashable.com/article/instacart-shoppers-work-stoppage-open-letter-apoorva-mehta/, https://medium.com/@nopenever50/dear-apoorva-mehta-founder-and-ceo-of-instacart-944ca4db6ad0"
+            "https://mashable.com/article/instacart-shoppers-work-stoppage-open-letter-apoorva-mehta/",
+            "https://medium.com/@nopenever50/dear-apoorva-mehta-founder-and-ceo-of-instacart-944ca4db6ad0"
         ],
         "actions": [
             "open letter"
@@ -7894,7 +8039,8 @@
         "id": 203,
         "date": "2019/11/03",
         "sources": [
-            "https://sf.eater.com/2019/11/4/20947832/instacart-shoppers-strike, https://medium.com/@vanessabain/dear-instacart-customers-664dbb59016e"
+            "https://sf.eater.com/2019/11/4/20947832/instacart-shoppers-strike",
+            "https://medium.com/@vanessabain/dear-instacart-customers-664dbb59016e"
         ],
         "actions": [
             "strike"
@@ -7925,7 +8071,8 @@
         "id": 204,
         "date": "2019/11/04",
         "sources": [
-            "https://medium.com/@googworkersac/ruth-porat-497bbb841b52, https://www.theguardian.com/technology/2019/nov/04/google-workers-climate-plan-letter"
+            "https://medium.com/@googworkersac/ruth-porat-497bbb841b52",
+            "https://www.theguardian.com/technology/2019/nov/04/google-workers-climate-plan-letter"
         ],
         "actions": [
             "open letter"
@@ -8038,7 +8185,8 @@
         "id": 207,
         "date": "2019/11/08",
         "sources": [
-            "https://www.ft.com/content/a3483930-0253-11ea-b7bc-f3fa4e77dd47, https://www.nytimes.com/2019/11/08/business/wework-employee-letter.html"
+            "https://www.ft.com/content/a3483930-0253-11ea-b7bc-f3fa4e77dd47",
+            "https://www.nytimes.com/2019/11/08/business/wework-employee-letter.html"
         ],
         "actions": [
             "open letter"
@@ -8072,7 +8220,8 @@
         "id": 297,
         "date": "2019/11/12",
         "sources": [
-            "https://www.vice.com/en_ca/article/d3aqkz/a-fired-kickstarter-organizer-is-trying-to-unionize-tech-workers-using-kickstarter, https://www.kickstarter.com/projects/clarissaredwine/solidarity-onboarding?ref=user_menu"
+            "https://www.vice.com/en_ca/article/d3aqkz/a-fired-kickstarter-organizer-is-trying-to-unionize-tech-workers-using-kickstarter",
+            "https://www.kickstarter.com/projects/clarissaredwine/solidarity-onboarding?ref=user_menu"
         ],
         "actions": [
             "protest"
@@ -8224,7 +8373,8 @@
         "id": 210,
         "date": "2019/11/20",
         "sources": [
-            "https://www.vox.com/recode/2019/12/31/21043467/google-union-cafeteria-workers-unionized-alphabet-silicon-valley-mountainview, https://www.cnbctv18.com/politics/over-2000-underpaid-overworked-google-workers-unionised-4974661.htm"
+            "https://www.vox.com/recode/2019/12/31/21043467/google-union-cafeteria-workers-unionized-alphabet-silicon-valley-mountainview",
+            "https://www.cnbctv18.com/politics/over-2000-underpaid-overworked-google-workers-unionised-4974661.htm"
         ],
         "actions": [
             "union representation",
@@ -8273,7 +8423,8 @@
         "id": 211,
         "date": "2019/11/22",
         "sources": [
-            "https://techcrunch.com/2019/11/21/google-employees-will-rally-in-protest-of-alleged-worker-retaliation/, https://www.vox.com/recode/2019/11/22/20978537/google-workers-suspension-employee-activists-protest"
+            "https://techcrunch.com/2019/11/21/google-employees-will-rally-in-protest-of-alleged-worker-retaliation/",
+            "https://www.vox.com/recode/2019/11/22/20978537/google-workers-suspension-employee-activists-protest"
         ],
         "actions": [
             "protest"
@@ -8313,7 +8464,8 @@
         "id": 212,
         "date": "2019/11/25",
         "sources": [
-            "https://www.vox.com/the-goods/2019/11/27/20985691/amazon-workers-black-friday-2019, https://nypost.com/2019/11/25/workers-at-amazons-staten-island-warehouse-to-hold-rally-over-high-injury-rates/"
+            "https://www.vox.com/the-goods/2019/11/27/20985691/amazon-workers-black-friday-2019",
+            "https://nypost.com/2019/11/25/workers-at-amazons-staten-island-warehouse-to-hold-rally-over-high-injury-rates/"
         ],
         "actions": [
             "open letter",
@@ -8354,7 +8506,8 @@
         "id": 213,
         "date": "2019/11/29",
         "sources": [
-            "https://www.rte.ie/news/business/2019/1129/1095932-amazon-german-strike/, https://www.forbes.com/sites/isabeltogoh/2019/11/29/black-friday-strikes-and-protests-hit-amazon-in-france-and-germany/#269a045a5bb3"
+            "https://www.rte.ie/news/business/2019/1129/1095932-amazon-german-strike/",
+            "https://www.forbes.com/sites/isabeltogoh/2019/11/29/black-friday-strikes-and-protests-hit-amazon-in-france-and-germany/#269a045a5bb3"
         ],
         "actions": [
             "strike"
@@ -8423,7 +8576,8 @@
         "id": 214,
         "date": "2019/11/29",
         "sources": [
-            "https://metro.co.uk/2019/11/29/amazon-hit-by-black-friday-srikes-and-protests-across-europe-11238471/, https://www.bbc.com/news/uk-england-50603875"
+            "https://metro.co.uk/2019/11/29/amazon-hit-by-black-friday-srikes-and-protests-across-europe-11238471/",
+            "https://www.bbc.com/news/uk-england-50603875"
         ],
         "actions": [
             "protest"
@@ -8468,7 +8622,10 @@
         "id": 215,
         "date": "2019/12/03",
         "sources": [
-            "https://medium.com/@googlewalkout/google-fired-us-for-organizing-were-fighting-back-d0daa8113aed, https://www.bloomberg.com/news/articles/2019-12-03/google-s-thanksgiving-four-file-federal-labor-complaint, https://www.buzzfeednews.com/article/ryanmac/fired-google-employees-nlrb-investigation-cbp, https://www.bloomberg.com/news/articles/2019-12-04/google-retaliation-claims-spread-with-new-labor-board-filing"
+            "https://medium.com/@googlewalkout/google-fired-us-for-organizing-were-fighting-back-d0daa8113aed",
+            "https://www.bloomberg.com/news/articles/2019-12-03/google-s-thanksgiving-four-file-federal-labor-complaint",
+            "https://www.buzzfeednews.com/article/ryanmac/fired-google-employees-nlrb-investigation-cbp",
+            "https://www.bloomberg.com/news/articles/2019-12-04/google-retaliation-claims-spread-with-new-labor-board-filing"
         ],
         "actions": [
             "legal action"
@@ -8580,7 +8737,8 @@
         "id": 218,
         "date": "2019/12/10",
         "sources": [
-            "https://www.vice.com/amp/en_us/article/ywaaay/injured-amazon-warehouse-workers-are-protesting-dangerous-work-speed, https://chicago.suntimes.com/metro-state/2019/12/10/21005210/amazon-employees-hurt-injured-work-activists"
+            "https://www.vice.com/amp/en_us/article/ywaaay/injured-amazon-warehouse-workers-are-protesting-dangerous-work-speed",
+            "https://chicago.suntimes.com/metro-state/2019/12/10/21005210/amazon-employees-hurt-injured-work-activists"
         ],
         "actions": [
             "protest"
@@ -8660,7 +8818,8 @@
         "id": 220,
         "date": "2019/12/13",
         "sources": [
-            "https://www.businessinsider.com/google-employees-flood-top-lawyer-with-emails-in-protest-2019-12, https://www.bloomberg.com/news/articles/2019-12-13/google-culture-war-escalates-as-era-of-transparency-wanes"
+            "https://www.businessinsider.com/google-employees-flood-top-lawyer-with-emails-in-protest-2019-12",
+            "https://www.bloomberg.com/news/articles/2019-12-13/google-culture-war-escalates-as-era-of-transparency-wanes"
         ],
         "actions": [
             "protest"
@@ -8689,7 +8848,8 @@
         "id": 221,
         "date": "2019/12/19",
         "sources": [
-            "https://static.theintercept.com/amp/shutterstock-china-censorship-tech.html, https://medium.com/@techagainstfascism/in-solidarity-with-pluralism-and-peaceful-dissent-in-india-b9c40e0d4476"
+            "https://static.theintercept.com/amp/shutterstock-china-censorship-tech.html",
+            "https://medium.com/@techagainstfascism/in-solidarity-with-pluralism-and-peaceful-dissent-in-india-b9c40e0d4476"
         ],
         "actions": [
             "open letter"
@@ -8718,7 +8878,8 @@
         "id": 222,
         "date": "2019/12/23",
         "sources": [
-            "https://www.labornotes.org/2020/01/amazon-warehouse-workers-deliver-christmas-walkout, https://www.coworker.org/petitions/amazon-meet-with-amazonians-united-sacramento-about-paid-time-off"
+            "https://www.labornotes.org/2020/01/amazon-warehouse-workers-deliver-christmas-walkout",
+            "https://www.coworker.org/petitions/amazon-meet-with-amazonians-united-sacramento-about-paid-time-off"
         ],
         "actions": [
             "strike"
@@ -8826,7 +8987,8 @@
         "id": 225,
         "date": "2020/01/26",
         "sources": [
-            "https://www.washingtonpost.com/technology/2020/01/26/amazon-employees-plan-mass-defiance-company-communications-policy-support-colleagues/, https://medium.com/@amazonemployeesclimatejustice/amazon-employees-share-our-views-on-company-business-f5abcdea849"
+            "https://www.washingtonpost.com/technology/2020/01/26/amazon-employees-plan-mass-defiance-company-communications-policy-support-colleagues/",
+            "https://medium.com/@amazonemployeesclimatejustice/amazon-employees-share-our-views-on-company-business-f5abcdea849"
         ],
         "actions": [
             "open letter"
@@ -8996,7 +9158,8 @@
         "id": 230,
         "date": "2020/02/12",
         "sources": [
-            "https://www.vice.com/en_us/article/xgq4n7/uber-and-lyft-drivers-have-a-simple-request-clean-bathrooms, https://seiu721.salsalabs.org/laxhygiene2020/index.html"
+            "https://www.vice.com/en_us/article/xgq4n7/uber-and-lyft-drivers-have-a-simple-request-clean-bathrooms",
+            "https://seiu721.salsalabs.org/laxhygiene2020/index.html"
         ],
         "actions": [
             "open letter"
@@ -9028,7 +9191,9 @@
         "id": 231,
         "date": "2020/02/14",
         "sources": [
-            "https://www.change.org/p/larry-ellison-uphold-company-ethics, https://time.com/5784848/oracle-petition-larry-ellison-trump/, https://www.washingtontimes.com/news/2020/feb/14/oracle-employees-petition-chairman-larry-ellison-t/"
+            "https://www.change.org/p/larry-ellison-uphold-company-ethics",
+            "https://time.com/5784848/oracle-petition-larry-ellison-trump/",
+            "https://www.washingtontimes.com/news/2020/feb/14/oracle-employees-petition-chairman-larry-ellison-t/"
         ],
         "actions": [
             "open letter"
@@ -9060,7 +9225,8 @@
         "id": 232,
         "date": "2020/02/18",
         "sources": [
-            "https://www.nbcnews.com/tech/tech-news/kickstarter-workers-vote-form-first-union-tech-industry-n1138006, https://www.nytimes.com/2020/02/18/technology/kickstarter-union.html"
+            "https://www.nbcnews.com/tech/tech-news/kickstarter-workers-vote-form-first-union-tech-industry-n1138006",
+            "https://www.nytimes.com/2020/02/18/technology/kickstarter-union.html"
         ],
         "actions": [
             "union representation"
@@ -9100,7 +9266,8 @@
         "id": 233,
         "date": "2020/02/20",
         "sources": [
-            "https://www.marketwatch.com/story/hundreds-of-oracle-workers-stage-walkout-to-protest-larry-ellisons-fundraiser-for-trump-2020-02-20, https://www.marketwatch.com/story/hundreds-of-oracle-workers-stage-walkout-to-protest-larry-ellisons-fundraiser-for-trump-2020-02-20"
+            "https://www.marketwatch.com/story/hundreds-of-oracle-workers-stage-walkout-to-protest-larry-ellisons-fundraiser-for-trump-2020-02-20",
+            "https://www.marketwatch.com/story/hundreds-of-oracle-workers-stage-walkout-to-protest-larry-ellisons-fundraiser-for-trump-2020-02-20"
         ],
         "actions": [
             "strike",
@@ -9140,7 +9307,8 @@
         "id": 234,
         "date": "2020/02/29",
         "sources": [
-            "https://www.buzzfeednews.com/article/carolineodonovan/warehouse-workers-say-they-caught-amazon-breaking-the-law, https://www.coworker.org/petitions/amazon-give-us-fair-compensation-a-fair-workplace-and-fair-accommodations?just_launched=true"
+            "https://www.buzzfeednews.com/article/carolineodonovan/warehouse-workers-say-they-caught-amazon-breaking-the-law",
+            "https://www.coworker.org/petitions/amazon-give-us-fair-compensation-a-fair-workplace-and-fair-accommodations?just_launched=true"
         ],
         "actions": [
             "open letter"
@@ -9192,7 +9360,9 @@
         "id": 235,
         "date": "2020/03/06",
         "sources": [
-            "https://fortune.com/2020/03/10/gig-workers-petition-for-sick-leave-coronavirus/, https://www.coworker.org/petitions/demand-gig-economy-companies-give-paid-sick-time-off-during-coronavirus, https://www.fastcompany.com/90472535/coronavirus-paid-sick-leave"
+            "https://fortune.com/2020/03/10/gig-workers-petition-for-sick-leave-coronavirus/",
+            "https://www.coworker.org/petitions/demand-gig-economy-companies-give-paid-sick-time-off-during-coronavirus",
+            "https://www.fastcompany.com/90472535/coronavirus-paid-sick-leave"
         ],
         "actions": [
             "open letter"
@@ -9246,7 +9416,8 @@
         "id": 236,
         "date": "2020/03/12",
         "sources": [
-            "https://www.vice.com/en_us/article/n7jkdx/baristas-at-slack-say-theyve-won-90-days-of-severance, https://www.theverge.com/2020/3/12/21177319/slack-paying-contractors-after-laid-off-baristas-send-letter"
+            "https://www.vice.com/en_us/article/n7jkdx/baristas-at-slack-say-theyve-won-90-days-of-severance",
+            "https://www.theverge.com/2020/3/12/21177319/slack-paying-contractors-after-laid-off-baristas-send-letter"
         ],
         "actions": [
             "open letter",
@@ -9290,7 +9461,8 @@
         "id": 237,
         "date": "2020/03/13",
         "sources": [
-            "https://techcrunch.com/2020/03/13/online-code-collaboration-tool-glitch-votes-to-unionize/, https://cwa-union.org/news/releases/tech-workers-app-developer-glitch-vote-form-union-and-join-cwa-organizing-initiative"
+            "https://techcrunch.com/2020/03/13/online-code-collaboration-tool-glitch-votes-to-unionize/",
+            "https://cwa-union.org/news/releases/tech-workers-app-developer-glitch-vote-form-union-and-join-cwa-organizing-initiative"
         ],
         "actions": [
             "union representation"
@@ -9322,7 +9494,8 @@
         "id": 238,
         "date": "2020/03/17",
         "sources": [
-            "https://www.theverge.com/2020/3/17/21184495/google-employees-memo-contract-workers-coronavirus-covid-19, https://www.businessinsider.com/google-workers-raise-internal-concerns-tvc-policies-for-covid-19-2020-3"
+            "https://www.theverge.com/2020/3/17/21184495/google-employees-memo-contract-workers-coronavirus-covid-19",
+            "https://www.businessinsider.com/google-workers-raise-internal-concerns-tvc-policies-for-covid-19-2020-3"
         ],
         "actions": [
             "protest"
@@ -9357,7 +9530,8 @@
         "id": 239,
         "date": "2020/03/17",
         "sources": [
-            "https://www.theverge.com/2020/3/17/21184495/google-employees-memo-contract-workers-coronavirus-covid-19, https://www.businessinsider.com/google-workers-raise-internal-concerns-tvc-policies-for-covid-19-2020-3"
+            "https://www.theverge.com/2020/3/17/21184495/google-employees-memo-contract-workers-coronavirus-covid-19",
+            "https://www.businessinsider.com/google-workers-raise-internal-concerns-tvc-policies-for-covid-19-2020-3"
         ],
         "actions": [
             "open letter"
@@ -9399,7 +9573,8 @@
         "id": 240,
         "date": "2020/03/17",
         "sources": [
-            "https://medium.com/@amazonemployeesclimatejustice/coronavirus-amazon-log-cfdc9a6f4437, https://medium.com/@amazoniansunitednyc/we-amazon-workers-demand-coronavirus-protections-16f28ad8b15f"
+            "https://medium.com/@amazonemployeesclimatejustice/coronavirus-amazon-log-cfdc9a6f4437",
+            "https://medium.com/@amazoniansunitednyc/we-amazon-workers-demand-coronavirus-protections-16f28ad8b15f"
         ],
         "actions": [
             "open letter"
@@ -9441,7 +9616,9 @@
         "id": 241,
         "date": "2020/03/17",
         "sources": [
-            "https://medium.com/@amazoniansunitednyc/we-amazon-workers-demand-coronavirus-protections-16f28ad8b15f, https://www.cnbc.com/2020/03/19/amazon-warehouse-worker-in-new-york-tests-positive-for-the-coronavirus.html, https://www.theatlantic.com/health/archive/2020/03/amazon-warehouse-employee-has-coronavirus/608341/"
+            "https://medium.com/@amazoniansunitednyc/we-amazon-workers-demand-coronavirus-protections-16f28ad8b15f",
+            "https://www.cnbc.com/2020/03/19/amazon-warehouse-worker-in-new-york-tests-positive-for-the-coronavirus.html",
+            "https://www.theatlantic.com/health/archive/2020/03/amazon-warehouse-employee-has-coronavirus/608341/"
         ],
         "actions": [
             "open letter"
@@ -9532,7 +9709,8 @@
         "id": 273,
         "date": "2020/03/18",
         "sources": [
-            "https://www.nytimes.com/2020/05/14/technology/amazon-unions-france-coronavirus.html, https://www.reuters.com/article/us-health-coronavirus-france-amazon-idUSKBN2152MP"
+            "https://www.nytimes.com/2020/05/14/technology/amazon-unions-france-coronavirus.html",
+            "https://www.reuters.com/article/us-health-coronavirus-france-amazon-idUSKBN2152MP"
         ],
         "actions": [
             "strike"
@@ -9573,7 +9751,8 @@
         "id": 243,
         "date": "2020/03/19",
         "sources": [
-            "https://www.businessinsider.com/ice-mijente-microsoft-coronavirus-crisis-2020-3, https://github.com/msworkers/against.ice"
+            "https://www.businessinsider.com/ice-mijente-microsoft-coronavirus-crisis-2020-3",
+            "https://github.com/msworkers/against.ice"
         ],
         "actions": [
             "open letter"
@@ -9616,7 +9795,9 @@
         "id": 295,
         "date": "2020/03/19",
         "sources": [
-            "https://technode.com/2020/04/29/there-are-no-food-delivery-winners/,\nhttps://technode.com/2019/02/25/meituan-deliveryman-strike/,\nhttps://maps.clb.org.hk/?i18n_language=en_US&map=1&startDate=2019-02&endDate=2019-02&eventId=2020010622223453021"
+            "https://technode.com/2020/04/29/there-are-no-food-delivery-winners/",
+            "https://technode.com/2019/02/25/meituan-deliveryman-strike/",
+            "https://maps.clb.org.hk/?i18n_language=en_US&map=1&startDate=2019-02&endDate=2019-02&eventId=2020010622223453021"
         ],
         "actions": [
             "strike"
@@ -9649,7 +9830,9 @@
         "id": 244,
         "date": "2020/03/19",
         "sources": [
-            "https://www.cnet.com/news/uber-lyft-drivers-demand-companies-do-more-to-protect-them-from-coronavirus/, https://www.sacbee.com/news/politics-government/capitol-alert/article241304131.html, https://www.forbes.com/sites/janetwburns/2020/03/19/drivers-protest-outside-uber-hq-for-covid-19-sick-leave-and-pay-under-california-law-ab5/#1d4e6af48f7a"
+            "https://www.cnet.com/news/uber-lyft-drivers-demand-companies-do-more-to-protect-them-from-coronavirus/",
+            "https://www.sacbee.com/news/politics-government/capitol-alert/article241304131.html",
+            "https://www.forbes.com/sites/janetwburns/2020/03/19/drivers-protest-outside-uber-hq-for-covid-19-sick-leave-and-pay-under-california-law-ab5/#1d4e6af48f7a"
         ],
         "actions": [
             "open letter"
@@ -9708,7 +9891,8 @@
         "id": 245,
         "date": "2020/03/19",
         "sources": [
-            "https://www.forbes.com/sites/janetwburns/2020/03/19/drivers-protest-outside-uber-hq-for-covid-19-sick-leave-and-pay-under-california-law-ab5/#3b5daa808f7a, https://twitter.com/veenadubal/status/1240410264119283712"
+            "https://www.forbes.com/sites/janetwburns/2020/03/19/drivers-protest-outside-uber-hq-for-covid-19-sick-leave-and-pay-under-california-law-ab5/#3b5daa808f7a",
+            "https://twitter.com/veenadubal/status/1240410264119283712"
         ],
         "actions": [
             "strike",
@@ -9796,7 +9980,8 @@
         "id": 247,
         "date": "2020/03/22",
         "sources": [
-            "https://www.cnbc.com/2020/03/23/amazon-gives-part-time-warehouse-workers-paid-leave-amid-coronavirus.html, https://medium.com/@dch1united/amazonians-united-wins-pto-for-all-amazon-workers-f17e6ffbb192"
+            "https://www.cnbc.com/2020/03/23/amazon-gives-part-time-warehouse-workers-paid-leave-amid-coronavirus.html",
+            "https://medium.com/@dch1united/amazonians-united-wins-pto-for-all-amazon-workers-f17e6ffbb192"
         ],
         "actions": [
             "open letter",
@@ -9839,7 +10024,9 @@
         "id": 248,
         "date": "2020/03/30",
         "sources": [
-            "https://www.cnn.com/2020/03/29/tech/amazon-workers-walkout-coronavirus/index.html, https://nypost.com/2020/03/30/coronavirus-in-ny-amazons-staten-island-employees-strike-over-response/, https://www.vice.com/en_us/article/4age5j/amazon-workers-in-new-york-are-striking-for-the-second-week-in-a-row-as-coronavirus-cases-pile-up"
+            "https://www.cnn.com/2020/03/29/tech/amazon-workers-walkout-coronavirus/index.html",
+            "https://nypost.com/2020/03/30/coronavirus-in-ny-amazons-staten-island-employees-strike-over-response/",
+            "https://www.vice.com/en_us/article/4age5j/amazon-workers-in-new-york-are-striking-for-the-second-week-in-a-row-as-coronavirus-cases-pile-up"
         ],
         "actions": [
             "strike",
@@ -9882,7 +10069,10 @@
         "id": 249,
         "date": "2020/03/30",
         "sources": [
-            "https://www.vox.com/recode/2020/3/30/21200495/instacart-strike-coronavirus-covid-19-working-conditions-amazon-whole-foods-gig-economy, https://www.washingtonpost.com/technology/2020/03/27/instacart-strike-worker-coronavirus/, https://www.cnbc.com/2020/04/02/coronavirus-instacart-is-giving-its-shoppers-health-and-safety-kids.html, https://medium.com/@gigworkerscollective/instacart-emergency-walk-off-ebdf11b6995a"
+            "https://www.vox.com/recode/2020/3/30/21200495/instacart-strike-coronavirus-covid-19-working-conditions-amazon-whole-foods-gig-economy",
+            "https://www.washingtonpost.com/technology/2020/03/27/instacart-strike-worker-coronavirus/",
+            "https://www.cnbc.com/2020/04/02/coronavirus-instacart-is-giving-its-shoppers-health-and-safety-kids.html",
+            "https://medium.com/@gigworkerscollective/instacart-emergency-walk-off-ebdf11b6995a"
         ],
         "actions": [
             "strike"
@@ -9959,7 +10149,8 @@
         "id": 251,
         "date": "2020/03/31",
         "sources": [
-            "https://www.cnbc.com/2020/03/31/grocery-and-delivery-workers-demand-more-coronavirus-protection-say-pay-isnt-enough.html, https://www.coworker.org/petitions/global-retail-worker-sick-out"
+            "https://www.cnbc.com/2020/03/31/grocery-and-delivery-workers-demand-more-coronavirus-protection-say-pay-isnt-enough.html",
+            "https://www.coworker.org/petitions/global-retail-worker-sick-out"
         ],
         "actions": [
             "strike",
@@ -10044,7 +10235,8 @@
         "id": 252,
         "date": "2020/04/04",
         "sources": [
-            "https://www.commondreams.org/news/2020/04/04/despite-threats-management-amazon-warehouse-workers-chicago-strike-demand-better, https://patch.com/illinois/chicago/cars-picket-amazon-workers-striking-coronavirus-safety"
+            "https://www.commondreams.org/news/2020/04/04/despite-threats-management-amazon-warehouse-workers-chicago-strike-demand-better",
+            "https://patch.com/illinois/chicago/cars-picket-amazon-workers-striking-coronavirus-safety"
         ],
         "actions": [
             "protest",
@@ -10087,7 +10279,9 @@
         "id": 253,
         "date": "2020/04/06",
         "sources": [
-            "https://www.vice.com/en_us/article/4age5j/amazon-workers-in-new-york-are-striking-for-the-second-week-in-a-row-as-coronavirus-cases-pile-up, https://nypost.com/2020/04/06/amazon-faces-another-staten-island-warehouse-strike/, https://finance.yahoo.com/news/amazon-warehouse-workers-second-walkout-one-week-over-coronavirus-fears-195814468.html"
+            "https://www.vice.com/en_us/article/4age5j/amazon-workers-in-new-york-are-striking-for-the-second-week-in-a-row-as-coronavirus-cases-pile-up",
+            "https://nypost.com/2020/04/06/amazon-faces-another-staten-island-warehouse-strike/",
+            "https://finance.yahoo.com/news/amazon-warehouse-workers-second-walkout-one-week-over-coronavirus-fears-195814468.html"
         ],
         "actions": [
             "protest"
@@ -10170,7 +10364,8 @@
         "id": 254,
         "date": "2020/04/10",
         "sources": [
-            "https://www.peoplesworld.org/article/more-people-will-die-uber-and-lyft-drivers-demand-companies-protect-workers/, https://mobilealliance.org/wp-content/uploads/2020/04/MWA-Letter-to-Feuer-Apr-10-2020.pdf"
+            "https://www.peoplesworld.org/article/more-people-will-die-uber-and-lyft-drivers-demand-companies-protect-workers/",
+            "https://mobilealliance.org/wp-content/uploads/2020/04/MWA-Letter-to-Feuer-Apr-10-2020.pdf"
         ],
         "actions": [
             "open letter"
@@ -10205,7 +10400,10 @@
         "id": 255,
         "date": "2020/04/13",
         "sources": [
-            "https://gizmodo.com/tech-workers-speak-out-in-support-of-amazon-warehouse-s-1842839301, https://chuffed.org/project/help-amazon-warehouse-workers-exposed-to-covid-19, https://www.givedirectly.org/covid-19/us/, https://twitter.com/techspeaksout"
+            "https://gizmodo.com/tech-workers-speak-out-in-support-of-amazon-warehouse-s-1842839301",
+            "https://chuffed.org/project/help-amazon-warehouse-workers-exposed-to-covid-19",
+            "https://www.givedirectly.org/covid-19/us/",
+            "https://twitter.com/techspeaksout"
         ],
         "actions": [
             "protest"
@@ -10240,7 +10438,8 @@
         "id": 294,
         "date": "2020/04/17",
         "sources": [
-            "https://www.wsws.org/en/articles/2020/04/25/braz-a25.html, https://www.wsws.org/en/articles/2020/04/20/spai-a20.html"
+            "https://www.wsws.org/en/articles/2020/04/25/braz-a25.html",
+            "https://www.wsws.org/en/articles/2020/04/20/spai-a20.html"
         ],
         "actions": [
             "strike",
@@ -10310,7 +10509,8 @@
         "id": 256,
         "date": "2020/04/20",
         "sources": [
-            "https://www.theguardian.com/world/2020/apr/20/coronavirus-digital-contact-tracing-will-fail-unless-privacy-is-respected-experts-warn, https://techcrunch.com/2020/04/20/academics-contact-tracing/"
+            "https://www.theguardian.com/world/2020/apr/20/coronavirus-digital-contact-tracing-will-fail-unless-privacy-is-respected-experts-warn",
+            "https://techcrunch.com/2020/04/20/academics-contact-tracing/"
         ],
         "actions": [
             "open letter"
@@ -10344,7 +10544,10 @@
         "id": 257,
         "date": "2020/04/21",
         "sources": [
-            "https://www.vice.com/amp/en_us/article/jge77g/hundreds-of-amazon-workers-are-not-going-to-work-in-nationwide-protest, https://thehill.com/policy/technology/493772-hundreds-of-amazon-workers-to-walk-off-starting-tuesday, https://nypost.com/2020/04/21/300-amazon-employees-refuse-to-work-amid-coronavirus-safety-worries/, https://www.wired.com/story/amazon-sick-out-tech-warehouse-workers-protest/"
+            "https://www.vice.com/amp/en_us/article/jge77g/hundreds-of-amazon-workers-are-not-going-to-work-in-nationwide-protest",
+            "https://thehill.com/policy/technology/493772-hundreds-of-amazon-workers-to-walk-off-starting-tuesday",
+            "https://nypost.com/2020/04/21/300-amazon-employees-refuse-to-work-amid-coronavirus-safety-worries/",
+            "https://www.wired.com/story/amazon-sick-out-tech-warehouse-workers-protest/"
         ],
         "actions": [
             "strike"
@@ -10385,7 +10588,8 @@
         "id": 258,
         "date": "2020/04/24",
         "sources": [
-            "https://amp.ft.com/content/d0698260-c02b-4abe-912a-fa0066e294c2, https://dnyuz.com/2020/04/24/huawei-employees-sue-company-after-police-detention/"
+            "https://amp.ft.com/content/d0698260-c02b-4abe-912a-fa0066e294c2",
+            "https://dnyuz.com/2020/04/24/huawei-employees-sue-company-after-police-detention/"
         ],
         "actions": [
             "legal action"
@@ -10426,7 +10630,8 @@
         "id": 259,
         "date": "2020/04/26",
         "sources": [
-            "https://www.vice.com/en_us/article/n7jaaq/amazon-reinstates-fired-warehouse-worker-after-employees-strike, https://twitter.com/AwoodMpls/status/1254449858343251970?s=19"
+            "https://www.vice.com/en_us/article/n7jaaq/amazon-reinstates-fired-warehouse-worker-after-employees-strike",
+            "https://twitter.com/AwoodMpls/status/1254449858343251970?s=19"
         ],
         "actions": [
             "strike"
@@ -10467,7 +10672,8 @@
         "id": 275,
         "date": "2020/04/30",
         "sources": [
-            "https://www.transnational-strike.info/2020/05/03/addressing-the-pandemic-at-amazon-open-letter-to-jeff-bezos-and-stefano-perego/, http://inthesetimes.com/working/entry/22501/amazon-europe-united-states-international-labor-organizing-workers-bezos"
+            "https://www.transnational-strike.info/2020/05/03/addressing-the-pandemic-at-amazon-open-letter-to-jeff-bezos-and-stefano-perego/",
+            "http://inthesetimes.com/working/entry/22501/amazon-europe-united-states-international-labor-organizing-workers-bezos"
         ],
         "actions": [
             "open letter"
@@ -10500,7 +10706,9 @@
         "id": 260,
         "date": "2020/05/01",
         "sources": [
-            "https://www.vice.com/en_ca/article/gy4qew/foodora-couriers-want-to-be-among-first-gig-economy-workers-to-unionize-in-canada, https://www.globenewswire.com/news-release/2020/04/27/2022709/0/en/foodora-Canada-announces-plans-to-close-business-while-assuring-support-for-employees.html, https://www.thestar.com/business/2020/04/29/foodora-declares-bankruptcy-in-canada-leaving-47-million-in-debt.html"
+            "https://www.vice.com/en_ca/article/gy4qew/foodora-couriers-want-to-be-among-first-gig-economy-workers-to-unionize-in-canada",
+            "https://www.globenewswire.com/news-release/2020/04/27/2022709/0/en/foodora-Canada-announces-plans-to-close-business-while-assuring-support-for-employees.html",
+            "https://www.thestar.com/business/2020/04/29/foodora-declares-bankruptcy-in-canada-leaving-47-million-in-debt.html"
         ],
         "actions": [
             "union drive"
@@ -10534,7 +10742,8 @@
         "id": 261,
         "date": "2020/05/01",
         "sources": [
-            "https://www.washingtonpost.com/technology/2020/05/01/amazon-instacart-workers-strike/, https://www.wired.com/story/amazon-instacart-target-coronavirus-may-day-strike/"
+            "https://www.washingtonpost.com/technology/2020/05/01/amazon-instacart-workers-strike/",
+            "https://www.wired.com/story/amazon-instacart-target-coronavirus-may-day-strike/"
         ],
         "actions": [
             "protest",
@@ -10586,7 +10795,8 @@
         "id": 276,
         "date": "2020/05/05",
         "sources": [
-            "https://www.nbcnews.com/tech/tech-news/amazon-sued-nyc-workers-seeking-coronavirus-protection-not-money-n1223871, https://www.oregonlive.com/business/2020/05/amazon-sued-by-salem-warehouse-worker-over-coronavirus-response.html"
+            "https://www.nbcnews.com/tech/tech-news/amazon-sued-nyc-workers-seeking-coronavirus-protection-not-money-n1223871",
+            "https://www.oregonlive.com/business/2020/05/amazon-sued-by-salem-warehouse-worker-over-coronavirus-response.html"
         ],
         "actions": [
             "legal action"
@@ -10719,7 +10929,9 @@
         "id": 263,
         "date": "2020/05/11",
         "sources": [
-            "https://www.wedriveprogress.org/caravan, https://www.vice.com/en_us/article/g5ppqq/uber-and-lyft-drivers-organize-caravan-outside-uber-hq, https://techcrunch.com/2020/05/11/rideshare-drivers-stage-caravan-protest-over-ubers-labor-practices/"
+            "https://www.wedriveprogress.org/caravan",
+            "https://www.vice.com/en_us/article/g5ppqq/uber-and-lyft-drivers-organize-caravan-outside-uber-hq",
+            "https://techcrunch.com/2020/05/11/rideshare-drivers-stage-caravan-protest-over-ubers-labor-practices/"
         ],
         "actions": [
             "protest"
@@ -10792,7 +11004,8 @@
         "id": 264,
         "date": "2020/05/28",
         "sources": [
-            "https://www.latimes.com/business/technology/story/2020-05-28/amazon-whole-foods-workers-track-coronavirus-cases, https://www.theguardian.com/world/2020/may/06/tracking-tool-allows-amazon-workers-to-report-covid-19-cases"
+            "https://www.latimes.com/business/technology/story/2020-05-28/amazon-whole-foods-workers-track-coronavirus-cases",
+            "https://www.theguardian.com/world/2020/may/06/tracking-tool-allows-amazon-workers-to-report-covid-19-cases"
         ],
         "actions": [
             "protest"
@@ -10833,7 +11046,8 @@
         "id": 265,
         "date": "2020/06/01",
         "sources": [
-            "https://www.nytimes.com/2020/06/01/technology/facebook-employee-protest-trump.html, https://www.washingtonpost.com/business/2020/06/01/facebook-zuckerberg-donation-trump/"
+            "https://www.nytimes.com/2020/06/01/technology/facebook-employee-protest-trump.html",
+            "https://www.washingtonpost.com/business/2020/06/01/facebook-zuckerberg-donation-trump/"
         ],
         "actions": [
             "protest"
@@ -10971,7 +11185,8 @@
         "id": 266,
         "date": "2020/06/08",
         "sources": [
-            "https://onezero.medium.com/250-microsoft-employees-call-on-ceo-to-cancel-police-contracts-and-support-defunding-seattle-pd-e89fa5d9e843, https://finance.yahoo.com/news/microsoft-employees-petition-seattle-police-contracts-161102239.html"
+            "https://onezero.medium.com/250-microsoft-employees-call-on-ceo-to-cancel-police-contracts-and-support-defunding-seattle-pd-e89fa5d9e843",
+            "https://finance.yahoo.com/news/microsoft-employees-petition-seattle-police-contracts-161102239.html"
         ],
         "actions": [
             "open letter"
@@ -11083,7 +11298,7 @@
         "id": 285,
         "date": "2020/06/15",
         "sources": [
-            "https://medium.com/@macprac/open-letter-the-mit-college-of-computing-must-address-systemic-racism-b8c63ccc3d36\n"
+            "https://medium.com/@macprac/open-letter-the-mit-college-of-computing-must-address-systemic-racism-b8c63ccc3d36"
         ],
         "actions": [
             "open letter"
@@ -11161,7 +11376,9 @@
         "id": 279,
         "date": "2020/06/22",
         "sources": [
-            "https://www.theverge.com/2020/6/22/21299736/google-employees-cut-ties-police-law-enforcement-black-lives-matter, https://gizmodo.com/1-600-googlers-call-for-an-end-to-all-contracts-with-c-1844124793?rev=1592864623516, https://www.businessinsider.com/googlers-send-letter-ceo-sundar-pichai-stop-working-with-police-2020-6"
+            "https://www.theverge.com/2020/6/22/21299736/google-employees-cut-ties-police-law-enforcement-black-lives-matter",
+            "https://gizmodo.com/1-600-googlers-call-for-an-end-to-all-contracts-with-c-1844124793?rev=1592864623516",
+            "https://www.businessinsider.com/googlers-send-letter-ceo-sundar-pichai-stop-working-with-police-2020-6"
         ],
         "actions": [
             "open letter"
@@ -11228,7 +11445,9 @@
         "id": 291,
         "date": "2020/06/23",
         "sources": [
-            "https://www.npr.org/2020/06/23/881624553/pinterest-sounds-a-more-contrite-tone-after-black-former-employees-speak-out, https://twitter.com/IfeomaOzoma/status/1272546213322080258, https://twitter.com/erikashimizu/status/1272547227177713664"
+            "https://www.npr.org/2020/06/23/881624553/pinterest-sounds-a-more-contrite-tone-after-black-former-employees-speak-out",
+            "https://twitter.com/IfeomaOzoma/status/1272546213322080258",
+            "https://twitter.com/erikashimizu/status/1272547227177713664"
         ],
         "actions": [
             "open letter"
@@ -11271,7 +11490,8 @@
         "id": 292,
         "date": "2020/07/01",
         "sources": [
-            "https://www.wsws.org/en/articles/2020/07/04/braz-j04.html, https://www.facebook.com/watch/?v=367281267582648"
+            "https://www.wsws.org/en/articles/2020/07/04/braz-j04.html",
+            "https://www.facebook.com/watch/?v=367281267582648"
         ],
         "actions": [
             "protest",
@@ -11355,7 +11575,9 @@
         "id": 306,
         "date": "2020/07/15",
         "sources": [
-            "https://www.vice.com/en_us/article/v7gzd8/targets-gig-workers-will-strike-to-protest-switch-to-algorithmic-pay-model, https://www.marketwatch.com/story/target-owned-shipt-workers-strike-over-new-algorithm-based-compensation-that-they-say-will-lower-their-pay-11594842478, https://medium.com/@shiptshopper/shipt-walkoff-july-15th-dab1ee2c2571"
+            "https://www.vice.com/en_us/article/v7gzd8/targets-gig-workers-will-strike-to-protest-switch-to-algorithmic-pay-model",
+            "https://www.marketwatch.com/story/target-owned-shipt-workers-strike-over-new-algorithm-based-compensation-that-they-say-will-lower-their-pay-11594842478",
+            "https://medium.com/@shiptshopper/shipt-walkoff-july-15th-dab1ee2c2571"
         ],
         "actions": [
             "protest",
@@ -11469,7 +11691,8 @@
         "id": 308,
         "date": "2020/07/20",
         "sources": [
-            "https://www.vice.com/en_us/article/qj4zxx/amazon-google-and-lyft-workers-tell-us-why-theyre-striking-for-black-lives-matter, https://www.washingtonpost.com/business/2020/07/20/strike-for-black-lives/"
+            "https://www.vice.com/en_us/article/qj4zxx/amazon-google-and-lyft-workers-tell-us-why-theyre-striking-for-black-lives-matter",
+            "https://www.washingtonpost.com/business/2020/07/20/strike-for-black-lives/"
         ],
         "actions": [
             "protest",
@@ -11613,7 +11836,9 @@
         "id": 302,
         "date": "2020/08/09",
         "sources": [
-            "https://www.news.com.au/finance/work/at-work/fired-amazon-workers-stage-protest-outside-jeff-bezos-mansion/news-story/e5d5dcaa060c59496d09b96c094982bd, https://www.msn.com/en-us/news/technology/protest-held-in-front-of-jeff-bezos-penthouse-in-new-york/vi-BB17Nfe9, https://twitter.com/mollycrabapple/status/1292565661517062150"
+            "https://www.news.com.au/finance/work/at-work/fired-amazon-workers-stage-protest-outside-jeff-bezos-mansion/news-story/e5d5dcaa060c59496d09b96c094982bd",
+            "https://www.msn.com/en-us/news/technology/protest-held-in-front-of-jeff-bezos-penthouse-in-new-york/vi-BB17Nfe9",
+            "https://twitter.com/mollycrabapple/status/1292565661517062150"
         ],
         "actions": [
             "protest"
@@ -11656,7 +11881,10 @@
         "id": 309,
         "date": "2020/08/13",
         "sources": [
-            "https://www.cnbc.com/2020/08/13/german-digital-bank-n26-faces-outcry-from-staff-over-management.html, https://www.finextra.com/newsarticle/36392/n26-faces-off-with-employees-over-works-council, https://www.fintechfutures.com/2020/08/n26-founders-obtain-injunction-against-works-council/, https://twitter.com/worker291/status/1293830980172689410"
+            "https://www.cnbc.com/2020/08/13/german-digital-bank-n26-faces-outcry-from-staff-over-management.html",
+            "https://www.finextra.com/newsarticle/36392/n26-faces-off-with-employees-over-works-council",
+            "https://www.fintechfutures.com/2020/08/n26-founders-obtain-injunction-against-works-council/",
+            "https://twitter.com/worker291/status/1293830980172689410"
         ],
         "actions": [
             "union representation",

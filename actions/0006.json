@@ -2,7 +2,9 @@
     "id": 7,
     "date": "1999/10/01",
     "sources": [
-        "https://www.computerworld.com/article/3019552/ibm-union-calls-it-quits.html, https://www.nytimes.com/1985/07/17/us/union-plans-drive-to-organize-ibm.html?rref=collection%2ftimestopic%2fcommunications%20workers%20of%20america, https://cwa-union.org/news/entry/ibm_employees_and_cwa_launch_allianceibm"
+        "https://www.computerworld.com/article/3019552/ibm-union-calls-it-quits.html",
+        "https://www.nytimes.com/1985/07/17/us/union-plans-drive-to-organize-ibm.html?rref=collection%2ftimestopic%2fcommunications%20workers%20of%20america",
+        "https://cwa-union.org/news/entry/ibm_employees_and_cwa_launch_allianceibm"
     ],
     "actions": [
         "union drive"
