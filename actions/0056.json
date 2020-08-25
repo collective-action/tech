@@ -2,16 +2,17 @@
     "id": 57,
     "date": "2016/05/10",
     "sources": [
-        "https://www.nytimes.com/2016/05/11/technology/uber-agrees-to-union-deal-in-new-york.html, https://www.wired.com/2017/05/how-drivers-are-finally-outfoxing-uber/"
+        "https://www.nytimes.com/2016/05/11/technology/uber-agrees-to-union-deal-in-new-york.html",
+        "https://www.wired.com/2017/05/how-drivers-are-finally-outfoxing-uber/"
     ],
     "actions": [
-        "union_representation"
+        "union representation"
     ],
     "struggles": [
-        "pay_and_benefits"
+        "pay and benefits"
     ],
     "employment_types": [
-        "gig_workers"
+        "gig workers"
     ],
     "description": "Uber recognizes an association of drivers, the Independent Drivers Guild, which is affiliated with the International Association of Machinists and Aerospace Workers. The organization represents approximately 35,000 drivers in the New York City area and provides access to discounted insurance, legal services, and roadside assistance. The group has been promised monthly meetings with management but at the expense of agreeing not the formally unionize for the next five years.",
     "online": null,
@@ -35,6 +36,6 @@
         ]
     ],
     "addresses": [
-        "Yachthafen(Blick \u00fcber New Yersey), Riverside Walk, Upper West Side, Manhattan, Manhattan Community Board 7, New York County, New York, 10069, United States of America"
+        "Yachthafen(Blick \u00fcber New Yersey), Riverside Walk, Upper West Side, New York County, Manhattan Community Board 7, New York, 10069, United States of America"
     ]
 }

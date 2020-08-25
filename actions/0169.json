@@ -2,7 +2,9 @@
     "id": 169,
     "date": "2019/08/12",
     "sources": [
-        "https://www.theverge.com/2019/8/12/20802893/whole-foods-employees-amazon-ice-protest-palantir-facial-recognition, https://thehill.com/policy/technology/457154-whole-foods-workers-denounce-amazon-ties-to-ice, https://docs.google.com/document/u/1/d/1v-ukklbicbgy-tckpkwy9dj_izdwu93g_frsr6yzv3m/mobilebasic"
+        "https://www.theverge.com/2019/8/12/20802893/whole-foods-employees-amazon-ice-protest-palantir-facial-recognition",
+        "https://thehill.com/policy/technology/457154-whole-foods-workers-denounce-amazon-ties-to-ice",
+        "https://docs.google.com/document/u/1/d/1v-ukklbicbgy-tckpkwy9dj_izdwu93g_frsr6yzv3m/mobilebasic"
     ],
     "actions": [
         "protest"
@@ -11,7 +13,7 @@
         "ethics"
     ],
     "employment_types": [
-        "blue_collar_workers"
+        "blue collar workers"
     ],
     "description": "A group of anonymous Whole Foods workers denounced their parent company Amazon's ties to Immigration and Customs Enforcement (ICE) in an open letter. The letter from Whole Foods workers is the latest push from within Amazon, where workers have been protesting their employer's opaque relationship with ICE and the Department of Homeland Security (DHS) for more than a year. Whole Worker \u2014 the protest group of Whole Foods employees \u2014 is calling for Amazon to 'cease all business with Palantir and any other company involved in the continued oppression of marginalized groups.",
     "online": true,
@@ -20,7 +22,7 @@
     ],
     "companies": [
         "amazon",
-        "wholefoods"
+        "whole_foods"
     ],
     "workers": null,
     "tags": null,

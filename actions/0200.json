@@ -2,10 +2,11 @@
     "id": 200,
     "date": "2019/10/28",
     "sources": [
-        "https://www.nytimes.com/2019/10/28/technology/facebook-mark-zuckerberg-political-ads.html, https://www.nytimes.com/2019/10/28/technology/facebook-mark-zuckerberg-letter.html?action=click&module=relatedlinks&pgtype=article"
+        "https://www.nytimes.com/2019/10/28/technology/facebook-mark-zuckerberg-political-ads.html",
+        "https://www.nytimes.com/2019/10/28/technology/facebook-mark-zuckerberg-letter.html?action=click&module=relatedlinks&pgtype=article"
     ],
     "actions": [
-        "open_letter"
+        "open letter"
     ],
     "struggles": [
         "ethics"

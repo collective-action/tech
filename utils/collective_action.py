@@ -69,24 +69,9 @@ class CollectiveAction:
 
         assert isinstance(self.addresses, (list, float, NoneType))
 
-        # if source is str, turn it into a list
+        # cast source to comma separate list
         if isinstance(self.sources, str):
-            self.sources = [self.sources]
-
-        # make sure source is either a url or a html link tag <a>
-        for source in self.sources:
-            assert (
-                BeautifulSoup(source, "html.parser").a is not None
-                or urlparse(source).netloc is not ""
-            ), f"'{source}' is invalid. source must be a valid url or an html link tag element"
-
-        # if html, extract only href from sources
-        self.sources = [
-            BeautifulSoup(source, "html.parser").a["href"]
-            if "href" in source
-            else source
-            for source in self.sources
-        ]
+            self.sources = [x.strip() for x in self.sources.split(',')]
 
         # cast workers to int
         if isinstance(self.workers, float):

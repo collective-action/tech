@@ -2,7 +2,9 @@
     "id": 105,
     "date": "2018/11/23",
     "sources": [
-        "https://mashable.com/article/amazon-workers-black-friday-strike-europe-uk/#7mizh6l4giqk, https://www.uniglobalunion.org/news/amazon-workers-launch-wave-black-friday-strikes-and-protests, https://www.businessinsider.com/black-friday-amazon-workers-protest-poor-working-conditions-2018-11"
+        "https://mashable.com/article/amazon-workers-black-friday-strike-europe-uk/#7mizh6l4giqk",
+        "https://www.uniglobalunion.org/news/amazon-workers-launch-wave-black-friday-strikes-and-protests",
+        "https://www.businessinsider.com/black-friday-amazon-workers-protest-poor-working-conditions-2018-11"
     ],
     "actions": [
         "strike"
@@ -11,7 +13,7 @@
         "working conditions"
     ],
     "employment_types": [
-        "blue_collar_workers"
+        "blue collar workers"
     ],
     "description": "Thousands of Amazon staff members across Europe protest on Black Friday over the way the companies treats its warehouse workers. As shoppers in the U.S.A. log in to Amazon to find Black Friday deals, Amazon workers in the UK, Spain, France, Italy, and Germany are striking to protest working conditions in the company\u2019s warehouses.",
     "online": null,
@@ -44,8 +46,8 @@
             9.454322716507177
         ],
         [
-            41.4015005,
-            2.1921906095749035
+            40.4456444,
+            -3.497602995250682
         ],
         [
             51.5414364,
@@ -56,7 +58,7 @@
         "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
         "Amazon, Villem\u00e9trie, Senlis, Oise, Hauts-de-France, France m\u00e9tropolitaine, 60300, France",
         "Amazon, Cascina Sforza, Castel San Giovanni, Piacenza, Emilia-Romagna, Italia",
-        "Amazon, Carrer de Badajoz, el Parc i la Llacuna del Poblenou, Sant Mart\u00ed, Barcelona, Barcelon\u00e8s, Barcelona, Catalunya, 08001, Espa\u00f1a",
+        "Amazon, 24, Avenida de la Astronom\u00eda, El Jard\u00edn, San Fernando de Henares, \u00c1rea metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28850, Espa\u00f1a",
         "Amazon, Goldcrest Way, Central Park Distribution Park, Pilning and Severn Beach, Pilning, South Gloucestershire, South West England, England, BS35 4DJ, United Kingdom"
     ]
 }

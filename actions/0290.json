@@ -1,34 +1,39 @@
 {
-    "id": 299,
-    "date": "2020/08/01",
+    "id": 304,
+    "date": "2020/07/20",
     "sources": [
-        "https://www.vice.com/en_au/article/ep4qdz/amazon-workers-blocked-delivery-trucks-from-leaving-a-warehouse-for-hours"
+        "https://syndicom.ch/aktuell/artikel/bei-google-zuerich-bestimmen-die-zooglers-nun-mit/"
     ],
     "actions": [
-        "strike",
-        "protest"
+        "union representation"
     ],
     "struggles": [
-        "job security",
-        "unfair labor practices"
+        "working conditions"
     ],
     "employment_types": [
-        "blue collar workers",
-        "in-house workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "A caravan of protestors demanding increased pay and COVID-19 protections disrupted business at an Amazon Distribution Center in the San Francisco Bay Area. The caravan was organized by Bay Area Amazonians.",
+    "description": "Employees at Google's Zurich office voted to recognize the Syndicom union as their employee representative. Employees first reached out to Syndicom after management failed to address their concerns over \"Project Dragonfly\", a search engine that would enable the Chinese government to censor certain results. Employee representatives function as consultants and do not engage in collective bargaining. ",
     "online": null,
     "locations": [
-        "San-Leandro-California-USA"
+        "zurich-switzerland"
     ],
     "companies": [
-        "Amazon"
+        "google"
     ],
-    "workers": 30,
-    "tags": [
-        "coronavirus"
+    "workers": null,
+    "tags": null,
+    "author": [
+        "nataliyaned"
     ],
-    "author": null,
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            47.3798034,
+            8.5297304
+        ]
+    ],
+    "addresses": [
+        "Google, 100, Lagerstrasse, Langstrasse, Aussersihl, Z\u00fcrich, Bezirk Z\u00fcrich, Z\u00fcrich, 8021, Switzerland"
+    ]
 }

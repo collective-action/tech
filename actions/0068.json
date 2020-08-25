@@ -2,17 +2,18 @@
     "id": 69,
     "date": "2017/03/22",
     "sources": [
-        "https://www.siliconvalley.com/2017/03/23/at-strike-workers-go-back-to-work-after-one-day/, https://money.cnn.com/2017/03/22/news/companies/att-strike-landline-workers/index.html"
+        "https://www.siliconvalley.com/2017/03/23/at-strike-workers-go-back-to-work-after-one-day/",
+        "https://money.cnn.com/2017/03/22/news/companies/att-strike-landline-workers/index.html"
     ],
     "actions": [
         "strike"
     ],
     "struggles": [
         "working conditions",
-        "job_security"
+        "job security"
     ],
     "employment_types": [
-        "blue_collar_workers"
+        "blue collar workers"
     ],
     "description": "About 17,000 AT&T workers walked off the job Wednesday. Workers say that AT&T was forcing technicians to work outside their areas of expertise. The union also was protesting the companies's outsourcing and offshoring of jobs. AT&T wireless workers were not affected.",
     "online": null,
@@ -36,12 +37,12 @@
             -117.83605415
         ],
         [
-            39.16820185,
-            -119.76399748040197
+            39.5276588,
+            -119.862383
         ]
     ],
     "addresses": [
-        "AT&T, 1302, North Tustin Street, McPherson, Orange, Orange County, California, 92867, United States of America",
-        "At&t, East Washington Street, Carson Hot Springs, Carson City, Nevada, 89703-3814, United States of America"
+        "AT&T, 1302, North Tustin Street, Orange, California, 92867, United States of America",
+        "AT&T, North McCarran Boulevard, Reno, Washoe County, Nevada, 89523, United States of America"
     ]
 }

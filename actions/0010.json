@@ -2,14 +2,15 @@
     "id": 11,
     "date": "2004/09/29",
     "sources": [
-        "http://www.nbcnews.com/id/6134119/ns/business-us_business/t/ibm-reaches-partial-pension-settlement/, https://www.nytimes.com/2006/01/06/business/worldbusiness/06iht-ibm.html"
+        "http://www.nbcnews.com/id/6134119/ns/business-us_business/t/ibm-reaches-partial-pension-settlement/",
+        "https://www.nytimes.com/2006/01/06/business/worldbusiness/06iht-ibm.html"
     ],
     "actions": [
-        "legal_action"
+        "legal action"
     ],
     "struggles": [
         "discrimination",
-        "pay_and_benefits"
+        "pay and benefits"
     ],
     "employment_types": [
         "na"

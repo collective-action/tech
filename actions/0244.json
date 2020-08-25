@@ -2,7 +2,8 @@
     "id": 273,
     "date": "2020/03/18",
     "sources": [
-        "https://www.nytimes.com/2020/05/14/technology/amazon-unions-france-coronavirus.html, https://www.reuters.com/article/us-health-coronavirus-france-amazon-idUSKBN2152MP"
+        "https://www.nytimes.com/2020/05/14/technology/amazon-unions-france-coronavirus.html",
+        "https://www.reuters.com/article/us-health-coronavirus-france-amazon-idUSKBN2152MP"
     ],
     "actions": [
         "strike"
@@ -11,8 +12,8 @@
         "working conditions"
     ],
     "employment_types": [
-        "in_house_workers",
-        "blue_collar_workers"
+        "inhouse workers",
+        "blue collar workers"
     ],
     "description": "French Amazon employees at six warehouses protested and threatened walkouts over lax covid-19 protections, calling for the company to adhere to social distancing, provide personal protective equipment, and initiate employee temperature checks. A spokesperson for Amazon's French CFDT union estimated that between 30-40% of Amazon employees in the country were no longer showing up to work over safety concerns or because of childcare obligations. A French law requires workplaces to keep paying workers who refuse to work over safety concerns. ",
     "online": null,
