@@ -1288,7 +1288,7 @@
             ]
         ],
         "addresses": [
-            "\u8054\u60f3\u7814\u53d1\u4e2d\u5fc3, 16\u53f7, \u9ad8\u65b0\u5357\u4e00\u9053, \u5927\u51b2, \u7ca4\u6d77\u8857\u9053, \u5e7f\u4e1c\u7701, 518057, China \u4e2d\u56fd"
+            "\u8054\u60f3\u7814\u53d1\u4e2d\u5fc3, 16\u53f7, \u9ad8\u65b0\u5357\u4e00\u9053, \u5927\u51b2, \u7ca4\u6d77\u8857\u9053, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518057, China \u4e2d\u56fd"
         ]
     },
     {
@@ -2713,7 +2713,7 @@
             ]
         ],
         "addresses": [
-            "AT&T, 1302, North Tustin Street, McPherson, Orange, Orange County, California, 92867, United States of America",
+            "AT&T, 1302, North Tustin Street, Orange, California, 92867, United States of America",
             "AT&T, North McCarran Boulevard, Reno, Washoe County, Nevada, 89523, United States of America"
         ]
     },
@@ -8811,7 +8811,7 @@
             ]
         ],
         "addresses": [
-            "SPIN!, Mariner Square Loop, Jack London Square, Alameda, Alameda County, California, 94607, United States of America"
+            "SPIN!, Mariner Square Loop, Alameda, Alameda County, California, 94607, United States of America"
         ]
     },
     {
@@ -10880,8 +10880,8 @@
             ]
         ],
         "addresses": [
-            "\u4e2d\u6587\u5802, 274, \u9038\u4ed9\u8def, \u65b0\u6e2f\u8857\u9053, \u6d77\u73e0\u533a, \u65b0\u6e2f\u8857\u9053, \u5e7f\u4e1c\u7701, 510105, China \u4e2d\u56fd",
-            "\u817e\u8baf\u6ee8\u6d77\u5927\u53a6, 33\u53f7, \u7ca4\u6d77\u8857\u9053, \u5e7f\u4e1c\u7701, 518054, China \u4e2d\u56fd"
+            "\u4e2d\u6587\u5802, 274, \u9038\u4ed9\u8def, \u65b0\u6e2f\u8857\u9053, \u6d77\u73e0\u533a, \u5e7f\u5dde\u5e02, \u5e7f\u4e1c\u7701, 510105, China \u4e2d\u56fd",
+            "\u817e\u8baf\u6ee8\u6d77\u5927\u53a6, 33\u53f7, \u7ca4\u6d77\u8857\u9053, \u5357\u5c71\u533a, \u5e7f\u4e1c\u7701, 518054, China \u4e2d\u56fd"
         ]
     },
     {
@@ -11922,5 +11922,41 @@
         "addresses": [
             "Berlin, Deutschland"
         ]
+    },
+    {
+        "id": 310,
+        "date": "2020/08/14",
+        "sources": [
+            "https://www.nytimes.com/2020/08/14/technology/pinterest-walkout-equality.html",
+            "https://techcrunch.com/2020/08/14/pinterest-employees-are-walking-out-today-in-light-of-discrimination-allegations/",
+            "https://www.theverge.com/2020/8/14/21369035/pinterest-virtual-walkout-protest-discrimination-slack-blind",
+            "https://www.usatoday.com/story/money/2020/08/13/pinterest-workers-walk-out-calling-end-workplace-bias/3369999001/"
+        ],
+        "actions": [
+            "protest",
+            "open letter",
+            "strike"
+        ],
+        "struggles": [
+            "discrimination"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "Pinterest employees staged a virtual walk out by posting messages to Slack and then logging off their work accounts, to protest the racial and gender discrimination brought to light by Ifeoma Ozoma and Aerica Shimizu Banks, and then again by Francoise Brougher. Workers also signed onto an online petition to CEO Ben Silberman calling for an end to discrimination and retaliation by the company.",
+        "online": true,
+        "locations": null,
+        "companies": [
+            "pinterest"
+        ],
+        "workers": 236,
+        "tags": [
+            "antiracism",
+            "blm"
+        ],
+        "author": null,
+        "latlngs": null,
+        "addresses": null
     }
 ]

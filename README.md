@@ -20,11 +20,11 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">24/08/2020 07:19AM</td>
+    <td data-summary="timestamp">25/08/2020 08:26AM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">296</td>
+    <td data-summary="action-count">297</td>
   </tr>
  </table>
 </div>
@@ -41,6 +41,21 @@ The goal of this archive is to provide data and insights on organizing in the te
    </td>
    <td>
     link
+   </td>
+  </tr>
+  <tr author="">
+   <td>
+    2020-08-14
+   </td>
+   <td>
+    Pinterest employees staged a virtual walk out by posting messages to Slack and then logging off their work accounts, to protest the racial and gender discrimination brought to light by Ifeoma Ozoma and Aerica Shimizu Banks, and then again by Francoise Brougher. Workers also signed onto an online petition to CEO Ben Silberman calling for an end to discrimination and retaliation by the company.
+   </td>
+   <td>
+    <a href="/actions/0296.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
    </td>
   </tr>
   <tr author="Worker26">
