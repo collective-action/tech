@@ -29,18 +29,6 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            37.4440869,
-            -122.16287540411753
-        ],
-        [
-            37.44422195,
-            -122.1625195
-        ]
-    ],
-    "addresses": [
-        "Palantir, 156, University Avenue, Southgate, Palo Alto, Santa Clara County, California, 94301, United States of America",
-        "Salesforce IQ, 500, Emerson Street, University South, Palo Alto, Santa Clara County, California, 94301, United States of America"
-    ]
+    "latlngs": null,
+    "addresses": null
 }
