@@ -1463,9 +1463,9 @@
         ],
         "addresses": [
             "Google, Mountain View, Santa Clara County, California, United States of America",
-            "Apple, Monta Vista, Cupertino, Santa Clara County, California, United States of America",
+            "Apple, Cupertino, Santa Clara County, California, United States of America",
             "Intel, 12220, Scripps Summit Drive, Sabre Springs, San Diego, San Diego County, California, 92131, United States of America",
-            "Adobe, 333, Japantown, San Jose, Santa Clara County, California, United States of America"
+            "Adobe, 333, Buena Vista, San Jose, Santa Clara County, California, United States of America"
         ]
     },
     {
@@ -1826,7 +1826,7 @@
             ]
         ],
         "addresses": [
-            "Apple, Monta Vista, Cupertino, Santa Clara County, California, United States of America"
+            "Apple, Cupertino, Santa Clara County, California, United States of America"
         ]
     },
     {
@@ -1870,7 +1870,7 @@
         ],
         "addresses": [
             "Broadcom, 190, Aries Way, Sunnyvale, Santa Clara County, California, 94086, United States of America",
-            "Universal Protection Service, North 1st Street, Civic Center Plaza, Japantown, San Jose, Santa Clara County, California, 95110, United States of America"
+            "Universal Protection Service, North 1st Street, Civic Center, Japantown, San Jose, Santa Clara County, California, 95112-5005, United States of America"
         ]
     },
     {
@@ -2053,7 +2053,7 @@
             ]
         ],
         "addresses": [
-            "McAfee, Mission College Boulevard, Agnew, Santa Clara, Santa Clara County, California, 94054, United States of America"
+            "McAfee, Mission College Boulevard, Santa Clara, Santa Clara County, California, 95054-1231, United States of America"
         ]
     },
     {
@@ -2134,7 +2134,7 @@
             ]
         ],
         "addresses": [
-            "Adobe, 333, Japantown, San Jose, Santa Clara County, California, United States of America"
+            "Adobe, 333, Buena Vista, San Jose, Santa Clara County, California, United States of America"
         ]
     },
     {
@@ -2299,7 +2299,7 @@
             ]
         ],
         "addresses": [
-            "McAfee, Mission College Boulevard, Agnew, Santa Clara, Santa Clara County, California, 94054, United States of America"
+            "McAfee, Mission College Boulevard, Santa Clara, Santa Clara County, California, 95054-1231, United States of America"
         ]
     },
     {
@@ -5387,7 +5387,7 @@
         ],
         "addresses": [
             "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States of America",
-            "Accenture, 50, West San Fernando Street, Downtown Historic District, Japantown, San Jose, Santa Clara County, California, 95110, United States of America"
+            "Accenture, 50, West San Fernando Street, Downtown Historic District, Buena Vista, San Jose, Santa Clara County, California, 95110, United States of America"
         ]
     },
     {
@@ -5815,12 +5815,12 @@
         ],
         "latlngs": [
             [
-                37.41090615,
-                -122.0257084851741
+                37.40858695,
+                -122.02648926338104
             ]
         ],
         "addresses": [
-            "Google MAT3, 1220, North Mathilda Avenue, Sunnyvale, Santa Clara County, California, 94089, United States of America"
+            "Google MAT1, 1184, North Mathilda Avenue, Sunnyvale, Santa Clara County, California, 94089, United States of America"
         ]
     },
     {
