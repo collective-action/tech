@@ -1,39 +1,30 @@
 {
-    "id": 222,
-    "date": "2019/12/23",
+    "id": 220,
+    "date": "2019/12/13",
     "sources": [
-        "https://www.labornotes.org/2020/01/amazon-warehouse-workers-deliver-christmas-walkout",
-        "https://www.coworker.org/petitions/amazon-meet-with-amazonians-united-sacramento-about-paid-time-off"
+        "https://www.businessinsider.com/google-employees-flood-top-lawyer-with-emails-in-protest-2019-12",
+        "https://www.bloomberg.com/news/articles/2019-12-13/google-culture-war-escalates-as-era-of-transparency-wanes"
     ],
     "actions": [
-        "strike"
+        "protest"
     ],
     "struggles": [
         "working conditions"
     ],
     "employment_types": [
-        "blue collar workers"
+        "white collar workers"
     ],
-    "description": "One-third of the night shift at one of Amazon's Sacramento warehouse walked off the job in the wee hours of December 23. Workers went together on a break to deliver their demands to management, then clocked out. Night-shift workers delivered a petition with 4,015 signatures to management during their 2:30 a.m. break on December 23. After reading out loud their demands for a meeting with management and paid time off, 36 of the 100 night-shift workers clocked out at 2:45 a.m. and walked off the job mid-shift.",
-    "online": null,
-    "locations": [
-        "sacramento-california-usa"
-    ],
+    "description": "A group of Googlers unhappy with the company's expanding 'need to know' restrictions on internal documents have come up with a clever form of protest: A new tool that sends auto alerts to Google's top lawyer every time an employee opens a company document. The deluge of notifications was meant as a protest to what they saw as Walker\u2019s insistence on controlling the minutiae of their professional lives.",
+    "online": true,
+    "locations": null,
     "companies": [
-        "amazon"
+        "google"
     ],
-    "workers": 36,
+    "workers": null,
     "tags": null,
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            38.6767343,
-            -121.4948028
-        ]
-    ],
-    "addresses": [
-        "Amazon Avenue, Sacramento, Sacramento County, California, 95835, United States of America"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

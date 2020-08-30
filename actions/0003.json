@@ -1,9 +1,8 @@
 {
-    "id": 4,
-    "date": "1994/01/24",
+    "id": 2,
+    "date": "1986/09/16",
     "sources": [
-        "https://www.nytimes.com/1994/06/12/magazine/battle-of-the-clipper-chip.html",
-        "http://cpsr.org/prevsite/program/clipper/clipper.html/"
+        "https://www.nytimes.com/1986/09/16/science/software-seen-as-obstacle-in-developing-star-wars.html"
     ],
     "actions": [
         "open letter"
@@ -14,15 +13,26 @@
     "employment_types": [
         "white collar workers"
     ],
-    "description": "Computer Professionals for Social Responsibility (CPSR) launches an online petition in opposition to the Clipper Chip, a cryptographic device intended to provide a standard for securing private voice communication. The group expresses concern about the possibility of surveillance through decryption keys held by government agencies. The petition obtains over 50,000 signatures. An earlier physical letter, sent directly to the President, received 40 signatures from cryptography and computing experts.",
-    "online": true,
-    "locations": null,
-    "companies": null,
-    "workers": 50000,
+    "description": "Fourteen employees at AT&T sign a letter warning the U.S. military of over 10,000 possible errors in the Star Wars system.",
+    "online": null,
+    "locations": [
+        "usa"
+    ],
+    "companies": [
+        "at&t"
+    ],
+    "workers": 14,
     "tags": null,
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            45.5733162,
+            -122.5587111463347
+        ]
+    ],
+    "addresses": [
+        "AT&T, 10025, Northeast Cascades Parkway, Portland, Multnomah County, Oregon, 97220, United States of America"
+    ]
 }

@@ -1,33 +1,43 @@
 {
-    "id": 156,
-    "date": "2019/07/13",
+    "id": 154,
+    "date": "2019/07/11",
     "sources": [
-        "http://www.laizquierdadiario.com/paro-de-glovers-en-mendoza-nos-cansamos-de-la-explotacion-por-eso-hacemos-paro"
+        "https://www.theguardian.com/us-news/2019/jul/11/amazon-ice-protest-immigrant-tech",
+        "https://www.washingtonpost.com/business/2019/07/12/no-tech-ice-protesters-demand-amazon-cut-ties-with-federal-immigration-enforcement/?utm_term=.5b8cbfae4ec5"
     ],
     "actions": [
-        "strike"
+        "protest"
     ],
     "struggles": [
-        "working conditions",
-        "pay and benefits"
+        "ethics"
     ],
     "employment_types": [
-        "contract workers",
-        "gig workers"
+        "na"
     ],
-    "description": "A group of Glovo delivery drivers went on strike for one day, citing the loss of guaranteed hours without proper notice and lower pay rates than comparable cities. They also cited Glovo's failure to fulfill promises on worker conditions, including that the company failed to provide promised protective clothing for cold and rain. They gathered at Plaza Chile in Mendoza, Argentina.",
+    "description": "Hundreds of protestors, including those from the Tech Workers Coalition, demonstrated outside of the annual Amazon Web Services summit in New York, demanding the tech giant cut ties with government agencies that take part in immigrant deportations. The demonstrators, including Amazon warehouse workers, other tech employees, and immigrants outside the tech world, are calling on Amazon to cease its relationships with the US Immigration and Customs Enforcement (ICE) and the Department of Homeland Security.",
     "online": null,
     "locations": [
-        "mendoza-argentina"
+        "new york city-new york-usa"
     ],
     "companies": [
-        "glovo"
+        "amazon"
     ],
-    "workers": 5,
-    "tags": null,
+    "workers": 100,
+    "tags": [
+        "industry_solidarity",
+        "twc",
+        "mijente"
+    ],
     "author": [
-        "moates"
+        "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            40.722465,
+            -73.9977307
+        ]
+    ],
+    "addresses": [
+        "Amazon, 72, Spring Street, Manhattan, New York County, New York, 10013, United States of America"
+    ]
 }

@@ -1,29 +1,28 @@
 {
-    "id": 226,
-    "date": "2020/02/03",
+    "id": 224,
+    "date": "2020/01/13",
     "sources": [
-        "https://www.vice.com/en_ca/article/qjdvgm/instacart-workers-win-historic-union-election"
+        "https://www.vice.com/amp/en_us/article/884npb/instacart-workers-are-calling-for-a-national-boycott-of-the-grocery-delivery-app"
     ],
     "actions": [
-        "union representation"
+        "protest"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "pay and benefits"
     ],
     "employment_types": [
         "blue collar workers",
         "gig workers"
     ],
-    "description": "A group of Instacart employees in the Chicago suburb Skokie voted to unionize with the United Food and Commercial Workers Local 1546\u2014a historic win for the grocery delivery platform. The vote was 10-to-4 in favor of the union, according to workers. 'The overwhelming majority of the employees made history by becoming the first Instacart employees to win a certified union election in the United States,' UFCW Local 1546 wrote in a press statement.",
-    "online": null,
+    "description": "Many of the app's 130,000 workers claim to have seen their pay drop by more than 50 percent in 2019 alone, as the company has sought to lower costs and appease its investors. Workers are now calling for a national boycott. They\u2019re asking customers and the general public to tweet under the hashtag #DeleteInstacart on January 19, and to email Instacart CEO Apoorva Mehta on January 20, asking him to restore the 10 percent default tip\u2014which workers lost back in 2016. (The default tip sits at five percent.)",
+    "online": true,
     "locations": [
-        "chicago-illinois-usa"
+        "usa"
     ],
     "companies": [
         "instacart"
     ],
-    "workers": 10,
+    "workers": null,
     "tags": null,
     "author": [
         "organizejs"

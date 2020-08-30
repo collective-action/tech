@@ -1,38 +1,46 @@
 {
-    "id": 164,
-    "date": "2019/07/23",
+    "id": 162,
+    "date": "2019/07/19",
     "sources": [
-        "https://www.seattletimes.com/business/google-settles-age-discrimination-class-action-lawsuit-with-more-than-200-workers-for-11-million/"
+        "https://techcrunch.com/2019/07/18/uber-and-lyft-drivers-demand-better-pay-workplace-protections-and-driver-led-unions/",
+        "https://sanfrancisco.cbslocal.com/2019/07/19/uber-lyft-drivers-hq-protest-working-conditions/"
     ],
     "actions": [
-        "legal action"
+        "protest"
     ],
     "struggles": [
-        "discrimination"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
-        "white collar workers"
+        "gig workers"
     ],
-    "description": "Google settled a class action lawsuit launched by several hundred older workers who claimed they were not hired by the company on the basis of their age. The company paid out $11 million to the plaintiffs. Between 2007 to 2013, they argued, the median age in the tech industry was 41, while the median age at Google was 29.",
+    "description": "As Assembly Bill 5 makes its way through the California state legislature, Uber and Lyft drivers are voicing their demands for better pay, basic workplace protections and the right to organize through unions. Drivers chanted and cheered outside the Uber headquarters building in San Francisco as they delivered a letter demanding negotiations for better working conditions.",
     "online": null,
     "locations": [
-        "usa"
+        "san francisco-california-usa"
     ],
     "companies": [
-        "google"
+        "uber",
+        "lyft"
     ],
-    "workers": 200,
+    "workers": null,
     "tags": null,
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
     "latlngs": [
         [
-            42.3627717,
-            -71.087257
+            37.7899898,
+            -122.3999799
+        ],
+        [
+            37.7509149,
+            -122.40246883416269
         ]
     ],
     "addresses": [
-        "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+        "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "Lyft, Kansas Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States of America"
     ]
 }

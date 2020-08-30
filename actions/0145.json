@@ -1,31 +1,40 @@
 {
-    "id": 146,
-    "date": "2019/06/13",
+    "id": 144,
+    "date": "2019/06/07",
     "sources": [
-        "https://www.japantimes.co.jp/news/2019/06/13/business/corporate-business/uber-eats-labor-union/#.xqpg-ohkgzm"
+        "https://www.bloomberg.com/news/articles/2019-06-07/contract-bike-staff-say-facebook-isn-t-protecting-their-rights",
+        "https://www.shadowproof.com/2019/06/11/facebook-bikeshare-workers-organize-against-anti-union-campaign/"
     ],
     "actions": [
         "union drive"
     ],
     "struggles": [
-        "working conditions"
+        "working conditions",
+        "pay and benefits"
     ],
     "employment_types": [
-        "gig workers"
+        "contract workers"
     ],
-    "description": "Food delivery staff working in Japan for ride-hailing company Uber Technologies Inc. said Wednesday they plan to form a labor union in a bid to improve what they see as disadvantageous treatment for being classified as independent contractors rather than employees.",
+    "description": "Bikes Make Life Better (BMLB) contract staff working at Facebook started organizing with the Transport Workers Union, seeking to improve their pay and their safety. The union claims BMLB management has responded with intimidation tactics, including holding mandatory anti-union meetings in which they tell workers that they can\u2019t talk about organizing at work, and if they become unionized, they could lose their contract with Facebook and therefore their jobs.",
     "online": null,
     "locations": [
-        "tokyo-japan"
+        "menlo park-california-usa"
     ],
     "companies": [
-        "uber"
+        "facebook"
     ],
     "workers": 50,
     "tags": null,
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.484668049999996,
+            -122.1483654685629
+        ]
+    ],
+    "addresses": [
+        "Facebook, San Francisco Bay Trail, Menlo Park, San Mateo County, California, 94025-1246, United States of America"
+    ]
 }

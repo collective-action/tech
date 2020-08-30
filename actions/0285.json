@@ -1,33 +1,35 @@
 {
-    "id": 288,
-    "date": "2020/06/23",
+    "id": 286,
+    "date": "2020/06/18",
     "sources": [
-        "https://medium.com/@CoalitionForCriticalTechnology/abolish-the-techtoprisonpipeline-9b5b14366b16"
+        "https://medium.com/@catalina.brennan.gatica/sign-on-open-letter-to-gig-companies-regarding-black-lives-matter-4b48420e238d"
     ],
     "actions": [
         "open letter"
     ],
     "struggles": [
-        "ethics",
-        "discrimination"
+        "ethics"
     ],
     "employment_types": [
-        "white collar workers"
+        "gig workers"
     ],
-    "description": "Hundreds of expert researchers and practitioners across a variety of technical, scientific, and humanistic fields (including statistics, machine learning and artificial intelligence, law, sociology, history, communication studies and anthropology) sign a letter calling for a forthcoming publication entitled \u201cA Deep Neural Network Model to Predict Criminality Using Image Processing\u201d, to be rescinded from publication. The letter also urges for such research topics to not be published in the future.",
+    "description": "Gig Workers Rising organized an open letter from workers calling for economic justice from their employees, many of whom are Black and Brown, as a means of responding meaningfully to anti-racist protests. The letter calls out companies for releasing statements that \"have included various platitudes about your commitment to Racial Justice and the Black community\" without promising \"real change\". Among the demands are: (1) \"meaningful representation at work\", (2) \"benefits to take care of ourselves and our families\", (3) \"a living wage\", (4) and dropping the AB5 ballot measure. To date, the letter has received over 330 signatures.",
     "online": true,
     "locations": null,
     "companies": [
-        "springer publishing"
+        "uber",
+        "lyft",
+        "doordash",
+        "instacart",
+        "postmates"
     ],
-    "workers": 600,
+    "workers": 339,
     "tags": [
         "blm",
-        "antiracism",
-        "academics"
+        "antiracism"
     ],
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
     "latlngs": null,
     "addresses": null

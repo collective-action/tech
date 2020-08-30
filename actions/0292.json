@@ -1,45 +1,39 @@
 {
-    "id": 307,
-    "date": "2020/07/26",
+    "id": 304,
+    "date": "2020/07/20",
     "sources": [
-        "https://www.msn.com/en-us/news/us/boycott-continues-against-cambridge-whole-foods-that-sent-employees-home-for-black-lives-matter-masks/ar-BB16mPY2"
+        "https://syndicom.ch/aktuell/artikel/bei-google-zuerich-bestimmen-die-zooglers-nun-mit/"
     ],
     "actions": [
-        "protest",
-        "strike"
+        "union representation"
     ],
     "struggles": [
-        "unfair labor practices",
-        "ethics"
+        "working conditions"
     ],
     "employment_types": [
-        "inhouse workers",
-        "blue collar workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Whole Foods employees and local residents protested in front of a Cambridge location that turned away seven employees on June 25th for wearing masks with \"Black Lives Matter\" slogans. The event is part of a larger boycott that has been ongoing since the incident. Suverino Frith, one of the seven employees, spoke at the event and called on the company to live up to their \"core values\". ",
+    "description": "Employees at Google's Zurich office voted to recognize the Syndicom union as their employee representative. Employees first reached out to Syndicom after management failed to address their concerns over \"Project Dragonfly\", a search engine that would enable the Chinese government to censor certain results. Employee representatives function as consultants and do not engage in collective bargaining. ",
     "online": null,
     "locations": [
-        "cambridge-massachusetts-usa"
+        "zurich-switzerland"
     ],
     "companies": [
-        "whole_foods",
-        "amazon"
+        "google"
     ],
     "workers": null,
-    "tags": [
-        "antiracism",
-        "blm"
-    ],
+    "tags": null,
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            42.3651852,
-            -71.1042178
+            47.3793085,
+            8.5307904
         ]
     ],
     "addresses": [
-        "Amazon Pickup, 1, Magazine Street, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02139, United States of America"
+        "Google, 1, Gustav-Gull-Platz, Langstrasse, Aussersihl, Z\u00fcrich, Bezirk Z\u00fcrich, Z\u00fcrich, 8021, Switzerland"
     ]
 }

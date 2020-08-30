@@ -1,40 +1,33 @@
 {
-    "id": 158,
-    "date": "2019/07/15",
+    "id": 156,
+    "date": "2019/07/13",
     "sources": [
-        "https://www.coworker.org/petitions/amazon-management-meet-with-dch1-amazonians-united-now",
-        "https://labornotes.org/2019/07/amazon-warehouse-worker-why-im-taking-action",
-        "https://www.buzzfeednews.com/amphtml/carolineodonovan/amazon-worker-protests-chicago-heat-wave"
+        "http://www.laizquierdadiario.com/paro-de-glovers-en-mendoza-nos-cansamos-de-la-explotacion-por-eso-hacemos-paro"
     ],
     "actions": [
-        "open letter"
+        "strike"
     ],
     "struggles": [
-        "working conditions"
+        "working conditions",
+        "pay and benefits"
     ],
     "employment_types": [
-        "blue collar workers"
+        "contract workers",
+        "gig workers"
     ],
-    "description": "Amazon employees of DCH1 Amazonians United sign a petition to demand that their site leader meet with them to discuss providing the appropriate measures for days of excessive heat, among other issues. The top 3 are: 1) Prime Pay for Prime Days. 2) Health Insurance. 3) Getting A/C",
+    "description": "A group of Glovo delivery drivers went on strike for one day, citing the loss of guaranteed hours without proper notice and lower pay rates than comparable cities. They also cited Glovo's failure to fulfill promises on worker conditions, including that the company failed to provide promised protective clothing for cold and rain. They gathered at Plaza Chile in Mendoza, Argentina.",
     "online": null,
     "locations": [
-        "chicago-illinois-usa"
+        "mendoza-argentina"
     ],
     "companies": [
-        "amazon"
+        "glovo"
     ],
-    "workers": 800,
+    "workers": 5,
     "tags": null,
     "author": [
-        "organizejs"
+        "moates"
     ],
-    "latlngs": [
-        [
-            41.84040105,
-            -87.68351928672685
-        ]
-    ],
-    "addresses": [
-        "Amazon Distribution, 2801, South Western Avenue, Lower West Side, Chicago, Cook County, Illinois, 60643, United States of America"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

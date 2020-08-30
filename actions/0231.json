@@ -1,33 +1,44 @@
 {
-    "id": 230,
-    "date": "2020/02/12",
+    "id": 228,
+    "date": "2020/02/05",
     "sources": [
-        "https://www.vice.com/en_us/article/xgq4n7/uber-and-lyft-drivers-have-a-simple-request-clean-bathrooms",
-        "https://seiu721.salsalabs.org/laxhygiene2020/index.html"
+        "https://www.sfchronicle.com/business/article/uber-lyft-drivers-to-state-enforce-ab5-get-us-15030205.php"
     ],
     "actions": [
-        "open letter"
+        "legal action"
     ],
     "struggles": [
-        "working conditions"
+        "pay and benefits"
     ],
     "employment_types": [
         "gig workers"
     ],
-    "description": "Rideshare workers have signed a petition calling on the LAX (Los Angeles) airport to provide them with better bathrooms. Currently all workers are forced to use six port-a-potties and one external handwashing station located on airport grounds. LAX management responded by saying they will install three additional port-a-potties and two more external handwashing stations. Drivers, organized through the Mobile Workers Alliance, continue to call for more.",
+    "description": "Rideshare workers organized under Rideshare Drivers United filed wage claims with the California Labor Commissioner's Office seeking to be reimbursed for unpaid wages under AB5. AB5 took effect on Jan. 1 in California but is being disputed by rideshare companies who seek to keep drivers classified as contractors as opposed to employees. Under AB5, many drivers would be entitled to higher wages, pay for overtime, and compensation for work-related expenses.",
     "online": null,
     "locations": [
-        "los angeles-california-usa"
+        "california-usa"
     ],
     "companies": [
         "uber",
         "lyft"
     ],
-    "workers": 2000,
+    "workers": 101,
     "tags": null,
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.7899898,
+            -122.3999799
+        ],
+        [
+            37.7509149,
+            -122.40246883416269
+        ]
+    ],
+    "addresses": [
+        "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "Lyft, Kansas Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States of America"
+    ]
 }

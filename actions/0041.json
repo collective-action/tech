@@ -1,39 +1,47 @@
 {
-    "id": 42,
-    "date": "2014/11/04",
+    "id": 40,
+    "date": "2014/09/01",
     "sources": [
-        "https://www.chenpe.com/news/24911.html"
+        "https://www.bloomberg.com/news/articles/2015-04-30/microsoft-contract-workers-are-organizing"
     ],
     "actions": [
         "union representation"
     ],
     "struggles": [
-        "job security",
-        "discrimination"
+        "unfair labor practices",
+        "job security"
     ],
     "employment_types": [
-        "white collar workers"
+        "contract workers"
     ],
-    "description": "Artesyn Technologies announced through their QQ blog that employees mainly from the hardware department were participating in a protest against Sony. They held their protest against what they called violent layoffs and discrimination and they appealed to Sony to disclose a list of those being discharged. They also demanded negotiations and a 'fair, transparent and open' process.",
+    "description": "A group of temporary workers at Microsoft has signed its first union contract with their employer, a rare feat in a technology industry typically unfriendly to organized labor. 38 bug testers who review Microsoft apps voted to create a union, the Temporary Workers of America. They work full time in Microsoft's offices but are employed by cloud services contractor LionBridge.",
     "online": null,
     "locations": [
-        "beijing-china"
+        "usa"
     ],
     "companies": [
-        "sony"
+        "microsoft",
+        "lionbridge"
     ],
-    "workers": null,
-    "tags": null,
+    "workers": 38,
+    "tags": [
+        "temporary_workers_of_america"
+    ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            39.9079196,
-            116.4058833
+            35.139622349999996,
+            -80.92306993327955
+        ],
+        [
+            47.578722799999994,
+            -122.17154487755995
         ]
     ],
     "addresses": [
-        "Sony, 1, \u4e1c\u957f\u5b89\u8857, \u4e1c\u57ce\u533a, \u5317\u4eac\u5e02, 100010, China \u4e2d\u56fd"
+        "Microsoft, Yorkwood, Charlotte, Mecklenburg County, North Carolina, United States of America",
+        "Lionbridge, 3525, Factoria Boulevard Southeast, Woodridge, Factoria, Bellevue, King County, Washington, 98006, United States of America"
     ]
 }

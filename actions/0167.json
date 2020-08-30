@@ -1,34 +1,40 @@
 {
-    "id": 167,
-    "date": "2019/08/07",
+    "id": 166,
+    "date": "2019/07/26",
     "sources": [
-        "https://www.indybay.org/newsitems/2019/08/07/18825265.php"
+        "https://www.technologyreview.com/s/614055/youtube-union-ig-metall-labor-gdpr-privacy-policy-creators/",
+        "https://www.fairtube.info/en/"
     ],
     "actions": [
-        "protest"
+        "union representation"
     ],
     "struggles": [
-        "ethics"
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers"
+        "gig workers"
     ],
-    "description": "Dozens of WalMart tech workers rallied in San Bruno to protest gun violence and continued sale of weapons by WalMart which is the largest distributor of guns in the United States. They also had a moment of silence for the victims and families murdered and injured in the violent racist attacks. There are over 1,000 workers at the largest tech center of WalMart in the world. This was the first collective action of WalMart tech workers in the United States. They were also joined by a delegation of Youtube workers in solidarity. Youtube workers have also faced violent attacks at their work location in San Bruno.",
-    "online": null,
+    "description": "YouTubers Union joined with German trade union, IG Metall, to launch the FairTube campaign. The campaign is calling for greater transparency into YouTube's monetization policy, individual responses to queries about videos that have been taken down by the site, creation of an independent mediation board, and formal representation from content creators in the company's decision-making process. In addition, FairTube has argued that YouTube's data collection policy for uploaded videos violates the GDPR. Leadership has given YouTube until Aug. 23rd to respond, threatening legal action if they fail to do so. YouTubers Union is designed to serve as a union for YouTube content creators and has over 20,000 Facebook members as of August 9th, 2019 but it is not clear how many are actively involved in the campaign. It does not require dues from its members.",
+    "online": true,
     "locations": [
-        "san bruno-california-usa"
+        "germany"
     ],
     "companies": [
-        "walmart"
+        "youtube",
+        "google"
     ],
-    "workers": 24,
-    "tags": [
-        "industry_solidarity",
-        "gun_violence"
-    ],
+    "workers": null,
+    "tags": null,
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            48.1386201,
+            11.5776179
+        ]
+    ],
+    "addresses": [
+        "Google, Hofgraben, Altstadt-Lehel, M\u00fcnchen, Bayern, 80331, Deutschland"
+    ]
 }

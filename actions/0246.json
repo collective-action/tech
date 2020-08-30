@@ -1,35 +1,42 @@
 {
-    "id": 295,
-    "date": "2020/03/19",
+    "id": 273,
+    "date": "2020/03/18",
     "sources": [
-        "https://technode.com/2020/04/29/there-are-no-food-delivery-winners/",
-        "https://technode.com/2019/02/25/meituan-deliveryman-strike/",
-        "https://maps.clb.org.hk/?i18n_language=en_US&map=1&startDate=2019-02&endDate=2019-02&eventId=2020010622223453021"
+        "https://www.nytimes.com/2020/05/14/technology/amazon-unions-france-coronavirus.html",
+        "https://www.reuters.com/article/us-health-coronavirus-france-amazon-idUSKBN2152MP"
     ],
     "actions": [
         "strike"
     ],
     "struggles": [
-        "pay and benefits"
+        "working conditions"
     ],
     "employment_types": [
-        "gig workers"
+        "inhouse workers",
+        "blue collar workers"
     ],
-    "description": "Food delivery drivers carried out a series of strikes in several major cities across China in protest of lowered wages from the dominant food delivery platform, Meituan Dianping.  Workers lined up delivery scooters and bikes displaying signs that read, \"stop taking orders.\u201d  The work stoppage created tension between delivery drivers and food vendors, sometimes leading to physical confrontation.",
+    "description": "French Amazon employees at six warehouses protested and threatened walkouts over lax covid-19 protections, calling for the company to adhere to social distancing, provide personal protective equipment, and initiate employee temperature checks. A spokesperson for Amazon's French CFDT union estimated that between 30-40% of Amazon employees in the country were no longer showing up to work over safety concerns or because of childcare obligations. A French law requires workplaces to keep paying workers who refuse to work over safety concerns. ",
     "online": null,
     "locations": [
-        "dongguan-china"
+        "saran-france"
     ],
     "companies": [
-        "meituan"
+        "amazon"
     ],
-    "workers": 100,
+    "workers": 250,
     "tags": [
-        "delivery_workers"
+        "coronavirus"
     ],
     "author": [
-        "clarissa"
+        "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            47.9619318,
+            1.8440185793930501
+        ]
+    ],
+    "addresses": [
+        "Amazon.fr ORY1, Rue de l'Olivier, Deret Logistique, Saran, Orl\u00e9ans, Loiret, Centre-Val de Loire, France m\u00e9tropolitaine, 45770, France"
+    ]
 }

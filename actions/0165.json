@@ -1,40 +1,38 @@
 {
-    "id": 166,
-    "date": "2019/07/26",
+    "id": 164,
+    "date": "2019/07/23",
     "sources": [
-        "https://www.technologyreview.com/s/614055/youtube-union-ig-metall-labor-gdpr-privacy-policy-creators/",
-        "https://www.fairtube.info/en/"
+        "https://www.seattletimes.com/business/google-settles-age-discrimination-class-action-lawsuit-with-more-than-200-workers-for-11-million/"
     ],
     "actions": [
-        "union representation"
+        "legal action"
     ],
     "struggles": [
-        "pay and benefits"
+        "discrimination"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers"
     ],
-    "description": "YouTubers Union joined with German trade union, IG Metall, to launch the FairTube campaign. The campaign is calling for greater transparency into YouTube's monetization policy, individual responses to queries about videos that have been taken down by the site, creation of an independent mediation board, and formal representation from content creators in the company's decision-making process. In addition, FairTube has argued that YouTube's data collection policy for uploaded videos violates the GDPR. Leadership has given YouTube until Aug. 23rd to respond, threatening legal action if they fail to do so. YouTubers Union is designed to serve as a union for YouTube content creators and has over 20,000 Facebook members as of August 9th, 2019 but it is not clear how many are actively involved in the campaign. It does not require dues from its members.",
-    "online": true,
+    "description": "Google settled a class action lawsuit launched by several hundred older workers who claimed they were not hired by the company on the basis of their age. The company paid out $11 million to the plaintiffs. Between 2007 to 2013, they argued, the median age in the tech industry was 41, while the median age at Google was 29.",
+    "online": null,
     "locations": [
-        "germany"
+        "usa"
     ],
     "companies": [
-        "youtube",
         "google"
     ],
-    "workers": null,
+    "workers": 200,
     "tags": null,
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            48.1386201,
-            11.5776179
+            42.3627717,
+            -71.087257
         ]
     ],
     "addresses": [
-        "Google, Hofgraben, Altstadt-Lehel, M\u00fcnchen, Bayern, 80331, Deutschland"
+        "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
     ]
 }

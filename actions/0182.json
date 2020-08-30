@@ -1,44 +1,36 @@
 {
-    "id": 182,
-    "date": "2019/09/16",
+    "id": 180,
+    "date": "2019/09/12",
     "sources": [
-        "https://www.msn.com/en-us/news/us/at-uc-berkeley-brown-and-yale-students-are-fighting-to-keep-palantir-off-campus-over-its-ice-contracts/ar-aahtquj",
-        "https://notechforice.com/20190916-2/"
+        "https://www.law360.com/employment/articles/1255452/uber-lyft-drivers-fail-to-win-employee-status-via-injunction"
     ],
     "actions": [
-        "open letter"
+        "legal action"
     ],
     "struggles": [
-        "ethics"
+        "pay and benefits",
+        "unfair labor practices"
     ],
     "employment_types": [
-        "na"
+        "contract workers",
+        "gig workers"
     ],
-    "description": "Over 2000 students from at least two dozen universities have signed a petition calling for universities to cut their ties with Palantir and vowing not to work for the company due to their connections with ICE. The petition was organized by Mijente and has concided with multiple protests on college campuses in recent weeks, coinciding with recruiting season. ",
+    "description": "Uber drivers filed an injunction to classify workers as employees and to compensate them for overtime pay, paid sick leave and reimbursement for business expenses. On September 17, Lyft drivers filed a similar injunction. Update: New motions have been added to the injunction in March 2020 in light of the coronavirus outbreak. On March 20, 2020, a Massachusetts federal judge ruled that the companies would not be required to classify their drivers as employees.",
     "online": null,
     "locations": [
-        "usa"
+        "massachusetts-usa"
     ],
     "companies": [
-        "palantir"
+        "uber",
+        "lyft"
     ],
-    "workers": 2000,
+    "workers": 2,
     "tags": [
-        "students",
-        "immigration",
-        "ice",
-        "mijente"
+        "coronavirus"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            37.4440869,
-            -122.16287540411753
-        ]
-    ],
-    "addresses": [
-        "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States of America"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

@@ -1,48 +1,43 @@
 {
-    "id": 196,
-    "date": "2019/10/03",
+    "id": 194,
+    "date": "2019/10/02",
     "sources": [
-        "https://www.washingtonpost.com/technology/2019/10/09/employees-ask-github-cancel-ice-contract-we-cannot-offset-human-lives-with-money/",
-        "https://www.washingtonpost.com/context/letter-from-github-employees-to-ceo-about-the-company-s-ice-contract/fb280de9-2bc3-40d5-b1a5-e3b954bf0d25/",
-        "https://www.vox.com/recode/2019/10/9/20906605/github-ice-contract-immigration-ice-dan-friedman"
+        "http://thetartan.org/2019/10/7/news/palantir-protest"
     ],
     "actions": [
-        "open letter"
+        "protest"
     ],
     "struggles": [
         "ethics"
     ],
     "employment_types": [
-        "white collar workers"
+        "na"
     ],
-    "description": "After GitHub CEO Nat Friedman wrote in an internal letter on Tuesday that the company plans to renew a contract worth $200,000 with ICE to license its GitHub Enterprise Server, GitHub's employees began publicly pressuring their company's leadership to stop working with the immigration agency over human rights concerns.",
-    "online": true,
+    "description": "A coalition of students protested Palantir & other ICE-friendly recruitment on the Carnegie Mellon University campus. They disrupted a Palantir recruitment event, held 500 in-person conversations with passing colleagues, & collected 150 promises from fellow students to not work or engage with Palantir.",
+    "online": null,
     "locations": [
-        "usa"
+        "pittsburgh-pennsylvania-usa"
     ],
     "companies": [
-        "github",
-        "microsoft"
+        "carnegie mellon university",
+        "palantir"
     ],
-    "workers": 150,
+    "workers": 30,
     "tags": [
-        "ice"
+        "students",
+        "mijente",
+        "academics"
     ],
     "author": [
-        "organizejs"
+        "moates"
     ],
     "latlngs": [
         [
-            37.7821769,
-            -122.3912458
-        ],
-        [
-            35.139622349999996,
-            -80.92306993327955
+            40.4441619,
+            -79.942728259225
         ]
     ],
     "addresses": [
-        "GitHub, 88, Colin P. Kelly Junior Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States of America",
-        "Microsoft, Yorkwood, Charlotte, Mecklenburg County, North Carolina, United States of America"
+        "Carnegie Mellon University, Holyrood Road, Squirrel Hill North, Pittsburgh, Allegheny County, Pennsylvania, 15213, United States of America"
     ]
 }

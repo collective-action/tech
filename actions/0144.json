@@ -1,43 +1,41 @@
 {
-    "id": 145,
-    "date": "2019/06/12",
+    "id": 143,
+    "date": "2019/06/06",
     "sources": [
-        "https://www.gofundme.com/f/solidarity-fund-for-fired-fb-contingent-workers",
-        "https://medium.com/@techworkersco_79433/who-fired-the-ras-organizing-the-worst-job-at-facebook-97c63cb40683"
+        "https://slate.com/technology/2019/08/stanford-tech-students-backlash-google-facebook-palantir.html"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
-        "job security"
+        "ethics"
     ],
     "employment_types": [
         "na"
     ],
-    "description": "Workers for workers, a group of Facebook employees who organize to support the company's contract workers, started a gofundme campaign to materially support 9 contingent workers who were fired for violating non-existant company policy. Workers for Workers is drawing on its network of mostly tech workers to provide support for the 9 contingent workers who were suddenly let go. The campaign will support these folks in their hour of greatest need, aiming to raise $40,000 to cover their basic living expenses for the next two months as they seek to clear their name within Facebook and find a new job on short notice. ",
+    "description": "Students for the Liberation of All People (SLAP), a student organization at Stanford, places a banner across the street from Palantir's entrance reading \u201cOUR SOFTWARE IS SO POWERFUL IT SEPARATES FAMILIES.\u201d in protest of the company's involvement with U.S. Immigration and Customs Enforcement. ",
     "online": null,
     "locations": [
-        "seattle-washington-usa"
+        "palo alto-california-usa"
     ],
     "companies": [
-        "facebook"
+        "palantir"
     ],
-    "workers": 150,
+    "workers": 24,
     "tags": [
-        "coworker_solidarity",
-        "funding_raising",
-        "twc"
+        "students",
+        "immigration"
     ],
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            47.6289467,
-            -122.3428731
+            37.4440869,
+            -122.16287540411753
         ]
     ],
     "addresses": [
-        "Facebook Dexter, 1101, Dexter Avenue North, Westlake, Seattle, King County, Washington, 98109, United States of America"
+        "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States of America"
     ]
 }

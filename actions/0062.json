@@ -1,44 +1,41 @@
 {
-    "id": 63,
-    "date": "2016/12/16",
+    "id": 61,
+    "date": "2016/12/03",
     "sources": [
-        "https://www.mic.com/articles/172403/ibm-s-ceo-wrote-trump-a-glowing-letter-employees-responded-with-list-of-demands",
-        "https://www.coworker.org/petitions/ibmers-to-ceo-ginni-rometty-affirm-ibm-values",
-        "https://theintercept.com/2016/12/19/ibm-employees-launch-petition-protesting-cooperation-with-donald-trump/"
+        "https://www.thestreet.com/story/13906592/1/why-uber-faces-a-day-of-protests-on-tuesday-tech-roundup.html"
     ],
     "actions": [
-        "open letter"
+        "protest"
     ],
     "struggles": [
-        "ethics"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
-        "white collar workers"
+        "gig workers"
     ],
-    "description": "IBM employees sign a petition protesting IBM's cooperation with Trump. After the IBM CEO Ginny Rometty sent a letter congratulating Trump on his presidency and refusing to rule out participation from building a muslim registry, IBM employees created a petition on coworker.org to demand that the company acknowledge the diversity of its staff and not work to further the more xenophobic aspects of Trump's agenda.",
-    "online": true,
+    "description": "Uber drivers in 20 cities join the Fight for $15 movement, boycotting the app for one day to protest wages.",
+    "online": null,
     "locations": [
         "usa"
     ],
     "companies": [
-        "ibm"
+        "uber"
     ],
-    "workers": 1000,
+    "workers": null,
     "tags": [
-        "muslim_registry",
-        "immigration",
-        "trump"
+        "drivers"
     ],
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            44.05795005,
-            -92.50701462052399
+            37.7899898,
+            -122.3999799
         ]
     ],
     "addresses": [
-        "IBM, Rochester, Olmsted County, Minnesota, 55901:55960, United States of America"
+        "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America"
     ]
 }

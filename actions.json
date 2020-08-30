@@ -1,5 +1,83 @@
 [
     {
+        "id": 314,
+        "date": "1970/01/01",
+        "sources": [
+            "https://www.theguardian.com/commentisfree/2019/dec/06/google-ibm-tech-racism"
+        ],
+        "actions": [
+            "resources"
+        ],
+        "struggles": [
+            "ethics",
+            "discrimination"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "Black IBM employees founded the National Black Workers Alliance of IBM (BWA), \"the first-ever movement of hi-tech minority workers\". The organization was one of the first to speak out against the company's involvement in South Africa and to demand equal pay and better opportunities for promotion for Black employees. They collected data on internal pay guidelines salaries at IBM to increase their leverage with management and supported fellow employees who faced retaliation after speaking out.",
+        "online": null,
+        "locations": [
+            "usa"
+        ],
+        "companies": [
+            "ibm"
+        ],
+        "workers": null,
+        "tags": [
+            "antiracism"
+        ],
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": [
+            [
+                44.05795005,
+                -92.50701462052399
+            ]
+        ],
+        "addresses": [
+            "IBM, Rochester, Olmsted County, Minnesota, 55901:55960, United States of America"
+        ]
+    },
+    {
+        "id": 313,
+        "date": "1970/10/08",
+        "sources": [
+            "https://www.dissentmagazine.org/online_articles/when-polaroid-workers-fought-apartheid"
+        ],
+        "actions": [
+            "protest",
+            "boycott"
+        ],
+        "struggles": [
+            "ethics"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "Polaroid workers affiliated with the Polaroid Revolutionary Workers Movement (PRWM) rallied at an anti-apartheid protest in Technology Square in Cambridge, MA and organized what is believed to be the first anti-apartheid boycott of a U.S. corporation. The organization was founded by two of the company's Black employees, Caroline Hunter (a chemist) and Ken Williams (a photographer). The two employees discovered that Polaroid was selling equipment to the South African government that allowed for a racist system of surveillance known as passbooks. The company responded by the surveilling and threatening the workers, first denying and then continuing their operations, and starting a public relations campaign to improve their image.",
+        "online": null,
+        "locations": [
+            "cambridge-massachusetts-usa"
+        ],
+        "companies": [
+            "polaroid"
+        ],
+        "workers": 2,
+        "tags": [
+            "antiracism",
+            "surveillance"
+        ],
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
         "id": 1,
         "date": "1979/09/01",
         "sources": [
@@ -11863,6 +11941,47 @@
         ],
         "addresses": [
             "Amazon, 72, Spring Street, Manhattan, New York County, New York, 10013, United States of America"
+        ]
+    },
+    {
+        "id": 312,
+        "date": "2020/08/12",
+        "sources": [
+            "https://qz.com/1894241/belaruss-crackdown-could-squash-minsks-budding-tech-sector/",
+            "https://dev.by/news/otkrytoe-pismo-it-kompanii"
+        ],
+        "actions": [
+            "open letter"
+        ],
+        "struggles": [
+            "ethics"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers",
+            "contract workers"
+        ],
+        "description": "Over 2,900 Belarusian tech workers, including top level management and investors, publicly signed onto an open letter calling the recent presidential elections a fraud. Signatories threatened to relocate their offices and investments outside of Belarus, stating that the atmosphere of fear and suppression was not conducive to a thriving technology sector. The letter denounced anti-democratic measures taken by the government, including the arrests of protesters and widespread Internet outages, and called for new elections, the release of those arrested, and freedom of press in the country. ",
+        "online": true,
+        "locations": [
+            "belarus"
+        ],
+        "companies": null,
+        "workers": 2900,
+        "tags": [
+            "politics"
+        ],
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": [
+            [
+                53.4250605,
+                27.6971358
+            ]
+        ],
+        "addresses": [
+            "\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c"
         ]
     },
     {

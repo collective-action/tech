@@ -1,11 +1,12 @@
 {
-    "id": 3,
-    "date": "1986/09/16",
+    "id": 1,
+    "date": "1979/09/01",
     "sources": [
-        "https://www.nytimes.com/1986/09/16/science/software-seen-as-obstacle-in-developing-star-wars.html"
+        "https://twitter.com/clancynewyork/status/1175872040814993408?s=19",
+        "http://www-cs-students.stanford.edu/~cale/cs201/apartheid.comp.html"
     ],
     "actions": [
-        "open letter"
+        "protest"
     ],
     "struggles": [
         "ethics"
@@ -13,24 +14,21 @@
     "employment_types": [
         "white collar workers"
     ],
-    "description": "A group of computer professionals, led by Computer Professionals for Social Responsibility (CPSR), signs a petition arguing that Pres. Reagan's Star Wars system is not feasible given current technology. Such a system would be prone to major errors, they argued, and would be irresponsible to implement.",
+    "description": "IBM workers formed an organization, IBM: Speak Up!, to protest the company's involvement with apartheid South Africa. The company created the computer system that upheld the country's passbook system. The company officially divested from South Africa in 1987.",
     "online": null,
     "locations": [
-        "usa"
+        "worldwide"
     ],
-    "companies": null,
-    "workers": 30,
-    "tags": null,
+    "companies": [
+        "ibm"
+    ],
+    "workers": null,
+    "tags": [
+        "international_solidarity"
+    ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            39.7837304,
-            -100.4458825
-        ]
-    ],
-    "addresses": [
-        "United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

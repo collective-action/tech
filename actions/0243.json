@@ -1,42 +1,43 @@
 {
-    "id": 242,
-    "date": "2020/03/18",
+    "id": 240,
+    "date": "2020/03/17",
     "sources": [
-        "https://www.reuters.com/article/us-health-coronavirus-france-amazon/french-amazon-workers-protest-in-coronavirus-pushback-iduskbn2152mp"
+        "https://medium.com/@amazonemployeesclimatejustice/coronavirus-amazon-log-cfdc9a6f4437",
+        "https://medium.com/@amazoniansunitednyc/we-amazon-workers-demand-coronavirus-protections-16f28ad8b15f"
     ],
     "actions": [
-        "strike"
+        "open letter"
     ],
     "struggles": [
-        "working conditions",
-        "unfair labor practices"
+        "working conditions"
     ],
     "employment_types": [
         "blue collar workers",
-        "inhouse workers"
+        "white collar workers"
     ],
-    "description": "At an Amazon warehouse and shipping center at Saran just outside Orleans, a city south of Paris, 250-300 workers staged a strike, gathering outside and calling for its closure. It normally employs some 1,800 full-time staff. They are calling on the online retailer to cease operations or make it easier for employees not wanting to work during the coronavirus outbreak to stay away.",
-    "online": true,
+    "description": "Over 5000 Amazon employees signed an open letter to Jeff Bezos calling for improved working conditions during the coronavirus pandemic, including paid sick leave regardless of diagnosis, child care, and 1.5x hazard pay. Since then, on March 22nd, the letter has been updated to include a call for transparency on any diagnosed covid-19 cases at the facilities, a halt on the shipping of non-essential items, and medical coverage to part-time employees. On March 27th, Amazon Employees for Climate Justice emailed its constituents (mostly corporate employees) to encourage them to sign the open letter, which purportedly lead to an additional 580 signatures.",
+    "online": null,
     "locations": [
-        "usa"
+        "new york city-new york-usa"
     ],
     "companies": [
         "amazon"
     ],
-    "workers": 250,
+    "workers": 5210,
     "tags": [
-        "coronavirus"
+        "coronavirus",
+        "coworker_solidarity"
     ],
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            47.6142939,
-            -122.3239636
+            40.722465,
+            -73.9977307
         ]
     ],
     "addresses": [
-        "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
+        "Amazon, 72, Spring Street, Manhattan, New York County, New York, 10013, United States of America"
     ]
 }

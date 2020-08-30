@@ -1,30 +1,36 @@
 {
-    "id": 168,
-    "date": "2019/08/08",
+    "id": 272,
+    "date": "2019/08/01",
     "sources": [
-        "https://gizmodo.com/amazon-workers-strike-outside-eagan-minnesota-deliver-1837064265"
+        "https://www.cbc.ca/news/canada/toronto/food-courier-union-1.5239414",
+        "https://www.cbc.ca/news/canada/toronto/foodora-union-vote-ends-1.5244950",
+        "https://nowtoronto.com/food-and-drink/food/foodora-union-ruling/",
+        "https://nowtoronto.com/food-and-drink/food/foodora-leaving-canada/"
     ],
     "actions": [
-        "strike"
+        "union representation"
     ],
     "struggles": [
+        "pay and benefits",
         "working conditions"
     ],
     "employment_types": [
-        "blue collar workers"
+        "gig workers"
     ],
-    "description": "A group of Amazon employees protested outside the Eagan, Minnesota, warehouse Thursday morning. While past protests have focused on allegedly poor workplace conditions, the Eagan protest was to raise concerns about a lack of parking at the warehouse. This is an issue because these workers' cars can be towed and fined at a cost of hundreds of dollars for being double-parked.",
+    "description": "Foodora couriers in Toronto are preparing to vote on union certification in what could create Canada's first unionized workforce of app-based workers. An application by the Canadian Union of Postal Workers was filed last week with the Ontario Labour Relations Board, months after a campaign was launched that addressed working conditions. The union says couriers intend to negotiate a better compensation model, health and safety protections when workers are injured and recognition of basic rights of workers that aren't recognized by Foodora, which classifies them as independent contractors. Update: In February 2020, the Ontario Labour Relations Board rules that Foodora workers are dependent contractors and have the right to unionize. In April 2020, Foodora announced it was pulling out of the Canadian market. ",
     "online": null,
     "locations": [
-        "eagan-minnesota-usa"
+        "toronto-ontario-canada"
     ],
     "companies": [
-        "amazon"
+        "foodera"
     ],
-    "workers": 80,
-    "tags": null,
+    "workers": null,
+    "tags": [
+        "delivery_workers"
+    ],
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
     "latlngs": null,
     "addresses": null

@@ -1,39 +1,36 @@
 {
-    "id": 191,
-    "date": "2019/09/28",
+    "id": 189,
+    "date": "2019/09/26",
     "sources": [
-        "https://notesfrombelow.org/article/deliveroo-workers-launch-new-strike-wave"
+        "https://www.dailycal.org/2019/09/24/under-pressure-palan"
     ],
     "actions": [
-        "strike"
+        "protest",
+        "open letter"
     ],
     "struggles": [
-        "pay and benefits",
-        "job security"
+        "ethics"
     ],
     "employment_types": [
-        "gig workers"
+        "na"
     ],
-    "description": "Deliveroo workers held wildcat strikes in 16 different UK cities in September in response to lowered wages. Strikers have blocked access to delivery-only kitchens that specifically cater to Deliveroo and other services and have publicly picketed. The Independent Workers of Great Britain Couriers and Logistics Branch (IWGB CLB) has been involved in organizing protests and reports that membership has grown 25% in recent months.",
+    "description": "Students at UC Berkeley have led protests and circulated petitions to stop Palantir from attending campus events due to their standing contracts with ICE. 50 students attended a protest and over 700 students and faculty signed a petition to stop an upcoming informational session.",
     "online": null,
     "locations": [
-        "uk"
+        "berkeley-california-usa"
     ],
     "companies": [
-        "deliveroo"
+        "palantir"
     ],
-    "workers": null,
-    "tags": null,
+    "workers": 700,
+    "tags": [
+        "students",
+        "immigration",
+        "ice"
+    ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            51.5314216,
-            -0.1113624
-        ]
-    ],
-    "addresses": [
-        "Deliveroo, Pentonville Road, Pentonville, Finsbury, London Borough of Islington, London, Greater London, England, N1 9JB, United Kingdom"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

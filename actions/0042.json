@@ -1,43 +1,41 @@
 {
-    "id": 43,
-    "date": "2014/11/19",
+    "id": 41,
+    "date": "2014/09/19",
     "sources": [
-        "https://bits.blogs.nytimes.com/2014/11/19/facebooks-bus-drivers-vote-to-unionize"
+        "https://thinkprogress.org/silicon-valley-workers-protest-for-fair-wages-at-apple-stores-during-iphone-6-launch-860a32a25b98/"
     ],
     "actions": [
-        "union representation"
+        "protest"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "pay and benefits"
     ],
     "employment_types": [
-        "contract workers"
+        "contract workers",
+        "blue collar workers"
     ],
-    "description": "The shuttle bus drivers who ferry Facebook employees to and from work voted on Wednesday to unionize, 43 to 28. The drivers, who are employees of Loop Transportation, a contractor for Facebook, voted to join Teamsters Local 853, with several of them saying their main concerns were inadequate pay and a stressful split shift schedule.",
+    "description": "In front of Apple stores nationwide, tech companies employees gathered to protest alongside hundreds of eager customers waiting in line to buy the iPhone 6. The protesters weren't disgruntled Apple engineers or developers; they were security officers, maintenance and custodial staff demanding better wages from tech companies.",
     "online": null,
     "locations": [
-        "menlo park-california-usa"
+        "usa"
     ],
     "companies": [
-        "facebook",
-        "loop transportation"
+        "apple"
     ],
     "workers": null,
     "tags": [
-        "teamster",
-        "drivers"
+        "seiu"
     ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            37.484668049999996,
-            -122.1483654685629
+            42.3489689,
+            -71.0824143
         ]
     ],
     "addresses": [
-        "Facebook, San Francisco Bay Trail, Menlo Park, San Mateo County, California, 94025-1246, United States of America"
+        "Apple Store, 815, Boylston Street, Block F, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States of America"
     ]
 }

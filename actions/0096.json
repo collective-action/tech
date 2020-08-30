@@ -1,32 +1,38 @@
 {
-    "id": 97,
-    "date": "2018/08/01",
+    "id": 95,
+    "date": "2018/07/24",
     "sources": [
-        "https://www.equaltimes.org/in-denmark-a-historic-collective?lang=en"
+        "https://www.bostonglobe.com/business/2018/07/24/samsung-workers-agree-end-standoff-workers-deaths/co5pnkkgjsygaxcwszyghm/story.html"
     ],
     "actions": [
-        "union representation"
+        "protest"
     ],
     "struggles": [
-        "pay and benefits",
-        "job security"
+        "working conditions"
     ],
     "employment_types": [
-        "gig workers"
+        "blue collar workers"
     ],
-    "description": "Danish gig workers from an online cleaning services platform Hilfr.dk signed a collective agreement that guarantees them benefits including holiday, sick leave, pension contributions, and higher pay once they reach a certain number of hours worked. Danish trade union 3F was a technical advisor on the agreement. As part of the agreement, Hilfr employees can automatically become members of the union once they have worked 100 hours on the platform. The agreement is preliminary and lasts one year.",
+    "description": "A group of Samsung factory employees in South Korea organized to call for safer working conditions and medical compensation from the company. After three years of protests, Samsung has agreed to accept the compensation terms and issue an apology.",
     "online": null,
     "locations": [
-        "denmark"
+        "south korea"
     ],
     "companies": [
-        "hilfr"
+        "samsung"
     ],
-    "workers": 450,
+    "workers": 100,
     "tags": null,
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.2630571,
+            127.0646938
+        ]
+    ],
+    "addresses": [
+        "Dream Vill, 337-52, \uc0bc\uc131\ub85c302\ubc88\uae38, \uc601\ud1b5\uad6c, \uc218\uc6d0\uc2dc, \uacbd\uae30\ub3c4, 16513, \ub300\ud55c\ubbfc\uad6d"
+    ]
 }

@@ -1,36 +1,47 @@
 {
-    "id": 165,
-    "date": "2019/07/26",
+    "id": 163,
+    "date": "2019/07/19",
     "sources": [
-        "https://financialtribune.com/articles/sci-tech/99111/github-bans-iran-based-users",
-        "https://github.com/1995parham/github-do-not-ban-us"
+        "https://sanfrancisco.cbslocal.com/2019/07/19/uber-lyft-drivers-hq-protest-working-conditions/",
+        "https://techcrunch.com/2019/07/18/uber-and-lyft-drivers-demand-better-pay-workplace-protections-and-driver-led-unions/",
+        "https://www.cnet.com/news/uber-lyft-drivers-stage-protest-for-better-working-conditions/"
     ],
     "actions": [
-        "protest",
-        "open letter"
+        "strike"
     ],
     "struggles": [
-        "discrimination"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
-        "white collar workers"
+        "gig workers"
     ],
-    "description": "GitHub users have created a repository to protest the company's decision to ban Iranians from accessing the site due to US sanctions. The repository combines multiple types of actions, serving as an open letter to the company and collecting known incidences of Iranian users being denied access, in addition to highlighting the contributions of Iranian developers. ",
+    "description": "Uber and Lyft drivers chanted and cheered outside the Uber headquarters building in San Francisco on Friday as they delivered a letter demanding negotiations for better working conditions. In an open letter, published to coincide with the protest, drivers called on Uber CEO Dara Khosrowshahi and Lyft co-founders Logan Green and John Zimmer for changes in treatment. Drivers tried to present the letter at the protest, but weren't able to enter Uber's headquarters.",
     "online": null,
     "locations": [
-        "worldwide",
-        "iran"
+        "san francisco-california-usa"
     ],
     "companies": [
-        "github"
+        "uber",
+        "lyft"
     ],
-    "workers": 945,
-    "tags": [
-        "international_solidarity"
-    ],
+    "workers": 40,
+    "tags": null,
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.7899898,
+            -122.3999799
+        ],
+        [
+            37.7509149,
+            -122.40246883416269
+        ]
+    ],
+    "addresses": [
+        "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "Lyft, Kansas Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States of America"
+    ]
 }

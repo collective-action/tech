@@ -1,65 +1,31 @@
 {
-    "id": 297,
-    "date": "2019/11/12",
+    "id": 206,
+    "date": "2019/11/06",
     "sources": [
-        "https://www.vice.com/en_ca/article/d3aqkz/a-fired-kickstarter-organizer-is-trying-to-unionize-tech-workers-using-kickstarter",
-        "https://www.kickstarter.com/projects/clarissaredwine/solidarity-onboarding?ref=user_menu"
+        "https://static.theintercept.com/amp/shutterstock-china-censorship-tech.html"
     ],
     "actions": [
-        "protest"
+        "open letter"
     ],
     "struggles": [
-        "unfair labor practices"
+        "ethics"
     ],
     "employment_types": [
         "white collar workers"
     ],
-    "description": "Tech activists, artists, and creators who helped organize Google, Facebook, WeWork, Kickstarter, and more annotated an assemblage of common anti-union statements.  The zine's organizer-driven content is an inoculation tool for tech workers that exposes them to union busting rhetoric and arms them with pro union rebuttals. ",
+    "description": "Shutterstock engineers were tasked with the creation of a search blacklist that would wipe from query results images associated with keywords forbidden by the Chinese government, including images of the Hong Kong protests. The company's decision to silently aid China's censorship agenda comes at a time of heightened scrutiny into the relationship between corporate America and President Xi Jinping's authoritarian regime. More than 180 Shutterstock workers to sign a petition against the search blacklist and accuse the company of trading its values for access to the lucrative Chinese market. They write that by 'complying, we are enabling injustices, including the discrimination of the people of Hong Kong, the suppression of Chinese political dissent, and undermining the sovereignty of Taiwanese people.'",
     "online": true,
-    "locations": [
-        "san francisco-california-usa",
-        "brooklyn-new york city-new york-usa"
-    ],
+    "locations": null,
     "companies": [
-        "kickstarter",
-        "google",
-        "wework",
-        "facebook"
+        "shutterstock"
     ],
-    "workers": 10,
+    "workers": 180,
     "tags": [
-        "industry_solidarity"
+        "us_china_conflict"
     ],
     "author": [
-        "clarissa"
+        "organizejs"
     ],
-    "latlngs": [
-        [
-            37.41897865,
-            -122.08237793989416
-        ],
-        [
-            37.778011,
-            -122.4121644
-        ],
-        [
-            37.484668049999996,
-            -122.1483654685629
-        ],
-        [
-            40.7321996,
-            -73.9598257
-        ],
-        [
-            40.7007485,
-            -73.9725542
-        ]
-    ],
-    "addresses": [
-        "Google, Mountain View, Santa Clara County, California, United States of America",
-        "WeWork, 1161, Mission Street, West SoMa, San Francisco, San Francisco City and County, California, 94103, United States of America",
-        "Facebook, San Francisco Bay Trail, Menlo Park, San Mateo County, California, 94025-1246, United States of America",
-        "Kickstarter HQ, West Street, Brooklyn, New York, 11222, United States of America",
-        "WeWork, Market Street, Brooklyn Navy Yard, Brooklyn, New York, 11251, United States of America"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

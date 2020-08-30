@@ -1,42 +1,34 @@
 {
-    "id": 219,
-    "date": "2019/12/12",
+    "id": 217,
+    "date": "2019/12/04",
     "sources": [
-        "https://www.vice.com/en_us/article/dyggwv/e-scooter-workers-just-formed-their-first-union"
+        "https://www.latimes.com/business/technology/story/2019-12-04/github-open-source-developers-ice-contract"
     ],
     "actions": [
-        "union representation"
+        "open letter"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "ethics"
     ],
     "employment_types": [
-        "blue collar workers",
-        "inhouse workers"
+        "white collar workers"
     ],
-    "description": "E-scooter workers in San Francisco at the Ford-owned start-up Spin joined a union on Wednesday\u2014a first in the fledgling industry. Roughly 40 Spin workers\u2014who collect, repair, deploy, and charge Spin\u2019s fleet of more than 500 electric scooters on the streets of San Francisco\u2014are now part of Teamsters Local 665, as first reported by the San Francisco Examiner. The union says workers want to negotiate for better pay, health care, and retirement security in their first contract.",
-    "online": null,
-    "locations": [
-        "san francisco-california-usa"
-    ],
+    "description": "In an open letter published Wednesday on GitHub, software developers representing the open source community joined the call for GitHub to immediately cancel the $200,000 contract with ICE. 'Open source is about inverting power structures and creating access and opportunities for everyone,' the letter, signed by 167 developers at the time of publication, reads. 'We, the undersigned, cannot see how to reconcile our ethics with GitHub\u2019s continued support of ICE. Moreover, your lack of transparency around the ethical standards you use for conducting business is also concerning to a community that is focused around doing everything out in the open.'",
+    "online": true,
+    "locations": null,
     "companies": [
-        "spin"
+        "github",
+        "microsoft"
     ],
-    "workers": 40,
+    "workers": 200,
     "tags": [
-        "teamster"
+        "industry_solidarity",
+        "immigration",
+        "ice"
     ],
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            37.7871368,
-            -122.2795012
-        ]
-    ],
-    "addresses": [
-        "SPIN!, Mariner Square Loop, Alameda, Alameda County, California, 94607, United States of America"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

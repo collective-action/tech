@@ -1,8 +1,8 @@
 {
-    "id": 189,
-    "date": "2019/09/26",
+    "id": 187,
+    "date": "2019/09/25",
     "sources": [
-        "https://www.dailycal.org/2019/09/24/under-pressure-palan"
+        "http://www.browndailyherald.com/2019/09/26/students-protest-companies-tied-ice-career-fair/"
     ],
     "actions": [
         "protest",
@@ -14,15 +14,17 @@
     "employment_types": [
         "na"
     ],
-    "description": "Students at UC Berkeley have led protests and circulated petitions to stop Palantir from attending campus events due to their standing contracts with ICE. 50 students attended a protest and over 700 students and faculty signed a petition to stop an upcoming informational session.",
+    "description": "Students at Brown demonstrated against four companies (Amazon, Microsoft, Palantir, and Ernst & Young) at an on-campus career fair. All four companies have done business with ICE. The students have also started an online petition to protest Brown's connections to these four companies. ",
     "online": null,
     "locations": [
-        "berkeley-california-usa"
+        "providence-rhode island-usa"
     ],
     "companies": [
-        "palantir"
+        "palantir",
+        "microsoft",
+        "amazon"
     ],
-    "workers": 700,
+    "workers": null,
     "tags": [
         "students",
         "immigration",
@@ -31,6 +33,13 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            41.5286839,
+            -71.2330488
+        ]
+    ],
+    "addresses": [
+        "Amazon Drive, Portsmouth, Newport County, Rhode Island, United States of America"
+    ]
 }

@@ -1,67 +1,33 @@
 {
-    "id": 308,
+    "id": 303,
     "date": "2020/07/20",
     "sources": [
-        "https://www.vice.com/en_us/article/qj4zxx/amazon-google-and-lyft-workers-tell-us-why-theyre-striking-for-black-lives-matter",
-        "https://www.washingtonpost.com/business/2020/07/20/strike-for-black-lives/"
+        "https://www.vice.com/en_us/article/m7jpgy/open-source-community-changing-github-avatars-drop-ice"
     ],
     "actions": [
-        "protest",
-        "strike"
+        "protest"
     ],
     "struggles": [
         "ethics"
     ],
     "employment_types": [
-        "gig workers"
+        "open source community"
     ],
-    "description": "Amazon, Google, Uber, Lyft, and Postmates workers were reportedly among the \"tens of thousands\" of employees across the U.S. that took part in a protest of the country's long-standing systemic racism. Those that were unable to leave their jobs were encouraged to take an 8 minute, 46 second break (the amount of time a police officer knelt on George Floyd's neck) or to bend a knee in solidarity (a reference to protests by the NFL). The Washington Post reports that demonstrations took place in over 200 cities.",
-    "online": null,
-    "locations": [
-        "usa"
-    ],
+    "description": "Github users have launched a campaign to pressure the company to drop its contracts with ICE. Users have changed their profile pictures to the company's mascot, Octocat, with a message reading \"Drop ICE\". ",
+    "online": true,
+    "locations": null,
     "companies": [
-        "amazon",
-        "google",
-        "uber",
-        "lyft",
-        "postmates"
+        "github",
+        "microsoft"
     ],
     "workers": null,
     "tags": [
-        "blm",
-        "antiracism"
+        "ice",
+        "immigration"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            47.6142939,
-            -122.3239636
-        ],
-        [
-            42.3627717,
-            -71.087257
-        ],
-        [
-            37.7899898,
-            -122.3999799
-        ],
-        [
-            37.7509149,
-            -122.40246883416269
-        ],
-        [
-            37.7753423,
-            -122.39763106771915
-        ]
-    ],
-    "addresses": [
-        "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America",
-        "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America",
-        "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
-        "Lyft, Kansas Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States of America",
-        "UserTesting, 690, 5th Street, South of Market, San Francisco, San Francisco City and County, California, 94017, United States of America"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

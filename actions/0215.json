@@ -1,46 +1,42 @@
 {
-    "id": 214,
-    "date": "2019/11/29",
+    "id": 212,
+    "date": "2019/11/25",
     "sources": [
-        "https://metro.co.uk/2019/11/29/amazon-hit-by-black-friday-srikes-and-protests-across-europe-11238471/",
-        "https://www.bbc.com/news/uk-england-50603875"
+        "https://www.vox.com/the-goods/2019/11/27/20985691/amazon-workers-black-friday-2019",
+        "https://nypost.com/2019/11/25/workers-at-amazons-staten-island-warehouse-to-hold-rally-over-high-injury-rates/"
     ],
     "actions": [
+        "open letter",
         "protest"
     ],
     "struggles": [
-        "working conditions"
+        "working conditions",
+        "pay and benefits"
     ],
     "employment_types": [
-        "blue collar workers"
+        "blue collar workers",
+        "inhouse workers"
     ],
-    "description": "Amazon was targeted by a UK-wide protest organised to coincide with Black Friday and Cyber Monday demanding an end to \u2018appalling\u2019 working conditions. Trade union GMB co-ordinated the British demonstrations to take place across two of the busiest shopping days of the year. 'Workers are breaking bones, being knocked unconscious and being taken away in ambulances,' GMB national officer Mick Rix said in a statement. Labour leader Jeremy Corbyn visited protesters outside an Amazon depot in Sheffield. The union cited figures suggesting there had been more than 600 ambulance call-outs to Amazon warehouses over a three-year period and just as many serious incidents reported to the Health and Safety Executive for various injuries.",
+    "description": "Over a hundred Amazon workers and their supporters gathered outside the facility to protest working conditions that they say only worsen as the e-tailing giant gears up to deliver a rush of packages ahead of Christmas and Hanukkah. 600 workers at an Amazon fulfillment center in New York signed a letter and protested working conditions. Amazon workers face injury rates over three times the industry average, and are asking for increased break time and better transit benefits.",
     "online": null,
     "locations": [
-        "sheffield-uk",
-        "rugeley-uk",
-        "peterborough-uk"
+        "staten island-new york city-new york-usa"
     ],
     "companies": [
         "amazon"
     ],
-    "workers": 12,
+    "workers": 600,
     "tags": null,
     "author": [
-        "organizejs"
+        "ericandrewlewis"
     ],
     "latlngs": [
         [
-            52.75329925,
-            -1.9215828894833442
-        ],
-        [
-            52.542566050000005,
-            -0.2383390628291427
+            40.6194923,
+            -74.0729948
         ]
     ],
     "addresses": [
-        "Amazon.co.uk, Towers Business Park, Brereton and Ravenhill, Cannock Chase, Staffordshire, West Midlands, England, WS15 1LX, United Kingdom",
-        "Amazon, Unit 1, Flaxley Road, Old Fletton, Peterborough, City of Peterborough, East of England, England, PE2 9EN, United Kingdom"
+        "Amazon Court, Clifton, Richmond County, New York, 10304, United States of America"
     ]
 }

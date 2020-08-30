@@ -1,12 +1,12 @@
 {
-    "id": 162,
-    "date": "2019/07/19",
+    "id": 160,
+    "date": "2019/07/16",
     "sources": [
-        "https://techcrunch.com/2019/07/18/uber-and-lyft-drivers-demand-better-pay-workplace-protections-and-driver-led-unions/",
-        "https://sanfrancisco.cbslocal.com/2019/07/19/uber-lyft-drivers-hq-protest-working-conditions/"
+        "https://www.bbc.com/news/av/world-africa-49008968/uber-drivers-in-nairobi-explain-why-they-are-on-strike",
+        "https://www.businessdailyafrica.com/corporate/companies/digital-taxis-strike-enters-second-week/4003102-5206366-rbvf36/index.html"
     ],
     "actions": [
-        "protest"
+        "strike"
     ],
     "struggles": [
         "pay and benefits",
@@ -15,32 +15,28 @@
     "employment_types": [
         "gig workers"
     ],
-    "description": "As Assembly Bill 5 makes its way through the California state legislature, Uber and Lyft drivers are voicing their demands for better pay, basic workplace protections and the right to organize through unions. Drivers chanted and cheered outside the Uber headquarters building in San Francisco as they delivered a letter demanding negotiations for better working conditions.",
+    "description": "Rideshare drivers in Nairobi have gone on strike because of what they describe as low wages and poor working conditions. They are protesting unfair commissions from US-based Uber, Estonian firm Bold (formerly Taxify) and locally owned Little Cab. The strike entered its second week, continuing the protest over pitiable rates for the drivers.",
     "online": null,
     "locations": [
-        "san francisco-california-usa"
+        "nairobi-kenya"
     ],
     "companies": [
         "uber",
-        "lyft"
+        "bolt",
+        "little_cab"
     ],
-    "workers": null,
+    "workers": 30,
     "tags": null,
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            37.7899898,
-            -122.3999799
-        ],
-        [
-            37.7509149,
-            -122.40246883416269
+            7.2077919,
+            38.613507
         ]
     ],
     "addresses": [
-        "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
-        "Lyft, Kansas Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States of America"
+        "Bolt, Addis Ababa to Nairobi road, \u1218\u120d\u12ab \u12a1\u12f3, \u123b\u1238\u1218\u1294 / Shashamane, East Shewa, \u12a6\u122e\u121a\u12eb \u12ad\u120d\u120d / Oromia, Ethiopia"
     ]
 }

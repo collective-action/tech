@@ -1,8 +1,9 @@
 {
-    "id": 143,
-    "date": "2019/06/06",
+    "id": 141,
+    "date": "2019/05/22",
     "sources": [
-        "https://slate.com/technology/2019/08/stanford-tech-students-backlash-google-facebook-palantir.html"
+        "https://www.vox.com/recode/2019/5/22/18635604/amazon-shareholder-meeting-2019-climate-change-proposal",
+        "https://gizmodo.com/jeff-bezos-wouldn-t-even-come-on-stage-to-listen-to-his-1834957220"
     ],
     "actions": [
         "protest"
@@ -11,31 +12,30 @@
         "ethics"
     ],
     "employment_types": [
-        "na"
+        "white collar workers"
     ],
-    "description": "Students for the Liberation of All People (SLAP), a student organization at Stanford, places a banner across the street from Palantir's entrance reading \u201cOUR SOFTWARE IS SO POWERFUL IT SEPARATES FAMILIES.\u201d in protest of the company's involvement with U.S. Immigration and Customs Enforcement. ",
+    "description": "More than 50 Amazon employees from Amazon Employees for Climate Justice attended the shareholder meeting, where Emily Cunningham delivered an impassioned speech to shareholders urging them to support the resolution for Amazon to adopt a strong climate plan. Jeff Bezos did not come on stage when asked by Cunningham to make an appearance. Shareholders voted no.",
     "online": null,
     "locations": [
-        "palo alto-california-usa"
+        "seattle-washington-usa"
     ],
     "companies": [
-        "palantir"
+        "amazon"
     ],
-    "workers": 24,
+    "workers": 50,
     "tags": [
-        "students",
-        "immigration"
+        "climate_change"
     ],
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
     "latlngs": [
         [
-            37.4440869,
-            -122.16287540411753
+            47.6142939,
+            -122.3239636
         ]
     ],
     "addresses": [
-        "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States of America"
+        "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
     ]
 }

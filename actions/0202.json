@@ -1,30 +1,39 @@
 {
-    "id": 202,
-    "date": "2019/11/01",
+    "id": 200,
+    "date": "2019/10/28",
     "sources": [
-        "https://mashable.com/article/instacart-shoppers-work-stoppage-open-letter-apoorva-mehta/",
-        "https://medium.com/@nopenever50/dear-apoorva-mehta-founder-and-ceo-of-instacart-944ca4db6ad0"
+        "https://www.nytimes.com/2019/10/28/technology/facebook-mark-zuckerberg-political-ads.html",
+        "https://www.nytimes.com/2019/10/28/technology/facebook-mark-zuckerberg-letter.html?action=click&module=relatedlinks&pgtype=article"
     ],
     "actions": [
         "open letter"
     ],
     "struggles": [
-        "pay and benefits"
+        "ethics"
     ],
     "employment_types": [
-        "gig workers"
+        "na"
     ],
-    "description": "Instacart workers circulated an open letter on Medium prior to a walkout scheduled for Nov. 3rd to Nov. 5th. Employees are protesting the company's history of systematically devaluing labor, using algorithms to reduce pay to employees and changing tipping structures to return profit to the company. Over 200 workers have signed the letter.",
+    "description": "More than 250 Facebook employees signed a letter to management protesting the company's decision to keep political ads, including those making false claims, on the social network during the 2020 US Presidential election. The letter was posted on Facebook Workplace, an internal communication service within the company.",
     "online": true,
-    "locations": null,
-    "companies": [
-        "instacart"
+    "locations": [
+        "usa"
     ],
-    "workers": 212,
+    "companies": [
+        "facebook"
+    ],
+    "workers": 251,
     "tags": null,
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            30.2691649,
+            -97.7455041
+        ]
+    ],
+    "addresses": [
+        "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States of America"
+    ]
 }

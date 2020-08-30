@@ -1,31 +1,40 @@
 {
-    "id": 79,
-    "date": "2018/04/02",
+    "id": 77,
+    "date": "2018/03/06",
     "sources": [
-        "https://en.yna.co.kr/view/aen20180402010200320"
+        "https://www.mercurynews.com/2018/03/07/stanford-students-protest-outside-apple-headquarters-over-smartphone-addiction/"
     ],
     "actions": [
-        "union representation"
+        "protest"
     ],
     "struggles": [
-        "working conditions"
+        "ethics"
     ],
     "employment_types": [
-        "white collar workers"
+        "na"
     ],
-    "description": "Naver Corp., South Korea's dominant Internet portal and search engine, said that it has established the company's first labor union. After receiving official approval, the union started receiving membership applications from potential members, Naver's union said. More than 300 people joined within two hours.",
+    "description": "Stanford Students Against Addictive Devices, a group of computer science students at the university, stage a protest at Apple Headquarters. They call for Apple to design devices with an 'essential mode', allowing the user to activate only basic functions. The group previously held a protest at the Apple store in downtown Palo Alto.",
     "online": null,
     "locations": [
-        "seoul-south korea"
+        "palo alto-california-usa"
     ],
     "companies": [
-        "naver"
+        "apple"
     ],
-    "workers": 300,
-    "tags": null,
+    "workers": null,
+    "tags": [
+        "students"
+    ],
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.4417249,
+            -122.1725159
+        ]
+    ],
+    "addresses": [
+        "Apple Store, 660, Stanford Shopping Center, Stanford, Palo Alto, Santa Clara County, California, 94025, United States of America"
+    ]
 }

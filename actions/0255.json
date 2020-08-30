@@ -1,28 +1,29 @@
 {
-    "id": 274,
-    "date": "2020/04/01",
+    "id": 250,
+    "date": "2020/03/31",
     "sources": [
-        "https://www.nytimes.com/2020/04/15/business/amazon-france-covid.html"
+        "https://www.reuters.com/article/us-health-coronavirus-amazon-com-warehou/amazon-warehouse-workers-protest-near-detroit-days-after-nyc-walkout-iduskbn21j6ix"
     ],
     "actions": [
-        "legal action"
+        "protest"
     ],
     "struggles": [
-        "working conditions"
+        "working conditions",
+        "pay and benefits"
     ],
     "employment_types": [
         "inhouse workers",
         "blue collar workers"
     ],
-    "description": "Amazon's French SUD-Commerce union launched a lawsuit against the company alleging that they had failed to uphold coronavirus safety measures at six different warehouses in the country.  French courts ruled in favor of the union. The company was forced to stop its operations for five days, while continuing to pay workers, in order to improve safety. Delivery was also restricted to food, hygiene, and medical products at this time.",
+    "description": "Amazon warehouse workers near Detroit staged a demonstration to call for more stringent cleaning practices in their facility and reimbursement for any health bills incurred by employees (and their families) who had contracted coronavirus on the job. Management reports that fewer than 15 employees joined in, while organizers say there were 40 participants. ",
     "online": null,
     "locations": [
-        "france"
+        "usa"
     ],
     "companies": [
         "amazon"
     ],
-    "workers": null,
+    "workers": 40,
     "tags": [
         "coronavirus"
     ],
@@ -31,11 +32,11 @@
     ],
     "latlngs": [
         [
-            49.20773805,
-            2.6199324110680884
+            47.6142939,
+            -122.3239636
         ]
     ],
     "addresses": [
-        "Amazon, Villem\u00e9trie, Senlis, Oise, Hauts-de-France, France m\u00e9tropolitaine, 60300, France"
+        "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
     ]
 }

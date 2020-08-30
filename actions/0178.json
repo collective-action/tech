@@ -1,26 +1,29 @@
 {
-    "id": 178,
-    "date": "2019/09/07",
+    "id": 176,
+    "date": "2019/09/04",
     "sources": [
-        "https://medium.com/@blindfb2020/facebook-empowers-racism-against-its-employees-of-color-fbbfaf55ab76",
-        "https://www.theroot.com/black-facebook-workers-write-open-letter-to-company-we-1839776402"
+        "http://www.nordiclabourjournal.org/nyheter/news-2019/article.2019-09-09.4705108683",
+        "https://www.itfglobal.org/en/news/riders-setup-soup-kitchen-in-oslo-in-fight-decent-work"
     ],
     "actions": [
-        "open letter"
+        "strike",
+        "union drive"
     ],
     "struggles": [
-        "discrimination"
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers"
+        "gig workers"
     ],
-    "description": "A group of Facebook employees published an anonymous memo saying the culture at the company has only gotten worse for nonwhite workers. Published on Medium, the letter documents a variety of micro- and full-blown aggressions employees say they have endured over the last year from managers, HR, and their white colleagues. The memo was co-written by 12 current employees, including black, Latinx, and Asian women workers. One program manager describes being told by two white employees to 'clean up after their mess' at breakfast. When the program manager flagged the incident for their supervisor, they were told to 'dress more professionally.'",
-    "online": true,
-    "locations": null,
+    "description": "In Oslo, hundreds of striking riders are cycling around to gather support for their demand for a collective agreement. The striking riders are organised in what used to be the Norwegian Transport Workers' Union, which is now part of Fellesforbundet. The strike has already had consequences for Foodora. The employees demand higher salaries and compensation for expenses incurred using their own private bikes at work. The striking riders cycle around Oslo every day in what they call Critical Mass, something that demonstrates the strike is ongoing and that it is growing day by day. The strike lasted 5 weeks.",
+    "online": null,
+    "locations": [
+        "oslo-norway"
+    ],
     "companies": [
-        "facebook"
+        "foodera"
     ],
-    "workers": 12,
+    "workers": 140,
     "tags": null,
     "author": [
         "organizejs"

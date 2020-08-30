@@ -1,45 +1,40 @@
 {
-    "id": 130,
-    "date": "2019/04/17",
+    "id": 128,
+    "date": "2019/04/04",
     "sources": [
-        "https://www.theatlantic.com/technology/archive/2019/04/instagram-memers-are-unionizing/587308/?fbclid=iwar0enfo9hotaka_ukh0snpjn5pypplmygz1wkelyul-42lue4p-_foalbq0"
+        "https://www.wired.com/story/microsoft-employees-protest-treatment-women-ceo-nadella/"
     ],
     "actions": [
-        "union drive"
+        "protest"
     ],
     "struggles": [
-        "working conditions",
-        "pay and benefits"
+        "discrimination"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers"
     ],
-    "description": "Instagram memers have had enough. They generate the engagement that helps keep Instagram growing\u2014but, they argue, the multibillion-dollar platform doesn't pay them for their work, or give them any control. So they're fighting back. And before you write off IG Meme Union Local 69-420 as a joke, the organizers of the collective would like you to know that they are very serious.",
-    "online": true,
+    "description": "A group of Microsoft employees appeared at an employee meeting with CEO Satya Nadella Thursday to protest the companies's treatment of women. It's not clear how many were part of the protest, but some female and male employees at the event wore all white, inspired by the congresswomen who wore suffragette white to the State of the Union in February.",
+    "online": null,
     "locations": [
-        "usa"
+        "seattle-washington-usa"
     ],
     "companies": [
-        "instagram",
-        "facebook"
+        "microsoft"
     ],
     "workers": null,
-    "tags": null,
+    "tags": [
+        "sexism"
+    ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            41.14127715,
-            -77.46294984398486
-        ],
-        [
-            30.2691649,
-            -97.7455041
+            47.5388725,
+            -122.2901728
         ]
     ],
     "addresses": [
-        "Instagram-Ferris_Joshua / Marycate.minnigh, Campus Drive, Sunset Pines, Lock Haven, Clinton County, Pennsylvania, 17745, United States of America",
-        "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States of America"
+        "Microsoft Gathering Hall, 7054, 32nd Avenue South, Columbia City, Holly Park, Seattle, King County, Washington, 98118, United States of America"
     ]
 }

@@ -1,32 +1,43 @@
 {
-    "id": 203,
-    "date": "2019/11/03",
+    "id": 201,
+    "date": "2019/10/29",
     "sources": [
-        "https://sf.eater.com/2019/11/4/20947832/instacart-shoppers-strike",
-        "https://medium.com/@vanessabain/dear-instacart-customers-664dbb59016e"
+        "https://www.geekwire.com/2019/tableau-employees-hold-rally-seattle-ask-leadership-sever-ties-ice-cbp/",
+        "https://medium.com/@tableauempethicsalliance/drawing-a-line-77606d6dafff"
     ],
     "actions": [
-        "strike"
+        "protest",
+        "open letter"
     ],
     "struggles": [
-        "pay and benefits"
+        "ethics"
     ],
     "employment_types": [
-        "gig workers"
+        "na"
     ],
-    "description": "Thousands' of Instacart shoppers went on strike from Nov. 3rd to Nov. 5th to protest the company's new tipping policy, which returns a portion of tips to the corporation rather than the workers. Participating shoppers refused to answer requests on the app. Instacart workers are considered contractors currently but this will change on January 1st in the state of California under AB5 legislation.",
+    "description": "Over 200 employees of the data visualization company Tableau protested their company's contracts with the federal government. They called on their company to drop these contracts in oppositio to the actions of ICE (U.S. Immigration and Customs Enforcement) throughout the US and at the US-Mexico border. An open letter was also published on Medium.",
     "online": null,
     "locations": [
-        "usa"
+        "seattle-washington-usa"
     ],
     "companies": [
-        "instacart"
+        "tableau"
     ],
-    "workers": 1000,
-    "tags": null,
+    "workers": 201,
+    "tags": [
+        "ice",
+        "immigration"
+    ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            47.6490619,
+            -122.3479148
+        ]
+    ],
+    "addresses": [
+        "Tableau Software, 837, North 34th Street, Fremont, Seattle, King County, Washington, 98103, United States of America"
+    ]
 }

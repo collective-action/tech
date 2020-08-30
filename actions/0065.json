@@ -1,8 +1,8 @@
 {
-    "id": 66,
-    "date": "2017/02/01",
+    "id": 64,
+    "date": "2017/01/18",
     "sources": [
-        "https://www.usatoday.com/story/tech/talkingtech/2017/01/30/googlers-stage-worldwide-walkout-trump-immigration-ban-rally-mountain-view-serge-brin-sundar-pichai/97265938/"
+        "https://techcrunch.com/2017/01/18/tech-employees-protest-in-front-of-palantir-hq-over-fears-it-will-build-trumps-muslim-registry/"
     ],
     "actions": [
         "protest"
@@ -13,30 +13,29 @@
     "employment_types": [
         "na"
     ],
-    "description": "Google employees around the world walked off the job to protest Pres. Trump's immigration ban. Google co-founder Sergey Brin and CEO Sundar Pichai spoke at the walk-out at the Mountain View headquarters.",
+    "description": "50 people in the tech community came out in the pouring rain to demand the data mining startup take a firm stand against the makings of a Muslim registry.",
     "online": null,
     "locations": [
-        "mountain view-california-usa",
-        "worldwide"
+        "palo alto-california-usa"
     ],
     "companies": [
-        "google"
+        "palantir"
     ],
-    "workers": 2000,
+    "workers": 50,
     "tags": [
-        "immigration",
+        "industry_solidarity",
         "trump"
     ],
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
     "latlngs": [
         [
-            37.41897865,
-            -122.08237793989416
+            37.4440869,
+            -122.16287540411753
         ]
     ],
     "addresses": [
-        "Google, Mountain View, Santa Clara County, California, United States of America"
+        "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States of America"
     ]
 }

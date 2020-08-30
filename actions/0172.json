@@ -1,28 +1,24 @@
 {
-    "id": 172,
-    "date": "2019/08/14",
+    "id": 170,
+    "date": "2019/08/13",
     "sources": [
         "https://www.theverge.com/2019/8/14/20805968/caviar-employees-doordash-square-acquisition-mistreatment-renegotiate-offers"
     ],
     "actions": [
-        "protest"
+        "open letter"
     ],
     "struggles": [
-        "pay and benefits"
+        "ethics"
     ],
     "employment_types": [
         "white collar workers"
     ],
-    "description": "A group of Caviar employees has banded together to request a good faith renegotiation from DoorDash and Square, claiming mistreatment in the job transition process as DoorDash finalizes its plans to acquire Caviar from the payment company. It is unclear how many people this letter represents, though an anonymous Caviar member claims that the group is made up of the 'majority' of non-management employees. (According to Crunchbase, Caviar employs between 100 and 250 people.)t",
+    "description": "After the El Paso and Gilroy shootings, A collective of prominent tech leaders that calls itself Build Tech We Trust signed a letter demanding that the tech industry stop the spread of hate and terrorism on digital platforms. 'We are a collective of tech CEOs, activists, changemakers, and workers who believe the time to act to counter the hate and terrorism is now,' stated the letter, which was signed by over 20 notable figures in the tech industry, including Ellen Pao, ReadySet CEO Y-Vonne Hutchinson, and Code2040 CEO Karla Monterroso.",
     "online": null,
     "locations": [
         "usa"
     ],
-    "companies": [
-        "doordash",
-        "caviar",
-        "square"
-    ],
+    "companies": null,
     "workers": null,
     "tags": null,
     "author": [
@@ -30,21 +26,11 @@
     ],
     "latlngs": [
         [
-            37.7834546,
-            -122.4080358
-        ],
-        [
-            65.4102317,
-            -163.0526448
-        ],
-        [
-            30.4422494,
-            -84.32472631122516
+            39.7837304,
+            -100.4458825
         ]
     ],
     "addresses": [
-        "Doordash HQ, Stevenson Street, Union Square, San Francisco, San Francisco City and County, California, 94104, United States of America",
-        "Caviar Creek, Nome, Alaska, United States of America",
-        "The Square, Zion Hill, Tallahassee, Leon County, Florida, United States of America"
+        "United States"
     ]
 }

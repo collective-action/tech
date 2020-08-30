@@ -1,47 +1,45 @@
 {
-    "id": 163,
-    "date": "2019/07/19",
+    "id": 161,
+    "date": "2019/07/16",
     "sources": [
-        "https://sanfrancisco.cbslocal.com/2019/07/19/uber-lyft-drivers-hq-protest-working-conditions/",
-        "https://techcrunch.com/2019/07/18/uber-and-lyft-drivers-demand-better-pay-workplace-protections-and-driver-led-unions/",
-        "https://www.cnet.com/news/uber-lyft-drivers-stage-protest-for-better-working-conditions/"
+        "https://www.sfchronicle.com/business/article/facebook-cafeteria-workers-protest-pay-hours-in-14100891.php",
+        "https://www.sfexaminer.com/the-city/facebook-cafeteria-workers-call-out-social-media-giant/",
+        "https://www.theguardian.com/us-news/2019/jul/22/facebook-cafeteria-workers-protest"
     ],
     "actions": [
-        "strike"
+        "protest"
     ],
     "struggles": [
         "pay and benefits",
         "working conditions"
     ],
     "employment_types": [
-        "gig workers"
+        "blue collar workers",
+        "contract workers"
     ],
-    "description": "Uber and Lyft drivers chanted and cheered outside the Uber headquarters building in San Francisco on Friday as they delivered a letter demanding negotiations for better working conditions. In an open letter, published to coincide with the protest, drivers called on Uber CEO Dara Khosrowshahi and Lyft co-founders Logan Green and John Zimmer for changes in treatment. Drivers tried to present the letter at the protest, but weren't able to enter Uber's headquarters.",
+    "description": "Cafeteria workers from Facebook's downtown San Francisco office picketed for higher wages, shorter working days, and improved healthcare coverage. The actions followed months of negotiation with the group's union Unite Here Local 2. The employees, who are contracted by Facebook through Flagship Facility Services, cited the high cost of living in the Bay Area and their need to work multiple jobs as motivations for the protest. Full-time employees from Google and Facebook joined the protest in support.",
     "online": null,
     "locations": [
         "san francisco-california-usa"
     ],
     "companies": [
-        "uber",
-        "lyft"
+        "facebook"
     ],
-    "workers": 40,
-    "tags": null,
+    "workers": 50,
+    "tags": [
+        "unite_here",
+        "coworker_solidarity"
+    ],
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            37.7899898,
-            -122.3999799
-        ],
-        [
-            37.7509149,
-            -122.40246883416269
+            37.484668049999996,
+            -122.1483654685629
         ]
     ],
     "addresses": [
-        "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
-        "Lyft, Kansas Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States of America"
+        "Facebook, San Francisco Bay Trail, Menlo Park, San Mateo County, California, 94025-1246, United States of America"
     ]
 }

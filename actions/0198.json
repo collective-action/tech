@@ -1,9 +1,10 @@
 {
-    "id": 198,
-    "date": "2019/10/04",
+    "id": 196,
+    "date": "2019/10/03",
     "sources": [
-        "https://www.bloomberg.com/news/articles/2019-10-10/microsoft-employees-call-to-end-github-ice-contract",
-        "https://www.businessinsider.com/microsoft-github-ice-contracts-solidarity-2019-10"
+        "https://www.washingtonpost.com/technology/2019/10/09/employees-ask-github-cancel-ice-contract-we-cannot-offset-human-lives-with-money/",
+        "https://www.washingtonpost.com/context/letter-from-github-employees-to-ceo-about-the-company-s-ice-contract/fb280de9-2bc3-40d5-b1a5-e3b954bf0d25/",
+        "https://www.vox.com/recode/2019/10/9/20906605/github-ice-contract-immigration-ice-dan-friedman"
     ],
     "actions": [
         "open letter"
@@ -14,29 +15,34 @@
     "employment_types": [
         "white collar workers"
     ],
-    "description": "Microsoft employees are circulating a letter supporting an effort to get its GitHub subsidiary to cancel a contract with the U.S. Immigration and Customs Enforcement agency, the latest effort among tech-company staff to influence corporate policy on government work. The letter reflects concerns that Microsoft\u2019s sales to the agency implicate the software maker in the government\u2019s detention of immigrants. ",
+    "description": "After GitHub CEO Nat Friedman wrote in an internal letter on Tuesday that the company plans to renew a contract worth $200,000 with ICE to license its GitHub Enterprise Server, GitHub's employees began publicly pressuring their company's leadership to stop working with the immigration agency over human rights concerns.",
     "online": true,
     "locations": [
         "usa"
     ],
     "companies": [
+        "github",
         "microsoft"
     ],
-    "workers": 200,
+    "workers": 150,
     "tags": [
-        "ice",
-        "industry_solidarity"
+        "ice"
     ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
+            37.7821769,
+            -122.3912458
+        ],
+        [
             35.139622349999996,
             -80.92306993327955
         ]
     ],
     "addresses": [
+        "GitHub, 88, Colin P. Kelly Junior Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States of America",
         "Microsoft, Yorkwood, Charlotte, Mecklenburg County, North Carolina, United States of America"
     ]
 }

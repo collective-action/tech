@@ -1,33 +1,56 @@
 {
-    "id": 237,
-    "date": "2020/03/13",
+    "id": 235,
+    "date": "2020/03/06",
     "sources": [
-        "https://techcrunch.com/2020/03/13/online-code-collaboration-tool-glitch-votes-to-unionize/",
-        "https://cwa-union.org/news/releases/tech-workers-app-developer-glitch-vote-form-union-and-join-cwa-organizing-initiative"
+        "https://fortune.com/2020/03/10/gig-workers-petition-for-sick-leave-coronavirus/",
+        "https://www.coworker.org/petitions/demand-gig-economy-companies-give-paid-sick-time-off-during-coronavirus",
+        "https://www.fastcompany.com/90472535/coronavirus-paid-sick-leave"
     ],
     "actions": [
-        "union representation"
+        "open letter"
     ],
     "struggles": [
-        "na"
+        "working conditions",
+        "unfair labor practices"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "Employees of online software collaboration tool Glitch won their union with the Communications Workers of America (CWA). The move comes after 90% of the workers indicated their support for joining CWA and authorized CWA to be their bargaining representative. Glitch will join the CWA Local 1101, as part of the Campaign to Organize Digital Employees (CODE-CWA) initiative, which was launched back in January.",
-    "online": null,
+    "description": "Gig Workers Rising launched a petition calling on the heads of the biggest gig economy platforms to give workers paid sick leave amid the coronavirus outbreak. That petition garnered more than 900 signatures. In the petition, the workers say they are often on the \u201cfront lines of exposure,\u201d given that every day they come in contact with various people, including those arriving at airports or heading to the hospital. Without paid sick leave, the gig workers say they are often forced to choose between making ends meet and taking care of their health, and therefore the health of the company's customers. ",
+    "online": true,
     "locations": [
-        "new york city-new york-usa"
+        "california-usa"
     ],
     "companies": [
-        "glitch"
+        "uber",
+        "lyft",
+        "instacart",
+        "doordash"
     ],
-    "workers": null,
-    "tags": null,
+    "workers": 900,
+    "tags": [
+        "coronavirus"
+    ],
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.7899898,
+            -122.3999799
+        ],
+        [
+            37.7509149,
+            -122.40246883416269
+        ],
+        [
+            37.7834546,
+            -122.4080358
+        ]
+    ],
+    "addresses": [
+        "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "Lyft, Kansas Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States of America",
+        "Doordash HQ, Stevenson Street, Union Square, San Francisco, San Francisco City and County, California, 94104, United States of America"
+    ]
 }

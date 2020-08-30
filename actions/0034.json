@@ -1,38 +1,34 @@
 {
-    "id": 35,
-    "date": "2014/03/31",
+    "id": 33,
+    "date": "2014/01/16",
     "sources": [
-        "https://www.reuters.com/article/us-amazon-strikes/amazon-workers-in-germany-strike-again-in-protracted-pay-dispute-idusbrea2u0l220140331"
+        "https://time.com/956/how-amazon-crushed-the-union-movement/"
     ],
     "actions": [
-        "strike"
+        "union representation"
     ],
     "struggles": [
-        "pay and benefits"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
         "blue collar workers"
     ],
-    "description": "Several hundred Amazon workers in Leipzig, Germany went on strike as part of a union effort to raise wages. The company reported 340 workers were involved whereas the union (Verdi) reported the number was closer to 500.",
+    "description": "A group of technicians at an Amazon facility in Middletown, Delaware filed a petition with the NLRB to organize a union but ultimately voted against it, 21-6, after pressure from management and anti-union consultants. ",
     "online": null,
     "locations": [
-        "leipzig-germany"
+        "middletown-delaware-usa"
     ],
     "companies": [
         "amazon"
     ],
-    "workers": 340,
-    "tags": null,
+    "workers": 6,
+    "tags": [
+        "retaliation"
+    ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            51.3622584,
-            12.452329749225527
-        ]
-    ],
-    "addresses": [
-        "Amazon, 1, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

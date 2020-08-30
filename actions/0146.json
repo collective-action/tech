@@ -1,33 +1,43 @@
 {
-    "id": 147,
-    "date": "2019/06/15",
+    "id": 145,
+    "date": "2019/06/12",
     "sources": [
-        "https://www.wweek.com/news/2019/06/13/portland-postmates-workers-to-join-national-protest-of-pay-cut-by-only-accepting-surge-price-deliveries/",
-        "https://payup.wtf/blitzup",
-        "https://katu.com/news/local/postmates-workers-demand-raise-by-using-a-blitz-up"
+        "https://www.gofundme.com/f/solidarity-fund-for-fired-fb-contingent-workers",
+        "https://medium.com/@techworkersco_79433/who-fired-the-ras-organizing-the-worst-job-at-facebook-97c63cb40683"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
-        "pay and benefits"
+        "job security"
     ],
     "employment_types": [
-        "gig workers"
+        "na"
     ],
-    "description": "Thousands' of Postmates employees activated a Blitz Up app on June 15. The app prevented them from taking any delivery jobs without a 'Blitz bonus' of 1.5x the typical rate. The action was taken to protest pay cuts that went into effect May 2019. Blitz Up was created by the Pay Up Campaign, a group of Instacart workers that organized to protest pay cuts in January 2019. ",
+    "description": "Workers for workers, a group of Facebook employees who organize to support the company's contract workers, started a gofundme campaign to materially support 9 contingent workers who were fired for violating non-existant company policy. Workers for Workers is drawing on its network of mostly tech workers to provide support for the 9 contingent workers who were suddenly let go. The campaign will support these folks in their hour of greatest need, aiming to raise $40,000 to cover their basic living expenses for the next two months as they seek to clear their name within Facebook and find a new job on short notice. ",
     "online": null,
     "locations": [
-        "portland-oregon-usa"
+        "seattle-washington-usa"
     ],
     "companies": [
-        "postmates"
+        "facebook"
     ],
-    "workers": 1000,
-    "tags": null,
+    "workers": 150,
+    "tags": [
+        "coworker_solidarity",
+        "funding_raising",
+        "twc"
+    ],
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            47.6289467,
+            -122.3428731
+        ]
+    ],
+    "addresses": [
+        "Facebook Dexter, 1101, Dexter Avenue North, Westlake, Seattle, King County, Washington, 98109, United States of America"
+    ]
 }
