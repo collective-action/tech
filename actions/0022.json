@@ -1,38 +1,31 @@
 {
-    "id": 23,
-    "date": "2012/06/05",
+    "id": 21,
+    "date": "2012/04/27",
     "sources": [
-        "https://www.voanews.com/east-asia/outside-glitzy-taiwan-trade-show-workers-fight-pay-and-rest"
+        "https://www.reuters.com/article/us-china-foxconn/workers-protest-at-foxconn-plant-in-china-idusbre83q0jv20120427"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
-        "pay_and_benefits",
-        "working conditions"
+        "pay and benefits"
     ],
     "employment_types": [
-        "white_collar_workers",
-        "blue_collar_workers"
+        "blue collar workers"
     ],
-    "description": "Outside of Taiwan's Computex trade show, labor groups protested poor working conditions and inadequate pay for both white-collar and blue-collar workers",
+    "description": "Approximately 200 FoxConn workers in Wuhan, China threatened to jump of the roof of a building yesterday to protest low wages. The protests recalled a series of worker suicides in 2010 and a similar protest held in January at the same facility.",
     "online": null,
     "locations": [
-        "taipei-taiwan"
+        "wuhan-china"
     ],
-    "companies": null,
-    "workers": null,
+    "companies": [
+        "foxconn"
+    ],
+    "workers": 200,
     "tags": null,
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            25.0375198,
-            121.5636796
-        ]
-    ],
-    "addresses": [
-        "\u81fa\u5317\u5e02, Taiwan"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

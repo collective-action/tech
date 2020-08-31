@@ -1,46 +1,50 @@
 {
-    "id": 174,
-    "date": "2019/08/22",
+    "id": 172,
+    "date": "2019/08/14",
     "sources": [
-        "https://www.vice.com/en_us/article/a35g8k/hundreds-of-uber-drivers-will-caravan-600-miles-across-california-to-demand-better-working-conditions, https://techcrunch.com/2019/08/22/hundreds-of-uber-and-lyft-drivers-to-launch-a-protest-caravan-across-california/"
+        "https://www.theverge.com/2019/8/14/20805968/caviar-employees-doordash-square-acquisition-mistreatment-renegotiate-offers"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
-        "pay_and_benefits",
-        "working conditions"
+        "pay and benefits"
     ],
     "employment_types": [
-        "gig_workers"
+        "white collar workers"
     ],
-    "description": "Gig Workers Rising and Mobile Workers Alliance have organized a protest caravan of rideshare workers to advocate for AB5, a bill in the California State Legislature that would require rideshare companies to recognize their drivers as employees. The caravan plans to drive roughly 600 miles, from Southern California to San Francisco to Sacramento, as part of their action.",
+    "description": "A group of Caviar employees has banded together to request a good faith renegotiation from DoorDash and Square, claiming mistreatment in the job transition process as DoorDash finalizes its plans to acquire Caviar from the payment company. It is unclear how many people this letter represents, though an anonymous Caviar member claims that the group is made up of the 'majority' of non-management employees. (According to Crunchbase, Caviar employs between 100 and 250 people.)t",
     "online": null,
     "locations": [
-        "sacramento-california-usa",
-        "san francisco-california-usa"
+        "usa"
     ],
     "companies": [
-        "uber",
-        "lyft"
+        "doordash",
+        "caviar",
+        "square"
     ],
-    "workers": 200,
+    "workers": null,
     "tags": null,
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
     "latlngs": [
         [
-            37.7899898,
-            -122.3999799
+            37.7834546,
+            -122.4080358
         ],
         [
-            37.7509149,
-            -122.40246883416269
+            65.4102317,
+            -163.0526448
+        ],
+        [
+            30.4422494,
+            -84.32472631122516
         ]
     ],
     "addresses": [
-        "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
-        "Lyft, Kansas Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States of America"
+        "Doordash HQ, Stevenson Street, Union Square, San Francisco, San Francisco City and County, California, 94104, United States of America",
+        "Caviar Creek, Nome, Alaska, United States of America",
+        "The Square, Zion Hill, Tallahassee, Leon County, Florida, United States of America"
     ]
 }

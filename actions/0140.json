@@ -1,40 +1,44 @@
 {
-    "id": 141,
-    "date": "2019/05/22",
+    "id": 139,
+    "date": "2019/05/09",
     "sources": [
-        "https://www.vox.com/recode/2019/5/22/18635604/amazon-shareholder-meeting-2019-climate-change-proposal, https://gizmodo.com/jeff-bezos-wouldn-t-even-come-on-stage-to-listen-to-his-1834957220"
+        "https://clb.org.hk/content/senior-staff-oracle%e2%80%99s-beijing-research-centre-protest-layoffs",
+        "https://technode.com/2019/05/10/oracle-programmers-100000-recruitment/",
+        "https://www.ft.com/content/16ffdcec-749d-11e9-bbad-7c18c0ea0201"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
-        "ethics"
+        "pay and benefits",
+        "job security"
     ],
     "employment_types": [
-        "white_collar_workers"
+        "white collar workers"
     ],
-    "description": "More than 50 Amazon employees from Amazon Employees for Climate Justice attended the shareholder meeting, where Emily Cunningham delivered an impassioned speech to shareholders urging them to support the resolution for Amazon to adopt a strong climate plan. Jeff Bezos did not come on stage when asked by Cunningham to make an appearance. Shareholders voted no.",
+    "description": "Staff at US-owned tech giant Oracle's China Development Centre in Beijing have staged protests after the company fired 900 staff from its China team, making up 60 per cent of its research and development effort there. Employees blamed tensions between the US and China for the cuts which came in the same week as the US announced additional tariffs on Chinese goods. An employee referred to the Oracle co-founder's interview with Fox Business last October, in which Larry Ellison said that 'we [the US] have a serious competition going with China, I\u2019m on Team USA', and 'if we let China produce more engineers than we do, if we let China's technology companies beat our technology companies, it won't be long that our military is behind technologically also'.",
     "online": null,
     "locations": [
-        "seattle-washington-usa"
+        "beijing-china"
     ],
     "companies": [
-        "amazon"
+        "oracle"
     ],
-    "workers": 50,
+    "workers": 24,
     "tags": [
-        "climate_change"
+        "trade_wars",
+        "trump"
     ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            47.6142939,
-            -122.3239636
+            40.046504,
+            116.28356116115287
         ]
     ],
     "addresses": [
-        "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
+        "\u7532\u9aa8\u6587\u5927\u53a6, \u8f6f\u4ef6\u56ed\u4e09\u53f7\u8def, \u4e2d\u5173\u6751\u8f6f\u4ef6\u56ed, \u4e1c\u5317\u65fa\u6751, \u5317\u4eac\u5e02, 100093, China \u4e2d\u56fd"
     ]
 }

@@ -1,42 +1,37 @@
 {
-    "id": 285,
-    "date": "2020/06/15",
+    "id": 293,
+    "date": "2020/06/09",
     "sources": [
-        "https://medium.com/@macprac/open-letter-the-mit-college-of-computing-must-address-systemic-racism-b8c63ccc3d36\n"
+        "https://www.wsws.org/en/articles/2020/06/12/braz-j12.html"
     ],
     "actions": [
-        "open_letter"
+        "protest",
+        "strike"
     ],
     "struggles": [
-        "ethics"
+        "working conditions",
+        "pay and benefits"
     ],
     "employment_types": [
-        "white_collar_workers"
+        "gig workers"
     ],
-    "description": "Over 90 individuals and organizations affiliated with MIT have signed a letter to the MIT College of Computing Leadership calling for the college to make a public statement condemning the death of George Floyd, developing a plan to address \"the legacy of anti-blackness and the relationship between technology and policing\", and breaking ties with companies that sell to police departments and ICE. Long-term asks include hiring more Black faculty and recruiting and accepting more Black undergraduate and graduate students.",
-    "online": true,
+    "description": "Loggi delivery workers in Brazil went on strike starting June 9th to protest poor working conditions, including lack of protections against coronavirus, and low pay. Protestors also commemorated the death of a fellow worker, Thiago Coelho, who was killed in a motorcycle accident. ",
+    "online": null,
     "locations": [
-        "cambridge-massachusetts-usa"
+        "rio de janiero-brazil",
+        "s\u00e3o paulo-brazil"
     ],
     "companies": [
-        "mit"
+        "loggi"
     ],
-    "workers": 91,
+    "workers": null,
     "tags": [
-        "blm",
-        "antiracism",
-        "academics"
+        "coronavirus",
+        "delivery_workers"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            42.3583961,
-            -71.09567787663931
-        ]
-    ],
-    "addresses": [
-        "Massachusetts Institute of Technology, Linskey Way, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

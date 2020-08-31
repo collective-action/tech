@@ -1,39 +1,36 @@
 {
-    "id": 5,
-    "date": "1998/11/23",
+    "id": 3,
+    "date": "1986/09/16",
     "sources": [
-        "http://www.cnn.com/tech/computing/9811/23/mstemps.idg/"
+        "https://www.nytimes.com/1986/09/16/science/software-seen-as-obstacle-in-developing-star-wars.html"
     ],
     "actions": [
-        "legal_action"
+        "open letter"
     ],
     "struggles": [
-        "unfair_labor_practices",
-        "pay_and_benefits"
+        "ethics"
     ],
     "employment_types": [
-        "contract_workers"
+        "white collar workers"
     ],
-    "description": "A law firm representing 10 current and former contract workers at Microsoft Corp. filed a lawsuit in U.S. District Court on Tuesday against the software giant, seeking damages and full-time employee benefits for its plaintiffs and thousands of other 'misclassified' temporary employees. The 10 plaintiffs seek class-action status because they want to include some 6,000 current full-time Microsoft employees who have been 'misclassified as nonemployees' under 'various erroneous labels' and denied company benefits.",
+    "description": "A group of computer professionals, led by Computer Professionals for Social Responsibility (CPSR), signs a petition arguing that Pres. Reagan's Star Wars system is not feasible given current technology. Such a system would be prone to major errors, they argued, and would be irresponsible to implement.",
     "online": null,
     "locations": [
         "usa"
     ],
-    "companies": [
-        "microsoft"
-    ],
-    "workers": 10,
+    "companies": null,
+    "workers": 30,
     "tags": null,
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            35.139622349999996,
-            -80.92306993327955
+            39.7837304,
+            -100.4458825
         ]
     ],
     "addresses": [
-        "Microsoft, Yorkwood, Charlotte, Mecklenburg County, North Carolina, United States of America"
+        "United States"
     ]
 }

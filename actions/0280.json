@@ -1,33 +1,29 @@
 {
-    "id": 293,
-    "date": "2020/06/09",
+    "id": 267,
+    "date": "2020/06/08",
     "sources": [
-        "https://www.wsws.org/en/articles/2020/06/12/braz-j12.html"
+        "https://medium.com/@fbcontentmods/this-is-a-message-of-solidarity-from-a-group-of-current-and-former-content-moderators-at-facebook-6af1b3b2a020"
     ],
     "actions": [
-        "protest",
-        "strike"
+        "open letter"
     ],
     "struggles": [
-        "working conditions",
-        "pay_and_benefits"
+        "ethics"
     ],
     "employment_types": [
-        "gig_workers"
+        "contract workers"
     ],
-    "description": "Loggi delivery workers in Brazil went on strike starting June 9th to protest poor working conditions, including lack of protections against coronavirus, and low pay. Protestors also commemorated the death of a fellow worker, Thiago Coelho, who was killed in a motorcycle accident. ",
-    "online": null,
-    "locations": [
-        "rio de janiero-brazil",
-        "s\u00e3o paulo-brazil"
-    ],
+    "description": "Nine current and former Facebook content moderators posted a message of solidarity with the Black community in the wake of the George Floyd protests and in support of the virtual walkout. The authors noted that they would have attended the walkout \"if Facebook would allow it. As outsourced contractors, non-disclosure agreements deter us from speaking openly about what we do and witness for most of our waking hours.\" The workers also remarked on the lack of protections they receive from their employer. \"We would walk out with you \u2014 if we could afford it. At the moment, content moderators have no possibility, no network or platform or financial security \u2014 especially when we are atomized in pandemic and remotely micromanaged \u2014 to stage an effective walkout without risking fines, our income and even our right to stay in the countries where we live and work.\"",
+    "online": true,
+    "locations": null,
     "companies": [
-        "loggi"
+        "facebook"
     ],
-    "workers": null,
+    "workers": 9,
     "tags": [
-        "coronavirus",
-        "delivery_workers"
+        "antiracism",
+        "blm",
+        "moderators"
     ],
     "author": [
         "nataliyaned"

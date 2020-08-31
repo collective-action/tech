@@ -1,41 +1,55 @@
 {
-    "id": 159,
-    "date": "2019/07/15",
+    "id": 157,
+    "date": "2019/07/13",
     "sources": [
-        "https://jacobinmag.com/2019/07/amazon-shakopee-strike-prime-day, https://www.cnet.com/news/prime-day-brings-out-wave-of-activism-against-amazon/, https://www.theverge.com/2019/7/16/20696154/amazon-prime-day-2019-strike-warehouse-workers-inhumane-conditions-the-rate-productivity"
+        "https://www.merca20.com/los-problemas-con-los-que-se-enfrentan-los-repartidores-de-comida-en-apps/",
+        "https://www.xataka.com.mx/aplicaciones/vacaciones-jubilacion-horario-flexible-que-repartidores-uber-eats-rappi-sindelantal-piden-al-ser-empleados-mexico"
     ],
     "actions": [
-        "strike"
+        "protest"
     ],
     "struggles": [
-        "pay_and_benefits",
-        "working conditions"
+        "working conditions",
+        "pay and benefits"
     ],
     "employment_types": [
-        "blue_collar_workers"
+        "contract workers",
+        "gig workers"
     ],
-    "description": "Amazon employees, many who are Somali-American workers, at a fulfillment center outside Minneapolis are calling on the company to improve safety and benefits on one of the top sales days of the year. 100 fulfillment workers and labor groups outside the cavernous warehouse are protesting the company's working conditions, benefits and corporate culture. The demonstration is planned for the first day of Prime Day, one of Amazon's flagship shopping events that generates billions of dollars in sales for the retail giant. White collar employees from Amazon HQ (of the group Amazon Employees for Climate Justice) in Seattle are flying out to support the protesters.",
-    "online": null,
+    "description": "After increasing concerns about accident and death rates for delivery drivers, delivery workers across Mexico rallied under the hashtag #NiUnRepartidorMenos (translation: Not One Deliveryperson More). The workers have demanded better working conditions, and advocate that labor law better considers gig apps. They look to companies for improved insurance coverage, company protection from theft, and look to governments for fairer delivery driver licensing.  Workers in the movement have succeeded in meeting with several companies. ",
+    "online": true,
     "locations": [
-        "minneapolis-minnesota-usa"
+        "mexico"
     ],
     "companies": [
-        "amazon"
+        "glovo",
+        "uber",
+        "rappi",
+        "sindelantal",
+        "didi_food"
     ],
-    "workers": 100,
-    "tags": [
-        "coworker_solidarity"
-    ],
+    "workers": 20000,
+    "tags": null,
     "author": [
-        "organizejs"
+        "moates"
     ],
     "latlngs": [
         [
-            44.9696354,
-            -93.2884766
+            -34.5814605,
+            -58.4513731
+        ],
+        [
+            19.42437,
+            -99.168218
+        ],
+        [
+            47.2269198,
+            8.8245459
         ]
     ],
     "addresses": [
-        "Wounded Amazon, Lyndale Avenue South, Loring Park, Minneapolis, Hennepin County, Minnesota, 55403, United States of America"
+        "Glovo, 3590, Avenida Federico Lacroze, Colegiales, Buenos Aires, Ciudad Aut\u00f3noma de Buenos Aires, Comuna 15, C1427EDN, Argentina",
+        "Uber, Calle Hamburgo, Cuauht\u00e9moc, Ciudad de M\u00e9xico, 06600, M\u00e9xico",
+        "Rapperswil, Wahlkreis See-Gaster, Sankt Gallen, 8640, Switzerland"
     ]
 }

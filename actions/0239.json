@@ -1,35 +1,45 @@
 {
-    "id": 238,
-    "date": "2020/03/17",
+    "id": 236,
+    "date": "2020/03/12",
     "sources": [
-        "https://www.theverge.com/2020/3/17/21184495/google-employees-memo-contract-workers-coronavirus-covid-19, https://www.businessinsider.com/google-workers-raise-internal-concerns-tvc-policies-for-covid-19-2020-3"
+        "https://www.vice.com/en_us/article/n7jkdx/baristas-at-slack-say-theyve-won-90-days-of-severance",
+        "https://www.theverge.com/2020/3/12/21177319/slack-paying-contractors-after-laid-off-baristas-send-letter"
     ],
     "actions": [
-        "protest"
+        "open letter",
+        "legal action"
     ],
     "struggles": [
-        "unfair_labor_practices"
+        "job security"
     ],
     "employment_types": [
-        "white_collar_workers",
-        "in_house_workers"
+        "blue collar workers",
+        "contract workers"
     ],
-    "description": "Pittsburgh's office Google contractors employed by an independent company called HCL Technologies, have been forced to come into the office, even as full-time Google employees were first allowed and then instructed to stay home. Some HCL contractors wore black in a protest at the Pittsburgh office\u2019s cafeteria on Monday. This action is linked to the memo that Googlers sent out on the same day.",
+    "description": "A group of five baristas who operate the espresso machines at Slack\u2019s corporate headquarters in San Francisco learned on March 6 that they were losing their contracted positions just prior to a decision by the company to move to remote operations to curb the spread of COVID-19. The baristas claim that Slack caught wind of their intention to criticize the company publicly\u2014and in what they claim to be an organizing victory, they learned that their severance would be extended to 90 days.",
     "online": null,
     "locations": [
-        "pittsburgh-pennsylvania-usa"
+        "san francisco-california-usa"
     ],
     "companies": [
-        "google"
+        "slack"
     ],
-    "workers": 10,
+    "workers": 5,
     "tags": [
         "coworker_solidarity",
+        "fund_raising",
         "coronavirus"
     ],
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            35.2960341,
+            -120.6532192
+        ]
+    ],
+    "addresses": [
+        "Slack Street, San Luis Obispo, San Luis Obispo County, California, 93410, United States of America"
+    ]
 }

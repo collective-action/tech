@@ -1,31 +1,38 @@
 {
-    "id": 86,
-    "date": "2018/06/04",
+    "id": 84,
+    "date": "2018/05/15",
     "sources": [
-        "https://clb.org.hk/content/food-delivery-workers-china-strike-over-pay-cuts-and-unfair-work-practices"
+        "https://www.gofundme.com/all-out-for-pablito"
     ],
     "actions": [
-        "strike"
+        "protest"
     ],
     "struggles": [
-        "pay_and_benefits"
+        "ethics"
     ],
     "employment_types": [
-        "gig_workers"
+        "gig workers"
     ],
-    "description": "There have been at least 15 strikes and protests by food delivery workers in China since 1 May as increased competition among delivery platforms has drastically reduced workers' take-home pay. Workers contracted to food delivery giant Meituan in the northern city of Taiyuan staged a work stoppage in protest at a wide range of issues including pay levels, delivery times, insurance and high accident rates.",
+    "description": "Fellow gig workers have banded together through a GoFundMe fundraiser to cover the immediate funeral costs of a delivery worker for Caviar who was killed on the job, while demanding that the company ultimately cover the amount. More than $19,000 has been raised. Referenced on page 142 of Ghost Work (Mary Gray and Siddarth Suri)",
     "online": null,
     "locations": [
-        "taiyuan-china"
+        "usa"
     ],
     "companies": [
-        "meituan"
+        "caviar"
     ],
-    "workers": null,
+    "workers": 373,
     "tags": null,
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            65.4102317,
+            -163.0526448
+        ]
+    ],
+    "addresses": [
+        "Caviar Creek, Nome, Alaska, United States of America"
+    ]
 }

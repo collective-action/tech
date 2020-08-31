@@ -1,30 +1,44 @@
 {
-    "id": 50,
-    "date": "2015/07/20",
+    "id": 48,
+    "date": "2015/05/04",
     "sources": [
-        "https://qz.com/458615/theres-reportedly-a-big-secret-spreadsheet-where-google-employees-share-their-salaries/"
+        "https://www.usatoday.com/story/tech/2015/05/04/jesse-jackson-union-broadcom-rally/26880547/"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
-        "pay_and_benefits",
-        "working conditions"
+        "pay and benefits"
     ],
     "employment_types": [
-        "white_collar_workers"
+        "contract workers"
     ],
-    "description": "Google employees have started an internal spreadsheet to share data on salary and bonuses. Employees have reportedly used the spreadsheet to advocate for greater compensation.",
-    "online": true,
-    "locations": null,
+    "description": "Security guards at Broadcom, contracted through Universal Protection Service, rallied outside of company headquarters to protest retaliation for union organizing. The group was joined by Rev. Jesse Jackson and his Rainbow/PUSH Coalition, which has recently been pushing for greater diversity and equity in tech. UPS employees who have pushed for union organization through SEIU have reportedly had their wages cut.",
+    "online": null,
+    "locations": [
+        "santa clara-california-usa"
+    ],
     "companies": [
-        "google"
+        "broadcom",
+        "universal protection service"
     ],
     "workers": null,
     "tags": null,
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.3771412,
+            -122.03367714666899
+        ],
+        [
+            37.3504112,
+            -121.9016582
+        ]
+    ],
+    "addresses": [
+        "Broadcom, 190, Aries Way, Sunnyvale, Santa Clara County, California, 94086, United States of America",
+        "Universal Protection Service, North 1st Street, Civic Center, Japantown, San Jose, Santa Clara County, California, 95112-5005, United States of America"
+    ]
 }

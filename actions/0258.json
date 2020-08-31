@@ -1,28 +1,31 @@
 {
-    "id": 284,
-    "date": "2020/04/08",
+    "id": 252,
+    "date": "2020/04/04",
     "sources": [
-        "https://www.latimes.com/business/technology/story/2020-04-09/fearful-of-covid-19-amazon-workers-ask-for-state-probe-of-working-conditions"
+        "https://www.commondreams.org/news/2020/04/04/despite-threats-management-amazon-warehouse-workers-chicago-strike-demand-better",
+        "https://patch.com/illinois/chicago/cars-picket-amazon-workers-striking-coronavirus-safety"
     ],
     "actions": [
-        "legal_action"
+        "protest",
+        "strike"
     ],
     "struggles": [
-        "working conditions"
+        "working conditions",
+        "pay and benefits"
     ],
     "employment_types": [
-        "in_house_workers",
-        "blue_collar_workers"
+        "inhouse workers",
+        "blue collar workers"
     ],
-    "description": "Workers at Amazon\u2019s Eastvale fulfillment center in Riverside County filed complaints with state and county regulators alleging that the company failed to properly shutdown and disinfect facilities after receiving its first reported case of coronavirus. The company also delayed telling employees of third case of coronavirus for over five days, putting employees at risk. The filings were compiled by the Warehouse Worker Resource Center on behalf of LGB3 employees.",
+    "description": "Amazon workers, organized by DCH1 Amazonians United, staged a walkout at a facility in Chicago calling on the company to temporarily close and sanitize the facility following two positive coronavirus tests among employees. Additionally, the workers are calling for the company to cover any health bills accrued by employees and family members that have contracted coronavirus at the facility, plus more time on-the-job to incorporate safety practices such as regular hand sanitizing. This is the fourth such action organized by DCH1 Amazonians in response to the coronavirus outbreak. ",
     "online": null,
     "locations": [
-        "eastvale-california-usa"
+        "staten island-new york city-new york-usa"
     ],
     "companies": [
         "amazon"
     ],
-    "workers": null,
+    "workers": 20,
     "tags": [
         "coronavirus"
     ],
@@ -31,11 +34,11 @@
     ],
     "latlngs": [
         [
-            33.9985319,
-            -117.55285054999999
+            40.6194923,
+            -74.0729948
         ]
     ],
     "addresses": [
-        "Amazon Warehouse, Goodman Way, Eastvale, Riverside County, California, 91752, United States of America"
+        "Amazon Court, Clifton, Richmond County, New York, 10304, United States of America"
     ]
 }

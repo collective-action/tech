@@ -1,31 +1,41 @@
 {
-    "id": 125,
-    "date": "2019/04/01",
+    "id": 123,
+    "date": "2019/03/26",
     "sources": [
-        "https://www.theregister.co.uk/2019/04/22/npm_fired_staff_union_complaints, https://www.salon.com/2019/04/30/software-engineers-at-prominent-tech-firm-say-they-were-fired-for-trying-to-unionize-report/"
+        "https://medium.com/@bu64dcjrytwitb8/on-recent-research-auditing-commercial-facial-analysis-technology-19148bda1832?fbclid=iwar1uwyfv8da3osgnns1nm3takyudg1ks5jeljywjimutvt5unj3rrpyipew"
     ],
     "actions": [
-        "union_drive"
+        "open letter"
     ],
     "struggles": [
-        "working conditions"
+        "ethics"
     ],
     "employment_types": [
-        "white_collar_workers"
+        "na"
     ],
-    "description": "Recently fired NPM employees claim they were punished for trying to form a union. Four complaints have been filed with the National Labor Relations Board, alleging labor law violations by management.",
-    "online": null,
+    "description": "Researchers are calling on Amazon to stop selling facial recognition software to law enforcement. This letter follows similar calls by Amazon workers and civil rights organizations. 'We call on Amazon to stop selling Rekognition to law enforcement as legislation and safeguards to prevent misuse are not in place.",
+    "online": true,
     "locations": [
-        "oakland-california-usa"
+        "usa"
     ],
     "companies": [
-        "npm"
+        "amazon"
     ],
-    "workers": 3,
-    "tags": null,
+    "workers": 45,
+    "tags": [
+        "academics",
+        "law_enforcement"
+    ],
     "author": [
-        "bentarnoff"
+        "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            47.6142939,
+            -122.3239636
+        ]
+    ],
+    "addresses": [
+        "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
+    ]
 }

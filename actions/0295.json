@@ -1,0 +1,33 @@
+{
+    "id": 299,
+    "date": "2020/08/01",
+    "sources": [
+        "https://www.vice.com/en_au/article/ep4qdz/amazon-workers-blocked-delivery-trucks-from-leaving-a-warehouse-for-hours"
+    ],
+    "actions": [
+        "strike",
+        "protest"
+    ],
+    "struggles": [
+        "pay and benefits"
+    ],
+    "employment_types": [
+        "inhouse workers",
+        "blue collar workers"
+    ],
+    "description": "A caravan of protestors demanding increased pay and COVID-19 protections disrupted business at an Amazon Distribution Center in the San Francisco Bay Area. The caravan was organized by Bay Area Amazonians.",
+    "online": null,
+    "locations": [
+        "San-Leandro-California-USA"
+    ],
+    "companies": [
+        "amazon"
+    ],
+    "workers": 30,
+    "tags": [
+        "coronavirus"
+    ],
+    "author": null,
+    "latlngs": null,
+    "addresses": null
+}

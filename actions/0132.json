@@ -1,39 +1,32 @@
 {
-    "id": 133,
-    "date": "2019/04/25",
+    "id": 131,
+    "date": "2019/04/19",
     "sources": [
-        "https://technode.com/2019/04/25/996-protesters-organize-performance-art-prank-against-jack-ma/, https://www.nytimes.com/2019/04/29/technology/china-996-jack-ma.html"
+        "https://www.nottinghampost.com/news/nottingham-news/deliveroo-riders-take-nottingham-city-2754676"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
         "working conditions",
-        "unfair_labor_practices"
+        "pay and benefits"
     ],
     "employment_types": [
-        "white_collar_workers"
+        "gig workers"
     ],
-    "description": "A GitHub user called on those who condemn 996 to respond to Jack Ma's endorsement of the widely criticized work schedule by sending an official copy of China's labor law on May 4 to the Alibaba headquarters. Ma, founder of Alibaba and the richest man in China, dismissed outcry on social media over the grueling working hours in China's tech industry in a blog post on April 12. 'To be able to work 996 is a huge blessing,' he said. The GitHub post estimates 1,000 participants will participate.",
+    "description": "Deliveroo riders took to Nottingham city centre again to protest for improved working and pay conditions. Protesters are growing frustrated with a 'lack of communication' and an 'unwillingness to have their demands listened to' by the food delivery company.",
     "online": null,
     "locations": [
-        "china"
+        "nottingham-uk"
     ],
     "companies": [
-        "alibaba"
+        "deliveroo"
     ],
-    "workers": 1000,
+    "workers": 10,
     "tags": null,
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            31.2969721,
-            121.1624993
-        ]
-    ],
-    "addresses": [
-        "Alibaba, \u660c\u5409\u8def, \u5b89\u4ead\u9547, \u5609\u5b9a\u533a, \u4e0a\u6d77\u5e02, 201805, China \u4e2d\u56fd"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

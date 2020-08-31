@@ -1,31 +1,40 @@
 {
-    "id": 76,
-    "date": "2018/02/18",
+    "id": 74,
+    "date": "2017/12/13",
     "sources": [
-        "https://medium.com/@anna.geiduschek/an-open-letter-from-tech-workers-to-doordash-dc387fdef0fe"
+        "https://unitehere.org/cafeteria-workers-at-yahoo-unionize/"
     ],
     "actions": [
-        "open_letter"
+        "union representation"
     ],
     "struggles": [
-        "pay_and_benefits"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
-        "gig_workers"
+        "contract workers",
+        "blue collar workers"
     ],
-    "description": "After raising a round of $400 million, tech workers protest Doordash using workers' tip money to subsidize base pay. 'Silicon Valley investors clearly don't care that DoorDash cheats drivers\u200a\u2014\u200ain fact, DoorDash is likely being rewarded for adopting practices that improve their profit margins and treats drivers unfairly. However, investors do care that their startups can hire the best tech talent to help them execute on their mission.",
+    "description": "118 food service workers at Yahoo won union representation at its headquarters in Sunnyvale, CA. The food service workers, who are employed by Yahoo's contractor, Bon Appetit, are calling for respect and dignity, affordable health care, and increased wages to compete with increasing rents in the Bay Area.",
     "online": null,
     "locations": [
-        "madrid-spain"
+        "sunnyvale-california-usa"
     ],
     "companies": [
-        "doordash"
+        "yahoo"
     ],
-    "workers": 320,
+    "workers": 118,
     "tags": null,
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.4181243,
+            -122.02538023988251
+        ]
+    ],
+    "addresses": [
+        "Yahoo, Sunnyvale, Santa Clara County, California, United States of America"
+    ]
 }

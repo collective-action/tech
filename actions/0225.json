@@ -1,32 +1,39 @@
 {
-    "id": 224,
-    "date": "2020/01/13",
+    "id": 222,
+    "date": "2019/12/23",
     "sources": [
-        "https://www.vice.com/amp/en_us/article/884npb/instacart-workers-are-calling-for-a-national-boycott-of-the-grocery-delivery-app"
+        "https://www.labornotes.org/2020/01/amazon-warehouse-workers-deliver-christmas-walkout",
+        "https://www.coworker.org/petitions/amazon-meet-with-amazonians-united-sacramento-about-paid-time-off"
     ],
     "actions": [
-        "protest"
+        "strike"
     ],
     "struggles": [
-        "pay_and_benefits"
+        "working conditions"
     ],
     "employment_types": [
-        "blue_collar_workers",
-        "gig_workers"
+        "blue collar workers"
     ],
-    "description": "Many of the app's 130,000 workers claim to have seen their pay drop by more than 50 percent in 2019 alone, as the company has sought to lower costs and appease its investors. Workers are now calling for a national boycott. They\u2019re asking customers and the general public to tweet under the hashtag #DeleteInstacart on January 19, and to email Instacart CEO Apoorva Mehta on January 20, asking him to restore the 10 percent default tip\u2014which workers lost back in 2016. (The default tip sits at five percent.)",
-    "online": true,
+    "description": "One-third of the night shift at one of Amazon's Sacramento warehouse walked off the job in the wee hours of December 23. Workers went together on a break to deliver their demands to management, then clocked out. Night-shift workers delivered a petition with 4,015 signatures to management during their 2:30 a.m. break on December 23. After reading out loud their demands for a meeting with management and paid time off, 36 of the 100 night-shift workers clocked out at 2:45 a.m. and walked off the job mid-shift.",
+    "online": null,
     "locations": [
-        "usa"
+        "sacramento-california-usa"
     ],
     "companies": [
-        "instacart"
+        "amazon"
     ],
-    "workers": null,
+    "workers": 36,
     "tags": null,
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            38.6767343,
+            -121.4948028
+        ]
+    ],
+    "addresses": [
+        "Amazon Avenue, Sacramento, Sacramento County, California, 95835, United States of America"
+    ]
 }

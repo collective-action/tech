@@ -1,42 +1,42 @@
 {
-    "id": 140,
-    "date": "2019/05/11",
+    "id": 138,
+    "date": "2019/05/08",
     "sources": [
-        "https://www.fastcompany.com/90348304/exclusive-tech-workers-organize-protest-against-palantir-on-the-github-coding-platform, https://gist.github.com/noahzgordon/29af8c13106ddc591ccaa1ea0ce6af74"
+        "https://medium.com/@googlewalkout/notokgoogle-demands-regarding-retaliation-697da244146f",
+        "https://observer.com/2019/05/alphabet-ceo-larry-page-employees-walkouts/"
     ],
     "actions": [
-        "protest"
+        "open letter"
     ],
     "struggles": [
-        "ethics"
+        "working conditions",
+        "discrimination"
     ],
     "employment_types": [
-        "na"
+        "white collar workers"
     ],
-    "description": "Tech workers organized by the Tech Workers Coalition are protesting the Palantir's contract with ICE on the company's GitHub projects. The plan calls for organized waves of digital protesters to post a prepared message to their GitHub boards. The protest appeals to workers to consider their role, even if indirectly, in Palantir\u2019s work with ICE. It also encourages people to add their own personal sentiments.",
+    "description": "Google employees publish an open letter demanding that Alphabet CEO Larry Page 'immediately and publicly address the Walkout\u2019s demands, and recommit Google to meeting them.' The list of demands also asks for the company to allow Meredith to continue her work, fully funded, as before and to allow Claire to change teams without further retaliation. The letter calls out the broken nature of the HR department at Google, and demands for an open and transparent investigation on the department.",
     "online": null,
     "locations": [
         "usa"
     ],
     "companies": [
-        "palantir"
+        "google"
     ],
     "workers": null,
     "tags": [
-        "ice",
-        "industry_solidarity",
-        "twc"
+        "retaliation"
     ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            37.4440869,
-            -122.16287540411753
+            42.3627717,
+            -71.087257
         ]
     ],
     "addresses": [
-        "Palantir, 156, University Avenue, Southgate, Palo Alto, Santa Clara County, California, 94301, United States of America"
+        "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
     ]
 }

@@ -1,47 +1,57 @@
 {
-    "id": 40,
-    "date": "2014/09/01",
+    "id": 38,
+    "date": "2014/04/19",
     "sources": [
-        "https://www.bloomberg.com/news/articles/2015-04-30/microsoft-contract-workers-are-organizing"
+        "https://www.nbcnews.com/tech/tech-news/workers-tech-poaching-case-likely-get-average-4k-n113451",
+        "https://www.independent.ie/business/technology/four-us-tech-firms-face-3bn-payout-over-claims-they-conspired-on-pay-30199663.html"
     ],
     "actions": [
-        "union_representation"
+        "legal action"
     ],
     "struggles": [
-        "unfair_labor_practices",
-        "job_security"
+        "pay and benefits"
     ],
     "employment_types": [
-        "contract_workers"
+        "white collar workers"
     ],
-    "description": "A group of temporary workers at Microsoft has signed its first union contract with their employer, a rare feat in a technology industry typically unfriendly to organized labor. 38 bug testers who review Microsoft apps voted to create a union, the Temporary Workers of America. They work full time in Microsoft's offices but are employed by cloud services contractor LionBridge.",
+    "description": "Tech workers from Google, Apple, Intel, and Adobe Systems brought a class action lawsuit against their respective companies, claiming that they conspired to keep salaries down by adhering to 'no-hire' agreements among themselves. The case ended in a $325 million settlement that paid out roughly $4,000 to 60,000 employees. ",
     "online": null,
     "locations": [
-        "usa"
+        "california-usa"
     ],
     "companies": [
-        "microsoft",
-        "lionbridge"
+        "google",
+        "apple",
+        "intel",
+        "adobe"
     ],
-    "workers": 38,
-    "tags": [
-        "temporary_workers_of_america"
-    ],
+    "workers": 60000,
+    "tags": null,
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            35.139622349999996,
-            -80.92306993327955
+            37.41897865,
+            -122.08237793989416
         ],
         [
-            47.578722799999994,
-            -122.17154487755995
+            37.32915255,
+            -122.03225451655098
+        ],
+        [
+            32.939795,
+            -117.1026021
+        ],
+        [
+            37.33196605,
+            -121.8954904847011
         ]
     ],
     "addresses": [
-        "Microsoft, Yorkwood, Charlotte, Mecklenburg County, North Carolina, United States of America",
-        "Lionbridge, 3525, Factoria Boulevard Southeast, Woodridge, Factoria, Bellevue, King County, Washington, 98006, United States of America"
+        "Google, Mountain View, Santa Clara County, California, United States of America",
+        "Apple, Cupertino, Santa Clara County, California, United States of America",
+        "Intel, 12220, Scripps Summit Drive, Sabre Springs, San Diego, San Diego County, California, 92131, United States of America",
+        "Adobe, 333, Buena Vista, San Jose, Santa Clara County, California, United States of America"
     ]
 }

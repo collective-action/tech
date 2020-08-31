@@ -1,19 +1,19 @@
 {
-    "id": 29,
-    "date": "2013/09/19",
+    "id": 27,
+    "date": "2013/05/19",
     "sources": [
-        "https://www.workers.org/2013/09/24/amazon-workers-strike-germany/"
+        "https://www.spiegel.de/international/business/amazon-and-other-us-corporations-flout-german-labor-laws-a-900615.html"
     ],
     "actions": [
-        "open_letter"
+        "strike"
     ],
     "struggles": [
-        "pay_and_benefits"
+        "pay and benefits"
     ],
     "employment_types": [
-        "na"
+        "blue collar workers"
     ],
-    "description": "Students from Leipzig University have formed an organization known as 'Amazon Solidarity Alliance' and have collected 500 signatures in support of ongoing strikes by Amazon workers in Leipzig. The company frequently employs students in temporary positions.",
+    "description": "Amazon workers at two German facilities (Bad Hersfeld and Leipzig) walked off the job to protest low wages and the company's refusal to sign a collective bargaining agreement for the retail sector. Der Speigel reports that this is the 'first strike in the online retail giant's history'.",
     "online": null,
     "locations": [
         "bad hersfeld-germany",
@@ -22,10 +22,8 @@
     "companies": [
         "amazon"
     ],
-    "workers": 500,
-    "tags": [
-        "students"
-    ],
+    "workers": null,
+    "tags": null,
     "author": [
         "nataliyaned"
     ],

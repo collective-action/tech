@@ -1,38 +1,36 @@
 {
-    "id": 2,
-    "date": "1986/09/16",
+    "id": 313,
+    "date": "1970/10/08",
     "sources": [
-        "https://www.nytimes.com/1986/09/16/science/software-seen-as-obstacle-in-developing-star-wars.html"
+        "https://www.dissentmagazine.org/online_articles/when-polaroid-workers-fought-apartheid"
     ],
     "actions": [
-        "open_letter"
+        "protest",
+        "boycott"
     ],
     "struggles": [
         "ethics"
     ],
     "employment_types": [
-        "white_collar_workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Fourteen employees at AT&T sign a letter warning the U.S. military of over 10,000 possible errors in the Star Wars system.",
+    "description": "Polaroid workers affiliated with the Polaroid Revolutionary Workers Movement (PRWM) rallied at an anti-apartheid protest in Technology Square in Cambridge, MA and organized what is believed to be the first anti-apartheid boycott of a U.S. corporation. The organization was founded by two of the company's Black employees, Caroline Hunter (a chemist) and Ken Williams (a photographer). The two employees discovered that Polaroid was selling equipment to the South African government that allowed for a racist system of surveillance known as passbooks. The company responded by the surveilling and threatening the workers, first denying and then continuing their operations, and starting a public relations campaign to improve their image.",
     "online": null,
     "locations": [
-        "usa"
+        "cambridge-massachusetts-usa"
     ],
     "companies": [
-        "at&t"
+        "polaroid"
     ],
-    "workers": 14,
-    "tags": null,
+    "workers": 2,
+    "tags": [
+        "antiracism",
+        "surveillance"
+    ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            45.5733162,
-            -122.5587111463347
-        ]
-    ],
-    "addresses": [
-        "AT&T, 10025, Northeast Cascades Parkway, Portland, Multnomah County, Oregon, 97220, United States of America"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

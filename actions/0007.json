@@ -1,42 +1,42 @@
 {
-    "id": 8,
-    "date": "2000/11/16",
+    "id": 6,
+    "date": "1999/06/04",
     "sources": [
-        "https://money.cnn.com/2000/11/16/technology/amazon_union/"
+        "https://www.latimes.com/archives/la-xpm-1999-jun-04-fi-44011-story.html",
+        "https://www.questia.com/newspaper/1p2-32575557/the-seeds-of-a-high-tech-union-sprout-in-washington"
     ],
     "actions": [
-        "union_drive"
+        "union drive"
     ],
     "struggles": [
-        "pay_and_benefits",
-        "working conditions"
+        "pay and benefits"
     ],
     "employment_types": [
-        "in_house_workers"
+        "white collar workers",
+        "contract workers"
     ],
-    "description": "In one of the first reported unionization attempts at a 'dot com company', an affiliate of the Communication Workers of America known as the Washington Alliance of Technology Workers (WashTech) sought to unionize a group of 400 customer service employees at Amazon. Amazon closed the call center before the campaign could proceed further due to financial pressures following the dot-com bubble in the early 2000s. Amazon has disputed unionization by arguing that the employees are owners of the company since they are given stock options.",
+    "description": "A group of temporary workers at Microsoft that includes accountants and lawyers has organized into a bargaining unit and is asking for representation through a local union, the Washington Alliance of Technology Workers. The employees expressed frustration at their status as contract workers, citing a lack of benefits as a motivating factor for the unionization attempt.",
     "online": null,
     "locations": [
         "seattle-washington-usa"
     ],
     "companies": [
-        "amazon"
+        "microsoft"
     ],
-    "workers": 400,
+    "workers": 16,
     "tags": [
-        "washtech",
-        "cwa"
+        "washtech"
     ],
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            47.6142939,
-            -122.3239636
+            47.5388725,
+            -122.2901728
         ]
     ],
     "addresses": [
-        "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
+        "Microsoft Gathering Hall, 7054, 32nd Avenue South, Columbia City, Holly Park, Seattle, King County, Washington, 98118, United States of America"
     ]
 }

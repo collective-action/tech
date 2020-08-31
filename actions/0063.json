@@ -1,11 +1,12 @@
 {
-    "id": 64,
-    "date": "2017/01/18",
+    "id": 62,
+    "date": "2016/12/13",
     "sources": [
-        "https://techcrunch.com/2017/01/18/tech-employees-protest-in-front-of-palantir-hq-over-fears-it-will-build-trumps-muslim-registry/"
+        "https://neveragain.tech/",
+        "https://en.wikipedia.org/wiki/never_again_pledge"
     ],
     "actions": [
-        "protest"
+        "open letter"
     ],
     "struggles": [
         "ethics"
@@ -13,29 +14,26 @@
     "employment_types": [
         "na"
     ],
-    "description": "50 people in the tech community came out in the pouring rain to demand the data mining startup take a firm stand against the makings of a Muslim registry.",
-    "online": null,
+    "description": "Online petition by information technology workers to work against a United States government database identifying people by race, religion, or national origin, specifically in response to the Trump presidential campaign statements about creating a Muslim registry and deporting millions of illegal immigrants.",
+    "online": true,
     "locations": [
-        "palo alto-california-usa"
+        "usa"
     ],
-    "companies": [
-        "palantir"
-    ],
-    "workers": 50,
+    "companies": null,
+    "workers": 2843,
     "tags": [
-        "industry_solidarity",
-        "trump"
+        "industry_solidarity"
     ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            37.4440869,
-            -122.16287540411753
+            39.7837304,
+            -100.4458825
         ]
     ],
     "addresses": [
-        "Palantir, 156, University Avenue, Southgate, Palo Alto, Santa Clara County, California, 94301, United States of America"
+        "United States"
     ]
 }

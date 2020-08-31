@@ -1,35 +1,31 @@
 {
-    "id": 32,
-    "date": "2013/12/16",
+    "id": 30,
+    "date": "2013/09/19",
     "sources": [
-        "https://www.reuters.com/article/us-amazon-germany/amazons-german-workers-strike-as-christmas-orders-peak-idusbre9bf0m220131216"
+        "https://www.workers.org/2013/09/24/amazon-workers-strike-germany/",
+        "https://www.nytimes.com/2013/08/05/business/workers-of-amazon-divergent.html"
     ],
     "actions": [
         "strike",
         "protest"
     ],
     "struggles": [
-        "pay_and_benefits"
+        "pay and benefits"
     ],
     "employment_types": [
-        "blue_collar_workers"
+        "blue collar workers"
     ],
-    "description": "Amazon workers in four German facilities (Bad Hersfeld, Leipzig, Graben, Werne) went on strike before Christmas to pressure the company to accept industry-wide collective bargaining agreements for worker pay. Protests began in May 2013 and have continued throughout the year. A contingent of German workers traveled to Seattle to protest outside of the company's headquarters, joined by U.S. union organizers.",
+    "description": "German Amazon workers have continued to strike and protest in an attempt to get the company to recognize industry-level wages set under collective bargaining agreements. Workers in Bad Hersfeld and Leipzig have conducted a series of strikes since May. On Sept. 20th, a bus drove workers from Bad Hersfeld to Leipzig to join the two movements. ",
     "online": null,
     "locations": [
         "bad hersfeld-germany",
-        "leipzig-germany",
-        "graben-germany",
-        "werne-germany",
-        "seattle-washington-usa"
+        "leipzig-germany"
     ],
     "companies": [
         "amazon"
     ],
-    "workers": 1800,
-    "tags": [
-        "international_solidarity"
-    ],
+    "workers": null,
+    "tags": null,
     "author": [
         "nataliyaned"
     ],
@@ -41,25 +37,10 @@
         [
             51.3622584,
             12.452329749225527
-        ],
-        [
-            48.198871499999996,
-            10.848663796329923
-        ],
-        [
-            51.653494949999995,
-            7.59464606445661
-        ],
-        [
-            47.6142939,
-            -122.3239636
         ]
     ],
     "addresses": [
         "Amazon Logistik GmbH, 1, Eichhof, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
-        "Amazon, 1, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland",
-        "Amazon-Logistikzentrum, Graben, Landkreis Augsburg, Bayern, 86836, Deutschland",
-        "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
-        "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
+        "Amazon, 1, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland"
     ]
 }

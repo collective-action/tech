@@ -1,33 +1,38 @@
 {
-    "id": 80,
-    "date": "2018/04/06",
+    "id": 78,
+    "date": "2018/03/21",
     "sources": [
-        "https://www.thetimes.co.uk/article/academics-stride-into-battle-to-halt-march-of-the-korean-killer-robots-0wt052m6r"
+        "https://www.reuters.com/article/us-amazon-com-spain/spains-amazon-workers-call-two-day-strike-over-wages-rights-iduskcn1gp13l"
     ],
     "actions": [
-        "open_letter"
+        "strike"
     ],
     "struggles": [
-        "ethics"
+        "pay and benefits"
     ],
     "employment_types": [
-        "na"
+        "blue collar workers"
     ],
-    "description": "A group of academics working on artificial technologies call for a boycott of the Korea Advanced Institute of Science and Technology, a South Korean university. KAIST is believed to be developing AI weapons through a collaboration with a defense contractor. An open letter has been signed by 50 academics.",
-    "online": true,
+    "description": "Over one thousand Amazon workers in Spain plan to stage their first strike with a two-day walkout to protest what unions claim are efforts to reduce employees' rights. The union claimed the companies aims to block salary increases, cut wages and reduce payments for those working weekends or holidays as part of a new contract agreement.",
+    "online": null,
     "locations": [
-        "south korea"
+        "madrid-spain"
     ],
     "companies": [
-        "korea_advanced_institute_of_science_and_technology"
+        "amazon"
     ],
-    "workers": 50,
-    "tags": [
-        "academics"
-    ],
+    "workers": 1100,
+    "tags": null,
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            40.4456444,
+            -3.497602995250682
+        ]
+    ],
+    "addresses": [
+        "Amazon, 24, Avenida de la Astronom\u00eda, El Jard\u00edn, San Fernando de Henares, \u00c1rea metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28850, Espa\u00f1a"
+    ]
 }

@@ -1,39 +1,36 @@
 {
-    "id": 9,
-    "date": "2000/11/23",
+    "id": 7,
+    "date": "1999/10/01",
     "sources": [
-        "https://www.nytimes.com/2000/11/23/business/technology-unions-pushing-to-organize-thousands-of-amazoncom-workers.html?rref=collection%2ftimestopic%2fcommunications%20workers%20of%20america"
+        "https://www.computerworld.com/article/3019552/ibm-union-calls-it-quits.html",
+        "https://www.nytimes.com/1985/07/17/us/union-plans-drive-to-organize-ibm.html?rref=collection%2ftimestopic%2fcommunications%20workers%20of%20america",
+        "https://cwa-union.org/news/entry/ibm_employees_and_cwa_launch_allianceibm"
     ],
     "actions": [
-        "union_drive"
+        "union drive"
     ],
     "struggles": [
-        "pay_and_benefits",
+        "pay and benefits",
         "working conditions"
     ],
     "employment_types": [
-        "blue_collar_workers"
+        "white collar workers"
     ],
-    "description": "The United Food and Commercial Workers Union is attempting to organize roughly 5,000 workers at eight Amazon distribution centers across the U.S. The New York Times reports that 'low-key' unionization efforts have been going on in the company for the last two years.",
+    "description": "The Communications Workers of America have renewed their drive to organize IBM employees. CWA previously attempted to unionize IBM in 1985. This time around the union started a new organization, Alliance @IBM. It reports that roughly 100 thousand of the company's 140 thousand workers are eligible for unionization. Union supporters have started outreach and leafletting efforts at multiple locations, including the Research Triangle in North Carolina. The new organization will work with the existing IBM Employee Benefits Action Coalition. This effort continued for the next seventeen years, until it was ended 2016. At its peak, the Alliance had 400 dues-paying members.",
     "online": null,
     "locations": [
-        "usa"
+        "worldwide"
     ],
     "companies": [
-        "amazon"
+        "ibm"
     ],
-    "workers": 5000,
-    "tags": null,
+    "workers": null,
+    "tags": [
+        "cwa"
+    ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            47.6142939,
-            -122.3239636
-        ]
-    ],
-    "addresses": [
-        "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

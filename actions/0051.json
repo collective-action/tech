@@ -1,41 +1,30 @@
 {
-    "id": 52,
-    "date": "2016/02/07",
+    "id": 50,
+    "date": "2015/07/20",
     "sources": [
-        "https://www.wired.com/2016/02/uber-drivers-protest-san-francisco-super-bowl/"
+        "https://qz.com/458615/theres-reportedly-a-big-secret-spreadsheet-where-google-employees-share-their-salaries/"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
-        "pay_and_benefits",
+        "pay and benefits",
         "working conditions"
     ],
     "employment_types": [
-        "gig_workers"
+        "white collar workers"
     ],
-    "description": "Uber drivers protested fare cuts by boycotting the app on Super Bowl Sunday and demonstrating outside of company headquarters. The boycott came in the midst of a promotion by Uber to provide free rides to fans of the winning team. Earlier in the week a caravan of 100 drivers drove through the city before stopping to protest at headquarters in downtown San Francisco. Earlier in the year the company imposed fare cuts in several cities around the U.S.",
-    "online": null,
-    "locations": [
-        "san francisco-california-usa"
-    ],
+    "description": "Google employees have started an internal spreadsheet to share data on salary and bonuses. Employees have reportedly used the spreadsheet to advocate for greater compensation.",
+    "online": true,
+    "locations": null,
     "companies": [
-        "uber"
+        "google"
     ],
-    "workers": 100,
-    "tags": [
-        "drivers"
-    ],
+    "workers": null,
+    "tags": null,
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            37.7899898,
-            -122.3999799
-        ]
-    ],
-    "addresses": [
-        "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

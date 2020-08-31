@@ -1,31 +1,42 @@
 {
-    "id": 39,
-    "date": "2014/09/01",
+    "id": 37,
+    "date": "2014/04/03",
     "sources": [
-        "https://www.chronicle.com/article/intellectual-piecework/190039/, http://wiki.wearedynamo.org/index.php/guidelines_for_academic_requesters, https://medium.com/@niloufar_s/the-guidelines-for-ethical-research-on-amazon-mechanical-turk-researchers-care-about-fair-payment-427e816762ee"
+        "https://www.telegraph.co.uk/technology/news/10729575/mozilla-staff-call-for-new-ceo-to-stand-down-over-donation-to-anti-gay-marriage-campaign.html",
+        "https://www.dailymail.co.uk/news/article-2596405/mozilla-ceo-resigns-furor-gay-rights.html"
     ],
     "actions": [
-        "open_letter"
+        "protest"
     ],
     "struggles": [
-        "pay_and_benefits",
-        "working conditions"
+        "discrimination"
     ],
     "employment_types": [
-        "gig_workers"
+        "white collar workers"
     ],
-    "description": "Over two hundred Mechanical Turk workers and academics, organized through Dynamo, have collaborated and signed a set of ethical guidelines for scholars requesting labor through the platform. The Wiki page includes information on fair payment, communication practices, and the basics of requesting.",
-    "online": true,
-    "locations": null,
+    "description": "Mozilla employees used a number of means to call for the resignation of CEO Brendan Eich who donated $1,000 in 2008 to support California's Proposition 8, legislature that would have made gay marriage illegal in the state. Three of Mozilla Foundation's board members resigned in protest, and other employees took to social media and wrote blog posts. Other companies, most prominently dating site OKCupid, encouraged their users to stop using the Firefox browser. Eich did ultimately resign.",
+    "online": null,
+    "locations": [
+        "mountain view-california-usa"
+    ],
     "companies": [
-        "amazon",
-        "mechanical_turk"
+        "mozilla",
+        "okcupid"
     ],
-    "workers": 262,
-    "tags": null,
+    "workers": null,
+    "tags": [
+        "lgbtq"
+    ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.38734885,
+            -122.0601159053321
+        ]
+    ],
+    "addresses": [
+        "Mozilla, 331, East Evelyn Avenue, Mondrian, Mountain View, Santa Clara County, California, 94041, United States of America"
+    ]
 }

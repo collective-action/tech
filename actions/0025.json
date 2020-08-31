@@ -1,40 +1,38 @@
 {
-    "id": 26,
-    "date": "2013/03/15",
+    "id": 24,
+    "date": "2012/10/01",
     "sources": [
-        "http://allthingsd.com/20130315/uber-drivers-protest-outside-the-companys-san-francisco-headquarters/"
+        "https://www.engadget.com/2012/10/09/multiple-foxconn-labor-disputes-disrupt-iphone-production/?guccounter=1"
     ],
     "actions": [
-        "protest"
+        "strike"
     ],
     "struggles": [
-        "pay_and_benefits"
+        "working conditions"
     ],
     "employment_types": [
-        "gig_workers"
+        "blue collar workers"
     ],
-    "description": "A group of approximately 30 Uber drivers protested outside of the company's San Francisco headquarters to protest lowered pay and lack of job security, including the firing of 500 drivers over the last month. ",
+    "description": "FoxConn workers in Zhengzhou held walkouts on three separate days to protest working conditions at the plant. News outlets also report workers have been purposefully scratching newly manufactured iPhones in protest. China Labor Watch estimates that 3,000 workers took part in the walkouts.",
     "online": null,
     "locations": [
-        "san francisco-california-usa"
+        "zhengzhou-china"
     ],
     "companies": [
-        "uber"
+        "foxconn"
     ],
-    "workers": 30,
-    "tags": [
-        "drivers"
-    ],
+    "workers": 3000,
+    "tags": null,
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            37.7899898,
-            -122.3999799
+            34.7284406,
+            113.7595316
         ]
     ],
     "addresses": [
-        "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America"
+        "Foxconn Technology Group, \u7ecf\u5317\u4e8c\u8def, \u5546\u90fd\u8def\u8857\u9053, \u5703\u7530\u4e61, \u7ba1\u57ce\u56de\u65cf\u533a, \u90d1\u5dde\u5e02, \u6cb3\u5357\u7701, 450046, China \u4e2d\u56fd"
     ]
 }

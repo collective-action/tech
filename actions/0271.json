@@ -1,29 +1,32 @@
 {
-    "id": 287,
-    "date": "2020/05/07",
+    "id": 276,
+    "date": "2020/05/05",
     "sources": [
-        "https://www.vice.com/en_us/article/akzw4p/amazon-warehouse-workers-send-thousands-of-petitions-to-jeff-bezos-and-jay-carneys-homes"
+        "https://www.nbcnews.com/tech/tech-news/amazon-sued-nyc-workers-seeking-coronavirus-protection-not-money-n1223871",
+        "https://www.oregonlive.com/business/2020/05/amazon-sued-by-salem-warehouse-worker-over-coronavirus-response.html"
     ],
     "actions": [
-        "open_letter"
+        "legal action"
     ],
     "struggles": [
-        "pay_and_benefits"
+        "working conditions"
     ],
     "employment_types": [
-        "in_house_workers",
-        "blue_collar_workers"
+        "blue collar workers",
+        "inhouse workers"
     ],
-    "description": "Amazon warehouse workers plan to deliver thousands signed petitions to the residences of Amazon CEO Jeff Bezos and lead Amazon spokesperson Jay Carney on Thursday, demanding the reinstatement of its recently terminated unlimited paid leave policy. In late April, Amazon announced that it would end its unlimited unpaid leave policy on May 1. The policy, which was introduced in response to COVID-19, allowed workers to call out sick without penalty. As of Wednesday, more than 5,300 workers from 350 locations, including Amazon warehouses, delivery pick-up stations, and Whole Foods stores, had signed onto petitions. The action was organized by a number of labor groups including the Athena coalition.",
+    "description": "Amazon has been sued by workers at two different locations, New York City and Salem, Oregon, for its failure to protect its employees during the coronavirus pandemic. Three Amazon employees from the New York fulfillment center sued the company for failing to follow local public health guidance, claiming the company purposefully miscommunicated with workers. The employees are not seeking compensation, only an order that Amazon comply with guidance. A former employee from Salem alleged that she was fired after taking a medical leave for a coronavirus infection and speaking out publicly about safety issues.",
     "online": null,
     "locations": [
-        "usa"
+        "new york city-new york-usa",
+        "salem-oregon-usa"
     ],
     "companies": [
         "amazon"
     ],
-    "workers": 5300,
+    "workers": 4,
     "tags": [
+        "retaliation",
         "coronavirus"
     ],
     "author": [
@@ -31,11 +34,16 @@
     ],
     "latlngs": [
         [
-            47.6142939,
-            -122.3239636
+            40.722465,
+            -73.9977307
+        ],
+        [
+            44.90190785,
+            -122.96427765593445
         ]
     ],
     "addresses": [
-        "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
+        "Amazon, 72, Spring Street, Manhattan, New York County, New York, 10013, United States of America",
+        "Amazon PDX7, 4775, Depot Court, Salem, Marion County, Oregon, 97317, United States of America"
     ]
 }

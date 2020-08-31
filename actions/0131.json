@@ -1,49 +1,45 @@
 {
-    "id": 132,
-    "date": "2019/04/22",
+    "id": 130,
+    "date": "2019/04/17",
     "sources": [
-        "https://www.bloomberg.com/news/articles/2019-04-22/microsoft-workers-criticize-block-of-github-protest-in-china, https://www.buzzfeednews.com/article/carolineodonovan/microsoft-petition-996-icu-workweek-china, https://gizmodo.com/microsoft-and-github-workers-take-a-stand-against-gruel-1834210579"
+        "https://www.theatlantic.com/technology/archive/2019/04/instagram-memers-are-unionizing/587308/?fbclid=iwar0enfo9hotaka_ukh0snpjn5pypplmygz1wkelyul-42lue4p-_foalbq0"
     ],
     "actions": [
-        "open_letter"
+        "union drive"
     ],
     "struggles": [
         "working conditions",
-        "unfair_labor_practices"
+        "pay and benefits"
     ],
     "employment_types": [
-        "white_collar_workers"
+        "gig workers"
     ],
-    "description": "Microsoft and GitHub workers have published an open letter of solidarity with the 996 movement on GitHub at https://github.com/MSWorkers/support.996.ICU, and have called on Microsoft to resist all pressure from the Chinese government to block or censor the 996 repo.",
+    "description": "Instagram memers have had enough. They generate the engagement that helps keep Instagram growing\u2014but, they argue, the multibillion-dollar platform doesn't pay them for their work, or give them any control. So they're fighting back. And before you write off IG Meme Union Local 69-420 as a joke, the organizers of the collective would like you to know that they are very serious.",
     "online": true,
     "locations": [
-        "worldwide",
         "usa"
     ],
     "companies": [
-        "microsoft",
-        "github"
+        "instagram",
+        "facebook"
     ],
-    "workers": 450,
-    "tags": [
-        "international_solidarity",
-        "industry_solidarity"
-    ],
+    "workers": null,
+    "tags": null,
     "author": [
-        "bentarnoff"
+        "organizejs"
     ],
     "latlngs": [
         [
-            35.139622349999996,
-            -80.92306993327955
+            41.14127715,
+            -77.46294984398486
         ],
         [
-            37.7821769,
-            -122.3912458
+            30.2691649,
+            -97.7455041
         ]
     ],
     "addresses": [
-        "Microsoft, Yorkwood, Charlotte, Mecklenburg County, North Carolina, United States of America",
-        "GitHub, 88, Colin P. Kelly Junior Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States of America"
+        "Instagram-Ferris_Joshua / Marycate.minnigh, Campus Drive, Sunset Pines, Lock Haven, Clinton County, Pennsylvania, 17745, United States of America",
+        "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States of America"
     ]
 }

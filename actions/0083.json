@@ -1,38 +1,35 @@
 {
-    "id": 84,
-    "date": "2018/05/15",
+    "id": 82,
+    "date": "2018/05/14",
     "sources": [
-        "https://www.gofundme.com/all-out-for-pablito"
+        "https://www.theguardian.com/australia-news/2018/may/16/food-delivery-riders-protest-against-wage-theft-by-deliveroo-foodora-and-ubereats",
+        "https://www.abc.net.au/news/2018-03-14/delivery-riders-march-against-ubereats-foodora-and-deliveroo/9546822"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
-        "ethics"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
-        "gig_workers"
+        "gig workers"
     ],
-    "description": "Fellow gig workers have banded together through a GoFundMe fundraiser to cover the immediate funeral costs of a delivery worker for Caviar who was killed on the job, while demanding that the company ultimately cover the amount. More than $19,000 has been raised. Referenced on page 142 of Ghost Work (Mary Gray and Siddarth Suri)",
+    "description": "Food delivery riders have marched in Sydney to demand UberEats, Deliveroo and Foodora provide pay increases and better working conditions to the many contractors darting from door to door around Australian cities. Dozens of protesters voiced their concerns in Surry Hills about the lack of regulation surrounding rider pay, safety protections and benefits like sick pay and superannuation.",
     "online": null,
     "locations": [
-        "usa"
+        "sydney-australia"
     ],
     "companies": [
-        "caviar"
+        "deliveroo",
+        "foodora",
+        "uber"
     ],
-    "workers": 373,
+    "workers": 24,
     "tags": null,
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
-    "latlngs": [
-        [
-            65.4102317,
-            -163.0526448
-        ]
-    ],
-    "addresses": [
-        "Caviar Creek, Nome, Alaska, United States of America"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

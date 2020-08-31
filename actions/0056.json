@@ -1,40 +1,42 @@
 {
-    "id": 57,
-    "date": "2016/05/10",
+    "id": 55,
+    "date": "2016/03/31",
     "sources": [
-        "https://www.nytimes.com/2016/05/11/technology/uber-agrees-to-union-deal-in-new-york.html, https://www.wired.com/2017/05/how-drivers-are-finally-outfoxing-uber/"
+        "https://www.bizjournals.com/sanjose/news/2016/03/31/seiu-janitors-san-jose-rally-targets-adobe.html"
     ],
     "actions": [
-        "union_representation"
+        "strike"
     ],
     "struggles": [
-        "pay_and_benefits"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
-        "gig_workers"
+        "blue collar workers",
+        "contract workers"
     ],
-    "description": "Uber recognizes an association of drivers, the Independent Drivers Guild, which is affiliated with the International Association of Machinists and Aerospace Workers. The organization represents approximately 35,000 drivers in the New York City area and provides access to discounted insurance, legal services, and roadside assistance. The group has been promised monthly meetings with management but at the expense of agreeing not the formally unionize for the next five years.",
+    "description": "Service Employees International Union-United Service Workers West janitors' San Jose rally targets Adobe. Hundreds of SEIU-USWW members congregated on Cesar Chavez Day to draw attention to ongoing contract negotiations with cleaning service contractors and protest abuse of workers in the janitorial industry.",
     "online": null,
     "locations": [
-        "new york city-new york-usa"
+        "san jose-california-usa"
     ],
     "companies": [
-        "uber"
+        "adobe"
     ],
-    "workers": null,
+    "workers": 100,
     "tags": [
-        "drivers"
+        "seiu"
     ],
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
     "latlngs": [
         [
-            40.7859179,
-            -73.9849146
+            37.33196605,
+            -121.8954904847011
         ]
     ],
     "addresses": [
-        "Yachthafen(Blick \u00fcber New Yersey), Riverside Walk, Upper West Side, Manhattan, Manhattan Community Board 7, New York County, New York, 10069, United States of America"
+        "Adobe, 333, Buena Vista, San Jose, Santa Clara County, California, United States of America"
     ]
 }

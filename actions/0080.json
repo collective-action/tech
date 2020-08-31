@@ -1,29 +1,27 @@
 {
-    "id": 81,
-    "date": "2018/04/28",
+    "id": 79,
+    "date": "2018/04/02",
     "sources": [
-        "https://technode.com/2018/04/28/didi-food-delivery-strike/"
+        "https://en.yna.co.kr/view/aen20180402010200320"
     ],
     "actions": [
-        "strike"
+        "union representation"
     ],
     "struggles": [
-        "working conditions",
-        "pay_and_benefits"
+        "working conditions"
     ],
     "employment_types": [
-        "gig_workers"
+        "white collar workers"
     ],
-    "description": "Around 30 drivers gathered on Thursday at lunchtime, the peak hour for deliveries, to express their dissatisfaction with a serious drop in the number of orders and a change in rules for payments. The majority of the protesters were freelancers for Didi Waimai who complained of unfair rules and meager earnings.",
+    "description": "Naver Corp., South Korea's dominant Internet portal and search engine, said that it has established the company's first labor union. After receiving official approval, the union started receiving membership applications from potential members, Naver's union said. More than 300 people joined within two hours.",
     "online": null,
     "locations": [
-        "wuxi-china",
-        "jiangsu-china"
+        "seoul-south korea"
     ],
     "companies": [
-        "didi"
+        "naver"
     ],
-    "workers": 30,
+    "workers": 300,
     "tags": null,
     "author": [
         "organizejs"

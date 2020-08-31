@@ -1,48 +1,36 @@
 {
-    "id": 276,
-    "date": "2020/05/05",
+    "id": 260,
+    "date": "2020/05/01",
     "sources": [
-        "https://www.nbcnews.com/tech/tech-news/amazon-sued-nyc-workers-seeking-coronavirus-protection-not-money-n1223871, https://www.oregonlive.com/business/2020/05/amazon-sued-by-salem-warehouse-worker-over-coronavirus-response.html"
+        "https://www.vice.com/en_ca/article/gy4qew/foodora-couriers-want-to-be-among-first-gig-economy-workers-to-unionize-in-canada",
+        "https://www.globenewswire.com/news-release/2020/04/27/2022709/0/en/foodora-Canada-announces-plans-to-close-business-while-assuring-support-for-employees.html",
+        "https://www.thestar.com/business/2020/04/29/foodora-declares-bankruptcy-in-canada-leaving-47-million-in-debt.html"
     ],
     "actions": [
-        "legal_action"
+        "union drive"
     ],
     "struggles": [
+        "pay and benefits",
         "working conditions"
     ],
     "employment_types": [
-        "blue_collar_workers",
-        "in_house_workers"
+        "gig workers"
     ],
-    "description": "Amazon has been sued by workers at two different locations, New York City and Salem, Oregon, for its failure to protect its employees during the coronavirus pandemic. Three Amazon employees from the New York fulfillment center sued the company for failing to follow local public health guidance, claiming the company purposefully miscommunicated with workers. The employees are not seeking compensation, only an order that Amazon comply with guidance. A former employee from Salem alleged that she was fired after taking a medical leave for a coronavirus infection and speaking out publicly about safety issues.",
+    "description": "Foodora couriers announced their intention to join a union of Canadian post workers and held a union drive. If successful, this would make Foodora workers the first app-based employees to unionize in Canada. In April 2020 the company announced its intention to leave the Canadian market and initiated bankruptcy proceedings, making the future of the business and the unionizing effort uncertain. ",
     "online": null,
     "locations": [
-        "new york city-new york-usa",
-        "salem-oregon-usa"
+        "toronto-ontario-canada"
     ],
     "companies": [
-        "amazon"
+        "foodora"
     ],
-    "workers": 4,
+    "workers": 1000,
     "tags": [
-        "retaliation",
-        "coronavirus"
+        "delivery_workers"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            40.722465,
-            -73.9977307
-        ],
-        [
-            44.90190785,
-            -122.96427765593445
-        ]
-    ],
-    "addresses": [
-        "Amazon, 72, Spring Street, Little Italy, Manhattan, Manhattan Community Board 2, New York County, New York, 10013, United States of America",
-        "Amazon PDX7, 4775, Depot Court, Salem, Marion County, Oregon, 97317, United States of America"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

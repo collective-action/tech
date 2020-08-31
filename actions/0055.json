@@ -1,42 +1,39 @@
 {
-    "id": 56,
-    "date": "2016/04/21",
+    "id": 54,
+    "date": "2016/02/17",
     "sources": [
-        "https://venturebeat.com/2016/01/03/oconnor-v-uber-why-the-days-of-driver-flexibility-are-already-numbered/, https://www.uber.com/newsroom/growing-and-growing-up, https://prospect.org/article/demand-and-demanding-their-rights"
+        "https://www.theguardian.com/world/2016/feb/17/juarez-factory-workers-protest-rights-occupy-style-sit-in-lexmark"
     ],
     "actions": [
-        "legal_action"
+        "union representation"
     ],
     "struggles": [
-        "pay_and_benefits",
+        "pay and benefits",
         "working conditions"
     ],
     "employment_types": [
-        "gig_workers"
+        "blue collar workers"
     ],
-    "description": "Uber settled two class-action lawsuits that argued independent contractors should be classified as company employees. Uber agreed to pay drivers $84 million (and an additional $16 million upon IPO and pending increased valuation). Drivers were allowed to form associations in California and Massachusetts and see the data behind their rating. In later months, more than 150 drivers called for the judge to vacate the settlement.",
+    "description": "Hundreds of Lexmark workers have protested working conditions at manufacturing plants in Juarez, Mexico for months. At least 700 workers went on strike in December 2015. Workers have called for union representation, improved wages, and investigation into sexual harassment allegations.",
     "online": null,
     "locations": [
-        "california-usa",
-        "massachusetts-usa"
+        "juarez-mexico"
     ],
     "companies": [
-        "uber"
+        "lexmark"
     ],
-    "workers": null,
-    "tags": [
-        "drivers"
-    ],
+    "workers": 700,
+    "tags": null,
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            37.7899898,
-            -122.3999799
+            31.5877145,
+            -106.3916453
         ]
     ],
     "addresses": [
-        "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America"
+        "Lexmark, Boulevard Independencia, Ciudad Ju\u00e1rez, Ju\u00e1rez, Chihuahua, 32575, M\u00e9xico"
     ]
 }

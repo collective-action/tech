@@ -1,31 +1,41 @@
 {
-    "id": 51,
-    "date": "2015/08/20",
+    "id": 49,
+    "date": "2015/06/18",
     "sources": [
-        "https://www.huffingtonpost.ca/2015/08/20/netflix-under-pressure-to-expand-1-year-parental-leave-to-lower-paid-workers-in-dvd-division_n_8018070.html"
+        "https://www.buzzfeednews.com/article/coralewis/wework-cleaners-push-for-raise"
     ],
     "actions": [
-        "open_letter"
+        "protest"
     ],
     "struggles": [
-        "pay_and_benefits"
+        "pay and benefits"
     ],
     "employment_types": [
-        "na"
+        "blue collar workers",
+        "contract workers"
     ],
-    "description": "Three online petitions were started to protest parental leave policies at Netflix. The company recently began to offer a one-year paid parental leave but excluded employees in its DVD-by-mail service, who are typically lower paid than streaming employees and receive fewer benefits.",
-    "online": true,
-    "locations": null,
+    "description": "Janitors of WeWork protest at their companies's Manhattan headquarters at 222 Broadway. In that same building, other renters and owners hire cleaning contractors at the standard city-wide rate, while WeWork pays an average of $11 an hour.",
+    "online": null,
+    "locations": [
+        "manhattan-new york city-new york-usa"
+    ],
     "companies": [
-        "netflix"
+        "wework"
     ],
     "workers": null,
     "tags": [
-        "coworker_solidarity"
+        "seiu"
     ],
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            40.7438954,
+            -73.9850741
+        ]
+    ],
+    "addresses": [
+        "WeWork, 27, East 28th Street, Rose Hill, New York County, Manhattan Community Board 5, New York, 10016, United States of America"
+    ]
 }

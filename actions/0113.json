@@ -1,40 +1,39 @@
 {
-    "id": 114,
-    "date": "2019/01/18",
+    "id": 112,
+    "date": "2018/12/16",
     "sources": [
-        "https://www.theguardian.com/technology/2019/jan/18/oracle-women-workers-lawsuit-salaries-pay"
+        "https://www.scmp.com/news/china/article/2178201/chinese-workers-apple-supplier-foxconn-stage-street-protest-over-unpaid"
     ],
     "actions": [
-        "legal_action"
+        "protest"
     ],
     "struggles": [
-        "discrimination"
+        "pay and benefits"
     ],
     "employment_types": [
-        "na"
+        "blue collar workers",
+        "contract workers"
     ],
-    "description": "Attorneys seek to represent more than 4,200 women in a lawsuit against Oracle that alleged that female employees were paid on average $13,000 less per year than men doing similar work. An analysis of payroll data found disparities with an 'extraordinarily high degree of statistical significance', the complaint said. Women made 3.8% less in base salaries on average than men in the same job categories, 13.2% less in bonuses, and 33.1% less in stock value, it alleges.",
+    "description": "Hundreds of temporary workers for FoxConn rallied on the streets on Zhengzhou to protest unpaid signing bonuses. Protests continued for two nights before being broken up by police.",
     "online": null,
     "locations": [
-        "redwood shores-california-usa"
+        "zhengzhou-china"
     ],
     "companies": [
-        "oracle"
+        "foxconn"
     ],
-    "workers": 4200,
-    "tags": [
-        "sexism"
-    ],
+    "workers": 100,
+    "tags": null,
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            37.53094035,
-            -122.2634054811483
+            34.7284406,
+            113.7595316
         ]
     ],
     "addresses": [
-        "Oracle, 400, Oracle Parkway, Redwood Shores, Redwood City, San Mateo County, California, 94065, United States of America"
+        "Foxconn Technology Group, \u7ecf\u5317\u4e8c\u8def, \u5546\u90fd\u8def\u8857\u9053, \u5703\u7530\u4e61, \u7ba1\u57ce\u56de\u65cf\u533a, \u90d1\u5dde\u5e02, \u6cb3\u5357\u7701, 450046, China \u4e2d\u56fd"
     ]
 }

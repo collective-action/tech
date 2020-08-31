@@ -1,40 +1,43 @@
 {
-    "id": 151,
-    "date": "2019/06/26",
+    "id": 149,
+    "date": "2019/06/24",
     "sources": [
-        "https://www.nytimes.com/2019/06/26/business/wayfair-walkout.html, https://www.cnn.com/2019/06/25/business/wayfair-walkout-detention-camps-trnd/index.html, https://www.jacobinmag.com/2019/06/wayfair-walkout-immigration-detention-centers"
+        "https://onezero.medium.com/a-group-of-microsoft-employees-is-fighting-the-companys-political-action-committee-7dae732290e3",
+        "https://politics.slashdot.org/story/19/06/24/1835230/a-group-of-microsoft-employees-is-fighting-the-companys-political-action-committee",
+        "https://www.geekwire.com/2019/internal-email-microsoft-suspends-pac-donations-temporarily-following-employee-uproar"
     ],
     "actions": [
-        "strike"
+        "protest"
     ],
     "struggles": [
-        "ethics"
+        "ethics",
+        "discrimination"
     ],
     "employment_types": [
-        "white_collar_workers"
+        "white collar workers"
     ],
-    "description": "Hundreds of workers at the online retailer Wayfair walked out of their jobs yesterday to protest the comapny's sale of $200,000 worth of bedroom furniture to a government contractor that operates a network of shelters for migrant children near the southwestern border. More than 500 employees signed a petition to the CEO calling for him to cease all business with the contractor and establish a code of ethics for their sales.",
+    "description": "A group of more than 30 Microsoft employees is lobbying coworkers to stop donating to the company's political action committee in an effort to starve the PAC of funds. While Microsoft pitches itself as an inclusive and progressive company\u200a\u2014\u200aespecially during Pride Month, with tweets and donations to LGBTQ+ causes\u200a\u2014\u200aemployees who have donated to the PAC say they have no control over which candidates are being supported, meaning that they have no say when the PAC financially supports bigoted candidates. On July 2019, Microsoft has temporarily halted political donations through its political action committee after facing this backlash from employees.",
     "online": null,
     "locations": [
-        "boston-massachusetts-usa"
+        "seattle-washington-usa"
     ],
     "companies": [
-        "wayfair"
+        "microsoft"
     ],
-    "workers": 500,
+    "workers": 30,
     "tags": [
-        "ice"
+        "lgbtq"
     ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            42.3506879,
-            -71.0732592
+            47.5388725,
+            -122.2901728
         ]
     ],
     "addresses": [
-        "Wayfair, 222, Berkeley Street, Block A, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States of America"
+        "Microsoft Gathering Hall, 7054, 32nd Avenue South, Columbia City, Holly Park, Seattle, King County, Washington, 98118, United States of America"
     ]
 }

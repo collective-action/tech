@@ -1,40 +1,39 @@
 {
-    "id": 44,
-    "date": "2014/12/03",
+    "id": 42,
+    "date": "2014/11/04",
     "sources": [
-        "https://www.theguardian.com/technology/2014/dec/03/amazon-mechanical-turk-workers-protest-jeff-bezos, http://www.wearedynamo.org/dearjeffbezos"
+        "https://www.chenpe.com/news/24911.html"
     ],
     "actions": [
-        "open_letter"
+        "union representation"
     ],
     "struggles": [
-        "pay_and_benefits",
-        "working conditions",
-        "unfair_labor_practices"
+        "job security",
+        "discrimination"
     ],
     "employment_types": [
-        "gig_workers"
+        "white collar workers"
     ],
-    "description": "Hundreds of Mechanical Turk workers participate in an email writing campaign to Amazon founder Jeff Bezos to protest low pay and worker representation. The workers are organized by 'We Are Dynamo', a self-described guild for crowdsourced workers started by workers and academics.",
-    "online": true,
+    "description": "Artesyn Technologies announced through their QQ blog that employees mainly from the hardware department were participating in a protest against Sony. They held their protest against what they called violent layoffs and discrimination and they appealed to Sony to disclose a list of those being discharged. They also demanded negotiations and a 'fair, transparent and open' process.",
+    "online": null,
     "locations": [
-        "usa"
+        "beijing-china"
     ],
     "companies": [
-        "amazon"
+        "sony"
     ],
-    "workers": 550,
+    "workers": null,
     "tags": null,
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
     "latlngs": [
         [
-            47.6142939,
-            -122.3239636
+            39.9079196,
+            116.4058833
         ]
     ],
     "addresses": [
-        "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
+        "Sony, 1, \u4e1c\u957f\u5b89\u8857, \u4e1c\u57ce\u533a, \u5317\u4eac\u5e02, 100010, China \u4e2d\u56fd"
     ]
 }

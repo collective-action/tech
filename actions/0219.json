@@ -1,38 +1,38 @@
 {
-    "id": 218,
-    "date": "2019/12/10",
+    "id": 216,
+    "date": "2019/12/03",
     "sources": [
-        "https://www.vice.com/amp/en_us/article/ywaaay/injured-amazon-warehouse-workers-are-protesting-dangerous-work-speed, https://chicago.suntimes.com/metro-state/2019/12/10/21005210/amazon-employees-hurt-injured-work-activists"
+        "https://www.buzzfeednews.com/article/carolineodonovan/amazon-workers-in-sacramento-are-demanding-a-fair-paid-time"
     ],
     "actions": [
-        "protest"
+        "open letter"
     ],
     "struggles": [
         "working conditions"
     ],
     "employment_types": [
-        "blue_collar_workers"
+        "blue collar workers"
     ],
-    "description": "Injured former Amazon warehouse workers and labor organizers in Chicago are protesting dangerous work speed and high injury rates today outside one of the company\u2019s brick-and-mortar stores in downtown Chicago. The action coincides with the release of a new report on injury rates in one of the region\u2019s largest and most dangerous warehouses, MDW7, the first in Illinois with automated robots. The report and protest in Chicago coincides with the launch of a national coalition, known as Athena, of three dozen grassroots labor, antitrust, and digital rights organizations\u2014the first unified resistance effort in the United States against the delivery giant.",
+    "description": "Amazon delivery station employees in Sacramento are demanding fair treatment and benefits equal to those of other Amazon workers. By Sunday, more than 200 workers had signed a petition requesting an explanation for why they receive fewer paid days off per year than typical Amazon warehouse workers. The workers, who call themselves Amazonians United Sacramento, say that unlike other Amazon employees, they receive no paid time off. These workers, who sort and prepare packages for final-mile delivery in a station called DSM1, said they were told by Amazon managers that they get less paid time off (PTO) because they are classified by the company as Class Q workers. The Sacramento employees said they were previously unaware of any such classification.",
     "online": null,
     "locations": [
-        "chicago-illinois-usa"
+        "sacramento-california-usa"
     ],
     "companies": [
         "amazon"
     ],
-    "workers": 40,
+    "workers": 200,
     "tags": null,
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            41.84040105,
-            -87.68351928672685
+            38.6767343,
+            -121.4948028
         ]
     ],
     "addresses": [
-        "Amazon Distribution, 2801, South Western Avenue, Lower West Side, Chicago, Cook County, Illinois, 60643, United States of America"
+        "Amazon Avenue, Sacramento, Sacramento County, California, 95835, United States of America"
     ]
 }

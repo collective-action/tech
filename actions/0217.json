@@ -1,38 +1,46 @@
 {
-    "id": 216,
-    "date": "2019/12/03",
+    "id": 214,
+    "date": "2019/11/29",
     "sources": [
-        "https://www.buzzfeednews.com/article/carolineodonovan/amazon-workers-in-sacramento-are-demanding-a-fair-paid-time"
+        "https://metro.co.uk/2019/11/29/amazon-hit-by-black-friday-srikes-and-protests-across-europe-11238471/",
+        "https://www.bbc.com/news/uk-england-50603875"
     ],
     "actions": [
-        "open_letter"
+        "protest"
     ],
     "struggles": [
         "working conditions"
     ],
     "employment_types": [
-        "blue_collar_workers"
+        "blue collar workers"
     ],
-    "description": "Amazon delivery station employees in Sacramento are demanding fair treatment and benefits equal to those of other Amazon workers. By Sunday, more than 200 workers had signed a petition requesting an explanation for why they receive fewer paid days off per year than typical Amazon warehouse workers. The workers, who call themselves Amazonians United Sacramento, say that unlike other Amazon employees, they receive no paid time off. These workers, who sort and prepare packages for final-mile delivery in a station called DSM1, said they were told by Amazon managers that they get less paid time off (PTO) because they are classified by the company as Class Q workers. The Sacramento employees said they were previously unaware of any such classification.",
+    "description": "Amazon was targeted by a UK-wide protest organised to coincide with Black Friday and Cyber Monday demanding an end to \u2018appalling\u2019 working conditions. Trade union GMB co-ordinated the British demonstrations to take place across two of the busiest shopping days of the year. 'Workers are breaking bones, being knocked unconscious and being taken away in ambulances,' GMB national officer Mick Rix said in a statement. Labour leader Jeremy Corbyn visited protesters outside an Amazon depot in Sheffield. The union cited figures suggesting there had been more than 600 ambulance call-outs to Amazon warehouses over a three-year period and just as many serious incidents reported to the Health and Safety Executive for various injuries.",
     "online": null,
     "locations": [
-        "sacramento-california-usa"
+        "sheffield-uk",
+        "rugeley-uk",
+        "peterborough-uk"
     ],
     "companies": [
         "amazon"
     ],
-    "workers": 200,
+    "workers": 12,
     "tags": null,
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            38.6767343,
-            -121.4948028
+            52.75329925,
+            -1.9215828894833442
+        ],
+        [
+            52.542566050000005,
+            -0.2383390628291427
         ]
     ],
     "addresses": [
-        "Amazon Avenue, Sacramento, Sacramento County, California, 95835, United States of America"
+        "Amazon.co.uk, Towers Business Park, Brereton and Ravenhill, Cannock Chase, Staffordshire, West Midlands, England, WS15 1LX, United Kingdom",
+        "Amazon, Unit 1, Flaxley Road, Old Fletton, Peterborough, City of Peterborough, East of England, England, PE2 9EN, United Kingdom"
     ]
 }

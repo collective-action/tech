@@ -1,39 +1,43 @@
 {
-    "id": 186,
-    "date": "2019/09/23",
+    "id": 184,
+    "date": "2019/09/18",
     "sources": [
-        "https://www.vice.com/en_us/article/vb53wy/45-google-employees-explain-how-they-were-retaliated-against-for-reporting-abuse"
+        "https://github.com/msworkers/for.climateaction",
+        "https://gizmodo.com/just-days-ahead-of-employee-climate-strike-microsoft-a-1838229409"
     ],
     "actions": [
-        "protest"
+        "open letter",
+        "strike"
     ],
     "struggles": [
-        "discrimination"
+        "ethics"
     ],
     "employment_types": [
-        "white_collar_workers"
+        "white collar workers"
     ],
-    "description": "Google employees created an internal document describing cases of discrimination and retaliation by the company. 45 cases were reported.",
+    "description": "Mere days before Microsoft workers are set to walk out of their jobs and publicly call on their employer to reduce carbon emissions and sever its ties with fossil fuel companies, the tech giant has announced a major partnership with two of the biggest corporations in the oil industry. Microsoft employees have responded with a fiery statement condemning the partnership and calling on fellow employees to join them in walking out on September 20th. The protest is part of a global general strike on September 20th 2019.",
     "online": true,
     "locations": [
-        "usa",
-        "online"
+        "seattle-washington-usa"
     ],
     "companies": [
-        "google"
+        "microsoft"
     ],
-    "workers": 45,
-    "tags": null,
+    "workers": 300,
+    "tags": [
+        "climate_strike",
+        "climate_change"
+    ],
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
     "latlngs": [
         [
-            42.3627717,
-            -71.087257
+            47.5388725,
+            -122.2901728
         ]
     ],
     "addresses": [
-        "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+        "Microsoft Gathering Hall, 7054, 32nd Avenue South, Columbia City, Holly Park, Seattle, King County, Washington, 98118, United States of America"
     ]
 }

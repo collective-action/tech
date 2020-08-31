@@ -1,32 +1,41 @@
 {
-    "id": 131,
-    "date": "2019/04/19",
+    "id": 129,
+    "date": "2019/04/10",
     "sources": [
-        "https://www.nottinghampost.com/news/nottingham-news/deliveroo-riders-take-nottingham-city-2754676"
+        "https://www.recode.net/2019/4/10/18304877/amazon-climate-change-employees-tech-activism",
+        "https://www.vox.com/business-and-finance/2019/4/11/18306389/amazon-employees-climate-change-plan"
     ],
     "actions": [
-        "protest"
+        "open letter"
     ],
     "struggles": [
-        "working conditions",
-        "pay_and_benefits"
+        "ethics"
     ],
     "employment_types": [
-        "gig_workers"
+        "white collar workers"
     ],
-    "description": "Deliveroo riders took to Nottingham city centre again to protest for improved working and pay conditions. Protesters are growing frustrated with a 'lack of communication' and an 'unwillingness to have their demands listened to' by the food delivery company.",
-    "online": null,
+    "description": "The company's corporate employees signed their names to a letter published on Wednesday that urged Jeff Bezos to create a comprehensive climate-change plan for the company.",
+    "online": true,
     "locations": [
-        "nottingham-uk"
+        "usa"
     ],
     "companies": [
-        "deliveroo"
+        "amazon"
     ],
-    "workers": 10,
-    "tags": null,
+    "workers": 7000,
+    "tags": [
+        "climate_change"
+    ],
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            47.6142939,
+            -122.3239636
+        ]
+    ],
+    "addresses": [
+        "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
+    ]
 }

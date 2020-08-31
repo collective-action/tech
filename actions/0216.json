@@ -1,40 +1,70 @@
 {
-    "id": 215,
-    "date": "2019/12/03",
+    "id": 213,
+    "date": "2019/11/29",
     "sources": [
-        "https://medium.com/@googlewalkout/google-fired-us-for-organizing-were-fighting-back-d0daa8113aed, https://www.bloomberg.com/news/articles/2019-12-03/google-s-thanksgiving-four-file-federal-labor-complaint, https://www.buzzfeednews.com/article/ryanmac/fired-google-employees-nlrb-investigation-cbp, https://www.bloomberg.com/news/articles/2019-12-04/google-retaliation-claims-spread-with-new-labor-board-filing"
+        "https://www.rte.ie/news/business/2019/1129/1095932-amazon-german-strike/",
+        "https://www.forbes.com/sites/isabeltogoh/2019/11/29/black-friday-strikes-and-protests-hit-amazon-in-france-and-germany/#269a045a5bb3"
     ],
     "actions": [
-        "legal_action"
+        "strike"
     ],
     "struggles": [
-        "unfair_labor_practices"
+        "working conditions",
+        "pay and benefits"
     ],
     "employment_types": [
-        "white_collar_workers"
+        "blue collar workers"
     ],
-    "description": "Four recently fired Google engineers who were active in organizing within the company say they will push for a federal investigation into the search and advertising giant for unfair labor practices. In a medium post, the four former employees announced their intent to file charges with the National Labor Relations Board for what they allege was retaliation from the company against their roles in organizing workers. In the letter, they write: 'Last week, Google fired us for engaging in protected labor organizing.' Update: Complaint was officially filed with the NLRB.",
+    "description": "Hundreds of Amazon workers in Germany walked off the job as the online retailer kicked off its 'Black Friday' sales bonanza, escalating a long-simmering battle for better pay and working conditions. The strike called by the powerful Verdi union is set to last until Tuesday morning and will also cover 'Cyber Monday', another extravaganza of online discounts in what is a crucial sales period for Amazon. Verdi members are demanding a collective agreement for a living wage.",
     "online": null,
     "locations": [
-        "usa"
+        "bad hersfeld-germany",
+        "leipzig-germany",
+        "koblenz-germany",
+        "rheinberg-germany",
+        "werne-germany",
+        "graben-germany"
     ],
     "companies": [
-        "google"
+        "amazon"
     ],
-    "workers": 4,
-    "tags": [
-        "retaliation"
-    ],
+    "workers": 200,
+    "tags": null,
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            42.3627717,
-            -71.087257
+            50.8453279,
+            9.678334853465138
+        ],
+        [
+            51.3622584,
+            12.452329749225527
+        ],
+        [
+            50.3465747,
+            7.4912868
+        ],
+        [
+            51.5371004,
+            6.5876793
+        ],
+        [
+            51.653494949999995,
+            7.59464606445661
+        ],
+        [
+            48.198871499999996,
+            10.848663796329923
         ]
     ],
     "addresses": [
-        "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+        "Amazon Logistik GmbH, 1, Eichhof, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
+        "Amazon, 1, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland",
+        "Amazon stra\u00dfe, Industriepark A61/GVZ Koblenz, R\u00fcbenach, Koblenz, Rheinland-Pfalz, 56330, Deutschland",
+        "Amazon, Amazonstra\u00dfe, Winterswick, Rheinberg, Kreis Wesel, Nordrhein-Westfalen, 47495, Deutschland",
+        "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
+        "Amazon-Logistikzentrum, Graben, Landkreis Augsburg, Bayern, 86836, Deutschland"
     ]
 }

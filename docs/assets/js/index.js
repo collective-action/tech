@@ -9,7 +9,7 @@ var queryTags = []
 var searchFields = ['tags', 'companies', 'actions', 'struggles', 'locations', 'employment_types']
 var tagFields = ['tags', 'companies', 'actions', 'struggles', 'locations', 'employment_types']
 var hiddenFields = ['author', 'workers']
-var sourceField = 'sources'
+var sourceField = ['sources']
 var descriptionField = 'description'
 var dateField = 'date'
 
@@ -98,12 +98,12 @@ function rowToHtml (row) {
   for (let key in row) {
     let val = row[key]
     if (key == dateField) {
-      let options = { 
-        weekday: 'long', 
-        year: 'numeric', 
-        month: 'long', 
-        day: 'numeric', 
-        timeZone: 'UTC' 
+      let options = {
+        weekday: 'long',
+        year: 'numeric',
+        month: 'long',
+        day: 'numeric',
+        timeZone: 'UTC'
       }
       let dateStr = new Date(val).toLocaleDateString('en-US', options)
       date.html(dateStr)

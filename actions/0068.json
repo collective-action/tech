@@ -1,47 +1,41 @@
 {
-    "id": 69,
-    "date": "2017/03/22",
+    "id": 67,
+    "date": "2017/02/04",
     "sources": [
-        "https://www.siliconvalley.com/2017/03/23/at-strike-workers-go-back-to-work-after-one-day/, https://money.cnn.com/2017/03/22/news/companies/att-strike-landline-workers/index.html"
+        "https://www.businessinsider.com/facebook-employees-protes-trumps-immigration-ban-by-boycotting-flying-2017-2"
     ],
     "actions": [
-        "strike"
+        "protest"
     ],
     "struggles": [
-        "working conditions",
-        "job_security"
+        "ethics"
     ],
     "employment_types": [
-        "blue_collar_workers"
+        "na"
     ],
-    "description": "About 17,000 AT&T workers walked off the job Wednesday. Workers say that AT&T was forcing technicians to work outside their areas of expertise. The union also was protesting the companies's outsourcing and offshoring of jobs. AT&T wireless workers were not affected.",
+    "description": "A 'handful' of Facebook employees have vowed not to fly for 90 days following Pres. Trump's immigration ban. The company has said it is not affiliated with this protest.",
     "online": null,
     "locations": [
-        "california-usa",
-        "nevada-usa"
+        "usa"
     ],
     "companies": [
-        "at&t"
+        "facebook"
     ],
-    "workers": 17000,
+    "workers": 3,
     "tags": [
-        "technicians"
+        "immigration",
+        "trump"
     ],
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            33.80967965,
-            -117.83605415
-        ],
-        [
-            39.16820185,
-            -119.76399748040197
+            30.2691649,
+            -97.7455041
         ]
     ],
     "addresses": [
-        "AT&T, 1302, North Tustin Street, McPherson, Orange, Orange County, California, 92867, United States of America",
-        "At&t, East Washington Street, Carson Hot Springs, Carson City, Nevada, 89703-3814, United States of America"
+        "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States of America"
     ]
 }

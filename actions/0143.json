@@ -1,39 +1,33 @@
 {
-    "id": 144,
-    "date": "2019/06/07",
+    "id": 142,
+    "date": "2019/05/27",
     "sources": [
-        "https://www.bloomberg.com/news/articles/2019-06-07/contract-bike-staff-say-facebook-isn-t-protecting-their-rights, https://www.shadowproof.com/2019/06/11/facebook-bikeshare-workers-organize-against-anti-union-campaign/"
+        "https://techcrunch.com/2019/05/28/glovo-faces-safety-protests-after-delivery-rider-killed-on-the-job/",
+        "https://elpais.com/economia/2019/05/27/actualidad/1558983633_840887.html"
     ],
     "actions": [
-        "union_drive"
+        "protest"
     ],
     "struggles": [
         "working conditions",
-        "pay_and_benefits"
+        "unfair labor practices"
     ],
     "employment_types": [
-        "contract_workers"
+        "gig workers"
     ],
-    "description": "Bikes Make Life Better (BMLB) contract staff working at Facebook started organizing with the Transport Workers Union, seeking to improve their pay and their safety. The union claims BMLB management has responded with intimidation tactics, including holding mandatory anti-union meetings in which they tell workers that they can\u2019t talk about organizing at work, and if they become unionized, they could lose their contract with Facebook and therefore their jobs.",
+    "description": "Spanish on-demand delivery startup Glovo is facing angry protests from couriers on its platform following the death of a 22-year-old rider in Barcelona where the business is headquartered. The victim was a Nepalese national called Pujan Koirala, who had been substituting for a registered Glovo courier at the time he was struck and killed by a garbage truck.",
     "online": null,
     "locations": [
-        "menlo park-california-usa"
+        "barcelona-spain"
     ],
     "companies": [
-        "facebook"
+        "glovo"
     ],
-    "workers": 50,
+    "workers": 30,
     "tags": null,
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            37.484668049999996,
-            -122.1483654685629
-        ]
-    ],
-    "addresses": [
-        "Facebook, Bayfront Expressway, Belle Haven, Menlo Park, San Mateo County, California, 94025-1246, United States of America"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

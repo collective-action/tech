@@ -1,27 +1,27 @@
 {
-    "id": 19,
-    "date": "2012/01/11",
+    "id": 17,
+    "date": "2009/12/16",
     "sources": [
-        "https://www.telegraph.co.uk/news/worldnews/asia/china/9006988/mass-suicide-protest-at-apple-manufacturer-foxconn-factory.html, https://www.cbsnews.com/news/what-happened-after-the-foxconn-suicides/"
+        "https://techcrunch.com/2009/12/16/yahoo-engineers-strike-after-closure-of-french-rd-site-results-in-78-laid-off/"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
-        "job_security"
+        "job security"
     ],
     "employment_types": [
-        "blue_collar_workers"
+        "white collar workers"
     ],
-    "description": "150 FoxConn workers in Wuhan, China threatened suicide and ultimately spent two days on the roof of their plant to protest forced reassignments. In 2010, 18 FoxConn workers attempted suicide with a resulting 14 deaths.",
+    "description": "Engineers at Yahoo France held a strike to protest the company's plans to shut down an R&D office in Echirolles, laying off 78 people or roughly one-third of the company's total employees in the country. ",
     "online": null,
     "locations": [
-        "wuhan-china"
+        "echirolles-france"
     ],
     "companies": [
-        "foxconn"
+        "yahoo"
     ],
-    "workers": 150,
+    "workers": null,
     "tags": null,
     "author": [
         "nataliyaned"

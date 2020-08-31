@@ -1,45 +1,32 @@
 {
-    "id": 177,
-    "date": "2019/09/05",
+    "id": 175,
+    "date": "2019/08/30",
     "sources": [
-        "https://abc7news.com/business/delivery-app-drivers-rally-for-higher-wages-at-sf-headquarters/5519192/"
+        "https://www.washingtonpost.com/technology/2019/08/30/google-contract-workers-vote-form-union-amid-employee-discord-over-treatment/"
     ],
     "actions": [
-        "protest"
+        "union representation"
     ],
     "struggles": [
-        "pay_and_benefits"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
-        "gig_workers"
+        "contract workers"
     ],
-    "description": "Employees from Instacart, Doordash, and Postmates rallied outside of company headquarters to protest low wages. Doordash is rolling out a new pay model at the end of September which, it claims, will offer better pay for shoppers.",
+    "description": "Google contract workers in Pittsburgh voted to unionize and petitioned the National Labor Relations Board to set up a representation election. Two-thirds of the workers, formally employed by HCL America, were in favor of the action. United Steelworkers helped to organize the union drive through their Pittsburgh Association of Tech Professionals (PATP) project.",
     "online": null,
     "locations": [
-        "san francisco-california-usa"
+        "pittsburgh-pennsylvania-usa"
     ],
     "companies": [
-        "postmates",
-        "doordash",
-        "instacart"
+        "google"
     ],
-    "workers": null,
+    "workers": 90,
     "tags": null,
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            37.7753423,
-            -122.39763106771915
-        ],
-        [
-            37.7834546,
-            -122.4080358
-        ]
-    ],
-    "addresses": [
-        "UserTesting, 690, 5th Street, South of Market, San Francisco, San Francisco City and County, California, 94017, United States of America",
-        "Doordash HQ, Stevenson Street, Union Square, San Francisco, San Francisco City and County, California, 94104, United States of America"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

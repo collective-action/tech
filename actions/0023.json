@@ -1,38 +1,39 @@
 {
-    "id": 24,
-    "date": "2012/10/01",
+    "id": 22,
+    "date": "2012/05/01",
     "sources": [
-        "https://www.engadget.com/2012/10/09/multiple-foxconn-labor-disputes-disrupt-iphone-production/?guccounter=1"
+        "https://www.itproportal.com/2012/05/01/workers-could-start-strike-at-foxconn-factory-in-brazil/",
+        "https://www.cnbc.com/id/100353348"
     ],
     "actions": [
-        "strike"
+        "protest"
     ],
     "struggles": [
         "working conditions"
     ],
     "employment_types": [
-        "blue_collar_workers"
+        "blue collar workers"
     ],
-    "description": "FoxConn workers in Zhengzhou held walkouts on three separate days to protest working conditions at the plant. News outlets also report workers have been purposefully scratching newly manufactured iPhones in protest. China Labor Watch estimates that 3,000 workers took part in the walkouts.",
+    "description": "Thousands of FoxConn workers in Jundiai, Brazil protested dangerous working conditions outside of the company's local plant. Complaints included lack of water and air conditioning at facilities, covercrowded buses, and low quality food in the cafeterias.",
     "online": null,
     "locations": [
-        "zhengzhou-china"
+        "jundiai-brazil"
     ],
     "companies": [
         "foxconn"
     ],
-    "workers": 3000,
+    "workers": 1000,
     "tags": null,
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            34.7284406,
-            113.7595316
+            -23.16559635,
+            -46.94674960550789
         ]
     ],
     "addresses": [
-        "Foxconn Technology Group, \u7ecf\u5317\u4e8c\u8def, \u5546\u90fd\u8def\u8857\u9053, \u5703\u7530\u4e61, \u7ba1\u57ce\u56de\u65cf\u533a, \u90d1\u5dde\u5e02, \u6cb3\u5357\u7701, 450046, China \u4e2d\u56fd"
+        "Foxconn, Avenida Marginal, Jardim Tannus, Aeroporto, Jundia\u00ed, Regi\u00e3o Imediata de Jundia\u00ed, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Campinas, S\u00e3o Paulo, Regi\u00e3o Sudeste, 13212-010, Brasil"
     ]
 }

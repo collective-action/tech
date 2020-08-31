@@ -1,41 +1,71 @@
 {
-    "id": 257,
-    "date": "2020/04/21",
+    "id": 294,
+    "date": "2020/04/17",
     "sources": [
-        "https://www.vice.com/amp/en_us/article/jge77g/hundreds-of-amazon-workers-are-not-going-to-work-in-nationwide-protest, https://thehill.com/policy/technology/493772-hundreds-of-amazon-workers-to-walk-off-starting-tuesday, https://nypost.com/2020/04/21/300-amazon-employees-refuse-to-work-amid-coronavirus-safety-worries/, https://www.wired.com/story/amazon-sick-out-tech-warehouse-workers-protest/"
+        "https://www.wsws.org/en/articles/2020/04/25/braz-a25.html",
+        "https://www.wsws.org/en/articles/2020/04/20/spai-a20.html"
     ],
     "actions": [
-        "strike"
+        "strike",
+        "protest"
     ],
     "struggles": [
-        "working conditions"
+        "working conditions",
+        "pay and benefits"
     ],
     "employment_types": [
-        "blue_collar_workers",
-        "in_house_workers"
+        "gig workers"
     ],
-    "description": "Over 300 Amazon workers across the country signed a pledge to call out of work to protest the company's reaction to the coronavirus pandemic. Participants claim the company continues to fall short in providing personal protective equipment and are calling for a more flexible paid leave policy that would allow them to take care of sick family members.",
+    "description": "Over the past few days, food delivery workers have carried out strikes in several countries demanding safe working conditions in the face of the coronavirus pandemic and an increase in delivery rates to ensure the workers a livable income. The countries include Brazil, Spain, Argentina, and Ecuador.",
     "online": null,
     "locations": [
-        "usa"
+        "teresina-piau\u00ed-brazil",
+        "rio de janiero-brazil",
+        "s\u00e3o paulo-brazil",
+        "buenos aires-argentina",
+        "cordoba-spain",
+        "quito-ecuador",
+        "madrid-spain",
+        "cartagena-spain"
     ],
     "companies": [
-        "amazon"
+        "loggi",
+        "iFood",
+        "rappi",
+        "uber",
+        "glovo",
+        "deliveroo"
     ],
-    "workers": 301,
+    "workers": null,
     "tags": [
-        "coronavirus"
+        "coronavirus",
+        "delivery_workers"
     ],
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            47.6142939,
-            -122.3239636
+            -23.5408511,
+            -46.767282173446574
+        ],
+        [
+            -21.2180398,
+            -47.7985009230547
+        ],
+        [
+            -36.8691092,
+            -60.1620626
+        ],
+        [
+            -34.5814605,
+            -58.4513731
         ]
     ],
     "addresses": [
-        "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
+        "iFood, 1496, Avenida dos Autonomistas, Osasco, Regi\u00e3o Imediata de S\u00e3o Paulo, Regi\u00e3o Metropolitana de S\u00e3o Paulo, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de S\u00e3o Paulo, S\u00e3o Paulo, Regi\u00e3o Sudeste, 06020-010, Brasil",
+        "Parque Uber, Jardim Bot\u00e2nico, Ribeir\u00e3o Preto, Regi\u00e3o Imediata de Ribeir\u00e3o Preto, Regi\u00e3o Metropolitana de Ribeir\u00e3o Preto, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Ribeir\u00e3o Preto, S\u00e3o Paulo, Regi\u00e3o Sudeste, Brasil",
+        "Cristian Uber, Hinojo, Partido de Olavarr\u00eda, Buenos Aires, 7318, Argentina",
+        "Glovo, 3590, Avenida Federico Lacroze, Colegiales, Buenos Aires, Ciudad Aut\u00f3noma de Buenos Aires, Comuna 15, C1427EDN, Argentina"
     ]
 }

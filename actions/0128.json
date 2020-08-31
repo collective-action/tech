@@ -1,40 +1,40 @@
 {
-    "id": 129,
-    "date": "2019/04/10",
+    "id": 127,
+    "date": "2019/04/02",
     "sources": [
-        "https://www.recode.net/2019/4/10/18304877/amazon-climate-change-employees-tech-activism, https://www.vox.com/business-and-finance/2019/4/11/18306389/amazon-employees-climate-change-plan"
+        "https://www.theguardian.com/technology/2019/apr/02/google-workers-sign-letter-temp-contractors-protest"
     ],
     "actions": [
-        "open_letter"
+        "open letter"
     ],
     "struggles": [
-        "ethics"
+        "discrimination"
     ],
     "employment_types": [
-        "white_collar_workers"
+        "white collar workers"
     ],
-    "description": "The company's corporate employees signed their names to a letter published on Wednesday that urged Jeff Bezos to create a comprehensive climate-change plan for the company.",
+    "description": "More than 900 Google workers have signed a letter objecting to the tech giant's treatment of temporary contractors, in what organizers are calling a 'historical coalition' between Google's full-time employees (FTEs) and temps, vendors and contractors (TVCs).",
     "online": true,
     "locations": [
         "usa"
     ],
     "companies": [
-        "amazon"
+        "google"
     ],
-    "workers": 7000,
+    "workers": 900,
     "tags": [
-        "climate_change"
+        "coworker_solidarity"
     ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            47.6142939,
-            -122.3239636
+            42.3627717,
+            -71.087257
         ]
     ],
     "addresses": [
-        "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
+        "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
     ]
 }

@@ -1,12 +1,11 @@
 {
-    "id": 187,
-    "date": "2019/09/25",
+    "id": 185,
+    "date": "2019/09/19",
     "sources": [
-        "http://www.browndailyherald.com/2019/09/26/students-protest-companies-tied-ice-career-fair/"
+        "https://www.jhunewsletter.com/article/2019/09/university-will-not-renew-its-contracts-with-ice?fbclid=iwar2qil9rnrrv2giufwqcqxv6qwsfl1r-_4uui76dh7jkljjmidg2ttcrk4s"
     ],
     "actions": [
-        "protest",
-        "open_letter"
+        "protest"
     ],
     "struggles": [
         "ethics"
@@ -14,16 +13,12 @@
     "employment_types": [
         "na"
     ],
-    "description": "Students at Brown demonstrated against four companies (Amazon, Microsoft, Palantir, and Ernst & Young) at an on-campus career fair. All four companies have done business with ICE. The students have also started an online petition to protest Brown's connections to these four companies. ",
+    "description": "Hopkins Coalition Against ICE (HCAI), a student organization, organized three protests over the course of the 2018-19 school year against contracts between Johns Hopkins University Center for Law Enforcement Medicine and ICE (U.S. Dept. of Immigrations Customs and Enforcement). In response, the Center announced that they would not be renewing their contract.",
     "online": null,
     "locations": [
-        "providence-rhode island-usa"
+        "baltimore-maryland-usa"
     ],
-    "companies": [
-        "palantir",
-        "microsoft",
-        "amazon"
-    ],
+    "companies": null,
     "workers": null,
     "tags": [
         "students",
@@ -35,11 +30,11 @@
     ],
     "latlngs": [
         [
-            41.5286839,
-            -71.2330488
+            39.284749399999995,
+            -76.62047463969989
         ]
     ],
     "addresses": [
-        "Amazon Drive, South Portsmouth, Portsmouth, Rhode Island, United States of America"
+        "Baltimore, Maryland, United States of America"
     ]
 }

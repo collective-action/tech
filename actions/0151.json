@@ -1,19 +1,20 @@
 {
-    "id": 152,
-    "date": "2019/06/30",
+    "id": 150,
+    "date": "2019/06/26",
     "sources": [
-        "https://www.vox.com/platform/amp/recode/2019/6/28/19303292/google-protest-pride-parade-lgbtq-youtube-harassment, https://medium.com/@bangooglefrompride/ban-google-from-pride-to-march-in-protest-of-harassment-and-discrimination-on-youtube-d8dcc6fde06e, https://twitter.com/shiringhaffary/status/1145387654202048512?s=19"
+        "https://www.bloomberg.com/news/articles/2019-06-26/google-workers-petition-sf-pride-to-exclude-company-from-parade",
+        "https://medium.com/@bangooglefrompride/an-open-petition-to-the-san-francisco-pride-board-of-directors-f8164486c2e4"
     ],
     "actions": [
-        "protest"
+        "open letter"
     ],
     "struggles": [
         "discrimination"
     ],
     "employment_types": [
-        "white_collar_workers"
+        "white collar workers"
     ],
-    "description": "Google workers, under the name \u201cBan Google From Pride,\u201d protest their employer at Pride Parade amid controversy in the LGBTQ community over the company's harassment policies on YouTube videos.",
+    "description": "About 100 Google employees urged the organizer of this weekend's San Francisco Pride parade to kick the company out of the celebration, escalating pressure on the internet giant to overhaul its handling of hate speech online. The employees wrote a letter to the board of directors of San Francisco Pride, asking that Google be dropped as a sponsor of the parade as well as excluded from having a presence at the event.",
     "online": null,
     "locations": [
         "san francisco-california-usa"
@@ -21,9 +22,9 @@
     "companies": [
         "google"
     ],
-    "workers": 23,
+    "workers": 100,
     "tags": [
-        "lgtbq"
+        "lgbtq"
     ],
     "author": [
         "organizejs"

@@ -1,40 +1,41 @@
 {
-    "id": 91,
-    "date": "2018/06/21",
+    "id": 89,
+    "date": "2018/06/19",
     "sources": [
-        "https://www.bloomberg.com/news/articles/2018-06-21/google-engineers-refused-to-build-security-tool-to-win-military-contracts"
+        "https://www.nytimes.com/2018/06/19/technology/tech-companies-immigration-border.html",
+        "https://www.theverge.com/2018/6/21/17488328/microsoft-ice-employees-signatures-protest"
     ],
     "actions": [
-        "protest"
+        "open letter"
     ],
     "struggles": [
         "ethics"
     ],
     "employment_types": [
-        "white_collar_workers"
+        "white collar workers"
     ],
-    "description": "Earlier this year, a group of influential software engineers in Google\u2019s cloud division, referred to as the 'Group of Nine', surprised their superiors by refusing to work on a cutting-edge security feature. Known as \u201cair gap,\u201d the technology would have helped Google win sensitive military contracts. The coders weren\u2019t persuaded their employer should be using its technological might to help the government wage war, according to four current and former employees. After hearing the engineers\u2019 objections, Urs H\u00f6lzle, Google\u2019s top technical executive, said the air gap feature would be postponed, one of the people said. ",
-    "online": null,
+    "description": "In an open letter posted to Microsoft's internal message board on Tuesday, hundreds of employees protested Microsoft's work with Immigration and Customs Enforcement and demanding that the companies stop working with the agency.",
+    "online": true,
     "locations": [
         "usa"
     ],
     "companies": [
-        "google"
+        "microsoft"
     ],
-    "workers": 9,
+    "workers": 300,
     "tags": [
-        "military_contracts"
+        "ice"
     ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            42.3627717,
-            -71.087257
+            35.139622349999996,
+            -80.92306993327955
         ]
     ],
     "addresses": [
-        "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+        "Microsoft, Yorkwood, Charlotte, Mecklenburg County, North Carolina, United States of America"
     ]
 }

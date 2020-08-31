@@ -1,56 +1,40 @@
 {
-    "id": 38,
-    "date": "2014/04/19",
+    "id": 36,
+    "date": "2014/04/01",
     "sources": [
-        "https://www.nbcnews.com/tech/tech-news/workers-tech-poaching-case-likely-get-average-4k-n113451, https://www.independent.ie/business/technology/four-us-tech-firms-face-3bn-payout-over-claims-they-conspired-on-pay-30199663.html"
+        "https://www.ibtimes.co.uk/protesters-fight-against-amazon-over-living-wage-demands-1442174",
+        "https://www.reuters.com/article/us-amazon-strikes/amazon-workers-in-germany-strike-again-in-protracted-pay-dispute-idusbrea2u0l220140331"
     ],
     "actions": [
-        "legal_action"
+        "open letter"
     ],
     "struggles": [
-        "pay_and_benefits"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
-        "white_collar_workers"
+        "blue collar workers"
     ],
-    "description": "Tech workers from Google, Apple, Intel, and Adobe Systems brought a class action lawsuit against their respective companies, claiming that they conspired to keep salaries down by adhering to 'no-hire' agreements among themselves. The case ended in a $325 million settlement that paid out roughly $4,000 to 60,000 employees. ",
+    "description": "In the UK, an activist group called Amazon Anonymous delivered a letter and a petition with 55,000 signatures to Amazon. The letter called for higher wages and improved working conditions for warehouse workers, including longer breaks and an end to the practice of compulsory overtime. ",
     "online": null,
     "locations": [
-        "california-usa"
+        "uk"
     ],
     "companies": [
-        "google",
-        "apple",
-        "intel",
-        "adobe"
+        "amazon"
     ],
-    "workers": 60000,
+    "workers": 55000,
     "tags": null,
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            37.41897865,
-            -122.08237793989416
-        ],
-        [
-            37.32915255,
-            -122.03225451655098
-        ],
-        [
-            32.939795,
-            -117.1026021
-        ],
-        [
-            37.33196605,
-            -121.8954904847011
+            51.5414364,
+            -2.641349791380809
         ]
     ],
     "addresses": [
-        "Google, Mountain View, Santa Clara County, California, United States of America",
-        "Apple, Monta Vista, Cupertino, Santa Clara County, California, United States of America",
-        "Intel, 12220, Scripps Summit Drive, Sabre Springs, San Diego, San Diego County, California, 92131, United States of America",
-        "Adobe, 333, Japantown, San Jose, Santa Clara County, California, United States of America"
+        "Amazon, Goldcrest Way, Central Park Distribution Park, Pilning and Severn Beach, Pilning, South Gloucestershire, South West England, England, BS35 4DJ, United Kingdom"
     ]
 }

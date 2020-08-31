@@ -1,40 +1,31 @@
 {
-    "id": 53,
-    "date": "2016/02/10",
+    "id": 51,
+    "date": "2015/08/20",
     "sources": [
-        "https://www.usatoday.com/story/tech/news/2016/02/10/cafeteria-workers-intel-rally-over-low-wages/80204798/"
+        "https://www.huffingtonpost.ca/2015/08/20/netflix-under-pressure-to-expand-1-year-parental-leave-to-lower-paid-workers-in-dvd-division_n_8018070.html"
     ],
     "actions": [
-        "protest"
+        "open letter"
     ],
     "struggles": [
-        "pay_and_benefits",
-        "working conditions"
+        "pay and benefits"
     ],
     "employment_types": [
-        "blue_collar_workers",
-        "contract_workers"
+        "na"
     ],
-    "description": "Intel cafeteria workers held a rally outside of company headquarters in Santa Clara to protest wages that have failed to keep up with the area's rising cost of living. Two weeks earlier the employees  delivered a petition to management asking for fair process to form a union.",
-    "online": null,
-    "locations": [
-        "santa clara-california-usa"
-    ],
+    "description": "Three online petitions were started to protest parental leave policies at Netflix. The company recently began to offer a one-year paid parental leave but excluded employees in its DVD-by-mail service, who are typically lower paid than streaming employees and receive fewer benefits.",
+    "online": true,
+    "locations": null,
     "companies": [
-        "intel"
+        "netflix"
     ],
-    "workers": 100,
-    "tags": null,
+    "workers": null,
+    "tags": [
+        "coworker_solidarity"
+    ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            37.389317899999995,
-            -121.97901174515997
-        ]
-    ],
-    "addresses": [
-        "McAfee, Mission College Boulevard, Agnew, Santa Clara, Santa Clara County, California, 94054, United States of America"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

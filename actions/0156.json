@@ -1,54 +1,47 @@
 {
-    "id": 157,
-    "date": "2019/07/13",
+    "id": 155,
+    "date": "2019/07/11",
     "sources": [
-        "https://www.merca20.com/los-problemas-con-los-que-se-enfrentan-los-repartidores-de-comida-en-apps/, https://www.xataka.com.mx/aplicaciones/vacaciones-jubilacion-horario-flexible-que-repartidores-uber-eats-rappi-sindelantal-piden-al-ser-empleados-mexico"
+        "https://www.forbes.com/sites/rachelsandler/2019/07/11/internal-email-amazon-faces-pressure-from-more-than-500-employees-to-cut-ties-with-palantir-for-working-with-ice/#7707abe77539",
+        "https://www.businessinsider.com/amazon-employees-letter-protest-palantir-ice-camps-2019-7?r=us&ir=t"
     ],
     "actions": [
-        "protest"
+        "open letter"
     ],
     "struggles": [
-        "working conditions",
-        "pay_and_benefits"
+        "ethics"
     ],
     "employment_types": [
-        "contract_workers",
-        "gig_workers"
+        "white collar workers"
     ],
-    "description": "After increasing concerns about accident and death rates for delivery drivers, delivery workers across Mexico rallied under the hashtag #NiUnRepartidorMenos (translation: Not One Deliveryperson More). The workers have demanded better working conditions, and advocate that labor law better considers gig apps. They look to companies for improved insurance coverage, company protection from theft, and look to governments for fairer delivery driver licensing.  Workers in the movement have succeeded in meeting with several companies. ",
-    "online": true,
+    "description": "Amazon employees sent out an internal email calling on Amazon to stop working with the big data company Palantir, which works with federal agency Immigration and Customs Enforcement (ICE). This email, sent to employee mailing lists within Amazon Web Services, demanded that Palantir be removed from Amazon's cloud for violating its terms of service. It also called on Amazon to take a stand against ICE by making a statement establishing its position against immigration raids, deportations, and camps for migrants at the border.",
+    "online": null,
     "locations": [
-        "mexico"
+        "usa"
     ],
     "companies": [
-        "glovo",
-        "uber",
-        "rappi",
-        "sindelantal",
-        "didi_food"
+        "amazon",
+        "palantir"
     ],
-    "workers": 20000,
-    "tags": null,
+    "workers": null,
+    "tags": [
+        "ice"
+    ],
     "author": [
-        "moates"
+        "organizejs"
     ],
     "latlngs": [
         [
-            -34.5814605,
-            -58.4513731
+            47.6142939,
+            -122.3239636
         ],
         [
-            19.42437,
-            -99.168218
-        ],
-        [
-            47.2269198,
-            8.8245459
+            37.4440869,
+            -122.16287540411753
         ]
     ],
     "addresses": [
-        "Glovo, 3590, Avenida Federico Lacroze, Colegiales, Buenos Aires, Comuna 15, C1427EDN, Argentina",
-        "Uber, Calle Hamburgo, Ju\u00e1rez, Ciudad de M\u00e9xico, Cuauht\u00e9moc, 06600, M\u00e9xico",
-        "Rapperswil, Wahlkreis See-Gaster, Sankt Gallen, 8640, Switzerland"
+        "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America",
+        "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States of America"
     ]
 }

@@ -1,33 +1,32 @@
 {
-    "id": 33,
-    "date": "2014/01/16",
+    "id": 31,
+    "date": "2013/11/19",
     "sources": [
-        "https://time.com/956/how-amazon-crushed-the-union-movement/"
+        "https://www.windowscentral.com/nokia-employees-dongguan-factory-china-strike"
     ],
     "actions": [
-        "union_representation"
+        "strike"
     ],
     "struggles": [
-        "pay_and_benefits",
-        "working conditions"
+        "pay and benefits",
+        "job security"
     ],
     "employment_types": [
-        "blue_collar_workers"
+        "blue collar workers"
     ],
-    "description": "A group of technicians at an Amazon facility in Middletown, Delaware filed a petition with the NLRB to organize a union but ultimately voted against it, 21-6, after pressure from management and anti-union consultants. ",
+    "description": "Hundreds of workers at a Chinese Nokia factory located in Dongguan, Guangdong Province have on strike. They're holding up a large banner in protest, which reads 'Workers are not simple merchandise, assets or slaves. Please do not sell us. We have DIGNITY and RIGHTS!",
     "online": null,
     "locations": [
-        "middletown-delaware-usa"
+        "dongguan-china"
     ],
     "companies": [
-        "amazon"
+        "microsoft",
+        "nokia"
     ],
-    "workers": 6,
-    "tags": [
-        "retaliation"
-    ],
+    "workers": 100,
+    "tags": null,
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
     "latlngs": null,
     "addresses": null

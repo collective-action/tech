@@ -1,62 +1,43 @@
 {
-    "id": 105,
-    "date": "2018/11/23",
+    "id": 103,
+    "date": "2018/11/01",
     "sources": [
-        "https://mashable.com/article/amazon-workers-black-friday-strike-europe-uk/#7mizh6l4giqk, https://www.uniglobalunion.org/news/amazon-workers-launch-wave-black-friday-strikes-and-protests, https://www.businessinsider.com/black-friday-amazon-workers-protest-poor-working-conditions-2018-11"
+        "https://www.nytimes.com/2018/11/01/technology/google-walkout-sexual-harassment.html",
+        "https://www.recode.net/2018/11/21/18105719/google-walkout-real-change-organizers-protest-discrimination-kara-swisher-recode-decode-podcast"
     ],
     "actions": [
         "strike"
     ],
     "struggles": [
-        "working conditions"
+        "discrimination"
     ],
     "employment_types": [
-        "blue_collar_workers"
+        "white collar workers",
+        "contract workers"
     ],
-    "description": "Thousands of Amazon staff members across Europe protest on Black Friday over the way the companies treats its warehouse workers. As shoppers in the U.S.A. log in to Amazon to find Black Friday deals, Amazon workers in the UK, Spain, France, Italy, and Germany are striking to protest working conditions in the company\u2019s warehouses.",
+    "description": "Google employees and contractors walked out of the companies's offices around the world, one week after the New York Times reported that Google had protected three executives accused of sexual misconduct.",
     "online": null,
     "locations": [
-        "germany",
-        "france",
-        "italy",
-        "spain",
-        "uk"
+        "usa",
+        "worldwide"
     ],
     "companies": [
-        "amazon"
+        "google"
     ],
-    "workers": 2400,
-    "tags": null,
+    "workers": 20000,
+    "tags": [
+        "sexism"
+    ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            51.653494949999995,
-            7.59464606445661
-        ],
-        [
-            49.20773805,
-            2.6199324110680884
-        ],
-        [
-            45.0777055,
-            9.454322716507177
-        ],
-        [
-            41.4015005,
-            2.1921906095749035
-        ],
-        [
-            51.5414364,
-            -2.641349791380809
+            42.3627717,
+            -71.087257
         ]
     ],
     "addresses": [
-        "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
-        "Amazon, Villem\u00e9trie, Senlis, Oise, Hauts-de-France, France m\u00e9tropolitaine, 60300, France",
-        "Amazon, Cascina Sforza, Castel San Giovanni, Piacenza, Emilia-Romagna, Italia",
-        "Amazon, Carrer de Badajoz, el Parc i la Llacuna del Poblenou, Sant Mart\u00ed, Barcelona, Barcelon\u00e8s, Barcelona, Catalunya, 08001, Espa\u00f1a",
-        "Amazon, Goldcrest Way, Central Park Distribution Park, Pilning and Severn Beach, Pilning, South Gloucestershire, South West England, England, BS35 4DJ, United Kingdom"
+        "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
     ]
 }

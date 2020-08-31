@@ -1,30 +1,29 @@
 {
-    "id": 241,
+    "id": 239,
     "date": "2020/03/17",
     "sources": [
-        "https://medium.com/@amazoniansunitednyc/we-amazon-workers-demand-coronavirus-protections-16f28ad8b15f, https://www.cnbc.com/2020/03/19/amazon-warehouse-worker-in-new-york-tests-positive-for-the-coronavirus.html, https://www.theatlantic.com/health/archive/2020/03/amazon-warehouse-employee-has-coronavirus/608341/"
+        "https://www.theverge.com/2020/3/17/21184495/google-employees-memo-contract-workers-coronavirus-covid-19",
+        "https://www.businessinsider.com/google-workers-raise-internal-concerns-tvc-policies-for-covid-19-2020-3"
     ],
     "actions": [
-        "open_letter"
+        "open letter"
     ],
     "struggles": [
-        "working conditions",
-        "unfair_labor_practices"
+        "unfair labor practices"
     ],
     "employment_types": [
-        "blue_collar_workers",
-        "in_house_workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "As the coronavirus continues to spread, Amazon logistics workers circulated a petition calling for the company to put in place more \u201cprotective measures,\u201d  in which they demanded that the company provide paid sick leave to all its employees, even those who do not have a positive COVID-19 diagnosis, given the scarcity of coronavirus tests. They also requested child-care funds for workers with children, increased hazard pay, an end to penalties for working too slowly, and an immediate closure of any facility where a worker tests positive. \u201cWhile Amazon has made some limited coronavirus accommodations, it needs a comprehensive plan to ensure the safety of all of its workers and the larger public, including giving workers paid leave and not simply extending our unpaid leave, as was announced recently,\u201d the petition states. ",
-    "online": null,
+    "description": "A group of Google employees has sent a memo to company leadership demanding stronger commitments to protect the more vulnerable members of Google\u2019s workforce, primarily its contract workers, during the ongoing coronavirus crisis. The memo notes that some Google contractors, like those in the company\u2019s Pittsburgh office employed by an independent company called HCL Technologies, have been forced to come into the office, even as full-time Google employees were first allowed and then instructed to stay home.",
+    "online": true,
     "locations": [
-        "saran-france",
-        "paris-france"
+        "usa"
     ],
     "companies": [
-        "amazon"
+        "google"
     ],
-    "workers": 1800,
+    "workers": null,
     "tags": [
         "coworker_solidarity",
         "coronavirus"
@@ -34,16 +33,11 @@
     ],
     "latlngs": [
         [
-            47.9619318,
-            1.8440185793930501
-        ],
-        [
-            48.837679,
-            2.3909358
+            42.3627717,
+            -71.087257
         ]
     ],
     "addresses": [
-        "Amazon.fr ORY1, Rue de l'Olivier, Deret Logistique, Saran, Orl\u00e9ans, Loiret, Centre-Val de Loire, France m\u00e9tropolitaine, 45770, France",
-        "Amazon, 235, Rue de Charenton, Quartier de Bercy, Paris, \u00cele-de-France, France m\u00e9tropolitaine, 75012, France"
+        "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
     ]
 }

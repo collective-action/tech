@@ -1,33 +1,42 @@
 {
-    "id": 1,
-    "date": "1979/09/01",
+    "id": 314,
+    "date": "1970/01/01",
     "sources": [
-        "https://twitter.com/clancynewyork/status/1175872040814993408?s=19, http://www-cs-students.stanford.edu/~cale/cs201/apartheid.comp.html"
+        "https://www.theguardian.com/commentisfree/2019/dec/06/google-ibm-tech-racism"
     ],
     "actions": [
-        "protest"
+        "resources"
     ],
     "struggles": [
-        "ethics"
+        "ethics",
+        "discrimination"
     ],
     "employment_types": [
-        "white_collar_workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "IBM workers formed an organization, IBM: Speak Up!, to protest the company's involvement with apartheid South Africa. The company created the computer system that upheld the country's passbook system. The company officially divested from South Africa in 1987.",
+    "description": "Black IBM employees founded the National Black Workers Alliance of IBM (BWA), \"the first-ever movement of hi-tech minority workers\". The organization was one of the first to speak out against the company's involvement in South Africa and to demand equal pay and better opportunities for promotion for Black employees. They collected data on internal pay guidelines salaries at IBM to increase their leverage with management and supported fellow employees who faced retaliation after speaking out.",
     "online": null,
     "locations": [
-        "worldwide"
+        "usa"
     ],
     "companies": [
         "ibm"
     ],
     "workers": null,
     "tags": [
-        "international_solidarity"
+        "antiracism"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            44.05795005,
+            -92.50701462052399
+        ]
+    ],
+    "addresses": [
+        "IBM, Rochester, Olmsted County, Minnesota, 55901:55960, United States of America"
+    ]
 }

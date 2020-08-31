@@ -1,43 +1,35 @@
 {
-    "id": 291,
-    "date": "2020/06/23",
+    "id": 279,
+    "date": "2020/06/22",
     "sources": [
-        "https://www.npr.org/2020/06/23/881624553/pinterest-sounds-a-more-contrite-tone-after-black-former-employees-speak-out, https://twitter.com/IfeomaOzoma/status/1272546213322080258, https://twitter.com/erikashimizu/status/1272547227177713664"
+        "https://www.theverge.com/2020/6/22/21299736/google-employees-cut-ties-police-law-enforcement-black-lives-matter",
+        "https://gizmodo.com/1-600-googlers-call-for-an-end-to-all-contracts-with-c-1844124793?rev=1592864623516",
+        "https://www.businessinsider.com/googlers-send-letter-ceo-sundar-pichai-stop-working-with-police-2020-6"
     ],
     "actions": [
-        "open_letter"
+        "open letter"
     ],
     "struggles": [
-        "ethics",
-        "discrimination"
+        "ethics"
     ],
     "employment_types": [
-        "white_collar_workers",
-        "in_house_workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Two former Pinterest employees, both Black women, spoke out on Twitter about the racism they experienced in the workplace. One of the employees, Ifeoma Ozoma, said she was not being fairly paid according to company data. She also said she had to come up with a list of pros to defend promoting former slave plantations for wedding venues. After speaking out, a white employee of the company doxxed her, placing her personal contact information online. He was fired soon after. Another former employee, Aerica Shimizu Ban, said her expenses with Black organizations had been repeatedly questioned.",
+    "description": "Over 1, 650 Google employees have signed an open letter to CEO Sundar Pichai demanding the company stop selling its technology to police forces across the US. \u201cThe past weeks have shown us that addressing racism is not merely an issue of words, but of actions taken to dismantle the actual structures that perpetuate it, \u201d the letter, written by the employee group Googlers Against Racism, reads. \u201cWhile we as individuals hold difficult but necessary conversations with our family, friends and peers, we are also incredibly disappointed by our company\u2019s response.\u201d",
     "online": true,
-    "locations": [
-        "usa"
-    ],
+    "locations": null,
     "companies": [
-        "pinterest"
+        "google"
     ],
-    "workers": 2,
+    "workers": 1650,
     "tags": [
         "blm",
         "antiracism"
     ],
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
-    "latlngs": [
-        [
-            37.77524325,
-            -122.39965536097225
-        ]
-    ],
-    "addresses": [
-        "Pinterest, 651, Brannan Street, South of Market, San Francisco, San Francisco City and County, California, 94017, United States of America"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

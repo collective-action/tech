@@ -1,32 +1,38 @@
 {
-    "id": 195,
-    "date": "2019/10/03",
+    "id": 193,
+    "date": "2019/10/02",
     "sources": [
-        "https://www.vice.com/en_us/article/pa7qny/60-amazon-workers-walked-out-over-warehouse-working-conditions?f"
+        "https://www.vice.com/en_us/article/9ken8v/kickstarter-workers-just-asked-for-union-recognition-despite-pushback-from-ceo"
     ],
     "actions": [
-        "strike"
+        "open letter"
     ],
     "struggles": [
-        "pay_and_benefits",
         "working conditions"
     ],
     "employment_types": [
-        "blue_collar_workers"
+        "white collar workers"
     ],
-    "description": "Approximately 60 Amazon workers walked out of a delivery center in Eagan, Minnesota to demand increased wages, weight restrictions on boxes, and abolishing a cap on 30 hour workweeks. The strike lasted two and half hours until a manager promised to address concerns the following morning.",
+    "description": "Kickstarter workers have sent a letter to management asking them to voluntarily recognize their union. If management refuses to recognize the union, workers have the option to go to the NLRB to authorize a union election.",
     "online": null,
     "locations": [
-        "eagan-minnesota-usa"
+        "brooklyn-new york city-new york-usa"
     ],
     "companies": [
-        "amazon"
+        "kickstarter"
     ],
-    "workers": 60,
+    "workers": null,
     "tags": null,
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            40.7321996,
+            -73.9598257
+        ]
+    ],
+    "addresses": [
+        "Kickstarter HQ, West Street, Brooklyn, New York, 11222, United States of America"
+    ]
 }

@@ -1,40 +1,47 @@
 {
-    "id": 92,
-    "date": "2018/06/25",
+    "id": 90,
+    "date": "2018/06/21",
     "sources": [
-        "https://www.bloomberg.com/news/articles/2018-06-25/salesforce-employees-ask-ceo-to-revisit-ties-with-border-agency"
+        "https://thehill.com/business-a-lobbying/393583-amazon-employees-protest-sale-of-facial-recognition-tech-to-law",
+        "https://www.businessinsider.com/over-100-amazon-employees-sign-letter-jeff-bezos-stop-selling-facial-recognition-software-police-2018-6"
     ],
     "actions": [
-        "open_letter"
+        "open letter"
     ],
     "struggles": [
         "ethics"
     ],
     "employment_types": [
-        "white_collar_workers"
+        "white collar workers"
     ],
-    "description": "Hundreds of Salesforce.com Inc. employees signed a letter to Chief Executive Officer Marc Benioff criticizing the companies's contracts with the U.S. Customs and Border Protection agency.",
+    "description": "Workers at Amazon are circulating an internal letter to CEO Jeff Bezos, asking him to stop selling the companies's Rekognition facial recognition software to law enforcement and to boot the data-mining firm Palantir from its cloud services.",
     "online": true,
     "locations": [
         "usa"
     ],
     "companies": [
-        "salesforce"
+        "amazon",
+        "palantir"
     ],
-    "workers": 650,
+    "workers": 100,
     "tags": [
-        "cbp"
+        "law_enforcement"
     ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            45.5328206,
-            -122.9032132
+            47.6142939,
+            -122.3239636
+        ],
+        [
+            37.4440869,
+            -122.16287540411753
         ]
     ],
     "addresses": [
-        "Salesforce, 2035, Northeast Cornelius Pass Road, Orenco, Hillsboro, Washington County, Oregon, 97124, United States of America"
+        "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America",
+        "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States of America"
     ]
 }

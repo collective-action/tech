@@ -1,39 +1,32 @@
 {
-    "id": 199,
-    "date": "2019/10/21",
+    "id": 197,
+    "date": "2019/10/03",
     "sources": [
-        "https://www.bloomberg.com/amp/news/articles/2019-10-21/swiss-google-employees-defy-managers-stage-labor-event?__twitter_impression=true, https://www.vox.com/recode/2019/10/21/20924697/google-unionization-switzerland-zurich-syndicom-zooglers"
+        "https://english.kyodonews.net/news/2019/10/d2198529f08b-update1-uber-eats-delivery-staff-in-japan-form-labor-union.html",
+        "https://www.japantimes.co.jp/news/2019/10/03/business/corporate-business/uber-eats-delivery-staff-japan-form-labor-union/#.xaurdohkihs"
     ],
     "actions": [
-        "union_drive"
+        "union representation"
     ],
     "struggles": [
-        "working conditions",
-        "job_security"
+        "working conditions"
     ],
     "employment_types": [
-        "white_collar_workers"
+        "gig workers"
     ],
-    "description": "Approximately 40 Google employees in Zurich held a meeting at the office to discuss unions and labor rights with representatives from Syndicom, a Swiss labor union. Employees had invited Syndicom to speak earlier in June but the event was cancelled at the request of management. Management later announced they would be holding a series of talk on labor rights and would allow Syndicom to join.",
+    "description": "Staff in Japan of ride-hailing company Uber's food delivery service formed a labor union Thursday to negotiate contract terms and seek improved working conditions. The union, formed by 17 platformers, also plans to request the Japanese unit of the U.S. company to ensure fair treatment among delivery riders and review how distance-based wages are set.",
     "online": null,
     "locations": [
-        "zurich-switzerland"
+        "tokyo-japan"
     ],
     "companies": [
-        "google"
+        "uber"
     ],
-    "workers": 40,
+    "workers": 17,
     "tags": null,
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
-    "latlngs": [
-        [
-            47.3798034,
-            8.5297304
-        ]
-    ],
-    "addresses": [
-        "Google, 100, Lagerstrasse, Langstrasse, Aussersihl, Z\u00fcrich, Bezirk Z\u00fcrich, Z\u00fcrich, 8021, Switzerland"
-    ]
+    "latlngs": null,
+    "addresses": null
 }
