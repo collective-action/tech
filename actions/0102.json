@@ -1,38 +1,38 @@
 {
-    "id": 101,
-    "date": "2018/10/12",
+    "id": 99,
+    "date": "2018/10/04",
     "sources": [
-        "https://medium.com/s/story/an-open-letter-to-microsoft-dont-bid-on-the-us-military-s-project-jedi-7279338b7132"
+        "https://www.bbc.com/news/business-45734662"
     ],
     "actions": [
-        "open letter"
+        "strike"
     ],
     "struggles": [
-        "ethics"
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers"
+        "gig workers"
     ],
-    "description": "An open letter signed by 'employees of Microsoft' asks the cloud giant to abstain from bidding on the military's massive JEDI cloud computing contract for ethical reasons involving the application of artificial intelligence.",
-    "online": true,
+    "description": "UberEats riders and a small number of workers from JD Wetherspoon, McDonald's and TGI Fridays have been staging walkouts in a pay dispute. Protests were being held in several UK cities, along with a rally in London.",
+    "online": null,
     "locations": [
-        "usa"
+        "uk"
     ],
     "companies": [
-        "microsoft"
+        "uber"
     ],
-    "workers": null,
+    "workers": 50,
     "tags": null,
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            35.139622349999996,
-            -80.92306993327955
+            51.5148804,
+            -0.0718856
         ]
     ],
     "addresses": [
-        "Microsoft, Yorkwood, Charlotte, Mecklenburg County, North Carolina, United States of America"
+        "Uber, 2, Leman Street, Spitalfields, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, E1 8FA, United Kingdom"
     ]
 }

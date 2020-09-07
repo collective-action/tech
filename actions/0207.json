@@ -1,49 +1,30 @@
 {
-    "id": 205,
-    "date": "2019/11/06",
+    "id": 202,
+    "date": "2019/11/01",
     "sources": [
-        "https://www.sfchronicle.com/business/article/drivers-protest-as-uber-stock-lockup-period-14815390.php"
+        "https://mashable.com/article/instacart-shoppers-work-stoppage-open-letter-apoorva-mehta/",
+        "https://medium.com/@nopenever50/dear-apoorva-mehta-founder-and-ceo-of-instacart-944ca4db6ad0"
     ],
     "actions": [
-        "protest"
+        "open letter"
     ],
     "struggles": [
-        "pay and benefits",
-        "job security"
+        "pay and benefits"
     ],
     "employment_types": [
         "gig workers"
     ],
-    "description": "Uber and Lyft employees protested outside the homes of three company investors to highlight the inequality between them and their workforce in a campaign called 'Deactivate Uber Billionaires'. The San Francisco Chronicle reports that protests occured at 'the San Francisco office of GV, the venture capital arm of Google parent Alphabet that was an early Uber investor; the Atherton mansion of Bill Gurley, an Uber board member and venture capitalist; and the Beverly Hills home of Uber co-founder Garrett Camp'. The protests coincide with the end of Uber's stock lockup period six months after their IPO.",
-    "online": null,
-    "locations": [
-        "san francisco-california-usa",
-        "los angeles-california-usa",
-        "atherton-california-usa"
-    ],
+    "description": "Instacart workers circulated an open letter on Medium prior to a walkout scheduled for Nov. 3rd to Nov. 5th. Employees are protesting the company's history of systematically devaluing labor, using algorithms to reduce pay to employees and changing tipping structures to return profit to the company. Over 200 workers have signed the letter.",
+    "online": true,
+    "locations": null,
     "companies": [
-        "uber",
-        "lyft"
+        "instacart"
     ],
-    "workers": 42,
-    "tags": [
-        "drivers"
-    ],
+    "workers": 212,
+    "tags": null,
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            37.7899898,
-            -122.3999799
-        ],
-        [
-            37.7509149,
-            -122.40246883416269
-        ]
-    ],
-    "addresses": [
-        "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
-        "Lyft, Kansas Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States of America"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

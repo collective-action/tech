@@ -1,12 +1,13 @@
 {
-    "id": 252,
-    "date": "2020/04/04",
+    "id": 249,
+    "date": "2020/03/30",
     "sources": [
-        "https://www.commondreams.org/news/2020/04/04/despite-threats-management-amazon-warehouse-workers-chicago-strike-demand-better",
-        "https://patch.com/illinois/chicago/cars-picket-amazon-workers-striking-coronavirus-safety"
+        "https://www.vox.com/recode/2020/3/30/21200495/instacart-strike-coronavirus-covid-19-working-conditions-amazon-whole-foods-gig-economy",
+        "https://www.washingtonpost.com/technology/2020/03/27/instacart-strike-worker-coronavirus/",
+        "https://www.cnbc.com/2020/04/02/coronavirus-instacart-is-giving-its-shoppers-health-and-safety-kids.html",
+        "https://medium.com/@gigworkerscollective/instacart-emergency-walk-off-ebdf11b6995a"
     ],
     "actions": [
-        "protest",
         "strike"
     ],
     "struggles": [
@@ -14,31 +15,24 @@
         "pay and benefits"
     ],
     "employment_types": [
-        "inhouse workers",
+        "gig workers",
         "blue collar workers"
     ],
-    "description": "Amazon workers, organized by DCH1 Amazonians United, staged a walkout at a facility in Chicago calling on the company to temporarily close and sanitize the facility following two positive coronavirus tests among employees. Additionally, the workers are calling for the company to cover any health bills accrued by employees and family members that have contracted coronavirus at the facility, plus more time on-the-job to incorporate safety practices such as regular hand sanitizing. This is the fourth such action organized by DCH1 Amazonians in response to the coronavirus outbreak. ",
+    "description": "Instacart workers, organized by Instacart Shoppers and Gig Workers Collective, went on strike on Monday in protest of lack of protections offered by the company during the coronavirus epidemic. Strikers are calling for the company to provide hand sanitizer and disinfectant wipes, hazard pay, and easier qualification standards for the 14 days of sick leave currently offered by the company (a policy set to expire on April 8th). Update: Instacart has said it will give all workers a health kit including a reusable cloth mask, hand sanitizer, and a thermometer. The size of the strike has not been reported.",
     "online": null,
     "locations": [
-        "staten island-new york city-new york-usa"
+        "detroit-michigan-usa"
     ],
     "companies": [
-        "amazon"
+        "instacart"
     ],
-    "workers": 20,
+    "workers": 1000,
     "tags": [
         "coronavirus"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            40.6193387,
-            -74.0727749
-        ]
-    ],
-    "addresses": [
-        "Amazon Court, Staten Island, Richmond County, New York, 10304, United States of America"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

@@ -1,32 +1,30 @@
 {
-    "id": 276,
-    "date": "2020/05/05",
+    "id": 259,
+    "date": "2020/04/26",
     "sources": [
-        "https://www.nbcnews.com/tech/tech-news/amazon-sued-nyc-workers-seeking-coronavirus-protection-not-money-n1223871",
-        "https://www.oregonlive.com/business/2020/05/amazon-sued-by-salem-warehouse-worker-over-coronavirus-response.html"
+        "https://www.vice.com/en_us/article/n7jaaq/amazon-reinstates-fired-warehouse-worker-after-employees-strike",
+        "https://twitter.com/AwoodMpls/status/1254449858343251970?s=19"
     ],
     "actions": [
-        "legal action"
+        "strike"
     ],
     "struggles": [
-        "working conditions"
+        "pay and benefits"
     ],
     "employment_types": [
         "blue collar workers",
         "inhouse workers"
     ],
-    "description": "Amazon has been sued by workers at two different locations, New York City and Salem, Oregon, for its failure to protect its employees during the coronavirus pandemic. Three Amazon employees from the New York fulfillment center sued the company for failing to follow local public health guidance, claiming the company purposefully miscommunicated with workers. The employees are not seeking compensation, only an order that Amazon comply with guidance. A former employee from Salem alleged that she was fired after taking a medical leave for a coronavirus infection and speaking out publicly about safety issues.",
+    "description": "Amazon employees went on strike after the company allegedly fired a worker who chose to stay at home with her two children during the pandemic. Workers also protested the company's announcement that it would phase out their new paid-leave policy on May 1st. The company announced that two more employees had tested positive for the virus the night before the protest. Reporting from Vice and a tweet from a local community center suggest that this also served as impetus for the strike. Organizers claimed that more than 50 employees were involved in the strike, while management claimed it was 25.",
     "online": null,
     "locations": [
-        "new york city-new york-usa",
-        "salem-oregon-usa"
+        "shakopee-minnesota-usa"
     ],
     "companies": [
         "amazon"
     ],
-    "workers": 4,
+    "workers": 51,
     "tags": [
-        "retaliation",
         "coronavirus"
     ],
     "author": [
@@ -34,16 +32,11 @@
     ],
     "latlngs": [
         [
-            40.722465,
-            -73.9977307
-        ],
-        [
-            44.90190785,
-            -122.96427765593445
+            44.78839255,
+            -93.44285005008032
         ]
     ],
     "addresses": [
-        "Amazon, 72, Spring Street, Little Italy, Manhattan Community Board 2, Manhattan, New York County, New York, 10013, United States of America",
-        "Amazon PDX7, 4775, Depot Court, Salem, Marion County, Oregon, 97317, United States of America"
+        "Amazon Sortation Center MSP5, 5825, 11th Avenue East, Barden, Shakopee, Scott County, Minnesota, 55379, United States of America"
     ]
 }

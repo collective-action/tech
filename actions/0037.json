@@ -1,40 +1,39 @@
 {
-    "id": 36,
-    "date": "2014/04/01",
+    "id": 34,
+    "date": "2014/03/03",
     "sources": [
-        "https://www.ibtimes.co.uk/protesters-fight-against-amazon-over-living-wage-demands-1442174",
-        "https://www.reuters.com/article/us-amazon-strikes/amazon-workers-in-germany-strike-again-in-protracted-pay-dispute-idusbrea2u0l220140331"
+        "https://www.reuters.com/article/us-china-strikes/ibm-factory-strike-shows-shifting-china-labor-landscape-idusbrea2804k20140309"
     ],
     "actions": [
-        "open letter"
+        "strike"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "unfair labor practices"
     ],
     "employment_types": [
         "blue collar workers"
     ],
-    "description": "In the UK, an activist group called Amazon Anonymous delivered a letter and a petition with 55,000 signatures to Amazon. The letter called for higher wages and improved working conditions for warehouse workers, including longer breaks and an end to the practice of compulsory overtime. ",
+    "description": "More than 1,000 IBM factory workers walked off the job at the factory in Shenzhen, bordering Hong Kong, after managers on announced the terms of their transfer to new ownership under Chinese PC maker Lenovo Group Ltd. Experts say - the impetus for a strike was underpinned by the fact that the factory branch of the state-backed union was seen as a farce.",
     "online": null,
     "locations": [
-        "uk"
+        "shenzhen-china"
     ],
     "companies": [
-        "amazon"
+        "ibm",
+        "lenovo"
     ],
-    "workers": 55000,
+    "workers": 1000,
     "tags": null,
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
     "latlngs": [
         [
-            51.5414364,
-            -2.641349791380809
+            22.54208855,
+            113.9430328
         ]
     ],
     "addresses": [
-        "Amazon, Goldcrest Way, Central Park Distribution Park, Pilning and Severn Beach, Pilning, South Gloucestershire, South West England, England, BS35 4DJ, United Kingdom"
+        "\u8054\u60f3\u7814\u53d1\u4e2d\u5fc3, 16\u53f7, \u9ad8\u65b0\u5357\u4e00\u9053, \u5927\u51b2, \u7ca4\u6d77\u8857\u9053, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518057, China \u4e2d\u56fd"
     ]
 }

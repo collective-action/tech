@@ -1,32 +1,39 @@
 {
-    "id": 106,
-    "date": "2018/11/23",
+    "id": 104,
+    "date": "2018/11/20",
     "sources": [
-        "https://www.buzzfeednews.com/article/carolineodonovan/instacart-delivery-workers-strike-gig-workers-labor-movement",
-        "https://www.change.org/p/instacart-revert-back-to-old-pay-system-for-instacart"
+        "https://www.buzzfeednews.com/article/carolineodonovan/blue-apron-lawsuit-unpaid-wages"
     ],
     "actions": [
-        "strike"
+        "legal action"
     ],
     "struggles": [
-        "pay and benefits"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
-        "gig workers"
+        "blue collar workers"
     ],
-    "description": "A group of Instacart delivery workers is waging an ongoing 'soft strike' against the companies to demand better pay this Thanksgiving weekend for the third year in a row. The workers, who are independent contractors, say a recent change to the grocery delivery platform's pay structure was an effective pay cut that\u2019s threatening their livelihoods. As a result, they\u2019re refusing to deliver extra-heavy items, drive more than eight miles per order, or accept time-consuming, low-paying jobs. A group of delivery workers wrote  a letter sent to Instacart CEO Apoorva Mehta.",
+    "description": "Blue Apron employees have filed a class-action lawsuit against the companies, alleging that they weren't paid overtime, or for meal breaks, among other labor law violations. They are seeking back pay for missed wages and a trial by jury. Blue Apron employs thousands of low-wage workers in food processing plants in New Jersey, Texas, and California, where this suit was filed. An employee alleges that Blue Apron routinely forced hourly employees to clock out before their meal break, effectively cheating them out of thirty minutes of pay per shift, a practice known in the world of labor law as \u201ctime shaving.\u201d",
     "online": null,
     "locations": [
-        "usa"
+        "california-usa"
     ],
     "companies": [
-        "instacart"
+        "blue apron"
     ],
-    "workers": 1300,
+    "workers": 100,
     "tags": null,
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.3671049,
+            -120.5693229
+        ]
+    ],
+    "addresses": [
+        "Apron Avenue, Castle Airport Aviation & Development Center, Fluhr, Winton, Merced County, California, 95301, United States of America"
+    ]
 }

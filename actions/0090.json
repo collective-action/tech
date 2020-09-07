@@ -1,41 +1,32 @@
 {
-    "id": 89,
-    "date": "2018/06/19",
+    "id": 87,
+    "date": "2018/06/04",
     "sources": [
-        "https://www.nytimes.com/2018/06/19/technology/tech-companies-immigration-border.html",
-        "https://www.theverge.com/2018/6/21/17488328/microsoft-ice-employees-signatures-protest"
+        "https://clb.org.hk/content/didi-drivers-china-protest-pay-cuts-and-restrictive-work-practices"
     ],
     "actions": [
-        "open letter"
+        "strike"
     ],
     "struggles": [
-        "ethics"
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers"
+        "gig workers"
     ],
-    "description": "In an open letter posted to Microsoft's internal message board on Tuesday, hundreds of employees protested Microsoft's work with Immigration and Customs Enforcement and demanding that the companies stop working with the agency.",
-    "online": true,
+    "description": "Hundreds of Didi drivers in the central city of Shaodong, Hunan, went on strike on 4 June in protest at a policy change that made it more difficult for them to claim their bonus payments. Videos posted online showed a long line of cars with drivers staging a protest on the side of the road. Drivers stayed on strike for six days, which coincided with the National College Entrance Examination. Drivers posted statements asking for support and understanding and apologizing for any inconvenience caused.",
+    "online": null,
     "locations": [
-        "usa"
+        "shaodong-china",
+        "hunan-china"
     ],
     "companies": [
-        "microsoft"
+        "didi"
     ],
-    "workers": 300,
-    "tags": [
-        "ice"
-    ],
+    "workers": 100,
+    "tags": null,
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            35.139622349999996,
-            -80.92306993327955
-        ]
-    ],
-    "addresses": [
-        "Microsoft, Yorkwood, Charlotte, Mecklenburg County, North Carolina, United States of America"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

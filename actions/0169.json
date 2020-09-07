@@ -1,33 +1,35 @@
 {
-    "id": 167,
-    "date": "2019/08/07",
+    "id": 165,
+    "date": "2019/07/26",
     "sources": [
-        "https://www.indybay.org/newsitems/2019/08/07/18825265.php"
+        "https://financialtribune.com/articles/sci-tech/99111/github-bans-iran-based-users",
+        "https://github.com/1995parham/github-do-not-ban-us"
     ],
     "actions": [
-        "protest"
+        "protest",
+        "open letter"
     ],
     "struggles": [
-        "ethics"
+        "discrimination"
     ],
     "employment_types": [
         "white collar workers"
     ],
-    "description": "Dozens of WalMart tech workers rallied in San Bruno to protest gun violence and continued sale of weapons by WalMart which is the largest distributor of guns in the United States. They also had a moment of silence for the victims and families murdered and injured in the violent racist attacks. There are over 1,000 workers at the largest tech center of WalMart in the world. This was the first collective action of WalMart tech workers in the United States. They were also joined by a delegation of Youtube workers in solidarity. Youtube workers have also faced violent attacks at their work location in San Bruno.",
+    "description": "GitHub users have created a repository to protest the company's decision to ban Iranians from accessing the site due to US sanctions. The repository combines multiple types of actions, serving as an open letter to the company and collecting known incidences of Iranian users being denied access, in addition to highlighting the contributions of Iranian developers. ",
     "online": null,
     "locations": [
-        "san bruno-california-usa"
+        "worldwide",
+        "iran"
     ],
     "companies": [
-        "walmart"
+        "github"
     ],
-    "workers": 24,
+    "workers": 945,
     "tags": [
-        "industry_solidarity",
-        "gun_violence"
+        "international_solidarity"
     ],
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
     "latlngs": null,
     "addresses": null

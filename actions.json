@@ -78,6 +78,75 @@
         "addresses": null
     },
     {
+        "id": 322,
+        "date": "1970/12/01",
+        "sources": [
+            "https://archive.scienceforthepeople.org/vol-6/v6n6/computer-workers-as-professionals/"
+        ],
+        "actions": [
+            "union drive"
+        ],
+        "struggles": [
+            "unfair labor practices"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "blue collar workers"
+        ],
+        "description": "The Committee to Plan a Computer Union meets to plan an \"industry-wide, all-inclusive union which would span the gap between professionals (programmers/ analysts/operators) and non-professionals (key-punch operators/tape-handlers)\". While the plans were not realized, it is one of the first known attempts at unionizing in the computer technology industry.",
+        "online": null,
+        "locations": [
+            "new york city-new york-usa"
+        ],
+        "companies": null,
+        "workers": null,
+        "tags": null,
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": [
+            [
+                40.7127281,
+                -74.0060152
+            ]
+        ],
+        "addresses": [
+            "New York, United States of America"
+        ]
+    },
+    {
+        "id": 323,
+        "date": "1973/01/01",
+        "sources": [
+            "https://archive.scienceforthepeople.org/vol-8/v8n1/rumblings-of-organizing-in-silicon-valley/"
+        ],
+        "actions": [
+            "union drive"
+        ],
+        "struggles": [
+            "unfair labor practices"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "Workers at Silicon Valley conglomerate Smith-Corona-Marchant (S.C.M.) held a unionizing drive and a hearing with the National Labor Relations Board. The ultimately gained enough votes to continue forward with an NLRB election before losing momentum due to anti-unionizing efforts from company management.  ",
+        "online": null,
+        "locations": [
+            "california-usa"
+        ],
+        "companies": [
+            "smith-corona-marchant"
+        ],
+        "workers": 50,
+        "tags": null,
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
         "id": 1,
         "date": "1979/09/01",
         "sources": [
@@ -5339,6 +5408,42 @@
         ]
     },
     {
+        "id": 260,
+        "date": "2019/05/01",
+        "sources": [
+            "https://www.vice.com/en_ca/article/gy4qew/foodora-couriers-want-to-be-among-first-gig-economy-workers-to-unionize-in-canada",
+            "https://www.globenewswire.com/news-release/2020/04/27/2022709/0/en/foodora-Canada-announces-plans-to-close-business-while-assuring-support-for-employees.html",
+            "https://www.thestar.com/business/2020/04/29/foodora-declares-bankruptcy-in-canada-leaving-47-million-in-debt.html"
+        ],
+        "actions": [
+            "union drive"
+        ],
+        "struggles": [
+            "pay and benefits",
+            "working conditions"
+        ],
+        "employment_types": [
+            "gig workers"
+        ],
+        "description": "Foodora couriers announced their intention to join a union of Canadian post workers and held a union drive. If successful, this would make Foodora workers the first app-based employees to unionize in Canada. In April 2020 the company announced its intention to leave the Canadian market and initiated bankruptcy proceedings, making the future of the business and the unionizing effort uncertain. ",
+        "online": null,
+        "locations": [
+            "toronto-ontario-canada"
+        ],
+        "companies": [
+            "foodora"
+        ],
+        "workers": 1000,
+        "tags": [
+            "delivery_workers"
+        ],
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
         "id": 135,
         "date": "2019/05/01",
         "sources": [
@@ -9018,6 +9123,47 @@
         ]
     },
     {
+        "id": 324,
+        "date": "2020/01/01",
+        "sources": [
+            "https://www.reuters.com/article/us-hongkong-protests-unions/hong-kong-workers-flock-to-labor-unions-as-new-protest-tactic-idUSKBN1Z9007",
+            "https://www.hkitwu.org/about-us/",
+            "https://www.hkitwu.org/2020/01/3630/"
+        ],
+        "actions": [
+            "union representation"
+        ],
+        "struggles": [
+            "unfair labor practices"
+        ],
+        "employment_types": [
+            "white collar workers"
+        ],
+        "description": "The Hong Kong Information Technology Workers\u2019 Union form out of the 2019 Hong Kong movement, and is developing a database of employers who do not threaten or dismiss employees for political protests. Reuters reports that unionizing in Hong Kong has grown since anti-extradition protests began last year. Organizers see unions as a means of protecting politically engaged workers from retaliation. ",
+        "online": null,
+        "locations": [
+            "hong kong-china"
+        ],
+        "companies": null,
+        "workers": 280,
+        "tags": [
+            "trade union",
+            "politics"
+        ],
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": [
+            [
+                22.2793278,
+                114.1628131
+            ]
+        ],
+        "addresses": [
+            "\u9999\u6e2f\u5cf6 Hong Kong Island, \u9999\u6e2f Hong Kong, China \u4e2d\u56fd"
+        ]
+    },
+    {
         "id": 224,
         "date": "2020/01/13",
         "sources": [
@@ -10769,42 +10915,6 @@
         "addresses": null
     },
     {
-        "id": 260,
-        "date": "2020/05/01",
-        "sources": [
-            "https://www.vice.com/en_ca/article/gy4qew/foodora-couriers-want-to-be-among-first-gig-economy-workers-to-unionize-in-canada",
-            "https://www.globenewswire.com/news-release/2020/04/27/2022709/0/en/foodora-Canada-announces-plans-to-close-business-while-assuring-support-for-employees.html",
-            "https://www.thestar.com/business/2020/04/29/foodora-declares-bankruptcy-in-canada-leaving-47-million-in-debt.html"
-        ],
-        "actions": [
-            "union drive"
-        ],
-        "struggles": [
-            "pay and benefits",
-            "working conditions"
-        ],
-        "employment_types": [
-            "gig workers"
-        ],
-        "description": "Foodora couriers announced their intention to join a union of Canadian post workers and held a union drive. If successful, this would make Foodora workers the first app-based employees to unionize in Canada. In April 2020 the company announced its intention to leave the Canadian market and initiated bankruptcy proceedings, making the future of the business and the unionizing effort uncertain. ",
-        "online": null,
-        "locations": [
-            "toronto-ontario-canada"
-        ],
-        "companies": [
-            "foodora"
-        ],
-        "workers": 1000,
-        "tags": [
-            "delivery_workers"
-        ],
-        "author": [
-            "nataliyaned"
-        ],
-        "latlngs": null,
-        "addresses": null
-    },
-    {
         "id": 261,
         "date": "2020/05/01",
         "sources": [
@@ -12065,5 +12175,229 @@
         "author": null,
         "latlngs": null,
         "addresses": null
+    },
+    {
+        "id": 321,
+        "date": "2020/08/19",
+        "sources": [
+            "https://www.law360.com/articles/1302356/ex-google-workers-want-sexist-emails-memes-turned-over",
+            "https://www.lieffcabraser.com/2020/08/ex-google-workers-want-sexist-emails-meme-messages-turned-over-in-google-gender-discrimination-suit/"
+        ],
+        "actions": [
+            "legal action"
+        ],
+        "struggles": [
+            "discrimination"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "Four former Google software engineers have filed a lawsuit in California claiming gender discrimination at the company and demanding that the company turn over sexist emails and memes created by two male company employees. The plaintiffs hope to mount a class action lawsuit against the company.",
+        "online": null,
+        "locations": [
+            "san francisco-california-usa"
+        ],
+        "companies": [
+            "google"
+        ],
+        "workers": 4,
+        "tags": [
+            "sexism"
+        ],
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": [
+            [
+                37.41897865,
+                -122.08237793989416
+            ]
+        ],
+        "addresses": [
+            "Google, Mountain View, Santa Clara County, California, United States of America"
+        ]
+    },
+    {
+        "id": 320,
+        "date": "2020/08/19",
+        "sources": [
+            "https://leftfootforward.org/2020/08/give-us-better-pay-and-conditions-say-sheffield-deliveroo-drivers/"
+        ],
+        "actions": [
+            "protest",
+            "strike"
+        ],
+        "struggles": [
+            "pay and benefits",
+            "working conditions"
+        ],
+        "employment_types": [
+            "gig workers"
+        ],
+        "description": "Deliveroo workers in Sheffield, England kicked off two weeks of strike actions to demand higher pay and better working conditions, including the right to appeal terminations. The actions are designed to target companies, e.g. certain restaurants, that workers believe to be part of the exploitation. An outright strike was deemed too expensive by the workers, many of whom report working 60-70 hours a week to make ends meet. Actions will also include flyering and a demonstration.",
+        "online": null,
+        "locations": [
+            "sheffield-uk"
+        ],
+        "companies": [
+            "deliveroo"
+        ],
+        "workers": null,
+        "tags": [
+            "delivery_workers"
+        ],
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 317,
+        "date": "2020/08/22",
+        "sources": [
+            "https://mp.weixin.qq.com/s/bvbmlUIPatMX4xzDvwU8FQ"
+        ],
+        "actions": [
+            "protest",
+            "open letter",
+            "strike"
+        ],
+        "struggles": [
+            "pay and benefits"
+        ],
+        "employment_types": [
+            "gig workers"
+        ],
+        "description": "Didi rideshare workers have started holding strikes in a number of Chinese cities including Suzhou, Nanjing, Nantong, and Zunyi City to protest high commission fees on the platform. Drivers in Zunyi City also issued a letter with 5 demands to their local government and transportation department. ",
+        "online": null,
+        "locations": [
+            "suzhou-china",
+            "nanjing-china",
+            "nantong-china",
+            "zunyi-china"
+        ],
+        "companies": [
+            "didi"
+        ],
+        "workers": null,
+        "tags": null,
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 319,
+        "date": "2020/08/26",
+        "sources": [
+            "https://rabble.ca/news/2020/08/former-foodora-workers-receive-closure-346-million-settlement"
+        ],
+        "actions": [
+            "legal action"
+        ],
+        "struggles": [
+            "unfair labor practices"
+        ],
+        "employment_types": [
+            "gig workers"
+        ],
+        "description": "Foodora workers in Canada received a $3.5 million settlement after suing their employer for union busting. Foodora chose to leave Canada in April 2020 after the Ontario Labor Board voted to recognize the couriers as company employees. The Canadian Union of Postal Workers sued on behalf of the workers and declared that the settlement would be distributed between all Canadian Foodora employees.",
+        "online": null,
+        "locations": [
+            "canada"
+        ],
+        "companies": [
+            "foodora"
+        ],
+        "workers": 2000,
+        "tags": [
+            "delivery_workers"
+        ],
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 318,
+        "date": "2020/08/28",
+        "sources": [
+            "https://www.businessinsider.in/tech/news/protesters-set-up-a-guillotine-outside-jeff-bezos-mansion-and-demanded-higher-wages-for-amazon-workers-after-the-ceos-net-worth-surpassed-200-billion/amp_articleshow/77794471.cms"
+        ],
+        "actions": [
+            "protest"
+        ],
+        "struggles": [
+            "pay and benefits"
+        ],
+        "employment_types": [
+            "blue collar workers",
+            "inhouse workers"
+        ],
+        "description": "More than 100 protesters, led by former Amazon worker Christian Smalls, placed a guillotine outside of Jeff Bezos' D.C. home to call on the company to raise minimum wages from $15 to $30/hour. ",
+        "online": null,
+        "locations": [
+            "washington_dc-usa"
+        ],
+        "companies": [
+            "amazon"
+        ],
+        "workers": 101,
+        "tags": [
+            "coronavirus"
+        ],
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 316,
+        "date": "2020/08/31",
+        "sources": [
+            "https://onezero.medium.com/leaked-salary-spreadsheet-reveals-microsoft-employee-earnings-for-a-second-year-d1466132d309"
+        ],
+        "actions": [
+            "protest",
+            "resources"
+        ],
+        "struggles": [
+            "pay and benefits",
+            "discrimination"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "More than 300 Microsoft employees shared salary and pay bonus data in spreadsheet. A similar action took place last year. This year's survey asked whether employees identified as people of color or experienced discrimination because of their gender identity. Notably, 194 of 310 participants identified as people of color and 69 had experienced discrimination on the basis of gender identity.",
+        "online": true,
+        "locations": [
+            "usa"
+        ],
+        "companies": [
+            "microsoft"
+        ],
+        "workers": 310,
+        "tags": [
+            "antiracism",
+            "salary sharing"
+        ],
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": [
+            [
+                35.139622349999996,
+                -80.92306993327955
+            ]
+        ],
+        "addresses": [
+            "Microsoft, Yorkwood, Charlotte, Mecklenburg County, North Carolina, United States of America"
+        ]
     }
 ]

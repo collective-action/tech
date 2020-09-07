@@ -1,41 +1,39 @@
 {
-    "id": 96,
-    "date": "2018/07/31",
+    "id": 94,
+    "date": "2018/07/10",
     "sources": [
-        "https://www.buzzfeednews.com/article/carolineodonovan/palantir-ice-contract-protest",
-        "https://www.paloaltoonline.com/news/2018/07/31/protesters-demand-palantir-end-ice-contracts"
+        "https://www.reuters.com/article/us-amazon-com-spain-strike/spanish-amazon-workers-call-three-day-strike-over-wages-rights-iduskbn1k01xz",
+        "https://www.buzzfeednews.com/article/leticiamiranda/labor-strike-against-amazon-in-spain-arrests-injuries"
     ],
     "actions": [
-        "protest"
+        "strike"
     ],
     "struggles": [
-        "ethics"
+        "working conditions"
     ],
     "employment_types": [
-        "na"
+        "blue collar workers"
     ],
-    "description": "Dozens of protesters gathered outside the data analysis companies Palantir in Palo Alto, California, on Tuesday to present Palantir's employees and CEO Alex Karp with a letter asking for an end to the companies' contracts with US Immigration and Customs Enforcement (ICE).",
+    "description": "Spanish labor unions have called on around 1,000 Amazon employees to walk out for three days next week in a dispute over what it says are efforts to reduce workers' rights. The strike will took place at the San Fernando warehouse on the outskirts of Madrid, Amazon\u2019s biggest in Spain, on July 16, 17 and 18, to coincide with a 1-1/2 day sale on the platform.",
     "online": null,
     "locations": [
-        "palo alto-california-usa"
+        "madrid-spain"
     ],
     "companies": [
-        "palantir"
+        "amazon"
     ],
-    "workers": 50,
-    "tags": [
-        "industry_solidarity"
-    ],
+    "workers": 950,
+    "tags": null,
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            37.4440869,
-            -122.16287540411753
+            40.4456444,
+            -3.497602995250682
         ]
     ],
     "addresses": [
-        "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States of America"
+        "Amazon, 24, Avenida de la Astronom\u00eda, El Jard\u00edn, San Fernando de Henares, \u00c1rea metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28850, Espa\u00f1a"
     ]
 }

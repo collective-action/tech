@@ -1,30 +1,40 @@
 {
-    "id": 202,
-    "date": "2019/11/01",
+    "id": 199,
+    "date": "2019/10/21",
     "sources": [
-        "https://mashable.com/article/instacart-shoppers-work-stoppage-open-letter-apoorva-mehta/",
-        "https://medium.com/@nopenever50/dear-apoorva-mehta-founder-and-ceo-of-instacart-944ca4db6ad0"
+        "https://www.bloomberg.com/amp/news/articles/2019-10-21/swiss-google-employees-defy-managers-stage-labor-event?__twitter_impression=true",
+        "https://www.vox.com/recode/2019/10/21/20924697/google-unionization-switzerland-zurich-syndicom-zooglers"
     ],
     "actions": [
-        "open letter"
+        "union drive"
     ],
     "struggles": [
-        "pay and benefits"
+        "working conditions",
+        "job security"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers"
     ],
-    "description": "Instacart workers circulated an open letter on Medium prior to a walkout scheduled for Nov. 3rd to Nov. 5th. Employees are protesting the company's history of systematically devaluing labor, using algorithms to reduce pay to employees and changing tipping structures to return profit to the company. Over 200 workers have signed the letter.",
-    "online": true,
-    "locations": null,
+    "description": "Approximately 40 Google employees in Zurich held a meeting at the office to discuss unions and labor rights with representatives from Syndicom, a Swiss labor union. Employees had invited Syndicom to speak earlier in June but the event was cancelled at the request of management. Management later announced they would be holding a series of talk on labor rights and would allow Syndicom to join.",
+    "online": null,
+    "locations": [
+        "zurich-switzerland"
+    ],
     "companies": [
-        "instacart"
+        "google"
     ],
-    "workers": 212,
+    "workers": 40,
     "tags": null,
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            47.3793085,
+            8.5307904
+        ]
+    ],
+    "addresses": [
+        "Google, 1, Gustav-Gull-Platz, Langstrasse, Aussersihl, Z\u00fcrich, Bezirk Z\u00fcrich, Z\u00fcrich, 8021, Switzerland"
+    ]
 }

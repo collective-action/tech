@@ -1,41 +1,33 @@
 {
-    "id": 41,
-    "date": "2014/09/19",
+    "id": 39,
+    "date": "2014/09/01",
     "sources": [
-        "https://thinkprogress.org/silicon-valley-workers-protest-for-fair-wages-at-apple-stores-during-iphone-6-launch-860a32a25b98/"
+        "https://www.chronicle.com/article/intellectual-piecework/190039/",
+        "http://wiki.wearedynamo.org/index.php/guidelines_for_academic_requesters",
+        "https://medium.com/@niloufar_s/the-guidelines-for-ethical-research-on-amazon-mechanical-turk-researchers-care-about-fair-payment-427e816762ee"
     ],
     "actions": [
-        "protest"
+        "open letter"
     ],
     "struggles": [
-        "pay and benefits"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
-        "contract workers",
-        "blue collar workers"
+        "gig workers"
     ],
-    "description": "In front of Apple stores nationwide, tech companies employees gathered to protest alongside hundreds of eager customers waiting in line to buy the iPhone 6. The protesters weren't disgruntled Apple engineers or developers; they were security officers, maintenance and custodial staff demanding better wages from tech companies.",
-    "online": null,
-    "locations": [
-        "usa"
-    ],
+    "description": "Over two hundred Mechanical Turk workers and academics, organized through Dynamo, have collaborated and signed a set of ethical guidelines for scholars requesting labor through the platform. The Wiki page includes information on fair payment, communication practices, and the basics of requesting.",
+    "online": true,
+    "locations": null,
     "companies": [
-        "apple"
+        "amazon",
+        "mechanical_turk"
     ],
-    "workers": null,
-    "tags": [
-        "seiu"
-    ],
+    "workers": 262,
+    "tags": null,
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
-    "latlngs": [
-        [
-            42.3489689,
-            -71.0824143
-        ]
-    ],
-    "addresses": [
-        "Apple Store, 815, Boylston Street, Block F, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States of America"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

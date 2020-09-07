@@ -1,34 +1,37 @@
 {
-    "id": 1,
-    "date": "1979/09/01",
+    "id": 322,
+    "date": "1970/12/01",
     "sources": [
-        "https://twitter.com/clancynewyork/status/1175872040814993408?s=19",
-        "http://www-cs-students.stanford.edu/~cale/cs201/apartheid.comp.html"
+        "https://archive.scienceforthepeople.org/vol-6/v6n6/computer-workers-as-professionals/"
     ],
     "actions": [
-        "protest"
+        "union drive"
     ],
     "struggles": [
-        "ethics"
+        "unfair labor practices"
     ],
     "employment_types": [
-        "white collar workers"
+        "white collar workers",
+        "blue collar workers"
     ],
-    "description": "IBM workers formed an organization, IBM: Speak Up!, to protest the company's involvement with apartheid South Africa. The company created the computer system that upheld the country's passbook system. The company officially divested from South Africa in 1987.",
+    "description": "The Committee to Plan a Computer Union meets to plan an \"industry-wide, all-inclusive union which would span the gap between professionals (programmers/ analysts/operators) and non-professionals (key-punch operators/tape-handlers)\". While the plans were not realized, it is one of the first known attempts at unionizing in the computer technology industry.",
     "online": null,
     "locations": [
-        "worldwide"
+        "new york city-new york-usa"
     ],
-    "companies": [
-        "ibm"
-    ],
+    "companies": null,
     "workers": null,
-    "tags": [
-        "international_solidarity"
-    ],
+    "tags": null,
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            40.7127281,
+            -74.0060152
+        ]
+    ],
+    "addresses": [
+        "New York, United States of America"
+    ]
 }

@@ -1,43 +1,47 @@
 {
-    "id": 140,
-    "date": "2019/05/11",
+    "id": 137,
+    "date": "2019/05/08",
     "sources": [
-        "https://www.fastcompany.com/90348304/exclusive-tech-workers-organize-protest-against-palantir-on-the-github-coding-platform",
-        "https://gist.github.com/noahzgordon/29af8c13106ddc591ccaa1ea0ce6af74"
+        "https://www.washingtonpost.com/technology/2019/05/08/inside-facebook-second-class-workers-who-do-hardest-job-are-waging-quiet-battle/?noredirect=on&utm_term=.832acb00f260",
+        "https://www.washingtonpost.com/business/2019/05/13/facebook-raising-pay-support-services-thousands-contractors-content-moderators/?utm_term=.f0b4e7b4bf3e"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
-        "ethics"
+        "working conditions"
     ],
     "employment_types": [
-        "na"
+        "contract workers"
     ],
-    "description": "Tech workers organized by the Tech Workers Coalition are protesting the Palantir's contract with ICE on the company's GitHub projects. The plan calls for organized waves of digital protesters to post a prepared message to their GitHub boards. The protest appeals to workers to consider their role, even if indirectly, in Palantir\u2019s work with ICE. It also encourages people to add their own personal sentiments.",
+    "description": "But for the past seven months, roughly a dozen moderators in the United States have been spearheading a quiet campaign inside the social media giant to air their grievances about unsatisfactory working conditions and their status as second-class citizens. The contractors, who have not previously spoken publicly about their efforts, are using their access to Facebook Workplace, the social network\u2019s internal communication system, to wage their battle.",
     "online": null,
     "locations": [
         "usa"
     ],
     "companies": [
-        "palantir"
+        "facebook",
+        "accenture"
     ],
-    "workers": null,
+    "workers": 12,
     "tags": [
-        "ice",
-        "industry_solidarity",
-        "twc"
+        "moderators"
     ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            37.4440869,
-            -122.16287540411753
+            30.2691649,
+            -97.7455041
+        ],
+        [
+            37.3339398,
+            -121.8895142
         ]
     ],
     "addresses": [
-        "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States of America"
+        "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States of America",
+        "Accenture, 50, West San Fernando Street, Downtown Historic District, Buena Vista, San Jose, Santa Clara County, California, 95110, United States of America"
     ]
 }

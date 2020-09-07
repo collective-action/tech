@@ -1,38 +1,41 @@
 {
-    "id": 111,
-    "date": "2018/12/14",
+    "id": 109,
+    "date": "2018/12/06",
     "sources": [
-        "http://www.startribune.com/workers-protest-conditions-at-amazon-s-shakopee-center/502829882/"
+        "https://www.reuters.com/article/legal-us-otc-uber/forced-into-arbitration-12500-drivers-claim-uber-wont-pay-fees-to-launch-cases-iduskbn1o52c6",
+        "https://boingboing.net/2018/12/09/justice-denied.html",
+        "https://gizmodo.com/ubers-arbitration-policy-comes-back-to-bite-it-in-the-a-1830892372"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
+        "pay and benefits",
         "working conditions"
     ],
     "employment_types": [
-        "blue collar workers"
+        "gig workers"
     ],
-    "description": "Amid chants of 'Hear our voice,' a group of about 100 Somali-American workers and their supporters marched to the entrance of Amazon's Shakopee fulfillment center Friday evening to protest unfair working conditions.",
+    "description": "For Uber drivers, the only way to go after the company for alleged state and federal employment law violations was to file an independent arbitration claim. Amazingly, thousands of Uber drivers did just that. 12,501 Uber drivers took the company at its word and filed arbitration claims in California. Under the terms of the contract that Uber crammed down these drivers' throats, it must now pay $1,500 per driver to JAMS, the arbitration service it uses -- a total of $18.7m.",
     "online": null,
     "locations": [
-        "minneapolis-minnesota-usa"
+        "california-usa"
     ],
     "companies": [
-        "amazon"
+        "uber"
     ],
-    "workers": 100,
+    "workers": 12500,
     "tags": null,
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            44.9696354,
-            -93.2884766
+            37.7899898,
+            -122.3999799
         ]
     ],
     "addresses": [
-        "Wounded Amazon, Lyndale Avenue South, Loring Park, Minneapolis, Hennepin County, Minnesota, 55403, United States of America"
+        "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America"
     ]
 }

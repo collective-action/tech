@@ -1,28 +1,26 @@
 {
-    "id": 254,
-    "date": "2020/04/10",
+    "id": 274,
+    "date": "2020/04/01",
     "sources": [
-        "https://www.peoplesworld.org/article/more-people-will-die-uber-and-lyft-drivers-demand-companies-protect-workers/",
-        "https://mobilealliance.org/wp-content/uploads/2020/04/MWA-Letter-to-Feuer-Apr-10-2020.pdf"
+        "https://www.nytimes.com/2020/04/15/business/amazon-france-covid.html"
     ],
     "actions": [
-        "open letter"
+        "legal action"
     ],
     "struggles": [
-        "pay and benefits",
         "working conditions"
     ],
     "employment_types": [
-        "gig workers"
+        "inhouse workers",
+        "blue collar workers"
     ],
-    "description": "Rideshare drivers, partnered with the Mobile Workers Alliance, sent a letter to the Los Angeles City Attorney calling for the city to mandate that Lyft and Uber provide personal protective equipment to their employees, including masks and hand sanitizer, as well as access to handwashing stations in certain locations such as the airport.",
+    "description": "Amazon's French SUD-Commerce union launched a lawsuit against the company alleging that they had failed to uphold coronavirus safety measures at six different warehouses in the country.  French courts ruled in favor of the union. The company was forced to stop its operations for five days, while continuing to pay workers, in order to improve safety. Delivery was also restricted to food, hygiene, and medical products at this time.",
     "online": null,
     "locations": [
-        "los angeles-california-usa"
+        "france"
     ],
     "companies": [
-        "lyft",
-        "uber"
+        "amazon"
     ],
     "workers": null,
     "tags": [
@@ -31,6 +29,13 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            49.20773805,
+            2.6199324110680884
+        ]
+    ],
+    "addresses": [
+        "Amazon, Villem\u00e9trie, Senlis, Oise, Hauts-de-France, France m\u00e9tropolitaine, 60300, France"
+    ]
 }

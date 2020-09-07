@@ -1,39 +1,41 @@
 {
-    "id": 22,
-    "date": "2012/05/01",
+    "id": 20,
+    "date": "2012/01/17",
     "sources": [
-        "https://www.itproportal.com/2012/05/01/workers-could-start-strike-at-foxconn-factory-in-brazil/",
-        "https://www.cnbc.com/id/100353348"
+        "https://www.nbcnews.com/news/world/wikipedia-goes-dark-piracy-bill-protest-day-flna117714",
+        "https://bits.blogs.nytimes.com/2012/01/18/for-online-protests-throwing-spaghetti-against-the-internet/"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
-        "working conditions"
+        "ethics"
     ],
     "employment_types": [
-        "blue collar workers"
+        "na"
     ],
-    "description": "Thousands of FoxConn workers in Jundiai, Brazil protested dangerous working conditions outside of the company's local plant. Complaints included lack of water and air conditioning at facilities, covercrowded buses, and low quality food in the cafeterias.",
-    "online": null,
+    "description": "A number of prominent websites including Wikipedia, Reddit, and the Internet Archive staged blackouts, taking their websites temporarily offline, to protest anti-piracy legislation in the U.S. Congress. Wikipedia staged a 24-hour blackout, while Reddit's protest lasted 12 hours. Both the Stop Online Piracy Act (SOPA) and Protect IP Act ultimately failed to pass.",
+    "online": true,
     "locations": [
-        "jundiai-brazil"
+        "usa"
     ],
     "companies": [
-        "foxconn"
+        "wikipedia",
+        "reddit",
+        "internet_archive"
     ],
-    "workers": 1000,
+    "workers": null,
     "tags": null,
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            -23.16559635,
-            -46.94674960550789
+            39.1438833,
+            -84.521244
         ]
     ],
     "addresses": [
-        "Foxconn, Avenida Marginal, Jardim Tannus, Aeroporto, Jundia\u00ed, Regi\u00e3o Imediata de Jundia\u00ed, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Campinas, S\u00e3o Paulo, Regi\u00e3o Sudeste, 13212-010, Brasil"
+        "Ludlow Garage, 342, Ludlow Avenue, Clifton Business District, Clifton, Cincinnati, Hamilton County, Ohio, 45220, United States of America"
     ]
 }

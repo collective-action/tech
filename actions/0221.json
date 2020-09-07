@@ -1,39 +1,43 @@
 {
-    "id": 218,
-    "date": "2019/12/10",
+    "id": 215,
+    "date": "2019/12/03",
     "sources": [
-        "https://www.vice.com/amp/en_us/article/ywaaay/injured-amazon-warehouse-workers-are-protesting-dangerous-work-speed",
-        "https://chicago.suntimes.com/metro-state/2019/12/10/21005210/amazon-employees-hurt-injured-work-activists"
+        "https://medium.com/@googlewalkout/google-fired-us-for-organizing-were-fighting-back-d0daa8113aed",
+        "https://www.bloomberg.com/news/articles/2019-12-03/google-s-thanksgiving-four-file-federal-labor-complaint",
+        "https://www.buzzfeednews.com/article/ryanmac/fired-google-employees-nlrb-investigation-cbp",
+        "https://www.bloomberg.com/news/articles/2019-12-04/google-retaliation-claims-spread-with-new-labor-board-filing"
     ],
     "actions": [
-        "protest"
+        "legal action"
     ],
     "struggles": [
-        "working conditions"
+        "unfair labor practices"
     ],
     "employment_types": [
-        "blue collar workers"
+        "white collar workers"
     ],
-    "description": "Injured former Amazon warehouse workers and labor organizers in Chicago are protesting dangerous work speed and high injury rates today outside one of the company\u2019s brick-and-mortar stores in downtown Chicago. The action coincides with the release of a new report on injury rates in one of the region\u2019s largest and most dangerous warehouses, MDW7, the first in Illinois with automated robots. The report and protest in Chicago coincides with the launch of a national coalition, known as Athena, of three dozen grassroots labor, antitrust, and digital rights organizations\u2014the first unified resistance effort in the United States against the delivery giant.",
+    "description": "Four recently fired Google engineers who were active in organizing within the company say they will push for a federal investigation into the search and advertising giant for unfair labor practices. In a medium post, the four former employees announced their intent to file charges with the National Labor Relations Board for what they allege was retaliation from the company against their roles in organizing workers. In the letter, they write: 'Last week, Google fired us for engaging in protected labor organizing.' Update: Complaint was officially filed with the NLRB.",
     "online": null,
     "locations": [
-        "chicago-illinois-usa"
+        "usa"
     ],
     "companies": [
-        "amazon"
+        "google"
     ],
-    "workers": 40,
-    "tags": null,
+    "workers": 4,
+    "tags": [
+        "retaliation"
+    ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            41.84040105,
-            -87.68351928672685
+            42.3627717,
+            -71.087257
         ]
     ],
     "addresses": [
-        "Amazon Distribution, 2801, South Western Avenue, Lower West Side, Chicago, Cook County, Illinois, 60643, United States of America"
+        "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
     ]
 }

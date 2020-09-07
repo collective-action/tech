@@ -1,32 +1,40 @@
 {
-    "id": 122,
-    "date": "2019/03/25",
+    "id": 120,
+    "date": "2019/03/06",
     "sources": [
-        "https://www.vox.com/2019/3/25/18280718/uber-lyft-drivers-strike-la-los-angeles"
+        "https://onezero.medium.com/uber-delivery-workers-in-mexico-track-thieves-through-a-secret-whatsapp-network-d5795a0e3b41",
+        "https://sira-apps-sindicato.jimdosite.com/",
+        "https://www.facebook.com/pg/sirapps/about/?ref=page_internal"
     ],
     "actions": [
-        "strike"
+        "union drive"
     ],
     "struggles": [
+        "working conditions",
         "pay and benefits"
     ],
     "employment_types": [
+        "contract workers",
         "gig workers"
     ],
-    "description": "Uber and Lyft drivers in Los Angeles are refusing to pick up customers today \u2014 part of a one-day strike to protest Uber's recent decision to slash pay rates for drivers in the area.",
+    "description": "At least 16 Mexican app delivery drivers met to form the Sindicato Independiente de Repartidores en Aplicaciones (SIRA APPS, rough translation: Independent Union of App Deliverypeople). The union seeks legal recognition, and demands worker accident insurance, worker-led onboarding for new delivery drivers, and assistance with social benefits registration.",
     "online": null,
     "locations": [
-        "los angeles-california-usa"
+        "merida-mexico"
     ],
-    "companies": [
-        "uber",
-        "lyft"
-    ],
-    "workers": 100,
+    "companies": null,
+    "workers": 16,
     "tags": null,
     "author": [
-        "organizejs"
+        "moates"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            20.9670759,
+            -89.6237402
+        ]
+    ],
+    "addresses": [
+        "M\u00e9rida, Yucat\u00e1n, M\u00e9xico"
+    ]
 }

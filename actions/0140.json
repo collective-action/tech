@@ -1,44 +1,40 @@
 {
-    "id": 139,
-    "date": "2019/05/09",
+    "id": 136,
+    "date": "2019/05/08",
     "sources": [
-        "https://clb.org.hk/content/senior-staff-oracle%e2%80%99s-beijing-research-centre-protest-layoffs",
-        "https://technode.com/2019/05/10/oracle-programmers-100000-recruitment/",
-        "https://www.ft.com/content/16ffdcec-749d-11e9-bbad-7c18c0ea0201"
+        "https://www.nytimes.com/2019/05/08/technology/amazon-muslim-workers-complaint.html#click=https://t.co/9xmgnjlfoq"
     ],
     "actions": [
-        "protest"
+        "legal action"
     ],
     "struggles": [
-        "pay and benefits",
-        "job security"
+        "discrimination"
     ],
     "employment_types": [
-        "white collar workers"
+        "blue collar workers"
     ],
-    "description": "Staff at US-owned tech giant Oracle's China Development Centre in Beijing have staged protests after the company fired 900 staff from its China team, making up 60 per cent of its research and development effort there. Employees blamed tensions between the US and China for the cuts which came in the same week as the US announced additional tariffs on Chinese goods. An employee referred to the Oracle co-founder's interview with Fox Business last October, in which Larry Ellison said that 'we [the US] have a serious competition going with China, I\u2019m on Team USA', and 'if we let China produce more engineers than we do, if we let China's technology companies beat our technology companies, it won't be long that our military is behind technologically also'.",
+    "description": "Three Muslim Somali Workers at Amazon File Federal Discrimination Complaint, accusing the company of creating a hostile environment for Muslim workers and of retaliating against them for protesting their work conditions. These are the same workers who in December of 2018 protested against Amazon.",
     "online": null,
     "locations": [
-        "beijing-china"
+        "minneapolis-minnesota-usa"
     ],
     "companies": [
-        "oracle"
+        "amazon"
     ],
-    "workers": 24,
+    "workers": 3,
     "tags": [
-        "trade_wars",
-        "trump"
+        "retaliation"
     ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            40.046504,
-            116.28356116115287
+            44.9696354,
+            -93.2884766
         ]
     ],
     "addresses": [
-        "\u7532\u9aa8\u6587\u5927\u53a6, \u8f6f\u4ef6\u56ed\u4e09\u53f7\u8def, \u4e2d\u5173\u6751\u8f6f\u4ef6\u56ed, \u4e1c\u5317\u65fa\u6751, \u5317\u4eac\u5e02, 100093, China \u4e2d\u56fd"
+        "Wounded Amazon, Lyndale Avenue South, Loring Park, Minneapolis, Hennepin County, Minnesota, 55403, United States of America"
     ]
 }

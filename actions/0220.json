@@ -1,34 +1,46 @@
 {
-    "id": 217,
-    "date": "2019/12/04",
+    "id": 214,
+    "date": "2019/11/29",
     "sources": [
-        "https://www.latimes.com/business/technology/story/2019-12-04/github-open-source-developers-ice-contract"
+        "https://metro.co.uk/2019/11/29/amazon-hit-by-black-friday-srikes-and-protests-across-europe-11238471/",
+        "https://www.bbc.com/news/uk-england-50603875"
     ],
     "actions": [
-        "open letter"
+        "protest"
     ],
     "struggles": [
-        "ethics"
+        "working conditions"
     ],
     "employment_types": [
-        "white collar workers"
+        "blue collar workers"
     ],
-    "description": "In an open letter published Wednesday on GitHub, software developers representing the open source community joined the call for GitHub to immediately cancel the $200,000 contract with ICE. 'Open source is about inverting power structures and creating access and opportunities for everyone,' the letter, signed by 167 developers at the time of publication, reads. 'We, the undersigned, cannot see how to reconcile our ethics with GitHub\u2019s continued support of ICE. Moreover, your lack of transparency around the ethical standards you use for conducting business is also concerning to a community that is focused around doing everything out in the open.'",
-    "online": true,
-    "locations": null,
+    "description": "Amazon was targeted by a UK-wide protest organised to coincide with Black Friday and Cyber Monday demanding an end to \u2018appalling\u2019 working conditions. Trade union GMB co-ordinated the British demonstrations to take place across two of the busiest shopping days of the year. 'Workers are breaking bones, being knocked unconscious and being taken away in ambulances,' GMB national officer Mick Rix said in a statement. Labour leader Jeremy Corbyn visited protesters outside an Amazon depot in Sheffield. The union cited figures suggesting there had been more than 600 ambulance call-outs to Amazon warehouses over a three-year period and just as many serious incidents reported to the Health and Safety Executive for various injuries.",
+    "online": null,
+    "locations": [
+        "sheffield-uk",
+        "rugeley-uk",
+        "peterborough-uk"
+    ],
     "companies": [
-        "github",
-        "microsoft"
+        "amazon"
     ],
-    "workers": 200,
-    "tags": [
-        "industry_solidarity",
-        "immigration",
-        "ice"
-    ],
+    "workers": 12,
+    "tags": null,
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            52.75329925,
+            -1.9215828894833442
+        ],
+        [
+            52.542566050000005,
+            -0.2383390628291427
+        ]
+    ],
+    "addresses": [
+        "Amazon.co.uk, Towers Business Park, Brereton and Ravenhill, Cannock Chase, Staffordshire, West Midlands, England, WS15 1LX, United Kingdom",
+        "Amazon, Unit 1, Flaxley Road, Old Fletton, Peterborough, City of Peterborough, East of England, England, PE2 9EN, United Kingdom"
+    ]
 }

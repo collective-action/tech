@@ -1,10 +1,8 @@
 {
-    "id": 253,
-    "date": "2020/04/06",
+    "id": 250,
+    "date": "2020/03/31",
     "sources": [
-        "https://www.vice.com/en_us/article/4age5j/amazon-workers-in-new-york-are-striking-for-the-second-week-in-a-row-as-coronavirus-cases-pile-up",
-        "https://nypost.com/2020/04/06/amazon-faces-another-staten-island-warehouse-strike/",
-        "https://finance.yahoo.com/news/amazon-warehouse-workers-second-walkout-one-week-over-coronavirus-fears-195814468.html"
+        "https://www.reuters.com/article/us-health-coronavirus-amazon-com-warehou/amazon-warehouse-workers-protest-near-detroit-days-after-nyc-walkout-iduskbn21j6ix"
     ],
     "actions": [
         "protest"
@@ -17,15 +15,15 @@
         "inhouse workers",
         "blue collar workers"
     ],
-    "description": "For the second week in a row, workers at an Amazon warehouse in Staten Island held a walkout to protest the company's handling of the coronavirus crisis. Organizers state that they have heard of over 25 cases of coronavirus at the facility. In response, workers are calling for an extension of paid time off and improved sanitation in the facility. Last week, the company fired one of the organizers of the previous week's walkout. ",
+    "description": "Amazon warehouse workers near Detroit staged a demonstration to call for more stringent cleaning practices in their facility and reimbursement for any health bills incurred by employees (and their families) who had contracted coronavirus on the job. Management reports that fewer than 15 employees joined in, while organizers say there were 40 participants. ",
     "online": null,
     "locations": [
-        "new york city-new york-usa"
+        "usa"
     ],
     "companies": [
         "amazon"
     ],
-    "workers": 50,
+    "workers": 40,
     "tags": [
         "coronavirus"
     ],
@@ -34,11 +32,11 @@
     ],
     "latlngs": [
         [
-            40.722465,
-            -73.9977307
+            47.6142939,
+            -122.3239636
         ]
     ],
     "addresses": [
-        "Amazon, 72, Spring Street, Little Italy, Manhattan Community Board 2, Manhattan, New York County, New York, 10013, United States of America"
+        "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
     ]
 }

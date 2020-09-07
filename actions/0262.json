@@ -1,38 +1,44 @@
 {
-    "id": 255,
-    "date": "2020/04/13",
+    "id": 252,
+    "date": "2020/04/04",
     "sources": [
-        "https://gizmodo.com/tech-workers-speak-out-in-support-of-amazon-warehouse-s-1842839301",
-        "https://chuffed.org/project/help-amazon-warehouse-workers-exposed-to-covid-19",
-        "https://www.givedirectly.org/covid-19/us/",
-        "https://twitter.com/techspeaksout"
+        "https://www.commondreams.org/news/2020/04/04/despite-threats-management-amazon-warehouse-workers-chicago-strike-demand-better",
+        "https://patch.com/illinois/chicago/cars-picket-amazon-workers-striking-coronavirus-safety"
     ],
     "actions": [
-        "protest"
+        "protest",
+        "strike"
     ],
     "struggles": [
-        "ethics",
         "working conditions",
-        "unfair labor practices"
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers"
+        "inhouse workers",
+        "blue collar workers"
     ],
-    "description": "As a gesture of solidarity, tech workers have started tweeting with the hashtags #TechSolidarity, #AmazonStrike, #HuelgaAmazon to indicate support for striking Amazon workers. The Twitter page, @TechSpeaksOut, was reportedly designed to exert public pressure tech corporations. In addition to taking to Twitter, activists have started GoFundMes and mutual aid campaigns to benefit workers.",
-    "online": true,
-    "locations": null,
+    "description": "Amazon workers, organized by DCH1 Amazonians United, staged a walkout at a facility in Chicago calling on the company to temporarily close and sanitize the facility following two positive coronavirus tests among employees. Additionally, the workers are calling for the company to cover any health bills accrued by employees and family members that have contracted coronavirus at the facility, plus more time on-the-job to incorporate safety practices such as regular hand sanitizing. This is the fourth such action organized by DCH1 Amazonians in response to the coronavirus outbreak. ",
+    "online": null,
+    "locations": [
+        "staten island-new york city-new york-usa"
+    ],
     "companies": [
         "amazon"
     ],
-    "workers": null,
+    "workers": 20,
     "tags": [
-        "industry_solidarity",
-        "coworker_solidarity",
         "coronavirus"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            40.6193387,
+            -74.0727749
+        ]
+    ],
+    "addresses": [
+        "Amazon Court, Staten Island, Richmond County, New York, 10304, United States of America"
+    ]
 }

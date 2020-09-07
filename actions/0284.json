@@ -1,8 +1,9 @@
 {
-    "id": 285,
-    "date": "2020/06/15",
+    "id": 266,
+    "date": "2020/06/08",
     "sources": [
-        "https://medium.com/@macprac/open-letter-the-mit-college-of-computing-must-address-systemic-racism-b8c63ccc3d36"
+        "https://onezero.medium.com/250-microsoft-employees-call-on-ceo-to-cancel-police-contracts-and-support-defunding-seattle-pd-e89fa5d9e843",
+        "https://finance.yahoo.com/news/microsoft-employees-petition-seattle-police-contracts-161102239.html"
     ],
     "actions": [
         "open letter"
@@ -11,32 +12,32 @@
         "ethics"
     ],
     "employment_types": [
-        "white collar workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Over 90 individuals and organizations affiliated with MIT have signed a letter to the MIT College of Computing Leadership calling for the college to make a public statement condemning the death of George Floyd, developing a plan to address \"the legacy of anti-blackness and the relationship between technology and policing\", and breaking ties with companies that sell to police departments and ICE. Long-term asks include hiring more Black faculty and recruiting and accepting more Black undergraduate and graduate students.",
+    "description": "Hundreds of Microsoft employees have signed a letter to the company\u2019s top executives asking for Microsoft to take action in the wake of national protests. The initiative came out of a Facebook group called \"Young Microsoft FTEs\". The email to the Microsoft executives includes a list of requests, including increased leniency for Microsoft workers in performance reviews due to the coronavirus pandemic and protests; the company formally condemning the use of tear gas, rubber bullets, and flashbangs; increasing Microsoft\u2019s employee donation matches; the cancellation of contracts with SPD and other law enforcement agencies; support for defunding the SPD; signing a petition for the resignation of Seattle Mayor Jenny Durkan; and support for a list of demands from BLM Seattle. Employees volunteered to be CC\u2019d on the email in a show of solidarity, though their inclusion was not intended to show explicit support for every request, according to the email.",
     "online": true,
     "locations": [
-        "cambridge-massachusetts-usa"
+        "seattle-washington-usa"
     ],
     "companies": [
-        "mit"
+        "microsoft"
     ],
-    "workers": 91,
+    "workers": 250,
     "tags": [
-        "blm",
         "antiracism",
-        "academics"
+        "blm"
     ],
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            42.3583961,
-            -71.09567787663931
+            47.5388725,
+            -122.2901728
         ]
     ],
     "addresses": [
-        "Massachusetts Institute of Technology, Western Avenue, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02139, United States of America"
+        "Microsoft Gathering Hall, 7054, 32nd Avenue South, Columbia City, Holly Park, Seattle, King County, Washington, 98118, United States of America"
     ]
 }

@@ -1,42 +1,38 @@
 {
-    "id": 219,
-    "date": "2019/12/12",
+    "id": 216,
+    "date": "2019/12/03",
     "sources": [
-        "https://www.vice.com/en_us/article/dyggwv/e-scooter-workers-just-formed-their-first-union"
+        "https://www.buzzfeednews.com/article/carolineodonovan/amazon-workers-in-sacramento-are-demanding-a-fair-paid-time"
     ],
     "actions": [
-        "union representation"
+        "open letter"
     ],
     "struggles": [
-        "pay and benefits",
         "working conditions"
     ],
     "employment_types": [
-        "blue collar workers",
-        "inhouse workers"
+        "blue collar workers"
     ],
-    "description": "E-scooter workers in San Francisco at the Ford-owned start-up Spin joined a union on Wednesday\u2014a first in the fledgling industry. Roughly 40 Spin workers\u2014who collect, repair, deploy, and charge Spin\u2019s fleet of more than 500 electric scooters on the streets of San Francisco\u2014are now part of Teamsters Local 665, as first reported by the San Francisco Examiner. The union says workers want to negotiate for better pay, health care, and retirement security in their first contract.",
+    "description": "Amazon delivery station employees in Sacramento are demanding fair treatment and benefits equal to those of other Amazon workers. By Sunday, more than 200 workers had signed a petition requesting an explanation for why they receive fewer paid days off per year than typical Amazon warehouse workers. The workers, who call themselves Amazonians United Sacramento, say that unlike other Amazon employees, they receive no paid time off. These workers, who sort and prepare packages for final-mile delivery in a station called DSM1, said they were told by Amazon managers that they get less paid time off (PTO) because they are classified by the company as Class Q workers. The Sacramento employees said they were previously unaware of any such classification.",
     "online": null,
     "locations": [
-        "san francisco-california-usa"
+        "sacramento-california-usa"
     ],
     "companies": [
-        "spin"
+        "amazon"
     ],
-    "workers": 40,
-    "tags": [
-        "teamster"
-    ],
+    "workers": 200,
+    "tags": null,
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            37.7871368,
-            -122.2795012
+            38.6767343,
+            -121.4948028
         ]
     ],
     "addresses": [
-        "SPIN!, Mariner Square Loop, Alameda, Alameda County, California, 94607, United States of America"
+        "Amazon Avenue, Sacramento, Sacramento County, California, 95835, United States of America"
     ]
 }

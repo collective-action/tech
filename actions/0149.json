@@ -1,42 +1,43 @@
 {
-    "id": 148,
-    "date": "2019/06/19",
+    "id": 145,
+    "date": "2019/06/12",
     "sources": [
-        "https://www.vox.com/recode/2019/6/19/18691870/google-employees-activists-protest-alphabet-shareholder-meeting"
+        "https://www.gofundme.com/f/solidarity-fund-for-fired-fb-contingent-workers",
+        "https://medium.com/@techworkersco_79433/who-fired-the-ras-organizing-the-worst-job-at-facebook-97c63cb40683"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
-        "discrimination",
-        "ethics"
+        "job security"
     ],
     "employment_types": [
-        "white collar workers"
+        "na"
     ],
-    "description": "Google employees protest at Alphabet's shareholder meeting, joining community activists in demanding change from Google on how it handles sexual harassment in the workplace and its plans to build a censored search engine for China. Around 100 Google employees and community activists also protested as a united group outside Alphabet headquarters during the meeting. Google employees; labor and activist coalition Silicon Valley Rising; SEIU-USWW (a union representing janitorial staff and security officers); and local community groups helped organize the rally outside the meeting.",
+    "description": "Workers for workers, a group of Facebook employees who organize to support the company's contract workers, started a gofundme campaign to materially support 9 contingent workers who were fired for violating non-existant company policy. Workers for Workers is drawing on its network of mostly tech workers to provide support for the 9 contingent workers who were suddenly let go. The campaign will support these folks in their hour of greatest need, aiming to raise $40,000 to cover their basic living expenses for the next two months as they seek to clear their name within Facebook and find a new job on short notice. ",
     "online": null,
     "locations": [
-        "sunnyvale-california-usa"
+        "seattle-washington-usa"
     ],
     "companies": [
-        "google"
+        "facebook"
     ],
-    "workers": 100,
+    "workers": 150,
     "tags": [
         "coworker_solidarity",
-        "sexism"
+        "funding_raising",
+        "twc"
     ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            37.40858695,
-            -122.02648926338104
+            47.6289467,
+            -122.3428731
         ]
     ],
     "addresses": [
-        "Google MAT1, 1184, North Mathilda Avenue, Sunnyvale, Santa Clara County, California, 94089, United States of America"
+        "Facebook Dexter, 1101, Dexter Avenue North, Westlake, Seattle, King County, Washington, 98109, United States of America"
     ]
 }

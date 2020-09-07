@@ -1,43 +1,33 @@
 {
-    "id": 159,
-    "date": "2019/07/15",
+    "id": 156,
+    "date": "2019/07/13",
     "sources": [
-        "https://jacobinmag.com/2019/07/amazon-shakopee-strike-prime-day",
-        "https://www.cnet.com/news/prime-day-brings-out-wave-of-activism-against-amazon/",
-        "https://www.theverge.com/2019/7/16/20696154/amazon-prime-day-2019-strike-warehouse-workers-inhumane-conditions-the-rate-productivity"
+        "http://www.laizquierdadiario.com/paro-de-glovers-en-mendoza-nos-cansamos-de-la-explotacion-por-eso-hacemos-paro"
     ],
     "actions": [
         "strike"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "working conditions",
+        "pay and benefits"
     ],
     "employment_types": [
-        "blue collar workers"
+        "contract workers",
+        "gig workers"
     ],
-    "description": "Amazon employees, many who are Somali-American workers, at a fulfillment center outside Minneapolis are calling on the company to improve safety and benefits on one of the top sales days of the year. 100 fulfillment workers and labor groups outside the cavernous warehouse are protesting the company's working conditions, benefits and corporate culture. The demonstration is planned for the first day of Prime Day, one of Amazon's flagship shopping events that generates billions of dollars in sales for the retail giant. White collar employees from Amazon HQ (of the group Amazon Employees for Climate Justice) in Seattle are flying out to support the protesters.",
+    "description": "A group of Glovo delivery drivers went on strike for one day, citing the loss of guaranteed hours without proper notice and lower pay rates than comparable cities. They also cited Glovo's failure to fulfill promises on worker conditions, including that the company failed to provide promised protective clothing for cold and rain. They gathered at Plaza Chile in Mendoza, Argentina.",
     "online": null,
     "locations": [
-        "minneapolis-minnesota-usa"
+        "mendoza-argentina"
     ],
     "companies": [
-        "amazon"
+        "glovo"
     ],
-    "workers": 100,
-    "tags": [
-        "coworker_solidarity"
-    ],
+    "workers": 5,
+    "tags": null,
     "author": [
-        "organizejs"
+        "moates"
     ],
-    "latlngs": [
-        [
-            44.9696354,
-            -93.2884766
-        ]
-    ],
-    "addresses": [
-        "Wounded Amazon, Lyndale Avenue South, Loring Park, Minneapolis, Hennepin County, Minnesota, 55403, United States of America"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

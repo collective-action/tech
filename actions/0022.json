@@ -1,19 +1,20 @@
 {
-    "id": 21,
-    "date": "2012/04/27",
+    "id": 19,
+    "date": "2012/01/11",
     "sources": [
-        "https://www.reuters.com/article/us-china-foxconn/workers-protest-at-foxconn-plant-in-china-idusbre83q0jv20120427"
+        "https://www.telegraph.co.uk/news/worldnews/asia/china/9006988/mass-suicide-protest-at-apple-manufacturer-foxconn-factory.html",
+        "https://www.cbsnews.com/news/what-happened-after-the-foxconn-suicides/"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
-        "pay and benefits"
+        "job security"
     ],
     "employment_types": [
         "blue collar workers"
     ],
-    "description": "Approximately 200 FoxConn workers in Wuhan, China threatened to jump of the roof of a building yesterday to protest low wages. The protests recalled a series of worker suicides in 2010 and a similar protest held in January at the same facility.",
+    "description": "150 FoxConn workers in Wuhan, China threatened suicide and ultimately spent two days on the roof of their plant to protest forced reassignments. In 2010, 18 FoxConn workers attempted suicide with a resulting 14 deaths.",
     "online": null,
     "locations": [
         "wuhan-china"
@@ -21,7 +22,7 @@
     "companies": [
         "foxconn"
     ],
-    "workers": 200,
+    "workers": 150,
     "tags": null,
     "author": [
         "nataliyaned"

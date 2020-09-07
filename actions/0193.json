@@ -1,39 +1,34 @@
 {
-    "id": 191,
-    "date": "2019/09/28",
+    "id": 188,
+    "date": "2019/09/25",
     "sources": [
-        "https://notesfrombelow.org/article/deliveroo-workers-launch-new-strike-wave"
+        "https://www.salon.com/2019/09/25/in-historic-first-tech-contractors-for-google-vote-to-unionize/",
+        "https://www.theguardian.com/technology/2019/sep/23/google-pittsburgh-union-roots-transform-tech-industry?cmp=share_androidapp_copy_to_clipboard"
     ],
     "actions": [
-        "strike"
+        "union representation"
     ],
     "struggles": [
-        "pay and benefits",
-        "job security"
+        "job security",
+        "pay and benefits"
     ],
     "employment_types": [
-        "gig workers"
+        "contract workers",
+        "white collar workers"
     ],
-    "description": "Deliveroo workers held wildcat strikes in 16 different UK cities in September in response to lowered wages. Strikers have blocked access to delivery-only kitchens that specifically cater to Deliveroo and other services and have publicly picketed. The Independent Workers of Great Britain Couriers and Logistics Branch (IWGB CLB) has been involved in organizing protests and reports that membership has grown 25% in recent months.",
+    "description": "Contract workers at Google in Pittsburgh have voted to unionize, joining the United Steel Workers Union. News outlets report that this is the first successful unionization of white-collar tech contractors. Workers intend to use their position to bargain for compensation, benefits, and job security comparable to Google employees. Google currently employs more contract workers (135,000) than direct Google employees (115,000) according to the Guardian. A group of Google employees have signed a letter of support and others have published a petition calling for the company to sign a neutrality agreement and abstain from union-busting tactics.",
     "online": null,
     "locations": [
-        "uk"
+        "pittsburgh-pennsylvania-usa"
     ],
     "companies": [
-        "deliveroo"
+        "google"
     ],
-    "workers": null,
+    "workers": 73,
     "tags": null,
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            51.5314216,
-            -0.1113624
-        ]
-    ],
-    "addresses": [
-        "Deliveroo, Pentonville Road, Pentonville, Finsbury, London Borough of Islington, London, Greater London, England, N1 9JB, United Kingdom"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

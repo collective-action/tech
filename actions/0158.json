@@ -1,55 +1,43 @@
 {
-    "id": 157,
-    "date": "2019/07/13",
+    "id": 154,
+    "date": "2019/07/11",
     "sources": [
-        "https://www.merca20.com/los-problemas-con-los-que-se-enfrentan-los-repartidores-de-comida-en-apps/",
-        "https://www.xataka.com.mx/aplicaciones/vacaciones-jubilacion-horario-flexible-que-repartidores-uber-eats-rappi-sindelantal-piden-al-ser-empleados-mexico"
+        "https://www.theguardian.com/us-news/2019/jul/11/amazon-ice-protest-immigrant-tech",
+        "https://www.washingtonpost.com/business/2019/07/12/no-tech-ice-protesters-demand-amazon-cut-ties-with-federal-immigration-enforcement/?utm_term=.5b8cbfae4ec5"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
-        "working conditions",
-        "pay and benefits"
+        "ethics"
     ],
     "employment_types": [
-        "contract workers",
-        "gig workers"
+        "na"
     ],
-    "description": "After increasing concerns about accident and death rates for delivery drivers, delivery workers across Mexico rallied under the hashtag #NiUnRepartidorMenos (translation: Not One Deliveryperson More). The workers have demanded better working conditions, and advocate that labor law better considers gig apps. They look to companies for improved insurance coverage, company protection from theft, and look to governments for fairer delivery driver licensing.  Workers in the movement have succeeded in meeting with several companies. ",
-    "online": true,
+    "description": "Hundreds of protestors, including those from the Tech Workers Coalition, demonstrated outside of the annual Amazon Web Services summit in New York, demanding the tech giant cut ties with government agencies that take part in immigrant deportations. The demonstrators, including Amazon warehouse workers, other tech employees, and immigrants outside the tech world, are calling on Amazon to cease its relationships with the US Immigration and Customs Enforcement (ICE) and the Department of Homeland Security.",
+    "online": null,
     "locations": [
-        "mexico"
+        "new york city-new york-usa"
     ],
     "companies": [
-        "glovo",
-        "uber",
-        "rappi",
-        "sindelantal",
-        "didi_food"
+        "amazon"
     ],
-    "workers": 20000,
-    "tags": null,
+    "workers": 100,
+    "tags": [
+        "industry_solidarity",
+        "twc",
+        "mijente"
+    ],
     "author": [
-        "moates"
+        "organizejs"
     ],
     "latlngs": [
         [
-            -34.5814605,
-            -58.4513731
-        ],
-        [
-            19.42437,
-            -99.168218
-        ],
-        [
-            47.2269198,
-            8.8245459
+            40.722465,
+            -73.9977307
         ]
     ],
     "addresses": [
-        "Glovo, 3590, Avenida Federico Lacroze, Colegiales, Buenos Aires, Comuna 15, C1427EDN, Argentina",
-        "Uber, Calle Hamburgo, Cuauht\u00e9moc, Ciudad de M\u00e9xico, 06600, M\u00e9xico",
-        "Rapperswil, Wahlkreis See-Gaster, Sankt Gallen, 8640, Switzerland"
+        "Amazon, 72, Spring Street, Little Italy, Manhattan Community Board 2, Manhattan, New York County, New York, 10013, United States of America"
     ]
 }

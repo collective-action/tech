@@ -1,32 +1,39 @@
 {
-    "id": 203,
-    "date": "2019/11/03",
+    "id": 200,
+    "date": "2019/10/28",
     "sources": [
-        "https://sf.eater.com/2019/11/4/20947832/instacart-shoppers-strike",
-        "https://medium.com/@vanessabain/dear-instacart-customers-664dbb59016e"
+        "https://www.nytimes.com/2019/10/28/technology/facebook-mark-zuckerberg-political-ads.html",
+        "https://www.nytimes.com/2019/10/28/technology/facebook-mark-zuckerberg-letter.html?action=click&module=relatedlinks&pgtype=article"
     ],
     "actions": [
-        "strike"
+        "open letter"
     ],
     "struggles": [
-        "pay and benefits"
+        "ethics"
     ],
     "employment_types": [
-        "gig workers"
+        "na"
     ],
-    "description": "Thousands' of Instacart shoppers went on strike from Nov. 3rd to Nov. 5th to protest the company's new tipping policy, which returns a portion of tips to the corporation rather than the workers. Participating shoppers refused to answer requests on the app. Instacart workers are considered contractors currently but this will change on January 1st in the state of California under AB5 legislation.",
-    "online": null,
+    "description": "More than 250 Facebook employees signed a letter to management protesting the company's decision to keep political ads, including those making false claims, on the social network during the 2020 US Presidential election. The letter was posted on Facebook Workplace, an internal communication service within the company.",
+    "online": true,
     "locations": [
         "usa"
     ],
     "companies": [
-        "instacart"
+        "facebook"
     ],
-    "workers": 1000,
+    "workers": 251,
     "tags": null,
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            30.2691649,
+            -97.7455041
+        ]
+    ],
+    "addresses": [
+        "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States of America"
+    ]
 }

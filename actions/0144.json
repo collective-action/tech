@@ -1,8 +1,9 @@
 {
-    "id": 143,
-    "date": "2019/06/06",
+    "id": 140,
+    "date": "2019/05/11",
     "sources": [
-        "https://slate.com/technology/2019/08/stanford-tech-students-backlash-google-facebook-palantir.html"
+        "https://www.fastcompany.com/90348304/exclusive-tech-workers-organize-protest-against-palantir-on-the-github-coding-platform",
+        "https://gist.github.com/noahzgordon/29af8c13106ddc591ccaa1ea0ce6af74"
     ],
     "actions": [
         "protest"
@@ -13,21 +14,22 @@
     "employment_types": [
         "na"
     ],
-    "description": "Students for the Liberation of All People (SLAP), a student organization at Stanford, places a banner across the street from Palantir's entrance reading \u201cOUR SOFTWARE IS SO POWERFUL IT SEPARATES FAMILIES.\u201d in protest of the company's involvement with U.S. Immigration and Customs Enforcement. ",
+    "description": "Tech workers organized by the Tech Workers Coalition are protesting the Palantir's contract with ICE on the company's GitHub projects. The plan calls for organized waves of digital protesters to post a prepared message to their GitHub boards. The protest appeals to workers to consider their role, even if indirectly, in Palantir\u2019s work with ICE. It also encourages people to add their own personal sentiments.",
     "online": null,
     "locations": [
-        "palo alto-california-usa"
+        "usa"
     ],
     "companies": [
         "palantir"
     ],
-    "workers": 24,
+    "workers": null,
     "tags": [
-        "students",
-        "immigration"
+        "ice",
+        "industry_solidarity",
+        "twc"
     ],
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
     "latlngs": [
         [
