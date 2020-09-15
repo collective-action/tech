@@ -1,43 +1,45 @@
 {
-    "id": 240,
-    "date": "2020/03/17",
+    "id": 236,
+    "date": "2020/03/12",
     "sources": [
-        "https://medium.com/@amazonemployeesclimatejustice/coronavirus-amazon-log-cfdc9a6f4437",
-        "https://medium.com/@amazoniansunitednyc/we-amazon-workers-demand-coronavirus-protections-16f28ad8b15f"
+        "https://www.vice.com/en_us/article/n7jkdx/baristas-at-slack-say-theyve-won-90-days-of-severance",
+        "https://www.theverge.com/2020/3/12/21177319/slack-paying-contractors-after-laid-off-baristas-send-letter"
     ],
     "actions": [
-        "open letter"
+        "open letter",
+        "legal action"
     ],
     "struggles": [
-        "working conditions"
+        "job security"
     ],
     "employment_types": [
         "blue collar workers",
-        "white collar workers"
+        "contract workers"
     ],
-    "description": "Over 5000 Amazon employees signed an open letter to Jeff Bezos calling for improved working conditions during the coronavirus pandemic, including paid sick leave regardless of diagnosis, child care, and 1.5x hazard pay. Since then, on March 22nd, the letter has been updated to include a call for transparency on any diagnosed covid-19 cases at the facilities, a halt on the shipping of non-essential items, and medical coverage to part-time employees. On March 27th, Amazon Employees for Climate Justice emailed its constituents (mostly corporate employees) to encourage them to sign the open letter, which purportedly lead to an additional 580 signatures.",
+    "description": "A group of five baristas who operate the espresso machines at Slack\u2019s corporate headquarters in San Francisco learned on March 6 that they were losing their contracted positions just prior to a decision by the company to move to remote operations to curb the spread of COVID-19. The baristas claim that Slack caught wind of their intention to criticize the company publicly\u2014and in what they claim to be an organizing victory, they learned that their severance would be extended to 90 days.",
     "online": null,
     "locations": [
-        "new york city-new york-usa"
+        "san francisco-california-usa"
     ],
     "companies": [
-        "amazon"
+        "slack"
     ],
-    "workers": 5210,
+    "workers": 5,
     "tags": [
-        "coronavirus",
-        "coworker_solidarity"
+        "coworker_solidarity",
+        "fund_raising",
+        "coronavirus"
     ],
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
     "latlngs": [
         [
-            40.722465,
-            -73.9977307
+            35.2960341,
+            -120.6532192
         ]
     ],
     "addresses": [
-        "Amazon, 72, Spring Street, Manhattan, New York County, New York, 10013, United States of America"
+        "Slack Street, San Luis Obispo, San Luis Obispo County, California, 93410, United States of America"
     ]
 }

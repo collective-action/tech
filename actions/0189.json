@@ -1,45 +1,43 @@
 {
-    "id": 187,
-    "date": "2019/09/25",
+    "id": 184,
+    "date": "2019/09/18",
     "sources": [
-        "http://www.browndailyherald.com/2019/09/26/students-protest-companies-tied-ice-career-fair/"
+        "https://github.com/msworkers/for.climateaction",
+        "https://gizmodo.com/just-days-ahead-of-employee-climate-strike-microsoft-a-1838229409"
     ],
     "actions": [
-        "protest",
-        "open letter"
+        "open letter",
+        "strike"
     ],
     "struggles": [
         "ethics"
     ],
     "employment_types": [
-        "na"
+        "white collar workers"
     ],
-    "description": "Students at Brown demonstrated against four companies (Amazon, Microsoft, Palantir, and Ernst & Young) at an on-campus career fair. All four companies have done business with ICE. The students have also started an online petition to protest Brown's connections to these four companies. ",
-    "online": null,
+    "description": "Mere days before Microsoft workers are set to walk out of their jobs and publicly call on their employer to reduce carbon emissions and sever its ties with fossil fuel companies, the tech giant has announced a major partnership with two of the biggest corporations in the oil industry. Microsoft employees have responded with a fiery statement condemning the partnership and calling on fellow employees to join them in walking out on September 20th. The protest is part of a global general strike on September 20th 2019.",
+    "online": true,
     "locations": [
-        "providence-rhode island-usa"
+        "seattle-washington-usa"
     ],
     "companies": [
-        "palantir",
-        "microsoft",
-        "amazon"
+        "microsoft"
     ],
-    "workers": null,
+    "workers": 300,
     "tags": [
-        "students",
-        "immigration",
-        "ice"
+        "climate_strike",
+        "climate_change"
     ],
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
     "latlngs": [
         [
-            41.5286839,
-            -71.2330488
+            47.5388725,
+            -122.2901728
         ]
     ],
     "addresses": [
-        "Amazon Drive, Portsmouth, Newport County, Rhode Island, United States of America"
+        "Microsoft Gathering Hall, 7054, 32nd Avenue South, Columbia City, Holly Park, Seattle, King County, Washington, 98118, United States of America"
     ]
 }

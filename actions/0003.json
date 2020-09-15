@@ -1,38 +1,32 @@
 {
-    "id": 2,
-    "date": "1986/09/16",
+    "id": 323,
+    "date": "1973/01/01",
     "sources": [
-        "https://www.nytimes.com/1986/09/16/science/software-seen-as-obstacle-in-developing-star-wars.html"
+        "https://archive.scienceforthepeople.org/vol-8/v8n1/rumblings-of-organizing-in-silicon-valley/"
     ],
     "actions": [
-        "open letter"
+        "union drive"
     ],
     "struggles": [
-        "ethics"
+        "unfair labor practices"
     ],
     "employment_types": [
-        "white collar workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Fourteen employees at AT&T sign a letter warning the U.S. military of over 10,000 possible errors in the Star Wars system.",
+    "description": "Workers at Silicon Valley conglomerate Smith-Corona-Marchant (S.C.M.) held a unionizing drive and a hearing with the National Labor Relations Board. The ultimately gained enough votes to continue forward with an NLRB election before losing momentum due to anti-unionizing efforts from company management.  ",
     "online": null,
     "locations": [
-        "usa"
+        "california-usa"
     ],
     "companies": [
-        "at&t"
+        "smith-corona-marchant"
     ],
-    "workers": 14,
+    "workers": 50,
     "tags": null,
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            45.5733162,
-            -122.5587111463347
-        ]
-    ],
-    "addresses": [
-        "AT&T, 10025, Northeast Cascades Parkway, Portland, Multnomah County, Oregon, 97220, United States of America"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

@@ -1,31 +1,31 @@
 {
-    "id": 115,
-    "date": "2019/02/01",
+    "id": 113,
+    "date": "2019/01/17",
     "sources": [
-        "https://www.nottinghampost.com/news/nottingham-news/deliveroo-riders-strike-nottingham-city-2498758"
+        "https://www.businessinsider.com/instacart-workers-request-22-cent-tips-protest-2019-1",
+        "https://actionnetwork.org/petitions/instacart-heres-our-22-cents-no-more-tip-theft-low-pay-and-black-box-pay-algorithms"
     ],
     "actions": [
-        "protest"
+        "open letter"
     ],
     "struggles": [
-        "working conditions",
         "pay and benefits"
     ],
     "employment_types": [
         "gig workers"
     ],
-    "description": "Deliveroo riders took to Nottingham's Speakers' Corner to strike in a pay dispute. Riders were striking over the fees paid for long and short distance deliveries in the Nottingham area. Riders receive no pension, holiday or sickness pay, and must cover their own equipment costs and expenses and pay national insurance and tax on their earnings.",
-    "online": null,
+    "description": "150 Instacart workers have started a petition to protest changes in how they are paid. The petition urges the company to change this policy. It also encourages Instacart users to pay 'shoppers' the minimum $0.22 tip through the app and to pay the remainder of the tip in cash to ensure the tip amount primarily goes to workers.",
+    "online": true,
     "locations": [
-        "nottingham-uk"
+        "usa"
     ],
     "companies": [
-        "deliveroo"
+        "instacart"
     ],
-    "workers": 30,
+    "workers": 150,
     "tags": null,
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
     "latlngs": null,
     "addresses": null

@@ -1,46 +1,41 @@
 {
-    "id": 214,
-    "date": "2019/11/29",
+    "id": 211,
+    "date": "2019/11/22",
     "sources": [
-        "https://metro.co.uk/2019/11/29/amazon-hit-by-black-friday-srikes-and-protests-across-europe-11238471/",
-        "https://www.bbc.com/news/uk-england-50603875"
+        "https://techcrunch.com/2019/11/21/google-employees-will-rally-in-protest-of-alleged-worker-retaliation/",
+        "https://www.vox.com/recode/2019/11/22/20978537/google-workers-suspension-employee-activists-protest"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
-        "working conditions"
+        "unfair labor practices"
     ],
     "employment_types": [
-        "blue collar workers"
+        "white collar workers"
     ],
-    "description": "Amazon was targeted by a UK-wide protest organised to coincide with Black Friday and Cyber Monday demanding an end to \u2018appalling\u2019 working conditions. Trade union GMB co-ordinated the British demonstrations to take place across two of the busiest shopping days of the year. 'Workers are breaking bones, being knocked unconscious and being taken away in ambulances,' GMB national officer Mick Rix said in a statement. Labour leader Jeremy Corbyn visited protesters outside an Amazon depot in Sheffield. The union cited figures suggesting there had been more than 600 ambulance call-outs to Amazon warehouses over a three-year period and just as many serious incidents reported to the Health and Safety Executive for various injuries.",
+    "description": "A group of roughly 200 Googler and other protesters rallied outside of the search giant\u2019s offices in San Francisco on Friday, demanding the company reinstate two colleagues who they say were unjustly punished for workplace organizing at the company \u2014 calling it an attack on accountability and transparency in tech. Google has said the employees were placed on administrative leave for violating company policies about accessing sensitive internal documents and monitoring employees\u2019 calendar events. They accuse management of targeting Rebecca Rivers and Laurence Berland, because of their involvement in worker activism at the company. Rivers helped put together a petition against Google\u2019s work for US immigration enforcement agency Customs and Border Patrol (CBP), and Berland was involved with employee protests about hate speech policies on YouTube. Protesters are demanding that Rivers and Berland be reinstated at work immediately. Organizers called their suspension an \u201cattempt to silence workers,\u201d in an email about the rally.",
     "online": null,
     "locations": [
-        "sheffield-uk",
-        "rugeley-uk",
-        "peterborough-uk"
+        "san francisco-california-usa"
     ],
     "companies": [
-        "amazon"
+        "google"
     ],
-    "workers": 12,
-    "tags": null,
+    "workers": 200,
+    "tags": [
+        "coworker_solidarity"
+    ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            52.75329925,
-            -1.9215828894833442
-        ],
-        [
-            52.542566050000005,
-            -0.2383390628291427
+            37.41897865,
+            -122.08237793989416
         ]
     ],
     "addresses": [
-        "Amazon.co.uk, Towers Business Park, Brereton and Ravenhill, Cannock Chase, Staffordshire, West Midlands, England, WS15 1LX, United Kingdom",
-        "Amazon, Unit 1, Flaxley Road, Old Fletton, Peterborough, City of Peterborough, East of England, England, PE2 9EN, United Kingdom"
+        "Google, Mountain View, Santa Clara County, California, United States of America"
     ]
 }

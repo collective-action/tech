@@ -1,46 +1,48 @@
 {
-    "id": 71,
-    "date": "2017/08/23",
+    "id": 69,
+    "date": "2017/03/22",
     "sources": [
-        "https://www.wired.com/story/amazons-turker-crowd-has-had-enough/",
-        "https://medium.com/@socialcontractcr/daemos-crowd-has-had-enough-5b62c1fceb30"
+        "https://www.siliconvalley.com/2017/03/23/at-strike-workers-go-back-to-work-after-one-day/",
+        "https://money.cnn.com/2017/03/22/news/companies/att-strike-landline-workers/index.html"
     ],
     "actions": [
-        "open letter"
+        "strike"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "working conditions",
+        "job security"
     ],
     "employment_types": [
-        "gig workers"
+        "blue collar workers"
     ],
-    "description": "Mechanical Turk workers and organizers collaborated with researchers at Stanford\u2019s Crowd Research Collective to create Daemo, a crowd-sourced platform that provides a higher-paying alternative to Amazon's Mechanical Turk. Some Mechnical Turk workers involved with the project later came out in opposition to the original WIRED article in their own Medium article. They argued that WIRED incorrectly identified Daemo as a project originating at Stanford, as opposed to from the workers themselves and called for changes to Daemo's governing board.",
-    "online": true,
+    "description": "About 17,000 AT&T workers walked off the job Wednesday. Workers say that AT&T was forcing technicians to work outside their areas of expertise. The union also was protesting the companies's outsourcing and offshoring of jobs. AT&T wireless workers were not affected.",
+    "online": null,
     "locations": [
-        "usa"
+        "california-usa",
+        "nevada-usa"
     ],
     "companies": [
-        "amazon",
-        "daemo"
+        "at&t"
     ],
-    "workers": 550,
-    "tags": null,
+    "workers": 17000,
+    "tags": [
+        "technicians"
+    ],
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
     "latlngs": [
         [
-            47.6142939,
-            -122.3239636
+            33.80967965,
+            -117.83605415
         ],
         [
-            27.048664,
-            -82.060911
+            36.1269453,
+            -115.1689215
         ]
     ],
     "addresses": [
-        "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America",
-        "Damo Street, North Port, Sarasota County, Florida, United States of America"
+        "AT&T, 1302, North Tustin Street, Orange, Orange County, California, 92867, United States of America",
+        "AT&T, South Las Vegas Boulevard, Hughes Center, Paradise, Clark County, Nevada, 89123, United States of America"
     ]
 }

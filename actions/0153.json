@@ -1,42 +1,43 @@
 {
-    "id": 152,
-    "date": "2019/06/30",
+    "id": 149,
+    "date": "2019/06/24",
     "sources": [
-        "https://www.vox.com/platform/amp/recode/2019/6/28/19303292/google-protest-pride-parade-lgbtq-youtube-harassment",
-        "https://medium.com/@bangooglefrompride/ban-google-from-pride-to-march-in-protest-of-harassment-and-discrimination-on-youtube-d8dcc6fde06e",
-        "https://twitter.com/shiringhaffary/status/1145387654202048512?s=19"
+        "https://onezero.medium.com/a-group-of-microsoft-employees-is-fighting-the-companys-political-action-committee-7dae732290e3",
+        "https://politics.slashdot.org/story/19/06/24/1835230/a-group-of-microsoft-employees-is-fighting-the-companys-political-action-committee",
+        "https://www.geekwire.com/2019/internal-email-microsoft-suspends-pac-donations-temporarily-following-employee-uproar"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
+        "ethics",
         "discrimination"
     ],
     "employment_types": [
         "white collar workers"
     ],
-    "description": "Google workers, under the name \u201cBan Google From Pride,\u201d protest their employer at Pride Parade amid controversy in the LGBTQ community over the company's harassment policies on YouTube videos.",
+    "description": "A group of more than 30 Microsoft employees is lobbying coworkers to stop donating to the company's political action committee in an effort to starve the PAC of funds. While Microsoft pitches itself as an inclusive and progressive company\u200a\u2014\u200aespecially during Pride Month, with tweets and donations to LGBTQ+ causes\u200a\u2014\u200aemployees who have donated to the PAC say they have no control over which candidates are being supported, meaning that they have no say when the PAC financially supports bigoted candidates. On July 2019, Microsoft has temporarily halted political donations through its political action committee after facing this backlash from employees.",
     "online": null,
     "locations": [
-        "san francisco-california-usa"
+        "seattle-washington-usa"
     ],
     "companies": [
-        "google"
+        "microsoft"
     ],
-    "workers": 23,
+    "workers": 30,
     "tags": [
-        "lgtbq"
+        "lgbtq"
     ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            37.41897865,
-            -122.08237793989416
+            47.5388725,
+            -122.2901728
         ]
     ],
     "addresses": [
-        "Google, Mountain View, Santa Clara County, California, United States of America"
+        "Microsoft Gathering Hall, 7054, 32nd Avenue South, Columbia City, Holly Park, Seattle, King County, Washington, 98118, United States of America"
     ]
 }

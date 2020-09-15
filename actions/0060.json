@@ -1,40 +1,41 @@
 {
-    "id": 59,
-    "date": "2016/10/05",
+    "id": 57,
+    "date": "2016/05/10",
     "sources": [
-        "https://www.thenation.com/article/the-silicon-valley-union-victories-you-havent-heard-of/"
+        "https://www.nytimes.com/2016/05/11/technology/uber-agrees-to-union-deal-in-new-york.html",
+        "https://www.wired.com/2017/05/how-drivers-are-finally-outfoxing-uber/"
     ],
     "actions": [
         "union representation"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "pay and benefits"
     ],
     "employment_types": [
-        "blue collar workers",
-        "contract workers"
+        "gig workers"
     ],
-    "description": "Intel cafeteria workers voted to unionize joining forces with Unite Here Local 19.",
+    "description": "Uber recognizes an association of drivers, the Independent Drivers Guild, which is affiliated with the International Association of Machinists and Aerospace Workers. The organization represents approximately 35,000 drivers in the New York City area and provides access to discounted insurance, legal services, and roadside assistance. The group has been promised monthly meetings with management but at the expense of agreeing not the formally unionize for the next five years.",
     "online": null,
     "locations": [
-        "santa clara-california-usa"
+        "new york city-new york-usa"
     ],
     "companies": [
-        "intel"
+        "uber"
     ],
-    "workers": 43,
-    "tags": null,
+    "workers": null,
+    "tags": [
+        "drivers"
+    ],
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            37.389317899999995,
-            -121.97901174515997
+            40.65532605,
+            -73.79478942223645
         ]
     ],
     "addresses": [
-        "McAfee, Mission College Boulevard, Santa Clara, Santa Clara County, California, 95054-1231, United States of America"
+        "Uber Limo Livery Hold Lot, Cargo Plaza Road, Queens, Queens County, New York, 11430, United States of America"
     ]
 }

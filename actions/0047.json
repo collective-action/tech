@@ -1,40 +1,41 @@
 {
-    "id": 46,
-    "date": "2015/02/03",
+    "id": 44,
+    "date": "2014/12/03",
     "sources": [
-        "https://www.zdnet.com/article/thousands-at-hp-subsidiary-in-china-strike-against-board-chairman-nomination/"
+        "https://www.theguardian.com/technology/2014/dec/03/amazon-mechanical-turk-workers-protest-jeff-bezos",
+        "http://www.wearedynamo.org/dearjeffbezos"
     ],
     "actions": [
-        "strike"
+        "open letter"
     ],
     "struggles": [
         "pay and benefits",
-        "job security"
+        "working conditions",
+        "unfair labor practices"
     ],
     "employment_types": [
-        "white collar workers"
+        "gig workers"
     ],
-    "description": "Employees at H3C, a Chinese network device company acquired by HP, have been protesting the appointment of a new chairman for the last three weeks. More than 4,400 people have signed a petition and 3,000 have joined the strike. Workers have expressed concern that the election of Mao Yunan, a senior manager at HP, would lead to layoffs and would endanger promised employee stock option plans.",
-    "online": null,
+    "description": "Hundreds of Mechanical Turk workers participate in an email writing campaign to Amazon founder Jeff Bezos to protest low pay and worker representation. The workers are organized by 'We Are Dynamo', a self-described guild for crowdsourced workers started by workers and academics.",
+    "online": true,
     "locations": [
-        "hangzhou-china"
+        "usa"
     ],
     "companies": [
-        "h3c",
-        "hp"
+        "amazon"
     ],
-    "workers": 4400,
+    "workers": 550,
     "tags": null,
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            30.187622849999997,
-            120.1935601
+            47.6142939,
+            -122.3239636
         ]
     ],
     "addresses": [
-        "\u534e\u4e09\u901a\u4fe1, \u957f\u6cb3\u8857\u9053, \u6d59\u6c5f\u7701, China \u4e2d\u56fd"
+        "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
     ]
 }

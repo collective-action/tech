@@ -1,40 +1,36 @@
 {
-    "id": 192,
-    "date": "2019/09/30",
+    "id": 189,
+    "date": "2019/09/26",
     "sources": [
-        "https://www.theverge.com/2019/10/1/20892693/amazon-protest-time-off-part-time-workers-sacramento-fired",
-        "https://www.vice.com/en_us/article/43k7yp/organized-amazon-warehouse-workers-just-got-two-fired-co-workers-rehired"
+        "https://www.dailycal.org/2019/09/24/under-pressure-palan"
     ],
     "actions": [
+        "protest",
         "open letter"
     ],
     "struggles": [
-        "job security",
-        "pay and benefits"
+        "ethics"
     ],
     "employment_types": [
-        "blue collar workers"
+        "na"
     ],
-    "description": "Amazon workers at a delivery center in Sacramento circulated a petition to reinstate two workers believed to have been unfairly fired and to give part-time workers paid time off. Management reinstated the two fired workers but did not acquiese to the request for paid time off. The action led workers to form a new group: Amazonians United Sacramento.",
+    "description": "Students at UC Berkeley have led protests and circulated petitions to stop Palantir from attending campus events due to their standing contracts with ICE. 50 students attended a protest and over 700 students and faculty signed a petition to stop an upcoming informational session.",
     "online": null,
     "locations": [
-        "sacramento-california-usa"
+        "berkeley-california-usa"
     ],
     "companies": [
-        "amazon"
+        "palantir"
     ],
-    "workers": 78,
-    "tags": null,
+    "workers": 700,
+    "tags": [
+        "students",
+        "immigration",
+        "ice"
+    ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            38.6767343,
-            -121.4948028
-        ]
-    ],
-    "addresses": [
-        "Amazon Avenue, Sacramento, Sacramento County, California, 95835, United States of America"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

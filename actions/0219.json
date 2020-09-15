@@ -1,22 +1,29 @@
 {
-    "id": 216,
-    "date": "2019/12/03",
+    "id": 213,
+    "date": "2019/11/29",
     "sources": [
-        "https://www.buzzfeednews.com/article/carolineodonovan/amazon-workers-in-sacramento-are-demanding-a-fair-paid-time"
+        "https://www.rte.ie/news/business/2019/1129/1095932-amazon-german-strike/",
+        "https://www.forbes.com/sites/isabeltogoh/2019/11/29/black-friday-strikes-and-protests-hit-amazon-in-france-and-germany/#269a045a5bb3"
     ],
     "actions": [
-        "open letter"
+        "strike"
     ],
     "struggles": [
-        "working conditions"
+        "working conditions",
+        "pay and benefits"
     ],
     "employment_types": [
         "blue collar workers"
     ],
-    "description": "Amazon delivery station employees in Sacramento are demanding fair treatment and benefits equal to those of other Amazon workers. By Sunday, more than 200 workers had signed a petition requesting an explanation for why they receive fewer paid days off per year than typical Amazon warehouse workers. The workers, who call themselves Amazonians United Sacramento, say that unlike other Amazon employees, they receive no paid time off. These workers, who sort and prepare packages for final-mile delivery in a station called DSM1, said they were told by Amazon managers that they get less paid time off (PTO) because they are classified by the company as Class Q workers. The Sacramento employees said they were previously unaware of any such classification.",
+    "description": "Hundreds of Amazon workers in Germany walked off the job as the online retailer kicked off its 'Black Friday' sales bonanza, escalating a long-simmering battle for better pay and working conditions. The strike called by the powerful Verdi union is set to last until Tuesday morning and will also cover 'Cyber Monday', another extravaganza of online discounts in what is a crucial sales period for Amazon. Verdi members are demanding a collective agreement for a living wage.",
     "online": null,
     "locations": [
-        "sacramento-california-usa"
+        "bad hersfeld-germany",
+        "leipzig-germany",
+        "koblenz-germany",
+        "rheinberg-germany",
+        "werne-germany",
+        "graben-germany"
     ],
     "companies": [
         "amazon"
@@ -28,11 +35,36 @@
     ],
     "latlngs": [
         [
-            38.6767343,
-            -121.4948028
+            50.8453279,
+            9.678334853465138
+        ],
+        [
+            51.3622584,
+            12.452329749225527
+        ],
+        [
+            50.3465747,
+            7.4912868
+        ],
+        [
+            51.5371004,
+            6.5876793
+        ],
+        [
+            51.653494949999995,
+            7.59464606445661
+        ],
+        [
+            48.198871499999996,
+            10.848663796329923
         ]
     ],
     "addresses": [
-        "Amazon Avenue, Sacramento, Sacramento County, California, 95835, United States of America"
+        "Amazon Logistik GmbH, 1, Eichhof, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
+        "Amazon, 1, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland",
+        "Amazon stra\u00dfe, Industriepark A61/GVZ Koblenz, R\u00fcbenach, Koblenz, Rheinland-Pfalz, 56330, Deutschland",
+        "Amazon, Amazonstra\u00dfe, Winterswick, Rheinberg, Kreis Wesel, Nordrhein-Westfalen, 47495, Deutschland",
+        "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
+        "Amazon-Logistikzentrum, Graben, Landkreis Augsburg, Bayern, 86836, Deutschland"
     ]
 }

@@ -1,41 +1,35 @@
 {
-    "id": 209,
-    "date": "2019/11/19",
+    "id": 207,
+    "date": "2019/11/08",
     "sources": [
-        "https://www.cnbc.com/2019/11/19/google-employees-protested-security-team-interrogation-memo-says.html"
+        "https://www.ft.com/content/a3483930-0253-11ea-b7bc-f3fa4e77dd47",
+        "https://www.nytimes.com/2019/11/08/business/wework-employee-letter.html"
     ],
     "actions": [
-        "protest"
+        "open letter"
     ],
     "struggles": [
-        "unfair labor practices"
+        "job security",
+        "working conditions",
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers"
+        "white collar workers",
+        "blue collar workers"
     ],
-    "description": "Google employees held a protest in San Francisco days before the company ended its long-held TGIF meetings, according to an internal memo obtained by CNBC. Some 20 people organized at Google's office in downtown San Francisco to protest the company placing Rebecca Rivers and Laurence Berland on sudden and indefinite administrative leave the prior week, the memo states. Authors of the memo, which was circulated internally at Google on Monday, claimed the actions were an act of retaliation against the workers.",
-    "online": null,
-    "locations": [
-        "san francisco-california-usa"
-    ],
+    "description": "WeWork employees have formed a group to campaign for better severance pay, employment conditions and an end to 'deception, exclusion and selfishness at the company's highest levels' following the turmoil of its failed IPO process.\u00a0The WeWorkers Coalition announced its existence on Friday with a letter to management setting out demands including for sexual assault claims to be 'taken seriously' and for thousands of employees about to lose their jobs to receive 'fair and reasonable separation terms'.\u00a0'Thousands of us will be laid off in the upcoming weeks. But we want our time here to have meant something' the group said in its letter. A software engineer at WeWork who is helping to organise the WeWorkers Coalition, said 185 people had signed the letter to management, while at least 600 expressed an interest in joining ahead of the group publicising its launch this week.\u00a0The coalition wants cleaners and maintenance staff to receive full benefits and fair pay.",
+    "online": true,
+    "locations": null,
     "companies": [
-        "google"
+        "wework"
     ],
-    "workers": 20,
+    "workers": 185,
     "tags": [
-        "coworker_solidartiry",
-        "retaliation"
+        "coworker_solidarity"
     ],
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            37.41897865,
-            -122.08237793989416
-        ]
-    ],
-    "addresses": [
-        "Google, Mountain View, Santa Clara County, California, United States of America"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

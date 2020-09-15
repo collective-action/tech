@@ -1,41 +1,42 @@
 {
-    "id": 141,
-    "date": "2019/05/22",
+    "id": 138,
+    "date": "2019/05/08",
     "sources": [
-        "https://www.vox.com/recode/2019/5/22/18635604/amazon-shareholder-meeting-2019-climate-change-proposal",
-        "https://gizmodo.com/jeff-bezos-wouldn-t-even-come-on-stage-to-listen-to-his-1834957220"
+        "https://medium.com/@googlewalkout/notokgoogle-demands-regarding-retaliation-697da244146f",
+        "https://observer.com/2019/05/alphabet-ceo-larry-page-employees-walkouts/"
     ],
     "actions": [
-        "protest"
+        "open letter"
     ],
     "struggles": [
-        "ethics"
+        "working conditions",
+        "discrimination"
     ],
     "employment_types": [
         "white collar workers"
     ],
-    "description": "More than 50 Amazon employees from Amazon Employees for Climate Justice attended the shareholder meeting, where Emily Cunningham delivered an impassioned speech to shareholders urging them to support the resolution for Amazon to adopt a strong climate plan. Jeff Bezos did not come on stage when asked by Cunningham to make an appearance. Shareholders voted no.",
+    "description": "Google employees publish an open letter demanding that Alphabet CEO Larry Page 'immediately and publicly address the Walkout\u2019s demands, and recommit Google to meeting them.' The list of demands also asks for the company to allow Meredith to continue her work, fully funded, as before and to allow Claire to change teams without further retaliation. The letter calls out the broken nature of the HR department at Google, and demands for an open and transparent investigation on the department.",
     "online": null,
     "locations": [
-        "seattle-washington-usa"
+        "usa"
     ],
     "companies": [
-        "amazon"
+        "google"
     ],
-    "workers": 50,
+    "workers": null,
     "tags": [
-        "climate_change"
+        "retaliation"
     ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            47.6142939,
-            -122.3239636
+            42.3627717,
+            -71.087257
         ]
     ],
     "addresses": [
-        "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
+        "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
     ]
 }

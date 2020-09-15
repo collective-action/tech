@@ -1,30 +1,31 @@
 {
-    "id": 275,
-    "date": "2020/04/30",
+    "id": 256,
+    "date": "2020/04/20",
     "sources": [
-        "https://www.transnational-strike.info/2020/05/03/addressing-the-pandemic-at-amazon-open-letter-to-jeff-bezos-and-stefano-perego/",
-        "http://inthesetimes.com/working/entry/22501/amazon-europe-united-states-international-labor-organizing-workers-bezos"
+        "https://www.theguardian.com/world/2020/apr/20/coronavirus-digital-contact-tracing-will-fail-unless-privacy-is-respected-experts-warn",
+        "https://techcrunch.com/2020/04/20/academics-contact-tracing/"
     ],
     "actions": [
         "open letter"
     ],
     "struggles": [
-        "working conditions"
+        "ethics"
     ],
     "employment_types": [
-        "inhouse workers",
-        "blue collar workers"
+        "white collar workers"
     ],
-    "description": "Amazon Workers International, speaking on behalf of Amazon workers across the U.S. and Europe, sent an open letter to Jeff Bezos and Stefano Perego, VP of European Fulfillment. The letter called for making covid-era wage increases and breaks permanent and suspending productivity feedback. In addition, AWI demanded more transparency around covid cases at Amazon, improved sick leave, and good faith bargaining with unions. ",
+    "description": "Over 300 academics from 26 countries signed a letter calling for contact-tracing apps to respect user privacy and to limit large-scale, centralized surveillance in favor of decentralized systems. The signatories favored the DP-3T protocol and systems like Apple and Google\u2019s cross-platform solution over the PEPP-T system designed by a set of European countries.",
     "online": true,
-    "locations": null,
-    "companies": [
-        "amazon"
+    "locations": [
+        "worldwide"
     ],
-    "workers": 8,
+    "companies": [
+        "na"
+    ],
+    "workers": 301,
     "tags": [
-        "international_solidarity",
-        "coronavirus"
+        "coronavirus",
+        "surveillance"
     ],
     "author": [
         "nataliyaned"

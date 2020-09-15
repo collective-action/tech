@@ -1,70 +1,50 @@
 {
-    "id": 213,
-    "date": "2019/11/29",
+    "id": 210,
+    "date": "2019/11/20",
     "sources": [
-        "https://www.rte.ie/news/business/2019/1129/1095932-amazon-german-strike/",
-        "https://www.forbes.com/sites/isabeltogoh/2019/11/29/black-friday-strikes-and-protests-hit-amazon-in-france-and-germany/#269a045a5bb3"
+        "https://www.vox.com/recode/2019/12/31/21043467/google-union-cafeteria-workers-unionized-alphabet-silicon-valley-mountainview",
+        "https://www.cnbctv18.com/politics/over-2000-underpaid-overworked-google-workers-unionised-4974661.htm"
     ],
     "actions": [
-        "strike"
+        "union representation",
+        "union drive"
     ],
     "struggles": [
-        "working conditions",
         "pay and benefits"
     ],
     "employment_types": [
+        "contract workers",
         "blue collar workers"
     ],
-    "description": "Hundreds of Amazon workers in Germany walked off the job as the online retailer kicked off its 'Black Friday' sales bonanza, escalating a long-simmering battle for better pay and working conditions. The strike called by the powerful Verdi union is set to last until Tuesday morning and will also cover 'Cyber Monday', another extravaganza of online discounts in what is a crucial sales period for Amazon. Verdi members are demanding a collective agreement for a living wage.",
+    "description": "Approximately 2,300 contract workers employed in food service at Google have voted to unionize under a local chapter of Unite Here. Workers expressed dissatisfaction with their low wages, which start at $35,000 in the Bay Area, and lack of benefits compared to full-time Google employees. Some reported incidents of discrimination and bullying. The workers are officially employed by Compass Group, a third party contractor. The vote followed a two year effort.",
     "online": null,
     "locations": [
-        "bad hersfeld-germany",
-        "leipzig-germany",
-        "koblenz-germany",
-        "rheinberg-germany",
-        "werne-germany",
-        "graben-germany"
+        "mountain view-california-usa",
+        "san francisco-california-usa"
     ],
     "companies": [
-        "amazon"
+        "google",
+        "compass_group"
     ],
-    "workers": 200,
-    "tags": null,
+    "workers": 2300,
+    "tags": [
+        "unite_here"
+    ],
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            50.8453279,
-            9.678334853465138
+            37.41897865,
+            -122.08237793989416
         ],
         [
-            51.3622584,
-            12.452329749225527
-        ],
-        [
-            50.3465747,
-            7.4912868
-        ],
-        [
-            51.5371004,
-            6.5876793
-        ],
-        [
-            51.653494949999995,
-            7.59464606445661
-        ],
-        [
-            48.198871499999996,
-            10.848663796329923
+            37.41897865,
+            -122.08237793989416
         ]
     ],
     "addresses": [
-        "Amazon Logistik GmbH, 1, Eichhof, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
-        "Amazon, 1, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland",
-        "Amazon stra\u00dfe, Industriepark A61/GVZ Koblenz, R\u00fcbenach, Koblenz, Rheinland-Pfalz, 56330, Deutschland",
-        "Amazon, Amazonstra\u00dfe, Winterswick, Rheinberg, Kreis Wesel, Nordrhein-Westfalen, 47495, Deutschland",
-        "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
-        "Amazon-Logistikzentrum, Graben, Landkreis Augsburg, Bayern, 86836, Deutschland"
+        "Google, Mountain View, Santa Clara County, California, United States of America",
+        "Google, Mountain View, Santa Clara County, California, United States of America"
     ]
 }

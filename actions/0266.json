@@ -1,42 +1,38 @@
 {
-    "id": 258,
-    "date": "2020/04/24",
+    "id": 255,
+    "date": "2020/04/13",
     "sources": [
-        "https://amp.ft.com/content/d0698260-c02b-4abe-912a-fa0066e294c2",
-        "https://dnyuz.com/2020/04/24/huawei-employees-sue-company-after-police-detention/"
+        "https://gizmodo.com/tech-workers-speak-out-in-support-of-amazon-warehouse-s-1842839301",
+        "https://chuffed.org/project/help-amazon-warehouse-workers-exposed-to-covid-19",
+        "https://www.givedirectly.org/covid-19/us/",
+        "https://twitter.com/techspeaksout"
     ],
     "actions": [
-        "legal action"
+        "protest"
     ],
     "struggles": [
-        "ethics"
+        "ethics",
+        "working conditions",
+        "unfair labor practices"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "white collar workers"
     ],
-    "description": "Two former Huawei employees are suing the company alleging that it used its local connections to the police to detain employees who posed problems for the company. One of the employees had started a chat group where there was open discussion of Huawei breaking US sanctions with Iran. That same employee claims two other members from the chat group were detained and later released as well. The Financial Times quoted Shenzhen-based labour rights lawyer, Pang Kun, who estimated that there were more than 10 others currently detained at a local jail as a result of company disputes.",
-    "online": null,
-    "locations": [
-        "shen zhen-china"
-    ],
+    "description": "As a gesture of solidarity, tech workers have started tweeting with the hashtags #TechSolidarity, #AmazonStrike, #HuelgaAmazon to indicate support for striking Amazon workers. The Twitter page, @TechSpeaksOut, was reportedly designed to exert public pressure tech corporations. In addition to taking to Twitter, activists have started GoFundMes and mutual aid campaigns to benefit workers.",
+    "online": true,
+    "locations": null,
     "companies": [
-        "huawei"
+        "amazon"
     ],
-    "workers": 2,
+    "workers": null,
     "tags": [
-        "na"
+        "industry_solidarity",
+        "coworker_solidarity",
+        "coronavirus"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            22.652495950000002,
-            114.05589115565374
-        ]
-    ],
-    "addresses": [
-        "\u534e\u4e3a\u6280\u672f\u6709\u9650\u516c\u53f8, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518100, China \u4e2d\u56fd"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

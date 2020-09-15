@@ -1,31 +1,34 @@
 {
-    "id": 239,
-    "date": "2020/03/17",
+    "id": 235,
+    "date": "2020/03/06",
     "sources": [
-        "https://www.theverge.com/2020/3/17/21184495/google-employees-memo-contract-workers-coronavirus-covid-19",
-        "https://www.businessinsider.com/google-workers-raise-internal-concerns-tvc-policies-for-covid-19-2020-3"
+        "https://fortune.com/2020/03/10/gig-workers-petition-for-sick-leave-coronavirus/",
+        "https://www.coworker.org/petitions/demand-gig-economy-companies-give-paid-sick-time-off-during-coronavirus",
+        "https://www.fastcompany.com/90472535/coronavirus-paid-sick-leave"
     ],
     "actions": [
         "open letter"
     ],
     "struggles": [
+        "working conditions",
         "unfair labor practices"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "A group of Google employees has sent a memo to company leadership demanding stronger commitments to protect the more vulnerable members of Google\u2019s workforce, primarily its contract workers, during the ongoing coronavirus crisis. The memo notes that some Google contractors, like those in the company\u2019s Pittsburgh office employed by an independent company called HCL Technologies, have been forced to come into the office, even as full-time Google employees were first allowed and then instructed to stay home.",
+    "description": "Gig Workers Rising launched a petition calling on the heads of the biggest gig economy platforms to give workers paid sick leave amid the coronavirus outbreak. That petition garnered more than 900 signatures. In the petition, the workers say they are often on the \u201cfront lines of exposure,\u201d given that every day they come in contact with various people, including those arriving at airports or heading to the hospital. Without paid sick leave, the gig workers say they are often forced to choose between making ends meet and taking care of their health, and therefore the health of the company's customers. ",
     "online": true,
     "locations": [
-        "usa"
+        "california-usa"
     ],
     "companies": [
-        "google"
+        "uber",
+        "lyft",
+        "instacart",
+        "doordash"
     ],
-    "workers": null,
+    "workers": 900,
     "tags": [
-        "coworker_solidarity",
         "coronavirus"
     ],
     "author": [
@@ -33,11 +36,21 @@
     ],
     "latlngs": [
         [
-            42.3627717,
-            -71.087257
+            37.7899898,
+            -122.3999799
+        ],
+        [
+            37.7509149,
+            -122.40246883416269
+        ],
+        [
+            37.7834546,
+            -122.4080358
         ]
     ],
     "addresses": [
-        "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+        "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "Lyft, Kansas Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States of America",
+        "Doordash HQ, Stevenson Street, Union Square, San Francisco, San Francisco City and County, California, 94104, United States of America"
     ]
 }

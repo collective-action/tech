@@ -1,38 +1,32 @@
 {
-    "id": 99,
-    "date": "2018/10/04",
+    "id": 97,
+    "date": "2018/08/01",
     "sources": [
-        "https://www.bbc.com/news/business-45734662"
+        "https://www.equaltimes.org/in-denmark-a-historic-collective?lang=en"
     ],
     "actions": [
-        "strike"
+        "union representation"
     ],
     "struggles": [
-        "pay and benefits"
+        "pay and benefits",
+        "job security"
     ],
     "employment_types": [
         "gig workers"
     ],
-    "description": "UberEats riders and a small number of workers from JD Wetherspoon, McDonald's and TGI Fridays have been staging walkouts in a pay dispute. Protests were being held in several UK cities, along with a rally in London.",
+    "description": "Danish gig workers from an online cleaning services platform Hilfr.dk signed a collective agreement that guarantees them benefits including holiday, sick leave, pension contributions, and higher pay once they reach a certain number of hours worked. Danish trade union 3F was a technical advisor on the agreement. As part of the agreement, Hilfr employees can automatically become members of the union once they have worked 100 hours on the platform. The agreement is preliminary and lasts one year.",
     "online": null,
     "locations": [
-        "uk"
+        "denmark"
     ],
     "companies": [
-        "uber"
+        "hilfr"
     ],
-    "workers": 50,
+    "workers": 450,
     "tags": null,
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
-    "latlngs": [
-        [
-            51.5148804,
-            -0.0718856
-        ]
-    ],
-    "addresses": [
-        "Uber, 2, Leman Street, Spitalfields, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, E1 8FA, United Kingdom"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

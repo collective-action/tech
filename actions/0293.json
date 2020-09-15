@@ -1,67 +1,44 @@
 {
-    "id": 308,
-    "date": "2020/07/20",
+    "id": 306,
+    "date": "2020/07/15",
     "sources": [
-        "https://www.vice.com/en_us/article/qj4zxx/amazon-google-and-lyft-workers-tell-us-why-theyre-striking-for-black-lives-matter",
-        "https://www.washingtonpost.com/business/2020/07/20/strike-for-black-lives/"
+        "https://www.vice.com/en_us/article/v7gzd8/targets-gig-workers-will-strike-to-protest-switch-to-algorithmic-pay-model",
+        "https://www.marketwatch.com/story/target-owned-shipt-workers-strike-over-new-algorithm-based-compensation-that-they-say-will-lower-their-pay-11594842478",
+        "https://medium.com/@shiptshopper/shipt-walkoff-july-15th-dab1ee2c2571"
     ],
     "actions": [
         "protest",
         "strike"
     ],
     "struggles": [
-        "ethics"
+        "pay and benefits"
     ],
     "employment_types": [
         "gig workers"
     ],
-    "description": "Amazon, Google, Uber, Lyft, and Postmates workers were reportedly among the \"tens of thousands\" of employees across the U.S. that took part in a protest of the country's long-standing systemic racism. Those that were unable to leave their jobs were encouraged to take an 8 minute, 46 second break (the amount of time a police officer knelt on George Floyd's neck) or to bend a knee in solidarity (a reference to protests by the NFL). The Washington Post reports that demonstrations took place in over 200 cities.",
+    "description": "Shipt workers went on strike across the U.S. to protest the company's move to a new, less transparent algorithmic pay model that reduces their wages by 25-50%, according to reports. Workers also called for consumers to boycott the service. Shipt has more than 100,000 workers in the U.S. and is used by companies such as Target. Willy Solis, from the Gig Workers Collective, was the lead organizer for the event and used social media groups and word-of-mouth (encouraging each committed worker to recruit five additional participants) to drive the strike.",
     "online": null,
     "locations": [
         "usa"
     ],
     "companies": [
-        "amazon",
-        "google",
-        "uber",
-        "lyft",
-        "postmates"
+        "target",
+        "shipt"
     ],
     "workers": null,
     "tags": [
-        "blm",
-        "antiracism"
+        "delivery_workers"
     ],
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            47.6142939,
-            -122.3239636
-        ],
-        [
-            42.3627717,
-            -71.087257
-        ],
-        [
-            37.7899898,
-            -122.3999799
-        ],
-        [
-            37.7509149,
-            -122.40246883416269
-        ],
-        [
-            37.7753423,
-            -122.39763106771915
+            33.2469982,
+            -117.29321092216239
         ]
     ],
     "addresses": [
-        "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America",
-        "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America",
-        "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
-        "Lyft, Kansas Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States of America",
-        "UserTesting, 690, 5th Street, South of Market, San Francisco, San Francisco City and County, California, 94017, United States of America"
+        "Target, San Luis Rey, Oceanside, San Diego County, California, United States of America"
     ]
 }

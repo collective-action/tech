@@ -1,38 +1,41 @@
 {
-    "id": 193,
-    "date": "2019/10/02",
+    "id": 190,
+    "date": "2019/09/26",
     "sources": [
-        "https://www.vice.com/en_us/article/9ken8v/kickstarter-workers-just-asked-for-union-recognition-despite-pushback-from-ceo"
+        "https://www.vice.com/en_us/article/qvgn9q/do-not-discuss-the-incident-facebook-told-employee-fired-after-speaking-about-worker-suicide",
+        "https://www.gofundme.com/f/say-no-to-toxic-work-environment",
+        "https://www.gofundme.com/f/qinchen-memorial-fund"
     ],
     "actions": [
-        "open letter"
+        "protest"
     ],
     "struggles": [
+        "ethics",
         "working conditions"
     ],
     "employment_types": [
         "white collar workers"
     ],
-    "description": "Kickstarter workers have sent a letter to management asking them to voluntarily recognize their union. If management refuses to recognize the union, workers have the option to go to the NLRB to authorize a union election.",
+    "description": "Over 400 Facebook employees protested publicly against the company's treatment of foreign workers on H1B visas days after a Chinese employee committed suicide by jumping off the roof of a company building. Workers at the company have started publicly posting and speaking out about the mistreatment of international workers, who are only allowed to stay in the US if they are sponsored by their employer and thus face greater pressures not to speak out against working conditions. Two separate GoFundMe pages have been started to raise money for a memorial and a protest event (over $6,000) and for Chen's family (over $122,000). Facebook has since fired one of the employees who organized the protest, Yi Yin. Yin also spoke to the press about the suicide after the company instructed him not to speak about the suicide. ",
     "online": null,
     "locations": [
-        "brooklyn-new york city-new york-usa"
+        "menlo park-california-usa"
     ],
     "companies": [
-        "kickstarter"
+        "facebook"
     ],
-    "workers": null,
+    "workers": 400,
     "tags": null,
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            40.7321996,
-            -73.9598257
+            37.484668049999996,
+            -122.1483654685629
         ]
     ],
     "addresses": [
-        "Kickstarter HQ, West Street, Brooklyn, New York, 11222, United States of America"
+        "Facebook, San Francisco Bay Trail, Menlo Park, San Mateo County, California, 94025-1246, United States of America"
     ]
 }

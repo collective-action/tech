@@ -1,30 +1,39 @@
 {
-    "id": 221,
-    "date": "2019/12/19",
+    "id": 218,
+    "date": "2019/12/10",
     "sources": [
-        "https://static.theintercept.com/amp/shutterstock-china-censorship-tech.html",
-        "https://medium.com/@techagainstfascism/in-solidarity-with-pluralism-and-peaceful-dissent-in-india-b9c40e0d4476"
+        "https://www.vice.com/amp/en_us/article/ywaaay/injured-amazon-warehouse-workers-are-protesting-dangerous-work-speed",
+        "https://chicago.suntimes.com/metro-state/2019/12/10/21005210/amazon-employees-hurt-injured-work-activists"
     ],
     "actions": [
-        "open letter"
+        "protest"
     ],
     "struggles": [
-        "ethics"
+        "working conditions"
     ],
     "employment_types": [
-        "white collar workers"
+        "blue collar workers"
     ],
-    "description": "In an open letter, several engineers, researchers, analysts, and designers working with global companies such as Google and Facebook have condemned the Citizenship (Amendment) Act in India. The letter, issued 'in solidarity with the Indian democracy', was posted through the 'TechAgainstFascism' handle on Medium. It called upon technology leaders to take a stance and publicly denounce the 'fascist acts by the Indian government'. 'We call upon the leaders to use technology as a force for good, to refuse to share user details with the government, refuse to shut off the Internet at the government's whim, provide tools for citizen mobilization, and ensure that content moderation is not skewing pro-government,' it said.",
-    "online": true,
-    "locations": null,
-    "companies": null,
-    "workers": 400,
-    "tags": [
-        "international_solidarity"
+    "description": "Injured former Amazon warehouse workers and labor organizers in Chicago are protesting dangerous work speed and high injury rates today outside one of the company\u2019s brick-and-mortar stores in downtown Chicago. The action coincides with the release of a new report on injury rates in one of the region\u2019s largest and most dangerous warehouses, MDW7, the first in Illinois with automated robots. The report and protest in Chicago coincides with the launch of a national coalition, known as Athena, of three dozen grassroots labor, antitrust, and digital rights organizations\u2014the first unified resistance effort in the United States against the delivery giant.",
+    "online": null,
+    "locations": [
+        "chicago-illinois-usa"
     ],
+    "companies": [
+        "amazon"
+    ],
+    "workers": 40,
+    "tags": null,
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            41.84040105,
+            -87.68351928672685
+        ]
+    ],
+    "addresses": [
+        "Amazon Distribution, 2801, South Western Avenue, Lower West Side, Chicago, Cook County, Illinois, 60643, United States of America"
+    ]
 }

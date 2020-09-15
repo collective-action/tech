@@ -1,45 +1,61 @@
 {
-    "id": 248,
-    "date": "2020/03/30",
+    "id": 244,
+    "date": "2020/03/19",
     "sources": [
-        "https://www.cnn.com/2020/03/29/tech/amazon-workers-walkout-coronavirus/index.html",
-        "https://nypost.com/2020/03/30/coronavirus-in-ny-amazons-staten-island-employees-strike-over-response/",
-        "https://www.vice.com/en_us/article/4age5j/amazon-workers-in-new-york-are-striking-for-the-second-week-in-a-row-as-coronavirus-cases-pile-up"
+        "https://www.cnet.com/news/uber-lyft-drivers-demand-companies-do-more-to-protect-them-from-coronavirus/",
+        "https://www.sacbee.com/news/politics-government/capitol-alert/article241304131.html",
+        "https://www.forbes.com/sites/janetwburns/2020/03/19/drivers-protest-outside-uber-hq-for-covid-19-sick-leave-and-pay-under-california-law-ab5/#1d4e6af48f7a"
     ],
     "actions": [
-        "strike",
-        "protest"
+        "open letter"
     ],
     "struggles": [
         "working conditions",
-        "pay and benefits"
+        "unfair labor practices"
     ],
     "employment_types": [
-        "inhouse workers",
-        "blue collar workers"
+        "gig workers"
     ],
-    "description": "Amazon workers in Staten Island walked off the job to call for the company to temporarily close and sanitize the facilities following several positive tests for coronavirus among employees. The NY Post reported than more than 100 workers participated in the action. Vice has reported 62.",
+    "description": "As the novel coronavirus spreads around the world, Uber and Lyft drivers in California are asking both companies to do more to protect them. A coalition of drivers released a list of demands, signed by thousands, asking the ride-hailing services to take immediate steps to help ensure their safety. The demands include providing free COVID-19 screenings to all drivers, along with 14 days paid leave for all affected drivers. The drivers are organized with advocacy group Mobile Workers Alliance.",
     "online": null,
     "locations": [
-        "usa"
+        "san francisco-california-usa",
+        "los angeles-california-usa",
+        "san diego-california-usa"
     ],
     "companies": [
-        "amazon"
+        "lyft",
+        "uber"
     ],
-    "workers": 62,
+    "workers": 2000,
     "tags": [
         "coronavirus"
     ],
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
     "latlngs": [
         [
-            47.6142939,
-            -122.3239636
+            37.7509149,
+            -122.40246883416269
+        ],
+        [
+            37.7899898,
+            -122.3999799
+        ],
+        [
+            32.771334,
+            -117.0673605
+        ],
+        [
+            32.771334,
+            -117.0673605
         ]
     ],
     "addresses": [
-        "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
+        "Lyft, Kansas Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States of America",
+        "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "Uber / Lyft Driver Drop Off, 1, Campanile Mall, Montezuma Mesa, San Diego, San Diego County, California, 92115, United States of America",
+        "Uber / Lyft Driver Drop Off, 1, Campanile Mall, Montezuma Mesa, San Diego, San Diego County, California, 92115, United States of America"
     ]
 }

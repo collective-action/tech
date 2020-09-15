@@ -1,31 +1,29 @@
 {
-    "id": 291,
-    "date": "2020/06/23",
+    "id": 286,
+    "date": "2020/06/18",
     "sources": [
-        "https://www.npr.org/2020/06/23/881624553/pinterest-sounds-a-more-contrite-tone-after-black-former-employees-speak-out",
-        "https://twitter.com/IfeomaOzoma/status/1272546213322080258",
-        "https://twitter.com/erikashimizu/status/1272547227177713664"
+        "https://medium.com/@catalina.brennan.gatica/sign-on-open-letter-to-gig-companies-regarding-black-lives-matter-4b48420e238d"
     ],
     "actions": [
         "open letter"
     ],
     "struggles": [
-        "ethics",
-        "discrimination"
+        "ethics"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "Two former Pinterest employees, both Black women, spoke out on Twitter about the racism they experienced in the workplace. One of the employees, Ifeoma Ozoma, said she was not being fairly paid according to company data. She also said she had to come up with a list of pros to defend promoting former slave plantations for wedding venues. After speaking out, a white employee of the company doxxed her, placing her personal contact information online. He was fired soon after. Another former employee, Aerica Shimizu Ban, said her expenses with Black organizations had been repeatedly questioned.",
+    "description": "Gig Workers Rising organized an open letter from workers calling for economic justice from their employees, many of whom are Black and Brown, as a means of responding meaningfully to anti-racist protests. The letter calls out companies for releasing statements that \"have included various platitudes about your commitment to Racial Justice and the Black community\" without promising \"real change\". Among the demands are: (1) \"meaningful representation at work\", (2) \"benefits to take care of ourselves and our families\", (3) \"a living wage\", (4) and dropping the AB5 ballot measure. To date, the letter has received over 330 signatures.",
     "online": true,
-    "locations": [
-        "usa"
-    ],
+    "locations": null,
     "companies": [
-        "pinterest"
+        "uber",
+        "lyft",
+        "doordash",
+        "instacart",
+        "postmates"
     ],
-    "workers": 2,
+    "workers": 339,
     "tags": [
         "blm",
         "antiracism"
@@ -33,13 +31,6 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            37.774879,
-            -122.39893244999999
-        ]
-    ],
-    "addresses": [
-        "Pinterest, 149, Bluxome Street, South Beach, San Francisco, San Francisco City and County, California, 94017, United States of America"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

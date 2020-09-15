@@ -1,47 +1,36 @@
 {
-    "id": 137,
-    "date": "2019/05/08",
+    "id": 260,
+    "date": "2019/05/01",
     "sources": [
-        "https://www.washingtonpost.com/technology/2019/05/08/inside-facebook-second-class-workers-who-do-hardest-job-are-waging-quiet-battle/?noredirect=on&utm_term=.832acb00f260",
-        "https://www.washingtonpost.com/business/2019/05/13/facebook-raising-pay-support-services-thousands-contractors-content-moderators/?utm_term=.f0b4e7b4bf3e"
+        "https://www.vice.com/en_ca/article/gy4qew/foodora-couriers-want-to-be-among-first-gig-economy-workers-to-unionize-in-canada",
+        "https://www.globenewswire.com/news-release/2020/04/27/2022709/0/en/foodora-Canada-announces-plans-to-close-business-while-assuring-support-for-employees.html",
+        "https://www.thestar.com/business/2020/04/29/foodora-declares-bankruptcy-in-canada-leaving-47-million-in-debt.html"
     ],
     "actions": [
-        "protest"
+        "union drive"
     ],
     "struggles": [
+        "pay and benefits",
         "working conditions"
     ],
     "employment_types": [
-        "contract workers"
+        "gig workers"
     ],
-    "description": "But for the past seven months, roughly a dozen moderators in the United States have been spearheading a quiet campaign inside the social media giant to air their grievances about unsatisfactory working conditions and their status as second-class citizens. The contractors, who have not previously spoken publicly about their efforts, are using their access to Facebook Workplace, the social network\u2019s internal communication system, to wage their battle.",
+    "description": "Foodora couriers announced their intention to join a union of Canadian post workers and held a union drive. If successful, this would make Foodora workers the first app-based employees to unionize in Canada. In April 2020 the company announced its intention to leave the Canadian market and initiated bankruptcy proceedings, making the future of the business and the unionizing effort uncertain. ",
     "online": null,
     "locations": [
-        "usa"
+        "toronto-ontario-canada"
     ],
     "companies": [
-        "facebook",
-        "accenture"
+        "foodora"
     ],
-    "workers": 12,
+    "workers": 1000,
     "tags": [
-        "moderators"
+        "delivery_workers"
     ],
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
-    "latlngs": [
-        [
-            30.2691649,
-            -97.7455041
-        ],
-        [
-            37.3339398,
-            -121.8895142
-        ]
-    ],
-    "addresses": [
-        "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States of America",
-        "Accenture, 50, West San Fernando Street, Downtown Historic District, Buena Vista, San Jose, Santa Clara County, California, 95110, United States of America"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

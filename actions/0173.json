@@ -1,39 +1,31 @@
 {
-    "id": 171,
-    "date": "2019/08/14",
+    "id": 168,
+    "date": "2019/08/08",
     "sources": [
-        "https://medium.com/@no.gcp.for.cbp/google-must-stand-against-human-rights-abuses-nogcpforcbp-88c60e1fc35e",
-        "https://www.vox.com/2019/8/14/20805562/human-rights-concerns-google-employees-petition-cbp-ice"
+        "https://gizmodo.com/amazon-workers-strike-outside-eagan-minnesota-deliver-1837064265"
     ],
     "actions": [
-        "open letter"
+        "strike"
     ],
     "struggles": [
-        "ethics"
+        "working conditions"
     ],
     "employment_types": [
-        "white collar workers"
+        "blue collar workers"
     ],
-    "description": "Google employees are demanding an end to the company\u2019s work with agencies like CBP and ICE. Employees are circulating a petition asking the company not to bid on contracts with government agencies that enforce controversial immigration policies such as child detention.",
-    "online": true,
+    "description": "A group of Amazon employees protested outside the Eagan, Minnesota, warehouse Thursday morning. While past protests have focused on allegedly poor workplace conditions, the Eagan protest was to raise concerns about a lack of parking at the warehouse. This is an issue because these workers' cars can be towed and fined at a cost of hundreds of dollars for being double-parked.",
+    "online": null,
     "locations": [
-        "usa"
+        "eagan-minnesota-usa"
     ],
     "companies": [
-        "google"
+        "amazon"
     ],
-    "workers": 600,
+    "workers": 80,
     "tags": null,
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            42.3627717,
-            -71.087257
-        ]
-    ],
-    "addresses": [
-        "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

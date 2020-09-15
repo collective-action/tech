@@ -1,37 +1,40 @@
 {
-    "id": 293,
-    "date": "2020/06/09",
+    "id": 268,
+    "date": "2020/06/06",
     "sources": [
-        "https://www.wsws.org/en/articles/2020/06/12/braz-j12.html"
+        "https://www.buzzfeednews.com/article/carolineodonovan/facebook-contractors-say-they-were-punished-for-wanting-a"
     ],
     "actions": [
-        "protest",
-        "strike"
+        "protest"
     ],
     "struggles": [
-        "working conditions",
-        "pay and benefits"
+        "working conditions"
     ],
     "employment_types": [
-        "gig workers"
+        "contract workers"
     ],
-    "description": "Loggi delivery workers in Brazil went on strike starting June 9th to protest poor working conditions, including lack of protections against coronavirus, and low pay. Protestors also commemorated the death of a fellow worker, Thiago Coelho, who was killed in a motorcycle accident. ",
+    "description": "Contract workers for Facebook in Austin, Texas, say they have been retaliated against for union organizing, resulting in two workers\u2019 departure in recent weeks. The workers, who help Facebook find and triage internal bugs, are unhappy with their employer, the India-based firm WiPro, and have been organizing in the workplace to pressure both companies for improvements. Recently, two people involved in the organizing campaign who were vocal about these issues departed the company. Both had posted heated messages on an internal message board about the need to improve conditions for the contingent workers and encouraging remaining staff to support a union drive, and say their departures followed retaliation from WiPro. Since January, the Communication Workers of America (CWA) labor union has been promoting its Campaign to Organize Digital Employees (CODE). The organization is especially interested in organizing workers who, like the Austin-based contingent Facebook workers, perform work for major tech firms but aren\u2019t directly employed by them.",
     "online": null,
     "locations": [
-        "rio de janiero-brazil",
-        "s\u00e3o paulo-brazil"
+        "austin-texas-usa"
     ],
     "companies": [
-        "loggi"
+        "facebook"
     ],
     "workers": null,
     "tags": [
-        "coronavirus",
-        "delivery_workers"
+        "retaliation"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            30.2691649,
+            -97.7455041
+        ]
+    ],
+    "addresses": [
+        "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States of America"
+    ]
 }

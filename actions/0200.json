@@ -1,42 +1,32 @@
 {
-    "id": 198,
-    "date": "2019/10/04",
+    "id": 195,
+    "date": "2019/10/03",
     "sources": [
-        "https://www.bloomberg.com/news/articles/2019-10-10/microsoft-employees-call-to-end-github-ice-contract",
-        "https://www.businessinsider.com/microsoft-github-ice-contracts-solidarity-2019-10"
+        "https://www.vice.com/en_us/article/pa7qny/60-amazon-workers-walked-out-over-warehouse-working-conditions?f"
     ],
     "actions": [
-        "open letter"
+        "strike"
     ],
     "struggles": [
-        "ethics"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
-        "white collar workers"
+        "blue collar workers"
     ],
-    "description": "Microsoft employees are circulating a letter supporting an effort to get its GitHub subsidiary to cancel a contract with the U.S. Immigration and Customs Enforcement agency, the latest effort among tech-company staff to influence corporate policy on government work. The letter reflects concerns that Microsoft\u2019s sales to the agency implicate the software maker in the government\u2019s detention of immigrants. ",
-    "online": true,
+    "description": "Approximately 60 Amazon workers walked out of a delivery center in Eagan, Minnesota to demand increased wages, weight restrictions on boxes, and abolishing a cap on 30 hour workweeks. The strike lasted two and half hours until a manager promised to address concerns the following morning.",
+    "online": null,
     "locations": [
-        "usa"
+        "eagan-minnesota-usa"
     ],
     "companies": [
-        "microsoft"
+        "amazon"
     ],
-    "workers": 200,
-    "tags": [
-        "ice",
-        "industry_solidarity"
-    ],
+    "workers": 60,
+    "tags": null,
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
-    "latlngs": [
-        [
-            35.139622349999996,
-            -80.92306993327955
-        ]
-    ],
-    "addresses": [
-        "Microsoft, Yorkwood, Charlotte, Mecklenburg County, North Carolina, United States of America"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

@@ -1,36 +1,39 @@
 {
-    "id": 7,
-    "date": "1999/10/01",
+    "id": 5,
+    "date": "1998/11/23",
     "sources": [
-        "https://www.computerworld.com/article/3019552/ibm-union-calls-it-quits.html",
-        "https://www.nytimes.com/1985/07/17/us/union-plans-drive-to-organize-ibm.html?rref=collection%2ftimestopic%2fcommunications%20workers%20of%20america",
-        "https://cwa-union.org/news/entry/ibm_employees_and_cwa_launch_allianceibm"
+        "http://www.cnn.com/tech/computing/9811/23/mstemps.idg/"
     ],
     "actions": [
-        "union drive"
+        "legal action"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "unfair labor practices",
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers"
+        "contract workers"
     ],
-    "description": "The Communications Workers of America have renewed their drive to organize IBM employees. CWA previously attempted to unionize IBM in 1985. This time around the union started a new organization, Alliance @IBM. It reports that roughly 100 thousand of the company's 140 thousand workers are eligible for unionization. Union supporters have started outreach and leafletting efforts at multiple locations, including the Research Triangle in North Carolina. The new organization will work with the existing IBM Employee Benefits Action Coalition. This effort continued for the next seventeen years, until it was ended 2016. At its peak, the Alliance had 400 dues-paying members.",
+    "description": "A law firm representing 10 current and former contract workers at Microsoft Corp. filed a lawsuit in U.S. District Court on Tuesday against the software giant, seeking damages and full-time employee benefits for its plaintiffs and thousands of other 'misclassified' temporary employees. The 10 plaintiffs seek class-action status because they want to include some 6,000 current full-time Microsoft employees who have been 'misclassified as nonemployees' under 'various erroneous labels' and denied company benefits.",
     "online": null,
     "locations": [
-        "worldwide"
+        "usa"
     ],
     "companies": [
-        "ibm"
+        "microsoft"
     ],
-    "workers": null,
-    "tags": [
-        "cwa"
-    ],
+    "workers": 10,
+    "tags": null,
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            35.139622349999996,
+            -80.92306993327955
+        ]
+    ],
+    "addresses": [
+        "Microsoft, Yorkwood, Charlotte, Mecklenburg County, North Carolina, United States of America"
+    ]
 }

@@ -1,40 +1,41 @@
 {
-    "id": 136,
-    "date": "2019/05/08",
+    "id": 134,
+    "date": "2019/04/26",
     "sources": [
-        "https://www.nytimes.com/2019/05/08/technology/amazon-muslim-workers-complaint.html#click=https://t.co/9xmgnjlfoq"
+        "https://www.wired.com/story/dispute-googles-alleged-retaliation-intensifies/",
+        "https://www.bloomberg.com/news/articles/2019-04-26/google-staffers-share-350-stories-of-systemic-retaliation"
     ],
     "actions": [
-        "legal action"
+        "protest"
     ],
     "struggles": [
-        "discrimination"
+        "working conditions"
     ],
     "employment_types": [
-        "blue collar workers"
+        "white collar workers"
     ],
-    "description": "Three Muslim Somali Workers at Amazon File Federal Discrimination Complaint, accusing the company of creating a hostile environment for Muslim workers and of retaliating against them for protesting their work conditions. These are the same workers who in December of 2018 protested against Amazon.",
+    "description": "Meredith Whittaker and Claire Stapleton held a town hall for Google workers to discuss the retaliation they have faced from management for engaging in organizing, and to share more than a dozen other stories of retaliation they have gathered. The meeting was held in New York but live-streamed to Google offices elsewhere. This action involved hundreds of workers.",
     "online": null,
     "locations": [
-        "minneapolis-minnesota-usa"
+        "new york city-new york-usa"
     ],
     "companies": [
-        "amazon"
+        "google"
     ],
-    "workers": 3,
+    "workers": 200,
     "tags": [
         "retaliation"
     ],
     "author": [
-        "organizejs"
+        "bentarnoff"
     ],
     "latlngs": [
         [
-            44.9696354,
-            -93.2884766
+            40.7417176,
+            -74.0041592
         ]
     ],
     "addresses": [
-        "Wounded Amazon, Lyndale Avenue South, Loring Park, Minneapolis, Hennepin County, Minnesota, 55403, United States of America"
+        "Google, 111, 8th Avenue, Chelsea, Manhattan Community Board 2, Manhattan, New York County, New York, 10011, United States of America"
     ]
 }

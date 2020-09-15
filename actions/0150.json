@@ -1,43 +1,31 @@
 {
-    "id": 149,
-    "date": "2019/06/24",
+    "id": 146,
+    "date": "2019/06/13",
     "sources": [
-        "https://onezero.medium.com/a-group-of-microsoft-employees-is-fighting-the-companys-political-action-committee-7dae732290e3",
-        "https://politics.slashdot.org/story/19/06/24/1835230/a-group-of-microsoft-employees-is-fighting-the-companys-political-action-committee",
-        "https://www.geekwire.com/2019/internal-email-microsoft-suspends-pac-donations-temporarily-following-employee-uproar"
+        "https://www.japantimes.co.jp/news/2019/06/13/business/corporate-business/uber-eats-labor-union/#.xqpg-ohkgzm"
     ],
     "actions": [
-        "protest"
+        "union drive"
     ],
     "struggles": [
-        "ethics",
-        "discrimination"
+        "working conditions"
     ],
     "employment_types": [
-        "white collar workers"
+        "gig workers"
     ],
-    "description": "A group of more than 30 Microsoft employees is lobbying coworkers to stop donating to the company's political action committee in an effort to starve the PAC of funds. While Microsoft pitches itself as an inclusive and progressive company\u200a\u2014\u200aespecially during Pride Month, with tweets and donations to LGBTQ+ causes\u200a\u2014\u200aemployees who have donated to the PAC say they have no control over which candidates are being supported, meaning that they have no say when the PAC financially supports bigoted candidates. On July 2019, Microsoft has temporarily halted political donations through its political action committee after facing this backlash from employees.",
+    "description": "Food delivery staff working in Japan for ride-hailing company Uber Technologies Inc. said Wednesday they plan to form a labor union in a bid to improve what they see as disadvantageous treatment for being classified as independent contractors rather than employees.",
     "online": null,
     "locations": [
-        "seattle-washington-usa"
+        "tokyo-japan"
     ],
     "companies": [
-        "microsoft"
+        "uber"
     ],
-    "workers": 30,
-    "tags": [
-        "lgbtq"
-    ],
+    "workers": 50,
+    "tags": null,
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            47.5388725,
-            -122.2901728
-        ]
-    ],
-    "addresses": [
-        "Microsoft Gathering Hall, 7054, 32nd Avenue South, Columbia City, Holly Park, Seattle, King County, Washington, 98118, United States of America"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

@@ -1,43 +1,42 @@
 {
-    "id": 215,
-    "date": "2019/12/03",
+    "id": 212,
+    "date": "2019/11/25",
     "sources": [
-        "https://medium.com/@googlewalkout/google-fired-us-for-organizing-were-fighting-back-d0daa8113aed",
-        "https://www.bloomberg.com/news/articles/2019-12-03/google-s-thanksgiving-four-file-federal-labor-complaint",
-        "https://www.buzzfeednews.com/article/ryanmac/fired-google-employees-nlrb-investigation-cbp",
-        "https://www.bloomberg.com/news/articles/2019-12-04/google-retaliation-claims-spread-with-new-labor-board-filing"
+        "https://www.vox.com/the-goods/2019/11/27/20985691/amazon-workers-black-friday-2019",
+        "https://nypost.com/2019/11/25/workers-at-amazons-staten-island-warehouse-to-hold-rally-over-high-injury-rates/"
     ],
     "actions": [
-        "legal action"
+        "open letter",
+        "protest"
     ],
     "struggles": [
-        "unfair labor practices"
+        "working conditions",
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers"
+        "blue collar workers",
+        "inhouse workers"
     ],
-    "description": "Four recently fired Google engineers who were active in organizing within the company say they will push for a federal investigation into the search and advertising giant for unfair labor practices. In a medium post, the four former employees announced their intent to file charges with the National Labor Relations Board for what they allege was retaliation from the company against their roles in organizing workers. In the letter, they write: 'Last week, Google fired us for engaging in protected labor organizing.' Update: Complaint was officially filed with the NLRB.",
+    "description": "Over a hundred Amazon workers and their supporters gathered outside the facility to protest working conditions that they say only worsen as the e-tailing giant gears up to deliver a rush of packages ahead of Christmas and Hanukkah. 600 workers at an Amazon fulfillment center in New York signed a letter and protested working conditions. Amazon workers face injury rates over three times the industry average, and are asking for increased break time and better transit benefits.",
     "online": null,
     "locations": [
-        "usa"
+        "staten island-new york city-new york-usa"
     ],
     "companies": [
-        "google"
+        "amazon"
     ],
-    "workers": 4,
-    "tags": [
-        "retaliation"
-    ],
+    "workers": 600,
+    "tags": null,
     "author": [
-        "organizejs"
+        "ericandrewlewis"
     ],
     "latlngs": [
         [
-            42.3627717,
-            -71.087257
+            40.6193387,
+            -74.0727749
         ]
     ],
     "addresses": [
-        "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+        "Amazon Court, Staten Island, Richmond County, New York, 10304, United States of America"
     ]
 }

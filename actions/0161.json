@@ -1,42 +1,55 @@
 {
-    "id": 160,
-    "date": "2019/07/16",
+    "id": 157,
+    "date": "2019/07/13",
     "sources": [
-        "https://www.bbc.com/news/av/world-africa-49008968/uber-drivers-in-nairobi-explain-why-they-are-on-strike",
-        "https://www.businessdailyafrica.com/corporate/companies/digital-taxis-strike-enters-second-week/4003102-5206366-rbvf36/index.html"
+        "https://www.merca20.com/los-problemas-con-los-que-se-enfrentan-los-repartidores-de-comida-en-apps/",
+        "https://www.xataka.com.mx/aplicaciones/vacaciones-jubilacion-horario-flexible-que-repartidores-uber-eats-rappi-sindelantal-piden-al-ser-empleados-mexico"
     ],
     "actions": [
-        "strike"
+        "protest"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "working conditions",
+        "pay and benefits"
     ],
     "employment_types": [
+        "contract workers",
         "gig workers"
     ],
-    "description": "Rideshare drivers in Nairobi have gone on strike because of what they describe as low wages and poor working conditions. They are protesting unfair commissions from US-based Uber, Estonian firm Bold (formerly Taxify) and locally owned Little Cab. The strike entered its second week, continuing the protest over pitiable rates for the drivers.",
-    "online": null,
+    "description": "After increasing concerns about accident and death rates for delivery drivers, delivery workers across Mexico rallied under the hashtag #NiUnRepartidorMenos (translation: Not One Deliveryperson More). The workers have demanded better working conditions, and advocate that labor law better considers gig apps. They look to companies for improved insurance coverage, company protection from theft, and look to governments for fairer delivery driver licensing.  Workers in the movement have succeeded in meeting with several companies. ",
+    "online": true,
     "locations": [
-        "nairobi-kenya"
+        "mexico"
     ],
     "companies": [
+        "glovo",
         "uber",
-        "bolt",
-        "little_cab"
+        "rappi",
+        "sindelantal",
+        "didi_food"
     ],
-    "workers": 30,
+    "workers": 20000,
     "tags": null,
     "author": [
-        "organizejs"
+        "moates"
     ],
     "latlngs": [
         [
-            7.2077919,
-            38.613507
+            -34.5814605,
+            -58.4513731
+        ],
+        [
+            19.42437,
+            -99.168218
+        ],
+        [
+            47.2269198,
+            8.8245459
         ]
     ],
     "addresses": [
-        "Bolt, Addis Ababa to Nairobi road, \u1218\u120d\u12ab \u12a1\u12f3, \u123b\u1238\u1218\u1294 / Shashamane, East Shewa, \u12a6\u122e\u121a\u12eb \u12ad\u120d\u120d / Oromia, Ethiopia"
+        "Glovo, 3590, Avenida Federico Lacroze, Colegiales, Comuna 15, Ciudad Aut\u00f3noma de Buenos Aires, C1427EDN, Argentina",
+        "Uber, Calle Hamburgo, Cuauht\u00e9moc, Ciudad de M\u00e9xico, 06010, M\u00e9xico",
+        "Rapperswil, Wahlkreis See-Gaster, Sankt Gallen, 8640, Switzerland"
     ]
 }

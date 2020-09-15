@@ -1,31 +1,40 @@
 {
-    "id": 168,
-    "date": "2019/08/08",
+    "id": 166,
+    "date": "2019/07/26",
     "sources": [
-        "https://gizmodo.com/amazon-workers-strike-outside-eagan-minnesota-deliver-1837064265"
+        "https://www.technologyreview.com/s/614055/youtube-union-ig-metall-labor-gdpr-privacy-policy-creators/",
+        "https://www.fairtube.info/en/"
     ],
     "actions": [
-        "strike"
+        "union representation"
     ],
     "struggles": [
-        "working conditions"
+        "pay and benefits"
     ],
     "employment_types": [
-        "blue collar workers"
+        "gig workers"
     ],
-    "description": "A group of Amazon employees protested outside the Eagan, Minnesota, warehouse Thursday morning. While past protests have focused on allegedly poor workplace conditions, the Eagan protest was to raise concerns about a lack of parking at the warehouse. This is an issue because these workers' cars can be towed and fined at a cost of hundreds of dollars for being double-parked.",
-    "online": null,
+    "description": "YouTubers Union joined with German trade union, IG Metall, to launch the FairTube campaign. The campaign is calling for greater transparency into YouTube's monetization policy, individual responses to queries about videos that have been taken down by the site, creation of an independent mediation board, and formal representation from content creators in the company's decision-making process. In addition, FairTube has argued that YouTube's data collection policy for uploaded videos violates the GDPR. Leadership has given YouTube until Aug. 23rd to respond, threatening legal action if they fail to do so. YouTubers Union is designed to serve as a union for YouTube content creators and has over 20,000 Facebook members as of August 9th, 2019 but it is not clear how many are actively involved in the campaign. It does not require dues from its members.",
+    "online": true,
     "locations": [
-        "eagan-minnesota-usa"
+        "germany"
     ],
     "companies": [
-        "amazon"
+        "youtube",
+        "google"
     ],
-    "workers": 80,
+    "workers": null,
     "tags": null,
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            48.1386201,
+            11.5776179
+        ]
+    ],
+    "addresses": [
+        "Google, Hofgraben, Altstadt-Lehel, M\u00fcnchen, Bayern, 80331, Deutschland"
+    ]
 }

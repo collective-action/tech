@@ -1,46 +1,37 @@
 {
-    "id": 169,
-    "date": "2019/08/12",
+    "id": 272,
+    "date": "2019/08/01",
     "sources": [
-        "https://www.theverge.com/2019/8/12/20802893/whole-foods-employees-amazon-ice-protest-palantir-facial-recognition",
-        "https://thehill.com/policy/technology/457154-whole-foods-workers-denounce-amazon-ties-to-ice",
-        "https://docs.google.com/document/u/1/d/1v-ukklbicbgy-tckpkwy9dj_izdwu93g_frsr6yzv3m/mobilebasic"
+        "https://www.cbc.ca/news/canada/toronto/food-courier-union-1.5239414",
+        "https://www.cbc.ca/news/canada/toronto/foodora-union-vote-ends-1.5244950",
+        "https://nowtoronto.com/food-and-drink/food/foodora-union-ruling/",
+        "https://nowtoronto.com/food-and-drink/food/foodora-leaving-canada/"
     ],
     "actions": [
-        "protest"
+        "union representation"
     ],
     "struggles": [
-        "ethics"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
-        "blue collar workers"
+        "gig workers"
     ],
-    "description": "A group of anonymous Whole Foods workers denounced their parent company Amazon's ties to Immigration and Customs Enforcement (ICE) in an open letter. The letter from Whole Foods workers is the latest push from within Amazon, where workers have been protesting their employer's opaque relationship with ICE and the Department of Homeland Security (DHS) for more than a year. Whole Worker \u2014 the protest group of Whole Foods employees \u2014 is calling for Amazon to 'cease all business with Palantir and any other company involved in the continued oppression of marginalized groups.",
-    "online": true,
+    "description": "Foodora couriers in Toronto are preparing to vote on union certification in what could create Canada's first unionized workforce of app-based workers. An application by the Canadian Union of Postal Workers was filed last week with the Ontario Labour Relations Board, months after a campaign was launched that addressed working conditions. The union says couriers intend to negotiate a better compensation model, health and safety protections when workers are injured and recognition of basic rights of workers that aren't recognized by Foodora, which classifies them as independent contractors. Update: In February 2020, the Ontario Labour Relations Board rules that Foodora workers are dependent contractors and have the right to unionize. In April 2020, Foodora announced it was pulling out of the Canadian market. ",
+    "online": null,
     "locations": [
-        "usa"
+        "toronto-ontario-canada"
     ],
     "companies": [
-        "amazon",
-        "whole_foods"
+        "foodera"
     ],
     "workers": null,
-    "tags": null,
+    "tags": [
+        "delivery_workers"
+    ],
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
-    "latlngs": [
-        [
-            47.6142939,
-            -122.3239636
-        ],
-        [
-            32.815940350000005,
-            -96.75223175473414
-        ]
-    ],
-    "addresses": [
-        "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America",
-        "WholeFoods, 2118, Abrams Road, Dallas, Dallas County, Texas, 75214:75243, United States of America"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

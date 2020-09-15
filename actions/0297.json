@@ -1,41 +1,45 @@
 {
-    "id": 312,
-    "date": "2020/08/12",
+    "id": 307,
+    "date": "2020/07/26",
     "sources": [
-        "https://qz.com/1894241/belaruss-crackdown-could-squash-minsks-budding-tech-sector/",
-        "https://dev.by/news/otkrytoe-pismo-it-kompanii"
+        "https://www.msn.com/en-us/news/us/boycott-continues-against-cambridge-whole-foods-that-sent-employees-home-for-black-lives-matter-masks/ar-BB16mPY2"
     ],
     "actions": [
-        "open letter"
+        "protest",
+        "strike"
     ],
     "struggles": [
+        "unfair labor practices",
         "ethics"
     ],
     "employment_types": [
-        "white collar workers",
         "inhouse workers",
-        "contract workers"
+        "blue collar workers"
     ],
-    "description": "Over 2,900 Belarusian tech workers, including top level management and investors, publicly signed onto an open letter calling the recent presidential elections a fraud. Signatories threatened to relocate their offices and investments outside of Belarus, stating that the atmosphere of fear and suppression was not conducive to a thriving technology sector. The letter denounced anti-democratic measures taken by the government, including the arrests of protesters and widespread Internet outages, and called for new elections, the release of those arrested, and freedom of press in the country. ",
-    "online": true,
+    "description": "Whole Foods employees and local residents protested in front of a Cambridge location that turned away seven employees on June 25th for wearing masks with \"Black Lives Matter\" slogans. The event is part of a larger boycott that has been ongoing since the incident. Suverino Frith, one of the seven employees, spoke at the event and called on the company to live up to their \"core values\". ",
+    "online": null,
     "locations": [
-        "belarus"
+        "cambridge-massachusetts-usa"
     ],
-    "companies": null,
-    "workers": 2900,
+    "companies": [
+        "whole_foods",
+        "amazon"
+    ],
+    "workers": null,
     "tags": [
-        "politics"
+        "antiracism",
+        "blm"
     ],
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            53.4250605,
-            27.6971358
+            42.3651852,
+            -71.1042178
         ]
     ],
     "addresses": [
-        "\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c"
+        "Amazon Pickup, 1, Magazine Street, Central Square, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02139, United States of America"
     ]
 }

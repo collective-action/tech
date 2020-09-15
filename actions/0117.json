@@ -1,36 +1,40 @@
 {
-    "id": 116,
-    "date": "2019/02/18",
+    "id": 114,
+    "date": "2019/01/18",
     "sources": [
-        "https://clb.org.hk/content/food-delivery-drivers-strike-protest-post-new-year-pay-cuts"
+        "https://www.theguardian.com/technology/2019/jan/18/oracle-women-workers-lawsuit-salaries-pay"
     ],
     "actions": [
-        "strike"
+        "legal action"
     ],
     "struggles": [
-        "pay and benefits"
+        "discrimination"
     ],
     "employment_types": [
-        "gig workers"
+        "na"
     ],
-    "description": "Food delivery workers in at least five cities across China have staged a series of strikes protesting arbitrary reductions in pay rates introduced after the Lunar New Year Holiday. Workers for both major food delivery platforms, Meituan and Ele.me, stopped taking orders starting in February.",
+    "description": "Attorneys seek to represent more than 4,200 women in a lawsuit against Oracle that alleged that female employees were paid on average $13,000 less per year than men doing similar work. An analysis of payroll data found disparities with an 'extraordinarily high degree of statistical significance', the complaint said. Women made 3.8% less in base salaries on average than men in the same job categories, 13.2% less in bonuses, and 33.1% less in stock value, it alleges.",
     "online": null,
     "locations": [
-        "linyi-china",
-        "dongguan-china",
-        "jinan-china",
-        "pinghu-china",
-        "qingdao-china"
+        "redwood shores-california-usa"
     ],
     "companies": [
-        "meituan",
-        "ele.me"
+        "oracle"
     ],
-    "workers": null,
-    "tags": null,
+    "workers": 4200,
+    "tags": [
+        "sexism"
+    ],
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.53094035,
+            -122.2634054811483
+        ]
+    ],
+    "addresses": [
+        "Oracle, 400, Oracle Parkway, Redwood Shores, Redwood City, San Mateo County, California, 94065, United States of America"
+    ]
 }

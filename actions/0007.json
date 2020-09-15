@@ -1,42 +1,28 @@
 {
-    "id": 6,
-    "date": "1999/06/04",
+    "id": 4,
+    "date": "1994/01/24",
     "sources": [
-        "https://www.latimes.com/archives/la-xpm-1999-jun-04-fi-44011-story.html",
-        "https://www.questia.com/newspaper/1p2-32575557/the-seeds-of-a-high-tech-union-sprout-in-washington"
+        "https://www.nytimes.com/1994/06/12/magazine/battle-of-the-clipper-chip.html",
+        "http://cpsr.org/prevsite/program/clipper/clipper.html/"
     ],
     "actions": [
-        "union drive"
+        "open letter"
     ],
     "struggles": [
-        "pay and benefits"
+        "ethics"
     ],
     "employment_types": [
-        "white collar workers",
-        "contract workers"
+        "white collar workers"
     ],
-    "description": "A group of temporary workers at Microsoft that includes accountants and lawyers has organized into a bargaining unit and is asking for representation through a local union, the Washington Alliance of Technology Workers. The employees expressed frustration at their status as contract workers, citing a lack of benefits as a motivating factor for the unionization attempt.",
-    "online": null,
-    "locations": [
-        "seattle-washington-usa"
-    ],
-    "companies": [
-        "microsoft"
-    ],
-    "workers": 16,
-    "tags": [
-        "washtech"
-    ],
+    "description": "Computer Professionals for Social Responsibility (CPSR) launches an online petition in opposition to the Clipper Chip, a cryptographic device intended to provide a standard for securing private voice communication. The group expresses concern about the possibility of surveillance through decryption keys held by government agencies. The petition obtains over 50,000 signatures. An earlier physical letter, sent directly to the President, received 40 signatures from cryptography and computing experts.",
+    "online": true,
+    "locations": null,
+    "companies": null,
+    "workers": 50000,
+    "tags": null,
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            47.5388725,
-            -122.2901728
-        ]
-    ],
-    "addresses": [
-        "Microsoft Gathering Hall, 7054, 32nd Avenue South, Columbia City, Holly Park, Seattle, King County, Washington, 98118, United States of America"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

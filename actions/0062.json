@@ -1,41 +1,40 @@
 {
-    "id": 61,
-    "date": "2016/12/03",
+    "id": 59,
+    "date": "2016/10/05",
     "sources": [
-        "https://www.thestreet.com/story/13906592/1/why-uber-faces-a-day-of-protests-on-tuesday-tech-roundup.html"
+        "https://www.thenation.com/article/the-silicon-valley-union-victories-you-havent-heard-of/"
     ],
     "actions": [
-        "protest"
+        "union representation"
     ],
     "struggles": [
         "pay and benefits",
         "working conditions"
     ],
     "employment_types": [
-        "gig workers"
+        "blue collar workers",
+        "contract workers"
     ],
-    "description": "Uber drivers in 20 cities join the Fight for $15 movement, boycotting the app for one day to protest wages.",
+    "description": "Intel cafeteria workers voted to unionize joining forces with Unite Here Local 19.",
     "online": null,
     "locations": [
-        "usa"
+        "santa clara-california-usa"
     ],
     "companies": [
-        "uber"
+        "intel"
     ],
-    "workers": null,
-    "tags": [
-        "drivers"
-    ],
+    "workers": 43,
+    "tags": null,
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            37.7899898,
-            -122.3999799
+            37.389317899999995,
+            -121.97901174515997
         ]
     ],
     "addresses": [
-        "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America"
+        "McAfee, Mission College Boulevard, Santa Clara, Santa Clara County, California, 95054-1231, United States of America"
     ]
 }

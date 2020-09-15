@@ -1,38 +1,40 @@
 {
-    "id": 13,
-    "date": "2007/07/14",
+    "id": 11,
+    "date": "2004/09/29",
     "sources": [
-        "https://www.bloomberg.com/news/articles/2007-07-13/the-gandhi-protestsbusinessweek-business-news-stock-market-and-financial-advice"
+        "http://www.nbcnews.com/id/6134119/ns/business-us_business/t/ibm-reaches-partial-pension-settlement/",
+        "https://www.nytimes.com/2006/01/06/business/worldbusiness/06iht-ibm.html"
     ],
     "actions": [
-        "protest"
+        "legal action"
     ],
     "struggles": [
-        "job security"
+        "discrimination",
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers"
+        "na"
     ],
-    "description": "Approximately a thousand foreign tech workers protested US H1B visa caps on the streets of San Jose. A shortage of visas has created difficult conditions for workers.",
+    "description": "IBM employees launched a class-action lawsuit against the company, alleging they faced age discrimation when they were forced to transition from a traditional pension plan to a cash balance plan. The company paid $320 million to settle with 15,000 employees. A federal judge ruled in favor of employees but the company launched an appeals process that dragged on until 2006 when they officially froze pension plans.",
     "online": null,
     "locations": [
-        "san jose-california-usa"
+        "usa"
     ],
-    "companies": null,
-    "workers": 1000,
-    "tags": [
-        "immigration"
+    "companies": [
+        "ibm"
     ],
+    "workers": 140000,
+    "tags": null,
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            37.3361905,
-            -121.8905833
+            44.05795005,
+            -92.50701462052399
         ]
     ],
     "addresses": [
-        "San Jose, Santa Clara County, California, United States of America"
+        "IBM, Rochester, Olmsted County, Minnesota, 55901:55960, United States of America"
     ]
 }

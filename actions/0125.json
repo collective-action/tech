@@ -1,38 +1,32 @@
 {
-    "id": 124,
-    "date": "2019/03/28",
+    "id": 122,
+    "date": "2019/03/25",
     "sources": [
-        "https://github.com/996icu/996.icu/",
-        "https://radiichina.com/github-protest-chinese-tech-996/",
-        "https://www.ft.com/content/72754638-55d1-11e9-91f9-b6515a54c5b1"
+        "https://www.vox.com/2019/3/25/18280718/uber-lyft-drivers-strike-la-los-angeles"
     ],
     "actions": [
-        "open letter"
+        "strike"
     ],
     "struggles": [
-        "working conditions"
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers"
+        "gig workers"
     ],
-    "description": "A campaign against long working hours by professionals in China's technology sector has become one of the fastest growing Github repository in Github's history. The 'anti-996' campaign opposes employees working shifts of 9am-9pm, six days a week, which are commonly required by the country's tech giants.",
-    "online": true,
+    "description": "Uber and Lyft drivers in Los Angeles are refusing to pick up customers today \u2014 part of a one-day strike to protest Uber's recent decision to slash pay rates for drivers in the area.",
+    "online": null,
     "locations": [
-        "china"
+        "los angeles-california-usa"
     ],
-    "companies": null,
-    "workers": 241000,
+    "companies": [
+        "uber",
+        "lyft"
+    ],
+    "workers": 100,
     "tags": null,
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            35.000074,
-            104.999927
-        ]
-    ],
-    "addresses": [
-        "\u4e2d\u56fd"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

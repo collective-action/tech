@@ -78,6 +78,75 @@
         "addresses": null
     },
     {
+        "id": 322,
+        "date": "1970/12/01",
+        "sources": [
+            "https://archive.scienceforthepeople.org/vol-6/v6n6/computer-workers-as-professionals/"
+        ],
+        "actions": [
+            "union drive"
+        ],
+        "struggles": [
+            "unfair labor practices"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "blue collar workers"
+        ],
+        "description": "The Committee to Plan a Computer Union meets to plan an \"industry-wide, all-inclusive union which would span the gap between professionals (programmers/ analysts/operators) and non-professionals (key-punch operators/tape-handlers)\". While the plans were not realized, it is one of the first known attempts at unionizing in the computer technology industry.",
+        "online": null,
+        "locations": [
+            "new york city-new york-usa"
+        ],
+        "companies": null,
+        "workers": null,
+        "tags": null,
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": [
+            [
+                40.7127281,
+                -74.0060152
+            ]
+        ],
+        "addresses": [
+            "New York, United States of America"
+        ]
+    },
+    {
+        "id": 323,
+        "date": "1973/01/01",
+        "sources": [
+            "https://archive.scienceforthepeople.org/vol-8/v8n1/rumblings-of-organizing-in-silicon-valley/"
+        ],
+        "actions": [
+            "union drive"
+        ],
+        "struggles": [
+            "unfair labor practices"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "Workers at Silicon Valley conglomerate Smith-Corona-Marchant (S.C.M.) held a unionizing drive and a hearing with the National Labor Relations Board. The ultimately gained enough votes to continue forward with an NLRB election before losing momentum due to anti-unionizing efforts from company management.  ",
+        "online": null,
+        "locations": [
+            "california-usa"
+        ],
+        "companies": [
+            "smith-corona-marchant"
+        ],
+        "workers": 50,
+        "tags": null,
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
         "id": 1,
         "date": "1979/09/01",
         "sources": [
@@ -141,12 +210,12 @@
         ],
         "latlngs": [
             [
-                45.5733162,
-                -122.5587111463347
+                36.5793042,
+                -87.4088336
             ]
         ],
         "addresses": [
-            "AT&T, 10025, Northeast Cascades Parkway, Portland, Multnomah County, Oregon, 97220, United States of America"
+            "AT&T, 1661F, Fort Campbell Boulevard, New Providence, Clarksville, Montgomery County, Tennessee, 37042, United States of America"
         ]
     },
     {
@@ -1984,12 +2053,12 @@
         ],
         "latlngs": [
             [
-                40.7438954,
-                -73.9850741
+                40.704814,
+                -74.0064246
             ]
         ],
         "addresses": [
-            "WeWork, 27, East 28th Street, Rose Hill, New York County, Manhattan Community Board 5, New York, 10016, United States of America"
+            "WeWork, 110, Wall Street, Financial District, Manhattan Community Board 1, Manhattan, New York County, New York, 10005, United States of America"
         ]
     },
     {
@@ -2292,12 +2361,12 @@
         ],
         "latlngs": [
             [
-                40.7859179,
-                -73.9849146
+                40.65532605,
+                -73.79478942223645
             ]
         ],
         "addresses": [
-            "Yachthafen(Blick \u00fcber New Yersey), Riverside Walk, Upper West Side, New York County, Manhattan Community Board 7, New York, 10069, United States of America"
+            "Uber Limo Livery Hold Lot, Cargo Plaza Road, Queens, Queens County, New York, 11430, United States of America"
         ]
     },
     {
@@ -2786,13 +2855,13 @@
                 -117.83605415
             ],
             [
-                39.5276588,
-                -119.862383
+                36.1269453,
+                -115.1689215
             ]
         ],
         "addresses": [
             "AT&T, 1302, North Tustin Street, Orange, Orange County, California, 92867, United States of America",
-            "AT&T, North McCarran Boulevard, Reno, Washoe County, Nevada, 89523, United States of America"
+            "AT&T, South Las Vegas Boulevard, Hughes Center, Paradise, Clark County, Nevada, 89123, United States of America"
         ]
     },
     {
@@ -2963,7 +3032,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, 72, Spring Street, Manhattan, New York County, New York, 10013, United States of America"
+            "Amazon, 72, Spring Street, Little Italy, Manhattan Community Board 2, Manhattan, New York County, New York, 10013, United States of America"
         ]
     },
     {
@@ -3990,7 +4059,7 @@
         ],
         "addresses": [
             "Uber, 2, Leman Street, Spitalfields, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, E1 8FA, United Kingdom",
-            "UBER, 100, Broad Street, Ladywood, Birmingham, West Midlands Combined Authority, England, B15 1AE, United Kingdom"
+            "UBER, 100, Broad Street, Ladywood, Birmingham, West Midlands Combined Authority, West Midlands, England, B15 1AE, United Kingdom"
         ]
     },
     {
@@ -4283,7 +4352,7 @@
         ],
         "addresses": [
             "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America",
-            "Google, 555, \u8ed2\u5c3c\u8a69\u9053 Hennessy Road, \u6469\u5229\u81e3\u5c71 Morrison Hill, \u9285\u947c\u7063 Causeway Bay, \u4e2d\u5340 Central District, \u9999\u6e2f\u5cf6 Hong Kong Island, \u7063\u4ed4\u5340 Wan Chai District, \u9999\u6e2f Hong Kong, China \u4e2d\u56fd"
+            "Google, 555, \u8ed2\u5c3c\u8a69\u9053 Hennessy Road, \u6469\u5229\u81e3\u5c71 Morrison Hill, \u9285\u947c\u7063 Causeway Bay, \u4e2d\u5340 Central District, \u9999\u6e2f\u5cf6 Hong Kong Island, \u9999\u6e2f Hong Kong, China \u4e2d\u56fd"
         ]
     },
     {
@@ -4319,12 +4388,12 @@
         ],
         "latlngs": [
             [
-                40.7859179,
-                -73.9849146
+                40.65532605,
+                -73.79478942223645
             ]
         ],
         "addresses": [
-            "Yachthafen(Blick \u00fcber New Yersey), Riverside Walk, Upper West Side, New York County, Manhattan Community Board 7, New York, 10069, United States of America"
+            "Uber Limo Livery Hold Lot, Cargo Plaza Road, Queens, Queens County, New York, 11430, United States of America"
         ]
     },
     {
@@ -4820,7 +4889,7 @@
             ]
         ],
         "addresses": [
-            "Kickstarter HQ, West Street, Brooklyn, New York, 11222, United States of America"
+            "Kickstarter HQ, West Street, Brooklyn, Kings County, New York, 11222, United States of America"
         ]
     },
     {
@@ -5335,8 +5404,44 @@
             ]
         ],
         "addresses": [
-            "Google, 111, 8th Avenue, Chelsea, New York County, Manhattan Community Board 5, New York, 10011, United States of America"
+            "Google, 111, 8th Avenue, Chelsea, Manhattan Community Board 2, Manhattan, New York County, New York, 10011, United States of America"
         ]
+    },
+    {
+        "id": 260,
+        "date": "2019/05/01",
+        "sources": [
+            "https://www.vice.com/en_ca/article/gy4qew/foodora-couriers-want-to-be-among-first-gig-economy-workers-to-unionize-in-canada",
+            "https://www.globenewswire.com/news-release/2020/04/27/2022709/0/en/foodora-Canada-announces-plans-to-close-business-while-assuring-support-for-employees.html",
+            "https://www.thestar.com/business/2020/04/29/foodora-declares-bankruptcy-in-canada-leaving-47-million-in-debt.html"
+        ],
+        "actions": [
+            "union drive"
+        ],
+        "struggles": [
+            "pay and benefits",
+            "working conditions"
+        ],
+        "employment_types": [
+            "gig workers"
+        ],
+        "description": "Foodora couriers announced their intention to join a union of Canadian post workers and held a union drive. If successful, this would make Foodora workers the first app-based employees to unionize in Canada. In April 2020 the company announced its intention to leave the Canadian market and initiated bankruptcy proceedings, making the future of the business and the unionizing effort uncertain. ",
+        "online": null,
+        "locations": [
+            "toronto-ontario-canada"
+        ],
+        "companies": [
+            "foodora"
+        ],
+        "workers": 1000,
+        "tags": [
+            "delivery_workers"
+        ],
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 135,
@@ -6024,7 +6129,7 @@
             ]
         ],
         "addresses": [
-            "Wayfair, 222, Berkeley Street, Block A, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States of America"
+            "Wayfair, 222, Berkeley Street, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States of America"
         ]
     },
     {
@@ -6143,7 +6248,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, 72, Spring Street, Manhattan, New York County, New York, 10013, United States of America"
+            "Amazon, 72, Spring Street, Little Italy, Manhattan Community Board 2, Manhattan, New York County, New York, 10013, United States of America"
         ]
     },
     {
@@ -6276,8 +6381,8 @@
             ]
         ],
         "addresses": [
-            "Glovo, 3590, Avenida Federico Lacroze, Colegiales, Buenos Aires, Ciudad Aut\u00f3noma de Buenos Aires, Comuna 15, C1427EDN, Argentina",
-            "Uber, Calle Hamburgo, Cuauht\u00e9moc, Ciudad de M\u00e9xico, 06600, M\u00e9xico",
+            "Glovo, 3590, Avenida Federico Lacroze, Colegiales, Comuna 15, Ciudad Aut\u00f3noma de Buenos Aires, C1427EDN, Argentina",
+            "Uber, Calle Hamburgo, Cuauht\u00e9moc, Ciudad de M\u00e9xico, 06010, M\u00e9xico",
             "Rapperswil, Wahlkreis See-Gaster, Sankt Gallen, 8640, Switzerland"
         ]
     },
@@ -7749,7 +7854,7 @@
             ]
         ],
         "addresses": [
-            "Kickstarter HQ, West Street, Brooklyn, New York, 11222, United States of America"
+            "Kickstarter HQ, West Street, Brooklyn, Kings County, New York, 11222, United States of America"
         ]
     },
     {
@@ -8343,8 +8448,8 @@
             "Google, Mountain View, Santa Clara County, California, United States of America",
             "WeWork, 1161, Mission Street, West SoMa, San Francisco, San Francisco City and County, California, 94103, United States of America",
             "Facebook, San Francisco Bay Trail, Menlo Park, San Mateo County, California, 94025-1246, United States of America",
-            "Kickstarter HQ, West Street, Brooklyn, New York, 11222, United States of America",
-            "WeWork, Market Street, Brooklyn Navy Yard, Brooklyn, New York, 11251, United States of America"
+            "Kickstarter HQ, West Street, Brooklyn, Kings County, New York, 11222, United States of America",
+            "WeWork, Market Street, Brooklyn Navy Yard, Brooklyn, Kings County, New York, 11251, United States of America"
         ]
     },
     {
@@ -8560,12 +8665,12 @@
         ],
         "latlngs": [
             [
-                40.6194923,
-                -74.0729948
+                40.6193387,
+                -74.0727749
             ]
         ],
         "addresses": [
-            "Amazon Court, Clifton, Richmond County, New York, 10304, United States of America"
+            "Amazon Court, Staten Island, Richmond County, New York, 10304, United States of America"
         ]
     },
     {
@@ -9018,6 +9123,47 @@
         ]
     },
     {
+        "id": 324,
+        "date": "2020/01/01",
+        "sources": [
+            "https://www.reuters.com/article/us-hongkong-protests-unions/hong-kong-workers-flock-to-labor-unions-as-new-protest-tactic-idUSKBN1Z9007",
+            "https://www.hkitwu.org/about-us/",
+            "https://www.hkitwu.org/2020/01/3630/"
+        ],
+        "actions": [
+            "union representation"
+        ],
+        "struggles": [
+            "unfair labor practices"
+        ],
+        "employment_types": [
+            "white collar workers"
+        ],
+        "description": "The Hong Kong Information Technology Workers\u2019 Union form out of the 2019 Hong Kong movement, and is developing a database of employers who do not threaten or dismiss employees for political protests. Reuters reports that unionizing in Hong Kong has grown since anti-extradition protests began last year. Organizers see unions as a means of protecting politically engaged workers from retaliation. ",
+        "online": null,
+        "locations": [
+            "hong kong-china"
+        ],
+        "companies": null,
+        "workers": 280,
+        "tags": [
+            "trade union",
+            "politics"
+        ],
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": [
+            [
+                22.2793278,
+                114.1628131
+            ]
+        ],
+        "addresses": [
+            "\u9999\u6e2f\u5cf6 Hong Kong Island, \u9999\u6e2f Hong Kong, China \u4e2d\u56fd"
+        ]
+    },
+    {
         "id": 224,
         "date": "2020/01/13",
         "sources": [
@@ -9325,7 +9471,7 @@
             ]
         ],
         "addresses": [
-            "Kickstarter HQ, West Street, Brooklyn, New York, 11222, United States of America"
+            "Kickstarter HQ, West Street, Brooklyn, Kings County, New York, 11222, United States of America"
         ]
     },
     {
@@ -9417,8 +9563,8 @@
             ]
         ],
         "addresses": [
-            "Amazon, 72, Spring Street, Manhattan, New York County, New York, 10013, United States of America",
-            "Amazon Fulfillment Center DIL7, 3639, West Howard Street, Skokie, Cook County, Illinois, 60076, United States of America",
+            "Amazon, 72, Spring Street, Little Italy, Manhattan Community Board 2, Manhattan, New York County, New York, 10013, United States of America",
+            "Amazon Fulfillment Center DIL7, 3639, West Howard Street, Skokie, Niles Township, Cook County, Illinois, 60076, United States of America",
             "Amazon Avenue, Sacramento, Sacramento County, California, 95835, United States of America"
         ]
     },
@@ -9675,7 +9821,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, 72, Spring Street, Manhattan, New York County, New York, 10013, United States of America"
+            "Amazon, 72, Spring Street, Little Italy, Manhattan Community Board 2, Manhattan, New York County, New York, 10013, United States of America"
         ]
     },
     {
@@ -9938,19 +10084,19 @@
                 -122.3999799
             ],
             [
-                32.7717259,
-                -117.0725274
+                32.771334,
+                -117.0673605
             ],
             [
-                32.7717259,
-                -117.0725274
+                32.771334,
+                -117.0673605
             ]
         ],
         "addresses": [
             "Lyft, Kansas Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States of America",
             "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
-            "UBER / Lyft Driver Drop Off, 1, Campanile Mall, Montezuma Mesa, San Diego, San Diego County, California, 92182, United States of America",
-            "UBER / Lyft Driver Drop Off, 1, Campanile Mall, Montezuma Mesa, San Diego, San Diego County, California, 92182, United States of America"
+            "Uber / Lyft Driver Drop Off, 1, Campanile Mall, Montezuma Mesa, San Diego, San Diego County, California, 92115, United States of America",
+            "Uber / Lyft Driver Drop Off, 1, Campanile Mall, Montezuma Mesa, San Diego, San Diego County, California, 92115, United States of America"
         ]
     },
     {
@@ -10078,12 +10224,12 @@
         ],
         "latlngs": [
             [
-                40.6194923,
-                -74.0729948
+                40.6193387,
+                -74.0727749
             ]
         ],
         "addresses": [
-            "Amazon Court, Clifton, Richmond County, New York, 10304, United States of America"
+            "Amazon Court, Staten Island, Richmond County, New York, 10304, United States of America"
         ]
     },
     {
@@ -10333,12 +10479,12 @@
         ],
         "latlngs": [
             [
-                40.6194923,
-                -74.0729948
+                40.6193387,
+                -74.0727749
             ]
         ],
         "addresses": [
-            "Amazon Court, Clifton, Richmond County, New York, 10304, United States of America"
+            "Amazon Court, Staten Island, Richmond County, New York, 10304, United States of America"
         ]
     },
     {
@@ -10382,7 +10528,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, 72, Spring Street, Manhattan, New York County, New York, 10013, United States of America"
+            "Amazon, 72, Spring Street, Little Italy, Manhattan Community Board 2, Manhattan, New York County, New York, 10013, United States of America"
         ]
     },
     {
@@ -10568,7 +10714,7 @@
             "iFood, 1496, Avenida dos Autonomistas, Osasco, Regi\u00e3o Imediata de S\u00e3o Paulo, Regi\u00e3o Metropolitana de S\u00e3o Paulo, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de S\u00e3o Paulo, S\u00e3o Paulo, Regi\u00e3o Sudeste, 06020-010, Brasil",
             "Parque Uber, Jardim Bot\u00e2nico, Ribeir\u00e3o Preto, Regi\u00e3o Imediata de Ribeir\u00e3o Preto, Regi\u00e3o Metropolitana de Ribeir\u00e3o Preto, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Ribeir\u00e3o Preto, S\u00e3o Paulo, Regi\u00e3o Sudeste, Brasil",
             "Cristian Uber, Hinojo, Partido de Olavarr\u00eda, Buenos Aires, 7318, Argentina",
-            "Glovo, 3590, Avenida Federico Lacroze, Colegiales, Buenos Aires, Ciudad Aut\u00f3noma de Buenos Aires, Comuna 15, C1427EDN, Argentina"
+            "Glovo, 3590, Avenida Federico Lacroze, Colegiales, Comuna 15, Ciudad Aut\u00f3noma de Buenos Aires, C1427EDN, Argentina"
         ]
     },
     {
@@ -10689,7 +10835,7 @@
             ]
         ],
         "addresses": [
-            "\u534e\u4e3a\u6280\u672f\u6709\u9650\u516c\u53f8, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518100, China \u4e2d\u56fd"
+            "\u534e\u4e3a\u6280\u672f\u6709\u9650\u516c\u53f8, \u9f99\u5c97\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518100, China \u4e2d\u56fd"
         ]
     },
     {
@@ -10761,42 +10907,6 @@
         "tags": [
             "international_solidarity",
             "coronavirus"
-        ],
-        "author": [
-            "nataliyaned"
-        ],
-        "latlngs": null,
-        "addresses": null
-    },
-    {
-        "id": 260,
-        "date": "2020/05/01",
-        "sources": [
-            "https://www.vice.com/en_ca/article/gy4qew/foodora-couriers-want-to-be-among-first-gig-economy-workers-to-unionize-in-canada",
-            "https://www.globenewswire.com/news-release/2020/04/27/2022709/0/en/foodora-Canada-announces-plans-to-close-business-while-assuring-support-for-employees.html",
-            "https://www.thestar.com/business/2020/04/29/foodora-declares-bankruptcy-in-canada-leaving-47-million-in-debt.html"
-        ],
-        "actions": [
-            "union drive"
-        ],
-        "struggles": [
-            "pay and benefits",
-            "working conditions"
-        ],
-        "employment_types": [
-            "gig workers"
-        ],
-        "description": "Foodora couriers announced their intention to join a union of Canadian post workers and held a union drive. If successful, this would make Foodora workers the first app-based employees to unionize in Canada. In April 2020 the company announced its intention to leave the Canadian market and initiated bankruptcy proceedings, making the future of the business and the unionizing effort uncertain. ",
-        "online": null,
-        "locations": [
-            "toronto-ontario-canada"
-        ],
-        "companies": [
-            "foodora"
-        ],
-        "workers": 1000,
-        "tags": [
-            "delivery_workers"
         ],
         "author": [
             "nataliyaned"
@@ -10902,7 +11012,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, 72, Spring Street, Manhattan, New York County, New York, 10013, United States of America",
+            "Amazon, 72, Spring Street, Little Italy, Manhattan Community Board 2, Manhattan, New York County, New York, 10013, United States of America",
             "Amazon PDX7, 4775, Depot Court, Salem, Marion County, Oregon, 97317, United States of America"
         ]
     },
@@ -10947,7 +11057,7 @@
         ],
         "addresses": [
             "\u4e2d\u6587\u5802, 274, \u9038\u4ed9\u8def, \u65b0\u6e2f\u8857\u9053, \u6d77\u73e0\u533a, \u5e7f\u5dde\u5e02, \u5e7f\u4e1c\u7701, 510105, China \u4e2d\u56fd",
-            "\u817e\u8baf\u6ee8\u6d77\u5927\u53a6, 33\u53f7, \u7ca4\u6d77\u8857\u9053, \u5357\u5c71\u533a, \u5e7f\u4e1c\u7701, 518054, China \u4e2d\u56fd"
+            "\u817e\u8baf\u6ee8\u6d77\u5927\u53a6, 33\u53f7, \u7ca4\u6d77\u8857\u9053, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518054, China \u4e2d\u56fd"
         ]
     },
     {
@@ -11399,7 +11509,7 @@
             ]
         ],
         "addresses": [
-            "Massachusetts Institute of Technology, Linskey Way, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+            "Massachusetts Institute of Technology, Cherry Court, Central Square, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02238, United States of America"
         ]
     },
     {
@@ -11634,7 +11744,7 @@
             "Loggie, Ullapool, Highland, Scotland, IV23 2SG, United Kingdom",
             "Ifood, 61A, FRACC. MARINA DEL REY, Ciudad del Carmen, Carmen, Campeche, 24100, M\u00e9xico",
             "Rapperswil, Wahlkreis See-Gaster, Sankt Gallen, 8640, Switzerland",
-            "Uber, Calle Hamburgo, Cuauht\u00e9moc, Ciudad de M\u00e9xico, 06600, M\u00e9xico"
+            "Uber, Calle Hamburgo, Cuauht\u00e9moc, Ciudad de M\u00e9xico, 06010, M\u00e9xico"
         ]
     },
     {
@@ -11862,7 +11972,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Pickup, 1, Magazine Street, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02139, United States of America"
+            "Amazon Pickup, 1, Magazine Street, Central Square, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02139, United States of America"
         ]
     },
     {
@@ -11940,7 +12050,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, 72, Spring Street, Manhattan, New York County, New York, 10013, United States of America"
+            "Amazon, 72, Spring Street, Little Italy, Manhattan Community Board 2, Manhattan, New York County, New York, 10013, United States of America"
         ]
     },
     {
@@ -12065,5 +12175,229 @@
         "author": null,
         "latlngs": null,
         "addresses": null
+    },
+    {
+        "id": 321,
+        "date": "2020/08/19",
+        "sources": [
+            "https://www.law360.com/articles/1302356/ex-google-workers-want-sexist-emails-memes-turned-over",
+            "https://www.lieffcabraser.com/2020/08/ex-google-workers-want-sexist-emails-meme-messages-turned-over-in-google-gender-discrimination-suit/"
+        ],
+        "actions": [
+            "legal action"
+        ],
+        "struggles": [
+            "discrimination"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "Four former Google software engineers have filed a lawsuit in California claiming gender discrimination at the company and demanding that the company turn over sexist emails and memes created by two male company employees. The plaintiffs hope to mount a class action lawsuit against the company.",
+        "online": null,
+        "locations": [
+            "san francisco-california-usa"
+        ],
+        "companies": [
+            "google"
+        ],
+        "workers": 4,
+        "tags": [
+            "sexism"
+        ],
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": [
+            [
+                37.41897865,
+                -122.08237793989416
+            ]
+        ],
+        "addresses": [
+            "Google, Mountain View, Santa Clara County, California, United States of America"
+        ]
+    },
+    {
+        "id": 320,
+        "date": "2020/08/19",
+        "sources": [
+            "https://leftfootforward.org/2020/08/give-us-better-pay-and-conditions-say-sheffield-deliveroo-drivers/"
+        ],
+        "actions": [
+            "protest",
+            "strike"
+        ],
+        "struggles": [
+            "pay and benefits",
+            "working conditions"
+        ],
+        "employment_types": [
+            "gig workers"
+        ],
+        "description": "Deliveroo workers in Sheffield, England kicked off two weeks of strike actions to demand higher pay and better working conditions, including the right to appeal terminations. The actions are designed to target companies, e.g. certain restaurants, that workers believe to be part of the exploitation. An outright strike was deemed too expensive by the workers, many of whom report working 60-70 hours a week to make ends meet. Actions will also include flyering and a demonstration.",
+        "online": null,
+        "locations": [
+            "sheffield-uk"
+        ],
+        "companies": [
+            "deliveroo"
+        ],
+        "workers": null,
+        "tags": [
+            "delivery_workers"
+        ],
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 317,
+        "date": "2020/08/22",
+        "sources": [
+            "https://mp.weixin.qq.com/s/bvbmlUIPatMX4xzDvwU8FQ"
+        ],
+        "actions": [
+            "protest",
+            "open letter",
+            "strike"
+        ],
+        "struggles": [
+            "pay and benefits"
+        ],
+        "employment_types": [
+            "gig workers"
+        ],
+        "description": "Didi rideshare workers have started holding strikes in a number of Chinese cities including Suzhou, Nanjing, Nantong, and Zunyi City to protest high commission fees on the platform. Drivers in Zunyi City also issued a letter with 5 demands to their local government and transportation department. ",
+        "online": null,
+        "locations": [
+            "suzhou-china",
+            "nanjing-china",
+            "nantong-china",
+            "zunyi-china"
+        ],
+        "companies": [
+            "didi"
+        ],
+        "workers": null,
+        "tags": null,
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 319,
+        "date": "2020/08/26",
+        "sources": [
+            "https://rabble.ca/news/2020/08/former-foodora-workers-receive-closure-346-million-settlement"
+        ],
+        "actions": [
+            "legal action"
+        ],
+        "struggles": [
+            "unfair labor practices"
+        ],
+        "employment_types": [
+            "gig workers"
+        ],
+        "description": "Foodora workers in Canada received a $3.5 million settlement after suing their employer for union busting. Foodora chose to leave Canada in April 2020 after the Ontario Labor Board voted to recognize the couriers as company employees. The Canadian Union of Postal Workers sued on behalf of the workers and declared that the settlement would be distributed between all Canadian Foodora employees.",
+        "online": null,
+        "locations": [
+            "canada"
+        ],
+        "companies": [
+            "foodora"
+        ],
+        "workers": 2000,
+        "tags": [
+            "delivery_workers"
+        ],
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 318,
+        "date": "2020/08/28",
+        "sources": [
+            "https://www.businessinsider.in/tech/news/protesters-set-up-a-guillotine-outside-jeff-bezos-mansion-and-demanded-higher-wages-for-amazon-workers-after-the-ceos-net-worth-surpassed-200-billion/amp_articleshow/77794471.cms"
+        ],
+        "actions": [
+            "protest"
+        ],
+        "struggles": [
+            "pay and benefits"
+        ],
+        "employment_types": [
+            "blue collar workers",
+            "inhouse workers"
+        ],
+        "description": "More than 100 protesters, led by former Amazon worker Christian Smalls, placed a guillotine outside of Jeff Bezos' D.C. home to call on the company to raise minimum wages from $15 to $30/hour. ",
+        "online": null,
+        "locations": [
+            "washington_dc-usa"
+        ],
+        "companies": [
+            "amazon"
+        ],
+        "workers": 101,
+        "tags": [
+            "coronavirus"
+        ],
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 316,
+        "date": "2020/08/31",
+        "sources": [
+            "https://onezero.medium.com/leaked-salary-spreadsheet-reveals-microsoft-employee-earnings-for-a-second-year-d1466132d309"
+        ],
+        "actions": [
+            "protest",
+            "resources"
+        ],
+        "struggles": [
+            "pay and benefits",
+            "discrimination"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "More than 300 Microsoft employees shared salary and pay bonus data in spreadsheet. A similar action took place last year. This year's survey asked whether employees identified as people of color or experienced discrimination because of their gender identity. Notably, 194 of 310 participants identified as people of color and 69 had experienced discrimination on the basis of gender identity.",
+        "online": true,
+        "locations": [
+            "usa"
+        ],
+        "companies": [
+            "microsoft"
+        ],
+        "workers": 310,
+        "tags": [
+            "antiracism",
+            "salary sharing"
+        ],
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": [
+            [
+                35.139622349999996,
+                -80.92306993327955
+            ]
+        ],
+        "addresses": [
+            "Microsoft, Yorkwood, Charlotte, Mecklenburg County, North Carolina, United States of America"
+        ]
     }
 ]

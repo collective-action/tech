@@ -1,32 +1,38 @@
 {
-    "id": 113,
-    "date": "2019/01/17",
+    "id": 111,
+    "date": "2018/12/14",
     "sources": [
-        "https://www.businessinsider.com/instacart-workers-request-22-cent-tips-protest-2019-1",
-        "https://actionnetwork.org/petitions/instacart-heres-our-22-cents-no-more-tip-theft-low-pay-and-black-box-pay-algorithms"
+        "http://www.startribune.com/workers-protest-conditions-at-amazon-s-shakopee-center/502829882/"
     ],
     "actions": [
-        "open letter"
+        "protest"
     ],
     "struggles": [
-        "pay and benefits"
+        "working conditions"
     ],
     "employment_types": [
-        "gig workers"
+        "blue collar workers"
     ],
-    "description": "150 Instacart workers have started a petition to protest changes in how they are paid. The petition urges the company to change this policy. It also encourages Instacart users to pay 'shoppers' the minimum $0.22 tip through the app and to pay the remainder of the tip in cash to ensure the tip amount primarily goes to workers.",
-    "online": true,
+    "description": "Amid chants of 'Hear our voice,' a group of about 100 Somali-American workers and their supporters marched to the entrance of Amazon's Shakopee fulfillment center Friday evening to protest unfair working conditions.",
+    "online": null,
     "locations": [
-        "usa"
+        "minneapolis-minnesota-usa"
     ],
     "companies": [
-        "instacart"
+        "amazon"
     ],
-    "workers": 150,
+    "workers": 100,
     "tags": null,
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            44.9696354,
+            -93.2884766
+        ]
+    ],
+    "addresses": [
+        "Wounded Amazon, Lyndale Avenue South, Loring Park, Minneapolis, Hennepin County, Minnesota, 55403, United States of America"
+    ]
 }

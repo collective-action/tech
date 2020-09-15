@@ -1,47 +1,39 @@
 {
-    "id": 174,
-    "date": "2019/08/22",
+    "id": 171,
+    "date": "2019/08/14",
     "sources": [
-        "https://www.vice.com/en_us/article/a35g8k/hundreds-of-uber-drivers-will-caravan-600-miles-across-california-to-demand-better-working-conditions",
-        "https://techcrunch.com/2019/08/22/hundreds-of-uber-and-lyft-drivers-to-launch-a-protest-caravan-across-california/"
+        "https://medium.com/@no.gcp.for.cbp/google-must-stand-against-human-rights-abuses-nogcpforcbp-88c60e1fc35e",
+        "https://www.vox.com/2019/8/14/20805562/human-rights-concerns-google-employees-petition-cbp-ice"
     ],
     "actions": [
-        "protest"
+        "open letter"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "ethics"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers"
     ],
-    "description": "Gig Workers Rising and Mobile Workers Alliance have organized a protest caravan of rideshare workers to advocate for AB5, a bill in the California State Legislature that would require rideshare companies to recognize their drivers as employees. The caravan plans to drive roughly 600 miles, from Southern California to San Francisco to Sacramento, as part of their action.",
-    "online": null,
+    "description": "Google employees are demanding an end to the company\u2019s work with agencies like CBP and ICE. Employees are circulating a petition asking the company not to bid on contracts with government agencies that enforce controversial immigration policies such as child detention.",
+    "online": true,
     "locations": [
-        "sacramento-california-usa",
-        "san francisco-california-usa"
+        "usa"
     ],
     "companies": [
-        "uber",
-        "lyft"
+        "google"
     ],
-    "workers": 200,
+    "workers": 600,
     "tags": null,
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
     "latlngs": [
         [
-            37.7899898,
-            -122.3999799
-        ],
-        [
-            37.7509149,
-            -122.40246883416269
+            42.3627717,
+            -71.087257
         ]
     ],
     "addresses": [
-        "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
-        "Lyft, Kansas Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States of America"
+        "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
     ]
 }

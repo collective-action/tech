@@ -1,33 +1,41 @@
 {
-    "id": 237,
-    "date": "2020/03/13",
+    "id": 233,
+    "date": "2020/02/20",
     "sources": [
-        "https://techcrunch.com/2020/03/13/online-code-collaboration-tool-glitch-votes-to-unionize/",
-        "https://cwa-union.org/news/releases/tech-workers-app-developer-glitch-vote-form-union-and-join-cwa-organizing-initiative"
+        "https://www.marketwatch.com/story/hundreds-of-oracle-workers-stage-walkout-to-protest-larry-ellisons-fundraiser-for-trump-2020-02-20",
+        "https://www.marketwatch.com/story/hundreds-of-oracle-workers-stage-walkout-to-protest-larry-ellisons-fundraiser-for-trump-2020-02-20"
     ],
     "actions": [
-        "union representation"
+        "strike",
+        "protest"
     ],
     "struggles": [
-        "na"
+        "ethics",
+        "discrimination"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "white collar workers"
     ],
-    "description": "Employees of online software collaboration tool Glitch won their union with the Communications Workers of America (CWA). The move comes after 90% of the workers indicated their support for joining CWA and authorized CWA to be their bargaining representative. Glitch will join the CWA Local 1101, as part of the Campaign to Organize Digital Employees (CODE-CWA) initiative, which was launched back in January.",
-    "online": null,
+    "description": "People left their desks at Oracle offices around the world to protest Chairman Larry Ellison\u2019s fundraiser a day earlier for President Donald Trump. The protest, called No Ethics/No Work, involved about 300 employees walking out of their offices or stopping work at remote locations at noon local time and devoting the rest of the day to volunteering or civic engagement.",
+    "online": true,
     "locations": [
-        "new york city-new york-usa"
+        "usa"
     ],
     "companies": [
-        "glitch"
+        "oracle"
     ],
-    "workers": null,
+    "workers": 300,
     "tags": null,
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            32.6099702,
+            -110.7651843
+        ]
+    ],
+    "addresses": [
+        "Oracle, Pinal County, Arizona, 85623, United States of America"
+    ]
 }

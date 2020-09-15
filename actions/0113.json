@@ -1,39 +1,43 @@
 {
-    "id": 112,
-    "date": "2018/12/16",
+    "id": 110,
+    "date": "2018/12/06",
     "sources": [
-        "https://www.scmp.com/news/china/article/2178201/chinese-workers-apple-supplier-foxconn-stage-street-protest-over-unpaid"
+        "https://www.theguardian.com/technology/2018/dec/20/facebook-contractors-filter-digital-labor-dispute-christmas",
+        "https://medium.com/@techworkersco_79433/who-fired-the-ras-organizing-the-worst-job-at-facebook-97c63cb40683"
     ],
     "actions": [
-        "protest"
+        "open letter"
     ],
     "struggles": [
+        "working conditions",
         "pay and benefits"
     ],
     "employment_types": [
-        "blue collar workers",
         "contract workers"
     ],
-    "description": "Hundreds of temporary workers for FoxConn rallied on the streets on Zhengzhou to protest unpaid signing bonuses. Protests continued for two nights before being broken up by police.",
+    "description": "20 subcontractors working at Facebook Reality Labs signed a letter to their contracting firm, Filter Digital, seeking better employment terms. The letter addressed inequities between the Filter employees and other employees at the Facebook facility, including workers employed by other contractors. Ex. Facebook closes its office for 11 holidays per year, according to the letter, but Filter only observes five of those holidays. Since Facebook's offices are closed on those days, preventing the Filter employees from working, they are forced to use six out of their 10 days of paid time off to cover the other holidays \u2013 or go without pay. A Facebook FTE shared a copy of the letter on Workplace and 'got a lot of positive reception from full time employees and other contingent workers",
     "online": null,
     "locations": [
-        "zhengzhou-china"
+        "seattle-washington-usa"
     ],
     "companies": [
-        "foxconn"
+        "facebook",
+        "filter_digital"
     ],
-    "workers": 100,
-    "tags": null,
+    "workers": 20,
+    "tags": [
+        "coworker_solidarity"
+    ],
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
     "latlngs": [
         [
-            34.7284406,
-            113.7595316
+            47.6289467,
+            -122.3428731
         ]
     ],
     "addresses": [
-        "Foxconn Technology Group, \u7ecf\u5317\u4e8c\u8def, \u5546\u90fd\u8def\u8857\u9053, \u5703\u7530\u4e61, \u7ba1\u57ce\u56de\u65cf\u533a, \u90d1\u5dde\u5e02, \u6cb3\u5357\u7701, 450046, China \u4e2d\u56fd"
+        "Facebook Dexter, 1101, Dexter Avenue North, Westlake, Seattle, King County, Washington, 98109, United States of America"
     ]
 }
