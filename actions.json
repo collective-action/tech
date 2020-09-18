@@ -6593,13 +6593,13 @@
                 -122.3999799
             ],
             [
-                37.7509149,
-                -122.40246883416269
+                37.7759881,
+                -122.3919991
             ]
         ],
         "addresses": [
             "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
-            "Lyft, Kansas Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States of America"
+            "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States of America"
         ]
     },
     {
@@ -6640,13 +6640,13 @@
                 -122.3999799
             ],
             [
-                37.7509149,
-                -122.40246883416269
+                37.7759881,
+                -122.3919991
             ]
         ],
         "addresses": [
             "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
-            "Lyft, Kansas Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States of America"
+            "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States of America"
         ]
     },
     {
@@ -7117,13 +7117,13 @@
                 -122.3999799
             ],
             [
-                37.7509149,
-                -122.40246883416269
+                37.7759881,
+                -122.3919991
             ]
         ],
         "addresses": [
             "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
-            "Lyft, Kansas Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States of America"
+            "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States of America"
         ]
     },
     {
@@ -8312,13 +8312,13 @@
                 -122.3999799
             ],
             [
-                37.7509149,
-                -122.40246883416269
+                37.7759881,
+                -122.3919991
             ]
         ],
         "addresses": [
             "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
-            "Lyft, Kansas Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States of America"
+            "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States of America"
         ]
     },
     {
@@ -9324,13 +9324,13 @@
                 -122.3999799
             ],
             [
-                37.7509149,
-                -122.40246883416269
+                37.7759881,
+                -122.3919991
             ]
         ],
         "addresses": [
             "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
-            "Lyft, Kansas Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States of America"
+            "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States of America"
         ]
     },
     {
@@ -9610,8 +9610,8 @@
                 -122.3999799
             ],
             [
-                37.7509149,
-                -122.40246883416269
+                37.7759881,
+                -122.3919991
             ],
             [
                 37.7834546,
@@ -9620,7 +9620,7 @@
         ],
         "addresses": [
             "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
-            "Lyft, Kansas Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States of America",
+            "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States of America",
             "Doordash HQ, Stevenson Street, Union Square, San Francisco, San Francisco City and County, California, 94104, United States of America"
         ]
     },
@@ -10076,8 +10076,8 @@
         ],
         "latlngs": [
             [
-                37.7509149,
-                -122.40246883416269
+                37.7759881,
+                -122.3919991
             ],
             [
                 37.7899898,
@@ -10093,7 +10093,7 @@
             ]
         ],
         "addresses": [
-            "Lyft, Kansas Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States of America",
+            "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States of America",
             "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
             "Uber / Lyft Driver Drop Off, 1, Campanile Mall, Montezuma Mesa, San Diego, San Diego County, California, 92115, United States of America",
             "Uber / Lyft Driver Drop Off, 1, Campanile Mall, Montezuma Mesa, San Diego, San Diego County, California, 92115, United States of America"
@@ -11914,8 +11914,8 @@
                 -122.3999799
             ],
             [
-                37.7509149,
-                -122.40246883416269
+                37.7759881,
+                -122.3919991
             ],
             [
                 37.7753423,
@@ -11926,7 +11926,7 @@
             "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America",
             "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America",
             "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
-            "Lyft, Kansas Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States of America",
+            "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States of America",
             "UserTesting, 690, 5th Street, South of Market, San Francisco, San Francisco City and County, California, 94017, United States of America"
         ]
     },
