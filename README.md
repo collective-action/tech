@@ -20,11 +20,11 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">07/10/2020 09:24AM</td>
+    <td data-summary="timestamp">07/10/2020 10:27AM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">319</td>
+    <td data-summary="action-count">320</td>
   </tr>
  </table>
 </div>
@@ -49,6 +49,21 @@ The goal of this archive is to provide data and insights on organizing in the te
    </td>
    <td>
     Parcast, a Spotify-owned podcast company, announced a unionization effort back in September. Employees of the company chose to pursue unionization through the Writers Guild of America, East to call for greater diversity, equity, and inclusion at the company, as well as equitable pay, reasonable working hours, and overtime compensation. Parcast announced on October 6th that Spotify had chosen to voluntarily recognize the union.
+   </td>
+   <td>
+    <a href="/actions/0319.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="nataliyaned">
+   <td>
+    2020-10-04
+   </td>
+   <td>
+    Amazon workers, organized by the Congress of Essential Workers, protested in front of Jeff Bezos' Beverley Hills mansion, calling for improved working conditions under covid, hazard pay, and better health benefits.
    </td>
    <td>
     <a href="/actions/0318.json">
