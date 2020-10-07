@@ -12087,6 +12087,40 @@
         ]
     },
     {
+        "id": 338,
+        "date": "2020/08/12",
+        "sources": [
+            "https://www.printmag.com/post/tech-can-do-better-an-industry-wide-wake-up-call",
+            "https://www.instagram.com/techcandobetter/",
+            "https://docs.google.com/forms/d/e/1FAIpQLSck1JZR5FdfWbRB7OOgCPBCVGIS0kB-zLHN-Q3J6PZORRUP3w/viewform"
+        ],
+        "actions": [
+            "resources"
+        ],
+        "struggles": [
+            "discrimination"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "A group of Black employees across tech companies have launched an initiative, Tech Can Do Better, to call for greater equity in the workplace. An Instagram account promotes the visibility and highlights the accomplishments of Black employees in tech. The group has also started an online pledge where workers can commit to \"mak[ing] the changes needed to achieve equitable hiring, promotions, and compensation, mak[ing] significant Investment in social equity and driv[ing] advocacy for equitable legislation.\"",
+        "online": true,
+        "locations": null,
+        "companies": null,
+        "workers": null,
+        "tags": [
+            "antiracism",
+            "blm",
+            "industry_solidarity"
+        ],
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
         "id": 312,
         "date": "2020/08/12",
         "sources": [
@@ -12717,6 +12751,39 @@
         "workers": 100,
         "tags": [
             "ice"
+        ],
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 337,
+        "date": "2020/09/28",
+        "sources": [
+            "https://discotech.tech/techtruths",
+            "https://twitter.com/discotechorg/status/1310613703126114304?s=19"
+        ],
+        "actions": [
+            "resources"
+        ],
+        "struggles": [
+            "na"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "A group of cross-company organizers in tech have started a repository called \"Tech Truths\" that highlights incidents of discrimination in tech, including \"discrimination by race, gender, sexual orientation, disability status, immigration status, and more\". To date (10/7/2020), 107 different stories of discrimination have been shared and published.",
+        "online": true,
+        "locations": null,
+        "companies": null,
+        "workers": 107,
+        "tags": [
+            "antiracism",
+            "blm",
+            "industry_solidarity"
         ],
         "author": [
             "nataliyaned"

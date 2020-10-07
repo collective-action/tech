@@ -20,11 +20,11 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">07/10/2020 10:27AM</td>
+    <td data-summary="timestamp">07/10/2020 11:26AM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">320</td>
+    <td data-summary="action-count">322</td>
   </tr>
  </table>
 </div>
@@ -51,7 +51,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Parcast, a Spotify-owned podcast company, announced a unionization effort back in September. Employees of the company chose to pursue unionization through the Writers Guild of America, East to call for greater diversity, equity, and inclusion at the company, as well as equitable pay, reasonable working hours, and overtime compensation. Parcast announced on October 6th that Spotify had chosen to voluntarily recognize the union.
    </td>
    <td>
-    <a href="/actions/0319.json">
+    <a href="/actions/0321.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -66,7 +66,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Amazon workers, organized by the Congress of Essential Workers, protested in front of Jeff Bezos' Beverley Hills mansion, calling for improved working conditions under covid, hazard pay, and better health benefits.
    </td>
    <td>
-    <a href="/actions/0318.json">
+    <a href="/actions/0320.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -81,7 +81,22 @@ The goal of this archive is to provide data and insights on organizing in the te
     35 Amazon workers in Shakopee, Minnesota walked off the job to protest the firing of Farhiyo Warsame. The company alleged that the employee violated "time off task" policies but workers claim that the employee was fired for raising concerns about covid-related safety.
    </td>
    <td>
-    <a href="/actions/0317.json">
+    <a href="/actions/0319.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="nataliyaned">
+   <td>
+    2020-09-28
+   </td>
+   <td>
+    A group of cross-company organizers in tech have started a repository called "Tech Truths" that highlights incidents of discrimination in tech, including "discrimination by race, gender, sexual orientation, disability status, immigration status, and more". To date (10/7/2020), 107 different stories of discrimination have been shared and published.
+   </td>
+   <td>
+    <a href="/actions/0318.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -96,7 +111,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Employees at Hootsuite succeeded in getting the company, a B-corporation, to drop its contract with U.S. ICE after protesting via social media and voicing their opposition internally to the company. A Tweet from a senior training specialist at Hootsuite, Sam Anderson, generated significant backlash within the industry, including from many social media managers at client companies.
    </td>
    <td>
-    <a href="/actions/0316.json">
+    <a href="/actions/0317.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -111,7 +126,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Tech workers in the U.K. have started a union aimed at organizing a wide array of tech workers in the country. The United Tech and Allied Workers, a branch of the Communications Workers Union, offers legal counsel and representation at employment tribunals for its members. Under U.K. law, employees can join a union even if that union has not been recognized by their employer. In an interview with Vice, a member highlighted the union's "very broad definition of a tech worker", which spans white collar and blue collar labor.
    </td>
    <td>
-    <a href="/actions/0315.json">
+    <a href="/actions/0316.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -126,7 +141,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     A number of contractors for Google (employed through staffing firm Adecco) have filed a lawsuit alleging that confidentiality agreements with the company deprive them of basic legal rights, such as free speech. Contractors are prevented from discussing wages or working conditions, which they claim prohibit them from “disclosing violations of state and federal law, either within Google to their managers or outside Google to private attorneys or government officials”. The Sept. 21st filing with a California appeals court reverses a lower court decision, allowing the lawsuit to proceed.
    </td>
    <td>
-    <a href="/actions/0314.json">
+    <a href="/actions/0315.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -141,7 +156,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Workers for delivery company Swiggy went on strike in a number of Indian cities including Hyderabad, Chennai, and Delhi to call for greater pay. They rallied outside of restaurants and prevented third-party companies from picking up orders.
    </td>
    <td>
-    <a href="/actions/0313.json">
+    <a href="/actions/0314.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -156,7 +171,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Rideshare drivers protested in Abuja, Nigeria, calling for greater government oversight on pricing for apps like Uber and Bolt. Drivers threatened to go on strike within a week's time if the government did not respond to their demands. Drivers noted the disparity in prices between Abuja and other major cities in Nigeria and surrounding countries. Rising gas prices have also led to decreased profits for many drivers. Several organizations were involved: Abuja City Pilot Forum (ACPF), City Online Drivers Association (CODA) and the Online Hackney Practitioners Association of Nigeria (OHPAN).
    </td>
    <td>
-    <a href="/actions/0312.json">
+    <a href="/actions/0313.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -171,7 +186,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     24 employees of tech non-profit Do Something walked off the job, calling for the resignation of current CEO Aria Finger. They have also sent two direct letters to the CEO and Board of Directors that have been shared on Twitter. Former employees shared experiences of racial discrimination and harassment via social media earlier this year. The letter states that Finger reacted to these posts by calling them untrue or "standard-issued American forms of microaggression and racism". Finger returned in August after a legal investigation did not find evidence of discrimination under her tenure.
    </td>
    <td>
-    <a href="/actions/0311.json">
+    <a href="/actions/0312.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -186,7 +201,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Rideshare drivers in Lagos, Nigeria went on a one-week strike to protest new state regulations that added a fixed service tax to all trips. The agreement was reached between the companies, the Lagos state government, and the Professional E-hailing Drivers and Private Owners Association but did not include the National Union of Professional App-Based Workers, which union representatives claim was sidelined during negotiations due to its initial rejection of the proposal.
    </td>
    <td>
-    <a href="/actions/0310.json">
+    <a href="/actions/0311.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -201,7 +216,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     More than 300 Microsoft employees shared salary and pay bonus data in spreadsheet. A similar action took place last year. This year's survey asked whether employees identified as people of color or experienced discrimination because of their gender identity. Notably, 194 of 310 participants identified as people of color and 69 had experienced discrimination on the basis of gender identity.
    </td>
    <td>
-    <a href="/actions/0309.json">
+    <a href="/actions/0310.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -216,7 +231,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     More than 100 protesters, led by former Amazon worker Christian Smalls, placed a guillotine outside of Jeff Bezos' D.C. home to call on the company to raise minimum wages from $15 to $30/hour.
    </td>
    <td>
-    <a href="/actions/0308.json">
+    <a href="/actions/0309.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -231,7 +246,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Foodora workers in Canada received a $3.5 million settlement after suing their employer for union busting. Foodora chose to leave Canada in April 2020 after the Ontario Labor Board voted to recognize the couriers as company employees. The Canadian Union of Postal Workers sued on behalf of the workers and declared that the settlement would be distributed between all Canadian Foodora employees.
    </td>
    <td>
-    <a href="/actions/0307.json">
+    <a href="/actions/0308.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -246,7 +261,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Didi rideshare workers have started holding strikes in a number of Chinese cities including Suzhou, Nanjing, Nantong, and Zunyi City to protest high commission fees on the platform. Drivers in Zunyi City also issued a letter with 5 demands to their local government and transportation department.
    </td>
    <td>
-    <a href="/actions/0306.json">
+    <a href="/actions/0307.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -261,7 +276,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Deliveroo workers in Sheffield, England kicked off two weeks of strike actions to demand higher pay and better working conditions, including the right to appeal terminations. The actions are designed to target companies, e.g. certain restaurants, that workers believe to be part of the exploitation. An outright strike was deemed too expensive by the workers, many of whom report working 60-70 hours a week to make ends meet. Actions will also include flyering and a demonstration.
    </td>
    <td>
-    <a href="/actions/0305.json">
+    <a href="/actions/0306.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -276,7 +291,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Four former Google software engineers have filed a lawsuit in California claiming gender discrimination at the company and demanding that the company turn over sexist emails and memes created by two male company employees. The plaintiffs hope to mount a class action lawsuit against the company.
    </td>
    <td>
-    <a href="/actions/0304.json">
+    <a href="/actions/0305.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -291,7 +306,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Pinterest employees staged a virtual walk out by posting messages to Slack and then logging off their work accounts, to protest the racial and gender discrimination brought to light by Ifeoma Ozoma and Aerica Shimizu Banks, and then again by Francoise Brougher. Workers also signed onto an online petition to CEO Ben Silberman calling for an end to discrimination and retaliation by the company.
    </td>
    <td>
-    <a href="/actions/0303.json">
+    <a href="/actions/0304.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -306,7 +321,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     After workers of N26 (digital bank) announced their intent to form a Works Council (Betriebsrat), management responded by issuing a legal injunction, banning 6 of the workers from partaking in formation of electoral committee. They forgot to include the service union Ver.di, so on August 13th, Ver.di chaired a meeting for N26 Operations GmbH, and workers voted for the first electoral committee.
    </td>
    <td>
-    <a href="/actions/0302.json">
+    <a href="/actions/0303.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -319,6 +334,21 @@ The goal of this archive is to provide data and insights on organizing in the te
    </td>
    <td>
     Over 2,900 Belarusian tech workers, including top level management and investors, publicly signed onto an open letter calling the recent presidential elections a fraud. Signatories threatened to relocate their offices and investments outside of Belarus, stating that the atmosphere of fear and suppression was not conducive to a thriving technology sector. The letter denounced anti-democratic measures taken by the government, including the arrests of protesters and widespread Internet outages, and called for new elections, the release of those arrested, and freedom of press in the country.
+   </td>
+   <td>
+    <a href="/actions/0302.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="nataliyaned">
+   <td>
+    2020-08-12
+   </td>
+   <td>
+    A group of Black employees across tech companies have launched an initiative, Tech Can Do Better, to call for greater equity in the workplace. An Instagram account promotes the visibility and highlights the accomplishments of Black employees in tech. The group has also started an online pledge where workers can commit to "mak[ing] the changes needed to achieve equitable hiring, promotions, and compensation, mak[ing] significant Investment in social equity and driv[ing] advocacy for equitable legislation."
    </td>
    <td>
     <a href="/actions/0301.json">
