@@ -11253,6 +11253,39 @@
         "addresses": null
     },
     {
+        "id": 334,
+        "date": "2020/06/03",
+        "sources": [
+            "https://www.nytimes.com/2020/06/03/technology/facebook-trump-employees-letter.html",
+            "https://www.businessinsider.com/early-facebook-employees-write-open-letter-mark-zuckerberg-2020-6"
+        ],
+        "actions": [
+            "open letter"
+        ],
+        "struggles": [
+            "ethics"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "Nearly three dozen early Facebook employees, including its first Chief of Communications, wrote a letter to CEO Mark Zuckerberg protesting his decision to leave Donald Trump's posts up on the website without action. Twitter chose to add labels to several of these posts warning that they were inaccurate or glorified violence. They claimed Facebook's inaction against these posts violated many of the original ideals the company had been founded on. ",
+        "online": true,
+        "locations": null,
+        "companies": [
+            "facebook"
+        ],
+        "workers": null,
+        "tags": [
+            "politics"
+        ],
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
         "id": 270,
         "date": "2020/06/06",
         "sources": [
@@ -12399,5 +12432,370 @@
         "addresses": [
             "Microsoft, Ayrsley, Charlotte, Mecklenburg County, North Carolina, United States of America"
         ]
+    },
+    {
+        "id": 328,
+        "date": "2020/08/31",
+        "sources": [
+            "https://guardian.ng/news/uber-bolt-drivers-begin-one-week-strike-in-lagos/",
+            "https://guardian.ng/news/e-hailing-drivers-reject-reviewed-lagos-ride-hailing-regulation/"
+        ],
+        "actions": [
+            "strike"
+        ],
+        "struggles": [
+            "pay and benefits"
+        ],
+        "employment_types": [
+            "gig workers"
+        ],
+        "description": "Rideshare drivers in Lagos, Nigeria went on a one-week strike to protest new state regulations that added a fixed service tax to all trips. The agreement was reached between the companies, the Lagos state government, and the Professional E-hailing Drivers and Private Owners Association but did not include the National Union of Professional App-Based Workers, which union representatives claim was sidelined during negotiations due to its initial rejection of the proposal.  ",
+        "online": null,
+        "locations": [
+            "lagos-nigeria"
+        ],
+        "companies": [
+            "uber",
+            "bolt"
+        ],
+        "workers": null,
+        "tags": [
+            "drivers"
+        ],
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": [
+            [
+                6.45269435,
+                3.4498998
+            ]
+        ],
+        "addresses": [
+            "Uber Nigeria HQ, 2, Onikoyi Road, Ikoyi, Okepa, Eti Osa, Lagos, 20050, Nigeria"
+        ]
+    },
+    {
+        "id": 326,
+        "date": "2020/09/08",
+        "sources": [
+            "https://www.vice.com/en/article/g5p9nb/employees-of-social-change-nonprofit-stage-walkout-to-protest-racial-abuse"
+        ],
+        "actions": [
+            "protest",
+            "strike",
+            "open letter"
+        ],
+        "struggles": [
+            "discrimination"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "24 employees of tech non-profit Do Something walked off the job, calling for the resignation of current CEO Aria Finger. They have also sent two direct letters to the CEO and Board of Directors that have been shared on Twitter. Former employees shared experiences of racial discrimination and harassment via social media earlier this year. The letter states that Finger reacted to these posts by calling them untrue or \"standard-issued American forms of microaggression and racism\". Finger returned in August after a legal investigation did not find evidence of discrimination under her tenure. ",
+        "online": true,
+        "locations": null,
+        "companies": [
+            "do something"
+        ],
+        "workers": 24,
+        "tags": [
+            "antiracism",
+            "blm"
+        ],
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 327,
+        "date": "2020/09/15",
+        "sources": [
+            "https://www.sunnewsonline.com/uber-bolt-drivers-protest-static-fares-in-abuja/"
+        ],
+        "actions": [
+            "protest"
+        ],
+        "struggles": [
+            "pay and benefits"
+        ],
+        "employment_types": [
+            "gig workers"
+        ],
+        "description": "Rideshare drivers protested in Abuja, Nigeria, calling for greater government oversight on pricing for apps like Uber and Bolt. Drivers threatened to go on strike within a week's time if the government did not respond to their demands. Drivers noted the disparity in prices between Abuja and other major cities in Nigeria and surrounding countries. Rising gas prices have also led to decreased profits for many drivers. Several organizations were involved: Abuja City Pilot Forum (ACPF), City Online Drivers Association (CODA) and the Online Hackney Practitioners Association of Nigeria (OHPAN).",
+        "online": null,
+        "locations": [
+            "abuja-nigeria"
+        ],
+        "companies": [
+            "uber",
+            "bolt"
+        ],
+        "workers": null,
+        "tags": [
+            "drivers"
+        ],
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 329,
+        "date": "2020/09/16",
+        "sources": [
+            "https://www.deccanchronicle.com/amp/nation/current-affairs/160920/swiggy-workers-go-on-strike-in-hyderabad-demand-revised-charges.html",
+            "https://www.newsclick.in/swiggy-employees-strike"
+        ],
+        "actions": [
+            "strike"
+        ],
+        "struggles": [
+            "pay and benefits"
+        ],
+        "employment_types": [
+            "gig workers"
+        ],
+        "description": "Workers for delivery company Swiggy went on strike in a number of Indian cities including Hyderabad, Chennai, and Delhi to call for greater pay. They rallied outside of restaurants and prevented third-party companies from picking up orders.",
+        "online": null,
+        "locations": [
+            "hyderabad-india",
+            "chennai-india",
+            "delhi-india"
+        ],
+        "companies": [
+            "swiggy"
+        ],
+        "workers": 3000,
+        "tags": [
+            "delivery_workers"
+        ],
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 332,
+        "date": "2020/09/21",
+        "sources": [
+            "https://www.cnbc.com/2020/10/01/google-contractors-allege-ndas-violate-free-speech-laws.html",
+            "https://www.courts.ca.gov/opinions/documents/A157097.PDF"
+        ],
+        "actions": [
+            "legal action"
+        ],
+        "struggles": [
+            "unfair labor practices"
+        ],
+        "employment_types": [
+            "contract workers"
+        ],
+        "description": "A number of contractors for Google (employed through staffing firm Adecco) have filed a lawsuit alleging that confidentiality agreements with the company deprive them of basic legal rights, such as free speech. Contractors are prevented from discussing wages or working conditions, which they claim prohibit them from \u201cdisclosing violations of state and federal law, either within Google to their managers or outside Google to private attorneys or government officials\u201d. The Sept. 21st filing with a California appeals court reverses a lower court decision, allowing the lawsuit to proceed. ",
+        "online": null,
+        "locations": [
+            "san francisco-california-usa"
+        ],
+        "companies": [
+            "google",
+            "adecco"
+        ],
+        "workers": null,
+        "tags": null,
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": [
+            [
+                37.41897865,
+                -122.08237793989416
+            ],
+            [
+                40.572519,
+                -122.3505599
+            ]
+        ],
+        "addresses": [
+            "Google, Mountain View, Santa Clara County, California, United States of America",
+            "Adecco, 1080, East Cypress Avenue, Enterprise, Redding, Shasta County, California, 96002, United States of America"
+        ]
+    },
+    {
+        "id": 330,
+        "date": "2020/09/22",
+        "sources": [
+            "https://www.vice.com/amp/en_us/article/g5p333/uk-tech-workers-launch-first-national-effort-to-unionize-tech-industry"
+        ],
+        "actions": [
+            "union drive"
+        ],
+        "struggles": [
+            "working conditions"
+        ],
+        "employment_types": [
+            "blue collar workers",
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "Tech workers in the U.K. have started a union aimed at organizing a wide array of tech workers in the country. The United Tech and Allied Workers, a branch of the Communications Workers Union, offers legal counsel and representation at employment tribunals for its members. Under U.K. law, employees can join a union even if that union has not been recognized by their employer. In an interview with Vice, a member highlighted the union's \"very broad definition of a tech worker\", which spans white collar and blue collar labor.",
+        "online": null,
+        "locations": [
+            "uk"
+        ],
+        "companies": [
+            "google",
+            "amazon",
+            "microsoft",
+            "samsung",
+            "deliveroo"
+        ],
+        "workers": 30,
+        "tags": [
+            "industry_solidarity"
+        ],
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": [
+            [
+                51.5333771,
+                -0.1258455
+            ],
+            [
+                51.4669891,
+                0.3527505
+            ],
+            [
+                51.5149845,
+                -0.1421889
+            ],
+            [
+                53.7989164,
+                -1.541806
+            ],
+            [
+                51.5314216,
+                -0.1113624
+            ]
+        ],
+        "addresses": [
+            "Google, 6, Pancras Road, London Borough of Camden, Greater London, England, N1C 4BJ, United Kingdom",
+            "Amazon, Gaylor Road, Tilbury, Thurrock, East of England, England, RM18 7AS, United Kingdom",
+            "Microsoft, Regent Street, Fitzrovia, City of Westminster, Greater London, England, W1B 2EP, United Kingdom",
+            "Samsung, 89-91, Briggate, Steander, Lovell Park, Leeds, West Yorkshire, Yorkshire and the Humber, England, LS1 6NP, United Kingdom",
+            "Deliveroo, Pentonville Road, Pentonville, Finsbury, London Borough of Islington, Greater London, England, N1 9JB, United Kingdom"
+        ]
+    },
+    {
+        "id": 331,
+        "date": "2020/09/23",
+        "sources": [
+            "https://www.forbes.com/sites/rachelsandler/2020/09/24/hootsuite-drops-ice-contract-after-employee-backlash/#714f8e261c50",
+            "https://www.vice.com/en/article/jgx75b/hootsuite-denied-providing-tech-to-ice-this-contract-shows-that-it-did"
+        ],
+        "actions": [
+            "protest"
+        ],
+        "struggles": [
+            "ethics"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "Employees at Hootsuite succeeded in getting the company, a B-corporation, to drop its contract with U.S. ICE after protesting via social media and voicing their opposition internally to the company. A Tweet from a senior training specialist at Hootsuite, Sam Anderson, generated significant backlash within the industry, including from many social media managers at client companies.  ",
+        "online": true,
+        "locations": null,
+        "companies": [
+            "hootsuite"
+        ],
+        "workers": 100,
+        "tags": [
+            "ice"
+        ],
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 333,
+        "date": "2020/10/01",
+        "sources": [
+            "https://workdayminnesota.org/thursday-night-shakopee-amazon-workers-walked-out-in-protest-of-worker-firing/",
+            "https://twitter.com/athenaforall/status/1312080698140962818?s=20"
+        ],
+        "actions": [
+            "protest"
+        ],
+        "struggles": [
+            "working conditions"
+        ],
+        "employment_types": [
+            "blue collar workers",
+            "inhouse workers"
+        ],
+        "description": "35 Amazon workers in Shakopee, Minnesota walked off the job to protest the firing of Farhiyo Warsame. The company alleged that the employee violated \"time off task\" policies but workers claim that the employee was fired for raising concerns about covid-related safety.",
+        "online": null,
+        "locations": [
+            "shakopee-minnesota-usa"
+        ],
+        "companies": [
+            "amazon"
+        ],
+        "workers": 35,
+        "tags": [
+            "coronavirus"
+        ],
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": [
+            [
+                44.78839255,
+                -93.44285005008032
+            ]
+        ],
+        "addresses": [
+            "Amazon Sortation Center MSP5, 5825, 11th Avenue East, Barden, Shakopee, Scott County, Minnesota, 55379, United States of America"
+        ]
+    },
+    {
+        "id": 335,
+        "date": "2020/10/05",
+        "sources": [
+            "https://www.theverge.com/2020/9/2/21417146/parcast-spotify-union-writers-guild-america-east",
+            "https://twitter.com/ParcastUnion/status/1313555636651655170?s=19"
+        ],
+        "actions": [
+            "union representation"
+        ],
+        "struggles": [
+            "unfair labor practices"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "Parcast, a Spotify-owned podcast company, announced a unionization effort back in September. Employees of the company chose to pursue unionization through the Writers Guild of America, East to call for greater diversity, equity, and inclusion at the company, as well as equitable pay, reasonable working hours, and overtime compensation. Parcast announced on October 6th that Spotify had chosen to voluntarily recognize the union. ",
+        "online": null,
+        "locations": null,
+        "companies": [
+            "spotify",
+            "parcast"
+        ],
+        "workers": null,
+        "tags": null,
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": null,
+        "addresses": null
     }
 ]

@@ -1,0 +1,42 @@
+{
+    "id": 333,
+    "date": "2020/10/01",
+    "sources": [
+        "https://workdayminnesota.org/thursday-night-shakopee-amazon-workers-walked-out-in-protest-of-worker-firing/",
+        "https://twitter.com/athenaforall/status/1312080698140962818?s=20"
+    ],
+    "actions": [
+        "protest"
+    ],
+    "struggles": [
+        "working conditions"
+    ],
+    "employment_types": [
+        "blue collar workers",
+        "inhouse workers"
+    ],
+    "description": "35 Amazon workers in Shakopee, Minnesota walked off the job to protest the firing of Farhiyo Warsame. The company alleged that the employee violated \"time off task\" policies but workers claim that the employee was fired for raising concerns about covid-related safety.",
+    "online": null,
+    "locations": [
+        "shakopee-minnesota-usa"
+    ],
+    "companies": [
+        "amazon"
+    ],
+    "workers": 35,
+    "tags": [
+        "coronavirus"
+    ],
+    "author": [
+        "nataliyaned"
+    ],
+    "latlngs": [
+        [
+            44.78839255,
+            -93.44285005008032
+        ]
+    ],
+    "addresses": [
+        "Amazon Sortation Center MSP5, 5825, 11th Avenue East, Barden, Shakopee, Scott County, Minnesota, 55379, United States of America"
+    ]
+}
