@@ -11,19 +11,22 @@
     <script src="{{ 'assets/js/mobile.js' | relative_url }}"></script>
 
     <nav>
-      <a class="github-button" href="https://github.com/collective-action/tech" data-icon="octicon-star" data-show-count="true" aria-label="Star collective-action/tech on GitHub">Star</a>
-      <ul id="nav-mobile-menu">
-        <li><span>Menu</span></li>
-      </ul>
-      <ul id="nav-menu">
-        <li><a href="/">Home</a></li>
-        <li><a href="mailto:collectiveactionintech@protonmail.com">Contact</a></li>
-        <li><a href="/about">About</a></li>
-        <li><a href="/faq">FAQ</a></li>
-        <li style="background:-webkit-linear-gradient(#F30,#30F);-webkit-background-clip:text;-webkit-text-fill-color:transparent;"><a href="/blm">BLM</a></li>
-      </ul>
+      <div class="container center-container">
+        <!--<a class="github-button" href="https://github.com/collective-action/tech" data-icon="octicon-star" data-show-count="true" aria-label="Star collective-action/tech on GitHub">Star</a>-->
+        <div id="nav-title">
+          <a href="https://collectiveaction.tech"><img src="assets/images/cat-logo.svg"></a>
+        </div>
+        <ul id="nav-mobile-menu">
+          <li><span>Menu</span></li>
+        </ul>
+        <ul id="nav-menu">
+          <li><a href="mailto:collectiveactionintech@protonmail.com">Contact</a></li>
+          <li><a href="https://collectiveaction.tech/about">About</a></li>
+          <li><a href="/faq">FAQ</a></li>
+        </ul>
+      </div>
     </nav>
-    <div class="container">
+    <div id="content" class="container center-container">
 
       {{ content }}
 
