@@ -116,13 +116,10 @@ footer {
 #action-total {
   color: blue;
 }
-
-/* github star */
-nav > span {
-  display: inline;
-  position: absolute;
-  right: 0px;
-  top: -1px;
+#content ul, ol {
+  font-size: 1.5rem;
+  line-height: 2rem;
+  color: #333;
 }
 
 /* Make search + query stick */
