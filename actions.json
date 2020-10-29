@@ -8524,7 +8524,6 @@
         ],
         "workers": 20,
         "tags": [
-            "coworker_solidartiry",
             "retaliation"
         ],
         "author": [
@@ -10004,6 +10003,42 @@
         ]
     },
     {
+        "id": 343,
+        "date": "2020/03/19",
+        "sources": [
+            "https://www.buzzfeednews.com/article/carolineodonovan/gimlet-media-podcasts-spotify-union",
+            "https://gizmodo.com/gimlet-gets-a-union-1834243384",
+            "https://gizmodo.com/whats-gimlets-problem-1833639322"
+        ],
+        "actions": [
+            "union representation"
+        ],
+        "struggles": [
+            "working conditions"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "contract workers",
+            "inhouse workers"
+        ],
+        "description": "The staff of podcasting company Gimlet Media, recently acquired by Spotify Media, voted in favor of unionization with the Writers Guild of America, East. Gimlet is the first podcasting company to join the WGAE. Notably, the union includes contractors. Update: In April, management announced they would recognize the union. ",
+        "online": null,
+        "locations": [
+            "brooklyn-new york city-new york-usa"
+        ],
+        "companies": [
+            "spotify",
+            "gimlet media"
+        ],
+        "workers": 83,
+        "tags": null,
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
         "id": 295,
         "date": "2020/03/19",
         "sources": [
@@ -11278,6 +11313,39 @@
         "workers": null,
         "tags": [
             "politics"
+        ],
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 342,
+        "date": "2020/06/04",
+        "sources": [
+            "https://www.axios.com/coinbase-controversy-b707973c-0f24-4d1e-9690-78ac5fdb94e7.html"
+        ],
+        "actions": [
+            "protest"
+        ],
+        "struggles": [
+            "discrimination"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "Employees at Coinbase held a virtual walkout following an \"ask me anything\" session with company management where CEO Brian Armstrong did not indicate that the company would be willing to publicly express support for the Black Lives Matter movement. WIRED reports: \"Pressed on whether the company would say the words \u201cBlack Lives Matter,\u201d Armstrong again demurred. 'TBD'\"",
+        "online": true,
+        "locations": null,
+        "companies": [
+            "coinbase"
+        ],
+        "workers": null,
+        "tags": [
+            "antiracism",
+            "blm"
         ],
         "author": [
             "nataliyaned"
@@ -12906,5 +12974,121 @@
         ],
         "latlngs": null,
         "addresses": null
+    },
+    {
+        "id": 341,
+        "date": "2020/10/08",
+        "sources": [
+            "https://www.wired.com/story/turmoil-black-lives-matter-political-speech-coinbase/",
+            "https://www.forbes.com/sites/rachelsandler/2020/10/08/60-employees-leave-coinbase-over-ceos-pledge-to-be-apolitical/#5e0848325a06",
+            "https://blog.coinbase.com/coinbase-is-a-mission-focused-company-af882df8804?gi=e4cb4315d1e5"
+        ],
+        "actions": [
+            "protest"
+        ],
+        "struggles": [
+            "ethics",
+            "discrimination"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "More than 60 Coinbase employees chose to leave the company, opting for a severance package, to protest CEO Brian Armstrong's assertion that employees should not participate in social activism in the workplace. This represents roughly 5% of the company's employees. This event follows several months of internal activism within the company after management failed to make a public statement on the Black Lives Matter movement.",
+        "online": true,
+        "locations": [
+            "san francisco-california-usa"
+        ],
+        "companies": [
+            "coinbase"
+        ],
+        "workers": 60,
+        "tags": [
+            "antiracism",
+            "blm"
+        ],
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 340,
+        "date": "2020/10/10",
+        "sources": [
+            "https://www.vice.com/amp/en_us/article/z3ejzx/facebook-workers-sign-petition-demanding-hazard-pay-for-content-moderators-who-have-to-go-back-to-the-office"
+        ],
+        "actions": [
+            "open letter"
+        ],
+        "struggles": [
+            "unfair labor practices"
+        ],
+        "employment_types": [
+            "contract workers"
+        ],
+        "description": "At least 290 Facebook employees and contractors signed a petition demanding a 50% wage increase as hazard pay for site moderators who have been forced to return to the office by October 12th of this year. Additional demands include compensation for all costs related to COVID-19 testing and treatment, as well as additional time off and an expedited time off review process. Accenture, which hired the moderators as contractors, informed them on October 1st that they would have to return to their office in Austin, Texas. A Facebook spokesperson said the reason for the return was that \"some of the most sensitive content can\u2019t be reviewed from home\". Full-time, directly hired Facebook employees don't have to return to the office until July 2021. ",
+        "online": true,
+        "locations": null,
+        "companies": [
+            "accenture",
+            "facebook"
+        ],
+        "workers": 290,
+        "tags": [
+            "coronavirus",
+            "moderators",
+            "coworker_solidarity"
+        ],
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 344,
+        "date": "2020/10/17",
+        "sources": [
+            "https://techcrunch.com/2020/09/29/shipt-shoppers-are-organizing-a-walkout-in-protest-of-new-pay-model/\nhttps://news.trust.org/item/20201016131049-xq8h3\nhttps://thehill.com/policy/technology/521290-shipt-workers-organize-most-targeted-protest-yet-over-new-pay-model"
+        ],
+        "actions": [
+            "strike",
+            "protest"
+        ],
+        "struggles": [
+            "pay and benefits"
+        ],
+        "employment_types": [
+            "blue collar workers",
+            "contract workers",
+            "gig workers"
+        ],
+        "description": "Shipt shoppers are organizing a handful of actions in protest of Shipt\u2019s new pay structure that began rolling out this month.  The first action is happening from Saturday, Oct. 17 through Oct. 19, when workers are calling on their fellow Shipt shoppers to walk out and boycott the company. Organizers are asking for shoppers not to schedule any hours or accept any orders during that time.",
+        "online": null,
+        "locations": [
+            "usa"
+        ],
+        "companies": [
+            "target",
+            "shipt"
+        ],
+        "workers": null,
+        "tags": [
+            "delivery_workers"
+        ],
+        "author": [
+            "anonymous"
+        ],
+        "latlngs": [
+            [
+                33.2469982,
+                -117.29321092216239
+            ]
+        ],
+        "addresses": [
+            "Target, San Luis Rey, Oceanside, San Diego County, California, United States of America"
+        ]
     }
 ]

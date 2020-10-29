@@ -1,40 +1,33 @@
 {
-    "id": 268,
-    "date": "2020/06/06",
+    "id": 342,
+    "date": "2020/06/04",
     "sources": [
-        "https://www.buzzfeednews.com/article/carolineodonovan/facebook-contractors-say-they-were-punished-for-wanting-a"
+        "https://www.axios.com/coinbase-controversy-b707973c-0f24-4d1e-9690-78ac5fdb94e7.html"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
-        "working conditions"
+        "discrimination"
     ],
     "employment_types": [
-        "contract workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Contract workers for Facebook in Austin, Texas, say they have been retaliated against for union organizing, resulting in two workers\u2019 departure in recent weeks. The workers, who help Facebook find and triage internal bugs, are unhappy with their employer, the India-based firm WiPro, and have been organizing in the workplace to pressure both companies for improvements. Recently, two people involved in the organizing campaign who were vocal about these issues departed the company. Both had posted heated messages on an internal message board about the need to improve conditions for the contingent workers and encouraging remaining staff to support a union drive, and say their departures followed retaliation from WiPro. Since January, the Communication Workers of America (CWA) labor union has been promoting its Campaign to Organize Digital Employees (CODE). The organization is especially interested in organizing workers who, like the Austin-based contingent Facebook workers, perform work for major tech firms but aren\u2019t directly employed by them.",
-    "online": null,
-    "locations": [
-        "austin-texas-usa"
-    ],
+    "description": "Employees at Coinbase held a virtual walkout following an \"ask me anything\" session with company management where CEO Brian Armstrong did not indicate that the company would be willing to publicly express support for the Black Lives Matter movement. WIRED reports: \"Pressed on whether the company would say the words \u201cBlack Lives Matter,\u201d Armstrong again demurred. 'TBD'\"",
+    "online": true,
+    "locations": null,
     "companies": [
-        "facebook"
+        "coinbase"
     ],
     "workers": null,
     "tags": [
-        "retaliation"
+        "antiracism",
+        "blm"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            30.2691649,
-            -97.7455041
-        ]
-    ],
-    "addresses": [
-        "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States of America"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

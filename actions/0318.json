@@ -1,33 +1,66 @@
 {
-    "id": 337,
-    "date": "2020/09/28",
+    "id": 330,
+    "date": "2020/09/22",
     "sources": [
-        "https://discotech.tech/techtruths",
-        "https://twitter.com/discotechorg/status/1310613703126114304?s=19"
+        "https://www.vice.com/amp/en_us/article/g5p333/uk-tech-workers-launch-first-national-effort-to-unionize-tech-industry"
     ],
     "actions": [
-        "resources"
+        "union drive"
     ],
     "struggles": [
-        "na"
+        "working conditions"
     ],
     "employment_types": [
+        "blue collar workers",
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "A group of cross-company organizers in tech have started a repository called \"Tech Truths\" that highlights incidents of discrimination in tech, including \"discrimination by race, gender, sexual orientation, disability status, immigration status, and more\". To date (10/7/2020), 107 different stories of discrimination have been shared and published.",
-    "online": true,
-    "locations": null,
-    "companies": null,
-    "workers": 107,
+    "description": "Tech workers in the U.K. have started a union aimed at organizing a wide array of tech workers in the country. The United Tech and Allied Workers, a branch of the Communications Workers Union, offers legal counsel and representation at employment tribunals for its members. Under U.K. law, employees can join a union even if that union has not been recognized by their employer. In an interview with Vice, a member highlighted the union's \"very broad definition of a tech worker\", which spans white collar and blue collar labor.",
+    "online": null,
+    "locations": [
+        "uk"
+    ],
+    "companies": [
+        "google",
+        "amazon",
+        "microsoft",
+        "samsung",
+        "deliveroo"
+    ],
+    "workers": 30,
     "tags": [
-        "antiracism",
-        "blm",
         "industry_solidarity"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            51.5333771,
+            -0.1258455
+        ],
+        [
+            51.4669891,
+            0.3527505
+        ],
+        [
+            51.5149845,
+            -0.1421889
+        ],
+        [
+            53.7989164,
+            -1.541806
+        ],
+        [
+            51.5314216,
+            -0.1113624
+        ]
+    ],
+    "addresses": [
+        "Google, 6, Pancras Road, London Borough of Camden, London, Greater London, England, N1C 4BJ, United Kingdom",
+        "Amazon, Gaylor Road, Tilbury, Thurrock, East of England, England, RM18 7AS, United Kingdom",
+        "Microsoft Store, Regent Street, Fitzrovia, City of Westminster, London, Greater London, England, W1B 2EP, United Kingdom",
+        "Samsung, 89-91, Briggate, Steander, Lovell Park, Leeds, West Yorkshire, Yorkshire and the Humber, England, LS1 6NP, United Kingdom",
+        "Deliveroo, Pentonville Road, Pentonville, Finsbury, London Borough of Islington, London, Greater London, England, N1 9JB, United Kingdom"
+    ]
 }
