@@ -1132,8 +1132,8 @@
         ],
         "latlngs": [
             [
-                50.8453279,
-                9.678334853465138
+                50.8508129,
+                9.7361864
             ],
             [
                 51.3622584,
@@ -1141,7 +1141,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Logistik GmbH, 1, Eichhof, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
+            "Amazon-Stra\u00dfe, Hohe Luft, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
             "Amazon, 1, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland"
         ]
     },
@@ -1208,8 +1208,8 @@
         ],
         "latlngs": [
             [
-                50.8453279,
-                9.678334853465138
+                50.8508129,
+                9.7361864
             ],
             [
                 51.3622584,
@@ -1217,7 +1217,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Logistik GmbH, 1, Eichhof, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
+            "Amazon-Stra\u00dfe, Hohe Luft, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
             "Amazon, 1, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland"
         ]
     },
@@ -1254,8 +1254,8 @@
         ],
         "latlngs": [
             [
-                50.8453279,
-                9.678334853465138
+                50.8508129,
+                9.7361864
             ],
             [
                 51.3622584,
@@ -1263,7 +1263,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Logistik GmbH, 1, Eichhof, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
+            "Amazon-Stra\u00dfe, Hohe Luft, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
             "Amazon, 1, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland"
         ]
     },
@@ -1337,8 +1337,8 @@
         ],
         "latlngs": [
             [
-                50.8453279,
-                9.678334853465138
+                50.8508129,
+                9.7361864
             ],
             [
                 51.3622584,
@@ -1358,7 +1358,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Logistik GmbH, 1, Eichhof, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
+            "Amazon-Stra\u00dfe, Hohe Luft, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
             "Amazon, 1, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland",
             "Amazon-Logistikzentrum, Graben, Landkreis Augsburg, Bayern, 86836, Deutschland",
             "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
@@ -2359,15 +2359,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                40.65532605,
-                -73.79478942223645
-            ]
-        ],
-        "addresses": [
-            "Uber Limo Livery Hold Lot, Cargo Plaza Road, Queens, Queens County, New York, 11430, United States of America"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 58,
@@ -4386,15 +4379,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                40.65532605,
-                -73.79478942223645
-            ]
-        ],
-        "addresses": [
-            "Uber Limo Livery Hold Lot, Cargo Plaza Road, Queens, Queens County, New York, 11430, United States of America"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 109,
@@ -4882,15 +4868,8 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": [
-            [
-                40.7321996,
-                -73.9598257
-            ]
-        ],
-        "addresses": [
-            "Kickstarter HQ, West Street, Brooklyn, Kings County, New York, 11222, United States of America"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 122,
@@ -7847,15 +7826,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                40.7321996,
-                -73.9598257
-            ]
-        ],
-        "addresses": [
-            "Kickstarter HQ, West Street, Brooklyn, Kings County, New York, 11222, United States of America"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 194,
@@ -8428,16 +8400,12 @@
                 -122.08237793989416
             ],
             [
-                37.778011,
-                -122.4121644
+                32.8710021,
+                -117.2271086
             ],
             [
                 37.484668049999996,
                 -122.1483654685629
-            ],
-            [
-                40.7321996,
-                -73.9598257
             ],
             [
                 40.7007485,
@@ -8446,9 +8414,8 @@
         ],
         "addresses": [
             "Google, Mountain View, Santa Clara County, California, United States of America",
-            "WeWork, 1161, Mission Street, West SoMa, California, 94103, United States of America",
+            "WeWork, Aventine Courtyard, La Jolla Colony, University City, San Diego, San Diego County, California, 92161, United States of America",
             "Facebook, San Francisco Bay Trail, Menlo Park, San Mateo County, California, 94025-1246, United States of America",
-            "Kickstarter HQ, West Street, Brooklyn, Kings County, New York, 11222, United States of America",
             "WeWork, Market Street, Brooklyn Navy Yard, Brooklyn, Kings County, New York, 11251, United States of America"
         ]
     },
@@ -8662,15 +8629,8 @@
         "author": [
             "ericandrewlewis"
         ],
-        "latlngs": [
-            [
-                40.6193387,
-                -74.0727749
-            ]
-        ],
-        "addresses": [
-            "Amazon Court, Staten Island, Richmond County, New York, 10304, United States of America"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 213,
@@ -8709,8 +8669,8 @@
         ],
         "latlngs": [
             [
-                50.8453279,
-                9.678334853465138
+                50.8508129,
+                9.7361864
             ],
             [
                 51.3622584,
@@ -8721,8 +8681,8 @@
                 7.4912868
             ],
             [
-                51.5371004,
-                6.5876793
+                51.653494949999995,
+                7.59464606445661
             ],
             [
                 51.653494949999995,
@@ -8734,10 +8694,10 @@
             ]
         ],
         "addresses": [
-            "Amazon Logistik GmbH, 1, Eichhof, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
+            "Amazon-Stra\u00dfe, Hohe Luft, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
             "Amazon, 1, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland",
             "Amazon stra\u00dfe, Industriepark A61/GVZ Koblenz, R\u00fcbenach, Koblenz, Rheinland-Pfalz, 56330, Deutschland",
-            "Amazon, Amazonstra\u00dfe, Winterswick, Rheinberg, Kreis Wesel, Nordrhein-Westfalen, 47495, Deutschland",
+            "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
             "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
             "Amazon-Logistikzentrum, Graben, Landkreis Augsburg, Bayern, 86836, Deutschland"
         ]
@@ -9463,15 +9423,8 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": [
-            [
-                40.7321996,
-                -73.9598257
-            ]
-        ],
-        "addresses": [
-            "Kickstarter HQ, West Street, Brooklyn, Kings County, New York, 11222, United States of America"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 233,
@@ -10257,15 +10210,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                40.6193387,
-                -74.0727749
-            ]
-        ],
-        "addresses": [
-            "Amazon Court, Staten Island, Richmond County, New York, 10304, United States of America"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 248,
@@ -10512,15 +10458,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                40.6193387,
-                -74.0727749
-            ]
-        ],
-        "addresses": [
-            "Amazon Court, Staten Island, Richmond County, New York, 10304, United States of America"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 253,
