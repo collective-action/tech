@@ -1,34 +1,33 @@
 {
-    "id": 338,
-    "date": "2020/08/12",
+    "id": 299,
+    "date": "2020/08/01",
     "sources": [
-        "https://www.printmag.com/post/tech-can-do-better-an-industry-wide-wake-up-call",
-        "https://www.instagram.com/techcandobetter/",
-        "https://docs.google.com/forms/d/e/1FAIpQLSck1JZR5FdfWbRB7OOgCPBCVGIS0kB-zLHN-Q3J6PZORRUP3w/viewform"
+        "https://www.vice.com/en_au/article/ep4qdz/amazon-workers-blocked-delivery-trucks-from-leaving-a-warehouse-for-hours"
     ],
     "actions": [
-        "resources"
+        "strike",
+        "protest"
     ],
     "struggles": [
-        "discrimination"
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "inhouse workers",
+        "blue collar workers"
     ],
-    "description": "A group of Black employees across tech companies have launched an initiative, Tech Can Do Better, to call for greater equity in the workplace. An Instagram account promotes the visibility and highlights the accomplishments of Black employees in tech. The group has also started an online pledge where workers can commit to \"mak[ing] the changes needed to achieve equitable hiring, promotions, and compensation, mak[ing] significant Investment in social equity and driv[ing] advocacy for equitable legislation.\"",
-    "online": true,
-    "locations": null,
-    "companies": null,
-    "workers": null,
+    "description": "A caravan of protestors demanding increased pay and COVID-19 protections disrupted business at an Amazon Distribution Center in the San Francisco Bay Area. The caravan was organized by Bay Area Amazonians.",
+    "online": null,
+    "locations": [
+        "San-Leandro-California-USA"
+    ],
+    "companies": [
+        "amazon"
+    ],
+    "workers": 30,
     "tags": [
-        "antiracism",
-        "blm",
-        "industry_solidarity"
+        "coronavirus"
     ],
-    "author": [
-        "nataliyaned"
-    ],
+    "author": null,
     "latlngs": null,
     "addresses": null
 }

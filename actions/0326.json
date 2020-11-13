@@ -1,44 +1,38 @@
 {
-    "id": 344,
-    "date": "2020/10/17",
+    "id": 341,
+    "date": "2020/10/08",
     "sources": [
-        "https://techcrunch.com/2020/09/29/shipt-shoppers-are-organizing-a-walkout-in-protest-of-new-pay-model/\nhttps://news.trust.org/item/20201016131049-xq8h3\nhttps://thehill.com/policy/technology/521290-shipt-workers-organize-most-targeted-protest-yet-over-new-pay-model"
+        "https://www.wired.com/story/turmoil-black-lives-matter-political-speech-coinbase/",
+        "https://www.forbes.com/sites/rachelsandler/2020/10/08/60-employees-leave-coinbase-over-ceos-pledge-to-be-apolitical/#5e0848325a06",
+        "https://blog.coinbase.com/coinbase-is-a-mission-focused-company-af882df8804?gi=e4cb4315d1e5"
     ],
     "actions": [
-        "strike",
         "protest"
     ],
     "struggles": [
-        "pay and benefits"
+        "ethics",
+        "discrimination"
     ],
     "employment_types": [
-        "blue collar workers",
-        "contract workers",
-        "gig workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Shipt shoppers are organizing a handful of actions in protest of Shipt\u2019s new pay structure that began rolling out this month.  The first action is happening from Saturday, Oct. 17 through Oct. 19, when workers are calling on their fellow Shipt shoppers to walk out and boycott the company. Organizers are asking for shoppers not to schedule any hours or accept any orders during that time.",
-    "online": null,
+    "description": "More than 60 Coinbase employees chose to leave the company, opting for a severance package, to protest CEO Brian Armstrong's assertion that employees should not participate in social activism in the workplace. This represents roughly 5% of the company's employees. This event follows several months of internal activism within the company after management failed to make a public statement on the Black Lives Matter movement.",
+    "online": true,
     "locations": [
-        "usa"
+        "san francisco-california-usa"
     ],
     "companies": [
-        "target",
-        "shipt"
+        "coinbase"
     ],
-    "workers": null,
+    "workers": 60,
     "tags": [
-        "delivery_workers"
+        "antiracism",
+        "blm"
     ],
     "author": [
-        "anonymous"
+        "nataliyaned"
     ],
-    "latlngs": [
-        [
-            33.2469982,
-            -117.29321092216239
-        ]
-    ],
-    "addresses": [
-        "Target, San Luis Rey, Oceanside, San Diego County, California, United States of America"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

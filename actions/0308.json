@@ -1,35 +1,36 @@
 {
-    "id": 320,
-    "date": "2020/08/19",
+    "id": 310,
+    "date": "2020/08/14",
     "sources": [
-        "https://leftfootforward.org/2020/08/give-us-better-pay-and-conditions-say-sheffield-deliveroo-drivers/"
+        "https://www.nytimes.com/2020/08/14/technology/pinterest-walkout-equality.html",
+        "https://techcrunch.com/2020/08/14/pinterest-employees-are-walking-out-today-in-light-of-discrimination-allegations/",
+        "https://www.theverge.com/2020/8/14/21369035/pinterest-virtual-walkout-protest-discrimination-slack-blind",
+        "https://www.usatoday.com/story/money/2020/08/13/pinterest-workers-walk-out-calling-end-workplace-bias/3369999001/"
     ],
     "actions": [
         "protest",
+        "open letter",
         "strike"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "discrimination"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Deliveroo workers in Sheffield, England kicked off two weeks of strike actions to demand higher pay and better working conditions, including the right to appeal terminations. The actions are designed to target companies, e.g. certain restaurants, that workers believe to be part of the exploitation. An outright strike was deemed too expensive by the workers, many of whom report working 60-70 hours a week to make ends meet. Actions will also include flyering and a demonstration.",
-    "online": null,
-    "locations": [
-        "sheffield-uk"
-    ],
+    "description": "Pinterest employees staged a virtual walk out by posting messages to Slack and then logging off their work accounts, to protest the racial and gender discrimination brought to light by Ifeoma Ozoma and Aerica Shimizu Banks, and then again by Francoise Brougher. Workers also signed onto an online petition to CEO Ben Silberman calling for an end to discrimination and retaliation by the company.",
+    "online": true,
+    "locations": null,
     "companies": [
-        "deliveroo"
+        "pinterest"
     ],
-    "workers": null,
+    "workers": 236,
     "tags": [
-        "delivery_workers"
+        "antiracism",
+        "blm"
     ],
-    "author": [
-        "nataliyaned"
-    ],
+    "author": null,
     "latlngs": null,
     "addresses": null
 }

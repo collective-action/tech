@@ -11703,6 +11703,39 @@
         ]
     },
     {
+        "id": 346,
+        "date": "2020/06/26",
+        "sources": [
+            "https://www.cbc.ca/news/canada/toronto/uber-drivers-union-ufcw-toronto-1.5190766"
+        ],
+        "actions": [
+            "union representation"
+        ],
+        "struggles": [
+            "working conditions"
+        ],
+        "employment_types": [
+            "gig workers"
+        ],
+        "description": "Approximately 300 Uber Black drivers in the Toronto area voted to unionize with the United Food and Commercial Workers (UFCW). ",
+        "online": null,
+        "locations": [
+            "toronto-canada"
+        ],
+        "companies": [
+            "uber"
+        ],
+        "workers": 300,
+        "tags": [
+            "drivers"
+        ],
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
         "id": 292,
         "date": "2020/07/01",
         "sources": [
@@ -12014,6 +12047,42 @@
         "addresses": [
             "Amazon Pickup, 1, Magazine Street, Central Square, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02139, United States of America"
         ]
+    },
+    {
+        "id": 348,
+        "date": "2020/08/01",
+        "sources": [
+            "https://www.berkeleyside.com/2020/10/13/amazon-workers-want-to-unionize-their-east-bay-warehouse",
+            "https://www.youtube.com/watch?v=LpSrDtHhKVs"
+        ],
+        "actions": [
+            "protest"
+        ],
+        "struggles": [
+            "working conditions"
+        ],
+        "employment_types": [
+            "blue collar workers",
+            "inhouse workers"
+        ],
+        "description": "Amazon workers and supporters blocked the entrance of a San Leandro warehouse for several hours in a call for improved coronavirus safety measures.",
+        "online": true,
+        "locations": [
+            "san leandro-california-usa"
+        ],
+        "companies": [
+            "amazon"
+        ],
+        "workers": null,
+        "tags": [
+            "coronavirus",
+            "drivers"
+        ],
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 299,
@@ -12985,6 +13054,51 @@
         ],
         "latlngs": null,
         "addresses": null
+    },
+    {
+        "id": 347,
+        "date": "2020/10/13",
+        "sources": [
+            "https://www.nbcnews.com/news/amp/ncna1243217",
+            "https://www.kmov.com/thousands-of-workers-petition-amazon-for-paid-time-off-to-vote/article_c29297aa-e08d-5aae-b887-75b506e79fef.html",
+            "https://www.cbsnews.com/news/amazon-workers-petition-election-day-holiday-paid-time-off/",
+            "https://amazonemployees4climatejustice.medium.com/jeff-bezos-give-all-amazon-workers-pto-to-vote-dc0003434d65"
+        ],
+        "actions": [
+            "open letter"
+        ],
+        "struggles": [
+            "unfair labor practices",
+            "ethics"
+        ],
+        "employment_types": [
+            "blue collar workers",
+            "inhouse workers"
+        ],
+        "description": "More than 6,400 Amazon workers signed an internal petition calling for time off to vote for its entire workforce ahead of the 2020 U.S. Election. Other companies like Walmart, Apple, and Target have policies allowing for paid time off for voting. Amazon Employees for Climate Justice organized the petition.",
+        "online": true,
+        "locations": [
+            "usa"
+        ],
+        "companies": [
+            "amazon"
+        ],
+        "workers": 6400,
+        "tags": [
+            "politics"
+        ],
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": [
+            [
+                47.6142939,
+                -122.3239636
+            ]
+        ],
+        "addresses": [
+            "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
+        ]
     },
     {
         "id": 344,
