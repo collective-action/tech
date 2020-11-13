@@ -11736,6 +11736,47 @@
         "addresses": null
     },
     {
+        "id": 353,
+        "date": "2020/06/26",
+        "sources": [
+            "https://www.politico.com/news/2020/06/26/supreme-court-canada-uber-lawsuit-341644"
+        ],
+        "actions": [
+            "legal action"
+        ],
+        "struggles": [
+            "pay and benefits",
+            "unfair labor practices"
+        ],
+        "employment_types": [
+            "gig workers"
+        ],
+        "description": "The Supreme Court of Canada allowed a C$400 million lawsuit against Uber by its drivers to proceed. The lawsuit alleges that drivers are, in fact, company employees.",
+        "online": null,
+        "locations": [
+            "canada"
+        ],
+        "companies": [
+            "uber"
+        ],
+        "workers": null,
+        "tags": [
+            "drivers"
+        ],
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": [
+            [
+                42.9833851,
+                -81.2513098
+            ]
+        ],
+        "addresses": [
+            "Uber, Dundas Street, Wortley Village, London, Southwestern Ontario, Ontario, N6A 1G2, Canada"
+        ]
+    },
+    {
         "id": 292,
         "date": "2020/07/01",
         "sources": [
@@ -12076,7 +12117,7 @@
         "workers": null,
         "tags": [
             "coronavirus",
-            "drivers"
+            "delivery_workers"
         ],
         "author": [
             "nataliyaned"
@@ -13101,6 +13142,91 @@
         ]
     },
     {
+        "id": 349,
+        "date": "2020/10/14",
+        "sources": [
+            "https://calmatters.org/california-divide/2020/10/amazon-warehouse-workers-bezos-mansion-prime-day/"
+        ],
+        "actions": [
+            "protest"
+        ],
+        "struggles": [
+            "pay and benefits"
+        ],
+        "employment_types": [
+            "blue collar workers",
+            "inhouse workers"
+        ],
+        "description": "Amazon workers staged a vigil at Jeff Bezos' Beverly Hills mansion for fellow workers that had died as a result of working through the coronavirus pandemic. The event was organized by  the Warehouse Worker Resource Center. ",
+        "online": null,
+        "locations": [
+            "los angeles-california-usa"
+        ],
+        "companies": [
+            "amazon"
+        ],
+        "workers": null,
+        "tags": [
+            "delivery_workers",
+            "coronavirus"
+        ],
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": [
+            [
+                33.976708,
+                -118.41819837607494
+            ]
+        ],
+        "addresses": [
+            "Whole Foods Market, West Jefferson Boulevard, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States of America"
+        ]
+    },
+    {
+        "id": 350,
+        "date": "2020/10/17",
+        "sources": [
+            "https://fortune.com/2020/10/16/amazon-employee-activists-union-climate-justice/",
+            "https://www.cbsnews.com/news/amazon-workers-petition-election-day-holiday-paid-time-off/"
+        ],
+        "actions": [
+            "protest"
+        ],
+        "struggles": [
+            "working conditions",
+            "ethics"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "Amazon Employees for Climate Justice organized a rally in Seattle to call for paid time off for workers to vote on Election Day. A few hundred people attended the rally according to CBS News. Amazon stated that managers have been instructed to approve time-off requests for voting. ",
+        "online": null,
+        "locations": [
+            "seattle-washington-usa"
+        ],
+        "companies": [
+            "amazon"
+        ],
+        "workers": null,
+        "tags": [
+            "politics"
+        ],
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": [
+            [
+                47.6142939,
+                -122.3239636
+            ]
+        ],
+        "addresses": [
+            "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
+        ]
+    },
+    {
         "id": 344,
         "date": "2020/10/17",
         "sources": [
@@ -13142,6 +13268,166 @@
         ],
         "addresses": [
             "Target, San Luis Rey, Oceanside, San Diego County, California, United States of America"
+        ]
+    },
+    {
+        "id": 352,
+        "date": "2020/10/22",
+        "sources": [
+            "https://www.nytimes.com/2020/10/22/business/amazon-shutdown-threat-election-day.html"
+        ],
+        "actions": [
+            "strike"
+        ],
+        "struggles": [
+            "working conditions",
+            "ethics"
+        ],
+        "employment_types": [
+            "blue collar workers",
+            "inhouse workers"
+        ],
+        "description": "Amazon workers, organized by Amazon Employees for Climate Justice, are calling for a 15-minute work stoppage at warehouses across the country on Halloween in a push for paid time-off for voting on Election Day. ",
+        "online": true,
+        "locations": [
+            "usa"
+        ],
+        "companies": [
+            "amazon"
+        ],
+        "workers": null,
+        "tags": [
+            "politics"
+        ],
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": [
+            [
+                47.6142939,
+                -122.3239636
+            ]
+        ],
+        "addresses": [
+            "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
+        ]
+    },
+    {
+        "id": 351,
+        "date": "2020/10/22",
+        "sources": [
+            "https://www.washingtonpost.com/technology/2020/10/22/uber-prop22-suit/"
+        ],
+        "actions": [
+            "legal action"
+        ],
+        "struggles": [
+            "ethics"
+        ],
+        "employment_types": [
+            "gig workers"
+        ],
+        "description": "A group of California Uber drivers sued the company for asking drivers to support Prop. 22 (a state proposition that would overrule attempts to classify gig workers as employees) through in-app messaging. The suit seeks an injunction that would stop the messages. The plaintiffs were active in the movement against Prop. 22. They claimed that the company's message that 72% of its drivers support Prop. 22 was false because that percentage was the result of company pressures (including workers' concerns that the company was surveilling their survey answers on the app). ",
+        "online": null,
+        "locations": [
+            "san francisco-california-usa"
+        ],
+        "companies": [
+            "uber"
+        ],
+        "workers": null,
+        "tags": null,
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": [
+            [
+                37.7899898,
+                -122.3999799
+            ]
+        ],
+        "addresses": [
+            "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America"
+        ]
+    },
+    {
+        "id": 355,
+        "date": "2020/10/26",
+        "sources": [
+            "https://www.bbc.co.uk/news/amp/business-54698858"
+        ],
+        "actions": [
+            "legal action"
+        ],
+        "struggles": [
+            "unfair labor practices"
+        ],
+        "employment_types": [
+            "gig workers"
+        ],
+        "description": "British Uber drivers are launching a lawsuit in the Netherlands to protest the company's use of algorithms to fire workers. The App Drivers & Couriers Union (ADCU) claims there are over 1,000 cases of drivers being wrongfully fired and that this violates Article 22 of the GDPR. This Article grants technology users a right to an explanation for any automated decisions. ",
+        "online": null,
+        "locations": [
+            "netherlands"
+        ],
+        "companies": [
+            "uber"
+        ],
+        "workers": null,
+        "tags": [
+            "drivers"
+        ],
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": [
+            [
+                50.9812235,
+                6.008447
+            ]
+        ],
+        "addresses": [
+            "Balanceer over de boomstammen!, Leiffenderhofweg, Schinveld, Beekdaelen, Limburg, Nederland, 6451, Nederland"
+        ]
+    },
+    {
+        "id": 354,
+        "date": "2020/10/27",
+        "sources": [
+            "https://www.washingtonpost.com/context/a-statement-on-caste-bias-in-silicon-valley-from-30-dalit-women-engineers/d692b4f8-2710-41c3-9d5f-ea55c13bcc50/?itid=lk_interstitial_manual_16",
+            "https://www.washingtonpost.com/technology/2020/10/27/indian-caste-bias-silicon-valley/"
+        ],
+        "actions": [
+            "open letter"
+        ],
+        "struggles": [
+            "discrimination"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "A group of 30 Indian female engineers who were born into the Dalit case shared a statement with the Washington Post describing their experience of casteism and sexism in Silicon Valley. The group called for American corporations to adopt caste as a protected category, treated on the same terms as gender, race, and sexuality. ",
+        "online": true,
+        "locations": [
+            "usa"
+        ],
+        "companies": null,
+        "workers": 30,
+        "tags": [
+            "sexism"
+        ],
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": [
+            [
+                39.7837304,
+                -100.4458825
+            ]
+        ],
+        "addresses": [
+            "United States"
         ]
     }
 ]

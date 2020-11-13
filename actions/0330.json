@@ -1,21 +1,20 @@
 {
-    "id": 336,
-    "date": "2020/10/04",
+    "id": 349,
+    "date": "2020/10/14",
     "sources": [
-        "https://www.latimes.com/california/story/2020-10-04/amazon-jeff-bezos-protest-beverly-hills"
+        "https://calmatters.org/california-divide/2020/10/amazon-warehouse-workers-bezos-mansion-prime-day/"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
-        "working conditions",
         "pay and benefits"
     ],
     "employment_types": [
         "blue collar workers",
         "inhouse workers"
     ],
-    "description": "Amazon workers, organized by the Congress of Essential Workers, protested in front of Jeff Bezos' Beverley Hills mansion, calling for improved working conditions under covid, hazard pay, and better health benefits. ",
+    "description": "Amazon workers staged a vigil at Jeff Bezos' Beverly Hills mansion for fellow workers that had died as a result of working through the coronavirus pandemic. The event was organized by  the Warehouse Worker Resource Center. ",
     "online": null,
     "locations": [
         "los angeles-california-usa"
@@ -23,8 +22,9 @@
     "companies": [
         "amazon"
     ],
-    "workers": 100,
+    "workers": null,
     "tags": [
+        "delivery_workers",
         "coronavirus"
     ],
     "author": [

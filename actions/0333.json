@@ -1,0 +1,42 @@
+{
+    "id": 352,
+    "date": "2020/10/22",
+    "sources": [
+        "https://www.nytimes.com/2020/10/22/business/amazon-shutdown-threat-election-day.html"
+    ],
+    "actions": [
+        "strike"
+    ],
+    "struggles": [
+        "working conditions",
+        "ethics"
+    ],
+    "employment_types": [
+        "blue collar workers",
+        "inhouse workers"
+    ],
+    "description": "Amazon workers, organized by Amazon Employees for Climate Justice, are calling for a 15-minute work stoppage at warehouses across the country on Halloween in a push for paid time-off for voting on Election Day. ",
+    "online": true,
+    "locations": [
+        "usa"
+    ],
+    "companies": [
+        "amazon"
+    ],
+    "workers": null,
+    "tags": [
+        "politics"
+    ],
+    "author": [
+        "nataliyaned"
+    ],
+    "latlngs": [
+        [
+            47.6142939,
+            -122.3239636
+        ]
+    ],
+    "addresses": [
+        "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
+    ]
+}

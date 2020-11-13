@@ -1,33 +1,36 @@
 {
-    "id": 299,
+    "id": 348,
     "date": "2020/08/01",
     "sources": [
-        "https://www.vice.com/en_au/article/ep4qdz/amazon-workers-blocked-delivery-trucks-from-leaving-a-warehouse-for-hours"
+        "https://www.berkeleyside.com/2020/10/13/amazon-workers-want-to-unionize-their-east-bay-warehouse",
+        "https://www.youtube.com/watch?v=LpSrDtHhKVs"
     ],
     "actions": [
-        "strike",
         "protest"
     ],
     "struggles": [
-        "pay and benefits"
+        "working conditions"
     ],
     "employment_types": [
-        "inhouse workers",
-        "blue collar workers"
+        "blue collar workers",
+        "inhouse workers"
     ],
-    "description": "A caravan of protestors demanding increased pay and COVID-19 protections disrupted business at an Amazon Distribution Center in the San Francisco Bay Area. The caravan was organized by Bay Area Amazonians.",
-    "online": null,
+    "description": "Amazon workers and supporters blocked the entrance of a San Leandro warehouse for several hours in a call for improved coronavirus safety measures.",
+    "online": true,
     "locations": [
-        "San-Leandro-California-USA"
+        "san leandro-california-usa"
     ],
     "companies": [
         "amazon"
     ],
-    "workers": 30,
+    "workers": null,
     "tags": [
-        "coronavirus"
+        "coronavirus",
+        "delivery_workers"
     ],
-    "author": null,
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": null,
     "addresses": null
 }

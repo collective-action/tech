@@ -1,33 +1,32 @@
 {
-    "id": 317,
-    "date": "2020/08/22",
+    "id": 320,
+    "date": "2020/08/19",
     "sources": [
-        "https://mp.weixin.qq.com/s/bvbmlUIPatMX4xzDvwU8FQ"
+        "https://leftfootforward.org/2020/08/give-us-better-pay-and-conditions-say-sheffield-deliveroo-drivers/"
     ],
     "actions": [
         "protest",
-        "open letter",
         "strike"
     ],
     "struggles": [
-        "pay and benefits"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
         "gig workers"
     ],
-    "description": "Didi rideshare workers have started holding strikes in a number of Chinese cities including Suzhou, Nanjing, Nantong, and Zunyi City to protest high commission fees on the platform. Drivers in Zunyi City also issued a letter with 5 demands to their local government and transportation department. ",
+    "description": "Deliveroo workers in Sheffield, England kicked off two weeks of strike actions to demand higher pay and better working conditions, including the right to appeal terminations. The actions are designed to target companies, e.g. certain restaurants, that workers believe to be part of the exploitation. An outright strike was deemed too expensive by the workers, many of whom report working 60-70 hours a week to make ends meet. Actions will also include flyering and a demonstration.",
     "online": null,
     "locations": [
-        "suzhou-china",
-        "nanjing-china",
-        "nantong-china",
-        "zunyi-china"
+        "sheffield-uk"
     ],
     "companies": [
-        "didi"
+        "deliveroo"
     ],
     "workers": null,
-    "tags": null,
+    "tags": [
+        "delivery_workers"
+    ],
     "author": [
         "nataliyaned"
     ],
