@@ -20,7 +20,7 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">15/11/2020 10:20AM</td>
+    <td data-summary="timestamp">15/11/2020 11:28AM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
@@ -48,7 +48,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2020-10-27
    </td>
    <td>
-    A group of 30 Indian female engineers who were born into the Dalit case shared a statement with the Washington Post describing their experience of casteism and sexism in Silicon Valley. The group called for American corporations to adopt caste as a protected category, treated on the same terms as gender, race, and sexuality.
+    A group of 30 Indian female engineers who were born into the Dalit caste shared a statement with the Washington Post describing their experience of casteism and sexism in Silicon Valley. The group called for American corporations to adopt caste as a protected category, treated on the same terms as gender, race, and sexuality.
    </td>
    <td>
     <a href="/actions/0336.json">
