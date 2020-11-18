@@ -160,7 +160,8 @@
             "ethics"
         ],
         "employment_types": [
-            "white collar workers"
+            "white collar workers",
+            "inhouse workers"
         ],
         "description": "IBM workers formed an organization, IBM: Speak Up!, to protest the company's involvement with apartheid South Africa. The company created the computer system that upheld the country's passbook system. The company officially divested from South Africa in 1987.",
         "online": null,
@@ -193,7 +194,8 @@
             "ethics"
         ],
         "employment_types": [
-            "white collar workers"
+            "white collar workers",
+            "inhouse workers"
         ],
         "description": "Fourteen employees at AT&T sign a letter warning the U.S. military of over 10,000 possible errors in the Star Wars system.",
         "online": null,
@@ -296,7 +298,8 @@
             "pay and benefits"
         ],
         "employment_types": [
-            "contract workers"
+            "contract workers",
+            "white collar workers"
         ],
         "description": "A law firm representing 10 current and former contract workers at Microsoft Corp. filed a lawsuit in U.S. District Court on Tuesday against the software giant, seeking damages and full-time employee benefits for its plaintiffs and thousands of other 'misclassified' temporary employees. The 10 plaintiffs seek class-action status because they want to include some 6,000 current full-time Microsoft employees who have been 'misclassified as nonemployees' under 'various erroneous labels' and denied company benefits.",
         "online": null,
@@ -3849,12 +3852,12 @@
         ],
         "latlngs": [
             [
-                37.5462137,
-                126.9720517
+                37.2630571,
+                127.0646938
             ]
         ],
         "addresses": [
-            "Samsung, \ud55c\uac15\ub300\ub85c, \ud574\ubc29\ucd0c, \uc6a9\uc0b0\uad6c, Namyeong-dong, 140-800, \ub300\ud55c\ubbfc\uad6d"
+            "Dream Vill, 337-52, \uc0bc\uc131\ub85c302\ubc88\uae38, \uc601\ud1b5\uad6c, \uc218\uc6d0\uc2dc, \uacbd\uae30\ub3c4, 16513, \ub300\ud55c\ubbfc\uad6d"
         ]
     },
     {
