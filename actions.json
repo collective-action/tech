@@ -1211,16 +1211,11 @@
         ],
         "latlngs": [
             [
-                50.8508129,
-                9.7361864
-            ],
-            [
                 51.3622584,
                 12.452329749225527
             ]
         ],
         "addresses": [
-            "Amazon-Stra\u00dfe, Hohe Luft, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
             "Amazon, 1, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland"
         ]
     },
@@ -1257,16 +1252,11 @@
         ],
         "latlngs": [
             [
-                50.8508129,
-                9.7361864
-            ],
-            [
                 51.3622584,
                 12.452329749225527
             ]
         ],
         "addresses": [
-            "Amazon-Stra\u00dfe, Hohe Luft, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
             "Amazon, 1, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland"
         ]
     },
@@ -2682,11 +2672,16 @@
             [
                 39.3024491,
                 -120.5471773
+            ],
+            [
+                37.76728345,
+                -122.39233238171147
             ]
         ],
         "addresses": [
             "Facebook, San Francisco Bay Trail, Menlo Park, San Mateo County, California, 94025-1246, United States of America",
-            "Cisco, Placer County, California, 95278, United States of America"
+            "Cisco, Placer County, California, 95278, United States of America",
+            "Genentech Hall, Owens Street, Mission Bay, San Francisco, San Francisco City and County, California, 94158, United States of America"
         ]
     },
     {
@@ -2983,13 +2978,13 @@
                 7.59464606445661
             ],
             [
-                45.0777055,
-                9.454322716507177
+                40.722465,
+                -73.9977307
             ]
         ],
         "addresses": [
             "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
-            "Amazon, Cascina Sforza, Castel San Giovanni, Piacenza, Emilia-Romagna, Italia"
+            "Amazon, 72, Spring Street, Little Italy, Manhattan Community Board 2, Manhattan, New York County, New York, 10013, United States of America"
         ]
     },
     {
@@ -3428,12 +3423,12 @@
         ],
         "latlngs": [
             [
-                65.4102317,
-                -163.0526448
+                60.55580205,
+                -151.24858733591412
             ]
         ],
         "addresses": [
-            "Caviar Creek, Nome, Alaska, United States of America"
+            "alaska usa, Caviar Street, Kenai, Kenai Peninsula, Alaska, 99511, United States of America"
         ]
     },
     {
@@ -4200,15 +4195,8 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": [
-            [
-                37.3671049,
-                -120.5693229
-            ]
-        ],
-        "addresses": [
-            "Apron Avenue, Castle Airport Aviation & Development Center, Fluhr, Winton, Merced County, California, 95301, United States of America"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 105,
@@ -4254,8 +4242,8 @@
                 6.131329990388637
             ],
             [
-                45.0777055,
-                9.454322716507177
+                40.722465,
+                -73.9977307
             ],
             [
                 41.6274834,
@@ -4269,7 +4257,7 @@
         "addresses": [
             "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
             "Amazon, Augny, Metz, Moselle, Grand Est, France m\u00e9tropolitaine, 57685, France",
-            "Amazon, Cascina Sforza, Castel San Giovanni, Piacenza, Emilia-Romagna, Italia",
+            "Amazon, 72, Spring Street, Little Italy, Manhattan Community Board 2, Manhattan, New York County, New York, 10013, United States of America",
             "Amazon, Zaragoza, Arag\u00f3n, Espa\u00f1a",
             "Amazon, Gaylor Road, Tilbury, Thurrock, East of England, England, RM18 7AS, United Kingdom"
         ]
@@ -8672,10 +8660,6 @@
         ],
         "latlngs": [
             [
-                50.8508129,
-                9.7361864
-            ],
-            [
                 51.3622584,
                 12.452329749225527
             ],
@@ -8697,7 +8681,6 @@
             ]
         ],
         "addresses": [
-            "Amazon-Stra\u00dfe, Hohe Luft, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
             "Amazon, 1, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland",
             "Amazon stra\u00dfe, Industriepark A61/GVZ Koblenz, R\u00fcbenach, Koblenz, Rheinland-Pfalz, 56330, Deutschland",
             "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
@@ -9117,12 +9100,12 @@
         ],
         "latlngs": [
             [
-                22.350627,
-                114.1849161
+                22.2793278,
+                114.1628131
             ]
         ],
         "addresses": [
-            "\u9999\u6e2f Hong Kong, China \u4e2d\u56fd"
+            "\u9999\u6e2f\u5cf6 Hong Kong Island, \u9999\u6e2f Hong Kong, China \u4e2d\u56fd"
         ]
     },
     {
@@ -9614,15 +9597,8 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": [
-            [
-                35.2960341,
-                -120.6532192
-            ]
-        ],
-        "addresses": [
-            "Slack Street, San Luis Obispo, San Luis Obispo County, California, 93410, United States of America"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 237,
@@ -10935,13 +10911,13 @@
                 -122.3239636
             ],
             [
-                33.2469982,
-                -117.29321092216239
+                34.09143965,
+                -118.14724772762986
             ]
         ],
         "addresses": [
             "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America",
-            "Target, San Luis Rey, Oceanside, San Diego County, California, United States of America"
+            "Target, 2120, Main Street, Alhambra, Los Angeles County, California, 91801, United States of America"
         ]
     },
     {
@@ -11900,12 +11876,12 @@
         ],
         "latlngs": [
             [
-                33.2469982,
-                -117.29321092216239
+                34.09143965,
+                -118.14724772762986
             ]
         ],
         "addresses": [
-            "Target, San Luis Rey, Oceanside, San Diego County, California, United States of America"
+            "Target, 2120, Main Street, Alhambra, Los Angeles County, California, 91801, United States of America"
         ]
     },
     {
@@ -13265,12 +13241,12 @@
         ],
         "latlngs": [
             [
-                33.2469982,
-                -117.29321092216239
+                34.09143965,
+                -118.14724772762986
             ]
         ],
         "addresses": [
-            "Target, San Luis Rey, Oceanside, San Diego County, California, United States of America"
+            "Target, 2120, Main Street, Alhambra, Los Angeles County, California, 91801, United States of America"
         ]
     },
     {

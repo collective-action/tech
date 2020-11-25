@@ -27,13 +27,6 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            37.3671049,
-            -120.5693229
-        ]
-    ],
-    "addresses": [
-        "Apron Avenue, Castle Airport Aviation & Development Center, Fluhr, Winton, Merced County, California, 95301, United States of America"
-    ]
+    "latlngs": null,
+    "addresses": null
 }
