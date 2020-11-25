@@ -1135,16 +1135,11 @@
         ],
         "latlngs": [
             [
-                50.8508129,
-                9.7361864
-            ],
-            [
                 51.3622584,
                 12.452329749225527
             ]
         ],
         "addresses": [
-            "Amazon-Stra\u00dfe, Hohe Luft, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
             "Amazon, 1, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland"
         ]
     },
@@ -1330,10 +1325,6 @@
         ],
         "latlngs": [
             [
-                50.8508129,
-                9.7361864
-            ],
-            [
                 51.3622584,
                 12.452329749225527
             ],
@@ -1351,7 +1342,6 @@
             ]
         ],
         "addresses": [
-            "Amazon-Stra\u00dfe, Hohe Luft, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
             "Amazon, 1, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland",
             "Amazon-Logistikzentrum, Graben, Landkreis Augsburg, Bayern, 86836, Deutschland",
             "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
@@ -4823,12 +4813,12 @@
         ],
         "latlngs": [
             [
-                20.9670759,
-                -89.6237402
+                19.3292859,
+                -98.9236669
             ]
         ],
         "addresses": [
-            "M\u00e9rida, Yucat\u00e1n, M\u00e9xico"
+            "Merida, Ixtapaluca, Estado de M\u00e9xico, 56564, M\u00e9xico"
         ]
     },
     {
@@ -6992,8 +6982,8 @@
                 -122.4080358
             ],
             [
-                65.4102317,
-                -163.0526448
+                60.55580205,
+                -151.24858733591412
             ],
             [
                 30.4422494,
@@ -7002,7 +6992,7 @@
         ],
         "addresses": [
             "Doordash HQ, Stevenson Street, Union Square, San Francisco, San Francisco City and County, California, 94104, United States of America",
-            "Caviar Creek, Nome, Alaska, United States of America",
+            "alaska usa, Caviar Street, Kenai, Kenai Peninsula, Alaska, 99511, United States of America",
             "The Square, Tallahassee, Leon County, Florida, United States of America"
         ]
     },
@@ -8391,8 +8381,8 @@
                 -122.08237793989416
             ],
             [
-                32.8710021,
-                -117.2271086
+                37.778011,
+                -122.4121644
             ],
             [
                 37.484668049999996,
@@ -8405,7 +8395,7 @@
         ],
         "addresses": [
             "Google, Mountain View, Santa Clara County, California, United States of America",
-            "WeWork, Aventine Courtyard, La Jolla Colony, University City, San Diego, San Diego County, California, 92161, United States of America",
+            "WeWork, 1161, Mission Street, West SoMa, California, 94103, United States of America",
             "Facebook, San Francisco Bay Trail, Menlo Park, San Mateo County, California, 94025-1246, United States of America",
             "WeWork, Market Street, Brooklyn Navy Yard, Brooklyn, Kings County, New York, 11251, United States of America"
         ]
@@ -9802,7 +9792,7 @@
             ]
         ],
         "addresses": [
-            "Amazon.fr ORY1, Rue de l'Olivier, Deret Logistique, Saran, Orl\u00e9ans, Loiret, Centre-Val de Loire, France m\u00e9tropolitaine, 45770, France",
+            "Amazon.fr ORY1, Rue de l'Olivier, Deret Logistique, Les Bordes, Saran, Orl\u00e9ans, Loiret, Centre-Val de Loire, France m\u00e9tropolitaine, 45770, France",
             "Amazon, 235, Rue de Charenton, Quartier de Bercy, Paris, \u00cele-de-France, France m\u00e9tropolitaine, 75012, France"
         ]
     },
@@ -9887,7 +9877,7 @@
             ]
         ],
         "addresses": [
-            "Amazon.fr ORY1, Rue de l'Olivier, Deret Logistique, Saran, Orl\u00e9ans, Loiret, Centre-Val de Loire, France m\u00e9tropolitaine, 45770, France"
+            "Amazon.fr ORY1, Rue de l'Olivier, Deret Logistique, Les Bordes, Saran, Orl\u00e9ans, Loiret, Centre-Val de Loire, France m\u00e9tropolitaine, 45770, France"
         ]
     },
     {
