@@ -3738,12 +3738,12 @@
         ],
         "latlngs": [
             [
-                45.5328206,
-                -122.9032132
+                39.7503795,
+                -104.9951386
             ]
         ],
         "addresses": [
-            "Salesforce, 2035, Northeast Cornelius Pass Road, Orenco, Hillsboro, Washington County, Oregon, 97124, United States of America"
+            "SalesForce, 1225, 17th Street, Central Business District, Denver, Denver County, Colorado, 80202, United States of America"
         ]
     },
     {
@@ -5870,7 +5870,8 @@
             "job security"
         ],
         "employment_types": [
-            "na"
+            "white collar workers",
+            "inhouse workers"
         ],
         "description": "Workers for workers, a group of Facebook employees who organize to support the company's contract workers, started a gofundme campaign to materially support 9 contingent workers who were fired for violating non-existant company policy. Workers for Workers is drawing on its network of mostly tech workers to provide support for the 9 contingent workers who were suddenly let go. The campaign will support these folks in their hour of greatest need, aiming to raise $40,000 to cover their basic living expenses for the next two months as they seek to clear their name within Facebook and find a new job on short notice. ",
         "online": null,
