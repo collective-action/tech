@@ -298,8 +298,7 @@
             "pay and benefits"
         ],
         "employment_types": [
-            "contract workers",
-            "white collar workers"
+            "contract workers"
         ],
         "description": "A law firm representing 10 current and former contract workers at Microsoft Corp. filed a lawsuit in U.S. District Court on Tuesday against the software giant, seeking damages and full-time employee benefits for its plaintiffs and thousands of other 'misclassified' temporary employees. The 10 plaintiffs seek class-action status because they want to include some 6,000 current full-time Microsoft employees who have been 'misclassified as nonemployees' under 'various erroneous labels' and denied company benefits.",
         "online": null,
@@ -382,7 +381,8 @@
             "working conditions"
         ],
         "employment_types": [
-            "white collar workers"
+            "white collar workers",
+            "inhouse workers"
         ],
         "description": "The Communications Workers of America have renewed their drive to organize IBM employees. CWA previously attempted to unionize IBM in 1985. This time around the union started a new organization, Alliance @IBM. It reports that roughly 100 thousand of the company's 140 thousand workers are eligible for unionization. Union supporters have started outreach and leafletting efforts at multiple locations, including the Research Triangle in North Carolina. The new organization will work with the existing IBM Employee Benefits Action Coalition. This effort continued for the next seventeen years, until it was ended 2016. At its peak, the Alliance had 400 dues-paying members.",
         "online": null,
@@ -685,7 +685,8 @@
             "job security"
         ],
         "employment_types": [
-            "white collar workers"
+            "white collar workers",
+            "inhouse workers"
         ],
         "description": "Hundreds' of immigrant tech workers protested H1B visa caps on the streets of San Jose carrying banners and signs. A shortage of H1B visas has led to insecure working conditions and labor shortages among tech firms.",
         "online": null,
@@ -749,13 +750,15 @@
             "https://techcrunch.com/2009/12/16/yahoo-engineers-strike-after-closure-of-french-rd-site-results-in-78-laid-off/"
         ],
         "actions": [
-            "protest"
+            "protest",
+            "strike"
         ],
         "struggles": [
             "job security"
         ],
         "employment_types": [
-            "white collar workers"
+            "white collar workers",
+            "inhouse workers"
         ],
         "description": "Engineers at Yahoo France held a strike to protest the company's plans to shut down an R&D office in Echirolles, laying off 78 people or roughly one-third of the company's total employees in the country. ",
         "online": null,
@@ -1513,7 +1516,8 @@
             "discrimination"
         ],
         "employment_types": [
-            "white collar workers"
+            "white collar workers",
+            "inhouse workers"
         ],
         "description": "Mozilla employees used a number of means to call for the resignation of CEO Brendan Eich who donated $1,000 in 2008 to support California's Proposition 8, legislature that would have made gay marriage illegal in the state. Three of Mozilla Foundation's board members resigned in protest, and other employees took to social media and wrote blog posts. Other companies, most prominently dating site OKCupid, encouraged their users to stop using the Firefox browser. Eich did ultimately resign.",
         "online": null,
@@ -1555,7 +1559,8 @@
             "pay and benefits"
         ],
         "employment_types": [
-            "white collar workers"
+            "white collar workers",
+            "inhouse workers"
         ],
         "description": "Tech workers from Google, Apple, Intel, and Adobe Systems brought a class action lawsuit against their respective companies, claiming that they conspired to keep salaries down by adhering to 'no-hire' agreements among themselves. The case ended in a $325 million settlement that paid out roughly $4,000 to 60,000 employees. ",
         "online": null,
@@ -1733,7 +1738,8 @@
             "discrimination"
         ],
         "employment_types": [
-            "white collar workers"
+            "white collar workers",
+            "inhouse workers"
         ],
         "description": "Artesyn Technologies announced through their QQ blog that employees mainly from the hardware department were participating in a protest against Sony. They held their protest against what they called violent layoffs and discrimination and they appealed to Sony to disclose a list of those being discharged. They also demanded negotiations and a 'fair, transparent and open' process.",
         "online": null,
@@ -1889,7 +1895,8 @@
             "job security"
         ],
         "employment_types": [
-            "white collar workers"
+            "white collar workers",
+            "inhouse workers"
         ],
         "description": "Employees at H3C, a Chinese network device company acquired by HP, have been protesting the appointment of a new chairman for the last three weeks. More than 4,400 people have signed a petition and 3,000 have joined the strike. Workers have expressed concern that the election of Mao Yunan, a senior manager at HP, would lead to layoffs and would endanger promised employee stock option plans.",
         "online": null,
@@ -2058,7 +2065,8 @@
             "working conditions"
         ],
         "employment_types": [
-            "white collar workers"
+            "white collar workers",
+            "inhouse workers"
         ],
         "description": "Google employees have started an internal spreadsheet to share data on salary and bonuses. Employees have reportedly used the spreadsheet to advocate for greater compensation.",
         "online": true,
@@ -2551,7 +2559,8 @@
             "ethics"
         ],
         "employment_types": [
-            "white collar workers"
+            "white collar workers",
+            "inhouse workers"
         ],
         "description": "IBM employees sign a petition protesting IBM's cooperation with Trump. After the IBM CEO Ginny Rometty sent a letter congratulating Trump on his presidency and refusing to rule out participation from building a muslim registry, IBM employees created a petition on coworker.org to demand that the company acknowledge the diversity of its staff and not work to further the more xenophobic aspects of Trump's agenda.",
         "online": true,
@@ -2678,7 +2687,8 @@
         "id": 66,
         "date": "2017/02/01",
         "sources": [
-            "https://www.usatoday.com/story/tech/talkingtech/2017/01/30/googlers-stage-worldwide-walkout-trump-immigration-ban-rally-mountain-view-serge-brin-sundar-pichai/97265938/"
+            "https://www.usatoday.com/story/tech/talkingtech/2017/01/30/googlers-stage-worldwide-walkout-trump-immigration-ban-rally-mountain-view-serge-brin-sundar-pichai/97265938/",
+            "https://www.theverge.com/google/2017/1/30/14446466/google-immigration-protest-walkout-trump-googlers-unite"
         ],
         "actions": [
             "protest"
@@ -2687,7 +2697,8 @@
             "ethics"
         ],
         "employment_types": [
-            "na"
+            "white collar workers",
+            "inhouse workers"
         ],
         "description": "Google employees around the world walked off the job to protest Pres. Trump's immigration ban. Google co-founder Sergey Brin and CEO Sundar Pichai spoke at the walk-out at the Mountain View headquarters.",
         "online": null,
@@ -2729,7 +2740,8 @@
             "ethics"
         ],
         "employment_types": [
-            "na"
+            "white collar workers",
+            "inhouse workers"
         ],
         "description": "A 'handful' of Facebook employees have vowed not to fly for 90 days following Pres. Trump's immigration ban. The company has said it is not affiliated with this protest.",
         "online": null,
@@ -3088,7 +3100,8 @@
             "unfair labor practices"
         ],
         "employment_types": [
-            "white collar workers"
+            "white collar workers",
+            "inhouse workers"
         ],
         "description": "After fighting for better working conditions, tech workers at Lanetix sent a letter to management outlining workplace grievances and announcing their intention to unionize with NewsGuild-CWA. They also filed a petition with the National Labor Relations Board (NLRB). The entire engineering staff was terminated after the petition was filed. In response, the San Francisco Tech Workers' Coalition, Lanetix workers from Virginia and San Francisco, and picketed Lanetix's offices in San Francisco. The NLRB investigation found evidence of unfair labor practices and the workers received a settlement in exchange for waiving their right to be reinstated.",
         "online": null,
@@ -3229,7 +3242,8 @@
             "working conditions"
         ],
         "employment_types": [
-            "white collar workers"
+            "white collar workers",
+            "inhouse workers"
         ],
         "description": "Naver Corp., South Korea's dominant Internet portal and search engine, said that it has established the company's first labor union. After receiving official approval, the union started receiving membership applications from potential members, Naver's union said. More than 300 people joined within two hours.",
         "online": null,
@@ -3363,7 +3377,8 @@
             "discrimination"
         ],
         "employment_types": [
-            "white collar workers"
+            "white collar workers",
+            "inhouse workers"
         ],
         "description": "Workers of Oracle Korea have been sat outside the main office for more than 50 days after 19 negotiations with the management from December to April failed. This is now the longest strike by employees of a foreign IT companies in Korea. 'Some people think we don't need a union because they believe we work at a leading global IT companies and have well-paid jobs,' Kim Chul-soo, president of the Oracle labor union, said. 'It's not true at all.' Workers are suffering from a decline in real wages because there has been no increase in basic salary for the last 10 years, while half of the salary is based on incentives. Hiring scams similar to those at local banks, along with sexual harassment are also among the union\u2019s accusations.",
         "online": null,
@@ -3436,7 +3451,8 @@
             "ethics"
         ],
         "employment_types": [
-            "white collar workers"
+            "white collar workers",
+            "inhouse workers"
         ],
         "description": "Google employees have led a campaign demanding that the companies terminate its contract with the Pentagon for Project Maven, a program that uses machine learning to improve targeting for drone strikes. Nearly five thousand Google workers signed an internal petition to cancel the project, and dozens resigned.",
         "online": true,
@@ -3572,7 +3588,8 @@
             "ethics"
         ],
         "employment_types": [
-            "white collar workers"
+            "white collar workers",
+            "inhouse workers"
         ],
         "description": "In an open letter posted to Microsoft's internal message board on Tuesday, hundreds of employees protested Microsoft's work with Immigration and Customs Enforcement and demanding that the companies stop working with the agency.",
         "online": true,
@@ -3613,7 +3630,8 @@
             "ethics"
         ],
         "employment_types": [
-            "white collar workers"
+            "white collar workers",
+            "inhouse workers"
         ],
         "description": "Workers at Amazon are circulating an internal letter to CEO Jeff Bezos, asking him to stop selling the companies's Rekognition facial recognition software to law enforcement and to boot the data-mining firm Palantir from its cloud services.",
         "online": true,
@@ -3659,7 +3677,8 @@
             "ethics"
         ],
         "employment_types": [
-            "white collar workers"
+            "white collar workers",
+            "inhouse workers"
         ],
         "description": "Earlier this year, a group of influential software engineers in Google\u2019s cloud division, referred to as the 'Group of Nine', surprised their superiors by refusing to work on a cutting-edge security feature. Known as \u201cair gap,\u201d the technology would have helped Google win sensitive military contracts. The coders weren\u2019t persuaded their employer should be using its technological might to help the government wage war, according to four current and former employees. After hearing the engineers\u2019 objections, Urs H\u00f6lzle, Google\u2019s top technical executive, said the air gap feature would be postponed, one of the people said. ",
         "online": null,
@@ -3699,7 +3718,8 @@
             "ethics"
         ],
         "employment_types": [
-            "white collar workers"
+            "white collar workers",
+            "inhouse workers"
         ],
         "description": "Hundreds of Salesforce.com Inc. employees signed a letter to Chief Executive Officer Marc Benioff criticizing the companies's contracts with the U.S. Customs and Border Protection agency.",
         "online": true,
@@ -4056,7 +4076,8 @@
             "ethics"
         ],
         "employment_types": [
-            "white collar workers"
+            "white collar workers",
+            "inhouse workers"
         ],
         "description": "An open letter signed by 'employees of Microsoft' asks the cloud giant to abstain from bidding on the military's massive JEDI cloud computing contract for ethical reasons involving the application of artificial intelligence.",
         "online": true,
@@ -4128,7 +4149,8 @@
         ],
         "employment_types": [
             "white collar workers",
-            "contract workers"
+            "contract workers",
+            "inhouse workers"
         ],
         "description": "Google employees and contractors walked out of the companies's offices around the world, one week after the New York Times reported that Google had protected three executives accused of sexual misconduct.",
         "online": null,
@@ -4298,7 +4320,8 @@
             "ethics"
         ],
         "employment_types": [
-            "white collar workers"
+            "white collar workers",
+            "inhouse workers"
         ],
         "description": "Google employees have signed an open letter published Tuesday on Medium demanding that the companies cease work on Project Dragonfly, which is aimed at creating a search engine that the Chinese government would be able to control to censor certain results and surveil users. 'International human rights organizations and investigative reporters have also sounded the alarm, emphasizing serious human rights concerns and repeatedly calling on Google to cancel the project,' the letter reads in part. 'So far, our leadership's response has been unsatisfactory.",
         "online": true,
@@ -4678,7 +4701,8 @@
             "ethics"
         ],
         "employment_types": [
-            "white collar workers"
+            "white collar workers",
+            "inhouse workers"
         ],
         "description": "Microsoft employees circulated a letter among the companies' over 130,000-person staff demanding that executives cancel a $479 million contract with the US Army, IVAS, that will provide weapons technology to the U.S. Military to 'increase lethality' to army soldiers. 'We did not sign up to develop weapons, and we demand a say in how our work is used.",
         "online": true,
@@ -4753,7 +4777,8 @@
             "pay and benefits"
         ],
         "employment_types": [
-            "white collar workers"
+            "white collar workers",
+            "inhouse workers"
         ],
         "description": "A group of employees at Amazon have called for the company to provide a backup daycare benefit. The group collected accounts of employees who have been negatively impacted by a lack of daycare to present to senior managers. They have also called for management to collect more data on child care among employees.",
         "online": null,
@@ -4834,7 +4859,8 @@
             "working conditions"
         ],
         "employment_types": [
-            "white collar workers"
+            "white collar workers",
+            "inhouse workers"
         ],
         "description": "Employees at Brooklyn's crowdfunding giant Kickstarter are forming a labor union called Kickstarter United, which will aim to secure more rights for the companies's workers. If recognized by the companies, Kickstarter would become the first major tech companies in the US to have union representation.",
         "online": null,
@@ -4940,7 +4966,8 @@
             "working conditions"
         ],
         "employment_types": [
-            "white collar workers"
+            "white collar workers",
+            "inhouse workers"
         ],
         "description": "A campaign against long working hours by professionals in China's technology sector has become one of the fastest growing Github repository in Github's history. The 'anti-996' campaign opposes employees working shifts of 9am-9pm, six days a week, which are commonly required by the country's tech giants.",
         "online": true,
@@ -4977,7 +5004,8 @@
             "working conditions"
         ],
         "employment_types": [
-            "white collar workers"
+            "white collar workers",
+            "inhouse workers"
         ],
         "description": "Recently fired NPM employees claim they were punished for trying to form a union. Four complaints have been filed with the National Labor Relations Board, alleging labor law violations by management.",
         "online": null,
@@ -5010,7 +5038,8 @@
             "ethics"
         ],
         "employment_types": [
-            "white collar workers"
+            "white collar workers",
+            "inhouse workers"
         ],
         "description": "A group of Google employees have called for the removal of a rightwing thinktank leader from the companies's new artificial intelligence council, citing her anti-LGBT and anti-immigrant record. Academic, civil society, and industry supporters have also signed the petition in mass.",
         "online": true,
@@ -5050,7 +5079,8 @@
             "discrimination"
         ],
         "employment_types": [
-            "white collar workers"
+            "white collar workers",
+            "inhouse workers"
         ],
         "description": "More than 900 Google workers have signed a letter objecting to the tech giant's treatment of temporary contractors, in what organizers are calling a 'historical coalition' between Google's full-time employees (FTEs) and temps, vendors and contractors (TVCs).",
         "online": true,
@@ -5090,7 +5120,8 @@
             "discrimination"
         ],
         "employment_types": [
-            "white collar workers"
+            "white collar workers",
+            "inhouse workers"
         ],
         "description": "A group of Microsoft employees appeared at an employee meeting with CEO Satya Nadella Thursday to protest the companies's treatment of women. It's not clear how many were part of the protest, but some female and male employees at the event wore all white, inspired by the congresswomen who wore suffragette white to the State of the Union in February.",
         "online": null,
@@ -5131,7 +5162,8 @@
             "ethics"
         ],
         "employment_types": [
-            "white collar workers"
+            "white collar workers",
+            "inhouse workers"
         ],
         "description": "The company's corporate employees signed their names to a letter published on Wednesday that urged Jeff Bezos to create a comprehensive climate-change plan for the company.",
         "online": true,
@@ -5251,7 +5283,8 @@
             "unfair labor practices"
         ],
         "employment_types": [
-            "white collar workers"
+            "white collar workers",
+            "inhouse workers"
         ],
         "description": "Microsoft and GitHub workers have published an open letter of solidarity with the 996 movement on GitHub at https://github.com/MSWorkers/support.996.ICU, and have called on Microsoft to resist all pressure from the Chinese government to block or censor the 996 repo.",
         "online": true,
@@ -5301,7 +5334,8 @@
             "unfair labor practices"
         ],
         "employment_types": [
-            "white collar workers"
+            "white collar workers",
+            "inhouse workers"
         ],
         "description": "A GitHub user called on those who condemn 996 to respond to Jack Ma's endorsement of the widely criticized work schedule by sending an official copy of China's labor law on May 4 to the Alibaba headquarters. Ma, founder of Alibaba and the richest man in China, dismissed outcry on social media over the grueling working hours in China's tech industry in a blog post on April 12. 'To be able to work 996 is a huge blessing,' he said. The GitHub post estimates 1,000 participants will participate.",
         "online": null,
@@ -5340,7 +5374,8 @@
             "working conditions"
         ],
         "employment_types": [
-            "white collar workers"
+            "white collar workers",
+            "inhouse workers"
         ],
         "description": "Meredith Whittaker and Claire Stapleton held a town hall for Google workers to discuss the retaliation they have faced from management for engaging in organizing, and to share more than a dozen other stories of retaliation they have gathered. The meeting was held in New York but live-streamed to Google offices elsewhere. This action involved hundreds of workers.",
         "online": null,
@@ -5418,7 +5453,8 @@
             "working conditions"
         ],
         "employment_types": [
-            "white collar workers"
+            "white collar workers",
+            "inhouse workers"
         ],
         "description": "Google workers stage a sit-in on May Day, following allegations of retaliation from the company against employees who participated in walkouts last year. 'Googlers from around the world gathered at 11am local time to sit together and show retaliation is #NotOkGoogle. The stories we've been collecting will be shared, demands will be read, and all will be in solidarity with those withstanding this chilling practice.",
         "online": null,
@@ -5548,7 +5584,8 @@
             "discrimination"
         ],
         "employment_types": [
-            "white collar workers"
+            "white collar workers",
+            "inhouse workers"
         ],
         "description": "Google employees publish an open letter demanding that Alphabet CEO Larry Page 'immediately and publicly address the Walkout\u2019s demands, and recommit Google to meeting them.' The list of demands also asks for the company to allow Meredith to continue her work, fully funded, as before and to allow Claire to change teams without further retaliation. The letter calls out the broken nature of the HR department at Google, and demands for an open and transparent investigation on the department.",
         "online": null,
@@ -5591,7 +5628,8 @@
             "job security"
         ],
         "employment_types": [
-            "white collar workers"
+            "white collar workers",
+            "inhouse workers"
         ],
         "description": "Staff at US-owned tech giant Oracle's China Development Centre in Beijing have staged protests after the company fired 900 staff from its China team, making up 60 per cent of its research and development effort there. Employees blamed tensions between the US and China for the cuts which came in the same week as the US announced additional tariffs on Chinese goods. An employee referred to the Oracle co-founder's interview with Fox Business last October, in which Larry Ellison said that 'we [the US] have a serious competition going with China, I\u2019m on Team USA', and 'if we let China produce more engineers than we do, if we let China's technology companies beat our technology companies, it won't be long that our military is behind technologically also'.",
         "online": null,
@@ -5676,7 +5714,8 @@
             "ethics"
         ],
         "employment_types": [
-            "white collar workers"
+            "white collar workers",
+            "inhouse workers"
         ],
         "description": "More than 50 Amazon employees from Amazon Employees for Climate Justice attended the shareholder meeting, where Emily Cunningham delivered an impassioned speech to shareholders urging them to support the resolution for Amazon to adopt a strong climate plan. Jeff Bezos did not come on stage when asked by Cunningham to make an appearance. Shareholders voted no.",
         "online": null,
@@ -5938,7 +5977,8 @@
             "ethics"
         ],
         "employment_types": [
-            "white collar workers"
+            "white collar workers",
+            "inhouse workers"
         ],
         "description": "Google employees protest at Alphabet's shareholder meeting, joining community activists in demanding change from Google on how it handles sexual harassment in the workplace and its plans to build a censored search engine for China. Around 100 Google employees and community activists also protested as a united group outside Alphabet headquarters during the meeting. Google employees; labor and activist coalition Silicon Valley Rising; SEIU-USWW (a union representing janitorial staff and security officers); and local community groups helped organize the rally outside the meeting.",
         "online": null,
@@ -5982,7 +6022,8 @@
             "discrimination"
         ],
         "employment_types": [
-            "white collar workers"
+            "white collar workers",
+            "inhouse workers"
         ],
         "description": "A group of more than 30 Microsoft employees is lobbying coworkers to stop donating to the company's political action committee in an effort to starve the PAC of funds. While Microsoft pitches itself as an inclusive and progressive company\u200a\u2014\u200aespecially during Pride Month, with tweets and donations to LGBTQ+ causes\u200a\u2014\u200aemployees who have donated to the PAC say they have no control over which candidates are being supported, meaning that they have no say when the PAC financially supports bigoted candidates. On July 2019, Microsoft has temporarily halted political donations through its political action committee after facing this backlash from employees.",
         "online": null,
@@ -6023,7 +6064,8 @@
             "discrimination"
         ],
         "employment_types": [
-            "white collar workers"
+            "white collar workers",
+            "inhouse workers"
         ],
         "description": "About 100 Google employees urged the organizer of this weekend's San Francisco Pride parade to kick the company out of the celebration, escalating pressure on the internet giant to overhaul its handling of hate speech online. The employees wrote a letter to the board of directors of San Francisco Pride, asking that Google be dropped as a sponsor of the parade as well as excluded from having a presence at the event.",
         "online": null,
@@ -6065,7 +6107,8 @@
             "ethics"
         ],
         "employment_types": [
-            "white collar workers"
+            "white collar workers",
+            "inhouse workers"
         ],
         "description": "Hundreds of workers at the online retailer Wayfair walked out of their jobs yesterday to protest the comapny's sale of $200,000 worth of bedroom furniture to a government contractor that operates a network of shelters for migrant children near the southwestern border. More than 500 employees signed a petition to the CEO calling for him to cease all business with the contractor and establish a code of ethics for their sales.",
         "online": null,
@@ -6107,7 +6150,8 @@
             "discrimination"
         ],
         "employment_types": [
-            "white collar workers"
+            "white collar workers",
+            "inhouse workers"
         ],
         "description": "Google workers, under the name \u201cBan Google From Pride,\u201d protest their employer at Pride Parade amid controversy in the LGBTQ community over the company's harassment policies on YouTube videos.",
         "online": null,
@@ -6225,7 +6269,8 @@
             "ethics"
         ],
         "employment_types": [
-            "white collar workers"
+            "white collar workers",
+            "inhouse workers"
         ],
         "description": "Amazon employees sent out an internal email calling on Amazon to stop working with the big data company Palantir, which works with federal agency Immigration and Customs Enforcement (ICE). This email, sent to employee mailing lists within Amazon Web Services, demanded that Palantir be removed from Amazon's cloud for violating its terms of service. It also called on Amazon to take a stand against ICE by making a statement establishing its position against immigration raids, deportations, and camps for migrants at the border.",
         "online": null,
@@ -6622,7 +6667,8 @@
             "discrimination"
         ],
         "employment_types": [
-            "white collar workers"
+            "white collar workers",
+            "inhouse workers"
         ],
         "description": "Google settled a class action lawsuit launched by several hundred older workers who claimed they were not hired by the company on the basis of their age. The company paid out $11 million to the plaintiffs. Between 2007 to 2013, they argued, the median age in the tech industry was 41, while the median age at Google was 29.",
         "online": null,

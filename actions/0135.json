@@ -14,7 +14,8 @@
         "unfair labor practices"
     ],
     "employment_types": [
-        "white collar workers"
+        "white collar workers",
+        "inhouse workers"
     ],
     "description": "Microsoft and GitHub workers have published an open letter of solidarity with the 996 movement on GitHub at https://github.com/MSWorkers/support.996.ICU, and have called on Microsoft to resist all pressure from the Chinese government to block or censor the 996 repo.",
     "online": true,
