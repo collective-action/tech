@@ -29,11 +29,16 @@
     ],
     "latlngs": [
         [
+            50.8453279,
+            9.678334853465138
+        ],
+        [
             51.3622584,
             12.452329749225527
         ]
     ],
     "addresses": [
+        "Amazon Logistik GmbH, 1, Eichhof, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Regierungsbezirk Kassel, Hessen, 36251, Deutschland",
         "Amazon, 1, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland"
     ]
 }

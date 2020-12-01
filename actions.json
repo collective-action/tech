@@ -1138,11 +1138,16 @@
         ],
         "latlngs": [
             [
+                50.8453279,
+                9.678334853465138
+            ],
+            [
                 51.3622584,
                 12.452329749225527
             ]
         ],
         "addresses": [
+            "Amazon Logistik GmbH, 1, Eichhof, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Regierungsbezirk Kassel, Hessen, 36251, Deutschland",
             "Amazon, 1, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland"
         ]
     },
@@ -1209,11 +1214,16 @@
         ],
         "latlngs": [
             [
+                50.8453279,
+                9.678334853465138
+            ],
+            [
                 51.3622584,
                 12.452329749225527
             ]
         ],
         "addresses": [
+            "Amazon Logistik GmbH, 1, Eichhof, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Regierungsbezirk Kassel, Hessen, 36251, Deutschland",
             "Amazon, 1, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland"
         ]
     },
@@ -1250,11 +1260,16 @@
         ],
         "latlngs": [
             [
+                50.8453279,
+                9.678334853465138
+            ],
+            [
                 51.3622584,
                 12.452329749225527
             ]
         ],
         "addresses": [
+            "Amazon Logistik GmbH, 1, Eichhof, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Regierungsbezirk Kassel, Hessen, 36251, Deutschland",
             "Amazon, 1, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland"
         ]
     },
@@ -1328,6 +1343,10 @@
         ],
         "latlngs": [
             [
+                50.8453279,
+                9.678334853465138
+            ],
+            [
                 51.3622584,
                 12.452329749225527
             ],
@@ -1345,8 +1364,9 @@
             ]
         ],
         "addresses": [
+            "Amazon Logistik GmbH, 1, Eichhof, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Regierungsbezirk Kassel, Hessen, 36251, Deutschland",
             "Amazon, 1, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland",
-            "Amazon-Logistikzentrum, Graben, Landkreis Augsburg, Bayern, 86836, Deutschland",
+            "Amazon-Logistikzentrum, Lechfeld Nord, Graben, Landkreis Augsburg, Bayern, 86836, Deutschland",
             "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
             "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America"
         ]
@@ -1421,7 +1441,7 @@
             ]
         ],
         "addresses": [
-            "\u8054\u60f3\u7814\u53d1\u4e2d\u5fc3, 16\u53f7, \u9ad8\u65b0\u5357\u4e00\u9053, \u5927\u51b2, \u7ca4\u6d77\u8857\u9053, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518057, China \u4e2d\u56fd"
+            "\u8054\u60f3\u7814\u53d1\u4e2d\u5fc3, 16\u53f7, \u9ad8\u65b0\u5357\u4e00\u9053, \u5927\u51b2, \u534e\u4fa8\u57ce, \u5357\u5c71\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518057, China \u4e2d\u56fd"
         ]
     },
     {
@@ -1499,7 +1519,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Gaylor Road, Tilbury, Thurrock, East of England, England, RM18 7AS, United Kingdom"
+            "Amazon, Gaylor Road, Perry Street, Tilbury, Thurrock, East of England, England, RM18 7AS, United Kingdom"
         ]
     },
     {
@@ -1919,7 +1939,7 @@
             ]
         ],
         "addresses": [
-            "\u534e\u4e09\u901a\u4fe1, \u957f\u6cb3\u8857\u9053, \u6d59\u6c5f\u7701, China \u4e2d\u56fd"
+            "\u534e\u4e09\u901a\u4fe1, \u957f\u6cb3\u8857\u9053, \u5609\u5584\u53bf, \u6d59\u6c5f\u7701, China \u4e2d\u56fd"
         ]
     },
     {
@@ -2942,7 +2962,7 @@
         ],
         "addresses": [
             "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America",
-            "Damo Street, North Port, Sarasota County, Florida, United States of America"
+            "Damo Street, Lake Suzy, North Port, Sarasota County, Florida, United States of America"
         ]
     },
     {
@@ -2980,13 +3000,13 @@
                 7.59464606445661
             ],
             [
-                40.722465,
-                -73.9977307
+                45.0777055,
+                9.454322716507177
             ]
         ],
         "addresses": [
             "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
-            "Amazon, 72, Spring Street, Little Italy, Manhattan Community Board 2, Manhattan, New York County, New York, 10013, United States of America"
+            "Amazon, Cascina Sforza, Castel San Giovanni, Piacenza, Emilia-Romagna, Italia"
         ]
     },
     {
@@ -3428,12 +3448,12 @@
         ],
         "latlngs": [
             [
-                60.55580205,
-                -151.24858733591412
+                65.4102317,
+                -163.0526448
             ]
         ],
         "addresses": [
-            "alaska usa, Caviar Street, Kenai, Kenai Peninsula, Alaska, 99511, United States of America"
+            "Caviar Creek, Nome, Alaska, United States of America"
         ]
     },
     {
@@ -3476,7 +3496,7 @@
             ]
         ],
         "addresses": [
-            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+            "Google, 355, Main Street, East Cambridge, Back Bay, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
         ]
     },
     {
@@ -3702,7 +3722,7 @@
             ]
         ],
         "addresses": [
-            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+            "Google, 355, Main Street, East Cambridge, Back Bay, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
         ]
     },
     {
@@ -4175,7 +4195,7 @@
             ]
         ],
         "addresses": [
-            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+            "Google, 355, Main Street, East Cambridge, Back Bay, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
         ]
     },
     {
@@ -4207,8 +4227,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.3671049,
+                -120.5693229
+            ]
+        ],
+        "addresses": [
+            "Apron Avenue, Castle Airport Aviation & Development Center, Fluhr, Winton, Merced County, California, 95301, United States of America"
+        ]
     },
     {
         "id": 105,
@@ -4254,8 +4281,8 @@
                 6.131329990388637
             ],
             [
-                40.722465,
-                -73.9977307
+                45.0777055,
+                9.454322716507177
             ],
             [
                 41.6274834,
@@ -4268,10 +4295,10 @@
         ],
         "addresses": [
             "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
-            "Amazon, Augny, Metz, Moselle, Grand Est, France m\u00e9tropolitaine, 57685, France",
-            "Amazon, 72, Spring Street, Little Italy, Manhattan Community Board 2, Manhattan, New York County, New York, 10013, United States of America",
-            "Amazon, Zaragoza, Arag\u00f3n, Espa\u00f1a",
-            "Amazon, Gaylor Road, Tilbury, Thurrock, East of England, England, RM18 7AS, United Kingdom"
+            "Amazon, Saint-Pierre, Augny, Metz, Moselle, Grand Est, France m\u00e9tropolitaine, 57685, France",
+            "Amazon, Cascina Sforza, Castel San Giovanni, Piacenza, Emilia-Romagna, Italia",
+            "Amazon, Urbanizacion Ciudad Zaragoza Golf, Zaragoza, Arag\u00f3n, Espa\u00f1a",
+            "Amazon, Gaylor Road, Perry Street, Tilbury, Thurrock, East of England, England, RM18 7AS, United Kingdom"
         ]
     },
     {
@@ -4348,7 +4375,7 @@
             ]
         ],
         "addresses": [
-            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America",
+            "Google, 355, Main Street, East Cambridge, Back Bay, Cambridge, Middlesex County, Massachusetts, 02142, United States of America",
             "Google, 555, \u8ed2\u5c3c\u8a69\u9053 Hennessy Road, \u6469\u5229\u81e3\u5c71 Morrison Hill, \u9285\u947c\u7063 Causeway Bay, \u7063\u4ed4\u5340 Wan Chai District, \u9999\u6e2f\u5cf6 Hong Kong Island, \u9999\u6e2f Hong Kong, China \u4e2d\u56fd"
         ]
     },
@@ -4467,7 +4494,7 @@
             ]
         ],
         "addresses": [
-            "Facebook Dexter, 1101, Dexter Avenue North, Westlake, Seattle, King County, Washington, 98109, United States of America"
+            "Facebook Dexter, 1101, Dexter Avenue North, South Lake Union, Westlake, Seattle, King County, Washington, 98109, United States of America"
         ]
     },
     {
@@ -4505,7 +4532,7 @@
             ]
         ],
         "addresses": [
-            "Wounded Amazon, Lyndale Avenue South, Loring Park, Minneapolis, Hennepin County, Minnesota, 55403, United States of America"
+            "Wounded Amazon, Lyndale Avenue South, Sumner-Glenwood, Loring Park, Minneapolis, Hennepin County, Minnesota, 55403, United States of America"
         ]
     },
     {
@@ -4838,12 +4865,12 @@
         ],
         "latlngs": [
             [
-                19.3292859,
-                -98.9236669
+                20.9670759,
+                -89.6237402
             ]
         ],
         "addresses": [
-            "Merida, Ixtapaluca, Estado de M\u00e9xico, 56564, M\u00e9xico"
+            "M\u00e9rida, Yucat\u00e1n, M\u00e9xico"
         ]
     },
     {
@@ -5063,7 +5090,7 @@
             ]
         ],
         "addresses": [
-            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+            "Google, 355, Main Street, East Cambridge, Back Bay, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
         ]
     },
     {
@@ -5104,7 +5131,7 @@
             ]
         ],
         "addresses": [
-            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+            "Google, 355, Main Street, East Cambridge, Back Bay, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
         ]
     },
     {
@@ -5479,7 +5506,7 @@
             ]
         ],
         "addresses": [
-            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+            "Google, 355, Main Street, East Cambridge, Back Bay, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
         ]
     },
     {
@@ -5519,7 +5546,7 @@
             ]
         ],
         "addresses": [
-            "Wounded Amazon, Lyndale Avenue South, Loring Park, Minneapolis, Hennepin County, Minnesota, 55403, United States of America"
+            "Wounded Amazon, Lyndale Avenue South, Sumner-Glenwood, Loring Park, Minneapolis, Hennepin County, Minnesota, 55403, United States of America"
         ]
     },
     {
@@ -5609,7 +5636,7 @@
             ]
         ],
         "addresses": [
-            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+            "Google, 355, Main Street, East Cambridge, Back Bay, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
         ]
     },
     {
@@ -5897,7 +5924,7 @@
             ]
         ],
         "addresses": [
-            "Facebook Dexter, 1101, Dexter Avenue North, Westlake, Seattle, King County, Washington, 98109, United States of America"
+            "Facebook Dexter, 1101, Dexter Avenue North, South Lake Union, Westlake, Seattle, King County, Washington, 98109, United States of America"
         ]
     },
     {
@@ -6387,7 +6414,7 @@
             ]
         ],
         "addresses": [
-            "Glovo, 3590, Avenida Federico Lacroze, Chacarita, Comuna 15, Buenos Aires, C1427EDN, Argentina",
+            "Glovo, 3590, Avenida Federico Lacroze, Chacarita, Comuna 15, Ciudad Aut\u00f3noma de Buenos Aires, C1427EDN, Argentina",
             "Uber, Calle Hamburgo, Ju\u00e1rez, Cuauht\u00e9moc, Ciudad de M\u00e9xico, 06600, M\u00e9xico",
             "Rapperswil, Wahlkreis See-Gaster, Sankt Gallen, 8640, Switzerland"
         ]
@@ -6472,7 +6499,7 @@
             ]
         ],
         "addresses": [
-            "Wounded Amazon, Lyndale Avenue South, Loring Park, Minneapolis, Hennepin County, Minnesota, 55403, United States of America"
+            "Wounded Amazon, Lyndale Avenue South, Sumner-Glenwood, Loring Park, Minneapolis, Hennepin County, Minnesota, 55403, United States of America"
         ]
     },
     {
@@ -6691,7 +6718,7 @@
             ]
         ],
         "addresses": [
-            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+            "Google, 355, Main Street, East Cambridge, Back Bay, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
         ]
     },
     {
@@ -6990,7 +7017,7 @@
             ]
         ],
         "addresses": [
-            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+            "Google, 355, Main Street, East Cambridge, Back Bay, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
         ]
     },
     {
@@ -7029,8 +7056,8 @@
                 -122.4080358
             ],
             [
-                60.55580205,
-                -151.24858733591412
+                65.4102317,
+                -163.0526448
             ],
             [
                 30.4422494,
@@ -7039,7 +7066,7 @@
         ],
         "addresses": [
             "Doordash HQ, Stevenson Street, Union Square, San Francisco, San Francisco City and County, California, 94104, United States of America",
-            "alaska usa, Caviar Street, Kenai, Kenai Peninsula, Alaska, 99511, United States of America",
+            "Caviar Creek, Nome, Alaska, United States of America",
             "The Square, Tallahassee, Leon County, Florida, United States of America"
         ]
     },
@@ -7466,7 +7493,7 @@
             ]
         ],
         "addresses": [
-            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+            "Google, 355, Main Street, East Cambridge, Back Bay, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
         ]
     },
     {
@@ -7588,7 +7615,7 @@
             ]
         ],
         "addresses": [
-            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+            "Google, 355, Main Street, East Cambridge, Back Bay, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
         ]
     },
     {
@@ -7823,7 +7850,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Avenue, Sacramento, Sacramento County, California, 95835, United States of America"
+            "Amazon Avenue, Bombay, Sacramento, Sacramento County, California, 95835, United States of America"
         ]
     },
     {
@@ -8442,7 +8469,7 @@
         ],
         "addresses": [
             "Google, Mountain View, Santa Clara County, California, United States of America",
-            "WeWork, 1161, Mission Street, West SoMa, California, 94103, United States of America",
+            "WeWork, 1161, Mission Street, West SoMa, San Francisco, San Francisco City and County, California, 94103, United States of America",
             "Facebook, San Francisco Bay Trail, Menlo Park, San Mateo County, California, 94025-1246, United States of America",
             "WeWork, Market Street, Brooklyn Navy Yard, Brooklyn, Kings County, New York, 11251, United States of America"
         ]
@@ -8697,6 +8724,10 @@
         ],
         "latlngs": [
             [
+                50.8453279,
+                9.678334853465138
+            ],
+            [
                 51.3622584,
                 12.452329749225527
             ],
@@ -8718,11 +8749,12 @@
             ]
         ],
         "addresses": [
+            "Amazon Logistik GmbH, 1, Eichhof, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Regierungsbezirk Kassel, Hessen, 36251, Deutschland",
             "Amazon, 1, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland",
             "Amazon stra\u00dfe, Industriepark A61/GVZ Koblenz, R\u00fcbenach, Koblenz, Rheinland-Pfalz, 56330, Deutschland",
             "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
             "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
-            "Amazon-Logistikzentrum, Graben, Landkreis Augsburg, Bayern, 86836, Deutschland"
+            "Amazon-Logistikzentrum, Lechfeld Nord, Graben, Landkreis Augsburg, Bayern, 86836, Deutschland"
         ]
     },
     {
@@ -8811,7 +8843,7 @@
             ]
         ],
         "addresses": [
-            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+            "Google, 355, Main Street, East Cambridge, Back Bay, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
         ]
     },
     {
@@ -8849,7 +8881,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Avenue, Sacramento, Sacramento County, California, 95835, United States of America"
+            "Amazon Avenue, Bombay, Sacramento, Sacramento County, California, 95835, United States of America"
         ]
     },
     {
@@ -9063,7 +9095,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Avenue, Sacramento, Sacramento County, California, 95835, United States of America"
+            "Amazon Avenue, Bombay, Sacramento, Sacramento County, California, 95835, United States of America"
         ]
     },
     {
@@ -9101,7 +9133,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Avenue, Sacramento, Sacramento County, California, 95835, United States of America"
+            "Amazon Avenue, Bombay, Sacramento, Sacramento County, California, 95835, United States of America"
         ]
     },
     {
@@ -9540,7 +9572,7 @@
         "addresses": [
             "Amazon, 72, Spring Street, Little Italy, Manhattan Community Board 2, Manhattan, New York County, New York, 10013, United States of America",
             "Amazon Fulfillment Center DIL7, 3639, West Howard Street, Skokie, Niles Township, Cook County, Illinois, 60076, United States of America",
-            "Amazon Avenue, Sacramento, Sacramento County, California, 95835, United States of America"
+            "Amazon Avenue, Bombay, Sacramento, Sacramento County, California, 95835, United States of America"
         ]
     },
     {
@@ -9634,8 +9666,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                35.2960341,
+                -120.6532192
+            ]
+        ],
+        "addresses": [
+            "Slack Street, San Luis Obispo, San Luis Obispo County, California, 93410, United States of America"
+        ]
     },
     {
         "id": 237,
@@ -9746,7 +9785,7 @@
             ]
         ],
         "addresses": [
-            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+            "Google, 355, Main Street, East Cambridge, Back Bay, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
         ]
     },
     {
@@ -10189,7 +10228,7 @@
             ]
         ],
         "addresses": [
-            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+            "Google, 355, Main Street, East Cambridge, Back Bay, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
         ]
     },
     {
@@ -10437,7 +10476,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Augny, Metz, Moselle, Grand Est, France m\u00e9tropolitaine, 57685, France"
+            "Amazon, Saint-Pierre, Augny, Metz, Moselle, Grand Est, France m\u00e9tropolitaine, 57685, France"
         ]
     },
     {
@@ -10704,7 +10743,7 @@
             "iFood, 1496, Avenida dos Autonomistas, Osasco, Regi\u00e3o Imediata de S\u00e3o Paulo, Regi\u00e3o Metropolitana de S\u00e3o Paulo, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de S\u00e3o Paulo, S\u00e3o Paulo, Regi\u00e3o Sudeste, 06020-010, Brasil",
             "Parque Uber, Jardim Bot\u00e2nico, Ribeir\u00e3o Preto, Regi\u00e3o Imediata de Ribeir\u00e3o Preto, Regi\u00e3o Metropolitana de Ribeir\u00e3o Preto, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Ribeir\u00e3o Preto, S\u00e3o Paulo, Regi\u00e3o Sudeste, Brasil",
             "Cristian Uber, Hinojo, Partido de Olavarr\u00eda, Buenos Aires, 7318, Argentina",
-            "Glovo, 3590, Avenida Federico Lacroze, Chacarita, Comuna 15, Buenos Aires, C1427EDN, Argentina"
+            "Glovo, 3590, Avenida Federico Lacroze, Chacarita, Comuna 15, Ciudad Aut\u00f3noma de Buenos Aires, C1427EDN, Argentina"
         ]
     },
     {
@@ -10948,13 +10987,13 @@
                 -122.3239636
             ],
             [
-                34.09143965,
-                -118.14724772762986
+                33.2469982,
+                -117.29321092216239
             ]
         ],
         "addresses": [
             "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America",
-            "Target, 2120, Main Street, Alhambra, Los Angeles County, California, 91801, United States of America"
+            "Target, San Luis Rey, Oceanside, San Diego County, California, United States of America"
         ]
     },
     {
@@ -11003,7 +11042,7 @@
         ],
         "addresses": [
             "Amazon, 72, Spring Street, Little Italy, Manhattan Community Board 2, Manhattan, New York County, New York, 10013, United States of America",
-            "Amazon PDX7, 4775, Depot Court, Salem, Marion County, Oregon, 97317, United States of America"
+            "Amazon PDX7, 4775, Depot Court, Fruitland, Salem, Marion County, Oregon, 97317, United States of America"
         ]
     },
     {
@@ -11047,7 +11086,7 @@
         ],
         "addresses": [
             "\u4e2d\u6587\u5802, 274, \u9038\u4ed9\u8def, \u65b0\u6e2f\u8857\u9053, \u6d77\u73e0\u533a, \u5e7f\u5dde\u5e02, \u5e7f\u4e1c\u7701, 510275, China \u4e2d\u56fd",
-            "\u817e\u8baf\u6ee8\u6d77\u5927\u53a6, 33\u53f7, \u7ca4\u6d77\u8857\u9053, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518054, China \u4e2d\u56fd"
+            "\u817e\u8baf\u6ee8\u6d77\u5927\u53a6, 33\u53f7, \u524d\u6d77\u5408\u4f5c\u533a, \u7ca4\u6d77\u8857\u9053, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518054, China \u4e2d\u56fd"
         ]
     },
     {
@@ -11565,7 +11604,7 @@
             ]
         ],
         "addresses": [
-            "Massachusetts Institute of Technology, Broadway, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
+            "Massachusetts Institute of Technology, Broadway, East Cambridge, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02142, United States of America"
         ]
     },
     {
@@ -11869,7 +11908,7 @@
         "addresses": [
             "iFood, 1496, Avenida dos Autonomistas, Osasco, Regi\u00e3o Imediata de S\u00e3o Paulo, Regi\u00e3o Metropolitana de S\u00e3o Paulo, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de S\u00e3o Paulo, S\u00e3o Paulo, Regi\u00e3o Sudeste, 06020-010, Brasil",
             "Parque Uber, Jardim Bot\u00e2nico, Ribeir\u00e3o Preto, Regi\u00e3o Imediata de Ribeir\u00e3o Preto, Regi\u00e3o Metropolitana de Ribeir\u00e3o Preto, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Ribeir\u00e3o Preto, S\u00e3o Paulo, Regi\u00e3o Sudeste, Brasil",
-            "MI TIERRA AG - vinoteca argentina, 7, Alpenstrasse, Rapperswil-Jona, Wahlkreis See-Gaster, Sankt Gallen, 8640, Switzerland",
+            "MI TIERRA AG - vinoteca argentina, 7, Alpenstrasse, Hurden, Rapperswil-Jona, Wahlkreis See-Gaster, Sankt Gallen, 8640, Switzerland",
             "Cristian Uber, Hinojo, Partido de Olavarr\u00eda, Buenos Aires, 7318, Argentina",
             "Loggie, Ullapool, Highland, Scotland, IV23 2SG, United Kingdom",
             "Ifood, 61A, FRACC. MARINA DEL REY, Ciudad del Carmen, Carmen, Campeche, 24100, M\u00e9xico",
@@ -11913,12 +11952,12 @@
         ],
         "latlngs": [
             [
-                34.09143965,
-                -118.14724772762986
+                33.2469982,
+                -117.29321092216239
             ]
         ],
         "addresses": [
-            "Target, 2120, Main Street, Alhambra, Los Angeles County, California, 91801, United States of America"
+            "Target, San Luis Rey, Oceanside, San Diego County, California, United States of America"
         ]
     },
     {
@@ -12054,7 +12093,7 @@
         ],
         "addresses": [
             "Amazon Go Grocery, 610, East Pike Street, Central Business District, First Hill, Seattle, King County, Washington, 98122, United States of America",
-            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States of America",
+            "Google, 355, Main Street, East Cambridge, Back Bay, Cambridge, Middlesex County, Massachusetts, 02142, United States of America",
             "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
             "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States of America",
             "UserTesting, 690, 5th Street, South of Market, San Francisco, San Francisco City and County, California, 94017, United States of America"
@@ -12852,7 +12891,7 @@
         ],
         "addresses": [
             "Google, 6, Pancras Road, St Pancras, London Borough of Camden, London, Greater London, England, N1C 4BJ, United Kingdom",
-            "Amazon, Gaylor Road, Tilbury, Thurrock, East of England, England, RM18 7AS, United Kingdom",
+            "Amazon, Gaylor Road, Perry Street, Tilbury, Thurrock, East of England, England, RM18 7AS, United Kingdom",
             "Microsoft Store, Regent Street, Fitzrovia, City of Westminster, London, Greater London, England, W1B 2EP, United Kingdom",
             "Samsung, 89-91, Briggate, Steander, Lovell Park, Leeds, West Yorkshire, Yorkshire and the Humber, England, LS1 6NP, United Kingdom",
             "Deliveroo, Pentonville Road, Pentonville, Barnsbury, London Borough of Islington, London, Greater London, England, N1 9JB, United Kingdom"
@@ -13278,12 +13317,12 @@
         ],
         "latlngs": [
             [
-                34.09143965,
-                -118.14724772762986
+                33.2469982,
+                -117.29321092216239
             ]
         ],
         "addresses": [
-            "Target, 2120, Main Street, Alhambra, Los Angeles County, California, 91801, United States of America"
+            "Target, San Luis Rey, Oceanside, San Diego County, California, United States of America"
         ]
     },
     {
