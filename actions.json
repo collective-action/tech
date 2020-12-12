@@ -5251,7 +5251,7 @@
             ]
         ],
         "addresses": [
-            "Instagram-Ferris_Joshua / Marycate.minnigh, Campus Drive, Sunset Pines, Lock Haven, Clinton County, 17745, United States of America",
+            "Instagram-Ferris_Joshua / Marycate.minnigh, Campus Drive, Sunset Pines, Lock Haven, Clinton County, Pennsylvania, 17745, United States of America",
             "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States of America"
         ]
     },
@@ -7910,8 +7910,15 @@
         "author": [
             "moates"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                40.4441619,
+                -79.942728259225
+            ]
+        ],
+        "addresses": [
+            "Carnegie Mellon University, Warwick Terrace, Squirrel Hill North, Pittsburgh, Allegheny County, Pennsylvania, 15213, United States of America"
+        ]
     },
     {
         "id": 195,
