@@ -1,0 +1,39 @@
+{
+    "id": 365,
+    "date": "2020/12/03",
+    "sources": [
+        "https://www.theguardian.com/technology/2020/dec/07/timnit-gebru-google-firing-resignation-ai-research",
+        "https://googlewalkout.medium.com/standing-with-dr-timnit-gebru-isupporttimnit-believeblackwomen-6dadc300d382"
+    ],
+    "actions": [
+        "open letter"
+    ],
+    "struggles": [
+        "ethics",
+        "discrimination"
+    ],
+    "employment_types": [
+        "white collar workers",
+        "in-house workers"
+    ],
+    "description": "After Dr. Timnit Gebru was fired from Google, Googlers wrote an open letter demanding accountability from Google. 2695 Googlers and 4302 academic, industry, and civil society supporters signed on to the letter.",
+    "online": true,
+    "locations": null,
+    "companies": [
+        "Google"
+    ],
+    "workers": 2695,
+    "tags": [
+        "sexism",
+        "antiracism",
+        "industry solidarity",
+        "retaliation",
+        "ai",
+        "academics"
+    ],
+    "author": [
+        "organizejs"
+    ],
+    "latlngs": null,
+    "addresses": null
+}

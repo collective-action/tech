@@ -1,0 +1,43 @@
+{
+    "id": 359,
+    "date": "2020/11/17",
+    "sources": [
+        "https://www.vice.com/en/article/n7vn9w/blue-collar-unions-fear-widespread-layoffs-in-silicon-valley"
+    ],
+    "actions": [
+        "protest"
+    ],
+    "struggles": [
+        "job security",
+        "pay and benefits"
+    ],
+    "employment_types": [
+        "blue collar workers"
+    ],
+    "description": "On Tuesday, dozens of those workers will protest outside the San Francisco home of the Verizon Media CEO Guru Gowrappan, and drop off letters demanding an extension of their healthcare coverage and pay (Verizon Media owns Yahoo). Though these workers are technically not employed by  Verizon Media, the decision to lay off the cafeteria workers was ultimately made by the company, which like most Silicon Valley tech companies contracts out its blue-collar labor. ",
+    "online": null,
+    "locations": [
+        "san francisco-california-usa"
+    ],
+    "companies": [
+        "Yahoo",
+        "Verizon"
+    ],
+    "workers": null,
+    "tags": null,
+    "author": null,
+    "latlngs": [
+        [
+            37.4181243,
+            -122.02538023988251
+        ],
+        [
+            34.091086700000005,
+            -117.6034596429738
+        ]
+    ],
+    "addresses": [
+        "Yahoo, Sunnyvale, Santa Clara County, California, United States",
+        "Verizon, 9000, Rancho Cucamonga, San Bernardino County, California, 91730, United States"
+    ]
+}

@@ -20,11 +20,11 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">20/12/2020 08:06PM</td>
+    <td data-summary="timestamp">20/12/2020 09:44PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">337</td>
+    <td data-summary="action-count">346</td>
   </tr>
  </table>
 </div>
@@ -41,6 +41,141 @@ The goal of this archive is to provide data and insights on organizing in the te
    </td>
    <td>
     link
+   </td>
+  </tr>
+  <tr author="organizejs">
+   <td>
+    2020-12-17
+   </td>
+   <td>
+    Two weeks after Dr Timnit Gebru was fired from her role in Google, Google’s Ethical AI employees sent CEO Sundar Pichai a list of demands, including organizational changes and a request to reinstate dismissed researcher Timnit Gebru at a higher level.
+   </td>
+   <td>
+    <a href="/actions/0345.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="">
+   <td>
+    2020-12-12
+   </td>
+   <td>
+    Workers at an iPhone production facility in the city of Narsapura near Bangalore in India protested unpaid wages by destroying office property and factory equipment at Wistron Infocomm's manufacturing facility. Around 100 workers are arrested.
+   </td>
+   <td>
+    <a href="/actions/0344.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="organizejs">
+   <td>
+    2020-12-11
+   </td>
+   <td>
+    Three unions at Spotify kicked off a two hour work stoppage in solidarity with their collective struggles for fairer contracts and better workplace conditions. The union at Gimlet, a major podcast publisher that was bought by Spotify last year for $230 million, is joining unions at The Ringer and Parcast—all properties owned by Spotify—in the work stoppage. The union's demands have included a contract with guaranteed raises, clear guidelines surrounding promotions, the right to profit from intellectual property they help create, a greater emphasis on diversity, and pay equity across the board. The work stoppage was streamed on Twitch for a little over an hour, with organizing members from all three groups outlining in detail their demands.
+   </td>
+   <td>
+    <a href="/actions/0343.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="organizejs">
+   <td>
+    2020-12-03
+   </td>
+   <td>
+    After Dr. Timnit Gebru was fired from Google, Googlers wrote an open letter demanding accountability from Google. 2695 Googlers and 4302 academic, industry, and civil society supporters signed on to the letter.
+   </td>
+   <td>
+    <a href="/actions/0342.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="organizejs">
+   <td>
+    2020-11-27
+   </td>
+   <td>
+    Thousands of Amazon workers walk off the job to fight for fair pay and COVID protections. Unions representing tens of thousands of Amazon.com Inc. employees walked out during the year's busiest shopping season, in protest of Amazon's handling of everything from sick pay and COVID-19 precautions to user privacy. The giant Verdi trade union in Germany is holding a walkout across seven Amazon facilities. Garment workers in Bangladesh will call for higher pay outside an Amazon supplier facility in Dhaka. In Australia, unions will perform “health and safety” inspections of the company’s facilities using their “statutory right of entry,” the campaign said. Others will project the campaign’s logo on buildings in Brussels, London, Sao Paulo and other cities. In all, the organizations participating in the protests represent roughly 40,000 Amazon employees, according to a spokesman for the UNI Global Union. These actions are part of the Make Amazon Pay campaign.
+   </td>
+   <td>
+    <a href="/actions/0341.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="organizejs">
+   <td>
+    2020-11-27
+   </td>
+   <td>
+    Progressive International launched a protest campaign against Amazon called "Make Amazon Pay."  They called on the tech giant to provide better working conditions for its employees and to reduce its expanding carbon footprint. Launched on Black Friday, the campaign provides a list of demands for Amazon, which include raising pay for workers in Amazon’s warehouses, extending paid sick leave, and allowing workers to organize in unions. The campaign also tasks Amazon with “committing to zero emissions by 2030” and paying back society by “ending partnerships with police forces and immigration authorities that are institutionally racist” and “paying taxes in full, in the countries where the real economic activity takes place.” The campaign was run by Progressive International, and had the support of the Amazon Workers International, Amazon Employees for Climate Justice, the Tech Workers Coalition, Athena, and many more.
+   </td>
+   <td>
+    <a href="/actions/0340.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="organizejs">
+   <td>
+    2020-11-24
+   </td>
+   <td>
+    Amazon warehouse workers in Alabama filed a petition to hold a union election. If successful, this would be the first Amazon Union for warehouse workers in the U.S. Workers from the warehouse in Bessemer, Alabama, outside Birmingham, filed the petition with the NLRB seeking to be represented by the Retail, Wholesale and Department Store Union, or RWDSU. Amazon employs more than 1,500 workers at the facility, which just opened earlier this year.
+   </td>
+   <td>
+    <a href="/actions/0339.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="organizejs">
+   <td>
+    2020-11-18
+   </td>
+   <td>
+    More than 200 Facebook workers signed a letter demanding better treatment for content moderators after being required to return to the office in the midst of the pandemic. The contractors who wrote the letter condemned the company for deciding “to risk our lives to maintain Facebook’s profits during the pandemic”. It was sent to chief executive officer Mark Zuckerberg, chief operating officer Sheryl Sandberg, and top executives at Accenture and CPL, two companies that contract the moderators. The open letter was published with UK-based non-profit Foxglove.
+   </td>
+   <td>
+    <a href="/actions/0338.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="">
+   <td>
+    2020-11-17
+   </td>
+   <td>
+    On Tuesday, dozens of those workers will protest outside the San Francisco home of the Verizon Media CEO Guru Gowrappan, and drop off letters demanding an extension of their healthcare coverage and pay (Verizon Media owns Yahoo). Though these workers are technically not employed by  Verizon Media, the decision to lay off the cafeteria workers was ultimately made by the company, which like most Silicon Valley tech companies contracts out its blue-collar labor.
+   </td>
+   <td>
+    <a href="/actions/0337.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
    </td>
   </tr>
   <tr author="nataliyaned">
