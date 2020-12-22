@@ -20,7 +20,7 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">22/12/2020 04:28PM</td>
+    <td data-summary="timestamp">22/12/2020 05:35PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
@@ -3933,7 +3933,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2018-05-14
    </td>
    <td>
-    Workers of Oracle Korea have been sat outside the main office for more than 50 days after 19 negotiations with the management from December to April failed. This is now the longest strike by employees of a foreign IT companies in Korea. 'Some people think we don't need a union because they believe we work at a leading global IT companies and have well-paid jobs,' Kim Chul-soo, president of the Oracle labor union, said. 'It's not true at all.' Workers are suffering from a decline in real wages because there has been no increase in basic salary for the last 10 years, while half of the salary is based on incentives. Hiring scams similar to those at local banks, along with sexual harassment are also among the union’s accusations.
+    Workers of Oracle Korea sat outside the main office for more than 50 days after 19 negotiations with the management from December to April failed. This is now the longest strike by employees of a foreign IT companies in Korea. 'Some people think we don't need a union because they believe we work at a leading global IT companies and have well-paid jobs,' Kim Chul-soo, president of the Oracle labor union, said. 'It's not true at all.' Workers are suffering from a decline in real wages because there has been no increase in basic salary for the last 10 years, while half of the salary is based on incentives. Hiring scams similar to those at local banks, along with sexual harassment are also among the union’s accusations.
    </td>
    <td>
     <a href="/actions/0086.json">

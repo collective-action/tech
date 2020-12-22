@@ -21,7 +21,10 @@
         "facebook"
     ],
     "workers": 12,
-    "tags": null,
+    "tags": [
+        "antiracism",
+        "sexism"
+    ],
     "author": [
         "organizejs"
     ],

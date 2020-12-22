@@ -548,7 +548,9 @@
             "ibm"
         ],
         "workers": 140000,
-        "tags": null,
+        "tags": [
+            "ageism"
+        ],
         "author": [
             "nataliyaned"
         ],
@@ -2814,7 +2816,8 @@
         "companies": null,
         "workers": 1000,
         "tags": [
-            "industry_solidarity"
+            "industry_solidarity",
+            "immigration"
         ],
         "author": [
             "organizejs"
@@ -3400,7 +3403,7 @@
             "white collar workers",
             "inhouse workers"
         ],
-        "description": "Workers of Oracle Korea have been sat outside the main office for more than 50 days after 19 negotiations with the management from December to April failed. This is now the longest strike by employees of a foreign IT companies in Korea. 'Some people think we don't need a union because they believe we work at a leading global IT companies and have well-paid jobs,' Kim Chul-soo, president of the Oracle labor union, said. 'It's not true at all.' Workers are suffering from a decline in real wages because there has been no increase in basic salary for the last 10 years, while half of the salary is based on incentives. Hiring scams similar to those at local banks, along with sexual harassment are also among the union\u2019s accusations.",
+        "description": "Workers of Oracle Korea sat outside the main office for more than 50 days after 19 negotiations with the management from December to April failed. This is now the longest strike by employees of a foreign IT companies in Korea. 'Some people think we don't need a union because they believe we work at a leading global IT companies and have well-paid jobs,' Kim Chul-soo, president of the Oracle labor union, said. 'It's not true at all.' Workers are suffering from a decline in real wages because there has been no increase in basic salary for the last 10 years, while half of the salary is based on incentives. Hiring scams similar to those at local banks, along with sexual harassment are also among the union\u2019s accusations.",
         "online": null,
         "locations": [
             "seoul-south korea"
@@ -5071,7 +5074,9 @@
         ],
         "workers": 2556,
         "tags": [
-            "ai"
+            "ai",
+            "immigration",
+            "lgbtq"
         ],
         "author": [
             "organizejs"
@@ -6184,7 +6189,7 @@
         ],
         "workers": 23,
         "tags": [
-            "lgtbq"
+            "lgbtq"
         ],
         "author": [
             "organizejs"
@@ -6700,7 +6705,9 @@
             "google"
         ],
         "workers": 200,
-        "tags": null,
+        "tags": [
+            "ageism"
+        ],
         "author": [
             "nataliyaned"
         ],
@@ -7286,7 +7293,10 @@
             "facebook"
         ],
         "workers": 12,
-        "tags": null,
+        "tags": [
+            "antiracism",
+            "sexism"
+        ],
         "author": [
             "organizejs"
         ],
@@ -7597,7 +7607,10 @@
             "google"
         ],
         "workers": 45,
-        "tags": null,
+        "tags": [
+            "antiracism",
+            "sexism"
+        ],
         "author": [
             "nataliyaned"
         ],
@@ -9432,7 +9445,9 @@
         ],
         "workers": null,
         "tags": [
-            "trump"
+            "trump",
+            "lgbtq",
+            "ableism"
         ],
         "author": [
             "organizejs"
@@ -9501,7 +9516,11 @@
             "oracle"
         ],
         "workers": 300,
-        "tags": null,
+        "tags": [
+            "trump",
+            "lgbtq",
+            "ableism"
+        ],
         "author": [
             "organizejs"
         ],

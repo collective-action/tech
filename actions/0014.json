@@ -24,7 +24,9 @@
         "ibm"
     ],
     "workers": 140000,
-    "tags": null,
+    "tags": [
+        "ageism"
+    ],
     "author": [
         "nataliyaned"
     ],

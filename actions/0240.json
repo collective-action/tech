@@ -25,7 +25,11 @@
         "oracle"
     ],
     "workers": 300,
-    "tags": null,
+    "tags": [
+        "trump",
+        "lgbtq",
+        "ableism"
+    ],
     "author": [
         "organizejs"
     ],

@@ -23,7 +23,9 @@
         "google"
     ],
     "workers": 200,
-    "tags": null,
+    "tags": [
+        "ageism"
+    ],
     "author": [
         "nataliyaned"
     ],

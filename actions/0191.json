@@ -23,7 +23,10 @@
         "google"
     ],
     "workers": 45,
-    "tags": null,
+    "tags": [
+        "antiracism",
+        "sexism"
+    ],
     "author": [
         "nataliyaned"
     ],
