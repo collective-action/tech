@@ -5532,7 +5532,8 @@
         ],
         "workers": 3,
         "tags": [
-            "retaliation"
+            "retaliation",
+            "religious_discrimination"
         ],
         "author": [
             "organizejs"
@@ -12049,7 +12050,8 @@
             "strike"
         ],
         "struggles": [
-            "ethics"
+            "ethics",
+            "discrimination"
         ],
         "employment_types": [
             "gig workers"
@@ -12116,7 +12118,8 @@
         ],
         "struggles": [
             "unfair labor practices",
-            "ethics"
+            "ethics",
+            "discrimination"
         ],
         "employment_types": [
             "inhouse workers",
@@ -12946,7 +12949,8 @@
             "resources"
         ],
         "struggles": [
-            "na"
+            "ethics",
+            "discrimination"
         ],
         "employment_types": [
             "white collar workers",
