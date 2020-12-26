@@ -20,9 +20,9 @@
     "online": true,
     "locations": null,
     "companies": [
-        "Facebook",
         "CPL",
-        "Accenture"
+        "facebook",
+        "accenture"
     ],
     "workers": 200,
     "tags": [

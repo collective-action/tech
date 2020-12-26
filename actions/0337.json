@@ -20,24 +20,24 @@
         "san francisco-california-usa"
     ],
     "companies": [
-        "Yahoo",
-        "Verizon"
+        "verizon",
+        "yahoo"
     ],
     "workers": null,
     "tags": null,
     "author": null,
     "latlngs": [
         [
-            37.4181243,
-            -122.02538023988251
-        ],
-        [
             34.091086700000005,
             -117.6034596429738
+        ],
+        [
+            37.4181243,
+            -122.02538023988251
         ]
     ],
     "addresses": [
-        "Yahoo, Sunnyvale, Santa Clara County, California, United States",
-        "Verizon, 9000, Rancho Cucamonga, San Bernardino County, California, 91730, United States"
+        "Verizon, 9000, Rancho Cucamonga, San Bernardino County, California, 91730, United States",
+        "Yahoo, Sunnyvale, Santa Clara County, California, United States"
     ]
 }
