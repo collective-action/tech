@@ -13737,6 +13737,39 @@
         "addresses": null
     },
     {
+        "id": 372,
+        "date": "2020/12/07",
+        "sources": [
+            "https://www.nlrb.gov/case/13-CA-269890"
+        ],
+        "actions": [
+            "legal action"
+        ],
+        "struggles": [
+            "unfair labor practices"
+        ],
+        "employment_types": [
+            "white collar workers"
+        ],
+        "description": "The tech firm Civis Analysis, which came out of Obama's 2012 campaign and is backed by Eric Schmidt, has been hit with an unfair labor practice charge for illegally firing workers in retaliation for organizing. ",
+        "online": null,
+        "locations": [
+            "chicago-illinois-usa"
+        ],
+        "companies": [
+            "Civis Analytics"
+        ],
+        "workers": null,
+        "tags": [
+            "retaliation"
+        ],
+        "author": [
+            "organizejs"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
         "id": 367,
         "date": "2020/12/11",
         "sources": [
@@ -13840,5 +13873,87 @@
         ],
         "latlngs": null,
         "addresses": null
+    },
+    {
+        "id": 371,
+        "date": "2020/12/17",
+        "sources": [
+            "https://berlinvsamazon.com/2020/12/menschen-vor-profite-solidaritat-mit-den-von-covid-betroffenen-arbeiterinnen-in-amazon-zentren-17-12-2020/"
+        ],
+        "actions": [
+            "protest"
+        ],
+        "struggles": [
+            "working conditions"
+        ],
+        "employment_types": [
+            "blue collar workers",
+            "in-house workers"
+        ],
+        "description": "Activists from various initiatives, including initiatives against the Amazon Tower, Mietenwahnsinnb\u00fcndnis, #200H\u00e4user spontaneously demonstrated in front of the construction site of the \u201cAmazon East Side Edge Tower\u201d at Warschauer Br\u00fccke. The protests are directed at Amazon's handling of the pandemic in several German Amazon centers. The company is responsible for the increase in infections and illnesses among workers and is allowing the Christmas shopping season to continue. ",
+        "online": null,
+        "locations": [
+            "berlin-germany"
+        ],
+        "companies": [
+            "Amazon"
+        ],
+        "workers": null,
+        "tags": [
+            "coronavirus"
+        ],
+        "author": [
+            "organizejs"
+        ],
+        "latlngs": [
+            [
+                52.6059725,
+                12.976746894698728
+            ]
+        ],
+        "addresses": [
+            "Amazon, 5, Havellandstra\u00dfe, GVZ \u2013 G\u00fcterverkehrszentrum Berlin West - Brieselang, Bredow, Brieselang, Havelland, Brandenburg, 14656, Deutschland"
+        ]
+    },
+    {
+        "id": 373,
+        "date": "2020/12/21",
+        "sources": [
+            "https://www.rfa.org/english/news/china/workers-12212020111240.html"
+        ],
+        "actions": [
+            "protest",
+            "strike"
+        ],
+        "struggles": [
+            "job security"
+        ],
+        "employment_types": [
+            "contract workers",
+            "blue collar workers"
+        ],
+        "description": "Shanghai factory workers at the Apple supplier Pegatron turned out to protest a pay dispute with management at the weekend. Thousands of temporary workers gathered outside the Taiwanese-invested Pegatron facility in Shanghai, as authorities dispatched large numbers of police to block their entrance to the facility, sparking clashes. The protest came after Pegatron tried to transfer thousands of workers from its Shanghai factory to another facility at Kunshan in the eastern province of Jiangsu. Those who refused the transfer would be fired, and workers fired for refusing the offer wouldn't be eligible for their share of finders' fee commission usually shared between recruitment agencies and workers.",
+        "online": null,
+        "locations": [
+            "shanghai-china"
+        ],
+        "companies": [
+            "pegatron",
+            "apple"
+        ],
+        "workers": 1000,
+        "tags": null,
+        "author": [
+            "organizejs"
+        ],
+        "latlngs": [
+            [
+                31.2394928,
+                121.4796694
+            ]
+        ],
+        "addresses": [
+            "Apple, 300 \u53f7, \u5357\u4eac\u4e1c\u8def, \u4e0a\u6d77\u5e02, \u9ec4\u6d66\u533a, 200002, \u4e2d\u56fd"
+        ]
     }
 ]

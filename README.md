@@ -20,11 +20,11 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">26/12/2020 08:35AM</td>
+    <td data-summary="timestamp">26/12/2020 09:31AM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">346</td>
+    <td data-summary="action-count">349</td>
   </tr>
  </table>
 </div>
@@ -45,13 +45,43 @@ The goal of this archive is to provide data and insights on organizing in the te
   </tr>
   <tr author="organizejs">
    <td>
+    2020-12-21
+   </td>
+   <td>
+    Shanghai factory workers at the Apple supplier Pegatron turned out to protest a pay dispute with management at the weekend. Thousands of temporary workers gathered outside the Taiwanese-invested Pegatron facility in Shanghai, as authorities dispatched large numbers of police to block their entrance to the facility, sparking clashes. The protest came after Pegatron tried to transfer thousands of workers from its Shanghai factory to another facility at Kunshan in the eastern province of Jiangsu. Those who refused the transfer would be fired, and workers fired for refusing the offer wouldn't be eligible for their share of finders' fee commission usually shared between recruitment agencies and workers.
+   </td>
+   <td>
+    <a href="/actions/0348.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="organizejs">
+   <td>
+    2020-12-17
+   </td>
+   <td>
+    Activists from various initiatives, including initiatives against the Amazon Tower, Mietenwahnsinnbündnis, #200Häuser spontaneously demonstrated in front of the construction site of the “Amazon East Side Edge Tower” at Warschauer Brücke. The protests are directed at Amazon's handling of the pandemic in several German Amazon centers. The company is responsible for the increase in infections and illnesses among workers and is allowing the Christmas shopping season to continue.
+   </td>
+   <td>
+    <a href="/actions/0347.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="organizejs">
+   <td>
     2020-12-17
    </td>
    <td>
     Two weeks after Dr Timnit Gebru was fired from her role in Google, Google’s Ethical AI employees sent CEO Sundar Pichai a list of demands, including organizational changes and a request to reinstate dismissed researcher Timnit Gebru at a higher level.
    </td>
    <td>
-    <a href="/actions/0345.json">
+    <a href="/actions/0346.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -66,7 +96,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Workers at an iPhone production facility in the city of Narsapura near Bangalore in India protested unpaid wages by destroying office property and factory equipment at Wistron Infocomm's manufacturing facility. Around 100 workers are arrested.
    </td>
    <td>
-    <a href="/actions/0344.json">
+    <a href="/actions/0345.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -79,6 +109,21 @@ The goal of this archive is to provide data and insights on organizing in the te
    </td>
    <td>
     Three unions at Spotify kicked off a two hour work stoppage in solidarity with their collective struggles for fairer contracts and better workplace conditions. The union at Gimlet, a major podcast publisher that was bought by Spotify last year for $230 million, is joining unions at The Ringer and Parcast—all properties owned by Spotify—in the work stoppage. The union's demands have included a contract with guaranteed raises, clear guidelines surrounding promotions, the right to profit from intellectual property they help create, a greater emphasis on diversity, and pay equity across the board. The work stoppage was streamed on Twitch for a little over an hour, with organizing members from all three groups outlining in detail their demands.
+   </td>
+   <td>
+    <a href="/actions/0344.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="organizejs">
+   <td>
+    2020-12-07
+   </td>
+   <td>
+    The tech firm Civis Analysis, which came out of Obama's 2012 campaign and is backed by Eric Schmidt, has been hit with an unfair labor practice charge for illegally firing workers in retaliation for organizing.
    </td>
    <td>
     <a href="/actions/0343.json">
