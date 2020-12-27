@@ -13075,7 +13075,9 @@
         ],
         "description": "Parcast, a Spotify-owned podcast company, announced a unionization effort back in September. Employees of the company chose to pursue unionization through the Writers Guild of America, East to call for greater diversity, equity, and inclusion at the company, as well as equitable pay, reasonable working hours, and overtime compensation. Parcast announced on October 6th that Spotify had chosen to voluntarily recognize the union. ",
         "online": null,
-        "locations": null,
+        "locations": [
+            "new york city-new york-usa"
+        ],
         "companies": [
             "spotify",
             "parcast"
@@ -13776,8 +13778,7 @@
             "https://www.vice.com/amp/en/article/3anva3/three-of-spotifys-podcast-unions-stop-working-to-demand-better-workplace-conditions"
         ],
         "actions": [
-            "strike",
-            "union representation"
+            "strike"
         ],
         "struggles": [
             "pay and benefits",
