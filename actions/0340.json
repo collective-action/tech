@@ -1,39 +1,33 @@
 {
-    "id": 363,
-    "date": "2020/11/27",
+    "id": 361,
+    "date": "2020/11/18",
     "sources": [
-        "https://www.theverge.com/2020/11/27/21722421/make-amazon-pay-protest-campaign-black-friday",
-        "https://www.theguardian.com/commentisfree/2020/dec/01/amazon-workers-fighting-for-their-rights",
-        "https://makeamazonpay.com/"
+        "https://www.theguardian.com/technology/2020/nov/18/facebook-workers-demand-better-treatment-pandemic",
+        "https://www.foxglove.org.uk/news/open-letter-from-content-moderators-re-pandemic"
     ],
     "actions": [
-        "open letter",
-        "protest"
+        "open letter"
     ],
     "struggles": [
         "pay and benefits",
         "working conditions",
-        "unfair labor practices",
-        "job security",
-        "ethics"
+        "unfair labor practices"
     ],
     "employment_types": [
-        "other"
+        "contract workers"
     ],
-    "description": "Progressive International launched a protest campaign against Amazon called \"Make Amazon Pay.\"  They called on the tech giant to provide better working conditions for its employees and to reduce its expanding carbon footprint. Launched on Black Friday, the campaign provides a list of demands for Amazon, which include raising pay for workers in Amazon\u2019s warehouses, extending paid sick leave, and allowing workers to organize in unions. The campaign also tasks Amazon with \u201ccommitting to zero emissions by 2030\u201d and paying back society by \u201cending partnerships with police forces and immigration authorities that are institutionally racist\u201d and \u201cpaying taxes in full, in the countries where the real economic activity takes place.\u201d The campaign was run by Progressive International, and had the support of the Amazon Workers International, Amazon Employees for Climate Justice, the Tech Workers Coalition, Athena, and many more.\n",
+    "description": "More than 200 Facebook workers signed a letter demanding better treatment for content moderators after being required to return to the office in the midst of the pandemic. The contractors who wrote the letter condemned the company for deciding \u201cto risk our lives to maintain Facebook\u2019s profits during the pandemic\u201d. It was sent to chief executive officer Mark Zuckerberg, chief operating officer Sheryl Sandberg, and top executives at Accenture and CPL, two companies that contract the moderators. The open letter was published with UK-based non-profit Foxglove.",
     "online": true,
-    "locations": [
-        "worldwide"
-    ],
+    "locations": null,
     "companies": [
-        "amazon"
+        "CPL",
+        "facebook",
+        "accenture"
     ],
-    "workers": null,
+    "workers": 200,
     "tags": [
-        "international solidarity",
         "coronavirus",
-        "coworker solidarity",
-        "climate change"
+        "moderators"
     ],
     "author": [
         "organizejs"

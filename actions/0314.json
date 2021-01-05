@@ -1,31 +1,33 @@
 {
-    "id": 318,
-    "date": "2020/08/28",
+    "id": 317,
+    "date": "2020/08/22",
     "sources": [
-        "https://www.businessinsider.in/tech/news/protesters-set-up-a-guillotine-outside-jeff-bezos-mansion-and-demanded-higher-wages-for-amazon-workers-after-the-ceos-net-worth-surpassed-200-billion/amp_articleshow/77794471.cms"
+        "https://mp.weixin.qq.com/s/bvbmlUIPatMX4xzDvwU8FQ"
     ],
     "actions": [
-        "protest"
+        "protest",
+        "open letter",
+        "strike"
     ],
     "struggles": [
         "pay and benefits"
     ],
     "employment_types": [
-        "blue collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "More than 100 protesters, led by former Amazon worker Christian Smalls, placed a guillotine outside of Jeff Bezos' D.C. home to call on the company to raise minimum wages from $15 to $30/hour. ",
+    "description": "Didi rideshare workers have started holding strikes in a number of Chinese cities including Suzhou, Nanjing, Nantong, and Zunyi City to protest high commission fees on the platform. Drivers in Zunyi City also issued a letter with 5 demands to their local government and transportation department. ",
     "online": null,
     "locations": [
-        "washington_dc-usa"
+        "suzhou-china",
+        "nanjing-china",
+        "nantong-china",
+        "zunyi-china"
     ],
     "companies": [
-        "amazon"
+        "didi"
     ],
-    "workers": 101,
-    "tags": [
-        "coronavirus"
-    ],
+    "workers": null,
+    "tags": null,
     "author": [
         "nataliyaned"
     ],

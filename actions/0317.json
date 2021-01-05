@@ -1,35 +1,44 @@
 {
-    "id": 326,
-    "date": "2020/09/08",
+    "id": 316,
+    "date": "2020/08/31",
     "sources": [
-        "https://www.vice.com/en/article/g5p9nb/employees-of-social-change-nonprofit-stage-walkout-to-protest-racial-abuse"
+        "https://onezero.medium.com/leaked-salary-spreadsheet-reveals-microsoft-employee-earnings-for-a-second-year-d1466132d309"
     ],
     "actions": [
         "protest",
-        "strike",
-        "open letter"
+        "resources"
     ],
     "struggles": [
+        "pay and benefits",
         "discrimination"
     ],
     "employment_types": [
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "24 employees of tech non-profit Do Something walked off the job, calling for the resignation of current CEO Aria Finger. They have also sent two direct letters to the CEO and Board of Directors that have been shared on Twitter. Former employees shared experiences of racial discrimination and harassment via social media earlier this year. The letter states that Finger reacted to these posts by calling them untrue or \"standard-issued American forms of microaggression and racism\". Finger returned in August after a legal investigation did not find evidence of discrimination under her tenure. ",
+    "description": "More than 300 Microsoft employees shared salary and pay bonus data in spreadsheet. A similar action took place last year. This year's survey asked whether employees identified as people of color or experienced discrimination because of their gender identity. Notably, 194 of 310 participants identified as people of color and 69 had experienced discrimination on the basis of gender identity.",
     "online": true,
-    "locations": null,
-    "companies": [
-        "do something"
+    "locations": [
+        "usa"
     ],
-    "workers": 24,
+    "companies": [
+        "microsoft"
+    ],
+    "workers": 310,
     "tags": [
         "antiracism",
-        "blm"
+        "salary sharing"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            35.139622349999996,
+            -80.92306993327955
+        ]
+    ],
+    "addresses": [
+        "Microsoft, Ayrsley, Charlotte, Mecklenburg County, North Carolina, United States"
+    ]
 }

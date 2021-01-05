@@ -1,36 +1,41 @@
 {
-    "id": 310,
-    "date": "2020/08/14",
+    "id": 312,
+    "date": "2020/08/12",
     "sources": [
-        "https://www.nytimes.com/2020/08/14/technology/pinterest-walkout-equality.html",
-        "https://techcrunch.com/2020/08/14/pinterest-employees-are-walking-out-today-in-light-of-discrimination-allegations/",
-        "https://www.theverge.com/2020/8/14/21369035/pinterest-virtual-walkout-protest-discrimination-slack-blind",
-        "https://www.usatoday.com/story/money/2020/08/13/pinterest-workers-walk-out-calling-end-workplace-bias/3369999001/"
+        "https://qz.com/1894241/belaruss-crackdown-could-squash-minsks-budding-tech-sector/",
+        "https://dev.by/news/otkrytoe-pismo-it-kompanii"
     ],
     "actions": [
-        "protest",
-        "open letter",
-        "strike"
+        "open letter"
     ],
     "struggles": [
-        "discrimination"
+        "ethics"
     ],
     "employment_types": [
         "white collar workers",
-        "inhouse workers"
+        "inhouse workers",
+        "contract workers"
     ],
-    "description": "Pinterest employees staged a virtual walk out by posting messages to Slack and then logging off their work accounts, to protest the racial and gender discrimination brought to light by Ifeoma Ozoma and Aerica Shimizu Banks, and then again by Francoise Brougher. Workers also signed onto an online petition to CEO Ben Silberman calling for an end to discrimination and retaliation by the company.",
+    "description": "Over 2,900 Belarusian tech workers, including top level management and investors, publicly signed onto an open letter calling the recent presidential elections a fraud. Signatories threatened to relocate their offices and investments outside of Belarus, stating that the atmosphere of fear and suppression was not conducive to a thriving technology sector. The letter denounced anti-democratic measures taken by the government, including the arrests of protesters and widespread Internet outages, and called for new elections, the release of those arrested, and freedom of press in the country. ",
     "online": true,
-    "locations": null,
-    "companies": [
-        "pinterest"
+    "locations": [
+        "belarus"
     ],
-    "workers": 236,
+    "companies": null,
+    "workers": 2900,
     "tags": [
-        "antiracism",
-        "blm"
+        "politics"
     ],
-    "author": null,
-    "latlngs": null,
-    "addresses": null
+    "author": [
+        "nataliyaned"
+    ],
+    "latlngs": [
+        [
+            53.4250605,
+            27.6971358
+        ]
+    ],
+    "addresses": [
+        "\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c"
+    ]
 }

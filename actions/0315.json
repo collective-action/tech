@@ -1,44 +1,33 @@
 {
-    "id": 316,
-    "date": "2020/08/31",
+    "id": 319,
+    "date": "2020/08/26",
     "sources": [
-        "https://onezero.medium.com/leaked-salary-spreadsheet-reveals-microsoft-employee-earnings-for-a-second-year-d1466132d309"
+        "https://rabble.ca/news/2020/08/former-foodora-workers-receive-closure-346-million-settlement"
     ],
     "actions": [
-        "protest",
-        "resources"
+        "legal action"
     ],
     "struggles": [
-        "pay and benefits",
-        "discrimination"
+        "unfair labor practices"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "More than 300 Microsoft employees shared salary and pay bonus data in spreadsheet. A similar action took place last year. This year's survey asked whether employees identified as people of color or experienced discrimination because of their gender identity. Notably, 194 of 310 participants identified as people of color and 69 had experienced discrimination on the basis of gender identity.",
-    "online": true,
+    "description": "Foodora workers in Canada received a $3.5 million settlement after suing their employer for union busting. Foodora chose to leave Canada in April 2020 after the Ontario Labor Board voted to recognize the couriers as company employees. The Canadian Union of Postal Workers sued on behalf of the workers and declared that the settlement would be distributed between all Canadian Foodora employees.",
+    "online": null,
     "locations": [
-        "usa"
+        "canada"
     ],
     "companies": [
-        "microsoft"
+        "foodora"
     ],
-    "workers": 310,
+    "workers": 2000,
     "tags": [
-        "antiracism",
-        "salary sharing"
+        "delivery_workers"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            35.139622349999996,
-            -80.92306993327955
-        ]
-    ],
-    "addresses": [
-        "Microsoft, Ayrsley, Charlotte, Mecklenburg County, North Carolina, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

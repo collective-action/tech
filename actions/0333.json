@@ -1,24 +1,25 @@
 {
-    "id": 352,
-    "date": "2020/10/22",
+    "id": 350,
+    "date": "2020/10/17",
     "sources": [
-        "https://www.nytimes.com/2020/10/22/business/amazon-shutdown-threat-election-day.html"
+        "https://fortune.com/2020/10/16/amazon-employee-activists-union-climate-justice/",
+        "https://www.cbsnews.com/news/amazon-workers-petition-election-day-holiday-paid-time-off/"
     ],
     "actions": [
-        "strike"
+        "protest"
     ],
     "struggles": [
         "working conditions",
         "ethics"
     ],
     "employment_types": [
-        "blue collar workers",
+        "white collar workers",
         "inhouse workers"
     ],
-    "description": "Amazon workers, organized by Amazon Employees for Climate Justice, are calling for a 15-minute work stoppage at warehouses across the country on Halloween in a push for paid time-off for voting on Election Day. ",
-    "online": true,
+    "description": "Amazon Employees for Climate Justice organized a rally in Seattle to call for paid time off for workers to vote on Election Day. A few hundred people attended the rally according to CBS News. Amazon stated that managers have been instructed to approve time-off requests for voting. ",
+    "online": null,
     "locations": [
-        "usa"
+        "seattle-washington-usa"
     ],
     "companies": [
         "amazon"

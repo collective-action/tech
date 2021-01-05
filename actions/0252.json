@@ -1,36 +1,44 @@
 {
-    "id": 343,
+    "id": 243,
     "date": "2020/03/19",
     "sources": [
-        "https://www.buzzfeednews.com/article/carolineodonovan/gimlet-media-podcasts-spotify-union",
-        "https://gizmodo.com/gimlet-gets-a-union-1834243384",
-        "https://gizmodo.com/whats-gimlets-problem-1833639322"
+        "https://www.businessinsider.com/ice-mijente-microsoft-coronavirus-crisis-2020-3",
+        "https://github.com/msworkers/against.ice"
     ],
     "actions": [
-        "union representation"
+        "open letter"
     ],
     "struggles": [
-        "working conditions"
+        "ethics"
     ],
     "employment_types": [
         "white collar workers",
-        "contract workers",
         "inhouse workers"
     ],
-    "description": "The staff of podcasting company Gimlet Media, recently acquired by Spotify Media, voted in favor of unionization with the Writers Guild of America, East. Gimlet is the first podcasting company to join the WGAE. Notably, the union includes contractors. Update: In April, management announced they would recognize the union. ",
+    "description": "Mijente, an immigrant rights group is calling on ICE to stop hunting down undocumented immigrants amid the coronavirus crisis. In an open letter published on Github, Microsoft workers backed mijente's campaign, calling on tech companies not to share their technologies with ICE.",
     "online": null,
     "locations": [
-        "brooklyn-new york city-new york-usa"
+        "california-usa"
     ],
     "companies": [
-        "spotify",
-        "gimlet media"
+        "microsoft"
     ],
-    "workers": 83,
-    "tags": null,
+    "workers": null,
+    "tags": [
+        "ice",
+        "immigration",
+        "coronavirus"
+    ],
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.41096725,
+            -122.07138737347663
+        ]
+    ],
+    "addresses": [
+        "Microsoft Silicon Valley, Mountain View, Santa Clara County, California, United States"
+    ]
 }

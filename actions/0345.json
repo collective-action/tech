@@ -1,30 +1,33 @@
 {
-    "id": 360,
-    "date": "2020/12/12",
+    "id": 372,
+    "date": "2020/12/07",
     "sources": [
-        "https://www.bbc.co.uk/news/world-asia-india-55296433?at_custom2=facebook_page&at_campaign=64&at_custom3=BBC+News&at_medium=custom7&at_custom1=%5Bpost+type%5D&at_custom4=81D22262-3D70-11EB-B208-D9C496E8478F&fbclid=IwAR3puILhntOwygYe8HWoRjMsvcnw9IFD1YRTIKIQUbGWA1hbUn17Sw1yENM"
+        "https://www.nlrb.gov/case/13-CA-269890"
     ],
     "actions": [
-        "protest"
+        "legal action"
     ],
     "struggles": [
-        "pay and benefits"
+        "unfair labor practices"
     ],
     "employment_types": [
-        "blue collar workers"
+        "white collar workers"
     ],
-    "description": "Workers at an iPhone production facility in the city of Narsapura near Bangalore in India protested unpaid wages by destroying office property and factory equipment at Wistron Infocomm's manufacturing facility. Around 100 workers are arrested. ",
+    "description": "The tech firm Civis Analysis, which came out of Obama's 2012 campaign and is backed by Eric Schmidt, has been hit with an unfair labor practice charge for illegally firing workers in retaliation for organizing. ",
     "online": null,
     "locations": [
-        "narsapura-bangalore-india"
+        "chicago-illinois-usa"
     ],
     "companies": [
-        "wistron infocomm",
-        "apple"
+        "civis analytics"
     ],
-    "workers": 2000,
-    "tags": null,
-    "author": null,
+    "workers": null,
+    "tags": [
+        "retaliation"
+    ],
+    "author": [
+        "organizejs"
+    ],
     "latlngs": null,
     "addresses": null
 }

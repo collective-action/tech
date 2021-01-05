@@ -1,41 +1,33 @@
 {
-    "id": 353,
+    "id": 346,
     "date": "2020/06/26",
     "sources": [
-        "https://www.politico.com/news/2020/06/26/supreme-court-canada-uber-lawsuit-341644"
+        "https://www.cbc.ca/news/canada/toronto/uber-drivers-union-ufcw-toronto-1.5190766"
     ],
     "actions": [
-        "legal action"
+        "union representation"
     ],
     "struggles": [
-        "pay and benefits",
-        "unfair labor practices"
+        "working conditions"
     ],
     "employment_types": [
         "gig workers"
     ],
-    "description": "The Supreme Court of Canada allowed a C$400 million lawsuit against Uber by its drivers to proceed. The lawsuit alleges that drivers are, in fact, company employees.",
+    "description": "Approximately 300 Uber Black drivers in the Toronto area voted to unionize with the United Food and Commercial Workers (UFCW). ",
     "online": null,
     "locations": [
-        "canada"
+        "toronto-canada"
     ],
     "companies": [
         "uber"
     ],
-    "workers": null,
+    "workers": 300,
     "tags": [
         "drivers"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            42.9833851,
-            -81.2513098
-        ]
-    ],
-    "addresses": [
-        "Uber, Dundas Street, London, Southwestern Ontario, Ontario, N6A 1G2, Canada"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

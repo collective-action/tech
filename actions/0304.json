@@ -1,33 +1,46 @@
 {
-    "id": 299,
-    "date": "2020/08/01",
+    "id": 307,
+    "date": "2020/07/26",
     "sources": [
-        "https://www.vice.com/en_au/article/ep4qdz/amazon-workers-blocked-delivery-trucks-from-leaving-a-warehouse-for-hours"
+        "https://www.msn.com/en-us/news/us/boycott-continues-against-cambridge-whole-foods-that-sent-employees-home-for-black-lives-matter-masks/ar-BB16mPY2"
     ],
     "actions": [
-        "strike",
-        "protest"
+        "protest",
+        "strike"
     ],
     "struggles": [
-        "pay and benefits"
+        "unfair labor practices",
+        "ethics",
+        "discrimination"
     ],
     "employment_types": [
         "inhouse workers",
         "blue collar workers"
     ],
-    "description": "A caravan of protestors demanding increased pay and COVID-19 protections disrupted business at an Amazon Distribution Center in the San Francisco Bay Area. The caravan was organized by Bay Area Amazonians.",
+    "description": "Whole Foods employees and local residents protested in front of a Cambridge location that turned away seven employees on June 25th for wearing masks with \"Black Lives Matter\" slogans. The event is part of a larger boycott that has been ongoing since the incident. Suverino Frith, one of the seven employees, spoke at the event and called on the company to live up to their \"core values\". ",
     "online": null,
     "locations": [
-        "San-Leandro-California-USA"
+        "cambridge-massachusetts-usa"
     ],
     "companies": [
+        "whole_foods",
         "amazon"
     ],
-    "workers": 30,
+    "workers": null,
     "tags": [
-        "coronavirus"
+        "antiracism",
+        "blm"
     ],
-    "author": null,
-    "latlngs": null,
-    "addresses": null
+    "author": [
+        "nataliyaned"
+    ],
+    "latlngs": [
+        [
+            42.3651852,
+            -71.1042178
+        ]
+    ],
+    "addresses": [
+        "Amazon Pickup, 1, Magazine Street, Central Square, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02139, United States"
+    ]
 }

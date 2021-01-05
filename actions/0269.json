@@ -1,35 +1,71 @@
 {
-    "id": 256,
-    "date": "2020/04/20",
+    "id": 294,
+    "date": "2020/04/17",
     "sources": [
-        "https://www.theguardian.com/world/2020/apr/20/coronavirus-digital-contact-tracing-will-fail-unless-privacy-is-respected-experts-warn",
-        "https://techcrunch.com/2020/04/20/academics-contact-tracing/"
+        "https://www.wsws.org/en/articles/2020/04/25/braz-a25.html",
+        "https://www.wsws.org/en/articles/2020/04/20/spai-a20.html"
     ],
     "actions": [
-        "open letter"
+        "strike",
+        "protest"
     ],
     "struggles": [
-        "ethics"
+        "working conditions",
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers"
+        "gig workers"
     ],
-    "description": "Over 300 academics from 26 countries signed a letter calling for contact-tracing apps to respect user privacy and to limit large-scale, centralized surveillance in favor of decentralized systems. The signatories favored the DP-3T protocol and systems like Apple and Google\u2019s cross-platform solution over the PEPP-T system designed by a set of European countries.",
-    "online": true,
+    "description": "Over the past few days, food delivery workers have carried out strikes in several countries demanding safe working conditions in the face of the coronavirus pandemic and an increase in delivery rates to ensure the workers a livable income. The countries include Brazil, Spain, Argentina, and Ecuador.",
+    "online": null,
     "locations": [
-        "worldwide"
+        "teresina-piau\u00ed-brazil",
+        "rio de janiero-brazil",
+        "s\u00e3o paulo-brazil",
+        "buenos aires-argentina",
+        "cordoba-spain",
+        "quito-ecuador",
+        "madrid-spain",
+        "cartagena-spain"
     ],
     "companies": [
-        "na"
+        "loggi",
+        "iFood",
+        "rappi",
+        "uber",
+        "glovo",
+        "deliveroo"
     ],
-    "workers": 301,
+    "workers": null,
     "tags": [
         "coronavirus",
-        "surveillance"
+        "delivery_workers"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            -23.5408511,
+            -46.767282173446574
+        ],
+        [
+            -21.2180398,
+            -47.7985009230547
+        ],
+        [
+            -36.8691092,
+            -60.1620626
+        ],
+        [
+            -34.5814605,
+            -58.4513731
+        ]
+    ],
+    "addresses": [
+        "iFood, 1496, Avenida dos Autonomistas, Osasco, Regi\u00e3o Imediata de S\u00e3o Paulo, Regi\u00e3o Metropolitana de S\u00e3o Paulo, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de S\u00e3o Paulo, S\u00e3o Paulo, Regi\u00e3o Sudeste, 06020-010, Brasil",
+        "Parque Uber, Jardim Bot\u00e2nico, Ribeir\u00e3o Preto, Regi\u00e3o Imediata de Ribeir\u00e3o Preto, Regi\u00e3o Metropolitana de Ribeir\u00e3o Preto, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Ribeir\u00e3o Preto, S\u00e3o Paulo, Regi\u00e3o Sudeste, Brasil",
+        "Cristian Uber, Hinojo, Partido de Olavarr\u00eda, Buenos Aires, 7318, Argentina",
+        "Glovo, 3590, Avenida Federico Lacroze, Chacarita, Buenos Aires, Comuna 15, Ciudad Aut\u00f3noma de Buenos Aires, C1427EDN, Argentina"
+    ]
 }

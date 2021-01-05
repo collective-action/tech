@@ -1,42 +1,33 @@
 {
-    "id": 333,
-    "date": "2020/10/01",
+    "id": 331,
+    "date": "2020/09/23",
     "sources": [
-        "https://workdayminnesota.org/thursday-night-shakopee-amazon-workers-walked-out-in-protest-of-worker-firing/",
-        "https://twitter.com/athenaforall/status/1312080698140962818?s=20"
+        "https://www.forbes.com/sites/rachelsandler/2020/09/24/hootsuite-drops-ice-contract-after-employee-backlash/#714f8e261c50",
+        "https://www.vice.com/en/article/jgx75b/hootsuite-denied-providing-tech-to-ice-this-contract-shows-that-it-did"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
-        "working conditions"
+        "ethics"
     ],
     "employment_types": [
-        "blue collar workers",
+        "white collar workers",
         "inhouse workers"
     ],
-    "description": "35 Amazon workers in Shakopee, Minnesota walked off the job to protest the firing of Farhiyo Warsame. The company alleged that the employee violated \"time off task\" policies but workers claim that the employee was fired for raising concerns about covid-related safety.",
-    "online": null,
-    "locations": [
-        "shakopee-minnesota-usa"
-    ],
+    "description": "Employees at Hootsuite succeeded in getting the company, a B-corporation, to drop its contract with U.S. ICE after protesting via social media and voicing their opposition internally to the company. A Tweet from a senior training specialist at Hootsuite, Sam Anderson, generated significant backlash within the industry, including from many social media managers at client companies.  ",
+    "online": true,
+    "locations": null,
     "companies": [
-        "amazon"
+        "hootsuite"
     ],
-    "workers": 35,
+    "workers": 100,
     "tags": [
-        "coronavirus"
+        "ice"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            44.78839255,
-            -93.44285005008032
-        ]
-    ],
-    "addresses": [
-        "Amazon Sortation Center MSP5, 5825, 11th Avenue East, Shakopee, Scott County, Minnesota, 55379, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }
