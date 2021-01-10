@@ -1,39 +1,48 @@
 {
-    "id": 94,
-    "date": "2018/07/10",
+    "id": 90,
+    "date": "2018/06/21",
     "sources": [
-        "https://www.reuters.com/article/us-amazon-com-spain-strike/spanish-amazon-workers-call-three-day-strike-over-wages-rights-iduskbn1k01xz",
-        "https://www.buzzfeednews.com/article/leticiamiranda/labor-strike-against-amazon-in-spain-arrests-injuries"
+        "https://thehill.com/business-a-lobbying/393583-amazon-employees-protest-sale-of-facial-recognition-tech-to-law",
+        "https://www.businessinsider.com/over-100-amazon-employees-sign-letter-jeff-bezos-stop-selling-facial-recognition-software-police-2018-6"
     ],
     "actions": [
-        "strike"
+        "open letter"
     ],
     "struggles": [
-        "working conditions"
+        "ethics"
     ],
     "employment_types": [
-        "blue collar workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Spanish labor unions have called on around 1,000 Amazon employees to walk out for three days next week in a dispute over what it says are efforts to reduce workers' rights. The strike will took place at the San Fernando warehouse on the outskirts of Madrid, Amazon\u2019s biggest in Spain, on July 16, 17 and 18, to coincide with a 1-1/2 day sale on the platform.",
-    "online": null,
+    "description": "Workers at Amazon are circulating an internal letter to CEO Jeff Bezos, asking him to stop selling the companies's Rekognition facial recognition software to law enforcement and to boot the data-mining firm Palantir from its cloud services.",
+    "online": true,
     "locations": [
-        "madrid-spain"
+        "usa"
     ],
     "companies": [
-        "amazon"
+        "amazon",
+        "palantir"
     ],
-    "workers": 950,
-    "tags": null,
+    "workers": 100,
+    "tags": [
+        "law_enforcement"
+    ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            40.4593249,
-            -3.4602878
+            47.6142939,
+            -122.3239636
+        ],
+        [
+            37.4440869,
+            -122.16287540411753
         ]
     ],
     "addresses": [
-        "Amazon, Avenida de la Constituci\u00f3n, Torrej\u00f3n de Ardoz, \u00c1rea metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28850, Espa\u00f1a"
+        "Amazon Go Grocery, 610, East Pike Street, First Hill, Seattle, King County, Washington, 98122, United States",
+        "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States"
     ]
 }

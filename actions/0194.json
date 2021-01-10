@@ -1,12 +1,11 @@
 {
-    "id": 189,
-    "date": "2019/09/26",
+    "id": 185,
+    "date": "2019/09/19",
     "sources": [
-        "https://www.dailycal.org/2019/09/24/under-pressure-palan"
+        "https://www.jhunewsletter.com/article/2019/09/university-will-not-renew-its-contracts-with-ice?fbclid=iwar2qil9rnrrv2giufwqcqxv6qwsfl1r-_4uui76dh7jkljjmidg2ttcrk4s"
     ],
     "actions": [
-        "protest",
-        "open letter"
+        "protest"
     ],
     "struggles": [
         "ethics"
@@ -14,15 +13,13 @@
     "employment_types": [
         "na"
     ],
-    "description": "Students at UC Berkeley have led protests and circulated petitions to stop Palantir from attending campus events due to their standing contracts with ICE. 50 students attended a protest and over 700 students and faculty signed a petition to stop an upcoming informational session.",
+    "description": "Hopkins Coalition Against ICE (HCAI), a student organization, organized three protests over the course of the 2018-19 school year against contracts between Johns Hopkins University Center for Law Enforcement Medicine and ICE (U.S. Dept. of Immigrations Customs and Enforcement). In response, the Center announced that they would not be renewing their contract.",
     "online": null,
     "locations": [
-        "berkeley-california-usa"
+        "baltimore-maryland-usa"
     ],
-    "companies": [
-        "palantir"
-    ],
-    "workers": 700,
+    "companies": null,
+    "workers": null,
     "tags": [
         "students",
         "immigration",
@@ -31,6 +28,13 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            39.2908816,
+            -76.610759
+        ]
+    ],
+    "addresses": [
+        "Baltimore, Maryland, United States"
+    ]
 }

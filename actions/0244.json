@@ -1,45 +1,45 @@
 {
-    "id": 236,
-    "date": "2020/03/12",
+    "id": 233,
+    "date": "2020/02/20",
     "sources": [
-        "https://www.vice.com/en_us/article/n7jkdx/baristas-at-slack-say-theyve-won-90-days-of-severance",
-        "https://www.theverge.com/2020/3/12/21177319/slack-paying-contractors-after-laid-off-baristas-send-letter"
+        "https://www.marketwatch.com/story/hundreds-of-oracle-workers-stage-walkout-to-protest-larry-ellisons-fundraiser-for-trump-2020-02-20",
+        "https://www.marketwatch.com/story/hundreds-of-oracle-workers-stage-walkout-to-protest-larry-ellisons-fundraiser-for-trump-2020-02-20"
     ],
     "actions": [
-        "open letter",
-        "legal action"
+        "strike",
+        "protest"
     ],
     "struggles": [
-        "job security"
+        "ethics",
+        "discrimination"
     ],
     "employment_types": [
-        "blue collar workers",
-        "contract workers"
+        "white collar workers"
     ],
-    "description": "A group of five baristas who operate the espresso machines at Slack\u2019s corporate headquarters in San Francisco learned on March 6 that they were losing their contracted positions just prior to a decision by the company to move to remote operations to curb the spread of COVID-19. The baristas claim that Slack caught wind of their intention to criticize the company publicly\u2014and in what they claim to be an organizing victory, they learned that their severance would be extended to 90 days.",
-    "online": null,
+    "description": "People left their desks at Oracle offices around the world to protest Chairman Larry Ellison\u2019s fundraiser a day earlier for President Donald Trump. The protest, called No Ethics/No Work, involved about 300 employees walking out of their offices or stopping work at remote locations at noon local time and devoting the rest of the day to volunteering or civic engagement.",
+    "online": true,
     "locations": [
-        "san francisco-california-usa"
+        "usa"
     ],
     "companies": [
-        "slack"
+        "oracle"
     ],
-    "workers": 5,
+    "workers": 300,
     "tags": [
-        "coworker_solidarity",
-        "fund_raising",
-        "coronavirus"
+        "trump",
+        "lgbtq",
+        "ableism"
     ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            35.2960341,
-            -120.6532192
+            32.6099702,
+            -110.7651843
         ]
     ],
     "addresses": [
-        "Slack Street, San Luis Obispo, San Luis Obispo County, California, 93410, United States"
+        "Oracle, Pinal County, Arizona, 85623, United States"
     ]
 }

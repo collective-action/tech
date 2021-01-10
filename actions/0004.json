@@ -1,32 +1,29 @@
 {
-    "id": 1,
-    "date": "1979/09/01",
+    "id": 323,
+    "date": "1973/01/01",
     "sources": [
-        "https://twitter.com/clancynewyork/status/1175872040814993408?s=19",
-        "http://www-cs-students.stanford.edu/~cale/cs201/apartheid.comp.html"
+        "https://archive.scienceforthepeople.org/vol-8/v8n1/rumblings-of-organizing-in-silicon-valley/"
     ],
     "actions": [
-        "protest"
+        "union drive"
     ],
     "struggles": [
-        "ethics"
+        "unfair labor practices"
     ],
     "employment_types": [
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "IBM workers formed an organization, IBM: Speak Up!, to protest the company's involvement with apartheid South Africa. The company created the computer system that upheld the country's passbook system. The company officially divested from South Africa in 1987.",
+    "description": "Workers at Silicon Valley conglomerate Smith-Corona-Marchant (S.C.M.) held a unionizing drive and a hearing with the National Labor Relations Board. The ultimately gained enough votes to continue forward with an NLRB election before losing momentum due to anti-unionizing efforts from company management.  ",
     "online": null,
     "locations": [
-        "worldwide"
+        "california-usa"
     ],
     "companies": [
-        "ibm"
+        "smith-corona-marchant"
     ],
-    "workers": null,
-    "tags": [
-        "international_solidarity"
-    ],
+    "workers": 50,
+    "tags": null,
     "author": [
         "nataliyaned"
     ],

@@ -1,46 +1,40 @@
 {
-    "id": 29,
-    "date": "2013/09/19",
+    "id": 26,
+    "date": "2013/03/15",
     "sources": [
-        "https://www.workers.org/2013/09/24/amazon-workers-strike-germany/"
+        "http://allthingsd.com/20130315/uber-drivers-protest-outside-the-companys-san-francisco-headquarters/"
     ],
     "actions": [
-        "open letter"
+        "protest"
     ],
     "struggles": [
         "pay and benefits"
     ],
     "employment_types": [
-        "na"
+        "gig workers"
     ],
-    "description": "Students from Leipzig University have formed an organization known as 'Amazon Solidarity Alliance' and have collected 500 signatures in support of ongoing strikes by Amazon workers in Leipzig. The company frequently employs students in temporary positions.",
+    "description": "A group of approximately 30 Uber drivers protested outside of the company's San Francisco headquarters to protest lowered pay and lack of job security, including the firing of 500 drivers over the last month. ",
     "online": null,
     "locations": [
-        "bad hersfeld-germany",
-        "leipzig-germany"
+        "san francisco-california-usa"
     ],
     "companies": [
-        "amazon"
+        "uber"
     ],
-    "workers": 500,
+    "workers": 30,
     "tags": [
-        "students"
+        "drivers"
     ],
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            50.8453279,
-            9.678334853465138
-        ],
-        [
-            51.3622584,
-            12.452329749225527
+            37.7899898,
+            -122.3999799
         ]
     ],
     "addresses": [
-        "Amazon Logistik GmbH, 1, Eichhof, Asbach, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
-        "Amazon, 1, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland"
+        "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States"
     ]
 }

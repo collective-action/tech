@@ -1,38 +1,35 @@
 {
-    "id": 216,
-    "date": "2019/12/03",
+    "id": 212,
+    "date": "2019/11/25",
     "sources": [
-        "https://www.buzzfeednews.com/article/carolineodonovan/amazon-workers-in-sacramento-are-demanding-a-fair-paid-time"
+        "https://www.vox.com/the-goods/2019/11/27/20985691/amazon-workers-black-friday-2019",
+        "https://nypost.com/2019/11/25/workers-at-amazons-staten-island-warehouse-to-hold-rally-over-high-injury-rates/"
     ],
     "actions": [
-        "open letter"
+        "open letter",
+        "protest"
     ],
     "struggles": [
-        "working conditions"
+        "working conditions",
+        "pay and benefits"
     ],
     "employment_types": [
-        "blue collar workers"
+        "blue collar workers",
+        "inhouse workers"
     ],
-    "description": "Amazon delivery station employees in Sacramento are demanding fair treatment and benefits equal to those of other Amazon workers. By Sunday, more than 200 workers had signed a petition requesting an explanation for why they receive fewer paid days off per year than typical Amazon warehouse workers. The workers, who call themselves Amazonians United Sacramento, say that unlike other Amazon employees, they receive no paid time off. These workers, who sort and prepare packages for final-mile delivery in a station called DSM1, said they were told by Amazon managers that they get less paid time off (PTO) because they are classified by the company as Class Q workers. The Sacramento employees said they were previously unaware of any such classification.",
+    "description": "Over a hundred Amazon workers and their supporters gathered outside the facility to protest working conditions that they say only worsen as the e-tailing giant gears up to deliver a rush of packages ahead of Christmas and Hanukkah. 600 workers at an Amazon fulfillment center in New York signed a letter and protested working conditions. Amazon workers face injury rates over three times the industry average, and are asking for increased break time and better transit benefits.",
     "online": null,
     "locations": [
-        "sacramento-california-usa"
+        "staten island-new york city-new york-usa"
     ],
     "companies": [
         "amazon"
     ],
-    "workers": 200,
+    "workers": 600,
     "tags": null,
     "author": [
-        "organizejs"
+        "ericandrewlewis"
     ],
-    "latlngs": [
-        [
-            38.6767343,
-            -121.4948028
-        ]
-    ],
-    "addresses": [
-        "Amazon Avenue, Sacramento, Sacramento County, California, 95835, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

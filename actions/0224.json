@@ -1,9 +1,9 @@
 {
-    "id": 218,
-    "date": "2019/12/10",
+    "id": 214,
+    "date": "2019/11/29",
     "sources": [
-        "https://www.vice.com/amp/en_us/article/ywaaay/injured-amazon-warehouse-workers-are-protesting-dangerous-work-speed",
-        "https://chicago.suntimes.com/metro-state/2019/12/10/21005210/amazon-employees-hurt-injured-work-activists"
+        "https://metro.co.uk/2019/11/29/amazon-hit-by-black-friday-srikes-and-protests-across-europe-11238471/",
+        "https://www.bbc.com/news/uk-england-50603875"
     ],
     "actions": [
         "protest"
@@ -14,26 +14,33 @@
     "employment_types": [
         "blue collar workers"
     ],
-    "description": "Injured former Amazon warehouse workers and labor organizers in Chicago are protesting dangerous work speed and high injury rates today outside one of the company\u2019s brick-and-mortar stores in downtown Chicago. The action coincides with the release of a new report on injury rates in one of the region\u2019s largest and most dangerous warehouses, MDW7, the first in Illinois with automated robots. The report and protest in Chicago coincides with the launch of a national coalition, known as Athena, of three dozen grassroots labor, antitrust, and digital rights organizations\u2014the first unified resistance effort in the United States against the delivery giant.",
+    "description": "Amazon was targeted by a UK-wide protest organised to coincide with Black Friday and Cyber Monday demanding an end to \u2018appalling\u2019 working conditions. Trade union GMB co-ordinated the British demonstrations to take place across two of the busiest shopping days of the year. 'Workers are breaking bones, being knocked unconscious and being taken away in ambulances,' GMB national officer Mick Rix said in a statement. Labour leader Jeremy Corbyn visited protesters outside an Amazon depot in Sheffield. The union cited figures suggesting there had been more than 600 ambulance call-outs to Amazon warehouses over a three-year period and just as many serious incidents reported to the Health and Safety Executive for various injuries.",
     "online": null,
     "locations": [
-        "chicago-illinois-usa"
+        "sheffield-uk",
+        "rugeley-uk",
+        "peterborough-uk"
     ],
     "companies": [
         "amazon"
     ],
-    "workers": 40,
+    "workers": 12,
     "tags": null,
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            41.84040105,
-            -87.68351928672685
+            52.75329925,
+            -1.9215828894833442
+        ],
+        [
+            52.542566050000005,
+            -0.2383390628291427
         ]
     ],
     "addresses": [
-        "Amazon Distribution, 2801, South Western Avenue, Lower West Side, Chicago, Cook County, Illinois, 60643, United States"
+        "Amazon.co.uk, Towers Business Park, Brereton and Ravenhill, Brereton, Cannock Chase, Staffordshire, West Midlands, England, WS15 1LX, United Kingdom",
+        "Amazon, Unit 1, Flaxley Road, Stanground, Peterborough, City of Peterborough, East of England, England, PE2 9EN, United Kingdom"
     ]
 }

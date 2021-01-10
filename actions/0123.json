@@ -1,40 +1,36 @@
 {
-    "id": 120,
-    "date": "2019/03/06",
+    "id": 116,
+    "date": "2019/02/18",
     "sources": [
-        "https://onezero.medium.com/uber-delivery-workers-in-mexico-track-thieves-through-a-secret-whatsapp-network-d5795a0e3b41",
-        "https://sira-apps-sindicato.jimdosite.com/",
-        "https://www.facebook.com/pg/sirapps/about/?ref=page_internal"
+        "https://clb.org.hk/content/food-delivery-drivers-strike-protest-post-new-year-pay-cuts"
     ],
     "actions": [
-        "union drive"
+        "strike"
     ],
     "struggles": [
-        "working conditions",
         "pay and benefits"
     ],
     "employment_types": [
-        "contract workers",
         "gig workers"
     ],
-    "description": "At least 16 Mexican app delivery drivers met to form the Sindicato Independiente de Repartidores en Aplicaciones (SIRA APPS, rough translation: Independent Union of App Deliverypeople). The union seeks legal recognition, and demands worker accident insurance, worker-led onboarding for new delivery drivers, and assistance with social benefits registration.",
+    "description": "Food delivery workers in at least five cities across China have staged a series of strikes protesting arbitrary reductions in pay rates introduced after the Lunar New Year Holiday. Workers for both major food delivery platforms, Meituan and Ele.me, stopped taking orders starting in February.",
     "online": null,
     "locations": [
-        "merida-mexico"
+        "linyi-china",
+        "dongguan-china",
+        "jinan-china",
+        "pinghu-china",
+        "qingdao-china"
     ],
-    "companies": null,
-    "workers": 16,
+    "companies": [
+        "meituan",
+        "ele.me"
+    ],
+    "workers": null,
     "tags": null,
     "author": [
-        "moates"
+        "organizejs"
     ],
-    "latlngs": [
-        [
-            20.9670759,
-            -89.6237402
-        ]
-    ],
-    "addresses": [
-        "M\u00e9rida, Yucat\u00e1n, M\u00e9xico"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

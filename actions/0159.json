@@ -1,12 +1,13 @@
 {
-    "id": 155,
-    "date": "2019/07/11",
+    "id": 151,
+    "date": "2019/06/26",
     "sources": [
-        "https://www.forbes.com/sites/rachelsandler/2019/07/11/internal-email-amazon-faces-pressure-from-more-than-500-employees-to-cut-ties-with-palantir-for-working-with-ice/#7707abe77539",
-        "https://www.businessinsider.com/amazon-employees-letter-protest-palantir-ice-camps-2019-7?r=us&ir=t"
+        "https://www.nytimes.com/2019/06/26/business/wayfair-walkout.html",
+        "https://www.cnn.com/2019/06/25/business/wayfair-walkout-detention-camps-trnd/index.html",
+        "https://www.jacobinmag.com/2019/06/wayfair-walkout-immigration-detention-centers"
     ],
     "actions": [
-        "open letter"
+        "strike"
     ],
     "struggles": [
         "ethics"
@@ -15,16 +16,15 @@
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "Amazon employees sent out an internal email calling on Amazon to stop working with the big data company Palantir, which works with federal agency Immigration and Customs Enforcement (ICE). This email, sent to employee mailing lists within Amazon Web Services, demanded that Palantir be removed from Amazon's cloud for violating its terms of service. It also called on Amazon to take a stand against ICE by making a statement establishing its position against immigration raids, deportations, and camps for migrants at the border.",
+    "description": "Hundreds of workers at the online retailer Wayfair walked out of their jobs yesterday to protest the comapny's sale of $200,000 worth of bedroom furniture to a government contractor that operates a network of shelters for migrant children near the southwestern border. More than 500 employees signed a petition to the CEO calling for him to cease all business with the contractor and establish a code of ethics for their sales.",
     "online": null,
     "locations": [
-        "usa"
+        "boston-massachusetts-usa"
     ],
     "companies": [
-        "amazon",
-        "palantir"
+        "wayfair"
     ],
-    "workers": null,
+    "workers": 500,
     "tags": [
         "ice"
     ],
@@ -33,16 +33,11 @@
     ],
     "latlngs": [
         [
-            47.6142939,
-            -122.3239636
-        ],
-        [
-            37.4440869,
-            -122.16287540411753
+            42.3506879,
+            -71.0732592
         ]
     ],
     "addresses": [
-        "Amazon Go Grocery, 610, East Pike Street, First Hill, Seattle, King County, Washington, 98122, United States",
-        "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States"
+        "Wayfair, 222, Berkeley Street, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States"
     ]
 }

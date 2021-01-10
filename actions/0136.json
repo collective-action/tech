@@ -1,41 +1,42 @@
 {
-    "id": 133,
-    "date": "2019/04/25",
+    "id": 129,
+    "date": "2019/04/10",
     "sources": [
-        "https://technode.com/2019/04/25/996-protesters-organize-performance-art-prank-against-jack-ma/",
-        "https://www.nytimes.com/2019/04/29/technology/china-996-jack-ma.html"
+        "https://www.recode.net/2019/4/10/18304877/amazon-climate-change-employees-tech-activism",
+        "https://www.vox.com/business-and-finance/2019/4/11/18306389/amazon-employees-climate-change-plan"
     ],
     "actions": [
-        "protest"
+        "open letter"
     ],
     "struggles": [
-        "working conditions",
-        "unfair labor practices"
+        "ethics"
     ],
     "employment_types": [
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "A GitHub user called on those who condemn 996 to respond to Jack Ma's endorsement of the widely criticized work schedule by sending an official copy of China's labor law on May 4 to the Alibaba headquarters. Ma, founder of Alibaba and the richest man in China, dismissed outcry on social media over the grueling working hours in China's tech industry in a blog post on April 12. 'To be able to work 996 is a huge blessing,' he said. The GitHub post estimates 1,000 participants will participate.",
-    "online": null,
+    "description": "The company's corporate employees signed their names to a letter published on Wednesday that urged Jeff Bezos to create a comprehensive climate-change plan for the company.",
+    "online": true,
     "locations": [
-        "china"
+        "usa"
     ],
     "companies": [
-        "alibaba"
+        "amazon"
     ],
-    "workers": 1000,
-    "tags": null,
+    "workers": 7000,
+    "tags": [
+        "climate_change"
+    ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            31.2969721,
-            121.1624993
+            47.6142939,
+            -122.3239636
         ]
     ],
     "addresses": [
-        "Alibaba, \u660c\u5409\u8def, \u5b89\u4ead\u9547, \u5609\u5b9a\u533a, 215332, \u4e2d\u56fd"
+        "Amazon Go Grocery, 610, East Pike Street, First Hill, Seattle, King County, Washington, 98122, United States"
     ]
 }

@@ -1,43 +1,41 @@
 {
-    "id": 140,
-    "date": "2019/05/11",
+    "id": 136,
+    "date": "2019/05/08",
     "sources": [
-        "https://www.fastcompany.com/90348304/exclusive-tech-workers-organize-protest-against-palantir-on-the-github-coding-platform",
-        "https://gist.github.com/noahzgordon/29af8c13106ddc591ccaa1ea0ce6af74"
+        "https://www.nytimes.com/2019/05/08/technology/amazon-muslim-workers-complaint.html#click=https://t.co/9xmgnjlfoq"
     ],
     "actions": [
-        "protest"
+        "legal action"
     ],
     "struggles": [
-        "ethics"
+        "discrimination"
     ],
     "employment_types": [
-        "na"
+        "blue collar workers"
     ],
-    "description": "Tech workers organized by the Tech Workers Coalition are protesting the Palantir's contract with ICE on the company's GitHub projects. The plan calls for organized waves of digital protesters to post a prepared message to their GitHub boards. The protest appeals to workers to consider their role, even if indirectly, in Palantir\u2019s work with ICE. It also encourages people to add their own personal sentiments.",
+    "description": "Three Muslim Somali Workers at Amazon File Federal Discrimination Complaint, accusing the company of creating a hostile environment for Muslim workers and of retaliating against them for protesting their work conditions. These are the same workers who in December of 2018 protested against Amazon.",
     "online": null,
     "locations": [
-        "usa"
+        "minneapolis-minnesota-usa"
     ],
     "companies": [
-        "palantir"
+        "amazon"
     ],
-    "workers": null,
+    "workers": 3,
     "tags": [
-        "ice",
-        "industry_solidarity",
-        "twc"
+        "retaliation",
+        "religious_discrimination"
     ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            37.4440869,
-            -122.16287540411753
+            44.9696354,
+            -93.2884766
         ]
     ],
     "addresses": [
-        "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States"
+        "Wounded Amazon, Lyndale Avenue South, Loring Park, Minneapolis, Hennepin County, Minnesota, 55403, United States"
     ]
 }

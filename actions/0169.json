@@ -1,36 +1,45 @@
 {
-    "id": 165,
-    "date": "2019/07/26",
+    "id": 161,
+    "date": "2019/07/16",
     "sources": [
-        "https://financialtribune.com/articles/sci-tech/99111/github-bans-iran-based-users",
-        "https://github.com/1995parham/github-do-not-ban-us"
+        "https://www.sfchronicle.com/business/article/facebook-cafeteria-workers-protest-pay-hours-in-14100891.php",
+        "https://www.sfexaminer.com/the-city/facebook-cafeteria-workers-call-out-social-media-giant/",
+        "https://www.theguardian.com/us-news/2019/jul/22/facebook-cafeteria-workers-protest"
     ],
     "actions": [
-        "protest",
-        "open letter"
+        "protest"
     ],
     "struggles": [
-        "discrimination"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
-        "white collar workers"
+        "blue collar workers",
+        "contract workers"
     ],
-    "description": "GitHub users have created a repository to protest the company's decision to ban Iranians from accessing the site due to US sanctions. The repository combines multiple types of actions, serving as an open letter to the company and collecting known incidences of Iranian users being denied access, in addition to highlighting the contributions of Iranian developers. ",
+    "description": "Cafeteria workers from Facebook's downtown San Francisco office picketed for higher wages, shorter working days, and improved healthcare coverage. The actions followed months of negotiation with the group's union Unite Here Local 2. The employees, who are contracted by Facebook through Flagship Facility Services, cited the high cost of living in the Bay Area and their need to work multiple jobs as motivations for the protest. Full-time employees from Google and Facebook joined the protest in support.",
     "online": null,
     "locations": [
-        "worldwide",
-        "iran"
+        "san francisco-california-usa"
     ],
     "companies": [
-        "github"
+        "facebook"
     ],
-    "workers": 945,
+    "workers": 50,
     "tags": [
-        "international_solidarity"
+        "unite_here",
+        "coworker_solidarity"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.484668049999996,
+            -122.1483654685629
+        ]
+    ],
+    "addresses": [
+        "Facebook, Bayfront Expressway, Menlo Park, San Mateo County, California, 94025-1246, United States"
+    ]
 }

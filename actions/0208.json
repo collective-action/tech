@@ -1,32 +1,40 @@
 {
-    "id": 203,
-    "date": "2019/11/03",
+    "id": 199,
+    "date": "2019/10/21",
     "sources": [
-        "https://sf.eater.com/2019/11/4/20947832/instacart-shoppers-strike",
-        "https://medium.com/@vanessabain/dear-instacart-customers-664dbb59016e"
+        "https://www.bloomberg.com/amp/news/articles/2019-10-21/swiss-google-employees-defy-managers-stage-labor-event?__twitter_impression=true",
+        "https://www.vox.com/recode/2019/10/21/20924697/google-unionization-switzerland-zurich-syndicom-zooglers"
     ],
     "actions": [
-        "strike"
+        "union drive"
     ],
     "struggles": [
-        "pay and benefits"
+        "working conditions",
+        "job security"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers"
     ],
-    "description": "Thousands' of Instacart shoppers went on strike from Nov. 3rd to Nov. 5th to protest the company's new tipping policy, which returns a portion of tips to the corporation rather than the workers. Participating shoppers refused to answer requests on the app. Instacart workers are considered contractors currently but this will change on January 1st in the state of California under AB5 legislation.",
+    "description": "Approximately 40 Google employees in Zurich held a meeting at the office to discuss unions and labor rights with representatives from Syndicom, a Swiss labor union. Employees had invited Syndicom to speak earlier in June but the event was cancelled at the request of management. Management later announced they would be holding a series of talk on labor rights and would allow Syndicom to join.",
     "online": null,
     "locations": [
-        "usa"
+        "zurich-switzerland"
     ],
     "companies": [
-        "instacart"
+        "google"
     ],
-    "workers": 1000,
+    "workers": 40,
     "tags": null,
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            47.3793085,
+            8.5307904
+        ]
+    ],
+    "addresses": [
+        "Google, 1, Gustav-Gull-Platz, Langstrasse, Aussersihl, Z\u00fcrich, Bezirk Z\u00fcrich, Z\u00fcrich, 8021, Schweiz/Suisse/Svizzera/Svizra"
+    ]
 }

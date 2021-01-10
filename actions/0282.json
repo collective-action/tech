@@ -1,34 +1,41 @@
 {
-    "id": 265,
-    "date": "2020/06/01",
+    "id": 287,
+    "date": "2020/05/07",
     "sources": [
-        "https://www.nytimes.com/2020/06/01/technology/facebook-employee-protest-trump.html",
-        "https://www.washingtonpost.com/business/2020/06/01/facebook-zuckerberg-donation-trump/"
+        "https://www.vice.com/en_us/article/akzw4p/amazon-warehouse-workers-send-thousands-of-petitions-to-jeff-bezos-and-jay-carneys-homes"
     ],
     "actions": [
-        "protest"
+        "open letter"
     ],
     "struggles": [
-        "ethics"
+        "pay and benefits"
     ],
     "employment_types": [
-        "na"
+        "inhouse workers",
+        "blue collar workers"
     ],
-    "description": "Facebook employees hosted a virtual walkout, refusing to work for the time of the event, in protest of the company's failure to take a tougher stance on Trump's posts in reaction to the George Floyd protests. Many employees also expressed solidarity with the Black Lives Matter movement. The New York Times reports that employees have also circulated petitions internally and threatened to resign in response to the event. The previous week Twitter added fact-check and warning labels to two tweets from the president that broke Twitter\u2019s rules around voter suppression and glorification of violence.",
-    "online": true,
-    "locations": null,
+    "description": "Amazon warehouse workers plan to deliver thousands signed petitions to the residences of Amazon CEO Jeff Bezos and lead Amazon spokesperson Jay Carney on Thursday, demanding the reinstatement of its recently terminated unlimited paid leave policy. In late April, Amazon announced that it would end its unlimited unpaid leave policy on May 1. The policy, which was introduced in response to COVID-19, allowed workers to call out sick without penalty. As of Wednesday, more than 5,300 workers from 350 locations, including Amazon warehouses, delivery pick-up stations, and Whole Foods stores, had signed onto petitions. The action was organized by a number of labor groups including the Athena coalition.",
+    "online": null,
+    "locations": [
+        "usa"
+    ],
     "companies": [
-        "facebook"
+        "amazon"
     ],
-    "workers": null,
+    "workers": 5300,
     "tags": [
-        "antiracism",
-        "blm",
-        "trump"
+        "coronavirus"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            47.6142939,
+            -122.3239636
+        ]
+    ],
+    "addresses": [
+        "Amazon Go Grocery, 610, East Pike Street, First Hill, Seattle, King County, Washington, 98122, United States"
+    ]
 }

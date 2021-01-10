@@ -1,43 +1,33 @@
 {
-    "id": 151,
-    "date": "2019/06/26",
+    "id": 147,
+    "date": "2019/06/15",
     "sources": [
-        "https://www.nytimes.com/2019/06/26/business/wayfair-walkout.html",
-        "https://www.cnn.com/2019/06/25/business/wayfair-walkout-detention-camps-trnd/index.html",
-        "https://www.jacobinmag.com/2019/06/wayfair-walkout-immigration-detention-centers"
+        "https://www.wweek.com/news/2019/06/13/portland-postmates-workers-to-join-national-protest-of-pay-cut-by-only-accepting-surge-price-deliveries/",
+        "https://payup.wtf/blitzup",
+        "https://katu.com/news/local/postmates-workers-demand-raise-by-using-a-blitz-up"
     ],
     "actions": [
-        "strike"
+        "protest"
     ],
     "struggles": [
-        "ethics"
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "Hundreds of workers at the online retailer Wayfair walked out of their jobs yesterday to protest the comapny's sale of $200,000 worth of bedroom furniture to a government contractor that operates a network of shelters for migrant children near the southwestern border. More than 500 employees signed a petition to the CEO calling for him to cease all business with the contractor and establish a code of ethics for their sales.",
+    "description": "Thousands' of Postmates employees activated a Blitz Up app on June 15. The app prevented them from taking any delivery jobs without a 'Blitz bonus' of 1.5x the typical rate. The action was taken to protest pay cuts that went into effect May 2019. Blitz Up was created by the Pay Up Campaign, a group of Instacart workers that organized to protest pay cuts in January 2019. ",
     "online": null,
     "locations": [
-        "boston-massachusetts-usa"
+        "portland-oregon-usa"
     ],
     "companies": [
-        "wayfair"
+        "postmates"
     ],
-    "workers": 500,
-    "tags": [
-        "ice"
-    ],
+    "workers": 1000,
+    "tags": null,
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
-    "latlngs": [
-        [
-            42.3506879,
-            -71.0732592
-        ]
-    ],
-    "addresses": [
-        "Wayfair, 222, Berkeley Street, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

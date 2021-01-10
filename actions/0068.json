@@ -1,53 +1,41 @@
 {
-    "id": 65,
-    "date": "2017/01/30",
+    "id": 61,
+    "date": "2016/12/03",
     "sources": [
-        "https://www.bizjournals.com/sanjose/news/2017/01/30/silicon-valley-private-security-guards-win-union.html"
+        "https://www.thestreet.com/story/13906592/1/why-uber-faces-a-day-of-protests-on-tuesday-tech-roundup.html"
     ],
     "actions": [
-        "union representation"
+        "protest"
     ],
     "struggles": [
-        "pay and benefits"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
-        "contract workers",
-        "blue collar workers"
+        "gig workers"
     ],
-    "description": "In what union officials described as Silicon Valley's largest private sector organizing effort, 3,000 private security guards on high tech campuses like Facebook, Cisco and Genentech have won recognition as members of Service Employees International Union-United Service Workers West (SEIU-USWW).",
+    "description": "Uber drivers in 20 cities join the Fight for $15 movement, boycotting the app for one day to protest wages.",
     "online": null,
     "locations": [
-        "san jose-california-usa"
+        "usa"
     ],
     "companies": [
-        "facebook",
-        "cisco",
-        "genentech"
+        "uber"
     ],
-    "workers": 3000,
+    "workers": null,
     "tags": [
-        "seiu"
+        "drivers"
     ],
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            37.484668049999996,
-            -122.1483654685629
-        ],
-        [
-            39.3024491,
-            -120.5471773
-        ],
-        [
-            37.76728345,
-            -122.39233238171147
+            39.2813025,
+            -76.5905444
         ]
     ],
     "addresses": [
-        "Facebook, Bayfront Expressway, Menlo Park, San Mateo County, California, 94025-1246, United States",
-        "Cisco, Placer County, California, 95278, United States",
-        "Genentech Hall, Roger Evans Terrace, Mission Bay, San Francisco, San Francisco City and County, California, United States"
+        "Uber, 918, Fell Street, Fells Point, Baltimore, Maryland, 21231, United States"
     ]
 }

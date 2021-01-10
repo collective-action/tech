@@ -1,34 +1,46 @@
 {
-    "id": 338,
-    "date": "2020/08/12",
+    "id": 307,
+    "date": "2020/07/26",
     "sources": [
-        "https://www.printmag.com/post/tech-can-do-better-an-industry-wide-wake-up-call",
-        "https://www.instagram.com/techcandobetter/",
-        "https://docs.google.com/forms/d/e/1FAIpQLSck1JZR5FdfWbRB7OOgCPBCVGIS0kB-zLHN-Q3J6PZORRUP3w/viewform"
+        "https://www.msn.com/en-us/news/us/boycott-continues-against-cambridge-whole-foods-that-sent-employees-home-for-black-lives-matter-masks/ar-BB16mPY2"
     ],
     "actions": [
-        "resources"
+        "protest",
+        "strike"
     ],
     "struggles": [
+        "unfair labor practices",
+        "ethics",
         "discrimination"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "inhouse workers",
+        "blue collar workers"
     ],
-    "description": "A group of Black employees across tech companies have launched an initiative, Tech Can Do Better, to call for greater equity in the workplace. An Instagram account promotes the visibility and highlights the accomplishments of Black employees in tech. The group has also started an online pledge where workers can commit to \"mak[ing] the changes needed to achieve equitable hiring, promotions, and compensation, mak[ing] significant Investment in social equity and driv[ing] advocacy for equitable legislation.\"",
-    "online": true,
-    "locations": null,
-    "companies": null,
+    "description": "Whole Foods employees and local residents protested in front of a Cambridge location that turned away seven employees on June 25th for wearing masks with \"Black Lives Matter\" slogans. The event is part of a larger boycott that has been ongoing since the incident. Suverino Frith, one of the seven employees, spoke at the event and called on the company to live up to their \"core values\". ",
+    "online": null,
+    "locations": [
+        "cambridge-massachusetts-usa"
+    ],
+    "companies": [
+        "whole_foods",
+        "amazon"
+    ],
     "workers": null,
     "tags": [
         "antiracism",
-        "blm",
-        "industry_solidarity"
+        "blm"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            42.3651852,
+            -71.1042178
+        ]
+    ],
+    "addresses": [
+        "Amazon Pickup, 1, Magazine Street, Central Square, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02139, United States"
+    ]
 }

@@ -1,43 +1,42 @@
 {
-    "id": 359,
-    "date": "2020/11/17",
+    "id": 352,
+    "date": "2020/10/22",
     "sources": [
-        "https://www.vice.com/en/article/n7vn9w/blue-collar-unions-fear-widespread-layoffs-in-silicon-valley"
+        "https://www.nytimes.com/2020/10/22/business/amazon-shutdown-threat-election-day.html"
     ],
     "actions": [
-        "protest"
+        "strike"
     ],
     "struggles": [
-        "job security",
-        "pay and benefits"
+        "working conditions",
+        "ethics"
     ],
     "employment_types": [
-        "blue collar workers"
+        "blue collar workers",
+        "inhouse workers"
     ],
-    "description": "On Tuesday, dozens of those workers will protest outside the San Francisco home of the Verizon Media CEO Guru Gowrappan, and drop off letters demanding an extension of their healthcare coverage and pay (Verizon Media owns Yahoo). Though these workers are technically not employed by  Verizon Media, the decision to lay off the cafeteria workers was ultimately made by the company, which like most Silicon Valley tech companies contracts out its blue-collar labor. ",
-    "online": null,
+    "description": "Amazon workers, organized by Amazon Employees for Climate Justice, are calling for a 15-minute work stoppage at warehouses across the country on Halloween in a push for paid time-off for voting on Election Day. ",
+    "online": true,
     "locations": [
-        "san francisco-california-usa"
+        "usa"
     ],
     "companies": [
-        "verizon",
-        "yahoo"
+        "amazon"
     ],
     "workers": null,
-    "tags": null,
-    "author": null,
+    "tags": [
+        "politics"
+    ],
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": [
         [
-            34.091086700000005,
-            -117.6034596429738
-        ],
-        [
-            37.4181243,
-            -122.02538023988251
+            47.6142939,
+            -122.3239636
         ]
     ],
     "addresses": [
-        "Verizon, 9000, Rancho Cucamonga, San Bernardino County, California, 91730, United States",
-        "Yahoo, Sunnyvale, Santa Clara County, California, United States"
+        "Amazon Go Grocery, 610, East Pike Street, First Hill, Seattle, King County, Washington, 98122, United States"
     ]
 }

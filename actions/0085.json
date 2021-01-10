@@ -1,35 +1,38 @@
 {
-    "id": 82,
-    "date": "2018/05/14",
+    "id": 78,
+    "date": "2018/03/21",
     "sources": [
-        "https://www.theguardian.com/australia-news/2018/may/16/food-delivery-riders-protest-against-wage-theft-by-deliveroo-foodora-and-ubereats",
-        "https://www.abc.net.au/news/2018-03-14/delivery-riders-march-against-ubereats-foodora-and-deliveroo/9546822"
+        "https://www.reuters.com/article/us-amazon-com-spain/spains-amazon-workers-call-two-day-strike-over-wages-rights-iduskcn1gp13l"
     ],
     "actions": [
-        "protest"
+        "strike"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "pay and benefits"
     ],
     "employment_types": [
-        "gig workers"
+        "blue collar workers"
     ],
-    "description": "Food delivery riders have marched in Sydney to demand UberEats, Deliveroo and Foodora provide pay increases and better working conditions to the many contractors darting from door to door around Australian cities. Dozens of protesters voiced their concerns in Surry Hills about the lack of regulation surrounding rider pay, safety protections and benefits like sick pay and superannuation.",
+    "description": "Over one thousand Amazon workers in Spain plan to stage their first strike with a two-day walkout to protest what unions claim are efforts to reduce employees' rights. The union claimed the companies aims to block salary increases, cut wages and reduce payments for those working weekends or holidays as part of a new contract agreement.",
     "online": null,
     "locations": [
-        "sydney-australia"
+        "madrid-spain"
     ],
     "companies": [
-        "deliveroo",
-        "foodora",
-        "uber"
+        "amazon"
     ],
-    "workers": 24,
+    "workers": 1100,
     "tags": null,
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            40.4593249,
+            -3.4602878
+        ]
+    ],
+    "addresses": [
+        "Amazon, Avenida de la Constituci\u00f3n, Torrej\u00f3n de Ardoz, \u00c1rea metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28850, Espa\u00f1a"
+    ]
 }

@@ -1,39 +1,45 @@
 {
-    "id": 191,
-    "date": "2019/09/28",
+    "id": 187,
+    "date": "2019/09/25",
     "sources": [
-        "https://notesfrombelow.org/article/deliveroo-workers-launch-new-strike-wave"
+        "http://www.browndailyherald.com/2019/09/26/students-protest-companies-tied-ice-career-fair/"
     ],
     "actions": [
-        "strike"
+        "protest",
+        "open letter"
     ],
     "struggles": [
-        "pay and benefits",
-        "job security"
+        "ethics"
     ],
     "employment_types": [
-        "gig workers"
+        "na"
     ],
-    "description": "Deliveroo workers held wildcat strikes in 16 different UK cities in September in response to lowered wages. Strikers have blocked access to delivery-only kitchens that specifically cater to Deliveroo and other services and have publicly picketed. The Independent Workers of Great Britain Couriers and Logistics Branch (IWGB CLB) has been involved in organizing protests and reports that membership has grown 25% in recent months.",
+    "description": "Students at Brown demonstrated against four companies (Amazon, Microsoft, Palantir, and Ernst & Young) at an on-campus career fair. All four companies have done business with ICE. The students have also started an online petition to protest Brown's connections to these four companies. ",
     "online": null,
     "locations": [
-        "uk"
+        "providence-rhode island-usa"
     ],
     "companies": [
-        "deliveroo"
+        "palantir",
+        "microsoft",
+        "amazon"
     ],
     "workers": null,
-    "tags": null,
+    "tags": [
+        "students",
+        "immigration",
+        "ice"
+    ],
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            51.5314216,
-            -0.1113624
+            41.5286839,
+            -71.2330488
         ]
     ],
     "addresses": [
-        "Deliveroo, Pentonville Road, Pentonville, Barnsbury, London Borough of Islington, London, Greater London, England, N1 9JB, United Kingdom"
+        "Amazon Drive, Portsmouth, Newport County, Rhode Island, United States"
     ]
 }

@@ -1,27 +1,29 @@
 {
-    "id": 146,
-    "date": "2019/06/13",
+    "id": 142,
+    "date": "2019/05/27",
     "sources": [
-        "https://www.japantimes.co.jp/news/2019/06/13/business/corporate-business/uber-eats-labor-union/#.xqpg-ohkgzm"
+        "https://techcrunch.com/2019/05/28/glovo-faces-safety-protests-after-delivery-rider-killed-on-the-job/",
+        "https://elpais.com/economia/2019/05/27/actualidad/1558983633_840887.html"
     ],
     "actions": [
-        "union drive"
+        "protest"
     ],
     "struggles": [
-        "working conditions"
+        "working conditions",
+        "unfair labor practices"
     ],
     "employment_types": [
         "gig workers"
     ],
-    "description": "Food delivery staff working in Japan for ride-hailing company Uber Technologies Inc. said Wednesday they plan to form a labor union in a bid to improve what they see as disadvantageous treatment for being classified as independent contractors rather than employees.",
+    "description": "Spanish on-demand delivery startup Glovo is facing angry protests from couriers on its platform following the death of a 22-year-old rider in Barcelona where the business is headquartered. The victim was a Nepalese national called Pujan Koirala, who had been substituting for a registered Glovo courier at the time he was struck and killed by a garbage truck.",
     "online": null,
     "locations": [
-        "tokyo-japan"
+        "barcelona-spain"
     ],
     "companies": [
-        "uber"
+        "glovo"
     ],
-    "workers": 50,
+    "workers": 30,
     "tags": null,
     "author": [
         "organizejs"

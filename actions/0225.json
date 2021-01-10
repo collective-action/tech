@@ -1,42 +1,43 @@
 {
-    "id": 219,
-    "date": "2019/12/12",
+    "id": 215,
+    "date": "2019/12/03",
     "sources": [
-        "https://www.vice.com/en_us/article/dyggwv/e-scooter-workers-just-formed-their-first-union"
+        "https://medium.com/@googlewalkout/google-fired-us-for-organizing-were-fighting-back-d0daa8113aed",
+        "https://www.bloomberg.com/news/articles/2019-12-03/google-s-thanksgiving-four-file-federal-labor-complaint",
+        "https://www.buzzfeednews.com/article/ryanmac/fired-google-employees-nlrb-investigation-cbp",
+        "https://www.bloomberg.com/news/articles/2019-12-04/google-retaliation-claims-spread-with-new-labor-board-filing"
     ],
     "actions": [
-        "union representation"
+        "legal action"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "unfair labor practices"
     ],
     "employment_types": [
-        "blue collar workers",
-        "inhouse workers"
+        "white collar workers"
     ],
-    "description": "E-scooter workers in San Francisco at the Ford-owned start-up Spin joined a union on Wednesday\u2014a first in the fledgling industry. Roughly 40 Spin workers\u2014who collect, repair, deploy, and charge Spin\u2019s fleet of more than 500 electric scooters on the streets of San Francisco\u2014are now part of Teamsters Local 665, as first reported by the San Francisco Examiner. The union says workers want to negotiate for better pay, health care, and retirement security in their first contract.",
+    "description": "Four recently fired Google engineers who were active in organizing within the company say they will push for a federal investigation into the search and advertising giant for unfair labor practices. In a medium post, the four former employees announced their intent to file charges with the National Labor Relations Board for what they allege was retaliation from the company against their roles in organizing workers. In the letter, they write: 'Last week, Google fired us for engaging in protected labor organizing.' Update: Complaint was officially filed with the NLRB.",
     "online": null,
     "locations": [
-        "san francisco-california-usa"
+        "usa"
     ],
     "companies": [
-        "spin"
+        "google"
     ],
-    "workers": 40,
+    "workers": 4,
     "tags": [
-        "teamster"
+        "retaliation"
     ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            37.7871368,
-            -122.2795012
+            42.3627717,
+            -71.087257
         ]
     ],
     "addresses": [
-        "SPIN!, Mariner Square Loop, Alameda, Alameda County, California, 94607, United States"
+        "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States"
     ]
 }

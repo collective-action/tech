@@ -1,34 +1,70 @@
 {
-    "id": 217,
-    "date": "2019/12/04",
+    "id": 213,
+    "date": "2019/11/29",
     "sources": [
-        "https://www.latimes.com/business/technology/story/2019-12-04/github-open-source-developers-ice-contract"
+        "https://www.rte.ie/news/business/2019/1129/1095932-amazon-german-strike/",
+        "https://www.forbes.com/sites/isabeltogoh/2019/11/29/black-friday-strikes-and-protests-hit-amazon-in-france-and-germany/#269a045a5bb3"
     ],
     "actions": [
-        "open letter"
+        "strike"
     ],
     "struggles": [
-        "ethics"
+        "working conditions",
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers"
+        "blue collar workers"
     ],
-    "description": "In an open letter published Wednesday on GitHub, software developers representing the open source community joined the call for GitHub to immediately cancel the $200,000 contract with ICE. 'Open source is about inverting power structures and creating access and opportunities for everyone,' the letter, signed by 167 developers at the time of publication, reads. 'We, the undersigned, cannot see how to reconcile our ethics with GitHub\u2019s continued support of ICE. Moreover, your lack of transparency around the ethical standards you use for conducting business is also concerning to a community that is focused around doing everything out in the open.'",
-    "online": true,
-    "locations": null,
+    "description": "Hundreds of Amazon workers in Germany walked off the job as the online retailer kicked off its 'Black Friday' sales bonanza, escalating a long-simmering battle for better pay and working conditions. The strike called by the powerful Verdi union is set to last until Tuesday morning and will also cover 'Cyber Monday', another extravaganza of online discounts in what is a crucial sales period for Amazon. Verdi members are demanding a collective agreement for a living wage.",
+    "online": null,
+    "locations": [
+        "bad hersfeld-germany",
+        "leipzig-germany",
+        "koblenz-germany",
+        "rheinberg-germany",
+        "werne-germany",
+        "graben-germany"
+    ],
     "companies": [
-        "github",
-        "microsoft"
+        "amazon"
     ],
     "workers": 200,
-    "tags": [
-        "industry_solidarity",
-        "immigration",
-        "ice"
-    ],
+    "tags": null,
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            50.8453279,
+            9.678334853465138
+        ],
+        [
+            51.3622584,
+            12.452329749225527
+        ],
+        [
+            50.3465747,
+            7.4912868
+        ],
+        [
+            51.653494949999995,
+            7.59464606445661
+        ],
+        [
+            51.653494949999995,
+            7.59464606445661
+        ],
+        [
+            48.198871499999996,
+            10.848663796329923
+        ]
+    ],
+    "addresses": [
+        "Amazon Logistik GmbH, 1, Eichhof, Asbach, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
+        "Amazon, 1, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland",
+        "Amazon stra\u00dfe, Industriepark A61/GVZ Koblenz, R\u00fcbenach, Koblenz, Rheinland-Pfalz, 56330, Deutschland",
+        "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
+        "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
+        "Amazon-Logistikzentrum, Graben, Landkreis Augsburg, Bayern, 86836, Deutschland"
+    ]
 }

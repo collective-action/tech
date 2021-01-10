@@ -1,47 +1,41 @@
 {
-    "id": 100,
-    "date": "2018/10/09",
+    "id": 96,
+    "date": "2018/07/31",
     "sources": [
-        "https://www.theguardian.com/technology/2018/oct/09/uber-uk-strike-users-urged-not-to-cross-digital-picket-line",
-        "https://www.bbc.com/news/business-45796409"
+        "https://www.buzzfeednews.com/article/carolineodonovan/palantir-ice-contract-protest",
+        "https://www.paloaltoonline.com/news/2018/07/31/protesters-demand-palantir-end-ice-contracts"
     ],
     "actions": [
-        "strike"
+        "protest"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "ethics"
     ],
     "employment_types": [
-        "gig workers"
+        "na"
     ],
-    "description": "Hundreds of Uber drivers are expected to switch off their apps from 1pm, making themselves unavailable for work, union organisers said. Protests are also being held outside the ride-hailing app's offices in London, Nottingham and Birmingham.",
+    "description": "Dozens of protesters gathered outside the data analysis companies Palantir in Palo Alto, California, on Tuesday to present Palantir's employees and CEO Alex Karp with a letter asking for an end to the companies' contracts with US Immigration and Customs Enforcement (ICE).",
     "online": null,
     "locations": [
-        "london-uk",
-        "nottingham-uk",
-        "birmingham-uk"
+        "palo alto-california-usa"
     ],
     "companies": [
-        "uber"
+        "palantir"
     ],
-    "workers": 100,
-    "tags": null,
+    "workers": 50,
+    "tags": [
+        "industry_solidarity"
+    ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            51.5148804,
-            -0.0718856
-        ],
-        [
-            52.4746766,
-            -1.91586332385543
+            37.4440869,
+            -122.16287540411753
         ]
     ],
     "addresses": [
-        "Uber, 2, Leman Street, Spitalfields, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, E1 8FA, United Kingdom",
-        "UBER, 100, Broad Street, Ladywood, Park Central, Birmingham, West Midlands Combined Authority, West Midlands, England, B15 1AE, United Kingdom"
+        "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States"
     ]
 }

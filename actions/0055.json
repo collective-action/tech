@@ -1,41 +1,44 @@
 {
-    "id": 52,
-    "date": "2016/02/07",
+    "id": 381,
+    "date": "2015/06/17",
     "sources": [
-        "https://www.wired.com/2016/02/uber-drivers-protest-san-francisco-super-bowl/"
+        "https://www.bizjournals.com/portland/blog/techflash/2016/06/out-of-the-shadows-intel-eliminati-find-a-public.html",
+        "https://www.bizjournals.com/portland/blog/techflash/2016/05/meet-the-intel-eliminati-the-group-of-portlanders.html",
+        "https://www.theguardian.com/technology/2016/apr/19/intel-job-cuts-global-restructuring"
     ],
     "actions": [
-        "protest"
+        "resources"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "job security",
+        "discrimination"
     ],
     "employment_types": [
-        "gig workers"
+        "in-house workers",
+        "white collar workers"
     ],
-    "description": "Uber drivers protested fare cuts by boycotting the app on Super Bowl Sunday and demonstrating outside of company headquarters. The boycott came in the midst of a promotion by Uber to provide free rides to fans of the winning team. Earlier in the week a caravan of 100 drivers drove through the city before stopping to protest at headquarters in downtown San Francisco. Earlier in the year the company imposed fare cuts in several cities around the U.S.",
-    "online": null,
+    "description": "Intel announced layoffs in June 2015 and an additional 12,000 layoffs in April 2016. In response, a group of laid-off Intel employees in Portland, OR formed a group called the \"The Intel Eliminati\" in fall of 2015 and launched a website (pdx-tie.org) in June 2016 for former Intel employees. In June 2016, the group had 200+ members. The group's website features career resources, support, and posts critical of Intel and its management, including alleged age discrimination against older Intel employees in the lay-offs.",
+    "online": true,
     "locations": [
-        "san francisco-california-usa"
+        "portland-oregon-usa"
     ],
     "companies": [
-        "uber"
+        "intel"
     ],
-    "workers": 100,
+    "workers": 201,
     "tags": [
-        "drivers"
+        "ageism"
     ],
     "author": [
-        "nataliyaned"
+        "CM"
     ],
     "latlngs": [
         [
-            37.7899898,
-            -122.3999799
+            45.54539825,
+            -122.91796980902161
         ]
     ],
     "addresses": [
-        "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States"
+        "Intel Ronler Acres Campus, Northeast Hillsboro, Hillsboro, Metro, Washington County, Oregon, United States"
     ]
 }

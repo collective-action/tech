@@ -1,11 +1,13 @@
 {
-    "id": 67,
-    "date": "2017/02/04",
+    "id": 63,
+    "date": "2016/12/16",
     "sources": [
-        "https://www.businessinsider.com/facebook-employees-protes-trumps-immigration-ban-by-boycotting-flying-2017-2"
+        "https://www.mic.com/articles/172403/ibm-s-ceo-wrote-trump-a-glowing-letter-employees-responded-with-list-of-demands",
+        "https://www.coworker.org/petitions/ibmers-to-ceo-ginni-rometty-affirm-ibm-values",
+        "https://theintercept.com/2016/12/19/ibm-employees-launch-petition-protesting-cooperation-with-donald-trump/"
     ],
     "actions": [
-        "protest"
+        "open letter"
     ],
     "struggles": [
         "ethics"
@@ -14,29 +16,30 @@
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "A 'handful' of Facebook employees have vowed not to fly for 90 days following Pres. Trump's immigration ban. The company has said it is not affiliated with this protest.",
-    "online": null,
+    "description": "IBM employees sign a petition protesting IBM's cooperation with Trump. After the IBM CEO Ginny Rometty sent a letter congratulating Trump on his presidency and refusing to rule out participation from building a muslim registry, IBM employees created a petition on coworker.org to demand that the company acknowledge the diversity of its staff and not work to further the more xenophobic aspects of Trump's agenda.",
+    "online": true,
     "locations": [
         "usa"
     ],
     "companies": [
-        "facebook"
+        "ibm"
     ],
-    "workers": 3,
+    "workers": 1000,
     "tags": [
+        "muslim_registry",
         "immigration",
         "trump"
     ],
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
     "latlngs": [
         [
-            30.2691649,
-            -97.7455041
+            44.05795005,
+            -92.50701462052399
         ]
     ],
     "addresses": [
-        "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
+        "IBM, Rochester, Olmsted County, Minnesota, United States"
     ]
 }

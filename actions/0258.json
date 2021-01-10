@@ -1,36 +1,34 @@
 {
-    "id": 247,
-    "date": "2020/03/22",
+    "id": 295,
+    "date": "2020/03/19",
     "sources": [
-        "https://www.cnbc.com/2020/03/23/amazon-gives-part-time-warehouse-workers-paid-leave-amid-coronavirus.html",
-        "https://medium.com/@dch1united/amazonians-united-wins-pto-for-all-amazon-workers-f17e6ffbb192"
+        "https://technode.com/2020/04/29/there-are-no-food-delivery-winners/",
+        "https://technode.com/2019/02/25/meituan-deliveryman-strike/",
+        "https://maps.clb.org.hk/?i18n_language=en_US&map=1&startDate=2019-02&endDate=2019-02&eventId=2020010622223453021"
     ],
     "actions": [
-        "open letter",
         "strike"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "pay and benefits"
     ],
     "employment_types": [
-        "blue collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "Amazonians United, a group of Amazon employee advocates around the US, won paid time off for part-time logistics workers in the midst the coronavirus pandemic. Amazon has also said it will raise pay for warehouse workers and delivery drivers by $2 per hour through April. For several weeks, the Amazonians United group has been calling for improved working conditions and paid time off using petitions and walkouts, including actions by groups in the Sacramento, Chicago, and New York areas.",
+    "description": "Food delivery drivers carried out a series of strikes in several major cities across China in protest of lowered wages from the dominant food delivery platform, Meituan Dianping.  Workers lined up delivery scooters and bikes displaying signs that read, \"stop taking orders.\u201d  The work stoppage created tension between delivery drivers and food vendors, sometimes leading to physical confrontation.",
     "online": null,
     "locations": [
-        "staten island-new york city-new york-usa"
+        "dongguan-china"
     ],
     "companies": [
-        "amazon"
+        "meituan"
     ],
-    "workers": 251,
+    "workers": 100,
     "tags": [
-        "coronavirus"
+        "delivery_workers"
     ],
     "author": [
-        "nataliyaned"
+        "clarissa"
     ],
     "latlngs": null,
     "addresses": null

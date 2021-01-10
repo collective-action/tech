@@ -1,45 +1,45 @@
 {
-    "id": 130,
-    "date": "2019/04/17",
+    "id": 126,
+    "date": "2019/04/01",
     "sources": [
-        "https://www.theatlantic.com/technology/archive/2019/04/instagram-memers-are-unionizing/587308/?fbclid=iwar0enfo9hotaka_ukh0snpjn5pypplmygz1wkelyul-42lue4p-_foalbq0"
+        "https://www.theguardian.com/technology/2019/apr/01/google-kay-coles-james-removal-employees-letter",
+        "https://medium.com/@against.transphobia/googlers-against-transphobia-and-hate-b1b0a5dbf76"
     ],
     "actions": [
-        "union drive"
+        "open letter"
     ],
     "struggles": [
-        "working conditions",
-        "pay and benefits"
+        "discrimination",
+        "ethics"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Instagram memers have had enough. They generate the engagement that helps keep Instagram growing\u2014but, they argue, the multibillion-dollar platform doesn't pay them for their work, or give them any control. So they're fighting back. And before you write off IG Meme Union Local 69-420 as a joke, the organizers of the collective would like you to know that they are very serious.",
+    "description": "A group of Google employees have called for the removal of a rightwing thinktank leader from the companies's new artificial intelligence council, citing her anti-LGBT and anti-immigrant record. Academic, civil society, and industry supporters have also signed the petition in mass.",
     "online": true,
     "locations": [
         "usa"
     ],
     "companies": [
-        "instagram",
-        "facebook"
+        "google"
     ],
-    "workers": null,
-    "tags": null,
+    "workers": 2556,
+    "tags": [
+        "ai",
+        "immigration",
+        "lgbtq"
+    ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            41.14127715,
-            -77.46294984398486
-        ],
-        [
-            30.2691649,
-            -97.7455041
+            42.3627717,
+            -71.087257
         ]
     ],
     "addresses": [
-        "Instagram-Ferris_Joshua / Marycate.minnigh, Campus Drive, Sunset Pines, Lock Haven, Clinton County, Pennsylvania, 17745, United States",
-        "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
+        "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States"
     ]
 }

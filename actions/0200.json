@@ -1,32 +1,39 @@
 {
-    "id": 195,
-    "date": "2019/10/03",
+    "id": 191,
+    "date": "2019/09/28",
     "sources": [
-        "https://www.vice.com/en_us/article/pa7qny/60-amazon-workers-walked-out-over-warehouse-working-conditions?f"
+        "https://notesfrombelow.org/article/deliveroo-workers-launch-new-strike-wave"
     ],
     "actions": [
         "strike"
     ],
     "struggles": [
         "pay and benefits",
-        "working conditions"
+        "job security"
     ],
     "employment_types": [
-        "blue collar workers"
+        "gig workers"
     ],
-    "description": "Approximately 60 Amazon workers walked out of a delivery center in Eagan, Minnesota to demand increased wages, weight restrictions on boxes, and abolishing a cap on 30 hour workweeks. The strike lasted two and half hours until a manager promised to address concerns the following morning.",
+    "description": "Deliveroo workers held wildcat strikes in 16 different UK cities in September in response to lowered wages. Strikers have blocked access to delivery-only kitchens that specifically cater to Deliveroo and other services and have publicly picketed. The Independent Workers of Great Britain Couriers and Logistics Branch (IWGB CLB) has been involved in organizing protests and reports that membership has grown 25% in recent months.",
     "online": null,
     "locations": [
-        "eagan-minnesota-usa"
+        "uk"
     ],
     "companies": [
-        "amazon"
+        "deliveroo"
     ],
-    "workers": 60,
+    "workers": null,
     "tags": null,
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            51.5314216,
+            -0.1113624
+        ]
+    ],
+    "addresses": [
+        "Deliveroo, Pentonville Road, Pentonville, Barnsbury, London Borough of Islington, London, Greater London, England, N1 9JB, United Kingdom"
+    ]
 }

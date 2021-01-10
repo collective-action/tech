@@ -1,38 +1,33 @@
 {
-    "id": 84,
-    "date": "2018/05/15",
+    "id": 80,
+    "date": "2018/04/06",
     "sources": [
-        "https://www.gofundme.com/all-out-for-pablito"
+        "https://www.thetimes.co.uk/article/academics-stride-into-battle-to-halt-march-of-the-korean-killer-robots-0wt052m6r"
     ],
     "actions": [
-        "protest"
+        "open letter"
     ],
     "struggles": [
         "ethics"
     ],
     "employment_types": [
-        "gig workers"
+        "na"
     ],
-    "description": "Fellow gig workers have banded together through a GoFundMe fundraiser to cover the immediate funeral costs of a delivery worker for Caviar who was killed on the job, while demanding that the company ultimately cover the amount. More than $19,000 has been raised. Referenced on page 142 of Ghost Work (Mary Gray and Siddarth Suri)",
-    "online": null,
+    "description": "A group of academics working on artificial technologies call for a boycott of the Korea Advanced Institute of Science and Technology, a South Korean university. KAIST is believed to be developing AI weapons through a collaboration with a defense contractor. An open letter has been signed by 50 academics.",
+    "online": true,
     "locations": [
-        "usa"
+        "south korea"
     ],
     "companies": [
-        "caviar"
+        "korea_advanced_institute_of_science_and_technology"
     ],
-    "workers": 373,
-    "tags": null,
+    "workers": 50,
+    "tags": [
+        "academics"
+    ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            65.4102317,
-            -163.0526448
-        ]
-    ],
-    "addresses": [
-        "Caviar Creek, Nome, Alaska, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

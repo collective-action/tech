@@ -1,36 +1,39 @@
 {
-    "id": 348,
-    "date": "2020/08/01",
+    "id": 304,
+    "date": "2020/07/20",
     "sources": [
-        "https://www.berkeleyside.com/2020/10/13/amazon-workers-want-to-unionize-their-east-bay-warehouse",
-        "https://www.youtube.com/watch?v=LpSrDtHhKVs"
+        "https://syndicom.ch/aktuell/artikel/bei-google-zuerich-bestimmen-die-zooglers-nun-mit/"
     ],
     "actions": [
-        "protest"
+        "union representation"
     ],
     "struggles": [
         "working conditions"
     ],
     "employment_types": [
-        "blue collar workers",
+        "white collar workers",
         "inhouse workers"
     ],
-    "description": "Amazon workers and supporters blocked the entrance of a San Leandro warehouse for several hours in a call for improved coronavirus safety measures.",
-    "online": true,
+    "description": "Employees at Google's Zurich office voted to recognize the Syndicom union as their employee representative. Employees first reached out to Syndicom after management failed to address their concerns over \"Project Dragonfly\", a search engine that would enable the Chinese government to censor certain results. Employee representatives function as consultants and do not engage in collective bargaining. ",
+    "online": null,
     "locations": [
-        "san leandro-california-usa"
+        "zurich-switzerland"
     ],
     "companies": [
-        "amazon"
+        "google"
     ],
     "workers": null,
-    "tags": [
-        "coronavirus",
-        "delivery_workers"
-    ],
+    "tags": null,
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            47.3793085,
+            8.5307904
+        ]
+    ],
+    "addresses": [
+        "Google, 1, Gustav-Gull-Platz, Langstrasse, Aussersihl, Z\u00fcrich, Bezirk Z\u00fcrich, Z\u00fcrich, 8021, Schweiz/Suisse/Svizzera/Svizra"
+    ]
 }

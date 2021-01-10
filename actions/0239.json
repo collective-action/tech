@@ -1,34 +1,44 @@
 {
-    "id": 232,
-    "date": "2020/02/18",
+    "id": 228,
+    "date": "2020/02/05",
     "sources": [
-        "https://www.nbcnews.com/tech/tech-news/kickstarter-workers-vote-form-first-union-tech-industry-n1138006",
-        "https://www.nytimes.com/2020/02/18/technology/kickstarter-union.html"
+        "https://www.sfchronicle.com/business/article/uber-lyft-drivers-to-state-enforce-ab5-get-us-15030205.php"
     ],
     "actions": [
-        "union representation"
+        "legal action"
     ],
     "struggles": [
-        "ethics"
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers"
+        "gig workers"
     ],
-    "description": "Employees at the crowdfunding platform Kickstarter voted to unionize. The decision, which was formalized by a vote count at the National Labor Relations Board, came down to a narrow margin, with 46 employees voting in favor of the move and 37 opposing it. The debate over a union \u2014 and whether such representation was appropriate for highly paid tech workers \u2014 had been a source of tension at the company for many months.",
+    "description": "Rideshare workers organized under Rideshare Drivers United filed wage claims with the California Labor Commissioner's Office seeking to be reimbursed for unpaid wages under AB5. AB5 took effect on Jan. 1 in California but is being disputed by rideshare companies who seek to keep drivers classified as contractors as opposed to employees. Under AB5, many drivers would be entitled to higher wages, pay for overtime, and compensation for work-related expenses.",
     "online": null,
     "locations": [
-        "new york city-new york-usa"
+        "california-usa"
     ],
     "companies": [
-        "kickstarter"
+        "uber",
+        "lyft"
     ],
-    "workers": 46,
-    "tags": [
-        "opeiu"
-    ],
+    "workers": 101,
+    "tags": null,
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.7899898,
+            -122.3999799
+        ],
+        [
+            37.750721999999996,
+            -122.40243254779433
+        ]
+    ],
+    "addresses": [
+        "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States",
+        "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States"
+    ]
 }

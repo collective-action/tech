@@ -1,37 +1,36 @@
 {
-    "id": 322,
-    "date": "1970/12/01",
+    "id": 313,
+    "date": "1970/10/08",
     "sources": [
-        "https://archive.scienceforthepeople.org/vol-6/v6n6/computer-workers-as-professionals/"
+        "https://www.dissentmagazine.org/online_articles/when-polaroid-workers-fought-apartheid"
     ],
     "actions": [
-        "union drive"
+        "protest",
+        "boycott"
     ],
     "struggles": [
-        "unfair labor practices"
+        "ethics"
     ],
     "employment_types": [
         "white collar workers",
-        "blue collar workers"
+        "inhouse workers"
     ],
-    "description": "The Committee to Plan a Computer Union meets to plan an \"industry-wide, all-inclusive union which would span the gap between professionals (programmers/ analysts/operators) and non-professionals (key-punch operators/tape-handlers)\". While the plans were not realized, it is one of the first known attempts at unionizing in the computer technology industry.",
+    "description": "Polaroid workers affiliated with the Polaroid Revolutionary Workers Movement (PRWM) rallied at an anti-apartheid protest in Technology Square in Cambridge, MA and organized what is believed to be the first anti-apartheid boycott of a U.S. corporation. The organization was founded by two of the company's Black employees, Caroline Hunter (a chemist) and Ken Williams (a photographer). The two employees discovered that Polaroid was selling equipment to the South African government that allowed for a racist system of surveillance known as passbooks. The company responded by the surveilling and threatening the workers, first denying and then continuing their operations, and starting a public relations campaign to improve their image.",
     "online": null,
     "locations": [
-        "new york city-new york-usa"
+        "cambridge-massachusetts-usa"
     ],
-    "companies": null,
-    "workers": null,
-    "tags": null,
+    "companies": [
+        "polaroid"
+    ],
+    "workers": 2,
+    "tags": [
+        "antiracism",
+        "surveillance"
+    ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            40.7127281,
-            -74.0060152
-        ]
-    ],
-    "addresses": [
-        "New York, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

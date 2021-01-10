@@ -1,30 +1,39 @@
 {
-    "id": 360,
-    "date": "2020/12/12",
+    "id": 364,
+    "date": "2020/11/27",
     "sources": [
-        "https://www.bbc.co.uk/news/world-asia-india-55296433?at_custom2=facebook_page&at_campaign=64&at_custom3=BBC+News&at_medium=custom7&at_custom1=%5Bpost+type%5D&at_custom4=81D22262-3D70-11EB-B208-D9C496E8478F&fbclid=IwAR3puILhntOwygYe8HWoRjMsvcnw9IFD1YRTIKIQUbGWA1hbUn17Sw1yENM"
+        "https://fortune.com/2020/11/27/amazon-workers-protests-black-friday-covid19/"
     ],
     "actions": [
+        "strike",
         "protest"
     ],
     "struggles": [
-        "pay and benefits"
+        "pay and benefits",
+        "working conditions",
+        "unfair labor practices",
+        "job security"
     ],
     "employment_types": [
-        "blue collar workers"
+        "blue collar workers",
+        "in-house workers",
+        "contract workers"
     ],
-    "description": "Workers at an iPhone production facility in the city of Narsapura near Bangalore in India protested unpaid wages by destroying office property and factory equipment at Wistron Infocomm's manufacturing facility. Around 100 workers are arrested. ",
+    "description": "Thousands of Amazon workers walk off the job to fight for fair pay and COVID protections. Unions representing tens of thousands of Amazon.com Inc. employees walked out during the year's busiest shopping season, in protest of Amazon's handling of everything from sick pay and COVID-19 precautions to user privacy. The giant Verdi trade union in Germany is holding a walkout across seven Amazon facilities. Garment workers in Bangladesh will call for higher pay outside an Amazon supplier facility in Dhaka. In Australia, unions will perform \u201chealth and safety\u201d inspections of the company\u2019s facilities using their \u201cstatutory right of entry,\u201d the campaign said. Others will project the campaign\u2019s logo on buildings in Brussels, London, Sao Paulo and other cities. In all, the organizations participating in the protests represent roughly 40,000 Amazon employees, according to a spokesman for the UNI Global Union. These actions are part of the Make Amazon Pay campaign. ",
     "online": null,
     "locations": [
-        "narsapura-bangalore-india"
+        "worldwide"
     ],
     "companies": [
-        "wistron infocomm",
-        "apple"
+        "amazon"
     ],
-    "workers": 2000,
-    "tags": null,
-    "author": null,
+    "workers": 40000,
+    "tags": [
+        "coronavirus"
+    ],
+    "author": [
+        "organizejs"
+    ],
     "latlngs": null,
     "addresses": null
 }

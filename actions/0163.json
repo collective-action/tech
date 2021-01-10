@@ -1,43 +1,48 @@
 {
-    "id": 159,
-    "date": "2019/07/15",
+    "id": 155,
+    "date": "2019/07/11",
     "sources": [
-        "https://jacobinmag.com/2019/07/amazon-shakopee-strike-prime-day",
-        "https://www.cnet.com/news/prime-day-brings-out-wave-of-activism-against-amazon/",
-        "https://www.theverge.com/2019/7/16/20696154/amazon-prime-day-2019-strike-warehouse-workers-inhumane-conditions-the-rate-productivity"
+        "https://www.forbes.com/sites/rachelsandler/2019/07/11/internal-email-amazon-faces-pressure-from-more-than-500-employees-to-cut-ties-with-palantir-for-working-with-ice/#7707abe77539",
+        "https://www.businessinsider.com/amazon-employees-letter-protest-palantir-ice-camps-2019-7?r=us&ir=t"
     ],
     "actions": [
-        "strike"
+        "open letter"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "ethics"
     ],
     "employment_types": [
-        "blue collar workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Amazon employees, many who are Somali-American workers, at a fulfillment center outside Minneapolis are calling on the company to improve safety and benefits on one of the top sales days of the year. 100 fulfillment workers and labor groups outside the cavernous warehouse are protesting the company's working conditions, benefits and corporate culture. The demonstration is planned for the first day of Prime Day, one of Amazon's flagship shopping events that generates billions of dollars in sales for the retail giant. White collar employees from Amazon HQ (of the group Amazon Employees for Climate Justice) in Seattle are flying out to support the protesters.",
+    "description": "Amazon employees sent out an internal email calling on Amazon to stop working with the big data company Palantir, which works with federal agency Immigration and Customs Enforcement (ICE). This email, sent to employee mailing lists within Amazon Web Services, demanded that Palantir be removed from Amazon's cloud for violating its terms of service. It also called on Amazon to take a stand against ICE by making a statement establishing its position against immigration raids, deportations, and camps for migrants at the border.",
     "online": null,
     "locations": [
-        "minneapolis-minnesota-usa"
+        "usa"
     ],
     "companies": [
-        "amazon"
+        "amazon",
+        "palantir"
     ],
-    "workers": 100,
+    "workers": null,
     "tags": [
-        "coworker_solidarity"
+        "ice"
     ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            44.9696354,
-            -93.2884766
+            47.6142939,
+            -122.3239636
+        ],
+        [
+            37.4440869,
+            -122.16287540411753
         ]
     ],
     "addresses": [
-        "Wounded Amazon, Lyndale Avenue South, Loring Park, Minneapolis, Hennepin County, Minnesota, 55403, United States"
+        "Amazon Go Grocery, 610, East Pike Street, First Hill, Seattle, King County, Washington, 98122, United States",
+        "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States"
     ]
 }

@@ -1,38 +1,38 @@
 {
-    "id": 99,
-    "date": "2018/10/04",
+    "id": 95,
+    "date": "2018/07/24",
     "sources": [
-        "https://www.bbc.com/news/business-45734662"
+        "https://www.bostonglobe.com/business/2018/07/24/samsung-workers-agree-end-standoff-workers-deaths/co5pnkkgjsygaxcwszyghm/story.html"
     ],
     "actions": [
-        "strike"
+        "protest"
     ],
     "struggles": [
-        "pay and benefits"
+        "working conditions"
     ],
     "employment_types": [
-        "gig workers"
+        "blue collar workers"
     ],
-    "description": "UberEats riders and a small number of workers from JD Wetherspoon, McDonald's and TGI Fridays have been staging walkouts in a pay dispute. Protests were being held in several UK cities, along with a rally in London.",
+    "description": "A group of Samsung factory employees in South Korea organized to call for safer working conditions and medical compensation from the company. After three years of protests, Samsung has agreed to accept the compensation terms and issue an apology.",
     "online": null,
     "locations": [
-        "uk"
+        "south korea"
     ],
     "companies": [
-        "uber"
+        "samsung"
     ],
-    "workers": 50,
+    "workers": 100,
     "tags": null,
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            51.5148804,
-            -0.0718856
+            35.85911295,
+            128.6363421487917
         ]
     ],
     "addresses": [
-        "Uber, 2, Leman Street, Spitalfields, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, E1 8FA, United Kingdom"
+        "Samsung, \ub2ec\uad6c\ubc8c\ub300\ub85c, \ubc94\uc5b42\ub3d9, \ubc94\uc5b4\ub3d9, \uc218\uc131\uad6c, \ub300\uad6c, 42031, \ub300\ud55c\ubbfc\uad6d"
     ]
 }

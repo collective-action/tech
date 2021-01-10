@@ -1,45 +1,45 @@
 {
-    "id": 302,
-    "date": "2020/08/09",
+    "id": 376,
+    "date": "2020/07/21",
     "sources": [
-        "https://www.news.com.au/finance/work/at-work/fired-amazon-workers-stage-protest-outside-jeff-bezos-mansion/news-story/e5d5dcaa060c59496d09b96c094982bd",
-        "https://www.msn.com/en-us/news/technology/protest-held-in-front-of-jeff-bezos-penthouse-in-new-york/vi-BB17Nfe9",
-        "https://twitter.com/mollycrabapple/status/1292565661517062150"
+        "https://www.igmetall-berlin.de/aktuelles/meldung/das-war-goldrichtig-warum-software-ingenieure-das-leben-mit-tarifvertrag-und-ig-metall-schoener-f/"
     ],
     "actions": [
-        "protest"
+        "union representation"
     ],
     "struggles": [
         "pay and benefits",
-        "unfair labor practices",
         "working conditions"
     ],
     "employment_types": [
-        "blue collar workers",
-        "inhouse workers"
+        "white collar workers"
     ],
-    "description": "Several dozen Former Amazon workers held a protest outside of Jeff Bezos' New York City penthouse to call for greater protections for warehouse workers during the pandemic, along with the right to unionize and a national wealth tax on the top 3 percent of earners. The protest was organized by Christian Smalls, a former Amazon employee who was fired after organizing a walkout to protest the company's handling of coronavirus. Since then, Smalls has founded an organizedcalled the Congress of Essential Workers, dedicated to protecting workers during the pandemic. ",
+    "description": "In 2019 employees of Bosch.io (subsidary of Bosch) formed a Works Council (Betriebsrat). In 2020 they formed their first Collective Bargaining Agreement, and Bosch.IO will join employer association. The CBA (Tarifvertrag) including provisions related to short time work (Kurzarbeit), home office usage during the coronavirus pandemic. An interview with several elected Works Councilors is included in German. ",
     "online": null,
     "locations": [
-        "new york city-new york-usa"
+        "germany"
     ],
     "companies": [
-        "amazon"
+        "bosch",
+        "bosch.io"
     ],
-    "workers": 24,
-    "tags": [
-        "coronavirus"
-    ],
+    "workers": 700,
+    "tags": null,
     "author": [
-        "nataliyaned"
+        "@shushugah"
     ],
     "latlngs": [
         [
-            40.722465,
-            -73.9977307
+            49.078094500000006,
+            9.304616994654571
+        ],
+        [
+            47.68201895,
+            9.3864579
         ]
     ],
     "addresses": [
-        "Amazon, 72, Spring Street, SoHo, Manhattan Community Board 2, Manhattan, New York County, New York, 10013, United States"
+        "Bosch, Hohbuch, Happenbach, Abstatt, Verwaltungsverband Schozach-Bottwartal, Landkreis Heilbronn, Baden-W\u00fcrttemberg, 74232, Deutschland",
+        "Bosch.IO, 7, Ziegelei, Alte Ziegelei / Steigwiesen, Immenstaad am Bodensee, Verwaltungsgemeinschaft Friedrichshafen, Bodenseekreis, Baden-W\u00fcrttemberg, 88090, Deutschland"
     ]
 }

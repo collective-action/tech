@@ -1,33 +1,43 @@
 {
-    "id": 156,
-    "date": "2019/07/13",
+    "id": 152,
+    "date": "2019/06/30",
     "sources": [
-        "http://www.laizquierdadiario.com/paro-de-glovers-en-mendoza-nos-cansamos-de-la-explotacion-por-eso-hacemos-paro"
+        "https://www.vox.com/platform/amp/recode/2019/6/28/19303292/google-protest-pride-parade-lgbtq-youtube-harassment",
+        "https://medium.com/@bangooglefrompride/ban-google-from-pride-to-march-in-protest-of-harassment-and-discrimination-on-youtube-d8dcc6fde06e",
+        "https://twitter.com/shiringhaffary/status/1145387654202048512?s=19"
     ],
     "actions": [
-        "strike"
+        "protest"
     ],
     "struggles": [
-        "working conditions",
-        "pay and benefits"
+        "discrimination"
     ],
     "employment_types": [
-        "contract workers",
-        "gig workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "A group of Glovo delivery drivers went on strike for one day, citing the loss of guaranteed hours without proper notice and lower pay rates than comparable cities. They also cited Glovo's failure to fulfill promises on worker conditions, including that the company failed to provide promised protective clothing for cold and rain. They gathered at Plaza Chile in Mendoza, Argentina.",
+    "description": "Google workers, under the name \u201cBan Google From Pride,\u201d protest their employer at Pride Parade amid controversy in the LGBTQ community over the company's harassment policies on YouTube videos.",
     "online": null,
     "locations": [
-        "mendoza-argentina"
+        "san francisco-california-usa"
     ],
     "companies": [
-        "glovo"
+        "google"
     ],
-    "workers": 5,
-    "tags": null,
+    "workers": 23,
+    "tags": [
+        "lgbtq"
+    ],
     "author": [
-        "moates"
+        "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.41897865,
+            -122.08237793989416
+        ]
+    ],
+    "addresses": [
+        "Google, Mountain View, Santa Clara County, California, United States"
+    ]
 }

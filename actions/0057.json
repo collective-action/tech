@@ -1,39 +1,31 @@
 {
-    "id": 54,
-    "date": "2016/02/17",
+    "id": 50,
+    "date": "2015/07/20",
     "sources": [
-        "https://www.theguardian.com/world/2016/feb/17/juarez-factory-workers-protest-rights-occupy-style-sit-in-lexmark"
+        "https://qz.com/458615/theres-reportedly-a-big-secret-spreadsheet-where-google-employees-share-their-salaries/"
     ],
     "actions": [
-        "union representation"
+        "protest"
     ],
     "struggles": [
         "pay and benefits",
         "working conditions"
     ],
     "employment_types": [
-        "blue collar workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Hundreds of Lexmark workers have protested working conditions at manufacturing plants in Juarez, Mexico for months. At least 700 workers went on strike in December 2015. Workers have called for union representation, improved wages, and investigation into sexual harassment allegations.",
-    "online": null,
-    "locations": [
-        "juarez-mexico"
-    ],
+    "description": "Google employees have started an internal spreadsheet to share data on salary and bonuses. Employees have reportedly used the spreadsheet to advocate for greater compensation.",
+    "online": true,
+    "locations": null,
     "companies": [
-        "lexmark"
+        "google"
     ],
-    "workers": 700,
+    "workers": null,
     "tags": null,
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            31.5877145,
-            -106.3916453
-        ]
-    ],
-    "addresses": [
-        "Lexmark, Boulevard Independencia, Municipio de Ju\u00e1rez, Chihuahua, 32575, M\u00e9xico"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

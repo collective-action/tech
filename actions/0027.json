@@ -1,38 +1,31 @@
 {
-    "id": 24,
-    "date": "2012/10/01",
+    "id": 21,
+    "date": "2012/04/27",
     "sources": [
-        "https://www.engadget.com/2012/10/09/multiple-foxconn-labor-disputes-disrupt-iphone-production/?guccounter=1"
+        "https://www.reuters.com/article/us-china-foxconn/workers-protest-at-foxconn-plant-in-china-idusbre83q0jv20120427"
     ],
     "actions": [
-        "strike"
+        "protest"
     ],
     "struggles": [
-        "working conditions"
+        "pay and benefits"
     ],
     "employment_types": [
         "blue collar workers"
     ],
-    "description": "FoxConn workers in Zhengzhou held walkouts on three separate days to protest working conditions at the plant. News outlets also report workers have been purposefully scratching newly manufactured iPhones in protest. China Labor Watch estimates that 3,000 workers took part in the walkouts.",
+    "description": "Approximately 200 FoxConn workers in Wuhan, China threatened to jump of the roof of a building yesterday to protest low wages. The protests recalled a series of worker suicides in 2010 and a similar protest held in January at the same facility.",
     "online": null,
     "locations": [
-        "zhengzhou-china"
+        "wuhan-china"
     ],
     "companies": [
         "foxconn"
     ],
-    "workers": 3000,
+    "workers": 200,
     "tags": null,
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            34.7284406,
-            113.7595316
-        ]
-    ],
-    "addresses": [
-        "Foxconn Technology Group, \u7ecf\u5317\u4e8c\u8def, \u7ba1\u57ce\u56de\u65cf\u533a, \u90d1\u5dde\u5e02, \u6cb3\u5357\u7701, 450046, \u4e2d\u56fd"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

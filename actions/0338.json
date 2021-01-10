@@ -1,40 +1,44 @@
 {
-    "id": 354,
-    "date": "2020/10/27",
+    "id": 344,
+    "date": "2020/10/17",
     "sources": [
-        "https://www.washingtonpost.com/context/a-statement-on-caste-bias-in-silicon-valley-from-30-dalit-women-engineers/d692b4f8-2710-41c3-9d5f-ea55c13bcc50/?itid=lk_interstitial_manual_16",
-        "https://www.washingtonpost.com/technology/2020/10/27/indian-caste-bias-silicon-valley/"
+        "https://techcrunch.com/2020/09/29/shipt-shoppers-are-organizing-a-walkout-in-protest-of-new-pay-model/\nhttps://news.trust.org/item/20201016131049-xq8h3\nhttps://thehill.com/policy/technology/521290-shipt-workers-organize-most-targeted-protest-yet-over-new-pay-model"
     ],
     "actions": [
-        "open letter"
+        "strike",
+        "protest"
     ],
     "struggles": [
-        "discrimination"
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "blue collar workers",
+        "contract workers",
+        "gig workers"
     ],
-    "description": "A group of 30 Indian female engineers who were born into the Dalit caste shared a statement with the Washington Post describing their experience of casteism and sexism in Silicon Valley. The group called for American corporations to adopt caste as a protected category, treated on the same terms as gender, race, and sexuality. ",
-    "online": true,
+    "description": "Shipt shoppers are organizing a handful of actions in protest of Shipt\u2019s new pay structure that began rolling out this month.  The first action is happening from Saturday, Oct. 17 through Oct. 19, when workers are calling on their fellow Shipt shoppers to walk out and boycott the company. Organizers are asking for shoppers not to schedule any hours or accept any orders during that time.",
+    "online": null,
     "locations": [
         "usa"
     ],
-    "companies": null,
-    "workers": 30,
+    "companies": [
+        "target",
+        "shipt"
+    ],
+    "workers": null,
     "tags": [
-        "sexism"
+        "delivery_workers"
     ],
     "author": [
-        "nataliyaned"
+        "anonymous"
     ],
     "latlngs": [
         [
-            39.7837304,
-            -100.4458825
+            38.594073550000005,
+            -90.54739094340695
         ]
     ],
     "addresses": [
-        "United States"
+        "Target, 15025, Ballwin, Saint Louis County, Missouri, 63011, United States"
     ]
 }

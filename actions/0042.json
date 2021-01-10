@@ -1,10 +1,9 @@
 {
-    "id": 39,
-    "date": "2014/09/01",
+    "id": 36,
+    "date": "2014/04/01",
     "sources": [
-        "https://www.chronicle.com/article/intellectual-piecework/190039/",
-        "http://wiki.wearedynamo.org/index.php/guidelines_for_academic_requesters",
-        "https://medium.com/@niloufar_s/the-guidelines-for-ethical-research-on-amazon-mechanical-turk-researchers-care-about-fair-payment-427e816762ee"
+        "https://www.ibtimes.co.uk/protesters-fight-against-amazon-over-living-wage-demands-1442174",
+        "https://www.reuters.com/article/us-amazon-strikes/amazon-workers-in-germany-strike-again-in-protracted-pay-dispute-idusbrea2u0l220140331"
     ],
     "actions": [
         "open letter"
@@ -14,20 +13,28 @@
         "working conditions"
     ],
     "employment_types": [
-        "gig workers"
+        "blue collar workers"
     ],
-    "description": "Over two hundred Mechanical Turk workers and academics, organized through Dynamo, have collaborated and signed a set of ethical guidelines for scholars requesting labor through the platform. The Wiki page includes information on fair payment, communication practices, and the basics of requesting.",
-    "online": true,
-    "locations": null,
+    "description": "In the UK, an activist group called Amazon Anonymous delivered a letter and a petition with 55,000 signatures to Amazon. The letter called for higher wages and improved working conditions for warehouse workers, including longer breaks and an end to the practice of compulsory overtime. ",
+    "online": null,
+    "locations": [
+        "uk"
+    ],
     "companies": [
-        "amazon",
-        "mechanical_turk"
+        "amazon"
     ],
-    "workers": 262,
+    "workers": 55000,
     "tags": null,
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            53.9603742,
+            -1.0712337
+        ]
+    ],
+    "addresses": [
+        "Amazon, Foss Islands Road, Foss Islands Retail Park, Layerthorpe, York, Yorkshire and the Humber, England, YO31 7UR, United Kingdom"
+    ]
 }

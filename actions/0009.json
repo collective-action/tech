@@ -1,42 +1,44 @@
 {
-    "id": 6,
-    "date": "1999/06/04",
+    "id": 380,
+    "date": "1995/04/17",
     "sources": [
-        "https://www.latimes.com/archives/la-xpm-1999-jun-04-fi-44011-story.html",
-        "https://www.questia.com/newspaper/1p2-32575557/the-seeds-of-a-high-tech-union-sprout-in-washington"
+        "https://www.nytimes.com/2003/07/13/business/fighting-for-the-right-to-communicate.html",
+        "https://cyber.harvard.edu/msvh/hamidi/hrnote.html"
     ],
     "actions": [
-        "union drive"
+        "legal action"
     ],
     "struggles": [
-        "pay and benefits"
+        "discrimination",
+        "unfair labor practices"
     ],
     "employment_types": [
         "white collar workers",
-        "contract workers"
+        "in-house workers"
     ],
-    "description": "A group of temporary workers at Microsoft that includes accountants and lawyers has organized into a bargaining unit and is asking for representation through a local union, the Washington Alliance of Technology Workers. The employees expressed frustration at their status as contract workers, citing a lack of benefits as a motivating factor for the unionization attempt.",
-    "online": null,
+    "description": "Former Intel engineer Kourosh Kenneth (\"Ken\") Hamidi alleged wrongful termination and discrimination after his claims for workers' compensation, following a car accident, were denied and he was fired in 1995. He formed a small (~10 member) online group called Former And Current Employees of Intel (FACE-Intel) to coordinate six mass emails over 21 months to Intel employees about company wrongdoing. Intel sued Hamidi and the FACE-Intel group for \"trespass to chattel\" and \"nuisance\" resulting in the California Supreme Court's ruling in Hamidi's favor in Intel Corporation v. Hamidi (2003). The case is considered a landmark ruling on electronic employee communications and concepts of trespass.",
+    "online": true,
     "locations": [
-        "seattle-washington-usa"
+        "sacramento-california-usa"
     ],
     "companies": [
-        "microsoft"
+        "intel"
     ],
-    "workers": 16,
+    "workers": 10,
     "tags": [
-        "washtech"
+        "retaliation",
+        "online_action"
     ],
     "author": [
-        "nataliyaned"
+        "CM"
     ],
     "latlngs": [
         [
-            47.5388725,
-            -122.2901728
+            38.64577295,
+            -121.16569779442514
         ]
     ],
     "addresses": [
-        "Microsoft Gathering Hall, 7054, 32nd Avenue South, Holly Park, Rainier Valley, Seattle, King County, Washington, 98118, United States"
+        "Intel Corporation, 1900, Natoma Station, Folsom, Sacramento County, California, United States"
     ]
 }

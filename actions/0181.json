@@ -1,33 +1,50 @@
 {
-    "id": 176,
-    "date": "2019/09/04",
+    "id": 172,
+    "date": "2019/08/14",
     "sources": [
-        "http://www.nordiclabourjournal.org/nyheter/news-2019/article.2019-09-09.4705108683",
-        "https://www.itfglobal.org/en/news/riders-setup-soup-kitchen-in-oslo-in-fight-decent-work"
+        "https://www.theverge.com/2019/8/14/20805968/caviar-employees-doordash-square-acquisition-mistreatment-renegotiate-offers"
     ],
     "actions": [
-        "strike",
-        "union drive"
+        "protest"
     ],
     "struggles": [
         "pay and benefits"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers"
     ],
-    "description": "In Oslo, hundreds of striking riders are cycling around to gather support for their demand for a collective agreement. The striking riders are organised in what used to be the Norwegian Transport Workers' Union, which is now part of Fellesforbundet. The strike has already had consequences for Foodora. The employees demand higher salaries and compensation for expenses incurred using their own private bikes at work. The striking riders cycle around Oslo every day in what they call Critical Mass, something that demonstrates the strike is ongoing and that it is growing day by day. The strike lasted 5 weeks.",
+    "description": "A group of Caviar employees has banded together to request a good faith renegotiation from DoorDash and Square, claiming mistreatment in the job transition process as DoorDash finalizes its plans to acquire Caviar from the payment company. It is unclear how many people this letter represents, though an anonymous Caviar member claims that the group is made up of the 'majority' of non-management employees. (According to Crunchbase, Caviar employs between 100 and 250 people.)t",
     "online": null,
     "locations": [
-        "oslo-norway"
+        "usa"
     ],
     "companies": [
-        "foodera"
+        "doordash",
+        "caviar",
+        "square"
     ],
-    "workers": 140,
+    "workers": null,
     "tags": null,
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.7834546,
+            -122.4080358
+        ],
+        [
+            65.4102317,
+            -163.0526448
+        ],
+        [
+            30.4422494,
+            -84.32472631122516
+        ]
+    ],
+    "addresses": [
+        "Doordash HQ, 901, Market Street, Union Square, San Francisco, San Francisco City and County, California, 94103-3124, United States",
+        "Caviar Creek, Nome, Alaska, United States",
+        "The Square, Tallahassee, Leon County, Florida, United States"
+    ]
 }

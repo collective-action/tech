@@ -1,42 +1,44 @@
 {
-    "id": 264,
-    "date": "2020/05/28",
+    "id": 262,
+    "date": "2020/05/05",
     "sources": [
-        "https://www.latimes.com/business/technology/story/2020-05-28/amazon-whole-foods-workers-track-coronavirus-cases",
-        "https://www.theguardian.com/world/2020/may/06/tracking-tool-allows-amazon-workers-to-report-covid-19-cases"
+        "https://supchina.com/2020/05/05/internet-writers-protest-what-they-call-unfair-contracts-with-tencent-company/"
     ],
     "actions": [
-        "protest"
+        "strike"
     ],
     "struggles": [
-        "working conditions"
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers"
+        "gig workers"
     ],
-    "description": "Jana Jumpp, an Amazon employee in Indiana, has been tracking cases and logged at least 500 cases in 125 Amazon facilities as of late April. Jumpp has a counterpart at Amazon-owned Whole Foods, Katie Doan, who has been collecting cases since April 2. The two women have never spoken, but they describe nearly identical work fielding a torrent of private messages, searching Facebook groups, Reddit, Twitter and news outlets for reports of infections, and meticulously updating Google documents with the numbers.",
+    "description": "Hundreds of thousands of writers signed to China Literature (subsidiary of Tencent), the country's biggest online publisher, went on an online strike, protesting against exploitative contracts and the company's regular infringement of their intellectual property rights. The strike's organizers were demonstrating against proposed changes to China Literature\u2019s business model and contracts with its writers. Writers stopped publishing new content on the website on the day of the strike. This change would negatively affect writers' income, which primarily comes from subscription fees and tips from their readers. 'Financially speaking, we were already drowning in quicksand before the rumors. Now they are trying to give us a death blow' a China Literature writer",
     "online": null,
     "locations": [
-        "usa"
+        "china"
     ],
     "companies": [
-        "amazon"
+        "chinese literature",
+        "tencent"
     ],
-    "workers": 2,
-    "tags": [
-        "coronavirus",
-        "online_action"
-    ],
+    "workers": 100001,
+    "tags": null,
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            47.6142939,
-            -122.3239636
+            23.09733995,
+            113.29374279344763
+        ],
+        [
+            22.52586985,
+            113.93041229445548
         ]
     ],
     "addresses": [
-        "Amazon Go Grocery, 610, East Pike Street, First Hill, Seattle, King County, Washington, 98122, United States"
+        "\u4e2d\u6587\u5802, 274, \u9038\u4ed9\u8def, \u65b0\u6e2f\u8857\u9053, \u6d77\u73e0\u533a, \u5e7f\u5dde\u5e02, \u5e7f\u4e1c\u7701, 510275, \u4e2d\u56fd",
+        "\u817e\u8baf\u6ee8\u6d77\u5927\u53a6, 33\u53f7, \u7ca4\u6d77\u8857\u9053, \u5357\u5c71\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518054, \u4e2d\u56fd"
     ]
 }

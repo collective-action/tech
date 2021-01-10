@@ -1,58 +1,38 @@
 {
-    "id": 38,
-    "date": "2014/04/19",
+    "id": 35,
+    "date": "2014/03/31",
     "sources": [
-        "https://www.nbcnews.com/tech/tech-news/workers-tech-poaching-case-likely-get-average-4k-n113451",
-        "https://www.independent.ie/business/technology/four-us-tech-firms-face-3bn-payout-over-claims-they-conspired-on-pay-30199663.html"
+        "https://www.reuters.com/article/us-amazon-strikes/amazon-workers-in-germany-strike-again-in-protracted-pay-dispute-idusbrea2u0l220140331"
     ],
     "actions": [
-        "legal action"
+        "strike"
     ],
     "struggles": [
         "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "blue collar workers"
     ],
-    "description": "Tech workers from Google, Apple, Intel, and Adobe Systems brought a class action lawsuit against their respective companies, claiming that they conspired to keep salaries down by adhering to 'no-hire' agreements among themselves. The case ended in a $325 million settlement that paid out roughly $4,000 to 60,000 employees. ",
+    "description": "Several hundred Amazon workers in Leipzig, Germany went on strike as part of a union effort to raise wages. The company reported 340 workers were involved whereas the union (Verdi) reported the number was closer to 500.",
     "online": null,
     "locations": [
-        "california-usa"
+        "leipzig-germany"
     ],
     "companies": [
-        "google",
-        "apple",
-        "intel",
-        "adobe"
+        "amazon"
     ],
-    "workers": 60000,
+    "workers": 340,
     "tags": null,
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            37.41897865,
-            -122.08237793989416
-        ],
-        [
-            37.32915255,
-            -122.03225451655098
-        ],
-        [
-            32.939795,
-            -117.1026021
-        ],
-        [
-            37.33196605,
-            -121.8954904847011
+            51.3622584,
+            12.452329749225527
         ]
     ],
     "addresses": [
-        "Google, Mountain View, Santa Clara County, California, United States",
-        "Apple, Cupertino, Santa Clara County, California, United States",
-        "Intel, 12220, Scripps Summit Drive, San Diego, San Diego County, California, 92131, United States",
-        "Adobe, 333, Little Italy, San Jose, Santa Clara County, California, United States"
+        "Amazon, 1, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland"
     ]
 }

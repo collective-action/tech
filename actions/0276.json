@@ -1,49 +1,42 @@
 {
-    "id": 276,
-    "date": "2020/05/05",
+    "id": 258,
+    "date": "2020/04/24",
     "sources": [
-        "https://www.nbcnews.com/tech/tech-news/amazon-sued-nyc-workers-seeking-coronavirus-protection-not-money-n1223871",
-        "https://www.oregonlive.com/business/2020/05/amazon-sued-by-salem-warehouse-worker-over-coronavirus-response.html"
+        "https://amp.ft.com/content/d0698260-c02b-4abe-912a-fa0066e294c2",
+        "https://dnyuz.com/2020/04/24/huawei-employees-sue-company-after-police-detention/"
     ],
     "actions": [
         "legal action"
     ],
     "struggles": [
-        "working conditions"
+        "ethics"
     ],
     "employment_types": [
-        "blue collar workers",
+        "white collar workers",
         "inhouse workers"
     ],
-    "description": "Amazon has been sued by workers at two different locations, New York City and Salem, Oregon, for its failure to protect its employees during the coronavirus pandemic. Three Amazon employees from the New York fulfillment center sued the company for failing to follow local public health guidance, claiming the company purposefully miscommunicated with workers. The employees are not seeking compensation, only an order that Amazon comply with guidance. A former employee from Salem alleged that she was fired after taking a medical leave for a coronavirus infection and speaking out publicly about safety issues.",
+    "description": "Two former Huawei employees are suing the company alleging that it used its local connections to the police to detain employees who posed problems for the company. One of the employees had started a chat group where there was open discussion of Huawei breaking US sanctions with Iran. That same employee claims two other members from the chat group were detained and later released as well. The Financial Times quoted Shenzhen-based labour rights lawyer, Pang Kun, who estimated that there were more than 10 others currently detained at a local jail as a result of company disputes.",
     "online": null,
     "locations": [
-        "new york city-new york-usa",
-        "salem-oregon-usa"
+        "shen zhen-china"
     ],
     "companies": [
-        "amazon"
+        "huawei"
     ],
-    "workers": 4,
+    "workers": 2,
     "tags": [
-        "retaliation",
-        "coronavirus"
+        "na"
     ],
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            40.722465,
-            -73.9977307
-        ],
-        [
-            44.90190785,
-            -122.96427765593445
+            22.652495950000002,
+            114.05589115565374
         ]
     ],
     "addresses": [
-        "Amazon, 72, Spring Street, SoHo, Manhattan Community Board 2, Manhattan, New York County, New York, 10013, United States",
-        "Amazon PDX7, 4775, Depot Court, Salem, Marion County, Oregon, 97317, United States"
+        "\u534e\u4e3a\u6280\u672f\u6709\u9650\u516c\u53f8, \u9f99\u5c97\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518100, \u4e2d\u56fd"
     ]
 }

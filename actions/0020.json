@@ -1,30 +1,28 @@
 {
-    "id": 17,
-    "date": "2009/12/16",
+    "id": 14,
+    "date": "2007/09/26",
     "sources": [
-        "https://techcrunch.com/2009/12/16/yahoo-engineers-strike-after-closure-of-french-rd-site-results-in-78-laid-off/"
+        "https://money.cnn.com/2007/09/25/smbusiness/h1b_cap.fsb/index.htm"
     ],
     "actions": [
-        "protest",
-        "strike"
+        "protest"
     ],
     "struggles": [
         "job security"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "white collar workers"
     ],
-    "description": "Engineers at Yahoo France held a strike to protest the company's plans to shut down an R&D office in Echirolles, laying off 78 people or roughly one-third of the company's total employees in the country. ",
+    "description": "Roughly  a thousand foreign tech workers protested US H1B visa caps in Washington DC. They urged Congress to increase the number of visas supplied annually.",
     "online": null,
     "locations": [
-        "echirolles-france"
+        "washington_dc-usa"
     ],
-    "companies": [
-        "yahoo"
+    "companies": null,
+    "workers": 1000,
+    "tags": [
+        "immigration"
     ],
-    "workers": null,
-    "tags": null,
     "author": [
         "nataliyaned"
     ],

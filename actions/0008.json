@@ -1,39 +1,28 @@
 {
-    "id": 5,
-    "date": "1998/11/23",
+    "id": 4,
+    "date": "1994/01/24",
     "sources": [
-        "http://www.cnn.com/tech/computing/9811/23/mstemps.idg/"
+        "https://www.nytimes.com/1994/06/12/magazine/battle-of-the-clipper-chip.html",
+        "http://cpsr.org/prevsite/program/clipper/clipper.html/"
     ],
     "actions": [
-        "legal action"
+        "open letter"
     ],
     "struggles": [
-        "unfair labor practices",
-        "pay and benefits"
+        "ethics"
     ],
     "employment_types": [
-        "contract workers"
+        "white collar workers"
     ],
-    "description": "A law firm representing 10 current and former contract workers at Microsoft Corp. filed a lawsuit in U.S. District Court on Tuesday against the software giant, seeking damages and full-time employee benefits for its plaintiffs and thousands of other 'misclassified' temporary employees. The 10 plaintiffs seek class-action status because they want to include some 6,000 current full-time Microsoft employees who have been 'misclassified as nonemployees' under 'various erroneous labels' and denied company benefits.",
-    "online": null,
-    "locations": [
-        "usa"
-    ],
-    "companies": [
-        "microsoft"
-    ],
-    "workers": 10,
+    "description": "Computer Professionals for Social Responsibility (CPSR) launches an online petition in opposition to the Clipper Chip, a cryptographic device intended to provide a standard for securing private voice communication. The group expresses concern about the possibility of surveillance through decryption keys held by government agencies. The petition obtains over 50,000 signatures. An earlier physical letter, sent directly to the President, received 40 signatures from cryptography and computing experts.",
+    "online": true,
+    "locations": null,
+    "companies": null,
+    "workers": 50000,
     "tags": null,
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
-    "latlngs": [
-        [
-            35.139622349999996,
-            -80.92306993327955
-        ]
-    ],
-    "addresses": [
-        "Microsoft, Ayrsley, Charlotte, Mecklenburg County, North Carolina, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

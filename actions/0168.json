@@ -1,41 +1,42 @@
 {
-    "id": 164,
-    "date": "2019/07/23",
+    "id": 160,
+    "date": "2019/07/16",
     "sources": [
-        "https://www.seattletimes.com/business/google-settles-age-discrimination-class-action-lawsuit-with-more-than-200-workers-for-11-million/"
+        "https://www.bbc.com/news/av/world-africa-49008968/uber-drivers-in-nairobi-explain-why-they-are-on-strike",
+        "https://www.businessdailyafrica.com/corporate/companies/digital-taxis-strike-enters-second-week/4003102-5206366-rbvf36/index.html"
     ],
     "actions": [
-        "legal action"
+        "strike"
     ],
     "struggles": [
-        "discrimination"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "Google settled a class action lawsuit launched by several hundred older workers who claimed they were not hired by the company on the basis of their age. The company paid out $11 million to the plaintiffs. Between 2007 to 2013, they argued, the median age in the tech industry was 41, while the median age at Google was 29.",
+    "description": "Rideshare drivers in Nairobi have gone on strike because of what they describe as low wages and poor working conditions. They are protesting unfair commissions from US-based Uber, Estonian firm Bold (formerly Taxify) and locally owned Little Cab. The strike entered its second week, continuing the protest over pitiable rates for the drivers.",
     "online": null,
     "locations": [
-        "usa"
+        "nairobi-kenya"
     ],
     "companies": [
-        "google"
+        "uber",
+        "bolt",
+        "little_cab"
     ],
-    "workers": 200,
-    "tags": [
-        "ageism"
-    ],
+    "workers": 30,
+    "tags": null,
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
     "latlngs": [
         [
-            42.3627717,
-            -71.087257
+            7.2077919,
+            38.613507
         ]
     ],
     "addresses": [
-        "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States"
+        "Bolt, Addis Ababa to Nairobi road, \u1218\u120d\u12ab \u12a1\u12f3, \u123b\u1238\u1218\u1294 / Shashamane, East Shewa, \u12a6\u122e\u121a\u12eb \u12ad\u120d\u120d / Oromia, \u12a2\u1275\u12ee\u1335\u12eb"
     ]
 }

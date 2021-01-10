@@ -1,41 +1,32 @@
 {
-    "id": 92,
-    "date": "2018/06/25",
+    "id": 88,
+    "date": "2018/06/08",
     "sources": [
-        "https://www.bloomberg.com/news/articles/2018-06-25/salesforce-employees-ask-ceo-to-revisit-ties-with-border-agency"
+        "https://clb.org.hk/content/didi-drivers-china-protest-pay-cuts-and-restrictive-work-practices"
     ],
     "actions": [
-        "open letter"
+        "strike"
     ],
     "struggles": [
-        "ethics"
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "Hundreds of Salesforce.com Inc. employees signed a letter to Chief Executive Officer Marc Benioff criticizing the companies's contracts with the U.S. Customs and Border Protection agency.",
-    "online": true,
+    "description": "Nearly one hundred Didi drivers gathered in front of the company office in Hangzhou, Zhejiang, on 8 June protesting its new \u201cguarantee scheme.\u201d The scheme, rolled out in April, claimed to provide drivers with a stable income but required them to work at least ten hours a day. Didi then gradually reduced the orders for those drivers who refused to join the new scheme, sparking anger among drivers who wanted to maintain a more flexible work schedule. One driver said his income had fallen by 5,000 yuan as a result of the new system.",
+    "online": null,
     "locations": [
-        "usa"
+        "hangzhou-china",
+        "zhejiang-china"
     ],
     "companies": [
-        "salesforce"
+        "didi"
     ],
-    "workers": 650,
-    "tags": [
-        "cbp"
-    ],
+    "workers": 90,
+    "tags": null,
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            39.7737435,
-            -86.1611436
-        ]
-    ],
-    "addresses": [
-        "Salesforce, 433, North Capitol Avenue, Fayette Street Conservation Area, Indianapolis, Marion, Indiana, 46204, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

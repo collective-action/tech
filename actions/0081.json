@@ -1,38 +1,40 @@
 {
-    "id": 78,
-    "date": "2018/03/21",
+    "id": 74,
+    "date": "2017/12/13",
     "sources": [
-        "https://www.reuters.com/article/us-amazon-com-spain/spains-amazon-workers-call-two-day-strike-over-wages-rights-iduskcn1gp13l"
+        "https://unitehere.org/cafeteria-workers-at-yahoo-unionize/"
     ],
     "actions": [
-        "strike"
+        "union representation"
     ],
     "struggles": [
-        "pay and benefits"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
+        "contract workers",
         "blue collar workers"
     ],
-    "description": "Over one thousand Amazon workers in Spain plan to stage their first strike with a two-day walkout to protest what unions claim are efforts to reduce employees' rights. The union claimed the companies aims to block salary increases, cut wages and reduce payments for those working weekends or holidays as part of a new contract agreement.",
+    "description": "118 food service workers at Yahoo won union representation at its headquarters in Sunnyvale, CA. The food service workers, who are employed by Yahoo's contractor, Bon Appetit, are calling for respect and dignity, affordable health care, and increased wages to compete with increasing rents in the Bay Area.",
     "online": null,
     "locations": [
-        "madrid-spain"
+        "sunnyvale-california-usa"
     ],
     "companies": [
-        "amazon"
+        "yahoo"
     ],
-    "workers": 1100,
+    "workers": 118,
     "tags": null,
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            40.4593249,
-            -3.4602878
+            37.4181243,
+            -122.02538023988251
         ]
     ],
     "addresses": [
-        "Amazon, Avenida de la Constituci\u00f3n, Torrej\u00f3n de Ardoz, \u00c1rea metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28850, Espa\u00f1a"
+        "Yahoo, Sunnyvale, Santa Clara County, California, United States"
     ]
 }

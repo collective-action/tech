@@ -1,30 +1,35 @@
 {
-    "id": 168,
-    "date": "2019/08/08",
+    "id": 165,
+    "date": "2019/07/26",
     "sources": [
-        "https://gizmodo.com/amazon-workers-strike-outside-eagan-minnesota-deliver-1837064265"
+        "https://financialtribune.com/articles/sci-tech/99111/github-bans-iran-based-users",
+        "https://github.com/1995parham/github-do-not-ban-us"
     ],
     "actions": [
-        "strike"
+        "protest",
+        "open letter"
     ],
     "struggles": [
-        "working conditions"
+        "discrimination"
     ],
     "employment_types": [
-        "blue collar workers"
+        "white collar workers"
     ],
-    "description": "A group of Amazon employees protested outside the Eagan, Minnesota, warehouse Thursday morning. While past protests have focused on allegedly poor workplace conditions, the Eagan protest was to raise concerns about a lack of parking at the warehouse. This is an issue because these workers' cars can be towed and fined at a cost of hundreds of dollars for being double-parked.",
+    "description": "GitHub users have created a repository to protest the company's decision to ban Iranians from accessing the site due to US sanctions. The repository combines multiple types of actions, serving as an open letter to the company and collecting known incidences of Iranian users being denied access, in addition to highlighting the contributions of Iranian developers. ",
     "online": null,
     "locations": [
-        "eagan-minnesota-usa"
+        "worldwide",
+        "iran"
     ],
     "companies": [
-        "amazon"
+        "github"
     ],
-    "workers": 80,
-    "tags": null,
+    "workers": 945,
+    "tags": [
+        "international_solidarity"
+    ],
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
     "latlngs": null,
     "addresses": null

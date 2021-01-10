@@ -1,40 +1,44 @@
 {
-    "id": 245,
+    "id": 243,
     "date": "2020/03/19",
     "sources": [
-        "https://www.forbes.com/sites/janetwburns/2020/03/19/drivers-protest-outside-uber-hq-for-covid-19-sick-leave-and-pay-under-california-law-ab5/#3b5daa808f7a",
-        "https://twitter.com/veenadubal/status/1240410264119283712"
+        "https://www.businessinsider.com/ice-mijente-microsoft-coronavirus-crisis-2020-3",
+        "https://github.com/msworkers/against.ice"
     ],
     "actions": [
-        "strike",
-        "protest"
+        "open letter"
     ],
     "struggles": [
-        "working conditions",
-        "unfair labor practices"
+        "ethics"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Ride-hail drivers in California gathered outside Uber headquarters in San Francisco, Los Angeles, and San Diego to demand that gig platforms provide immediate relief to their cash-strapped, at-risk workers, including by adhering to California\u2019s new labor law known as AB5. Drivers are calling on California to enforce its new employment law as illness, confusion, and hardship from COVID-19 sweep their industries. They are also calling for the $110 million set aside by Uber, Lyft, Doordash, Postmates, and Instacart for fighting that law to instead be used to give workers some relief.",
+    "description": "Mijente, an immigrant rights group is calling on ICE to stop hunting down undocumented immigrants amid the coronavirus crisis. In an open letter published on Github, Microsoft workers backed mijente's campaign, calling on tech companies not to share their technologies with ICE.",
     "online": null,
     "locations": [
-        "europe"
+        "california-usa"
     ],
     "companies": [
-        "uber",
-        "lyft",
-        "doordash",
-        "postmates",
-        "instacart"
+        "microsoft"
     ],
     "workers": null,
     "tags": [
+        "ice",
+        "immigration",
         "coronavirus"
     ],
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.41096725,
+            -122.07138737347663
+        ]
+    ],
+    "addresses": [
+        "Microsoft Silicon Valley, Mountain View, Santa Clara County, California, United States"
+    ]
 }

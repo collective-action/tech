@@ -1,39 +1,43 @@
 {
-    "id": 364,
-    "date": "2020/11/27",
+    "id": 359,
+    "date": "2020/11/17",
     "sources": [
-        "https://fortune.com/2020/11/27/amazon-workers-protests-black-friday-covid19/"
+        "https://www.vice.com/en/article/n7vn9w/blue-collar-unions-fear-widespread-layoffs-in-silicon-valley"
     ],
     "actions": [
-        "strike",
         "protest"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions",
-        "unfair labor practices",
-        "job security"
+        "job security",
+        "pay and benefits"
     ],
     "employment_types": [
-        "blue collar workers",
-        "in-house workers",
-        "contract workers"
+        "blue collar workers"
     ],
-    "description": "Thousands of Amazon workers walk off the job to fight for fair pay and COVID protections. Unions representing tens of thousands of Amazon.com Inc. employees walked out during the year's busiest shopping season, in protest of Amazon's handling of everything from sick pay and COVID-19 precautions to user privacy. The giant Verdi trade union in Germany is holding a walkout across seven Amazon facilities. Garment workers in Bangladesh will call for higher pay outside an Amazon supplier facility in Dhaka. In Australia, unions will perform \u201chealth and safety\u201d inspections of the company\u2019s facilities using their \u201cstatutory right of entry,\u201d the campaign said. Others will project the campaign\u2019s logo on buildings in Brussels, London, Sao Paulo and other cities. In all, the organizations participating in the protests represent roughly 40,000 Amazon employees, according to a spokesman for the UNI Global Union. These actions are part of the Make Amazon Pay campaign. ",
+    "description": "On Tuesday, dozens of those workers will protest outside the San Francisco home of the Verizon Media CEO Guru Gowrappan, and drop off letters demanding an extension of their healthcare coverage and pay (Verizon Media owns Yahoo). Though these workers are technically not employed by  Verizon Media, the decision to lay off the cafeteria workers was ultimately made by the company, which like most Silicon Valley tech companies contracts out its blue-collar labor. ",
     "online": null,
     "locations": [
-        "worldwide"
+        "san francisco-california-usa"
     ],
     "companies": [
-        "amazon"
+        "verizon",
+        "yahoo"
     ],
-    "workers": 40000,
-    "tags": [
-        "coronavirus"
+    "workers": null,
+    "tags": null,
+    "author": null,
+    "latlngs": [
+        [
+            34.091086700000005,
+            -117.6034596429738
+        ],
+        [
+            37.4181243,
+            -122.02538023988251
+        ]
     ],
-    "author": [
-        "organizejs"
-    ],
-    "latlngs": null,
-    "addresses": null
+    "addresses": [
+        "Verizon, 9000, Rancho Cucamonga, San Bernardino County, California, 91730, United States",
+        "Yahoo, Sunnyvale, Santa Clara County, California, United States"
+    ]
 }

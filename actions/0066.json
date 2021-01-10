@@ -1,45 +1,40 @@
 {
-    "id": 63,
-    "date": "2016/12/16",
+    "id": 59,
+    "date": "2016/10/05",
     "sources": [
-        "https://www.mic.com/articles/172403/ibm-s-ceo-wrote-trump-a-glowing-letter-employees-responded-with-list-of-demands",
-        "https://www.coworker.org/petitions/ibmers-to-ceo-ginni-rometty-affirm-ibm-values",
-        "https://theintercept.com/2016/12/19/ibm-employees-launch-petition-protesting-cooperation-with-donald-trump/"
+        "https://www.thenation.com/article/the-silicon-valley-union-victories-you-havent-heard-of/"
     ],
     "actions": [
-        "open letter"
+        "union representation"
     ],
     "struggles": [
-        "ethics"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "blue collar workers",
+        "contract workers"
     ],
-    "description": "IBM employees sign a petition protesting IBM's cooperation with Trump. After the IBM CEO Ginny Rometty sent a letter congratulating Trump on his presidency and refusing to rule out participation from building a muslim registry, IBM employees created a petition on coworker.org to demand that the company acknowledge the diversity of its staff and not work to further the more xenophobic aspects of Trump's agenda.",
-    "online": true,
+    "description": "Intel cafeteria workers voted to unionize joining forces with Unite Here Local 19.",
+    "online": null,
     "locations": [
-        "usa"
+        "santa clara-california-usa"
     ],
     "companies": [
-        "ibm"
+        "intel"
     ],
-    "workers": 1000,
-    "tags": [
-        "muslim_registry",
-        "immigration",
-        "trump"
-    ],
+    "workers": 43,
+    "tags": null,
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            44.05795005,
-            -92.50701462052399
+            37.389317899999995,
+            -121.97901174515997
         ]
     ],
     "addresses": [
-        "IBM, Rochester, Olmsted County, Minnesota, United States"
+        "McAfee, Mission College Boulevard, Santa Clara, Santa Clara County, California, 95054-1231, United States"
     ]
 }

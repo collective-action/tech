@@ -1,39 +1,41 @@
 {
-    "id": 15,
-    "date": "2007/10/30",
+    "id": 12,
+    "date": "2006/03/09",
     "sources": [
-        "https://www.nytimes.com/2007/10/30/technology/30iht-techlabor.1.8109819.html?searchresultposition=1"
+        "http://old.seattletimes.com/html/businesstechnology/2002853223_washtech09.html"
     ],
     "actions": [
-        "protest"
+        "union drive"
     ],
     "struggles": [
-        "job security"
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "white collar workers"
     ],
-    "description": "Hundreds' of immigrant tech workers protested H1B visa caps on the streets of San Jose carrying banners and signs. A shortage of H1B visas has led to insecure working conditions and labor shortages among tech firms.",
+    "description": "After anonymously receiving several pages of confidential compensation guidelines, the Washington Alliance of Technology Workers has relaunched an effort the unionize employees at Microsoft. The leaked guidelines showed that wages at the company barely rose in the last two years, which the union hopes will be a rallying cry for workers. In 2003, the company stopped giving employees stock options, opting for stock instead.",
     "online": null,
     "locations": [
-        "san jose-california-usa"
+        "seattle-washington-usa"
     ],
-    "companies": null,
-    "workers": 200,
+    "companies": [
+        "microsoft"
+    ],
+    "workers": null,
     "tags": [
-        "immigration"
+        "washtech",
+        "cwa"
     ],
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            37.3361905,
-            -121.890583
+            47.5388725,
+            -122.2901728
         ]
     ],
     "addresses": [
-        "San Jose, Santa Clara County, California, United States"
+        "Microsoft Gathering Hall, 7054, 32nd Avenue South, Holly Park, Rainier Valley, Seattle, King County, Washington, 98118, United States"
     ]
 }

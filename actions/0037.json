@@ -1,39 +1,33 @@
 {
-    "id": 34,
-    "date": "2014/03/03",
+    "id": 31,
+    "date": "2013/11/19",
     "sources": [
-        "https://www.reuters.com/article/us-china-strikes/ibm-factory-strike-shows-shifting-china-labor-landscape-idusbrea2804k20140309"
+        "https://www.windowscentral.com/nokia-employees-dongguan-factory-china-strike"
     ],
     "actions": [
         "strike"
     ],
     "struggles": [
-        "unfair labor practices"
+        "pay and benefits",
+        "job security"
     ],
     "employment_types": [
         "blue collar workers"
     ],
-    "description": "More than 1,000 IBM factory workers walked off the job at the factory in Shenzhen, bordering Hong Kong, after managers on announced the terms of their transfer to new ownership under Chinese PC maker Lenovo Group Ltd. Experts say - the impetus for a strike was underpinned by the fact that the factory branch of the state-backed union was seen as a farce.",
+    "description": "Hundreds of workers at a Chinese Nokia factory located in Dongguan, Guangdong Province have on strike. They're holding up a large banner in protest, which reads 'Workers are not simple merchandise, assets or slaves. Please do not sell us. We have DIGNITY and RIGHTS!",
     "online": null,
     "locations": [
-        "shenzhen-china"
+        "dongguan-china"
     ],
     "companies": [
-        "ibm",
-        "lenovo"
+        "microsoft",
+        "nokia"
     ],
-    "workers": 1000,
+    "workers": 100,
     "tags": null,
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            22.54208855,
-            113.9430328
-        ]
-    ],
-    "addresses": [
-        "\u8054\u60f3\u7814\u53d1\u4e2d\u5fc3, 16\u53f7, \u9ad8\u65b0\u5357\u4e00\u9053, \u5927\u51b2, \u7ca4\u6d77\u8857\u9053, \u5357\u5c71\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518057, \u4e2d\u56fd"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

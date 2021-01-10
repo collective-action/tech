@@ -1,45 +1,33 @@
 {
-    "id": 233,
-    "date": "2020/02/20",
+    "id": 229,
+    "date": "2020/02/09",
     "sources": [
-        "https://www.marketwatch.com/story/hundreds-of-oracle-workers-stage-walkout-to-protest-larry-ellisons-fundraiser-for-trump-2020-02-20",
-        "https://www.marketwatch.com/story/hundreds-of-oracle-workers-stage-walkout-to-protest-larry-ellisons-fundraiser-for-trump-2020-02-20"
+        "https://medium.com/@techwontdrillit/tech-wont-drill-it-a63594dc6e66"
     ],
     "actions": [
-        "strike",
-        "protest"
+        "open letter"
     ],
     "struggles": [
-        "ethics",
-        "discrimination"
+        "ethics"
     ],
     "employment_types": [
-        "white collar workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "People left their desks at Oracle offices around the world to protest Chairman Larry Ellison\u2019s fundraiser a day earlier for President Donald Trump. The protest, called No Ethics/No Work, involved about 300 employees walking out of their offices or stopping work at remote locations at noon local time and devoting the rest of the day to volunteering or civic engagement.",
+    "description": "AI researchers and engineers from around the world signed an online open letter calling for the tech industry to refrain from using AI technologies to 'exacerbate the climate crisis'. The letter, authored by Tech Won't Drill It, has been signed by over 100 AI researchers.",
     "online": true,
-    "locations": [
-        "usa"
-    ],
-    "companies": [
-        "oracle"
-    ],
-    "workers": 300,
+    "locations": null,
+    "companies": null,
+    "workers": 141,
     "tags": [
-        "trump",
-        "lgbtq",
-        "ableism"
+        "academics",
+        "students",
+        "climate_change",
+        "ai"
     ],
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
-    "latlngs": [
-        [
-            32.6099702,
-            -110.7651843
-        ]
-    ],
-    "addresses": [
-        "Oracle, Pinal County, Arizona, 85623, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

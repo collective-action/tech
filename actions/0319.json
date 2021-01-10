@@ -1,31 +1,29 @@
 {
-    "id": 326,
-    "date": "2020/09/08",
+    "id": 319,
+    "date": "2020/08/26",
     "sources": [
-        "https://www.vice.com/en/article/g5p9nb/employees-of-social-change-nonprofit-stage-walkout-to-protest-racial-abuse"
+        "https://rabble.ca/news/2020/08/former-foodora-workers-receive-closure-346-million-settlement"
     ],
     "actions": [
-        "protest",
-        "strike",
-        "open letter"
+        "legal action"
     ],
     "struggles": [
-        "discrimination"
+        "unfair labor practices"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "24 employees of tech non-profit Do Something walked off the job, calling for the resignation of current CEO Aria Finger. They have also sent two direct letters to the CEO and Board of Directors that have been shared on Twitter. Former employees shared experiences of racial discrimination and harassment via social media earlier this year. The letter states that Finger reacted to these posts by calling them untrue or \"standard-issued American forms of microaggression and racism\". Finger returned in August after a legal investigation did not find evidence of discrimination under her tenure. ",
-    "online": true,
-    "locations": null,
+    "description": "Foodora workers in Canada received a $3.5 million settlement after suing their employer for union busting. Foodora chose to leave Canada in April 2020 after the Ontario Labor Board voted to recognize the couriers as company employees. The Canadian Union of Postal Workers sued on behalf of the workers and declared that the settlement would be distributed between all Canadian Foodora employees.",
+    "online": null,
+    "locations": [
+        "canada"
+    ],
     "companies": [
-        "do something"
+        "foodora"
     ],
-    "workers": 24,
+    "workers": 2000,
     "tags": [
-        "antiracism",
-        "blm"
+        "delivery_workers"
     ],
     "author": [
         "nataliyaned"

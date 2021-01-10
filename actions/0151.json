@@ -1,33 +1,41 @@
 {
-    "id": 147,
-    "date": "2019/06/15",
+    "id": 143,
+    "date": "2019/06/06",
     "sources": [
-        "https://www.wweek.com/news/2019/06/13/portland-postmates-workers-to-join-national-protest-of-pay-cut-by-only-accepting-surge-price-deliveries/",
-        "https://payup.wtf/blitzup",
-        "https://katu.com/news/local/postmates-workers-demand-raise-by-using-a-blitz-up"
+        "https://slate.com/technology/2019/08/stanford-tech-students-backlash-google-facebook-palantir.html"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
-        "pay and benefits"
+        "ethics"
     ],
     "employment_types": [
-        "gig workers"
+        "na"
     ],
-    "description": "Thousands' of Postmates employees activated a Blitz Up app on June 15. The app prevented them from taking any delivery jobs without a 'Blitz bonus' of 1.5x the typical rate. The action was taken to protest pay cuts that went into effect May 2019. Blitz Up was created by the Pay Up Campaign, a group of Instacart workers that organized to protest pay cuts in January 2019. ",
+    "description": "Students for the Liberation of All People (SLAP), a student organization at Stanford, places a banner across the street from Palantir's entrance reading \u201cOUR SOFTWARE IS SO POWERFUL IT SEPARATES FAMILIES.\u201d in protest of the company's involvement with U.S. Immigration and Customs Enforcement. ",
     "online": null,
     "locations": [
-        "portland-oregon-usa"
+        "palo alto-california-usa"
     ],
     "companies": [
-        "postmates"
+        "palantir"
     ],
-    "workers": 1000,
-    "tags": null,
+    "workers": 24,
+    "tags": [
+        "students",
+        "immigration"
+    ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.4440869,
+            -122.16287540411753
+        ]
+    ],
+    "addresses": [
+        "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States"
+    ]
 }

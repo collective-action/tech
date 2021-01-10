@@ -1,42 +1,46 @@
 {
-    "id": 8,
-    "date": "2000/11/16",
+    "id": 379,
+    "date": "1999/05/04",
     "sources": [
-        "https://money.cnn.com/2000/11/16/technology/amazon_union/"
+        "https://www.latimes.com/archives/la-xpm-1999-sep-18-fi-11579-story.html",
+        "https://www.nytimes.com/1999/05/04/business/ibm-to-change-pension-benefits.html",
+        "https://knowledge.wharton.upenn.edu/article/behind-the-pension-tension-at-ibm/",
+        "https://www.wsj.com/articles/SB937779366171684213"
     ],
     "actions": [
-        "union drive"
+        "protest",
+        "resources"
     ],
     "struggles": [
         "pay and benefits",
-        "working conditions"
+        "discrimination"
     ],
     "employment_types": [
-        "inhouse workers"
+        "in-house workers",
+        "white collar workers"
     ],
-    "description": "In one of the first reported unionization attempts at a 'dot com company', an affiliate of the Communication Workers of America known as the Washington Alliance of Technology Workers (WashTech) sought to unionize a group of 400 customer service employees at Amazon. Amazon closed the call center before the campaign could proceed further due to financial pressures following the dot-com bubble in the early 2000s. Amazon has disputed unionization by arguing that the employees are owners of the company since they are given stock options.",
-    "online": null,
+    "description": "Seeking to attract younger workers, IBM announced plans in May 1999 to switch from traditional pension plans to a cash balance model for all American employees. Older employees with longer tenures at the company, who would lose 30-40% of their pension checks as a result of the switch, protested this change with rallies, emails to the company, a new online website, and lobbying policymakers in DC. Employees also accused IBM of age discrimination. In September 1999, IBM backtracked on its pension policy change.",
+    "online": true,
     "locations": [
-        "seattle-washington-usa"
+        "usa"
     ],
     "companies": [
-        "amazon"
+        "ibm"
     ],
-    "workers": 400,
+    "workers": null,
     "tags": [
-        "washtech",
-        "cwa"
+        "online_action"
     ],
     "author": [
-        "nataliyaned"
+        "CM"
     ],
     "latlngs": [
         [
-            47.6142939,
-            -122.3239636
+            44.05795005,
+            -92.50701462052399
         ]
     ],
     "addresses": [
-        "Amazon Go Grocery, 610, East Pike Street, First Hill, Seattle, King County, Washington, 98122, United States"
+        "IBM, Rochester, Olmsted County, Minnesota, United States"
     ]
 }

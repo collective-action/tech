@@ -1,35 +1,32 @@
 {
-    "id": 180,
-    "date": "2019/09/12",
+    "id": 176,
+    "date": "2019/09/04",
     "sources": [
-        "https://www.law360.com/employment/articles/1255452/uber-lyft-drivers-fail-to-win-employee-status-via-injunction"
+        "http://www.nordiclabourjournal.org/nyheter/news-2019/article.2019-09-09.4705108683",
+        "https://www.itfglobal.org/en/news/riders-setup-soup-kitchen-in-oslo-in-fight-decent-work"
     ],
     "actions": [
-        "legal action"
+        "strike",
+        "union drive"
     ],
     "struggles": [
-        "pay and benefits",
-        "unfair labor practices"
+        "pay and benefits"
     ],
     "employment_types": [
-        "contract workers",
         "gig workers"
     ],
-    "description": "Uber drivers filed an injunction to classify workers as employees and to compensate them for overtime pay, paid sick leave and reimbursement for business expenses. On September 17, Lyft drivers filed a similar injunction. Update: New motions have been added to the injunction in March 2020 in light of the coronavirus outbreak. On March 20, 2020, a Massachusetts federal judge ruled that the companies would not be required to classify their drivers as employees.",
+    "description": "In Oslo, hundreds of striking riders are cycling around to gather support for their demand for a collective agreement. The striking riders are organised in what used to be the Norwegian Transport Workers' Union, which is now part of Fellesforbundet. The strike has already had consequences for Foodora. The employees demand higher salaries and compensation for expenses incurred using their own private bikes at work. The striking riders cycle around Oslo every day in what they call Critical Mass, something that demonstrates the strike is ongoing and that it is growing day by day. The strike lasted 5 weeks.",
     "online": null,
     "locations": [
-        "massachusetts-usa"
+        "oslo-norway"
     ],
     "companies": [
-        "uber",
-        "lyft"
+        "foodera"
     ],
-    "workers": 2,
-    "tags": [
-        "coronavirus"
-    ],
+    "workers": 140,
+    "tags": null,
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
     "latlngs": null,
     "addresses": null

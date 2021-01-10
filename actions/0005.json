@@ -1,11 +1,12 @@
 {
-    "id": 2,
-    "date": "1986/09/16",
+    "id": 1,
+    "date": "1979/09/01",
     "sources": [
-        "https://www.nytimes.com/1986/09/16/science/software-seen-as-obstacle-in-developing-star-wars.html"
+        "https://twitter.com/clancynewyork/status/1175872040814993408?s=19",
+        "http://www-cs-students.stanford.edu/~cale/cs201/apartheid.comp.html"
     ],
     "actions": [
-        "open letter"
+        "protest"
     ],
     "struggles": [
         "ethics"
@@ -14,26 +15,21 @@
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "Fourteen employees at AT&T sign a letter warning the U.S. military of over 10,000 possible errors in the Star Wars system.",
+    "description": "IBM workers formed an organization, IBM: Speak Up!, to protest the company's involvement with apartheid South Africa. The company created the computer system that upheld the country's passbook system. The company officially divested from South Africa in 1987.",
     "online": null,
     "locations": [
-        "usa"
+        "worldwide"
     ],
     "companies": [
-        "at&t"
+        "ibm"
     ],
-    "workers": 14,
-    "tags": null,
+    "workers": null,
+    "tags": [
+        "international_solidarity"
+    ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            33.80967965,
-            -117.83605415
-        ]
-    ],
-    "addresses": [
-        "AT&T, 1302, North Tustin Street, Orange, Orange County, California, 92867, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

@@ -1,0 +1,66 @@
+{
+    "id": 378,
+    "date": "2021/01/04",
+    "sources": [
+        "https://www.nytimes.com/2021/01/04/technology/google-employees-union.html",
+        "https://alphabetworkersunion.org/",
+        "https://collectiveaction.tech/2021/the-abcs-of-googles-new-union/",
+        "https://twitter.com/AlphabetWorkers/status/1346612197305114624"
+    ],
+    "actions": [
+        "union representation"
+    ],
+    "struggles": [
+        "working conditions",
+        "job security",
+        "discrimination",
+        "unfair labor practices",
+        "ethics"
+    ],
+    "employment_types": [
+        "white collar workers",
+        "contract workers",
+        "inhouse workers"
+    ],
+    "description": "Over 500 Google employees in the U.S. and Canada revealed that they had formed a solidarity union. The Alphabet Workers Union includes contractors, who make up over half of the company's workforce, and is affiliated with the Communications Workers of America. According to the union website, the goal of the AWU is \"to create a democratic process for workers to wield decision-making power; promote social, economic, and environmental justice; and end the unfair disparities between TVCs (temporary, vendor, and contractor workers) and FTEs (full-time employees)\". The union has been over a year in the making and organizers credit the foundation laid by the last decade of collective actions at the company. Updated to 530 members (1/6/21)",
+    "online": null,
+    "locations": [
+        "usa",
+        "canada"
+    ],
+    "companies": [
+        "alphabet",
+        "google"
+    ],
+    "workers": 530,
+    "tags": [
+        "coworker solidarity"
+    ],
+    "author": [
+        "nataliyaned"
+    ],
+    "latlngs": [
+        [
+            37.3398646,
+            -121.8844823
+        ],
+        [
+            42.3627717,
+            -71.087257
+        ],
+        [
+            49.0312631,
+            -69.6858339
+        ],
+        [
+            43.454190600000004,
+            -80.4995755859922
+        ]
+    ],
+    "addresses": [
+        "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112-3580, United States",
+        "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States",
+        "Ruisseau Alphabet, Lac-au-Brochet, La Haute-C\u00f4te-Nord, C\u00f4te-Nord, Qu\u00e9bec, Canada",
+        "Google Waterloo, 51, Breithaupt Street, Downtown, Kitchener, Region of Waterloo, Southwestern Ontario, Ontario, N2H 3X8, Canada"
+    ]
+}

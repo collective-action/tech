@@ -1,42 +1,31 @@
 {
-    "id": 55,
-    "date": "2016/03/31",
+    "id": 51,
+    "date": "2015/08/20",
     "sources": [
-        "https://www.bizjournals.com/sanjose/news/2016/03/31/seiu-janitors-san-jose-rally-targets-adobe.html"
+        "https://www.huffingtonpost.ca/2015/08/20/netflix-under-pressure-to-expand-1-year-parental-leave-to-lower-paid-workers-in-dvd-division_n_8018070.html"
     ],
     "actions": [
-        "strike"
+        "open letter"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "pay and benefits"
     ],
     "employment_types": [
-        "blue collar workers",
-        "contract workers"
+        "na"
     ],
-    "description": "Service Employees International Union-United Service Workers West janitors' San Jose rally targets Adobe. Hundreds of SEIU-USWW members congregated on Cesar Chavez Day to draw attention to ongoing contract negotiations with cleaning service contractors and protest abuse of workers in the janitorial industry.",
-    "online": null,
-    "locations": [
-        "san jose-california-usa"
-    ],
+    "description": "Three online petitions were started to protest parental leave policies at Netflix. The company recently began to offer a one-year paid parental leave but excluded employees in its DVD-by-mail service, who are typically lower paid than streaming employees and receive fewer benefits.",
+    "online": true,
+    "locations": null,
     "companies": [
-        "adobe"
+        "netflix"
     ],
-    "workers": 100,
+    "workers": null,
     "tags": [
-        "seiu"
+        "coworker_solidarity"
     ],
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
-    "latlngs": [
-        [
-            37.33196605,
-            -121.8954904847011
-        ]
-    ],
-    "addresses": [
-        "Adobe, 333, Little Italy, San Jose, Santa Clara County, California, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

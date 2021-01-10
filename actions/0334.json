@@ -1,44 +1,34 @@
 {
-    "id": 344,
-    "date": "2020/10/17",
+    "id": 340,
+    "date": "2020/10/10",
     "sources": [
-        "https://techcrunch.com/2020/09/29/shipt-shoppers-are-organizing-a-walkout-in-protest-of-new-pay-model/\nhttps://news.trust.org/item/20201016131049-xq8h3\nhttps://thehill.com/policy/technology/521290-shipt-workers-organize-most-targeted-protest-yet-over-new-pay-model"
+        "https://www.vice.com/amp/en_us/article/z3ejzx/facebook-workers-sign-petition-demanding-hazard-pay-for-content-moderators-who-have-to-go-back-to-the-office"
     ],
     "actions": [
-        "strike",
-        "protest"
+        "open letter"
     ],
     "struggles": [
-        "pay and benefits"
+        "unfair labor practices"
     ],
     "employment_types": [
-        "blue collar workers",
-        "contract workers",
-        "gig workers"
+        "contract workers"
     ],
-    "description": "Shipt shoppers are organizing a handful of actions in protest of Shipt\u2019s new pay structure that began rolling out this month.  The first action is happening from Saturday, Oct. 17 through Oct. 19, when workers are calling on their fellow Shipt shoppers to walk out and boycott the company. Organizers are asking for shoppers not to schedule any hours or accept any orders during that time.",
-    "online": null,
-    "locations": [
-        "usa"
-    ],
+    "description": "At least 290 Facebook employees and contractors signed a petition demanding a 50% wage increase as hazard pay for site moderators who have been forced to return to the office by October 12th of this year. Additional demands include compensation for all costs related to COVID-19 testing and treatment, as well as additional time off and an expedited time off review process. Accenture, which hired the moderators as contractors, informed them on October 1st that they would have to return to their office in Austin, Texas. A Facebook spokesperson said the reason for the return was that \"some of the most sensitive content can\u2019t be reviewed from home\". Full-time, directly hired Facebook employees don't have to return to the office until July 2021. ",
+    "online": true,
+    "locations": null,
     "companies": [
-        "target",
-        "shipt"
+        "accenture",
+        "facebook"
     ],
-    "workers": null,
+    "workers": 290,
     "tags": [
-        "delivery_workers"
+        "coronavirus",
+        "moderators",
+        "coworker_solidarity"
     ],
     "author": [
-        "anonymous"
+        "nataliyaned"
     ],
-    "latlngs": [
-        [
-            38.594073550000005,
-            -90.54739094340695
-        ]
-    ],
-    "addresses": [
-        "Target, 15025, Ballwin, Saint Louis County, Missouri, 63011, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

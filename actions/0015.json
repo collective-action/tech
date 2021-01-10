@@ -1,41 +1,39 @@
 {
-    "id": 12,
-    "date": "2006/03/09",
+    "id": 9,
+    "date": "2000/11/23",
     "sources": [
-        "http://old.seattletimes.com/html/businesstechnology/2002853223_washtech09.html"
+        "https://www.nytimes.com/2000/11/23/business/technology-unions-pushing-to-organize-thousands-of-amazoncom-workers.html?rref=collection%2ftimestopic%2fcommunications%20workers%20of%20america"
     ],
     "actions": [
         "union drive"
     ],
     "struggles": [
-        "pay and benefits"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
-        "white collar workers"
+        "blue collar workers"
     ],
-    "description": "After anonymously receiving several pages of confidential compensation guidelines, the Washington Alliance of Technology Workers has relaunched an effort the unionize employees at Microsoft. The leaked guidelines showed that wages at the company barely rose in the last two years, which the union hopes will be a rallying cry for workers. In 2003, the company stopped giving employees stock options, opting for stock instead.",
+    "description": "The United Food and Commercial Workers Union is attempting to organize roughly 5,000 workers at eight Amazon distribution centers across the U.S. The New York Times reports that 'low-key' unionization efforts have been going on in the company for the last two years.",
     "online": null,
     "locations": [
-        "seattle-washington-usa"
+        "usa"
     ],
     "companies": [
-        "microsoft"
+        "amazon"
     ],
-    "workers": null,
-    "tags": [
-        "washtech",
-        "cwa"
-    ],
+    "workers": 5000,
+    "tags": null,
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            47.5388725,
-            -122.2901728
+            47.6142939,
+            -122.3239636
         ]
     ],
     "addresses": [
-        "Microsoft Gathering Hall, 7054, 32nd Avenue South, Holly Park, Rainier Valley, Seattle, King County, Washington, 98118, United States"
+        "Amazon Go Grocery, 610, East Pike Street, First Hill, Seattle, King County, Washington, 98122, United States"
     ]
 }

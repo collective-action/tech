@@ -1,47 +1,49 @@
 {
-    "id": 208,
-    "date": "2019/11/13",
+    "id": 205,
+    "date": "2019/11/06",
     "sources": [
-        "https://www.vice.com/en_us/article/evjwwp/as-githubs-conference-begins-five-employees-resign-over-protest-ice-contract"
+        "https://www.sfchronicle.com/business/article/drivers-protest-as-uber-stock-lockup-period-14815390.php"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
-        "ethics"
+        "pay and benefits",
+        "job security"
     ],
     "employment_types": [
-        "white collar workers"
+        "gig workers"
     ],
-    "description": "Before Github\u2019s CEO Nat Friedman delivered his keynote address at Github Universe, an annual Github-hosted conference, dozens of tech workers and immigrant rights activists protested outside with a replica of the cages ICE uses to detain migrant families and children. \u201cThe demonstration [is in response to] GitHub's contract with ICE and is intended to show support for the GitHub workers who are organizing internally to get the contract cancelled,\u201d said a representative of Tech Workers Coalition, the group organizing the protest. Just before the annual conference, 5 Githubbers left the company, citing Github's involvement with ICE. ",
+    "description": "Uber and Lyft employees protested outside the homes of three company investors to highlight the inequality between them and their workforce in a campaign called 'Deactivate Uber Billionaires'. The San Francisco Chronicle reports that protests occured at 'the San Francisco office of GV, the venture capital arm of Google parent Alphabet that was an early Uber investor; the Atherton mansion of Bill Gurley, an Uber board member and venture capitalist; and the Beverly Hills home of Uber co-founder Garrett Camp'. The protests coincide with the end of Uber's stock lockup period six months after their IPO.",
     "online": null,
     "locations": [
-        "san francisco-california-usa"
+        "san francisco-california-usa",
+        "los angeles-california-usa",
+        "atherton-california-usa"
     ],
     "companies": [
-        "github",
-        "microsoft"
+        "uber",
+        "lyft"
     ],
-    "workers": 24,
+    "workers": 42,
     "tags": [
-        "immigration",
-        "ice"
+        "drivers"
     ],
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            37.7821769,
-            -122.3912458
+            37.7899898,
+            -122.3999799
         ],
         [
-            37.41096725,
-            -122.07138737347663
+            37.7759881,
+            -122.3919991
         ]
     ],
     "addresses": [
-        "GitHub, 88, Colin P. Kelly Junior Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States",
-        "Microsoft Silicon Valley, Mountain View, Santa Clara County, California, United States"
+        "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States",
+        "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States"
     ]
 }

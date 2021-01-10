@@ -1,29 +1,29 @@
 {
-    "id": 303,
-    "date": "2020/07/20",
+    "id": 346,
+    "date": "2020/06/26",
     "sources": [
-        "https://www.vice.com/en_us/article/m7jpgy/open-source-community-changing-github-avatars-drop-ice"
+        "https://www.cbc.ca/news/canada/toronto/uber-drivers-union-ufcw-toronto-1.5190766"
     ],
     "actions": [
-        "protest"
+        "union representation"
     ],
     "struggles": [
-        "ethics"
+        "working conditions"
     ],
     "employment_types": [
-        "open source community"
+        "gig workers"
     ],
-    "description": "Github users have launched a campaign to pressure the company to drop its contracts with ICE. Users have changed their profile pictures to the company's mascot, Octocat, with a message reading \"Drop ICE\". ",
-    "online": true,
-    "locations": null,
+    "description": "Approximately 300 Uber Black drivers in the Toronto area voted to unionize with the United Food and Commercial Workers (UFCW). ",
+    "online": null,
+    "locations": [
+        "toronto-canada"
+    ],
     "companies": [
-        "github",
-        "microsoft"
+        "uber"
     ],
-    "workers": null,
+    "workers": 300,
     "tags": [
-        "ice",
-        "immigration"
+        "drivers"
     ],
     "author": [
         "nataliyaned"

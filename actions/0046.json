@@ -1,43 +1,47 @@
 {
-    "id": 43,
-    "date": "2014/11/19",
+    "id": 40,
+    "date": "2014/09/01",
     "sources": [
-        "https://bits.blogs.nytimes.com/2014/11/19/facebooks-bus-drivers-vote-to-unionize"
+        "https://www.bloomberg.com/news/articles/2015-04-30/microsoft-contract-workers-are-organizing"
     ],
     "actions": [
         "union representation"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "unfair labor practices",
+        "job security"
     ],
     "employment_types": [
         "contract workers"
     ],
-    "description": "The shuttle bus drivers who ferry Facebook employees to and from work voted on Wednesday to unionize, 43 to 28. The drivers, who are employees of Loop Transportation, a contractor for Facebook, voted to join Teamsters Local 853, with several of them saying their main concerns were inadequate pay and a stressful split shift schedule.",
+    "description": "A group of temporary workers at Microsoft has signed its first union contract with their employer, a rare feat in a technology industry typically unfriendly to organized labor. 38 bug testers who review Microsoft apps voted to create a union, the Temporary Workers of America. They work full time in Microsoft's offices but are employed by cloud services contractor LionBridge.",
     "online": null,
     "locations": [
-        "menlo park-california-usa"
+        "usa"
     ],
     "companies": [
-        "facebook",
-        "loop transportation"
+        "microsoft",
+        "lionbridge"
     ],
-    "workers": null,
+    "workers": 38,
     "tags": [
-        "teamster",
-        "drivers"
+        "temporary_workers_of_america"
     ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            37.484668049999996,
-            -122.1483654685629
+            35.139622349999996,
+            -80.92306993327955
+        ],
+        [
+            47.578722799999994,
+            -122.17154487755995
         ]
     ],
     "addresses": [
-        "Facebook, Bayfront Expressway, Menlo Park, San Mateo County, California, 94025-1246, United States"
+        "Microsoft, Ayrsley, Charlotte, Mecklenburg County, North Carolina, United States",
+        "Lionbridge, 3525, Factoria Boulevard Southeast, Factoria, Bellevue, King County, Washington, 98006, United States"
     ]
 }

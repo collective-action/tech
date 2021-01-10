@@ -1,9 +1,9 @@
 {
-    "id": 211,
-    "date": "2019/11/22",
+    "id": 297,
+    "date": "2019/11/12",
     "sources": [
-        "https://techcrunch.com/2019/11/21/google-employees-will-rally-in-protest-of-alleged-worker-retaliation/",
-        "https://www.vox.com/recode/2019/11/22/20978537/google-workers-suspension-employee-activists-protest"
+        "https://www.vice.com/en_ca/article/d3aqkz/a-fired-kickstarter-organizer-is-trying-to-unionize-tech-workers-using-kickstarter",
+        "https://www.kickstarter.com/projects/clarissaredwine/solidarity-onboarding?ref=user_menu"
     ],
     "actions": [
         "protest"
@@ -14,28 +14,47 @@
     "employment_types": [
         "white collar workers"
     ],
-    "description": "A group of roughly 200 Googler and other protesters rallied outside of the search giant\u2019s offices in San Francisco on Friday, demanding the company reinstate two colleagues who they say were unjustly punished for workplace organizing at the company \u2014 calling it an attack on accountability and transparency in tech. Google has said the employees were placed on administrative leave for violating company policies about accessing sensitive internal documents and monitoring employees\u2019 calendar events. They accuse management of targeting Rebecca Rivers and Laurence Berland, because of their involvement in worker activism at the company. Rivers helped put together a petition against Google\u2019s work for US immigration enforcement agency Customs and Border Patrol (CBP), and Berland was involved with employee protests about hate speech policies on YouTube. Protesters are demanding that Rivers and Berland be reinstated at work immediately. Organizers called their suspension an \u201cattempt to silence workers,\u201d in an email about the rally.",
-    "online": null,
+    "description": "Tech activists, artists, and creators who helped organize Google, Facebook, WeWork, Kickstarter, and more annotated an assemblage of common anti-union statements.  The zine's organizer-driven content is an inoculation tool for tech workers that exposes them to union busting rhetoric and arms them with pro union rebuttals. ",
+    "online": true,
     "locations": [
-        "san francisco-california-usa"
+        "san francisco-california-usa",
+        "brooklyn-new york city-new york-usa"
     ],
     "companies": [
-        "google"
+        "kickstarter",
+        "google",
+        "wework",
+        "facebook"
     ],
-    "workers": 200,
+    "workers": 10,
     "tags": [
-        "coworker_solidarity"
+        "industry_solidarity"
     ],
     "author": [
-        "organizejs"
+        "clarissa"
     ],
     "latlngs": [
         [
             37.41897865,
             -122.08237793989416
+        ],
+        [
+            37.778011,
+            -122.4121644
+        ],
+        [
+            37.484668049999996,
+            -122.1483654685629
+        ],
+        [
+            40.7007485,
+            -73.9725542
         ]
     ],
     "addresses": [
-        "Google, Mountain View, Santa Clara County, California, United States"
+        "Google, Mountain View, Santa Clara County, California, United States",
+        "WeWork, 1161, Mission Street, West SoMa, San Francisco, San Francisco City and County, California, 94103, United States",
+        "Facebook, Bayfront Expressway, Menlo Park, San Mateo County, California, 94025-1246, United States",
+        "WeWork, Market Street, Brooklyn Navy Yard, Brooklyn, Kings County, New York, 11251, United States"
     ]
 }

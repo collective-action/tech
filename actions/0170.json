@@ -1,40 +1,46 @@
 {
-    "id": 166,
-    "date": "2019/07/26",
+    "id": 162,
+    "date": "2019/07/19",
     "sources": [
-        "https://www.technologyreview.com/s/614055/youtube-union-ig-metall-labor-gdpr-privacy-policy-creators/",
-        "https://www.fairtube.info/en/"
+        "https://techcrunch.com/2019/07/18/uber-and-lyft-drivers-demand-better-pay-workplace-protections-and-driver-led-unions/",
+        "https://sanfrancisco.cbslocal.com/2019/07/19/uber-lyft-drivers-hq-protest-working-conditions/"
     ],
     "actions": [
-        "union representation"
+        "protest"
     ],
     "struggles": [
-        "pay and benefits"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
         "gig workers"
     ],
-    "description": "YouTubers Union joined with German trade union, IG Metall, to launch the FairTube campaign. The campaign is calling for greater transparency into YouTube's monetization policy, individual responses to queries about videos that have been taken down by the site, creation of an independent mediation board, and formal representation from content creators in the company's decision-making process. In addition, FairTube has argued that YouTube's data collection policy for uploaded videos violates the GDPR. Leadership has given YouTube until Aug. 23rd to respond, threatening legal action if they fail to do so. YouTubers Union is designed to serve as a union for YouTube content creators and has over 20,000 Facebook members as of August 9th, 2019 but it is not clear how many are actively involved in the campaign. It does not require dues from its members.",
-    "online": true,
+    "description": "As Assembly Bill 5 makes its way through the California state legislature, Uber and Lyft drivers are voicing their demands for better pay, basic workplace protections and the right to organize through unions. Drivers chanted and cheered outside the Uber headquarters building in San Francisco as they delivered a letter demanding negotiations for better working conditions.",
+    "online": null,
     "locations": [
-        "germany"
+        "san francisco-california-usa"
     ],
     "companies": [
-        "youtube",
-        "google"
+        "uber",
+        "lyft"
     ],
     "workers": null,
     "tags": null,
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
     "latlngs": [
         [
-            48.1386201,
-            11.5776179
+            37.7899898,
+            -122.3999799
+        ],
+        [
+            37.7759881,
+            -122.3919991
         ]
     ],
     "addresses": [
-        "Google, Hofgraben, Bezirksteil Graggenau, Altstadt-Lehel, M\u00fcnchen, Bayern, 80331, Deutschland"
+        "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States",
+        "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States"
     ]
 }

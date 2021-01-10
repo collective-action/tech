@@ -1,37 +1,33 @@
 {
-    "id": 261,
-    "date": "2020/05/01",
+    "id": 257,
+    "date": "2020/04/21",
     "sources": [
-        "https://www.washingtonpost.com/technology/2020/05/01/amazon-instacart-workers-strike/",
-        "https://www.wired.com/story/amazon-instacart-target-coronavirus-may-day-strike/"
+        "https://www.vice.com/amp/en_us/article/jge77g/hundreds-of-amazon-workers-are-not-going-to-work-in-nationwide-protest",
+        "https://thehill.com/policy/technology/493772-hundreds-of-amazon-workers-to-walk-off-starting-tuesday",
+        "https://nypost.com/2020/04/21/300-amazon-employees-refuse-to-work-amid-coronavirus-safety-worries/",
+        "https://www.wired.com/story/amazon-sick-out-tech-warehouse-workers-protest/"
     ],
     "actions": [
-        "protest",
         "strike"
     ],
     "struggles": [
         "working conditions"
     ],
     "employment_types": [
-        "inhouse workers",
         "blue collar workers",
-        "gig workers"
+        "inhouse workers"
     ],
-    "description": "Workers at Amazon, Whole Foods, Instacart, Target, and Shipt walked off the job on May 1st (International Workers' Day) to call for better working conditions under the covid-19 pandemic. The Washington Post reports that \"a small crowd\" outside of an Amazon Staten Island warehouse was made up of Amazon workers and also healthcare professionals who appeared out of solidarity with their cause. The scale of the action is difficult to measure, given its broad geography. Walkouts and protests were reported in Atlanta, New York, and the Bay Area.",
+    "description": "Over 300 Amazon workers across the country signed a pledge to call out of work to protest the company's reaction to the coronavirus pandemic. Participants claim the company continues to fall short in providing personal protective equipment and are calling for a more flexible paid leave policy that would allow them to take care of sick family members.",
     "online": null,
     "locations": [
         "usa"
     ],
     "companies": [
-        "amazon",
-        "instacart",
-        "target",
-        "shipt"
+        "amazon"
     ],
-    "workers": 1000,
+    "workers": 301,
     "tags": [
-        "coronavirus",
-        "delivery_workers"
+        "coronavirus"
     ],
     "author": [
         "nataliyaned"
@@ -40,14 +36,9 @@
         [
             47.6142939,
             -122.3239636
-        ],
-        [
-            38.594073550000005,
-            -90.54739094340695
         ]
     ],
     "addresses": [
-        "Amazon Go Grocery, 610, East Pike Street, First Hill, Seattle, King County, Washington, 98122, United States",
-        "Target, 15025, Ballwin, Saint Louis County, Missouri, 63011, United States"
+        "Amazon Go Grocery, 610, East Pike Street, First Hill, Seattle, King County, Washington, 98122, United States"
     ]
 }

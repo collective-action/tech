@@ -1,36 +1,44 @@
 {
-    "id": 329,
-    "date": "2020/09/16",
+    "id": 316,
+    "date": "2020/08/31",
     "sources": [
-        "https://www.deccanchronicle.com/amp/nation/current-affairs/160920/swiggy-workers-go-on-strike-in-hyderabad-demand-revised-charges.html",
-        "https://www.newsclick.in/swiggy-employees-strike"
+        "https://onezero.medium.com/leaked-salary-spreadsheet-reveals-microsoft-employee-earnings-for-a-second-year-d1466132d309"
     ],
     "actions": [
-        "strike"
+        "protest",
+        "resources"
     ],
     "struggles": [
-        "pay and benefits"
+        "pay and benefits",
+        "discrimination"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Workers for delivery company Swiggy went on strike in a number of Indian cities including Hyderabad, Chennai, and Delhi to call for greater pay. They rallied outside of restaurants and prevented third-party companies from picking up orders.",
-    "online": null,
+    "description": "More than 300 Microsoft employees shared salary and pay bonus data in spreadsheet. A similar action took place last year. This year's survey asked whether employees identified as people of color or experienced discrimination because of their gender identity. Notably, 194 of 310 participants identified as people of color and 69 had experienced discrimination on the basis of gender identity.",
+    "online": true,
     "locations": [
-        "hyderabad-india",
-        "chennai-india",
-        "delhi-india"
+        "usa"
     ],
     "companies": [
-        "swiggy"
+        "microsoft"
     ],
-    "workers": 3000,
+    "workers": 310,
     "tags": [
-        "delivery_workers"
+        "antiracism",
+        "salary sharing"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            35.139622349999996,
+            -80.92306993327955
+        ]
+    ],
+    "addresses": [
+        "Microsoft, Ayrsley, Charlotte, Mecklenburg County, North Carolina, United States"
+    ]
 }

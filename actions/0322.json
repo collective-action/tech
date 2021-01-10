@@ -1,45 +1,42 @@
 {
-    "id": 332,
-    "date": "2020/09/21",
+    "id": 328,
+    "date": "2020/08/31",
     "sources": [
-        "https://www.cnbc.com/2020/10/01/google-contractors-allege-ndas-violate-free-speech-laws.html",
-        "https://www.courts.ca.gov/opinions/documents/A157097.PDF"
+        "https://guardian.ng/news/uber-bolt-drivers-begin-one-week-strike-in-lagos/",
+        "https://guardian.ng/news/e-hailing-drivers-reject-reviewed-lagos-ride-hailing-regulation/"
     ],
     "actions": [
-        "legal action"
+        "strike"
     ],
     "struggles": [
-        "unfair labor practices"
+        "pay and benefits"
     ],
     "employment_types": [
-        "contract workers"
+        "gig workers"
     ],
-    "description": "A number of contractors for Google (employed through staffing firm Adecco) have filed a lawsuit alleging that confidentiality agreements with the company deprive them of basic legal rights, such as free speech. Contractors are prevented from discussing wages or working conditions, which they claim prohibit them from \u201cdisclosing violations of state and federal law, either within Google to their managers or outside Google to private attorneys or government officials\u201d. The Sept. 21st filing with a California appeals court reverses a lower court decision, allowing the lawsuit to proceed. ",
+    "description": "Rideshare drivers in Lagos, Nigeria went on a one-week strike to protest new state regulations that added a fixed service tax to all trips. The agreement was reached between the companies, the Lagos state government, and the Professional E-hailing Drivers and Private Owners Association but did not include the National Union of Professional App-Based Workers, which union representatives claim was sidelined during negotiations due to its initial rejection of the proposal.  ",
     "online": null,
     "locations": [
-        "san francisco-california-usa"
+        "lagos-nigeria"
     ],
     "companies": [
-        "google",
-        "adecco"
+        "uber",
+        "bolt"
     ],
     "workers": null,
-    "tags": null,
+    "tags": [
+        "drivers"
+    ],
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            37.41897865,
-            -122.08237793989416
-        ],
-        [
-            40.572519,
-            -122.3505599
+            6.45269435,
+            3.4498998
         ]
     ],
     "addresses": [
-        "Google, Mountain View, Santa Clara County, California, United States",
-        "Adecco, 1080, East Cypress Avenue, Redding, Shasta County, California, 96002, United States"
+        "Uber Nigeria HQ, 2, Onikoyi Road, Ikoyi, Lagos, Eti Osa, 20050, Nigeria"
     ]
 }

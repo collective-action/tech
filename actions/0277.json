@@ -1,8 +1,9 @@
 {
-    "id": 262,
-    "date": "2020/05/05",
+    "id": 259,
+    "date": "2020/04/26",
     "sources": [
-        "https://supchina.com/2020/05/05/internet-writers-protest-what-they-call-unfair-contracts-with-tencent-company/"
+        "https://www.vice.com/en_us/article/n7jaaq/amazon-reinstates-fired-warehouse-worker-after-employees-strike",
+        "https://twitter.com/AwoodMpls/status/1254449858343251970?s=19"
     ],
     "actions": [
         "strike"
@@ -11,34 +12,31 @@
         "pay and benefits"
     ],
     "employment_types": [
-        "gig workers"
+        "blue collar workers",
+        "inhouse workers"
     ],
-    "description": "Hundreds of thousands of writers signed to China Literature (subsidiary of Tencent), the country's biggest online publisher, went on an online strike, protesting against exploitative contracts and the company's regular infringement of their intellectual property rights. The strike's organizers were demonstrating against proposed changes to China Literature\u2019s business model and contracts with its writers. Writers stopped publishing new content on the website on the day of the strike. This change would negatively affect writers' income, which primarily comes from subscription fees and tips from their readers. 'Financially speaking, we were already drowning in quicksand before the rumors. Now they are trying to give us a death blow' a China Literature writer",
+    "description": "Amazon employees went on strike after the company allegedly fired a worker who chose to stay at home with her two children during the pandemic. Workers also protested the company's announcement that it would phase out their new paid-leave policy on May 1st. The company announced that two more employees had tested positive for the virus the night before the protest. Reporting from Vice and a tweet from a local community center suggest that this also served as impetus for the strike. Organizers claimed that more than 50 employees were involved in the strike, while management claimed it was 25.",
     "online": null,
     "locations": [
-        "china"
+        "shakopee-minnesota-usa"
     ],
     "companies": [
-        "chinese literature",
-        "tencent"
+        "amazon"
     ],
-    "workers": 100001,
-    "tags": null,
+    "workers": 51,
+    "tags": [
+        "coronavirus"
+    ],
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            23.09733995,
-            113.29374279344763
-        ],
-        [
-            22.52586985,
-            113.93041229445548
+            44.78839255,
+            -93.44285005008032
         ]
     ],
     "addresses": [
-        "\u4e2d\u6587\u5802, 274, \u9038\u4ed9\u8def, \u65b0\u6e2f\u8857\u9053, \u6d77\u73e0\u533a, \u5e7f\u5dde\u5e02, \u5e7f\u4e1c\u7701, 510275, \u4e2d\u56fd",
-        "\u817e\u8baf\u6ee8\u6d77\u5927\u53a6, 33\u53f7, \u7ca4\u6d77\u8857\u9053, \u5357\u5c71\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518054, \u4e2d\u56fd"
+        "Amazon Sortation Center MSP5, 5825, 11th Avenue East, Shakopee, Scott County, Minnesota, 55379, United States"
     ]
 }

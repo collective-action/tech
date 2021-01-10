@@ -1,12 +1,11 @@
 {
-    "id": 171,
-    "date": "2019/08/14",
+    "id": 167,
+    "date": "2019/08/07",
     "sources": [
-        "https://medium.com/@no.gcp.for.cbp/google-must-stand-against-human-rights-abuses-nogcpforcbp-88c60e1fc35e",
-        "https://www.vox.com/2019/8/14/20805562/human-rights-concerns-google-employees-petition-cbp-ice"
+        "https://www.indybay.org/newsitems/2019/08/07/18825265.php"
     ],
     "actions": [
-        "open letter"
+        "protest"
     ],
     "struggles": [
         "ethics"
@@ -14,26 +13,22 @@
     "employment_types": [
         "white collar workers"
     ],
-    "description": "Google employees are demanding an end to the company\u2019s work with agencies like CBP and ICE. Employees are circulating a petition asking the company not to bid on contracts with government agencies that enforce controversial immigration policies such as child detention.",
-    "online": true,
+    "description": "Dozens of WalMart tech workers rallied in San Bruno to protest gun violence and continued sale of weapons by WalMart which is the largest distributor of guns in the United States. They also had a moment of silence for the victims and families murdered and injured in the violent racist attacks. There are over 1,000 workers at the largest tech center of WalMart in the world. This was the first collective action of WalMart tech workers in the United States. They were also joined by a delegation of Youtube workers in solidarity. Youtube workers have also faced violent attacks at their work location in San Bruno.",
+    "online": null,
     "locations": [
-        "usa"
+        "san bruno-california-usa"
     ],
     "companies": [
-        "google"
+        "walmart"
     ],
-    "workers": 600,
-    "tags": null,
+    "workers": 24,
+    "tags": [
+        "industry_solidarity",
+        "gun_violence"
+    ],
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            42.3627717,
-            -71.087257
-        ]
-    ],
-    "addresses": [
-        "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

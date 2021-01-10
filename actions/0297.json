@@ -1,41 +1,35 @@
 {
-    "id": 353,
-    "date": "2020/06/26",
+    "id": 279,
+    "date": "2020/06/22",
     "sources": [
-        "https://www.politico.com/news/2020/06/26/supreme-court-canada-uber-lawsuit-341644"
+        "https://www.theverge.com/2020/6/22/21299736/google-employees-cut-ties-police-law-enforcement-black-lives-matter",
+        "https://gizmodo.com/1-600-googlers-call-for-an-end-to-all-contracts-with-c-1844124793?rev=1592864623516",
+        "https://www.businessinsider.com/googlers-send-letter-ceo-sundar-pichai-stop-working-with-police-2020-6"
     ],
     "actions": [
-        "legal action"
+        "open letter"
     ],
     "struggles": [
-        "pay and benefits",
-        "unfair labor practices"
+        "ethics"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "The Supreme Court of Canada allowed a C$400 million lawsuit against Uber by its drivers to proceed. The lawsuit alleges that drivers are, in fact, company employees.",
-    "online": null,
-    "locations": [
-        "canada"
-    ],
+    "description": "Over 1, 650 Google employees have signed an open letter to CEO Sundar Pichai demanding the company stop selling its technology to police forces across the US. \u201cThe past weeks have shown us that addressing racism is not merely an issue of words, but of actions taken to dismantle the actual structures that perpetuate it, \u201d the letter, written by the employee group Googlers Against Racism, reads. \u201cWhile we as individuals hold difficult but necessary conversations with our family, friends and peers, we are also incredibly disappointed by our company\u2019s response.\u201d",
+    "online": true,
+    "locations": null,
     "companies": [
-        "uber"
+        "google"
     ],
-    "workers": null,
+    "workers": 1650,
     "tags": [
-        "drivers"
+        "blm",
+        "antiracism"
     ],
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
-    "latlngs": [
-        [
-            42.9833851,
-            -81.2513098
-        ]
-    ],
-    "addresses": [
-        "Uber, Dundas Street, London, Southwestern Ontario, Ontario, N6A 1G2, Canada"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

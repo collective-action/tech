@@ -1,41 +1,45 @@
 {
-    "id": 143,
-    "date": "2019/06/06",
+    "id": 139,
+    "date": "2019/05/09",
     "sources": [
-        "https://slate.com/technology/2019/08/stanford-tech-students-backlash-google-facebook-palantir.html"
+        "https://clb.org.hk/content/senior-staff-oracle%e2%80%99s-beijing-research-centre-protest-layoffs",
+        "https://technode.com/2019/05/10/oracle-programmers-100000-recruitment/",
+        "https://www.ft.com/content/16ffdcec-749d-11e9-bbad-7c18c0ea0201"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
-        "ethics"
+        "pay and benefits",
+        "job security"
     ],
     "employment_types": [
-        "na"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Students for the Liberation of All People (SLAP), a student organization at Stanford, places a banner across the street from Palantir's entrance reading \u201cOUR SOFTWARE IS SO POWERFUL IT SEPARATES FAMILIES.\u201d in protest of the company's involvement with U.S. Immigration and Customs Enforcement. ",
+    "description": "Staff at US-owned tech giant Oracle's China Development Centre in Beijing have staged protests after the company fired 900 staff from its China team, making up 60 per cent of its research and development effort there. Employees blamed tensions between the US and China for the cuts which came in the same week as the US announced additional tariffs on Chinese goods. An employee referred to the Oracle co-founder's interview with Fox Business last October, in which Larry Ellison said that 'we [the US] have a serious competition going with China, I\u2019m on Team USA', and 'if we let China produce more engineers than we do, if we let China's technology companies beat our technology companies, it won't be long that our military is behind technologically also'.",
     "online": null,
     "locations": [
-        "palo alto-california-usa"
+        "beijing-china"
     ],
     "companies": [
-        "palantir"
+        "oracle"
     ],
     "workers": 24,
     "tags": [
-        "students",
-        "immigration"
+        "trade_wars",
+        "trump"
     ],
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
     "latlngs": [
         [
-            37.4440869,
-            -122.16287540411753
+            40.046504,
+            116.28356116115287
         ]
     ],
     "addresses": [
-        "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States"
+        "\u7532\u9aa8\u6587\u5927\u53a6, \u8f6f\u4ef6\u56ed\u4e09\u53f7\u8def, \u4e2d\u5173\u6751\u8f6f\u4ef6\u56ed, \u4e1c\u5317\u65fa\u6751, \u6d77\u6dc0\u533a, \u5317\u4eac\u5e02, 100093, \u4e2d\u56fd"
     ]
 }

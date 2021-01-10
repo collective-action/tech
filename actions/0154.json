@@ -1,42 +1,31 @@
 {
-    "id": 150,
-    "date": "2019/06/26",
+    "id": 146,
+    "date": "2019/06/13",
     "sources": [
-        "https://www.bloomberg.com/news/articles/2019-06-26/google-workers-petition-sf-pride-to-exclude-company-from-parade",
-        "https://medium.com/@bangooglefrompride/an-open-petition-to-the-san-francisco-pride-board-of-directors-f8164486c2e4"
+        "https://www.japantimes.co.jp/news/2019/06/13/business/corporate-business/uber-eats-labor-union/#.xqpg-ohkgzm"
     ],
     "actions": [
-        "open letter"
+        "union drive"
     ],
     "struggles": [
-        "discrimination"
+        "working conditions"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "About 100 Google employees urged the organizer of this weekend's San Francisco Pride parade to kick the company out of the celebration, escalating pressure on the internet giant to overhaul its handling of hate speech online. The employees wrote a letter to the board of directors of San Francisco Pride, asking that Google be dropped as a sponsor of the parade as well as excluded from having a presence at the event.",
+    "description": "Food delivery staff working in Japan for ride-hailing company Uber Technologies Inc. said Wednesday they plan to form a labor union in a bid to improve what they see as disadvantageous treatment for being classified as independent contractors rather than employees.",
     "online": null,
     "locations": [
-        "san francisco-california-usa"
+        "tokyo-japan"
     ],
     "companies": [
-        "google"
+        "uber"
     ],
-    "workers": 100,
-    "tags": [
-        "lgbtq"
-    ],
+    "workers": 50,
+    "tags": null,
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            37.41897865,
-            -122.08237793989416
-        ]
-    ],
-    "addresses": [
-        "Google, Mountain View, Santa Clara County, California, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

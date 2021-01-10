@@ -1,45 +1,44 @@
 {
-    "id": 376,
-    "date": "2020/07/21",
+    "id": 306,
+    "date": "2020/07/15",
     "sources": [
-        "https://www.igmetall-berlin.de/aktuelles/meldung/das-war-goldrichtig-warum-software-ingenieure-das-leben-mit-tarifvertrag-und-ig-metall-schoener-f/"
+        "https://www.vice.com/en_us/article/v7gzd8/targets-gig-workers-will-strike-to-protest-switch-to-algorithmic-pay-model",
+        "https://www.marketwatch.com/story/target-owned-shipt-workers-strike-over-new-algorithm-based-compensation-that-they-say-will-lower-their-pay-11594842478",
+        "https://medium.com/@shiptshopper/shipt-walkoff-july-15th-dab1ee2c2571"
     ],
     "actions": [
-        "union representation"
+        "protest",
+        "strike"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers"
+        "gig workers"
     ],
-    "description": "In 2019 employees of Bosch.io (subsidary of Bosch) formed a Works Council (Betriebsrat). In 2020 they formed their first Collective Bargaining Agreement, and Bosch.IO will join employer association. The CBA (Tarifvertrag) including provisions related to short time work (Kurzarbeit), home office usage during the coronavirus pandemic. An interview with several elected Works Councilors is included in German. ",
+    "description": "Shipt workers went on strike across the U.S. to protest the company's move to a new, less transparent algorithmic pay model that reduces their wages by 25-50%, according to reports. Workers also called for consumers to boycott the service. Shipt has more than 100,000 workers in the U.S. and is used by companies such as Target. Willy Solis, from the Gig Workers Collective, was the lead organizer for the event and used social media groups and word-of-mouth (encouraging each committed worker to recruit five additional participants) to drive the strike.",
     "online": null,
     "locations": [
-        "germany"
+        "usa"
     ],
     "companies": [
-        "bosch",
-        "bosch.io"
+        "target",
+        "shipt"
     ],
-    "workers": 700,
-    "tags": null,
+    "workers": null,
+    "tags": [
+        "delivery_workers"
+    ],
     "author": [
-        "@shushugah"
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            49.078094500000006,
-            9.304616994654571
-        ],
-        [
-            47.68201895,
-            9.3864579
+            38.594073550000005,
+            -90.54739094340695
         ]
     ],
     "addresses": [
-        "Bosch, Hohbuch, Happenbach, Abstatt, Verwaltungsverband Schozach-Bottwartal, Landkreis Heilbronn, Baden-W\u00fcrttemberg, 74232, Deutschland",
-        "Bosch.IO, 7, Ziegelei, Alte Ziegelei / Steigwiesen, Immenstaad am Bodensee, Verwaltungsgemeinschaft Friedrichshafen, Bodenseekreis, Baden-W\u00fcrttemberg, 88090, Deutschland"
+        "Target, 15025, Ballwin, Saint Louis County, Missouri, 63011, United States"
     ]
 }

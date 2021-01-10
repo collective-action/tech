@@ -1,41 +1,64 @@
 {
-    "id": 109,
-    "date": "2018/12/06",
+    "id": 105,
+    "date": "2018/11/23",
     "sources": [
-        "https://www.reuters.com/article/legal-us-otc-uber/forced-into-arbitration-12500-drivers-claim-uber-wont-pay-fees-to-launch-cases-iduskbn1o52c6",
-        "https://boingboing.net/2018/12/09/justice-denied.html",
-        "https://gizmodo.com/ubers-arbitration-policy-comes-back-to-bite-it-in-the-a-1830892372"
+        "https://mashable.com/article/amazon-workers-black-friday-strike-europe-uk/#7mizh6l4giqk",
+        "https://www.uniglobalunion.org/news/amazon-workers-launch-wave-black-friday-strikes-and-protests",
+        "https://www.businessinsider.com/black-friday-amazon-workers-protest-poor-working-conditions-2018-11"
     ],
     "actions": [
-        "protest"
+        "strike"
     ],
     "struggles": [
-        "pay and benefits",
         "working conditions"
     ],
     "employment_types": [
-        "gig workers"
+        "blue collar workers"
     ],
-    "description": "For Uber drivers, the only way to go after the company for alleged state and federal employment law violations was to file an independent arbitration claim. Amazingly, thousands of Uber drivers did just that. 12,501 Uber drivers took the company at its word and filed arbitration claims in California. Under the terms of the contract that Uber crammed down these drivers' throats, it must now pay $1,500 per driver to JAMS, the arbitration service it uses -- a total of $18.7m.",
+    "description": "Thousands of Amazon staff members across Europe protest on Black Friday over the way the companies treats its warehouse workers. As shoppers in the U.S.A. log in to Amazon to find Black Friday deals, Amazon workers in the UK, Spain, France, Italy, and Germany are striking to protest working conditions in the company\u2019s warehouses.",
     "online": null,
     "locations": [
-        "california-usa"
+        "germany",
+        "france",
+        "italy",
+        "spain",
+        "uk"
     ],
     "companies": [
-        "uber"
+        "amazon"
     ],
-    "workers": 12500,
+    "workers": 2400,
     "tags": null,
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            37.7899898,
-            -122.3999799
+            51.653494949999995,
+            7.59464606445661
+        ],
+        [
+            49.0632423,
+            6.131329990388637
+        ],
+        [
+            45.0777055,
+            9.454322716507177
+        ],
+        [
+            41.6274834,
+            -1.0203988345038435
+        ],
+        [
+            53.9603742,
+            -1.0712337
         ]
     ],
     "addresses": [
-        "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States"
+        "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
+        "Amazon, Augny, Metz, Moselle, Grand Est, France m\u00e9tropolitaine, 57685, France",
+        "Amazon, Cascina Colombarone, Castel San Giovanni, Piacenza, Emilia-Romagna, Italia",
+        "Amazon, Zaragoza, Arag\u00f3n, Espa\u00f1a",
+        "Amazon, Foss Islands Road, Foss Islands Retail Park, Layerthorpe, York, Yorkshire and the Humber, England, YO31 7UR, United Kingdom"
     ]
 }

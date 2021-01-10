@@ -1,46 +1,50 @@
 {
-    "id": 214,
-    "date": "2019/11/29",
+    "id": 210,
+    "date": "2019/11/20",
     "sources": [
-        "https://metro.co.uk/2019/11/29/amazon-hit-by-black-friday-srikes-and-protests-across-europe-11238471/",
-        "https://www.bbc.com/news/uk-england-50603875"
+        "https://www.vox.com/recode/2019/12/31/21043467/google-union-cafeteria-workers-unionized-alphabet-silicon-valley-mountainview",
+        "https://www.cnbctv18.com/politics/over-2000-underpaid-overworked-google-workers-unionised-4974661.htm"
     ],
     "actions": [
-        "protest"
+        "union representation",
+        "union drive"
     ],
     "struggles": [
-        "working conditions"
+        "pay and benefits"
     ],
     "employment_types": [
+        "contract workers",
         "blue collar workers"
     ],
-    "description": "Amazon was targeted by a UK-wide protest organised to coincide with Black Friday and Cyber Monday demanding an end to \u2018appalling\u2019 working conditions. Trade union GMB co-ordinated the British demonstrations to take place across two of the busiest shopping days of the year. 'Workers are breaking bones, being knocked unconscious and being taken away in ambulances,' GMB national officer Mick Rix said in a statement. Labour leader Jeremy Corbyn visited protesters outside an Amazon depot in Sheffield. The union cited figures suggesting there had been more than 600 ambulance call-outs to Amazon warehouses over a three-year period and just as many serious incidents reported to the Health and Safety Executive for various injuries.",
+    "description": "Approximately 2,300 contract workers employed in food service at Google have voted to unionize under a local chapter of Unite Here. Workers expressed dissatisfaction with their low wages, which start at $35,000 in the Bay Area, and lack of benefits compared to full-time Google employees. Some reported incidents of discrimination and bullying. The workers are officially employed by Compass Group, a third party contractor. The vote followed a two year effort.",
     "online": null,
     "locations": [
-        "sheffield-uk",
-        "rugeley-uk",
-        "peterborough-uk"
+        "mountain view-california-usa",
+        "san francisco-california-usa"
     ],
     "companies": [
-        "amazon"
+        "google",
+        "compass_group"
     ],
-    "workers": 12,
-    "tags": null,
+    "workers": 2300,
+    "tags": [
+        "unite_here"
+    ],
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            52.75329925,
-            -1.9215828894833442
+            37.41897865,
+            -122.08237793989416
         ],
         [
-            52.542566050000005,
-            -0.2383390628291427
+            37.41897865,
+            -122.08237793989416
         ]
     ],
     "addresses": [
-        "Amazon.co.uk, Towers Business Park, Brereton and Ravenhill, Brereton, Cannock Chase, Staffordshire, West Midlands, England, WS15 1LX, United Kingdom",
-        "Amazon, Unit 1, Flaxley Road, Stanground, Peterborough, City of Peterborough, East of England, England, PE2 9EN, United Kingdom"
+        "Google, Mountain View, Santa Clara County, California, United States",
+        "Google, Mountain View, Santa Clara County, California, United States"
     ]
 }

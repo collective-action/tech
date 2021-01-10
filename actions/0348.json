@@ -1,9 +1,9 @@
 {
-    "id": 366,
-    "date": "2020/12/17",
+    "id": 365,
+    "date": "2020/12/03",
     "sources": [
-        "https://www.npr.org/2020/12/17/947413170/google-ai-team-demands-ousted-black-researcher-be-rehired-and-promoted",
-        "https://www.cnbc.com/2020/12/17/googles-ai-ethics-team-makes-demands-of-executives-to-rebuild-trust.html"
+        "https://www.theguardian.com/technology/2020/dec/07/timnit-gebru-google-firing-resignation-ai-research",
+        "https://googlewalkout.medium.com/standing-with-dr-timnit-gebru-isupporttimnit-believeblackwomen-6dadc300d382"
     ],
     "actions": [
         "open letter"
@@ -16,19 +16,20 @@
         "white collar workers",
         "in-house workers"
     ],
-    "description": "Two weeks after Dr Timnit Gebru was fired from her role in Google, Google\u2019s Ethical AI employees sent CEO Sundar Pichai a list of demands, including organizational changes and a request to reinstate dismissed researcher Timnit Gebru at a higher level.",
+    "description": "After Dr. Timnit Gebru was fired from Google, Googlers wrote an open letter demanding accountability from Google. 2695 Googlers and 4302 academic, industry, and civil society supporters signed on to the letter.",
     "online": true,
     "locations": null,
     "companies": [
         "google"
     ],
-    "workers": null,
+    "workers": 2695,
     "tags": [
-        "coworker solidarity",
-        "antiracism",
-        "ai",
         "sexism",
-        "retaliation"
+        "antiracism",
+        "industry solidarity",
+        "retaliation",
+        "ai",
+        "academics"
     ],
     "author": [
         "organizejs"

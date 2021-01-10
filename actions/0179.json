@@ -1,47 +1,36 @@
 {
-    "id": 174,
-    "date": "2019/08/22",
+    "id": 170,
+    "date": "2019/08/13",
     "sources": [
-        "https://www.vice.com/en_us/article/a35g8k/hundreds-of-uber-drivers-will-caravan-600-miles-across-california-to-demand-better-working-conditions",
-        "https://techcrunch.com/2019/08/22/hundreds-of-uber-and-lyft-drivers-to-launch-a-protest-caravan-across-california/"
+        "https://www.theverge.com/2019/8/14/20805968/caviar-employees-doordash-square-acquisition-mistreatment-renegotiate-offers"
     ],
     "actions": [
-        "protest"
+        "open letter"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "ethics"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers"
     ],
-    "description": "Gig Workers Rising and Mobile Workers Alliance have organized a protest caravan of rideshare workers to advocate for AB5, a bill in the California State Legislature that would require rideshare companies to recognize their drivers as employees. The caravan plans to drive roughly 600 miles, from Southern California to San Francisco to Sacramento, as part of their action.",
+    "description": "After the El Paso and Gilroy shootings, A collective of prominent tech leaders that calls itself Build Tech We Trust signed a letter demanding that the tech industry stop the spread of hate and terrorism on digital platforms. 'We are a collective of tech CEOs, activists, changemakers, and workers who believe the time to act to counter the hate and terrorism is now,' stated the letter, which was signed by over 20 notable figures in the tech industry, including Ellen Pao, ReadySet CEO Y-Vonne Hutchinson, and Code2040 CEO Karla Monterroso.",
     "online": null,
     "locations": [
-        "sacramento-california-usa",
-        "san francisco-california-usa"
+        "usa"
     ],
-    "companies": [
-        "uber",
-        "lyft"
-    ],
-    "workers": 200,
+    "companies": null,
+    "workers": null,
     "tags": null,
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
     "latlngs": [
         [
-            37.7899898,
-            -122.3999799
-        ],
-        [
-            37.7759881,
-            -122.3919991
+            39.7837304,
+            -100.4458825
         ]
     ],
     "addresses": [
-        "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States",
-        "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States"
+        "United States"
     ]
 }

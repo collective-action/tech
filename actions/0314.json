@@ -1,36 +1,46 @@
 {
-    "id": 317,
-    "date": "2020/08/22",
+    "id": 309,
+    "date": "2020/08/13",
     "sources": [
-        "https://mp.weixin.qq.com/s/bvbmlUIPatMX4xzDvwU8FQ"
+        "https://www.cnbc.com/2020/08/13/german-digital-bank-n26-faces-outcry-from-staff-over-management.html",
+        "https://www.finextra.com/newsarticle/36392/n26-faces-off-with-employees-over-works-council",
+        "https://www.fintechfutures.com/2020/08/n26-founders-obtain-injunction-against-works-council/",
+        "https://twitter.com/worker291/status/1293830980172689410"
     ],
     "actions": [
-        "protest",
+        "union representation",
         "open letter",
-        "strike"
+        "union drive"
     ],
     "struggles": [
-        "pay and benefits"
+        "working conditions",
+        "pay and benefits",
+        "unfair labor practices"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers",
+        "contract workers"
     ],
-    "description": "Didi rideshare workers have started holding strikes in a number of Chinese cities including Suzhou, Nanjing, Nantong, and Zunyi City to protest high commission fees on the platform. Drivers in Zunyi City also issued a letter with 5 demands to their local government and transportation department. ",
+    "description": "After workers of N26 (digital bank) announced their intent to form a Works Council (Betriebsrat), management responded by issuing a legal injunction, banning 6 of the workers from partaking in formation of electoral committee. They forgot to include the service union Ver.di, so on August 13th, Ver.di chaired a meeting for N26 Operations GmbH, and workers voted for the first electoral committee.",
     "online": null,
     "locations": [
-        "suzhou-china",
-        "nanjing-china",
-        "nantong-china",
-        "zunyi-china"
+        "berlin-germany"
     ],
     "companies": [
-        "didi"
+        "N26"
     ],
-    "workers": null,
+    "workers": 20,
     "tags": null,
     "author": [
-        "nataliyaned"
+        "Worker26"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            52.5170365,
+            13.3888599
+        ]
+    ],
+    "addresses": [
+        "Berlin, 10117, Deutschland"
+    ]
 }

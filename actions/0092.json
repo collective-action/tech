@@ -1,9 +1,10 @@
 {
-    "id": 89,
-    "date": "2018/06/19",
+    "id": 85,
+    "date": "2018/05/30",
     "sources": [
-        "https://www.nytimes.com/2018/06/19/technology/tech-companies-immigration-border.html",
-        "https://www.theverge.com/2018/6/21/17488328/microsoft-ice-employees-signatures-protest"
+        "https://jacobinmag.com/2018/06/google-project-maven-military-tech-workers",
+        "https://www.nytimes.com/2018/05/30/technology/google-project-maven-pentagon.html",
+        "https://www.coworker.org/petition/tech-should-not-be-in-the-business-of-war"
     ],
     "actions": [
         "open letter"
@@ -15,28 +16,28 @@
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "In an open letter posted to Microsoft's internal message board on Tuesday, hundreds of employees protested Microsoft's work with Immigration and Customs Enforcement and demanding that the companies stop working with the agency.",
+    "description": "Google employees have led a campaign demanding that the companies terminate its contract with the Pentagon for Project Maven, a program that uses machine learning to improve targeting for drone strikes. Nearly five thousand Google workers signed an internal petition to cancel the project, and dozens resigned.",
     "online": true,
     "locations": [
         "usa"
     ],
     "companies": [
-        "microsoft"
+        "google"
     ],
-    "workers": 300,
+    "workers": 5000,
     "tags": [
-        "ice"
+        "military_contracts"
     ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            35.139622349999996,
-            -80.92306993327955
+            42.3627717,
+            -71.087257
         ]
     ],
     "addresses": [
-        "Microsoft, Ayrsley, Charlotte, Mecklenburg County, North Carolina, United States"
+        "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States"
     ]
 }

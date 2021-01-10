@@ -1,46 +1,42 @@
 {
-    "id": 71,
-    "date": "2017/08/23",
+    "id": 67,
+    "date": "2017/02/04",
     "sources": [
-        "https://www.wired.com/story/amazons-turker-crowd-has-had-enough/",
-        "https://medium.com/@socialcontractcr/daemos-crowd-has-had-enough-5b62c1fceb30"
+        "https://www.businessinsider.com/facebook-employees-protes-trumps-immigration-ban-by-boycotting-flying-2017-2"
     ],
     "actions": [
-        "open letter"
+        "protest"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "ethics"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Mechanical Turk workers and organizers collaborated with researchers at Stanford\u2019s Crowd Research Collective to create Daemo, a crowd-sourced platform that provides a higher-paying alternative to Amazon's Mechanical Turk. Some Mechnical Turk workers involved with the project later came out in opposition to the original WIRED article in their own Medium article. They argued that WIRED incorrectly identified Daemo as a project originating at Stanford, as opposed to from the workers themselves and called for changes to Daemo's governing board.",
-    "online": true,
+    "description": "A 'handful' of Facebook employees have vowed not to fly for 90 days following Pres. Trump's immigration ban. The company has said it is not affiliated with this protest.",
+    "online": null,
     "locations": [
         "usa"
     ],
     "companies": [
-        "amazon",
-        "daemo"
+        "facebook"
     ],
-    "workers": 550,
-    "tags": null,
+    "workers": 3,
+    "tags": [
+        "immigration",
+        "trump"
+    ],
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            47.6142939,
-            -122.3239636
-        ],
-        [
-            27.048664,
-            -82.060911
+            30.2691649,
+            -97.7455041
         ]
     ],
     "addresses": [
-        "Amazon Go Grocery, 610, East Pike Street, First Hill, Seattle, King County, Washington, 98122, United States",
-        "Damo Street, North Port, Sarasota County, Florida, United States"
+        "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
     ]
 }

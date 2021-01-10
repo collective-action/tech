@@ -1,32 +1,29 @@
 {
-    "id": 31,
-    "date": "2013/11/19",
+    "id": 28,
+    "date": "2013/07/04",
     "sources": [
-        "https://www.windowscentral.com/nokia-employees-dongguan-factory-china-strike"
+        "https://uk.reuters.com/article/us-usa-security-internet-protest/internet-sites-join-july-4-protest-against-surveillance-idukbre9630o620130704"
     ],
     "actions": [
-        "strike"
+        "protest"
     ],
     "struggles": [
-        "pay and benefits",
-        "job security"
+        "ethics"
     ],
     "employment_types": [
-        "blue collar workers"
+        "na"
     ],
-    "description": "Hundreds of workers at a Chinese Nokia factory located in Dongguan, Guangdong Province have on strike. They're holding up a large banner in protest, which reads 'Workers are not simple merchandise, assets or slaves. Please do not sell us. We have DIGNITY and RIGHTS!",
-    "online": null,
-    "locations": [
-        "dongguan-china"
-    ],
+    "description": "Reddit and Mozilla, among others, posted prominent messages protesting NSA surveillance practices unveiled by whistleblower Edward Snowden. The protest was organized by the Internet Defense League, an organization of more than 30,000 websites that fights for Web freedom.",
+    "online": true,
+    "locations": null,
     "companies": [
-        "microsoft",
-        "nokia"
+        "reddit",
+        "mozilla"
     ],
-    "workers": 100,
+    "workers": null,
     "tags": null,
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
     "latlngs": null,
     "addresses": null

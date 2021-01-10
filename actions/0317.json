@@ -1,44 +1,35 @@
 {
-    "id": 316,
-    "date": "2020/08/31",
+    "id": 320,
+    "date": "2020/08/19",
     "sources": [
-        "https://onezero.medium.com/leaked-salary-spreadsheet-reveals-microsoft-employee-earnings-for-a-second-year-d1466132d309"
+        "https://leftfootforward.org/2020/08/give-us-better-pay-and-conditions-say-sheffield-deliveroo-drivers/"
     ],
     "actions": [
         "protest",
-        "resources"
+        "strike"
     ],
     "struggles": [
         "pay and benefits",
-        "discrimination"
+        "working conditions"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "More than 300 Microsoft employees shared salary and pay bonus data in spreadsheet. A similar action took place last year. This year's survey asked whether employees identified as people of color or experienced discrimination because of their gender identity. Notably, 194 of 310 participants identified as people of color and 69 had experienced discrimination on the basis of gender identity.",
-    "online": true,
+    "description": "Deliveroo workers in Sheffield, England kicked off two weeks of strike actions to demand higher pay and better working conditions, including the right to appeal terminations. The actions are designed to target companies, e.g. certain restaurants, that workers believe to be part of the exploitation. An outright strike was deemed too expensive by the workers, many of whom report working 60-70 hours a week to make ends meet. Actions will also include flyering and a demonstration.",
+    "online": null,
     "locations": [
-        "usa"
+        "sheffield-uk"
     ],
     "companies": [
-        "microsoft"
+        "deliveroo"
     ],
-    "workers": 310,
+    "workers": null,
     "tags": [
-        "antiracism",
-        "salary sharing"
+        "delivery_workers"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            35.139622349999996,
-            -80.92306993327955
-        ]
-    ],
-    "addresses": [
-        "Microsoft, Ayrsley, Charlotte, Mecklenburg County, North Carolina, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

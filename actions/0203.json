@@ -1,42 +1,43 @@
 {
-    "id": 198,
-    "date": "2019/10/04",
+    "id": 194,
+    "date": "2019/10/02",
     "sources": [
-        "https://www.bloomberg.com/news/articles/2019-10-10/microsoft-employees-call-to-end-github-ice-contract",
-        "https://www.businessinsider.com/microsoft-github-ice-contracts-solidarity-2019-10"
+        "http://thetartan.org/2019/10/7/news/palantir-protest"
     ],
     "actions": [
-        "open letter"
+        "protest"
     ],
     "struggles": [
         "ethics"
     ],
     "employment_types": [
-        "white collar workers"
+        "na"
     ],
-    "description": "Microsoft employees are circulating a letter supporting an effort to get its GitHub subsidiary to cancel a contract with the U.S. Immigration and Customs Enforcement agency, the latest effort among tech-company staff to influence corporate policy on government work. The letter reflects concerns that Microsoft\u2019s sales to the agency implicate the software maker in the government\u2019s detention of immigrants. ",
-    "online": true,
+    "description": "A coalition of students protested Palantir & other ICE-friendly recruitment on the Carnegie Mellon University campus. They disrupted a Palantir recruitment event, held 500 in-person conversations with passing colleagues, & collected 150 promises from fellow students to not work or engage with Palantir.",
+    "online": null,
     "locations": [
-        "usa"
+        "pittsburgh-pennsylvania-usa"
     ],
     "companies": [
-        "microsoft"
+        "carnegie mellon university",
+        "palantir"
     ],
-    "workers": 200,
+    "workers": 30,
     "tags": [
-        "ice",
-        "industry_solidarity"
+        "students",
+        "mijente",
+        "academics"
     ],
     "author": [
-        "organizejs"
+        "moates"
     ],
     "latlngs": [
         [
-            35.139622349999996,
-            -80.92306993327955
+            40.4441619,
+            -79.942728259225
         ]
     ],
     "addresses": [
-        "Microsoft, Ayrsley, Charlotte, Mecklenburg County, North Carolina, United States"
+        "Carnegie Mellon University, Warwick Terrace, Squirrel Hill North, Pittsburgh, Allegheny County, Pennsylvania, 15213, United States"
     ]
 }

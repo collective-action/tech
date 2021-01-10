@@ -1,33 +1,38 @@
 {
-    "id": 226,
-    "date": "2020/02/03",
+    "id": 223,
+    "date": "2019/12/23",
     "sources": [
-        "https://www.vice.com/en_ca/article/qjdvgm/instacart-workers-win-historic-union-election"
+        "https://www.vox.com/recode/2019/12/10/21005098/amazon-warehouse-workers-sacramento"
     ],
     "actions": [
-        "union representation"
+        "strike"
     ],
     "struggles": [
-        "pay and benefits",
         "working conditions"
     ],
     "employment_types": [
-        "blue collar workers",
-        "gig workers"
+        "blue collar workers"
     ],
-    "description": "A group of Instacart employees in the Chicago suburb Skokie voted to unionize with the United Food and Commercial Workers Local 1546\u2014a historic win for the grocery delivery platform. The vote was 10-to-4 in favor of the union, according to workers. 'The overwhelming majority of the employees made history by becoming the first Instacart employees to win a certified union election in the United States,' UFCW Local 1546 wrote in a press statement.",
+    "description": "More than 30 Amazon workers at a Sacramento warehouse walked off the job, demanding they receive paid time off. 36 workers \u2014 out of around 100 in total on the shift\u2014 left work two hours early after they read a letter to management out loud stating their demands to be granted paid time off (PTO) and meet with management to discuss their concerns, according to a worker at the site. These workers \u2014 who say they lift hundreds of packages a day in \u201cback-breaking\u201d labor \u2014currently receive zero PTO days a year. The walkout comes weeks after workers say management has ignored their requests to meet with leaders of a group organizing around the issue. So far, workers have circulated an internal and public petition gaining over 4,000 signatures in total.",
     "online": null,
     "locations": [
-        "chicago-illinois-usa"
+        "sacramento-california-usa"
     ],
     "companies": [
-        "instacart"
+        "amazon"
     ],
-    "workers": 10,
+    "workers": 36,
     "tags": null,
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            38.6767343,
+            -121.4948028
+        ]
+    ],
+    "addresses": [
+        "Amazon Avenue, Sacramento, Sacramento County, California, 95835, United States"
+    ]
 }

@@ -1,9 +1,8 @@
 {
-    "id": 4,
-    "date": "1994/01/24",
+    "id": 3,
+    "date": "1986/09/16",
     "sources": [
-        "https://www.nytimes.com/1994/06/12/magazine/battle-of-the-clipper-chip.html",
-        "http://cpsr.org/prevsite/program/clipper/clipper.html/"
+        "https://www.nytimes.com/1986/09/16/science/software-seen-as-obstacle-in-developing-star-wars.html"
     ],
     "actions": [
         "open letter"
@@ -14,15 +13,24 @@
     "employment_types": [
         "white collar workers"
     ],
-    "description": "Computer Professionals for Social Responsibility (CPSR) launches an online petition in opposition to the Clipper Chip, a cryptographic device intended to provide a standard for securing private voice communication. The group expresses concern about the possibility of surveillance through decryption keys held by government agencies. The petition obtains over 50,000 signatures. An earlier physical letter, sent directly to the President, received 40 signatures from cryptography and computing experts.",
-    "online": true,
-    "locations": null,
+    "description": "A group of computer professionals, led by Computer Professionals for Social Responsibility (CPSR), signs a petition arguing that Pres. Reagan's Star Wars system is not feasible given current technology. Such a system would be prone to major errors, they argued, and would be irresponsible to implement.",
+    "online": null,
+    "locations": [
+        "usa"
+    ],
     "companies": null,
-    "workers": 50000,
+    "workers": 30,
     "tags": null,
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            39.7837304,
+            -100.4458825
+        ]
+    ],
+    "addresses": [
+        "United States"
+    ]
 }

@@ -1,31 +1,34 @@
 {
-    "id": 107,
-    "date": "2018/11/27",
+    "id": 103,
+    "date": "2018/11/01",
     "sources": [
-        "https://medium.com/@googlersagainstdragonfly/we-are-google-employees-google-must-drop-dragonfly-4c8a30c5e5eb",
-        "https://slate.com/technology/2018/11/google-employees-sign-petition-to-end-project-dragonfly.html"
+        "https://www.nytimes.com/2018/11/01/technology/google-walkout-sexual-harassment.html",
+        "https://www.recode.net/2018/11/21/18105719/google-walkout-real-change-organizers-protest-discrimination-kara-swisher-recode-decode-podcast"
     ],
     "actions": [
-        "open letter"
+        "strike"
     ],
     "struggles": [
-        "ethics"
+        "discrimination"
     ],
     "employment_types": [
         "white collar workers",
+        "contract workers",
         "inhouse workers"
     ],
-    "description": "Google employees have signed an open letter published Tuesday on Medium demanding that the companies cease work on Project Dragonfly, which is aimed at creating a search engine that the Chinese government would be able to control to censor certain results and surveil users. 'International human rights organizations and investigative reporters have also sounded the alarm, emphasizing serious human rights concerns and repeatedly calling on Google to cancel the project,' the letter reads in part. 'So far, our leadership's response has been unsatisfactory.",
-    "online": true,
+    "description": "Google employees and contractors walked out of the companies's offices around the world, one week after the New York Times reported that Google had protected three executives accused of sexual misconduct.",
+    "online": null,
     "locations": [
         "usa",
-        "china"
+        "worldwide"
     ],
     "companies": [
         "google"
     ],
-    "workers": 740,
-    "tags": null,
+    "workers": 20000,
+    "tags": [
+        "sexism"
+    ],
     "author": [
         "organizejs"
     ],
@@ -33,14 +36,9 @@
         [
             42.3627717,
             -71.087257
-        ],
-        [
-            22.278428,
-            114.182429
         ]
     ],
     "addresses": [
-        "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States",
-        "Google, 555, \u8ed2\u5c3c\u8a69\u9053 Hennessy Road, \u6469\u5229\u81e3\u5c71 Morrison Hill, \u9285\u947c\u7063 Causeway Bay, \u7063\u4ed4\u5340 Wan Chai District, \u9999\u6e2f\u5cf6 Hong Kong Island, \u9999\u6e2f Hong Kong, 000000, \u4e2d\u56fd"
+        "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States"
     ]
 }

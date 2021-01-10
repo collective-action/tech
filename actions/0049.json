@@ -1,41 +1,43 @@
 {
-    "id": 46,
-    "date": "2015/02/03",
+    "id": 43,
+    "date": "2014/11/19",
     "sources": [
-        "https://www.zdnet.com/article/thousands-at-hp-subsidiary-in-china-strike-against-board-chairman-nomination/"
+        "https://bits.blogs.nytimes.com/2014/11/19/facebooks-bus-drivers-vote-to-unionize"
     ],
     "actions": [
-        "strike"
+        "union representation"
     ],
     "struggles": [
         "pay and benefits",
-        "job security"
+        "working conditions"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "contract workers"
     ],
-    "description": "Employees at H3C, a Chinese network device company acquired by HP, have been protesting the appointment of a new chairman for the last three weeks. More than 4,400 people have signed a petition and 3,000 have joined the strike. Workers have expressed concern that the election of Mao Yunan, a senior manager at HP, would lead to layoffs and would endanger promised employee stock option plans.",
+    "description": "The shuttle bus drivers who ferry Facebook employees to and from work voted on Wednesday to unionize, 43 to 28. The drivers, who are employees of Loop Transportation, a contractor for Facebook, voted to join Teamsters Local 853, with several of them saying their main concerns were inadequate pay and a stressful split shift schedule.",
     "online": null,
     "locations": [
-        "hangzhou-china"
+        "menlo park-california-usa"
     ],
     "companies": [
-        "h3c",
-        "hp"
+        "facebook",
+        "loop transportation"
     ],
-    "workers": 4400,
-    "tags": null,
+    "workers": null,
+    "tags": [
+        "teamster",
+        "drivers"
+    ],
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
     "latlngs": [
         [
-            30.187622849999997,
-            120.1935601
+            37.484668049999996,
+            -122.1483654685629
         ]
     ],
     "addresses": [
-        "\u534e\u4e09\u901a\u4fe1, \u957f\u6cb3\u8857\u9053, \u6ee8\u6c5f\u533a, \u676d\u5dde\u5e02, \u6d59\u6c5f\u7701, \u4e2d\u56fd"
+        "Facebook, Bayfront Expressway, Menlo Park, San Mateo County, California, 94025-1246, United States"
     ]
 }

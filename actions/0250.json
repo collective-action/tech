@@ -1,42 +1,36 @@
 {
-    "id": 242,
-    "date": "2020/03/18",
+    "id": 238,
+    "date": "2020/03/17",
     "sources": [
-        "https://www.reuters.com/article/us-health-coronavirus-france-amazon/french-amazon-workers-protest-in-coronavirus-pushback-iduskbn2152mp"
+        "https://www.theverge.com/2020/3/17/21184495/google-employees-memo-contract-workers-coronavirus-covid-19",
+        "https://www.businessinsider.com/google-workers-raise-internal-concerns-tvc-policies-for-covid-19-2020-3"
     ],
     "actions": [
-        "strike"
+        "protest"
     ],
     "struggles": [
-        "working conditions",
         "unfair labor practices"
     ],
     "employment_types": [
-        "blue collar workers",
+        "white collar workers",
         "inhouse workers"
     ],
-    "description": "At an Amazon warehouse and shipping center at Saran just outside Orleans, a city south of Paris, 250-300 workers staged a strike, gathering outside and calling for its closure. It normally employs some 1,800 full-time staff. They are calling on the online retailer to cease operations or make it easier for employees not wanting to work during the coronavirus outbreak to stay away.",
-    "online": true,
+    "description": "Pittsburgh's office Google contractors employed by an independent company called HCL Technologies, have been forced to come into the office, even as full-time Google employees were first allowed and then instructed to stay home. Some HCL contractors wore black in a protest at the Pittsburgh office\u2019s cafeteria on Monday. This action is linked to the memo that Googlers sent out on the same day.",
+    "online": null,
     "locations": [
-        "usa"
+        "pittsburgh-pennsylvania-usa"
     ],
     "companies": [
-        "amazon"
+        "google"
     ],
-    "workers": 250,
+    "workers": 10,
     "tags": [
+        "coworker_solidarity",
         "coronavirus"
     ],
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            47.6142939,
-            -122.3239636
-        ]
-    ],
-    "addresses": [
-        "Amazon Go Grocery, 610, East Pike Street, First Hill, Seattle, King County, Washington, 98122, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

@@ -1,43 +1,38 @@
 {
-    "id": 350,
-    "date": "2020/10/17",
+    "id": 341,
+    "date": "2020/10/08",
     "sources": [
-        "https://fortune.com/2020/10/16/amazon-employee-activists-union-climate-justice/",
-        "https://www.cbsnews.com/news/amazon-workers-petition-election-day-holiday-paid-time-off/"
+        "https://www.wired.com/story/turmoil-black-lives-matter-political-speech-coinbase/",
+        "https://www.forbes.com/sites/rachelsandler/2020/10/08/60-employees-leave-coinbase-over-ceos-pledge-to-be-apolitical/#5e0848325a06",
+        "https://blog.coinbase.com/coinbase-is-a-mission-focused-company-af882df8804?gi=e4cb4315d1e5"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
-        "working conditions",
-        "ethics"
+        "ethics",
+        "discrimination"
     ],
     "employment_types": [
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "Amazon Employees for Climate Justice organized a rally in Seattle to call for paid time off for workers to vote on Election Day. A few hundred people attended the rally according to CBS News. Amazon stated that managers have been instructed to approve time-off requests for voting. ",
-    "online": null,
+    "description": "More than 60 Coinbase employees chose to leave the company, opting for a severance package, to protest CEO Brian Armstrong's assertion that employees should not participate in social activism in the workplace. This represents roughly 5% of the company's employees. This event follows several months of internal activism within the company after management failed to make a public statement on the Black Lives Matter movement.",
+    "online": true,
     "locations": [
-        "seattle-washington-usa"
+        "san francisco-california-usa"
     ],
     "companies": [
-        "amazon"
+        "coinbase"
     ],
-    "workers": null,
+    "workers": 60,
     "tags": [
-        "politics"
+        "antiracism",
+        "blm"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            47.6142939,
-            -122.3239636
-        ]
-    ],
-    "addresses": [
-        "Amazon Go Grocery, 610, East Pike Street, First Hill, Seattle, King County, Washington, 98122, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

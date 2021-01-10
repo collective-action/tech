@@ -1,43 +1,32 @@
 {
-    "id": 201,
-    "date": "2019/10/29",
+    "id": 197,
+    "date": "2019/10/03",
     "sources": [
-        "https://www.geekwire.com/2019/tableau-employees-hold-rally-seattle-ask-leadership-sever-ties-ice-cbp/",
-        "https://medium.com/@tableauempethicsalliance/drawing-a-line-77606d6dafff"
+        "https://english.kyodonews.net/news/2019/10/d2198529f08b-update1-uber-eats-delivery-staff-in-japan-form-labor-union.html",
+        "https://www.japantimes.co.jp/news/2019/10/03/business/corporate-business/uber-eats-delivery-staff-japan-form-labor-union/#.xaurdohkihs"
     ],
     "actions": [
-        "protest",
-        "open letter"
+        "union representation"
     ],
     "struggles": [
-        "ethics"
+        "working conditions"
     ],
     "employment_types": [
-        "na"
+        "gig workers"
     ],
-    "description": "Over 200 employees of the data visualization company Tableau protested their company's contracts with the federal government. They called on their company to drop these contracts in oppositio to the actions of ICE (U.S. Immigration and Customs Enforcement) throughout the US and at the US-Mexico border. An open letter was also published on Medium.",
+    "description": "Staff in Japan of ride-hailing company Uber's food delivery service formed a labor union Thursday to negotiate contract terms and seek improved working conditions. The union, formed by 17 platformers, also plans to request the Japanese unit of the U.S. company to ensure fair treatment among delivery riders and review how distance-based wages are set.",
     "online": null,
     "locations": [
-        "seattle-washington-usa"
+        "tokyo-japan"
     ],
     "companies": [
-        "tableau"
+        "uber"
     ],
-    "workers": 201,
-    "tags": [
-        "ice",
-        "immigration"
-    ],
+    "workers": 17,
+    "tags": null,
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
-    "latlngs": [
-        [
-            47.6490619,
-            -122.3479148
-        ]
-    ],
-    "addresses": [
-        "Tableau Software, 837, North 34th Street, Fremont, Seattle, King County, Washington, 98103, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

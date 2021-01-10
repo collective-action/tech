@@ -1,39 +1,32 @@
 {
-    "id": 22,
-    "date": "2012/05/01",
+    "id": 19,
+    "date": "2012/01/11",
     "sources": [
-        "https://www.itproportal.com/2012/05/01/workers-could-start-strike-at-foxconn-factory-in-brazil/",
-        "https://www.cnbc.com/id/100353348"
+        "https://www.telegraph.co.uk/news/worldnews/asia/china/9006988/mass-suicide-protest-at-apple-manufacturer-foxconn-factory.html",
+        "https://www.cbsnews.com/news/what-happened-after-the-foxconn-suicides/"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
-        "working conditions"
+        "job security"
     ],
     "employment_types": [
         "blue collar workers"
     ],
-    "description": "Thousands of FoxConn workers in Jundiai, Brazil protested dangerous working conditions outside of the company's local plant. Complaints included lack of water and air conditioning at facilities, covercrowded buses, and low quality food in the cafeterias.",
+    "description": "150 FoxConn workers in Wuhan, China threatened suicide and ultimately spent two days on the roof of their plant to protest forced reassignments. In 2010, 18 FoxConn workers attempted suicide with a resulting 14 deaths.",
     "online": null,
     "locations": [
-        "jundiai-brazil"
+        "wuhan-china"
     ],
     "companies": [
         "foxconn"
     ],
-    "workers": 1000,
+    "workers": 150,
     "tags": null,
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            -23.16559635,
-            -46.94674960550789
-        ]
-    ],
-    "addresses": [
-        "Foxconn, Avenida Marginal, Engordadouro, Jundia\u00ed, Regi\u00e3o Imediata de Jundia\u00ed, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Campinas, S\u00e3o Paulo, Regi\u00e3o Sudeste, 13212-010, Brasil"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

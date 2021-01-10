@@ -1,30 +1,29 @@
 {
-    "id": 118,
-    "date": "2019/02/27",
+    "id": 114,
+    "date": "2019/01/18",
     "sources": [
-        "https://www.buzzfeednews.com/article/carolineodonovan/student-groups-protest-salesforce-palantir-ice-campus"
+        "https://www.theguardian.com/technology/2019/jan/18/oracle-women-workers-lawsuit-salaries-pay"
     ],
     "actions": [
-        "protest"
+        "legal action"
     ],
     "struggles": [
-        "ethics"
+        "discrimination"
     ],
     "employment_types": [
         "na"
     ],
-    "description": "Ten Stanford students with a group called Students for the Liberation of All People (SLAP) protested a guest lecture by Salesforce executive Richard Socher. The students, who held signs \u2014 'Salesforcing families apart,' 'Richard are you getting rich from deportation?' and 'Salesfart' \u2014 oppose the company\u2019s contract with Customs and Borders Protection (CBP).",
+    "description": "Attorneys seek to represent more than 4,200 women in a lawsuit against Oracle that alleged that female employees were paid on average $13,000 less per year than men doing similar work. An analysis of payroll data found disparities with an 'extraordinarily high degree of statistical significance', the complaint said. Women made 3.8% less in base salaries on average than men in the same job categories, 13.2% less in bonuses, and 33.1% less in stock value, it alleges.",
     "online": null,
     "locations": [
-        "stanford-california-usa"
+        "redwood shores-california-usa"
     ],
     "companies": [
-        "palantir",
-        "salesforce"
+        "oracle"
     ],
-    "workers": 10,
+    "workers": 4200,
     "tags": [
-        "students"
+        "sexism"
     ],
     "author": [
         "organizejs"

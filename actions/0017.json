@@ -1,31 +1,42 @@
 {
-    "id": 14,
-    "date": "2007/09/26",
+    "id": 11,
+    "date": "2004/09/29",
     "sources": [
-        "https://money.cnn.com/2007/09/25/smbusiness/h1b_cap.fsb/index.htm"
+        "http://www.nbcnews.com/id/6134119/ns/business-us_business/t/ibm-reaches-partial-pension-settlement/",
+        "https://www.nytimes.com/2006/01/06/business/worldbusiness/06iht-ibm.html"
     ],
     "actions": [
-        "protest"
+        "legal action"
     ],
     "struggles": [
-        "job security"
+        "discrimination",
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers"
+        "na"
     ],
-    "description": "Roughly  a thousand foreign tech workers protested US H1B visa caps in Washington DC. They urged Congress to increase the number of visas supplied annually.",
+    "description": "IBM employees launched a class-action lawsuit against the company, alleging they faced age discrimation when they were forced to transition from a traditional pension plan to a cash balance plan. The company paid $320 million to settle with 15,000 employees. A federal judge ruled in favor of employees but the company launched an appeals process that dragged on until 2006 when they officially froze pension plans.",
     "online": null,
     "locations": [
-        "washington_dc-usa"
+        "usa"
     ],
-    "companies": null,
-    "workers": 1000,
+    "companies": [
+        "ibm"
+    ],
+    "workers": 140000,
     "tags": [
-        "immigration"
+        "ageism"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            44.05795005,
+            -92.50701462052399
+        ]
+    ],
+    "addresses": [
+        "IBM, Rochester, Olmsted County, Minnesota, United States"
+    ]
 }

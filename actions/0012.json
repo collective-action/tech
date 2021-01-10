@@ -1,39 +1,42 @@
 {
-    "id": 9,
-    "date": "2000/11/23",
+    "id": 6,
+    "date": "1999/06/04",
     "sources": [
-        "https://www.nytimes.com/2000/11/23/business/technology-unions-pushing-to-organize-thousands-of-amazoncom-workers.html?rref=collection%2ftimestopic%2fcommunications%20workers%20of%20america"
+        "https://www.latimes.com/archives/la-xpm-1999-jun-04-fi-44011-story.html",
+        "https://www.questia.com/newspaper/1p2-32575557/the-seeds-of-a-high-tech-union-sprout-in-washington"
     ],
     "actions": [
         "union drive"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "pay and benefits"
     ],
     "employment_types": [
-        "blue collar workers"
+        "white collar workers",
+        "contract workers"
     ],
-    "description": "The United Food and Commercial Workers Union is attempting to organize roughly 5,000 workers at eight Amazon distribution centers across the U.S. The New York Times reports that 'low-key' unionization efforts have been going on in the company for the last two years.",
+    "description": "A group of temporary workers at Microsoft that includes accountants and lawyers has organized into a bargaining unit and is asking for representation through a local union, the Washington Alliance of Technology Workers. The employees expressed frustration at their status as contract workers, citing a lack of benefits as a motivating factor for the unionization attempt.",
     "online": null,
     "locations": [
-        "usa"
+        "seattle-washington-usa"
     ],
     "companies": [
-        "amazon"
+        "microsoft"
     ],
-    "workers": 5000,
-    "tags": null,
+    "workers": 16,
+    "tags": [
+        "washtech"
+    ],
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            47.6142939,
-            -122.3239636
+            47.5388725,
+            -122.2901728
         ]
     ],
     "addresses": [
-        "Amazon Go Grocery, 610, East Pike Street, First Hill, Seattle, King County, Washington, 98122, United States"
+        "Microsoft Gathering Hall, 7054, 32nd Avenue South, Holly Park, Rainier Valley, Seattle, King County, Washington, 98118, United States"
     ]
 }

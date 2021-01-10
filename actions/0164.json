@@ -1,42 +1,33 @@
 {
-    "id": 160,
-    "date": "2019/07/16",
+    "id": 156,
+    "date": "2019/07/13",
     "sources": [
-        "https://www.bbc.com/news/av/world-africa-49008968/uber-drivers-in-nairobi-explain-why-they-are-on-strike",
-        "https://www.businessdailyafrica.com/corporate/companies/digital-taxis-strike-enters-second-week/4003102-5206366-rbvf36/index.html"
+        "http://www.laizquierdadiario.com/paro-de-glovers-en-mendoza-nos-cansamos-de-la-explotacion-por-eso-hacemos-paro"
     ],
     "actions": [
         "strike"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "working conditions",
+        "pay and benefits"
     ],
     "employment_types": [
+        "contract workers",
         "gig workers"
     ],
-    "description": "Rideshare drivers in Nairobi have gone on strike because of what they describe as low wages and poor working conditions. They are protesting unfair commissions from US-based Uber, Estonian firm Bold (formerly Taxify) and locally owned Little Cab. The strike entered its second week, continuing the protest over pitiable rates for the drivers.",
+    "description": "A group of Glovo delivery drivers went on strike for one day, citing the loss of guaranteed hours without proper notice and lower pay rates than comparable cities. They also cited Glovo's failure to fulfill promises on worker conditions, including that the company failed to provide promised protective clothing for cold and rain. They gathered at Plaza Chile in Mendoza, Argentina.",
     "online": null,
     "locations": [
-        "nairobi-kenya"
+        "mendoza-argentina"
     ],
     "companies": [
-        "uber",
-        "bolt",
-        "little_cab"
+        "glovo"
     ],
-    "workers": 30,
+    "workers": 5,
     "tags": null,
     "author": [
-        "organizejs"
+        "moates"
     ],
-    "latlngs": [
-        [
-            7.2077919,
-            38.613507
-        ]
-    ],
-    "addresses": [
-        "Bolt, Addis Ababa to Nairobi road, \u1218\u120d\u12ab \u12a1\u12f3, \u123b\u1238\u1218\u1294 / Shashamane, East Shewa, \u12a6\u122e\u121a\u12eb \u12ad\u120d\u120d / Oromia, \u12a2\u1275\u12ee\u1335\u12eb"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

@@ -1,44 +1,38 @@
 {
-    "id": 103,
-    "date": "2018/11/01",
+    "id": 99,
+    "date": "2018/10/04",
     "sources": [
-        "https://www.nytimes.com/2018/11/01/technology/google-walkout-sexual-harassment.html",
-        "https://www.recode.net/2018/11/21/18105719/google-walkout-real-change-organizers-protest-discrimination-kara-swisher-recode-decode-podcast"
+        "https://www.bbc.com/news/business-45734662"
     ],
     "actions": [
         "strike"
     ],
     "struggles": [
-        "discrimination"
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers",
-        "contract workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "Google employees and contractors walked out of the companies's offices around the world, one week after the New York Times reported that Google had protected three executives accused of sexual misconduct.",
+    "description": "UberEats riders and a small number of workers from JD Wetherspoon, McDonald's and TGI Fridays have been staging walkouts in a pay dispute. Protests were being held in several UK cities, along with a rally in London.",
     "online": null,
     "locations": [
-        "usa",
-        "worldwide"
+        "uk"
     ],
     "companies": [
-        "google"
+        "uber"
     ],
-    "workers": 20000,
-    "tags": [
-        "sexism"
-    ],
+    "workers": 50,
+    "tags": null,
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            42.3627717,
-            -71.087257
+            51.5148804,
+            -0.0718856
         ]
     ],
     "addresses": [
-        "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States"
+        "Uber, 2, Leman Street, Spitalfields, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, E1 8FA, United Kingdom"
     ]
 }

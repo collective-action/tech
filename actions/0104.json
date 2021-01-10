@@ -1,39 +1,32 @@
 {
-    "id": 101,
-    "date": "2018/10/12",
+    "id": 97,
+    "date": "2018/08/01",
     "sources": [
-        "https://medium.com/s/story/an-open-letter-to-microsoft-dont-bid-on-the-us-military-s-project-jedi-7279338b7132"
+        "https://www.equaltimes.org/in-denmark-a-historic-collective?lang=en"
     ],
     "actions": [
-        "open letter"
+        "union representation"
     ],
     "struggles": [
-        "ethics"
+        "pay and benefits",
+        "job security"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "An open letter signed by 'employees of Microsoft' asks the cloud giant to abstain from bidding on the military's massive JEDI cloud computing contract for ethical reasons involving the application of artificial intelligence.",
-    "online": true,
+    "description": "Danish gig workers from an online cleaning services platform Hilfr.dk signed a collective agreement that guarantees them benefits including holiday, sick leave, pension contributions, and higher pay once they reach a certain number of hours worked. Danish trade union 3F was a technical advisor on the agreement. As part of the agreement, Hilfr employees can automatically become members of the union once they have worked 100 hours on the platform. The agreement is preliminary and lasts one year.",
+    "online": null,
     "locations": [
-        "usa"
+        "denmark"
     ],
     "companies": [
-        "microsoft"
+        "hilfr"
     ],
-    "workers": null,
+    "workers": 450,
     "tags": null,
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
-    "latlngs": [
-        [
-            35.139622349999996,
-            -80.92306993327955
-        ]
-    ],
-    "addresses": [
-        "Microsoft, Ayrsley, Charlotte, Mecklenburg County, North Carolina, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

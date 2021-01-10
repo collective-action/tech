@@ -1,31 +1,44 @@
 {
-    "id": 60,
-    "date": "2016/10/14",
+    "id": 56,
+    "date": "2016/04/21",
     "sources": [
-        "https://www.buzzfeednews.com/article/carolineodonovan/instacart-cancels-plans-to-scrap-tips-amid-threats-of-strike"
+        "https://venturebeat.com/2016/01/03/oconnor-v-uber-why-the-days-of-driver-flexibility-are-already-numbered/",
+        "https://www.uber.com/newsroom/growing-and-growing-up",
+        "https://prospect.org/article/demand-and-demanding-their-rights"
     ],
     "actions": [
-        "protest"
+        "legal action"
     ],
     "struggles": [
-        "pay and benefits"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
         "gig workers"
     ],
-    "description": "Workers threatened to boycott Instacart after it announced plans to replace their tips with an optional 10% service fee. Two days ahead of the planned boycott, Instacart said tips will stay.",
+    "description": "Uber settled two class-action lawsuits that argued independent contractors should be classified as company employees. Uber agreed to pay drivers $84 million (and an additional $16 million upon IPO and pending increased valuation). Drivers were allowed to form associations in California and Massachusetts and see the data behind their rating. In later months, more than 150 drivers called for the judge to vacate the settlement.",
     "online": null,
     "locations": [
-        "usa"
+        "california-usa",
+        "massachusetts-usa"
     ],
     "companies": [
-        "instacart"
+        "uber"
     ],
     "workers": null,
-    "tags": null,
-    "author": [
-        "organizejs"
+    "tags": [
+        "drivers"
     ],
-    "latlngs": null,
-    "addresses": null
+    "author": [
+        "nataliyaned"
+    ],
+    "latlngs": [
+        [
+            37.7899898,
+            -122.3999799
+        ]
+    ],
+    "addresses": [
+        "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States"
+    ]
 }

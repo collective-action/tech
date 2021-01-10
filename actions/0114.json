@@ -1,38 +1,46 @@
 {
-    "id": 111,
-    "date": "2018/12/14",
+    "id": 107,
+    "date": "2018/11/27",
     "sources": [
-        "http://www.startribune.com/workers-protest-conditions-at-amazon-s-shakopee-center/502829882/"
+        "https://medium.com/@googlersagainstdragonfly/we-are-google-employees-google-must-drop-dragonfly-4c8a30c5e5eb",
+        "https://slate.com/technology/2018/11/google-employees-sign-petition-to-end-project-dragonfly.html"
     ],
     "actions": [
-        "protest"
+        "open letter"
     ],
     "struggles": [
-        "working conditions"
+        "ethics"
     ],
     "employment_types": [
-        "blue collar workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Amid chants of 'Hear our voice,' a group of about 100 Somali-American workers and their supporters marched to the entrance of Amazon's Shakopee fulfillment center Friday evening to protest unfair working conditions.",
-    "online": null,
+    "description": "Google employees have signed an open letter published Tuesday on Medium demanding that the companies cease work on Project Dragonfly, which is aimed at creating a search engine that the Chinese government would be able to control to censor certain results and surveil users. 'International human rights organizations and investigative reporters have also sounded the alarm, emphasizing serious human rights concerns and repeatedly calling on Google to cancel the project,' the letter reads in part. 'So far, our leadership's response has been unsatisfactory.",
+    "online": true,
     "locations": [
-        "minneapolis-minnesota-usa"
+        "usa",
+        "china"
     ],
     "companies": [
-        "amazon"
+        "google"
     ],
-    "workers": 100,
+    "workers": 740,
     "tags": null,
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            44.9696354,
-            -93.2884766
+            42.3627717,
+            -71.087257
+        ],
+        [
+            22.278428,
+            114.182429
         ]
     ],
     "addresses": [
-        "Wounded Amazon, Lyndale Avenue South, Loring Park, Minneapolis, Hennepin County, Minnesota, 55403, United States"
+        "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States",
+        "Google, 555, \u8ed2\u5c3c\u8a69\u9053 Hennessy Road, \u6469\u5229\u81e3\u5c71 Morrison Hill, \u9285\u947c\u7063 Causeway Bay, \u7063\u4ed4\u5340 Wan Chai District, \u9999\u6e2f\u5cf6 Hong Kong Island, \u9999\u6e2f Hong Kong, 000000, \u4e2d\u56fd"
     ]
 }

@@ -1,12 +1,13 @@
 {
-    "id": 321,
-    "date": "2020/08/19",
+    "id": 338,
+    "date": "2020/08/12",
     "sources": [
-        "https://www.law360.com/articles/1302356/ex-google-workers-want-sexist-emails-memes-turned-over",
-        "https://www.lieffcabraser.com/2020/08/ex-google-workers-want-sexist-emails-meme-messages-turned-over-in-google-gender-discrimination-suit/"
+        "https://www.printmag.com/post/tech-can-do-better-an-industry-wide-wake-up-call",
+        "https://www.instagram.com/techcandobetter/",
+        "https://docs.google.com/forms/d/e/1FAIpQLSck1JZR5FdfWbRB7OOgCPBCVGIS0kB-zLHN-Q3J6PZORRUP3w/viewform"
     ],
     "actions": [
-        "legal action"
+        "resources"
     ],
     "struggles": [
         "discrimination"
@@ -15,28 +16,19 @@
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "Four former Google software engineers have filed a lawsuit in California claiming gender discrimination at the company and demanding that the company turn over sexist emails and memes created by two male company employees. The plaintiffs hope to mount a class action lawsuit against the company.",
-    "online": null,
-    "locations": [
-        "san francisco-california-usa"
-    ],
-    "companies": [
-        "google"
-    ],
-    "workers": 4,
+    "description": "A group of Black employees across tech companies have launched an initiative, Tech Can Do Better, to call for greater equity in the workplace. An Instagram account promotes the visibility and highlights the accomplishments of Black employees in tech. The group has also started an online pledge where workers can commit to \"mak[ing] the changes needed to achieve equitable hiring, promotions, and compensation, mak[ing] significant Investment in social equity and driv[ing] advocacy for equitable legislation.\"",
+    "online": true,
+    "locations": null,
+    "companies": null,
+    "workers": null,
     "tags": [
-        "sexism"
+        "antiracism",
+        "blm",
+        "industry_solidarity"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            37.41897865,
-            -122.08237793989416
-        ]
-    ],
-    "addresses": [
-        "Google, Mountain View, Santa Clara County, California, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

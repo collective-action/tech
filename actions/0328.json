@@ -1,31 +1,30 @@
 {
-    "id": 335,
-    "date": "2020/10/05",
+    "id": 331,
+    "date": "2020/09/23",
     "sources": [
-        "https://www.theverge.com/2020/9/2/21417146/parcast-spotify-union-writers-guild-america-east",
-        "https://twitter.com/ParcastUnion/status/1313555636651655170?s=19"
+        "https://www.forbes.com/sites/rachelsandler/2020/09/24/hootsuite-drops-ice-contract-after-employee-backlash/#714f8e261c50",
+        "https://www.vice.com/en/article/jgx75b/hootsuite-denied-providing-tech-to-ice-this-contract-shows-that-it-did"
     ],
     "actions": [
-        "union representation"
+        "protest"
     ],
     "struggles": [
-        "unfair labor practices"
+        "ethics"
     ],
     "employment_types": [
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "Parcast, a Spotify-owned podcast company, announced a unionization effort back in September. Employees of the company chose to pursue unionization through the Writers Guild of America, East to call for greater diversity, equity, and inclusion at the company, as well as equitable pay, reasonable working hours, and overtime compensation. Parcast announced on October 6th that Spotify had chosen to voluntarily recognize the union. ",
-    "online": null,
-    "locations": [
-        "new york city-new york-usa"
-    ],
+    "description": "Employees at Hootsuite succeeded in getting the company, a B-corporation, to drop its contract with U.S. ICE after protesting via social media and voicing their opposition internally to the company. A Tweet from a senior training specialist at Hootsuite, Sam Anderson, generated significant backlash within the industry, including from many social media managers at client companies.  ",
+    "online": true,
+    "locations": null,
     "companies": [
-        "spotify",
-        "parcast"
+        "hootsuite"
     ],
-    "workers": null,
-    "tags": null,
+    "workers": 100,
+    "tags": [
+        "ice"
+    ],
     "author": [
         "nataliyaned"
     ],

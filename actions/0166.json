@@ -1,46 +1,40 @@
 {
-    "id": 162,
-    "date": "2019/07/19",
+    "id": 158,
+    "date": "2019/07/15",
     "sources": [
-        "https://techcrunch.com/2019/07/18/uber-and-lyft-drivers-demand-better-pay-workplace-protections-and-driver-led-unions/",
-        "https://sanfrancisco.cbslocal.com/2019/07/19/uber-lyft-drivers-hq-protest-working-conditions/"
+        "https://www.coworker.org/petitions/amazon-management-meet-with-dch1-amazonians-united-now",
+        "https://labornotes.org/2019/07/amazon-warehouse-worker-why-im-taking-action",
+        "https://www.buzzfeednews.com/amphtml/carolineodonovan/amazon-worker-protests-chicago-heat-wave"
     ],
     "actions": [
-        "protest"
+        "open letter"
     ],
     "struggles": [
-        "pay and benefits",
         "working conditions"
     ],
     "employment_types": [
-        "gig workers"
+        "blue collar workers"
     ],
-    "description": "As Assembly Bill 5 makes its way through the California state legislature, Uber and Lyft drivers are voicing their demands for better pay, basic workplace protections and the right to organize through unions. Drivers chanted and cheered outside the Uber headquarters building in San Francisco as they delivered a letter demanding negotiations for better working conditions.",
+    "description": "Amazon employees of DCH1 Amazonians United sign a petition to demand that their site leader meet with them to discuss providing the appropriate measures for days of excessive heat, among other issues. The top 3 are: 1) Prime Pay for Prime Days. 2) Health Insurance. 3) Getting A/C",
     "online": null,
     "locations": [
-        "san francisco-california-usa"
+        "chicago-illinois-usa"
     ],
     "companies": [
-        "uber",
-        "lyft"
+        "amazon"
     ],
-    "workers": null,
+    "workers": 800,
     "tags": null,
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            37.7899898,
-            -122.3999799
-        ],
-        [
-            37.7759881,
-            -122.3919991
+            41.84040105,
+            -87.68351928672685
         ]
     ],
     "addresses": [
-        "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States",
-        "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States"
+        "Amazon Distribution, 2801, South Western Avenue, Lower West Side, Chicago, Cook County, Illinois, 60643, United States"
     ]
 }

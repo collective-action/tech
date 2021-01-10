@@ -1,33 +1,49 @@
 {
-    "id": 271,
-    "date": "2020/05/23",
+    "id": 276,
+    "date": "2020/05/05",
     "sources": [
-        "https://hk.appledaily.com/breaking/20200527/6PTZ5EDM7HK2NQDMSGESGVGAQA/"
+        "https://www.nbcnews.com/tech/tech-news/amazon-sued-nyc-workers-seeking-coronavirus-protection-not-money-n1223871",
+        "https://www.oregonlive.com/business/2020/05/amazon-sued-by-salem-warehouse-worker-over-coronavirus-response.html"
     ],
     "actions": [
-        "strike"
+        "legal action"
     ],
     "struggles": [
-        "pay and benefits"
+        "working conditions"
     ],
     "employment_types": [
-        "gig workers"
+        "blue collar workers",
+        "inhouse workers"
     ],
-    "description": "Deliveroo workers went on strike for multiple days in Hong Kong over the company's new payment structure. ",
+    "description": "Amazon has been sued by workers at two different locations, New York City and Salem, Oregon, for its failure to protect its employees during the coronavirus pandemic. Three Amazon employees from the New York fulfillment center sued the company for failing to follow local public health guidance, claiming the company purposefully miscommunicated with workers. The employees are not seeking compensation, only an order that Amazon comply with guidance. A former employee from Salem alleged that she was fired after taking a medical leave for a coronavirus infection and speaking out publicly about safety issues.",
     "online": null,
     "locations": [
-        "hong kong-china"
+        "new york city-new york-usa",
+        "salem-oregon-usa"
     ],
     "companies": [
-        "deliveroo"
+        "amazon"
     ],
-    "workers": 200,
+    "workers": 4,
     "tags": [
-        "delivery_workers"
+        "retaliation",
+        "coronavirus"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            40.722465,
+            -73.9977307
+        ],
+        [
+            44.90190785,
+            -122.96427765593445
+        ]
+    ],
+    "addresses": [
+        "Amazon, 72, Spring Street, SoHo, Manhattan Community Board 2, Manhattan, New York County, New York, 10013, United States",
+        "Amazon PDX7, 4775, Depot Court, Salem, Marion County, Oregon, 97317, United States"
+    ]
 }

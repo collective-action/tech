@@ -1,43 +1,33 @@
 {
-    "id": 85,
-    "date": "2018/05/30",
+    "id": 81,
+    "date": "2018/04/28",
     "sources": [
-        "https://jacobinmag.com/2018/06/google-project-maven-military-tech-workers",
-        "https://www.nytimes.com/2018/05/30/technology/google-project-maven-pentagon.html",
-        "https://www.coworker.org/petition/tech-should-not-be-in-the-business-of-war"
+        "https://technode.com/2018/04/28/didi-food-delivery-strike/"
     ],
     "actions": [
-        "open letter"
+        "strike"
     ],
     "struggles": [
-        "ethics"
+        "working conditions",
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "Google employees have led a campaign demanding that the companies terminate its contract with the Pentagon for Project Maven, a program that uses machine learning to improve targeting for drone strikes. Nearly five thousand Google workers signed an internal petition to cancel the project, and dozens resigned.",
-    "online": true,
+    "description": "Around 30 drivers gathered on Thursday at lunchtime, the peak hour for deliveries, to express their dissatisfaction with a serious drop in the number of orders and a change in rules for payments. The majority of the protesters were freelancers for Didi Waimai who complained of unfair rules and meager earnings.",
+    "online": null,
     "locations": [
-        "usa"
+        "wuxi-china",
+        "jiangsu-china"
     ],
     "companies": [
-        "google"
+        "didi"
     ],
-    "workers": 5000,
-    "tags": [
-        "military_contracts"
-    ],
+    "workers": 30,
+    "tags": null,
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            42.3627717,
-            -71.087257
-        ]
-    ],
-    "addresses": [
-        "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

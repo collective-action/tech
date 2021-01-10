@@ -1,34 +1,43 @@
 {
-    "id": 188,
-    "date": "2019/09/25",
+    "id": 184,
+    "date": "2019/09/18",
     "sources": [
-        "https://www.salon.com/2019/09/25/in-historic-first-tech-contractors-for-google-vote-to-unionize/",
-        "https://www.theguardian.com/technology/2019/sep/23/google-pittsburgh-union-roots-transform-tech-industry?cmp=share_androidapp_copy_to_clipboard"
+        "https://github.com/msworkers/for.climateaction",
+        "https://gizmodo.com/just-days-ahead-of-employee-climate-strike-microsoft-a-1838229409"
     ],
     "actions": [
-        "union representation"
+        "open letter",
+        "strike"
     ],
     "struggles": [
-        "job security",
-        "pay and benefits"
+        "ethics"
     ],
     "employment_types": [
-        "contract workers",
         "white collar workers"
     ],
-    "description": "Contract workers at Google in Pittsburgh have voted to unionize, joining the United Steel Workers Union. News outlets report that this is the first successful unionization of white-collar tech contractors. Workers intend to use their position to bargain for compensation, benefits, and job security comparable to Google employees. Google currently employs more contract workers (135,000) than direct Google employees (115,000) according to the Guardian. A group of Google employees have signed a letter of support and others have published a petition calling for the company to sign a neutrality agreement and abstain from union-busting tactics.",
-    "online": null,
+    "description": "Mere days before Microsoft workers are set to walk out of their jobs and publicly call on their employer to reduce carbon emissions and sever its ties with fossil fuel companies, the tech giant has announced a major partnership with two of the biggest corporations in the oil industry. Microsoft employees have responded with a fiery statement condemning the partnership and calling on fellow employees to join them in walking out on September 20th. The protest is part of a global general strike on September 20th 2019.",
+    "online": true,
     "locations": [
-        "pittsburgh-pennsylvania-usa"
+        "seattle-washington-usa"
     ],
     "companies": [
-        "google"
+        "microsoft"
     ],
-    "workers": 73,
-    "tags": null,
+    "workers": 300,
+    "tags": [
+        "climate_strike",
+        "climate_change"
+    ],
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            47.5388725,
+            -122.2901728
+        ]
+    ],
+    "addresses": [
+        "Microsoft Gathering Hall, 7054, 32nd Avenue South, Holly Park, Rainier Valley, Seattle, King County, Washington, 98118, United States"
+    ]
 }

@@ -1,41 +1,41 @@
 {
-    "id": 49,
-    "date": "2015/06/18",
+    "id": 46,
+    "date": "2015/02/03",
     "sources": [
-        "https://www.buzzfeednews.com/article/coralewis/wework-cleaners-push-for-raise"
+        "https://www.zdnet.com/article/thousands-at-hp-subsidiary-in-china-strike-against-board-chairman-nomination/"
     ],
     "actions": [
-        "protest"
+        "strike"
     ],
     "struggles": [
-        "pay and benefits"
+        "pay and benefits",
+        "job security"
     ],
     "employment_types": [
-        "blue collar workers",
-        "contract workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Janitors of WeWork protest at their companies's Manhattan headquarters at 222 Broadway. In that same building, other renters and owners hire cleaning contractors at the standard city-wide rate, while WeWork pays an average of $11 an hour.",
+    "description": "Employees at H3C, a Chinese network device company acquired by HP, have been protesting the appointment of a new chairman for the last three weeks. More than 4,400 people have signed a petition and 3,000 have joined the strike. Workers have expressed concern that the election of Mao Yunan, a senior manager at HP, would lead to layoffs and would endanger promised employee stock option plans.",
     "online": null,
     "locations": [
-        "manhattan-new york city-new york-usa"
+        "hangzhou-china"
     ],
     "companies": [
-        "wework"
+        "h3c",
+        "hp"
     ],
-    "workers": null,
-    "tags": [
-        "seiu"
-    ],
+    "workers": 4400,
+    "tags": null,
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            40.7189373,
-            -74.0020369
+            30.187622849999997,
+            120.1935601
         ]
     ],
     "addresses": [
-        "WeWork, 408, Broadway, SoHo, Manhattan Community Board 2, Manhattan, New York County, New York, 10003, United States"
+        "\u534e\u4e09\u901a\u4fe1, \u957f\u6cb3\u8857\u9053, \u6ee8\u6c5f\u533a, \u676d\u5dde\u5e02, \u6d59\u6c5f\u7701, \u4e2d\u56fd"
     ]
 }

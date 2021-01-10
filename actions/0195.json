@@ -1,41 +1,42 @@
 {
-    "id": 190,
-    "date": "2019/09/26",
+    "id": 186,
+    "date": "2019/09/23",
     "sources": [
-        "https://www.vice.com/en_us/article/qvgn9q/do-not-discuss-the-incident-facebook-told-employee-fired-after-speaking-about-worker-suicide",
-        "https://www.gofundme.com/f/say-no-to-toxic-work-environment",
-        "https://www.gofundme.com/f/qinchen-memorial-fund"
+        "https://www.vice.com/en_us/article/vb53wy/45-google-employees-explain-how-they-were-retaliated-against-for-reporting-abuse"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
-        "ethics",
-        "working conditions"
+        "discrimination"
     ],
     "employment_types": [
         "white collar workers"
     ],
-    "description": "Over 400 Facebook employees protested publicly against the company's treatment of foreign workers on H1B visas days after a Chinese employee committed suicide by jumping off the roof of a company building. Workers at the company have started publicly posting and speaking out about the mistreatment of international workers, who are only allowed to stay in the US if they are sponsored by their employer and thus face greater pressures not to speak out against working conditions. Two separate GoFundMe pages have been started to raise money for a memorial and a protest event (over $6,000) and for Chen's family (over $122,000). Facebook has since fired one of the employees who organized the protest, Yi Yin. Yin also spoke to the press about the suicide after the company instructed him not to speak about the suicide. ",
-    "online": null,
+    "description": "Google employees created an internal document describing cases of discrimination and retaliation by the company. 45 cases were reported.",
+    "online": true,
     "locations": [
-        "menlo park-california-usa"
+        "usa",
+        "online"
     ],
     "companies": [
-        "facebook"
+        "google"
     ],
-    "workers": 400,
-    "tags": null,
+    "workers": 45,
+    "tags": [
+        "antiracism",
+        "sexism"
+    ],
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            37.484668049999996,
-            -122.1483654685629
+            42.3627717,
+            -71.087257
         ]
     ],
     "addresses": [
-        "Facebook, Bayfront Expressway, Menlo Park, San Mateo County, California, 94025-1246, United States"
+        "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States"
     ]
 }

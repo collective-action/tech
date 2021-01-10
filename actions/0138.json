@@ -1,35 +1,31 @@
 {
-    "id": 260,
-    "date": "2019/05/01",
+    "id": 131,
+    "date": "2019/04/19",
     "sources": [
-        "https://www.vice.com/en_ca/article/gy4qew/foodora-couriers-want-to-be-among-first-gig-economy-workers-to-unionize-in-canada",
-        "https://www.globenewswire.com/news-release/2020/04/27/2022709/0/en/foodora-Canada-announces-plans-to-close-business-while-assuring-support-for-employees.html",
-        "https://www.thestar.com/business/2020/04/29/foodora-declares-bankruptcy-in-canada-leaving-47-million-in-debt.html"
+        "https://www.nottinghampost.com/news/nottingham-news/deliveroo-riders-take-nottingham-city-2754676"
     ],
     "actions": [
-        "union drive"
+        "protest"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "working conditions",
+        "pay and benefits"
     ],
     "employment_types": [
         "gig workers"
     ],
-    "description": "Foodora couriers announced their intention to join a union of Canadian post workers and held a union drive. If successful, this would make Foodora workers the first app-based employees to unionize in Canada. In April 2020 the company announced its intention to leave the Canadian market and initiated bankruptcy proceedings, making the future of the business and the unionizing effort uncertain. ",
+    "description": "Deliveroo riders took to Nottingham city centre again to protest for improved working and pay conditions. Protesters are growing frustrated with a 'lack of communication' and an 'unwillingness to have their demands listened to' by the food delivery company.",
     "online": null,
     "locations": [
-        "toronto-ontario-canada"
+        "nottingham-uk"
     ],
     "companies": [
-        "foodora"
+        "deliveroo"
     ],
-    "workers": 1000,
-    "tags": [
-        "delivery_workers"
-    ],
+    "workers": 10,
+    "tags": null,
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
     "latlngs": null,
     "addresses": null

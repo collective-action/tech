@@ -1,30 +1,42 @@
 {
-    "id": 202,
-    "date": "2019/11/01",
+    "id": 198,
+    "date": "2019/10/04",
     "sources": [
-        "https://mashable.com/article/instacart-shoppers-work-stoppage-open-letter-apoorva-mehta/",
-        "https://medium.com/@nopenever50/dear-apoorva-mehta-founder-and-ceo-of-instacart-944ca4db6ad0"
+        "https://www.bloomberg.com/news/articles/2019-10-10/microsoft-employees-call-to-end-github-ice-contract",
+        "https://www.businessinsider.com/microsoft-github-ice-contracts-solidarity-2019-10"
     ],
     "actions": [
         "open letter"
     ],
     "struggles": [
-        "pay and benefits"
+        "ethics"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers"
     ],
-    "description": "Instacart workers circulated an open letter on Medium prior to a walkout scheduled for Nov. 3rd to Nov. 5th. Employees are protesting the company's history of systematically devaluing labor, using algorithms to reduce pay to employees and changing tipping structures to return profit to the company. Over 200 workers have signed the letter.",
+    "description": "Microsoft employees are circulating a letter supporting an effort to get its GitHub subsidiary to cancel a contract with the U.S. Immigration and Customs Enforcement agency, the latest effort among tech-company staff to influence corporate policy on government work. The letter reflects concerns that Microsoft\u2019s sales to the agency implicate the software maker in the government\u2019s detention of immigrants. ",
     "online": true,
-    "locations": null,
+    "locations": [
+        "usa"
+    ],
     "companies": [
-        "instacart"
+        "microsoft"
     ],
-    "workers": 212,
-    "tags": null,
+    "workers": 200,
+    "tags": [
+        "ice",
+        "industry_solidarity"
+    ],
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            35.139622349999996,
+            -80.92306993327955
+        ]
+    ],
+    "addresses": [
+        "Microsoft, Ayrsley, Charlotte, Mecklenburg County, North Carolina, United States"
+    ]
 }

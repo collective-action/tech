@@ -1,43 +1,39 @@
 {
-    "id": 37,
-    "date": "2014/04/03",
+    "id": 34,
+    "date": "2014/03/03",
     "sources": [
-        "https://www.telegraph.co.uk/technology/news/10729575/mozilla-staff-call-for-new-ceo-to-stand-down-over-donation-to-anti-gay-marriage-campaign.html",
-        "https://www.dailymail.co.uk/news/article-2596405/mozilla-ceo-resigns-furor-gay-rights.html"
+        "https://www.reuters.com/article/us-china-strikes/ibm-factory-strike-shows-shifting-china-labor-landscape-idusbrea2804k20140309"
     ],
     "actions": [
-        "protest"
+        "strike"
     ],
     "struggles": [
-        "discrimination"
+        "unfair labor practices"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "blue collar workers"
     ],
-    "description": "Mozilla employees used a number of means to call for the resignation of CEO Brendan Eich who donated $1,000 in 2008 to support California's Proposition 8, legislature that would have made gay marriage illegal in the state. Three of Mozilla Foundation's board members resigned in protest, and other employees took to social media and wrote blog posts. Other companies, most prominently dating site OKCupid, encouraged their users to stop using the Firefox browser. Eich did ultimately resign.",
+    "description": "More than 1,000 IBM factory workers walked off the job at the factory in Shenzhen, bordering Hong Kong, after managers on announced the terms of their transfer to new ownership under Chinese PC maker Lenovo Group Ltd. Experts say - the impetus for a strike was underpinned by the fact that the factory branch of the state-backed union was seen as a farce.",
     "online": null,
     "locations": [
-        "mountain view-california-usa"
+        "shenzhen-china"
     ],
     "companies": [
-        "mozilla",
-        "okcupid"
+        "ibm",
+        "lenovo"
     ],
-    "workers": null,
-    "tags": [
-        "lgbtq"
-    ],
+    "workers": 1000,
+    "tags": null,
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
     "latlngs": [
         [
-            37.38734885,
-            -122.0601159053321
+            22.54208855,
+            113.9430328
         ]
     ],
     "addresses": [
-        "Mozilla, 331, East Evelyn Avenue, Mountain View Corporate Center, Mountain View, Santa Clara County, California, 94041, United States"
+        "\u8054\u60f3\u7814\u53d1\u4e2d\u5fc3, 16\u53f7, \u9ad8\u65b0\u5357\u4e00\u9053, \u5927\u51b2, \u7ca4\u6d77\u8857\u9053, \u5357\u5c71\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518057, \u4e2d\u56fd"
     ]
 }

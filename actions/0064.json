@@ -1,23 +1,23 @@
 {
-    "id": 61,
-    "date": "2016/12/03",
+    "id": 57,
+    "date": "2016/05/10",
     "sources": [
-        "https://www.thestreet.com/story/13906592/1/why-uber-faces-a-day-of-protests-on-tuesday-tech-roundup.html"
+        "https://www.nytimes.com/2016/05/11/technology/uber-agrees-to-union-deal-in-new-york.html",
+        "https://www.wired.com/2017/05/how-drivers-are-finally-outfoxing-uber/"
     ],
     "actions": [
-        "protest"
+        "union representation"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "pay and benefits"
     ],
     "employment_types": [
         "gig workers"
     ],
-    "description": "Uber drivers in 20 cities join the Fight for $15 movement, boycotting the app for one day to protest wages.",
+    "description": "Uber recognizes an association of drivers, the Independent Drivers Guild, which is affiliated with the International Association of Machinists and Aerospace Workers. The organization represents approximately 35,000 drivers in the New York City area and provides access to discounted insurance, legal services, and roadside assistance. The group has been promised monthly meetings with management but at the expense of agreeing not the formally unionize for the next five years.",
     "online": null,
     "locations": [
-        "usa"
+        "new york city-new york-usa"
     ],
     "companies": [
         "uber"
@@ -29,13 +29,6 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            39.2813025,
-            -76.5905444
-        ]
-    ],
-    "addresses": [
-        "Uber, 918, Fell Street, Fells Point, Baltimore, Maryland, 21231, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

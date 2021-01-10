@@ -1,42 +1,34 @@
 {
-    "id": 349,
-    "date": "2020/10/14",
+    "id": 335,
+    "date": "2020/10/05",
     "sources": [
-        "https://calmatters.org/california-divide/2020/10/amazon-warehouse-workers-bezos-mansion-prime-day/"
+        "https://www.theverge.com/2020/9/2/21417146/parcast-spotify-union-writers-guild-america-east",
+        "https://twitter.com/ParcastUnion/status/1313555636651655170?s=19"
     ],
     "actions": [
-        "protest"
+        "union representation"
     ],
     "struggles": [
-        "pay and benefits"
+        "unfair labor practices"
     ],
     "employment_types": [
-        "blue collar workers",
+        "white collar workers",
         "inhouse workers"
     ],
-    "description": "Amazon workers staged a vigil at Jeff Bezos' Beverly Hills mansion for fellow workers that had died as a result of working through the coronavirus pandemic. The event was organized by  the Warehouse Worker Resource Center. ",
+    "description": "Parcast, a Spotify-owned podcast company, announced a unionization effort back in September. Employees of the company chose to pursue unionization through the Writers Guild of America, East to call for greater diversity, equity, and inclusion at the company, as well as equitable pay, reasonable working hours, and overtime compensation. Parcast announced on October 6th that Spotify had chosen to voluntarily recognize the union. ",
     "online": null,
     "locations": [
-        "los angeles-california-usa"
+        "new york city-new york-usa"
     ],
     "companies": [
-        "amazon"
+        "spotify",
+        "parcast"
     ],
     "workers": null,
-    "tags": [
-        "delivery_workers",
-        "coronavirus"
-    ],
+    "tags": null,
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            33.97670635,
-            -118.41819635850888
-        ]
-    ],
-    "addresses": [
-        "Whole Foods Market, West Jefferson Boulevard, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

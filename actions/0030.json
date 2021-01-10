@@ -1,44 +1,38 @@
 {
-    "id": 27,
-    "date": "2013/05/19",
+    "id": 24,
+    "date": "2012/10/01",
     "sources": [
-        "https://www.spiegel.de/international/business/amazon-and-other-us-corporations-flout-german-labor-laws-a-900615.html"
+        "https://www.engadget.com/2012/10/09/multiple-foxconn-labor-disputes-disrupt-iphone-production/?guccounter=1"
     ],
     "actions": [
         "strike"
     ],
     "struggles": [
-        "pay and benefits"
+        "working conditions"
     ],
     "employment_types": [
         "blue collar workers"
     ],
-    "description": "Amazon workers at two German facilities (Bad Hersfeld and Leipzig) walked off the job to protest low wages and the company's refusal to sign a collective bargaining agreement for the retail sector. Der Speigel reports that this is the 'first strike in the online retail giant's history'.",
+    "description": "FoxConn workers in Zhengzhou held walkouts on three separate days to protest working conditions at the plant. News outlets also report workers have been purposefully scratching newly manufactured iPhones in protest. China Labor Watch estimates that 3,000 workers took part in the walkouts.",
     "online": null,
     "locations": [
-        "bad hersfeld-germany",
-        "leipzig-germany"
+        "zhengzhou-china"
     ],
     "companies": [
-        "amazon"
+        "foxconn"
     ],
-    "workers": null,
+    "workers": 3000,
     "tags": null,
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            50.8453279,
-            9.678334853465138
-        ],
-        [
-            51.3622584,
-            12.452329749225527
+            34.7284406,
+            113.7595316
         ]
     ],
     "addresses": [
-        "Amazon Logistik GmbH, 1, Eichhof, Asbach, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
-        "Amazon, 1, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland"
+        "Foxconn Technology Group, \u7ecf\u5317\u4e8c\u8def, \u7ba1\u57ce\u56de\u65cf\u533a, \u90d1\u5dde\u5e02, \u6cb3\u5357\u7701, 450046, \u4e2d\u56fd"
     ]
 }

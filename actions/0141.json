@@ -1,9 +1,9 @@
 {
-    "id": 137,
-    "date": "2019/05/08",
+    "id": 134,
+    "date": "2019/04/26",
     "sources": [
-        "https://www.washingtonpost.com/technology/2019/05/08/inside-facebook-second-class-workers-who-do-hardest-job-are-waging-quiet-battle/?noredirect=on&utm_term=.832acb00f260",
-        "https://www.washingtonpost.com/business/2019/05/13/facebook-raising-pay-support-services-thousands-contractors-content-moderators/?utm_term=.f0b4e7b4bf3e"
+        "https://www.wired.com/story/dispute-googles-alleged-retaliation-intensifies/",
+        "https://www.bloomberg.com/news/articles/2019-04-26/google-staffers-share-350-stories-of-systemic-retaliation"
     ],
     "actions": [
         "protest"
@@ -12,36 +12,31 @@
         "working conditions"
     ],
     "employment_types": [
-        "contract workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "But for the past seven months, roughly a dozen moderators in the United States have been spearheading a quiet campaign inside the social media giant to air their grievances about unsatisfactory working conditions and their status as second-class citizens. The contractors, who have not previously spoken publicly about their efforts, are using their access to Facebook Workplace, the social network\u2019s internal communication system, to wage their battle.",
+    "description": "Meredith Whittaker and Claire Stapleton held a town hall for Google workers to discuss the retaliation they have faced from management for engaging in organizing, and to share more than a dozen other stories of retaliation they have gathered. The meeting was held in New York but live-streamed to Google offices elsewhere. This action involved hundreds of workers.",
     "online": null,
     "locations": [
-        "usa"
+        "new york city-new york-usa"
     ],
     "companies": [
-        "facebook",
-        "accenture"
+        "google"
     ],
-    "workers": 12,
+    "workers": 200,
     "tags": [
-        "moderators"
+        "retaliation"
     ],
     "author": [
-        "organizejs"
+        "bentarnoff"
     ],
     "latlngs": [
         [
-            30.2691649,
-            -97.7455041
-        ],
-        [
-            37.3339398,
-            -121.8895142
+            40.7417176,
+            -74.0041592
         ]
     ],
     "addresses": [
-        "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States",
-        "Accenture, 50, West San Fernando Street, Downtown Historic District, San Jose, Santa Clara County, California, 95110, United States"
+        "Google, 111, 8th Avenue, Chelsea, Manhattan Community Board 4, Manhattan, New York County, New York, 10011, United States"
     ]
 }

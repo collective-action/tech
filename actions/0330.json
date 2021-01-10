@@ -1,34 +1,42 @@
 {
-    "id": 340,
-    "date": "2020/10/10",
+    "id": 333,
+    "date": "2020/10/01",
     "sources": [
-        "https://www.vice.com/amp/en_us/article/z3ejzx/facebook-workers-sign-petition-demanding-hazard-pay-for-content-moderators-who-have-to-go-back-to-the-office"
+        "https://workdayminnesota.org/thursday-night-shakopee-amazon-workers-walked-out-in-protest-of-worker-firing/",
+        "https://twitter.com/athenaforall/status/1312080698140962818?s=20"
     ],
     "actions": [
-        "open letter"
+        "protest"
     ],
     "struggles": [
-        "unfair labor practices"
+        "working conditions"
     ],
     "employment_types": [
-        "contract workers"
+        "blue collar workers",
+        "inhouse workers"
     ],
-    "description": "At least 290 Facebook employees and contractors signed a petition demanding a 50% wage increase as hazard pay for site moderators who have been forced to return to the office by October 12th of this year. Additional demands include compensation for all costs related to COVID-19 testing and treatment, as well as additional time off and an expedited time off review process. Accenture, which hired the moderators as contractors, informed them on October 1st that they would have to return to their office in Austin, Texas. A Facebook spokesperson said the reason for the return was that \"some of the most sensitive content can\u2019t be reviewed from home\". Full-time, directly hired Facebook employees don't have to return to the office until July 2021. ",
-    "online": true,
-    "locations": null,
+    "description": "35 Amazon workers in Shakopee, Minnesota walked off the job to protest the firing of Farhiyo Warsame. The company alleged that the employee violated \"time off task\" policies but workers claim that the employee was fired for raising concerns about covid-related safety.",
+    "online": null,
+    "locations": [
+        "shakopee-minnesota-usa"
+    ],
     "companies": [
-        "accenture",
-        "facebook"
+        "amazon"
     ],
-    "workers": 290,
+    "workers": 35,
     "tags": [
-        "coronavirus",
-        "moderators",
-        "coworker_solidarity"
+        "coronavirus"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            44.78839255,
+            -93.44285005008032
+        ]
+    ],
+    "addresses": [
+        "Amazon Sortation Center MSP5, 5825, 11th Avenue East, Shakopee, Scott County, Minnesota, 55379, United States"
+    ]
 }

@@ -1,39 +1,40 @@
 {
-    "id": 124,
-    "date": "2019/03/28",
+    "id": 120,
+    "date": "2019/03/06",
     "sources": [
-        "https://github.com/996icu/996.icu/",
-        "https://radiichina.com/github-protest-chinese-tech-996/",
-        "https://www.ft.com/content/72754638-55d1-11e9-91f9-b6515a54c5b1"
+        "https://onezero.medium.com/uber-delivery-workers-in-mexico-track-thieves-through-a-secret-whatsapp-network-d5795a0e3b41",
+        "https://sira-apps-sindicato.jimdosite.com/",
+        "https://www.facebook.com/pg/sirapps/about/?ref=page_internal"
     ],
     "actions": [
-        "open letter"
+        "union drive"
     ],
     "struggles": [
-        "working conditions"
+        "working conditions",
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "contract workers",
+        "gig workers"
     ],
-    "description": "A campaign against long working hours by professionals in China's technology sector has become one of the fastest growing Github repository in Github's history. The 'anti-996' campaign opposes employees working shifts of 9am-9pm, six days a week, which are commonly required by the country's tech giants.",
-    "online": true,
+    "description": "At least 16 Mexican app delivery drivers met to form the Sindicato Independiente de Repartidores en Aplicaciones (SIRA APPS, rough translation: Independent Union of App Deliverypeople). The union seeks legal recognition, and demands worker accident insurance, worker-led onboarding for new delivery drivers, and assistance with social benefits registration.",
+    "online": null,
     "locations": [
-        "china"
+        "merida-mexico"
     ],
     "companies": null,
-    "workers": 241000,
+    "workers": 16,
     "tags": null,
     "author": [
-        "organizejs"
+        "moates"
     ],
     "latlngs": [
         [
-            35.000074,
-            104.999927
+            20.9670759,
+            -89.6237402
         ]
     ],
     "addresses": [
-        "\u4e2d\u56fd"
+        "M\u00e9rida, Yucat\u00e1n, M\u00e9xico"
     ]
 }

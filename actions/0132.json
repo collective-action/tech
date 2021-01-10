@@ -1,42 +1,33 @@
 {
-    "id": 129,
-    "date": "2019/04/10",
+    "id": 125,
+    "date": "2019/04/01",
     "sources": [
-        "https://www.recode.net/2019/4/10/18304877/amazon-climate-change-employees-tech-activism",
-        "https://www.vox.com/business-and-finance/2019/4/11/18306389/amazon-employees-climate-change-plan"
+        "https://www.theregister.co.uk/2019/04/22/npm_fired_staff_union_complaints",
+        "https://www.salon.com/2019/04/30/software-engineers-at-prominent-tech-firm-say-they-were-fired-for-trying-to-unionize-report/"
     ],
     "actions": [
-        "open letter"
+        "union drive"
     ],
     "struggles": [
-        "ethics"
+        "working conditions"
     ],
     "employment_types": [
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "The company's corporate employees signed their names to a letter published on Wednesday that urged Jeff Bezos to create a comprehensive climate-change plan for the company.",
-    "online": true,
+    "description": "Recently fired NPM employees claim they were punished for trying to form a union. Four complaints have been filed with the National Labor Relations Board, alleging labor law violations by management.",
+    "online": null,
     "locations": [
-        "usa"
+        "oakland-california-usa"
     ],
     "companies": [
-        "amazon"
+        "npm"
     ],
-    "workers": 7000,
-    "tags": [
-        "climate_change"
-    ],
+    "workers": 3,
+    "tags": null,
     "author": [
-        "organizejs"
+        "bentarnoff"
     ],
-    "latlngs": [
-        [
-            47.6142939,
-            -122.3239636
-        ]
-    ],
-    "addresses": [
-        "Amazon Go Grocery, 610, East Pike Street, First Hill, Seattle, King County, Washington, 98122, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

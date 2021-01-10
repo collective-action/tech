@@ -1,34 +1,31 @@
 {
-    "id": 207,
-    "date": "2019/11/08",
+    "id": 203,
+    "date": "2019/11/03",
     "sources": [
-        "https://www.ft.com/content/a3483930-0253-11ea-b7bc-f3fa4e77dd47",
-        "https://www.nytimes.com/2019/11/08/business/wework-employee-letter.html"
+        "https://sf.eater.com/2019/11/4/20947832/instacart-shoppers-strike",
+        "https://medium.com/@vanessabain/dear-instacart-customers-664dbb59016e"
     ],
     "actions": [
-        "open letter"
+        "strike"
     ],
     "struggles": [
-        "job security",
-        "working conditions",
         "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers",
-        "blue collar workers"
+        "gig workers"
     ],
-    "description": "WeWork employees have formed a group to campaign for better severance pay, employment conditions and an end to 'deception, exclusion and selfishness at the company's highest levels' following the turmoil of its failed IPO process.\u00a0The WeWorkers Coalition announced its existence on Friday with a letter to management setting out demands including for sexual assault claims to be 'taken seriously' and for thousands of employees about to lose their jobs to receive 'fair and reasonable separation terms'.\u00a0'Thousands of us will be laid off in the upcoming weeks. But we want our time here to have meant something' the group said in its letter. A software engineer at WeWork who is helping to organise the WeWorkers Coalition, said 185 people had signed the letter to management, while at least 600 expressed an interest in joining ahead of the group publicising its launch this week.\u00a0The coalition wants cleaners and maintenance staff to receive full benefits and fair pay.",
-    "online": true,
-    "locations": null,
+    "description": "Thousands' of Instacart shoppers went on strike from Nov. 3rd to Nov. 5th to protest the company's new tipping policy, which returns a portion of tips to the corporation rather than the workers. Participating shoppers refused to answer requests on the app. Instacart workers are considered contractors currently but this will change on January 1st in the state of California under AB5 legislation.",
+    "online": null,
+    "locations": [
+        "usa"
+    ],
     "companies": [
-        "wework"
+        "instacart"
     ],
-    "workers": 185,
-    "tags": [
-        "coworker_solidarity"
-    ],
+    "workers": 1000,
+    "tags": null,
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
     "latlngs": null,
     "addresses": null

@@ -1,11 +1,11 @@
 {
-    "id": 21,
-    "date": "2012/04/27",
+    "id": 18,
+    "date": "2011/12/28",
     "sources": [
-        "https://www.reuters.com/article/us-china-foxconn/workers-protest-at-foxconn-plant-in-china-idusbre83q0jv20120427"
+        "https://www.reuters.com/article/us-china-lg-strike-idustre7br0jh20111228"
     ],
     "actions": [
-        "protest"
+        "strike"
     ],
     "struggles": [
         "pay and benefits"
@@ -13,19 +13,26 @@
     "employment_types": [
         "blue collar workers"
     ],
-    "description": "Approximately 200 FoxConn workers in Wuhan, China threatened to jump of the roof of a building yesterday to protest low wages. The protests recalled a series of worker suicides in 2010 and a similar protest held in January at the same facility.",
+    "description": "LG workers in Nanjing went on strike to protest the low pay they receive relative to Korean LG employees at the same plant.",
     "online": null,
     "locations": [
-        "wuhan-china"
+        "nanjing-china"
     ],
     "companies": [
-        "foxconn"
+        "lg"
     ],
-    "workers": 200,
+    "workers": 8000,
     "tags": null,
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            32.1576782,
+            118.86592783961245
+        ]
+    ],
+    "addresses": [
+        "LG, \u6816\u971e\u533a, \u5357\u4eac\u5e02, \u4e2d\u56fd"
+    ]
 }

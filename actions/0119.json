@@ -1,36 +1,39 @@
 {
-    "id": 116,
-    "date": "2019/02/18",
+    "id": 112,
+    "date": "2018/12/16",
     "sources": [
-        "https://clb.org.hk/content/food-delivery-drivers-strike-protest-post-new-year-pay-cuts"
+        "https://www.scmp.com/news/china/article/2178201/chinese-workers-apple-supplier-foxconn-stage-street-protest-over-unpaid"
     ],
     "actions": [
-        "strike"
+        "protest"
     ],
     "struggles": [
         "pay and benefits"
     ],
     "employment_types": [
-        "gig workers"
+        "blue collar workers",
+        "contract workers"
     ],
-    "description": "Food delivery workers in at least five cities across China have staged a series of strikes protesting arbitrary reductions in pay rates introduced after the Lunar New Year Holiday. Workers for both major food delivery platforms, Meituan and Ele.me, stopped taking orders starting in February.",
+    "description": "Hundreds of temporary workers for FoxConn rallied on the streets on Zhengzhou to protest unpaid signing bonuses. Protests continued for two nights before being broken up by police.",
     "online": null,
     "locations": [
-        "linyi-china",
-        "dongguan-china",
-        "jinan-china",
-        "pinghu-china",
-        "qingdao-china"
+        "zhengzhou-china"
     ],
     "companies": [
-        "meituan",
-        "ele.me"
+        "foxconn"
     ],
-    "workers": null,
+    "workers": 100,
     "tags": null,
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            34.7284406,
+            113.7595316
+        ]
+    ],
+    "addresses": [
+        "Foxconn Technology Group, \u7ecf\u5317\u4e8c\u8def, \u7ba1\u57ce\u56de\u65cf\u533a, \u90d1\u5dde\u5e02, \u6cb3\u5357\u7701, 450046, \u4e2d\u56fd"
+    ]
 }

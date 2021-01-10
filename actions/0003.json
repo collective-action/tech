@@ -1,8 +1,8 @@
 {
-    "id": 323,
-    "date": "1973/01/01",
+    "id": 322,
+    "date": "1970/12/01",
     "sources": [
-        "https://archive.scienceforthepeople.org/vol-8/v8n1/rumblings-of-organizing-in-silicon-valley/"
+        "https://archive.scienceforthepeople.org/vol-6/v6n6/computer-workers-as-professionals/"
     ],
     "actions": [
         "union drive"
@@ -12,21 +12,26 @@
     ],
     "employment_types": [
         "white collar workers",
-        "inhouse workers"
+        "blue collar workers"
     ],
-    "description": "Workers at Silicon Valley conglomerate Smith-Corona-Marchant (S.C.M.) held a unionizing drive and a hearing with the National Labor Relations Board. The ultimately gained enough votes to continue forward with an NLRB election before losing momentum due to anti-unionizing efforts from company management.  ",
+    "description": "The Committee to Plan a Computer Union meets to plan an \"industry-wide, all-inclusive union which would span the gap between professionals (programmers/ analysts/operators) and non-professionals (key-punch operators/tape-handlers)\". While the plans were not realized, it is one of the first known attempts at unionizing in the computer technology industry.",
     "online": null,
     "locations": [
-        "california-usa"
+        "new york city-new york-usa"
     ],
-    "companies": [
-        "smith-corona-marchant"
-    ],
-    "workers": 50,
+    "companies": null,
+    "workers": null,
     "tags": null,
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            40.7127281,
+            -74.0060152
+        ]
+    ],
+    "addresses": [
+        "New York, United States"
+    ]
 }

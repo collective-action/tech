@@ -1,42 +1,45 @@
 {
-    "id": 134,
-    "date": "2019/04/26",
+    "id": 130,
+    "date": "2019/04/17",
     "sources": [
-        "https://www.wired.com/story/dispute-googles-alleged-retaliation-intensifies/",
-        "https://www.bloomberg.com/news/articles/2019-04-26/google-staffers-share-350-stories-of-systemic-retaliation"
+        "https://www.theatlantic.com/technology/archive/2019/04/instagram-memers-are-unionizing/587308/?fbclid=iwar0enfo9hotaka_ukh0snpjn5pypplmygz1wkelyul-42lue4p-_foalbq0"
     ],
     "actions": [
-        "protest"
+        "union drive"
     ],
     "struggles": [
-        "working conditions"
+        "working conditions",
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "Meredith Whittaker and Claire Stapleton held a town hall for Google workers to discuss the retaliation they have faced from management for engaging in organizing, and to share more than a dozen other stories of retaliation they have gathered. The meeting was held in New York but live-streamed to Google offices elsewhere. This action involved hundreds of workers.",
-    "online": null,
+    "description": "Instagram memers have had enough. They generate the engagement that helps keep Instagram growing\u2014but, they argue, the multibillion-dollar platform doesn't pay them for their work, or give them any control. So they're fighting back. And before you write off IG Meme Union Local 69-420 as a joke, the organizers of the collective would like you to know that they are very serious.",
+    "online": true,
     "locations": [
-        "new york city-new york-usa"
+        "usa"
     ],
     "companies": [
-        "google"
+        "instagram",
+        "facebook"
     ],
-    "workers": 200,
-    "tags": [
-        "retaliation"
-    ],
+    "workers": null,
+    "tags": null,
     "author": [
-        "bentarnoff"
+        "organizejs"
     ],
     "latlngs": [
         [
-            40.7417176,
-            -74.0041592
+            41.14127715,
+            -77.46294984398486
+        ],
+        [
+            30.2691649,
+            -97.7455041
         ]
     ],
     "addresses": [
-        "Google, 111, 8th Avenue, Chelsea, Manhattan Community Board 4, Manhattan, New York County, New York, 10011, United States"
+        "Instagram-Ferris_Joshua / Marycate.minnigh, Campus Drive, Sunset Pines, Lock Haven, Clinton County, Pennsylvania, 17745, United States",
+        "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
     ]
 }

@@ -1,40 +1,38 @@
 {
-    "id": 26,
-    "date": "2013/03/15",
+    "id": 23,
+    "date": "2012/06/05",
     "sources": [
-        "http://allthingsd.com/20130315/uber-drivers-protest-outside-the-companys-san-francisco-headquarters/"
+        "https://www.voanews.com/east-asia/outside-glitzy-taiwan-trade-show-workers-fight-pay-and-rest"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
-        "pay and benefits"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers",
+        "blue collar workers"
     ],
-    "description": "A group of approximately 30 Uber drivers protested outside of the company's San Francisco headquarters to protest lowered pay and lack of job security, including the firing of 500 drivers over the last month. ",
+    "description": "Outside of Taiwan's Computex trade show, labor groups protested poor working conditions and inadequate pay for both white-collar and blue-collar workers",
     "online": null,
     "locations": [
-        "san francisco-california-usa"
+        "taipei-taiwan"
     ],
-    "companies": [
-        "uber"
-    ],
-    "workers": 30,
-    "tags": [
-        "drivers"
-    ],
+    "companies": null,
+    "workers": null,
+    "tags": null,
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            37.7899898,
-            -122.3999799
+            25.0375198,
+            121.5636796
         ]
     ],
     "addresses": [
-        "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States"
+        "\u81fa\u5317\u5e02, \u81fa\u7063"
     ]
 }

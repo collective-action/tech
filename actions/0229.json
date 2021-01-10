@@ -1,38 +1,42 @@
 {
-    "id": 223,
-    "date": "2019/12/23",
+    "id": 219,
+    "date": "2019/12/12",
     "sources": [
-        "https://www.vox.com/recode/2019/12/10/21005098/amazon-warehouse-workers-sacramento"
+        "https://www.vice.com/en_us/article/dyggwv/e-scooter-workers-just-formed-their-first-union"
     ],
     "actions": [
-        "strike"
+        "union representation"
     ],
     "struggles": [
+        "pay and benefits",
         "working conditions"
     ],
     "employment_types": [
-        "blue collar workers"
+        "blue collar workers",
+        "inhouse workers"
     ],
-    "description": "More than 30 Amazon workers at a Sacramento warehouse walked off the job, demanding they receive paid time off. 36 workers \u2014 out of around 100 in total on the shift\u2014 left work two hours early after they read a letter to management out loud stating their demands to be granted paid time off (PTO) and meet with management to discuss their concerns, according to a worker at the site. These workers \u2014 who say they lift hundreds of packages a day in \u201cback-breaking\u201d labor \u2014currently receive zero PTO days a year. The walkout comes weeks after workers say management has ignored their requests to meet with leaders of a group organizing around the issue. So far, workers have circulated an internal and public petition gaining over 4,000 signatures in total.",
+    "description": "E-scooter workers in San Francisco at the Ford-owned start-up Spin joined a union on Wednesday\u2014a first in the fledgling industry. Roughly 40 Spin workers\u2014who collect, repair, deploy, and charge Spin\u2019s fleet of more than 500 electric scooters on the streets of San Francisco\u2014are now part of Teamsters Local 665, as first reported by the San Francisco Examiner. The union says workers want to negotiate for better pay, health care, and retirement security in their first contract.",
     "online": null,
     "locations": [
-        "sacramento-california-usa"
+        "san francisco-california-usa"
     ],
     "companies": [
-        "amazon"
+        "spin"
     ],
-    "workers": 36,
-    "tags": null,
+    "workers": 40,
+    "tags": [
+        "teamster"
+    ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            38.6767343,
-            -121.4948028
+            37.7871368,
+            -122.2795012
         ]
     ],
     "addresses": [
-        "Amazon Avenue, Sacramento, Sacramento County, California, 95835, United States"
+        "SPIN!, Mariner Square Loop, Alameda, Alameda County, California, 94607, United States"
     ]
 }

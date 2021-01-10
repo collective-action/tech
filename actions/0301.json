@@ -1,39 +1,41 @@
 {
-    "id": 304,
-    "date": "2020/07/20",
+    "id": 353,
+    "date": "2020/06/26",
     "sources": [
-        "https://syndicom.ch/aktuell/artikel/bei-google-zuerich-bestimmen-die-zooglers-nun-mit/"
+        "https://www.politico.com/news/2020/06/26/supreme-court-canada-uber-lawsuit-341644"
     ],
     "actions": [
-        "union representation"
+        "legal action"
     ],
     "struggles": [
-        "working conditions"
+        "pay and benefits",
+        "unfair labor practices"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "Employees at Google's Zurich office voted to recognize the Syndicom union as their employee representative. Employees first reached out to Syndicom after management failed to address their concerns over \"Project Dragonfly\", a search engine that would enable the Chinese government to censor certain results. Employee representatives function as consultants and do not engage in collective bargaining. ",
+    "description": "The Supreme Court of Canada allowed a C$400 million lawsuit against Uber by its drivers to proceed. The lawsuit alleges that drivers are, in fact, company employees.",
     "online": null,
     "locations": [
-        "zurich-switzerland"
+        "canada"
     ],
     "companies": [
-        "google"
+        "uber"
     ],
     "workers": null,
-    "tags": null,
+    "tags": [
+        "drivers"
+    ],
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            47.3793085,
-            8.5307904
+            42.9833851,
+            -81.2513098
         ]
     ],
     "addresses": [
-        "Google, 1, Gustav-Gull-Platz, Langstrasse, Aussersihl, Z\u00fcrich, Bezirk Z\u00fcrich, Z\u00fcrich, 8021, Schweiz/Suisse/Svizzera/Svizra"
+        "Uber, Dundas Street, London, Southwestern Ontario, Ontario, N6A 1G2, Canada"
     ]
 }

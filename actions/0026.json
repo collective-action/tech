@@ -1,26 +1,29 @@
 {
-    "id": 23,
-    "date": "2012/06/05",
+    "id": 20,
+    "date": "2012/01/17",
     "sources": [
-        "https://www.voanews.com/east-asia/outside-glitzy-taiwan-trade-show-workers-fight-pay-and-rest"
+        "https://www.nbcnews.com/news/world/wikipedia-goes-dark-piracy-bill-protest-day-flna117714",
+        "https://bits.blogs.nytimes.com/2012/01/18/for-online-protests-throwing-spaghetti-against-the-internet/"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "ethics"
     ],
     "employment_types": [
-        "white collar workers",
-        "blue collar workers"
+        "na"
     ],
-    "description": "Outside of Taiwan's Computex trade show, labor groups protested poor working conditions and inadequate pay for both white-collar and blue-collar workers",
-    "online": null,
+    "description": "A number of prominent websites including Wikipedia, Reddit, and the Internet Archive staged blackouts, taking their websites temporarily offline, to protest anti-piracy legislation in the U.S. Congress. Wikipedia staged a 24-hour blackout, while Reddit's protest lasted 12 hours. Both the Stop Online Piracy Act (SOPA) and Protect IP Act ultimately failed to pass.",
+    "online": true,
     "locations": [
-        "taipei-taiwan"
+        "usa"
     ],
-    "companies": null,
+    "companies": [
+        "wikipedia",
+        "reddit",
+        "internet_archive"
+    ],
     "workers": null,
     "tags": null,
     "author": [
@@ -28,11 +31,11 @@
     ],
     "latlngs": [
         [
-            25.0375198,
-            121.5636796
+            41.593329749999995,
+            -83.08084569825326
         ]
     ],
     "addresses": [
-        "\u81fa\u5317\u5e02, \u81fa\u7063"
+        "Davis-Besse Nuclear Power Station, Carroll Township, Ottawa County, Ohio, United States"
     ]
 }

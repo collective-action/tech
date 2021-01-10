@@ -1,42 +1,42 @@
 {
-    "id": 250,
-    "date": "2020/03/31",
+    "id": 246,
+    "date": "2020/03/19",
     "sources": [
-        "https://www.reuters.com/article/us-health-coronavirus-amazon-com-warehou/amazon-warehouse-workers-protest-near-detroit-days-after-nyc-walkout-iduskbn21j6ix"
+        "https://www.bloomberg.com/news/articles/2020-03-19/google-agrees-to-worker-council-in-europe-amid-recurring-discord"
     ],
     "actions": [
-        "protest"
+        "legal action"
     ],
     "struggles": [
-        "working conditions",
-        "pay and benefits"
+        "na"
     ],
     "employment_types": [
-        "inhouse workers",
-        "blue collar workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Amazon warehouse workers near Detroit staged a demonstration to call for more stringent cleaning practices in their facility and reimbursement for any health bills incurred by employees (and their families) who had contracted coronavirus on the job. Management reports that fewer than 15 employees joined in, while organizers say there were 40 participants. ",
+    "description": "A group of 153 Google employees from 11 European offices wrote to the company\u2019s management requesting the establishment of the council. Google\u2019s management agreed to take the first steps toward creating the council and will soon begin negotiating with employees about its scope. (The creation of such works councils-- which aim to give employees the right to be consulted by management about issues such as organizational changes or job cuts -- is required by the European Union if enough of a company\u2019s employees in at least two countries file a written request). The works council is likely to include employee representatives from more than 35 Google offices across Europe, according to the people familiar with the matte",
     "online": null,
     "locations": [
         "usa"
     ],
     "companies": [
-        "amazon"
+        "google"
     ],
-    "workers": 40,
+    "workers": 153,
     "tags": [
-        "coronavirus"
+        "coworker_solidarity",
+        "international_solidarity"
     ],
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
     "latlngs": [
         [
-            47.6142939,
-            -122.3239636
+            42.3627717,
+            -71.087257
         ]
     ],
     "addresses": [
-        "Amazon Go Grocery, 610, East Pike Street, First Hill, Seattle, King County, Washington, 98122, United States"
+        "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States"
     ]
 }

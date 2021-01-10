@@ -1,35 +1,33 @@
 {
-    "id": 365,
-    "date": "2020/12/03",
+    "id": 361,
+    "date": "2020/11/18",
     "sources": [
-        "https://www.theguardian.com/technology/2020/dec/07/timnit-gebru-google-firing-resignation-ai-research",
-        "https://googlewalkout.medium.com/standing-with-dr-timnit-gebru-isupporttimnit-believeblackwomen-6dadc300d382"
+        "https://www.theguardian.com/technology/2020/nov/18/facebook-workers-demand-better-treatment-pandemic",
+        "https://www.foxglove.org.uk/news/open-letter-from-content-moderators-re-pandemic"
     ],
     "actions": [
         "open letter"
     ],
     "struggles": [
-        "ethics",
-        "discrimination"
+        "pay and benefits",
+        "working conditions",
+        "unfair labor practices"
     ],
     "employment_types": [
-        "white collar workers",
-        "in-house workers"
+        "contract workers"
     ],
-    "description": "After Dr. Timnit Gebru was fired from Google, Googlers wrote an open letter demanding accountability from Google. 2695 Googlers and 4302 academic, industry, and civil society supporters signed on to the letter.",
+    "description": "More than 200 Facebook workers signed a letter demanding better treatment for content moderators after being required to return to the office in the midst of the pandemic. The contractors who wrote the letter condemned the company for deciding \u201cto risk our lives to maintain Facebook\u2019s profits during the pandemic\u201d. It was sent to chief executive officer Mark Zuckerberg, chief operating officer Sheryl Sandberg, and top executives at Accenture and CPL, two companies that contract the moderators. The open letter was published with UK-based non-profit Foxglove.",
     "online": true,
     "locations": null,
     "companies": [
-        "google"
+        "CPL",
+        "facebook",
+        "accenture"
     ],
-    "workers": 2695,
+    "workers": 200,
     "tags": [
-        "sexism",
-        "antiracism",
-        "industry solidarity",
-        "retaliation",
-        "ai",
-        "academics"
+        "coronavirus",
+        "moderators"
     ],
     "author": [
         "organizejs"

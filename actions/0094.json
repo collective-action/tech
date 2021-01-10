@@ -1,41 +1,32 @@
 {
-    "id": 91,
-    "date": "2018/06/21",
+    "id": 87,
+    "date": "2018/06/04",
     "sources": [
-        "https://www.bloomberg.com/news/articles/2018-06-21/google-engineers-refused-to-build-security-tool-to-win-military-contracts"
+        "https://clb.org.hk/content/didi-drivers-china-protest-pay-cuts-and-restrictive-work-practices"
     ],
     "actions": [
-        "protest"
+        "strike"
     ],
     "struggles": [
-        "ethics"
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "Earlier this year, a group of influential software engineers in Google\u2019s cloud division, referred to as the 'Group of Nine', surprised their superiors by refusing to work on a cutting-edge security feature. Known as \u201cair gap,\u201d the technology would have helped Google win sensitive military contracts. The coders weren\u2019t persuaded their employer should be using its technological might to help the government wage war, according to four current and former employees. After hearing the engineers\u2019 objections, Urs H\u00f6lzle, Google\u2019s top technical executive, said the air gap feature would be postponed, one of the people said. ",
+    "description": "Hundreds of Didi drivers in the central city of Shaodong, Hunan, went on strike on 4 June in protest at a policy change that made it more difficult for them to claim their bonus payments. Videos posted online showed a long line of cars with drivers staging a protest on the side of the road. Drivers stayed on strike for six days, which coincided with the National College Entrance Examination. Drivers posted statements asking for support and understanding and apologizing for any inconvenience caused.",
     "online": null,
     "locations": [
-        "usa"
+        "shaodong-china",
+        "hunan-china"
     ],
     "companies": [
-        "google"
+        "didi"
     ],
-    "workers": 9,
-    "tags": [
-        "military_contracts"
-    ],
+    "workers": 100,
+    "tags": null,
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            42.3627717,
-            -71.087257
-        ]
-    ],
-    "addresses": [
-        "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

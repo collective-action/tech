@@ -1,46 +1,33 @@
 {
-    "id": 307,
-    "date": "2020/07/26",
+    "id": 303,
+    "date": "2020/07/20",
     "sources": [
-        "https://www.msn.com/en-us/news/us/boycott-continues-against-cambridge-whole-foods-that-sent-employees-home-for-black-lives-matter-masks/ar-BB16mPY2"
+        "https://www.vice.com/en_us/article/m7jpgy/open-source-community-changing-github-avatars-drop-ice"
     ],
     "actions": [
-        "protest",
-        "strike"
+        "protest"
     ],
     "struggles": [
-        "unfair labor practices",
-        "ethics",
-        "discrimination"
+        "ethics"
     ],
     "employment_types": [
-        "inhouse workers",
-        "blue collar workers"
+        "open source community"
     ],
-    "description": "Whole Foods employees and local residents protested in front of a Cambridge location that turned away seven employees on June 25th for wearing masks with \"Black Lives Matter\" slogans. The event is part of a larger boycott that has been ongoing since the incident. Suverino Frith, one of the seven employees, spoke at the event and called on the company to live up to their \"core values\". ",
-    "online": null,
-    "locations": [
-        "cambridge-massachusetts-usa"
-    ],
+    "description": "Github users have launched a campaign to pressure the company to drop its contracts with ICE. Users have changed their profile pictures to the company's mascot, Octocat, with a message reading \"Drop ICE\". ",
+    "online": true,
+    "locations": null,
     "companies": [
-        "whole_foods",
-        "amazon"
+        "github",
+        "microsoft"
     ],
     "workers": null,
     "tags": [
-        "antiracism",
-        "blm"
+        "ice",
+        "immigration"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            42.3651852,
-            -71.1042178
-        ]
-    ],
-    "addresses": [
-        "Amazon Pickup, 1, Magazine Street, Central Square, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02139, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

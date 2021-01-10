@@ -1,38 +1,41 @@
 {
-    "id": 95,
-    "date": "2018/07/24",
+    "id": 91,
+    "date": "2018/06/21",
     "sources": [
-        "https://www.bostonglobe.com/business/2018/07/24/samsung-workers-agree-end-standoff-workers-deaths/co5pnkkgjsygaxcwszyghm/story.html"
+        "https://www.bloomberg.com/news/articles/2018-06-21/google-engineers-refused-to-build-security-tool-to-win-military-contracts"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
-        "working conditions"
+        "ethics"
     ],
     "employment_types": [
-        "blue collar workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "A group of Samsung factory employees in South Korea organized to call for safer working conditions and medical compensation from the company. After three years of protests, Samsung has agreed to accept the compensation terms and issue an apology.",
+    "description": "Earlier this year, a group of influential software engineers in Google\u2019s cloud division, referred to as the 'Group of Nine', surprised their superiors by refusing to work on a cutting-edge security feature. Known as \u201cair gap,\u201d the technology would have helped Google win sensitive military contracts. The coders weren\u2019t persuaded their employer should be using its technological might to help the government wage war, according to four current and former employees. After hearing the engineers\u2019 objections, Urs H\u00f6lzle, Google\u2019s top technical executive, said the air gap feature would be postponed, one of the people said. ",
     "online": null,
     "locations": [
-        "south korea"
+        "usa"
     ],
     "companies": [
-        "samsung"
+        "google"
     ],
-    "workers": 100,
-    "tags": null,
+    "workers": 9,
+    "tags": [
+        "military_contracts"
+    ],
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
     "latlngs": [
         [
-            35.85911295,
-            128.6363421487917
+            42.3627717,
+            -71.087257
         ]
     ],
     "addresses": [
-        "Samsung, \ub2ec\uad6c\ubc8c\ub300\ub85c, \ubc94\uc5b42\ub3d9, \ubc94\uc5b4\ub3d9, \uc218\uc131\uad6c, \ub300\uad6c, 42031, \ub300\ud55c\ubbfc\uad6d"
+        "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States"
     ]
 }

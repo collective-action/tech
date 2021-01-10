@@ -1,14 +1,13 @@
 {
-    "id": 272,
-    "date": "2019/08/01",
+    "id": 163,
+    "date": "2019/07/19",
     "sources": [
-        "https://www.cbc.ca/news/canada/toronto/food-courier-union-1.5239414",
-        "https://www.cbc.ca/news/canada/toronto/foodora-union-vote-ends-1.5244950",
-        "https://nowtoronto.com/food-and-drink/food/foodora-union-ruling/",
-        "https://nowtoronto.com/food-and-drink/food/foodora-leaving-canada/"
+        "https://sanfrancisco.cbslocal.com/2019/07/19/uber-lyft-drivers-hq-protest-working-conditions/",
+        "https://techcrunch.com/2019/07/18/uber-and-lyft-drivers-demand-better-pay-workplace-protections-and-driver-led-unions/",
+        "https://www.cnet.com/news/uber-lyft-drivers-stage-protest-for-better-working-conditions/"
     ],
     "actions": [
-        "union representation"
+        "strike"
     ],
     "struggles": [
         "pay and benefits",
@@ -17,21 +16,32 @@
     "employment_types": [
         "gig workers"
     ],
-    "description": "Foodora couriers in Toronto are preparing to vote on union certification in what could create Canada's first unionized workforce of app-based workers. An application by the Canadian Union of Postal Workers was filed last week with the Ontario Labour Relations Board, months after a campaign was launched that addressed working conditions. The union says couriers intend to negotiate a better compensation model, health and safety protections when workers are injured and recognition of basic rights of workers that aren't recognized by Foodora, which classifies them as independent contractors. Update: In February 2020, the Ontario Labour Relations Board rules that Foodora workers are dependent contractors and have the right to unionize. In April 2020, Foodora announced it was pulling out of the Canadian market. ",
+    "description": "Uber and Lyft drivers chanted and cheered outside the Uber headquarters building in San Francisco on Friday as they delivered a letter demanding negotiations for better working conditions. In an open letter, published to coincide with the protest, drivers called on Uber CEO Dara Khosrowshahi and Lyft co-founders Logan Green and John Zimmer for changes in treatment. Drivers tried to present the letter at the protest, but weren't able to enter Uber's headquarters.",
     "online": null,
     "locations": [
-        "toronto-ontario-canada"
+        "san francisco-california-usa"
     ],
     "companies": [
-        "foodera"
+        "uber",
+        "lyft"
     ],
-    "workers": null,
-    "tags": [
-        "delivery_workers"
-    ],
+    "workers": 40,
+    "tags": null,
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.7899898,
+            -122.3999799
+        ],
+        [
+            37.7759881,
+            -122.3919991
+        ]
+    ],
+    "addresses": [
+        "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States",
+        "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States"
+    ]
 }

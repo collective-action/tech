@@ -1,42 +1,46 @@
 {
-    "id": 314,
-    "date": "1970/01/01",
+    "id": 382,
+    "date": "1969/03/04",
     "sources": [
-        "https://www.theguardian.com/commentisfree/2019/dec/06/google-ibm-tech-racism"
+        "https://logicmag.io/play/joan-greenbaum-on-the-early-days-of-tech-worker-organizing/",
+        "https://archive.scienceforthepeople.org/vol-2/v2n2/computer-professionals-for-peace/",
+        "https://eli.naeher.name/pdfs/interrupt-5.pdf"
     ],
     "actions": [
-        "resources"
+        "protest",
+        "open letter"
     ],
     "struggles": [
-        "ethics",
-        "discrimination"
+        "ethics"
     ],
     "employment_types": [
         "white collar workers",
-        "inhouse workers"
+        "in-house workers",
+        "blue collar workers"
     ],
-    "description": "Black IBM employees founded the National Black Workers Alliance of IBM (BWA), \"the first-ever movement of hi-tech minority workers\". The organization was one of the first to speak out against the company's involvement in South Africa and to demand equal pay and better opportunities for promotion for Black employees. They collected data on internal pay guidelines salaries at IBM to increase their leverage with management and supported fellow employees who faced retaliation after speaking out.",
+    "description": "Computer People for Peace (established as Computer People for Peace - name changed in 1970) formed in 1968/1969 in protest of the Vietnam War. The group pressured the Association for Computing Machinery (ACM) to adopt an anti-war position and NYC members collected 320 signatures on petitions against the military's use of technology. They raised funds to pay for the bail of a fellow programmer, Clark Squire, who was arrested for his activity with the Black Panthers. The group also attended an event at NYU to support work and research stoppages in universities.",
     "online": null,
     "locations": [
-        "usa"
+        "new york city-new york-usa"
     ],
-    "companies": [
-        "ibm"
-    ],
-    "workers": null,
+    "companies": null,
+    "workers": 320,
     "tags": [
-        "antiracism"
+        "academics",
+        "military_contracts",
+        "antiracism",
+        "politics"
     ],
     "author": [
-        "nataliyaned"
+        "CM"
     ],
     "latlngs": [
         [
-            44.05795005,
-            -92.50701462052399
+            40.7127281,
+            -74.0060152
         ]
     ],
     "addresses": [
-        "IBM, Rochester, Olmsted County, Minnesota, United States"
+        "New York, United States"
     ]
 }

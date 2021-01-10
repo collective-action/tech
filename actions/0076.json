@@ -1,39 +1,48 @@
 {
-    "id": 73,
-    "date": "2017/12/13",
+    "id": 69,
+    "date": "2017/03/22",
     "sources": [
-        "https://www.northjersey.com/story/money/2017/12/13/warehouse-workers-holds-protest-amazon-store/945571001/"
+        "https://www.siliconvalley.com/2017/03/23/at-strike-workers-go-back-to-work-after-one-day/",
+        "https://money.cnn.com/2017/03/22/news/companies/att-strike-landline-workers/index.html"
     ],
     "actions": [
-        "protest"
+        "strike"
     ],
     "struggles": [
         "working conditions",
-        "pay and benefits"
+        "job security"
     ],
     "employment_types": [
         "blue collar workers"
     ],
-    "description": "Workers from Amazon's New Jersey warehouses protested outside of an Amazon Books store in Manhattan calling for better compensation, benefits, and working conditions. ",
+    "description": "About 17,000 AT&T workers walked off the job Wednesday. Workers say that AT&T was forcing technicians to work outside their areas of expertise. The union also was protesting the companies's outsourcing and offshoring of jobs. AT&T wireless workers were not affected.",
     "online": null,
     "locations": [
-        "manhattan-new york city-new york-usa"
+        "california-usa",
+        "nevada-usa"
     ],
     "companies": [
-        "amazon"
+        "at&t"
     ],
-    "workers": 65,
-    "tags": null,
+    "workers": 17000,
+    "tags": [
+        "technicians"
+    ],
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
     "latlngs": [
         [
-            40.722465,
-            -73.9977307
+            33.80967965,
+            -117.83605415
+        ],
+        [
+            36.0225066,
+            -115.083387
         ]
     ],
     "addresses": [
-        "Amazon, 72, Spring Street, SoHo, Manhattan Community Board 2, Manhattan, New York County, New York, 10013, United States"
+        "AT&T, 1302, North Tustin Street, Orange, Orange County, California, 92867, United States",
+        "AT&T, South Green Valley Parkway, Green Valley Ranch, Henderson, Clark County, Nevada, 89074, United States"
     ]
 }

@@ -1,56 +1,36 @@
 {
-    "id": 235,
-    "date": "2020/03/06",
+    "id": 231,
+    "date": "2020/02/14",
     "sources": [
-        "https://fortune.com/2020/03/10/gig-workers-petition-for-sick-leave-coronavirus/",
-        "https://www.coworker.org/petitions/demand-gig-economy-companies-give-paid-sick-time-off-during-coronavirus",
-        "https://www.fastcompany.com/90472535/coronavirus-paid-sick-leave"
+        "https://www.change.org/p/larry-ellison-uphold-company-ethics",
+        "https://time.com/5784848/oracle-petition-larry-ellison-trump/",
+        "https://www.washingtontimes.com/news/2020/feb/14/oracle-employees-petition-chairman-larry-ellison-t/"
     ],
     "actions": [
         "open letter"
     ],
     "struggles": [
-        "working conditions",
-        "unfair labor practices"
+        "ethics",
+        "discrimination"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers"
     ],
-    "description": "Gig Workers Rising launched a petition calling on the heads of the biggest gig economy platforms to give workers paid sick leave amid the coronavirus outbreak. That petition garnered more than 900 signatures. In the petition, the workers say they are often on the \u201cfront lines of exposure,\u201d given that every day they come in contact with various people, including those arriving at airports or heading to the hospital. Without paid sick leave, the gig workers say they are often forced to choose between making ends meet and taking care of their health, and therefore the health of the company's customers. ",
+    "description": "Oracle founder and CTO Larry Ellison\u2018s decision to throw a fundraiser for President Donald Trump has angered  Oracle employees, who have set up a Change.org petition demanding he cancel the fundraiser. \u201cAs Oracle employees, we must hold our leaders accountable for upholding their ethical responsibilities,\u201d the petition, which anyone can sign, continues. \u201cEllison\u2019s financial support of Donald Trump endangers the well-being of women, immigrants, communities of color, the environment, LGBTQ and trans communities, disabled people and workers everywhere.\u201d",
     "online": true,
-    "locations": [
-        "california-usa"
-    ],
+    "locations": null,
     "companies": [
-        "uber",
-        "lyft",
-        "instacart",
-        "doordash"
+        "oracle"
     ],
-    "workers": 900,
+    "workers": null,
     "tags": [
-        "coronavirus"
+        "trump",
+        "lgbtq",
+        "ableism"
     ],
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            37.7899898,
-            -122.3999799
-        ],
-        [
-            37.750721999999996,
-            -122.40243254779433
-        ],
-        [
-            37.7834546,
-            -122.4080358
-        ]
-    ],
-    "addresses": [
-        "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States",
-        "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States",
-        "Doordash HQ, 901, Market Street, Union Square, San Francisco, San Francisco City and County, California, 94103-3124, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

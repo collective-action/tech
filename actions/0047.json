@@ -1,41 +1,41 @@
 {
-    "id": 44,
-    "date": "2014/12/03",
+    "id": 41,
+    "date": "2014/09/19",
     "sources": [
-        "https://www.theguardian.com/technology/2014/dec/03/amazon-mechanical-turk-workers-protest-jeff-bezos",
-        "http://www.wearedynamo.org/dearjeffbezos"
+        "https://thinkprogress.org/silicon-valley-workers-protest-for-fair-wages-at-apple-stores-during-iphone-6-launch-860a32a25b98/"
     ],
     "actions": [
-        "open letter"
+        "protest"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions",
-        "unfair labor practices"
+        "pay and benefits"
     ],
     "employment_types": [
-        "gig workers"
+        "contract workers",
+        "blue collar workers"
     ],
-    "description": "Hundreds of Mechanical Turk workers participate in an email writing campaign to Amazon founder Jeff Bezos to protest low pay and worker representation. The workers are organized by 'We Are Dynamo', a self-described guild for crowdsourced workers started by workers and academics.",
-    "online": true,
+    "description": "In front of Apple stores nationwide, tech companies employees gathered to protest alongside hundreds of eager customers waiting in line to buy the iPhone 6. The protesters weren't disgruntled Apple engineers or developers; they were security officers, maintenance and custodial staff demanding better wages from tech companies.",
+    "online": null,
     "locations": [
         "usa"
     ],
     "companies": [
-        "amazon"
+        "apple"
     ],
-    "workers": 550,
-    "tags": null,
+    "workers": null,
+    "tags": [
+        "seiu"
+    ],
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
     "latlngs": [
         [
-            47.6142939,
-            -122.3239636
+            42.3489689,
+            -71.0824143
         ]
     ],
     "addresses": [
-        "Amazon Go Grocery, 610, East Pike Street, First Hill, Seattle, King County, Washington, 98122, United States"
+        "Apple Store, 815, Boylston Street, Block F, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States"
     ]
 }

@@ -1,26 +1,29 @@
 {
-    "id": 104,
-    "date": "2018/11/20",
+    "id": 100,
+    "date": "2018/10/09",
     "sources": [
-        "https://www.buzzfeednews.com/article/carolineodonovan/blue-apron-lawsuit-unpaid-wages"
+        "https://www.theguardian.com/technology/2018/oct/09/uber-uk-strike-users-urged-not-to-cross-digital-picket-line",
+        "https://www.bbc.com/news/business-45796409"
     ],
     "actions": [
-        "legal action"
+        "strike"
     ],
     "struggles": [
         "pay and benefits",
         "working conditions"
     ],
     "employment_types": [
-        "blue collar workers"
+        "gig workers"
     ],
-    "description": "Blue Apron employees have filed a class-action lawsuit against the companies, alleging that they weren't paid overtime, or for meal breaks, among other labor law violations. They are seeking back pay for missed wages and a trial by jury. Blue Apron employs thousands of low-wage workers in food processing plants in New Jersey, Texas, and California, where this suit was filed. An employee alleges that Blue Apron routinely forced hourly employees to clock out before their meal break, effectively cheating them out of thirty minutes of pay per shift, a practice known in the world of labor law as \u201ctime shaving.\u201d",
+    "description": "Hundreds of Uber drivers are expected to switch off their apps from 1pm, making themselves unavailable for work, union organisers said. Protests are also being held outside the ride-hailing app's offices in London, Nottingham and Birmingham.",
     "online": null,
     "locations": [
-        "california-usa"
+        "london-uk",
+        "nottingham-uk",
+        "birmingham-uk"
     ],
     "companies": [
-        "blue apron"
+        "uber"
     ],
     "workers": 100,
     "tags": null,
@@ -29,11 +32,16 @@
     ],
     "latlngs": [
         [
-            33.9446707,
-            -117.026448
+            51.5148804,
+            -0.0718856
+        ],
+        [
+            52.4746766,
+            -1.91586332385543
         ]
     ],
     "addresses": [
-        "Apron Lane, Beaumont, Riverside County, California, 92223, United States"
+        "Uber, 2, Leman Street, Spitalfields, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, E1 8FA, United Kingdom",
+        "UBER, 100, Broad Street, Ladywood, Park Central, Birmingham, West Midlands Combined Authority, West Midlands, England, B15 1AE, United Kingdom"
     ]
 }

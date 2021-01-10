@@ -1,40 +1,39 @@
 {
-    "id": 77,
-    "date": "2018/03/06",
+    "id": 73,
+    "date": "2017/12/13",
     "sources": [
-        "https://www.mercurynews.com/2018/03/07/stanford-students-protest-outside-apple-headquarters-over-smartphone-addiction/"
+        "https://www.northjersey.com/story/money/2017/12/13/warehouse-workers-holds-protest-amazon-store/945571001/"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
-        "ethics"
+        "working conditions",
+        "pay and benefits"
     ],
     "employment_types": [
-        "na"
+        "blue collar workers"
     ],
-    "description": "Stanford Students Against Addictive Devices, a group of computer science students at the university, stage a protest at Apple Headquarters. They call for Apple to design devices with an 'essential mode', allowing the user to activate only basic functions. The group previously held a protest at the Apple store in downtown Palo Alto.",
+    "description": "Workers from Amazon's New Jersey warehouses protested outside of an Amazon Books store in Manhattan calling for better compensation, benefits, and working conditions. ",
     "online": null,
     "locations": [
-        "palo alto-california-usa"
+        "manhattan-new york city-new york-usa"
     ],
     "companies": [
-        "apple"
+        "amazon"
     ],
-    "workers": null,
-    "tags": [
-        "students"
-    ],
+    "workers": 65,
+    "tags": null,
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            37.4417249,
-            -122.1725159
+            40.722465,
+            -73.9977307
         ]
     ],
     "addresses": [
-        "Apple Store, 660, Stanford Shopping Center, Stanford, Palo Alto, Santa Clara County, California, 94025, United States"
+        "Amazon, 72, Spring Street, SoHo, Manhattan Community Board 2, Manhattan, New York County, New York, 10013, United States"
     ]
 }

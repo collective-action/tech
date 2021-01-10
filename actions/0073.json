@@ -1,42 +1,44 @@
 {
-    "id": 70,
-    "date": "2017/07/24",
+    "id": 66,
+    "date": "2017/02/01",
     "sources": [
-        "http://unitehere.org/press-releases/cafeteria-workers-at-facebook-unionize-continuing-movement-for-a-more-inclusive-silicon-valley",
-        "https://www.salon.com/2017/09/04/silicon-valleys-burgeoning-labor-movement/"
+        "https://www.usatoday.com/story/tech/talkingtech/2017/01/30/googlers-stage-worldwide-walkout-trump-immigration-ban-rally-mountain-view-serge-brin-sundar-pichai/97265938/",
+        "https://www.theverge.com/google/2017/1/30/14446466/google-immigration-protest-walkout-trump-googlers-unite"
     ],
     "actions": [
-        "union representation"
+        "protest"
     ],
     "struggles": [
-        "pay and benefits"
+        "ethics"
     ],
     "employment_types": [
-        "contract workers",
-        "blue collar workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Over 500 food service workers at Facebook won union representation at the tech giant's campus in Menlo Park, CA. The workers, who are employed by contractor Flagship Facility Services, are calling for increased wages to compete with skyrocketing rents and more affordable health benefits.",
+    "description": "Google employees around the world walked off the job to protest Pres. Trump's immigration ban. Google co-founder Sergey Brin and CEO Sundar Pichai spoke at the walk-out at the Mountain View headquarters.",
     "online": null,
     "locations": [
-        "menlo park-california-usa"
+        "mountain view-california-usa",
+        "worldwide"
     ],
     "companies": [
-        "facebook"
+        "google"
     ],
-    "workers": 500,
+    "workers": 2000,
     "tags": [
-        "twc"
+        "immigration",
+        "trump"
     ],
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            37.484668049999996,
-            -122.1483654685629
+            37.41897865,
+            -122.08237793989416
         ]
     ],
     "addresses": [
-        "Facebook, Bayfront Expressway, Menlo Park, San Mateo County, California, 94025-1246, United States"
+        "Google, Mountain View, Santa Clara County, California, United States"
     ]
 }

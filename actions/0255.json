@@ -1,61 +1,42 @@
 {
-    "id": 244,
-    "date": "2020/03/19",
+    "id": 273,
+    "date": "2020/03/18",
     "sources": [
-        "https://www.cnet.com/news/uber-lyft-drivers-demand-companies-do-more-to-protect-them-from-coronavirus/",
-        "https://www.sacbee.com/news/politics-government/capitol-alert/article241304131.html",
-        "https://www.forbes.com/sites/janetwburns/2020/03/19/drivers-protest-outside-uber-hq-for-covid-19-sick-leave-and-pay-under-california-law-ab5/#1d4e6af48f7a"
+        "https://www.nytimes.com/2020/05/14/technology/amazon-unions-france-coronavirus.html",
+        "https://www.reuters.com/article/us-health-coronavirus-france-amazon-idUSKBN2152MP"
     ],
     "actions": [
-        "open letter"
+        "strike"
     ],
     "struggles": [
-        "working conditions",
-        "unfair labor practices"
+        "working conditions"
     ],
     "employment_types": [
-        "gig workers"
+        "inhouse workers",
+        "blue collar workers"
     ],
-    "description": "As the novel coronavirus spreads around the world, Uber and Lyft drivers in California are asking both companies to do more to protect them. A coalition of drivers released a list of demands, signed by thousands, asking the ride-hailing services to take immediate steps to help ensure their safety. The demands include providing free COVID-19 screenings to all drivers, along with 14 days paid leave for all affected drivers. The drivers are organized with advocacy group Mobile Workers Alliance.",
+    "description": "French Amazon employees at six warehouses protested and threatened walkouts over lax covid-19 protections, calling for the company to adhere to social distancing, provide personal protective equipment, and initiate employee temperature checks. A spokesperson for Amazon's French CFDT union estimated that between 30-40% of Amazon employees in the country were no longer showing up to work over safety concerns or because of childcare obligations. A French law requires workplaces to keep paying workers who refuse to work over safety concerns. ",
     "online": null,
     "locations": [
-        "san francisco-california-usa",
-        "los angeles-california-usa",
-        "san diego-california-usa"
+        "saran-france"
     ],
     "companies": [
-        "lyft",
-        "uber"
+        "amazon"
     ],
-    "workers": 2000,
+    "workers": 250,
     "tags": [
         "coronavirus"
     ],
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            37.7759881,
-            -122.3919991
-        ],
-        [
-            37.7899898,
-            -122.3999799
-        ],
-        [
-            32.7768074,
-            -117.0684271
-        ],
-        [
-            32.7768074,
-            -117.0684271
+            47.9619318,
+            1.8440185793930501
         ]
     ],
     "addresses": [
-        "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States",
-        "Uber, 555, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States",
-        "Uber / Lyft Driver Drop Off, 1, Campanile Mall, Montezuma Mesa, Del Cerro, San Diego, San Diego County, California, 92115, United States",
-        "Uber / Lyft Driver Drop Off, 1, Campanile Mall, Montezuma Mesa, Del Cerro, San Diego, San Diego County, California, 92115, United States"
+        "Amazon.fr ORY1, Rue de l'Olivier, Deret Logistique, Saran, Orl\u00e9ans, Loiret, Centre-Val de Loire, France m\u00e9tropolitaine, 45770, France"
     ]
 }

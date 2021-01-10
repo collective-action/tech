@@ -1,9 +1,8 @@
 {
-    "id": 221,
-    "date": "2019/12/19",
+    "id": 217,
+    "date": "2019/12/04",
     "sources": [
-        "https://static.theintercept.com/amp/shutterstock-china-censorship-tech.html",
-        "https://medium.com/@techagainstfascism/in-solidarity-with-pluralism-and-peaceful-dissent-in-india-b9c40e0d4476"
+        "https://www.latimes.com/business/technology/story/2019-12-04/github-open-source-developers-ice-contract"
     ],
     "actions": [
         "open letter"
@@ -14,13 +13,18 @@
     "employment_types": [
         "white collar workers"
     ],
-    "description": "In an open letter, several engineers, researchers, analysts, and designers working with global companies such as Google and Facebook have condemned the Citizenship (Amendment) Act in India. The letter, issued 'in solidarity with the Indian democracy', was posted through the 'TechAgainstFascism' handle on Medium. It called upon technology leaders to take a stance and publicly denounce the 'fascist acts by the Indian government'. 'We call upon the leaders to use technology as a force for good, to refuse to share user details with the government, refuse to shut off the Internet at the government's whim, provide tools for citizen mobilization, and ensure that content moderation is not skewing pro-government,' it said.",
+    "description": "In an open letter published Wednesday on GitHub, software developers representing the open source community joined the call for GitHub to immediately cancel the $200,000 contract with ICE. 'Open source is about inverting power structures and creating access and opportunities for everyone,' the letter, signed by 167 developers at the time of publication, reads. 'We, the undersigned, cannot see how to reconcile our ethics with GitHub\u2019s continued support of ICE. Moreover, your lack of transparency around the ethical standards you use for conducting business is also concerning to a community that is focused around doing everything out in the open.'",
     "online": true,
     "locations": null,
-    "companies": null,
-    "workers": 400,
+    "companies": [
+        "github",
+        "microsoft"
+    ],
+    "workers": 200,
     "tags": [
-        "international_solidarity"
+        "industry_solidarity",
+        "immigration",
+        "ice"
     ],
     "author": [
         "organizejs"

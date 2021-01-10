@@ -1,45 +1,43 @@
 {
-    "id": 177,
-    "date": "2019/09/05",
+    "id": 173,
+    "date": "2019/08/22",
     "sources": [
-        "https://abc7news.com/business/delivery-app-drivers-rally-for-higher-wages-at-sf-headquarters/5519192/"
+        "https://www.washingtonpost.com/business/2019/08/22/war-inside-palantir-data-mining-firms-ties-ice-under-attack-by-employees/",
+        "https://www.businessinsider.com/palantir-employees-ice-petition-alex-karp-2019-8"
     ],
     "actions": [
+        "open letter",
         "protest"
     ],
     "struggles": [
-        "pay and benefits"
+        "ethics"
     ],
     "employment_types": [
-        "gig workers"
+        "na"
     ],
-    "description": "Employees from Instacart, Doordash, and Postmates rallied outside of company headquarters to protest low wages. Doordash is rolling out a new pay model at the end of September which, it claims, will offer better pay for shoppers.",
+    "description": "More than 60' Palantir employees have signed a petition to management calling for the company to send profits from ICE contracts to charity. This comes after the company renewed its second contract with ICE on Aug. 19.",
     "online": null,
     "locations": [
-        "san francisco-california-usa"
+        "usa"
     ],
     "companies": [
-        "postmates",
-        "doordash",
-        "instacart"
+        "palantir"
     ],
-    "workers": null,
-    "tags": null,
+    "workers": 61,
+    "tags": [
+        "immigration",
+        "ice"
+    ],
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            37.7753423,
-            -122.39763106771915
-        ],
-        [
-            37.7834546,
-            -122.4080358
+            37.4440869,
+            -122.16287540411753
         ]
     ],
     "addresses": [
-        "UserTesting, 690, 5th Street, South of Market, San Francisco, San Francisco City and County, California, 94017, United States",
-        "Doordash HQ, 901, Market Street, Union Square, San Francisco, San Francisco City and County, California, 94103-3124, United States"
+        "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States"
     ]
 }

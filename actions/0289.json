@@ -1,33 +1,28 @@
 {
-    "id": 293,
-    "date": "2020/06/09",
+    "id": 270,
+    "date": "2020/06/06",
     "sources": [
-        "https://www.wsws.org/en/articles/2020/06/12/braz-j12.html"
+        "https://www.washingtonpost.com/technology/2020/06/06/chan-zuckerberg-initiative-open-letter-trump/"
     ],
     "actions": [
-        "protest",
-        "strike"
+        "open letter"
     ],
     "struggles": [
-        "working conditions",
-        "pay and benefits"
+        "ethics"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers"
     ],
-    "description": "Loggi delivery workers in Brazil went on strike starting June 9th to protest poor working conditions, including lack of protections against coronavirus, and low pay. Protestors also commemorated the death of a fellow worker, Thiago Coelho, who was killed in a motorcycle accident. ",
-    "online": null,
-    "locations": [
-        "rio de janiero-brazil",
-        "s\u00e3o paulo-brazil"
-    ],
+    "description": "Scientists funded by the Chan Zuckerberg Initiative addressed a letter to Mark Zuckerberg critiquing Facebook's role in diffusing inaccurate information, in particular Donald Trump's \"when the looting starts, the shooting starts\" comment in relation to the George Floyd protests. The authors argued that the letter promotes violence. ",
+    "online": true,
+    "locations": null,
     "companies": [
-        "loggi"
+        "facebook"
     ],
-    "workers": null,
+    "workers": 141,
     "tags": [
-        "coronavirus",
-        "delivery_workers"
+        "academics",
+        "ai"
     ],
     "author": [
         "nataliyaned"

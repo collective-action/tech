@@ -1,40 +1,43 @@
 {
-    "id": 355,
-    "date": "2020/10/26",
+    "id": 350,
+    "date": "2020/10/17",
     "sources": [
-        "https://www.bbc.co.uk/news/amp/business-54698858"
+        "https://fortune.com/2020/10/16/amazon-employee-activists-union-climate-justice/",
+        "https://www.cbsnews.com/news/amazon-workers-petition-election-day-holiday-paid-time-off/"
     ],
     "actions": [
-        "legal action"
+        "protest"
     ],
     "struggles": [
-        "unfair labor practices"
+        "working conditions",
+        "ethics"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "British Uber drivers are launching a lawsuit in the Netherlands to protest the company's use of algorithms to fire workers. The App Drivers & Couriers Union (ADCU) claims there are over 1,000 cases of drivers being wrongfully fired and that this violates Article 22 of the GDPR. This Article grants technology users a right to an explanation for any automated decisions. ",
+    "description": "Amazon Employees for Climate Justice organized a rally in Seattle to call for paid time off for workers to vote on Election Day. A few hundred people attended the rally according to CBS News. Amazon stated that managers have been instructed to approve time-off requests for voting. ",
     "online": null,
     "locations": [
-        "netherlands"
+        "seattle-washington-usa"
     ],
     "companies": [
-        "uber"
+        "amazon"
     ],
     "workers": null,
     "tags": [
-        "drivers"
+        "politics"
     ],
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            50.9812235,
-            6.008447
+            47.6142939,
+            -122.3239636
         ]
     ],
     "addresses": [
-        "Balanceer over de boomstammen!, Leiffenderhofweg, Schinveld, Beekdaelen, Limburg, Nederland, 6451, Nederland"
+        "Amazon Go Grocery, 610, East Pike Street, First Hill, Seattle, King County, Washington, 98122, United States"
     ]
 }

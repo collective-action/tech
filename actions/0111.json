@@ -1,34 +1,39 @@
 {
-    "id": 108,
-    "date": "2018/12/04",
+    "id": 104,
+    "date": "2018/11/20",
     "sources": [
-        "https://www.washingtonpost.com/technology/2018/12/04/new-rules-guarantee-minimum-wage-nyc-uber-lyft-drivers/"
+        "https://www.buzzfeednews.com/article/carolineodonovan/blue-apron-lawsuit-unpaid-wages"
     ],
     "actions": [
         "legal action"
     ],
     "struggles": [
-        "pay and benefits"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
-        "gig workers"
+        "blue collar workers"
     ],
-    "description": "After a multiyear campaign by app-based drivers, some of whom were organized under the Independent Driver's Guild, New York City's Taxi and Limousine Commission passed a new law setting minimum wage at $17.22 per hour in the city. ",
+    "description": "Blue Apron employees have filed a class-action lawsuit against the companies, alleging that they weren't paid overtime, or for meal breaks, among other labor law violations. They are seeking back pay for missed wages and a trial by jury. Blue Apron employs thousands of low-wage workers in food processing plants in New Jersey, Texas, and California, where this suit was filed. An employee alleges that Blue Apron routinely forced hourly employees to clock out before their meal break, effectively cheating them out of thirty minutes of pay per shift, a practice known in the world of labor law as \u201ctime shaving.\u201d",
     "online": null,
     "locations": [
-        "new york city-new york-usa"
+        "california-usa"
     ],
     "companies": [
-        "uber",
-        "lyft"
+        "blue apron"
     ],
-    "workers": null,
-    "tags": [
-        "drivers"
-    ],
+    "workers": 100,
+    "tags": null,
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            33.9446707,
+            -117.026448
+        ]
+    ],
+    "addresses": [
+        "Apron Lane, Beaumont, Riverside County, California, 92223, United States"
+    ]
 }

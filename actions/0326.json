@@ -1,42 +1,45 @@
 {
-    "id": 333,
-    "date": "2020/10/01",
+    "id": 332,
+    "date": "2020/09/21",
     "sources": [
-        "https://workdayminnesota.org/thursday-night-shakopee-amazon-workers-walked-out-in-protest-of-worker-firing/",
-        "https://twitter.com/athenaforall/status/1312080698140962818?s=20"
+        "https://www.cnbc.com/2020/10/01/google-contractors-allege-ndas-violate-free-speech-laws.html",
+        "https://www.courts.ca.gov/opinions/documents/A157097.PDF"
     ],
     "actions": [
-        "protest"
+        "legal action"
     ],
     "struggles": [
-        "working conditions"
+        "unfair labor practices"
     ],
     "employment_types": [
-        "blue collar workers",
-        "inhouse workers"
+        "contract workers"
     ],
-    "description": "35 Amazon workers in Shakopee, Minnesota walked off the job to protest the firing of Farhiyo Warsame. The company alleged that the employee violated \"time off task\" policies but workers claim that the employee was fired for raising concerns about covid-related safety.",
+    "description": "A number of contractors for Google (employed through staffing firm Adecco) have filed a lawsuit alleging that confidentiality agreements with the company deprive them of basic legal rights, such as free speech. Contractors are prevented from discussing wages or working conditions, which they claim prohibit them from \u201cdisclosing violations of state and federal law, either within Google to their managers or outside Google to private attorneys or government officials\u201d. The Sept. 21st filing with a California appeals court reverses a lower court decision, allowing the lawsuit to proceed. ",
     "online": null,
     "locations": [
-        "shakopee-minnesota-usa"
+        "san francisco-california-usa"
     ],
     "companies": [
-        "amazon"
+        "google",
+        "adecco"
     ],
-    "workers": 35,
-    "tags": [
-        "coronavirus"
-    ],
+    "workers": null,
+    "tags": null,
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            44.78839255,
-            -93.44285005008032
+            37.41897865,
+            -122.08237793989416
+        ],
+        [
+            40.572519,
+            -122.3505599
         ]
     ],
     "addresses": [
-        "Amazon Sortation Center MSP5, 5825, 11th Avenue East, Shakopee, Scott County, Minnesota, 55379, United States"
+        "Google, Mountain View, Santa Clara County, California, United States",
+        "Adecco, 1080, East Cypress Avenue, Redding, Shasta County, California, 96002, United States"
     ]
 }

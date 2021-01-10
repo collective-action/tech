@@ -1,29 +1,27 @@
 {
-    "id": 224,
-    "date": "2020/01/13",
+    "id": 221,
+    "date": "2019/12/19",
     "sources": [
-        "https://www.vice.com/amp/en_us/article/884npb/instacart-workers-are-calling-for-a-national-boycott-of-the-grocery-delivery-app"
+        "https://static.theintercept.com/amp/shutterstock-china-censorship-tech.html",
+        "https://medium.com/@techagainstfascism/in-solidarity-with-pluralism-and-peaceful-dissent-in-india-b9c40e0d4476"
     ],
     "actions": [
-        "protest"
+        "open letter"
     ],
     "struggles": [
-        "pay and benefits"
+        "ethics"
     ],
     "employment_types": [
-        "blue collar workers",
-        "gig workers"
+        "white collar workers"
     ],
-    "description": "Many of the app's 130,000 workers claim to have seen their pay drop by more than 50 percent in 2019 alone, as the company has sought to lower costs and appease its investors. Workers are now calling for a national boycott. They\u2019re asking customers and the general public to tweet under the hashtag #DeleteInstacart on January 19, and to email Instacart CEO Apoorva Mehta on January 20, asking him to restore the 10 percent default tip\u2014which workers lost back in 2016. (The default tip sits at five percent.)",
+    "description": "In an open letter, several engineers, researchers, analysts, and designers working with global companies such as Google and Facebook have condemned the Citizenship (Amendment) Act in India. The letter, issued 'in solidarity with the Indian democracy', was posted through the 'TechAgainstFascism' handle on Medium. It called upon technology leaders to take a stance and publicly denounce the 'fascist acts by the Indian government'. 'We call upon the leaders to use technology as a force for good, to refuse to share user details with the government, refuse to shut off the Internet at the government's whim, provide tools for citizen mobilization, and ensure that content moderation is not skewing pro-government,' it said.",
     "online": true,
-    "locations": [
-        "usa"
+    "locations": null,
+    "companies": null,
+    "workers": 400,
+    "tags": [
+        "international_solidarity"
     ],
-    "companies": [
-        "instacart"
-    ],
-    "workers": null,
-    "tags": null,
     "author": [
         "organizejs"
     ],

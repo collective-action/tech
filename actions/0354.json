@@ -1,0 +1,41 @@
+{
+    "id": 373,
+    "date": "2020/12/21",
+    "sources": [
+        "https://www.rfa.org/english/news/china/workers-12212020111240.html"
+    ],
+    "actions": [
+        "protest",
+        "strike"
+    ],
+    "struggles": [
+        "job security"
+    ],
+    "employment_types": [
+        "contract workers",
+        "blue collar workers"
+    ],
+    "description": "Shanghai factory workers at the Apple supplier Pegatron turned out to protest a pay dispute with management at the weekend. Thousands of temporary workers gathered outside the Taiwanese-invested Pegatron facility in Shanghai, as authorities dispatched large numbers of police to block their entrance to the facility, sparking clashes. The protest came after Pegatron tried to transfer thousands of workers from its Shanghai factory to another facility at Kunshan in the eastern province of Jiangsu. Those who refused the transfer would be fired, and workers fired for refusing the offer wouldn't be eligible for their share of finders' fee commission usually shared between recruitment agencies and workers.",
+    "online": null,
+    "locations": [
+        "shanghai-china"
+    ],
+    "companies": [
+        "pegatron",
+        "apple"
+    ],
+    "workers": 1000,
+    "tags": null,
+    "author": [
+        "organizejs"
+    ],
+    "latlngs": [
+        [
+            31.2394928,
+            121.4796694
+        ]
+    ],
+    "addresses": [
+        "Apple, 300 \u53f7, \u5357\u4eac\u4e1c\u8def, \u4e0a\u6d77\u5e02, \u9ec4\u6d66\u533a, 200002, \u4e2d\u56fd"
+    ]
+}

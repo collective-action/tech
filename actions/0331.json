@@ -1,45 +1,42 @@
 {
-    "id": 347,
-    "date": "2020/10/13",
+    "id": 336,
+    "date": "2020/10/04",
     "sources": [
-        "https://www.nbcnews.com/news/amp/ncna1243217",
-        "https://www.kmov.com/thousands-of-workers-petition-amazon-for-paid-time-off-to-vote/article_c29297aa-e08d-5aae-b887-75b506e79fef.html",
-        "https://www.cbsnews.com/news/amazon-workers-petition-election-day-holiday-paid-time-off/",
-        "https://amazonemployees4climatejustice.medium.com/jeff-bezos-give-all-amazon-workers-pto-to-vote-dc0003434d65"
+        "https://www.latimes.com/california/story/2020-10-04/amazon-jeff-bezos-protest-beverly-hills"
     ],
     "actions": [
-        "open letter"
+        "protest"
     ],
     "struggles": [
-        "unfair labor practices",
-        "ethics"
+        "working conditions",
+        "pay and benefits"
     ],
     "employment_types": [
         "blue collar workers",
         "inhouse workers"
     ],
-    "description": "More than 6,400 Amazon workers signed an internal petition calling for time off to vote for its entire workforce ahead of the 2020 U.S. Election. Other companies like Walmart, Apple, and Target have policies allowing for paid time off for voting. Amazon Employees for Climate Justice organized the petition.",
-    "online": true,
+    "description": "Amazon workers, organized by the Congress of Essential Workers, protested in front of Jeff Bezos' Beverley Hills mansion, calling for improved working conditions under covid, hazard pay, and better health benefits. ",
+    "online": null,
     "locations": [
-        "usa"
+        "los angeles-california-usa"
     ],
     "companies": [
         "amazon"
     ],
-    "workers": 6400,
+    "workers": 100,
     "tags": [
-        "politics"
+        "coronavirus"
     ],
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            47.6142939,
-            -122.3239636
+            33.97670635,
+            -118.41819635850888
         ]
     ],
     "addresses": [
-        "Amazon Go Grocery, 610, East Pike Street, First Hill, Seattle, King County, Washington, 98122, United States"
+        "Whole Foods Market, West Jefferson Boulevard, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
     ]
 }

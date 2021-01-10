@@ -1,33 +1,43 @@
 {
-    "id": 114,
-    "date": "2019/01/18",
+    "id": 110,
+    "date": "2018/12/06",
     "sources": [
-        "https://www.theguardian.com/technology/2019/jan/18/oracle-women-workers-lawsuit-salaries-pay"
+        "https://www.theguardian.com/technology/2018/dec/20/facebook-contractors-filter-digital-labor-dispute-christmas",
+        "https://medium.com/@techworkersco_79433/who-fired-the-ras-organizing-the-worst-job-at-facebook-97c63cb40683"
     ],
     "actions": [
-        "legal action"
+        "open letter"
     ],
     "struggles": [
-        "discrimination"
+        "working conditions",
+        "pay and benefits"
     ],
     "employment_types": [
-        "na"
+        "contract workers"
     ],
-    "description": "Attorneys seek to represent more than 4,200 women in a lawsuit against Oracle that alleged that female employees were paid on average $13,000 less per year than men doing similar work. An analysis of payroll data found disparities with an 'extraordinarily high degree of statistical significance', the complaint said. Women made 3.8% less in base salaries on average than men in the same job categories, 13.2% less in bonuses, and 33.1% less in stock value, it alleges.",
+    "description": "20 subcontractors working at Facebook Reality Labs signed a letter to their contracting firm, Filter Digital, seeking better employment terms. The letter addressed inequities between the Filter employees and other employees at the Facebook facility, including workers employed by other contractors. Ex. Facebook closes its office for 11 holidays per year, according to the letter, but Filter only observes five of those holidays. Since Facebook's offices are closed on those days, preventing the Filter employees from working, they are forced to use six out of their 10 days of paid time off to cover the other holidays \u2013 or go without pay. A Facebook FTE shared a copy of the letter on Workplace and 'got a lot of positive reception from full time employees and other contingent workers",
     "online": null,
     "locations": [
-        "redwood shores-california-usa"
+        "seattle-washington-usa"
     ],
     "companies": [
-        "oracle"
+        "facebook",
+        "filter_digital"
     ],
-    "workers": 4200,
+    "workers": 20,
     "tags": [
-        "sexism"
+        "coworker_solidarity"
     ],
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            47.6289467,
+            -122.3428731
+        ]
+    ],
+    "addresses": [
+        "Facebook Dexter, 1101, Dexter Avenue North, Westlake, Belltown, Seattle, King County, Washington, 98109, United States"
+    ]
 }

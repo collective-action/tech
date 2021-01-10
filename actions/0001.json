@@ -1,36 +1,42 @@
 {
-    "id": 313,
-    "date": "1970/10/08",
+    "id": 314,
+    "date": "1970/01/01",
     "sources": [
-        "https://www.dissentmagazine.org/online_articles/when-polaroid-workers-fought-apartheid"
+        "https://www.theguardian.com/commentisfree/2019/dec/06/google-ibm-tech-racism"
     ],
     "actions": [
-        "protest",
-        "boycott"
+        "resources"
     ],
     "struggles": [
-        "ethics"
+        "ethics",
+        "discrimination"
     ],
     "employment_types": [
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "Polaroid workers affiliated with the Polaroid Revolutionary Workers Movement (PRWM) rallied at an anti-apartheid protest in Technology Square in Cambridge, MA and organized what is believed to be the first anti-apartheid boycott of a U.S. corporation. The organization was founded by two of the company's Black employees, Caroline Hunter (a chemist) and Ken Williams (a photographer). The two employees discovered that Polaroid was selling equipment to the South African government that allowed for a racist system of surveillance known as passbooks. The company responded by the surveilling and threatening the workers, first denying and then continuing their operations, and starting a public relations campaign to improve their image.",
+    "description": "Black IBM employees founded the National Black Workers Alliance of IBM (BWA), \"the first-ever movement of hi-tech minority workers\". The organization was one of the first to speak out against the company's involvement in South Africa and to demand equal pay and better opportunities for promotion for Black employees. They collected data on internal pay guidelines salaries at IBM to increase their leverage with management and supported fellow employees who faced retaliation after speaking out.",
     "online": null,
     "locations": [
-        "cambridge-massachusetts-usa"
+        "usa"
     ],
     "companies": [
-        "polaroid"
+        "ibm"
     ],
-    "workers": 2,
+    "workers": null,
     "tags": [
-        "antiracism",
-        "surveillance"
+        "antiracism"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            44.05795005,
+            -92.50701462052399
+        ]
+    ],
+    "addresses": [
+        "IBM, Rochester, Olmsted County, Minnesota, United States"
+    ]
 }

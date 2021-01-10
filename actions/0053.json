@@ -1,31 +1,44 @@
 {
-    "id": 50,
-    "date": "2015/07/20",
+    "id": 47,
+    "date": "2015/02/26",
     "sources": [
-        "https://qz.com/458615/theres-reportedly-a-big-secret-spreadsheet-where-google-employees-share-their-salaries/"
+        "https://abc7news.com/business/apple-shuttle-drivers-rally-for-right-to-unionize/535814/"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
-        "pay and benefits",
         "working conditions"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "contract workers"
     ],
-    "description": "Google employees have started an internal spreadsheet to share data on salary and bonuses. Employees have reportedly used the spreadsheet to advocate for greater compensation.",
-    "online": true,
-    "locations": null,
+    "description": "Union supporters of drivers who shuttle around Apple employees, were protesting outside the tech giant's Cupertino headquarters on Wednesday morning, ahead of their big vote Friday on whether to join the Teamsters Union. The teamsters trucked into Cupertino to protest working conditions for 120 full and part-time shuttle and bus drivers who work at Apple and other Silicon Valley companies, like Yahoo, eBay and Genentech",
+    "online": null,
+    "locations": [
+        "cupertino-usa"
+    ],
     "companies": [
-        "google"
+        "apple",
+        "yahoo",
+        "ebay",
+        "genentech"
     ],
-    "workers": null,
-    "tags": null,
+    "workers": 50,
+    "tags": [
+        "teamster",
+        "drivers"
+    ],
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.32915255,
+            -122.03225451655098
+        ]
+    ],
+    "addresses": [
+        "Apple, Cupertino, Santa Clara County, California, United States"
+    ]
 }

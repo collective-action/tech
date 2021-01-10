@@ -1,32 +1,38 @@
 {
-    "id": 16,
-    "date": "2009/05/18",
+    "id": 13,
+    "date": "2007/07/14",
     "sources": [
-        "http://www.asianews.it/index.php?l=en&art=15278&size=a"
+        "https://www.bloomberg.com/news/articles/2007-07-13/the-gandhi-protestsbusinessweek-business-news-stock-market-and-financial-advice"
     ],
     "actions": [
-        "legal action",
         "protest"
     ],
     "struggles": [
-        "pay and benefits"
+        "job security"
     ],
     "employment_types": [
-        "na"
+        "white collar workers"
     ],
-    "description": "Thousands' of Baidu employees filed complaints at the Labor Office in Shenzen to protest recent wage cuts. Earlier in the month, 'hundreds' of employees were part of an office sit-in. The company cut wages for sales employees by approximately 30% in response to cost pressures resulting from the global financial crisis.",
+    "description": "Approximately a thousand foreign tech workers protested US H1B visa caps on the streets of San Jose. A shortage of visas has created difficult conditions for workers.",
     "online": null,
     "locations": [
-        "shenzen-china"
+        "san jose-california-usa"
     ],
-    "companies": [
-        "baidu"
-    ],
+    "companies": null,
     "workers": 1000,
-    "tags": null,
+    "tags": [
+        "immigration"
+    ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.3361905,
+            -121.890583
+        ]
+    ],
+    "addresses": [
+        "San Jose, Santa Clara County, California, United States"
+    ]
 }

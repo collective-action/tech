@@ -1,64 +1,39 @@
 {
-    "id": 105,
-    "date": "2018/11/23",
+    "id": 101,
+    "date": "2018/10/12",
     "sources": [
-        "https://mashable.com/article/amazon-workers-black-friday-strike-europe-uk/#7mizh6l4giqk",
-        "https://www.uniglobalunion.org/news/amazon-workers-launch-wave-black-friday-strikes-and-protests",
-        "https://www.businessinsider.com/black-friday-amazon-workers-protest-poor-working-conditions-2018-11"
+        "https://medium.com/s/story/an-open-letter-to-microsoft-dont-bid-on-the-us-military-s-project-jedi-7279338b7132"
     ],
     "actions": [
-        "strike"
+        "open letter"
     ],
     "struggles": [
-        "working conditions"
+        "ethics"
     ],
     "employment_types": [
-        "blue collar workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Thousands of Amazon staff members across Europe protest on Black Friday over the way the companies treats its warehouse workers. As shoppers in the U.S.A. log in to Amazon to find Black Friday deals, Amazon workers in the UK, Spain, France, Italy, and Germany are striking to protest working conditions in the company\u2019s warehouses.",
-    "online": null,
+    "description": "An open letter signed by 'employees of Microsoft' asks the cloud giant to abstain from bidding on the military's massive JEDI cloud computing contract for ethical reasons involving the application of artificial intelligence.",
+    "online": true,
     "locations": [
-        "germany",
-        "france",
-        "italy",
-        "spain",
-        "uk"
+        "usa"
     ],
     "companies": [
-        "amazon"
+        "microsoft"
     ],
-    "workers": 2400,
+    "workers": null,
     "tags": null,
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            51.653494949999995,
-            7.59464606445661
-        ],
-        [
-            49.0632423,
-            6.131329990388637
-        ],
-        [
-            45.0777055,
-            9.454322716507177
-        ],
-        [
-            41.6274834,
-            -1.0203988345038435
-        ],
-        [
-            53.9603742,
-            -1.0712337
+            35.139622349999996,
+            -80.92306993327955
         ]
     ],
     "addresses": [
-        "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
-        "Amazon, Augny, Metz, Moselle, Grand Est, France m\u00e9tropolitaine, 57685, France",
-        "Amazon, Cascina Colombarone, Castel San Giovanni, Piacenza, Emilia-Romagna, Italia",
-        "Amazon, Zaragoza, Arag\u00f3n, Espa\u00f1a",
-        "Amazon, Foss Islands Road, Foss Islands Retail Park, Layerthorpe, York, Yorkshire and the Humber, England, YO31 7UR, United Kingdom"
+        "Microsoft, Ayrsley, Charlotte, Mecklenburg County, North Carolina, United States"
     ]
 }

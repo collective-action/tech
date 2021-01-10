@@ -1,44 +1,41 @@
 {
-    "id": 47,
-    "date": "2015/02/26",
+    "id": 44,
+    "date": "2014/12/03",
     "sources": [
-        "https://abc7news.com/business/apple-shuttle-drivers-rally-for-right-to-unionize/535814/"
+        "https://www.theguardian.com/technology/2014/dec/03/amazon-mechanical-turk-workers-protest-jeff-bezos",
+        "http://www.wearedynamo.org/dearjeffbezos"
     ],
     "actions": [
-        "protest"
+        "open letter"
     ],
     "struggles": [
-        "working conditions"
+        "pay and benefits",
+        "working conditions",
+        "unfair labor practices"
     ],
     "employment_types": [
-        "contract workers"
+        "gig workers"
     ],
-    "description": "Union supporters of drivers who shuttle around Apple employees, were protesting outside the tech giant's Cupertino headquarters on Wednesday morning, ahead of their big vote Friday on whether to join the Teamsters Union. The teamsters trucked into Cupertino to protest working conditions for 120 full and part-time shuttle and bus drivers who work at Apple and other Silicon Valley companies, like Yahoo, eBay and Genentech",
-    "online": null,
+    "description": "Hundreds of Mechanical Turk workers participate in an email writing campaign to Amazon founder Jeff Bezos to protest low pay and worker representation. The workers are organized by 'We Are Dynamo', a self-described guild for crowdsourced workers started by workers and academics.",
+    "online": true,
     "locations": [
-        "cupertino-usa"
+        "usa"
     ],
     "companies": [
-        "apple",
-        "yahoo",
-        "ebay",
-        "genentech"
+        "amazon"
     ],
-    "workers": 50,
-    "tags": [
-        "teamster",
-        "drivers"
-    ],
+    "workers": 550,
+    "tags": null,
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            37.32915255,
-            -122.03225451655098
+            47.6142939,
+            -122.3239636
         ]
     ],
     "addresses": [
-        "Apple, Cupertino, Santa Clara County, California, United States"
+        "Amazon Go Grocery, 610, East Pike Street, First Hill, Seattle, King County, Washington, 98122, United States"
     ]
 }
