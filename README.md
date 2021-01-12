@@ -20,7 +20,7 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">11/01/2021 06:48PM</td>
+    <td data-summary="timestamp">11/01/2021 08:27PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
@@ -4695,10 +4695,10 @@ The goal of this archive is to provide data and insights on organizing in the te
   </tr>
   <tr author="organizejs">
    <td>
-    2014-09-01
+    2014-09-11
    </td>
    <td>
-    A group of temporary workers at Microsoft has signed its first union contract with their employer, a rare feat in a technology industry typically unfriendly to organized labor. 38 bug testers who review Microsoft apps voted to create a union, the Temporary Workers of America. They work full time in Microsoft's offices but are employed by cloud services contractor LionBridge.
+    A group of temporary workers at Microsoft has signed its first union contract with their employer, a rare feat in a technology industry typically unfriendly to organized labor. 38 bug testers who review Microsoft apps voted to create a union, the Temporary Workers of America. They work full time in Microsoft's offices but are employed by cloud services contractor Lionbridge.
    </td>
    <td>
     <a href="/actions/0046.json">
