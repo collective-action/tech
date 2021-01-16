@@ -6,7 +6,7 @@ dfjs:false
 const jsonUrl = 'https://raw.githubusercontent.com/collective-action/tech/master/actions.json'
 var masterDf = null /* global */
 var queryTags = []
-var searchFields = ['tags', 'companies', 'actions', 'struggles', 'locations', 'employment_types']
+var searchFields = ['tags', 'companies', 'actions', 'struggles', 'locations', 'employment_types', 'description']
 var tagFields = ['tags', 'companies', 'actions', 'struggles', 'locations', 'employment_types']
 var hiddenFields = ['author', 'workers']
 var sourceField = ['sources']
