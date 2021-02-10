@@ -1,39 +1,44 @@
 {
-    "id": 5,
-    "date": "1998/11/23",
+    "id": 380,
+    "date": "1995/04/17",
     "sources": [
-        "http://www.cnn.com/tech/computing/9811/23/mstemps.idg/"
+        "https://www.nytimes.com/2003/07/13/business/fighting-for-the-right-to-communicate.html",
+        "https://cyber.harvard.edu/msvh/hamidi/hrnote.html"
     ],
     "actions": [
         "legal action"
     ],
     "struggles": [
-        "unfair labor practices",
-        "pay and benefits"
+        "discrimination",
+        "unfair labor practices"
     ],
     "employment_types": [
-        "contract workers"
+        "white collar workers",
+        "in-house workers"
     ],
-    "description": "A law firm representing 10 current and former contract workers at Microsoft Corp. filed a lawsuit in U.S. District Court on Tuesday against the software giant, seeking damages and full-time employee benefits for its plaintiffs and thousands of other 'misclassified' temporary employees. The 10 plaintiffs seek class-action status because they want to include some 6,000 current full-time Microsoft employees who have been 'misclassified as nonemployees' under 'various erroneous labels' and denied company benefits.",
-    "online": null,
+    "description": "Former Intel engineer Kourosh Kenneth (\"Ken\") Hamidi alleged wrongful termination and discrimination after his claims for workers' compensation, following a car accident, were denied and he was fired in 1995. He formed a small (~10 member) online group called Former And Current Employees of Intel (FACE-Intel) to coordinate six mass emails over 21 months to Intel employees about company wrongdoing. Intel sued Hamidi and the FACE-Intel group for \"trespass to chattel\" and \"nuisance\" resulting in the California Supreme Court's ruling in Hamidi's favor in Intel Corporation v. Hamidi (2003). The case is considered a landmark ruling on electronic employee communications and concepts of trespass.",
+    "online": true,
     "locations": [
-        "usa"
+        "sacramento-california-usa"
     ],
     "companies": [
-        "microsoft"
+        "intel"
     ],
     "workers": 10,
-    "tags": null,
+    "tags": [
+        "retaliation",
+        "online_action"
+    ],
     "author": [
-        "organizejs"
+        "CM"
     ],
     "latlngs": [
         [
-            35.139622349999996,
-            -80.92306993327955
+            38.64577295,
+            -121.16569779442514
         ]
     ],
     "addresses": [
-        "Microsoft, Ayrsley, Charlotte, Mecklenburg County, North Carolina, United States"
+        "Intel Corporation, 1900, Natoma Station, Folsom, Sacramento County, California, United States"
     ]
 }

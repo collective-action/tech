@@ -1,31 +1,40 @@
 {
-    "id": 60,
-    "date": "2016/10/14",
+    "id": 59,
+    "date": "2016/10/05",
     "sources": [
-        "https://www.buzzfeednews.com/article/carolineodonovan/instacart-cancels-plans-to-scrap-tips-amid-threats-of-strike"
+        "https://www.thenation.com/article/the-silicon-valley-union-victories-you-havent-heard-of/"
     ],
     "actions": [
-        "protest"
+        "union representation"
     ],
     "struggles": [
-        "pay and benefits"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
-        "gig workers"
+        "blue collar workers",
+        "contract workers"
     ],
-    "description": "Workers threatened to boycott Instacart after it announced plans to replace their tips with an optional 10% service fee. Two days ahead of the planned boycott, Instacart said tips will stay.",
+    "description": "Intel cafeteria workers voted to unionize joining forces with Unite Here Local 19.",
     "online": null,
     "locations": [
-        "usa"
+        "santa clara-california-usa"
     ],
     "companies": [
-        "instacart"
+        "intel"
     ],
-    "workers": null,
+    "workers": 43,
     "tags": null,
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.389317899999995,
+            -121.97901174515997
+        ]
+    ],
+    "addresses": [
+        "McAfee, Mission College Boulevard, Santa Clara, Santa Clara County, California, 95054-1231, United States"
+    ]
 }

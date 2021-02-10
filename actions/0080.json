@@ -1,39 +1,44 @@
 {
-    "id": 73,
-    "date": "2017/12/13",
+    "id": 72,
+    "date": "2017/11/25",
     "sources": [
-        "https://www.northjersey.com/story/money/2017/12/13/warehouse-workers-holds-protest-amazon-store/945571001/"
+        "https://www.reuters.com/article/us-amazon-italy-strike-iduskbn1dn1ds"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
-        "working conditions",
         "pay and benefits"
     ],
     "employment_types": [
         "blue collar workers"
     ],
-    "description": "Workers from Amazon's New Jersey warehouses protested outside of an Amazon Books store in Manhattan calling for better compensation, benefits, and working conditions. ",
+    "description": "Workers in six Amazon warehouses in Germany and at the company's main distribution hub in Italy strike on Black Friday over a pay dispute.",
     "online": null,
     "locations": [
-        "manhattan-new york city-new york-usa"
+        "germany",
+        "italy"
     ],
     "companies": [
         "amazon"
     ],
-    "workers": 65,
+    "workers": 500,
     "tags": null,
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            40.722465,
-            -73.9977307
+            51.653494949999995,
+            7.59464606445661
+        ],
+        [
+            45.0777055,
+            9.454322716507177
         ]
     ],
     "addresses": [
-        "Amazon, 72, Spring Street, SoHo, Manhattan Community Board 2, Manhattan, New York County, New York, 10013, United States"
+        "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
+        "Amazon, Cascina Colombarone, Castel San Giovanni, Piacenza, Emilia-Romagna, Italia"
     ]
 }

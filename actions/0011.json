@@ -1,46 +1,39 @@
 {
-    "id": 379,
-    "date": "1999/05/04",
+    "id": 5,
+    "date": "1998/11/23",
     "sources": [
-        "https://www.latimes.com/archives/la-xpm-1999-sep-18-fi-11579-story.html",
-        "https://www.nytimes.com/1999/05/04/business/ibm-to-change-pension-benefits.html",
-        "https://knowledge.wharton.upenn.edu/article/behind-the-pension-tension-at-ibm/",
-        "https://www.wsj.com/articles/SB937779366171684213"
+        "http://www.cnn.com/tech/computing/9811/23/mstemps.idg/"
     ],
     "actions": [
-        "protest",
-        "resources"
+        "legal action"
     ],
     "struggles": [
-        "pay and benefits",
-        "discrimination"
+        "unfair labor practices",
+        "pay and benefits"
     ],
     "employment_types": [
-        "in-house workers",
-        "white collar workers"
+        "contract workers"
     ],
-    "description": "Seeking to attract younger workers, IBM announced plans in May 1999 to switch from traditional pension plans to a cash balance model for all American employees. Older employees with longer tenures at the company, who would lose 30-40% of their pension checks as a result of the switch, protested this change with rallies, emails to the company, a new online website, and lobbying policymakers in DC. Employees also accused IBM of age discrimination. In September 1999, IBM backtracked on its pension policy change.",
-    "online": true,
+    "description": "A law firm representing 10 current and former contract workers at Microsoft Corp. filed a lawsuit in U.S. District Court on Tuesday against the software giant, seeking damages and full-time employee benefits for its plaintiffs and thousands of other 'misclassified' temporary employees. The 10 plaintiffs seek class-action status because they want to include some 6,000 current full-time Microsoft employees who have been 'misclassified as nonemployees' under 'various erroneous labels' and denied company benefits.",
+    "online": null,
     "locations": [
         "usa"
     ],
     "companies": [
-        "ibm"
+        "microsoft"
     ],
-    "workers": null,
-    "tags": [
-        "online_action"
-    ],
+    "workers": 10,
+    "tags": null,
     "author": [
-        "CM"
+        "organizejs"
     ],
     "latlngs": [
         [
-            44.05795005,
-            -92.50701462052399
+            35.139622349999996,
+            -80.92306993327955
         ]
     ],
     "addresses": [
-        "IBM, Rochester, Olmsted County, Minnesota, United States"
+        "Microsoft, Ayrsley, Charlotte, Mecklenburg County, North Carolina, United States"
     ]
 }

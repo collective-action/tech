@@ -1,43 +1,40 @@
 {
-    "id": 43,
-    "date": "2014/11/19",
+    "id": 42,
+    "date": "2014/11/04",
     "sources": [
-        "https://bits.blogs.nytimes.com/2014/11/19/facebooks-bus-drivers-vote-to-unionize"
+        "https://www.chenpe.com/news/24911.html"
     ],
     "actions": [
         "union representation"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "job security",
+        "discrimination"
     ],
     "employment_types": [
-        "contract workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "The shuttle bus drivers who ferry Facebook employees to and from work voted on Wednesday to unionize, 43 to 28. The drivers, who are employees of Loop Transportation, a contractor for Facebook, voted to join Teamsters Local 853, with several of them saying their main concerns were inadequate pay and a stressful split shift schedule.",
+    "description": "Artesyn Technologies announced through their QQ blog that employees mainly from the hardware department were participating in a protest against Sony. They held their protest against what they called violent layoffs and discrimination and they appealed to Sony to disclose a list of those being discharged. They also demanded negotiations and a 'fair, transparent and open' process.",
     "online": null,
     "locations": [
-        "menlo park-california-usa"
+        "beijing-china"
     ],
     "companies": [
-        "facebook",
-        "loop transportation"
+        "sony"
     ],
     "workers": null,
-    "tags": [
-        "teamster",
-        "drivers"
-    ],
+    "tags": null,
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            37.484668049999996,
-            -122.1483654685629
+            39.9079196,
+            116.4058833
         ]
     ],
     "addresses": [
-        "Facebook, Bayfront Expressway, Menlo Park, San Mateo County, California, 94025-1246, United States"
+        "Sony, 1, \u4e1c\u957f\u5b89\u8857, \u4e1c\u57ce\u533a, \u5317\u4eac\u5e02, 100010, \u4e2d\u56fd"
     ]
 }

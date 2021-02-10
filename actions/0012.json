@@ -1,42 +1,46 @@
 {
-    "id": 6,
-    "date": "1999/06/04",
+    "id": 379,
+    "date": "1999/05/04",
     "sources": [
-        "https://www.latimes.com/archives/la-xpm-1999-jun-04-fi-44011-story.html",
-        "https://www.questia.com/newspaper/1p2-32575557/the-seeds-of-a-high-tech-union-sprout-in-washington"
+        "https://www.latimes.com/archives/la-xpm-1999-sep-18-fi-11579-story.html",
+        "https://www.nytimes.com/1999/05/04/business/ibm-to-change-pension-benefits.html",
+        "https://knowledge.wharton.upenn.edu/article/behind-the-pension-tension-at-ibm/",
+        "https://www.wsj.com/articles/SB937779366171684213"
     ],
     "actions": [
-        "union drive"
+        "protest",
+        "resources"
     ],
     "struggles": [
-        "pay and benefits"
+        "pay and benefits",
+        "discrimination"
     ],
     "employment_types": [
-        "white collar workers",
-        "contract workers"
+        "in-house workers",
+        "white collar workers"
     ],
-    "description": "A group of temporary workers at Microsoft that includes accountants and lawyers has organized into a bargaining unit and is asking for representation through a local union, the Washington Alliance of Technology Workers. The employees expressed frustration at their status as contract workers, citing a lack of benefits as a motivating factor for the unionization attempt.",
-    "online": null,
+    "description": "Seeking to attract younger workers, IBM announced plans in May 1999 to switch from traditional pension plans to a cash balance model for all American employees. Older employees with longer tenures at the company, who would lose 30-40% of their pension checks as a result of the switch, protested this change with rallies, emails to the company, a new online website, and lobbying policymakers in DC. Employees also accused IBM of age discrimination. In September 1999, IBM backtracked on its pension policy change.",
+    "online": true,
     "locations": [
-        "seattle-washington-usa"
+        "usa"
     ],
     "companies": [
-        "microsoft"
+        "ibm"
     ],
-    "workers": 16,
+    "workers": null,
     "tags": [
-        "washtech"
+        "online_action"
     ],
     "author": [
-        "nataliyaned"
+        "CM"
     ],
     "latlngs": [
         [
-            47.5388725,
-            -122.2901728
+            44.05795005,
+            -92.50701462052399
         ]
     ],
     "addresses": [
-        "Microsoft Gathering Hall, 7054, 32nd Avenue South, Holly Park, Rainier Valley, Seattle, King County, Washington, 98118, United States"
+        "IBM, Rochester, Olmsted County, Minnesota, United States"
     ]
 }

@@ -1,33 +1,58 @@
 {
-    "id": 39,
-    "date": "2014/09/01",
+    "id": 38,
+    "date": "2014/04/19",
     "sources": [
-        "https://www.chronicle.com/article/intellectual-piecework/190039/",
-        "http://wiki.wearedynamo.org/index.php/guidelines_for_academic_requesters",
-        "https://medium.com/@niloufar_s/the-guidelines-for-ethical-research-on-amazon-mechanical-turk-researchers-care-about-fair-payment-427e816762ee"
+        "https://www.nbcnews.com/tech/tech-news/workers-tech-poaching-case-likely-get-average-4k-n113451",
+        "https://www.independent.ie/business/technology/four-us-tech-firms-face-3bn-payout-over-claims-they-conspired-on-pay-30199663.html"
     ],
     "actions": [
-        "open letter"
+        "legal action"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "pay and benefits"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Over two hundred Mechanical Turk workers and academics, organized through Dynamo, have collaborated and signed a set of ethical guidelines for scholars requesting labor through the platform. The Wiki page includes information on fair payment, communication practices, and the basics of requesting.",
-    "online": true,
-    "locations": null,
+    "description": "Tech workers from Google, Apple, Intel, and Adobe Systems brought a class action lawsuit against their respective companies, claiming that they conspired to keep salaries down by adhering to 'no-hire' agreements among themselves. The case ended in a $325 million settlement that paid out roughly $4,000 to 60,000 employees. ",
+    "online": null,
+    "locations": [
+        "california-usa"
+    ],
     "companies": [
-        "amazon",
-        "mechanical_turk"
+        "google",
+        "apple",
+        "intel",
+        "adobe"
     ],
-    "workers": 262,
+    "workers": 60000,
     "tags": null,
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.41897865,
+            -122.08237793989416
+        ],
+        [
+            37.32915255,
+            -122.03225451655098
+        ],
+        [
+            32.939795,
+            -117.1026021
+        ],
+        [
+            37.33196605,
+            -121.8954904847011
+        ]
+    ],
+    "addresses": [
+        "Google, Mountain View, Santa Clara County, California, United States",
+        "Apple, Cupertino, Santa Clara County, California, United States",
+        "Intel, 12220, Scripps Summit Drive, San Diego, San Diego County, California, 92131, United States",
+        "Adobe, 333, Little Italy, San Jose, Santa Clara County, California, United States"
+    ]
 }

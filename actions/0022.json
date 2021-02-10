@@ -1,32 +1,39 @@
 {
-    "id": 16,
-    "date": "2009/05/18",
+    "id": 15,
+    "date": "2007/10/30",
     "sources": [
-        "http://www.asianews.it/index.php?l=en&art=15278&size=a"
+        "https://www.nytimes.com/2007/10/30/technology/30iht-techlabor.1.8109819.html?searchresultposition=1"
     ],
     "actions": [
-        "legal action",
         "protest"
     ],
     "struggles": [
-        "pay and benefits"
+        "job security"
     ],
     "employment_types": [
-        "na"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Thousands' of Baidu employees filed complaints at the Labor Office in Shenzen to protest recent wage cuts. Earlier in the month, 'hundreds' of employees were part of an office sit-in. The company cut wages for sales employees by approximately 30% in response to cost pressures resulting from the global financial crisis.",
+    "description": "Hundreds' of immigrant tech workers protested H1B visa caps on the streets of San Jose carrying banners and signs. A shortage of H1B visas has led to insecure working conditions and labor shortages among tech firms.",
     "online": null,
     "locations": [
-        "shenzen-china"
+        "san jose-california-usa"
     ],
-    "companies": [
-        "baidu"
+    "companies": null,
+    "workers": 200,
+    "tags": [
+        "immigration"
     ],
-    "workers": 1000,
-    "tags": null,
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.3361905,
+            -121.890583
+        ]
+    ],
+    "addresses": [
+        "San Jose, Santa Clara County, California, United States"
+    ]
 }

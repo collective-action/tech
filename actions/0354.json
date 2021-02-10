@@ -1,41 +1,41 @@
 {
-    "id": 373,
-    "date": "2020/12/21",
+    "id": 371,
+    "date": "2020/12/17",
     "sources": [
-        "https://www.rfa.org/english/news/china/workers-12212020111240.html"
+        "https://berlinvsamazon.com/2020/12/menschen-vor-profite-solidaritat-mit-den-von-covid-betroffenen-arbeiterinnen-in-amazon-zentren-17-12-2020/"
     ],
     "actions": [
-        "protest",
-        "strike"
+        "protest"
     ],
     "struggles": [
-        "job security"
+        "working conditions"
     ],
     "employment_types": [
-        "contract workers",
-        "blue collar workers"
+        "blue collar workers",
+        "in-house workers"
     ],
-    "description": "Shanghai factory workers at the Apple supplier Pegatron turned out to protest a pay dispute with management at the weekend. Thousands of temporary workers gathered outside the Taiwanese-invested Pegatron facility in Shanghai, as authorities dispatched large numbers of police to block their entrance to the facility, sparking clashes. The protest came after Pegatron tried to transfer thousands of workers from its Shanghai factory to another facility at Kunshan in the eastern province of Jiangsu. Those who refused the transfer would be fired, and workers fired for refusing the offer wouldn't be eligible for their share of finders' fee commission usually shared between recruitment agencies and workers.",
+    "description": "Activists from various initiatives, including initiatives against the Amazon Tower, Mietenwahnsinnb\u00fcndnis, #200H\u00e4user spontaneously demonstrated in front of the construction site of the \u201cAmazon East Side Edge Tower\u201d at Warschauer Br\u00fccke. The protests are directed at Amazon's handling of the pandemic in several German Amazon centers. The company is responsible for the increase in infections and illnesses among workers and is allowing the Christmas shopping season to continue. ",
     "online": null,
     "locations": [
-        "shanghai-china"
+        "berlin-germany"
     ],
     "companies": [
-        "pegatron",
-        "apple"
+        "amazon"
     ],
-    "workers": 1000,
-    "tags": null,
+    "workers": null,
+    "tags": [
+        "coronavirus"
+    ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            31.2394928,
-            121.4796694
+            52.6059725,
+            12.976746894698728
         ]
     ],
     "addresses": [
-        "Apple Store, 300 \u53f7, \u5357\u4eac\u4e1c\u8def, \u5916\u6ee9\u8857\u9053, \u4e0a\u6d77\u5e02, \u9ec4\u6d66\u533a, 200002, \u4e2d\u56fd"
+        "Amazon, 5, Havellandstra\u00dfe, GVZ \u2013 G\u00fcterverkehrszentrum Berlin West - Brieselang, Bredow, Brieselang, Havelland, Brandenburg, 14656, Deutschland"
     ]
 }

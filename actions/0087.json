@@ -1,32 +1,31 @@
 {
-    "id": 80,
-    "date": "2018/04/06",
+    "id": 79,
+    "date": "2018/04/02",
     "sources": [
-        "https://www.thetimes.co.uk/article/academics-stride-into-battle-to-halt-march-of-the-korean-killer-robots-0wt052m6r"
+        "https://en.yna.co.kr/view/aen20180402010200320"
     ],
     "actions": [
-        "open letter"
+        "union representation"
     ],
     "struggles": [
-        "ethics"
+        "working conditions"
     ],
     "employment_types": [
-        "na"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "A group of academics working on artificial technologies call for a boycott of the Korea Advanced Institute of Science and Technology, a South Korean university. KAIST is believed to be developing AI weapons through a collaboration with a defense contractor. An open letter has been signed by 50 academics.",
-    "online": true,
+    "description": "Naver Corp., South Korea's dominant Internet portal and search engine, said that it has established the company's first labor union. After receiving official approval, the union started receiving membership applications from potential members, Naver's union said. More than 300 people joined within two hours.",
+    "online": null,
     "locations": [
-        "south korea"
+        "seoul-south korea"
     ],
     "companies": [
-        "korea_advanced_institute_of_science_and_technology"
+        "naver"
     ],
-    "workers": 50,
-    "tags": [
-        "academics"
-    ],
+    "workers": 300,
+    "tags": null,
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
     "latlngs": null,
     "addresses": null

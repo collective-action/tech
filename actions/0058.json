@@ -1,28 +1,28 @@
 {
-    "id": 51,
-    "date": "2015/08/20",
+    "id": 50,
+    "date": "2015/07/20",
     "sources": [
-        "https://www.huffingtonpost.ca/2015/08/20/netflix-under-pressure-to-expand-1-year-parental-leave-to-lower-paid-workers-in-dvd-division_n_8018070.html"
+        "https://qz.com/458615/theres-reportedly-a-big-secret-spreadsheet-where-google-employees-share-their-salaries/"
     ],
     "actions": [
-        "open letter"
+        "protest"
     ],
     "struggles": [
-        "pay and benefits"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
-        "na"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Three online petitions were started to protest parental leave policies at Netflix. The company recently began to offer a one-year paid parental leave but excluded employees in its DVD-by-mail service, who are typically lower paid than streaming employees and receive fewer benefits.",
+    "description": "Google employees have started an internal spreadsheet to share data on salary and bonuses. Employees have reportedly used the spreadsheet to advocate for greater compensation.",
     "online": true,
     "locations": null,
     "companies": [
-        "netflix"
+        "google"
     ],
     "workers": null,
-    "tags": [
-        "coworker_solidarity"
-    ],
+    "tags": null,
     "author": [
         "nataliyaned"
     ],

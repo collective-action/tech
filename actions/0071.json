@@ -1,29 +1,33 @@
 {
-    "id": 64,
-    "date": "2017/01/18",
+    "id": 63,
+    "date": "2016/12/16",
     "sources": [
-        "https://techcrunch.com/2017/01/18/tech-employees-protest-in-front-of-palantir-hq-over-fears-it-will-build-trumps-muslim-registry/"
+        "https://www.mic.com/articles/172403/ibm-s-ceo-wrote-trump-a-glowing-letter-employees-responded-with-list-of-demands",
+        "https://www.coworker.org/petitions/ibmers-to-ceo-ginni-rometty-affirm-ibm-values",
+        "https://theintercept.com/2016/12/19/ibm-employees-launch-petition-protesting-cooperation-with-donald-trump/"
     ],
     "actions": [
-        "protest"
+        "open letter"
     ],
     "struggles": [
         "ethics"
     ],
     "employment_types": [
-        "na"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "50 people in the tech community came out in the pouring rain to demand the data mining startup take a firm stand against the makings of a Muslim registry.",
-    "online": null,
+    "description": "IBM employees sign a petition protesting IBM's cooperation with Trump. After the IBM CEO Ginny Rometty sent a letter congratulating Trump on his presidency and refusing to rule out participation from building a muslim registry, IBM employees created a petition on coworker.org to demand that the company acknowledge the diversity of its staff and not work to further the more xenophobic aspects of Trump's agenda.",
+    "online": true,
     "locations": [
-        "palo alto-california-usa"
+        "usa"
     ],
     "companies": [
-        "palantir"
+        "ibm"
     ],
-    "workers": 50,
+    "workers": 1000,
     "tags": [
-        "industry_solidarity",
+        "muslim_registry",
+        "immigration",
         "trump"
     ],
     "author": [
@@ -31,11 +35,11 @@
     ],
     "latlngs": [
         [
-            37.4440869,
-            -122.16287540411753
+            44.05795005,
+            -92.50701462052399
         ]
     ],
     "addresses": [
-        "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States"
+        "IBM, Rochester, Olmsted County, Minnesota, United States"
     ]
 }

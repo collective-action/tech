@@ -1,39 +1,41 @@
 {
-    "id": 124,
-    "date": "2019/03/28",
+    "id": 123,
+    "date": "2019/03/26",
     "sources": [
-        "https://github.com/996icu/996.icu/",
-        "https://radiichina.com/github-protest-chinese-tech-996/",
-        "https://www.ft.com/content/72754638-55d1-11e9-91f9-b6515a54c5b1"
+        "https://medium.com/@bu64dcjrytwitb8/on-recent-research-auditing-commercial-facial-analysis-technology-19148bda1832?fbclid=iwar1uwyfv8da3osgnns1nm3takyudg1ks5jeljywjimutvt5unj3rrpyipew"
     ],
     "actions": [
         "open letter"
     ],
     "struggles": [
-        "working conditions"
+        "ethics"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "na"
     ],
-    "description": "A campaign against long working hours by professionals in China's technology sector has become one of the fastest growing Github repository in Github's history. The 'anti-996' campaign opposes employees working shifts of 9am-9pm, six days a week, which are commonly required by the country's tech giants.",
+    "description": "Researchers are calling on Amazon to stop selling facial recognition software to law enforcement. This letter follows similar calls by Amazon workers and civil rights organizations. 'We call on Amazon to stop selling Rekognition to law enforcement as legislation and safeguards to prevent misuse are not in place.",
     "online": true,
     "locations": [
-        "china"
+        "usa"
     ],
-    "companies": null,
-    "workers": 241000,
-    "tags": null,
+    "companies": [
+        "amazon"
+    ],
+    "workers": 45,
+    "tags": [
+        "academics",
+        "law_enforcement"
+    ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            35.000074,
-            104.999927
+            47.6142939,
+            -122.3239636
         ]
     ],
     "addresses": [
-        "\u4e2d\u56fd"
+        "Amazon Go Grocery, 610, East Pike Street, First Hill, Seattle, King County, Washington, 98122, United States"
     ]
 }

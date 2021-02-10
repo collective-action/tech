@@ -1,41 +1,33 @@
 {
-    "id": 143,
-    "date": "2019/06/06",
+    "id": 142,
+    "date": "2019/05/27",
     "sources": [
-        "https://slate.com/technology/2019/08/stanford-tech-students-backlash-google-facebook-palantir.html"
+        "https://techcrunch.com/2019/05/28/glovo-faces-safety-protests-after-delivery-rider-killed-on-the-job/",
+        "https://elpais.com/economia/2019/05/27/actualidad/1558983633_840887.html"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
-        "ethics"
+        "working conditions",
+        "unfair labor practices"
     ],
     "employment_types": [
-        "na"
+        "gig workers"
     ],
-    "description": "Students for the Liberation of All People (SLAP), a student organization at Stanford, places a banner across the street from Palantir's entrance reading \u201cOUR SOFTWARE IS SO POWERFUL IT SEPARATES FAMILIES.\u201d in protest of the company's involvement with U.S. Immigration and Customs Enforcement. ",
+    "description": "Spanish on-demand delivery startup Glovo is facing angry protests from couriers on its platform following the death of a 22-year-old rider in Barcelona where the business is headquartered. The victim was a Nepalese national called Pujan Koirala, who had been substituting for a registered Glovo courier at the time he was struck and killed by a garbage truck.",
     "online": null,
     "locations": [
-        "palo alto-california-usa"
+        "barcelona-spain"
     ],
     "companies": [
-        "palantir"
+        "glovo"
     ],
-    "workers": 24,
-    "tags": [
-        "students",
-        "immigration"
-    ],
+    "workers": 30,
+    "tags": null,
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
-    "latlngs": [
-        [
-            37.4440869,
-            -122.16287540411753
-        ]
-    ],
-    "addresses": [
-        "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

@@ -1,37 +1,43 @@
 {
-    "id": 293,
-    "date": "2020/06/09",
+    "id": 266,
+    "date": "2020/06/08",
     "sources": [
-        "https://www.wsws.org/en/articles/2020/06/12/braz-j12.html"
+        "https://onezero.medium.com/250-microsoft-employees-call-on-ceo-to-cancel-police-contracts-and-support-defunding-seattle-pd-e89fa5d9e843",
+        "https://finance.yahoo.com/news/microsoft-employees-petition-seattle-police-contracts-161102239.html"
     ],
     "actions": [
-        "protest",
-        "strike"
+        "open letter"
     ],
     "struggles": [
-        "working conditions",
-        "pay and benefits"
+        "ethics"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Loggi delivery workers in Brazil went on strike starting June 9th to protest poor working conditions, including lack of protections against coronavirus, and low pay. Protestors also commemorated the death of a fellow worker, Thiago Coelho, who was killed in a motorcycle accident. ",
-    "online": null,
+    "description": "Hundreds of Microsoft employees have signed a letter to the company\u2019s top executives asking for Microsoft to take action in the wake of national protests. The initiative came out of a Facebook group called \"Young Microsoft FTEs\". The email to the Microsoft executives includes a list of requests, including increased leniency for Microsoft workers in performance reviews due to the coronavirus pandemic and protests; the company formally condemning the use of tear gas, rubber bullets, and flashbangs; increasing Microsoft\u2019s employee donation matches; the cancellation of contracts with SPD and other law enforcement agencies; support for defunding the SPD; signing a petition for the resignation of Seattle Mayor Jenny Durkan; and support for a list of demands from BLM Seattle. Employees volunteered to be CC\u2019d on the email in a show of solidarity, though their inclusion was not intended to show explicit support for every request, according to the email.",
+    "online": true,
     "locations": [
-        "rio de janiero-brazil",
-        "s\u00e3o paulo-brazil"
+        "seattle-washington-usa"
     ],
     "companies": [
-        "loggi"
+        "microsoft"
     ],
-    "workers": null,
+    "workers": 250,
     "tags": [
-        "coronavirus",
-        "delivery_workers"
+        "antiracism",
+        "blm"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            47.5388725,
+            -122.2901728
+        ]
+    ],
+    "addresses": [
+        "Microsoft Gathering Hall, 7054, 32nd Avenue South, Holly Park, Rainier Valley, Seattle, King County, Washington, 98118, United States"
+    ]
 }

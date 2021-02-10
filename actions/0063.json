@@ -1,44 +1,42 @@
 {
-    "id": 56,
-    "date": "2016/04/21",
+    "id": 55,
+    "date": "2016/03/31",
     "sources": [
-        "https://venturebeat.com/2016/01/03/oconnor-v-uber-why-the-days-of-driver-flexibility-are-already-numbered/",
-        "https://www.uber.com/newsroom/growing-and-growing-up",
-        "https://prospect.org/article/demand-and-demanding-their-rights"
+        "https://www.bizjournals.com/sanjose/news/2016/03/31/seiu-janitors-san-jose-rally-targets-adobe.html"
     ],
     "actions": [
-        "legal action"
+        "strike"
     ],
     "struggles": [
         "pay and benefits",
         "working conditions"
     ],
     "employment_types": [
-        "gig workers"
+        "blue collar workers",
+        "contract workers"
     ],
-    "description": "Uber settled two class-action lawsuits that argued independent contractors should be classified as company employees. Uber agreed to pay drivers $84 million (and an additional $16 million upon IPO and pending increased valuation). Drivers were allowed to form associations in California and Massachusetts and see the data behind their rating. In later months, more than 150 drivers called for the judge to vacate the settlement.",
+    "description": "Service Employees International Union-United Service Workers West janitors' San Jose rally targets Adobe. Hundreds of SEIU-USWW members congregated on Cesar Chavez Day to draw attention to ongoing contract negotiations with cleaning service contractors and protest abuse of workers in the janitorial industry.",
     "online": null,
     "locations": [
-        "california-usa",
-        "massachusetts-usa"
+        "san jose-california-usa"
     ],
     "companies": [
-        "uber"
+        "adobe"
     ],
-    "workers": null,
+    "workers": 100,
     "tags": [
-        "drivers"
+        "seiu"
     ],
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
     "latlngs": [
         [
-            37.7756962,
-            -122.4180838
+            37.33196605,
+            -121.8954904847011
         ]
     ],
     "addresses": [
-        "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, California, 94103, United States"
+        "Adobe, 333, Little Italy, San Jose, Santa Clara County, California, United States"
     ]
 }

@@ -1,37 +1,42 @@
 {
-    "id": 7,
-    "date": "1999/10/01",
+    "id": 6,
+    "date": "1999/06/04",
     "sources": [
-        "https://www.computerworld.com/article/3019552/ibm-union-calls-it-quits.html",
-        "https://www.nytimes.com/1985/07/17/us/union-plans-drive-to-organize-ibm.html?rref=collection%2ftimestopic%2fcommunications%20workers%20of%20america",
-        "https://cwa-union.org/news/entry/ibm_employees_and_cwa_launch_allianceibm"
+        "https://www.latimes.com/archives/la-xpm-1999-jun-04-fi-44011-story.html",
+        "https://www.questia.com/newspaper/1p2-32575557/the-seeds-of-a-high-tech-union-sprout-in-washington"
     ],
     "actions": [
         "union drive"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "pay and benefits"
     ],
     "employment_types": [
         "white collar workers",
-        "inhouse workers"
+        "contract workers"
     ],
-    "description": "The Communications Workers of America have renewed their drive to organize IBM employees. CWA previously attempted to unionize IBM in 1985. This time around the union started a new organization, Alliance @IBM. It reports that roughly 100 thousand of the company's 140 thousand workers are eligible for unionization. Union supporters have started outreach and leafletting efforts at multiple locations, including the Research Triangle in North Carolina. The new organization will work with the existing IBM Employee Benefits Action Coalition. This effort continued for the next seventeen years, until it was ended 2016. At its peak, the Alliance had 400 dues-paying members.",
+    "description": "A group of temporary workers at Microsoft that includes accountants and lawyers has organized into a bargaining unit and is asking for representation through a local union, the Washington Alliance of Technology Workers. The employees expressed frustration at their status as contract workers, citing a lack of benefits as a motivating factor for the unionization attempt.",
     "online": null,
     "locations": [
-        "worldwide"
+        "seattle-washington-usa"
     ],
     "companies": [
-        "ibm"
+        "microsoft"
     ],
-    "workers": null,
+    "workers": 16,
     "tags": [
-        "cwa"
+        "washtech"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            47.5388725,
+            -122.2901728
+        ]
+    ],
+    "addresses": [
+        "Microsoft Gathering Hall, 7054, 32nd Avenue South, Holly Park, Rainier Valley, Seattle, King County, Washington, 98118, United States"
+    ]
 }

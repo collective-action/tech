@@ -1,31 +1,41 @@
 {
-    "id": 50,
-    "date": "2015/07/20",
+    "id": 49,
+    "date": "2015/06/18",
     "sources": [
-        "https://qz.com/458615/theres-reportedly-a-big-secret-spreadsheet-where-google-employees-share-their-salaries/"
+        "https://www.buzzfeednews.com/article/coralewis/wework-cleaners-push-for-raise"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "blue collar workers",
+        "contract workers"
     ],
-    "description": "Google employees have started an internal spreadsheet to share data on salary and bonuses. Employees have reportedly used the spreadsheet to advocate for greater compensation.",
-    "online": true,
-    "locations": null,
+    "description": "Janitors of WeWork protest at their companies's Manhattan headquarters at 222 Broadway. In that same building, other renters and owners hire cleaning contractors at the standard city-wide rate, while WeWork pays an average of $11 an hour.",
+    "online": null,
+    "locations": [
+        "manhattan-new york city-new york-usa"
+    ],
     "companies": [
-        "google"
+        "wework"
     ],
     "workers": null,
-    "tags": null,
-    "author": [
-        "nataliyaned"
+    "tags": [
+        "seiu"
     ],
-    "latlngs": null,
-    "addresses": null
+    "author": [
+        "organizejs"
+    ],
+    "latlngs": [
+        [
+            40.7189373,
+            -74.0020369
+        ]
+    ],
+    "addresses": [
+        "WeWork, 408, Broadway, SoHo, Manhattan Community Board 2, Manhattan, New York County, New York, 10003, United States"
+    ]
 }

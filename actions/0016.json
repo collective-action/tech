@@ -1,39 +1,39 @@
 {
-    "id": 10,
-    "date": "2001/01/09",
+    "id": 9,
+    "date": "2000/11/23",
     "sources": [
-        "https://www.nytimes.com/2001/01/09/business/technology-the-first-unionization-vote-by-dot-com-workers-is-set.html?rref=collection%2ftimestopic%2fcommunications%20workers%20of%20america",
-        "https://money.cnn.com/2001/02/19/sunsetting/biz_etown/",
-        "https://www.sfgate.com/business/article/etown-runs-out-of-money-shuts-down-web-site-s-2951974.php",
-        "https://www.wired.com/2001/01/union-to-etown-threats-unfair/"
+        "https://www.nytimes.com/2000/11/23/business/technology-unions-pushing-to-organize-thousands-of-amazoncom-workers.html?rref=collection%2ftimestopic%2fcommunications%20workers%20of%20america"
     ],
     "actions": [
-        "union representation"
+        "union drive"
     ],
     "struggles": [
         "pay and benefits",
         "working conditions"
     ],
     "employment_types": [
-        "inhouse workers"
+        "blue collar workers"
     ],
-    "description": "Customer service representatives at etown.com, a website that provides information on consumer electronics. voted on whether to join the Communication Workers of America. The New York Times reports that this is the first unionization vote at a dot com. Two workers who lead unionization efforts were reportedly fired by the company in the time leading up to the vote. Management threatened to shut down the company if unionization proceeded, which prompted CWA to file a motion with the NLRB. The company ultimately did shut down in mid-February 2001, due to  failure to secure additional venture capital funding.",
+    "description": "The United Food and Commercial Workers Union is attempting to organize roughly 5,000 workers at eight Amazon distribution centers across the U.S. The New York Times reports that 'low-key' unionization efforts have been going on in the company for the last two years.",
     "online": null,
     "locations": [
-        "san francisco-california-usa"
+        "usa"
     ],
     "companies": [
-        "etown"
+        "amazon"
     ],
-    "workers": 13,
-    "tags": [
-        "washtech",
-        "cwa",
-        "retaliation"
-    ],
+    "workers": 5000,
+    "tags": null,
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            47.6142939,
+            -122.3239636
+        ]
+    ],
+    "addresses": [
+        "Amazon Go Grocery, 610, East Pike Street, First Hill, Seattle, King County, Washington, 98122, United States"
+    ]
 }

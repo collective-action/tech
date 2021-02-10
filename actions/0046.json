@@ -1,48 +1,33 @@
 {
-    "id": 40,
-    "date": "2014/09/11",
+    "id": 39,
+    "date": "2014/09/01",
     "sources": [
-        "https://www.bloomberg.com/news/articles/2015-04-30/microsoft-contract-workers-are-organizing",
-        "https://lionbridgeunion.blogspot.com/"
+        "https://www.chronicle.com/article/intellectual-piecework/190039/",
+        "http://wiki.wearedynamo.org/index.php/guidelines_for_academic_requesters",
+        "https://medium.com/@niloufar_s/the-guidelines-for-ethical-research-on-amazon-mechanical-turk-researchers-care-about-fair-payment-427e816762ee"
     ],
     "actions": [
-        "union representation"
+        "open letter"
     ],
     "struggles": [
-        "unfair labor practices",
-        "job security"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
-        "contract workers"
+        "gig workers"
     ],
-    "description": "A group of temporary workers at Microsoft has signed its first union contract with their employer, a rare feat in a technology industry typically unfriendly to organized labor. 38 bug testers who review Microsoft apps voted to create a union, the Temporary Workers of America. They work full time in Microsoft's offices but are employed by cloud services contractor Lionbridge.",
-    "online": null,
-    "locations": [
-        "usa"
-    ],
+    "description": "Over two hundred Mechanical Turk workers and academics, organized through Dynamo, have collaborated and signed a set of ethical guidelines for scholars requesting labor through the platform. The Wiki page includes information on fair payment, communication practices, and the basics of requesting.",
+    "online": true,
+    "locations": null,
     "companies": [
-        "microsoft",
-        "lionbridge"
+        "amazon",
+        "mechanical_turk"
     ],
-    "workers": 38,
-    "tags": [
-        "temporary_workers_of_america"
-    ],
+    "workers": 262,
+    "tags": null,
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
-    "latlngs": [
-        [
-            35.139622349999996,
-            -80.92306993327955
-        ],
-        [
-            47.578722799999994,
-            -122.17154487755995
-        ]
-    ],
-    "addresses": [
-        "Microsoft, Ayrsley, Charlotte, Mecklenburg County, North Carolina, United States",
-        "Lionbridge, 3525, Factoria Boulevard Southeast, Factoria, Bellevue, King County, Washington, 98006, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

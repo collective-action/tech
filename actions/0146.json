@@ -1,43 +1,47 @@
 {
-    "id": 138,
+    "id": 137,
     "date": "2019/05/08",
     "sources": [
-        "https://medium.com/@googlewalkout/notokgoogle-demands-regarding-retaliation-697da244146f",
-        "https://observer.com/2019/05/alphabet-ceo-larry-page-employees-walkouts/"
+        "https://www.washingtonpost.com/technology/2019/05/08/inside-facebook-second-class-workers-who-do-hardest-job-are-waging-quiet-battle/?noredirect=on&utm_term=.832acb00f260",
+        "https://www.washingtonpost.com/business/2019/05/13/facebook-raising-pay-support-services-thousands-contractors-content-moderators/?utm_term=.f0b4e7b4bf3e"
     ],
     "actions": [
-        "open letter"
+        "protest"
     ],
     "struggles": [
-        "working conditions",
-        "discrimination"
+        "working conditions"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "contract workers"
     ],
-    "description": "Google employees publish an open letter demanding that Alphabet CEO Larry Page 'immediately and publicly address the Walkout\u2019s demands, and recommit Google to meeting them.' The list of demands also asks for the company to allow Meredith to continue her work, fully funded, as before and to allow Claire to change teams without further retaliation. The letter calls out the broken nature of the HR department at Google, and demands for an open and transparent investigation on the department.",
+    "description": "But for the past seven months, roughly a dozen moderators in the United States have been spearheading a quiet campaign inside the social media giant to air their grievances about unsatisfactory working conditions and their status as second-class citizens. The contractors, who have not previously spoken publicly about their efforts, are using their access to Facebook Workplace, the social network\u2019s internal communication system, to wage their battle.",
     "online": null,
     "locations": [
         "usa"
     ],
     "companies": [
-        "google"
+        "facebook",
+        "accenture"
     ],
-    "workers": null,
+    "workers": 12,
     "tags": [
-        "retaliation"
+        "moderators"
     ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            42.3627717,
-            -71.087257
+            30.2691649,
+            -97.7455041
+        ],
+        [
+            37.3339398,
+            -121.8895142
         ]
     ],
     "addresses": [
-        "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States"
+        "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States",
+        "Accenture, 50, West San Fernando Street, Downtown Historic District, San Jose, Santa Clara County, California, 95110, United States"
     ]
 }

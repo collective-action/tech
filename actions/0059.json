@@ -1,41 +1,31 @@
 {
-    "id": 52,
-    "date": "2016/02/07",
+    "id": 51,
+    "date": "2015/08/20",
     "sources": [
-        "https://www.wired.com/2016/02/uber-drivers-protest-san-francisco-super-bowl/"
+        "https://www.huffingtonpost.ca/2015/08/20/netflix-under-pressure-to-expand-1-year-parental-leave-to-lower-paid-workers-in-dvd-division_n_8018070.html"
     ],
     "actions": [
-        "protest"
+        "open letter"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "pay and benefits"
     ],
     "employment_types": [
-        "gig workers"
+        "na"
     ],
-    "description": "Uber drivers protested fare cuts by boycotting the app on Super Bowl Sunday and demonstrating outside of company headquarters. The boycott came in the midst of a promotion by Uber to provide free rides to fans of the winning team. Earlier in the week a caravan of 100 drivers drove through the city before stopping to protest at headquarters in downtown San Francisco. Earlier in the year the company imposed fare cuts in several cities around the U.S.",
-    "online": null,
-    "locations": [
-        "san francisco-california-usa"
-    ],
+    "description": "Three online petitions were started to protest parental leave policies at Netflix. The company recently began to offer a one-year paid parental leave but excluded employees in its DVD-by-mail service, who are typically lower paid than streaming employees and receive fewer benefits.",
+    "online": true,
+    "locations": null,
     "companies": [
-        "uber"
+        "netflix"
     ],
-    "workers": 100,
+    "workers": null,
     "tags": [
-        "drivers"
+        "coworker_solidarity"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            37.7756962,
-            -122.4180838
-        ]
-    ],
-    "addresses": [
-        "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, California, 94103, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

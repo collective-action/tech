@@ -1,44 +1,28 @@
 {
-    "id": 380,
-    "date": "1995/04/17",
+    "id": 4,
+    "date": "1994/01/24",
     "sources": [
-        "https://www.nytimes.com/2003/07/13/business/fighting-for-the-right-to-communicate.html",
-        "https://cyber.harvard.edu/msvh/hamidi/hrnote.html"
+        "https://www.nytimes.com/1994/06/12/magazine/battle-of-the-clipper-chip.html",
+        "http://cpsr.org/prevsite/program/clipper/clipper.html/"
     ],
     "actions": [
-        "legal action"
+        "open letter"
     ],
     "struggles": [
-        "discrimination",
-        "unfair labor practices"
+        "ethics"
     ],
     "employment_types": [
-        "white collar workers",
-        "in-house workers"
+        "white collar workers"
     ],
-    "description": "Former Intel engineer Kourosh Kenneth (\"Ken\") Hamidi alleged wrongful termination and discrimination after his claims for workers' compensation, following a car accident, were denied and he was fired in 1995. He formed a small (~10 member) online group called Former And Current Employees of Intel (FACE-Intel) to coordinate six mass emails over 21 months to Intel employees about company wrongdoing. Intel sued Hamidi and the FACE-Intel group for \"trespass to chattel\" and \"nuisance\" resulting in the California Supreme Court's ruling in Hamidi's favor in Intel Corporation v. Hamidi (2003). The case is considered a landmark ruling on electronic employee communications and concepts of trespass.",
+    "description": "Computer Professionals for Social Responsibility (CPSR) launches an online petition in opposition to the Clipper Chip, a cryptographic device intended to provide a standard for securing private voice communication. The group expresses concern about the possibility of surveillance through decryption keys held by government agencies. The petition obtains over 50,000 signatures. An earlier physical letter, sent directly to the President, received 40 signatures from cryptography and computing experts.",
     "online": true,
-    "locations": [
-        "sacramento-california-usa"
-    ],
-    "companies": [
-        "intel"
-    ],
-    "workers": 10,
-    "tags": [
-        "retaliation",
-        "online_action"
-    ],
+    "locations": null,
+    "companies": null,
+    "workers": 50000,
+    "tags": null,
     "author": [
-        "CM"
+        "nataliyaned"
     ],
-    "latlngs": [
-        [
-            38.64577295,
-            -121.16569779442514
-        ]
-    ],
-    "addresses": [
-        "Intel Corporation, 1900, Natoma Station, Folsom, Sacramento County, California, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

@@ -1,42 +1,39 @@
 {
-    "id": 55,
-    "date": "2016/03/31",
+    "id": 54,
+    "date": "2016/02/17",
     "sources": [
-        "https://www.bizjournals.com/sanjose/news/2016/03/31/seiu-janitors-san-jose-rally-targets-adobe.html"
+        "https://www.theguardian.com/world/2016/feb/17/juarez-factory-workers-protest-rights-occupy-style-sit-in-lexmark"
     ],
     "actions": [
-        "strike"
+        "union representation"
     ],
     "struggles": [
         "pay and benefits",
         "working conditions"
     ],
     "employment_types": [
-        "blue collar workers",
-        "contract workers"
+        "blue collar workers"
     ],
-    "description": "Service Employees International Union-United Service Workers West janitors' San Jose rally targets Adobe. Hundreds of SEIU-USWW members congregated on Cesar Chavez Day to draw attention to ongoing contract negotiations with cleaning service contractors and protest abuse of workers in the janitorial industry.",
+    "description": "Hundreds of Lexmark workers have protested working conditions at manufacturing plants in Juarez, Mexico for months. At least 700 workers went on strike in December 2015. Workers have called for union representation, improved wages, and investigation into sexual harassment allegations.",
     "online": null,
     "locations": [
-        "san jose-california-usa"
+        "juarez-mexico"
     ],
     "companies": [
-        "adobe"
+        "lexmark"
     ],
-    "workers": 100,
-    "tags": [
-        "seiu"
-    ],
+    "workers": 700,
+    "tags": null,
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            37.33196605,
-            -121.8954904847011
+            31.5877145,
+            -106.3916453
         ]
     ],
     "addresses": [
-        "Adobe, 333, Little Italy, San Jose, Santa Clara County, California, United States"
+        "Lexmark, Boulevard Independencia, Municipio de Ju\u00e1rez, Chihuahua, 32575, M\u00e9xico"
     ]
 }

@@ -1,41 +1,48 @@
 {
-    "id": 41,
-    "date": "2014/09/19",
+    "id": 40,
+    "date": "2014/09/11",
     "sources": [
-        "https://thinkprogress.org/silicon-valley-workers-protest-for-fair-wages-at-apple-stores-during-iphone-6-launch-860a32a25b98/"
+        "https://www.bloomberg.com/news/articles/2015-04-30/microsoft-contract-workers-are-organizing",
+        "https://lionbridgeunion.blogspot.com/"
     ],
     "actions": [
-        "protest"
+        "union representation"
     ],
     "struggles": [
-        "pay and benefits"
+        "unfair labor practices",
+        "job security"
     ],
     "employment_types": [
-        "contract workers",
-        "blue collar workers"
+        "contract workers"
     ],
-    "description": "In front of Apple stores nationwide, tech companies employees gathered to protest alongside hundreds of eager customers waiting in line to buy the iPhone 6. The protesters weren't disgruntled Apple engineers or developers; they were security officers, maintenance and custodial staff demanding better wages from tech companies.",
+    "description": "A group of temporary workers at Microsoft has signed its first union contract with their employer, a rare feat in a technology industry typically unfriendly to organized labor. 38 bug testers who review Microsoft apps voted to create a union, the Temporary Workers of America. They work full time in Microsoft's offices but are employed by cloud services contractor Lionbridge.",
     "online": null,
     "locations": [
         "usa"
     ],
     "companies": [
-        "apple"
+        "microsoft",
+        "lionbridge"
     ],
-    "workers": null,
+    "workers": 38,
     "tags": [
-        "seiu"
+        "temporary_workers_of_america"
     ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            42.3489689,
-            -71.0824143
+            35.139622349999996,
+            -80.92306993327955
+        ],
+        [
+            47.578722799999994,
+            -122.17154487755995
         ]
     ],
     "addresses": [
-        "Apple Store, 815, Boylston Street, Block F, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States"
+        "Microsoft, Ayrsley, Charlotte, Mecklenburg County, North Carolina, United States",
+        "Lionbridge, 3525, Factoria Boulevard Southeast, Factoria, Bellevue, King County, Washington, 98006, United States"
     ]
 }

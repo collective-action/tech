@@ -1,41 +1,43 @@
 {
-    "id": 44,
-    "date": "2014/12/03",
+    "id": 43,
+    "date": "2014/11/19",
     "sources": [
-        "https://www.theguardian.com/technology/2014/dec/03/amazon-mechanical-turk-workers-protest-jeff-bezos",
-        "http://www.wearedynamo.org/dearjeffbezos"
+        "https://bits.blogs.nytimes.com/2014/11/19/facebooks-bus-drivers-vote-to-unionize"
     ],
     "actions": [
-        "open letter"
+        "union representation"
     ],
     "struggles": [
         "pay and benefits",
-        "working conditions",
-        "unfair labor practices"
+        "working conditions"
     ],
     "employment_types": [
-        "gig workers"
+        "contract workers"
     ],
-    "description": "Hundreds of Mechanical Turk workers participate in an email writing campaign to Amazon founder Jeff Bezos to protest low pay and worker representation. The workers are organized by 'We Are Dynamo', a self-described guild for crowdsourced workers started by workers and academics.",
-    "online": true,
+    "description": "The shuttle bus drivers who ferry Facebook employees to and from work voted on Wednesday to unionize, 43 to 28. The drivers, who are employees of Loop Transportation, a contractor for Facebook, voted to join Teamsters Local 853, with several of them saying their main concerns were inadequate pay and a stressful split shift schedule.",
+    "online": null,
     "locations": [
-        "usa"
+        "menlo park-california-usa"
     ],
     "companies": [
-        "amazon"
+        "facebook",
+        "loop transportation"
     ],
-    "workers": 550,
-    "tags": null,
+    "workers": null,
+    "tags": [
+        "teamster",
+        "drivers"
+    ],
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
     "latlngs": [
         [
-            47.6142939,
-            -122.3239636
+            37.484668049999996,
+            -122.1483654685629
         ]
     ],
     "addresses": [
-        "Amazon Go Grocery, 610, East Pike Street, First Hill, Seattle, King County, Washington, 98122, United States"
+        "Facebook, Bayfront Expressway, Menlo Park, San Mateo County, California, 94025-1246, United States"
     ]
 }

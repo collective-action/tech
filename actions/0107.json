@@ -1,31 +1,27 @@
 {
-    "id": 100,
-    "date": "2018/10/09",
+    "id": 99,
+    "date": "2018/10/04",
     "sources": [
-        "https://www.theguardian.com/technology/2018/oct/09/uber-uk-strike-users-urged-not-to-cross-digital-picket-line",
-        "https://www.bbc.com/news/business-45796409"
+        "https://www.bbc.com/news/business-45734662"
     ],
     "actions": [
         "strike"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "pay and benefits"
     ],
     "employment_types": [
         "gig workers"
     ],
-    "description": "Hundreds of Uber drivers are expected to switch off their apps from 1pm, making themselves unavailable for work, union organisers said. Protests are also being held outside the ride-hailing app's offices in London, Nottingham and Birmingham.",
+    "description": "UberEats riders and a small number of workers from JD Wetherspoon, McDonald's and TGI Fridays have been staging walkouts in a pay dispute. Protests were being held in several UK cities, along with a rally in London.",
     "online": null,
     "locations": [
-        "london-uk",
-        "nottingham-uk",
-        "birmingham-uk"
+        "uk"
     ],
     "companies": [
         "uber"
     ],
-    "workers": 100,
+    "workers": 50,
     "tags": null,
     "author": [
         "organizejs"
@@ -34,14 +30,9 @@
         [
             51.5148804,
             -0.0718856
-        ],
-        [
-            52.4746766,
-            -1.91586332385543
         ]
     ],
     "addresses": [
-        "Uber, 2, Leman Street, Spitalfields, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, E1 8FA, United Kingdom",
-        "UBER, 100, Broad Street, Ladywood, Park Central, Birmingham, West Midlands Combined Authority, West Midlands, England, B15 1AE, United Kingdom"
+        "Uber, 2, Leman Street, Spitalfields, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, E1 8FA, United Kingdom"
     ]
 }

@@ -1,43 +1,40 @@
 {
-    "id": 359,
-    "date": "2020/11/17",
+    "id": 354,
+    "date": "2020/10/27",
     "sources": [
-        "https://www.vice.com/en/article/n7vn9w/blue-collar-unions-fear-widespread-layoffs-in-silicon-valley"
+        "https://www.washingtonpost.com/context/a-statement-on-caste-bias-in-silicon-valley-from-30-dalit-women-engineers/d692b4f8-2710-41c3-9d5f-ea55c13bcc50/?itid=lk_interstitial_manual_16",
+        "https://www.washingtonpost.com/technology/2020/10/27/indian-caste-bias-silicon-valley/"
     ],
     "actions": [
-        "protest"
+        "open letter"
     ],
     "struggles": [
-        "job security",
-        "pay and benefits"
+        "discrimination"
     ],
     "employment_types": [
-        "blue collar workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "On Tuesday, dozens of those workers will protest outside the San Francisco home of the Verizon Media CEO Guru Gowrappan, and drop off letters demanding an extension of their healthcare coverage and pay (Verizon Media owns Yahoo). Though these workers are technically not employed by  Verizon Media, the decision to lay off the cafeteria workers was ultimately made by the company, which like most Silicon Valley tech companies contracts out its blue-collar labor. ",
-    "online": null,
+    "description": "A group of 30 Indian female engineers who were born into the Dalit caste shared a statement with the Washington Post describing their experience of casteism and sexism in Silicon Valley. The group called for American corporations to adopt caste as a protected category, treated on the same terms as gender, race, and sexuality. ",
+    "online": true,
     "locations": [
-        "san francisco-california-usa"
+        "usa"
     ],
-    "companies": [
-        "verizon",
-        "yahoo"
+    "companies": null,
+    "workers": 30,
+    "tags": [
+        "sexism"
     ],
-    "workers": null,
-    "tags": null,
-    "author": null,
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": [
         [
-            34.091086700000005,
-            -117.6034596429738
-        ],
-        [
-            37.4181243,
-            -122.02538023988251
+            39.7837304,
+            -100.4458825
         ]
     ],
     "addresses": [
-        "Verizon, 9000, Rancho Cucamonga, San Bernardino County, California, 91730, United States",
-        "Yahoo, Sunnyvale, Santa Clara County, California, United States"
+        "United States"
     ]
 }

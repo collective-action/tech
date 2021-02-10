@@ -1,38 +1,33 @@
 {
-    "id": 18,
-    "date": "2011/12/28",
+    "id": 17,
+    "date": "2009/12/16",
     "sources": [
-        "https://www.reuters.com/article/us-china-lg-strike-idustre7br0jh20111228"
+        "https://techcrunch.com/2009/12/16/yahoo-engineers-strike-after-closure-of-french-rd-site-results-in-78-laid-off/"
     ],
     "actions": [
+        "protest",
         "strike"
     ],
     "struggles": [
-        "pay and benefits"
+        "job security"
     ],
     "employment_types": [
-        "blue collar workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "LG workers in Nanjing went on strike to protest the low pay they receive relative to Korean LG employees at the same plant.",
+    "description": "Engineers at Yahoo France held a strike to protest the company's plans to shut down an R&D office in Echirolles, laying off 78 people or roughly one-third of the company's total employees in the country. ",
     "online": null,
     "locations": [
-        "nanjing-china"
+        "echirolles-france"
     ],
     "companies": [
-        "lg"
+        "yahoo"
     ],
-    "workers": 8000,
+    "workers": null,
     "tags": null,
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            32.1576782,
-            118.86592783961245
-        ]
-    ],
-    "addresses": [
-        "LG, \u6816\u971e\u533a, \u5357\u4eac\u5e02, \u4e2d\u56fd"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

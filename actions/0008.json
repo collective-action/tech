@@ -1,27 +1,38 @@
 {
-    "id": 4,
-    "date": "1994/01/24",
+    "id": 386,
+    "date": "1992/10/16",
     "sources": [
-        "https://www.nytimes.com/1994/06/12/magazine/battle-of-the-clipper-chip.html",
-        "http://cpsr.org/prevsite/program/clipper/clipper.html/"
+        "https://www.csmonitor.com/1992/1124/24081.html"
     ],
     "actions": [
-        "open letter"
+        "strike",
+        "protest",
+        "union drive"
     ],
     "struggles": [
-        "ethics"
+        "pay and benefits",
+        "working conditions",
+        "discrimination"
     ],
     "employment_types": [
-        "white collar workers"
+        "inhouse workers",
+        "blue collar workers"
     ],
-    "description": "Computer Professionals for Social Responsibility (CPSR) launches an online petition in opposition to the Clipper Chip, a cryptographic device intended to provide a standard for securing private voice communication. The group expresses concern about the possibility of surveillance through decryption keys held by government agencies. The petition obtains over 50,000 signatures. An earlier physical letter, sent directly to the President, received 40 signatures from cryptography and computing experts.",
-    "online": true,
-    "locations": null,
-    "companies": null,
-    "workers": 50000,
-    "tags": null,
+    "description": "Workers at Versatronex Corporation, a company in Silicon Valley that makes circuit boards, went on strike to protest low wages and a lack of health care and other benefits. Most of the strikers were Latina women and had contacted the United Electrical Workers Union - they struck after the company fired a worker who was vocal in supporting unionization.",
+    "online": null,
+    "locations": [
+        "sunnyvale-california-usa"
+    ],
+    "companies": [
+        "versatronex"
+    ],
+    "workers": 55,
+    "tags": [
+        "retaliation",
+        "antiracism"
+    ],
     "author": [
-        "nataliyaned"
+        "CM"
     ],
     "latlngs": null,
     "addresses": null

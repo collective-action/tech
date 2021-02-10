@@ -303,6 +303,45 @@
         ]
     },
     {
+        "id": 386,
+        "date": "1992/10/16",
+        "sources": [
+            "https://www.csmonitor.com/1992/1124/24081.html"
+        ],
+        "actions": [
+            "strike",
+            "protest",
+            "union drive"
+        ],
+        "struggles": [
+            "pay and benefits",
+            "working conditions",
+            "discrimination"
+        ],
+        "employment_types": [
+            "inhouse workers",
+            "blue collar workers"
+        ],
+        "description": "Workers at Versatronex Corporation, a company in Silicon Valley that makes circuit boards, went on strike to protest low wages and a lack of health care and other benefits. Most of the strikers were Latina women and had contacted the United Electrical Workers Union - they struck after the company fired a worker who was vocal in supporting unionization.",
+        "online": null,
+        "locations": [
+            "sunnyvale-california-usa"
+        ],
+        "companies": [
+            "versatronex"
+        ],
+        "workers": 55,
+        "tags": [
+            "retaliation",
+            "antiracism"
+        ],
+        "author": [
+            "CM"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
         "id": 4,
         "date": "1994/01/24",
         "sources": [
@@ -14324,5 +14363,48 @@
         ],
         "latlngs": null,
         "addresses": null
+    },
+    {
+        "id": 390,
+        "date": "2021/01/09",
+        "sources": [
+            "https://www.buzzfeednews.com/article/johnpaczkowski/amazon-parler-aws"
+        ],
+        "actions": [
+            "protest"
+        ],
+        "struggles": [
+            "ethics"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "Amazon suspends hosting for Parler, a pro-Trump social network cited for facilitating the pro-Trump storming of the Capitol, after Amazon employees send internal messages to AWS management and participate in various online actions, including a coworker.org petition.",
+        "online": true,
+        "locations": [
+            "usa"
+        ],
+        "companies": [
+            "amazon"
+        ],
+        "workers": null,
+        "tags": [
+            "trump",
+            "politics",
+            "online_action"
+        ],
+        "author": [
+            "organizejs"
+        ],
+        "latlngs": [
+            [
+                47.6142939,
+                -122.3239636
+            ]
+        ],
+        "addresses": [
+            "Amazon Go Grocery, 610, East Pike Street, First Hill, Seattle, King County, Washington, 98122, United States"
+        ]
     }
 ]
