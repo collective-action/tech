@@ -20,7 +20,7 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">10/02/2021 10:27PM</td>
+    <td data-summary="timestamp">10/02/2021 11:30PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
@@ -48,7 +48,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2021-01-09
    </td>
    <td>
-    Amazon suspends hosting for Parler, a pro-Trump social network cited for facilitating the pro-Trump storming of the Capitol, after Amazon employees send internal messages to AWS management and participate in various online actions, including a coworker.org petition.
+    Amazon suspends hosting for Parler, a social network app cited for facilitating the pro-Trump storming of the Capitol, after Amazon employees send internal messages to AWS management and participate in various online actions, including a coworker.org petition.
    </td>
    <td>
     <a href="/actions/0358.json">

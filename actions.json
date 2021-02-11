@@ -14348,7 +14348,9 @@
         ],
         "description": "Following the pro-Trump storming of the Capitol on January 6, roughly 350 Twitter employees signed an internal letter addressed to CEO Jack Dorsey and top executives questioning Twitter's policies and role in facilitating the attack. The employees requested an investigation into corporation actions over the last several years and asked for greater transparency to the company\u2019s decision-making process regarding Donald Trumps' Twitter account on the day of the attack.",
         "online": true,
-        "locations": null,
+        "locations": [
+            "usa"
+        ],
         "companies": [
             "twitter"
         ],
@@ -14361,8 +14363,15 @@
         "author": [
             "CM"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.7762709,
+                -122.41630688295965
+            ]
+        ],
+        "addresses": [
+            "Twitter, 875, Stevenson Street, Market Square, San Francisco, San Francisco City and County, California, 94102, United States"
+        ]
     },
     {
         "id": 390,
@@ -14380,7 +14389,7 @@
             "white collar workers",
             "inhouse workers"
         ],
-        "description": "Amazon suspends hosting for Parler, a pro-Trump social network cited for facilitating the pro-Trump storming of the Capitol, after Amazon employees send internal messages to AWS management and participate in various online actions, including a coworker.org petition.",
+        "description": "Amazon suspends hosting for Parler, a social network app cited for facilitating the pro-Trump storming of the Capitol, after Amazon employees send internal messages to AWS management and participate in various online actions, including a coworker.org petition.",
         "online": true,
         "locations": [
             "usa"
