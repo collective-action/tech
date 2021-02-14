@@ -20,7 +20,7 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">14/02/2021 11:37AM</td>
+    <td data-summary="timestamp">14/02/2021 12:33PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
@@ -228,7 +228,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2020-11-24
    </td>
    <td>
-    Amazon warehouse workers in Alabama filed a petition to hold a union election. If successful, this would be the first Amazon Union for warehouse workers in the U.S. Workers from the warehouse in Bessemer, Alabama, outside Birmingham, filed the petition with the NLRB seeking to be represented by the Retail, Wholesale and Department Store Union, or RWDSU. Amazon employs more than 1,500 workers at the facility, which just opened earlier this year.
+    Amazon warehouse workers in Alabama filed a petition to hold a union election. If successful, this would be the first Amazon Union for warehouse workers in the U.S. Workers from the warehouse in Bessemer, Alabama, outside Birmingham, filed the petition with the NLRB seeking to be represented by the Retail, Wholesale and Department Store Union, or RWDSU. Amazon employs more than 1,500 workers at the facility, which just opened earlier this year. UPDATE: The petition was successful, and workers are expected to receive their mail-in ballots on February 8th with ballot counting set to begin on March 30th.
    </td>
    <td>
     <a href="/actions/0346.json">
