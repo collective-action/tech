@@ -35,8 +35,8 @@
     ],
     "latlngs": [
         [
-            37.4234991,
-            -122.0876762
+            37.41897865,
+            -122.08237793989416
         ],
         [
             37.778011,
@@ -45,11 +45,16 @@
         [
             37.484668049999996,
             -122.1483654685629
+        ],
+        [
+            40.7007485,
+            -73.9725542
         ]
     ],
     "addresses": [
-        "Google, Mountain View, Santa Clara County, California, 94043, United States",
+        "Google, Mountain View, Santa Clara County, California, United States",
         "WeWork, 1161, Mission Street, West SoMa, San Francisco, San Francisco City and County, California, 94103, United States",
-        "Facebook, Bayfront Expressway, Menlo Park, San Mateo County, California, 94025-1246, United States"
+        "Facebook, Bayfront Expressway, Menlo Park, San Mateo County, California, 94025-1246, United States",
+        "WeWork, Market Street, Brooklyn Navy Yard, Brooklyn, Kings County, New York, 11251, United States"
     ]
 }

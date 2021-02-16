@@ -1315,8 +1315,8 @@
         ],
         "latlngs": [
             [
-                50.849935,
-                9.7341416
+                50.8453279,
+                9.678334853465138
             ],
             [
                 51.3622584,
@@ -1324,7 +1324,7 @@
             ]
         ],
         "addresses": [
-            "Amazon-Stra\u00dfe, Hohe Luft, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
+            "Amazon FRA1, 1, Eichhof, Asbach, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
             "Amazon, 1, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland"
         ]
     },
@@ -1391,8 +1391,8 @@
         ],
         "latlngs": [
             [
-                50.849935,
-                9.7341416
+                50.8453279,
+                9.678334853465138
             ],
             [
                 51.3622584,
@@ -1400,7 +1400,7 @@
             ]
         ],
         "addresses": [
-            "Amazon-Stra\u00dfe, Hohe Luft, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
+            "Amazon FRA1, 1, Eichhof, Asbach, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
             "Amazon, 1, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland"
         ]
     },
@@ -1437,8 +1437,8 @@
         ],
         "latlngs": [
             [
-                50.849935,
-                9.7341416
+                50.8453279,
+                9.678334853465138
             ],
             [
                 51.3622584,
@@ -1446,7 +1446,7 @@
             ]
         ],
         "addresses": [
-            "Amazon-Stra\u00dfe, Hohe Luft, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
+            "Amazon FRA1, 1, Eichhof, Asbach, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
             "Amazon, 1, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland"
         ]
     },
@@ -1520,8 +1520,8 @@
         ],
         "latlngs": [
             [
-                50.849935,
-                9.7341416
+                50.8453279,
+                9.678334853465138
             ],
             [
                 51.3622584,
@@ -1541,7 +1541,7 @@
             ]
         ],
         "addresses": [
-            "Amazon-Stra\u00dfe, Hohe Luft, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
+            "Amazon FRA1, 1, Eichhof, Asbach, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
             "Amazon, 1, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland",
             "Amazon-Logistikzentrum, Graben, Landkreis Augsburg, Bayern, 86836, Deutschland",
             "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
@@ -2283,8 +2283,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                40.7189373,
+                -74.0020369
+            ]
+        ],
+        "addresses": [
+            "WeWork, 408, Broadway, SoHo, Manhattan Community Board 2, Manhattan, New York County, New York, 10003, United States"
+        ]
     },
     {
         "id": 50,
@@ -2502,12 +2509,12 @@
         ],
         "latlngs": [
             [
-                37.3555127,
-                -121.8255443
+                37.33196605,
+                -121.8954904847011
             ]
         ],
         "addresses": [
-            "Adobe Creek Court, Alum Rock, San Jose, Santa Clara County, California, 95127:95148, United States"
+            "Adobe, 333, Little Italy, San Jose, Santa Clara County, California, United States"
         ]
     },
     {
@@ -3254,8 +3261,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                40.722465,
+                -73.9977307
+            ]
+        ],
+        "addresses": [
+            "Amazon, 72, Spring Street, SoHo, Manhattan Community Board 2, Manhattan, New York County, New York, 10013, United States"
+        ]
     },
     {
         "id": 74,
@@ -4436,8 +4450,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                33.9446707,
+                -117.026448
+            ]
+        ],
+        "addresses": [
+            "Apron Lane, Beaumont, Riverside County, California, 92223, United States"
+        ]
     },
     {
         "id": 105,
@@ -6310,12 +6331,12 @@
         ],
         "latlngs": [
             [
-                37.4234991,
-                -122.0876762
+                37.41897865,
+                -122.08237793989416
             ]
         ],
         "addresses": [
-            "Google, Mountain View, Santa Clara County, California, 94043, United States"
+            "Google, Mountain View, Santa Clara County, California, United States"
         ]
     },
     {
@@ -6396,12 +6417,12 @@
         ],
         "latlngs": [
             [
-                37.4234991,
-                -122.0876762
+                37.41897865,
+                -122.08237793989416
             ]
         ],
         "addresses": [
-            "Google, Mountain View, Santa Clara County, California, 94043, United States"
+            "Google, Mountain View, Santa Clara County, California, United States"
         ]
     },
     {
@@ -6471,8 +6492,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                40.722465,
+                -73.9977307
+            ]
+        ],
+        "addresses": [
+            "Amazon, 72, Spring Street, SoHo, Manhattan Community Board 2, Manhattan, New York County, New York, 10013, United States"
+        ]
     },
     {
         "id": 155,
@@ -8650,8 +8678,8 @@
         ],
         "latlngs": [
             [
-                37.4234991,
-                -122.0876762
+                37.41897865,
+                -122.08237793989416
             ],
             [
                 37.778011,
@@ -8660,12 +8688,17 @@
             [
                 37.484668049999996,
                 -122.1483654685629
+            ],
+            [
+                40.7007485,
+                -73.9725542
             ]
         ],
         "addresses": [
-            "Google, Mountain View, Santa Clara County, California, 94043, United States",
+            "Google, Mountain View, Santa Clara County, California, United States",
             "WeWork, 1161, Mission Street, West SoMa, San Francisco, San Francisco City and County, California, 94103, United States",
-            "Facebook, Bayfront Expressway, Menlo Park, San Mateo County, California, 94025-1246, United States"
+            "Facebook, Bayfront Expressway, Menlo Park, San Mateo County, California, 94025-1246, United States",
+            "WeWork, Market Street, Brooklyn Navy Yard, Brooklyn, Kings County, New York, 11251, United States"
         ]
     },
     {
@@ -8706,13 +8739,13 @@
                 -122.3912458
             ],
             [
-                37.411866,
-                -122.0714965
+                37.41096725,
+                -122.07138737347663
             ]
         ],
         "addresses": [
             "GitHub, 88, Colin P. Kelly Junior Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States",
-            "Microsoft Company Store, La Avenida Street, Mountain View, Santa Clara County, California, 94043-3421, United States"
+            "Microsoft Silicon Valley, Mountain View, Santa Clara County, California, United States"
         ]
     },
     {
@@ -8747,12 +8780,12 @@
         ],
         "latlngs": [
             [
-                37.4234991,
-                -122.0876762
+                37.41897865,
+                -122.08237793989416
             ]
         ],
         "addresses": [
-            "Google, Mountain View, Santa Clara County, California, 94043, United States"
+            "Google, Mountain View, Santa Clara County, California, United States"
         ]
     },
     {
@@ -8796,13 +8829,13 @@
                 -122.08237793989416
             ],
             [
-                37.4234991,
-                -122.0876762
+                37.41897865,
+                -122.08237793989416
             ]
         ],
         "addresses": [
             "Google, Mountain View, Santa Clara County, California, United States",
-            "Google, Mountain View, Santa Clara County, California, 94043, United States"
+            "Google, Mountain View, Santa Clara County, California, United States"
         ]
     },
     {
@@ -8838,12 +8871,12 @@
         ],
         "latlngs": [
             [
-                37.4234991,
-                -122.0876762
+                37.41897865,
+                -122.08237793989416
             ]
         ],
         "addresses": [
-            "Google, Mountain View, Santa Clara County, California, 94043, United States"
+            "Google, Mountain View, Santa Clara County, California, United States"
         ]
     },
     {
@@ -8918,8 +8951,8 @@
         ],
         "latlngs": [
             [
-                50.849935,
-                9.7341416
+                50.8453279,
+                9.678334853465138
             ],
             [
                 51.3622584,
@@ -8943,7 +8976,7 @@
             ]
         ],
         "addresses": [
-            "Amazon-Stra\u00dfe, Hohe Luft, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
+            "Amazon FRA1, 1, Eichhof, Asbach, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
             "Amazon, 1, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland",
             "Amazon stra\u00dfe, Industriepark A61/GVZ Koblenz, R\u00fcbenach, Koblenz, Rheinland-Pfalz, 56330, Deutschland",
             "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
@@ -10784,8 +10817,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                40.722465,
+                -73.9977307
+            ]
+        ],
+        "addresses": [
+            "Amazon, 72, Spring Street, SoHo, Manhattan Community Board 2, Manhattan, New York County, New York, 10013, United States"
+        ]
     },
     {
         "id": 284,
@@ -12116,8 +12156,8 @@
                 -60.1620626
             ],
             [
-                43.6689691,
-                12.041964349868564
+                57.8680579,
+                -5.1274406
             ],
             [
                 18.6534612,
@@ -12137,7 +12177,7 @@
             "Parque Uber, Jardim Bot\u00e2nico, Ribeir\u00e3o Preto, Regi\u00e3o Imediata de Ribeir\u00e3o Preto, Regi\u00e3o Metropolitana de Ribeir\u00e3o Preto, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Ribeir\u00e3o Preto, S\u00e3o Paulo, Regi\u00e3o Sudeste, Brasil",
             "MI TIERRA AG - vinoteca argentina, 7, Alpenstrasse, Rapperswil, Rapperswil-Jona, Wahlkreis See-Gaster, Sankt Gallen, 8640, Schweiz/Suisse/Svizzera/Svizra",
             "Cristian Uber, Hinojo, Partido de Olavarr\u00eda, Buenos Aires, 7318, Argentina",
-            "loggie, Via Arezzo, Pieve Santo Stefano, Arezzo, Toscana, 52036, Italia",
+            "Loggie, Highland, Scotland, IV23 2SG, United Kingdom",
             "Ifood, 61A, FRACC. MARINA DEL REY, Ciudad del Carmen, Carmen, Campeche, 24100, M\u00e9xico",
             "Rapperswil, Rapperswil-Jona, Wahlkreis See-Gaster, Sankt Gallen, 8640, Schweiz/Suisse/Svizzera/Svizra",
             "Uber, Calle Hamburgo, Ju\u00e1rez, Cuauht\u00e9moc, Ciudad de M\u00e9xico, 06600, M\u00e9xico"
@@ -12645,12 +12685,12 @@
         ],
         "latlngs": [
             [
-                52.5034002,
-                13.3386373
+                52.5170365,
+                13.3888599
             ]
         ],
         "addresses": [
-            "Berlin, Tauentzienstra\u00dfe, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, 10789, Deutschland"
+            "Berlin, 10117, Deutschland"
         ]
     },
     {
@@ -12723,12 +12763,12 @@
         ],
         "latlngs": [
             [
-                37.4234991,
-                -122.0876762
+                37.41897865,
+                -122.08237793989416
             ]
         ],
         "addresses": [
-            "Google, Mountain View, Santa Clara County, California, 94043, United States"
+            "Google, Mountain View, Santa Clara County, California, United States"
         ]
     },
     {
@@ -13092,8 +13132,8 @@
         ],
         "latlngs": [
             [
-                37.4234991,
-                -122.0876762
+                37.41897865,
+                -122.08237793989416
             ],
             [
                 40.572519,
@@ -13101,7 +13141,7 @@
             ]
         ],
         "addresses": [
-            "Google, Mountain View, Santa Clara County, California, 94043, United States",
+            "Google, Mountain View, Santa Clara County, California, United States",
             "Adecco, 1080, East Cypress Avenue, Redding, Shasta County, California, 96002, United States"
         ]
     },
@@ -13792,17 +13832,17 @@
         "author": null,
         "latlngs": [
             [
-                37.38450795,
-                -121.9327351655259
+                34.091086700000005,
+                -117.6034596429738
             ],
             [
-                33.8306344,
-                -118.1440409
+                37.4181243,
+                -122.02538023988251
             ]
         ],
         "addresses": [
-            "Verizon, 375, Trimble Road, Santa Clara, Santa Clara County, California, 95054, United States",
-            "Yahoo, McGowen Street, Douglas Park, Long Beach, Los Angeles County, California, 990815, United States"
+            "Verizon, 9000, Rancho Cucamonga, San Bernardino County, California, 91730, United States",
+            "Yahoo, Sunnyvale, Santa Clara County, California, United States"
         ]
     },
     {

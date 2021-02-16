@@ -27,6 +27,13 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            33.9446707,
+            -117.026448
+        ]
+    ],
+    "addresses": [
+        "Apron Lane, Beaumont, Riverside County, California, 92223, United States"
+    ]
 }
