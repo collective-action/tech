@@ -20,11 +20,11 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">17/02/2021 06:27PM</td>
+    <td data-summary="timestamp">17/02/2021 07:56PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">359</td>
+    <td data-summary="action-count">360</td>
   </tr>
  </table>
 </div>
@@ -41,6 +41,21 @@ The goal of this archive is to provide data and insights on organizing in the te
    </td>
    <td>
     link
+   </td>
+  </tr>
+  <tr author="fiona tay">
+   <td>
+    2021-02-11
+   </td>
+   <td>
+    Medium workers have announced they are forming a union. Over 140 Medium workers (reportedly 70% of eligible workers) have signed union cards in support of forming a union with the Communications Workers of America (CWA) Local 9410. They have called on management to voluntarily recognize the union.
+   </td>
+   <td>
+    <a href="/actions/0359.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
    </td>
   </tr>
   <tr author="organizejs">
@@ -78,7 +93,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2021-01-04
    </td>
    <td>
-    Over 200 Google employees in the U.S. and Canada revealed that they had formed a solidarity union. Updated to 530 members (1/6/21). Updated to 700 members (1/12/21). The Alphabet Workers Union includes contractors, who make up over half of the company's workforce, and is affiliated with the Communications Workers of America. According to the union website, the goal of the AWU is "to create a democratic process for workers to wield decision-making power; promote social, economic, and environmental justice; and end the unfair disparities between TVCs (temporary, vendor, and contractor workers) and FTEs (full-time employees)". The union has been over a year in the making and organizers credit the foundation laid by the last decade of collective actions at the company.
+    Over 200 Google employees in the U.S. and Canada revealed that they had formed a solidarity union. Updated to 530 members (1/6/21). Updated to 700 members (1/12/21). Updated to 800 members (2/17/21).The Alphabet Workers Union includes contractors, who make up over half of the company's workforce, and is affiliated with the Communications Workers of America. According to the union website, the goal of the AWU is "to create a democratic process for workers to wield decision-making power; promote social, economic, and environmental justice; and end the unfair disparities between TVCs (temporary, vendor, and contractor workers) and FTEs (full-time employees)". The union has been over a year in the making and organizers credit the foundation laid by the last decade of collective actions at the company.
    </td>
    <td>
     <a href="/actions/0356.json">
