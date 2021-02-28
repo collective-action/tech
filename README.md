@@ -20,11 +20,11 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">28/02/2021 03:27PM</td>
+    <td data-summary="timestamp">28/02/2021 04:24PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">360</td>
+    <td data-summary="action-count">364</td>
   </tr>
  </table>
 </div>
@@ -51,7 +51,22 @@ The goal of this archive is to provide data and insights on organizing in the te
     Medium workers have announced they are forming a union. Over 140 Medium workers (reportedly 70% of eligible workers) have signed union cards in support of forming a union with the Communications Workers of America (CWA) Local 9410. They have called on management to voluntarily recognize the union.
    </td>
    <td>
-    <a href="/actions/0359.json">
+    <a href="/actions/0363.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="nataliyaned">
+   <td>
+    2021-01-12
+   </td>
+   <td>
+    The SEIU, along with a number of individual rideshare drivers, filed a lawsuit with the California Supreme Court seeking to overturn Proposition 22, which ruled that gig workers are independent contractors in the state. They argue that the law is unconstitutional and violates the right of state legislators; they also argue that Proposition 22 violated a rule that limits ballot measures to a single subject to prevent voter confusion.
+   </td>
+   <td>
+    <a href="/actions/0362.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -66,7 +81,22 @@ The goal of this archive is to provide data and insights on organizing in the te
     Amazon suspends hosting for Parler, a social network app cited for facilitating the pro-Trump storming of the Capitol, after Amazon employees send internal messages to AWS management and participate in various online actions, including a coworker.org petition.
    </td>
    <td>
-    <a href="/actions/0358.json">
+    <a href="/actions/0361.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="nataliyaned">
+   <td>
+    2021-01-08
+   </td>
+   <td>
+    Approximately 200 GitHub workers signed an open letter calling on management to explain their decision to fire a Jewish worker who called the January 6th rioters at the U.S. Capitol "Nazis" on an internal company message board. They also called on the company to take a stronger position on anti-Semitism and white supremacy. Management responded with a letter denouncing the events of Jan. 6th and promising an investigation of the firing. UPDATE: On January 17th, GitHub posted to their company blog that their investigation "revealed significant errors of judgment and procedure". Their head of HR resigned from the company and the company reinstated the employee.
+   </td>
+   <td>
+    <a href="/actions/0360.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -81,7 +111,22 @@ The goal of this archive is to provide data and insights on organizing in the te
     Following the pro-Trump storming of the Capitol on January 6, roughly 350 Twitter employees signed an internal letter addressed to CEO Jack Dorsey and top executives questioning Twitter's policies and role in facilitating the attack. The employees requested an investigation into corporation actions over the last several years and asked for greater transparency to the company’s decision-making process regarding Donald Trumps' Twitter account on the day of the attack.
    </td>
    <td>
-    <a href="/actions/0357.json">
+    <a href="/actions/0359.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="nataliyaned">
+   <td>
+    2021-01-07
+   </td>
+   <td>
+    The Alphabet Workers Union published an open letter on Twitter calling on YouTube to remove Donald Trump from its website, stating that he repeatedly violated the platform's rules. Earlier in the week YouTube took down one video from Trump where he made unsubstantiated claims of election fraud. UPDATE: On January 12th, YouTube announced that it would suspend Donald Trump's account indefinitely. The account remains online but is not allowed to post new videos.
+   </td>
+   <td>
+    <a href="/actions/0358.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -94,6 +139,21 @@ The goal of this archive is to provide data and insights on organizing in the te
    </td>
    <td>
     Over 200 Google employees in the U.S. and Canada revealed that they had formed a solidarity union. Updated to 530 members (1/6/21). Updated to 700 members (1/12/21). Updated to 800 members (2/17/21).The Alphabet Workers Union includes contractors, who make up over half of the company's workforce, and is affiliated with the Communications Workers of America. According to the union website, the goal of the AWU is "to create a democratic process for workers to wield decision-making power; promote social, economic, and environmental justice; and end the unfair disparities between TVCs (temporary, vendor, and contractor workers) and FTEs (full-time employees)". The union has been over a year in the making and organizers credit the foundation laid by the last decade of collective actions at the company.
+   </td>
+   <td>
+    <a href="/actions/0357.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="">
+   <td>
+    2020-12-31
+   </td>
+   <td>
+    A court in Bologna, Italy upheld a lawsuit filed by a group of Deliveroo workers, backed by Italy's CGIL union. The lawsuit alleged that Deliveroo's algorithms discriminated against gig workers. The company used machine learning algorithms to determine the "reliability" of a worker and give them preference for certain shifts. The court ruled that the company failed to take valid reasons for cancellation into account, such as medical illness. Legal experts say this could be an important precedent in holding companies responsible for algorithms that cause inadvertent harm.
    </td>
    <td>
     <a href="/actions/0356.json">
