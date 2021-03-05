@@ -2732,12 +2732,12 @@
         ],
         "latlngs": [
             [
-                39.2813025,
-                -76.5905444
+                37.76863735,
+                -122.38842844055829
             ]
         ],
         "addresses": [
-            "Uber, 918, Fell Street, Fell's Point, Baltimore, Maryland, 21231, United States"
+            "Uber, 1655, 3rd Street, Mission Bay, San Francisco, San Francisco City and County, California, 94158, United States"
         ]
     },
     {
@@ -12340,8 +12340,8 @@
                 -71.087257
             ],
             [
-                39.2813025,
-                -76.5905444
+                37.76863735,
+                -122.38842844055829
             ],
             [
                 37.750721999999996,
@@ -12355,7 +12355,7 @@
         "addresses": [
             "Amazon Go Grocery, 610, East Pike Street, First Hill, Seattle, King County, Washington, 98122, United States",
             "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States",
-            "Uber, 918, Fell Street, Fell's Point, Baltimore, Maryland, 21231, United States",
+            "Uber, 1655, 3rd Street, Mission Bay, San Francisco, San Francisco City and County, California, 94158, United States",
             "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States",
             "UserTesting, 690, 5th Street, South of Market, San Francisco, San Francisco City and County, California, 94017, United States"
         ]
