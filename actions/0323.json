@@ -1,42 +1,44 @@
 {
-    "id": 328,
+    "id": 316,
     "date": "2020/08/31",
     "sources": [
-        "https://guardian.ng/news/uber-bolt-drivers-begin-one-week-strike-in-lagos/",
-        "https://guardian.ng/news/e-hailing-drivers-reject-reviewed-lagos-ride-hailing-regulation/"
+        "https://onezero.medium.com/leaked-salary-spreadsheet-reveals-microsoft-employee-earnings-for-a-second-year-d1466132d309"
     ],
     "actions": [
-        "strike"
+        "protest",
+        "resources"
     ],
     "struggles": [
-        "pay and benefits"
+        "pay and benefits",
+        "discrimination"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Rideshare drivers in Lagos, Nigeria went on a one-week strike to protest new state regulations that added a fixed service tax to all trips. The agreement was reached between the companies, the Lagos state government, and the Professional E-hailing Drivers and Private Owners Association but did not include the National Union of Professional App-Based Workers, which union representatives claim was sidelined during negotiations due to its initial rejection of the proposal.  ",
-    "online": null,
+    "description": "More than 300 Microsoft employees shared salary and pay bonus data in spreadsheet. A similar action took place last year. This year's survey asked whether employees identified as people of color or experienced discrimination because of their gender identity. Notably, 194 of 310 participants identified as people of color and 69 had experienced discrimination on the basis of gender identity.",
+    "online": true,
     "locations": [
-        "lagos-nigeria"
+        "usa"
     ],
     "companies": [
-        "uber",
-        "bolt"
+        "microsoft"
     ],
-    "workers": null,
+    "workers": 310,
     "tags": [
-        "drivers"
+        "antiracism",
+        "salary sharing"
     ],
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            6.45269435,
-            3.4498998
+            35.139622349999996,
+            -80.92306993327955
         ]
     ],
     "addresses": [
-        "Uber Nigeria HQ, 2, Onikoyi Road, Ikoyi, Lagos, Eti Osa, 20050, Nigeria"
+        "Microsoft, Ayrsley, Charlotte, Mecklenburg County, North Carolina, United States"
     ]
 }

@@ -16,7 +16,6 @@
         "discrimination"
     ],
     "employment_types": [
-        "in-house workers",
         "white collar workers"
     ],
     "description": "Seeking to attract younger workers, IBM announced plans in May 1999 to switch from traditional pension plans to a cash balance model for all American employees. Older employees with longer tenures at the company, who would lose 30-40% of their pension checks as a result of the switch, protested this change with rallies, emails to the company, a new online website, and lobbying policymakers in DC. Employees also accused IBM of age discrimination. In September 1999, IBM backtracked on its pension policy change.",
@@ -28,9 +27,7 @@
         "ibm"
     ],
     "workers": null,
-    "tags": [
-        "online_action"
-    ],
+    "tags": null,
     "author": [
         "CM"
     ],

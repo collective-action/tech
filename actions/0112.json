@@ -1,39 +1,44 @@
 {
-    "id": 104,
-    "date": "2018/11/20",
+    "id": 103,
+    "date": "2018/11/01",
     "sources": [
-        "https://www.buzzfeednews.com/article/carolineodonovan/blue-apron-lawsuit-unpaid-wages"
+        "https://www.nytimes.com/2018/11/01/technology/google-walkout-sexual-harassment.html",
+        "https://www.recode.net/2018/11/21/18105719/google-walkout-real-change-organizers-protest-discrimination-kara-swisher-recode-decode-podcast"
     ],
     "actions": [
-        "legal action"
+        "strike"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "discrimination"
     ],
     "employment_types": [
-        "blue collar workers"
+        "white collar workers",
+        "contract workers",
+        "inhouse workers"
     ],
-    "description": "Blue Apron employees have filed a class-action lawsuit against the companies, alleging that they weren't paid overtime, or for meal breaks, among other labor law violations. They are seeking back pay for missed wages and a trial by jury. Blue Apron employs thousands of low-wage workers in food processing plants in New Jersey, Texas, and California, where this suit was filed. An employee alleges that Blue Apron routinely forced hourly employees to clock out before their meal break, effectively cheating them out of thirty minutes of pay per shift, a practice known in the world of labor law as \u201ctime shaving.\u201d",
+    "description": "Google employees and contractors walked out of the companies's offices around the world, one week after the New York Times reported that Google had protected three executives accused of sexual misconduct.",
     "online": null,
     "locations": [
-        "california-usa"
+        "usa",
+        "worldwide"
     ],
     "companies": [
-        "blue apron"
+        "google"
     ],
-    "workers": 100,
-    "tags": null,
+    "workers": 20000,
+    "tags": [
+        "sexism"
+    ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            33.9446707,
-            -117.026448
+            42.3627717,
+            -71.087257
         ]
     ],
     "addresses": [
-        "Apron Lane, Beaumont, Riverside County, California, 92223, United States"
+        "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States"
     ]
 }

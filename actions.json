@@ -16,7 +16,6 @@
         ],
         "employment_types": [
             "white collar workers",
-            "in-house workers",
             "blue collar workers"
         ],
         "description": "Computer People for Peace (established as Computer People for Peace - name changed in 1970) formed in 1968/1969 in protest of the Vietnam War. The group pressured the Association for Computing Machinery (ACM) to adopt an anti-war position and NYC members collected 320 signatures on petitions against the military's use of technology. They raised funds to pay for the bail of a fellow programmer, Clark Squire, who was arrested for his activity with the Black Panthers. The group also attended an event at NYU to support work and research stoppages in universities.",
@@ -384,8 +383,7 @@
             "unfair labor practices"
         ],
         "employment_types": [
-            "white collar workers",
-            "in-house workers"
+            "white collar workers"
         ],
         "description": "Former Intel engineer Kourosh Kenneth (\"Ken\") Hamidi alleged wrongful termination and discrimination after his claims for workers' compensation, following a car accident, were denied and he was fired in 1995. He formed a small (~10 member) online group called Former And Current Employees of Intel (FACE-Intel) to coordinate six mass emails over 21 months to Intel employees about company wrongdoing. Intel sued Hamidi and the FACE-Intel group for \"trespass to chattel\" and \"nuisance\" resulting in the California Supreme Court's ruling in Hamidi's favor in Intel Corporation v. Hamidi (2003). The case is considered a landmark ruling on electronic employee communications and concepts of trespass.",
         "online": true,
@@ -397,8 +395,7 @@
         ],
         "workers": 10,
         "tags": [
-            "retaliation",
-            "online_action"
+            "retaliation"
         ],
         "author": [
             "CM"
@@ -470,7 +467,6 @@
             "discrimination"
         ],
         "employment_types": [
-            "in-house workers",
             "white collar workers"
         ],
         "description": "Seeking to attract younger workers, IBM announced plans in May 1999 to switch from traditional pension plans to a cash balance model for all American employees. Older employees with longer tenures at the company, who would lose 30-40% of their pension checks as a result of the switch, protested this change with rallies, emails to the company, a new online website, and lobbying policymakers in DC. Employees also accused IBM of age discrimination. In September 1999, IBM backtracked on its pension policy change.",
@@ -482,9 +478,7 @@
             "ibm"
         ],
         "workers": null,
-        "tags": [
-            "online_action"
-        ],
+        "tags": null,
         "author": [
             "CM"
         ],
@@ -1959,7 +1953,7 @@
             ]
         ],
         "addresses": [
-            "Sony, 1, \u4e1c\u957f\u5b89\u8857, \u5317\u4eac\u5e02, \u4e1c\u57ce\u533a, 100010, \u4e2d\u56fd"
+            "Sony, 1, \u4e1c\u957f\u5b89\u8857, \u4e1c\u57ce\u533a, \u5317\u4eac\u5e02, 100010, \u4e2d\u56fd"
         ]
     },
     {
@@ -2217,7 +2211,6 @@
             "discrimination"
         ],
         "employment_types": [
-            "in-house workers",
             "white collar workers"
         ],
         "description": "Intel announced layoffs in June 2015 and an additional 12,000 layoffs in April 2016. In response, a group of laid-off Intel employees in Portland, OR formed a group called the \"The Intel Eliminati\" in fall of 2015 and launched a website (pdx-tie.org) in June 2016 for former Intel employees. In June 2016, the group had 200+ members. The group's website features career resources, support, and posts critical of Intel and its management, including alleged age discrimination against older Intel employees in the lay-offs.",
@@ -4102,6 +4095,44 @@
         ]
     },
     {
+        "id": 397,
+        "date": "2018/07/26",
+        "sources": [
+            "https://www.nytimes.com/2018/07/26/technology/microsoft-ice-immigration.html",
+            "https://www.nbcnews.com/tech/tech-news/microsoft-backtracks-proud-support-ice-blog-post-goes-viral-n884446"
+        ],
+        "actions": [
+            "open letter",
+            "protest"
+        ],
+        "struggles": [
+            "ethics"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "Two Microsoft employees presented their CEO with an online petition including more than 300,000 signatures (including 500 employees) calling for the firm to cancel their contract with the US Immigration and Customs Enforcement Agency. The action took place during an annual gathering at company headquarters. Earlier in the year, the company had published a blog post saying it was \"proud to support\" the agency through technologies that included facial recognition software.",
+        "online": true,
+        "locations": [
+            "redwood shores-california-usa"
+        ],
+        "companies": [
+            "microsoft"
+        ],
+        "workers": 500,
+        "tags": [
+            "ai",
+            "ice",
+            "trump"
+        ],
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
         "id": 96,
         "date": "2018/07/31",
         "sources": [
@@ -5893,7 +5924,7 @@
             ]
         ],
         "addresses": [
-            "\u7532\u9aa8\u6587\u5927\u53a6, \u8f6f\u4ef6\u56ed\u4e09\u53f7\u8def, \u4e2d\u5173\u6751\u8f6f\u4ef6\u56ed, \u5317\u4eac\u5e02, \u6d77\u6dc0\u533a, 100093, \u4e2d\u56fd"
+            "\u7532\u9aa8\u6587\u5927\u53a6, \u8f6f\u4ef6\u56ed\u4e09\u53f7\u8def, \u4e2d\u5173\u6751\u8f6f\u4ef6\u56ed, \u6d77\u6dc0\u533a, \u5317\u4eac\u5e02, 100093, \u4e2d\u56fd"
         ]
     },
     {
@@ -11491,8 +11522,7 @@
         ],
         "workers": 2,
         "tags": [
-            "coronavirus",
-            "online_action"
+            "coronavirus"
         ],
         "author": [
             "organizejs"
@@ -13891,8 +13921,7 @@
             "working conditions"
         ],
         "employment_types": [
-            "blue collar workers",
-            "in-house workers"
+            "blue collar workers"
         ],
         "description": "Amazon warehouse workers in Alabama filed a petition to hold a union election. If successful, this would be the first Amazon Union for warehouse workers in the U.S. Workers from the warehouse in Bessemer, Alabama, outside Birmingham, filed the petition with the NLRB seeking to be represented by the Retail, Wholesale and Department Store Union, or RWDSU. Amazon employs more than 1,500 workers at the facility, which just opened earlier this year. UPDATE: The petition was successful, and workers are expected to receive their mail-in ballots on February 8th with ballot counting set to begin on March 30th. ",
         "online": null,
@@ -13978,7 +14007,6 @@
         ],
         "employment_types": [
             "blue collar workers",
-            "in-house workers",
             "contract workers"
         ],
         "description": "Thousands of Amazon workers walk off the job to fight for fair pay and COVID protections. Unions representing tens of thousands of Amazon.com Inc. employees walked out during the year's busiest shopping season, in protest of Amazon's handling of everything from sick pay and COVID-19 precautions to user privacy. The giant Verdi trade union in Germany is holding a walkout across seven Amazon facilities. Garment workers in Bangladesh will call for higher pay outside an Amazon supplier facility in Dhaka. In Australia, unions will perform \u201chealth and safety\u201d inspections of the company\u2019s facilities using their \u201cstatutory right of entry,\u201d the campaign said. Others will project the campaign\u2019s logo on buildings in Brussels, London, Sao Paulo and other cities. In all, the organizations participating in the protests represent roughly 40,000 Amazon employees, according to a spokesman for the UNI Global Union. These actions are part of the Make Amazon Pay campaign. ",
@@ -14014,8 +14042,7 @@
             "discrimination"
         ],
         "employment_types": [
-            "white collar workers",
-            "in-house workers"
+            "white collar workers"
         ],
         "description": "After Dr. Timnit Gebru was fired from Google, Googlers wrote an open letter demanding accountability from Google. 2695 Googlers and 4302 academic, industry, and civil society supporters signed on to the letter.",
         "online": true,
@@ -14087,8 +14114,7 @@
             "discrimination"
         ],
         "employment_types": [
-            "white collar workers",
-            "in-house workers"
+            "white collar workers"
         ],
         "description": "Three unions at Spotify kicked off a two hour work stoppage in solidarity with their collective struggles for fairer contracts and better workplace conditions. The union at Gimlet, a major podcast publisher that was bought by Spotify last year for $230 million, is joining unions at The Ringer and Parcast\u2014all properties owned by Spotify\u2014in the work stoppage. The union's demands have included a contract with guaranteed raises, clear guidelines surrounding promotions, the right to profit from intellectual property they help create, a greater emphasis on diversity, and pay equity across the board. The work stoppage was streamed on Twitch for a little over an hour, with organizing members from all three groups outlining in detail their demands. ",
         "online": true,
@@ -14152,8 +14178,7 @@
             "discrimination"
         ],
         "employment_types": [
-            "white collar workers",
-            "in-house workers"
+            "white collar workers"
         ],
         "description": "Two weeks after Dr Timnit Gebru was fired from her role in Google, Google\u2019s Ethical AI employees sent CEO Sundar Pichai a list of demands, including organizational changes and a request to reinstate dismissed researcher Timnit Gebru at a higher level.",
         "online": true,
@@ -14188,8 +14213,7 @@
             "working conditions"
         ],
         "employment_types": [
-            "blue collar workers",
-            "in-house workers"
+            "blue collar workers"
         ],
         "description": "Activists from various initiatives, including initiatives against the Amazon Tower, Mietenwahnsinnb\u00fcndnis, #200H\u00e4user spontaneously demonstrated in front of the construction site of the \u201cAmazon East Side Edge Tower\u201d at Warschauer Br\u00fccke. The protests are directed at Amazon's handling of the pandemic in several German Amazon centers. The company is responsible for the increase in infections and illnesses among workers and is allowing the Christmas shopping season to continue. ",
         "online": null,
@@ -14434,8 +14458,7 @@
             "ethics"
         ],
         "employment_types": [
-            "white collar workers",
-            "in-house workers"
+            "white collar workers"
         ],
         "description": "Following the pro-Trump storming of the Capitol on January 6, roughly 350 Twitter employees signed an internal letter addressed to CEO Jack Dorsey and top executives questioning Twitter's policies and role in facilitating the attack. The employees requested an investigation into corporation actions over the last several years and asked for greater transparency to the company\u2019s decision-making process regarding Donald Trumps' Twitter account on the day of the attack.",
         "online": true,
@@ -14448,7 +14471,6 @@
         "workers": 350,
         "tags": [
             "trump",
-            "online_action",
             "politics"
         ],
         "author": [
@@ -14495,8 +14517,7 @@
             "retaliation",
             "coworker_solidarity",
             "trump",
-            "politics",
-            "online_action"
+            "politics"
         ],
         "author": [
             "nataliyaned"
@@ -14539,8 +14560,7 @@
         "workers": null,
         "tags": [
             "trump",
-            "politics",
-            "online_action"
+            "politics"
         ],
         "author": [
             "organizejs"

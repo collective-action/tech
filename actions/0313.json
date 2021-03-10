@@ -1,34 +1,45 @@
 {
-    "id": 338,
-    "date": "2020/08/12",
+    "id": 302,
+    "date": "2020/08/09",
     "sources": [
-        "https://www.printmag.com/post/tech-can-do-better-an-industry-wide-wake-up-call",
-        "https://www.instagram.com/techcandobetter/",
-        "https://docs.google.com/forms/d/e/1FAIpQLSck1JZR5FdfWbRB7OOgCPBCVGIS0kB-zLHN-Q3J6PZORRUP3w/viewform"
+        "https://www.news.com.au/finance/work/at-work/fired-amazon-workers-stage-protest-outside-jeff-bezos-mansion/news-story/e5d5dcaa060c59496d09b96c094982bd",
+        "https://www.msn.com/en-us/news/technology/protest-held-in-front-of-jeff-bezos-penthouse-in-new-york/vi-BB17Nfe9",
+        "https://twitter.com/mollycrabapple/status/1292565661517062150"
     ],
     "actions": [
-        "resources"
+        "protest"
     ],
     "struggles": [
-        "discrimination"
+        "pay and benefits",
+        "unfair labor practices",
+        "working conditions"
     ],
     "employment_types": [
-        "white collar workers",
+        "blue collar workers",
         "inhouse workers"
     ],
-    "description": "A group of Black employees across tech companies have launched an initiative, Tech Can Do Better, to call for greater equity in the workplace. An Instagram account promotes the visibility and highlights the accomplishments of Black employees in tech. The group has also started an online pledge where workers can commit to \"mak[ing] the changes needed to achieve equitable hiring, promotions, and compensation, mak[ing] significant Investment in social equity and driv[ing] advocacy for equitable legislation.\"",
-    "online": true,
-    "locations": null,
-    "companies": null,
-    "workers": null,
+    "description": "Several dozen Former Amazon workers held a protest outside of Jeff Bezos' New York City penthouse to call for greater protections for warehouse workers during the pandemic, along with the right to unionize and a national wealth tax on the top 3 percent of earners. The protest was organized by Christian Smalls, a former Amazon employee who was fired after organizing a walkout to protest the company's handling of coronavirus. Since then, Smalls has founded an organizedcalled the Congress of Essential Workers, dedicated to protecting workers during the pandemic. ",
+    "online": null,
+    "locations": [
+        "new york city-new york-usa"
+    ],
+    "companies": [
+        "amazon"
+    ],
+    "workers": 24,
     "tags": [
-        "antiracism",
-        "blm",
-        "industry_solidarity"
+        "coronavirus"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            40.722465,
+            -73.9977307
+        ]
+    ],
+    "addresses": [
+        "Amazon, 72, Spring Street, SoHo, Manhattan Community Board 2, Manhattan, New York County, New York, 10013, United States"
+    ]
 }

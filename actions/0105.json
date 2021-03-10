@@ -1,32 +1,41 @@
 {
-    "id": 97,
-    "date": "2018/08/01",
+    "id": 96,
+    "date": "2018/07/31",
     "sources": [
-        "https://www.equaltimes.org/in-denmark-a-historic-collective?lang=en"
+        "https://www.buzzfeednews.com/article/carolineodonovan/palantir-ice-contract-protest",
+        "https://www.paloaltoonline.com/news/2018/07/31/protesters-demand-palantir-end-ice-contracts"
     ],
     "actions": [
-        "union representation"
+        "protest"
     ],
     "struggles": [
-        "pay and benefits",
-        "job security"
+        "ethics"
     ],
     "employment_types": [
-        "gig workers"
+        "na"
     ],
-    "description": "Danish gig workers from an online cleaning services platform Hilfr.dk signed a collective agreement that guarantees them benefits including holiday, sick leave, pension contributions, and higher pay once they reach a certain number of hours worked. Danish trade union 3F was a technical advisor on the agreement. As part of the agreement, Hilfr employees can automatically become members of the union once they have worked 100 hours on the platform. The agreement is preliminary and lasts one year.",
+    "description": "Dozens of protesters gathered outside the data analysis companies Palantir in Palo Alto, California, on Tuesday to present Palantir's employees and CEO Alex Karp with a letter asking for an end to the companies' contracts with US Immigration and Customs Enforcement (ICE).",
     "online": null,
     "locations": [
-        "denmark"
+        "palo alto-california-usa"
     ],
     "companies": [
-        "hilfr"
+        "palantir"
     ],
-    "workers": 450,
-    "tags": null,
+    "workers": 50,
+    "tags": [
+        "industry_solidarity"
+    ],
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.4440869,
+            -122.16287540411753
+        ]
+    ],
+    "addresses": [
+        "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States"
+    ]
 }

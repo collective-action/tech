@@ -1,32 +1,39 @@
 {
-    "id": 113,
-    "date": "2019/01/17",
+    "id": 112,
+    "date": "2018/12/16",
     "sources": [
-        "https://www.businessinsider.com/instacart-workers-request-22-cent-tips-protest-2019-1",
-        "https://actionnetwork.org/petitions/instacart-heres-our-22-cents-no-more-tip-theft-low-pay-and-black-box-pay-algorithms"
+        "https://www.scmp.com/news/china/article/2178201/chinese-workers-apple-supplier-foxconn-stage-street-protest-over-unpaid"
     ],
     "actions": [
-        "open letter"
+        "protest"
     ],
     "struggles": [
         "pay and benefits"
     ],
     "employment_types": [
-        "gig workers"
+        "blue collar workers",
+        "contract workers"
     ],
-    "description": "150 Instacart workers have started a petition to protest changes in how they are paid. The petition urges the company to change this policy. It also encourages Instacart users to pay 'shoppers' the minimum $0.22 tip through the app and to pay the remainder of the tip in cash to ensure the tip amount primarily goes to workers.",
-    "online": true,
+    "description": "Hundreds of temporary workers for FoxConn rallied on the streets on Zhengzhou to protest unpaid signing bonuses. Protests continued for two nights before being broken up by police.",
+    "online": null,
     "locations": [
-        "usa"
+        "zhengzhou-china"
     ],
     "companies": [
-        "instacart"
+        "foxconn"
     ],
-    "workers": 150,
+    "workers": 100,
     "tags": null,
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            34.7284406,
+            113.7595316
+        ]
+    ],
+    "addresses": [
+        "Foxconn Technology Group, \u7ecf\u5317\u4e8c\u8def, \u7ba1\u57ce\u56de\u65cf\u533a, \u90d1\u5dde\u5e02, \u6cb3\u5357\u7701, 450046, \u4e2d\u56fd"
+    ]
 }

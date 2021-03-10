@@ -1,30 +1,35 @@
 {
-    "id": 360,
-    "date": "2020/12/12",
+    "id": 367,
+    "date": "2020/12/11",
     "sources": [
-        "https://www.bbc.co.uk/news/world-asia-india-55296433?at_custom2=facebook_page&at_campaign=64&at_custom3=BBC+News&at_medium=custom7&at_custom1=%5Bpost+type%5D&at_custom4=81D22262-3D70-11EB-B208-D9C496E8478F&fbclid=IwAR3puILhntOwygYe8HWoRjMsvcnw9IFD1YRTIKIQUbGWA1hbUn17Sw1yENM"
+        "https://www.vice.com/amp/en/article/3anva3/three-of-spotifys-podcast-unions-stop-working-to-demand-better-workplace-conditions"
     ],
     "actions": [
-        "protest"
+        "strike"
     ],
     "struggles": [
-        "pay and benefits"
+        "pay and benefits",
+        "working conditions",
+        "unfair labor practices",
+        "discrimination"
     ],
     "employment_types": [
-        "blue collar workers"
+        "white collar workers"
     ],
-    "description": "Workers at an iPhone production facility in the city of Narsapura near Bangalore in India protested unpaid wages by destroying office property and factory equipment at Wistron Infocomm's manufacturing facility. Around 100 workers are arrested. ",
-    "online": null,
-    "locations": [
-        "narsapura-bangalore-india"
-    ],
+    "description": "Three unions at Spotify kicked off a two hour work stoppage in solidarity with their collective struggles for fairer contracts and better workplace conditions. The union at Gimlet, a major podcast publisher that was bought by Spotify last year for $230 million, is joining unions at The Ringer and Parcast\u2014all properties owned by Spotify\u2014in the work stoppage. The union's demands have included a contract with guaranteed raises, clear guidelines surrounding promotions, the right to profit from intellectual property they help create, a greater emphasis on diversity, and pay equity across the board. The work stoppage was streamed on Twitch for a little over an hour, with organizing members from all three groups outlining in detail their demands. ",
+    "online": true,
+    "locations": null,
     "companies": [
-        "wistron infocomm",
-        "apple"
+        "the ringer",
+        "spotify",
+        "gimlet media",
+        "parcast"
     ],
-    "workers": 2000,
+    "workers": null,
     "tags": null,
-    "author": null,
+    "author": [
+        "organizejs"
+    ],
     "latlngs": null,
     "addresses": null
 }

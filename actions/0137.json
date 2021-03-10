@@ -1,42 +1,41 @@
 {
-    "id": 129,
-    "date": "2019/04/10",
+    "id": 128,
+    "date": "2019/04/04",
     "sources": [
-        "https://www.recode.net/2019/4/10/18304877/amazon-climate-change-employees-tech-activism",
-        "https://www.vox.com/business-and-finance/2019/4/11/18306389/amazon-employees-climate-change-plan"
+        "https://www.wired.com/story/microsoft-employees-protest-treatment-women-ceo-nadella/"
     ],
     "actions": [
-        "open letter"
+        "protest"
     ],
     "struggles": [
-        "ethics"
+        "discrimination"
     ],
     "employment_types": [
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "The company's corporate employees signed their names to a letter published on Wednesday that urged Jeff Bezos to create a comprehensive climate-change plan for the company.",
-    "online": true,
+    "description": "A group of Microsoft employees appeared at an employee meeting with CEO Satya Nadella Thursday to protest the companies's treatment of women. It's not clear how many were part of the protest, but some female and male employees at the event wore all white, inspired by the congresswomen who wore suffragette white to the State of the Union in February.",
+    "online": null,
     "locations": [
-        "usa"
+        "seattle-washington-usa"
     ],
     "companies": [
-        "amazon"
+        "microsoft"
     ],
-    "workers": 7000,
+    "workers": null,
     "tags": [
-        "climate_change"
+        "sexism"
     ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            47.6142939,
-            -122.3239636
+            47.5388725,
+            -122.2901728
         ]
     ],
     "addresses": [
-        "Amazon Go Grocery, 610, East Pike Street, First Hill, Seattle, King County, Washington, 98122, United States"
+        "Microsoft Gathering Hall, 7054, 32nd Avenue South, Holly Park, Rainier Valley, Seattle, King County, Washington, 98118, United States"
     ]
 }

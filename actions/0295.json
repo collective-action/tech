@@ -1,28 +1,32 @@
 {
-    "id": 283,
-    "date": "2020/06/12",
+    "id": 293,
+    "date": "2020/06/09",
     "sources": [
-        "https://rabble.ca/news/2020/06/foodsters-union-certification-win-symbolic-other-gig-workers"
+        "https://www.wsws.org/en/articles/2020/06/12/braz-j12.html"
     ],
     "actions": [
-        "union representation"
+        "protest",
+        "strike"
     ],
     "struggles": [
-        "working conditions"
+        "working conditions",
+        "pay and benefits"
     ],
     "employment_types": [
         "gig workers"
     ],
-    "description": "Foodora couriers overwhelmingly voted to join the Canadian Union of Postal Workers (CUPW). 88% of workers who voted supported joining the union. In April 2020, Foodora announced it was leaving the country after the Ontario Labor Board voted to recognize the couriers as company employees. While this makes the vote largely symbolic, it nevertheless makes Foodora's union the first certified gig workers' union in Canada.",
+    "description": "Loggi delivery workers in Brazil went on strike starting June 9th to protest poor working conditions, including lack of protections against coronavirus, and low pay. Protestors also commemorated the death of a fellow worker, Thiago Coelho, who was killed in a motorcycle accident. ",
     "online": null,
     "locations": [
-        "toronto-ontario-canada"
+        "rio de janiero-brazil",
+        "s\u00e3o paulo-brazil"
     ],
     "companies": [
-        "foodora"
+        "loggi"
     ],
     "workers": null,
     "tags": [
+        "coronavirus",
         "delivery_workers"
     ],
     "author": [
