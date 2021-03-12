@@ -32,6 +32,13 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            40.6193387,
+            -74.0727749
+        ]
+    ],
+    "addresses": [
+        "Amazon Court, Clifton, Staten Island, Richmond County, New York, 10304, United States"
+    ]
 }
