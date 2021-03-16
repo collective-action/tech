@@ -1,46 +1,30 @@
 {
-    "id": 29,
-    "date": "2013/09/19",
+    "id": 28,
+    "date": "2013/07/04",
     "sources": [
-        "https://www.workers.org/2013/09/24/amazon-workers-strike-germany/"
+        "https://uk.reuters.com/article/us-usa-security-internet-protest/internet-sites-join-july-4-protest-against-surveillance-idukbre9630o620130704"
     ],
     "actions": [
-        "open letter"
+        "protest"
     ],
     "struggles": [
-        "pay and benefits"
+        "ethics"
     ],
     "employment_types": [
         "na"
     ],
-    "description": "Students from Leipzig University have formed an organization known as 'Amazon Solidarity Alliance' and have collected 500 signatures in support of ongoing strikes by Amazon workers in Leipzig. The company frequently employs students in temporary positions.",
-    "online": null,
-    "locations": [
-        "bad hersfeld-germany",
-        "leipzig-germany"
-    ],
+    "description": "Reddit and Mozilla, among others, posted prominent messages protesting NSA surveillance practices unveiled by whistleblower Edward Snowden. The protest was organized by the Internet Defense League, an organization of more than 30,000 websites that fights for Web freedom.",
+    "online": true,
+    "locations": null,
     "companies": [
-        "amazon"
+        "reddit",
+        "mozilla"
     ],
-    "workers": 500,
-    "tags": [
-        "students"
-    ],
+    "workers": null,
+    "tags": null,
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            50.8453279,
-            9.678334853465138
-        ],
-        [
-            51.3622584,
-            12.452329749225527
-        ]
-    ],
-    "addresses": [
-        "Amazon FRA1, 1, Eichhof, Asbach, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
-        "Amazon, 1, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

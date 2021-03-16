@@ -1,38 +1,41 @@
 {
-    "id": 13,
-    "date": "2007/07/14",
+    "id": 12,
+    "date": "2006/03/09",
     "sources": [
-        "https://www.bloomberg.com/news/articles/2007-07-13/the-gandhi-protestsbusinessweek-business-news-stock-market-and-financial-advice"
+        "http://old.seattletimes.com/html/businesstechnology/2002853223_washtech09.html"
     ],
     "actions": [
-        "protest"
+        "union drive"
     ],
     "struggles": [
-        "job security"
+        "pay and benefits"
     ],
     "employment_types": [
         "white collar workers"
     ],
-    "description": "Approximately a thousand foreign tech workers protested US H1B visa caps on the streets of San Jose. A shortage of visas has created difficult conditions for workers.",
+    "description": "After anonymously receiving several pages of confidential compensation guidelines, the Washington Alliance of Technology Workers has relaunched an effort the unionize employees at Microsoft. The leaked guidelines showed that wages at the company barely rose in the last two years, which the union hopes will be a rallying cry for workers. In 2003, the company stopped giving employees stock options, opting for stock instead.",
     "online": null,
     "locations": [
-        "san jose-california-usa"
+        "seattle-washington-usa"
     ],
-    "companies": null,
-    "workers": 1000,
+    "companies": [
+        "microsoft"
+    ],
+    "workers": null,
     "tags": [
-        "immigration"
+        "washtech",
+        "cwa"
     ],
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            37.3361905,
-            -121.890583
+            47.5388725,
+            -122.2901728
         ]
     ],
     "addresses": [
-        "San Jose, Santa Clara County, California, United States"
+        "Microsoft Gathering Hall, 7054, 32nd Avenue South, Holly Park, Rainier Valley, Seattle, King County, Washington, 98118, United States"
     ]
 }

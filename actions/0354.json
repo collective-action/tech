@@ -1,37 +1,30 @@
 {
-    "id": 366,
-    "date": "2020/12/17",
+    "id": 360,
+    "date": "2020/12/12",
     "sources": [
-        "https://www.npr.org/2020/12/17/947413170/google-ai-team-demands-ousted-black-researcher-be-rehired-and-promoted",
-        "https://www.cnbc.com/2020/12/17/googles-ai-ethics-team-makes-demands-of-executives-to-rebuild-trust.html"
+        "https://www.bbc.co.uk/news/world-asia-india-55296433?at_custom2=facebook_page&at_campaign=64&at_custom3=BBC+News&at_medium=custom7&at_custom1=%5Bpost+type%5D&at_custom4=81D22262-3D70-11EB-B208-D9C496E8478F&fbclid=IwAR3puILhntOwygYe8HWoRjMsvcnw9IFD1YRTIKIQUbGWA1hbUn17Sw1yENM"
     ],
     "actions": [
-        "open letter"
+        "protest"
     ],
     "struggles": [
-        "ethics",
-        "discrimination"
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers"
+        "blue collar workers"
     ],
-    "description": "Two weeks after Dr Timnit Gebru was fired from her role in Google, Google\u2019s Ethical AI employees sent CEO Sundar Pichai a list of demands, including organizational changes and a request to reinstate dismissed researcher Timnit Gebru at a higher level.",
-    "online": true,
-    "locations": null,
+    "description": "Workers at an iPhone production facility in the city of Narsapura near Bangalore in India protested unpaid wages by destroying office property and factory equipment at Wistron Infocomm's manufacturing facility. Around 100 workers are arrested. ",
+    "online": null,
+    "locations": [
+        "narsapura-bangalore-india"
+    ],
     "companies": [
-        "google"
+        "wistron infocomm",
+        "apple"
     ],
-    "workers": null,
-    "tags": [
-        "coworker solidarity",
-        "antiracism",
-        "ai",
-        "sexism",
-        "retaliation"
-    ],
-    "author": [
-        "organizejs"
-    ],
+    "workers": 2000,
+    "tags": null,
+    "author": null,
     "latlngs": null,
     "addresses": null
 }

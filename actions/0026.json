@@ -1,32 +1,38 @@
 {
-    "id": 19,
-    "date": "2012/01/11",
+    "id": 18,
+    "date": "2011/12/28",
     "sources": [
-        "https://www.telegraph.co.uk/news/worldnews/asia/china/9006988/mass-suicide-protest-at-apple-manufacturer-foxconn-factory.html",
-        "https://www.cbsnews.com/news/what-happened-after-the-foxconn-suicides/"
+        "https://www.reuters.com/article/us-china-lg-strike-idustre7br0jh20111228"
     ],
     "actions": [
-        "protest"
+        "strike"
     ],
     "struggles": [
-        "job security"
+        "pay and benefits"
     ],
     "employment_types": [
         "blue collar workers"
     ],
-    "description": "150 FoxConn workers in Wuhan, China threatened suicide and ultimately spent two days on the roof of their plant to protest forced reassignments. In 2010, 18 FoxConn workers attempted suicide with a resulting 14 deaths.",
+    "description": "LG workers in Nanjing went on strike to protest the low pay they receive relative to Korean LG employees at the same plant.",
     "online": null,
     "locations": [
-        "wuhan-china"
+        "nanjing-china"
     ],
     "companies": [
-        "foxconn"
+        "lg"
     ],
-    "workers": 150,
+    "workers": 8000,
     "tags": null,
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            32.1576782,
+            118.86592783961245
+        ]
+    ],
+    "addresses": [
+        "LG, \u6816\u971e\u533a, \u5357\u4eac\u5e02, \u4e2d\u56fd"
+    ]
 }

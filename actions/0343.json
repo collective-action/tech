@@ -1,40 +1,38 @@
 {
-    "id": 355,
-    "date": "2020/10/26",
+    "id": 351,
+    "date": "2020/10/22",
     "sources": [
-        "https://www.bbc.co.uk/news/amp/business-54698858"
+        "https://www.washingtonpost.com/technology/2020/10/22/uber-prop22-suit/"
     ],
     "actions": [
         "legal action"
     ],
     "struggles": [
-        "unfair labor practices"
+        "ethics"
     ],
     "employment_types": [
         "gig workers"
     ],
-    "description": "British Uber drivers are launching a lawsuit in the Netherlands to protest the company's use of algorithms to fire workers. The App Drivers & Couriers Union (ADCU) claims there are over 1,000 cases of drivers being wrongfully fired and that this violates Article 22 of the GDPR. This Article grants technology users a right to an explanation for any automated decisions. ",
+    "description": "A group of California Uber drivers sued the company for asking drivers to support Prop. 22 (a state proposition that would overrule attempts to classify gig workers as employees) through in-app messaging. The suit seeks an injunction that would stop the messages. The plaintiffs were active in the movement against Prop. 22. They claimed that the company's message that 72% of its drivers support Prop. 22 was false because that percentage was the result of company pressures (including workers' concerns that the company was surveilling their survey answers on the app). ",
     "online": null,
     "locations": [
-        "netherlands"
+        "san francisco-california-usa"
     ],
     "companies": [
         "uber"
     ],
     "workers": null,
-    "tags": [
-        "drivers"
-    ],
+    "tags": null,
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            51.851619299999996,
-            6.305120020863311
+            37.7756962,
+            -122.4180838
         ]
     ],
     "addresses": [
-        "Br\u00fccke \u00fcber den Netterdenschen Kanal, Emmerikseweg, Netterden, Oude IJsselstreek, Gelderland, Nederland, 7077AP, Nederland"
+        "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, California, 94103, United States"
     ]
 }

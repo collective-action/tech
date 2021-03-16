@@ -1,41 +1,31 @@
 {
-    "id": 61,
-    "date": "2016/12/03",
+    "id": 60,
+    "date": "2016/10/14",
     "sources": [
-        "https://www.thestreet.com/story/13906592/1/why-uber-faces-a-day-of-protests-on-tuesday-tech-roundup.html"
+        "https://www.buzzfeednews.com/article/carolineodonovan/instacart-cancels-plans-to-scrap-tips-amid-threats-of-strike"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "pay and benefits"
     ],
     "employment_types": [
         "gig workers"
     ],
-    "description": "Uber drivers in 20 cities join the Fight for $15 movement, boycotting the app for one day to protest wages.",
+    "description": "Workers threatened to boycott Instacart after it announced plans to replace their tips with an optional 10% service fee. Two days ahead of the planned boycott, Instacart said tips will stay.",
     "online": null,
     "locations": [
         "usa"
     ],
     "companies": [
-        "uber"
+        "instacart"
     ],
     "workers": null,
-    "tags": [
-        "drivers"
-    ],
+    "tags": null,
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
-    "latlngs": [
-        [
-            37.76863735,
-            -122.38842844055829
-        ]
-    ],
-    "addresses": [
-        "Uber, 1655, 3rd Street, Mission Bay, San Francisco, San Francisco City and County, California, 94158, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

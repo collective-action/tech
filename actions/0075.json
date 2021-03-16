@@ -1,8 +1,9 @@
 {
-    "id": 67,
-    "date": "2017/02/04",
+    "id": 66,
+    "date": "2017/02/01",
     "sources": [
-        "https://www.businessinsider.com/facebook-employees-protes-trumps-immigration-ban-by-boycotting-flying-2017-2"
+        "https://www.usatoday.com/story/tech/talkingtech/2017/01/30/googlers-stage-worldwide-walkout-trump-immigration-ban-rally-mountain-view-serge-brin-sundar-pichai/97265938/",
+        "https://www.theverge.com/google/2017/1/30/14446466/google-immigration-protest-walkout-trump-googlers-unite"
     ],
     "actions": [
         "protest"
@@ -14,15 +15,16 @@
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "A 'handful' of Facebook employees have vowed not to fly for 90 days following Pres. Trump's immigration ban. The company has said it is not affiliated with this protest.",
+    "description": "Google employees around the world walked off the job to protest Pres. Trump's immigration ban. Google co-founder Sergey Brin and CEO Sundar Pichai spoke at the walk-out at the Mountain View headquarters.",
     "online": null,
     "locations": [
-        "usa"
+        "mountain view-california-usa",
+        "worldwide"
     ],
     "companies": [
-        "facebook"
+        "google"
     ],
-    "workers": 3,
+    "workers": 2000,
     "tags": [
         "immigration",
         "trump"
@@ -32,11 +34,11 @@
     ],
     "latlngs": [
         [
-            30.2691649,
-            -97.7455041
+            37.41897865,
+            -122.08237793989416
         ]
     ],
     "addresses": [
-        "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
+        "Google, Mountain View, Santa Clara County, California, United States"
     ]
 }

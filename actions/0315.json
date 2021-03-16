@@ -1,41 +1,34 @@
 {
-    "id": 312,
+    "id": 338,
     "date": "2020/08/12",
     "sources": [
-        "https://qz.com/1894241/belaruss-crackdown-could-squash-minsks-budding-tech-sector/",
-        "https://dev.by/news/otkrytoe-pismo-it-kompanii"
+        "https://www.printmag.com/post/tech-can-do-better-an-industry-wide-wake-up-call",
+        "https://www.instagram.com/techcandobetter/",
+        "https://docs.google.com/forms/d/e/1FAIpQLSck1JZR5FdfWbRB7OOgCPBCVGIS0kB-zLHN-Q3J6PZORRUP3w/viewform"
     ],
     "actions": [
-        "open letter"
+        "resources"
     ],
     "struggles": [
-        "ethics"
+        "discrimination"
     ],
     "employment_types": [
         "white collar workers",
-        "inhouse workers",
-        "contract workers"
+        "inhouse workers"
     ],
-    "description": "Over 2,900 Belarusian tech workers, including top level management and investors, publicly signed onto an open letter calling the recent presidential elections a fraud. Signatories threatened to relocate their offices and investments outside of Belarus, stating that the atmosphere of fear and suppression was not conducive to a thriving technology sector. The letter denounced anti-democratic measures taken by the government, including the arrests of protesters and widespread Internet outages, and called for new elections, the release of those arrested, and freedom of press in the country. ",
+    "description": "A group of Black employees across tech companies have launched an initiative, Tech Can Do Better, to call for greater equity in the workplace. An Instagram account promotes the visibility and highlights the accomplishments of Black employees in tech. The group has also started an online pledge where workers can commit to \"mak[ing] the changes needed to achieve equitable hiring, promotions, and compensation, mak[ing] significant Investment in social equity and driv[ing] advocacy for equitable legislation.\"",
     "online": true,
-    "locations": [
-        "belarus"
-    ],
+    "locations": null,
     "companies": null,
-    "workers": 2900,
+    "workers": null,
     "tags": [
-        "politics"
+        "antiracism",
+        "blm",
+        "industry_solidarity"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            53.4250605,
-            27.6971358
-        ]
-    ],
-    "addresses": [
-        "\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

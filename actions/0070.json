@@ -1,39 +1,41 @@
 {
-    "id": 62,
-    "date": "2016/12/13",
+    "id": 61,
+    "date": "2016/12/03",
     "sources": [
-        "https://neveragain.tech/",
-        "https://en.wikipedia.org/wiki/never_again_pledge"
+        "https://www.thestreet.com/story/13906592/1/why-uber-faces-a-day-of-protests-on-tuesday-tech-roundup.html"
     ],
     "actions": [
-        "open letter"
+        "protest"
     ],
     "struggles": [
-        "ethics"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
-        "na"
+        "gig workers"
     ],
-    "description": "Online petition by information technology workers to work against a United States government database identifying people by race, religion, or national origin, specifically in response to the Trump presidential campaign statements about creating a Muslim registry and deporting millions of illegal immigrants.",
-    "online": true,
+    "description": "Uber drivers in 20 cities join the Fight for $15 movement, boycotting the app for one day to protest wages.",
+    "online": null,
     "locations": [
         "usa"
     ],
-    "companies": null,
-    "workers": 2843,
+    "companies": [
+        "uber"
+    ],
+    "workers": null,
     "tags": [
-        "industry_solidarity"
+        "drivers"
     ],
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            39.7837304,
-            -100.4458825
+            37.76863735,
+            -122.38842844055829
         ]
     ],
     "addresses": [
-        "United States"
+        "Uber, 1655, 3rd Street, Mission Bay, San Francisco, San Francisco City and County, California, 94158, United States"
     ]
 }

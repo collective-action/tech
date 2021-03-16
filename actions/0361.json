@@ -1,46 +1,41 @@
 {
-    "id": 393,
+    "id": 383,
     "date": "2021/01/08",
     "sources": [
-        "https://outline.com/Mn7BCV",
-        "https://github.blog/2021-01-17-update-on-an-employee-matter/"
+        "https://www.washingtonpost.com/technology/2021/01/08/twitter-trump-dorsey/"
     ],
     "actions": [
         "open letter"
     ],
     "struggles": [
-        "ethics",
-        "discrimination"
+        "ethics"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "white collar workers"
     ],
-    "description": "Approximately 200 GitHub workers signed an open letter calling on management to explain their decision to fire a Jewish worker who called the January 6th rioters at the U.S. Capitol \"Nazis\" on an internal company message board. They also called on the company to take a stronger position on anti-Semitism and white supremacy. Management responded with a letter denouncing the events of Jan. 6th and promising an investigation of the firing. UPDATE: On January 17th, GitHub posted to their company blog that their investigation \"revealed significant errors of judgment and procedure\". Their head of HR resigned from the company and the company reinstated the employee.",
+    "description": "Following the pro-Trump storming of the Capitol on January 6, roughly 350 Twitter employees signed an internal letter addressed to CEO Jack Dorsey and top executives questioning Twitter's policies and role in facilitating the attack. The employees requested an investigation into corporation actions over the last several years and asked for greater transparency to the company\u2019s decision-making process regarding Donald Trumps' Twitter account on the day of the attack.",
     "online": true,
     "locations": [
         "usa"
     ],
     "companies": [
-        "github"
+        "twitter"
     ],
-    "workers": 200,
+    "workers": 350,
     "tags": [
-        "retaliation",
-        "coworker_solidarity",
         "trump",
         "politics"
     ],
     "author": [
-        "nataliyaned"
+        "CM"
     ],
     "latlngs": [
         [
-            37.7821769,
-            -122.3912458
+            37.7762709,
+            -122.41630688295965
         ]
     ],
     "addresses": [
-        "GitHub, 88, Colin P. Kelly Junior Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States"
+        "Twitter, 875, Stevenson Street, Market Square, San Francisco, San Francisco City and County, California, 94102, United States"
     ]
 }

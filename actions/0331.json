@@ -1,30 +1,29 @@
 {
-    "id": 337,
-    "date": "2020/09/28",
+    "id": 331,
+    "date": "2020/09/23",
     "sources": [
-        "https://discotech.tech/techtruths",
-        "https://twitter.com/discotechorg/status/1310613703126114304?s=19"
+        "https://www.forbes.com/sites/rachelsandler/2020/09/24/hootsuite-drops-ice-contract-after-employee-backlash/#714f8e261c50",
+        "https://www.vice.com/en/article/jgx75b/hootsuite-denied-providing-tech-to-ice-this-contract-shows-that-it-did"
     ],
     "actions": [
-        "resources"
+        "protest"
     ],
     "struggles": [
-        "ethics",
-        "discrimination"
+        "ethics"
     ],
     "employment_types": [
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "A group of cross-company organizers in tech have started a repository called \"Tech Truths\" that highlights incidents of discrimination in tech, including \"discrimination by race, gender, sexual orientation, disability status, immigration status, and more\". To date (10/7/2020), 107 different stories of discrimination have been shared and published.",
+    "description": "Employees at Hootsuite succeeded in getting the company, a B-corporation, to drop its contract with U.S. ICE after protesting via social media and voicing their opposition internally to the company. A Tweet from a senior training specialist at Hootsuite, Sam Anderson, generated significant backlash within the industry, including from many social media managers at client companies.  ",
     "online": true,
     "locations": null,
-    "companies": null,
-    "workers": 107,
+    "companies": [
+        "hootsuite"
+    ],
+    "workers": 100,
     "tags": [
-        "antiracism",
-        "blm",
-        "industry_solidarity"
+        "ice"
     ],
     "author": [
         "nataliyaned"

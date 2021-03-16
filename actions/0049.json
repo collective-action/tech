@@ -1,40 +1,41 @@
 {
-    "id": 42,
-    "date": "2014/11/04",
+    "id": 41,
+    "date": "2014/09/19",
     "sources": [
-        "https://www.chenpe.com/news/24911.html"
+        "https://thinkprogress.org/silicon-valley-workers-protest-for-fair-wages-at-apple-stores-during-iphone-6-launch-860a32a25b98/"
     ],
     "actions": [
-        "union representation"
+        "protest"
     ],
     "struggles": [
-        "job security",
-        "discrimination"
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "contract workers",
+        "blue collar workers"
     ],
-    "description": "Artesyn Technologies announced through their QQ blog that employees mainly from the hardware department were participating in a protest against Sony. They held their protest against what they called violent layoffs and discrimination and they appealed to Sony to disclose a list of those being discharged. They also demanded negotiations and a 'fair, transparent and open' process.",
+    "description": "In front of Apple stores nationwide, tech companies employees gathered to protest alongside hundreds of eager customers waiting in line to buy the iPhone 6. The protesters weren't disgruntled Apple engineers or developers; they were security officers, maintenance and custodial staff demanding better wages from tech companies.",
     "online": null,
     "locations": [
-        "beijing-china"
+        "usa"
     ],
     "companies": [
-        "sony"
+        "apple"
     ],
     "workers": null,
-    "tags": null,
+    "tags": [
+        "seiu"
+    ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            39.9079196,
-            116.4058833
+            42.3489689,
+            -71.0824143
         ]
     ],
     "addresses": [
-        "Sony, 1, \u4e1c\u957f\u5b89\u8857, \u4e1c\u57ce\u533a, \u5317\u4eac\u5e02, 100010, \u4e2d\u56fd"
+        "Apple Store, 815, Boylston Street, Block F, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States"
     ]
 }

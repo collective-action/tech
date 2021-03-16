@@ -1,44 +1,32 @@
 {
-    "id": 103,
-    "date": "2018/11/01",
+    "id": 102,
+    "date": "2018/10/24",
     "sources": [
-        "https://www.nytimes.com/2018/11/01/technology/google-walkout-sexual-harassment.html",
-        "https://www.recode.net/2018/11/21/18105719/google-walkout-real-change-organizers-protest-discrimination-kara-swisher-recode-decode-podcast"
+        "https://clb.org.hk/content/taxi-drivers-out-strike-again-china-competition-threatens-livelihoods"
     ],
     "actions": [
         "strike"
     ],
     "struggles": [
-        "discrimination"
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers",
-        "contract workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "Google employees and contractors walked out of the companies's offices around the world, one week after the New York Times reported that Google had protected three executives accused of sexual misconduct.",
+    "description": "Hundreds of regular Didi drivers in Xiamen went on strike in protest against the company's advantageous policy towards drivers who have not yet formally registered. Drivers said their daily incomes had fallen to around 200-300 yuan per day, about the same as regular taxi drivers in the city, and that they were now struggling just to get by. After police arrived at the site of the protest and dispersed the crowd, the workers elected their own representatives to hold talks with the company, and vowed to continue with their protests until the situation improved.",
     "online": null,
     "locations": [
-        "usa",
-        "worldwide"
+        "xiamen-china",
+        "fujian-china"
     ],
     "companies": [
-        "google"
+        "didi"
     ],
-    "workers": 20000,
-    "tags": [
-        "sexism"
-    ],
+    "workers": 100,
+    "tags": null,
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            42.3627717,
-            -71.087257
-        ]
-    ],
-    "addresses": [
-        "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

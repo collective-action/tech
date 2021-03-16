@@ -1,33 +1,32 @@
 {
-    "id": 46,
-    "date": "2015/02/03",
+    "id": 45,
+    "date": "2015/01/09",
     "sources": [
-        "https://www.zdnet.com/article/thousands-at-hp-subsidiary-in-china-strike-against-board-chairman-nomination/"
+        "https://www.buzzfeednews.com/article/carolineodonovan/instacart-just-settled-a-46-million-worker-lawsuit",
+        "https://time.com/3748438/instacart-lawsuit/"
     ],
     "actions": [
-        "strike"
+        "legal action"
     ],
     "struggles": [
-        "pay and benefits",
-        "job security"
+        "unfair labor practices",
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "Employees at H3C, a Chinese network device company acquired by HP, have been protesting the appointment of a new chairman for the last three weeks. More than 4,400 people have signed a petition and 3,000 have joined the strike. Workers have expressed concern that the election of Mao Yunan, a senior manager at HP, would lead to layoffs and would endanger promised employee stock option plans.",
+    "description": "A lawsuit alleges that Instacart, an on-demand grocery delivery service valued at $2 billion, misclassifies its workers as independent contractors to avoid paying expenses like overtime, reimbursements for gas and workers' compensation. The class action complaint, which was filed on Jan. 9th but has not been previously reported, describes Instacart's business practices as 'unethical, oppressive and unscrupulous' and seeks damages for anyone who has worked as a 'shopper delivery person' for the company since 2012. In 2017, Instacart won a small victory \u2014 the grocery-on-demand startup just settled a class action lawsuit to the tune of $4.6 million.",
     "online": null,
     "locations": [
-        "hangzhou-china"
+        "usa"
     ],
     "companies": [
-        "h3c",
-        "hp"
+        "instacart"
     ],
-    "workers": 4400,
+    "workers": null,
     "tags": null,
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
     "latlngs": null,
     "addresses": null

@@ -1,58 +1,43 @@
 {
-    "id": 38,
-    "date": "2014/04/19",
+    "id": 37,
+    "date": "2014/04/03",
     "sources": [
-        "https://www.nbcnews.com/tech/tech-news/workers-tech-poaching-case-likely-get-average-4k-n113451",
-        "https://www.independent.ie/business/technology/four-us-tech-firms-face-3bn-payout-over-claims-they-conspired-on-pay-30199663.html"
+        "https://www.telegraph.co.uk/technology/news/10729575/mozilla-staff-call-for-new-ceo-to-stand-down-over-donation-to-anti-gay-marriage-campaign.html",
+        "https://www.dailymail.co.uk/news/article-2596405/mozilla-ceo-resigns-furor-gay-rights.html"
     ],
     "actions": [
-        "legal action"
+        "protest"
     ],
     "struggles": [
-        "pay and benefits"
+        "discrimination"
     ],
     "employment_types": [
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "Tech workers from Google, Apple, Intel, and Adobe Systems brought a class action lawsuit against their respective companies, claiming that they conspired to keep salaries down by adhering to 'no-hire' agreements among themselves. The case ended in a $325 million settlement that paid out roughly $4,000 to 60,000 employees. ",
+    "description": "Mozilla employees used a number of means to call for the resignation of CEO Brendan Eich who donated $1,000 in 2008 to support California's Proposition 8, legislature that would have made gay marriage illegal in the state. Three of Mozilla Foundation's board members resigned in protest, and other employees took to social media and wrote blog posts. Other companies, most prominently dating site OKCupid, encouraged their users to stop using the Firefox browser. Eich did ultimately resign.",
     "online": null,
     "locations": [
-        "california-usa"
+        "mountain view-california-usa"
     ],
     "companies": [
-        "google",
-        "apple",
-        "intel",
-        "adobe"
+        "mozilla",
+        "okcupid"
     ],
-    "workers": 60000,
-    "tags": null,
+    "workers": null,
+    "tags": [
+        "lgbtq"
+    ],
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            37.41897865,
-            -122.08237793989416
-        ],
-        [
-            37.32915255,
-            -122.03225451655098
-        ],
-        [
-            32.939795,
-            -117.1026021
-        ],
-        [
-            37.33196605,
-            -121.8954904847011
+            37.38810755,
+            -122.08285486344786
         ]
     ],
     "addresses": [
-        "Google, Mountain View, Santa Clara County, California, United States",
-        "Apple, Cupertino, Santa Clara County, California, United States",
-        "Intel, 12220, Scripps Summit Drive, San Diego, San Diego County, California, 92131, United States",
-        "Adobe, 333, Little Italy, San Jose, Santa Clara County, California, United States"
+        "Mozilla Foundation, Castro Street, Mountain View, Santa Clara County, California, 94039, United States"
     ]
 }

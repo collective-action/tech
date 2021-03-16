@@ -1,44 +1,40 @@
 {
-    "id": 27,
-    "date": "2013/05/19",
+    "id": 26,
+    "date": "2013/03/15",
     "sources": [
-        "https://www.spiegel.de/international/business/amazon-and-other-us-corporations-flout-german-labor-laws-a-900615.html"
+        "http://allthingsd.com/20130315/uber-drivers-protest-outside-the-companys-san-francisco-headquarters/"
     ],
     "actions": [
-        "strike"
+        "protest"
     ],
     "struggles": [
         "pay and benefits"
     ],
     "employment_types": [
-        "blue collar workers"
+        "gig workers"
     ],
-    "description": "Amazon workers at two German facilities (Bad Hersfeld and Leipzig) walked off the job to protest low wages and the company's refusal to sign a collective bargaining agreement for the retail sector. Der Speigel reports that this is the 'first strike in the online retail giant's history'.",
+    "description": "A group of approximately 30 Uber drivers protested outside of the company's San Francisco headquarters to protest lowered pay and lack of job security, including the firing of 500 drivers over the last month. ",
     "online": null,
     "locations": [
-        "bad hersfeld-germany",
-        "leipzig-germany"
+        "san francisco-california-usa"
     ],
     "companies": [
-        "amazon"
+        "uber"
     ],
-    "workers": null,
-    "tags": null,
+    "workers": 30,
+    "tags": [
+        "drivers"
+    ],
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            50.8453279,
-            9.678334853465138
-        ],
-        [
-            51.3622584,
-            12.452329749225527
+            37.7756962,
+            -122.4180838
         ]
     ],
     "addresses": [
-        "Amazon FRA1, 1, Eichhof, Asbach, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
-        "Amazon, 1, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland"
+        "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, California, 94103, United States"
     ]
 }

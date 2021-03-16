@@ -1,39 +1,38 @@
 {
-    "id": 112,
-    "date": "2018/12/16",
+    "id": 111,
+    "date": "2018/12/14",
     "sources": [
-        "https://www.scmp.com/news/china/article/2178201/chinese-workers-apple-supplier-foxconn-stage-street-protest-over-unpaid"
+        "http://www.startribune.com/workers-protest-conditions-at-amazon-s-shakopee-center/502829882/"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
-        "pay and benefits"
+        "working conditions"
     ],
     "employment_types": [
-        "blue collar workers",
-        "contract workers"
+        "blue collar workers"
     ],
-    "description": "Hundreds of temporary workers for FoxConn rallied on the streets on Zhengzhou to protest unpaid signing bonuses. Protests continued for two nights before being broken up by police.",
+    "description": "Amid chants of 'Hear our voice,' a group of about 100 Somali-American workers and their supporters marched to the entrance of Amazon's Shakopee fulfillment center Friday evening to protest unfair working conditions.",
     "online": null,
     "locations": [
-        "zhengzhou-china"
+        "minneapolis-minnesota-usa"
     ],
     "companies": [
-        "foxconn"
+        "amazon"
     ],
     "workers": 100,
     "tags": null,
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
     "latlngs": [
         [
-            34.7284406,
-            113.7595316
+            44.9696864,
+            -93.2883524
         ]
     ],
     "addresses": [
-        "Foxconn Technology Group, \u7ecf\u5317\u4e8c\u8def, \u7ba1\u57ce\u56de\u65cf\u533a, \u90d1\u5dde\u5e02, \u6cb3\u5357\u7701, 450046, \u4e2d\u56fd"
+        "Wounded Amazon, Lyndale Avenue South, Loring Park, Minneapolis, Hennepin County, Minnesota, 55403, United States"
     ]
 }

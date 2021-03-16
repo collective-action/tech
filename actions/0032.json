@@ -1,34 +1,38 @@
 {
-    "id": 25,
-    "date": "2013/02/06",
+    "id": 24,
+    "date": "2012/10/01",
     "sources": [
-        "https://www.newscientist.com/article/mg21729036-200-crowdsourcing-grows-up-as-online-workers-unite/",
-        "https://prospect.org/article/demand-and-demanding-their-rights"
+        "https://www.engadget.com/2012/10/09/multiple-foxconn-labor-disputes-disrupt-iphone-production/?guccounter=1"
     ],
     "actions": [
-        "protest"
+        "strike"
     ],
     "struggles": [
-        "pay and benefits",
         "working conditions"
     ],
     "employment_types": [
-        "gig workers"
+        "blue collar workers"
     ],
-    "description": "Mechnical Turk workers have adopted a platform named Turkopticon, which allows them to review tasks and requestors on the platform. Turkopticon was created through a collaboration between a UC Irvine computer scientist and a union leader for IG Metall.",
+    "description": "FoxConn workers in Zhengzhou held walkouts on three separate days to protest working conditions at the plant. News outlets also report workers have been purposefully scratching newly manufactured iPhones in protest. China Labor Watch estimates that 3,000 workers took part in the walkouts.",
     "online": null,
     "locations": [
-        "worldwide"
+        "zhengzhou-china"
     ],
     "companies": [
-        "amazon",
-        "mechanical_turk"
+        "foxconn"
     ],
-    "workers": null,
+    "workers": 3000,
     "tags": null,
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            34.7284406,
+            113.7595316
+        ]
+    ],
+    "addresses": [
+        "Foxconn Technology Group, \u7ecf\u5317\u4e8c\u8def, \u7ba1\u57ce\u56de\u65cf\u533a, \u90d1\u5dde\u5e02, \u6cb3\u5357\u7701, 450046, \u4e2d\u56fd"
+    ]
 }

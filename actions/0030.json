@@ -1,38 +1,39 @@
 {
-    "id": 23,
-    "date": "2012/06/05",
+    "id": 22,
+    "date": "2012/05/01",
     "sources": [
-        "https://www.voanews.com/east-asia/outside-glitzy-taiwan-trade-show-workers-fight-pay-and-rest"
+        "https://www.itproportal.com/2012/05/01/workers-could-start-strike-at-foxconn-factory-in-brazil/",
+        "https://www.cnbc.com/id/100353348"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
-        "pay and benefits",
         "working conditions"
     ],
     "employment_types": [
-        "white collar workers",
         "blue collar workers"
     ],
-    "description": "Outside of Taiwan's Computex trade show, labor groups protested poor working conditions and inadequate pay for both white-collar and blue-collar workers",
+    "description": "Thousands of FoxConn workers in Jundiai, Brazil protested dangerous working conditions outside of the company's local plant. Complaints included lack of water and air conditioning at facilities, covercrowded buses, and low quality food in the cafeterias.",
     "online": null,
     "locations": [
-        "taipei-taiwan"
+        "jundiai-brazil"
     ],
-    "companies": null,
-    "workers": null,
+    "companies": [
+        "foxconn"
+    ],
+    "workers": 1000,
     "tags": null,
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            25.0375198,
-            121.5636796
+            -23.16559635,
+            -46.94674960550789
         ]
     ],
     "addresses": [
-        "\u81fa\u5317\u5e02, \u81fa\u7063"
+        "Foxconn, Avenida Marginal, Engordadouro, Jundia\u00ed, Regi\u00e3o Imediata de Jundia\u00ed, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Campinas, S\u00e3o Paulo, Regi\u00e3o Sudeste, 13212-010, Brasil"
     ]
 }

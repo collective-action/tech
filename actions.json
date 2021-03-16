@@ -692,6 +692,59 @@
         "addresses": null
     },
     {
+        "id": 398,
+        "date": "2003/09/16",
+        "sources": [
+            "www-proquest-com.proxy.library.upenn.edu/newspapers/silicon-valley-unions-protest-on-outsourcing/docview/249583144/se-2?accountid=1470"
+        ],
+        "actions": [
+            "protest"
+        ],
+        "struggles": [
+            "job security"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "The Communications Workers of America organized a protest by union leaders and tech workers outside of a Silicon Valley conference on offshore outsourcing. The protest is part of a long-term campaign to raise awareness among the public and politicians about the growing trend of overseas outsourcing of IT jobs.",
+        "online": null,
+        "locations": [
+            "california-usa"
+        ],
+        "companies": [
+            "ibm",
+            "hp",
+            "microsoft"
+        ],
+        "workers": null,
+        "tags": [
+            "cwa"
+        ],
+        "author": [
+            "CM"
+        ],
+        "latlngs": [
+            [
+                37.559775599999995,
+                -122.27158989198176
+            ],
+            [
+                37.4118567,
+                -122.14806884769618
+            ],
+            [
+                37.41096725,
+                -122.07138737347663
+            ]
+        ],
+        "addresses": [
+            "IBM, 1051, East Hillsdale Boulevard, Foster City, San Mateo County, California, 94404, United States",
+            "HP, Peter Coutts Road, Palo Alto, Santa Clara County, California, 94304-1050, United States",
+            "Microsoft Silicon Valley, Mountain View, Santa Clara County, California, United States"
+        ]
+    },
+    {
         "id": 11,
         "date": "2004/09/29",
         "sources": [
@@ -9023,8 +9076,8 @@
                 12.452329749225527
             ],
             [
-                50.3465747,
-                7.4912868
+                50.3495332,
+                7.4901388
             ],
             [
                 51.5369716,
@@ -9042,7 +9095,7 @@
         "addresses": [
             "Amazon FRA1, 1, Eichhof, Asbach, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
             "Amazon, 1, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland",
-            "Amazon stra\u00dfe, Industriepark A61/GVZ Koblenz, R\u00fcbenach, Koblenz, Rheinland-Pfalz, 56330, Deutschland",
+            "Amazon, Am Autobahnkreuz, Industriepark A61/GVZ Koblenz, R\u00fcbenach, Koblenz, Rheinland-Pfalz, 56072, Deutschland",
             "Amazon, Amazonstra\u00dfe, Winterswick, Rheinberg, Kreis Wesel, Nordrhein-Westfalen, 47495, Deutschland",
             "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
             "Amazon-Logistikzentrum, Graben, Landkreis Augsburg, Bayern, 86836, Deutschland"

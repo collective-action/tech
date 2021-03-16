@@ -1,40 +1,34 @@
 {
-    "id": 26,
-    "date": "2013/03/15",
+    "id": 25,
+    "date": "2013/02/06",
     "sources": [
-        "http://allthingsd.com/20130315/uber-drivers-protest-outside-the-companys-san-francisco-headquarters/"
+        "https://www.newscientist.com/article/mg21729036-200-crowdsourcing-grows-up-as-online-workers-unite/",
+        "https://prospect.org/article/demand-and-demanding-their-rights"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
-        "pay and benefits"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
         "gig workers"
     ],
-    "description": "A group of approximately 30 Uber drivers protested outside of the company's San Francisco headquarters to protest lowered pay and lack of job security, including the firing of 500 drivers over the last month. ",
+    "description": "Mechnical Turk workers have adopted a platform named Turkopticon, which allows them to review tasks and requestors on the platform. Turkopticon was created through a collaboration between a UC Irvine computer scientist and a union leader for IG Metall.",
     "online": null,
     "locations": [
-        "san francisco-california-usa"
+        "worldwide"
     ],
     "companies": [
-        "uber"
+        "amazon",
+        "mechanical_turk"
     ],
-    "workers": 30,
-    "tags": [
-        "drivers"
-    ],
+    "workers": null,
+    "tags": null,
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            37.7756962,
-            -122.4180838
-        ]
-    ],
-    "addresses": [
-        "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, California, 94103, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

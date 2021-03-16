@@ -1,64 +1,39 @@
 {
-    "id": 105,
-    "date": "2018/11/23",
+    "id": 104,
+    "date": "2018/11/20",
     "sources": [
-        "https://mashable.com/article/amazon-workers-black-friday-strike-europe-uk/#7mizh6l4giqk",
-        "https://www.uniglobalunion.org/news/amazon-workers-launch-wave-black-friday-strikes-and-protests",
-        "https://www.businessinsider.com/black-friday-amazon-workers-protest-poor-working-conditions-2018-11"
+        "https://www.buzzfeednews.com/article/carolineodonovan/blue-apron-lawsuit-unpaid-wages"
     ],
     "actions": [
-        "strike"
+        "legal action"
     ],
     "struggles": [
+        "pay and benefits",
         "working conditions"
     ],
     "employment_types": [
         "blue collar workers"
     ],
-    "description": "Thousands of Amazon staff members across Europe protest on Black Friday over the way the companies treats its warehouse workers. As shoppers in the U.S.A. log in to Amazon to find Black Friday deals, Amazon workers in the UK, Spain, France, Italy, and Germany are striking to protest working conditions in the company\u2019s warehouses.",
+    "description": "Blue Apron employees have filed a class-action lawsuit against the companies, alleging that they weren't paid overtime, or for meal breaks, among other labor law violations. They are seeking back pay for missed wages and a trial by jury. Blue Apron employs thousands of low-wage workers in food processing plants in New Jersey, Texas, and California, where this suit was filed. An employee alleges that Blue Apron routinely forced hourly employees to clock out before their meal break, effectively cheating them out of thirty minutes of pay per shift, a practice known in the world of labor law as \u201ctime shaving.\u201d",
     "online": null,
     "locations": [
-        "germany",
-        "france",
-        "italy",
-        "spain",
-        "uk"
+        "california-usa"
     ],
     "companies": [
-        "amazon"
+        "blue apron"
     ],
-    "workers": 2400,
+    "workers": 100,
     "tags": null,
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            51.653494949999995,
-            7.59464606445661
-        ],
-        [
-            49.0632423,
-            6.131329990388637
-        ],
-        [
-            45.0777055,
-            9.454322716507177
-        ],
-        [
-            41.6274834,
-            -1.0203988345038435
-        ],
-        [
-            51.5134673,
-            -0.3033806
+            33.9446707,
+            -117.026448
         ]
     ],
     "addresses": [
-        "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
-        "Amazon, Augny, Metz, Moselle, Grand Est, France m\u00e9tropolitaine, 57685, France",
-        "Amazon, Cascina Colombarone, Castel San Giovanni, Piacenza, Emilia-Romagna, Italia",
-        "Amazon, Zaragoza, Arag\u00f3n, Espa\u00f1a",
-        "Amazon Fresh, 59, The Broadway, London Borough of Ealing, London, Greater London, England, W5 5JN, United Kingdom"
+        "Apron Lane, Beaumont, Riverside County, California, 92223, United States"
     ]
 }

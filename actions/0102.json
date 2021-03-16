@@ -1,39 +1,42 @@
 {
-    "id": 94,
-    "date": "2018/07/10",
+    "id": 93,
+    "date": "2018/07/03",
     "sources": [
-        "https://www.reuters.com/article/us-amazon-com-spain-strike/spanish-amazon-workers-call-three-day-strike-over-wages-rights-iduskbn1k01xz",
-        "https://www.buzzfeednews.com/article/leticiamiranda/labor-strike-against-amazon-in-spain-arrests-injuries"
+        "https://www.capitalfm.co.ke/business/2018/07/uber-little-taxify-drivers-strike-demanding-better-rates/",
+        "https://qz.com/africa/1327568/uber-taxify-little-cab-kenya-drivers-end-strike/",
+        "http://www.africanews.com/2018/07/03/uber-taxify-drivers-in-kenya-protest-against-working-long-hours-for-little-money/"
     ],
     "actions": [
         "strike"
     ],
     "struggles": [
-        "working conditions"
+        "working conditions",
+        "pay and benefits"
     ],
     "employment_types": [
-        "blue collar workers"
+        "gig workers"
     ],
-    "description": "Spanish labor unions have called on around 1,000 Amazon employees to walk out for three days next week in a dispute over what it says are efforts to reduce workers' rights. The strike will took place at the San Fernando warehouse on the outskirts of Madrid, Amazon\u2019s biggest in Spain, on July 16, 17 and 18, to coincide with a 1-1/2 day sale on the platform.",
+    "description": "A section of drivers from five taxi hailing companies including Uber and Taxify (now known as Bolt) took part in the industrial strike which started in early July 2018. The drivers through their association, Digital Taxi Forum want Uber and Co to double their rates and reduce their commissions so they can earn decent wages. The strike lasted 9 days, ending after Uber signed an agreement to ensure better pricing for drivers and improve welfare on the job.",
     "online": null,
     "locations": [
-        "madrid-spain"
+        "nairobi-kenya"
     ],
     "companies": [
-        "amazon"
+        "uber",
+        "bolt"
     ],
-    "workers": 950,
+    "workers": 30,
     "tags": null,
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            40.4593249,
-            -3.4602878
+            7.2077919,
+            38.613507
         ]
     ],
     "addresses": [
-        "Amazon, Avenida de la Constituci\u00f3n, Torrej\u00f3n de Ardoz, \u00c1rea metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28850, Espa\u00f1a"
+        "Bolt, Addis Ababa to Nairobi road, Melka Uda, \u123b\u1238\u1218\u1294 / Shashamane, East Shewa, \u12a6\u122e\u121a\u12eb \u12ad\u120d\u120d / Oromia, \u12a2\u1275\u12ee\u1335\u12eb"
     ]
 }

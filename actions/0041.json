@@ -1,39 +1,34 @@
 {
-    "id": 34,
-    "date": "2014/03/03",
+    "id": 33,
+    "date": "2014/01/16",
     "sources": [
-        "https://www.reuters.com/article/us-china-strikes/ibm-factory-strike-shows-shifting-china-labor-landscape-idusbrea2804k20140309"
+        "https://time.com/956/how-amazon-crushed-the-union-movement/"
     ],
     "actions": [
-        "strike"
+        "union representation"
     ],
     "struggles": [
-        "unfair labor practices"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
         "blue collar workers"
     ],
-    "description": "More than 1,000 IBM factory workers walked off the job at the factory in Shenzhen, bordering Hong Kong, after managers on announced the terms of their transfer to new ownership under Chinese PC maker Lenovo Group Ltd. Experts say - the impetus for a strike was underpinned by the fact that the factory branch of the state-backed union was seen as a farce.",
+    "description": "A group of technicians at an Amazon facility in Middletown, Delaware filed a petition with the NLRB to organize a union but ultimately voted against it, 21-6, after pressure from management and anti-union consultants. ",
     "online": null,
     "locations": [
-        "shenzhen-china"
+        "middletown-delaware-usa"
     ],
     "companies": [
-        "ibm",
-        "lenovo"
+        "amazon"
     ],
-    "workers": 1000,
-    "tags": null,
+    "workers": 6,
+    "tags": [
+        "retaliation"
+    ],
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
-    "latlngs": [
-        [
-            22.5075392,
-            114.0382537
-        ]
-    ],
-    "addresses": [
-        "\u8054\u60f3, \u6843\u82b1\u8def, \u798f\u7530\u4fdd\u7a0e\u533a, \u798f\u7530\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518000, \u4e2d\u56fd"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

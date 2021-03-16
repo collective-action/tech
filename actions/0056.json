@@ -1,43 +1,44 @@
 {
-    "id": 381,
-    "date": "2015/06/17",
+    "id": 48,
+    "date": "2015/05/04",
     "sources": [
-        "https://www.bizjournals.com/portland/blog/techflash/2016/06/out-of-the-shadows-intel-eliminati-find-a-public.html",
-        "https://www.bizjournals.com/portland/blog/techflash/2016/05/meet-the-intel-eliminati-the-group-of-portlanders.html",
-        "https://www.theguardian.com/technology/2016/apr/19/intel-job-cuts-global-restructuring"
+        "https://www.usatoday.com/story/tech/2015/05/04/jesse-jackson-union-broadcom-rally/26880547/"
     ],
     "actions": [
-        "resources"
+        "protest"
     ],
     "struggles": [
-        "job security",
-        "discrimination"
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers"
+        "contract workers"
     ],
-    "description": "Intel announced layoffs in June 2015 and an additional 12,000 layoffs in April 2016. In response, a group of laid-off Intel employees in Portland, OR formed a group called the \"The Intel Eliminati\" in fall of 2015 and launched a website (pdx-tie.org) in June 2016 for former Intel employees. In June 2016, the group had 200+ members. The group's website features career resources, support, and posts critical of Intel and its management, including alleged age discrimination against older Intel employees in the lay-offs.",
-    "online": true,
+    "description": "Security guards at Broadcom, contracted through Universal Protection Service, rallied outside of company headquarters to protest retaliation for union organizing. The group was joined by Rev. Jesse Jackson and his Rainbow/PUSH Coalition, which has recently been pushing for greater diversity and equity in tech. UPS employees who have pushed for union organization through SEIU have reportedly had their wages cut.",
+    "online": null,
     "locations": [
-        "portland-oregon-usa"
+        "santa clara-california-usa"
     ],
     "companies": [
-        "intel"
+        "broadcom",
+        "universal protection service"
     ],
-    "workers": 201,
-    "tags": [
-        "ageism"
-    ],
+    "workers": null,
+    "tags": null,
     "author": [
-        "CM"
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            45.5441864,
-            -122.90401378016323
+            37.3771412,
+            -122.03367714666899
+        ],
+        [
+            37.3496794,
+            -121.9009359
         ]
     ],
     "addresses": [
-        "Intel, Laydown Construction Area, Orenco, Hillsboro, Metro, Oregon, 97124-9433, United States"
+        "Broadcom, 190, Aries Way, Sunnyvale, Santa Clara County, California, 94086, United States",
+        "Universal Protection Service, North 1st Street, Civic Center, Japantown, San Jose, Santa Clara County, California, 95112-5005, United States"
     ]
 }

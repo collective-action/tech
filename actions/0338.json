@@ -1,42 +1,45 @@
 {
-    "id": 349,
-    "date": "2020/10/14",
+    "id": 347,
+    "date": "2020/10/13",
     "sources": [
-        "https://calmatters.org/california-divide/2020/10/amazon-warehouse-workers-bezos-mansion-prime-day/"
+        "https://www.nbcnews.com/news/amp/ncna1243217",
+        "https://www.kmov.com/thousands-of-workers-petition-amazon-for-paid-time-off-to-vote/article_c29297aa-e08d-5aae-b887-75b506e79fef.html",
+        "https://www.cbsnews.com/news/amazon-workers-petition-election-day-holiday-paid-time-off/",
+        "https://amazonemployees4climatejustice.medium.com/jeff-bezos-give-all-amazon-workers-pto-to-vote-dc0003434d65"
     ],
     "actions": [
-        "protest"
+        "open letter"
     ],
     "struggles": [
-        "pay and benefits"
+        "unfair labor practices",
+        "ethics"
     ],
     "employment_types": [
         "blue collar workers",
         "inhouse workers"
     ],
-    "description": "Amazon workers staged a vigil at Jeff Bezos' Beverly Hills mansion for fellow workers that had died as a result of working through the coronavirus pandemic. The event was organized by  the Warehouse Worker Resource Center. ",
-    "online": null,
+    "description": "More than 6,400 Amazon workers signed an internal petition calling for time off to vote for its entire workforce ahead of the 2020 U.S. Election. Other companies like Walmart, Apple, and Target have policies allowing for paid time off for voting. Amazon Employees for Climate Justice organized the petition.",
+    "online": true,
     "locations": [
-        "los angeles-california-usa"
+        "usa"
     ],
     "companies": [
         "amazon"
     ],
-    "workers": null,
+    "workers": 6400,
     "tags": [
-        "delivery_workers",
-        "coronavirus"
+        "politics"
     ],
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            33.97670635,
-            -118.41819635850888
+            47.6142939,
+            -122.3239636
         ]
     ],
     "addresses": [
-        "Whole Foods Market, West Jefferson Boulevard, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
+        "Amazon Go Grocery, 610, East Pike Street, First Hill, Seattle, King County, Washington, 98122, United States"
     ]
 }

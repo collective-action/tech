@@ -1,40 +1,39 @@
 {
-    "id": 74,
+    "id": 73,
     "date": "2017/12/13",
     "sources": [
-        "https://unitehere.org/cafeteria-workers-at-yahoo-unionize/"
+        "https://www.northjersey.com/story/money/2017/12/13/warehouse-workers-holds-protest-amazon-store/945571001/"
     ],
     "actions": [
-        "union representation"
+        "protest"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "working conditions",
+        "pay and benefits"
     ],
     "employment_types": [
-        "contract workers",
         "blue collar workers"
     ],
-    "description": "118 food service workers at Yahoo won union representation at its headquarters in Sunnyvale, CA. The food service workers, who are employed by Yahoo's contractor, Bon Appetit, are calling for respect and dignity, affordable health care, and increased wages to compete with increasing rents in the Bay Area.",
+    "description": "Workers from Amazon's New Jersey warehouses protested outside of an Amazon Books store in Manhattan calling for better compensation, benefits, and working conditions. ",
     "online": null,
     "locations": [
-        "sunnyvale-california-usa"
+        "manhattan-new york city-new york-usa"
     ],
     "companies": [
-        "yahoo"
+        "amazon"
     ],
-    "workers": 118,
+    "workers": 65,
     "tags": null,
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            37.4181243,
-            -122.02538023988251
+            40.722465,
+            -73.9977307
         ]
     ],
     "addresses": [
-        "Yahoo, Sunnyvale, Santa Clara County, California, United States"
+        "Amazon, 72, Spring Street, SoHo, Manhattan Community Board 2, Manhattan, New York County, New York, 10013, United States"
     ]
 }

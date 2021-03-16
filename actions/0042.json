@@ -1,38 +1,39 @@
 {
-    "id": 35,
-    "date": "2014/03/31",
+    "id": 34,
+    "date": "2014/03/03",
     "sources": [
-        "https://www.reuters.com/article/us-amazon-strikes/amazon-workers-in-germany-strike-again-in-protracted-pay-dispute-idusbrea2u0l220140331"
+        "https://www.reuters.com/article/us-china-strikes/ibm-factory-strike-shows-shifting-china-labor-landscape-idusbrea2804k20140309"
     ],
     "actions": [
         "strike"
     ],
     "struggles": [
-        "pay and benefits"
+        "unfair labor practices"
     ],
     "employment_types": [
         "blue collar workers"
     ],
-    "description": "Several hundred Amazon workers in Leipzig, Germany went on strike as part of a union effort to raise wages. The company reported 340 workers were involved whereas the union (Verdi) reported the number was closer to 500.",
+    "description": "More than 1,000 IBM factory workers walked off the job at the factory in Shenzhen, bordering Hong Kong, after managers on announced the terms of their transfer to new ownership under Chinese PC maker Lenovo Group Ltd. Experts say - the impetus for a strike was underpinned by the fact that the factory branch of the state-backed union was seen as a farce.",
     "online": null,
     "locations": [
-        "leipzig-germany"
+        "shenzhen-china"
     ],
     "companies": [
-        "amazon"
+        "ibm",
+        "lenovo"
     ],
-    "workers": 340,
+    "workers": 1000,
     "tags": null,
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
     "latlngs": [
         [
-            51.3622584,
-            12.452329749225527
+            22.5075392,
+            114.0382537
         ]
     ],
     "addresses": [
-        "Amazon, 1, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland"
+        "\u8054\u60f3, \u6843\u82b1\u8def, \u798f\u7530\u4fdd\u7a0e\u533a, \u798f\u7530\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518000, \u4e2d\u56fd"
     ]
 }

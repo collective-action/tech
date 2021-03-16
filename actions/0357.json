@@ -1,37 +1,41 @@
 {
-    "id": 395,
-    "date": "2020/12/31",
+    "id": 373,
+    "date": "2020/12/21",
     "sources": [
-        "https://www.vice.com/en/article/7k9e4e/court-rules-deliveroo-used-discriminatory-algorithm",
-        "http://www.bollettinoadapt.it/wp-content/uploads/2021/01/Ordinanza-Bologna.pdf",
-        "https://www.ilfattoquotidiano.it/in-edicola/articoli/2021/01/02/rider-lalgoritmo-discrimina-chi-si-ammala-e-chi-sciopera"
+        "https://www.rfa.org/english/news/china/workers-12212020111240.html"
     ],
     "actions": [
-        "legal action"
+        "protest",
+        "strike"
     ],
     "struggles": [
-        "unfair labor practices",
-        "discrimination"
+        "job security"
     ],
     "employment_types": [
-        "gig workers"
+        "contract workers",
+        "blue collar workers"
     ],
-    "description": "A court in Bologna, Italy upheld a lawsuit filed by a group of Deliveroo workers, backed by Italy's CGIL union. The lawsuit alleged that Deliveroo's algorithms discriminated against gig workers. The company used machine learning algorithms to determine the \"reliability\" of a worker and give them preference for certain shifts. The court ruled that the company failed to take valid reasons for cancellation into account, such as medical illness. Legal experts say this could be an important precedent in holding companies responsible for algorithms that cause inadvertent harm. ",
+    "description": "Shanghai factory workers at the Apple supplier Pegatron turned out to protest a pay dispute with management at the weekend. Thousands of temporary workers gathered outside the Taiwanese-invested Pegatron facility in Shanghai, as authorities dispatched large numbers of police to block their entrance to the facility, sparking clashes. The protest came after Pegatron tried to transfer thousands of workers from its Shanghai factory to another facility at Kunshan in the eastern province of Jiangsu. Those who refused the transfer would be fired, and workers fired for refusing the offer wouldn't be eligible for their share of finders' fee commission usually shared between recruitment agencies and workers.",
     "online": null,
     "locations": [
-        "italy"
+        "shanghai-china"
     ],
     "companies": [
-        "deliveroo"
+        "pegatron",
+        "apple"
     ],
-    "workers": null,
-    "tags": [
-        "delivery_workers",
-        "ai"
-    ],
+    "workers": 1000,
+    "tags": null,
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            31.2350886,
+            121.4754904
+        ]
+    ],
+    "addresses": [
+        "Apple Store, \u798f\u5dde\u8def, \u5357\u4eac\u4e1c\u8def\u8857\u9053, \u4e0a\u6d77\u5e02, \u9ec4\u6d66\u533a, 200085, \u4e2d\u56fd"
+    ]
 }

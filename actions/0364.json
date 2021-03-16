@@ -1,43 +1,54 @@
 {
-    "id": 391,
-    "date": "2021/02/11",
+    "id": 394,
+    "date": "2021/01/12",
     "sources": [
-        "https://www.theverge.com/2021/2/11/22278684/medium-union-unionizing-communications-workers-america",
-        "https://mediumworkersunion.org/",
-        "https://www.cnn.com/2021/02/11/media/medium-union/index.html"
+        "https://www.washingtonpost.com/technology/2021/01/12/prop22-uber-lawsuit/"
     ],
     "actions": [
-        "union drive"
+        "legal action"
     ],
     "struggles": [
-        "ethics"
+        "unfair labor practices"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "Medium workers have announced they are forming a union. Over 140 Medium workers (reportedly 70% of eligible workers) have signed union cards in support of forming a union with the Communications Workers of America (CWA) Local 9410. They have called on management to voluntarily recognize the union. ",
+    "description": "The SEIU, along with a number of individual rideshare drivers, filed a lawsuit with the California Supreme Court seeking to overturn Proposition 22, which ruled that gig workers are independent contractors in the state. They argue that the law is unconstitutional and violates the right of state legislators; they also argue that Proposition 22 violated a rule that limits ballot measures to a single subject to prevent voter confusion.",
     "online": null,
     "locations": [
-        "usa"
+        "california-usa"
     ],
     "companies": [
-        "medium"
+        "uber",
+        "lyft",
+        "doordash"
     ],
-    "workers": 140,
+    "workers": null,
     "tags": [
-        "cwa"
+        "drivers",
+        "seiu",
+        "climate change"
     ],
     "author": [
-        "fiona tay"
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            41.3750149,
-            -83.6402779
+            37.7756962,
+            -122.4180838
+        ],
+        [
+            37.750721999999996,
+            -122.40243254779433
+        ],
+        [
+            37.7834546,
+            -122.4080358
         ]
     ],
     "addresses": [
-        "MEDIUM, 1001, East Wooster Street, Bowling Green, Wood County, Ohio, 43402, United States"
+        "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, California, 94103, United States",
+        "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States",
+        "Doordash HQ, 901, Market Street, Union Square, San Francisco, San Francisco City and County, California, 94103-3124, United States"
     ]
 }

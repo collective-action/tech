@@ -1,44 +1,44 @@
 {
-    "id": 48,
-    "date": "2015/05/04",
+    "id": 47,
+    "date": "2015/02/26",
     "sources": [
-        "https://www.usatoday.com/story/tech/2015/05/04/jesse-jackson-union-broadcom-rally/26880547/"
+        "https://abc7news.com/business/apple-shuttle-drivers-rally-for-right-to-unionize/535814/"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
-        "pay and benefits"
+        "working conditions"
     ],
     "employment_types": [
         "contract workers"
     ],
-    "description": "Security guards at Broadcom, contracted through Universal Protection Service, rallied outside of company headquarters to protest retaliation for union organizing. The group was joined by Rev. Jesse Jackson and his Rainbow/PUSH Coalition, which has recently been pushing for greater diversity and equity in tech. UPS employees who have pushed for union organization through SEIU have reportedly had their wages cut.",
+    "description": "Union supporters of drivers who shuttle around Apple employees, were protesting outside the tech giant's Cupertino headquarters on Wednesday morning, ahead of their big vote Friday on whether to join the Teamsters Union. The teamsters trucked into Cupertino to protest working conditions for 120 full and part-time shuttle and bus drivers who work at Apple and other Silicon Valley companies, like Yahoo, eBay and Genentech",
     "online": null,
     "locations": [
-        "santa clara-california-usa"
+        "cupertino-usa"
     ],
     "companies": [
-        "broadcom",
-        "universal protection service"
+        "apple",
+        "yahoo",
+        "ebay",
+        "genentech"
     ],
-    "workers": null,
-    "tags": null,
+    "workers": 50,
+    "tags": [
+        "teamster",
+        "drivers"
+    ],
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
     "latlngs": [
         [
-            37.3771412,
-            -122.03367714666899
-        ],
-        [
-            37.3496794,
-            -121.9009359
+            37.32915255,
+            -122.03225451655098
         ]
     ],
     "addresses": [
-        "Broadcom, 190, Aries Way, Sunnyvale, Santa Clara County, California, 94086, United States",
-        "Universal Protection Service, North 1st Street, Civic Center, Japantown, San Jose, Santa Clara County, California, 95112-5005, United States"
+        "Apple, Cupertino, Santa Clara County, California, United States"
     ]
 }

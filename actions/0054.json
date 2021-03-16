@@ -1,44 +1,34 @@
 {
-    "id": 47,
-    "date": "2015/02/26",
+    "id": 46,
+    "date": "2015/02/03",
     "sources": [
-        "https://abc7news.com/business/apple-shuttle-drivers-rally-for-right-to-unionize/535814/"
+        "https://www.zdnet.com/article/thousands-at-hp-subsidiary-in-china-strike-against-board-chairman-nomination/"
     ],
     "actions": [
-        "protest"
+        "strike"
     ],
     "struggles": [
-        "working conditions"
+        "pay and benefits",
+        "job security"
     ],
     "employment_types": [
-        "contract workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Union supporters of drivers who shuttle around Apple employees, were protesting outside the tech giant's Cupertino headquarters on Wednesday morning, ahead of their big vote Friday on whether to join the Teamsters Union. The teamsters trucked into Cupertino to protest working conditions for 120 full and part-time shuttle and bus drivers who work at Apple and other Silicon Valley companies, like Yahoo, eBay and Genentech",
+    "description": "Employees at H3C, a Chinese network device company acquired by HP, have been protesting the appointment of a new chairman for the last three weeks. More than 4,400 people have signed a petition and 3,000 have joined the strike. Workers have expressed concern that the election of Mao Yunan, a senior manager at HP, would lead to layoffs and would endanger promised employee stock option plans.",
     "online": null,
     "locations": [
-        "cupertino-usa"
+        "hangzhou-china"
     ],
     "companies": [
-        "apple",
-        "yahoo",
-        "ebay",
-        "genentech"
+        "h3c",
+        "hp"
     ],
-    "workers": 50,
-    "tags": [
-        "teamster",
-        "drivers"
-    ],
+    "workers": 4400,
+    "tags": null,
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
-    "latlngs": [
-        [
-            37.32915255,
-            -122.03225451655098
-        ]
-    ],
-    "addresses": [
-        "Apple, Cupertino, Santa Clara County, California, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }
