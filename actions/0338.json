@@ -1,45 +1,38 @@
 {
-    "id": 347,
-    "date": "2020/10/13",
+    "id": 341,
+    "date": "2020/10/08",
     "sources": [
-        "https://www.nbcnews.com/news/amp/ncna1243217",
-        "https://www.kmov.com/thousands-of-workers-petition-amazon-for-paid-time-off-to-vote/article_c29297aa-e08d-5aae-b887-75b506e79fef.html",
-        "https://www.cbsnews.com/news/amazon-workers-petition-election-day-holiday-paid-time-off/",
-        "https://amazonemployees4climatejustice.medium.com/jeff-bezos-give-all-amazon-workers-pto-to-vote-dc0003434d65"
+        "https://www.wired.com/story/turmoil-black-lives-matter-political-speech-coinbase/",
+        "https://www.forbes.com/sites/rachelsandler/2020/10/08/60-employees-leave-coinbase-over-ceos-pledge-to-be-apolitical/#5e0848325a06",
+        "https://blog.coinbase.com/coinbase-is-a-mission-focused-company-af882df8804?gi=e4cb4315d1e5"
     ],
     "actions": [
-        "open letter"
+        "protest"
     ],
     "struggles": [
-        "unfair labor practices",
-        "ethics"
+        "ethics",
+        "discrimination"
     ],
     "employment_types": [
-        "blue collar workers",
+        "white collar workers",
         "inhouse workers"
     ],
-    "description": "More than 6,400 Amazon workers signed an internal petition calling for time off to vote for its entire workforce ahead of the 2020 U.S. Election. Other companies like Walmart, Apple, and Target have policies allowing for paid time off for voting. Amazon Employees for Climate Justice organized the petition.",
+    "description": "More than 60 Coinbase employees chose to leave the company, opting for a severance package, to protest CEO Brian Armstrong's assertion that employees should not participate in social activism in the workplace. This represents roughly 5% of the company's employees. This event follows several months of internal activism within the company after management failed to make a public statement on the Black Lives Matter movement.",
     "online": true,
     "locations": [
-        "usa"
+        "san francisco-california-usa"
     ],
     "companies": [
-        "amazon"
+        "coinbase"
     ],
-    "workers": 6400,
+    "workers": 60,
     "tags": [
-        "politics"
+        "antiracism",
+        "blm"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            47.6142939,
-            -122.3239636
-        ]
-    ],
-    "addresses": [
-        "Amazon Go Grocery, 610, East Pike Street, First Hill, Seattle, King County, Washington, 98122, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

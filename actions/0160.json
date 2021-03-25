@@ -1,44 +1,43 @@
 {
-    "id": 149,
-    "date": "2019/06/24",
+    "id": 148,
+    "date": "2019/06/19",
     "sources": [
-        "https://onezero.medium.com/a-group-of-microsoft-employees-is-fighting-the-companys-political-action-committee-7dae732290e3",
-        "https://politics.slashdot.org/story/19/06/24/1835230/a-group-of-microsoft-employees-is-fighting-the-companys-political-action-committee",
-        "https://www.geekwire.com/2019/internal-email-microsoft-suspends-pac-donations-temporarily-following-employee-uproar"
+        "https://www.vox.com/recode/2019/6/19/18691870/google-employees-activists-protest-alphabet-shareholder-meeting"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
-        "ethics",
-        "discrimination"
+        "discrimination",
+        "ethics"
     ],
     "employment_types": [
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "A group of more than 30 Microsoft employees is lobbying coworkers to stop donating to the company's political action committee in an effort to starve the PAC of funds. While Microsoft pitches itself as an inclusive and progressive company\u200a\u2014\u200aespecially during Pride Month, with tweets and donations to LGBTQ+ causes\u200a\u2014\u200aemployees who have donated to the PAC say they have no control over which candidates are being supported, meaning that they have no say when the PAC financially supports bigoted candidates. On July 2019, Microsoft has temporarily halted political donations through its political action committee after facing this backlash from employees.",
+    "description": "Google employees protest at Alphabet's shareholder meeting, joining community activists in demanding change from Google on how it handles sexual harassment in the workplace and its plans to build a censored search engine for China. Around 100 Google employees and community activists also protested as a united group outside Alphabet headquarters during the meeting. Google employees; labor and activist coalition Silicon Valley Rising; SEIU-USWW (a union representing janitorial staff and security officers); and local community groups helped organize the rally outside the meeting.",
     "online": null,
     "locations": [
-        "seattle-washington-usa"
+        "sunnyvale-california-usa"
     ],
     "companies": [
-        "microsoft"
+        "google"
     ],
-    "workers": 30,
+    "workers": 100,
     "tags": [
-        "lgbtq"
+        "coworker_solidarity",
+        "sexism"
     ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            47.5388725,
-            -122.2901728
+            37.406317,
+            -122.02122171852054
         ]
     ],
     "addresses": [
-        "Microsoft Gathering Hall, 7054, 32nd Avenue South, Holly Park, Rainier Valley, Seattle, King County, Washington, 98118, United States"
+        "Google MP7, Borregas Avenue, Sunnyvale, Santa Clara County, California, 94089, United States"
     ]
 }

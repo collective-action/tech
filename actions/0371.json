@@ -1,0 +1,44 @@
+{
+    "id": 401,
+    "date": "2021/01/29",
+    "sources": [
+        "https://www.reuters.com/article/us-alphabet-resignations/two-google-engineers-resign-over-firing-of-ai-ethics-researcher-timnit-gebru-idUSKBN2A4090"
+    ],
+    "actions": [
+        "open letter",
+        "protest"
+    ],
+    "struggles": [
+        "ethics",
+        "discrimination"
+    ],
+    "employment_types": [
+        "white collar workers",
+        "inhouse workers"
+    ],
+    "description": "Two Google engineers (engineering director David Baker plus a software developer Vinesh Kannan) have both quit in reaction to Timnit Gebru, an AI ethics researcher, being fired at Google. Gebru's firing has resulted in Google workers questioning the ethics and diversity of Google. ",
+    "online": null,
+    "locations": [
+        "usa"
+    ],
+    "companies": [
+        "google"
+    ],
+    "workers": 2,
+    "tags": [
+        "coworker solidarity",
+        "ai"
+    ],
+    "author": [
+        "hyatt d."
+    ],
+    "latlngs": [
+        [
+            42.3627717,
+            -71.087257
+        ]
+    ],
+    "addresses": [
+        "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States"
+    ]
+}

@@ -1,32 +1,31 @@
 {
-    "id": 329,
-    "date": "2020/09/16",
+    "id": 326,
+    "date": "2020/09/08",
     "sources": [
-        "https://www.deccanchronicle.com/amp/nation/current-affairs/160920/swiggy-workers-go-on-strike-in-hyderabad-demand-revised-charges.html",
-        "https://www.newsclick.in/swiggy-employees-strike"
+        "https://www.vice.com/en/article/g5p9nb/employees-of-social-change-nonprofit-stage-walkout-to-protest-racial-abuse"
     ],
     "actions": [
-        "strike"
+        "protest",
+        "strike",
+        "open letter"
     ],
     "struggles": [
-        "pay and benefits"
+        "discrimination"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Workers for delivery company Swiggy went on strike in a number of Indian cities including Hyderabad, Chennai, and Delhi to call for greater pay. They rallied outside of restaurants and prevented third-party companies from picking up orders.",
-    "online": null,
-    "locations": [
-        "hyderabad-india",
-        "chennai-india",
-        "delhi-india"
-    ],
+    "description": "24 employees of tech non-profit Do Something walked off the job, calling for the resignation of current CEO Aria Finger. They have also sent two direct letters to the CEO and Board of Directors that have been shared on Twitter. Former employees shared experiences of racial discrimination and harassment via social media earlier this year. The letter states that Finger reacted to these posts by calling them untrue or \"standard-issued American forms of microaggression and racism\". Finger returned in August after a legal investigation did not find evidence of discrimination under her tenure. ",
+    "online": true,
+    "locations": null,
     "companies": [
-        "swiggy"
+        "do something"
     ],
-    "workers": 3000,
+    "workers": 24,
     "tags": [
-        "delivery_workers"
+        "antiracism",
+        "blm"
     ],
     "author": [
         "nataliyaned"

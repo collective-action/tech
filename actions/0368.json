@@ -1,0 +1,54 @@
+{
+    "id": 394,
+    "date": "2021/01/12",
+    "sources": [
+        "https://www.washingtonpost.com/technology/2021/01/12/prop22-uber-lawsuit/"
+    ],
+    "actions": [
+        "legal action"
+    ],
+    "struggles": [
+        "unfair labor practices"
+    ],
+    "employment_types": [
+        "gig workers"
+    ],
+    "description": "The SEIU, along with a number of individual rideshare drivers, filed a lawsuit with the California Supreme Court seeking to overturn Proposition 22, which ruled that gig workers are independent contractors in the state. They argue that the law is unconstitutional and violates the right of state legislators; they also argue that Proposition 22 violated a rule that limits ballot measures to a single subject to prevent voter confusion.",
+    "online": null,
+    "locations": [
+        "california-usa"
+    ],
+    "companies": [
+        "uber",
+        "lyft",
+        "doordash"
+    ],
+    "workers": null,
+    "tags": [
+        "drivers",
+        "seiu",
+        "climate change"
+    ],
+    "author": [
+        "nataliyaned"
+    ],
+    "latlngs": [
+        [
+            37.7756962,
+            -122.4180838
+        ],
+        [
+            37.750721999999996,
+            -122.40243254779433
+        ],
+        [
+            37.7834546,
+            -122.4080358
+        ]
+    ],
+    "addresses": [
+        "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, California, 94103, United States",
+        "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States",
+        "Doordash HQ, 901, Market Street, Union Square, San Francisco, San Francisco City and County, California, 94103-3124, United States"
+    ]
+}

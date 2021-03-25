@@ -1,0 +1,43 @@
+{
+    "id": 390,
+    "date": "2021/01/09",
+    "sources": [
+        "https://www.buzzfeednews.com/article/johnpaczkowski/amazon-parler-aws",
+        "https://twitter.com/AMZNforClimate/status/1347799256883552259?s=19"
+    ],
+    "actions": [
+        "protest"
+    ],
+    "struggles": [
+        "ethics"
+    ],
+    "employment_types": [
+        "white collar workers",
+        "inhouse workers"
+    ],
+    "description": "Amazon suspends hosting for Parler, a social network app cited for facilitating the pro-Trump storming of the Capitol, after Amazon employees send internal messages to AWS management and participate in various online actions, including a coworker.org petition.",
+    "online": true,
+    "locations": [
+        "usa"
+    ],
+    "companies": [
+        "amazon"
+    ],
+    "workers": null,
+    "tags": [
+        "trump",
+        "politics"
+    ],
+    "author": [
+        "organizejs"
+    ],
+    "latlngs": [
+        [
+            47.6142939,
+            -122.3239636
+        ]
+    ],
+    "addresses": [
+        "Amazon Go Grocery, 610, East Pike Street, First Hill, Seattle, King County, Washington, 98122, United States"
+    ]
+}

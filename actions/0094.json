@@ -1,43 +1,38 @@
 {
-    "id": 85,
-    "date": "2018/05/30",
+    "id": 84,
+    "date": "2018/05/15",
     "sources": [
-        "https://jacobinmag.com/2018/06/google-project-maven-military-tech-workers",
-        "https://www.nytimes.com/2018/05/30/technology/google-project-maven-pentagon.html",
-        "https://www.coworker.org/petition/tech-should-not-be-in-the-business-of-war"
+        "https://www.gofundme.com/all-out-for-pablito"
     ],
     "actions": [
-        "open letter"
+        "protest"
     ],
     "struggles": [
         "ethics"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "Google employees have led a campaign demanding that the companies terminate its contract with the Pentagon for Project Maven, a program that uses machine learning to improve targeting for drone strikes. Nearly five thousand Google workers signed an internal petition to cancel the project, and dozens resigned.",
-    "online": true,
+    "description": "Fellow gig workers have banded together through a GoFundMe fundraiser to cover the immediate funeral costs of a delivery worker for Caviar who was killed on the job, while demanding that the company ultimately cover the amount. More than $19,000 has been raised. Referenced on page 142 of Ghost Work (Mary Gray and Siddarth Suri)",
+    "online": null,
     "locations": [
         "usa"
     ],
     "companies": [
-        "google"
+        "caviar"
     ],
-    "workers": 5000,
-    "tags": [
-        "military_contracts"
-    ],
+    "workers": 373,
+    "tags": null,
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            42.3627717,
-            -71.087257
+            65.4102317,
+            -163.0526448
         ]
     ],
     "addresses": [
-        "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States"
+        "Caviar Creek, Nome, Alaska, United States"
     ]
 }

@@ -1,12 +1,13 @@
 {
-    "id": 133,
-    "date": "2019/04/25",
+    "id": 132,
+    "date": "2019/04/22",
     "sources": [
-        "https://technode.com/2019/04/25/996-protesters-organize-performance-art-prank-against-jack-ma/",
-        "https://www.nytimes.com/2019/04/29/technology/china-996-jack-ma.html"
+        "https://www.bloomberg.com/news/articles/2019-04-22/microsoft-workers-criticize-block-of-github-protest-in-china",
+        "https://www.buzzfeednews.com/article/carolineodonovan/microsoft-petition-996-icu-workweek-china",
+        "https://gizmodo.com/microsoft-and-github-workers-take-a-stand-against-gruel-1834210579"
     ],
     "actions": [
-        "protest"
+        "open letter"
     ],
     "struggles": [
         "working conditions",
@@ -16,26 +17,36 @@
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "A GitHub user called on those who condemn 996 to respond to Jack Ma's endorsement of the widely criticized work schedule by sending an official copy of China's labor law on May 4 to the Alibaba headquarters. Ma, founder of Alibaba and the richest man in China, dismissed outcry on social media over the grueling working hours in China's tech industry in a blog post on April 12. 'To be able to work 996 is a huge blessing,' he said. The GitHub post estimates 1,000 participants will participate.",
-    "online": null,
+    "description": "Microsoft and GitHub workers have published an open letter of solidarity with the 996 movement on GitHub at https://github.com/MSWorkers/support.996.ICU, and have called on Microsoft to resist all pressure from the Chinese government to block or censor the 996 repo.",
+    "online": true,
     "locations": [
-        "china"
+        "worldwide",
+        "usa"
     ],
     "companies": [
-        "alibaba"
+        "microsoft",
+        "github"
     ],
-    "workers": 1000,
-    "tags": null,
+    "workers": 450,
+    "tags": [
+        "international_solidarity",
+        "industry_solidarity"
+    ],
     "author": [
-        "organizejs"
+        "bentarnoff"
     ],
     "latlngs": [
         [
-            31.2969721,
-            121.1624993
+            35.139622349999996,
+            -80.92306993327955
+        ],
+        [
+            37.7821769,
+            -122.3912458
         ]
     ],
     "addresses": [
-        "Alibaba, \u660c\u5409\u8def, \u5b89\u4ead\u9547, \u5609\u5b9a\u533a, 215332, \u4e2d\u56fd"
+        "Microsoft, Ayrsley, Charlotte, Mecklenburg County, North Carolina, United States",
+        "GitHub, 88, Colin P. Kelly Junior Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States"
     ]
 }

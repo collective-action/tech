@@ -1,41 +1,40 @@
 {
-    "id": 362,
-    "date": "2020/11/24",
+    "id": 402,
+    "date": "2020/11/07",
     "sources": [
-        "https://www.bloomberg.com/news/articles/2020-12-16/amazon-warehouse-union-vote-is-greenlighted-by-federal-regulator",
-        "https://www.huffpost.com/entry/amazon-warehouse-workers-file-for-union-election-in-alabama_n_5fbd1f0cc5b63d1b7706d817",
-        "https://www.businessinsider.com/amazon-workers-vote-on-union-2021-1"
+        "https://clb.org.hk/content/all-india-gig-workers-union-case-study"
     ],
     "actions": [
         "union drive"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "pay and benefits"
     ],
     "employment_types": [
-        "blue collar workers"
+        "gig workers"
     ],
-    "description": "Amazon warehouse workers in Alabama filed a petition to hold a union election. If successful, this would be the first Amazon Union for warehouse workers in the U.S. Workers from the warehouse in Bessemer, Alabama, outside Birmingham, filed the petition with the NLRB seeking to be represented by the Retail, Wholesale and Department Store Union, or RWDSU. Amazon employs more than 1,500 workers at the facility, which just opened earlier this year. UPDATE: The petition was successful, and workers are expected to receive their mail-in ballots on February 8th with ballot counting set to begin on March 30th. ",
+    "description": "The All India Gig Workers Union (AIGWU) which, was initiated by the Center of India Trade Union (CITU) is attempting to become a registered as an All-India Union. Their main focus of their goal is to help delivery drivers through organization and so that they can initiate platform and political change for better wages and working conditions. ",
     "online": null,
     "locations": [
-        "bessemer-alabama-usa"
+        "india"
     ],
-    "companies": [
-        "amazon"
-    ],
+    "companies": null,
     "workers": null,
-    "tags": null,
+    "tags": [
+        "drivers",
+        "industry solidarity",
+        "politics"
+    ],
     "author": [
-        "organizejs"
+        "hyatt d."
     ],
     "latlngs": [
         [
-            33.377165649999995,
-            -87.00551025009236
+            22.3511148,
+            78.6677428
         ]
     ],
     "addresses": [
-        "Amazon Fulfillment Center - BHM1, 975, Powder Plant Road, McAdory, Bessemer, Jefferson County, Alabama, 35022, United States"
+        "India"
     ]
 }

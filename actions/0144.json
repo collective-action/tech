@@ -1,42 +1,41 @@
 {
-    "id": 134,
-    "date": "2019/04/26",
+    "id": 133,
+    "date": "2019/04/25",
     "sources": [
-        "https://www.wired.com/story/dispute-googles-alleged-retaliation-intensifies/",
-        "https://www.bloomberg.com/news/articles/2019-04-26/google-staffers-share-350-stories-of-systemic-retaliation"
+        "https://technode.com/2019/04/25/996-protesters-organize-performance-art-prank-against-jack-ma/",
+        "https://www.nytimes.com/2019/04/29/technology/china-996-jack-ma.html"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
-        "working conditions"
+        "working conditions",
+        "unfair labor practices"
     ],
     "employment_types": [
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "Meredith Whittaker and Claire Stapleton held a town hall for Google workers to discuss the retaliation they have faced from management for engaging in organizing, and to share more than a dozen other stories of retaliation they have gathered. The meeting was held in New York but live-streamed to Google offices elsewhere. This action involved hundreds of workers.",
+    "description": "A GitHub user called on those who condemn 996 to respond to Jack Ma's endorsement of the widely criticized work schedule by sending an official copy of China's labor law on May 4 to the Alibaba headquarters. Ma, founder of Alibaba and the richest man in China, dismissed outcry on social media over the grueling working hours in China's tech industry in a blog post on April 12. 'To be able to work 996 is a huge blessing,' he said. The GitHub post estimates 1,000 participants will participate.",
     "online": null,
     "locations": [
-        "new york city-new york-usa"
+        "china"
     ],
     "companies": [
-        "google"
+        "alibaba"
     ],
-    "workers": 200,
-    "tags": [
-        "retaliation"
-    ],
+    "workers": 1000,
+    "tags": null,
     "author": [
-        "bentarnoff"
+        "organizejs"
     ],
     "latlngs": [
         [
-            40.7417176,
-            -74.0041592
+            31.2969721,
+            121.1624993
         ]
     ],
     "addresses": [
-        "Google, 111, 8th Avenue, Chelsea, Manhattan Community Board 4, Manhattan, New York County, New York, 10011, United States"
+        "Alibaba, \u660c\u5409\u8def, \u5b89\u4ead\u9547, \u5609\u5b9a\u533a, 215332, \u4e2d\u56fd"
     ]
 }

@@ -1,40 +1,35 @@
 {
-    "id": 371,
-    "date": "2020/12/17",
+    "id": 367,
+    "date": "2020/12/11",
     "sources": [
-        "https://berlinvsamazon.com/2020/12/menschen-vor-profite-solidaritat-mit-den-von-covid-betroffenen-arbeiterinnen-in-amazon-zentren-17-12-2020/"
+        "https://www.vice.com/amp/en/article/3anva3/three-of-spotifys-podcast-unions-stop-working-to-demand-better-workplace-conditions"
     ],
     "actions": [
-        "protest"
+        "strike"
     ],
     "struggles": [
-        "working conditions"
+        "pay and benefits",
+        "working conditions",
+        "unfair labor practices",
+        "discrimination"
     ],
     "employment_types": [
-        "blue collar workers"
+        "white collar workers"
     ],
-    "description": "Activists from various initiatives, including initiatives against the Amazon Tower, Mietenwahnsinnb\u00fcndnis, #200H\u00e4user spontaneously demonstrated in front of the construction site of the \u201cAmazon East Side Edge Tower\u201d at Warschauer Br\u00fccke. The protests are directed at Amazon's handling of the pandemic in several German Amazon centers. The company is responsible for the increase in infections and illnesses among workers and is allowing the Christmas shopping season to continue. ",
-    "online": null,
-    "locations": [
-        "berlin-germany"
-    ],
+    "description": "Three unions at Spotify kicked off a two hour work stoppage in solidarity with their collective struggles for fairer contracts and better workplace conditions. The union at Gimlet, a major podcast publisher that was bought by Spotify last year for $230 million, is joining unions at The Ringer and Parcast\u2014all properties owned by Spotify\u2014in the work stoppage. The union's demands have included a contract with guaranteed raises, clear guidelines surrounding promotions, the right to profit from intellectual property they help create, a greater emphasis on diversity, and pay equity across the board. The work stoppage was streamed on Twitch for a little over an hour, with organizing members from all three groups outlining in detail their demands. ",
+    "online": true,
+    "locations": null,
     "companies": [
-        "amazon"
+        "the ringer",
+        "spotify",
+        "gimlet media",
+        "parcast"
     ],
     "workers": null,
-    "tags": [
-        "coronavirus"
-    ],
+    "tags": null,
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            52.6108443,
-            13.2147318
-        ]
-    ],
-    "addresses": [
-        "Amazon, 8, Alt-Heiligensee, Heiligensee, Reinickendorf, Berlin, 13503, Deutschland"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

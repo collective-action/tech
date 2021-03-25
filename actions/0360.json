@@ -1,59 +1,41 @@
 {
-    "id": 392,
-    "date": "2021/01/07",
+    "id": 373,
+    "date": "2020/12/21",
     "sources": [
-        "https://www.theverge.com/2021/1/8/22220778/alphabet-workers-union-demands-youtube-ban-trump",
-        "https://www.businessinsider.com/google-union-critcises-youtube-for-not-suspending-donald-trump-account-2021-1",
-        "https://twitter.com/AlphabetWorkers/status/1347331587315171330",
-        "https://www.theguardian.com/us-news/2021/jan/26/youtube-trump-ban-suspension"
+        "https://www.rfa.org/english/news/china/workers-12212020111240.html"
     ],
     "actions": [
-        "open letter"
+        "protest",
+        "strike"
     ],
     "struggles": [
-        "ethics"
+        "job security"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers",
-        "contract workers"
+        "contract workers",
+        "blue collar workers"
     ],
-    "description": "The Alphabet Workers Union published an open letter on Twitter calling on YouTube to remove Donald Trump from its website, stating that he repeatedly violated the platform's rules. Earlier in the week YouTube took down one video from Trump where he made unsubstantiated claims of election fraud. UPDATE: On January 12th, YouTube announced that it would suspend Donald Trump's account indefinitely. The account remains online but is not allowed to post new videos.",
-    "online": true,
+    "description": "Shanghai factory workers at the Apple supplier Pegatron turned out to protest a pay dispute with management at the weekend. Thousands of temporary workers gathered outside the Taiwanese-invested Pegatron facility in Shanghai, as authorities dispatched large numbers of police to block their entrance to the facility, sparking clashes. The protest came after Pegatron tried to transfer thousands of workers from its Shanghai factory to another facility at Kunshan in the eastern province of Jiangsu. Those who refused the transfer would be fired, and workers fired for refusing the offer wouldn't be eligible for their share of finders' fee commission usually shared between recruitment agencies and workers.",
+    "online": null,
     "locations": [
-        "usa"
+        "shanghai-china"
     ],
     "companies": [
-        "alphabet",
-        "google",
-        "youtube"
+        "pegatron",
+        "apple"
     ],
-    "workers": 401,
-    "tags": [
-        "trump",
-        "politics",
-        "industry solidarity"
-    ],
+    "workers": 1000,
+    "tags": null,
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
     "latlngs": [
         [
-            37.3398646,
-            -121.8844823
-        ],
-        [
-            42.3627717,
-            -71.087257
-        ],
-        [
-            37.62814305,
-            -122.42521678541321
+            31.2350886,
+            121.4754904
         ]
     ],
     "addresses": [
-        "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112-3580, United States",
-        "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States",
-        "YouTube, 900, Cherry Avenue, YouTube, San Bruno, San Mateo County, California, 94066, United States"
+        "Apple Store, \u798f\u5dde\u8def, \u5357\u4eac\u4e1c\u8def\u8857\u9053, \u4e0a\u6d77\u5e02, \u9ec4\u6d66\u533a, 200085, \u4e2d\u56fd"
     ]
 }

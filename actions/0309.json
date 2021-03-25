@@ -1,68 +1,39 @@
 {
-    "id": 308,
+    "id": 304,
     "date": "2020/07/20",
     "sources": [
-        "https://www.vice.com/en_us/article/qj4zxx/amazon-google-and-lyft-workers-tell-us-why-theyre-striking-for-black-lives-matter",
-        "https://www.washingtonpost.com/business/2020/07/20/strike-for-black-lives/"
+        "https://syndicom.ch/aktuell/artikel/bei-google-zuerich-bestimmen-die-zooglers-nun-mit/"
     ],
     "actions": [
-        "protest",
-        "strike"
+        "union representation"
     ],
     "struggles": [
-        "ethics",
-        "discrimination"
+        "working conditions"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Amazon, Google, Uber, Lyft, and Postmates workers were reportedly among the \"tens of thousands\" of employees across the U.S. that took part in a protest of the country's long-standing systemic racism. Those that were unable to leave their jobs were encouraged to take an 8 minute, 46 second break (the amount of time a police officer knelt on George Floyd's neck) or to bend a knee in solidarity (a reference to protests by the NFL). The Washington Post reports that demonstrations took place in over 200 cities.",
+    "description": "Employees at Google's Zurich office voted to recognize the Syndicom union as their employee representative. Employees first reached out to Syndicom after management failed to address their concerns over \"Project Dragonfly\", a search engine that would enable the Chinese government to censor certain results. Employee representatives function as consultants and do not engage in collective bargaining. ",
     "online": null,
     "locations": [
-        "usa"
+        "zurich-switzerland"
     ],
     "companies": [
-        "amazon",
-        "google",
-        "uber",
-        "lyft",
-        "postmates"
+        "google"
     ],
     "workers": null,
-    "tags": [
-        "blm",
-        "antiracism"
-    ],
+    "tags": null,
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            47.6142939,
-            -122.3239636
-        ],
-        [
-            42.3627717,
-            -71.087257
-        ],
-        [
-            37.76863735,
-            -122.38842844055829
-        ],
-        [
-            37.750721999999996,
-            -122.40243254779433
-        ],
-        [
-            37.7753423,
-            -122.39763106771915
+            47.3793085,
+            8.5307904
         ]
     ],
     "addresses": [
-        "Amazon Go Grocery, 610, East Pike Street, First Hill, Seattle, King County, Washington, 98122, United States",
-        "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States",
-        "Uber, 1655, 3rd Street, Mission Bay, San Francisco, San Francisco City and County, California, 94158, United States",
-        "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States",
-        "UserTesting, 690, 5th Street, South of Market, San Francisco, San Francisco City and County, California, 94017, United States"
+        "Google, 1, Gustav-Gull-Platz, Langstrasse, Aussersihl, Z\u00fcrich, Bezirk Z\u00fcrich, Z\u00fcrich, 8021, Schweiz/Suisse/Svizzera/Svizra"
     ]
 }

@@ -1,45 +1,42 @@
 {
-    "id": 376,
-    "date": "2020/07/21",
+    "id": 399,
+    "date": "2020/07/20",
     "sources": [
-        "https://www.igmetall-berlin.de/aktuelles/meldung/das-war-goldrichtig-warum-software-ingenieure-das-leben-mit-tarifvertrag-und-ig-metall-schoener-f/"
+        "https://www.vice.com/en/article/v7gyp4/uber-drivers-sue-to-gain-access-to-its-secret-algorithms",
+        "https://declinenow.org/open-letter-to-doordash/?v=47e5dceea252"
     ],
     "actions": [
-        "union representation"
+        "legal action"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "unfair labor practices",
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers"
+        "gig workers"
     ],
-    "description": "In 2019 employees of Bosch.io (subsidary of Bosch) formed a Works Council (Betriebsrat). In 2020 they formed their first Collective Bargaining Agreement, and Bosch.IO will join employer association. The CBA (Tarifvertrag) including provisions related to short time work (Kurzarbeit), home office usage during the coronavirus pandemic. An interview with several elected Works Councilors is included in German. ",
+    "description": "In the United Kingdom, four Uber drivers have filed a lawsuit to gain access to Uber's algorithms. The drivers along with The UK App Drivers and Couriers Union argue that under Europe's General Data Protection Regulation they should have access to the data that Uber collects on their drivers. If given access to this data, drivers on the platform will be able to calculate an hourly wage as well as understand why they have been deactivated using trip ratings. ",
     "online": null,
     "locations": [
-        "germany"
+        "uk"
     ],
     "companies": [
-        "bosch",
-        "bosch.io"
+        "uber"
     ],
-    "workers": 700,
-    "tags": null,
+    "workers": 4,
+    "tags": [
+        "drivers"
+    ],
     "author": [
-        "@shushugah"
+        "hyatt d."
     ],
     "latlngs": [
         [
-            49.078094500000006,
-            9.304616994654571
-        ],
-        [
-            47.68201895,
-            9.3864579
+            52.4746766,
+            -1.91586332385543
         ]
     ],
     "addresses": [
-        "Bosch, Hohbuch, Happenbach, Abstatt, Verwaltungsverband Schozach-Bottwartal, Landkreis Heilbronn, Baden-W\u00fcrttemberg, 74232, Deutschland",
-        "Bosch.IO, 7, Ziegelei, Alte Ziegelei / Steigwiesen, Immenstaad am Bodensee, Verwaltungsgemeinschaft Friedrichshafen, Bodenseekreis, Baden-W\u00fcrttemberg, 88090, Deutschland"
+        "UBER, 100, Broad Street, Ladywood, Park Central, Birmingham, West Midlands Combined Authority, West Midlands, England, B15 1AE, United Kingdom"
     ]
 }

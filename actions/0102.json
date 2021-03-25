@@ -1,42 +1,41 @@
 {
-    "id": 93,
-    "date": "2018/07/03",
+    "id": 92,
+    "date": "2018/06/25",
     "sources": [
-        "https://www.capitalfm.co.ke/business/2018/07/uber-little-taxify-drivers-strike-demanding-better-rates/",
-        "https://qz.com/africa/1327568/uber-taxify-little-cab-kenya-drivers-end-strike/",
-        "http://www.africanews.com/2018/07/03/uber-taxify-drivers-in-kenya-protest-against-working-long-hours-for-little-money/"
+        "https://www.bloomberg.com/news/articles/2018-06-25/salesforce-employees-ask-ceo-to-revisit-ties-with-border-agency"
     ],
     "actions": [
-        "strike"
+        "open letter"
     ],
     "struggles": [
-        "working conditions",
-        "pay and benefits"
+        "ethics"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "A section of drivers from five taxi hailing companies including Uber and Taxify (now known as Bolt) took part in the industrial strike which started in early July 2018. The drivers through their association, Digital Taxi Forum want Uber and Co to double their rates and reduce their commissions so they can earn decent wages. The strike lasted 9 days, ending after Uber signed an agreement to ensure better pricing for drivers and improve welfare on the job.",
-    "online": null,
+    "description": "Hundreds of Salesforce.com Inc. employees signed a letter to Chief Executive Officer Marc Benioff criticizing the companies's contracts with the U.S. Customs and Border Protection agency.",
+    "online": true,
     "locations": [
-        "nairobi-kenya"
+        "usa"
     ],
     "companies": [
-        "uber",
-        "bolt"
+        "salesforce"
     ],
-    "workers": 30,
-    "tags": null,
+    "workers": 650,
+    "tags": [
+        "cbp"
+    ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            7.2077919,
-            38.613507
+            45.5328206,
+            -122.9032132
         ]
     ],
     "addresses": [
-        "Bolt, Addis Ababa to Nairobi road, Melka Uda, \u123b\u1238\u1218\u1294 / Shashamane, East Shewa, \u12a6\u122e\u121a\u12eb \u12ad\u120d\u120d / Oromia, \u12a2\u1275\u12ee\u1335\u12eb"
+        "Salesforce, 2035, Northeast Cornelius Pass Road, Amberglen, Hillsboro, Metro, Oregon, 97124, United States"
     ]
 }

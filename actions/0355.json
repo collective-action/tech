@@ -1,32 +1,28 @@
 {
-    "id": 366,
-    "date": "2020/12/17",
+    "id": 372,
+    "date": "2020/12/07",
     "sources": [
-        "https://www.npr.org/2020/12/17/947413170/google-ai-team-demands-ousted-black-researcher-be-rehired-and-promoted",
-        "https://www.cnbc.com/2020/12/17/googles-ai-ethics-team-makes-demands-of-executives-to-rebuild-trust.html"
+        "https://www.nlrb.gov/case/13-CA-269890"
     ],
     "actions": [
-        "open letter"
+        "legal action"
     ],
     "struggles": [
-        "ethics",
-        "discrimination"
+        "unfair labor practices"
     ],
     "employment_types": [
         "white collar workers"
     ],
-    "description": "Two weeks after Dr Timnit Gebru was fired from her role in Google, Google\u2019s Ethical AI employees sent CEO Sundar Pichai a list of demands, including organizational changes and a request to reinstate dismissed researcher Timnit Gebru at a higher level.",
-    "online": true,
-    "locations": null,
+    "description": "The tech firm Civis Analysis, which came out of Obama's 2012 campaign and is backed by Eric Schmidt, has been hit with an unfair labor practice charge for illegally firing workers in retaliation for organizing. ",
+    "online": null,
+    "locations": [
+        "chicago-illinois-usa"
+    ],
     "companies": [
-        "google"
+        "civis analytics"
     ],
     "workers": null,
     "tags": [
-        "coworker solidarity",
-        "antiracism",
-        "ai",
-        "sexism",
         "retaliation"
     ],
     "author": [

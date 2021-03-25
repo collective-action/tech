@@ -1,8 +1,8 @@
 {
-    "id": 87,
+    "id": 86,
     "date": "2018/06/04",
     "sources": [
-        "https://clb.org.hk/content/didi-drivers-china-protest-pay-cuts-and-restrictive-work-practices"
+        "https://clb.org.hk/content/food-delivery-workers-china-strike-over-pay-cuts-and-unfair-work-practices"
     ],
     "actions": [
         "strike"
@@ -13,16 +13,15 @@
     "employment_types": [
         "gig workers"
     ],
-    "description": "Hundreds of Didi drivers in the central city of Shaodong, Hunan, went on strike on 4 June in protest at a policy change that made it more difficult for them to claim their bonus payments. Videos posted online showed a long line of cars with drivers staging a protest on the side of the road. Drivers stayed on strike for six days, which coincided with the National College Entrance Examination. Drivers posted statements asking for support and understanding and apologizing for any inconvenience caused.",
+    "description": "There have been at least 15 strikes and protests by food delivery workers in China since 1 May as increased competition among delivery platforms has drastically reduced workers' take-home pay. Workers contracted to food delivery giant Meituan in the northern city of Taiyuan staged a work stoppage in protest at a wide range of issues including pay levels, delivery times, insurance and high accident rates.",
     "online": null,
     "locations": [
-        "shaodong-china",
-        "hunan-china"
+        "taiyuan-china"
     ],
     "companies": [
-        "didi"
+        "meituan"
     ],
-    "workers": 100,
+    "workers": null,
     "tags": null,
     "author": [
         "organizejs"

@@ -1,46 +1,68 @@
 {
-    "id": 307,
-    "date": "2020/07/26",
+    "id": 308,
+    "date": "2020/07/20",
     "sources": [
-        "https://www.msn.com/en-us/news/us/boycott-continues-against-cambridge-whole-foods-that-sent-employees-home-for-black-lives-matter-masks/ar-BB16mPY2"
+        "https://www.vice.com/en_us/article/qj4zxx/amazon-google-and-lyft-workers-tell-us-why-theyre-striking-for-black-lives-matter",
+        "https://www.washingtonpost.com/business/2020/07/20/strike-for-black-lives/"
     ],
     "actions": [
         "protest",
         "strike"
     ],
     "struggles": [
-        "unfair labor practices",
         "ethics",
         "discrimination"
     ],
     "employment_types": [
-        "inhouse workers",
-        "blue collar workers"
+        "gig workers"
     ],
-    "description": "Whole Foods employees and local residents protested in front of a Cambridge location that turned away seven employees on June 25th for wearing masks with \"Black Lives Matter\" slogans. The event is part of a larger boycott that has been ongoing since the incident. Suverino Frith, one of the seven employees, spoke at the event and called on the company to live up to their \"core values\". ",
+    "description": "Amazon, Google, Uber, Lyft, and Postmates workers were reportedly among the \"tens of thousands\" of employees across the U.S. that took part in a protest of the country's long-standing systemic racism. Those that were unable to leave their jobs were encouraged to take an 8 minute, 46 second break (the amount of time a police officer knelt on George Floyd's neck) or to bend a knee in solidarity (a reference to protests by the NFL). The Washington Post reports that demonstrations took place in over 200 cities.",
     "online": null,
     "locations": [
-        "cambridge-massachusetts-usa"
+        "usa"
     ],
     "companies": [
-        "whole_foods",
-        "amazon"
+        "amazon",
+        "google",
+        "uber",
+        "lyft",
+        "postmates"
     ],
     "workers": null,
     "tags": [
-        "antiracism",
-        "blm"
+        "blm",
+        "antiracism"
     ],
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            42.3651852,
-            -71.1042178
+            47.6142939,
+            -122.3239636
+        ],
+        [
+            42.3627717,
+            -71.087257
+        ],
+        [
+            37.76863735,
+            -122.38842844055829
+        ],
+        [
+            37.750721999999996,
+            -122.40243254779433
+        ],
+        [
+            37.7753423,
+            -122.39763106771915
         ]
     ],
     "addresses": [
-        "Amazon Pickup, 1, Magazine Street, Central Square, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02139, United States"
+        "Amazon Go Grocery, 610, East Pike Street, First Hill, Seattle, King County, Washington, 98122, United States",
+        "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States",
+        "Uber, 1655, 3rd Street, Mission Bay, San Francisco, San Francisco City and County, California, 94158, United States",
+        "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States",
+        "UserTesting, 690, 5th Street, South of Market, San Francisco, San Francisco City and County, California, 94017, United States"
     ]
 }

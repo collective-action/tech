@@ -1,38 +1,44 @@
 {
-    "id": 351,
-    "date": "2020/10/22",
+    "id": 344,
+    "date": "2020/10/17",
     "sources": [
-        "https://www.washingtonpost.com/technology/2020/10/22/uber-prop22-suit/"
+        "https://techcrunch.com/2020/09/29/shipt-shoppers-are-organizing-a-walkout-in-protest-of-new-pay-model/\nhttps://news.trust.org/item/20201016131049-xq8h3\nhttps://thehill.com/policy/technology/521290-shipt-workers-organize-most-targeted-protest-yet-over-new-pay-model"
     ],
     "actions": [
-        "legal action"
+        "strike",
+        "protest"
     ],
     "struggles": [
-        "ethics"
+        "pay and benefits"
     ],
     "employment_types": [
+        "blue collar workers",
+        "contract workers",
         "gig workers"
     ],
-    "description": "A group of California Uber drivers sued the company for asking drivers to support Prop. 22 (a state proposition that would overrule attempts to classify gig workers as employees) through in-app messaging. The suit seeks an injunction that would stop the messages. The plaintiffs were active in the movement against Prop. 22. They claimed that the company's message that 72% of its drivers support Prop. 22 was false because that percentage was the result of company pressures (including workers' concerns that the company was surveilling their survey answers on the app). ",
+    "description": "Shipt shoppers are organizing a handful of actions in protest of Shipt\u2019s new pay structure that began rolling out this month.  The first action is happening from Saturday, Oct. 17 through Oct. 19, when workers are calling on their fellow Shipt shoppers to walk out and boycott the company. Organizers are asking for shoppers not to schedule any hours or accept any orders during that time.",
     "online": null,
     "locations": [
-        "san francisco-california-usa"
+        "usa"
     ],
     "companies": [
-        "uber"
+        "target",
+        "shipt"
     ],
     "workers": null,
-    "tags": null,
+    "tags": [
+        "delivery_workers"
+    ],
     "author": [
-        "nataliyaned"
+        "anonymous"
     ],
     "latlngs": [
         [
-            37.7756962,
-            -122.4180838
+            38.594073550000005,
+            -90.54739094340695
         ]
     ],
     "addresses": [
-        "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, California, 94103, United States"
+        "Target, 15025, Ballwin, Saint Louis County, Missouri, 63011, United States"
     ]
 }

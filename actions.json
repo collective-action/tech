@@ -3358,6 +3358,46 @@
         ]
     },
     {
+        "id": 408,
+        "date": "2018/01/14",
+        "sources": [
+            "https://indianexpress.com/article/cities/pune/indias-first-it-trade-union-registered-in-pune-aims-to-fight-illegal-layoffs-5023587/"
+        ],
+        "actions": [
+            "union representation"
+        ],
+        "struggles": [
+            "unfair labor practices",
+            "job security"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "One of FITE's (Forum of IT Employees) chapters, located in Pune, became the first registered trade union for IT industry. FITE helps IT employees through legal actions under the Industrial Disputes Act. The Pune chapter can now represent IT employees statewide. FITE also mobilizes to help IT workers and laid off employees utilize resources. ",
+        "online": true,
+        "locations": [
+            "pune-india"
+        ],
+        "companies": null,
+        "workers": null,
+        "tags": [
+            "it workers"
+        ],
+        "author": [
+            "hyatt d."
+        ],
+        "latlngs": [
+            [
+                18.521428,
+                73.8544541
+            ]
+        ],
+        "addresses": [
+            "Pune City, Pune District, Maharashtra, India"
+        ]
+    },
+    {
         "id": 75,
         "date": "2018/01/16",
         "sources": [
@@ -12438,6 +12478,48 @@
         ]
     },
     {
+        "id": 399,
+        "date": "2020/07/20",
+        "sources": [
+            "https://www.vice.com/en/article/v7gyp4/uber-drivers-sue-to-gain-access-to-its-secret-algorithms",
+            "https://declinenow.org/open-letter-to-doordash/?v=47e5dceea252"
+        ],
+        "actions": [
+            "legal action"
+        ],
+        "struggles": [
+            "unfair labor practices",
+            "pay and benefits"
+        ],
+        "employment_types": [
+            "gig workers"
+        ],
+        "description": "In the United Kingdom, four Uber drivers have filed a lawsuit to gain access to Uber's algorithms. The drivers along with The UK App Drivers and Couriers Union argue that under Europe's General Data Protection Regulation they should have access to the data that Uber collects on their drivers. If given access to this data, drivers on the platform will be able to calculate an hourly wage as well as understand why they have been deactivated using trip ratings. ",
+        "online": null,
+        "locations": [
+            "uk"
+        ],
+        "companies": [
+            "uber"
+        ],
+        "workers": 4,
+        "tags": [
+            "drivers"
+        ],
+        "author": [
+            "hyatt d."
+        ],
+        "latlngs": [
+            [
+                52.4746766,
+                -1.91586332385543
+            ]
+        ],
+        "addresses": [
+            "UBER, 100, Broad Street, Ladywood, Park Central, Birmingham, West Midlands Combined Authority, West Midlands, England, B15 1AE, United Kingdom"
+        ]
+    },
+    {
         "id": 308,
         "date": "2020/07/20",
         "sources": [
@@ -13941,6 +14023,46 @@
         ]
     },
     {
+        "id": 402,
+        "date": "2020/11/07",
+        "sources": [
+            "https://clb.org.hk/content/all-india-gig-workers-union-case-study"
+        ],
+        "actions": [
+            "union drive"
+        ],
+        "struggles": [
+            "pay and benefits"
+        ],
+        "employment_types": [
+            "gig workers"
+        ],
+        "description": "The All India Gig Workers Union (AIGWU) which, was initiated by the Center of India Trade Union (CITU) is attempting to become a registered as an All-India Union. Their main focus of their goal is to help delivery drivers through organization and so that they can initiate platform and political change for better wages and working conditions. ",
+        "online": null,
+        "locations": [
+            "india"
+        ],
+        "companies": null,
+        "workers": null,
+        "tags": [
+            "drivers",
+            "industry solidarity",
+            "politics"
+        ],
+        "author": [
+            "hyatt d."
+        ],
+        "latlngs": [
+            [
+                22.3511148,
+                78.6677428
+            ]
+        ],
+        "addresses": [
+            "India"
+        ]
+    },
+    {
         "id": 359,
         "date": "2020/11/17",
         "sources": [
@@ -14397,6 +14519,50 @@
         ]
     },
     {
+        "id": 403,
+        "date": "2020/12/22",
+        "sources": [
+            "https://csedsupportstimnit.medium.com/computer-science-needs-more-timnit-gebrus-csedsupportstimnit-believeblackwomen-9600d7fa22b6"
+        ],
+        "actions": [
+            "open letter"
+        ],
+        "struggles": [
+            "ethics",
+            "discrimination"
+        ],
+        "employment_types": [
+            "white collar workers"
+        ],
+        "description": "CS Ed Supports Timnit is an online movement started in response to Dr. Timnit Gebru's firing at Google. Gebru, \"a world renowned researcher on ethics and artificial intelligence\", lost her position after raising concerns about using data being used against marginalized groups of people. CS Ed Supports Timnit wrote an open letter asking for academics, researchers, program providers, and advocates for computer science students to stand in solidarity in with Timnit. They advocate to not stay neutral and address the inequalities across the tech industries. ",
+        "online": true,
+        "locations": [
+            "usa"
+        ],
+        "companies": [
+            "google"
+        ],
+        "workers": 195,
+        "tags": [
+            "industry solidarity",
+            "academics",
+            "antiracism",
+            "ai"
+        ],
+        "author": [
+            "hyatt d."
+        ],
+        "latlngs": [
+            [
+                42.3627717,
+                -71.087257
+            ]
+        ],
+        "addresses": [
+            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States"
+        ]
+    },
+    {
         "id": 395,
         "date": "2020/12/31",
         "sources": [
@@ -14745,6 +14911,126 @@
         ]
     },
     {
+        "id": 409,
+        "date": "2021/01/22",
+        "sources": [
+            "https://www.irishtimes.com/news/ireland/irish-news/deliveroo-riders-across-dublin-strike-over-working-conditions-1.4465621"
+        ],
+        "actions": [
+            "protest",
+            "strike"
+        ],
+        "struggles": [
+            "pay and benefits",
+            "job security"
+        ],
+        "employment_types": [
+            "gig workers"
+        ],
+        "description": "Delivery drivers and restaurant owners in Dublin, Ireland organized to not work from 6pm - 8pm for the delivery platform, Deliveroo. Drivers have claimed their pay has been reduced and that they have been facing unsafe conditions while working. Some, restaurants that have their food delivered though the platform have decided to support the protest by not taking orders during the strike.",
+        "online": true,
+        "locations": [
+            "dublin-ireland"
+        ],
+        "companies": [
+            "deliveroo"
+        ],
+        "workers": null,
+        "tags": [
+            "coronavirus",
+            "delivery_workers"
+        ],
+        "author": [
+            "hyatt d."
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 407,
+        "date": "2021/01/25",
+        "sources": [
+            "https://www.theverge.com/2021/1/25/22243138/google-union-alphabet-workers-europe-announce-global-alliance"
+        ],
+        "actions": [
+            "union drive"
+        ],
+        "struggles": [
+            "ethics",
+            "unfair labor practices",
+            "discrimination"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "contract workers",
+            "inhouse workers"
+        ],
+        "description": "Alphabet Workers Union (AWU) joined a global union alliance called Alpha Global. Alpha Global is an international coalition formed by 13 unions across the world in 10 different countries including the US, UK, and Switzerland and affiliated with UNI Global Union. Alpha Global is now choosing a steering committee, which may include Google workers. They plan to launch campaigns targeting \"national issues, like the treatment of content moderators in certain countries, as well as international concerns, like workers being forced to sign nondisclosure agreements\".",
+        "online": true,
+        "locations": [
+            "worldwide"
+        ],
+        "companies": [
+            "alphabet",
+            "google"
+        ],
+        "workers": null,
+        "tags": [
+            "international solidarity",
+            "industry solidarity",
+            "cwa"
+        ],
+        "author": [
+            "hyatt d."
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 401,
+        "date": "2021/01/29",
+        "sources": [
+            "https://www.reuters.com/article/us-alphabet-resignations/two-google-engineers-resign-over-firing-of-ai-ethics-researcher-timnit-gebru-idUSKBN2A4090"
+        ],
+        "actions": [
+            "open letter",
+            "protest"
+        ],
+        "struggles": [
+            "ethics",
+            "discrimination"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "Two Google engineers (engineering director David Baker plus a software developer Vinesh Kannan) have both quit in reaction to Timnit Gebru, an AI ethics researcher, being fired at Google. Gebru's firing has resulted in Google workers questioning the ethics and diversity of Google. ",
+        "online": null,
+        "locations": [
+            "usa"
+        ],
+        "companies": [
+            "google"
+        ],
+        "workers": 2,
+        "tags": [
+            "coworker solidarity",
+            "ai"
+        ],
+        "author": [
+            "hyatt d."
+        ],
+        "latlngs": [
+            [
+                42.3627717,
+                -71.087257
+            ]
+        ],
+        "addresses": [
+            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States"
+        ]
+    },
+    {
         "id": 391,
         "date": "2021/02/11",
         "sources": [
@@ -14788,6 +15074,48 @@
         ]
     },
     {
+        "id": 400,
+        "date": "2021/02/19",
+        "sources": [
+            "https://www.vice.com/en/article/3anwdy/organized-doordash-drivers-declinenow-strategy-is-driving-up-their-pay",
+            "https://declinenow.org/open-letter-to-doordash/?v=47e5dceea252"
+        ],
+        "actions": [
+            "protest",
+            "strike"
+        ],
+        "struggles": [
+            "pay and benefits"
+        ],
+        "employment_types": [
+            "gig workers"
+        ],
+        "description": "DoorDash drivers are leveraging an old Android version of the DoorDash app to strategically select deliveries and make more money on the platform. Drivers are also organizing online through a movement called #DeclineNow where they follow a strict set of rules to not accept any deliveries that would result in less pay for their time, resources, and gas. A gig worker, Amy Lee, ran an analysis and found that DoorDashers who accept every order are at a stark disadvantage make significantly less an hour than those who selective accept deliveries. Lee has written her own open letter addressing the inefficiencies regarding the pay structure of the app so that it can become a more sustainable job for drivers. ",
+        "online": null,
+        "locations": [
+            "usa"
+        ],
+        "companies": [
+            "doordash"
+        ],
+        "workers": 26000,
+        "tags": [
+            "drivers"
+        ],
+        "author": [
+            "hyatt d."
+        ],
+        "latlngs": [
+            [
+                37.7834546,
+                -122.4080358
+            ]
+        ],
+        "addresses": [
+            "Doordash HQ, 901, Market Street, Union Square, San Francisco, San Francisco City and County, California, 94103-3124, United States"
+        ]
+    },
+    {
         "id": 396,
         "date": "2021/02/28",
         "sources": [
@@ -14824,6 +15152,160 @@
         ],
         "addresses": [
             "Glitch Drive, Black Mountain, Buncombe County, North Carolina, 28711, United States"
+        ]
+    },
+    {
+        "id": 406,
+        "date": "2021/03/01",
+        "sources": [
+            "https://www.unitedigitaltech.org/2021/03/goodlord-strike-picket-line-video#more-1498"
+        ],
+        "actions": [
+            "protest",
+            "strike"
+        ],
+        "struggles": [
+            "pay and benefits",
+            "job security"
+        ],
+        "employment_types": [
+            "contract workers"
+        ],
+        "description": "Contract tech workers of Goodlord have been striking for two weeks because they are being fired and rehired for permanent contracts that have less favorable terms than their current contracts. The contracts have resulted in 20% pay decrease and will have the workers making 6,000 pounds less than the livable wage in London. The workers refuse to work until Goodlord negotiates with them for better pay and benefits. Goodlord is an online platform for tenants, agents, and landlords to utilize in the real estate market. ",
+        "online": null,
+        "locations": [
+            "london-uk"
+        ],
+        "companies": [
+            "goodlord"
+        ],
+        "workers": null,
+        "tags": null,
+        "author": [
+            "hyatt d."
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 405,
+        "date": "2021/03/08",
+        "sources": [
+            "https://googlewalkout.medium.com/the-future-must-be-ethical-makeaiethical-9eb3edd7cf3c",
+            "https://docs.google.com/document/d/1ERi2crDToYhYjEjxRoOzO-uOUeLgdoLPfnx1JOErg2w/edit"
+        ],
+        "actions": [
+            "protest",
+            "open letter"
+        ],
+        "struggles": [
+            "ethics"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "#MakeAIEthical is a movement in response to Dr. Timnit Gebru and Dr. Margaret Mitchell, who were co-leaders of Google's AI ethics research being terminated and censored by Google for raising ethical concerns. #MakeAIEthical is asking the AI community to stand in solidarity such as asking universities to refuse funding from Google, for students to refuse recruitment from Google, and for federal and state whistleblower regulations be strengthened.",
+        "online": true,
+        "locations": [
+            "worldwide"
+        ],
+        "companies": [
+            "google"
+        ],
+        "workers": null,
+        "tags": [
+            "industry solidarity",
+            "coworker solidarity",
+            "academics",
+            "ai"
+        ],
+        "author": [
+            "hyatt d."
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 404,
+        "date": "2021/03/10",
+        "sources": [
+            "https://notechfortyrants.org/2021/03/02/no-tech-for-tyrants-launches-recruitmenot-campaign-highlighting-racism-and-censorship-at-google/"
+        ],
+        "actions": [
+            "protest"
+        ],
+        "struggles": [
+            "discrimination",
+            "ethics"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "No Tech for Tyrants (NT4T) launched a campaign called #RecruitMeNot in response to Dr. Timnit Gebru being censored and fired at Google for refusing to do unethical practices. Dr. Gebru was Google's Lead AI ethics researcher. The #RecruitMeNot campaign asks students and researchers to refuse recruitment and job offers from Google until they meet the basic demands outlined by its employees. ",
+        "online": true,
+        "locations": [
+            "worldwide"
+        ],
+        "companies": [
+            "google"
+        ],
+        "workers": null,
+        "tags": [
+            "students",
+            "industry solidarity",
+            "academics",
+            "antiracism",
+            "ai"
+        ],
+        "author": [
+            "hyatt d."
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 410,
+        "date": "2021/03/15",
+        "sources": [
+            "https://www.protocol.com/mobilize-app-code-cwa-union"
+        ],
+        "actions": [
+            "union drive",
+            "union representation"
+        ],
+        "struggles": [
+            "working conditions"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "Workers for Mobilize have formed a union that is part of the CODE-CWA movement. Mobilize is owned by political tech company EveryAction. One hundred percent of eligible Mobilize workers voted to join the union after it was voluntarily recognized by EveryAction management. The union was created as a result of the EveryAction acquisition. Employees were negotiating new contracts and wanted to negotiate certain clauses collectively.",
+        "online": null,
+        "locations": [
+            "usa"
+        ],
+        "companies": [
+            "mobilize"
+        ],
+        "workers": null,
+        "tags": [
+            "cwa",
+            "industry solidarity"
+        ],
+        "author": [
+            "hyatt d."
+        ],
+        "latlngs": [
+            [
+                47.6609882,
+                -122.2895547
+            ]
+        ],
+        "addresses": [
+            "Mobilize Physical Therapy, 3515, Northeast 45th Street, Seattle, King County, Washington, 98105, United States"
         ]
     }
 ]

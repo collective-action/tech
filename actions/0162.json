@@ -1,43 +1,42 @@
 {
-    "id": 151,
+    "id": 150,
     "date": "2019/06/26",
     "sources": [
-        "https://www.nytimes.com/2019/06/26/business/wayfair-walkout.html",
-        "https://www.cnn.com/2019/06/25/business/wayfair-walkout-detention-camps-trnd/index.html",
-        "https://www.jacobinmag.com/2019/06/wayfair-walkout-immigration-detention-centers"
+        "https://www.bloomberg.com/news/articles/2019-06-26/google-workers-petition-sf-pride-to-exclude-company-from-parade",
+        "https://medium.com/@bangooglefrompride/an-open-petition-to-the-san-francisco-pride-board-of-directors-f8164486c2e4"
     ],
     "actions": [
-        "strike"
+        "open letter"
     ],
     "struggles": [
-        "ethics"
+        "discrimination"
     ],
     "employment_types": [
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "Hundreds of workers at the online retailer Wayfair walked out of their jobs yesterday to protest the comapny's sale of $200,000 worth of bedroom furniture to a government contractor that operates a network of shelters for migrant children near the southwestern border. More than 500 employees signed a petition to the CEO calling for him to cease all business with the contractor and establish a code of ethics for their sales.",
+    "description": "About 100 Google employees urged the organizer of this weekend's San Francisco Pride parade to kick the company out of the celebration, escalating pressure on the internet giant to overhaul its handling of hate speech online. The employees wrote a letter to the board of directors of San Francisco Pride, asking that Google be dropped as a sponsor of the parade as well as excluded from having a presence at the event.",
     "online": null,
     "locations": [
-        "boston-massachusetts-usa"
+        "san francisco-california-usa"
     ],
     "companies": [
-        "wayfair"
+        "google"
     ],
-    "workers": 500,
+    "workers": 100,
     "tags": [
-        "ice"
+        "lgbtq"
     ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            42.3506879,
-            -71.0732592
+            37.792377650000006,
+            -122.39172649835676
         ]
     ],
     "addresses": [
-        "Wayfair, 222, Berkeley Street, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States"
+        "Google Community Space, 188, The Embarcadero, Rincon Hill, San Francisco, San Francisco City and County, California, 94105, United States"
     ]
 }

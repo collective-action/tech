@@ -1,36 +1,42 @@
 {
-    "id": 317,
-    "date": "2020/08/22",
+    "id": 321,
+    "date": "2020/08/19",
     "sources": [
-        "https://mp.weixin.qq.com/s/bvbmlUIPatMX4xzDvwU8FQ"
+        "https://www.law360.com/articles/1302356/ex-google-workers-want-sexist-emails-memes-turned-over",
+        "https://www.lieffcabraser.com/2020/08/ex-google-workers-want-sexist-emails-meme-messages-turned-over-in-google-gender-discrimination-suit/"
     ],
     "actions": [
-        "protest",
-        "open letter",
-        "strike"
+        "legal action"
     ],
     "struggles": [
-        "pay and benefits"
+        "discrimination"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Didi rideshare workers have started holding strikes in a number of Chinese cities including Suzhou, Nanjing, Nantong, and Zunyi City to protest high commission fees on the platform. Drivers in Zunyi City also issued a letter with 5 demands to their local government and transportation department. ",
+    "description": "Four former Google software engineers have filed a lawsuit in California claiming gender discrimination at the company and demanding that the company turn over sexist emails and memes created by two male company employees. The plaintiffs hope to mount a class action lawsuit against the company.",
     "online": null,
     "locations": [
-        "suzhou-china",
-        "nanjing-china",
-        "nantong-china",
-        "zunyi-china"
+        "san francisco-california-usa"
     ],
     "companies": [
-        "didi"
+        "google"
     ],
-    "workers": null,
-    "tags": null,
+    "workers": 4,
+    "tags": [
+        "sexism"
+    ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.792377650000006,
+            -122.39172649835676
+        ]
+    ],
+    "addresses": [
+        "Google Community Space, 188, The Embarcadero, Rincon Hill, San Francisco, San Francisco City and County, California, 94105, United States"
+    ]
 }

@@ -1,38 +1,38 @@
 {
-    "id": 397,
-    "date": "2018/07/26",
+    "id": 95,
+    "date": "2018/07/24",
     "sources": [
-        "https://www.nytimes.com/2018/07/26/technology/microsoft-ice-immigration.html",
-        "https://www.nbcnews.com/tech/tech-news/microsoft-backtracks-proud-support-ice-blog-post-goes-viral-n884446"
+        "https://www.bostonglobe.com/business/2018/07/24/samsung-workers-agree-end-standoff-workers-deaths/co5pnkkgjsygaxcwszyghm/story.html"
     ],
     "actions": [
-        "open letter",
         "protest"
     ],
     "struggles": [
-        "ethics"
+        "working conditions"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "blue collar workers"
     ],
-    "description": "Two Microsoft employees presented their CEO with an online petition including more than 300,000 signatures (including 500 employees) calling for the firm to cancel their contract with the US Immigration and Customs Enforcement Agency. The action took place during an annual gathering at company headquarters. Earlier in the year, the company had published a blog post saying it was \"proud to support\" the agency through technologies that included facial recognition software.",
-    "online": true,
+    "description": "A group of Samsung factory employees in South Korea organized to call for safer working conditions and medical compensation from the company. After three years of protests, Samsung has agreed to accept the compensation terms and issue an apology.",
+    "online": null,
     "locations": [
-        "redwood shores-california-usa"
+        "south korea"
     ],
     "companies": [
-        "microsoft"
+        "samsung"
     ],
-    "workers": 500,
-    "tags": [
-        "ai",
-        "ice",
-        "trump"
-    ],
+    "workers": 100,
+    "tags": null,
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.5462137,
+            126.9720517
+        ]
+    ],
+    "addresses": [
+        "Samsung, \ud55c\uac15\ub300\ub85c, Namyeong-dong, \uc6a9\uc0b0\uad6c, \uc11c\uc6b8, 140-800, \ub300\ud55c\ubbfc\uad6d"
+    ]
 }

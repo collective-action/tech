@@ -1,9 +1,10 @@
 {
-    "id": 162,
-    "date": "2019/07/19",
+    "id": 161,
+    "date": "2019/07/16",
     "sources": [
-        "https://techcrunch.com/2019/07/18/uber-and-lyft-drivers-demand-better-pay-workplace-protections-and-driver-led-unions/",
-        "https://sanfrancisco.cbslocal.com/2019/07/19/uber-lyft-drivers-hq-protest-working-conditions/"
+        "https://www.sfchronicle.com/business/article/facebook-cafeteria-workers-protest-pay-hours-in-14100891.php",
+        "https://www.sfexaminer.com/the-city/facebook-cafeteria-workers-call-out-social-media-giant/",
+        "https://www.theguardian.com/us-news/2019/jul/22/facebook-cafeteria-workers-protest"
     ],
     "actions": [
         "protest"
@@ -13,34 +14,32 @@
         "working conditions"
     ],
     "employment_types": [
-        "gig workers"
+        "blue collar workers",
+        "contract workers"
     ],
-    "description": "As Assembly Bill 5 makes its way through the California state legislature, Uber and Lyft drivers are voicing their demands for better pay, basic workplace protections and the right to organize through unions. Drivers chanted and cheered outside the Uber headquarters building in San Francisco as they delivered a letter demanding negotiations for better working conditions.",
+    "description": "Cafeteria workers from Facebook's downtown San Francisco office picketed for higher wages, shorter working days, and improved healthcare coverage. The actions followed months of negotiation with the group's union Unite Here Local 2. The employees, who are contracted by Facebook through Flagship Facility Services, cited the high cost of living in the Bay Area and their need to work multiple jobs as motivations for the protest. Full-time employees from Google and Facebook joined the protest in support.",
     "online": null,
     "locations": [
         "san francisco-california-usa"
     ],
     "companies": [
-        "uber",
-        "lyft"
+        "facebook"
     ],
-    "workers": null,
-    "tags": null,
+    "workers": 50,
+    "tags": [
+        "unite_here",
+        "coworker_solidarity"
+    ],
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            37.7756962,
-            -122.4180838
-        ],
-        [
-            37.750721999999996,
-            -122.40243254779433
+            37.484668049999996,
+            -122.1483654685629
         ]
     ],
     "addresses": [
-        "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, California, 94103, United States",
-        "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States"
+        "Facebook, Bayfront Expressway, Menlo Park, San Mateo County, California, 94025-1246, United States"
     ]
 }

@@ -1,37 +1,40 @@
 {
-    "id": 361,
-    "date": "2020/11/18",
+    "id": 354,
+    "date": "2020/10/27",
     "sources": [
-        "https://www.theguardian.com/technology/2020/nov/18/facebook-workers-demand-better-treatment-pandemic",
-        "https://www.foxglove.org.uk/news/open-letter-from-content-moderators-re-pandemic"
+        "https://www.washingtonpost.com/context/a-statement-on-caste-bias-in-silicon-valley-from-30-dalit-women-engineers/d692b4f8-2710-41c3-9d5f-ea55c13bcc50/?itid=lk_interstitial_manual_16",
+        "https://www.washingtonpost.com/technology/2020/10/27/indian-caste-bias-silicon-valley/"
     ],
     "actions": [
         "open letter"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions",
-        "unfair labor practices"
+        "discrimination"
     ],
     "employment_types": [
-        "contract workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "More than 200 Facebook workers signed a letter demanding better treatment for content moderators after being required to return to the office in the midst of the pandemic. The contractors who wrote the letter condemned the company for deciding \u201cto risk our lives to maintain Facebook\u2019s profits during the pandemic\u201d. It was sent to chief executive officer Mark Zuckerberg, chief operating officer Sheryl Sandberg, and top executives at Accenture and CPL, two companies that contract the moderators. The open letter was published with UK-based non-profit Foxglove.",
+    "description": "A group of 30 Indian female engineers who were born into the Dalit caste shared a statement with the Washington Post describing their experience of casteism and sexism in Silicon Valley. The group called for American corporations to adopt caste as a protected category, treated on the same terms as gender, race, and sexuality. ",
     "online": true,
-    "locations": null,
-    "companies": [
-        "CPL",
-        "facebook",
-        "accenture"
+    "locations": [
+        "usa"
     ],
-    "workers": 200,
+    "companies": null,
+    "workers": 30,
     "tags": [
-        "coronavirus",
-        "moderators"
+        "sexism"
     ],
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            39.7837304,
+            -100.4458825
+        ]
+    ],
+    "addresses": [
+        "United States"
+    ]
 }

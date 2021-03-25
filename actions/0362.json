@@ -1,46 +1,37 @@
 {
-    "id": 393,
-    "date": "2021/01/08",
+    "id": 395,
+    "date": "2020/12/31",
     "sources": [
-        "https://outline.com/Mn7BCV",
-        "https://github.blog/2021-01-17-update-on-an-employee-matter/"
+        "https://www.vice.com/en/article/7k9e4e/court-rules-deliveroo-used-discriminatory-algorithm",
+        "http://www.bollettinoadapt.it/wp-content/uploads/2021/01/Ordinanza-Bologna.pdf",
+        "https://www.ilfattoquotidiano.it/in-edicola/articoli/2021/01/02/rider-lalgoritmo-discrimina-chi-si-ammala-e-chi-sciopera"
     ],
     "actions": [
-        "open letter"
+        "legal action"
     ],
     "struggles": [
-        "ethics",
+        "unfair labor practices",
         "discrimination"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "Approximately 200 GitHub workers signed an open letter calling on management to explain their decision to fire a Jewish worker who called the January 6th rioters at the U.S. Capitol \"Nazis\" on an internal company message board. They also called on the company to take a stronger position on anti-Semitism and white supremacy. Management responded with a letter denouncing the events of Jan. 6th and promising an investigation of the firing. UPDATE: On January 17th, GitHub posted to their company blog that their investigation \"revealed significant errors of judgment and procedure\". Their head of HR resigned from the company and the company reinstated the employee.",
-    "online": true,
+    "description": "A court in Bologna, Italy upheld a lawsuit filed by a group of Deliveroo workers, backed by Italy's CGIL union. The lawsuit alleged that Deliveroo's algorithms discriminated against gig workers. The company used machine learning algorithms to determine the \"reliability\" of a worker and give them preference for certain shifts. The court ruled that the company failed to take valid reasons for cancellation into account, such as medical illness. Legal experts say this could be an important precedent in holding companies responsible for algorithms that cause inadvertent harm. ",
+    "online": null,
     "locations": [
-        "usa"
+        "italy"
     ],
     "companies": [
-        "github"
+        "deliveroo"
     ],
-    "workers": 200,
+    "workers": null,
     "tags": [
-        "retaliation",
-        "coworker_solidarity",
-        "trump",
-        "politics"
+        "delivery_workers",
+        "ai"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            37.7821769,
-            -122.3912458
-        ]
-    ],
-    "addresses": [
-        "GitHub, 88, Colin P. Kelly Junior Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

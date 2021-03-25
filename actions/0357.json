@@ -1,41 +1,30 @@
 {
-    "id": 373,
-    "date": "2020/12/21",
+    "id": 360,
+    "date": "2020/12/12",
     "sources": [
-        "https://www.rfa.org/english/news/china/workers-12212020111240.html"
+        "https://www.bbc.co.uk/news/world-asia-india-55296433?at_custom2=facebook_page&at_campaign=64&at_custom3=BBC+News&at_medium=custom7&at_custom1=%5Bpost+type%5D&at_custom4=81D22262-3D70-11EB-B208-D9C496E8478F&fbclid=IwAR3puILhntOwygYe8HWoRjMsvcnw9IFD1YRTIKIQUbGWA1hbUn17Sw1yENM"
     ],
     "actions": [
-        "protest",
-        "strike"
+        "protest"
     ],
     "struggles": [
-        "job security"
+        "pay and benefits"
     ],
     "employment_types": [
-        "contract workers",
         "blue collar workers"
     ],
-    "description": "Shanghai factory workers at the Apple supplier Pegatron turned out to protest a pay dispute with management at the weekend. Thousands of temporary workers gathered outside the Taiwanese-invested Pegatron facility in Shanghai, as authorities dispatched large numbers of police to block their entrance to the facility, sparking clashes. The protest came after Pegatron tried to transfer thousands of workers from its Shanghai factory to another facility at Kunshan in the eastern province of Jiangsu. Those who refused the transfer would be fired, and workers fired for refusing the offer wouldn't be eligible for their share of finders' fee commission usually shared between recruitment agencies and workers.",
+    "description": "Workers at an iPhone production facility in the city of Narsapura near Bangalore in India protested unpaid wages by destroying office property and factory equipment at Wistron Infocomm's manufacturing facility. Around 100 workers are arrested. ",
     "online": null,
     "locations": [
-        "shanghai-china"
+        "narsapura-bangalore-india"
     ],
     "companies": [
-        "pegatron",
+        "wistron infocomm",
         "apple"
     ],
-    "workers": 1000,
+    "workers": 2000,
     "tags": null,
-    "author": [
-        "organizejs"
-    ],
-    "latlngs": [
-        [
-            31.2350886,
-            121.4754904
-        ]
-    ],
-    "addresses": [
-        "Apple Store, \u798f\u5dde\u8def, \u5357\u4eac\u4e1c\u8def\u8857\u9053, \u4e0a\u6d77\u5e02, \u9ec4\u6d66\u533a, 200085, \u4e2d\u56fd"
-    ]
+    "author": null,
+    "latlngs": null,
+    "addresses": null
 }

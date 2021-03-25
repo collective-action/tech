@@ -1,42 +1,46 @@
 {
-    "id": 321,
-    "date": "2020/08/19",
+    "id": 309,
+    "date": "2020/08/13",
     "sources": [
-        "https://www.law360.com/articles/1302356/ex-google-workers-want-sexist-emails-memes-turned-over",
-        "https://www.lieffcabraser.com/2020/08/ex-google-workers-want-sexist-emails-meme-messages-turned-over-in-google-gender-discrimination-suit/"
+        "https://www.cnbc.com/2020/08/13/german-digital-bank-n26-faces-outcry-from-staff-over-management.html",
+        "https://www.finextra.com/newsarticle/36392/n26-faces-off-with-employees-over-works-council",
+        "https://www.fintechfutures.com/2020/08/n26-founders-obtain-injunction-against-works-council/",
+        "https://twitter.com/worker291/status/1293830980172689410"
     ],
     "actions": [
-        "legal action"
+        "union representation",
+        "open letter",
+        "union drive"
     ],
     "struggles": [
-        "discrimination"
+        "working conditions",
+        "pay and benefits",
+        "unfair labor practices"
     ],
     "employment_types": [
         "white collar workers",
-        "inhouse workers"
+        "contract workers"
     ],
-    "description": "Four former Google software engineers have filed a lawsuit in California claiming gender discrimination at the company and demanding that the company turn over sexist emails and memes created by two male company employees. The plaintiffs hope to mount a class action lawsuit against the company.",
+    "description": "After workers of N26 (digital bank) announced their intent to form a Works Council (Betriebsrat), management responded by issuing a legal injunction, banning 6 of the workers from partaking in formation of electoral committee. They forgot to include the service union Ver.di, so on August 13th, Ver.di chaired a meeting for N26 Operations GmbH, and workers voted for the first electoral committee.",
     "online": null,
     "locations": [
-        "san francisco-california-usa"
+        "berlin-germany"
     ],
     "companies": [
-        "google"
+        "N26"
     ],
-    "workers": 4,
-    "tags": [
-        "sexism"
-    ],
+    "workers": 20,
+    "tags": null,
     "author": [
-        "nataliyaned"
+        "Worker26"
     ],
     "latlngs": [
         [
-            37.792377650000006,
-            -122.39172649835676
+            52.5034002,
+            13.3386373
         ]
     ],
     "addresses": [
-        "Google Community Space, 188, The Embarcadero, Rincon Hill, San Francisco, San Francisco City and County, California, 94105, United States"
+        "Berlin, Tauentzienstra\u00dfe, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, 10789, Deutschland"
     ]
 }

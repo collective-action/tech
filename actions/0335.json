@@ -1,34 +1,42 @@
 {
-    "id": 335,
-    "date": "2020/10/05",
+    "id": 333,
+    "date": "2020/10/01",
     "sources": [
-        "https://www.theverge.com/2020/9/2/21417146/parcast-spotify-union-writers-guild-america-east",
-        "https://twitter.com/ParcastUnion/status/1313555636651655170?s=19"
+        "https://workdayminnesota.org/thursday-night-shakopee-amazon-workers-walked-out-in-protest-of-worker-firing/",
+        "https://twitter.com/athenaforall/status/1312080698140962818?s=20"
     ],
     "actions": [
-        "union representation"
+        "protest"
     ],
     "struggles": [
-        "unfair labor practices"
+        "working conditions"
     ],
     "employment_types": [
-        "white collar workers",
+        "blue collar workers",
         "inhouse workers"
     ],
-    "description": "Parcast, a Spotify-owned podcast company, announced a unionization effort back in September. Employees of the company chose to pursue unionization through the Writers Guild of America, East to call for greater diversity, equity, and inclusion at the company, as well as equitable pay, reasonable working hours, and overtime compensation. Parcast announced on October 6th that Spotify had chosen to voluntarily recognize the union. ",
+    "description": "35 Amazon workers in Shakopee, Minnesota walked off the job to protest the firing of Farhiyo Warsame. The company alleged that the employee violated \"time off task\" policies but workers claim that the employee was fired for raising concerns about covid-related safety.",
     "online": null,
     "locations": [
-        "new york city-new york-usa"
+        "shakopee-minnesota-usa"
     ],
     "companies": [
-        "spotify",
-        "parcast"
+        "amazon"
     ],
-    "workers": null,
-    "tags": null,
+    "workers": 35,
+    "tags": [
+        "coronavirus"
+    ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            44.78839255,
+            -93.44285005008032
+        ]
+    ],
+    "addresses": [
+        "Amazon Sortation Center MSP5, 5825, 11th Avenue East, Shakopee, Scott County, Minnesota, 55379, United States"
+    ]
 }

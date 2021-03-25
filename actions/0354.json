@@ -1,30 +1,38 @@
 {
-    "id": 360,
-    "date": "2020/12/12",
+    "id": 365,
+    "date": "2020/12/03",
     "sources": [
-        "https://www.bbc.co.uk/news/world-asia-india-55296433?at_custom2=facebook_page&at_campaign=64&at_custom3=BBC+News&at_medium=custom7&at_custom1=%5Bpost+type%5D&at_custom4=81D22262-3D70-11EB-B208-D9C496E8478F&fbclid=IwAR3puILhntOwygYe8HWoRjMsvcnw9IFD1YRTIKIQUbGWA1hbUn17Sw1yENM"
+        "https://www.theguardian.com/technology/2020/dec/07/timnit-gebru-google-firing-resignation-ai-research",
+        "https://googlewalkout.medium.com/standing-with-dr-timnit-gebru-isupporttimnit-believeblackwomen-6dadc300d382"
     ],
     "actions": [
-        "protest"
+        "open letter"
     ],
     "struggles": [
-        "pay and benefits"
+        "ethics",
+        "discrimination"
     ],
     "employment_types": [
-        "blue collar workers"
+        "white collar workers"
     ],
-    "description": "Workers at an iPhone production facility in the city of Narsapura near Bangalore in India protested unpaid wages by destroying office property and factory equipment at Wistron Infocomm's manufacturing facility. Around 100 workers are arrested. ",
-    "online": null,
-    "locations": [
-        "narsapura-bangalore-india"
-    ],
+    "description": "After Dr. Timnit Gebru was fired from Google, Googlers wrote an open letter demanding accountability from Google. 2695 Googlers and 4302 academic, industry, and civil society supporters signed on to the letter.",
+    "online": true,
+    "locations": null,
     "companies": [
-        "wistron infocomm",
-        "apple"
+        "google"
     ],
-    "workers": 2000,
-    "tags": null,
-    "author": null,
+    "workers": 2695,
+    "tags": [
+        "sexism",
+        "antiracism",
+        "industry solidarity",
+        "retaliation",
+        "ai",
+        "academics"
+    ],
+    "author": [
+        "organizejs"
+    ],
     "latlngs": null,
     "addresses": null
 }

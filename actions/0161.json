@@ -1,29 +1,31 @@
 {
-    "id": 150,
-    "date": "2019/06/26",
+    "id": 149,
+    "date": "2019/06/24",
     "sources": [
-        "https://www.bloomberg.com/news/articles/2019-06-26/google-workers-petition-sf-pride-to-exclude-company-from-parade",
-        "https://medium.com/@bangooglefrompride/an-open-petition-to-the-san-francisco-pride-board-of-directors-f8164486c2e4"
+        "https://onezero.medium.com/a-group-of-microsoft-employees-is-fighting-the-companys-political-action-committee-7dae732290e3",
+        "https://politics.slashdot.org/story/19/06/24/1835230/a-group-of-microsoft-employees-is-fighting-the-companys-political-action-committee",
+        "https://www.geekwire.com/2019/internal-email-microsoft-suspends-pac-donations-temporarily-following-employee-uproar"
     ],
     "actions": [
-        "open letter"
+        "protest"
     ],
     "struggles": [
+        "ethics",
         "discrimination"
     ],
     "employment_types": [
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "About 100 Google employees urged the organizer of this weekend's San Francisco Pride parade to kick the company out of the celebration, escalating pressure on the internet giant to overhaul its handling of hate speech online. The employees wrote a letter to the board of directors of San Francisco Pride, asking that Google be dropped as a sponsor of the parade as well as excluded from having a presence at the event.",
+    "description": "A group of more than 30 Microsoft employees is lobbying coworkers to stop donating to the company's political action committee in an effort to starve the PAC of funds. While Microsoft pitches itself as an inclusive and progressive company\u200a\u2014\u200aespecially during Pride Month, with tweets and donations to LGBTQ+ causes\u200a\u2014\u200aemployees who have donated to the PAC say they have no control over which candidates are being supported, meaning that they have no say when the PAC financially supports bigoted candidates. On July 2019, Microsoft has temporarily halted political donations through its political action committee after facing this backlash from employees.",
     "online": null,
     "locations": [
-        "san francisco-california-usa"
+        "seattle-washington-usa"
     ],
     "companies": [
-        "google"
+        "microsoft"
     ],
-    "workers": 100,
+    "workers": 30,
     "tags": [
         "lgbtq"
     ],
@@ -32,11 +34,11 @@
     ],
     "latlngs": [
         [
-            37.792377650000006,
-            -122.39172649835676
+            47.5388725,
+            -122.2901728
         ]
     ],
     "addresses": [
-        "Google Community Space, 188, The Embarcadero, Rincon Hill, San Francisco, San Francisco City and County, California, 94105, United States"
+        "Microsoft Gathering Hall, 7054, 32nd Avenue South, Holly Park, Rainier Valley, Seattle, King County, Washington, 98118, United States"
     ]
 }

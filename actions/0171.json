@@ -1,9 +1,10 @@
 {
-    "id": 160,
-    "date": "2019/07/16",
+    "id": 159,
+    "date": "2019/07/15",
     "sources": [
-        "https://www.bbc.com/news/av/world-africa-49008968/uber-drivers-in-nairobi-explain-why-they-are-on-strike",
-        "https://www.businessdailyafrica.com/corporate/companies/digital-taxis-strike-enters-second-week/4003102-5206366-rbvf36/index.html"
+        "https://jacobinmag.com/2019/07/amazon-shakopee-strike-prime-day",
+        "https://www.cnet.com/news/prime-day-brings-out-wave-of-activism-against-amazon/",
+        "https://www.theverge.com/2019/7/16/20696154/amazon-prime-day-2019-strike-warehouse-workers-inhumane-conditions-the-rate-productivity"
     ],
     "actions": [
         "strike"
@@ -13,30 +14,30 @@
         "working conditions"
     ],
     "employment_types": [
-        "gig workers"
+        "blue collar workers"
     ],
-    "description": "Rideshare drivers in Nairobi have gone on strike because of what they describe as low wages and poor working conditions. They are protesting unfair commissions from US-based Uber, Estonian firm Bold (formerly Taxify) and locally owned Little Cab. The strike entered its second week, continuing the protest over pitiable rates for the drivers.",
+    "description": "Amazon employees, many who are Somali-American workers, at a fulfillment center outside Minneapolis are calling on the company to improve safety and benefits on one of the top sales days of the year. 100 fulfillment workers and labor groups outside the cavernous warehouse are protesting the company's working conditions, benefits and corporate culture. The demonstration is planned for the first day of Prime Day, one of Amazon's flagship shopping events that generates billions of dollars in sales for the retail giant. White collar employees from Amazon HQ (of the group Amazon Employees for Climate Justice) in Seattle are flying out to support the protesters.",
     "online": null,
     "locations": [
-        "nairobi-kenya"
+        "minneapolis-minnesota-usa"
     ],
     "companies": [
-        "uber",
-        "bolt",
-        "little_cab"
+        "amazon"
     ],
-    "workers": 30,
-    "tags": null,
+    "workers": 100,
+    "tags": [
+        "coworker_solidarity"
+    ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            7.2077919,
-            38.613507
+            44.9696864,
+            -93.2883524
         ]
     ],
     "addresses": [
-        "Bolt, Addis Ababa to Nairobi road, Melka Uda, \u123b\u1238\u1218\u1294 / Shashamane, East Shewa, \u12a6\u122e\u121a\u12eb \u12ad\u120d\u120d / Oromia, \u12a2\u1275\u12ee\u1335\u12eb"
+        "Wounded Amazon, Lyndale Avenue South, Loring Park, Minneapolis, Hennepin County, Minnesota, 55403, United States"
     ]
 }

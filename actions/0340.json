@@ -1,30 +1,32 @@
 {
-    "id": 350,
-    "date": "2020/10/17",
+    "id": 347,
+    "date": "2020/10/13",
     "sources": [
-        "https://fortune.com/2020/10/16/amazon-employee-activists-union-climate-justice/",
-        "https://www.cbsnews.com/news/amazon-workers-petition-election-day-holiday-paid-time-off/"
+        "https://www.nbcnews.com/news/amp/ncna1243217",
+        "https://www.kmov.com/thousands-of-workers-petition-amazon-for-paid-time-off-to-vote/article_c29297aa-e08d-5aae-b887-75b506e79fef.html",
+        "https://www.cbsnews.com/news/amazon-workers-petition-election-day-holiday-paid-time-off/",
+        "https://amazonemployees4climatejustice.medium.com/jeff-bezos-give-all-amazon-workers-pto-to-vote-dc0003434d65"
     ],
     "actions": [
-        "protest"
+        "open letter"
     ],
     "struggles": [
-        "working conditions",
+        "unfair labor practices",
         "ethics"
     ],
     "employment_types": [
-        "white collar workers",
+        "blue collar workers",
         "inhouse workers"
     ],
-    "description": "Amazon Employees for Climate Justice organized a rally in Seattle to call for paid time off for workers to vote on Election Day. A few hundred people attended the rally according to CBS News. Amazon stated that managers have been instructed to approve time-off requests for voting. ",
-    "online": null,
+    "description": "More than 6,400 Amazon workers signed an internal petition calling for time off to vote for its entire workforce ahead of the 2020 U.S. Election. Other companies like Walmart, Apple, and Target have policies allowing for paid time off for voting. Amazon Employees for Climate Justice organized the petition.",
+    "online": true,
     "locations": [
-        "seattle-washington-usa"
+        "usa"
     ],
     "companies": [
         "amazon"
     ],
-    "workers": null,
+    "workers": 6400,
     "tags": [
         "politics"
     ],

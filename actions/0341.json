@@ -1,11 +1,10 @@
 {
-    "id": 344,
-    "date": "2020/10/17",
+    "id": 349,
+    "date": "2020/10/14",
     "sources": [
-        "https://techcrunch.com/2020/09/29/shipt-shoppers-are-organizing-a-walkout-in-protest-of-new-pay-model/\nhttps://news.trust.org/item/20201016131049-xq8h3\nhttps://thehill.com/policy/technology/521290-shipt-workers-organize-most-targeted-protest-yet-over-new-pay-model"
+        "https://calmatters.org/california-divide/2020/10/amazon-warehouse-workers-bezos-mansion-prime-day/"
     ],
     "actions": [
-        "strike",
         "protest"
     ],
     "struggles": [
@@ -13,32 +12,31 @@
     ],
     "employment_types": [
         "blue collar workers",
-        "contract workers",
-        "gig workers"
+        "inhouse workers"
     ],
-    "description": "Shipt shoppers are organizing a handful of actions in protest of Shipt\u2019s new pay structure that began rolling out this month.  The first action is happening from Saturday, Oct. 17 through Oct. 19, when workers are calling on their fellow Shipt shoppers to walk out and boycott the company. Organizers are asking for shoppers not to schedule any hours or accept any orders during that time.",
+    "description": "Amazon workers staged a vigil at Jeff Bezos' Beverly Hills mansion for fellow workers that had died as a result of working through the coronavirus pandemic. The event was organized by  the Warehouse Worker Resource Center. ",
     "online": null,
     "locations": [
-        "usa"
+        "los angeles-california-usa"
     ],
     "companies": [
-        "target",
-        "shipt"
+        "amazon"
     ],
     "workers": null,
     "tags": [
-        "delivery_workers"
+        "delivery_workers",
+        "coronavirus"
     ],
     "author": [
-        "anonymous"
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            38.594073550000005,
-            -90.54739094340695
+            33.97670635,
+            -118.41819635850888
         ]
     ],
     "addresses": [
-        "Target, 15025, Ballwin, Saint Louis County, Missouri, 63011, United States"
+        "Whole Foods Market, West Jefferson Boulevard, Playa Vista, Los Angeles County, California, 90094, United States"
     ]
 }

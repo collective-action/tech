@@ -1,38 +1,42 @@
 {
-    "id": 341,
-    "date": "2020/10/08",
+    "id": 336,
+    "date": "2020/10/04",
     "sources": [
-        "https://www.wired.com/story/turmoil-black-lives-matter-political-speech-coinbase/",
-        "https://www.forbes.com/sites/rachelsandler/2020/10/08/60-employees-leave-coinbase-over-ceos-pledge-to-be-apolitical/#5e0848325a06",
-        "https://blog.coinbase.com/coinbase-is-a-mission-focused-company-af882df8804?gi=e4cb4315d1e5"
+        "https://www.latimes.com/california/story/2020-10-04/amazon-jeff-bezos-protest-beverly-hills"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
-        "ethics",
-        "discrimination"
+        "working conditions",
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers",
+        "blue collar workers",
         "inhouse workers"
     ],
-    "description": "More than 60 Coinbase employees chose to leave the company, opting for a severance package, to protest CEO Brian Armstrong's assertion that employees should not participate in social activism in the workplace. This represents roughly 5% of the company's employees. This event follows several months of internal activism within the company after management failed to make a public statement on the Black Lives Matter movement.",
-    "online": true,
+    "description": "Amazon workers, organized by the Congress of Essential Workers, protested in front of Jeff Bezos' Beverley Hills mansion, calling for improved working conditions under covid, hazard pay, and better health benefits. ",
+    "online": null,
     "locations": [
-        "san francisco-california-usa"
+        "los angeles-california-usa"
     ],
     "companies": [
-        "coinbase"
+        "amazon"
     ],
-    "workers": 60,
+    "workers": 100,
     "tags": [
-        "antiracism",
-        "blm"
+        "coronavirus"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            33.97670635,
+            -118.41819635850888
+        ]
+    ],
+    "addresses": [
+        "Whole Foods Market, West Jefferson Boulevard, Playa Vista, Los Angeles County, California, 90094, United States"
+    ]
 }

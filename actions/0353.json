@@ -1,32 +1,35 @@
 {
-    "id": 367,
-    "date": "2020/12/11",
+    "id": 364,
+    "date": "2020/11/27",
     "sources": [
-        "https://www.vice.com/amp/en/article/3anva3/three-of-spotifys-podcast-unions-stop-working-to-demand-better-workplace-conditions"
+        "https://fortune.com/2020/11/27/amazon-workers-protests-black-friday-covid19/"
     ],
     "actions": [
-        "strike"
+        "strike",
+        "protest"
     ],
     "struggles": [
         "pay and benefits",
         "working conditions",
         "unfair labor practices",
-        "discrimination"
+        "job security"
     ],
     "employment_types": [
-        "white collar workers"
+        "blue collar workers",
+        "contract workers"
     ],
-    "description": "Three unions at Spotify kicked off a two hour work stoppage in solidarity with their collective struggles for fairer contracts and better workplace conditions. The union at Gimlet, a major podcast publisher that was bought by Spotify last year for $230 million, is joining unions at The Ringer and Parcast\u2014all properties owned by Spotify\u2014in the work stoppage. The union's demands have included a contract with guaranteed raises, clear guidelines surrounding promotions, the right to profit from intellectual property they help create, a greater emphasis on diversity, and pay equity across the board. The work stoppage was streamed on Twitch for a little over an hour, with organizing members from all three groups outlining in detail their demands. ",
-    "online": true,
-    "locations": null,
+    "description": "Thousands of Amazon workers walk off the job to fight for fair pay and COVID protections. Unions representing tens of thousands of Amazon.com Inc. employees walked out during the year's busiest shopping season, in protest of Amazon's handling of everything from sick pay and COVID-19 precautions to user privacy. The giant Verdi trade union in Germany is holding a walkout across seven Amazon facilities. Garment workers in Bangladesh will call for higher pay outside an Amazon supplier facility in Dhaka. In Australia, unions will perform \u201chealth and safety\u201d inspections of the company\u2019s facilities using their \u201cstatutory right of entry,\u201d the campaign said. Others will project the campaign\u2019s logo on buildings in Brussels, London, Sao Paulo and other cities. In all, the organizations participating in the protests represent roughly 40,000 Amazon employees, according to a spokesman for the UNI Global Union. These actions are part of the Make Amazon Pay campaign. ",
+    "online": null,
+    "locations": [
+        "worldwide"
+    ],
     "companies": [
-        "the ringer",
-        "spotify",
-        "gimlet media",
-        "parcast"
+        "amazon"
     ],
-    "workers": null,
-    "tags": null,
+    "workers": 40000,
+    "tags": [
+        "coronavirus"
+    ],
     "author": [
         "organizejs"
     ],

@@ -1,41 +1,44 @@
 {
-    "id": 383,
-    "date": "2021/01/08",
+    "id": 403,
+    "date": "2020/12/22",
     "sources": [
-        "https://www.washingtonpost.com/technology/2021/01/08/twitter-trump-dorsey/"
+        "https://csedsupportstimnit.medium.com/computer-science-needs-more-timnit-gebrus-csedsupportstimnit-believeblackwomen-9600d7fa22b6"
     ],
     "actions": [
         "open letter"
     ],
     "struggles": [
-        "ethics"
+        "ethics",
+        "discrimination"
     ],
     "employment_types": [
         "white collar workers"
     ],
-    "description": "Following the pro-Trump storming of the Capitol on January 6, roughly 350 Twitter employees signed an internal letter addressed to CEO Jack Dorsey and top executives questioning Twitter's policies and role in facilitating the attack. The employees requested an investigation into corporation actions over the last several years and asked for greater transparency to the company\u2019s decision-making process regarding Donald Trumps' Twitter account on the day of the attack.",
+    "description": "CS Ed Supports Timnit is an online movement started in response to Dr. Timnit Gebru's firing at Google. Gebru, \"a world renowned researcher on ethics and artificial intelligence\", lost her position after raising concerns about using data being used against marginalized groups of people. CS Ed Supports Timnit wrote an open letter asking for academics, researchers, program providers, and advocates for computer science students to stand in solidarity in with Timnit. They advocate to not stay neutral and address the inequalities across the tech industries. ",
     "online": true,
     "locations": [
         "usa"
     ],
     "companies": [
-        "twitter"
+        "google"
     ],
-    "workers": 350,
+    "workers": 195,
     "tags": [
-        "trump",
-        "politics"
+        "industry solidarity",
+        "academics",
+        "antiracism",
+        "ai"
     ],
     "author": [
-        "CM"
+        "hyatt d."
     ],
     "latlngs": [
         [
-            37.7762709,
-            -122.41630688295965
+            42.3627717,
+            -71.087257
         ]
     ],
     "addresses": [
-        "Twitter, 875, Stevenson Street, Market Square, San Francisco, San Francisco City and County, California, 94102, United States"
+        "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States"
     ]
 }

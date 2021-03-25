@@ -1,41 +1,45 @@
 {
-    "id": 312,
-    "date": "2020/08/12",
+    "id": 302,
+    "date": "2020/08/09",
     "sources": [
-        "https://qz.com/1894241/belaruss-crackdown-could-squash-minsks-budding-tech-sector/",
-        "https://dev.by/news/otkrytoe-pismo-it-kompanii"
+        "https://www.news.com.au/finance/work/at-work/fired-amazon-workers-stage-protest-outside-jeff-bezos-mansion/news-story/e5d5dcaa060c59496d09b96c094982bd",
+        "https://www.msn.com/en-us/news/technology/protest-held-in-front-of-jeff-bezos-penthouse-in-new-york/vi-BB17Nfe9",
+        "https://twitter.com/mollycrabapple/status/1292565661517062150"
     ],
     "actions": [
-        "open letter"
+        "protest"
     ],
     "struggles": [
-        "ethics"
+        "pay and benefits",
+        "unfair labor practices",
+        "working conditions"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers",
-        "contract workers"
+        "blue collar workers",
+        "inhouse workers"
     ],
-    "description": "Over 2,900 Belarusian tech workers, including top level management and investors, publicly signed onto an open letter calling the recent presidential elections a fraud. Signatories threatened to relocate their offices and investments outside of Belarus, stating that the atmosphere of fear and suppression was not conducive to a thriving technology sector. The letter denounced anti-democratic measures taken by the government, including the arrests of protesters and widespread Internet outages, and called for new elections, the release of those arrested, and freedom of press in the country. ",
-    "online": true,
+    "description": "Several dozen Former Amazon workers held a protest outside of Jeff Bezos' New York City penthouse to call for greater protections for warehouse workers during the pandemic, along with the right to unionize and a national wealth tax on the top 3 percent of earners. The protest was organized by Christian Smalls, a former Amazon employee who was fired after organizing a walkout to protest the company's handling of coronavirus. Since then, Smalls has founded an organizedcalled the Congress of Essential Workers, dedicated to protecting workers during the pandemic. ",
+    "online": null,
     "locations": [
-        "belarus"
+        "new york city-new york-usa"
     ],
-    "companies": null,
-    "workers": 2900,
+    "companies": [
+        "amazon"
+    ],
+    "workers": 24,
     "tags": [
-        "politics"
+        "coronavirus"
     ],
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            53.4250605,
-            27.6971358
+            40.722465,
+            -73.9977307
         ]
     ],
     "addresses": [
-        "\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c"
+        "Amazon, 72, Spring Street, SoHo, Manhattan Community Board 2, Manhattan, New York County, New York, 10013, United States"
     ]
 }

@@ -1,42 +1,34 @@
 {
-    "id": 336,
-    "date": "2020/10/04",
+    "id": 337,
+    "date": "2020/09/28",
     "sources": [
-        "https://www.latimes.com/california/story/2020-10-04/amazon-jeff-bezos-protest-beverly-hills"
+        "https://discotech.tech/techtruths",
+        "https://twitter.com/discotechorg/status/1310613703126114304?s=19"
     ],
     "actions": [
-        "protest"
+        "resources"
     ],
     "struggles": [
-        "working conditions",
-        "pay and benefits"
+        "ethics",
+        "discrimination"
     ],
     "employment_types": [
-        "blue collar workers",
+        "white collar workers",
         "inhouse workers"
     ],
-    "description": "Amazon workers, organized by the Congress of Essential Workers, protested in front of Jeff Bezos' Beverley Hills mansion, calling for improved working conditions under covid, hazard pay, and better health benefits. ",
-    "online": null,
-    "locations": [
-        "los angeles-california-usa"
-    ],
-    "companies": [
-        "amazon"
-    ],
-    "workers": 100,
+    "description": "A group of cross-company organizers in tech have started a repository called \"Tech Truths\" that highlights incidents of discrimination in tech, including \"discrimination by race, gender, sexual orientation, disability status, immigration status, and more\". To date (10/7/2020), 107 different stories of discrimination have been shared and published.",
+    "online": true,
+    "locations": null,
+    "companies": null,
+    "workers": 107,
     "tags": [
-        "coronavirus"
+        "antiracism",
+        "blm",
+        "industry_solidarity"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            33.97670635,
-            -118.41819635850888
-        ]
-    ],
-    "addresses": [
-        "Whole Foods Market, West Jefferson Boulevard, Playa Vista, Los Angeles County, California, 90094, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

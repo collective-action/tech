@@ -1,31 +1,31 @@
 {
-    "id": 340,
-    "date": "2020/10/10",
+    "id": 335,
+    "date": "2020/10/05",
     "sources": [
-        "https://www.vice.com/amp/en_us/article/z3ejzx/facebook-workers-sign-petition-demanding-hazard-pay-for-content-moderators-who-have-to-go-back-to-the-office"
+        "https://www.theverge.com/2020/9/2/21417146/parcast-spotify-union-writers-guild-america-east",
+        "https://twitter.com/ParcastUnion/status/1313555636651655170?s=19"
     ],
     "actions": [
-        "open letter"
+        "union representation"
     ],
     "struggles": [
         "unfair labor practices"
     ],
     "employment_types": [
-        "contract workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "At least 290 Facebook employees and contractors signed a petition demanding a 50% wage increase as hazard pay for site moderators who have been forced to return to the office by October 12th of this year. Additional demands include compensation for all costs related to COVID-19 testing and treatment, as well as additional time off and an expedited time off review process. Accenture, which hired the moderators as contractors, informed them on October 1st that they would have to return to their office in Austin, Texas. A Facebook spokesperson said the reason for the return was that \"some of the most sensitive content can\u2019t be reviewed from home\". Full-time, directly hired Facebook employees don't have to return to the office until July 2021. ",
-    "online": true,
-    "locations": null,
+    "description": "Parcast, a Spotify-owned podcast company, announced a unionization effort back in September. Employees of the company chose to pursue unionization through the Writers Guild of America, East to call for greater diversity, equity, and inclusion at the company, as well as equitable pay, reasonable working hours, and overtime compensation. Parcast announced on October 6th that Spotify had chosen to voluntarily recognize the union. ",
+    "online": null,
+    "locations": [
+        "new york city-new york-usa"
+    ],
     "companies": [
-        "accenture",
-        "facebook"
+        "spotify",
+        "parcast"
     ],
-    "workers": 290,
-    "tags": [
-        "coronavirus",
-        "moderators",
-        "coworker_solidarity"
-    ],
+    "workers": null,
+    "tags": null,
     "author": [
         "nataliyaned"
     ],

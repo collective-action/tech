@@ -1,43 +1,40 @@
 {
-    "id": 159,
+    "id": 158,
     "date": "2019/07/15",
     "sources": [
-        "https://jacobinmag.com/2019/07/amazon-shakopee-strike-prime-day",
-        "https://www.cnet.com/news/prime-day-brings-out-wave-of-activism-against-amazon/",
-        "https://www.theverge.com/2019/7/16/20696154/amazon-prime-day-2019-strike-warehouse-workers-inhumane-conditions-the-rate-productivity"
+        "https://www.coworker.org/petitions/amazon-management-meet-with-dch1-amazonians-united-now",
+        "https://labornotes.org/2019/07/amazon-warehouse-worker-why-im-taking-action",
+        "https://www.buzzfeednews.com/amphtml/carolineodonovan/amazon-worker-protests-chicago-heat-wave"
     ],
     "actions": [
-        "strike"
+        "open letter"
     ],
     "struggles": [
-        "pay and benefits",
         "working conditions"
     ],
     "employment_types": [
         "blue collar workers"
     ],
-    "description": "Amazon employees, many who are Somali-American workers, at a fulfillment center outside Minneapolis are calling on the company to improve safety and benefits on one of the top sales days of the year. 100 fulfillment workers and labor groups outside the cavernous warehouse are protesting the company's working conditions, benefits and corporate culture. The demonstration is planned for the first day of Prime Day, one of Amazon's flagship shopping events that generates billions of dollars in sales for the retail giant. White collar employees from Amazon HQ (of the group Amazon Employees for Climate Justice) in Seattle are flying out to support the protesters.",
+    "description": "Amazon employees of DCH1 Amazonians United sign a petition to demand that their site leader meet with them to discuss providing the appropriate measures for days of excessive heat, among other issues. The top 3 are: 1) Prime Pay for Prime Days. 2) Health Insurance. 3) Getting A/C",
     "online": null,
     "locations": [
-        "minneapolis-minnesota-usa"
+        "chicago-illinois-usa"
     ],
     "companies": [
         "amazon"
     ],
-    "workers": 100,
-    "tags": [
-        "coworker_solidarity"
-    ],
+    "workers": 800,
+    "tags": null,
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            44.9696864,
-            -93.2883524
+            41.84040105,
+            -87.68351928672685
         ]
     ],
     "addresses": [
-        "Wounded Amazon, Lyndale Avenue South, Loring Park, Minneapolis, Hennepin County, Minnesota, 55403, United States"
+        "Amazon Distribution, 2801, South Western Avenue, Lower West Side, Chicago, Cook County, Illinois, 60608, United States"
     ]
 }

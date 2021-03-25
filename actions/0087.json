@@ -1,38 +1,40 @@
 {
-    "id": 78,
-    "date": "2018/03/21",
+    "id": 77,
+    "date": "2018/03/06",
     "sources": [
-        "https://www.reuters.com/article/us-amazon-com-spain/spains-amazon-workers-call-two-day-strike-over-wages-rights-iduskcn1gp13l"
+        "https://www.mercurynews.com/2018/03/07/stanford-students-protest-outside-apple-headquarters-over-smartphone-addiction/"
     ],
     "actions": [
-        "strike"
+        "protest"
     ],
     "struggles": [
-        "pay and benefits"
+        "ethics"
     ],
     "employment_types": [
-        "blue collar workers"
+        "na"
     ],
-    "description": "Over one thousand Amazon workers in Spain plan to stage their first strike with a two-day walkout to protest what unions claim are efforts to reduce employees' rights. The union claimed the companies aims to block salary increases, cut wages and reduce payments for those working weekends or holidays as part of a new contract agreement.",
+    "description": "Stanford Students Against Addictive Devices, a group of computer science students at the university, stage a protest at Apple Headquarters. They call for Apple to design devices with an 'essential mode', allowing the user to activate only basic functions. The group previously held a protest at the Apple store in downtown Palo Alto.",
     "online": null,
     "locations": [
-        "madrid-spain"
+        "palo alto-california-usa"
     ],
     "companies": [
-        "amazon"
+        "apple"
     ],
-    "workers": 1100,
-    "tags": null,
+    "workers": null,
+    "tags": [
+        "students"
+    ],
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            40.4593249,
-            -3.4602878
+            37.4417249,
+            -122.1725159
         ]
     ],
     "addresses": [
-        "Amazon, Avenida de la Constituci\u00f3n, Torrej\u00f3n de Ardoz, \u00c1rea metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28850, Espa\u00f1a"
+        "Apple Store, 660, Stanford Shopping Center, Stanford, Palo Alto, Santa Clara County, California, 94025, United States"
     ]
 }

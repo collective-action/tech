@@ -1,37 +1,40 @@
 {
-    "id": 272,
-    "date": "2019/08/01",
+    "id": 166,
+    "date": "2019/07/26",
     "sources": [
-        "https://www.cbc.ca/news/canada/toronto/food-courier-union-1.5239414",
-        "https://www.cbc.ca/news/canada/toronto/foodora-union-vote-ends-1.5244950",
-        "https://nowtoronto.com/food-and-drink/food/foodora-union-ruling/",
-        "https://nowtoronto.com/food-and-drink/food/foodora-leaving-canada/"
+        "https://www.technologyreview.com/s/614055/youtube-union-ig-metall-labor-gdpr-privacy-policy-creators/",
+        "https://www.fairtube.info/en/"
     ],
     "actions": [
         "union representation"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "pay and benefits"
     ],
     "employment_types": [
         "gig workers"
     ],
-    "description": "Foodora couriers in Toronto are preparing to vote on union certification in what could create Canada's first unionized workforce of app-based workers. An application by the Canadian Union of Postal Workers was filed last week with the Ontario Labour Relations Board, months after a campaign was launched that addressed working conditions. The union says couriers intend to negotiate a better compensation model, health and safety protections when workers are injured and recognition of basic rights of workers that aren't recognized by Foodora, which classifies them as independent contractors. Update: In February 2020, the Ontario Labour Relations Board rules that Foodora workers are dependent contractors and have the right to unionize. In April 2020, Foodora announced it was pulling out of the Canadian market. ",
-    "online": null,
+    "description": "YouTubers Union joined with German trade union, IG Metall, to launch the FairTube campaign. The campaign is calling for greater transparency into YouTube's monetization policy, individual responses to queries about videos that have been taken down by the site, creation of an independent mediation board, and formal representation from content creators in the company's decision-making process. In addition, FairTube has argued that YouTube's data collection policy for uploaded videos violates the GDPR. Leadership has given YouTube until Aug. 23rd to respond, threatening legal action if they fail to do so. YouTubers Union is designed to serve as a union for YouTube content creators and has over 20,000 Facebook members as of August 9th, 2019 but it is not clear how many are actively involved in the campaign. It does not require dues from its members.",
+    "online": true,
     "locations": [
-        "toronto-ontario-canada"
+        "germany"
     ],
     "companies": [
-        "foodera"
+        "youtube",
+        "google"
     ],
     "workers": null,
-    "tags": [
-        "delivery_workers"
-    ],
+    "tags": null,
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            48.1386201,
+            11.5776179
+        ]
+    ],
+    "addresses": [
+        "Google, Hofgraben, Bezirksteil Graggenau, Altstadt-Lehel, M\u00fcnchen, Bayern, 80331, Deutschland"
+    ]
 }

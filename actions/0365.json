@@ -1,43 +1,41 @@
 {
-    "id": 391,
-    "date": "2021/02/11",
+    "id": 383,
+    "date": "2021/01/08",
     "sources": [
-        "https://www.theverge.com/2021/2/11/22278684/medium-union-unionizing-communications-workers-america",
-        "https://mediumworkersunion.org/",
-        "https://www.cnn.com/2021/02/11/media/medium-union/index.html"
+        "https://www.washingtonpost.com/technology/2021/01/08/twitter-trump-dorsey/"
     ],
     "actions": [
-        "union drive"
+        "open letter"
     ],
     "struggles": [
         "ethics"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "white collar workers"
     ],
-    "description": "Medium workers have announced they are forming a union. Over 140 Medium workers (reportedly 70% of eligible workers) have signed union cards in support of forming a union with the Communications Workers of America (CWA) Local 9410. They have called on management to voluntarily recognize the union. ",
-    "online": null,
+    "description": "Following the pro-Trump storming of the Capitol on January 6, roughly 350 Twitter employees signed an internal letter addressed to CEO Jack Dorsey and top executives questioning Twitter's policies and role in facilitating the attack. The employees requested an investigation into corporation actions over the last several years and asked for greater transparency to the company\u2019s decision-making process regarding Donald Trumps' Twitter account on the day of the attack.",
+    "online": true,
     "locations": [
         "usa"
     ],
     "companies": [
-        "medium"
+        "twitter"
     ],
-    "workers": 140,
+    "workers": 350,
     "tags": [
-        "cwa"
+        "trump",
+        "politics"
     ],
     "author": [
-        "fiona tay"
+        "CM"
     ],
     "latlngs": [
         [
-            41.3750149,
-            -83.6402779
+            37.7762709,
+            -122.41630688295965
         ]
     ],
     "addresses": [
-        "MEDIUM, 1001, East Wooster Street, Bowling Green, Wood County, Ohio, 43402, United States"
+        "Twitter, 875, Stevenson Street, Market Square, San Francisco, San Francisco City and County, California, 94102, United States"
     ]
 }

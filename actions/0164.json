@@ -1,34 +1,43 @@
 {
-    "id": 153,
-    "date": "2019/07/10",
+    "id": 152,
+    "date": "2019/06/30",
     "sources": [
-        "https://www.latimes.com/business/technology/la-fi-tn-gig-workers-ab5-lorena-gonzalez-uber-lyft-sacramento-20190710-story.html",
-        "https://www.latimes.com/business/technology/la-fi-tn-ab5-uber-lyft-rally-sacramento-pay-20190715-story.html"
+        "https://www.vox.com/platform/amp/recode/2019/6/28/19303292/google-protest-pride-parade-lgbtq-youtube-harassment",
+        "https://medium.com/@bangooglefrompride/ban-google-from-pride-to-march-in-protest-of-harassment-and-discrimination-on-youtube-d8dcc6fde06e",
+        "https://twitter.com/shiringhaffary/status/1145387654202048512?s=19"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "discrimination"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Hundreds of Uber and Lyft drivers from the Bay Area traveled to Sacramento to persuade legislators to vote in favor of Assembly Bill 5. This piece of legislation would require rideshare companies to extend employee benefits to their drivers, who are currently classified as independent contractors. Workers protested outside the Capitol building, spoke at a public comment session, and met with individual legislators to argue for the passing the bill. A separate coalition of drivers was organized to protest the bill on the grounds of maintaining flexible working hours. Uber encouraged drivers to attend an opposition rally via in-app notification, and both Uber and Lyft offered funding to cover certain fees associated with attending the rally. The Senate Labor Committee ultimately voted to pass the bill, sending it to the Senate floor.",
+    "description": "Google workers, under the name \u201cBan Google From Pride,\u201d protest their employer at Pride Parade amid controversy in the LGBTQ community over the company's harassment policies on YouTube videos.",
     "online": null,
     "locations": [
-        "sacramento-california-usa"
+        "san francisco-california-usa"
     ],
     "companies": [
-        "uber",
-        "lyft"
+        "google"
     ],
-    "workers": 100,
-    "tags": null,
+    "workers": 23,
+    "tags": [
+        "lgbtq"
+    ],
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.792377650000006,
+            -122.39172649835676
+        ]
+    ],
+    "addresses": [
+        "Google Community Space, 188, The Embarcadero, Rincon Hill, San Francisco, San Francisco City and County, California, 94105, United States"
+    ]
 }

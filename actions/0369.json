@@ -1,0 +1,36 @@
+{
+    "id": 409,
+    "date": "2021/01/22",
+    "sources": [
+        "https://www.irishtimes.com/news/ireland/irish-news/deliveroo-riders-across-dublin-strike-over-working-conditions-1.4465621"
+    ],
+    "actions": [
+        "protest",
+        "strike"
+    ],
+    "struggles": [
+        "pay and benefits",
+        "job security"
+    ],
+    "employment_types": [
+        "gig workers"
+    ],
+    "description": "Delivery drivers and restaurant owners in Dublin, Ireland organized to not work from 6pm - 8pm for the delivery platform, Deliveroo. Drivers have claimed their pay has been reduced and that they have been facing unsafe conditions while working. Some, restaurants that have their food delivered though the platform have decided to support the protest by not taking orders during the strike.",
+    "online": true,
+    "locations": [
+        "dublin-ireland"
+    ],
+    "companies": [
+        "deliveroo"
+    ],
+    "workers": null,
+    "tags": [
+        "coronavirus",
+        "delivery_workers"
+    ],
+    "author": [
+        "hyatt d."
+    ],
+    "latlngs": null,
+    "addresses": null
+}

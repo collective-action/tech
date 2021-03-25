@@ -1,43 +1,40 @@
 {
-    "id": 359,
-    "date": "2020/11/17",
+    "id": 355,
+    "date": "2020/10/26",
     "sources": [
-        "https://www.vice.com/en/article/n7vn9w/blue-collar-unions-fear-widespread-layoffs-in-silicon-valley"
+        "https://www.bbc.co.uk/news/amp/business-54698858"
     ],
     "actions": [
-        "protest"
+        "legal action"
     ],
     "struggles": [
-        "job security",
-        "pay and benefits"
+        "unfair labor practices"
     ],
     "employment_types": [
-        "blue collar workers"
+        "gig workers"
     ],
-    "description": "On Tuesday, dozens of those workers will protest outside the San Francisco home of the Verizon Media CEO Guru Gowrappan, and drop off letters demanding an extension of their healthcare coverage and pay (Verizon Media owns Yahoo). Though these workers are technically not employed by  Verizon Media, the decision to lay off the cafeteria workers was ultimately made by the company, which like most Silicon Valley tech companies contracts out its blue-collar labor. ",
+    "description": "British Uber drivers are launching a lawsuit in the Netherlands to protest the company's use of algorithms to fire workers. The App Drivers & Couriers Union (ADCU) claims there are over 1,000 cases of drivers being wrongfully fired and that this violates Article 22 of the GDPR. This Article grants technology users a right to an explanation for any automated decisions. ",
     "online": null,
     "locations": [
-        "san francisco-california-usa"
+        "netherlands"
     ],
     "companies": [
-        "verizon",
-        "yahoo"
+        "uber"
     ],
     "workers": null,
-    "tags": null,
-    "author": null,
+    "tags": [
+        "drivers"
+    ],
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": [
         [
-            37.7995723,
-            -122.4395345
-        ],
-        [
-            33.8306344,
-            -118.1440409
+            51.851619299999996,
+            6.305120020863311
         ]
     ],
     "addresses": [
-        "Verizon Wireless, Lombard Street, Cow Hollow, San Francisco, San Francisco City and County, California, 94123, United States",
-        "Yahoo, McGowen Street, Douglas Park, Long Beach, Los Angeles County, California, 990815, United States"
+        "Br\u00fccke \u00fcber den Netterdenschen Kanal, Emmerikseweg, Netterden, Oude IJsselstreek, Gelderland, Nederland, 7077AP, Nederland"
     ]
 }
