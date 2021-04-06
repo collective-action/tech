@@ -1841,7 +1841,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles County, California, 90094, United States",
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
             "Apple, Cupertino, Santa Clara County, California, United States",
             "Intel, 12220, Scripps Summit Drive, San Diego, San Diego County, California, 92131, United States",
             "Adobe, 333, Little Italy, San Jose, Santa Clara County, California, United States"
@@ -2288,7 +2288,7 @@
             ]
         ],
         "addresses": [
-            "Intel, Laydown Construction Area, Orenco, Hillsboro, Metro, Oregon, 97124-9433, United States"
+            "Intel, Northeast Ronler Drive, Orenco, Hillsboro, Metro, Oregon, 97124-9433, United States"
         ]
     },
     {
@@ -3137,13 +3137,13 @@
                 -117.83605415
             ],
             [
-                36.1678814,
-                -115.0624459
+                39.2018977,
+                -121.06317272425088
             ]
         ],
         "addresses": [
             "AT&T, 1302, North Tustin Street, Orange, Orange County, California, 92867, United States",
-            "AT&T, North Nellis Boulevard, Sunrise Manor, Las Vegas, Clark County, Nevada, 89110, United States"
+            "AT&T, Freeman Lane, Pine Creek Shopping Center, Boston Ravine, Grass Valley, Nevada County, California, 95949, United States"
         ]
     },
     {
@@ -3800,12 +3800,12 @@
         ],
         "latlngs": [
             [
-                42.3627717,
-                -71.087257
+                33.977092,
+                -118.4092133
             ]
         ],
         "addresses": [
-            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
         ]
     },
     {
@@ -4026,12 +4026,12 @@
         ],
         "latlngs": [
             [
-                42.3627717,
-                -71.087257
+                33.977092,
+                -118.4092133
             ]
         ],
         "addresses": [
-            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
         ]
     },
     {
@@ -4537,12 +4537,12 @@
         ],
         "latlngs": [
             [
-                42.3627717,
-                -71.087257
+                33.977092,
+                -118.4092133
             ]
         ],
         "addresses": [
-            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
         ]
     },
     {
@@ -4713,8 +4713,8 @@
         ],
         "latlngs": [
             [
-                42.3627717,
-                -71.087257
+                33.977092,
+                -118.4092133
             ],
             [
                 22.278428,
@@ -4722,7 +4722,7 @@
             ]
         ],
         "addresses": [
-            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States",
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
             "Google, 555, \u8ed2\u5c3c\u8a69\u9053 Hennessy Road, \u9d5d\u9838 Bowrington, \u9285\u947c\u7063 Causeway Bay, \u7063\u4ed4\u5340 Wan Chai District, \u9999\u6e2f\u5cf6 Hong Kong Island, \u9999\u6e2f Hong Kong, N/A, \u4e2d\u56fd"
         ]
     },
@@ -5442,12 +5442,12 @@
         ],
         "latlngs": [
             [
-                42.3627717,
-                -71.087257
+                33.977092,
+                -118.4092133
             ]
         ],
         "addresses": [
-            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
         ]
     },
     {
@@ -5483,12 +5483,12 @@
         ],
         "latlngs": [
             [
-                42.3627717,
-                -71.087257
+                33.977092,
+                -118.4092133
             ]
         ],
         "addresses": [
-            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
         ]
     },
     {
@@ -5858,12 +5858,12 @@
         ],
         "latlngs": [
             [
-                42.3627717,
-                -71.087257
+                33.977092,
+                -118.4092133
             ]
         ],
         "addresses": [
-            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
         ]
     },
     {
@@ -5989,12 +5989,12 @@
         ],
         "latlngs": [
             [
-                42.3627717,
-                -71.087257
+                33.977092,
+                -118.4092133
             ]
         ],
         "addresses": [
-            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
         ]
     },
     {
@@ -6039,7 +6039,7 @@
             ]
         ],
         "addresses": [
-            "\u7532\u9aa8\u6587\u5927\u53a6, \u8f6f\u4ef6\u56ed\u4e09\u53f7\u8def, \u4e2d\u5173\u6751\u8f6f\u4ef6\u56ed, \u5317\u4eac\u5e02, \u897f\u5317\u65fa\u9547, 100093, \u4e2d\u56fd"
+            "\u7532\u9aa8\u6587\u5927\u53a6, \u8f6f\u4ef6\u56ed\u4e09\u53f7\u8def, \u4e2d\u5173\u6751\u8f6f\u4ef6\u56ed, \u4e1c\u5317\u65fa\u6751, \u6d77\u6dc0\u533a, \u5317\u4eac\u5e02, 100093, \u4e2d\u56fd"
         ]
     },
     {
@@ -7073,12 +7073,12 @@
         ],
         "latlngs": [
             [
-                42.3627717,
-                -71.087257
+                33.977092,
+                -118.4092133
             ]
         ],
         "addresses": [
-            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
         ]
     },
     {
@@ -7372,12 +7372,12 @@
         ],
         "latlngs": [
             [
-                42.3627717,
-                -71.087257
+                33.977092,
+                -118.4092133
             ]
         ],
         "addresses": [
-            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
         ]
     },
     {
@@ -7851,12 +7851,12 @@
         ],
         "latlngs": [
             [
-                42.3627717,
-                -71.087257
+                33.977092,
+                -118.4092133
             ]
         ],
         "addresses": [
-            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
         ]
     },
     {
@@ -7976,12 +7976,12 @@
         ],
         "latlngs": [
             [
-                42.3627717,
-                -71.087257
+                33.977092,
+                -118.4092133
             ]
         ],
         "addresses": [
-            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
         ]
     },
     {
@@ -9223,12 +9223,12 @@
         ],
         "latlngs": [
             [
-                42.3627717,
-                -71.087257
+                33.977092,
+                -118.4092133
             ]
         ],
         "addresses": [
-            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
         ]
     },
     {
@@ -10219,12 +10219,12 @@
         ],
         "latlngs": [
             [
-                42.3627717,
-                -71.087257
+                33.977092,
+                -118.4092133
             ]
         ],
         "addresses": [
-            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
         ]
     },
     {
@@ -10655,12 +10655,12 @@
         ],
         "latlngs": [
             [
-                42.3627717,
-                -71.087257
+                33.977092,
+                -118.4092133
             ]
         ],
         "addresses": [
-            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
         ]
     },
     {
@@ -12194,12 +12194,12 @@
         ],
         "latlngs": [
             [
-                37.774879,
-                -122.39893244999999
+                37.777625900000004,
+                -122.39675767463473
             ]
         ],
         "addresses": [
-            "Pinterest, 149, Bluxome Street, South Beach, San Francisco, San Francisco City and County, California, 94017, United States"
+            "Pinterest, 505, Brannan Street, South of Market, San Francisco, San Francisco City and County, California, 94017, United States"
         ]
     },
     {
@@ -12563,8 +12563,8 @@
                 -112.1072224
             ],
             [
-                42.3627717,
-                -71.087257
+                33.977092,
+                -118.4092133
             ],
             [
                 37.76863735,
@@ -12581,7 +12581,7 @@
         ],
         "addresses": [
             "Amazon, Jefferson County, Montana, United States",
-            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States",
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
             "Uber, 1655, 3rd Street, Mission Bay, San Francisco, San Francisco City and County, California, 94158, United States",
             "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States",
             "UserTesting, 690, 5th Street, South of Market, San Francisco, San Francisco City and County, California, 94017, United States"
@@ -12734,7 +12734,7 @@
         "description": "A caravan of protestors demanding increased pay and COVID-19 protections disrupted business at an Amazon Distribution Center in the San Francisco Bay Area. The caravan was organized by Bay Area Amazonians.",
         "online": null,
         "locations": [
-            "San-Leandro-California-USA"
+            "san leandro-california-usa"
         ],
         "companies": [
             "amazon"
@@ -13212,7 +13212,7 @@
             ]
         ],
         "addresses": [
-            "Uber Nigeria HQ, 2, Onikoyi Road, Ikoyi, Lagos, Eti Osa, 20050, Nigeria"
+            "Uber Nigeria HQ, 2, Onikoyi Road, Ikoyi, Okepa, Eti Osa, Lagos, 20050, Nigeria"
         ]
     },
     {
@@ -13579,7 +13579,7 @@
             ]
         ],
         "addresses": [
-            "Whole Foods Market, West Jefferson Boulevard, Playa Vista, Los Angeles County, California, 90094, United States"
+            "Whole Foods Market, West Jefferson Boulevard, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
         ]
     },
     {
@@ -13772,7 +13772,7 @@
             ]
         ],
         "addresses": [
-            "Whole Foods Market, West Jefferson Boulevard, Playa Vista, Los Angeles County, California, 90094, United States"
+            "Whole Foods Market, West Jefferson Boulevard, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
         ]
     },
     {
@@ -13889,7 +13889,8 @@
         ],
         "workers": null,
         "tags": [
-            "politics"
+            "politics",
+            "coworker_solidarity"
         ],
         "author": [
             "nataliyaned"
@@ -14554,12 +14555,12 @@
         ],
         "latlngs": [
             [
-                42.3627717,
-                -71.087257
+                33.977092,
+                -118.4092133
             ]
         ],
         "addresses": [
-            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
         ]
     },
     {
@@ -14648,8 +14649,8 @@
                 -121.8844823
             ],
             [
-                42.3627717,
-                -71.087257
+                33.977092,
+                -118.4092133
             ],
             [
                 49.0336258,
@@ -14662,7 +14663,7 @@
         ],
         "addresses": [
             "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112-3580, United States",
-            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States",
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
             "Ruisseau Alphabet, Lac-au-Brochet, La Haute-C\u00f4te-Nord, C\u00f4te-Nord, Qu\u00e9bec, Canada",
             "Google Waterloo, 51, Breithaupt Street, Downtown, Kitchener, Region of Waterloo, Southwestern Ontario, Ontario, N2H 3X8, Canada"
         ]
@@ -14712,8 +14713,8 @@
                 -121.8844823
             ],
             [
-                42.3627717,
-                -71.087257
+                33.977092,
+                -118.4092133
             ],
             [
                 37.62814305,
@@ -14722,7 +14723,7 @@
         ],
         "addresses": [
             "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112-3580, United States",
-            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States",
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
             "YouTube, 900, Cherry Avenue, YouTube, San Bruno, San Mateo County, California, 94066, United States"
         ]
     },
@@ -15022,12 +15023,12 @@
         ],
         "latlngs": [
             [
-                42.3627717,
-                -71.087257
+                33.977092,
+                -118.4092133
             ]
         ],
         "addresses": [
-            "Google, 355, Main Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
         ]
     },
     {
@@ -15113,6 +15114,49 @@
         ],
         "addresses": [
             "Doordash HQ, 901, Market Street, Union Square, San Francisco, San Francisco City and County, California, 94103-3124, United States"
+        ]
+    },
+    {
+        "id": 411,
+        "date": "2021/02/26",
+        "sources": [
+            "https://venturebeat.com/2021/03/02/ai-ethics-research-conference-suspends-google-sponsorship/",
+            "https://twitter.com/geomblog/status/1365422379397124099"
+        ],
+        "actions": [
+            "protest"
+        ],
+        "struggles": [
+            "ethics"
+        ],
+        "employment_types": [
+            "white collar workers"
+        ],
+        "description": "The ACM Conference for Fairness, Accountability, and Transparency (ACM FAccT) organizers have decided not to continue their sponsorship with Google this year. Several press publications have noted the decision to drop Google follows the company's recent decision to fire Ethical AI co-leaders, Timnit Gebru and Margaret Mitchell. The conference's Executive Committee said they chose not to continue their relationship because they it does not align with their Strategic Plan, the goals outlined and agreed upon to guide the FAccT. Gebru was a cofounder of the organization and continues to advise the group. Mitchell is a program co-chair of the conference and a FAccT program committee member.",
+        "online": true,
+        "locations": [
+            "new york city-new york-usa"
+        ],
+        "companies": [
+            "google"
+        ],
+        "workers": null,
+        "tags": [
+            "academics",
+            "ai",
+            "industry solidarity"
+        ],
+        "author": [
+            "hyatt d."
+        ],
+        "latlngs": [
+            [
+                40.7417176,
+                -74.0041592
+            ]
+        ],
+        "addresses": [
+            "Google, 111, 8th Avenue, Chelsea, Manhattan Community Board 4, Manhattan, New York County, New York, 10011, United States"
         ]
     },
     {
@@ -15306,6 +15350,49 @@
         ],
         "addresses": [
             "Mobilize Physical Therapy, 3515, Northeast 45th Street, Seattle, King County, Washington, 98105, United States"
+        ]
+    },
+    {
+        "id": 412,
+        "date": "2021/03/22",
+        "sources": [
+            "https://www.bloomberg.com/news/articles/2021-03-30/youtube-refuses-to-remove-anti-asian-song-drawing-staff-ire",
+            "https://www.nbcnews.com/news/asian-america/youtube-declines-ban-video-anti-asian-lyrics-staff-outcry-rcna562"
+        ],
+        "actions": [
+            "protest"
+        ],
+        "struggles": [
+            "ethics",
+            "discrimination"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "Several of YouTube's employees raised concerns that a music video on the website, \"Meet the Flockers\" by YG, promotes racism towards Asian Americans. The video details a burglary and calls for targeting Chinese communities according to press reports. The employees requested that the company's Trust and Safety team pull the video from the site, which the company declined to do in a statement.",
+        "online": null,
+        "locations": [
+            "san bruno-california-usa"
+        ],
+        "companies": [
+            "youtube"
+        ],
+        "workers": null,
+        "tags": [
+            "antiracism"
+        ],
+        "author": [
+            "hyatt d."
+        ],
+        "latlngs": [
+            [
+                37.62814305,
+                -122.42521678541321
+            ]
+        ],
+        "addresses": [
+            "YouTube, 900, Cherry Avenue, YouTube, San Bruno, San Mateo County, California, 94066, United States"
         ]
     }
 ]

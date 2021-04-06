@@ -20,11 +20,11 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">29/03/2021 05:36AM</td>
+    <td data-summary="timestamp">06/04/2021 11:32AM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">379</td>
+    <td data-summary="action-count">381</td>
   </tr>
  </table>
 </div>
@@ -45,13 +45,28 @@ The goal of this archive is to provide data and insights on organizing in the te
   </tr>
   <tr author="hyatt d.">
    <td>
+    2021-03-22
+   </td>
+   <td>
+    Several of YouTube's employees raised concerns that a music video on the website, "Meet the Flockers" by YG, promotes racism towards Asian Americans. The video details a burglary and calls for targeting Chinese communities according to press reports. The employees requested that the company's Trust and Safety team pull the video from the site, which the company declined to do in a statement.
+   </td>
+   <td>
+    <a href="/actions/0380.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="hyatt d.">
+   <td>
     2021-03-15
    </td>
    <td>
     Workers for Mobilize have formed a union that is part of the CODE-CWA movement. Mobilize is owned by political tech company EveryAction. One hundred percent of eligible Mobilize workers voted to join the union after it was voluntarily recognized by EveryAction management. The union was created as a result of the EveryAction acquisition. Employees were negotiating new contracts and wanted to negotiate certain clauses collectively.
    </td>
    <td>
-    <a href="/actions/0378.json">
+    <a href="/actions/0379.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -66,7 +81,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     No Tech for Tyrants (NT4T) launched a campaign called #RecruitMeNot in response to Dr. Timnit Gebru being censored and fired at Google for refusing to do unethical practices. Dr. Gebru was Google's Lead AI ethics researcher. The #RecruitMeNot campaign asks students and researchers to refuse recruitment and job offers from Google until they meet the basic demands outlined by its employees.
    </td>
    <td>
-    <a href="/actions/0377.json">
+    <a href="/actions/0378.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -81,7 +96,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     #MakeAIEthical is a movement in response to Dr. Timnit Gebru and Dr. Margaret Mitchell, who were co-leaders of Google's AI ethics research being terminated and censored by Google for raising ethical concerns. #MakeAIEthical is asking the AI community to stand in solidarity such as asking universities to refuse funding from Google, for students to refuse recruitment from Google, and for federal and state whistleblower regulations be strengthened.
    </td>
    <td>
-    <a href="/actions/0376.json">
+    <a href="/actions/0377.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -96,7 +111,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Contract tech workers of Goodlord have been striking for two weeks because they are being fired and rehired for permanent contracts that have less favorable terms than their current contracts. The contracts have resulted in 20% pay decrease and will have the workers making 6,000 pounds less than the livable wage in London. The workers refuse to work until Goodlord negotiates with them for better pay and benefits. Goodlord is an online platform for tenants, agents, and landlords to utilize in the real estate market.
    </td>
    <td>
-    <a href="/actions/0375.json">
+    <a href="/actions/0376.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -109,6 +124,21 @@ The goal of this archive is to provide data and insights on organizing in the te
    </td>
    <td>
     Glitch workers signed a collective bargaining agreement with company management that will last for 11 months. According to a press release from the Communications Workers of America (CWA), this is the first agreement signed by white collar tech workers in the United States. The agreement did not include a call for higher wages because workers recognized that they are paid relatively high wages and that the company has faced economic pressures as a result of the pandemic. Instead, the contract improved job stability, ensuring "just cause" protections against firing and recall rights (priority for re-hiring for the same positions) for workers laid off due to the pandemic.
+   </td>
+   <td>
+    <a href="/actions/0375.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="hyatt d.">
+   <td>
+    2021-02-26
+   </td>
+   <td>
+    The ACM Conference for Fairness, Accountability, and Transparency (ACM FAccT) organizers have decided not to continue their sponsorship with Google this year. Several press publications have noted the decision to drop Google follows the company's recent decision to fire Ethical AI co-leaders, Timnit Gebru and Margaret Mitchell. The conference's Executive Committee said they chose not to continue their relationship because they it does not align with their Strategic Plan, the goals outlined and agreed upon to guide the FAccT. Gebru was a cofounder of the organization and continues to advise the group. Mitchell is a program co-chair of the conference and a FAccT program committee member.
    </td>
    <td>
     <a href="/actions/0374.json">
