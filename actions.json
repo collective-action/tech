@@ -740,7 +740,7 @@
         ],
         "addresses": [
             "IBM, 1051, East Hillsdale Boulevard, Foster City, San Mateo County, California, 94404, United States",
-            "HP, Peter Coutts Road, Palo Alto, Santa Clara County, California, 94304-1050, United States",
+            "HP, Page Mill Road, Palo Alto, Santa Clara County, California, 94304-1050, United States",
             "Microsoft Silicon Valley, Mountain View, Santa Clara County, California, United States"
         ]
     },
@@ -1035,7 +1035,7 @@
             ]
         ],
         "addresses": [
-            "LG, \u6816\u971e\u533a, \u5357\u4eac\u5e02, \u4e2d\u56fd"
+            "LG, \u6816\u971e\u533a, \u5357\u4eac\u5e02, \u6c5f\u82cf\u7701, \u4e2d\u56fd"
         ]
     },
     {
@@ -1323,12 +1323,12 @@
         ],
         "latlngs": [
             [
-                37.7756962,
-                -122.4180838
+                37.7899898,
+                -122.3999799
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, California, 94103, United States"
+            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States"
         ]
     },
     {
@@ -1738,12 +1738,12 @@
         ],
         "latlngs": [
             [
-                53.6987151,
-                -1.3042206
+                53.9603742,
+                -1.0712337
             ]
         ],
         "addresses": [
-            "Amazon Hub, Black Walk, St Thomas's Hill, Monkhill, Pontefract, Wakefield, West Yorkshire, Yorkshire and the Humber, England, WF8 2NP, United Kingdom"
+            "Amazon, Foss Islands Road, Foss Islands Retail Park, Layerthorpe, York, Yorkshire and the Humber, England, YO31 7UR, United Kingdom"
         ]
     },
     {
@@ -2239,8 +2239,8 @@
                 -122.03367714666899
             ],
             [
-                37.3496794,
-                -121.9009359
+                37.3504112,
+                -121.9016582
             ]
         ],
         "addresses": [
@@ -2427,12 +2427,12 @@
         ],
         "latlngs": [
             [
-                37.7756962,
-                -122.4180838
+                37.7899898,
+                -122.3999799
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, California, 94103, United States"
+            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States"
         ]
     },
     {
@@ -2592,12 +2592,12 @@
         ],
         "latlngs": [
             [
-                37.7756962,
-                -122.4180838
+                37.7899898,
+                -122.3999799
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, California, 94103, United States"
+            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States"
         ]
     },
     {
@@ -2785,12 +2785,12 @@
         ],
         "latlngs": [
             [
-                37.76863735,
-                -122.38842844055829
+                37.7899898,
+                -122.3999799
             ]
         ],
         "addresses": [
-            "Uber, 1655, 3rd Street, Mission Bay, San Francisco, San Francisco City and County, California, 94158, United States"
+            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States"
         ]
     },
     {
@@ -3137,13 +3137,13 @@
                 -117.83605415
             ],
             [
-                39.2018977,
-                -121.06317272425088
+                36.1678814,
+                -115.0624459
             ]
         ],
         "addresses": [
             "AT&T, 1302, North Tustin Street, Orange, Orange County, California, 92867, United States",
-            "AT&T, Freeman Lane, Pine Creek Shopping Center, Boston Ravine, Grass Valley, Nevada County, California, 95949, United States"
+            "AT&T, North Nellis Boulevard, Sunrise Manor, Las Vegas, Clark County, Nevada, 89110, United States"
         ]
     },
     {
@@ -3587,8 +3587,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.3596811,
+                127.1051699
+            ]
+        ],
+        "addresses": [
+            "NAVER, \ubd88\uc815\ub85c, \ubd84\ub2f9\uad6c, \uc131\ub0a8\uc2dc, \uacbd\uae30\ub3c4, 13562, \ub300\ud55c\ubbfc\uad6d"
+        ]
     },
     {
         "id": 80,
@@ -4067,12 +4074,12 @@
         ],
         "latlngs": [
             [
-                39.7737435,
-                -86.1611436
+                45.5328206,
+                -122.9032132
             ]
         ],
         "addresses": [
-            "Salesforce, 433, North Capitol Avenue, Fayette Street Conservation Area, Indianapolis, Marion, Indiana, 46204, United States"
+            "Salesforce, 2035, Northeast Cornelius Pass Road, Amberglen, Hillsboro, Metro, Oregon, 97124, United States"
         ]
     },
     {
@@ -4186,12 +4193,12 @@
         ],
         "latlngs": [
             [
-                37.4127525,
-                126.6891578
+                37.5226694,
+                127.0389764
             ]
         ],
         "addresses": [
-            "Samsung, \uacbd\uc6d0\ub300\ub85c, \uc5f0\uc2182\ub3d9, \uc5f0\uc218\ub3d9, \uc5f0\uc218\uad6c, \uc778\ucc9c, 21936, \ub300\ud55c\ubbfc\uad6d"
+            "Samsung, \uc120\ub989\ub85c, \ub17c\ud604\ub3d9, \uac15\ub0a8\uad6c, \uc11c\uc6b8, 06060, \ub300\ud55c\ubbfc\uad6d"
         ]
     },
     {
@@ -4581,7 +4588,7 @@
             ]
         ],
         "addresses": [
-            "Apron Lane, Beaumont, Riverside County, California, 92223, United States"
+            "Apron Lane, Beaumont, California, 92223, United States"
         ]
     },
     {
@@ -4636,8 +4643,8 @@
                 -1.0203988345038435
             ],
             [
-                53.6987151,
-                -1.3042206
+                53.9603742,
+                -1.0712337
             ]
         ],
         "addresses": [
@@ -4645,7 +4652,7 @@
             "Amazon, Augny, Metz, Moselle, Grand Est, France m\u00e9tropolitaine, 57685, France",
             "Amazon, Cascina Colombarone, Castel San Giovanni, Piacenza, Emilia-Romagna, Italia",
             "Amazon, Zaragoza, Arag\u00f3n, Espa\u00f1a",
-            "Amazon Hub, Black Walk, St Thomas's Hill, Monkhill, Pontefract, Wakefield, West Yorkshire, Yorkshire and the Humber, England, WF8 2NP, United Kingdom"
+            "Amazon, Foss Islands Road, Foss Islands Retail Park, Layerthorpe, York, Yorkshire and the Humber, England, YO31 7UR, United Kingdom"
         ]
     },
     {
@@ -4800,12 +4807,12 @@
         ],
         "latlngs": [
             [
-                37.7756962,
-                -122.4180838
+                37.7899898,
+                -122.3999799
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, California, 94103, United States"
+            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States"
         ]
     },
     {
@@ -6384,12 +6391,12 @@
         ],
         "latlngs": [
             [
-                37.406317,
-                -122.02122171852054
+                37.404940100000005,
+                -122.0214337065872
             ]
         ],
         "addresses": [
-            "Google MP7, Borregas Avenue, Sunnyvale, Santa Clara County, California, 94089, United States"
+            "Google MP1, Moffett Park Drive, Sunnyvale, Santa Clara County, California, 94089, United States"
         ]
     },
     {
@@ -6470,12 +6477,12 @@
         ],
         "latlngs": [
             [
-                37.792377650000006,
-                -122.39172649835676
+                37.7933154,
+                -122.3945205
             ]
         ],
         "addresses": [
-            "Google Community Space, 188, The Embarcadero, Rincon Hill, San Francisco, San Francisco City and County, California, 94105, United States"
+            "Google One Market, 1, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94111, United States"
         ]
     },
     {
@@ -6556,12 +6563,12 @@
         ],
         "latlngs": [
             [
-                37.792377650000006,
-                -122.39172649835676
+                37.7933154,
+                -122.3945205
             ]
         ],
         "addresses": [
-            "Google Community Space, 188, The Embarcadero, Rincon Hill, San Francisco, San Francisco City and County, California, 94105, United States"
+            "Google One Market, 1, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94111, United States"
         ]
     },
     {
@@ -6980,17 +6987,17 @@
         ],
         "latlngs": [
             [
-                37.7756962,
-                -122.4180838
+                37.7899898,
+                -122.3999799
             ],
             [
-                37.750721999999996,
-                -122.40243254779433
+                37.7759881,
+                -122.3919991
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, California, 94103, United States",
-            "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States"
+            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States",
+            "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States"
         ]
     },
     {
@@ -7027,17 +7034,17 @@
         ],
         "latlngs": [
             [
-                37.7756962,
-                -122.4180838
+                37.7899898,
+                -122.3999799
             ],
             [
-                37.750721999999996,
-                -122.40243254779433
+                37.7759881,
+                -122.3919991
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, California, 94103, United States",
-            "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States"
+            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States",
+            "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States"
         ]
     },
     {
@@ -7507,17 +7514,17 @@
         ],
         "latlngs": [
             [
-                37.7756962,
-                -122.4180838
+                37.7899898,
+                -122.3999799
             ],
             [
-                37.750721999999996,
-                -122.40243254779433
+                37.7759881,
+                -122.3919991
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, California, 94103, United States",
-            "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States"
+            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States",
+            "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States"
         ]
     },
     {
@@ -8297,7 +8304,7 @@
             ]
         ],
         "addresses": [
-            "Carnegie Mellon University, South Bellefield Avenue, North Oakland, Pittsburgh, Allegheny County, Pennsylvania, 15213, United States"
+            "Carnegie Mellon University, Randy Pausch Memorial Bridge, Squirrel Hill North, Pittsburgh, Allegheny County, Pennsylvania, 15213-3704, United States"
         ]
     },
     {
@@ -8568,12 +8575,12 @@
         ],
         "latlngs": [
             [
-                47.6490619,
-                -122.3479148
+                47.6476152,
+                -122.3383842
             ]
         ],
         "addresses": [
-            "Tableau Software, 837, North 34th Street, Fremont, Seattle, King County, Washington, 98103, United States"
+            "Tableau Software - NorthEdge, 1621, North 34th Street, Fremont, Seattle, King County, Washington, 98103, United States"
         ]
     },
     {
@@ -8708,17 +8715,17 @@
         ],
         "latlngs": [
             [
-                37.7756962,
-                -122.4180838
+                37.7899898,
+                -122.3999799
             ],
             [
-                37.750721999999996,
-                -122.40243254779433
+                37.7759881,
+                -122.3919991
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, California, 94103, United States",
-            "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States"
+            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States",
+            "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States"
         ]
     },
     {
@@ -8824,8 +8831,8 @@
         ],
         "latlngs": [
             [
-                37.792377650000006,
-                -122.39172649835676
+                37.7933154,
+                -122.3945205
             ],
             [
                 37.778011,
@@ -8840,16 +8847,26 @@
                 -73.9598257
             ],
             [
+                40.7417176,
+                -74.0041592
+            ],
+            [
                 40.7007485,
                 -73.9725542
+            ],
+            [
+                40.7308046,
+                -73.9916277
             ]
         ],
         "addresses": [
-            "Google Community Space, 188, The Embarcadero, Rincon Hill, San Francisco, San Francisco City and County, California, 94105, United States",
+            "Google One Market, 1, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94111, United States",
             "WeWork, Mission Street, West SoMa, San Francisco, San Francisco City and County, California, 94103, United States",
             "Facebook, Bayfront Expressway, Menlo Park, San Mateo County, California, 94025-1246, United States",
             "Kickstarter HQ, West Street, Brooklyn, Kings County, New York, 11222, United States",
-            "WeWork, Market Street, Brooklyn Navy Yard, Brooklyn, Kings County, New York, 11251, United States"
+            "Google, 111, 8th Avenue, Chelsea, Manhattan Community Board 4, Manhattan, New York County, New York, 10011, United States",
+            "WeWork, Market Street, Brooklyn Navy Yard, Brooklyn, Kings County, New York, 11251, United States",
+            "Facebook New York, Broadway, NoHo, Manhattan Community Board 2, Manhattan, New York County, New York, 10003, United States"
         ]
     },
     {
@@ -8931,12 +8948,12 @@
         ],
         "latlngs": [
             [
-                37.792377650000006,
-                -122.39172649835676
+                37.7933154,
+                -122.3945205
             ]
         ],
         "addresses": [
-            "Google Community Space, 188, The Embarcadero, Rincon Hill, San Francisco, San Francisco City and County, California, 94105, United States"
+            "Google One Market, 1, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94111, United States"
         ]
     },
     {
@@ -8980,13 +8997,13 @@
                 -122.08237793989416
             ],
             [
-                37.792377650000006,
-                -122.39172649835676
+                37.7933154,
+                -122.3945205
             ]
         ],
         "addresses": [
             "Google, Mountain View, Santa Clara County, California, United States",
-            "Google Community Space, 188, The Embarcadero, Rincon Hill, San Francisco, San Francisco City and County, California, 94105, United States"
+            "Google One Market, 1, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94111, United States"
         ]
     },
     {
@@ -9022,12 +9039,12 @@
         ],
         "latlngs": [
             [
-                37.792377650000006,
-                -122.39172649835676
+                37.7933154,
+                -122.3945205
             ]
         ],
         "addresses": [
-            "Google Community Space, 188, The Embarcadero, Rincon Hill, San Francisco, San Francisco City and County, California, 94105, United States"
+            "Google One Market, 1, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94111, United States"
         ]
     },
     {
@@ -9064,8 +9081,8 @@
         ],
         "latlngs": [
             [
-                40.6193387,
-                -74.0727749
+                40.6194923,
+                -74.0729948
             ]
         ],
         "addresses": [
@@ -9121,8 +9138,8 @@
                 7.4901388
             ],
             [
-                51.5369716,
-                6.5877929
+                51.5371004,
+                6.5876793
             ],
             [
                 51.653494949999995,
@@ -9719,17 +9736,17 @@
         ],
         "latlngs": [
             [
-                37.7756962,
-                -122.4180838
+                37.7899898,
+                -122.3999799
             ],
             [
-                37.750721999999996,
-                -122.40243254779433
+                37.7759881,
+                -122.3919991
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, California, 94103, United States",
-            "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States"
+            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States",
+            "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States"
         ]
     },
     {
@@ -10011,12 +10028,12 @@
         ],
         "latlngs": [
             [
-                37.7756962,
-                -122.4180838
+                37.7899898,
+                -122.3999799
             ],
             [
-                37.750721999999996,
-                -122.40243254779433
+                37.7759881,
+                -122.3919991
             ],
             [
                 37.7834546,
@@ -10024,8 +10041,8 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, California, 94103, United States",
-            "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States",
+            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States",
+            "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States",
             "Doordash HQ, Market Street, Union Square, San Francisco, San Francisco City and County, California, 94103-3124, United States"
         ]
     },
@@ -10558,25 +10575,25 @@
         ],
         "latlngs": [
             [
-                37.750721999999996,
-                -122.40243254779433
+                37.7759881,
+                -122.3919991
             ],
             [
-                37.7756962,
-                -122.4180838
+                37.7899898,
+                -122.3999799
             ],
             [
-                32.7768074,
-                -117.0684271
+                32.771334,
+                -117.06736
             ],
             [
-                32.7768074,
-                -117.0684271
+                32.771334,
+                -117.06736
             ]
         ],
         "addresses": [
-            "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States",
-            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, California, 94103, United States",
+            "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States",
+            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States",
             "Uber / Lyft Driver Drop Off, Campanile Mall, Montezuma Mesa, Del Cerro, San Diego, San Diego County, California, 92115, United States",
             "Uber / Lyft Driver Drop Off, Campanile Mall, Montezuma Mesa, Del Cerro, San Diego, San Diego County, California, 92115, United States"
         ]
@@ -10699,8 +10716,8 @@
         ],
         "latlngs": [
             [
-                40.6193387,
-                -74.0727749
+                40.6194923,
+                -74.0729948
             ]
         ],
         "addresses": [
@@ -10954,8 +10971,8 @@
         ],
         "latlngs": [
             [
-                40.6193387,
-                -74.0727749
+                40.6194923,
+                -74.0729948
             ]
         ],
         "addresses": [
@@ -11044,7 +11061,7 @@
             ]
         ],
         "addresses": [
-            "Amazon LGB3 Fulfillment Center, 4950, Goodman Way, Eastvale, Riverside County, California, 91752, United States"
+            "Amazon LGB3 Fulfillment Center, 4950, Goodman Way, Eastvale, California, 91752, United States"
         ]
     },
     {
@@ -11183,13 +11200,23 @@
             [
                 -34.5814605,
                 -58.4513731
+            ],
+            [
+                36.5558543,
+                -4.62768
+            ],
+            [
+                10.4233808,
+                -75.5463201
             ]
         ],
         "addresses": [
             "iFood, 1496, Avenida dos Autonomistas, Osasco, Regi\u00e3o Imediata de S\u00e3o Paulo, Regi\u00e3o Metropolitana de S\u00e3o Paulo, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de S\u00e3o Paulo, S\u00e3o Paulo, Regi\u00e3o Sudeste, 06020-010, Brasil",
             "Parque Uber, Jardim Bot\u00e2nico, Ribeir\u00e3o Preto, Regi\u00e3o Imediata de Ribeir\u00e3o Preto, Regi\u00e3o Metropolitana de Ribeir\u00e3o Preto, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Ribeir\u00e3o Preto, S\u00e3o Paulo, Regi\u00e3o Sudeste, Brasil",
             "Cristian Uber, Hinojo, Partido de Olavarr\u00eda, Buenos Aires, 7318, Argentina",
-            "Glovo, 3590, Avenida Federico Lacroze, Chacarita, Buenos Aires, Comuna 15, Ciudad Aut\u00f3noma de Buenos Aires, C1427EDN, Argentina"
+            "Glovo, 3590, Avenida Federico Lacroze, Chacarita, Buenos Aires, Comuna 15, Ciudad Aut\u00f3noma de Buenos Aires, C1427EDN, Argentina",
+            "ifood, A-387, MonteBello, Mijas, Costa del Sol Occidental, M\u00e1laga, Andaluc\u00eda, 29651, Espa\u00f1a",
+            "Rappi Town, Avenida del Centenario, Getseman\u00ed, Cartagena de Indias, Dique, Bol\u00edvar, Caribe, 3060, Colombia"
         ]
     },
     {
@@ -11347,12 +11374,12 @@
         ],
         "latlngs": [
             [
-                44.78839255,
-                -93.44285005008032
+                44.80059945,
+                -93.48865500885567
             ]
         ],
         "addresses": [
-            "Amazon Sortation Center MSP5, 5825, 11th Avenue East, Shakopee, Scott County, Minnesota, 55379, United States"
+            "Amazon Fullfillment Center MSP1, 2601, 4th Avenue East, Shakopee, Scott County, Minnesota, 55379, United States"
         ]
     },
     {
@@ -11610,12 +11637,12 @@
         ],
         "latlngs": [
             [
-                37.7756962,
-                -122.4180838
+                37.7899898,
+                -122.3999799
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, California, 94103, United States"
+            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States"
         ]
     },
     {
@@ -12049,7 +12076,7 @@
             ]
         ],
         "addresses": [
-            "Massachusetts Institute of Technology, Bishop Allen Drive, Central Square, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02139, United States"
+            "Massachusetts Institute of Technology, Sidney Street, University Park, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02139, United States"
         ]
     },
     {
@@ -12194,12 +12221,12 @@
         ],
         "latlngs": [
             [
-                37.777625900000004,
-                -122.39675767463473
+                37.774879,
+                -122.39893244999999
             ]
         ],
         "addresses": [
-            "Pinterest, 505, Brannan Street, South of Market, San Francisco, San Francisco City and County, California, 94017, United States"
+            "Pinterest, 149, Bluxome Street, South Beach, San Francisco, San Francisco City and County, California, 94017, United States"
         ]
     },
     {
@@ -12326,6 +12353,14 @@
                 -47.7985009230547
             ],
             [
+                43.6689691,
+                12.041964349868564
+            ],
+            [
+                49.5234659,
+                5.7641422
+            ],
+            [
                 47.2260752,
                 8.8172776
             ],
@@ -12353,6 +12388,8 @@
         "addresses": [
             "iFood, 1496, Avenida dos Autonomistas, Osasco, Regi\u00e3o Imediata de S\u00e3o Paulo, Regi\u00e3o Metropolitana de S\u00e3o Paulo, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de S\u00e3o Paulo, S\u00e3o Paulo, Regi\u00e3o Sudeste, 06020-010, Brasil",
             "Parque Uber, Jardim Bot\u00e2nico, Ribeir\u00e3o Preto, Regi\u00e3o Imediata de Ribeir\u00e3o Preto, Regi\u00e3o Metropolitana de Ribeir\u00e3o Preto, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Ribeir\u00e3o Preto, S\u00e3o Paulo, Regi\u00e3o Sudeste, Brasil",
+            "loggie, Via Arezzo, Pieve Santo Stefano, Arezzo, Toscana, 52036, Italia",
+            "iFood, Rue Victor Hugo, Longwy-Haut, Longwy, Briey, Meurthe-et-Moselle, Grand Est, France m\u00e9tropolitaine, 54400, France",
             "MI TIERRA AG - vinoteca argentina, 7, Alpenstrasse, Rapperswil, Rapperswil-Jona, Wahlkreis See-Gaster, Sankt Gallen, 8640, Schweiz/Suisse/Svizzera/Svizra",
             "Cristian Uber, Hinojo, Partido de Olavarr\u00eda, Buenos Aires, 7318, Argentina",
             "loggie, Via Arezzo, Pieve Santo Stefano, Arezzo, Toscana, 52036, Italia",
@@ -12567,12 +12604,12 @@
                 -118.4092133
             ],
             [
-                37.76863735,
-                -122.38842844055829
+                37.7899898,
+                -122.3999799
             ],
             [
-                37.750721999999996,
-                -122.40243254779433
+                37.7759881,
+                -122.3919991
             ],
             [
                 37.7753423,
@@ -12582,8 +12619,8 @@
         "addresses": [
             "Amazon, Jefferson County, Montana, United States",
             "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
-            "Uber, 1655, 3rd Street, Mission Bay, San Francisco, San Francisco City and County, California, 94158, United States",
-            "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States",
+            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States",
+            "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States",
             "UserTesting, 690, 5th Street, South of Market, San Francisco, San Francisco City and County, California, 94017, United States"
         ]
     },
@@ -12983,12 +13020,12 @@
         ],
         "latlngs": [
             [
-                37.792377650000006,
-                -122.39172649835676
+                37.7933154,
+                -122.3945205
             ]
         ],
         "addresses": [
-            "Google Community Space, 188, The Embarcadero, Rincon Hill, San Francisco, San Francisco City and County, California, 94105, United States"
+            "Google One Market, 1, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94111, United States"
         ]
     },
     {
@@ -13092,8 +13129,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                48.1436497,
+                11.5576006
+            ]
+        ],
+        "addresses": [
+            "FOODORA, Marsstra\u00dfe, Bezirksteil Augustenstra\u00dfe, Maxvorstadt, M\u00fcnchen, Bayern, 80335, Deutschland"
+        ]
     },
     {
         "id": 318,
@@ -13352,8 +13396,8 @@
         ],
         "latlngs": [
             [
-                37.792377650000006,
-                -122.39172649835676
+                37.7933154,
+                -122.3945205
             ],
             [
                 40.572519,
@@ -13361,7 +13405,7 @@
             ]
         ],
         "addresses": [
-            "Google Community Space, 188, The Embarcadero, Rincon Hill, San Francisco, San Francisco City and County, California, 94105, United States",
+            "Google One Market, 1, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94111, United States",
             "Adecco, 1080, East Cypress Avenue, Redding, Shasta County, California, 96002, United States"
         ]
     },
@@ -13407,16 +13451,16 @@
                 -0.1258455
             ],
             [
-                53.6987151,
-                -1.3042206
+                53.9603742,
+                -1.0712337
             ],
             [
                 51.5149845,
                 -0.1421889
             ],
             [
-                50.37282545,
-                -4.142090821421398
+                52.6257484,
+                1.2905940715942223
             ],
             [
                 51.5314216,
@@ -13425,9 +13469,9 @@
         ],
         "addresses": [
             "Google, Pancras Road, St Pancras, London Borough of Camden, London, Greater London, England, N1C 4BJ, United Kingdom",
-            "Amazon Hub, Black Walk, St Thomas's Hill, Monkhill, Pontefract, Wakefield, West Yorkshire, Yorkshire and the Humber, England, WF8 2NP, United Kingdom",
+            "Amazon, Foss Islands Road, Foss Islands Retail Park, Layerthorpe, York, Yorkshire and the Humber, England, YO31 7UR, United Kingdom",
             "Microsoft Store, Regent Street, Fitzrovia, City of Westminster, London, Greater London, England, W1B 2EP, United Kingdom",
-            "Samsung Support Centre, 156, Armada Way, Barbican, Plymouth, South West England, England, PL1 1LB, United Kingdom",
+            "Samsung, 143, Merchants' Hall, Heigham Grove, Norwich, Norfolk, East of England, England, NR2 1SH, United Kingdom",
             "Deliveroo, Pentonville Road, Pentonville, Barnsbury, London Borough of Islington, London, Greater London, England, N1 9JB, United Kingdom"
         ]
     },
@@ -13532,12 +13576,12 @@
         ],
         "latlngs": [
             [
-                44.78839255,
-                -93.44285005008032
+                44.80059945,
+                -93.48865500885567
             ]
         ],
         "addresses": [
-            "Amazon Sortation Center MSP5, 5825, 11th Avenue East, Shakopee, Scott County, Minnesota, 55379, United States"
+            "Amazon Fullfillment Center MSP1, 2601, 4th Avenue East, Shakopee, Scott County, Minnesota, 55379, United States"
         ]
     },
     {
@@ -13935,12 +13979,12 @@
         ],
         "latlngs": [
             [
-                37.7756962,
-                -122.4180838
+                37.7899898,
+                -122.3999799
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, California, 94103, United States"
+            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States"
         ]
     },
     {
@@ -14093,8 +14137,8 @@
         "author": null,
         "latlngs": [
             [
-                37.7995723,
-                -122.4395345
+                37.7921546,
+                -122.3995993
             ],
             [
                 33.8306344,
@@ -14102,8 +14146,8 @@
             ]
         ],
         "addresses": [
-            "Verizon Wireless, Lombard Street, Cow Hollow, San Francisco, San Francisco City and County, California, 94123, United States",
-            "Yahoo, McGowen Street, Douglas Park, Long Beach, Los Angeles County, California, 990815, United States"
+            "Verizon Wireless, Pine Street, Financial District, San Francisco, San Francisco City and County, California, 94111, United States",
+            "Yahoo, McGowen Street, Douglas Park, Long Beach, Los Angeles County, California, 90846, United States"
         ]
     },
     {
@@ -14511,12 +14555,12 @@
         ],
         "latlngs": [
             [
-                31.2350886,
-                121.4754904
+                31.2394928,
+                121.4796694
             ]
         ],
         "addresses": [
-            "Apple Store, \u798f\u5dde\u8def, \u5357\u4eac\u4e1c\u8def\u8857\u9053, \u4e0a\u6d77\u5e02, \u9ec4\u6d66\u533a, 200085, \u4e2d\u56fd"
+            "Apple Store, 300 \u53f7, \u5357\u4eac\u4e1c\u8def, \u5916\u6ee9\u8857\u9053, \u738b\u5bb6\u5b85\u793e\u533a, \u9ec4\u6d66\u533a, \u4e0a\u6d77\u5e02, 200002, \u4e2d\u56fd"
         ]
     },
     {
@@ -14653,19 +14697,19 @@
                 -118.4092133
             ],
             [
-                49.0336258,
-                -69.6817118
+                49.0050388,
+                -69.6857183
             ],
             [
-                43.454190600000004,
-                -80.4995755859922
+                43.4510812,
+                -80.4987516
             ]
         ],
         "addresses": [
             "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112-3580, United States",
             "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
             "Ruisseau Alphabet, Lac-au-Brochet, La Haute-C\u00f4te-Nord, C\u00f4te-Nord, Qu\u00e9bec, Canada",
-            "Google Waterloo, 51, Breithaupt Street, Downtown, Kitchener, Region of Waterloo, Southwestern Ontario, Ontario, N2H 3X8, Canada"
+            "Google Waterloo, 151, Charles Street West, Downtown, Kitchener, Region of Waterloo, Southwestern Ontario, Ontario, N2G 1H6, Canada"
         ]
     },
     {
@@ -14717,14 +14761,14 @@
                 -118.4092133
             ],
             [
-                37.62814305,
-                -122.42521678541321
+                37.628145950000004,
+                -122.4264270211096
             ]
         ],
         "addresses": [
             "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112-3580, United States",
             "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
-            "YouTube, 900, Cherry Avenue, YouTube, San Bruno, San Mateo County, California, 94066, United States"
+            "YouTube, 901, Cherry Avenue, YouTube, San Bruno, San Mateo County, California, 94066, United States"
         ]
     },
     {
@@ -14760,12 +14804,12 @@
         ],
         "latlngs": [
             [
-                37.7762709,
-                -122.41630688295965
+                37.7767817,
+                -122.416792
             ]
         ],
         "addresses": [
-            "Twitter, 875, Stevenson Street, Market Square, San Francisco, San Francisco City and County, California, 94102, United States"
+            "Twitter, Market Street, Civic Center, San Francisco, San Francisco City and County, California, 94102, United States"
         ]
     },
     {
@@ -14893,12 +14937,12 @@
         ],
         "latlngs": [
             [
-                37.7756962,
-                -122.4180838
+                37.7899898,
+                -122.3999799
             ],
             [
-                37.750721999999996,
-                -122.40243254779433
+                37.7759881,
+                -122.3919991
             ],
             [
                 37.7834546,
@@ -14906,8 +14950,8 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, California, 94103, United States",
-            "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States",
+            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States",
+            "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States",
             "Doordash HQ, Market Street, Union Square, San Francisco, San Francisco City and County, California, 94103-3124, United States"
         ]
     },
@@ -15190,8 +15234,8 @@
         "author": null,
         "latlngs": [
             [
-                35.6006784,
-                -82.3119169
+                35.599386,
+                -82.31032
             ]
         ],
         "addresses": [
@@ -15387,12 +15431,12 @@
         ],
         "latlngs": [
             [
-                37.62814305,
-                -122.42521678541321
+                37.628145950000004,
+                -122.4264270211096
             ]
         ],
         "addresses": [
-            "YouTube, 900, Cherry Avenue, YouTube, San Bruno, San Mateo County, California, 94066, United States"
+            "YouTube, 901, Cherry Avenue, YouTube, San Bruno, San Mateo County, California, 94066, United States"
         ]
     }
 ]

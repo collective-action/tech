@@ -35,8 +35,8 @@
     ],
     "latlngs": [
         [
-            37.792377650000006,
-            -122.39172649835676
+            37.7933154,
+            -122.3945205
         ],
         [
             37.778011,
@@ -51,15 +51,25 @@
             -73.9598257
         ],
         [
+            40.7417176,
+            -74.0041592
+        ],
+        [
             40.7007485,
             -73.9725542
+        ],
+        [
+            40.7308046,
+            -73.9916277
         ]
     ],
     "addresses": [
-        "Google Community Space, 188, The Embarcadero, Rincon Hill, San Francisco, San Francisco City and County, California, 94105, United States",
+        "Google One Market, 1, Market Street, Financial District, San Francisco, San Francisco City and County, California, 94111, United States",
         "WeWork, Mission Street, West SoMa, San Francisco, San Francisco City and County, California, 94103, United States",
         "Facebook, Bayfront Expressway, Menlo Park, San Mateo County, California, 94025-1246, United States",
         "Kickstarter HQ, West Street, Brooklyn, Kings County, New York, 11222, United States",
-        "WeWork, Market Street, Brooklyn Navy Yard, Brooklyn, Kings County, New York, 11251, United States"
+        "Google, 111, 8th Avenue, Chelsea, Manhattan Community Board 4, Manhattan, New York County, New York, 10011, United States",
+        "WeWork, Market Street, Brooklyn Navy Yard, Brooklyn, Kings County, New York, 11251, United States",
+        "Facebook New York, Broadway, NoHo, Manhattan Community Board 2, Manhattan, New York County, New York, 10003, United States"
     ]
 }

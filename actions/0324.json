@@ -28,6 +28,13 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            48.1436497,
+            11.5576006
+        ]
+    ],
+    "addresses": [
+        "FOODORA, Marsstra\u00dfe, Bezirksteil Augustenstra\u00dfe, Maxvorstadt, M\u00fcnchen, Bayern, 80335, Deutschland"
+    ]
 }
