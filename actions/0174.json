@@ -31,16 +31,16 @@
     ],
     "latlngs": [
         [
-            37.76863735,
-            -122.38842844055829
+            37.7756962,
+            -122.4180838
         ],
         [
-            37.7509149,
-            -122.40246883416269
+            37.750721999999996,
+            -122.40243254779433
         ]
     ],
     "addresses": [
-        "Uber, 1655, 3rd Street, Mission Bay, San Francisco, San Francisco City and County, San Francisco, California, 94158, United States",
-        "Lyft, Kansas Street, Potrero Terrace, San Francisco, San Francisco City and County, San Francisco, California, 94124, United States"
+        "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States",
+        "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, San Francisco, California, 94124, United States"
     ]
 }

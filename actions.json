@@ -1328,7 +1328,7 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, California, 94103, United States"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States"
         ]
     },
     {
@@ -2432,7 +2432,7 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, California, 94103, United States"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States"
         ]
     },
     {
@@ -2968,7 +2968,7 @@
         "addresses": [
             "Facebook, Bayfront Expressway, Menlo Park, San Mateo County, California, 94025-1246, United States",
             "Cisco Way, East Tasman Drive, Cisco Systems, San Jose, Santa Clara County, California, 95134, United States",
-            "Genentech Hall, Roger Evans Terrace, Mission Bay, San Francisco, San Francisco City and County, California, United States"
+            "Genentech Hall, Roger Evans Terrace, Mission Bay, San Francisco, San Francisco City and County, San Francisco, California, United States"
         ]
     },
     {
@@ -4349,7 +4349,7 @@
             ]
         ],
         "addresses": [
-            "San Francisco, San Francisco City and County, California, United States"
+            "San Francisco, San Francisco City and County, San Francisco, California, 94102, United States"
         ]
     },
     {
@@ -4812,7 +4812,7 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, California, 94103, United States"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States"
         ]
     },
     {
@@ -5707,7 +5707,7 @@
         ],
         "addresses": [
             "Microsoft, Ayrsley, Charlotte, Mecklenburg County, North Carolina, United States",
-            "GitHub, 88, Colin P. Kelly Junior Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States"
+            "GitHub, 88, Colin P. Kelly Junior Street, South Beach, San Francisco, San Francisco City and County, San Francisco, California, 94107, United States"
         ]
     },
     {
@@ -6482,7 +6482,7 @@
             ]
         ],
         "addresses": [
-            "Google Community Space, 188, The Embarcadero, Rincon Hill, San Francisco, San Francisco City and County, California, 94105, United States"
+            "Google Community Space, 188, The Embarcadero, Rincon Hill, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States"
         ]
     },
     {
@@ -6987,17 +6987,17 @@
         ],
         "latlngs": [
             [
-                37.76863735,
-                -122.38842844055829
+                37.7756962,
+                -122.4180838
             ],
             [
-                37.7509149,
-                -122.40246883416269
+                37.750721999999996,
+                -122.40243254779433
             ]
         ],
         "addresses": [
-            "Uber, 1655, 3rd Street, Mission Bay, San Francisco, San Francisco City and County, San Francisco, California, 94158, United States",
-            "Lyft, Kansas Street, Potrero Terrace, San Francisco, San Francisco City and County, San Francisco, California, 94124, United States"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States",
+            "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, San Francisco, California, 94124, United States"
         ]
     },
     {
@@ -7432,7 +7432,7 @@
             ]
         ],
         "addresses": [
-            "Doordash HQ, Market Street, Union Square, San Francisco, San Francisco City and County, California, 94103-3124, United States",
+            "Doordash HQ, Market Street, Union Square, San Francisco, San Francisco City and County, San Francisco, California, 94103-3124, United States",
             "Caviar Creek, Nome, Alaska, United States",
             "The Square, Tallahassee, Leon County, Florida, United States"
         ]
@@ -7514,8 +7514,8 @@
         ],
         "latlngs": [
             [
-                37.76863735,
-                -122.38842844055829
+                37.7756962,
+                -122.4180838
             ],
             [
                 37.750721999999996,
@@ -7523,8 +7523,8 @@
             ]
         ],
         "addresses": [
-            "Uber, 1655, 3rd Street, Mission Bay, San Francisco, San Francisco City and County, San Francisco, California, 94158, United States",
-            "Lyft, 26th Street, Potrero Terrace, San Francisco City and County, California, 94124, United States"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States",
+            "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, San Francisco, California, 94124, United States"
         ]
     },
     {
@@ -8383,7 +8383,7 @@
             ]
         ],
         "addresses": [
-            "GitHub, 88, Colin P. Kelly Junior Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States",
+            "GitHub, 88, Colin P. Kelly Junior Street, South Beach, San Francisco, San Francisco City and County, San Francisco, California, 94107, United States",
             "Microsoft, Ayrsley, Charlotte, Mecklenburg County, North Carolina, United States"
         ]
     },
@@ -8724,8 +8724,8 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, California, 94103, United States",
-            "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States",
+            "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, San Francisco, California, 94124, United States"
         ]
     },
     {
@@ -8860,8 +8860,8 @@
             ]
         ],
         "addresses": [
-            "Google Community Space, 188, The Embarcadero, Rincon Hill, San Francisco, San Francisco City and County, California, 94105, United States",
-            "WeWork, Mission Street, West SoMa, San Francisco, San Francisco City and County, California, 94103, United States",
+            "Google Community Space, 188, The Embarcadero, Rincon Hill, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States",
+            "WeWork, Mission Street, West SoMa, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States",
             "Facebook, Bayfront Expressway, Menlo Park, San Mateo County, California, 94025-1246, United States",
             "Kickstarter HQ, West Street, Brooklyn, Kings County, New York, 11222, United States",
             "Google, 111, 8th Avenue, Chelsea, Manhattan Community Board 4, Manhattan, New York County, New York, 10011, United States",
@@ -8912,7 +8912,7 @@
             ]
         ],
         "addresses": [
-            "GitHub, 88, Colin P. Kelly Junior Street, South Beach, San Francisco, San Francisco City and County, California, 94107, United States",
+            "GitHub, 88, Colin P. Kelly Junior Street, South Beach, San Francisco, San Francisco City and County, San Francisco, California, 94107, United States",
             "Microsoft Company Store, La Avenida Street, Mountain View, Santa Clara County, California, 94043-3421, United States"
         ]
     },
@@ -9398,7 +9398,7 @@
             ]
         ],
         "addresses": [
-            "SPiN SF, 690, Folsom Street, South of Market, San Francisco, San Francisco City and County, California, 94105, United States"
+            "SPiN SF, 690, Folsom Street, South of Market, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States"
         ]
     },
     {
@@ -9745,8 +9745,8 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, California, 94103, United States",
-            "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States",
+            "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, San Francisco, California, 94124, United States"
         ]
     },
     {
@@ -10041,9 +10041,9 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, California, 94103, United States",
-            "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States",
-            "Doordash HQ, Market Street, Union Square, San Francisco, San Francisco City and County, California, 94103-3124, United States"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States",
+            "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, San Francisco, California, 94124, United States",
+            "Doordash HQ, Market Street, Union Square, San Francisco, San Francisco City and County, San Francisco, California, 94103-3124, United States"
         ]
     },
     {
@@ -11642,7 +11642,7 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, California, 94103, United States"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States"
         ]
     },
     {
@@ -12619,9 +12619,9 @@
         "addresses": [
             "Amazon, Jefferson County, Montana, United States",
             "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
-            "Uber, 1655, 3rd Street, Mission Bay, San Francisco, San Francisco City and County, California, 94158, United States",
-            "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States",
-            "UserTesting, 690, 5th Street, South of Market, San Francisco, San Francisco City and County, California, 94017, United States"
+            "Uber, 1655, 3rd Street, Mission Bay, San Francisco, San Francisco City and County, San Francisco, California, 94158, United States",
+            "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, San Francisco, California, 94124, United States",
+            "UserTesting, 690, 5th Street, South of Market, San Francisco, San Francisco City and County, San Francisco, California, 94017, United States"
         ]
     },
     {
@@ -13025,7 +13025,7 @@
             ]
         ],
         "addresses": [
-            "Google Community Space, 188, The Embarcadero, Rincon Hill, San Francisco, San Francisco City and County, California, 94105, United States"
+            "Google Community Space, 188, The Embarcadero, Rincon Hill, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States"
         ]
     },
     {
@@ -13405,7 +13405,7 @@
             ]
         ],
         "addresses": [
-            "Google Community Space, 188, The Embarcadero, Rincon Hill, San Francisco, San Francisco City and County, California, 94105, United States",
+            "Google Community Space, 188, The Embarcadero, Rincon Hill, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States",
             "Adecco, 1080, East Cypress Avenue, Redding, Shasta County, California, 96002, United States"
         ]
     },
@@ -13984,7 +13984,7 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, California, 94103, United States"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States"
         ]
     },
     {
@@ -14146,7 +14146,7 @@
             ]
         ],
         "addresses": [
-            "Verizon Wireless, Lombard Street, Cow Hollow, San Francisco, San Francisco City and County, California, 94123, United States",
+            "Verizon Wireless, Lombard Street, Cow Hollow, San Francisco, San Francisco City and County, San Francisco, California, 94123, United States",
             "Yahoo, McGowen Street, Douglas Park, Long Beach, Los Angeles County, California, 990815, United States"
         ]
     },
@@ -14809,7 +14809,7 @@
             ]
         ],
         "addresses": [
-            "Twitter, 875, Stevenson Street, Market Square, San Francisco, San Francisco City and County, California, 94102, United States"
+            "Twitter, 875, Stevenson Street, Market Square, San Francisco, San Francisco City and County, San Francisco, California, 94102, United States"
         ]
     },
     {
@@ -14855,7 +14855,7 @@
             ]
         ],
         "addresses": [
-            "GitHub, 88, Colin P. Kelly Junior Street, South Beach, San Francisco City and County, California, 94107, United States"
+            "GitHub, 88, Colin P. Kelly Junior Street, South Beach, San Francisco, San Francisco City and County, San Francisco, California, 94107, United States"
         ]
     },
     {
@@ -14950,9 +14950,9 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, California, 94103, United States",
-            "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, California, 94124, United States",
-            "Doordash HQ, Market Street, Union Square, San Francisco, San Francisco City and County, California, 94103-3124, United States"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States",
+            "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, San Francisco, California, 94124, United States",
+            "Doordash HQ, Market Street, Union Square, San Francisco, San Francisco City and County, San Francisco, California, 94103-3124, United States"
         ]
     },
     {
