@@ -1,0 +1,47 @@
+{
+    "id": 413,
+    "date": "2021/04/01",
+    "sources": [
+        "https://www.bbc.com/news/technology-56659212",
+        "https://cwa-union.org/sites/default/files/20210331_nlrbsettlement_alphabet_modis.pdf",
+        "https://www2.staffingindustry.com/Editorial/Daily-News/Google-union-reports-NLRB-settlement-contingent-worker-s-suspension-rescinded-57218"
+    ],
+    "actions": [
+        "legal action"
+    ],
+    "struggles": [
+        "unfair labor practices",
+        "pay and benefits",
+        "working conditions"
+    ],
+    "employment_types": [
+        "contract workers",
+        "blue collar workers"
+    ],
+    "description": "In February, the Alphabet Worker's Union filed two lawsuits against Google for unfair labor practices on behalf of Shannon Wait, a contractor at Google and member of the union. The first lawsuit contested Wait's illegal suspension for supporting a union. The second lawsuit alleged that managers illegally asked Wait and other employees not to discuss their wages. Google, Modis (the contracting firm), and the AWU reached a settlement and had Wait's suspension overturned. Google signed a document that its employees had the right to discuss wage, bonuses, and working conditions. This is the first NLRB settlement with the AWU.",
+    "online": null,
+    "locations": [
+        "south carolina-usa"
+    ],
+    "companies": [
+        "google",
+        "modis",
+        "adecco"
+    ],
+    "workers": null,
+    "tags": [
+        "cwa"
+    ],
+    "author": [
+        "hyatt d."
+    ],
+    "latlngs": [
+        [
+            33.063544750000005,
+            -80.04270395155184
+        ]
+    ],
+    "addresses": [
+        "Google Data Center, Berkeley County, South Carolina, United States"
+    ]
+}
