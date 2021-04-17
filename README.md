@@ -20,7 +20,7 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">17/04/2021 09:34AM</td>
+    <td data-summary="timestamp">17/04/2021 10:28AM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
@@ -48,7 +48,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2021-03-22
    </td>
    <td>
-    Several of YouTube's employees raised concerns that a music video on the website, "Meet the Flockers" by YG, promotes racism towards Asian Americans. The video details a burglary and calls for targeting Chinese communities according to press reports. The employees requested that the company's Trust and Safety team pull the video from the site, which the company declined to do in a statement.
+    Several of YouTube's employees raised concerns that a music video on the website, "Meet the Flockers" by YG, promotes racism towards Asian Americans. The video details a burglary and calls for targeting Chinese communities according to press reports. The employees requested that the company's Trust and Safety team pull the video from the site, which the company declined to do in a statement. Update: In early April, several newspapers reported that the video had been removed from the website.
    </td>
    <td>
     <a href="/actions/0380.json">
