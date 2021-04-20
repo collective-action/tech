@@ -4349,7 +4349,7 @@
             ]
         ],
         "addresses": [
-            "San Francisco, San Francisco City and County, San Francisco, California, 94102, United States"
+            "San Francisco, San Francisco City and County, San Francisco, California, United States"
         ]
     },
     {
@@ -6991,13 +6991,13 @@
                 -122.3999799
             ],
             [
-                37.750721999999996,
-                -122.40243254779433
+                37.7759881,
+                -122.3919991
             ]
         ],
         "addresses": [
             "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States",
-            "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, San Francisco, California, 94124, United States"
+            "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, San Francisco, California, 94107, United States"
         ]
     },
     {
@@ -7518,13 +7518,13 @@
                 -122.3999799
             ],
             [
-                37.750721999999996,
-                -122.40243254779433
+                37.7759881,
+                -122.3919991
             ]
         ],
         "addresses": [
-            "Uber, Market Street, Financial District, San Francisco City and County, San Francisco, California, 94105, United States",
-            "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, San Francisco, California, 94124, United States"
+            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States",
+            "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, San Francisco, California, 94107, United States"
         ]
     },
     {
@@ -8719,13 +8719,13 @@
                 -122.3999799
             ],
             [
-                37.750721999999996,
-                -122.40243254779433
+                37.7759881,
+                -122.3919991
             ]
         ],
         "addresses": [
             "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States",
-            "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, San Francisco, California, 94124, United States"
+            "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, San Francisco, California, 94107, United States"
         ]
     },
     {
@@ -9740,13 +9740,13 @@
                 -122.3999799
             ],
             [
-                37.750721999999996,
-                -122.40243254779433
+                37.7759881,
+                -122.3919991
             ]
         ],
         "addresses": [
             "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States",
-            "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, San Francisco, California, 94124, United States"
+            "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, San Francisco, California, 94107, United States"
         ]
     },
     {
@@ -10032,8 +10032,8 @@
                 -122.3999799
             ],
             [
-                37.750721999999996,
-                -122.40243254779433
+                37.7759881,
+                -122.3919991
             ],
             [
                 37.7834546,
@@ -10042,7 +10042,7 @@
         ],
         "addresses": [
             "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States",
-            "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, San Francisco, California, 94124, United States",
+            "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, San Francisco, California, 94107, United States",
             "Doordash HQ, Market Street, Union Square, San Francisco, San Francisco City and County, San Francisco, California, 94103-3124, United States"
         ]
     },
@@ -10575,8 +10575,8 @@
         ],
         "latlngs": [
             [
-                37.750721999999996,
-                -122.40243254779433
+                37.7759881,
+                -122.3919991
             ],
             [
                 37.7899898,
@@ -10592,7 +10592,7 @@
             ]
         ],
         "addresses": [
-            "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, San Francisco, California, 94124, United States",
+            "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, San Francisco, California, 94107, United States",
             "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States",
             "Uber / Lyft Driver Drop Off, Campanile Mall, Montezuma Mesa, Del Cerro, San Diego, San Diego County, California, 92115, United States",
             "Uber / Lyft Driver Drop Off, Campanile Mall, Montezuma Mesa, Del Cerro, San Diego, San Diego County, California, 92115, United States"
@@ -12221,12 +12221,12 @@
         ],
         "latlngs": [
             [
-                37.77524325,
-                -122.39965536097225
+                37.777625900000004,
+                -122.39675767463473
             ]
         ],
         "addresses": [
-            "Pinterest, 651, Brannan Street, South of Market, San Francisco, San Francisco City and County, San Francisco, California, 94017, United States"
+            "Pinterest, 505, Brannan Street, South of Market, San Francisco, San Francisco City and County, San Francisco, California, 94017, United States"
         ]
     },
     {
@@ -12604,12 +12604,12 @@
                 -118.4092133
             ],
             [
-                37.7899898,
-                -122.3999799
+                39.2813025,
+                -76.5905444
             ],
             [
-                37.750721999999996,
-                -122.40243254779433
+                37.7759881,
+                -122.3919991
             ],
             [
                 37.7753423,
@@ -12619,8 +12619,8 @@
         "addresses": [
             "Amazon, Jefferson County, Montana, United States",
             "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
-            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States",
-            "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, San Francisco, California, 94124, United States",
+            "Uber, 918, Fell Street, Fell's Point, Baltimore, Maryland, 21231, United States",
+            "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, San Francisco, California, 94107, United States",
             "UserTesting, 690, 5th Street, South of Market, San Francisco, San Francisco City and County, San Francisco, California, 94017, United States"
         ]
     },
@@ -14137,8 +14137,8 @@
         "author": null,
         "latlngs": [
             [
-                37.7334587,
-                -122.4896943
+                37.7657693,
+                -122.4308444
             ],
             [
                 33.8306344,
@@ -14146,7 +14146,7 @@
             ]
         ],
         "addresses": [
-            "Verizon Wireless, 1513, Sloat Boulevard, San Francisco, San Francisco City and County, San Francisco, California, 94132, United States",
+            "Verizon Wireless, 2199, Market Street, Duboce Triangle, San Francisco, San Francisco City and County, San Francisco, California, 94114, United States",
             "Yahoo, McGowen Street, Douglas Park, Long Beach, Los Angeles County, California, 990815, United States"
         ]
     },
@@ -14855,7 +14855,7 @@
             ]
         ],
         "addresses": [
-            "GitHub, 88, Colin P. Kelly Junior Street, South Beach, San Francisco City and County, San Francisco, California, 94107, United States"
+            "GitHub, 88, Colin P. Kelly Junior Street, South Beach, San Francisco, San Francisco City and County, San Francisco, California, 94107, United States"
         ]
     },
     {
@@ -14941,8 +14941,8 @@
                 -122.3999799
             ],
             [
-                37.750721999999996,
-                -122.40243254779433
+                37.7759881,
+                -122.3919991
             ],
             [
                 37.7834546,
@@ -14951,7 +14951,7 @@
         ],
         "addresses": [
             "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States",
-            "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, San Francisco, California, 94124, United States",
+            "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, San Francisco, California, 94107, United States",
             "Doordash HQ, Market Street, Union Square, San Francisco, San Francisco City and County, San Francisco, California, 94103-3124, United States"
         ]
     },
@@ -15157,7 +15157,7 @@
             ]
         ],
         "addresses": [
-            "Doordash HQ, Market Street, Union Square, San Francisco City and County, San Francisco, California, 94103-3124, United States"
+            "Doordash HQ, Market Street, Union Square, San Francisco, San Francisco City and County, San Francisco, California, 94103-3124, United States"
         ]
     },
     {
