@@ -1,44 +1,42 @@
 {
-    "id": 344,
-    "date": "2020/10/17",
+    "id": 419,
+    "date": "2020/10/15",
     "sources": [
-        "https://techcrunch.com/2020/09/29/shipt-shoppers-are-organizing-a-walkout-in-protest-of-new-pay-model/\nhttps://news.trust.org/item/20201016131049-xq8h3\nhttps://thehill.com/policy/technology/521290-shipt-workers-organize-most-targeted-protest-yet-over-new-pay-model"
+        "https://dailynewsweek.com/amazon-employees-start-anti-surveillance-petition-for-labor-tracking/"
     ],
     "actions": [
-        "strike",
-        "protest"
+        "protest",
+        "open letter"
     ],
     "struggles": [
-        "pay and benefits"
+        "working conditions"
     ],
     "employment_types": [
         "blue collar workers",
-        "contract workers",
-        "gig workers"
+        "inhouse workers"
     ],
-    "description": "Shipt shoppers are organizing a handful of actions in protest of Shipt\u2019s new pay structure that began rolling out this month.  The first action is happening from Saturday, Oct. 17 through Oct. 19, when workers are calling on their fellow Shipt shoppers to walk out and boycott the company. Organizers are asking for shoppers not to schedule any hours or accept any orders during that time.",
+    "description": "A group of Amazon employees are circulating a petition, first created in October, demanding that Amazon stop monitoring employee activism and labor organization efforts.  The group is called Amazonians for Employee Privacy and they are requesting more transparency from Amazon about their surveillance activities, including their union heat map. ",
     "online": null,
     "locations": [
         "usa"
     ],
     "companies": [
-        "target",
-        "shipt"
+        "amazon"
     ],
-    "workers": null,
+    "workers": 199,
     "tags": [
-        "delivery_workers"
+        "surveillance"
     ],
     "author": [
-        "anonymous"
+        "hyatt d."
     ],
     "latlngs": [
         [
-            38.594073550000005,
-            -90.54739094340695
+            46.320207,
+            -112.1072224
         ]
     ],
     "addresses": [
-        "Target, Ballwin, Saint Louis County, Missouri, 63011, United States"
+        "Amazon, Jefferson County, Montana, United States"
     ]
 }

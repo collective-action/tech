@@ -1,47 +1,39 @@
 {
-    "id": 413,
-    "date": "2021/04/01",
+    "id": 404,
+    "date": "2021/03/10",
     "sources": [
-        "https://www.bbc.com/news/technology-56659212",
-        "https://cwa-union.org/sites/default/files/20210331_nlrbsettlement_alphabet_modis.pdf",
-        "https://www2.staffingindustry.com/Editorial/Daily-News/Google-union-reports-NLRB-settlement-contingent-worker-s-suspension-rescinded-57218"
+        "https://notechfortyrants.org/2021/03/02/no-tech-for-tyrants-launches-recruitmenot-campaign-highlighting-racism-and-censorship-at-google/"
     ],
     "actions": [
-        "legal action"
+        "protest"
     ],
     "struggles": [
-        "unfair labor practices",
-        "pay and benefits",
-        "working conditions"
+        "discrimination",
+        "ethics"
     ],
     "employment_types": [
-        "contract workers",
-        "blue collar workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "In February, the Alphabet Worker's Union filed two lawsuits against Google for unfair labor practices on behalf of Shannon Wait, a contractor at Google and member of the union. The first lawsuit contested Wait's illegal suspension for supporting a union. The second lawsuit alleged that managers illegally asked Wait and other employees not to discuss their wages. Google, Modis (the contracting firm), and the AWU reached a settlement and had Wait's suspension overturned. Google signed a document that its employees had the right to discuss wage, bonuses, and working conditions. This is the first NLRB settlement with the AWU.",
-    "online": null,
+    "description": "No Tech for Tyrants (NT4T) launched a campaign called #RecruitMeNot in response to Dr. Timnit Gebru being censored and fired at Google for refusing to do unethical practices. Dr. Gebru was Google's Lead AI ethics researcher. The #RecruitMeNot campaign asks students and researchers to refuse recruitment and job offers from Google until they meet the basic demands outlined by its employees. ",
+    "online": true,
     "locations": [
-        "south carolina-usa"
+        "worldwide"
     ],
     "companies": [
-        "google",
-        "modis",
-        "adecco"
+        "google"
     ],
     "workers": null,
     "tags": [
-        "cwa"
+        "students",
+        "industry solidarity",
+        "academics",
+        "antiracism",
+        "ai"
     ],
     "author": [
         "hyatt d."
     ],
-    "latlngs": [
-        [
-            33.063544750000005,
-            -80.04270395155184
-        ]
-    ],
-    "addresses": [
-        "Google Data Center, Berkeley County, South Carolina, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

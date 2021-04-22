@@ -1,39 +1,39 @@
 {
-    "id": 404,
-    "date": "2021/03/10",
+    "id": 396,
+    "date": "2021/02/28",
     "sources": [
-        "https://notechfortyrants.org/2021/03/02/no-tech-for-tyrants-launches-recruitmenot-campaign-highlighting-racism-and-censorship-at-google/"
+        "https://www.theverge.com/2021/3/2/22307671/glitch-workers-sign-historic-collective-bargaining-agreement-cwa"
     ],
     "actions": [
-        "protest"
+        "union representation"
     ],
     "struggles": [
-        "discrimination",
-        "ethics"
+        "job security"
     ],
     "employment_types": [
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "No Tech for Tyrants (NT4T) launched a campaign called #RecruitMeNot in response to Dr. Timnit Gebru being censored and fired at Google for refusing to do unethical practices. Dr. Gebru was Google's Lead AI ethics researcher. The #RecruitMeNot campaign asks students and researchers to refuse recruitment and job offers from Google until they meet the basic demands outlined by its employees. ",
-    "online": true,
+    "description": "Glitch workers signed a collective bargaining agreement with company management that will last for 11 months. According to a press release from the Communications Workers of America (CWA), this is the first agreement signed by white collar tech workers in the United States. The agreement did not include a call for higher wages because workers recognized that they are paid relatively high wages and that the company has faced economic pressures as a result of the pandemic. Instead, the contract improved job stability, ensuring \"just cause\" protections against firing and recall rights (priority for re-hiring for the same positions) for workers laid off due to the pandemic. ",
+    "online": null,
     "locations": [
-        "worldwide"
+        "usa"
     ],
     "companies": [
-        "google"
+        "glitch"
     ],
     "workers": null,
     "tags": [
-        "students",
-        "industry solidarity",
-        "academics",
-        "antiracism",
-        "ai"
+        "cwa"
     ],
-    "author": [
-        "hyatt d."
+    "author": null,
+    "latlngs": [
+        [
+            35.6006784,
+            -82.3119169
+        ]
     ],
-    "latlngs": null,
-    "addresses": null
+    "addresses": [
+        "Glitch Drive, Black Mountain, Buncombe County, North Carolina, 28711, United States"
+    ]
 }

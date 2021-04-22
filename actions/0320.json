@@ -1,36 +1,46 @@
 {
-    "id": 310,
-    "date": "2020/08/14",
+    "id": 309,
+    "date": "2020/08/13",
     "sources": [
-        "https://www.nytimes.com/2020/08/14/technology/pinterest-walkout-equality.html",
-        "https://techcrunch.com/2020/08/14/pinterest-employees-are-walking-out-today-in-light-of-discrimination-allegations/",
-        "https://www.theverge.com/2020/8/14/21369035/pinterest-virtual-walkout-protest-discrimination-slack-blind",
-        "https://www.usatoday.com/story/money/2020/08/13/pinterest-workers-walk-out-calling-end-workplace-bias/3369999001/"
+        "https://www.cnbc.com/2020/08/13/german-digital-bank-n26-faces-outcry-from-staff-over-management.html",
+        "https://www.finextra.com/newsarticle/36392/n26-faces-off-with-employees-over-works-council",
+        "https://www.fintechfutures.com/2020/08/n26-founders-obtain-injunction-against-works-council/",
+        "https://twitter.com/worker291/status/1293830980172689410"
     ],
     "actions": [
-        "protest",
+        "union representation",
         "open letter",
-        "strike"
+        "union drive"
     ],
     "struggles": [
-        "discrimination"
+        "working conditions",
+        "pay and benefits",
+        "unfair labor practices"
     ],
     "employment_types": [
         "white collar workers",
-        "inhouse workers"
+        "contract workers"
     ],
-    "description": "Pinterest employees staged a virtual walk out by posting messages to Slack and then logging off their work accounts, to protest the racial and gender discrimination brought to light by Ifeoma Ozoma and Aerica Shimizu Banks, and then again by Francoise Brougher. Workers also signed onto an online petition to CEO Ben Silberman calling for an end to discrimination and retaliation by the company.",
-    "online": true,
-    "locations": null,
+    "description": "After workers of N26 (digital bank) announced their intent to form a Works Council (Betriebsrat), management responded by issuing a legal injunction, banning 6 of the workers from partaking in formation of electoral committee. They forgot to include the service union Ver.di, so on August 13th, Ver.di chaired a meeting for N26 Operations GmbH, and workers voted for the first electoral committee.",
+    "online": null,
+    "locations": [
+        "berlin-germany"
+    ],
     "companies": [
-        "pinterest"
+        "N26"
     ],
-    "workers": 236,
-    "tags": [
-        "antiracism",
-        "blm"
+    "workers": 20,
+    "tags": null,
+    "author": [
+        "Worker26"
     ],
-    "author": null,
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            52.5034002,
+            13.3386373
+        ]
+    ],
+    "addresses": [
+        "Berlin, Tauentzienstra\u00dfe, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, 10789, Deutschland"
+    ]
 }

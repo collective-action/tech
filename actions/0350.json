@@ -1,37 +1,40 @@
 {
-    "id": 361,
-    "date": "2020/11/18",
+    "id": 402,
+    "date": "2020/11/07",
     "sources": [
-        "https://www.theguardian.com/technology/2020/nov/18/facebook-workers-demand-better-treatment-pandemic",
-        "https://www.foxglove.org.uk/news/open-letter-from-content-moderators-re-pandemic"
+        "https://clb.org.hk/content/all-india-gig-workers-union-case-study"
     ],
     "actions": [
-        "open letter"
+        "union drive"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions",
-        "unfair labor practices"
+        "pay and benefits"
     ],
     "employment_types": [
-        "contract workers"
+        "gig workers"
     ],
-    "description": "More than 200 Facebook workers signed a letter demanding better treatment for content moderators after being required to return to the office in the midst of the pandemic. The contractors who wrote the letter condemned the company for deciding \u201cto risk our lives to maintain Facebook\u2019s profits during the pandemic\u201d. It was sent to chief executive officer Mark Zuckerberg, chief operating officer Sheryl Sandberg, and top executives at Accenture and CPL, two companies that contract the moderators. The open letter was published with UK-based non-profit Foxglove.",
-    "online": true,
-    "locations": null,
-    "companies": [
-        "CPL",
-        "facebook",
-        "accenture"
+    "description": "The All India Gig Workers Union (AIGWU) which, was initiated by the Center of India Trade Union (CITU) is attempting to become a registered as an All-India Union. Their main focus of their goal is to help delivery drivers through organization and so that they can initiate platform and political change for better wages and working conditions. ",
+    "online": null,
+    "locations": [
+        "india"
     ],
-    "workers": 200,
+    "companies": null,
+    "workers": null,
     "tags": [
-        "coronavirus",
-        "moderators"
+        "drivers",
+        "industry solidarity",
+        "politics"
     ],
     "author": [
-        "organizejs"
+        "hyatt d."
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            22.3511148,
+            78.6677428
+        ]
+    ],
+    "addresses": [
+        "India"
+    ]
 }

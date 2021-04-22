@@ -1,10 +1,8 @@
 {
-    "id": 279,
-    "date": "2020/06/22",
+    "id": 286,
+    "date": "2020/06/18",
     "sources": [
-        "https://www.theverge.com/2020/6/22/21299736/google-employees-cut-ties-police-law-enforcement-black-lives-matter",
-        "https://gizmodo.com/1-600-googlers-call-for-an-end-to-all-contracts-with-c-1844124793?rev=1592864623516",
-        "https://www.businessinsider.com/googlers-send-letter-ceo-sundar-pichai-stop-working-with-police-2020-6"
+        "https://medium.com/@catalina.brennan.gatica/sign-on-open-letter-to-gig-companies-regarding-black-lives-matter-4b48420e238d"
     ],
     "actions": [
         "open letter"
@@ -13,22 +11,25 @@
         "ethics"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "Over 1, 650 Google employees have signed an open letter to CEO Sundar Pichai demanding the company stop selling its technology to police forces across the US. \u201cThe past weeks have shown us that addressing racism is not merely an issue of words, but of actions taken to dismantle the actual structures that perpetuate it, \u201d the letter, written by the employee group Googlers Against Racism, reads. \u201cWhile we as individuals hold difficult but necessary conversations with our family, friends and peers, we are also incredibly disappointed by our company\u2019s response.\u201d",
+    "description": "Gig Workers Rising organized an open letter from workers calling for economic justice from their employees, many of whom are Black and Brown, as a means of responding meaningfully to anti-racist protests. The letter calls out companies for releasing statements that \"have included various platitudes about your commitment to Racial Justice and the Black community\" without promising \"real change\". Among the demands are: (1) \"meaningful representation at work\", (2) \"benefits to take care of ourselves and our families\", (3) \"a living wage\", (4) and dropping the AB5 ballot measure. To date, the letter has received over 330 signatures.",
     "online": true,
     "locations": null,
     "companies": [
-        "google"
+        "uber",
+        "lyft",
+        "doordash",
+        "instacart",
+        "postmates"
     ],
-    "workers": 1650,
+    "workers": 339,
     "tags": [
         "blm",
         "antiracism"
     ],
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
     "latlngs": null,
     "addresses": null

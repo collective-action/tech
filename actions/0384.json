@@ -1,45 +1,47 @@
 {
-    "id": 417,
-    "date": "2021/04/09",
+    "id": 413,
+    "date": "2021/04/01",
     "sources": [
-        "https://stopprotectingharassers.medium.com/alphabet-stop-protecting-harassers-d32a17aa5762",
-        "https://www.theverge.com/2021/4/9/22375913/alphabet-employees-open-letter-google-harassers"
+        "https://www.bbc.com/news/technology-56659212",
+        "https://cwa-union.org/sites/default/files/20210331_nlrbsettlement_alphabet_modis.pdf",
+        "https://www2.staffingindustry.com/Editorial/Daily-News/Google-union-reports-NLRB-settlement-contingent-worker-s-suspension-rescinded-57218"
     ],
     "actions": [
-        "open letter"
+        "legal action"
     ],
     "struggles": [
         "unfair labor practices",
+        "pay and benefits",
         "working conditions"
     ],
     "employment_types": [
-        "white collar workers",
-        "blue collar workers",
-        "inhouse workers",
-        "contract workers"
+        "contract workers",
+        "blue collar workers"
     ],
-    "description": "An open letter was sent to Sundar Pichai, CEO of Alphabet, asking him to take a stronger stance on addressing sexual harassment within the company. The letter points out that workers who have been harassed still must work directly or report to those that have harassed them. Moreover, the letter points out to a trend where the company protects harassers and not the victim. ",
-    "online": true,
+    "description": "In February, the Alphabet Worker's Union filed two lawsuits against Google for unfair labor practices on behalf of Shannon Wait, a contractor at Google and member of the union. The first lawsuit contested Wait's illegal suspension for supporting a union. The second lawsuit alleged that managers illegally asked Wait and other employees not to discuss their wages. Google, Modis (the contracting firm), and the AWU reached a settlement and had Wait's suspension overturned. Google signed a document that its employees had the right to discuss wage, bonuses, and working conditions. This is the first NLRB settlement with the AWU.",
+    "online": null,
     "locations": [
-        "usa"
+        "south carolina-usa"
     ],
     "companies": [
-        "alphabet"
+        "google",
+        "modis",
+        "adecco"
     ],
-    "workers": 2067,
+    "workers": null,
     "tags": [
-        "sexual_harassment"
+        "cwa"
     ],
     "author": [
         "hyatt d."
     ],
     "latlngs": [
         [
-            37.3398646,
-            -121.8844823
+            33.063544750000005,
+            -80.04270395155184
         ]
     ],
     "addresses": [
-        "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112-3580, United States"
+        "Google Data Center, Berkeley County, South Carolina, United States"
     ]
 }

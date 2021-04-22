@@ -1,43 +1,36 @@
 {
-    "id": 391,
-    "date": "2021/02/11",
+    "id": 409,
+    "date": "2021/01/22",
     "sources": [
-        "https://www.theverge.com/2021/2/11/22278684/medium-union-unionizing-communications-workers-america",
-        "https://mediumworkersunion.org/",
-        "https://www.cnn.com/2021/02/11/media/medium-union/index.html"
+        "https://www.irishtimes.com/news/ireland/irish-news/deliveroo-riders-across-dublin-strike-over-working-conditions-1.4465621"
     ],
     "actions": [
-        "union drive"
+        "protest",
+        "strike"
     ],
     "struggles": [
-        "ethics"
+        "pay and benefits",
+        "job security"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "Medium workers have announced they are forming a union. Over 140 Medium workers (reportedly 70% of eligible workers) have signed union cards in support of forming a union with the Communications Workers of America (CWA) Local 9410. They have called on management to voluntarily recognize the union. ",
-    "online": null,
+    "description": "Delivery drivers and restaurant owners in Dublin, Ireland organized to not work from 6pm - 8pm for the delivery platform, Deliveroo. Drivers have claimed their pay has been reduced and that they have been facing unsafe conditions while working. Some, restaurants that have their food delivered though the platform have decided to support the protest by not taking orders during the strike.",
+    "online": true,
     "locations": [
-        "usa"
+        "dublin-ireland"
     ],
     "companies": [
-        "medium"
+        "deliveroo"
     ],
-    "workers": 140,
+    "workers": null,
     "tags": [
-        "cwa"
+        "coronavirus",
+        "delivery_workers"
     ],
     "author": [
-        "fiona tay"
+        "hyatt d."
     ],
-    "latlngs": [
-        [
-            41.3750149,
-            -83.6402779
-        ]
-    ],
-    "addresses": [
-        "MEDIUM, East Wooster Street, Bowling Green, Wood County, Ohio, 43402, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

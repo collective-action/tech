@@ -1,35 +1,42 @@
 {
-    "id": 326,
-    "date": "2020/09/08",
+    "id": 328,
+    "date": "2020/08/31",
     "sources": [
-        "https://www.vice.com/en/article/g5p9nb/employees-of-social-change-nonprofit-stage-walkout-to-protest-racial-abuse"
+        "https://guardian.ng/news/uber-bolt-drivers-begin-one-week-strike-in-lagos/",
+        "https://guardian.ng/news/e-hailing-drivers-reject-reviewed-lagos-ride-hailing-regulation/"
     ],
     "actions": [
-        "protest",
-        "strike",
-        "open letter"
+        "strike"
     ],
     "struggles": [
-        "discrimination"
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "24 employees of tech non-profit Do Something walked off the job, calling for the resignation of current CEO Aria Finger. They have also sent two direct letters to the CEO and Board of Directors that have been shared on Twitter. Former employees shared experiences of racial discrimination and harassment via social media earlier this year. The letter states that Finger reacted to these posts by calling them untrue or \"standard-issued American forms of microaggression and racism\". Finger returned in August after a legal investigation did not find evidence of discrimination under her tenure. ",
-    "online": true,
-    "locations": null,
+    "description": "Rideshare drivers in Lagos, Nigeria went on a one-week strike to protest new state regulations that added a fixed service tax to all trips. The agreement was reached between the companies, the Lagos state government, and the Professional E-hailing Drivers and Private Owners Association but did not include the National Union of Professional App-Based Workers, which union representatives claim was sidelined during negotiations due to its initial rejection of the proposal.  ",
+    "online": null,
+    "locations": [
+        "lagos-nigeria"
+    ],
     "companies": [
-        "do something"
+        "uber",
+        "bolt"
     ],
-    "workers": 24,
+    "workers": null,
     "tags": [
-        "antiracism",
-        "blm"
+        "drivers"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            6.45269435,
+            3.4498998
+        ]
+    ],
+    "addresses": [
+        "Uber Nigeria HQ, 2, Onikoyi Road, Ikoyi, Okepa, Eti Osa, Lagos, 20050, Nigeria"
+    ]
 }

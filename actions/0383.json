@@ -1,50 +1,44 @@
 {
-    "id": 415,
-    "date": "2021/04/07",
+    "id": 412,
+    "date": "2021/03/22",
     "sources": [
-        "https://www.theverge.com/2021/4/7/22327090/gimlet-media-union-spotify-contract-agreement",
-        "https://www.wgaeast.org/gimlet-media-and-the-ringer-ratify-first-podcast-contracts-at-spotify/",
-        "https://www.wgaeast.org/wp-content/uploads/sites/4/2021/04/Gimlet-Media-WGA-CBA-FINAL-DRAFT-March-23-2021-1.pdf",
-        "https://www.wgaeast.org/wp-content/uploads/sites/4/2021/03/Ringer-LLC-WGAE-CBA-FINAL.pdf"
+        "https://www.bloomberg.com/news/articles/2021-03-30/youtube-refuses-to-remove-anti-asian-song-drawing-staff-ire",
+        "https://www.nbcnews.com/news/asian-america/youtube-declines-ban-video-anti-asian-lyrics-staff-outcry-rcna562",
+        "https://www.indy100.com/news/youtube-yg-song-anti-asian-song-removal-b1826955"
     ],
     "actions": [
-        "union representation"
+        "protest"
     ],
     "struggles": [
-        "pay and benefits",
-        "discrimination",
-        "working conditions",
-        "unfair labor practices",
-        "job security"
+        "ethics",
+        "discrimination"
     ],
     "employment_types": [
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "Spotify and two unions, the Ringer Union and the Gimlet Union, agreed on a 3-year union contract, the first in the tech industry. The contract sets salary minimums, annual salary increases, terms for severance pay, and diversity hiring guarantees but does not clarify terms around intellectual property. ",
+    "description": "Several of YouTube's employees raised concerns that a music video on the website, \"Meet the Flockers\" by YG, promotes racism towards Asian Americans. The video details a burglary and calls for targeting Chinese communities according to press reports. The employees requested that the company's Trust and Safety team pull the video from the site, which the company declined to do in a statement. Update: In early April, several newspapers reported that the video had been removed from the website. ",
     "online": null,
     "locations": [
-        "usa"
+        "san bruno-california-usa"
     ],
     "companies": [
-        "spotify",
-        "gimlet media",
-        "the ringer"
+        "youtube"
     ],
     "workers": null,
     "tags": [
-        "coworker_solidarity"
+        "antiracism"
     ],
     "author": [
         "hyatt d."
     ],
     "latlngs": [
         [
-            38.5344585,
-            -94.9085748
+            37.6291599,
+            -122.42551778433794
         ]
     ],
     "addresses": [
-        "Ringer, Miami County, Kansas, United States"
+        "YouTube, 1000, Cherry Avenue, YouTube, San Bruno, San Mateo County, California, 94066, United States"
     ]
 }

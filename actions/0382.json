@@ -1,42 +1,43 @@
 {
-    "id": 416,
-    "date": "2021/04/06",
+    "id": 410,
+    "date": "2021/03/15",
     "sources": [
-        "https://www.bloomberg.com/news/articles/2021-04-06/doordash-workers-are-trying-to-game-the-algorithm-to-increase-pay"
+        "https://www.protocol.com/mobilize-app-code-cwa-union"
     ],
     "actions": [
-        "protest",
-        "strike"
+        "union drive",
+        "union representation"
     ],
     "struggles": [
-        "pay and benefits"
+        "working conditions"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "DoorDash drivers are working together with a 40,000 person online community (#DeclineNow) to increase their pay by systematically declining orders through the platform. As part of the #DeclineNow movement, DoorDash drivers do not accept orders that pay less than $7, more than twice the current $3 floor. By collectively declining orders, it forces the algorithm to offer the next driver the same delivery but at a higher price. ",
-    "online": true,
+    "description": "Workers for Mobilize have formed a union that is part of the CODE-CWA movement. Mobilize is owned by political tech company EveryAction. One hundred percent of eligible Mobilize workers voted to join the union after it was voluntarily recognized by EveryAction management. The union was created as a result of the EveryAction acquisition. Employees were negotiating new contracts and wanted to negotiate certain clauses collectively.",
+    "online": null,
     "locations": [
         "usa"
     ],
     "companies": [
-        "doordash"
+        "mobilize"
     ],
-    "workers": 40000,
+    "workers": null,
     "tags": [
-        "coworker solidarity",
-        "delivery_workers"
+        "cwa",
+        "industry solidarity"
     ],
     "author": [
         "hyatt d."
     ],
     "latlngs": [
         [
-            37.7834546,
-            -122.4080358
+            47.6609882,
+            -122.2895547
         ]
     ],
     "addresses": [
-        "Doordash HQ, Market Street, Union Square, San Francisco, San Francisco City and County, San Francisco, California, 94103-3124, United States"
+        "Mobilize Physical Therapy, 3515, Northeast 45th Street, Seattle, King County, Washington, 98105, United States"
     ]
 }

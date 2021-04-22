@@ -1,34 +1,40 @@
 {
-    "id": 318,
-    "date": "2020/08/28",
+    "id": 319,
+    "date": "2020/08/26",
     "sources": [
-        "https://www.businessinsider.in/tech/news/protesters-set-up-a-guillotine-outside-jeff-bezos-mansion-and-demanded-higher-wages-for-amazon-workers-after-the-ceos-net-worth-surpassed-200-billion/amp_articleshow/77794471.cms"
+        "https://rabble.ca/news/2020/08/former-foodora-workers-receive-closure-346-million-settlement"
     ],
     "actions": [
-        "protest"
+        "legal action"
     ],
     "struggles": [
-        "pay and benefits"
+        "unfair labor practices"
     ],
     "employment_types": [
-        "blue collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "More than 100 protesters, led by former Amazon worker Christian Smalls, placed a guillotine outside of Jeff Bezos' D.C. home to call on the company to raise minimum wages from $15 to $30/hour. ",
+    "description": "Foodora workers in Canada received a $3.5 million settlement after suing their employer for union busting. Foodora chose to leave Canada in April 2020 after the Ontario Labor Board voted to recognize the couriers as company employees. The Canadian Union of Postal Workers sued on behalf of the workers and declared that the settlement would be distributed between all Canadian Foodora employees.",
     "online": null,
     "locations": [
-        "washington_dc-usa"
+        "canada"
     ],
     "companies": [
-        "amazon"
+        "foodora"
     ],
-    "workers": 101,
+    "workers": 2000,
     "tags": [
-        "coronavirus"
+        "delivery_workers"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            48.1436497,
+            11.5576006
+        ]
+    ],
+    "addresses": [
+        "FOODORA, Marsstra\u00dfe, Bezirksteil Augustenstra\u00dfe, Maxvorstadt, M\u00fcnchen, Bayern, 80335, Deutschland"
+    ]
 }

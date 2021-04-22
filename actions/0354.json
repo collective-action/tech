@@ -1,34 +1,39 @@
 {
-    "id": 365,
-    "date": "2020/12/03",
+    "id": 363,
+    "date": "2020/11/27",
     "sources": [
-        "https://www.theguardian.com/technology/2020/dec/07/timnit-gebru-google-firing-resignation-ai-research",
-        "https://googlewalkout.medium.com/standing-with-dr-timnit-gebru-isupporttimnit-believeblackwomen-6dadc300d382"
+        "https://www.theverge.com/2020/11/27/21722421/make-amazon-pay-protest-campaign-black-friday",
+        "https://www.theguardian.com/commentisfree/2020/dec/01/amazon-workers-fighting-for-their-rights",
+        "https://makeamazonpay.com/"
     ],
     "actions": [
-        "open letter"
+        "open letter",
+        "protest"
     ],
     "struggles": [
-        "ethics",
-        "discrimination"
+        "pay and benefits",
+        "working conditions",
+        "unfair labor practices",
+        "job security",
+        "ethics"
     ],
     "employment_types": [
-        "white collar workers"
+        "other"
     ],
-    "description": "After Dr. Timnit Gebru was fired from Google, Googlers wrote an open letter demanding accountability from Google. 2695 Googlers and 4302 academic, industry, and civil society supporters signed on to the letter.",
+    "description": "Progressive International launched a protest campaign against Amazon called \"Make Amazon Pay.\"  They called on the tech giant to provide better working conditions for its employees and to reduce its expanding carbon footprint. Launched on Black Friday, the campaign provides a list of demands for Amazon, which include raising pay for workers in Amazon\u2019s warehouses, extending paid sick leave, and allowing workers to organize in unions. The campaign also tasks Amazon with \u201ccommitting to zero emissions by 2030\u201d and paying back society by \u201cending partnerships with police forces and immigration authorities that are institutionally racist\u201d and \u201cpaying taxes in full, in the countries where the real economic activity takes place.\u201d The campaign was run by Progressive International, and had the support of the Amazon Workers International, Amazon Employees for Climate Justice, the Tech Workers Coalition, Athena, and many more.\n",
     "online": true,
-    "locations": null,
-    "companies": [
-        "google"
+    "locations": [
+        "worldwide"
     ],
-    "workers": 2695,
+    "companies": [
+        "amazon"
+    ],
+    "workers": null,
     "tags": [
-        "sexism",
-        "antiracism",
-        "industry solidarity",
-        "retaliation",
-        "ai",
-        "academics"
+        "international solidarity",
+        "coronavirus",
+        "coworker solidarity",
+        "climate change"
     ],
     "author": [
         "organizejs"

@@ -1,32 +1,38 @@
 {
-    "id": 306,
-    "date": "2020/07/15",
+    "id": 292,
+    "date": "2020/07/01",
     "sources": [
-        "https://www.vice.com/en_us/article/v7gzd8/targets-gig-workers-will-strike-to-protest-switch-to-algorithmic-pay-model",
-        "https://www.marketwatch.com/story/target-owned-shipt-workers-strike-over-new-algorithm-based-compensation-that-they-say-will-lower-their-pay-11594842478",
-        "https://medium.com/@shiptshopper/shipt-walkoff-july-15th-dab1ee2c2571"
+        "https://www.wsws.org/en/articles/2020/07/04/braz-j04.html",
+        "https://www.facebook.com/watch/?v=367281267582648"
     ],
     "actions": [
         "protest",
         "strike"
     ],
     "struggles": [
+        "working conditions",
         "pay and benefits"
     ],
     "employment_types": [
         "gig workers"
     ],
-    "description": "Shipt workers went on strike across the U.S. to protest the company's move to a new, less transparent algorithmic pay model that reduces their wages by 25-50%, according to reports. Workers also called for consumers to boycott the service. Shipt has more than 100,000 workers in the U.S. and is used by companies such as Target. Willy Solis, from the Gig Workers Collective, was the lead organizer for the event and used social media groups and word-of-mouth (encouraging each committed worker to recruit five additional participants) to drive the strike.",
+    "description": "Thousands of delivery workers have engaged in a strike on Wednesday demanding better working conditions in more than 10 Brazilian capitals, as well as in cities in Argentina and Mexico. This was spurred by lack of health benefits in light of the covid-19 pandemic. The workers organized themselves outside the unions with broad popular support as they spread their movement through the internet using the hashtags #BrequeDosApps (brake the apps) and #YoNoReparto (I won\u2019t deliver). Besides the risk of being exposed to the virus, workers report long working hours\u2014often more than 14 hours a day\u2014for increasingly low pay, without health insurance or labor rights.",
     "online": null,
     "locations": [
-        "usa"
+        "rio de janiero-brazil",
+        "s\u00e3o paulo-brazil",
+        "argentina",
+        "mexico"
     ],
     "companies": [
-        "target",
-        "shipt"
+        "loggi",
+        "iFood",
+        "rappi",
+        "uber"
     ],
-    "workers": null,
+    "workers": 5000,
     "tags": [
+        "coronavirus",
         "delivery_workers"
     ],
     "author": [
@@ -34,11 +40,56 @@
     ],
     "latlngs": [
         [
-            38.594073550000005,
-            -90.54739094340695
+            -23.5408511,
+            -46.767282173446574
+        ],
+        [
+            -21.2180398,
+            -47.7985009230547
+        ],
+        [
+            43.6689691,
+            12.041964349868564
+        ],
+        [
+            49.5234659,
+            5.7641422
+        ],
+        [
+            47.2260752,
+            8.8172776
+        ],
+        [
+            -36.8691092,
+            -60.1620626
+        ],
+        [
+            43.6689691,
+            12.041964349868564
+        ],
+        [
+            18.6534612,
+            -91.8401158
+        ],
+        [
+            47.2269198,
+            8.8245459
+        ],
+        [
+            19.42437,
+            -99.168218
         ]
     ],
     "addresses": [
-        "Target, Ballwin, Saint Louis County, Missouri, 63011, United States"
+        "iFood, 1496, Avenida dos Autonomistas, Osasco, Regi\u00e3o Imediata de S\u00e3o Paulo, Regi\u00e3o Metropolitana de S\u00e3o Paulo, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de S\u00e3o Paulo, S\u00e3o Paulo, Regi\u00e3o Sudeste, 06020-010, Brasil",
+        "Parque Uber, Jardim Bot\u00e2nico, Ribeir\u00e3o Preto, Regi\u00e3o Imediata de Ribeir\u00e3o Preto, Regi\u00e3o Metropolitana de Ribeir\u00e3o Preto, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Ribeir\u00e3o Preto, S\u00e3o Paulo, Regi\u00e3o Sudeste, Brasil",
+        "loggie, Via Arezzo, Pieve Santo Stefano, Arezzo, Toscana, 52036, Italia",
+        "iFood, Rue Victor Hugo, Longwy-Haut, Longwy, Briey, Meurthe-et-Moselle, Grand Est, France m\u00e9tropolitaine, 54400, France",
+        "MI TIERRA AG - vinoteca argentina, 7, Alpenstrasse, Rapperswil, Rapperswil-Jona, Wahlkreis See-Gaster, Sankt Gallen, 8640, Schweiz/Suisse/Svizzera/Svizra",
+        "Cristian Uber, Hinojo, Partido de Olavarr\u00eda, Buenos Aires, 7318, Argentina",
+        "loggie, Via Arezzo, Pieve Santo Stefano, Arezzo, Toscana, 52036, Italia",
+        "Ifood, 61A, FRACC. MARINA DEL REY, Ciudad del Carmen, Carmen, Campeche, 24100, M\u00e9xico",
+        "Rapperswil, Rapperswil-Jona, Wahlkreis See-Gaster, Sankt Gallen, 8640, Schweiz/Suisse/Svizzera/Svizra",
+        "Uber, Calle Hamburgo, Ju\u00e1rez, Cuauht\u00e9moc, Ciudad de M\u00e9xico, 06600, M\u00e9xico"
     ]
 }

@@ -1,34 +1,35 @@
 {
-    "id": 295,
+    "id": 343,
     "date": "2020/03/19",
     "sources": [
-        "https://technode.com/2020/04/29/there-are-no-food-delivery-winners/",
-        "https://technode.com/2019/02/25/meituan-deliveryman-strike/",
-        "https://maps.clb.org.hk/?i18n_language=en_US&map=1&startDate=2019-02&endDate=2019-02&eventId=2020010622223453021"
+        "https://www.buzzfeednews.com/article/carolineodonovan/gimlet-media-podcasts-spotify-union",
+        "https://gizmodo.com/gimlet-gets-a-union-1834243384",
+        "https://gizmodo.com/whats-gimlets-problem-1833639322"
     ],
     "actions": [
-        "strike"
+        "union representation"
     ],
     "struggles": [
-        "pay and benefits"
+        "working conditions"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers",
+        "contract workers",
+        "inhouse workers"
     ],
-    "description": "Food delivery drivers carried out a series of strikes in several major cities across China in protest of lowered wages from the dominant food delivery platform, Meituan Dianping.  Workers lined up delivery scooters and bikes displaying signs that read, \"stop taking orders.\u201d  The work stoppage created tension between delivery drivers and food vendors, sometimes leading to physical confrontation.",
+    "description": "The staff of podcasting company Gimlet Media, recently acquired by Spotify Media, voted in favor of unionization with the Writers Guild of America, East. Gimlet is the first podcasting company to join the WGAE. Notably, the union includes contractors. Update: In April, management announced they would recognize the union. ",
     "online": null,
     "locations": [
-        "dongguan-china"
+        "brooklyn-new york city-new york-usa"
     ],
     "companies": [
-        "meituan"
+        "spotify",
+        "gimlet media"
     ],
-    "workers": 100,
-    "tags": [
-        "delivery_workers"
-    ],
+    "workers": 83,
+    "tags": null,
     "author": [
-        "clarissa"
+        "nataliyaned"
     ],
     "latlngs": null,
     "addresses": null

@@ -1,28 +1,31 @@
 {
-    "id": 284,
-    "date": "2020/04/08",
+    "id": 253,
+    "date": "2020/04/06",
     "sources": [
-        "https://www.latimes.com/business/technology/story/2020-04-09/fearful-of-covid-19-amazon-workers-ask-for-state-probe-of-working-conditions"
+        "https://www.vice.com/en_us/article/4age5j/amazon-workers-in-new-york-are-striking-for-the-second-week-in-a-row-as-coronavirus-cases-pile-up",
+        "https://nypost.com/2020/04/06/amazon-faces-another-staten-island-warehouse-strike/",
+        "https://finance.yahoo.com/news/amazon-warehouse-workers-second-walkout-one-week-over-coronavirus-fears-195814468.html"
     ],
     "actions": [
-        "legal action"
+        "protest"
     ],
     "struggles": [
-        "working conditions"
+        "working conditions",
+        "pay and benefits"
     ],
     "employment_types": [
         "inhouse workers",
         "blue collar workers"
     ],
-    "description": "Workers at Amazon\u2019s Eastvale fulfillment center in Riverside County filed complaints with state and county regulators alleging that the company failed to properly shutdown and disinfect facilities after receiving its first reported case of coronavirus. The company also delayed telling employees of third case of coronavirus for over five days, putting employees at risk. The filings were compiled by the Warehouse Worker Resource Center on behalf of LGB3 employees.",
+    "description": "For the second week in a row, workers at an Amazon warehouse in Staten Island held a walkout to protest the company's handling of the coronavirus crisis. Organizers state that they have heard of over 25 cases of coronavirus at the facility. In response, workers are calling for an extension of paid time off and improved sanitation in the facility. Last week, the company fired one of the organizers of the previous week's walkout. ",
     "online": null,
     "locations": [
-        "eastvale-california-usa"
+        "new york city-new york-usa"
     ],
     "companies": [
         "amazon"
     ],
-    "workers": null,
+    "workers": 50,
     "tags": [
         "coronavirus"
     ],
@@ -31,11 +34,11 @@
     ],
     "latlngs": [
         [
-            33.9985319,
-            -117.55285054999999
+            40.722465,
+            -73.9977307
         ]
     ],
     "addresses": [
-        "Amazon LGB3 Fulfillment Center, 4950, Goodman Way, Eastvale, Riverside County, California, 91752, United States"
+        "Amazon, 72, Spring Street, SoHo, Manhattan, New York County, New York, 10013, United States"
     ]
 }

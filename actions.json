@@ -9007,6 +9007,52 @@
         ]
     },
     {
+        "id": 420,
+        "date": "2019/11/20",
+        "sources": [
+            "https://www.vox.com/recode/2019/12/31/21043467/google-union-cafeteria-workers-unionized-alphabet-silicon-valley-mountainview"
+        ],
+        "actions": [
+            "union representation"
+        ],
+        "struggles": [
+            "pay and benefits",
+            "working conditions"
+        ],
+        "employment_types": [
+            "blue collar workers",
+            "contract workers"
+        ],
+        "description": "About 2,300 Google cafeteria workers (contracted through Compass) voted to unionize to call for better pay and benefits. These workers include dishwashers and food preparers who serve breakfast, lunch, and dinner to Google employees. The service workers are considered contract workers and don't receive the same benefits such as retirement plans which are standard for direct Google employees. The cafeteria workers voted to unionize with a local chapter of Unite Here, which represents 300,000 workers in food, casino, laundry, hotel, and warehouse industries. ",
+        "online": null,
+        "locations": [
+            "usa"
+        ],
+        "companies": [
+            "google",
+            "compass"
+        ],
+        "workers": 2300,
+        "tags": null,
+        "author": [
+            "hyatt d."
+        ],
+        "latlngs": [
+            [
+                33.977092,
+                -118.4092133
+            ],
+            [
+                43.0520142,
+                -87.8903172
+            ]
+        ],
+        "addresses": [
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
+            "Compass, Oak Leaf Trail, The East Side, Milwaukee, Milwaukee County, Wisconsin, 53202-2330, United States"
+        ]
+    },
+    {
         "id": 211,
         "date": "2019/11/22",
         "sources": [
@@ -13821,6 +13867,48 @@
         ]
     },
     {
+        "id": 419,
+        "date": "2020/10/15",
+        "sources": [
+            "https://dailynewsweek.com/amazon-employees-start-anti-surveillance-petition-for-labor-tracking/"
+        ],
+        "actions": [
+            "protest",
+            "open letter"
+        ],
+        "struggles": [
+            "working conditions"
+        ],
+        "employment_types": [
+            "blue collar workers",
+            "inhouse workers"
+        ],
+        "description": "A group of Amazon employees are circulating a petition, first created in October, demanding that Amazon stop monitoring employee activism and labor organization efforts.  The group is called Amazonians for Employee Privacy and they are requesting more transparency from Amazon about their surveillance activities, including their union heat map. ",
+        "online": null,
+        "locations": [
+            "usa"
+        ],
+        "companies": [
+            "amazon"
+        ],
+        "workers": 199,
+        "tags": [
+            "surveillance"
+        ],
+        "author": [
+            "hyatt d."
+        ],
+        "latlngs": [
+            [
+                46.320207,
+                -112.1072224
+            ]
+        ],
+        "addresses": [
+            "Amazon, Jefferson County, Montana, United States"
+        ]
+    },
+    {
         "id": 350,
         "date": "2020/10/17",
         "sources": [
@@ -14521,6 +14609,59 @@
         ],
         "addresses": [
             "Amazon, Alt-Heiligensee, Heiligensee, Reinickendorf, Berlin, 13503, Deutschland"
+        ]
+    },
+    {
+        "id": 418,
+        "date": "2020/12/21",
+        "sources": [
+            "https://www.thelocal.de/20201221/amazon-workers-across-germany-go-on-strike-for-higher-wages-in-build-up-to-online-xmas/"
+        ],
+        "actions": [
+            "protest",
+            "strike"
+        ],
+        "struggles": [
+            "pay and benefits",
+            "working conditions"
+        ],
+        "employment_types": [
+            "blue collar workers",
+            "inhouse workers"
+        ],
+        "description": "In Germany, 800 Amazon employees at six different locations stopped work ahead of Christmas to protest precarious wages. Strikes were called by trade union Verdi and took place in Bad Herzfeld, Rheinberg, and Werne. The strike was called to push for recognition of the union's collective agreements and paying employees according to those agreements. Verdi is also pressuring Amazon for better health and safety conditions. ",
+        "online": null,
+        "locations": [
+            "bad hersfeld-germany",
+            "werne-germany",
+            "rheinberg-germany"
+        ],
+        "companies": [
+            "amazon"
+        ],
+        "workers": 800,
+        "tags": null,
+        "author": [
+            "hyatt d."
+        ],
+        "latlngs": [
+            [
+                50.8453279,
+                9.678334853465138
+            ],
+            [
+                51.653494949999995,
+                7.59464606445661
+            ],
+            [
+                51.5369716,
+                6.5877929
+            ]
+        ],
+        "addresses": [
+            "Amazon FRA1, Eichhof, Asbach, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
+            "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
+            "Amazon, Amazonstra\u00dfe, Winterswick, Rheinberg, Kreis Wesel, Nordrhein-Westfalen, 47495, Deutschland"
         ]
     },
     {
@@ -15624,5 +15765,39 @@
         "addresses": [
             "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112-3580, United States"
         ]
+    },
+    {
+        "id": 421,
+        "date": "2021/04/13",
+        "sources": [
+            "https://www.nytimes.com/2021/04/13/business/media/new-york-times-tech-workers-form-a-union.html"
+        ],
+        "actions": [
+            "union representation"
+        ],
+        "struggles": [
+            "pay and benefits",
+            "job security",
+            "working conditions"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "Tech workers including, software engineers, designers, data analysts and product managers at the New York Times formed a union and are asking for voluntarily recognition from the company. The workers formed the union because of concerns regarding pay equity, job security, health care costs, and career advancement. The tech workers will be represented by the News Guild of New York which already has 1300 newsroom and staff members from the New York Times.",
+        "online": null,
+        "locations": [
+            "new york city-new york-usa"
+        ],
+        "companies": [
+            "the new york times"
+        ],
+        "workers": 651,
+        "tags": null,
+        "author": [
+            "hyatt d."
+        ],
+        "latlngs": null,
+        "addresses": null
     }
 ]

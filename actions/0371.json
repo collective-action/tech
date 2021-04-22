@@ -1,44 +1,54 @@
 {
-    "id": 401,
-    "date": "2021/01/29",
+    "id": 394,
+    "date": "2021/01/12",
     "sources": [
-        "https://www.reuters.com/article/us-alphabet-resignations/two-google-engineers-resign-over-firing-of-ai-ethics-researcher-timnit-gebru-idUSKBN2A4090"
+        "https://www.washingtonpost.com/technology/2021/01/12/prop22-uber-lawsuit/"
     ],
     "actions": [
-        "open letter",
-        "protest"
+        "legal action"
     ],
     "struggles": [
-        "ethics",
-        "discrimination"
+        "unfair labor practices"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "Two Google engineers (engineering director David Baker plus a software developer Vinesh Kannan) have both quit in reaction to Timnit Gebru, an AI ethics researcher, being fired at Google. Gebru's firing has resulted in Google workers questioning the ethics and diversity of Google. ",
+    "description": "The SEIU, along with a number of individual rideshare drivers, filed a lawsuit with the California Supreme Court seeking to overturn Proposition 22, which ruled that gig workers are independent contractors in the state. They argue that the law is unconstitutional and violates the right of state legislators; they also argue that Proposition 22 violated a rule that limits ballot measures to a single subject to prevent voter confusion.",
     "online": null,
     "locations": [
-        "usa"
+        "california-usa"
     ],
     "companies": [
-        "google"
+        "uber",
+        "lyft",
+        "doordash"
     ],
-    "workers": 2,
+    "workers": null,
     "tags": [
-        "coworker solidarity",
-        "ai"
+        "drivers",
+        "seiu",
+        "climate change"
     ],
     "author": [
-        "hyatt d."
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            33.977092,
-            -118.4092133
+            37.7899898,
+            -122.3999799
+        ],
+        [
+            37.7759881,
+            -122.3919991
+        ],
+        [
+            37.7834546,
+            -122.4080358
         ]
     ],
     "addresses": [
-        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
+        "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States",
+        "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, San Francisco, California, 94107, United States",
+        "Doordash HQ, Market Street, Union Square, San Francisco, San Francisco City and County, San Francisco, California, 94103-3124, United States"
     ]
 }

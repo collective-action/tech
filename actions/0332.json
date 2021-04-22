@@ -1,66 +1,45 @@
 {
-    "id": 330,
-    "date": "2020/09/22",
+    "id": 332,
+    "date": "2020/09/21",
     "sources": [
-        "https://www.vice.com/amp/en_us/article/g5p333/uk-tech-workers-launch-first-national-effort-to-unionize-tech-industry"
+        "https://www.cnbc.com/2020/10/01/google-contractors-allege-ndas-violate-free-speech-laws.html",
+        "https://www.courts.ca.gov/opinions/documents/A157097.PDF"
     ],
     "actions": [
-        "union drive"
+        "legal action"
     ],
     "struggles": [
-        "working conditions"
+        "unfair labor practices"
     ],
     "employment_types": [
-        "blue collar workers",
-        "white collar workers",
-        "inhouse workers"
+        "contract workers"
     ],
-    "description": "Tech workers in the U.K. have started a union aimed at organizing a wide array of tech workers in the country. The United Tech and Allied Workers, a branch of the Communications Workers Union, offers legal counsel and representation at employment tribunals for its members. Under U.K. law, employees can join a union even if that union has not been recognized by their employer. In an interview with Vice, a member highlighted the union's \"very broad definition of a tech worker\", which spans white collar and blue collar labor.",
+    "description": "A number of contractors for Google (employed through staffing firm Adecco) have filed a lawsuit alleging that confidentiality agreements with the company deprive them of basic legal rights, such as free speech. Contractors are prevented from discussing wages or working conditions, which they claim prohibit them from \u201cdisclosing violations of state and federal law, either within Google to their managers or outside Google to private attorneys or government officials\u201d. The Sept. 21st filing with a California appeals court reverses a lower court decision, allowing the lawsuit to proceed. ",
     "online": null,
     "locations": [
-        "uk"
+        "san francisco-california-usa"
     ],
     "companies": [
         "google",
-        "amazon",
-        "microsoft",
-        "samsung",
-        "deliveroo"
+        "adecco"
     ],
-    "workers": 30,
-    "tags": [
-        "industry_solidarity"
-    ],
+    "workers": null,
+    "tags": null,
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            51.5333771,
-            -0.1258455
+            37.792377650000006,
+            -122.39172649835676
         ],
         [
-            52.542566050000005,
-            -0.2383390628291427
-        ],
-        [
-            51.5149845,
-            -0.1421889
-        ],
-        [
-            52.6257484,
-            1.2905940715942223
-        ],
-        [
-            51.5314216,
-            -0.1113624
+            40.572519,
+            -122.3505599
         ]
     ],
     "addresses": [
-        "Google, Pancras Road, St Pancras, London Borough of Camden, London, Greater London, England, N1C 4BJ, United Kingdom",
-        "Amazon, Unit 1, Flaxley Road, Stanground, Peterborough, City of Peterborough, East of England, England, PE2 9EN, United Kingdom",
-        "Microsoft Store, Regent Street, Fitzrovia, City of Westminster, London, Greater London, England, W1B 2EP, United Kingdom",
-        "Samsung, 143, Merchants' Hall, Heigham Grove, Norwich, Norfolk, East of England, England, NR2 1SH, United Kingdom",
-        "Deliveroo, Pentonville Road, Pentonville, Barnsbury, London Borough of Islington, London, Greater London, England, N1 9JB, United Kingdom"
+        "Google Community Space, 188, The Embarcadero, Rincon Hill, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States",
+        "Adecco, 1080, East Cypress Avenue, Redding, Shasta County, California, 96002, United States"
     ]
 }

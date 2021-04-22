@@ -1,40 +1,30 @@
 {
-    "id": 371,
-    "date": "2020/12/17",
+    "id": 360,
+    "date": "2020/12/12",
     "sources": [
-        "https://berlinvsamazon.com/2020/12/menschen-vor-profite-solidaritat-mit-den-von-covid-betroffenen-arbeiterinnen-in-amazon-zentren-17-12-2020/"
+        "https://www.bbc.co.uk/news/world-asia-india-55296433?at_custom2=facebook_page&at_campaign=64&at_custom3=BBC+News&at_medium=custom7&at_custom1=%5Bpost+type%5D&at_custom4=81D22262-3D70-11EB-B208-D9C496E8478F&fbclid=IwAR3puILhntOwygYe8HWoRjMsvcnw9IFD1YRTIKIQUbGWA1hbUn17Sw1yENM"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
-        "working conditions"
+        "pay and benefits"
     ],
     "employment_types": [
         "blue collar workers"
     ],
-    "description": "Activists from various initiatives, including initiatives against the Amazon Tower, Mietenwahnsinnb\u00fcndnis, #200H\u00e4user spontaneously demonstrated in front of the construction site of the \u201cAmazon East Side Edge Tower\u201d at Warschauer Br\u00fccke. The protests are directed at Amazon's handling of the pandemic in several German Amazon centers. The company is responsible for the increase in infections and illnesses among workers and is allowing the Christmas shopping season to continue. ",
+    "description": "Workers at an iPhone production facility in the city of Narsapura near Bangalore in India protested unpaid wages by destroying office property and factory equipment at Wistron Infocomm's manufacturing facility. Around 100 workers are arrested. ",
     "online": null,
     "locations": [
-        "berlin-germany"
+        "narsapura-bangalore-india"
     ],
     "companies": [
-        "amazon"
+        "wistron infocomm",
+        "apple"
     ],
-    "workers": null,
-    "tags": [
-        "coronavirus"
-    ],
-    "author": [
-        "organizejs"
-    ],
-    "latlngs": [
-        [
-            52.6108443,
-            13.2147318
-        ]
-    ],
-    "addresses": [
-        "Amazon, Alt-Heiligensee, Heiligensee, Reinickendorf, Berlin, 13503, Deutschland"
-    ]
+    "workers": 2000,
+    "tags": null,
+    "author": null,
+    "latlngs": null,
+    "addresses": null
 }

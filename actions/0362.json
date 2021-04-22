@@ -1,37 +1,53 @@
 {
-    "id": 395,
-    "date": "2020/12/31",
+    "id": 418,
+    "date": "2020/12/21",
     "sources": [
-        "https://www.vice.com/en/article/7k9e4e/court-rules-deliveroo-used-discriminatory-algorithm",
-        "http://www.bollettinoadapt.it/wp-content/uploads/2021/01/Ordinanza-Bologna.pdf",
-        "https://www.ilfattoquotidiano.it/in-edicola/articoli/2021/01/02/rider-lalgoritmo-discrimina-chi-si-ammala-e-chi-sciopera"
+        "https://www.thelocal.de/20201221/amazon-workers-across-germany-go-on-strike-for-higher-wages-in-build-up-to-online-xmas/"
     ],
     "actions": [
-        "legal action"
+        "protest",
+        "strike"
     ],
     "struggles": [
-        "unfair labor practices",
-        "discrimination"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
-        "gig workers"
+        "blue collar workers",
+        "inhouse workers"
     ],
-    "description": "A court in Bologna, Italy upheld a lawsuit filed by a group of Deliveroo workers, backed by Italy's CGIL union. The lawsuit alleged that Deliveroo's algorithms discriminated against gig workers. The company used machine learning algorithms to determine the \"reliability\" of a worker and give them preference for certain shifts. The court ruled that the company failed to take valid reasons for cancellation into account, such as medical illness. Legal experts say this could be an important precedent in holding companies responsible for algorithms that cause inadvertent harm. ",
+    "description": "In Germany, 800 Amazon employees at six different locations stopped work ahead of Christmas to protest precarious wages. Strikes were called by trade union Verdi and took place in Bad Herzfeld, Rheinberg, and Werne. The strike was called to push for recognition of the union's collective agreements and paying employees according to those agreements. Verdi is also pressuring Amazon for better health and safety conditions. ",
     "online": null,
     "locations": [
-        "italy"
+        "bad hersfeld-germany",
+        "werne-germany",
+        "rheinberg-germany"
     ],
     "companies": [
-        "deliveroo"
+        "amazon"
     ],
-    "workers": null,
-    "tags": [
-        "delivery_workers",
-        "ai"
-    ],
+    "workers": 800,
+    "tags": null,
     "author": [
-        "nataliyaned"
+        "hyatt d."
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            50.8453279,
+            9.678334853465138
+        ],
+        [
+            51.653494949999995,
+            7.59464606445661
+        ],
+        [
+            51.5369716,
+            6.5877929
+        ]
+    ],
+    "addresses": [
+        "Amazon FRA1, Eichhof, Asbach, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
+        "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
+        "Amazon, Amazonstra\u00dfe, Winterswick, Rheinberg, Kreis Wesel, Nordrhein-Westfalen, 47495, Deutschland"
+    ]
 }

@@ -1,43 +1,44 @@
 {
-    "id": 411,
-    "date": "2021/02/26",
+    "id": 401,
+    "date": "2021/01/29",
     "sources": [
-        "https://venturebeat.com/2021/03/02/ai-ethics-research-conference-suspends-google-sponsorship/",
-        "https://twitter.com/geomblog/status/1365422379397124099"
+        "https://www.reuters.com/article/us-alphabet-resignations/two-google-engineers-resign-over-firing-of-ai-ethics-researcher-timnit-gebru-idUSKBN2A4090"
     ],
     "actions": [
+        "open letter",
         "protest"
     ],
     "struggles": [
-        "ethics"
+        "ethics",
+        "discrimination"
     ],
     "employment_types": [
-        "white collar workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "The ACM Conference for Fairness, Accountability, and Transparency (ACM FAccT) organizers have decided not to continue their sponsorship with Google this year. Several press publications have noted the decision to drop Google follows the company's recent decision to fire Ethical AI co-leaders, Timnit Gebru and Margaret Mitchell. The conference's Executive Committee said they chose not to continue their relationship because they it does not align with their Strategic Plan, the goals outlined and agreed upon to guide the FAccT. Gebru was a cofounder of the organization and continues to advise the group. Mitchell is a program co-chair of the conference and a FAccT program committee member.",
-    "online": true,
+    "description": "Two Google engineers (engineering director David Baker plus a software developer Vinesh Kannan) have both quit in reaction to Timnit Gebru, an AI ethics researcher, being fired at Google. Gebru's firing has resulted in Google workers questioning the ethics and diversity of Google. ",
+    "online": null,
     "locations": [
-        "new york city-new york-usa"
+        "usa"
     ],
     "companies": [
         "google"
     ],
-    "workers": null,
+    "workers": 2,
     "tags": [
-        "academics",
-        "ai",
-        "industry solidarity"
+        "coworker solidarity",
+        "ai"
     ],
     "author": [
         "hyatt d."
     ],
     "latlngs": [
         [
-            40.7417176,
-            -74.0041592
+            33.977092,
+            -118.4092133
         ]
     ],
     "addresses": [
-        "Google, 111, 8th Avenue, Chelsea, Manhattan, New York County, New York, 10011, United States"
+        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
     ]
 }

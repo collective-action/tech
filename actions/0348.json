@@ -1,40 +1,40 @@
 {
-    "id": 402,
-    "date": "2020/11/07",
+    "id": 355,
+    "date": "2020/10/26",
     "sources": [
-        "https://clb.org.hk/content/all-india-gig-workers-union-case-study"
+        "https://www.bbc.co.uk/news/amp/business-54698858"
     ],
     "actions": [
-        "union drive"
+        "legal action"
     ],
     "struggles": [
-        "pay and benefits"
+        "unfair labor practices"
     ],
     "employment_types": [
         "gig workers"
     ],
-    "description": "The All India Gig Workers Union (AIGWU) which, was initiated by the Center of India Trade Union (CITU) is attempting to become a registered as an All-India Union. Their main focus of their goal is to help delivery drivers through organization and so that they can initiate platform and political change for better wages and working conditions. ",
+    "description": "British Uber drivers are launching a lawsuit in the Netherlands to protest the company's use of algorithms to fire workers. The App Drivers & Couriers Union (ADCU) claims there are over 1,000 cases of drivers being wrongfully fired and that this violates Article 22 of the GDPR. This Article grants technology users a right to an explanation for any automated decisions. ",
     "online": null,
     "locations": [
-        "india"
+        "netherlands"
     ],
-    "companies": null,
+    "companies": [
+        "uber"
+    ],
     "workers": null,
     "tags": [
-        "drivers",
-        "industry solidarity",
-        "politics"
+        "drivers"
     ],
     "author": [
-        "hyatt d."
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            22.3511148,
-            78.6677428
+            51.851619299999996,
+            6.305120020863311
         ]
     ],
     "addresses": [
-        "India"
+        "Br\u00fccke \u00fcber den Netterdenschen Kanal, Emmerikseweg, Netterden, Oude IJsselstreek, Gelderland, Nederland, 7077AP, Nederland"
     ]
 }

@@ -1,29 +1,34 @@
 {
-    "id": 372,
-    "date": "2020/12/07",
+    "id": 364,
+    "date": "2020/11/27",
     "sources": [
-        "https://www.nlrb.gov/case/13-CA-269890"
+        "https://fortune.com/2020/11/27/amazon-workers-protests-black-friday-covid19/"
     ],
     "actions": [
-        "legal action"
+        "strike",
+        "protest"
     ],
     "struggles": [
-        "unfair labor practices"
+        "pay and benefits",
+        "working conditions",
+        "unfair labor practices",
+        "job security"
     ],
     "employment_types": [
-        "white collar workers"
+        "blue collar workers",
+        "contract workers"
     ],
-    "description": "The tech firm Civis Analysis, which came out of Obama's 2012 campaign and is backed by Eric Schmidt, has been hit with an unfair labor practice charge for illegally firing workers in retaliation for organizing. ",
+    "description": "Thousands of Amazon workers walk off the job to fight for fair pay and COVID protections. Unions representing tens of thousands of Amazon.com Inc. employees walked out during the year's busiest shopping season, in protest of Amazon's handling of everything from sick pay and COVID-19 precautions to user privacy. The giant Verdi trade union in Germany is holding a walkout across seven Amazon facilities. Garment workers in Bangladesh will call for higher pay outside an Amazon supplier facility in Dhaka. In Australia, unions will perform \u201chealth and safety\u201d inspections of the company\u2019s facilities using their \u201cstatutory right of entry,\u201d the campaign said. Others will project the campaign\u2019s logo on buildings in Brussels, London, Sao Paulo and other cities. In all, the organizations participating in the protests represent roughly 40,000 Amazon employees, according to a spokesman for the UNI Global Union. These actions are part of the Make Amazon Pay campaign. ",
     "online": null,
     "locations": [
-        "chicago-illinois-usa"
+        "worldwide"
     ],
     "companies": [
-        "civis analytics"
+        "amazon"
     ],
-    "workers": null,
+    "workers": 40000,
     "tags": [
-        "retaliation"
+        "coronavirus"
     ],
     "author": [
         "organizejs"

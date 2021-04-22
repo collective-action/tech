@@ -1,40 +1,43 @@
 {
-    "id": 407,
-    "date": "2021/01/25",
+    "id": 390,
+    "date": "2021/01/09",
     "sources": [
-        "https://www.theverge.com/2021/1/25/22243138/google-union-alphabet-workers-europe-announce-global-alliance"
+        "https://www.buzzfeednews.com/article/johnpaczkowski/amazon-parler-aws",
+        "https://twitter.com/AMZNforClimate/status/1347799256883552259?s=19"
     ],
     "actions": [
-        "union drive"
+        "protest"
     ],
     "struggles": [
-        "ethics",
-        "unfair labor practices",
-        "discrimination"
+        "ethics"
     ],
     "employment_types": [
         "white collar workers",
-        "contract workers",
         "inhouse workers"
     ],
-    "description": "Alphabet Workers Union (AWU) joined a global union alliance called Alpha Global. Alpha Global is an international coalition formed by 13 unions across the world in 10 different countries including the US, UK, and Switzerland and affiliated with UNI Global Union. Alpha Global is now choosing a steering committee, which may include Google workers. They plan to launch campaigns targeting \"national issues, like the treatment of content moderators in certain countries, as well as international concerns, like workers being forced to sign nondisclosure agreements\".",
+    "description": "Amazon suspends hosting for Parler, a social network app cited for facilitating the pro-Trump storming of the Capitol, after Amazon employees send internal messages to AWS management and participate in various online actions, including a coworker.org petition.",
     "online": true,
     "locations": [
-        "worldwide"
+        "usa"
     ],
     "companies": [
-        "alphabet",
-        "google"
+        "amazon"
     ],
     "workers": null,
     "tags": [
-        "international solidarity",
-        "industry solidarity",
-        "cwa"
+        "trump",
+        "politics"
     ],
     "author": [
-        "hyatt d."
+        "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            46.320207,
+            -112.1072224
+        ]
+    ],
+    "addresses": [
+        "Amazon, Jefferson County, Montana, United States"
+    ]
 }

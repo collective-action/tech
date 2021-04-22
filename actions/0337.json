@@ -1,34 +1,42 @@
 {
-    "id": 335,
-    "date": "2020/10/05",
+    "id": 336,
+    "date": "2020/10/04",
     "sources": [
-        "https://www.theverge.com/2020/9/2/21417146/parcast-spotify-union-writers-guild-america-east",
-        "https://twitter.com/ParcastUnion/status/1313555636651655170?s=19"
+        "https://www.latimes.com/california/story/2020-10-04/amazon-jeff-bezos-protest-beverly-hills"
     ],
     "actions": [
-        "union representation"
+        "protest"
     ],
     "struggles": [
-        "unfair labor practices"
+        "working conditions",
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers",
+        "blue collar workers",
         "inhouse workers"
     ],
-    "description": "Parcast, a Spotify-owned podcast company, announced a unionization effort back in September. Employees of the company chose to pursue unionization through the Writers Guild of America, East to call for greater diversity, equity, and inclusion at the company, as well as equitable pay, reasonable working hours, and overtime compensation. Parcast announced on October 6th that Spotify had chosen to voluntarily recognize the union. ",
+    "description": "Amazon workers, organized by the Congress of Essential Workers, protested in front of Jeff Bezos' Beverley Hills mansion, calling for improved working conditions under covid, hazard pay, and better health benefits. ",
     "online": null,
     "locations": [
-        "new york city-new york-usa"
+        "los angeles-california-usa"
     ],
     "companies": [
-        "spotify",
-        "parcast"
+        "amazon"
     ],
-    "workers": null,
-    "tags": null,
+    "workers": 100,
+    "tags": [
+        "coronavirus"
+    ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            33.97670635,
+            -118.41819635850888
+        ]
+    ],
+    "addresses": [
+        "Whole Foods Market, West Jefferson Boulevard, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
+    ]
 }

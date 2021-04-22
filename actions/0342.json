@@ -1,43 +1,42 @@
 {
-    "id": 350,
-    "date": "2020/10/17",
+    "id": 349,
+    "date": "2020/10/14",
     "sources": [
-        "https://fortune.com/2020/10/16/amazon-employee-activists-union-climate-justice/",
-        "https://www.cbsnews.com/news/amazon-workers-petition-election-day-holiday-paid-time-off/"
+        "https://calmatters.org/california-divide/2020/10/amazon-warehouse-workers-bezos-mansion-prime-day/"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
-        "working conditions",
-        "ethics"
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers",
+        "blue collar workers",
         "inhouse workers"
     ],
-    "description": "Amazon Employees for Climate Justice organized a rally in Seattle to call for paid time off for workers to vote on Election Day. A few hundred people attended the rally according to CBS News. Amazon stated that managers have been instructed to approve time-off requests for voting. ",
+    "description": "Amazon workers staged a vigil at Jeff Bezos' Beverly Hills mansion for fellow workers that had died as a result of working through the coronavirus pandemic. The event was organized by  the Warehouse Worker Resource Center. ",
     "online": null,
     "locations": [
-        "seattle-washington-usa"
+        "los angeles-california-usa"
     ],
     "companies": [
         "amazon"
     ],
     "workers": null,
     "tags": [
-        "politics"
+        "delivery_workers",
+        "coronavirus"
     ],
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            47.6226943,
-            -122.33938923913493
+            33.97670635,
+            -118.41819635850888
         ]
     ],
     "addresses": [
-        "Amazon, Belltown, Seattle, King County, Washington, United States"
+        "Whole Foods Market, West Jefferson Boulevard, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
     ]
 }

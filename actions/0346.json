@@ -1,40 +1,43 @@
 {
-    "id": 355,
-    "date": "2020/10/26",
+    "id": 352,
+    "date": "2020/10/22",
     "sources": [
-        "https://www.bbc.co.uk/news/amp/business-54698858"
+        "https://www.nytimes.com/2020/10/22/business/amazon-shutdown-threat-election-day.html"
     ],
     "actions": [
-        "legal action"
+        "strike"
     ],
     "struggles": [
-        "unfair labor practices"
+        "working conditions",
+        "ethics"
     ],
     "employment_types": [
-        "gig workers"
+        "blue collar workers",
+        "inhouse workers"
     ],
-    "description": "British Uber drivers are launching a lawsuit in the Netherlands to protest the company's use of algorithms to fire workers. The App Drivers & Couriers Union (ADCU) claims there are over 1,000 cases of drivers being wrongfully fired and that this violates Article 22 of the GDPR. This Article grants technology users a right to an explanation for any automated decisions. ",
-    "online": null,
+    "description": "Amazon workers, organized by Amazon Employees for Climate Justice, are calling for a 15-minute work stoppage at warehouses across the country on Halloween in a push for paid time-off for voting on Election Day. ",
+    "online": true,
     "locations": [
-        "netherlands"
+        "usa"
     ],
     "companies": [
-        "uber"
+        "amazon"
     ],
     "workers": null,
     "tags": [
-        "drivers"
+        "politics",
+        "coworker_solidarity"
     ],
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            51.851619299999996,
-            6.305120020863311
+            46.320207,
+            -112.1072224
         ]
     ],
     "addresses": [
-        "Br\u00fccke \u00fcber den Netterdenschen Kanal, Emmerikseweg, Netterden, Oude IJsselstreek, Gelderland, Nederland, 7077AP, Nederland"
+        "Amazon, Jefferson County, Montana, United States"
     ]
 }

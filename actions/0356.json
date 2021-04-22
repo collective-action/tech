@@ -1,32 +1,35 @@
 {
-    "id": 367,
-    "date": "2020/12/11",
+    "id": 365,
+    "date": "2020/12/03",
     "sources": [
-        "https://www.vice.com/amp/en/article/3anva3/three-of-spotifys-podcast-unions-stop-working-to-demand-better-workplace-conditions"
+        "https://www.theguardian.com/technology/2020/dec/07/timnit-gebru-google-firing-resignation-ai-research",
+        "https://googlewalkout.medium.com/standing-with-dr-timnit-gebru-isupporttimnit-believeblackwomen-6dadc300d382"
     ],
     "actions": [
-        "strike"
+        "open letter"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions",
-        "unfair labor practices",
+        "ethics",
         "discrimination"
     ],
     "employment_types": [
         "white collar workers"
     ],
-    "description": "Three unions at Spotify kicked off a two hour work stoppage in solidarity with their collective struggles for fairer contracts and better workplace conditions. The union at Gimlet, a major podcast publisher that was bought by Spotify last year for $230 million, is joining unions at The Ringer and Parcast\u2014all properties owned by Spotify\u2014in the work stoppage. The union's demands have included a contract with guaranteed raises, clear guidelines surrounding promotions, the right to profit from intellectual property they help create, a greater emphasis on diversity, and pay equity across the board. The work stoppage was streamed on Twitch for a little over an hour, with organizing members from all three groups outlining in detail their demands. ",
+    "description": "After Dr. Timnit Gebru was fired from Google, Googlers wrote an open letter demanding accountability from Google. 2695 Googlers and 4302 academic, industry, and civil society supporters signed on to the letter.",
     "online": true,
     "locations": null,
     "companies": [
-        "the ringer",
-        "spotify",
-        "gimlet media",
-        "parcast"
+        "google"
     ],
-    "workers": null,
-    "tags": null,
+    "workers": 2695,
+    "tags": [
+        "sexism",
+        "antiracism",
+        "industry solidarity",
+        "retaliation",
+        "ai",
+        "academics"
+    ],
     "author": [
         "organizejs"
     ],

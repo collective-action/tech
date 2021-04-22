@@ -1,33 +1,42 @@
 {
-    "id": 406,
-    "date": "2021/03/01",
+    "id": 400,
+    "date": "2021/02/19",
     "sources": [
-        "https://www.unitedigitaltech.org/2021/03/goodlord-strike-picket-line-video#more-1498"
+        "https://www.vice.com/en/article/3anwdy/organized-doordash-drivers-declinenow-strategy-is-driving-up-their-pay",
+        "https://declinenow.org/open-letter-to-doordash/?v=47e5dceea252"
     ],
     "actions": [
         "protest",
         "strike"
     ],
     "struggles": [
-        "pay and benefits",
-        "job security"
+        "pay and benefits"
     ],
     "employment_types": [
-        "contract workers"
+        "gig workers"
     ],
-    "description": "Contract tech workers of Goodlord have been striking for two weeks because they are being fired and rehired for permanent contracts that have less favorable terms than their current contracts. The contracts have resulted in 20% pay decrease and will have the workers making 6,000 pounds less than the livable wage in London. The workers refuse to work until Goodlord negotiates with them for better pay and benefits. Goodlord is an online platform for tenants, agents, and landlords to utilize in the real estate market. ",
+    "description": "DoorDash drivers are leveraging an old Android version of the DoorDash app to strategically select deliveries and make more money on the platform. Drivers are also organizing online through a movement called #DeclineNow where they follow a strict set of rules to not accept any deliveries that would result in less pay for their time, resources, and gas. A gig worker, Amy Lee, ran an analysis and found that DoorDashers who accept every order are at a stark disadvantage make significantly less an hour than those who selective accept deliveries. Lee has written her own open letter addressing the inefficiencies regarding the pay structure of the app so that it can become a more sustainable job for drivers. ",
     "online": null,
     "locations": [
-        "london-uk"
+        "usa"
     ],
     "companies": [
-        "goodlord"
+        "doordash"
     ],
-    "workers": null,
-    "tags": null,
+    "workers": 26000,
+    "tags": [
+        "drivers"
+    ],
     "author": [
         "hyatt d."
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.7834546,
+            -122.4080358
+        ]
+    ],
+    "addresses": [
+        "Doordash HQ, Market Street, Union Square, San Francisco, San Francisco City and County, San Francisco, California, 94103-3124, United States"
+    ]
 }
