@@ -15801,14 +15801,64 @@
         "addresses": null
     },
     {
+        "id": 423,
+        "date": "2021/04/26",
+        "sources": [
+            "https://www.thehindubusinessline.com/news/national/drivers-jac-demand-covid-19-cover-from-uber-ola/article34417191.ece",
+            "https://twitter.com/ShaikTgfwda/status/1386677337106706434"
+        ],
+        "actions": [
+            "open letter"
+        ],
+        "struggles": [
+            "pay and benefits",
+            "working conditions",
+            "unfair labor practices"
+        ],
+        "employment_types": [
+            "gig workers"
+        ],
+        "description": "In an open letter, the Telangana State Taxi and Drivers Joint Action Committee (JAC) in India demanded Uber and Ola pay for hospital expenses for drivers who test positive for covid and compensation to their families. The JAC, which comprises more than 20 unions and associations of app-based workers, also called on the companies to provide PPE, increase the rate of the fixed fare, and allow drivers to pick up their evening earnings within at least 3 km of their homes. India reported more than 350,000 cases in a single day on the same day. ",
+        "online": true,
+        "locations": [
+            "telangana-india"
+        ],
+        "companies": [
+            "uber",
+            "ola"
+        ],
+        "workers": null,
+        "tags": [
+            "coronavirus",
+            "drivers",
+            "delivery_workers"
+        ],
+        "author": [
+            "hyatt d."
+        ],
+        "latlngs": [
+            [
+                12.9096427,
+                77.6517249
+            ],
+            [
+                19.1815187,
+                78.0699956
+            ]
+        ],
+        "addresses": [
+            "Uber, 27th Main Road, Sector 2, HSR Layout Ward, Bommanahalli Zone, Bengaluru, Bangalore South, Bangalore Urban, Karnataka, 560068, India",
+            "Sub Centre, Ola, Oala, Adilabad, Nirmal, Telangana, 504109, India"
+        ]
+    },
+    {
         "id": 422,
         "date": "2021/04/26",
         "sources": [
             "https://timesofindia.indiatimes.com/city/hyderabad/495-cab-drivers-delivery-execs-have-tested-positive-for-covid-19-report/articleshow/82248108.cms"
         ],
         "actions": [
-            "protest",
-            "open letter"
+            "resources"
         ],
         "struggles": [
             "pay and benefits",
@@ -15818,13 +15868,36 @@
             "gig workers"
         ],
         "description": "Telangana Gig and Platform Workers Union ran a survey of its members, who are rideshare drivers and delivery workers in the state of Telangana in India. 495 drivers and delivery workers tested positive for COVID-19 and 4 have died, according to the survey. The Union is calling on the government to tell app-based companies to provide health insurance as well as prioritize covid vaccinations for workers and their families. The app-based companies, which include prominent names such as Uber and Ola, do not currently provide any health insurance for the drivers. India reported more than 350,000 cases in a single day on the same day. ",
-        "online": null,
-        "locations": null,
-        "companies": null,
+        "online": true,
+        "locations": [
+            "telangana-india"
+        ],
+        "companies": [
+            "uber",
+            "ola"
+        ],
         "workers": null,
-        "tags": null,
-        "author": null,
-        "latlngs": null,
-        "addresses": null
+        "tags": [
+            "coronavirus",
+            "drivers",
+            "delivery_workers"
+        ],
+        "author": [
+            "hyatt d."
+        ],
+        "latlngs": [
+            [
+                12.9096427,
+                77.6517249
+            ],
+            [
+                19.1815187,
+                78.0699956
+            ]
+        ],
+        "addresses": [
+            "Uber, 27th Main Road, Sector 2, HSR Layout Ward, Bommanahalli Zone, Bengaluru, Bangalore South, Bangalore Urban, Karnataka, 560068, India",
+            "Sub Centre, Ola, Oala, Adilabad, Nirmal, Telangana, 504109, India"
+        ]
     }
 ]
