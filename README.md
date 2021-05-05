@@ -20,7 +20,7 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">05/05/2021 06:33PM</td>
+    <td data-summary="timestamp">05/05/2021 07:29PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
@@ -198,7 +198,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2021-04-03
    </td>
    <td>
-    Food delivery drivers for the platform Ele.me are going on strike for better pay, working conditions, and to protest Xiaong Yan's detainment. Xiaong Yan is the head of an unofficial union for the platform who was detained in Beijing last month. Delivery workers who are on strike and part of the sabotage campaign are refusing to accept work or, in cases when they do, purposefully taking a long time to complete orders to trigger "time outs".
+    Food delivery drivers for the platform Ele.me are going on strike for better pay, working conditions, and to protest Xiong Yan's detainment. Xiong Yan is the head of an unofficial union for the platform who was detained in Beijing last month. Delivery workers who are on strike and part of the sabotage campaign are refusing to accept work or, in cases when they do, purposefully taking a long time to complete orders to trigger "time outs".
    </td>
    <td>
     <a href="/actions/0387.json">
