@@ -1,30 +1,34 @@
 {
-    "id": 416,
-    "date": "2021/04/06",
+    "id": 425,
+    "date": "2021/03/29",
     "sources": [
-        "https://www.bloomberg.com/news/articles/2021-04-06/doordash-workers-are-trying-to-game-the-algorithm-to-increase-pay"
+        "https://www.al.com/business/2021/03/workers-in-2-european-countries-strike-against-amazon.html",
+        "https://www.cnbc.com/2021/03/22/amazon-workers-go-on-strike-in-italy-over-labor-conditions-.html"
     ],
     "actions": [
         "protest",
         "strike"
     ],
     "struggles": [
-        "pay and benefits"
+        "pay and benefits",
+        "job security"
     ],
     "employment_types": [
-        "gig workers"
+        "blue collar workers",
+        "inhouse workers"
     ],
-    "description": "DoorDash drivers are working together with a 40,000 person online community (#DeclineNow) to increase their pay by systematically declining orders through the platform. As part of the #DeclineNow movement, DoorDash drivers do not accept orders that pay less than $7, more than twice the current $3 floor. By collectively declining orders, it forces the algorithm to offer the next driver the same delivery but at a higher price. ",
-    "online": true,
+    "description": "Italian Amazon workers went on a national strike for 24 hours to protest for fewer hours and job stability for temporary workers. \nItalian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which took place in Tuscany, Florence, and Pisa. ",
+    "online": null,
     "locations": [
-        "usa"
+        "tuscany-italy",
+        "florence-italy",
+        "pisa-italy"
     ],
     "companies": [
-        "doordash"
+        "amazon"
     ],
-    "workers": 40000,
+    "workers": null,
     "tags": [
-        "coworker solidarity",
         "delivery_workers"
     ],
     "author": [
@@ -32,11 +36,21 @@
     ],
     "latlngs": [
         [
-            37.7834546,
-            -122.4080358
+            43.841860749999995,
+            11.166183284518766
+        ],
+        [
+            43.841860749999995,
+            11.166183284518766
+        ],
+        [
+            43.709862,
+            10.4328227
         ]
     ],
     "addresses": [
-        "Doordash HQ, Market Street, Union Square, San Francisco, San Francisco City and County, San Francisco, California, 94103-3124, United States"
+        "Amazon, Via Baldanzese, Settimello, Calenzano, Firenze, Toscana, 50019, Italia",
+        "Amazon, Via Baldanzese, Settimello, Calenzano, Firenze, Toscana, 50019, Italia",
+        "Amazon locker, Via Vittorio Frascani, Cisanello, Pisa, Toscana, 56124, Italia"
     ]
 }

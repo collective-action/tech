@@ -20,11 +20,11 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">04/05/2021 07:29PM</td>
+    <td data-summary="timestamp">04/05/2021 10:47PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">391</td>
+    <td data-summary="action-count">398</td>
   </tr>
  </table>
 </div>
@@ -51,7 +51,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Telangana Gig and Platform Workers Union ran a survey of its members, who are rideshare drivers and delivery workers in the state of Telangana in India. 495 drivers and delivery workers tested positive for COVID-19 and 4 have died, according to the survey. The Union is calling on the government to tell app-based companies to provide health insurance as well as prioritize covid vaccinations for workers and their families. The app-based companies, which include prominent names such as Uber and Ola, do not currently provide any health insurance for the drivers. India reported more than 350,000 cases in a single day on the same day.
    </td>
    <td>
-    <a href="/actions/0390.json">
+    <a href="/actions/0397.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -66,7 +66,22 @@ The goal of this archive is to provide data and insights on organizing in the te
     In an open letter, the Telangana State Taxi and Drivers Joint Action Committee (JAC) in India demanded Uber and Ola pay for hospital expenses for drivers who test positive for covid and compensation to their families. The JAC, which comprises more than 20 unions and associations of app-based workers, also called on the companies to provide PPE, increase the rate of the fixed fare, and allow drivers to pick up their evening earnings within at least 3 km of their homes. India reported more than 350,000 cases in a single day on the same day.
    </td>
    <td>
-    <a href="/actions/0389.json">
+    <a href="/actions/0396.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="hyatt d.">
+   <td>
+    2021-04-16
+   </td>
+   <td>
+    Delivery drivers for Imperfect Foods have successfully voted to unionize, 28  for and 23 against. Interest in the union emerged last summer as a result of workers having to deliver more extensive workloads and cover healthcare costs from the pandemic.
+   </td>
+   <td>
+    <a href="/actions/0395.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -81,7 +96,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Tech workers including, software engineers, designers, data analysts and product managers at the New York Times formed a union and are asking for voluntarily recognition from the company. The workers formed the union because of concerns regarding pay equity, job security, health care costs, and career advancement. The tech workers will be represented by the News Guild of New York which already has 1300 newsroom and staff members from the New York Times.
    </td>
    <td>
-    <a href="/actions/0388.json">
+    <a href="/actions/0394.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -96,7 +111,22 @@ The goal of this archive is to provide data and insights on organizing in the te
     An open letter was sent to Sundar Pichai, CEO of Alphabet, asking him to take a stronger stance on addressing sexual harassment within the company. The letter points out that workers who have been harassed still must work directly or report to those that have harassed them. Moreover, the letter points out to a trend where the company protects harassers and not the victim.
    </td>
    <td>
-    <a href="/actions/0387.json">
+    <a href="/actions/0393.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="hyatt d.">
+   <td>
+    2021-04-07
+   </td>
+   <td>
+    Deliveroo drivers went on a national strike in London, York, Redding, Sheffield, and Wolverhampton for better pay, working conditions, and basic workers rights. The strike was strategically timed to coincide with the company's IPO. According to protesters,  the company has profited from the COVID-19 pandemic at the expense of workers.
+   </td>
+   <td>
+    <a href="/actions/0392.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -111,7 +141,37 @@ The goal of this archive is to provide data and insights on organizing in the te
     Spotify and two unions, the Ringer Union and the Gimlet Union, agreed on a 3-year union contract, the first in the tech industry. The contract sets salary minimums, annual salary increases, terms for severance pay, and diversity hiring guarantees but does not clarify terms around intellectual property.
    </td>
    <td>
-    <a href="/actions/0386.json">
+    <a href="/actions/0391.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="hyatt d.">
+   <td>
+    2021-04-07
+   </td>
+   <td>
+    Amazon drivers have begun leaving the company's trademark packages upside-down which displays the company's logo as a frown. The trend began when an Amazon delivery driver, who goes by AugustaSummerz, posted photos online of displaying packages upside-down to protest working conditions.
+   </td>
+   <td>
+    <a href="/actions/0390.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="hyatt d.">
+   <td>
+    2021-04-07
+   </td>
+   <td>
+    Amazon workers in Gage Park, Chicago walked out during their shift and protested outside the facility. Workers demanded a $2 wage increase, scheduling accommodations, and better working conditions, including hiring more full-time workers.
+   </td>
+   <td>
+    <a href="/actions/0389.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -126,7 +186,22 @@ The goal of this archive is to provide data and insights on organizing in the te
     DoorDash drivers are working together with a 40,000 person online community (#DeclineNow) to increase their pay by systematically declining orders through the platform. As part of the #DeclineNow movement, DoorDash drivers do not accept orders that pay less than $7, more than twice the current $3 floor. By collectively declining orders, it forces the algorithm to offer the next driver the same delivery but at a higher price.
    </td>
    <td>
-    <a href="/actions/0385.json">
+    <a href="/actions/0388.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="hyatt d.">
+   <td>
+    2021-04-03
+   </td>
+   <td>
+    Food delivery drivers for the platform Ele.me are going on strike for better pay, working conditions, and to protest Xiaong Yan's detainment. Xiaong Yan is the head of an unofficial union for the platform who was detained in Beijing last month. Delivery workers who are on strike and part of the sabotage campaign are refusing to accept work or, in cases when they do, purposefully taking a long time to complete orders to trigger "time outs".
+   </td>
+   <td>
+    <a href="/actions/0387.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -139,6 +214,37 @@ The goal of this archive is to provide data and insights on organizing in the te
    </td>
    <td>
     In February, the Alphabet Worker's Union filed two lawsuits against Google for unfair labor practices on behalf of Shannon Wait, a contractor at Google and member of the union. The first lawsuit contested Wait's illegal suspension for supporting a union. The second lawsuit alleged that managers illegally asked Wait and other employees not to discuss their wages. Google, Modis (the contracting firm), and the AWU reached a settlement and had Wait's suspension overturned. Google signed a document that its employees had the right to discuss wage, bonuses, and working conditions. This is the first NLRB settlement with the AWU.
+   </td>
+   <td>
+    <a href="/actions/0386.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="hyatt d.">
+   <td>
+    2021-03-29
+   </td>
+   <td>
+    Italian Amazon workers went on a national strike for 24 hours to protest for fewer hours and job stability for temporary workers. 
+Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which took place in Tuscany, Florence, and Pisa.
+   </td>
+   <td>
+    <a href="/actions/0385.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="hyatt d.">
+   <td>
+    2021-03-23
+   </td>
+   <td>
+    Members of the open source community have written an open letter calling on the entire Board of the Free Software Foundation to be removed for supporting Richard M. Stallman over his many years involved with that organization. They are also demanding that Stallman be removed from all leadership positions including the GNU Project. The letter says that Stallman is misogynist, ableist, and transphobic and cites incidents thereof. It calls on members of the open source community to stop contributing and associating with the organization and their projects.
    </td>
    <td>
     <a href="/actions/0384.json">

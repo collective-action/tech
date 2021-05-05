@@ -1,0 +1,47 @@
+{
+    "id": 428,
+    "date": "2021/04/07",
+    "sources": [
+        "https://abcnews.go.com/Technology/wireStory/uk-deliveroo-riders-strike-pay-gig-work-conditions-76920998",
+        "https://twitter.com/joinaunionpls/status/1379728581975285762?s=19"
+    ],
+    "actions": [
+        "strike",
+        "protest"
+    ],
+    "struggles": [
+        "pay and benefits",
+        "working conditions"
+    ],
+    "employment_types": [
+        "gig workers"
+    ],
+    "description": "Deliveroo drivers went on a national strike in London, York, Redding, Sheffield, and Wolverhampton for better pay, working conditions, and basic workers rights. The strike was strategically timed to coincide with the company's IPO. According to protesters,  the company has profited from the COVID-19 pandemic at the expense of workers.",
+    "online": null,
+    "locations": [
+        "london-uk",
+        "sheffield-uk",
+        "york-uk",
+        "redding-uk",
+        "wolverhampton-uk"
+    ],
+    "companies": [
+        "deliveroo"
+    ],
+    "workers": null,
+    "tags": [
+        "delivery_workers"
+    ],
+    "author": [
+        "hyatt d."
+    ],
+    "latlngs": [
+        [
+            51.5314216,
+            -0.1113624
+        ]
+    ],
+    "addresses": [
+        "Deliveroo, Pentonville Road, Pentonville, Barnsbury, London Borough of Islington, London, Greater London, England, N1 9JB, United Kingdom"
+    ]
+}

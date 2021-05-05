@@ -1,51 +1,41 @@
 {
-    "id": 423,
-    "date": "2021/04/26",
+    "id": 429,
+    "date": "2021/04/07",
     "sources": [
-        "https://www.thehindubusinessline.com/news/national/drivers-jac-demand-covid-19-cover-from-uber-ola/article34417191.ece",
-        "https://twitter.com/ShaikTgfwda/status/1386677337106706434"
+        "https://chicago.suntimes.com/business/2021/4/7/22372242/amazon-online-retailer-working-conditions-protest-walkout-gage-park-facility",
+        "https://twitter.com/AUchicagoland/status/1379788679649058823?s=20"
     ],
     "actions": [
-        "open letter"
+        "strike",
+        "protest"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions",
-        "unfair labor practices"
+        "pay and benefits"
     ],
     "employment_types": [
-        "gig workers"
+        "blue collar workers",
+        "inhouse workers"
     ],
-    "description": "In an open letter, the Telangana State Taxi and Drivers Joint Action Committee (JAC) in India demanded Uber and Ola pay for hospital expenses for drivers who test positive for covid and compensation to their families. The JAC, which comprises more than 20 unions and associations of app-based workers, also called on the companies to provide PPE, increase the rate of the fixed fare, and allow drivers to pick up their evening earnings within at least 3 km of their homes. India reported more than 350,000 cases in a single day on the same day. ",
-    "online": true,
+    "description": "Amazon workers in Gage Park, Chicago walked out during their shift and protested outside the facility. Workers demanded a $2 wage increase, scheduling accommodations, and better working conditions, including hiring more full-time workers.",
+    "online": null,
     "locations": [
-        "telangana-india"
+        "chicago-illinois-usa"
     ],
     "companies": [
-        "uber",
-        "ola"
+        "amazon"
     ],
-    "workers": null,
-    "tags": [
-        "coronavirus",
-        "drivers",
-        "delivery_workers"
-    ],
+    "workers": 40,
+    "tags": null,
     "author": [
         "hyatt d."
     ],
     "latlngs": [
         [
-            12.9096427,
-            77.6517249
-        ],
-        [
-            19.1815187,
-            78.0699956
+            41.84040105,
+            -87.68351928672685
         ]
     ],
     "addresses": [
-        "Uber, 27th Main Road, Sector 2, HSR Layout Ward, Bommanahalli Zone, Bengaluru, Bangalore South, Bangalore Urban, Karnataka, 560068, India",
-        "Sub Centre, Ola, Oala, Adilabad, Nirmal, Telangana, 504109, India"
+        "Amazon Distribution, 2801, South Western Avenue, Lower West Side, Chicago, Cook County, Illinois, 60608, United States"
     ]
 }

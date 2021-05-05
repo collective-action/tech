@@ -1,50 +1,47 @@
 {
-    "id": 415,
-    "date": "2021/04/07",
+    "id": 413,
+    "date": "2021/04/01",
     "sources": [
-        "https://www.theverge.com/2021/4/7/22327090/gimlet-media-union-spotify-contract-agreement",
-        "https://www.wgaeast.org/gimlet-media-and-the-ringer-ratify-first-podcast-contracts-at-spotify/",
-        "https://www.wgaeast.org/wp-content/uploads/sites/4/2021/04/Gimlet-Media-WGA-CBA-FINAL-DRAFT-March-23-2021-1.pdf",
-        "https://www.wgaeast.org/wp-content/uploads/sites/4/2021/03/Ringer-LLC-WGAE-CBA-FINAL.pdf"
+        "https://www.bbc.com/news/technology-56659212",
+        "https://cwa-union.org/sites/default/files/20210331_nlrbsettlement_alphabet_modis.pdf",
+        "https://www2.staffingindustry.com/Editorial/Daily-News/Google-union-reports-NLRB-settlement-contingent-worker-s-suspension-rescinded-57218"
     ],
     "actions": [
-        "union representation"
+        "legal action"
     ],
     "struggles": [
-        "pay and benefits",
-        "discrimination",
-        "working conditions",
         "unfair labor practices",
-        "job security"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "contract workers",
+        "blue collar workers"
     ],
-    "description": "Spotify and two unions, the Ringer Union and the Gimlet Union, agreed on a 3-year union contract, the first in the tech industry. The contract sets salary minimums, annual salary increases, terms for severance pay, and diversity hiring guarantees but does not clarify terms around intellectual property. ",
+    "description": "In February, the Alphabet Worker's Union filed two lawsuits against Google for unfair labor practices on behalf of Shannon Wait, a contractor at Google and member of the union. The first lawsuit contested Wait's illegal suspension for supporting a union. The second lawsuit alleged that managers illegally asked Wait and other employees not to discuss their wages. Google, Modis (the contracting firm), and the AWU reached a settlement and had Wait's suspension overturned. Google signed a document that its employees had the right to discuss wage, bonuses, and working conditions. This is the first NLRB settlement with the AWU.",
     "online": null,
     "locations": [
-        "usa"
+        "south carolina-usa"
     ],
     "companies": [
-        "spotify",
-        "gimlet media",
-        "the ringer"
+        "google",
+        "modis",
+        "adecco"
     ],
     "workers": null,
     "tags": [
-        "coworker_solidarity"
+        "cwa"
     ],
     "author": [
         "hyatt d."
     ],
     "latlngs": [
         [
-            38.5344585,
-            -94.9085748
+            33.063544750000005,
+            -80.04270395155184
         ]
     ],
     "addresses": [
-        "Ringer, Miami County, Kansas, United States"
+        "Google Data Center, Berkeley County, South Carolina, United States"
     ]
 }

@@ -1,34 +1,42 @@
 {
-    "id": 421,
-    "date": "2021/04/13",
+    "id": 416,
+    "date": "2021/04/06",
     "sources": [
-        "https://www.nytimes.com/2021/04/13/business/media/new-york-times-tech-workers-form-a-union.html"
+        "https://www.bloomberg.com/news/articles/2021-04-06/doordash-workers-are-trying-to-game-the-algorithm-to-increase-pay"
     ],
     "actions": [
-        "union representation"
+        "protest",
+        "strike"
     ],
     "struggles": [
-        "pay and benefits",
-        "job security",
-        "working conditions"
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "Tech workers including, software engineers, designers, data analysts and product managers at the New York Times formed a union and are asking for voluntarily recognition from the company. The workers formed the union because of concerns regarding pay equity, job security, health care costs, and career advancement. The tech workers will be represented by the News Guild of New York which already has 1300 newsroom and staff members from the New York Times.",
-    "online": null,
+    "description": "DoorDash drivers are working together with a 40,000 person online community (#DeclineNow) to increase their pay by systematically declining orders through the platform. As part of the #DeclineNow movement, DoorDash drivers do not accept orders that pay less than $7, more than twice the current $3 floor. By collectively declining orders, it forces the algorithm to offer the next driver the same delivery but at a higher price. ",
+    "online": true,
     "locations": [
-        "new york city-new york-usa"
+        "usa"
     ],
     "companies": [
-        "the new york times"
+        "doordash"
     ],
-    "workers": 651,
-    "tags": null,
+    "workers": 40000,
+    "tags": [
+        "coworker solidarity",
+        "delivery_workers"
+    ],
     "author": [
         "hyatt d."
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.7834546,
+            -122.4080358
+        ]
+    ],
+    "addresses": [
+        "Doordash HQ, Market Street, Union Square, San Francisco, San Francisco City and County, San Francisco, California, 94103-3124, United States"
+    ]
 }
