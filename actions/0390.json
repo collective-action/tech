@@ -1,42 +1,41 @@
 {
-    "id": 427,
+    "id": 429,
     "date": "2021/04/07",
     "sources": [
-        "https://www.newsweek.com/amazon-driver-leaves-packages-upside-down-start-no-more-smiles-protest-1581599",
-        "https://twitter.com/DaveLeeFT/status/1379631120501772289?s=19"
+        "https://chicago.suntimes.com/business/2021/4/7/22372242/amazon-online-retailer-working-conditions-protest-walkout-gage-park-facility",
+        "https://twitter.com/AUchicagoland/status/1379788679649058823?s=20"
     ],
     "actions": [
+        "strike",
         "protest"
     ],
     "struggles": [
-        "working conditions"
+        "pay and benefits"
     ],
     "employment_types": [
         "blue collar workers",
         "inhouse workers"
     ],
-    "description": "Amazon drivers have begun leaving the company's trademark packages upside-down which displays the company's logo as a frown. The trend began when an Amazon delivery driver, who goes by AugustaSummerz, posted photos online of displaying packages upside-down to protest working conditions. ",
+    "description": "Amazon workers in Gage Park, Chicago walked out during their shift and protested outside the facility. Workers demanded a $2 wage increase, scheduling accommodations, and better working conditions, including hiring more full-time workers.",
     "online": null,
     "locations": [
-        "usa"
+        "chicago-illinois-usa"
     ],
     "companies": [
         "amazon"
     ],
-    "workers": null,
-    "tags": [
-        "delivery_workers"
-    ],
+    "workers": 40,
+    "tags": null,
     "author": [
         "hyatt d."
     ],
     "latlngs": [
         [
-            46.320207,
-            -112.1072224
+            41.84040105,
+            -87.68351928672685
         ]
     ],
     "addresses": [
-        "Amazon, Jefferson County, Montana, United States"
+        "Amazon Distribution, 2801, South Western Avenue, Lower West Side, Chicago, Cook County, Illinois, 60608, United States"
     ]
 }

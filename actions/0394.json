@@ -1,41 +1,45 @@
 {
-    "id": 421,
-    "date": "2021/04/13",
+    "id": 417,
+    "date": "2021/04/09",
     "sources": [
-        "https://www.nytimes.com/2021/04/13/business/media/new-york-times-tech-workers-form-a-union.html"
+        "https://stopprotectingharassers.medium.com/alphabet-stop-protecting-harassers-d32a17aa5762",
+        "https://www.theverge.com/2021/4/9/22375913/alphabet-employees-open-letter-google-harassers"
     ],
     "actions": [
-        "union representation"
+        "open letter"
     ],
     "struggles": [
-        "pay and benefits",
-        "job security",
+        "unfair labor practices",
         "working conditions"
     ],
     "employment_types": [
         "white collar workers",
-        "inhouse workers"
+        "blue collar workers",
+        "inhouse workers",
+        "contract workers"
     ],
-    "description": "Tech workers including, software engineers, designers, data analysts and product managers at the New York Times formed a union and are asking for voluntarily recognition from the company. The workers formed the union because of concerns regarding pay equity, job security, health care costs, and career advancement. The tech workers will be represented by the News Guild of New York which already has 1300 newsroom and staff members from the New York Times.",
-    "online": null,
+    "description": "An open letter was sent to Sundar Pichai, CEO of Alphabet, asking him to take a stronger stance on addressing sexual harassment within the company. The letter points out that workers who have been harassed still must work directly or report to those that have harassed them. Moreover, the letter points out to a trend where the company protects harassers and not the victim. ",
+    "online": true,
     "locations": [
-        "new york city-new york-usa"
+        "usa"
     ],
     "companies": [
-        "the new york times"
+        "alphabet"
     ],
-    "workers": 651,
-    "tags": null,
+    "workers": 2067,
+    "tags": [
+        "sexual_harassment"
+    ],
     "author": [
         "hyatt d."
     ],
     "latlngs": [
         [
-            40.77541455,
-            -73.83098624117696
+            37.3398646,
+            -121.8844823
         ]
     ],
     "addresses": [
-        "The New York Times, Whitestone Expressway, Linden Hill, Queens, Queens County, New York, 11354, United States"
+        "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112-3580, United States"
     ]
 }

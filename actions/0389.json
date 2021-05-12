@@ -1,41 +1,42 @@
 {
-    "id": 429,
-    "date": "2021/04/07",
+    "id": 416,
+    "date": "2021/04/06",
     "sources": [
-        "https://chicago.suntimes.com/business/2021/4/7/22372242/amazon-online-retailer-working-conditions-protest-walkout-gage-park-facility",
-        "https://twitter.com/AUchicagoland/status/1379788679649058823?s=20"
+        "https://www.bloomberg.com/news/articles/2021-04-06/doordash-workers-are-trying-to-game-the-algorithm-to-increase-pay"
     ],
     "actions": [
-        "strike",
-        "protest"
+        "protest",
+        "strike"
     ],
     "struggles": [
         "pay and benefits"
     ],
     "employment_types": [
-        "blue collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "Amazon workers in Gage Park, Chicago walked out during their shift and protested outside the facility. Workers demanded a $2 wage increase, scheduling accommodations, and better working conditions, including hiring more full-time workers.",
-    "online": null,
+    "description": "DoorDash drivers are working together with a 40,000 person online community (#DeclineNow) to increase their pay by systematically declining orders through the platform. As part of the #DeclineNow movement, DoorDash drivers do not accept orders that pay less than $7, more than twice the current $3 floor. By collectively declining orders, it forces the algorithm to offer the next driver the same delivery but at a higher price. ",
+    "online": true,
     "locations": [
-        "chicago-illinois-usa"
+        "usa"
     ],
     "companies": [
-        "amazon"
+        "doordash"
     ],
-    "workers": 40,
-    "tags": null,
+    "workers": 40000,
+    "tags": [
+        "coworker solidarity",
+        "delivery_workers"
+    ],
     "author": [
         "hyatt d."
     ],
     "latlngs": [
         [
-            41.84040105,
-            -87.68351928672685
+            37.7834546,
+            -122.4080358
         ]
     ],
     "addresses": [
-        "Amazon Distribution, 2801, South Western Avenue, Lower West Side, Chicago, Cook County, Illinois, 60608, United States"
+        "Doordash HQ, Market Street, Union Square, San Francisco, San Francisco City and County, San Francisco, California, 94103-3124, United States"
     ]
 }

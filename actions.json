@@ -15620,6 +15620,73 @@
         "addresses": null
     },
     {
+        "id": 432,
+        "date": "2021/03/29",
+        "sources": [
+            "https://www.politico.eu/article/german-union-leads-four-day-amazon-strike/"
+        ],
+        "actions": [
+            "protest",
+            "strike"
+        ],
+        "struggles": [
+            "working conditions",
+            "job security"
+        ],
+        "employment_types": [
+            "blue collar workers",
+            "inhouse workers"
+        ],
+        "description": "German Amazon workers went on strike in six centers across the country to put pressure on the company to sign a collective agreement with the union in Germany. Ver.di, the union, has also criticized the company for unsafe working conditions under covid. ",
+        "online": null,
+        "locations": [
+            "rheinberg-germany",
+            "werne-germany",
+            "koblenz-germany",
+            "leipzig-germany",
+            "bad hersfeld-germany"
+        ],
+        "companies": [
+            "amazon"
+        ],
+        "workers": 2000,
+        "tags": [
+            "coronavirus"
+        ],
+        "author": [
+            "nataliyaned"
+        ],
+        "latlngs": [
+            [
+                51.5369716,
+                6.5877929
+            ],
+            [
+                51.653494949999995,
+                7.59464606445661
+            ],
+            [
+                50.3495332,
+                7.4901388
+            ],
+            [
+                51.3622584,
+                12.452329749225527
+            ],
+            [
+                50.845334,
+                9.677958815746917
+            ]
+        ],
+        "addresses": [
+            "Amazon, Amazonstra\u00dfe, Winterswick, Rheinberg, Kreis Wesel, Nordrhein-Westfalen, 47495, Deutschland",
+            "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
+            "Amazon, Am Autobahnkreuz, Industriepark A61/GVZ Koblenz, R\u00fcbenach, Koblenz, Rheinland-Pfalz, 56072, Deutschland",
+            "Amazon, 1, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland",
+            "Amazon FRA1, Eichhof, Asbach, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland"
+        ]
+    },
+    {
         "id": 425,
         "date": "2021/03/29",
         "sources": [
