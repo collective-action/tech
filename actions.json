@@ -862,7 +862,7 @@
             ]
         ],
         "addresses": [
-            "San Jose, Santa Clara County, California, United States"
+            "San Jose, Santa Clara County, California, 95113, United States"
         ]
     },
     {
@@ -932,7 +932,7 @@
             ]
         ],
         "addresses": [
-            "San Jose, Santa Clara County, California, United States"
+            "San Jose, Santa Clara County, California, 95113, United States"
         ]
     },
     {
@@ -1323,12 +1323,12 @@
         ],
         "latlngs": [
             [
-                37.7899898,
-                -122.3999799
+                37.7756962,
+                -122.4180838
             ]
         ],
         "addresses": [
-            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States"
         ]
     },
     {
@@ -2427,12 +2427,12 @@
         ],
         "latlngs": [
             [
-                37.7899898,
-                -122.3999799
+                37.7756962,
+                -122.4180838
             ]
         ],
         "addresses": [
-            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States"
         ]
     },
     {
@@ -2467,12 +2467,12 @@
         ],
         "latlngs": [
             [
-                37.389317899999995,
-                -121.97901174515997
+                32.939795,
+                -117.1026021
             ]
         ],
         "addresses": [
-            "McAfee, Mission College Boulevard, Santa Clara, Santa Clara County, California, 95054-1231, United States"
+            "Intel, 12220, Scripps Summit Drive, San Diego, San Diego County, California, 92131, United States"
         ]
     },
     {
@@ -2592,12 +2592,12 @@
         ],
         "latlngs": [
             [
-                37.7899898,
-                -122.3999799
+                37.7756962,
+                -122.4180838
             ]
         ],
         "addresses": [
-            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States"
         ]
     },
     {
@@ -2713,12 +2713,12 @@
         ],
         "latlngs": [
             [
-                37.389317899999995,
-                -121.97901174515997
+                32.939795,
+                -117.1026021
             ]
         ],
         "addresses": [
-            "McAfee, Mission College Boulevard, Santa Clara, Santa Clara County, California, 95054-1231, United States"
+            "Intel, 12220, Scripps Summit Drive, San Diego, San Diego County, California, 92131, United States"
         ]
     },
     {
@@ -4807,12 +4807,12 @@
         ],
         "latlngs": [
             [
-                37.7899898,
-                -122.3999799
+                37.7756962,
+                -122.4180838
             ]
         ],
         "addresses": [
-            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States"
         ]
     },
     {
@@ -6477,12 +6477,12 @@
         ],
         "latlngs": [
             [
-                37.792377650000006,
-                -122.39172649835676
+                33.977092,
+                -118.4092133
             ]
         ],
         "addresses": [
-            "Google Community Space, 188, The Embarcadero, Rincon Hill, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, California, 90094, United States"
         ]
     },
     {
@@ -6563,12 +6563,12 @@
         ],
         "latlngs": [
             [
-                37.792377650000006,
-                -122.39172649835676
+                33.977092,
+                -118.4092133
             ]
         ],
         "addresses": [
-            "Google Community Space, 188, The Embarcadero, Rincon Hill, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, California, 90094, United States"
         ]
     },
     {
@@ -6766,8 +6766,8 @@
         ],
         "latlngs": [
             [
-                -34.5814605,
-                -58.4513731
+                45.7551638,
+                21.2209352
             ],
             [
                 19.42437,
@@ -6779,7 +6779,7 @@
             ]
         ],
         "addresses": [
-            "Glovo, 3590, Avenida Federico Lacroze, Chacarita, Buenos Aires, Comuna 15, Ciudad Aut\u00f3noma de Buenos Aires, C1427EDN, Argentina",
+            "Glovo, Strada Doctor Iosif Nemoianu, Cetate, Timi\u0219oara, Timi\u0219, 300011, Rom\u00e2nia",
             "Uber, Calle Hamburgo, Ju\u00e1rez, Cuauht\u00e9moc, Ciudad de M\u00e9xico, 06600, M\u00e9xico",
             "Rapperswil, Rapperswil-Jona, Wahlkreis See-Gaster, Sankt Gallen, 8640, Schweiz/Suisse/Svizzera/Svizra"
         ]
@@ -6987,17 +6987,17 @@
         ],
         "latlngs": [
             [
-                37.7899898,
-                -122.3999799
+                37.7756962,
+                -122.4180838
             ],
             [
-                37.750721999999996,
-                -122.40243254779433
+                37.7759881,
+                -122.3919991
             ]
         ],
         "addresses": [
-            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States",
-            "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, San Francisco, California, 94124, United States"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States",
+            "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, San Francisco, California, 94107, United States"
         ]
     },
     {
@@ -7034,17 +7034,17 @@
         ],
         "latlngs": [
             [
-                37.7899898,
-                -122.3999799
+                37.7756962,
+                -122.4180838
             ],
             [
-                37.750721999999996,
-                -122.40243254779433
+                37.7759881,
+                -122.3919991
             ]
         ],
         "addresses": [
-            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States",
-            "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, San Francisco, California, 94124, United States"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States",
+            "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, San Francisco, California, 94107, United States"
         ]
     },
     {
@@ -7514,17 +7514,17 @@
         ],
         "latlngs": [
             [
-                37.7899898,
-                -122.3999799
+                37.7756962,
+                -122.4180838
             ],
             [
-                37.750721999999996,
-                -122.40243254779433
+                37.7759881,
+                -122.3919991
             ]
         ],
         "addresses": [
-            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States",
-            "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, San Francisco, California, 94124, United States"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States",
+            "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, San Francisco, California, 94107, United States"
         ]
     },
     {
@@ -8715,17 +8715,17 @@
         ],
         "latlngs": [
             [
-                37.7899898,
-                -122.3999799
+                37.7756962,
+                -122.4180838
             ],
             [
-                37.750721999999996,
-                -122.40243254779433
+                37.7759881,
+                -122.3919991
             ]
         ],
         "addresses": [
-            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States",
-            "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, San Francisco, California, 94124, United States"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States",
+            "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, San Francisco, California, 94107, United States"
         ]
     },
     {
@@ -8831,8 +8831,8 @@
         ],
         "latlngs": [
             [
-                37.792377650000006,
-                -122.39172649835676
+                33.977092,
+                -118.4092133
             ],
             [
                 37.778011,
@@ -8853,20 +8853,15 @@
             [
                 40.7007485,
                 -73.9725542
-            ],
-            [
-                40.7308046,
-                -73.9916277
             ]
         ],
         "addresses": [
-            "Google Community Space, 188, The Embarcadero, Rincon Hill, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States",
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, California, 90094, United States",
             "WeWork, Mission Street, West SoMa, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States",
             "Facebook, Bayfront Expressway, Menlo Park, San Mateo County, California, 94025-1246, United States",
             "Kickstarter HQ, West Street, Brooklyn, Kings County, New York, 11222, United States",
             "Google, 111, 8th Avenue, Chelsea, Manhattan, New York County, New York, 10011, United States",
-            "WeWork, Market Street, Brooklyn Navy Yard, Brooklyn, Kings County, New York, 11251, United States",
-            "Facebook New York, Broadway, Washington Square Village, NoHo, Manhattan, New York County, New York, 10003, United States"
+            "WeWork, Market Street, Brooklyn Navy Yard, Brooklyn, Kings County, New York, 11251, United States"
         ]
     },
     {
@@ -8948,12 +8943,12 @@
         ],
         "latlngs": [
             [
-                37.792377650000006,
-                -122.39172649835676
+                33.977092,
+                -118.4092133
             ]
         ],
         "addresses": [
-            "Google Community Space, 188, The Embarcadero, Rincon Hill, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, California, 90094, United States"
         ]
     },
     {
@@ -8997,13 +8992,13 @@
                 -122.08237793989416
             ],
             [
-                37.792377650000006,
-                -122.39172649835676
+                33.977092,
+                -118.4092133
             ]
         ],
         "addresses": [
             "Google, Mountain View, Santa Clara County, California, United States",
-            "Google Community Space, 188, The Embarcadero, Rincon Hill, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, California, 90094, United States"
         ]
     },
     {
@@ -9085,12 +9080,12 @@
         ],
         "latlngs": [
             [
-                37.792377650000006,
-                -122.39172649835676
+                33.977092,
+                -118.4092133
             ]
         ],
         "addresses": [
-            "Google Community Space, 188, The Embarcadero, Rincon Hill, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, California, 90094, United States"
         ]
     },
     {
@@ -9184,8 +9179,8 @@
                 7.4901388
             ],
             [
-                51.5369716,
-                6.5877929
+                51.653494949999995,
+                7.59464606445661
             ],
             [
                 51.653494949999995,
@@ -9200,7 +9195,7 @@
             "Amazon FRA1, Eichhof, Asbach, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
             "Amazon, 1, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland",
             "Amazon, Am Autobahnkreuz, Industriepark A61/GVZ Koblenz, R\u00fcbenach, Koblenz, Rheinland-Pfalz, 56072, Deutschland",
-            "Amazon, Amazonstra\u00dfe, Winterswick, Rheinberg, Kreis Wesel, Nordrhein-Westfalen, 47495, Deutschland",
+            "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
             "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
             "Amazon-Logistikzentrum, Graben, Landkreis Augsburg, Bayern, 86836, Deutschland"
         ]
@@ -9439,12 +9434,12 @@
         ],
         "latlngs": [
             [
-                37.7841938,
-                -122.3992122
+                37.7871368,
+                -122.2795012
             ]
         ],
         "addresses": [
-            "SPiN SF, 690, Folsom Street, South of Market, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States"
+            "SPIN!, Mariner Square Loop, Alameda, Alameda County, California, 94607, United States"
         ]
     },
     {
@@ -9783,8 +9778,8 @@
         ],
         "latlngs": [
             [
-                37.7899898,
-                -122.3999799
+                37.7756962,
+                -122.4180838
             ],
             [
                 37.750721999999996,
@@ -9792,7 +9787,7 @@
             ]
         ],
         "addresses": [
-            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States",
+            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States",
             "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, San Francisco, California, 94124, United States"
         ]
     },
@@ -10075,8 +10070,8 @@
         ],
         "latlngs": [
             [
-                37.7899898,
-                -122.3999799
+                37.7756962,
+                -122.4180838
             ],
             [
                 37.750721999999996,
@@ -10088,7 +10083,7 @@
             ]
         ],
         "addresses": [
-            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States",
+            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States",
             "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, San Francisco, California, 94124, United States",
             "Doordash HQ, Market Street, Union Square, San Francisco, San Francisco City and County, San Francisco, California, 94103-3124, United States"
         ]
@@ -10622,12 +10617,12 @@
         ],
         "latlngs": [
             [
-                37.750721999999996,
-                -122.40243254779433
+                37.7759881,
+                -122.3919991
             ],
             [
-                37.7899898,
-                -122.3999799
+                37.7756962,
+                -122.4180838
             ],
             [
                 32.7768074,
@@ -10639,8 +10634,8 @@
             ]
         ],
         "addresses": [
-            "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, San Francisco, California, 94124, United States",
-            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States",
+            "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, San Francisco, California, 94107, United States",
+            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States",
             "Uber / Lyft Driver Drop Off, Campanile Mall, Montezuma Mesa, Del Cerro, San Diego, San Diego County, California, 92115, United States",
             "Uber / Lyft Driver Drop Off, Campanile Mall, Montezuma Mesa, Del Cerro, San Diego, San Diego County, California, 92115, United States"
         ]
@@ -11241,6 +11236,10 @@
                 -47.7985009230547
             ],
             [
+                47.2260752,
+                8.8172776
+            ],
+            [
                 -36.8691092,
                 -60.1620626
             ],
@@ -11260,8 +11259,9 @@
         "addresses": [
             "iFood, 1496, Avenida dos Autonomistas, Osasco, Regi\u00e3o Imediata de S\u00e3o Paulo, Regi\u00e3o Metropolitana de S\u00e3o Paulo, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de S\u00e3o Paulo, S\u00e3o Paulo, Regi\u00e3o Sudeste, 06020-010, Brasil",
             "Parque Uber, Jardim Bot\u00e2nico, Ribeir\u00e3o Preto, Regi\u00e3o Imediata de Ribeir\u00e3o Preto, Regi\u00e3o Metropolitana de Ribeir\u00e3o Preto, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Ribeir\u00e3o Preto, S\u00e3o Paulo, Regi\u00e3o Sudeste, Brasil",
+            "MI TIERRA AG - vinoteca argentina, 7, Alpenstrasse, Rapperswil, Rapperswil-Jona, Wahlkreis See-Gaster, Sankt Gallen, 8640, Schweiz/Suisse/Svizzera/Svizra",
             "Cristian Uber, Hinojo, Partido de Olavarr\u00eda, Buenos Aires, 7318, Argentina",
-            "Glovo, 3590, Avenida Federico Lacroze, Chacarita, Buenos Aires, Comuna 15, Ciudad Aut\u00f3noma de Buenos Aires, C1427EDN, Argentina",
+            "Glovo, 3590, Avenida Federico Lacroze, Chacarita, Buenos Aires, Distrito Audiovisual, Comuna 15, Ciudad Aut\u00f3noma de Buenos Aires, C1427EDN, Argentina",
             "ifood, A-387, MonteBello, Mijas, Costa del Sol Occidental, M\u00e1laga, Andaluc\u00eda, 29651, Espa\u00f1a",
             "Rappi Town, Avenida del Centenario, Getseman\u00ed, Cartagena de Indias, Dique, Bol\u00edvar, Caribe, 3060, Colombia"
         ]
@@ -11379,8 +11379,8 @@
         ],
         "latlngs": [
             [
-                22.652477949999998,
-                114.05576736364223
+                22.652412400000003,
+                114.0557430244003
             ]
         ],
         "addresses": [
@@ -11684,12 +11684,12 @@
         ],
         "latlngs": [
             [
-                37.7899898,
-                -122.3999799
+                37.7756962,
+                -122.4180838
             ]
         ],
         "addresses": [
-            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States"
         ]
     },
     {
@@ -13067,12 +13067,12 @@
         ],
         "latlngs": [
             [
-                37.792377650000006,
-                -122.39172649835676
+                33.977092,
+                -118.4092133
             ]
         ],
         "addresses": [
-            "Google Community Space, 188, The Embarcadero, Rincon Hill, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, California, 90094, United States"
         ]
     },
     {
@@ -13443,8 +13443,8 @@
         ],
         "latlngs": [
             [
-                37.792377650000006,
-                -122.39172649835676
+                33.977092,
+                -118.4092133
             ],
             [
                 40.572519,
@@ -13452,7 +13452,7 @@
             ]
         ],
         "addresses": [
-            "Google Community Space, 188, The Embarcadero, Rincon Hill, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States",
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, California, 90094, United States",
             "Adecco, 1080, East Cypress Avenue, Redding, Shasta County, California, 96002, United States"
         ]
     },
@@ -13716,7 +13716,7 @@
             "https://blog.coinbase.com/coinbase-is-a-mission-focused-company-af882df8804?gi=e4cb4315d1e5"
         ],
         "actions": [
-            "protest"
+            "resignation"
         ],
         "struggles": [
             "ethics",
@@ -14068,12 +14068,12 @@
         ],
         "latlngs": [
             [
-                37.7899898,
-                -122.3999799
+                37.7756962,
+                -122.4180838
             ]
         ],
         "addresses": [
-            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States"
         ]
     },
     {
@@ -14226,8 +14226,8 @@
         "author": null,
         "latlngs": [
             [
-                37.7334587,
-                -122.4896943
+                37.38450795,
+                -121.9327351655259
             ],
             [
                 33.8306344,
@@ -14235,7 +14235,7 @@
             ]
         ],
         "addresses": [
-            "Verizon Wireless, 1513, Sloat Boulevard, San Francisco, San Francisco City and County, San Francisco, California, 94132, United States",
+            "Verizon, 375, Trimble Road, Santa Clara, Santa Clara County, California, 95054, United States",
             "Yahoo, McGowen Street, Douglas Park, Long Beach, California, 990815, United States"
         ]
     },
@@ -14654,14 +14654,14 @@
                 7.59464606445661
             ],
             [
-                51.5369716,
-                6.5877929
+                51.653494949999995,
+                7.59464606445661
             ]
         ],
         "addresses": [
             "Amazon FRA1, Eichhof, Asbach, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
             "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
-            "Amazon, Amazonstra\u00dfe, Winterswick, Rheinberg, Kreis Wesel, Nordrhein-Westfalen, 47495, Deutschland"
+            "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland"
         ]
     },
     {
@@ -14839,8 +14839,8 @@
                 -118.4092133
             ],
             [
-                49.0336258,
-                -69.6817118
+                49.0312631,
+                -69.6858339
             ],
             [
                 43.4510812,
@@ -15079,8 +15079,8 @@
         ],
         "latlngs": [
             [
-                37.7899898,
-                -122.3999799
+                37.7756962,
+                -122.4180838
             ],
             [
                 37.750721999999996,
@@ -15092,7 +15092,7 @@
             ]
         ],
         "addresses": [
-            "Uber, Market Street, Financial District, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States",
+            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States",
             "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, San Francisco, California, 94124, United States",
             "Doordash HQ, Market Street, Union Square, San Francisco, San Francisco City and County, San Francisco, California, 94103-3124, United States"
         ]
@@ -15658,8 +15658,8 @@
         ],
         "latlngs": [
             [
-                51.5369716,
-                6.5877929
+                51.653494949999995,
+                7.59464606445661
             ],
             [
                 51.653494949999995,
@@ -15679,7 +15679,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Amazonstra\u00dfe, Winterswick, Rheinberg, Kreis Wesel, Nordrhein-Westfalen, 47495, Deutschland",
+            "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
             "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
             "Amazon, Am Autobahnkreuz, Industriepark A61/GVZ Koblenz, R\u00fcbenach, Koblenz, Rheinland-Pfalz, 56072, Deutschland",
             "Amazon, 1, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland",
@@ -16174,6 +16174,60 @@
         "addresses": null
     },
     {
+        "id": 436,
+        "date": "2021/04/21",
+        "sources": [
+            "https://www.vice.com/en/article/epn437/nyc-gig-workers-are-organizing-against-rampant-e-bike-theft-and-assault"
+        ],
+        "actions": [
+            "protest"
+        ],
+        "struggles": [
+            "working conditions",
+            "unfair labor practices",
+            "pay and benefits",
+            "job security"
+        ],
+        "employment_types": [
+            "gig workers"
+        ],
+        "description": "New York City delivery workers who ride e-bikes for food delivery apps protested against wage theft, lack of protections, and poor working conditions, including rampant theft of their e-bikes and violent assault while on the job. The protest was organized by Los Deliveristas Unidos, a grassroots campaign formed by immigrant Latinx delivery workers in New York City in 2020 during the pandemic.",
+        "online": null,
+        "locations": [
+            "new york city-new york-usa"
+        ],
+        "companies": [
+            "uber",
+            "doordash",
+            "grubhub",
+            "postmates",
+            "chowbus",
+            "relay"
+        ],
+        "workers": 1000,
+        "tags": [
+            "delivery_workers",
+            "industry solidarity"
+        ],
+        "author": [
+            "CM"
+        ],
+        "latlngs": [
+            [
+                40.65532605,
+                -73.79478942223645
+            ],
+            [
+                42.3261966,
+                -74.62099388712133
+            ]
+        ],
+        "addresses": [
+            "Uber Limo Livery Hold Lot, Cargo Plaza Road, Queens, Queens County, New York, 11430, United States",
+            "Relay State Forest, Town of Stamford, Delaware County, New York, United States"
+        ]
+    },
+    {
         "id": 423,
         "date": "2021/04/26",
         "sources": [
@@ -16272,5 +16326,139 @@
             "Uber, 27th Main Road, Sector 2, HSR Layout Ward, Bommanahalli Zone, Bengaluru, Bangalore South, Bangalore Urban, Karnataka, 560068, India",
             "Sub Centre, Ola, Oala, Adilabad, Nirmal, Telangana, 504109, India"
         ]
+    },
+    {
+        "id": 435,
+        "date": "2021/04/30",
+        "sources": [
+            "https://www.theverge.com/platform/amp/2021/4/30/22412714/basecamp-employees-memo-policy-hansson-fried-controversy?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter&__twitter_impression=true",
+            "https://world.hey.com/jason/changes-at-basecamp-7f32afc5"
+        ],
+        "actions": [
+            "resignation"
+        ],
+        "struggles": [
+            "ethics"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "Roughly 1/3rd of Basecamp's 57 employees have decided to accept Basecamp's severance package and resigned because of the company's recent policy changes\u2013 the most notable restricting political and societal discussions in the workplace. Several employees posted tweets stating that they left Basecamp due to these changes.",
+        "online": null,
+        "locations": null,
+        "companies": [
+            "basecamp"
+        ],
+        "workers": 18,
+        "tags": [
+            "politics"
+        ],
+        "author": [
+            "hyatt d."
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 437,
+        "date": "2021/05/10",
+        "sources": [
+            "http://www.winlp.org/an-open-letter-to-google/"
+        ],
+        "actions": [
+            "open letter"
+        ],
+        "struggles": [
+            "ethics"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "Black in AI, Queer in AI, and WiNLP have written an open letter condemning Google's actions for dismissing Dr. Timnit Gebru, Dr. Margaret Mitchell, and April Christina Curley. Black in AI, Queer in AI, and WiNLP have ended their sponsorship with Google and expressed concern that the company's actions have set a dangerous precedent for what is acceptable in the AI community.",
+        "online": null,
+        "locations": null,
+        "companies": [
+            "google"
+        ],
+        "workers": null,
+        "tags": [
+            "industry solidarity",
+            "lgbtq",
+            "antiracism"
+        ],
+        "author": [
+            "hyatt d."
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 438,
+        "date": "2021/05/12",
+        "sources": [
+            "https://www.imore.com/petition-circulating-among-apple-employees-regarding-companys-misogynistic-new-hire"
+        ],
+        "actions": [
+            "open letter"
+        ],
+        "struggles": [
+            "discrimination"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "Workers at Apple have circulated a petition protesting the company's decision to hire Antonio Garcia Martinez. Employees expressed concerns about his views on women and people of color because of statements in his book, \"Chaos Monkeys\", which they find to be racist and sexist. UPDATE: As of May 12, 2021, Antonio Garcia Martinez is no longer working with Apple.",
+        "online": null,
+        "locations": null,
+        "companies": [
+            "apple"
+        ],
+        "workers": null,
+        "tags": [
+            "sexism",
+            "antiracism"
+        ],
+        "author": [
+            "hyatt d."
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 439,
+        "date": "2021/05/18",
+        "sources": [
+            "https://www.theverge.com/2021/5/18/22441236/jewish-google-employees-support-palestine-letter-anti-zionism-israel"
+        ],
+        "actions": [
+            "open letter"
+        ],
+        "struggles": [
+            "discrimination",
+            "ethics"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "At Google, a group of Jewish employees (Jewish Diaspora in Tech) is asking the company to support Palestinians during the Israeli bombing campaign in Gaza. An internal letter was circulated among employees asking Sundar Pichai to make a statement condemning recent Israeli attacks on Gaza. The letter mentions accepting the requests of Palestinian Googlers and funding relief for Palestinians affected by the violence, as well as protecting freedom of speech within the company. This new group was formed because some Jewish employees felt that the official Jewish ERG didn't allow a safe place to express anti-Zionist beliefs. ",
+        "online": true,
+        "locations": null,
+        "companies": [
+            "google"
+        ],
+        "workers": 250,
+        "tags": [
+            "international solidarity",
+            "politics"
+        ],
+        "author": [
+            "hyatt d."
+        ],
+        "latlngs": null,
+        "addresses": null
     }
 ]
