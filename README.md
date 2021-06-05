@@ -20,11 +20,11 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">05/06/2021 07:55AM</td>
+    <td data-summary="timestamp">05/06/2021 09:05AM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">404</td>
+    <td data-summary="action-count">405</td>
   </tr>
  </table>
 </div>
@@ -41,6 +41,21 @@ The goal of this archive is to provide data and insights on organizing in the te
    </td>
    <td>
     link
+   </td>
+  </tr>
+  <tr author="hyatt d.">
+   <td>
+    2021-05-20
+   </td>
+   <td>
+    The Algorithmic Justice League started an online campaign protesting a recent episode of the CBS news program, "60 Minutes", which featured a segment about the racial bias in law enforcement facial recognition technology but failed to cite any Black female scientists in the field. The group is demanding that 60 Minutes and Anderson Cooper apologize and cite Black female scientists, specifically Deborah Raji, Timnit Gebru, Joy Buolamwini, for their contribution to AI facial recognition research in their segment.
+   </td>
+   <td>
+    <a href="/actions/0404.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
    </td>
   </tr>
   <tr author="hyatt d.">
