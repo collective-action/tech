@@ -16495,5 +16495,109 @@
         ],
         "latlngs": null,
         "addresses": null
+    },
+    {
+        "id": 441,
+        "date": "2021/05/20",
+        "sources": [
+            "https://www.theverge.com/platform/amp/2021/5/20/22446059/apple-employees-palestinians-support-internal-letter-tim-cook?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter&__twitter_impression=true"
+        ],
+        "actions": [
+            "open letter"
+        ],
+        "struggles": [
+            "ethics"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "Nearly a thousand Apple employees have signed an internal letter addressed to Tim Cook asking him to support the Palestinian community and people in light of Israel's bombing of Gaza which has led to the loss of 227 lives, including 63 children. The letter, written by the Apple Muslim Association, asks that Apple make it clear that Palestinian lives matter and that Palestinian people are under an illegal occupation. Moreover, the letter asks Apple to commit to understanding, engaging with, and learning about the Palestinian community and other diverse communities which make up the company. ",
+        "online": true,
+        "locations": null,
+        "companies": [
+            "apple"
+        ],
+        "workers": 1000,
+        "tags": [
+            "politics"
+        ],
+        "author": [
+            "hyatt d."
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 442,
+        "date": "2021/05/25",
+        "sources": [
+            "https://www.theverge.com/2021/5/25/22453516/amazon-workers-pollution-petition-letter-demand",
+            "https://secure.everyaction.com/Xsul4-F6BUuVi_MofTP5YA2"
+        ],
+        "actions": [
+            "open letter"
+        ],
+        "struggles": [
+            "ethics"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "blue collar workers",
+            "contract workers",
+            "inhouse workers"
+        ],
+        "description": "640 Amazon workers have signed a petition asking the company to commit to zero emissions by 2030 and to prioritize zero emission technology in communities of color hit hardest by the effects of their pollution. The petition began after Amazon rejected a shareholder resolution asking the company to report their emissions in communities of color. ",
+        "online": true,
+        "locations": null,
+        "companies": [
+            "amazon"
+        ],
+        "workers": 640,
+        "tags": [
+            "climate_change",
+            "antiracism",
+            "blm"
+        ],
+        "author": [
+            "hyatt d."
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 443,
+        "date": "2021/05/25",
+        "sources": [
+            "https://www.middleeasteye.net/news/israel-palestine-amazon-employees-urge-jeff-bezos-cut-ties-israeli-military"
+        ],
+        "actions": [
+            "open letter"
+        ],
+        "struggles": [
+            "ethics"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "blue collar workers",
+            "inhouse workers",
+            "contract workers"
+        ],
+        "description": "Approximately 600 Amazon employees have signed an open letter asking Jeff Bezos to break off all ties to the Israeli military. The letter points out that Amazon employs Palestinians around the world, including in Tel Aviv and Haifa and that \"ignoring the suffering faced by Palestinians and their families at home erases our Palestinian coworkers.\"",
+        "online": true,
+        "locations": null,
+        "companies": [
+            "amazon"
+        ],
+        "workers": 600,
+        "tags": [
+            "military_contracts",
+            "politics"
+        ],
+        "author": [
+            "hyatt d."
+        ],
+        "latlngs": null,
+        "addresses": null
     }
 ]
