@@ -7121,8 +7121,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.7821769,
+                -122.3912458
+            ]
+        ],
+        "addresses": [
+            "GitHub, 88, Colin P. Kelly Junior Street, South Beach, San Francisco, San Francisco City and County, San Francisco, California, 94107, United States"
+        ]
     },
     {
         "id": 166,
