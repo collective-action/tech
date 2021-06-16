@@ -20,11 +20,11 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">15/06/2021 09:08PM</td>
+    <td data-summary="timestamp">15/06/2021 10:45PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">408</td>
+    <td data-summary="action-count">412</td>
   </tr>
  </table>
 </div>
@@ -45,13 +45,58 @@ The goal of this archive is to provide data and insights on organizing in the te
   </tr>
   <tr author="hyatt d.">
    <td>
+    2021-06-04
+   </td>
+   <td>
+    Apple employees are fighting against a new policy requiring them to return to work three days a week in an open letter addressed to Tim Cook on Slack. Approximately 80 people were involved in writing the letter. Employees have argued that the company should adopt a flexible approach for those who still want to remotely work from home.
+   </td>
+   <td>
+    <a href="/actions/0411.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="hyatt d.">
+   <td>
+    2021-06-01
+   </td>
+   <td>
+    The Alphabet Workers Union circulated a petition asking the company and its contractors to allow employees to choose which name appears on their ID badges. These actions were taken because a transgender man, Phares Lee, requested to have his deadname replaced by his preferred name. His request was denied and he was forced to put his legal name. Lee works for G4S, a Google contractor, and was also banned from participating in employee resource groups (ERGs) as a result of his contractor status. The petition also called on the company to open ERGs to contractors. Update (6/14): G4S and Google allowed Phares to use his preferred name and join Google ERGs. The companies have not communicated larger changes in policy.
+   </td>
+   <td>
+    <a href="/actions/0410.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="hyatt d.">
+   <td>
+    2021-06-01
+   </td>
+   <td>
+    Facebook employees are circulating a petition for the company to conduct an investigation for censoring Palestinian content on their website. At Facebook, content moderation is executed by third party contractors and algorithms. Facebook employees have taken notice and are asking the company as a whole to do a third party audit of any Muslim or Arab content decisions made by moderators.
+   </td>
+   <td>
+    <a href="/actions/0409.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="hyatt d.">
+   <td>
     2021-05-25
    </td>
    <td>
     Approximately 600 Amazon employees have signed an open letter asking Jeff Bezos to break off all ties to the Israeli military. The letter points out that Amazon employs Palestinians around the world, including in Tel Aviv and Haifa and that "ignoring the suffering faced by Palestinians and their families at home erases our Palestinian coworkers."
    </td>
    <td>
-    <a href="/actions/0407.json">
+    <a href="/actions/0408.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -66,7 +111,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     640 Amazon workers have signed a petition asking the company to commit to zero emissions by 2030 and to prioritize zero emission technology in communities of color hit hardest by the effects of their pollution. The petition began after Amazon rejected a shareholder resolution asking the company to report their emissions in communities of color.
    </td>
    <td>
-    <a href="/actions/0406.json">
+    <a href="/actions/0407.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -81,7 +126,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Nearly a thousand Apple employees have signed an internal letter addressed to Tim Cook asking him to support the Palestinian community and people in light of Israel's bombing of Gaza which has led to the loss of 227 lives, including 63 children. The letter, written by the Apple Muslim Association, asks that Apple make it clear that Palestinian lives matter and that Palestinian people are under an illegal occupation. Moreover, the letter asks Apple to commit to understanding, engaging with, and learning about the Palestinian community and other diverse communities which make up the company.
    </td>
    <td>
-    <a href="/actions/0405.json">
+    <a href="/actions/0406.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -96,7 +141,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     The Algorithmic Justice League started an online campaign protesting a recent episode of the CBS news program, "60 Minutes", which featured a segment about the racial bias in law enforcement facial recognition technology but failed to cite any Black female scientists in the field. The group is demanding that 60 Minutes and Anderson Cooper apologize and cite Black female scientists, specifically Deborah Raji, Timnit Gebru, Joy Buolamwini, for their contribution to AI facial recognition research in their segment.
    </td>
    <td>
-    <a href="/actions/0404.json">
+    <a href="/actions/0405.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -111,7 +156,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     At Google, a group of Jewish employees (Jewish Diaspora in Tech) is asking the company to support Palestinians during the Israeli bombing campaign in Gaza. An internal letter was circulated among employees asking Sundar Pichai to make a statement condemning recent Israeli attacks on Gaza. The letter mentions accepting the requests of Palestinian Googlers and funding relief for Palestinians affected by the violence, as well as protecting freedom of speech within the company. This new group was formed because some Jewish employees felt that the official Jewish ERG didn't allow a safe place to express anti-Zionist beliefs.
    </td>
    <td>
-    <a href="/actions/0403.json">
+    <a href="/actions/0404.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -126,7 +171,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Workers at Apple have circulated a petition protesting the company's decision to hire Antonio Garcia Martinez. Employees expressed concerns about his views on women and people of color because of statements in his book, "Chaos Monkeys", which they find to be racist and sexist. UPDATE: As of May 12, 2021, Antonio Garcia Martinez is no longer working with Apple.
    </td>
    <td>
-    <a href="/actions/0402.json">
+    <a href="/actions/0403.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -141,7 +186,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Black in AI, Queer in AI, and WiNLP have written an open letter condemning Google's actions for dismissing Dr. Timnit Gebru, Dr. Margaret Mitchell, and April Christina Curley. Black in AI, Queer in AI, and WiNLP have ended their sponsorship with Google and expressed concern that the company's actions have set a dangerous precedent for what is acceptable in the AI community.
    </td>
    <td>
-    <a href="/actions/0401.json">
+    <a href="/actions/0402.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -156,7 +201,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Roughly 1/3rd of Basecamp's 57 employees have decided to accept Basecamp's severance package and resigned because of the company's recent policy changes– the most notable restricting political and societal discussions in the workplace. Several employees posted tweets stating that they left Basecamp due to these changes.
    </td>
    <td>
-    <a href="/actions/0400.json">
+    <a href="/actions/0401.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -171,7 +216,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Telangana Gig and Platform Workers Union ran a survey of its members, who are rideshare drivers and delivery workers in the state of Telangana in India. 495 drivers and delivery workers tested positive for COVID-19 and 4 have died, according to the survey. The Union is calling on the government to tell app-based companies to provide health insurance as well as prioritize covid vaccinations for workers and their families. The app-based companies, which include prominent names such as Uber and Ola, do not currently provide any health insurance for the drivers. India reported more than 350,000 cases in a single day on the same day.
    </td>
    <td>
-    <a href="/actions/0399.json">
+    <a href="/actions/0400.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -186,7 +231,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     In an open letter, the Telangana State Taxi and Drivers Joint Action Committee (JAC) in India demanded Uber and Ola pay for hospital expenses for drivers who test positive for covid and compensation to their families. The JAC, which comprises more than 20 unions and associations of app-based workers, also called on the companies to provide PPE, increase the rate of the fixed fare, and allow drivers to pick up their evening earnings within at least 3 km of their homes. India reported more than 350,000 cases in a single day on the same day.
    </td>
    <td>
-    <a href="/actions/0398.json">
+    <a href="/actions/0399.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -201,7 +246,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     New York City delivery workers who ride e-bikes for food delivery apps protested against wage theft, lack of protections, and poor working conditions, including rampant theft of their e-bikes and violent assault while on the job. The protest was organized by Los Deliveristas Unidos, a grassroots campaign formed by immigrant Latinx delivery workers in New York City in 2020 during the pandemic.
    </td>
    <td>
-    <a href="/actions/0397.json">
+    <a href="/actions/0398.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -216,7 +261,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Delivery drivers for Imperfect Foods have successfully voted to unionize, 28  for and 23 against. Interest in the union emerged last summer as a result of workers having to deliver more extensive workloads and cover healthcare costs from the pandemic.
    </td>
    <td>
-    <a href="/actions/0396.json">
+    <a href="/actions/0397.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -231,7 +276,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Tech workers including, software engineers, designers, data analysts and product managers at the New York Times formed a union and are asking for voluntarily recognition from the company. The workers formed the union because of concerns regarding pay equity, job security, health care costs, and career advancement. The tech workers will be represented by the News Guild of New York which already has 1300 newsroom and staff members from the New York Times.
    </td>
    <td>
-    <a href="/actions/0395.json">
+    <a href="/actions/0396.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -246,7 +291,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     An open letter was sent to Sundar Pichai, CEO of Alphabet, asking him to take a stronger stance on addressing sexual harassment within the company. The letter points out that workers who have been harassed still must work directly or report to those that have harassed them. Moreover, the letter points out to a trend where the company protects harassers and not the victim.
    </td>
    <td>
-    <a href="/actions/0394.json">
+    <a href="/actions/0395.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -261,7 +306,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Deliveroo drivers went on a national strike in London, York, Redding, Sheffield, and Wolverhampton for better pay, working conditions, and basic workers rights. The strike was strategically timed to coincide with the company's IPO. According to protesters,  the company has profited from the COVID-19 pandemic at the expense of workers.
    </td>
    <td>
-    <a href="/actions/0393.json">
+    <a href="/actions/0394.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -276,7 +321,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Spotify and two unions, the Ringer Union and the Gimlet Union, agreed on a 3-year union contract, the first in the tech industry. The contract sets salary minimums, annual salary increases, terms for severance pay, and diversity hiring guarantees but does not clarify terms around intellectual property.
    </td>
    <td>
-    <a href="/actions/0392.json">
+    <a href="/actions/0393.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -291,7 +336,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Amazon drivers have begun leaving the company's trademark packages upside-down which displays the company's logo as a frown. The trend began when an Amazon delivery driver, who goes by AugustaSummerz, posted photos online of displaying packages upside-down to protest working conditions.
    </td>
    <td>
-    <a href="/actions/0391.json">
+    <a href="/actions/0392.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -306,7 +351,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Amazon workers in Gage Park, Chicago walked out during their shift and protested outside the facility. Workers demanded a $2 wage increase, scheduling accommodations, and better working conditions, including hiring more full-time workers.
    </td>
    <td>
-    <a href="/actions/0390.json">
+    <a href="/actions/0391.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -321,7 +366,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     DoorDash drivers are working together with a 40,000 person online community (#DeclineNow) to increase their pay by systematically declining orders through the platform. As part of the #DeclineNow movement, DoorDash drivers do not accept orders that pay less than $7, more than twice the current $3 floor. By collectively declining orders, it forces the algorithm to offer the next driver the same delivery but at a higher price.
    </td>
    <td>
-    <a href="/actions/0389.json">
+    <a href="/actions/0390.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -336,7 +381,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Food delivery drivers for the platform Ele.me are going on strike for better pay, working conditions, and to protest Xiong Yan's detainment. Xiong Yan is the head of an unofficial union for the platform who was detained in Beijing last month. Delivery workers who are on strike and part of the sabotage campaign are refusing to accept work or, in cases when they do, purposefully taking a long time to complete orders to trigger "time outs".
    </td>
    <td>
-    <a href="/actions/0388.json">
+    <a href="/actions/0389.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -351,7 +396,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     In February, the Alphabet Worker's Union filed two lawsuits against Google for unfair labor practices on behalf of Shannon Wait, a contractor at Google and member of the union. The first lawsuit contested Wait's illegal suspension for supporting a union. The second lawsuit alleged that managers illegally asked Wait and other employees not to discuss their wages. Google, Modis (the contracting firm), and the AWU reached a settlement and had Wait's suspension overturned. Google signed a document that its employees had the right to discuss wage, bonuses, and working conditions. This is the first NLRB settlement with the AWU.
    </td>
    <td>
-    <a href="/actions/0387.json">
+    <a href="/actions/0388.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -367,7 +412,7 @@ The goal of this archive is to provide data and insights on organizing in the te
 Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which took place in Tuscany, Florence, and Pisa.
    </td>
    <td>
-    <a href="/actions/0386.json">
+    <a href="/actions/0387.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -382,7 +427,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     German Amazon workers went on strike in six centers across the country to put pressure on the company to sign a collective agreement with the union in Germany. Ver.di, the union, has also criticized the company for unsafe working conditions under covid.
    </td>
    <td>
-    <a href="/actions/0385.json">
+    <a href="/actions/0386.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -397,7 +442,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Members of the open source community have written an open letter calling on the entire Board of the Free Software Foundation to be removed for supporting Richard M. Stallman over his many years involved with that organization. They are also demanding that Stallman be removed from all leadership positions including the GNU Project. The letter says that Stallman is misogynist, ableist, and transphobic and cites incidents thereof. It calls on members of the open source community to stop contributing and associating with the organization and their projects.
    </td>
    <td>
-    <a href="/actions/0384.json">
+    <a href="/actions/0385.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -412,7 +457,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Several of YouTube's employees raised concerns that a music video on the website, "Meet the Flockers" by YG, promotes racism towards Asian Americans. The video details a burglary and calls for targeting Chinese communities according to press reports. The employees requested that the company's Trust and Safety team pull the video from the site, which the company declined to do in a statement. Update: In early April, several newspapers reported that the video had been removed from the website.
    </td>
    <td>
-    <a href="/actions/0383.json">
+    <a href="/actions/0384.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -427,7 +472,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Workers for Mobilize have formed a union that is part of the CODE-CWA movement. Mobilize is owned by political tech company EveryAction. One hundred percent of eligible Mobilize workers voted to join the union after it was voluntarily recognized by EveryAction management. The union was created as a result of the EveryAction acquisition. Employees were negotiating new contracts and wanted to negotiate certain clauses collectively.
    </td>
    <td>
-    <a href="/actions/0382.json">
+    <a href="/actions/0383.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -442,7 +487,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     No Tech for Tyrants (NT4T) launched a campaign called #RecruitMeNot in response to Dr. Timnit Gebru being censored and fired at Google for refusing to do unethical practices. Dr. Gebru was Google's Lead AI ethics researcher. The #RecruitMeNot campaign asks students and researchers to refuse recruitment and job offers from Google until they meet the basic demands outlined by its employees.
    </td>
    <td>
-    <a href="/actions/0381.json">
+    <a href="/actions/0382.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -457,7 +502,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     #MakeAIEthical is a movement in response to Dr. Timnit Gebru and Dr. Margaret Mitchell, who were co-leaders of Google's AI ethics research being terminated and censored by Google for raising ethical concerns. #MakeAIEthical is asking the AI community to stand in solidarity such as asking universities to refuse funding from Google, for students to refuse recruitment from Google, and for federal and state whistleblower regulations be strengthened.
    </td>
    <td>
-    <a href="/actions/0380.json">
+    <a href="/actions/0381.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -472,7 +517,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Contract tech workers of Goodlord have been striking for two weeks because they are being fired and rehired for permanent contracts that have less favorable terms than their current contracts. The contracts have resulted in 20% pay decrease and will have the workers making 6,000 pounds less than the livable wage in London. The workers refuse to work until Goodlord negotiates with them for better pay and benefits. Goodlord is an online platform for tenants, agents, and landlords to utilize in the real estate market.
    </td>
    <td>
-    <a href="/actions/0379.json">
+    <a href="/actions/0380.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -487,7 +532,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Glitch workers signed a collective bargaining agreement with company management that will last for 11 months. According to a press release from the Communications Workers of America (CWA), this is the first agreement signed by white collar tech workers in the United States. The agreement did not include a call for higher wages because workers recognized that they are paid relatively high wages and that the company has faced economic pressures as a result of the pandemic. Instead, the contract improved job stability, ensuring "just cause" protections against firing and recall rights (priority for re-hiring for the same positions) for workers laid off due to the pandemic.
    </td>
    <td>
-    <a href="/actions/0378.json">
+    <a href="/actions/0379.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -500,6 +545,21 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
    </td>
    <td>
     The ACM Conference for Fairness, Accountability, and Transparency (ACM FAccT) organizers have decided not to continue their sponsorship with Google this year. Several press publications have noted the decision to drop Google follows the company's recent decision to fire Ethical AI co-leaders, Timnit Gebru and Margaret Mitchell. The conference's Executive Committee said they chose not to continue their relationship because they it does not align with their Strategic Plan, the goals outlined and agreed upon to guide the FAccT. Gebru was a cofounder of the organization and continues to advise the group. Mitchell is a program co-chair of the conference and a FAccT program committee member.
+   </td>
+   <td>
+    <a href="/actions/0378.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="hyatt d.">
+   <td>
+    2021-02-23
+   </td>
+   <td>
+    In South Africa, Uber drivers are taking part in a class-action lawsuit against the company. Drivers are seeking compensation for unpaid overtime and holiday pay based on South African law. One of the law firms representing South African drivers also represented UK drivers in front of the UK Supreme Court, which ruled on February 19th that drivers must be classified as employees rather than independent contractors in the country.
    </td>
    <td>
     <a href="/actions/0377.json">

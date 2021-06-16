@@ -1,37 +1,41 @@
 {
-    "id": 430,
-    "date": "2021/04/16",
+    "id": 421,
+    "date": "2021/04/13",
     "sources": [
-        "https://www.businessinsider.com/grocery-startup-imperfect-foods-drivers-vote-to-unionize-in-california-2021-4",
-        "https://twitter.com/LaurenKGurley/status/1383103307040792578"
+        "https://www.nytimes.com/2021/04/13/business/media/new-york-times-tech-workers-form-a-union.html"
     ],
     "actions": [
         "union representation"
     ],
     "struggles": [
-        "working conditions",
-        "pay and benefits"
+        "pay and benefits",
+        "job security",
+        "working conditions"
     ],
     "employment_types": [
-        "inhouse workers",
-        "blue collar workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Delivery drivers for Imperfect Foods have successfully voted to unionize, 28  for and 23 against. Interest in the union emerged last summer as a result of workers having to deliver more extensive workloads and cover healthcare costs from the pandemic. ",
+    "description": "Tech workers including, software engineers, designers, data analysts and product managers at the New York Times formed a union and are asking for voluntarily recognition from the company. The workers formed the union because of concerns regarding pay equity, job security, health care costs, and career advancement. The tech workers will be represented by the News Guild of New York which already has 1300 newsroom and staff members from the New York Times.",
     "online": null,
     "locations": [
-        "usa"
+        "new york city-new york-usa"
     ],
     "companies": [
-        "imperfect_foods"
+        "the new york times"
     ],
-    "workers": 51,
-    "tags": [
-        "coronavirus",
-        "delivery_workers"
-    ],
+    "workers": 651,
+    "tags": null,
     "author": [
         "hyatt d."
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            40.77541455,
+            -73.83098624117696
+        ]
+    ],
+    "addresses": [
+        "The New York Times, Whitestone Expressway, Linden Hill, Queens, Queens County, New York, 11354, United States"
+    ]
 }

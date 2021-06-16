@@ -1,11 +1,12 @@
 {
-    "id": 437,
-    "date": "2021/05/10",
+    "id": 435,
+    "date": "2021/04/30",
     "sources": [
-        "http://www.winlp.org/an-open-letter-to-google/"
+        "https://www.theverge.com/platform/amp/2021/4/30/22412714/basecamp-employees-memo-policy-hansson-fried-controversy?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter&__twitter_impression=true",
+        "https://world.hey.com/jason/changes-at-basecamp-7f32afc5"
     ],
     "actions": [
-        "open letter"
+        "resignation"
     ],
     "struggles": [
         "ethics"
@@ -14,17 +15,15 @@
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "Black in AI, Queer in AI, and WiNLP have written an open letter condemning Google's actions for dismissing Dr. Timnit Gebru, Dr. Margaret Mitchell, and April Christina Curley. Black in AI, Queer in AI, and WiNLP have ended their sponsorship with Google and expressed concern that the company's actions have set a dangerous precedent for what is acceptable in the AI community.",
+    "description": "Roughly 1/3rd of Basecamp's 57 employees have decided to accept Basecamp's severance package and resigned because of the company's recent policy changes\u2013 the most notable restricting political and societal discussions in the workplace. Several employees posted tweets stating that they left Basecamp due to these changes.",
     "online": null,
     "locations": null,
     "companies": [
-        "google"
+        "basecamp"
     ],
-    "workers": null,
+    "workers": 18,
     "tags": [
-        "industry solidarity",
-        "lgbtq",
-        "antiracism"
+        "politics"
     ],
     "author": [
         "hyatt d."

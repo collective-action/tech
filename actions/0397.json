@@ -1,54 +1,37 @@
 {
-    "id": 436,
-    "date": "2021/04/21",
+    "id": 430,
+    "date": "2021/04/16",
     "sources": [
-        "https://www.vice.com/en/article/epn437/nyc-gig-workers-are-organizing-against-rampant-e-bike-theft-and-assault"
+        "https://www.businessinsider.com/grocery-startup-imperfect-foods-drivers-vote-to-unionize-in-california-2021-4",
+        "https://twitter.com/LaurenKGurley/status/1383103307040792578"
     ],
     "actions": [
-        "protest"
+        "union representation"
     ],
     "struggles": [
         "working conditions",
-        "unfair labor practices",
-        "pay and benefits",
-        "job security"
+        "pay and benefits"
     ],
     "employment_types": [
-        "gig workers"
+        "inhouse workers",
+        "blue collar workers"
     ],
-    "description": "New York City delivery workers who ride e-bikes for food delivery apps protested against wage theft, lack of protections, and poor working conditions, including rampant theft of their e-bikes and violent assault while on the job. The protest was organized by Los Deliveristas Unidos, a grassroots campaign formed by immigrant Latinx delivery workers in New York City in 2020 during the pandemic.",
+    "description": "Delivery drivers for Imperfect Foods have successfully voted to unionize, 28  for and 23 against. Interest in the union emerged last summer as a result of workers having to deliver more extensive workloads and cover healthcare costs from the pandemic. ",
     "online": null,
     "locations": [
-        "new york city-new york-usa"
+        "usa"
     ],
     "companies": [
-        "uber",
-        "doordash",
-        "grubhub",
-        "postmates",
-        "chowbus",
-        "relay"
+        "imperfect_foods"
     ],
-    "workers": 1000,
+    "workers": 51,
     "tags": [
-        "delivery_workers",
-        "industry solidarity"
+        "coronavirus",
+        "delivery_workers"
     ],
     "author": [
-        "CM"
+        "hyatt d."
     ],
-    "latlngs": [
-        [
-            40.65532605,
-            -73.79478942223645
-        ],
-        [
-            42.3261966,
-            -74.62099388712133
-        ]
-    ],
-    "addresses": [
-        "Uber Limo Livery Hold Lot, Cargo Plaza Road, Queens, Queens County, New York, 11430, United States",
-        "Relay State Forest, Town of Stamford, Delaware County, New York, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

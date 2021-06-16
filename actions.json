@@ -15310,6 +15310,49 @@
         ]
     },
     {
+        "id": 444,
+        "date": "2021/02/23",
+        "sources": [
+            "https://businesstech.co.za/news/technology/470264/uber-faces-class-action-lawsuit-in-south-africa/"
+        ],
+        "actions": [
+            "legal action"
+        ],
+        "struggles": [
+            "pay and benefits",
+            "unfair labor practices",
+            "job security"
+        ],
+        "employment_types": [
+            "gig workers"
+        ],
+        "description": "In South Africa, Uber drivers are taking part in a class-action lawsuit against the company. Drivers are seeking compensation for unpaid overtime and holiday pay based on South African law. One of the law firms representing South African drivers also represented UK drivers in front of the UK Supreme Court, which ruled on February 19th that drivers must be classified as employees rather than independent contractors in the country.",
+        "online": null,
+        "locations": [
+            "south africa"
+        ],
+        "companies": [
+            "uber"
+        ],
+        "workers": null,
+        "tags": [
+            "drivers",
+            "industry solidarity"
+        ],
+        "author": [
+            "hyatt d."
+        ],
+        "latlngs": [
+            [
+                -33.8773875,
+                18.6298266
+            ]
+        ],
+        "addresses": [
+            "Uber BGC-RERUN, 3, Waterfront Road, Tyger Valley, Bellville, City of Cape Town, Western Cape, 7530, South Africa"
+        ]
+    },
+    {
         "id": 411,
         "date": "2021/02/26",
         "sources": [
@@ -16600,6 +16643,114 @@
         "tags": [
             "military_contracts",
             "politics"
+        ],
+        "author": [
+            "hyatt d."
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 446,
+        "date": "2021/06/01",
+        "sources": [
+            "https://www.theverge.com/2021/6/1/22463952/facebook-employees-petition-palestine-content-moderation-policy"
+        ],
+        "actions": [
+            "protest",
+            "open letter"
+        ],
+        "struggles": [
+            "discrimination",
+            "ethics"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "blue collar workers",
+            "contract workers",
+            "inhouse workers"
+        ],
+        "description": "Facebook employees are circulating a petition for the company to conduct an investigation for censoring Palestinian content on their website. At Facebook, content moderation is executed by third party contractors and algorithms. Facebook employees have taken notice and are asking the company as a whole to do a third party audit of any Muslim or Arab content decisions made by moderators.  ",
+        "online": true,
+        "locations": null,
+        "companies": [
+            "facebook"
+        ],
+        "workers": 174,
+        "tags": [
+            "international solidarity",
+            "moderators"
+        ],
+        "author": [
+            "hyatt d."
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 445,
+        "date": "2021/06/01",
+        "sources": [
+            "https://www.theverge.com/2021/6/1/22463267/google-union-g4s-subcontractor-deadname-id-badge",
+            "https://dropthedeadnames.org/#petition"
+        ],
+        "actions": [
+            "protest",
+            "open letter"
+        ],
+        "struggles": [
+            "discrimination",
+            "ethics"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "blue collar workers",
+            "inhouse workers",
+            "contract workers"
+        ],
+        "description": "The Alphabet Workers Union circulated a petition asking the company and its contractors to allow employees to choose which name appears on their ID badges. These actions were taken because a transgender man, Phares Lee, requested to have his deadname replaced by his preferred name. His request was denied and he was forced to put his legal name. Lee works for G4S, a Google contractor, and was also banned from participating in employee resource groups (ERGs) as a result of his contractor status. The petition also called on the company to open ERGs to contractors. Update (6/14): G4S and Google allowed Phares to use his preferred name and join Google ERGs. The companies have not communicated larger changes in policy. ",
+        "online": true,
+        "locations": null,
+        "companies": [
+            "google",
+            "g4s"
+        ],
+        "workers": 1044,
+        "tags": [
+            "lgbtq",
+            "coworker solidarity"
+        ],
+        "author": [
+            "hyatt d."
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 447,
+        "date": "2021/06/04",
+        "sources": [
+            "https://www.theverge.com/2021/6/4/22491629/apple-employees-push-back-return-office-internal-letter-tim-cook?fbclid=IwAR08D4vzo6shzwwtNXwr8HCw6h1nsHG7rQcSx-k-JyuYL-I2Q7aDl0o_aZ0"
+        ],
+        "actions": [
+            "open letter"
+        ],
+        "struggles": [
+            "working conditions"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "Apple employees are fighting against a new policy requiring them to return to work three days a week in an open letter addressed to Tim Cook on Slack. Approximately 80 people were involved in writing the letter. Employees have argued that the company should adopt a flexible approach for those who still want to remotely work from home. ",
+        "online": true,
+        "locations": null,
+        "companies": [
+            "apple"
+        ],
+        "workers": 80,
+        "tags": [
+            "coronavirus"
         ],
         "author": [
             "hyatt d."

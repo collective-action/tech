@@ -1,31 +1,30 @@
 {
-    "id": 440,
-    "date": "2021/05/20",
+    "id": 439,
+    "date": "2021/05/18",
     "sources": [
-        "https://campaigns.organizefor.org/petitions/black-women-did-the-work-then-they-were-denied-the-credit"
+        "https://www.theverge.com/2021/5/18/22441236/jewish-google-employees-support-palestine-letter-anti-zionism-israel"
     ],
     "actions": [
         "open letter"
     ],
     "struggles": [
-        "discrimination"
+        "discrimination",
+        "ethics"
     ],
     "employment_types": [
-        "white collar workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "The Algorithmic Justice League started an online campaign protesting a recent episode of the CBS news program, \"60 Minutes\", which featured a segment about the racial bias in law enforcement facial recognition technology but failed to cite any Black female scientists in the field. The group is demanding that 60 Minutes and Anderson Cooper apologize and cite Black female scientists, specifically Deborah Raji, Timnit Gebru, Joy Buolamwini, for their contribution to AI facial recognition research in their segment.   ",
+    "description": "At Google, a group of Jewish employees (Jewish Diaspora in Tech) is asking the company to support Palestinians during the Israeli bombing campaign in Gaza. An internal letter was circulated among employees asking Sundar Pichai to make a statement condemning recent Israeli attacks on Gaza. The letter mentions accepting the requests of Palestinian Googlers and funding relief for Palestinians affected by the violence, as well as protecting freedom of speech within the company. This new group was formed because some Jewish employees felt that the official Jewish ERG didn't allow a safe place to express anti-Zionist beliefs. ",
     "online": true,
     "locations": null,
     "companies": [
-        "viacomcbs"
+        "google"
     ],
-    "workers": 5845,
+    "workers": 250,
     "tags": [
-        "blm",
-        "sexism",
-        "antiracism",
-        "law_enforcement",
-        "ai"
+        "international solidarity",
+        "politics"
     ],
     "author": [
         "hyatt d."
