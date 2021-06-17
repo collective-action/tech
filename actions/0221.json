@@ -35,8 +35,8 @@
     ],
     "latlngs": [
         [
-            33.977092,
-            -118.4092133
+            37.42337,
+            -122.0883065
         ],
         [
             37.778011,
@@ -51,20 +51,15 @@
             -73.9598257
         ],
         [
-            40.7417176,
-            -74.0041592
-        ],
-        [
             40.7007485,
             -73.9725542
         ]
     ],
     "addresses": [
-        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, California, 90094, United States",
+        "Google, Mountain View, Santa Clara County, California, 94043, United States",
         "WeWork, Mission Street, West SoMa, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States",
         "Facebook Way, Belle Haven, Menlo Park, San Mateo County, California, 94025-1246, United States",
         "Kickstarter HQ, West Street, Brooklyn, Kings County, New York, 11222, United States",
-        "Google, 111, 8th Avenue, Chelsea, Manhattan, New York County, New York, 10011, United States",
         "WeWork, Market Street, Brooklyn Navy Yard, Brooklyn, Kings County, New York, 11251, United States"
     ]
 }

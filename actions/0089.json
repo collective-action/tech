@@ -27,13 +27,6 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            37.3596811,
-            127.1051699
-        ]
-    ],
-    "addresses": [
-        "NAVER, \ubd88\uc815\ub85c, \ubd84\ub2f9\uad6c, \uc131\ub0a8\uc2dc, \uacbd\uae30\ub3c4, 13562, \ub300\ud55c\ubbfc\uad6d"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

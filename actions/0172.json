@@ -30,13 +30,6 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            7.2077919,
-            38.613507
-        ]
-    ],
-    "addresses": [
-        "Bolt, Addis Ababa to Nairobi road, Melka Uda, \u123b\u1238\u1218\u1294 / Shashamane, East Shewa, \u12a6\u122e\u121a\u12eb \u12ad\u120d\u120d / Oromia, \u12a2\u1275\u12ee\u1335\u12eb"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

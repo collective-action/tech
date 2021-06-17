@@ -2283,12 +2283,12 @@
         ],
         "latlngs": [
             [
-                45.5441864,
-                -122.90401378016323
+                45.53173805,
+                -122.92748841303221
             ]
         ],
         "addresses": [
-            "Intel, Northeast Ronler Drive, Tanasbourne, Hillsboro, Washington County, Oregon, 97124-9433, United States"
+            "Intel Hawthorn Farm Campus, Orenco, Hillsboro, Washington County, Oregon, United States"
         ]
     },
     {
@@ -2467,12 +2467,12 @@
         ],
         "latlngs": [
             [
-                32.939795,
-                -117.1026021
+                37.389317899999995,
+                -121.97901174515997
             ]
         ],
         "addresses": [
-            "Intel, 12220, Scripps Summit Drive, San Diego, San Diego County, California, 92131, United States"
+            "McAfee, Mission College Boulevard, Santa Clara, Santa Clara County, California, 95054-1231, United States"
         ]
     },
     {
@@ -2713,12 +2713,12 @@
         ],
         "latlngs": [
             [
-                32.939795,
-                -117.1026021
+                37.389317899999995,
+                -121.97901174515997
             ]
         ],
         "addresses": [
-            "Intel, 12220, Scripps Summit Drive, San Diego, San Diego County, California, 92131, United States"
+            "McAfee, Mission College Boulevard, Santa Clara, Santa Clara County, California, 95054-1231, United States"
         ]
     },
     {
@@ -3587,15 +3587,8 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": [
-            [
-                37.3596811,
-                127.1051699
-            ]
-        ],
-        "addresses": [
-            "NAVER, \ubd88\uc815\ub85c, \ubd84\ub2f9\uad6c, \uc131\ub0a8\uc2dc, \uacbd\uae30\ub3c4, 13562, \ub300\ud55c\ubbfc\uad6d"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 80,
@@ -4114,15 +4107,8 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": [
-            [
-                7.2077919,
-                38.613507
-            ]
-        ],
-        "addresses": [
-            "Bolt, Addis Ababa to Nairobi road, Melka Uda, \u123b\u1238\u1218\u1294 / Shashamane, East Shewa, \u12a6\u122e\u121a\u12eb \u12ad\u120d\u120d / Oromia, \u12a2\u1275\u12ee\u1335\u12eb"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 94,
@@ -6477,12 +6463,12 @@
         ],
         "latlngs": [
             [
-                33.977092,
-                -118.4092133
+                37.42337,
+                -122.0883065
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, California, 90094, United States"
+            "Google, Mountain View, Santa Clara County, California, 94043, United States"
         ]
     },
     {
@@ -6563,12 +6549,12 @@
         ],
         "latlngs": [
             [
-                33.977092,
-                -118.4092133
+                37.42337,
+                -122.0883065
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, California, 90094, United States"
+            "Google, Mountain View, Santa Clara County, California, 94043, United States"
         ]
     },
     {
@@ -6766,10 +6752,6 @@
         ],
         "latlngs": [
             [
-                45.7551638,
-                21.2209352
-            ],
-            [
                 19.42437,
                 -99.168218
             ],
@@ -6779,7 +6761,6 @@
             ]
         ],
         "addresses": [
-            "Glovo, Strada Doctor Iosif Nemoianu, Cetate, Timi\u0219oara, Timi\u0219, 300011, Rom\u00e2nia",
             "Uber, Calle Hamburgo, Ju\u00e1rez, Cuauht\u00e9moc, Ciudad de M\u00e9xico, 06600, M\u00e9xico",
             "Rapperswil, Rapperswil-Jona, Wahlkreis See-Gaster, Sankt Gallen, 8640, Schweiz/Suisse/Svizzera/Svizra"
         ]
@@ -6899,15 +6880,8 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": [
-            [
-                7.2077919,
-                38.613507
-            ]
-        ],
-        "addresses": [
-            "Bolt, Addis Ababa to Nairobi road, Melka Uda, \u123b\u1238\u1218\u1294 / Shashamane, East Shewa, \u12a6\u122e\u121a\u12eb \u12ad\u120d\u120d / Oromia, \u12a2\u1275\u12ee\u1335\u12eb"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 161,
@@ -6991,13 +6965,13 @@
                 -122.4180838
             ],
             [
-                37.7759881,
-                -122.3919991
+                37.750721999999996,
+                -122.40243254779433
             ]
         ],
         "addresses": [
             "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States",
-            "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, San Francisco, California, 94107, United States"
+            "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, San Francisco, California, 94124, United States"
         ]
     },
     {
@@ -7038,13 +7012,13 @@
                 -122.4180838
             ],
             [
-                37.7759881,
-                -122.3919991
+                37.750721999999996,
+                -122.40243254779433
             ]
         ],
         "addresses": [
             "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States",
-            "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, San Francisco, California, 94107, United States"
+            "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, San Francisco, California, 94124, United States"
         ]
     },
     {
@@ -7123,12 +7097,12 @@
         ],
         "latlngs": [
             [
-                37.7821769,
-                -122.3912458
+                -22.5095216,
+                -43.2334717
             ]
         ],
         "addresses": [
-            "GitHub, 88, Colin P. Kelly Junior Street, South Beach, San Francisco, San Francisco City and County, San Francisco, California, 94107, United States"
+            "Rodovia Washington Luiz, Duarte da Silveira, Petr\u00f3polis, Regi\u00e3o Geogr\u00e1fica Imediata de Petr\u00f3polis, Regi\u00e3o Metropolitana do Rio de Janeiro, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Petr\u00f3polis, Rio de Janeiro, Regi\u00e3o Sudeste, 25725-595, Brasil"
         ]
     },
     {
@@ -7525,13 +7499,13 @@
                 -122.4180838
             ],
             [
-                37.7759881,
-                -122.3919991
+                37.750721999999996,
+                -122.40243254779433
             ]
         ],
         "addresses": [
             "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States",
-            "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, San Francisco, California, 94107, United States"
+            "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, San Francisco, California, 94124, United States"
         ]
     },
     {
@@ -8726,13 +8700,13 @@
                 -122.4180838
             ],
             [
-                37.7759881,
-                -122.3919991
+                37.750721999999996,
+                -122.40243254779433
             ]
         ],
         "addresses": [
             "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States",
-            "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, San Francisco, California, 94107, United States"
+            "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, San Francisco, California, 94124, United States"
         ]
     },
     {
@@ -8838,8 +8812,8 @@
         ],
         "latlngs": [
             [
-                33.977092,
-                -118.4092133
+                37.42337,
+                -122.0883065
             ],
             [
                 37.778011,
@@ -8854,20 +8828,15 @@
                 -73.9598257
             ],
             [
-                40.7417176,
-                -74.0041592
-            ],
-            [
                 40.7007485,
                 -73.9725542
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, California, 90094, United States",
+            "Google, Mountain View, Santa Clara County, California, 94043, United States",
             "WeWork, Mission Street, West SoMa, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States",
             "Facebook Way, Belle Haven, Menlo Park, San Mateo County, California, 94025-1246, United States",
             "Kickstarter HQ, West Street, Brooklyn, Kings County, New York, 11222, United States",
-            "Google, 111, 8th Avenue, Chelsea, Manhattan, New York County, New York, 10011, United States",
             "WeWork, Market Street, Brooklyn Navy Yard, Brooklyn, Kings County, New York, 11251, United States"
         ]
     },
@@ -8909,13 +8878,13 @@
                 -122.3912458
             ],
             [
-                37.411866,
-                -122.0714965
+                37.41096725,
+                -122.07138737347663
             ]
         ],
         "addresses": [
             "GitHub, 88, Colin P. Kelly Junior Street, South Beach, San Francisco, San Francisco City and County, San Francisco, California, 94107, United States",
-            "Microsoft Company Store, La Avenida Street, Mountain View, Santa Clara County, California, 94043-3421, United States"
+            "Microsoft Silicon Valley, Mountain View, Santa Clara County, California, United States"
         ]
     },
     {
@@ -8950,12 +8919,12 @@
         ],
         "latlngs": [
             [
-                33.977092,
-                -118.4092133
+                37.42337,
+                -122.0883065
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, California, 90094, United States"
+            "Google, Mountain View, Santa Clara County, California, 94043, United States"
         ]
     },
     {
@@ -8999,13 +8968,13 @@
                 -122.08237793989416
             ],
             [
-                33.977092,
-                -118.4092133
+                37.42337,
+                -122.0883065
             ]
         ],
         "addresses": [
             "Google, Mountain View, Santa Clara County, California, United States",
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, California, 90094, United States"
+            "Google, Mountain View, Santa Clara County, California, 94043, United States"
         ]
     },
     {
@@ -9087,12 +9056,12 @@
         ],
         "latlngs": [
             [
-                33.977092,
-                -118.4092133
+                37.42337,
+                -122.0883065
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, California, 90094, United States"
+            "Google, Mountain View, Santa Clara County, California, 94043, United States"
         ]
     },
     {
@@ -9441,12 +9410,12 @@
         ],
         "latlngs": [
             [
-                37.7871368,
-                -122.2795012
+                37.7841938,
+                -122.3992122
             ]
         ],
         "addresses": [
-            "SPIN!, Mariner Square Loop, Alameda, Alameda County, California, 94607, United States"
+            "SPiN SF, 690, Folsom Street, South of Market, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States"
         ]
     },
     {
@@ -10624,8 +10593,8 @@
         ],
         "latlngs": [
             [
-                37.7759881,
-                -122.3919991
+                37.750721999999996,
+                -122.40243254779433
             ],
             [
                 37.7756962,
@@ -10641,7 +10610,7 @@
             ]
         ],
         "addresses": [
-            "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, San Francisco, California, 94107, United States",
+            "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, San Francisco, California, 94124, United States",
             "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States",
             "Uber / Lyft Driver Drop Off, Campanile Mall, Montezuma Mesa, Del Cerro, San Diego, San Diego County, California, 92115, United States",
             "Uber / Lyft Driver Drop Off, Campanile Mall, Montezuma Mesa, Del Cerro, San Diego, San Diego County, California, 92115, United States"
@@ -11243,34 +11212,19 @@
                 -47.7985009230547
             ],
             [
-                47.2260752,
-                8.8172776
-            ],
-            [
                 -36.8691092,
                 -60.1620626
             ],
             [
                 -34.5814605,
                 -58.4513731
-            ],
-            [
-                36.5558543,
-                -4.62768
-            ],
-            [
-                10.4233808,
-                -75.5463201
             ]
         ],
         "addresses": [
             "iFood, 1496, Avenida dos Autonomistas, Osasco, Regi\u00e3o Imediata de S\u00e3o Paulo, Regi\u00e3o Metropolitana de S\u00e3o Paulo, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de S\u00e3o Paulo, S\u00e3o Paulo, Regi\u00e3o Sudeste, 06020-010, Brasil",
             "Parque Uber, Jardim Bot\u00e2nico, Ribeir\u00e3o Preto, Regi\u00e3o Imediata de Ribeir\u00e3o Preto, Regi\u00e3o Metropolitana de Ribeir\u00e3o Preto, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Ribeir\u00e3o Preto, S\u00e3o Paulo, Regi\u00e3o Sudeste, Brasil",
-            "MI TIERRA AG - vinoteca argentina, 7, Alpenstrasse, Rapperswil, Rapperswil-Jona, Wahlkreis See-Gaster, Sankt Gallen, 8640, Schweiz/Suisse/Svizzera/Svizra",
             "Cristian Uber, Hinojo, Partido de Olavarr\u00eda, Buenos Aires, 7318, Argentina",
-            "Glovo, 3590, Avenida Federico Lacroze, Chacarita, Buenos Aires, Distrito Audiovisual, Comuna 15, Ciudad Aut\u00f3noma de Buenos Aires, C1427EDN, Argentina",
-            "ifood, A-387, MonteBello, Mijas, Costa del Sol Occidental, M\u00e1laga, Andaluc\u00eda, 29651, Espa\u00f1a",
-            "Rappi Town, Avenida del Centenario, Getseman\u00ed, Cartagena de Indias, Dique, Bol\u00edvar, Caribe, 3060, Colombia"
+            "Glovo, 3590, Avenida Federico Lacroze, Chacarita, Buenos Aires, Distrito Audiovisual, Comuna 15, Ciudad Aut\u00f3noma de Buenos Aires, C1427EDN, Argentina"
         ]
     },
     {
@@ -12407,12 +12361,8 @@
                 -47.7985009230547
             ],
             [
-                43.6689691,
-                12.041964349868564
-            ],
-            [
-                49.5234659,
-                5.7641422
+                57.8680579,
+                -5.1274406
             ],
             [
                 47.2260752,
@@ -12423,8 +12373,8 @@
                 -60.1620626
             ],
             [
-                43.6689691,
-                12.041964349868564
+                57.8680579,
+                -5.1274406
             ],
             [
                 18.6534612,
@@ -12442,11 +12392,10 @@
         "addresses": [
             "iFood, 1496, Avenida dos Autonomistas, Osasco, Regi\u00e3o Imediata de S\u00e3o Paulo, Regi\u00e3o Metropolitana de S\u00e3o Paulo, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de S\u00e3o Paulo, S\u00e3o Paulo, Regi\u00e3o Sudeste, 06020-010, Brasil",
             "Parque Uber, Jardim Bot\u00e2nico, Ribeir\u00e3o Preto, Regi\u00e3o Imediata de Ribeir\u00e3o Preto, Regi\u00e3o Metropolitana de Ribeir\u00e3o Preto, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Ribeir\u00e3o Preto, S\u00e3o Paulo, Regi\u00e3o Sudeste, Brasil",
-            "loggie, Via Arezzo, Pieve Santo Stefano, Arezzo, Toscana, 52036, Italia",
-            "iFood, Rue Victor Hugo, Longwy-Haut, Longwy, Briey, Meurthe-et-Moselle, Grand Est, France m\u00e9tropolitaine, 54400, France",
+            "Loggie, Highland, Scotland, IV23 2SG, United Kingdom",
             "MI TIERRA AG - vinoteca argentina, 7, Alpenstrasse, Rapperswil, Rapperswil-Jona, Wahlkreis See-Gaster, Sankt Gallen, 8640, Schweiz/Suisse/Svizzera/Svizra",
             "Cristian Uber, Hinojo, Partido de Olavarr\u00eda, Buenos Aires, 7318, Argentina",
-            "loggie, Via Arezzo, Pieve Santo Stefano, Arezzo, Toscana, 52036, Italia",
+            "Loggie, Highland, Scotland, IV23 2SG, United Kingdom",
             "Ifood, 61A, FRACC. MARINA DEL REY, Ciudad del Carmen, Carmen, Campeche, 24100, M\u00e9xico",
             "Rapperswil, Rapperswil-Jona, Wahlkreis See-Gaster, Sankt Gallen, 8640, Schweiz/Suisse/Svizzera/Svizra",
             "Uber, Calle Hamburgo, Ju\u00e1rez, Cuauht\u00e9moc, Ciudad de M\u00e9xico, 06600, M\u00e9xico"
@@ -12996,12 +12945,12 @@
         ],
         "latlngs": [
             [
-                52.5034002,
-                13.3386373
+                52.5160429,
+                13.4125087
             ]
         ],
         "addresses": [
-            "Berlin, Tauentzienstra\u00dfe, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, 10789, Deutschland"
+            "N26 Bank GmbH, 62, Klosterstra\u00dfe, Mitte, Berlin, 10179, Deutschland"
         ]
     },
     {
@@ -13074,12 +13023,12 @@
         ],
         "latlngs": [
             [
-                33.977092,
-                -118.4092133
+                37.42337,
+                -122.0883065
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, California, 90094, United States"
+            "Google, Mountain View, Santa Clara County, California, 94043, United States"
         ]
     },
     {
@@ -13183,15 +13132,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                48.1436497,
-                11.5576006
-            ]
-        ],
-        "addresses": [
-            "FOODORA, Marsstra\u00dfe, Bezirksteil Augustenstra\u00dfe, Maxvorstadt, M\u00fcnchen, Bayern, 80335, Deutschland"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 318,
@@ -13450,17 +13392,12 @@
         ],
         "latlngs": [
             [
-                33.977092,
-                -118.4092133
-            ],
-            [
-                40.572519,
-                -122.3505599
+                37.42337,
+                -122.0883065
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, California, 90094, United States",
-            "Adecco, 1080, East Cypress Avenue, Redding, Shasta County, California, 96002, United States"
+            "Google, Mountain View, Santa Clara County, California, 94043, United States"
         ]
     },
     {
@@ -14233,17 +14170,17 @@
         "author": null,
         "latlngs": [
             [
-                37.38450795,
-                -121.9327351655259
+                34.091086700000005,
+                -117.6034596429738
             ],
             [
-                33.8306344,
-                -118.1440409
+                37.4181243,
+                -122.02538023988251
             ]
         ],
         "addresses": [
-            "Verizon, 375, Trimble Road, Santa Clara, Santa Clara County, California, 95054, United States",
-            "Yahoo, McGowen Street, Douglas Park, Long Beach, California, 990815, United States"
+            "Verizon, Rancho Cucamonga, San Bernardino County, California, 91730, United States",
+            "Yahoo, Sunnyvale, Santa Clara County, California, United States"
         ]
     },
     {
@@ -16315,8 +16252,8 @@
         ],
         "latlngs": [
             [
-                12.9096427,
-                77.6517249
+                28.564093,
+                77.1217351
             ],
             [
                 19.1815187,
@@ -16324,7 +16261,7 @@
             ]
         ],
         "addresses": [
-            "Uber, 27th Main Road, Sector 2, HSR Layout Ward, Bommanahalli Zone, Bengaluru, Bangalore South, Bangalore Urban, Karnataka, 560068, India",
+            "Uber Ola pickup road, Delhi Cantonment, New Delhi, Delhi, 110010, India",
             "Sub Centre, Ola, Oala, Adilabad, Nirmal, Telangana, 504109, India"
         ]
     },
@@ -16364,8 +16301,8 @@
         ],
         "latlngs": [
             [
-                12.9096427,
-                77.6517249
+                28.564093,
+                77.1217351
             ],
             [
                 19.1815187,
@@ -16373,7 +16310,7 @@
             ]
         ],
         "addresses": [
-            "Uber, 27th Main Road, Sector 2, HSR Layout Ward, Bommanahalli Zone, Bengaluru, Bangalore South, Bangalore Urban, Karnataka, 560068, India",
+            "Uber Ola pickup road, Delhi Cantonment, New Delhi, Delhi, 110010, India",
             "Sub Centre, Ola, Oala, Adilabad, Nirmal, Telangana, 504109, India"
         ]
     },
