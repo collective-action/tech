@@ -16694,5 +16694,41 @@
         ],
         "latlngs": null,
         "addresses": null
+    },
+    {
+        "id": 448,
+        "date": "2021/06/16",
+        "sources": [
+            "https://thehill.com/policy/technology/558812-workers-at-progressive-data-firm-catalist-unionize?amp"
+        ],
+        "actions": [
+            "union drive",
+            "union representation"
+        ],
+        "struggles": [
+            "ethics"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "Workers at Catalist, a political data services provider, have formed a union. 30 out of 38 employees have joined the union which is represented by the Communication Workers of America. The motivation for workers to unionize was not any specific mistreatment, rather they believe that in the broad benefits of organizing. The company voluntarily recognized the union. ",
+        "online": null,
+        "locations": [
+            "washington_dc-usa"
+        ],
+        "companies": [
+            "catalist"
+        ],
+        "workers": 30,
+        "tags": [
+            "cwa",
+            "coworker_solidarity"
+        ],
+        "author": [
+            "hyatt d."
+        ],
+        "latlngs": null,
+        "addresses": null
     }
 ]

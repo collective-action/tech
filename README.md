@@ -20,11 +20,11 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">23/06/2021 06:25PM</td>
+    <td data-summary="timestamp">23/06/2021 07:25PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">412</td>
+    <td data-summary="action-count">413</td>
   </tr>
  </table>
 </div>
@@ -41,6 +41,21 @@ The goal of this archive is to provide data and insights on organizing in the te
    </td>
    <td>
     link
+   </td>
+  </tr>
+  <tr author="hyatt d.">
+   <td>
+    2021-06-16
+   </td>
+   <td>
+    Workers at Catalist, a political data services provider, have formed a union. 30 out of 38 employees have joined the union which is represented by the Communication Workers of America. The motivation for workers to unionize was not any specific mistreatment, rather they believe that in the broad benefits of organizing. The company voluntarily recognized the union.
+   </td>
+   <td>
+    <a href="/actions/0412.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
    </td>
   </tr>
   <tr author="hyatt d.">
