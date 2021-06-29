@@ -31,13 +31,6 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            -22.5095216,
-            -43.2334717
-        ]
-    ],
-    "addresses": [
-        "Rodovia Washington Luiz, Duarte da Silveira, Petr\u00f3polis, Regi\u00e3o Geogr\u00e1fica Imediata de Petr\u00f3polis, Regi\u00e3o Metropolitana do Rio de Janeiro, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Petr\u00f3polis, Rio de Janeiro, Regi\u00e3o Sudeste, 25725-595, Brasil"
-    ]
+    "latlngs": null,
+    "addresses": null
 }
