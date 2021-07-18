@@ -2594,10 +2594,15 @@
             [
                 37.7756962,
                 -122.4180838
+            ],
+            [
+                42.5032848,
+                -71.8857521
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States",
+            "Lyft Uber Pickup Location, Midstate Trail, Westminster, Worcester County, Massachusetts, United States"
         ]
     },
     {
@@ -2785,12 +2790,12 @@
         ],
         "latlngs": [
             [
-                39.2813025,
-                -76.5905444
+                42.5032848,
+                -71.8857521
             ]
         ],
         "addresses": [
-            "Uber, 918, Fell Street, Fell's Point, Baltimore, Maryland, 21231, United States"
+            "Lyft Uber Pickup Location, Midstate Trail, Westminster, Worcester County, Massachusetts, United States"
         ]
     },
     {
@@ -7715,8 +7720,20 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                42.5032848,
+                -71.8857521
+            ],
+            [
+                42.5032848,
+                -71.8857521
+            ]
+        ],
+        "addresses": [
+            "Lyft Uber Pickup Location, Midstate Trail, Westminster, Worcester County, Massachusetts, United States",
+            "Lyft Uber Pickup Location, Midstate Trail, Westminster, Worcester County, Massachusetts, United States"
+        ]
     },
     {
         "id": 181,
@@ -12596,12 +12613,12 @@
                 -118.4092133
             ],
             [
-                39.2813025,
-                -76.5905444
+                42.5032848,
+                -71.8857521
             ],
             [
-                37.750721999999996,
-                -122.40243254779433
+                37.3142155,
+                -121.951167
             ],
             [
                 37.7753423,
@@ -12611,8 +12628,8 @@
         "addresses": [
             "Amazon, Jefferson County, Montana, United States",
             "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, California, 90094, United States",
-            "Uber, 918, Fell Street, Fell's Point, Baltimore, Maryland, 21231, United States",
-            "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, San Francisco, California, 94124, United States",
+            "Lyft Uber Pickup Location, Midstate Trail, Westminster, Worcester County, Massachusetts, United States",
+            "Lyft, 747, South Winchester Boulevard, San Jose, Santa Clara County, California, 95128, United States",
             "UserTesting, 690, 5th Street, South of Market, San Francisco, San Francisco City and County, San Francisco, California, 94017, United States"
         ]
     },
