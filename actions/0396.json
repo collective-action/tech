@@ -1,41 +1,47 @@
 {
-    "id": 421,
-    "date": "2021/04/13",
+    "id": 428,
+    "date": "2021/04/07",
     "sources": [
-        "https://www.nytimes.com/2021/04/13/business/media/new-york-times-tech-workers-form-a-union.html"
+        "https://abcnews.go.com/Technology/wireStory/uk-deliveroo-riders-strike-pay-gig-work-conditions-76920998",
+        "https://twitter.com/joinaunionpls/status/1379728581975285762?s=19"
     ],
     "actions": [
-        "union representation"
+        "strike",
+        "protest"
     ],
     "struggles": [
         "pay and benefits",
-        "job security",
         "working conditions"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "Tech workers including, software engineers, designers, data analysts and product managers at the New York Times formed a union and are asking for voluntarily recognition from the company. The workers formed the union because of concerns regarding pay equity, job security, health care costs, and career advancement. The tech workers will be represented by the News Guild of New York which already has 1300 newsroom and staff members from the New York Times.",
+    "description": "Deliveroo drivers went on a national strike in London, York, Redding, Sheffield, and Wolverhampton for better pay, working conditions, and basic workers rights. The strike was strategically timed to coincide with the company's IPO. According to protesters,  the company has profited from the COVID-19 pandemic at the expense of workers.",
     "online": null,
     "locations": [
-        "new york city-new york-usa"
+        "london-uk",
+        "sheffield-uk",
+        "york-uk",
+        "redding-uk",
+        "wolverhampton-uk"
     ],
     "companies": [
-        "the new york times"
+        "deliveroo"
     ],
-    "workers": 651,
-    "tags": null,
+    "workers": null,
+    "tags": [
+        "delivery_workers"
+    ],
     "author": [
         "hyatt d."
     ],
     "latlngs": [
         [
-            40.77541455,
-            -73.83098624117696
+            51.58489745,
+            -0.11333842774111015
         ]
     ],
     "addresses": [
-        "The New York Times, Whitestone Expressway, Linden Hill, Queens, Queens County, New York, 11354, United States"
+        "Deliveroo Editions, Cranford Way, Haringey Heartlands, London Borough of Haringey, London, Wood Green, Greater London, England, N8 9DG, United Kingdom"
     ]
 }

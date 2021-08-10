@@ -1,32 +1,27 @@
 {
-    "id": 428,
+    "id": 427,
     "date": "2021/04/07",
     "sources": [
-        "https://abcnews.go.com/Technology/wireStory/uk-deliveroo-riders-strike-pay-gig-work-conditions-76920998",
-        "https://twitter.com/joinaunionpls/status/1379728581975285762?s=19"
+        "https://www.newsweek.com/amazon-driver-leaves-packages-upside-down-start-no-more-smiles-protest-1581599",
+        "https://twitter.com/DaveLeeFT/status/1379631120501772289?s=19"
     ],
     "actions": [
-        "strike",
         "protest"
     ],
     "struggles": [
-        "pay and benefits",
         "working conditions"
     ],
     "employment_types": [
-        "gig workers"
+        "blue collar workers",
+        "inhouse workers"
     ],
-    "description": "Deliveroo drivers went on a national strike in London, York, Redding, Sheffield, and Wolverhampton for better pay, working conditions, and basic workers rights. The strike was strategically timed to coincide with the company's IPO. According to protesters,  the company has profited from the COVID-19 pandemic at the expense of workers.",
+    "description": "Amazon drivers have begun leaving the company's trademark packages upside-down which displays the company's logo as a frown. The trend began when an Amazon delivery driver, who goes by AugustaSummerz, posted photos online of displaying packages upside-down to protest working conditions. ",
     "online": null,
     "locations": [
-        "london-uk",
-        "sheffield-uk",
-        "york-uk",
-        "redding-uk",
-        "wolverhampton-uk"
+        "usa"
     ],
     "companies": [
-        "deliveroo"
+        "amazon"
     ],
     "workers": null,
     "tags": [
@@ -37,11 +32,11 @@
     ],
     "latlngs": [
         [
-            51.58489745,
-            -0.11333842774111015
+            46.320207,
+            -112.1072224
         ]
     ],
     "addresses": [
-        "Deliveroo Editions, Cranford Way, Haringey Heartlands, London Borough of Haringey, London, Wood Green, Greater London, England, N8 9DG, United Kingdom"
+        "Amazon, Jefferson County, Montana, United States"
     ]
 }

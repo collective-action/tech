@@ -1,68 +1,42 @@
 {
-    "id": 308,
+    "id": 399,
     "date": "2020/07/20",
     "sources": [
-        "https://www.vice.com/en_us/article/qj4zxx/amazon-google-and-lyft-workers-tell-us-why-theyre-striking-for-black-lives-matter",
-        "https://www.washingtonpost.com/business/2020/07/20/strike-for-black-lives/"
+        "https://www.vice.com/en/article/v7gyp4/uber-drivers-sue-to-gain-access-to-its-secret-algorithms",
+        "https://declinenow.org/open-letter-to-doordash/?v=47e5dceea252"
     ],
     "actions": [
-        "protest",
-        "strike"
+        "legal action"
     ],
     "struggles": [
-        "ethics",
-        "discrimination"
+        "unfair labor practices",
+        "pay and benefits"
     ],
     "employment_types": [
         "gig workers"
     ],
-    "description": "Amazon, Google, Uber, Lyft, and Postmates workers were reportedly among the \"tens of thousands\" of employees across the U.S. that took part in a protest of the country's long-standing systemic racism. Those that were unable to leave their jobs were encouraged to take an 8 minute, 46 second break (the amount of time a police officer knelt on George Floyd's neck) or to bend a knee in solidarity (a reference to protests by the NFL). The Washington Post reports that demonstrations took place in over 200 cities.",
+    "description": "In the United Kingdom, four Uber drivers have filed a lawsuit to gain access to Uber's algorithms. The drivers along with The UK App Drivers and Couriers Union argue that under Europe's General Data Protection Regulation they should have access to the data that Uber collects on their drivers. If given access to this data, drivers on the platform will be able to calculate an hourly wage as well as understand why they have been deactivated using trip ratings. ",
     "online": null,
     "locations": [
-        "usa"
+        "uk"
     ],
     "companies": [
-        "amazon",
-        "google",
-        "uber",
-        "lyft",
-        "postmates"
+        "uber"
     ],
-    "workers": null,
+    "workers": 4,
     "tags": [
-        "blm",
-        "antiracism"
+        "drivers"
     ],
     "author": [
-        "nataliyaned"
+        "hyatt d."
     ],
     "latlngs": [
         [
-            46.320207,
-            -112.1072224
-        ],
-        [
-            33.977092,
-            -118.4092133
-        ],
-        [
-            39.2813025,
-            -76.5905444
-        ],
-        [
-            37.750721999999996,
-            -122.40243254779433
-        ],
-        [
-            37.7753423,
-            -122.39763106771915
+            52.4746766,
+            -1.91586332385543
         ]
     ],
     "addresses": [
-        "Amazon, Jefferson County, Montana, United States",
-        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, California, 90094, United States",
-        "Uber, 918, Fell Street, Fell's Point, Baltimore, Maryland, 21231, United States",
-        "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, San Francisco, California, 94124, United States",
-        "UserTesting, 690, 5th Street, South of Market, San Francisco, San Francisco City and County, San Francisco, California, 94017, United States"
+        "UBER, 100, Broad Street, Ladywood, Park Central, Birmingham, West Midlands Combined Authority, West Midlands, England, B15 1AE, United Kingdom"
     ]
 }

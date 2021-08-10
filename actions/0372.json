@@ -1,36 +1,54 @@
 {
-    "id": 409,
-    "date": "2021/01/22",
+    "id": 394,
+    "date": "2021/01/12",
     "sources": [
-        "https://www.irishtimes.com/news/ireland/irish-news/deliveroo-riders-across-dublin-strike-over-working-conditions-1.4465621"
+        "https://www.washingtonpost.com/technology/2021/01/12/prop22-uber-lawsuit/"
     ],
     "actions": [
-        "protest",
-        "strike"
+        "legal action"
     ],
     "struggles": [
-        "pay and benefits",
-        "job security"
+        "unfair labor practices"
     ],
     "employment_types": [
         "gig workers"
     ],
-    "description": "Delivery drivers and restaurant owners in Dublin, Ireland organized to not work from 6pm - 8pm for the delivery platform, Deliveroo. Drivers have claimed their pay has been reduced and that they have been facing unsafe conditions while working. Some, restaurants that have their food delivered though the platform have decided to support the protest by not taking orders during the strike.",
-    "online": true,
+    "description": "The SEIU, along with a number of individual rideshare drivers, filed a lawsuit with the California Supreme Court seeking to overturn Proposition 22, which ruled that gig workers are independent contractors in the state. They argue that the law is unconstitutional and violates the right of state legislators; they also argue that Proposition 22 violated a rule that limits ballot measures to a single subject to prevent voter confusion.",
+    "online": null,
     "locations": [
-        "dublin-ireland"
+        "california-usa"
     ],
     "companies": [
-        "deliveroo"
+        "uber",
+        "lyft",
+        "doordash"
     ],
     "workers": null,
     "tags": [
-        "coronavirus",
-        "delivery_workers"
+        "drivers",
+        "seiu",
+        "climate change"
     ],
     "author": [
-        "hyatt d."
+        "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.7756962,
+            -122.4180838
+        ],
+        [
+            37.750721999999996,
+            -122.40243254779433
+        ],
+        [
+            37.7834546,
+            -122.4080358
+        ]
+    ],
+    "addresses": [
+        "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States",
+        "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, San Francisco, California, 94124, United States",
+        "Doordash HQ, Market Street, Union Square, San Francisco, San Francisco City and County, San Francisco, California, 94103-3124, United States"
+    ]
 }

@@ -1,39 +1,45 @@
 {
-    "id": 424,
-    "date": "2021/04/03",
+    "id": 450,
+    "date": "2021/04/01",
     "sources": [
-        "https://www.rfa.org/english/news/china/riders-03042021131132.html",
-        "https://chinadigitaltimes.net/2021/03/translation-detention-of-takeout-driver-advocate-highlights-digital-era-labor-abuses/"
+        "https://labornotes.org/2021/06/dispersed-undaunted-chicago-amazon-workers-help-win-megacycle-pay-nationwide",
+        "https://www.amazoniansunited.org/megacyclepetition",
+        "https://news.wttw.com/2021/04/01/amazon-employees-chicago-demand-accommodations-brutal-shift"
     ],
     "actions": [
         "protest",
-        "strike"
+        "open letter"
     ],
     "struggles": [
-        "ethics",
         "pay and benefits",
         "working conditions"
     ],
     "employment_types": [
-        "gig workers"
+        "blue collar workers",
+        "inhouse workers"
     ],
-    "description": "Food delivery drivers for the platform Ele.me are going on strike for better pay, working conditions, and to protest Xiong Yan's detainment. Xiong Yan is the head of an unofficial union for the platform who was detained in Beijing last month. Delivery workers who are on strike and part of the sabotage campaign are refusing to accept work or, in cases when they do, purposefully taking a long time to complete orders to trigger \"time outs\". ",
-    "online": true,
+    "description": "The Chicago chapter of Amazonians United, DCH1, created a petition demanding a $2 pay increase and full 20-minute breaks for workers on the company's megacycle shift, a new shift that runs from 1:20 am -11:50 am. In addition, the petition called for accommodations for workers who are unable to work the shift. In April DCH1 also organized a walkout in protest. On May 19th, Amazon warehouse workers across the country who work on the Megacycle shift began receiving a $1.50-$2.00 pay increase per hour for certain days of the week. ",
+    "online": null,
     "locations": [
-        "shenzhen-china",
-        "beijing-china"
+        "chicago-illinois-usa"
     ],
     "companies": [
-        "ele.me"
+        "amazon"
     ],
-    "workers": 10000,
+    "workers": null,
     "tags": [
-        "coworker solidarity",
-        "delivery_workers"
+        "coworker solidarity"
     ],
     "author": [
         "hyatt d."
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            41.84040105,
+            -87.68351928672685
+        ]
+    ],
+    "addresses": [
+        "Amazon Distribution, 2801, South Western Avenue, Lower West Side, Chicago, Cook County, Illinois, 60608, United States"
+    ]
 }

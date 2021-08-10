@@ -1,32 +1,30 @@
 {
-    "id": 367,
-    "date": "2020/12/11",
+    "id": 372,
+    "date": "2020/12/07",
     "sources": [
-        "https://www.vice.com/amp/en/article/3anva3/three-of-spotifys-podcast-unions-stop-working-to-demand-better-workplace-conditions"
+        "https://www.nlrb.gov/case/13-CA-269890"
     ],
     "actions": [
-        "strike"
+        "legal action"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions",
-        "unfair labor practices",
-        "discrimination"
+        "unfair labor practices"
     ],
     "employment_types": [
         "white collar workers"
     ],
-    "description": "Three unions at Spotify kicked off a two hour work stoppage in solidarity with their collective struggles for fairer contracts and better workplace conditions. The union at Gimlet, a major podcast publisher that was bought by Spotify last year for $230 million, is joining unions at The Ringer and Parcast\u2014all properties owned by Spotify\u2014in the work stoppage. The union's demands have included a contract with guaranteed raises, clear guidelines surrounding promotions, the right to profit from intellectual property they help create, a greater emphasis on diversity, and pay equity across the board. The work stoppage was streamed on Twitch for a little over an hour, with organizing members from all three groups outlining in detail their demands. ",
-    "online": true,
-    "locations": null,
+    "description": "The tech firm Civis Analysis, which came out of Obama's 2012 campaign and is backed by Eric Schmidt, has been hit with an unfair labor practice charge for illegally firing workers in retaliation for organizing. ",
+    "online": null,
+    "locations": [
+        "chicago-illinois-usa"
+    ],
     "companies": [
-        "the ringer",
-        "spotify",
-        "gimlet media",
-        "parcast"
+        "civis analytics"
     ],
     "workers": null,
-    "tags": null,
+    "tags": [
+        "retaliation"
+    ],
     "author": [
         "organizejs"
     ],

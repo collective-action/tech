@@ -1,30 +1,30 @@
 {
-    "id": 427,
-    "date": "2021/04/07",
+    "id": 416,
+    "date": "2021/04/06",
     "sources": [
-        "https://www.newsweek.com/amazon-driver-leaves-packages-upside-down-start-no-more-smiles-protest-1581599",
-        "https://twitter.com/DaveLeeFT/status/1379631120501772289?s=19"
+        "https://www.bloomberg.com/news/articles/2021-04-06/doordash-workers-are-trying-to-game-the-algorithm-to-increase-pay"
     ],
     "actions": [
-        "protest"
+        "protest",
+        "strike"
     ],
     "struggles": [
-        "working conditions"
+        "pay and benefits"
     ],
     "employment_types": [
-        "blue collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "Amazon drivers have begun leaving the company's trademark packages upside-down which displays the company's logo as a frown. The trend began when an Amazon delivery driver, who goes by AugustaSummerz, posted photos online of displaying packages upside-down to protest working conditions. ",
-    "online": null,
+    "description": "DoorDash drivers are working together with a 40,000 person online community (#DeclineNow) to increase their pay by systematically declining orders through the platform. As part of the #DeclineNow movement, DoorDash drivers do not accept orders that pay less than $7, more than twice the current $3 floor. By collectively declining orders, it forces the algorithm to offer the next driver the same delivery but at a higher price. ",
+    "online": true,
     "locations": [
         "usa"
     ],
     "companies": [
-        "amazon"
+        "doordash"
     ],
-    "workers": null,
+    "workers": 40000,
     "tags": [
+        "coworker solidarity",
         "delivery_workers"
     ],
     "author": [
@@ -32,11 +32,11 @@
     ],
     "latlngs": [
         [
-            46.320207,
-            -112.1072224
+            37.7834546,
+            -122.4080358
         ]
     ],
     "addresses": [
-        "Amazon, Jefferson County, Montana, United States"
+        "Doordash HQ, Market Street, Union Square, San Francisco, San Francisco City and County, San Francisco, California, 94103-3124, United States"
     ]
 }

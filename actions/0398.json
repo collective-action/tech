@@ -1,54 +1,41 @@
 {
-    "id": 436,
-    "date": "2021/04/21",
+    "id": 421,
+    "date": "2021/04/13",
     "sources": [
-        "https://www.vice.com/en/article/epn437/nyc-gig-workers-are-organizing-against-rampant-e-bike-theft-and-assault"
+        "https://www.nytimes.com/2021/04/13/business/media/new-york-times-tech-workers-form-a-union.html"
     ],
     "actions": [
-        "protest"
+        "union representation"
     ],
     "struggles": [
-        "working conditions",
-        "unfair labor practices",
         "pay and benefits",
-        "job security"
+        "job security",
+        "working conditions"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "New York City delivery workers who ride e-bikes for food delivery apps protested against wage theft, lack of protections, and poor working conditions, including rampant theft of their e-bikes and violent assault while on the job. The protest was organized by Los Deliveristas Unidos, a grassroots campaign formed by immigrant Latinx delivery workers in New York City in 2020 during the pandemic.",
+    "description": "Tech workers including, software engineers, designers, data analysts and product managers at the New York Times formed a union and are asking for voluntarily recognition from the company. The workers formed the union because of concerns regarding pay equity, job security, health care costs, and career advancement. The tech workers will be represented by the News Guild of New York which already has 1300 newsroom and staff members from the New York Times.",
     "online": null,
     "locations": [
         "new york city-new york-usa"
     ],
     "companies": [
-        "uber",
-        "doordash",
-        "grubhub",
-        "postmates",
-        "chowbus",
-        "relay"
+        "the new york times"
     ],
-    "workers": 1000,
-    "tags": [
-        "delivery_workers",
-        "industry solidarity"
-    ],
+    "workers": 651,
+    "tags": null,
     "author": [
-        "CM"
+        "hyatt d."
     ],
     "latlngs": [
         [
-            40.65532605,
-            -73.79478942223645
-        ],
-        [
-            42.3261966,
-            -74.62099388712133
+            40.77541455,
+            -73.83098624117696
         ]
     ],
     "addresses": [
-        "Uber Limo Livery Hold Lot, Cargo Plaza Road, Queens, Queens County, New York, 11430, United States",
-        "Relay State Forest, Town of Stamford, Delaware County, New York, United States"
+        "The New York Times, Whitestone Expressway, Linden Hill, Queens, Queens County, New York, 11354, United States"
     ]
 }

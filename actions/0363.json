@@ -1,41 +1,53 @@
 {
-    "id": 373,
+    "id": 418,
     "date": "2020/12/21",
     "sources": [
-        "https://www.rfa.org/english/news/china/workers-12212020111240.html"
+        "https://www.thelocal.de/20201221/amazon-workers-across-germany-go-on-strike-for-higher-wages-in-build-up-to-online-xmas/"
     ],
     "actions": [
         "protest",
         "strike"
     ],
     "struggles": [
-        "job security"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
-        "contract workers",
-        "blue collar workers"
+        "blue collar workers",
+        "inhouse workers"
     ],
-    "description": "Shanghai factory workers at the Apple supplier Pegatron turned out to protest a pay dispute with management at the weekend. Thousands of temporary workers gathered outside the Taiwanese-invested Pegatron facility in Shanghai, as authorities dispatched large numbers of police to block their entrance to the facility, sparking clashes. The protest came after Pegatron tried to transfer thousands of workers from its Shanghai factory to another facility at Kunshan in the eastern province of Jiangsu. Those who refused the transfer would be fired, and workers fired for refusing the offer wouldn't be eligible for their share of finders' fee commission usually shared between recruitment agencies and workers.",
+    "description": "In Germany, 800 Amazon employees at six different locations stopped work ahead of Christmas to protest precarious wages. Strikes were called by trade union Verdi and took place in Bad Herzfeld, Rheinberg, and Werne. The strike was called to push for recognition of the union's collective agreements and paying employees according to those agreements. Verdi is also pressuring Amazon for better health and safety conditions. ",
     "online": null,
     "locations": [
-        "shanghai-china"
+        "bad hersfeld-germany",
+        "werne-germany",
+        "rheinberg-germany"
     ],
     "companies": [
-        "pegatron",
-        "apple"
+        "amazon"
     ],
-    "workers": 1000,
+    "workers": 800,
     "tags": null,
     "author": [
-        "organizejs"
+        "hyatt d."
     ],
     "latlngs": [
         [
-            31.2394928,
-            121.4796694
+            50.845334,
+            9.677958815746917
+        ],
+        [
+            51.653494949999995,
+            7.59464606445661
+        ],
+        [
+            51.5369716,
+            6.5877929
         ]
     ],
     "addresses": [
-        "Apple Store, 300 \u53f7, \u5357\u4eac\u4e1c\u8def, \u5916\u6ee9\u8857\u9053, \u4e0a\u6d77\u5e02, \u9ec4\u6d66\u533a, 200002, \u4e2d\u56fd"
+        "Amazon FRA1, Eichhof, Asbach, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
+        "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
+        "Amazon, Amazonstra\u00dfe, Winterswick, Rheinberg, Kreis Wesel, Nordrhein-Westfalen, 47495, Deutschland"
     ]
 }

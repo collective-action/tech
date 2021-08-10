@@ -1,39 +1,33 @@
 {
-    "id": 304,
+    "id": 303,
     "date": "2020/07/20",
     "sources": [
-        "https://syndicom.ch/aktuell/artikel/bei-google-zuerich-bestimmen-die-zooglers-nun-mit/"
+        "https://www.vice.com/en_us/article/m7jpgy/open-source-community-changing-github-avatars-drop-ice"
     ],
     "actions": [
-        "union representation"
+        "protest"
     ],
     "struggles": [
-        "working conditions"
+        "ethics"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "open source community"
     ],
-    "description": "Employees at Google's Zurich office voted to recognize the Syndicom union as their employee representative. Employees first reached out to Syndicom after management failed to address their concerns over \"Project Dragonfly\", a search engine that would enable the Chinese government to censor certain results. Employee representatives function as consultants and do not engage in collective bargaining. ",
-    "online": null,
-    "locations": [
-        "zurich-switzerland"
-    ],
+    "description": "Github users have launched a campaign to pressure the company to drop its contracts with ICE. Users have changed their profile pictures to the company's mascot, Octocat, with a message reading \"Drop ICE\". ",
+    "online": true,
+    "locations": null,
     "companies": [
-        "google"
+        "github",
+        "microsoft"
     ],
     "workers": null,
-    "tags": null,
+    "tags": [
+        "ice",
+        "immigration"
+    ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            47.3793085,
-            8.5307904
-        ]
-    ],
-    "addresses": [
-        "Google, 1, Gustav-Gull-Platz, Langstrasse, Aussersihl, Z\u00fcrich, Bezirk Z\u00fcrich, Z\u00fcrich, 8004, Schweiz/Suisse/Svizzera/Svizra"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

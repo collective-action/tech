@@ -1,28 +1,33 @@
 {
-    "id": 447,
-    "date": "2021/06/04",
+    "id": 446,
+    "date": "2021/06/01",
     "sources": [
-        "https://www.theverge.com/2021/6/4/22491629/apple-employees-push-back-return-office-internal-letter-tim-cook?fbclid=IwAR08D4vzo6shzwwtNXwr8HCw6h1nsHG7rQcSx-k-JyuYL-I2Q7aDl0o_aZ0"
+        "https://www.theverge.com/2021/6/1/22463952/facebook-employees-petition-palestine-content-moderation-policy"
     ],
     "actions": [
+        "protest",
         "open letter"
     ],
     "struggles": [
-        "working conditions"
+        "discrimination",
+        "ethics"
     ],
     "employment_types": [
         "white collar workers",
+        "blue collar workers",
+        "contract workers",
         "inhouse workers"
     ],
-    "description": "Apple employees are fighting against a new policy requiring them to return to work three days a week in an open letter addressed to Tim Cook on Slack. Approximately 80 people were involved in writing the letter. Employees have argued that the company should adopt a flexible approach for those who still want to remotely work from home. ",
+    "description": "Facebook employees are circulating a petition for the company to conduct an investigation for censoring Palestinian content on their website. At Facebook, content moderation is executed by third party contractors and algorithms. Facebook employees have taken notice and are asking the company as a whole to do a third party audit of any Muslim or Arab content decisions made by moderators.  ",
     "online": true,
     "locations": null,
     "companies": [
-        "apple"
+        "facebook"
     ],
-    "workers": 80,
+    "workers": 174,
     "tags": [
-        "coronavirus"
+        "international solidarity",
+        "moderators"
     ],
     "author": [
         "hyatt d."

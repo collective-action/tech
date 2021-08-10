@@ -20,11 +20,11 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">10/08/2021 03:23PM</td>
+    <td data-summary="timestamp">10/08/2021 07:00PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">413</td>
+    <td data-summary="action-count">415</td>
   </tr>
  </table>
 </div>
@@ -51,7 +51,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Workers at Catalist, a political data services provider, have formed a union. 30 out of 38 employees have joined the union which is represented by the Communication Workers of America. The motivation for workers to unionize was not any specific mistreatment, rather they believe that in the broad benefits of organizing. The company voluntarily recognized the union.
    </td>
    <td>
-    <a href="/actions/0412.json">
+    <a href="/actions/0414.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -66,7 +66,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Apple employees are fighting against a new policy requiring them to return to work three days a week in an open letter addressed to Tim Cook on Slack. Approximately 80 people were involved in writing the letter. Employees have argued that the company should adopt a flexible approach for those who still want to remotely work from home.
    </td>
    <td>
-    <a href="/actions/0411.json">
+    <a href="/actions/0413.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -81,7 +81,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     The Alphabet Workers Union circulated a petition asking the company and its contractors to allow employees to choose which name appears on their ID badges. These actions were taken because a transgender man, Phares Lee, requested to have his deadname replaced by his preferred name. His request was denied and he was forced to put his legal name. Lee works for G4S, a Google contractor, and was also banned from participating in employee resource groups (ERGs) as a result of his contractor status. The petition also called on the company to open ERGs to contractors. Update (6/14): G4S and Google allowed Phares to use his preferred name and join Google ERGs. The companies have not communicated larger changes in policy.
    </td>
    <td>
-    <a href="/actions/0410.json">
+    <a href="/actions/0412.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -96,7 +96,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Facebook employees are circulating a petition for the company to conduct an investigation for censoring Palestinian content on their website. At Facebook, content moderation is executed by third party contractors and algorithms. Facebook employees have taken notice and are asking the company as a whole to do a third party audit of any Muslim or Arab content decisions made by moderators.
    </td>
    <td>
-    <a href="/actions/0409.json">
+    <a href="/actions/0411.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -111,7 +111,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Approximately 600 Amazon employees have signed an open letter asking Jeff Bezos to break off all ties to the Israeli military. The letter points out that Amazon employs Palestinians around the world, including in Tel Aviv and Haifa and that "ignoring the suffering faced by Palestinians and their families at home erases our Palestinian coworkers."
    </td>
    <td>
-    <a href="/actions/0408.json">
+    <a href="/actions/0410.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -126,7 +126,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     640 Amazon workers have signed a petition asking the company to commit to zero emissions by 2030 and to prioritize zero emission technology in communities of color hit hardest by the effects of their pollution. The petition began after Amazon rejected a shareholder resolution asking the company to report their emissions in communities of color.
    </td>
    <td>
-    <a href="/actions/0407.json">
+    <a href="/actions/0409.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -141,7 +141,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Nearly a thousand Apple employees have signed an internal letter addressed to Tim Cook asking him to support the Palestinian community and people in light of Israel's bombing of Gaza which has led to the loss of 227 lives, including 63 children. The letter, written by the Apple Muslim Association, asks that Apple make it clear that Palestinian lives matter and that Palestinian people are under an illegal occupation. Moreover, the letter asks Apple to commit to understanding, engaging with, and learning about the Palestinian community and other diverse communities which make up the company.
    </td>
    <td>
-    <a href="/actions/0406.json">
+    <a href="/actions/0408.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -156,7 +156,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     The Algorithmic Justice League started an online campaign protesting a recent episode of the CBS news program, "60 Minutes", which featured a segment about the racial bias in law enforcement facial recognition technology but failed to cite any Black female scientists in the field. The group is demanding that 60 Minutes and Anderson Cooper apologize and cite Black female scientists, specifically Deborah Raji, Timnit Gebru, Joy Buolamwini, for their contribution to AI facial recognition research in their segment.
    </td>
    <td>
-    <a href="/actions/0405.json">
+    <a href="/actions/0407.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -171,7 +171,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     At Google, a group of Jewish employees (Jewish Diaspora in Tech) is asking the company to support Palestinians during the Israeli bombing campaign in Gaza. An internal letter was circulated among employees asking Sundar Pichai to make a statement condemning recent Israeli attacks on Gaza. The letter mentions accepting the requests of Palestinian Googlers and funding relief for Palestinians affected by the violence, as well as protecting freedom of speech within the company. This new group was formed because some Jewish employees felt that the official Jewish ERG didn't allow a safe place to express anti-Zionist beliefs.
    </td>
    <td>
-    <a href="/actions/0404.json">
+    <a href="/actions/0406.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -186,7 +186,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Workers at Apple have circulated a petition protesting the company's decision to hire Antonio Garcia Martinez. Employees expressed concerns about his views on women and people of color because of statements in his book, "Chaos Monkeys", which they find to be racist and sexist. UPDATE: As of May 12, 2021, Antonio Garcia Martinez is no longer working with Apple.
    </td>
    <td>
-    <a href="/actions/0403.json">
+    <a href="/actions/0405.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -201,7 +201,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Black in AI, Queer in AI, and WiNLP have written an open letter condemning Google's actions for dismissing Dr. Timnit Gebru, Dr. Margaret Mitchell, and April Christina Curley. Black in AI, Queer in AI, and WiNLP have ended their sponsorship with Google and expressed concern that the company's actions have set a dangerous precedent for what is acceptable in the AI community.
    </td>
    <td>
-    <a href="/actions/0402.json">
+    <a href="/actions/0404.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -216,7 +216,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Roughly 1/3rd of Basecamp's 57 employees have decided to accept Basecamp's severance package and resigned because of the company's recent policy changes– the most notable restricting political and societal discussions in the workplace. Several employees posted tweets stating that they left Basecamp due to these changes.
    </td>
    <td>
-    <a href="/actions/0401.json">
+    <a href="/actions/0403.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -231,7 +231,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Telangana Gig and Platform Workers Union ran a survey of its members, who are rideshare drivers and delivery workers in the state of Telangana in India. 495 drivers and delivery workers tested positive for COVID-19 and 4 have died, according to the survey. The Union is calling on the government to tell app-based companies to provide health insurance as well as prioritize covid vaccinations for workers and their families. The app-based companies, which include prominent names such as Uber and Ola, do not currently provide any health insurance for the drivers. India reported more than 350,000 cases in a single day on the same day.
    </td>
    <td>
-    <a href="/actions/0400.json">
+    <a href="/actions/0402.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -246,7 +246,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     In an open letter, the Telangana State Taxi and Drivers Joint Action Committee (JAC) in India demanded Uber and Ola pay for hospital expenses for drivers who test positive for covid and compensation to their families. The JAC, which comprises more than 20 unions and associations of app-based workers, also called on the companies to provide PPE, increase the rate of the fixed fare, and allow drivers to pick up their evening earnings within at least 3 km of their homes. India reported more than 350,000 cases in a single day on the same day.
    </td>
    <td>
-    <a href="/actions/0399.json">
+    <a href="/actions/0401.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -261,7 +261,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     New York City delivery workers who ride e-bikes for food delivery apps protested against wage theft, lack of protections, and poor working conditions, including rampant theft of their e-bikes and violent assault while on the job. The protest was organized by Los Deliveristas Unidos, a grassroots campaign formed by immigrant Latinx delivery workers in New York City in 2020 during the pandemic.
    </td>
    <td>
-    <a href="/actions/0398.json">
+    <a href="/actions/0400.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -276,7 +276,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Delivery drivers for Imperfect Foods have successfully voted to unionize, 28  for and 23 against. Interest in the union emerged last summer as a result of workers having to deliver more extensive workloads and cover healthcare costs from the pandemic.
    </td>
    <td>
-    <a href="/actions/0397.json">
+    <a href="/actions/0399.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -291,7 +291,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Tech workers including, software engineers, designers, data analysts and product managers at the New York Times formed a union and are asking for voluntarily recognition from the company. The workers formed the union because of concerns regarding pay equity, job security, health care costs, and career advancement. The tech workers will be represented by the News Guild of New York which already has 1300 newsroom and staff members from the New York Times.
    </td>
    <td>
-    <a href="/actions/0396.json">
+    <a href="/actions/0398.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -306,7 +306,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     An open letter was sent to Sundar Pichai, CEO of Alphabet, asking him to take a stronger stance on addressing sexual harassment within the company. The letter points out that workers who have been harassed still must work directly or report to those that have harassed them. Moreover, the letter points out to a trend where the company protects harassers and not the victim.
    </td>
    <td>
-    <a href="/actions/0395.json">
+    <a href="/actions/0397.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -321,7 +321,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Deliveroo drivers went on a national strike in London, York, Redding, Sheffield, and Wolverhampton for better pay, working conditions, and basic workers rights. The strike was strategically timed to coincide with the company's IPO. According to protesters,  the company has profited from the COVID-19 pandemic at the expense of workers.
    </td>
    <td>
-    <a href="/actions/0394.json">
+    <a href="/actions/0396.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -336,7 +336,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Spotify and two unions, the Ringer Union and the Gimlet Union, agreed on a 3-year union contract, the first in the tech industry. The contract sets salary minimums, annual salary increases, terms for severance pay, and diversity hiring guarantees but does not clarify terms around intellectual property.
    </td>
    <td>
-    <a href="/actions/0393.json">
+    <a href="/actions/0395.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -351,7 +351,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Amazon drivers have begun leaving the company's trademark packages upside-down which displays the company's logo as a frown. The trend began when an Amazon delivery driver, who goes by AugustaSummerz, posted photos online of displaying packages upside-down to protest working conditions.
    </td>
    <td>
-    <a href="/actions/0392.json">
+    <a href="/actions/0394.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -366,7 +366,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Amazon workers in Gage Park, Chicago walked out during their shift and protested outside the facility. Workers demanded a $2 wage increase, scheduling accommodations, and better working conditions, including hiring more full-time workers.
    </td>
    <td>
-    <a href="/actions/0391.json">
+    <a href="/actions/0393.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -381,7 +381,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     DoorDash drivers are working together with a 40,000 person online community (#DeclineNow) to increase their pay by systematically declining orders through the platform. As part of the #DeclineNow movement, DoorDash drivers do not accept orders that pay less than $7, more than twice the current $3 floor. By collectively declining orders, it forces the algorithm to offer the next driver the same delivery but at a higher price.
    </td>
    <td>
-    <a href="/actions/0390.json">
+    <a href="/actions/0392.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -396,7 +396,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Food delivery drivers for the platform Ele.me are going on strike for better pay, working conditions, and to protest Xiong Yan's detainment. Xiong Yan is the head of an unofficial union for the platform who was detained in Beijing last month. Delivery workers who are on strike and part of the sabotage campaign are refusing to accept work or, in cases when they do, purposefully taking a long time to complete orders to trigger "time outs".
    </td>
    <td>
-    <a href="/actions/0389.json">
+    <a href="/actions/0391.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -411,7 +411,22 @@ The goal of this archive is to provide data and insights on organizing in the te
     In February, the Alphabet Worker's Union filed two lawsuits against Google for unfair labor practices on behalf of Shannon Wait, a contractor at Google and member of the union. The first lawsuit contested Wait's illegal suspension for supporting a union. The second lawsuit alleged that managers illegally asked Wait and other employees not to discuss their wages. Google, Modis (the contracting firm), and the AWU reached a settlement and had Wait's suspension overturned. Google signed a document that its employees had the right to discuss wage, bonuses, and working conditions. This is the first NLRB settlement with the AWU.
    </td>
    <td>
-    <a href="/actions/0388.json">
+    <a href="/actions/0390.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="hyatt d.">
+   <td>
+    2021-04-01
+   </td>
+   <td>
+    The Chicago chapter of Amazonians United, DCH1, created a petition demanding a $2 pay increase and full 20-minute breaks for workers on the company's megacycle shift, a new shift that runs from 1:20 am -11:50 am. In addition, the petition called for accommodations for workers who are unable to work the shift. In April DCH1 also organized a walkout in protest. On May 19th, Amazon warehouse workers across the country who work on the Megacycle shift began receiving a $1.50-$2.00 pay increase per hour for certain days of the week.
+   </td>
+   <td>
+    <a href="/actions/0389.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -427,7 +442,7 @@ The goal of this archive is to provide data and insights on organizing in the te
 Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which took place in Tuscany, Florence, and Pisa.
    </td>
    <td>
-    <a href="/actions/0387.json">
+    <a href="/actions/0388.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -442,7 +457,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     German Amazon workers went on strike in six centers across the country to put pressure on the company to sign a collective agreement with the union in Germany. Ver.di, the union, has also criticized the company for unsafe working conditions under covid.
    </td>
    <td>
-    <a href="/actions/0386.json">
+    <a href="/actions/0387.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -457,7 +472,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Members of the open source community have written an open letter calling on the entire Board of the Free Software Foundation to be removed for supporting Richard M. Stallman over his many years involved with that organization. They are also demanding that Stallman be removed from all leadership positions including the GNU Project. The letter says that Stallman is misogynist, ableist, and transphobic and cites incidents thereof. It calls on members of the open source community to stop contributing and associating with the organization and their projects.
    </td>
    <td>
-    <a href="/actions/0385.json">
+    <a href="/actions/0386.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -472,7 +487,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Several of YouTube's employees raised concerns that a music video on the website, "Meet the Flockers" by YG, promotes racism towards Asian Americans. The video details a burglary and calls for targeting Chinese communities according to press reports. The employees requested that the company's Trust and Safety team pull the video from the site, which the company declined to do in a statement. Update: In early April, several newspapers reported that the video had been removed from the website.
    </td>
    <td>
-    <a href="/actions/0384.json">
+    <a href="/actions/0385.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -487,7 +502,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Workers for Mobilize have formed a union that is part of the CODE-CWA movement. Mobilize is owned by political tech company EveryAction. One hundred percent of eligible Mobilize workers voted to join the union after it was voluntarily recognized by EveryAction management. The union was created as a result of the EveryAction acquisition. Employees were negotiating new contracts and wanted to negotiate certain clauses collectively.
    </td>
    <td>
-    <a href="/actions/0383.json">
+    <a href="/actions/0384.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -502,7 +517,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     No Tech for Tyrants (NT4T) launched a campaign called #RecruitMeNot in response to Dr. Timnit Gebru being censored and fired at Google for refusing to do unethical practices. Dr. Gebru was Google's Lead AI ethics researcher. The #RecruitMeNot campaign asks students and researchers to refuse recruitment and job offers from Google until they meet the basic demands outlined by its employees.
    </td>
    <td>
-    <a href="/actions/0382.json">
+    <a href="/actions/0383.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -517,7 +532,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     #MakeAIEthical is a movement in response to Dr. Timnit Gebru and Dr. Margaret Mitchell, who were co-leaders of Google's AI ethics research being terminated and censored by Google for raising ethical concerns. #MakeAIEthical is asking the AI community to stand in solidarity such as asking universities to refuse funding from Google, for students to refuse recruitment from Google, and for federal and state whistleblower regulations be strengthened.
    </td>
    <td>
-    <a href="/actions/0381.json">
+    <a href="/actions/0382.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -532,7 +547,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Contract tech workers of Goodlord have been striking for two weeks because they are being fired and rehired for permanent contracts that have less favorable terms than their current contracts. The contracts have resulted in 20% pay decrease and will have the workers making 6,000 pounds less than the livable wage in London. The workers refuse to work until Goodlord negotiates with them for better pay and benefits. Goodlord is an online platform for tenants, agents, and landlords to utilize in the real estate market.
    </td>
    <td>
-    <a href="/actions/0380.json">
+    <a href="/actions/0381.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -547,7 +562,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Glitch workers signed a collective bargaining agreement with company management that will last for 11 months. According to a press release from the Communications Workers of America (CWA), this is the first agreement signed by white collar tech workers in the United States. The agreement did not include a call for higher wages because workers recognized that they are paid relatively high wages and that the company has faced economic pressures as a result of the pandemic. Instead, the contract improved job stability, ensuring "just cause" protections against firing and recall rights (priority for re-hiring for the same positions) for workers laid off due to the pandemic.
    </td>
    <td>
-    <a href="/actions/0379.json">
+    <a href="/actions/0380.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -562,7 +577,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     The ACM Conference for Fairness, Accountability, and Transparency (ACM FAccT) organizers have decided not to continue their sponsorship with Google this year. Several press publications have noted the decision to drop Google follows the company's recent decision to fire Ethical AI co-leaders, Timnit Gebru and Margaret Mitchell. The conference's Executive Committee said they chose not to continue their relationship because they it does not align with their Strategic Plan, the goals outlined and agreed upon to guide the FAccT. Gebru was a cofounder of the organization and continues to advise the group. Mitchell is a program co-chair of the conference and a FAccT program committee member.
    </td>
    <td>
-    <a href="/actions/0378.json">
+    <a href="/actions/0379.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -577,7 +592,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     In South Africa, Uber drivers are taking part in a class-action lawsuit against the company. Drivers are seeking compensation for unpaid overtime and holiday pay based on South African law. One of the law firms representing South African drivers also represented UK drivers in front of the UK Supreme Court, which ruled on February 19th that drivers must be classified as employees rather than independent contractors in the country.
    </td>
    <td>
-    <a href="/actions/0377.json">
+    <a href="/actions/0378.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -592,7 +607,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     DoorDash drivers are leveraging an old Android version of the DoorDash app to strategically select deliveries and make more money on the platform. Drivers are also organizing online through a movement called #DeclineNow where they follow a strict set of rules to not accept any deliveries that would result in less pay for their time, resources, and gas. A gig worker, Amy Lee, ran an analysis and found that DoorDashers who accept every order are at a stark disadvantage make significantly less an hour than those who selective accept deliveries. Lee has written her own open letter addressing the inefficiencies regarding the pay structure of the app so that it can become a more sustainable job for drivers.
    </td>
    <td>
-    <a href="/actions/0376.json">
+    <a href="/actions/0377.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -607,7 +622,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Medium workers have announced they are forming a union. Over 140 Medium workers (reportedly 70% of eligible workers) have signed union cards in support of forming a union with the Communications Workers of America (CWA) Local 9410. They have called on management to voluntarily recognize the union.
    </td>
    <td>
-    <a href="/actions/0375.json">
+    <a href="/actions/0376.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -622,7 +637,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Two Google engineers (engineering director David Baker plus a software developer Vinesh Kannan) have both quit in reaction to Timnit Gebru, an AI ethics researcher, being fired at Google. Gebru's firing has resulted in Google workers questioning the ethics and diversity of Google.
    </td>
    <td>
-    <a href="/actions/0374.json">
+    <a href="/actions/0375.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -637,7 +652,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Alphabet Workers Union (AWU) joined a global union alliance called Alpha Global. Alpha Global is an international coalition formed by 13 unions across the world in 10 different countries including the US, UK, and Switzerland and affiliated with UNI Global Union. Alpha Global is now choosing a steering committee, which may include Google workers. They plan to launch campaigns targeting "national issues, like the treatment of content moderators in certain countries, as well as international concerns, like workers being forced to sign nondisclosure agreements".
    </td>
    <td>
-    <a href="/actions/0373.json">
+    <a href="/actions/0374.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -652,7 +667,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Delivery drivers and restaurant owners in Dublin, Ireland organized to not work from 6pm - 8pm for the delivery platform, Deliveroo. Drivers have claimed their pay has been reduced and that they have been facing unsafe conditions while working. Some, restaurants that have their food delivered though the platform have decided to support the protest by not taking orders during the strike.
    </td>
    <td>
-    <a href="/actions/0372.json">
+    <a href="/actions/0373.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -667,7 +682,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     The SEIU, along with a number of individual rideshare drivers, filed a lawsuit with the California Supreme Court seeking to overturn Proposition 22, which ruled that gig workers are independent contractors in the state. They argue that the law is unconstitutional and violates the right of state legislators; they also argue that Proposition 22 violated a rule that limits ballot measures to a single subject to prevent voter confusion.
    </td>
    <td>
-    <a href="/actions/0371.json">
+    <a href="/actions/0372.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -682,7 +697,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Amazon suspends hosting for Parler, a social network app cited for facilitating the pro-Trump storming of the Capitol, after Amazon employees send internal messages to AWS management and participate in various online actions, including a coworker.org petition.
    </td>
    <td>
-    <a href="/actions/0370.json">
+    <a href="/actions/0371.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -697,7 +712,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Approximately 200 GitHub workers signed an open letter calling on management to explain their decision to fire a Jewish worker who called the January 6th rioters at the U.S. Capitol "Nazis" on an internal company message board. They also called on the company to take a stronger position on anti-Semitism and white supremacy. Management responded with a letter denouncing the events of Jan. 6th and promising an investigation of the firing. UPDATE: On January 17th, GitHub posted to their company blog that their investigation "revealed significant errors of judgment and procedure". Their head of HR resigned from the company and the company reinstated the employee.
    </td>
    <td>
-    <a href="/actions/0369.json">
+    <a href="/actions/0370.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -712,7 +727,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Following the pro-Trump storming of the Capitol on January 6, roughly 350 Twitter employees signed an internal letter addressed to CEO Jack Dorsey and top executives questioning Twitter's policies and role in facilitating the attack. The employees requested an investigation into corporation actions over the last several years and asked for greater transparency to the company’s decision-making process regarding Donald Trumps' Twitter account on the day of the attack.
    </td>
    <td>
-    <a href="/actions/0368.json">
+    <a href="/actions/0369.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -727,7 +742,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     The Alphabet Workers Union published an open letter on Twitter calling on YouTube to remove Donald Trump from its website, stating that he repeatedly violated the platform's rules. Earlier in the week YouTube took down one video from Trump where he made unsubstantiated claims of election fraud. UPDATE: On January 12th, YouTube announced that it would suspend Donald Trump's account indefinitely. The account remains online but is not allowed to post new videos.
    </td>
    <td>
-    <a href="/actions/0367.json">
+    <a href="/actions/0368.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -742,7 +757,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Over 200 Google employees in the U.S. and Canada revealed that they had formed a solidarity union. Updated to 530 members (1/6/21). Updated to 700 members (1/12/21). Updated to 800 members (2/17/21).The Alphabet Workers Union includes contractors, who make up over half of the company's workforce, and is affiliated with the Communications Workers of America. According to the union website, the goal of the AWU is "to create a democratic process for workers to wield decision-making power; promote social, economic, and environmental justice; and end the unfair disparities between TVCs (temporary, vendor, and contractor workers) and FTEs (full-time employees)". The union has been over a year in the making and organizers credit the foundation laid by the last decade of collective actions at the company.
    </td>
    <td>
-    <a href="/actions/0366.json">
+    <a href="/actions/0367.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -757,7 +772,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     A court in Bologna, Italy upheld a lawsuit filed by a group of Deliveroo workers, backed by Italy's CGIL union. The lawsuit alleged that Deliveroo's algorithms discriminated against gig workers. The company used machine learning algorithms to determine the "reliability" of a worker and give them preference for certain shifts. The court ruled that the company failed to take valid reasons for cancellation into account, such as medical illness. Legal experts say this could be an important precedent in holding companies responsible for algorithms that cause inadvertent harm.
    </td>
    <td>
-    <a href="/actions/0365.json">
+    <a href="/actions/0366.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -772,7 +787,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     CS Ed Supports Timnit is an online movement started in response to Dr. Timnit Gebru's firing at Google. Gebru, "a world renowned researcher on ethics and artificial intelligence", lost her position after raising concerns about using data being used against marginalized groups of people. CS Ed Supports Timnit wrote an open letter asking for academics, researchers, program providers, and advocates for computer science students to stand in solidarity in with Timnit. They advocate to not stay neutral and address the inequalities across the tech industries.
    </td>
    <td>
-    <a href="/actions/0364.json">
+    <a href="/actions/0365.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -787,7 +802,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Shanghai factory workers at the Apple supplier Pegatron turned out to protest a pay dispute with management at the weekend. Thousands of temporary workers gathered outside the Taiwanese-invested Pegatron facility in Shanghai, as authorities dispatched large numbers of police to block their entrance to the facility, sparking clashes. The protest came after Pegatron tried to transfer thousands of workers from its Shanghai factory to another facility at Kunshan in the eastern province of Jiangsu. Those who refused the transfer would be fired, and workers fired for refusing the offer wouldn't be eligible for their share of finders' fee commission usually shared between recruitment agencies and workers.
    </td>
    <td>
-    <a href="/actions/0363.json">
+    <a href="/actions/0364.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -802,7 +817,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     In Germany, 800 Amazon employees at six different locations stopped work ahead of Christmas to protest precarious wages. Strikes were called by trade union Verdi and took place in Bad Herzfeld, Rheinberg, and Werne. The strike was called to push for recognition of the union's collective agreements and paying employees according to those agreements. Verdi is also pressuring Amazon for better health and safety conditions.
    </td>
    <td>
-    <a href="/actions/0362.json">
+    <a href="/actions/0363.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -817,7 +832,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Activists from various initiatives, including initiatives against the Amazon Tower, Mietenwahnsinnbündnis, #200Häuser spontaneously demonstrated in front of the construction site of the “Amazon East Side Edge Tower” at Warschauer Brücke. The protests are directed at Amazon's handling of the pandemic in several German Amazon centers. The company is responsible for the increase in infections and illnesses among workers and is allowing the Christmas shopping season to continue.
    </td>
    <td>
-    <a href="/actions/0361.json">
+    <a href="/actions/0362.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -832,7 +847,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Two weeks after Dr Timnit Gebru was fired from her role in Google, Google’s Ethical AI employees sent CEO Sundar Pichai a list of demands, including organizational changes and a request to reinstate dismissed researcher Timnit Gebru at a higher level.
    </td>
    <td>
-    <a href="/actions/0360.json">
+    <a href="/actions/0361.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -847,7 +862,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Workers at an iPhone production facility in the city of Narsapura near Bangalore in India protested unpaid wages by destroying office property and factory equipment at Wistron Infocomm's manufacturing facility. Around 100 workers are arrested.
    </td>
    <td>
-    <a href="/actions/0359.json">
+    <a href="/actions/0360.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -862,7 +877,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Three unions at Spotify kicked off a two hour work stoppage in solidarity with their collective struggles for fairer contracts and better workplace conditions. The union at Gimlet, a major podcast publisher that was bought by Spotify last year for $230 million, is joining unions at The Ringer and Parcast—all properties owned by Spotify—in the work stoppage. The union's demands have included a contract with guaranteed raises, clear guidelines surrounding promotions, the right to profit from intellectual property they help create, a greater emphasis on diversity, and pay equity across the board. The work stoppage was streamed on Twitch for a little over an hour, with organizing members from all three groups outlining in detail their demands.
    </td>
    <td>
-    <a href="/actions/0358.json">
+    <a href="/actions/0359.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -877,7 +892,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     The tech firm Civis Analysis, which came out of Obama's 2012 campaign and is backed by Eric Schmidt, has been hit with an unfair labor practice charge for illegally firing workers in retaliation for organizing.
    </td>
    <td>
-    <a href="/actions/0357.json">
+    <a href="/actions/0358.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -892,7 +907,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     After Dr. Timnit Gebru was fired from Google, Googlers wrote an open letter demanding accountability from Google. 2695 Googlers and 4302 academic, industry, and civil society supporters signed on to the letter.
    </td>
    <td>
-    <a href="/actions/0356.json">
+    <a href="/actions/0357.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -907,7 +922,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Thousands of Amazon workers walk off the job to fight for fair pay and COVID protections. Unions representing tens of thousands of Amazon.com Inc. employees walked out during the year's busiest shopping season, in protest of Amazon's handling of everything from sick pay and COVID-19 precautions to user privacy. The giant Verdi trade union in Germany is holding a walkout across seven Amazon facilities. Garment workers in Bangladesh will call for higher pay outside an Amazon supplier facility in Dhaka. In Australia, unions will perform “health and safety” inspections of the company’s facilities using their “statutory right of entry,” the campaign said. Others will project the campaign’s logo on buildings in Brussels, London, Sao Paulo and other cities. In all, the organizations participating in the protests represent roughly 40,000 Amazon employees, according to a spokesman for the UNI Global Union. These actions are part of the Make Amazon Pay campaign.
    </td>
    <td>
-    <a href="/actions/0355.json">
+    <a href="/actions/0356.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -922,7 +937,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Progressive International launched a protest campaign against Amazon called "Make Amazon Pay."  They called on the tech giant to provide better working conditions for its employees and to reduce its expanding carbon footprint. Launched on Black Friday, the campaign provides a list of demands for Amazon, which include raising pay for workers in Amazon’s warehouses, extending paid sick leave, and allowing workers to organize in unions. The campaign also tasks Amazon with “committing to zero emissions by 2030” and paying back society by “ending partnerships with police forces and immigration authorities that are institutionally racist” and “paying taxes in full, in the countries where the real economic activity takes place.” The campaign was run by Progressive International, and had the support of the Amazon Workers International, Amazon Employees for Climate Justice, the Tech Workers Coalition, Athena, and many more.
    </td>
    <td>
-    <a href="/actions/0354.json">
+    <a href="/actions/0355.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -937,7 +952,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Amazon warehouse workers in Alabama filed a petition to hold a union election. If successful, this would be the first Amazon Union for warehouse workers in the U.S. Workers from the warehouse in Bessemer, Alabama, outside Birmingham, filed the petition with the NLRB seeking to be represented by the Retail, Wholesale and Department Store Union, or RWDSU. Amazon employs more than 1,500 workers at the facility, which just opened earlier this year. UPDATE: The petition was successful, and workers are expected to receive their mail-in ballots on February 8th with ballot counting set to begin on March 30th.
    </td>
    <td>
-    <a href="/actions/0353.json">
+    <a href="/actions/0354.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -952,7 +967,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     More than 200 Facebook workers signed a letter demanding better treatment for content moderators after being required to return to the office in the midst of the pandemic. The contractors who wrote the letter condemned the company for deciding “to risk our lives to maintain Facebook’s profits during the pandemic”. It was sent to chief executive officer Mark Zuckerberg, chief operating officer Sheryl Sandberg, and top executives at Accenture and CPL, two companies that contract the moderators. The open letter was published with UK-based non-profit Foxglove.
    </td>
    <td>
-    <a href="/actions/0352.json">
+    <a href="/actions/0353.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -967,7 +982,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     On Tuesday, dozens of those workers will protest outside the San Francisco home of the Verizon Media CEO Guru Gowrappan, and drop off letters demanding an extension of their healthcare coverage and pay (Verizon Media owns Yahoo). Though these workers are technically not employed by  Verizon Media, the decision to lay off the cafeteria workers was ultimately made by the company, which like most Silicon Valley tech companies contracts out its blue-collar labor.
    </td>
    <td>
-    <a href="/actions/0351.json">
+    <a href="/actions/0352.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -982,7 +997,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     The All India Gig Workers Union (AIGWU) which, was initiated by the Center of India Trade Union (CITU) is attempting to become a registered as an All-India Union. Their main focus of their goal is to help delivery drivers through organization and so that they can initiate platform and political change for better wages and working conditions.
    </td>
    <td>
-    <a href="/actions/0350.json">
+    <a href="/actions/0351.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -997,7 +1012,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     A group of 30 Indian female engineers who were born into the Dalit caste shared a statement with the Washington Post describing their experience of casteism and sexism in Silicon Valley. The group called for American corporations to adopt caste as a protected category, treated on the same terms as gender, race, and sexuality.
    </td>
    <td>
-    <a href="/actions/0349.json">
+    <a href="/actions/0350.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1012,7 +1027,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     British Uber drivers are launching a lawsuit in the Netherlands to protest the company's use of algorithms to fire workers. The App Drivers &amp; Couriers Union (ADCU) claims there are over 1,000 cases of drivers being wrongfully fired and that this violates Article 22 of the GDPR. This Article grants technology users a right to an explanation for any automated decisions.
    </td>
    <td>
-    <a href="/actions/0348.json">
+    <a href="/actions/0349.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1027,7 +1042,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     A group of California Uber drivers sued the company for asking drivers to support Prop. 22 (a state proposition that would overrule attempts to classify gig workers as employees) through in-app messaging. The suit seeks an injunction that would stop the messages. The plaintiffs were active in the movement against Prop. 22. They claimed that the company's message that 72% of its drivers support Prop. 22 was false because that percentage was the result of company pressures (including workers' concerns that the company was surveilling their survey answers on the app).
    </td>
    <td>
-    <a href="/actions/0347.json">
+    <a href="/actions/0348.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1042,7 +1057,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Amazon workers, organized by Amazon Employees for Climate Justice, are calling for a 15-minute work stoppage at warehouses across the country on Halloween in a push for paid time-off for voting on Election Day.
    </td>
    <td>
-    <a href="/actions/0346.json">
+    <a href="/actions/0347.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1057,7 +1072,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Shipt shoppers are organizing a handful of actions in protest of Shipt’s new pay structure that began rolling out this month.  The first action is happening from Saturday, Oct. 17 through Oct. 19, when workers are calling on their fellow Shipt shoppers to walk out and boycott the company. Organizers are asking for shoppers not to schedule any hours or accept any orders during that time.
    </td>
    <td>
-    <a href="/actions/0345.json">
+    <a href="/actions/0346.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1072,7 +1087,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Amazon Employees for Climate Justice organized a rally in Seattle to call for paid time off for workers to vote on Election Day. A few hundred people attended the rally according to CBS News. Amazon stated that managers have been instructed to approve time-off requests for voting.
    </td>
    <td>
-    <a href="/actions/0344.json">
+    <a href="/actions/0345.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1087,7 +1102,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     A group of Amazon employees are circulating a petition, first created in October, demanding that Amazon stop monitoring employee activism and labor organization efforts.  The group is called Amazonians for Employee Privacy and they are requesting more transparency from Amazon about their surveillance activities, including their union heat map.
    </td>
    <td>
-    <a href="/actions/0343.json">
+    <a href="/actions/0344.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1102,7 +1117,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Amazon workers staged a vigil at Jeff Bezos' Beverly Hills mansion for fellow workers that had died as a result of working through the coronavirus pandemic. The event was organized by  the Warehouse Worker Resource Center.
    </td>
    <td>
-    <a href="/actions/0342.json">
+    <a href="/actions/0343.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1117,7 +1132,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     More than 6,400 Amazon workers signed an internal petition calling for time off to vote for its entire workforce ahead of the 2020 U.S. Election. Other companies like Walmart, Apple, and Target have policies allowing for paid time off for voting. Amazon Employees for Climate Justice organized the petition.
    </td>
    <td>
-    <a href="/actions/0341.json">
+    <a href="/actions/0342.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1132,7 +1147,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     At least 290 Facebook employees and contractors signed a petition demanding a 50% wage increase as hazard pay for site moderators who have been forced to return to the office by October 12th of this year. Additional demands include compensation for all costs related to COVID-19 testing and treatment, as well as additional time off and an expedited time off review process. Accenture, which hired the moderators as contractors, informed them on October 1st that they would have to return to their office in Austin, Texas. A Facebook spokesperson said the reason for the return was that "some of the most sensitive content can’t be reviewed from home". Full-time, directly hired Facebook employees don't have to return to the office until July 2021.
    </td>
    <td>
-    <a href="/actions/0340.json">
+    <a href="/actions/0341.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1147,7 +1162,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     More than 60 Coinbase employees chose to leave the company, opting for a severance package, to protest CEO Brian Armstrong's assertion that employees should not participate in social activism in the workplace. This represents roughly 5% of the company's employees. This event follows several months of internal activism within the company after management failed to make a public statement on the Black Lives Matter movement.
    </td>
    <td>
-    <a href="/actions/0339.json">
+    <a href="/actions/0340.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1162,7 +1177,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Parcast, a Spotify-owned podcast company, announced a unionization effort back in September. Employees of the company chose to pursue unionization through the Writers Guild of America, East to call for greater diversity, equity, and inclusion at the company, as well as equitable pay, reasonable working hours, and overtime compensation. Parcast announced on October 6th that Spotify had chosen to voluntarily recognize the union.
    </td>
    <td>
-    <a href="/actions/0338.json">
+    <a href="/actions/0339.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1177,7 +1192,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Amazon workers, organized by the Congress of Essential Workers, protested in front of Jeff Bezos' Beverley Hills mansion, calling for improved working conditions under covid, hazard pay, and better health benefits.
    </td>
    <td>
-    <a href="/actions/0337.json">
+    <a href="/actions/0338.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1192,7 +1207,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     35 Amazon workers in Shakopee, Minnesota walked off the job to protest the firing of Farhiyo Warsame. The company alleged that the employee violated "time off task" policies but workers claim that the employee was fired for raising concerns about covid-related safety.
    </td>
    <td>
-    <a href="/actions/0336.json">
+    <a href="/actions/0337.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1207,7 +1222,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     A group of cross-company organizers in tech have started a repository called "Tech Truths" that highlights incidents of discrimination in tech, including "discrimination by race, gender, sexual orientation, disability status, immigration status, and more". To date (10/7/2020), 107 different stories of discrimination have been shared and published.
    </td>
    <td>
-    <a href="/actions/0335.json">
+    <a href="/actions/0336.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1222,7 +1237,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Employees at Hootsuite succeeded in getting the company, a B-corporation, to drop its contract with U.S. ICE after protesting via social media and voicing their opposition internally to the company. A Tweet from a senior training specialist at Hootsuite, Sam Anderson, generated significant backlash within the industry, including from many social media managers at client companies.
    </td>
    <td>
-    <a href="/actions/0334.json">
+    <a href="/actions/0335.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1237,7 +1252,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Tech workers in the U.K. have started a union aimed at organizing a wide array of tech workers in the country. The United Tech and Allied Workers, a branch of the Communications Workers Union, offers legal counsel and representation at employment tribunals for its members. Under U.K. law, employees can join a union even if that union has not been recognized by their employer. In an interview with Vice, a member highlighted the union's "very broad definition of a tech worker", which spans white collar and blue collar labor.
    </td>
    <td>
-    <a href="/actions/0333.json">
+    <a href="/actions/0334.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1252,7 +1267,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     A number of contractors for Google (employed through staffing firm Adecco) have filed a lawsuit alleging that confidentiality agreements with the company deprive them of basic legal rights, such as free speech. Contractors are prevented from discussing wages or working conditions, which they claim prohibit them from “disclosing violations of state and federal law, either within Google to their managers or outside Google to private attorneys or government officials”. The Sept. 21st filing with a California appeals court reverses a lower court decision, allowing the lawsuit to proceed.
    </td>
    <td>
-    <a href="/actions/0332.json">
+    <a href="/actions/0333.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1267,7 +1282,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Workers for delivery company Swiggy went on strike in a number of Indian cities including Hyderabad, Chennai, and Delhi to call for greater pay. They rallied outside of restaurants and prevented third-party companies from picking up orders.
    </td>
    <td>
-    <a href="/actions/0331.json">
+    <a href="/actions/0332.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1282,7 +1297,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Rideshare drivers protested in Abuja, Nigeria, calling for greater government oversight on pricing for apps like Uber and Bolt. Drivers threatened to go on strike within a week's time if the government did not respond to their demands. Drivers noted the disparity in prices between Abuja and other major cities in Nigeria and surrounding countries. Rising gas prices have also led to decreased profits for many drivers. Several organizations were involved: Abuja City Pilot Forum (ACPF), City Online Drivers Association (CODA) and the Online Hackney Practitioners Association of Nigeria (OHPAN).
    </td>
    <td>
-    <a href="/actions/0330.json">
+    <a href="/actions/0331.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1297,7 +1312,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     24 employees of tech non-profit Do Something walked off the job, calling for the resignation of current CEO Aria Finger. They have also sent two direct letters to the CEO and Board of Directors that have been shared on Twitter. Former employees shared experiences of racial discrimination and harassment via social media earlier this year. The letter states that Finger reacted to these posts by calling them untrue or "standard-issued American forms of microaggression and racism". Finger returned in August after a legal investigation did not find evidence of discrimination under her tenure.
    </td>
    <td>
-    <a href="/actions/0329.json">
+    <a href="/actions/0330.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1312,7 +1327,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Rideshare drivers in Lagos, Nigeria went on a one-week strike to protest new state regulations that added a fixed service tax to all trips. The agreement was reached between the companies, the Lagos state government, and the Professional E-hailing Drivers and Private Owners Association but did not include the National Union of Professional App-Based Workers, which union representatives claim was sidelined during negotiations due to its initial rejection of the proposal.
    </td>
    <td>
-    <a href="/actions/0328.json">
+    <a href="/actions/0329.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1327,7 +1342,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     More than 300 Microsoft employees shared salary and pay bonus data in spreadsheet. A similar action took place last year. This year's survey asked whether employees identified as people of color or experienced discrimination because of their gender identity. Notably, 194 of 310 participants identified as people of color and 69 had experienced discrimination on the basis of gender identity.
    </td>
    <td>
-    <a href="/actions/0327.json">
+    <a href="/actions/0328.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1342,7 +1357,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     More than 100 protesters, led by former Amazon worker Christian Smalls, placed a guillotine outside of Jeff Bezos' D.C. home to call on the company to raise minimum wages from $15 to $30/hour.
    </td>
    <td>
-    <a href="/actions/0326.json">
+    <a href="/actions/0327.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1357,7 +1372,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Foodora workers in Canada received a $3.5 million settlement after suing their employer for union busting. Foodora chose to leave Canada in April 2020 after the Ontario Labor Board voted to recognize the couriers as company employees. The Canadian Union of Postal Workers sued on behalf of the workers and declared that the settlement would be distributed between all Canadian Foodora employees.
    </td>
    <td>
-    <a href="/actions/0325.json">
+    <a href="/actions/0326.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1372,7 +1387,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Didi rideshare workers have started holding strikes in a number of Chinese cities including Suzhou, Nanjing, Nantong, and Zunyi City to protest high commission fees on the platform. Drivers in Zunyi City also issued a letter with 5 demands to their local government and transportation department.
    </td>
    <td>
-    <a href="/actions/0324.json">
+    <a href="/actions/0325.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1387,7 +1402,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Deliveroo workers in Sheffield, England kicked off two weeks of strike actions to demand higher pay and better working conditions, including the right to appeal terminations. The actions are designed to target companies, e.g. certain restaurants, that workers believe to be part of the exploitation. An outright strike was deemed too expensive by the workers, many of whom report working 60-70 hours a week to make ends meet. Actions will also include flyering and a demonstration.
    </td>
    <td>
-    <a href="/actions/0323.json">
+    <a href="/actions/0324.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1402,7 +1417,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Four former Google software engineers have filed a lawsuit in California claiming gender discrimination at the company and demanding that the company turn over sexist emails and memes created by two male company employees. The plaintiffs hope to mount a class action lawsuit against the company.
    </td>
    <td>
-    <a href="/actions/0322.json">
+    <a href="/actions/0323.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1417,7 +1432,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Pinterest employees staged a virtual walk out by posting messages to Slack and then logging off their work accounts, to protest the racial and gender discrimination brought to light by Ifeoma Ozoma and Aerica Shimizu Banks, and then again by Francoise Brougher. Workers also signed onto an online petition to CEO Ben Silberman calling for an end to discrimination and retaliation by the company.
    </td>
    <td>
-    <a href="/actions/0321.json">
+    <a href="/actions/0322.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1432,7 +1447,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     After workers of N26 (digital bank) announced their intent to form a Works Council (Betriebsrat), management responded by issuing a legal injunction, banning 6 of the workers from partaking in formation of electoral committee. They forgot to include the service union Ver.di, so on August 13th, Ver.di chaired a meeting for N26 Operations GmbH, and workers voted for the first electoral committee.
    </td>
    <td>
-    <a href="/actions/0320.json">
+    <a href="/actions/0321.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1447,7 +1462,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Over 2,900 Belarusian tech workers, including top level management and investors, publicly signed onto an open letter calling the recent presidential elections a fraud. Signatories threatened to relocate their offices and investments outside of Belarus, stating that the atmosphere of fear and suppression was not conducive to a thriving technology sector. The letter denounced anti-democratic measures taken by the government, including the arrests of protesters and widespread Internet outages, and called for new elections, the release of those arrested, and freedom of press in the country.
    </td>
    <td>
-    <a href="/actions/0319.json">
+    <a href="/actions/0320.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1462,7 +1477,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     A group of Black employees across tech companies have launched an initiative, Tech Can Do Better, to call for greater equity in the workplace. An Instagram account promotes the visibility and highlights the accomplishments of Black employees in tech. The group has also started an online pledge where workers can commit to "mak[ing] the changes needed to achieve equitable hiring, promotions, and compensation, mak[ing] significant Investment in social equity and driv[ing] advocacy for equitable legislation."
    </td>
    <td>
-    <a href="/actions/0318.json">
+    <a href="/actions/0319.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1477,7 +1492,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Several dozen Former Amazon workers held a protest outside of Jeff Bezos' New York City penthouse to call for greater protections for warehouse workers during the pandemic, along with the right to unionize and a national wealth tax on the top 3 percent of earners. The protest was organized by Christian Smalls, a former Amazon employee who was fired after organizing a walkout to protest the company's handling of coronavirus. Since then, Smalls has founded an organizedcalled the Congress of Essential Workers, dedicated to protecting workers during the pandemic.
    </td>
    <td>
-    <a href="/actions/0317.json">
+    <a href="/actions/0318.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1492,7 +1507,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     A caravan of protestors demanding increased pay and COVID-19 protections disrupted business at an Amazon Distribution Center in the San Francisco Bay Area. The caravan was organized by Bay Area Amazonians.
    </td>
    <td>
-    <a href="/actions/0316.json">
+    <a href="/actions/0317.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1507,7 +1522,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Amazon workers and supporters blocked the entrance of a San Leandro warehouse for several hours in a call for improved coronavirus safety measures.
    </td>
    <td>
-    <a href="/actions/0315.json">
+    <a href="/actions/0316.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1522,7 +1537,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Whole Foods employees and local residents protested in front of a Cambridge location that turned away seven employees on June 25th for wearing masks with "Black Lives Matter" slogans. The event is part of a larger boycott that has been ongoing since the incident. Suverino Frith, one of the seven employees, spoke at the event and called on the company to live up to their "core values".
    </td>
    <td>
-    <a href="/actions/0314.json">
+    <a href="/actions/0315.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1537,7 +1552,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     In 2019 employees of Bosch.io (subsidary of Bosch) formed a Works Council (Betriebsrat). In 2020 they formed their first Collective Bargaining Agreement, and Bosch.IO will join employer association. The CBA (Tarifvertrag) including provisions related to short time work (Kurzarbeit), home office usage during the coronavirus pandemic. An interview with several elected Works Councilors is included in German.
    </td>
    <td>
-    <a href="/actions/0313.json">
+    <a href="/actions/0314.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1552,7 +1567,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Amazon, Google, Uber, Lyft, and Postmates workers were reportedly among the "tens of thousands" of employees across the U.S. that took part in a protest of the country's long-standing systemic racism. Those that were unable to leave their jobs were encouraged to take an 8 minute, 46 second break (the amount of time a police officer knelt on George Floyd's neck) or to bend a knee in solidarity (a reference to protests by the NFL). The Washington Post reports that demonstrations took place in over 200 cities.
    </td>
    <td>
-    <a href="/actions/0312.json">
+    <a href="/actions/0313.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1567,7 +1582,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     In the United Kingdom, four Uber drivers have filed a lawsuit to gain access to Uber's algorithms. The drivers along with The UK App Drivers and Couriers Union argue that under Europe's General Data Protection Regulation they should have access to the data that Uber collects on their drivers. If given access to this data, drivers on the platform will be able to calculate an hourly wage as well as understand why they have been deactivated using trip ratings.
    </td>
    <td>
-    <a href="/actions/0311.json">
+    <a href="/actions/0312.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1582,7 +1597,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Employees at Google's Zurich office voted to recognize the Syndicom union as their employee representative. Employees first reached out to Syndicom after management failed to address their concerns over "Project Dragonfly", a search engine that would enable the Chinese government to censor certain results. Employee representatives function as consultants and do not engage in collective bargaining.
    </td>
    <td>
-    <a href="/actions/0310.json">
+    <a href="/actions/0311.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1597,7 +1612,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Github users have launched a campaign to pressure the company to drop its contracts with ICE. Users have changed their profile pictures to the company's mascot, Octocat, with a message reading "Drop ICE".
    </td>
    <td>
-    <a href="/actions/0309.json">
+    <a href="/actions/0310.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1612,7 +1627,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Shipt workers went on strike across the U.S. to protest the company's move to a new, less transparent algorithmic pay model that reduces their wages by 25-50%, according to reports. Workers also called for consumers to boycott the service. Shipt has more than 100,000 workers in the U.S. and is used by companies such as Target. Willy Solis, from the Gig Workers Collective, was the lead organizer for the event and used social media groups and word-of-mouth (encouraging each committed worker to recruit five additional participants) to drive the strike.
    </td>
    <td>
-    <a href="/actions/0308.json">
+    <a href="/actions/0309.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1627,7 +1642,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Thousands of delivery workers have engaged in a strike on Wednesday demanding better working conditions in more than 10 Brazilian capitals, as well as in cities in Argentina and Mexico. This was spurred by lack of health benefits in light of the covid-19 pandemic. The workers organized themselves outside the unions with broad popular support as they spread their movement through the internet using the hashtags #BrequeDosApps (brake the apps) and #YoNoReparto (I won’t deliver). Besides the risk of being exposed to the virus, workers report long working hours—often more than 14 hours a day—for increasingly low pay, without health insurance or labor rights.
    </td>
    <td>
-    <a href="/actions/0307.json">
+    <a href="/actions/0308.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1642,7 +1657,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     The Supreme Court of Canada allowed a C$400 million lawsuit against Uber by its drivers to proceed. The lawsuit alleges that drivers are, in fact, company employees.
    </td>
    <td>
-    <a href="/actions/0306.json">
+    <a href="/actions/0307.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1657,7 +1672,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Approximately 300 Uber Black drivers in the Toronto area voted to unionize with the United Food and Commercial Workers (UFCW).
    </td>
    <td>
-    <a href="/actions/0305.json">
+    <a href="/actions/0306.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1672,7 +1687,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Two former Pinterest employees, both Black women, spoke out on Twitter about the racism they experienced in the workplace. One of the employees, Ifeoma Ozoma, said she was not being fairly paid according to company data. She also said she had to come up with a list of pros to defend promoting former slave plantations for wedding venues. After speaking out, a white employee of the company doxxed her, placing her personal contact information online. He was fired soon after. Another former employee, Aerica Shimizu Ban, said her expenses with Black organizations had been repeatedly questioned.
    </td>
    <td>
-    <a href="/actions/0304.json">
+    <a href="/actions/0305.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1687,7 +1702,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Hundreds of expert researchers and practitioners across a variety of technical, scientific, and humanistic fields (including statistics, machine learning and artificial intelligence, law, sociology, history, communication studies and anthropology) sign a letter calling for a forthcoming publication entitled “A Deep Neural Network Model to Predict Criminality Using Image Processing”, to be rescinded from publication. The letter also urges for such research topics to not be published in the future.
    </td>
    <td>
-    <a href="/actions/0303.json">
+    <a href="/actions/0304.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1702,7 +1717,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Over 1, 650 Google employees have signed an open letter to CEO Sundar Pichai demanding the company stop selling its technology to police forces across the US. “The past weeks have shown us that addressing racism is not merely an issue of words, but of actions taken to dismantle the actual structures that perpetuate it, ” the letter, written by the employee group Googlers Against Racism, reads. “While we as individuals hold difficult but necessary conversations with our family, friends and peers, we are also incredibly disappointed by our company’s response.”
    </td>
    <td>
-    <a href="/actions/0302.json">
+    <a href="/actions/0303.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1717,7 +1732,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Gig Workers Rising organized an open letter from workers calling for economic justice from their employees, many of whom are Black and Brown, as a means of responding meaningfully to anti-racist protests. The letter calls out companies for releasing statements that "have included various platitudes about your commitment to Racial Justice and the Black community" without promising "real change". Among the demands are: (1) "meaningful representation at work", (2) "benefits to take care of ourselves and our families", (3) "a living wage", (4) and dropping the AB5 ballot measure. To date, the letter has received over 330 signatures.
    </td>
    <td>
-    <a href="/actions/0301.json">
+    <a href="/actions/0302.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1732,7 +1747,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Over 90 individuals and organizations affiliated with MIT have signed a letter to the MIT College of Computing Leadership calling for the college to make a public statement condemning the death of George Floyd, developing a plan to address "the legacy of anti-blackness and the relationship between technology and policing", and breaking ties with companies that sell to police departments and ICE. Long-term asks include hiring more Black faculty and recruiting and accepting more Black undergraduate and graduate students.
    </td>
    <td>
-    <a href="/actions/0300.json">
+    <a href="/actions/0301.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1747,7 +1762,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Foodora couriers overwhelmingly voted to join the Canadian Union of Postal Workers (CUPW). 88% of workers who voted supported joining the union. In April 2020, Foodora announced it was leaving the country after the Ontario Labor Board voted to recognize the couriers as company employees. While this makes the vote largely symbolic, it nevertheless makes Foodora's union the first certified gig workers' union in Canada.
    </td>
    <td>
-    <a href="/actions/0299.json">
+    <a href="/actions/0300.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1762,7 +1777,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Loggi delivery workers in Brazil went on strike starting June 9th to protest poor working conditions, including lack of protections against coronavirus, and low pay. Protestors also commemorated the death of a fellow worker, Thiago Coelho, who was killed in a motorcycle accident.
    </td>
    <td>
-    <a href="/actions/0298.json">
+    <a href="/actions/0299.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1777,7 +1792,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Hundreds of Microsoft employees have signed a letter to the company’s top executives asking for Microsoft to take action in the wake of national protests. The initiative came out of a Facebook group called "Young Microsoft FTEs". The email to the Microsoft executives includes a list of requests, including increased leniency for Microsoft workers in performance reviews due to the coronavirus pandemic and protests; the company formally condemning the use of tear gas, rubber bullets, and flashbangs; increasing Microsoft’s employee donation matches; the cancellation of contracts with SPD and other law enforcement agencies; support for defunding the SPD; signing a petition for the resignation of Seattle Mayor Jenny Durkan; and support for a list of demands from BLM Seattle. Employees volunteered to be CC’d on the email in a show of solidarity, though their inclusion was not intended to show explicit support for every request, according to the email.
    </td>
    <td>
-    <a href="/actions/0297.json">
+    <a href="/actions/0298.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1792,7 +1807,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Nine current and former Facebook content moderators posted a message of solidarity with the Black community in the wake of the George Floyd protests and in support of the virtual walkout. The authors noted that they would have attended the walkout "if Facebook would allow it. As outsourced contractors, non-disclosure agreements deter us from speaking openly about what we do and witness for most of our waking hours." The workers also remarked on the lack of protections they receive from their employer. "We would walk out with you — if we could afford it. At the moment, content moderators have no possibility, no network or platform or financial security — especially when we are atomized in pandemic and remotely micromanaged — to stage an effective walkout without risking fines, our income and even our right to stay in the countries where we live and work."
    </td>
    <td>
-    <a href="/actions/0296.json">
+    <a href="/actions/0297.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1807,7 +1822,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Contract workers for Facebook in Austin, Texas, say they have been retaliated against for union organizing, resulting in two workers’ departure in recent weeks. The workers, who help Facebook find and triage internal bugs, are unhappy with their employer, the India-based firm WiPro, and have been organizing in the workplace to pressure both companies for improvements. Recently, two people involved in the organizing campaign who were vocal about these issues departed the company. Both had posted heated messages on an internal message board about the need to improve conditions for the contingent workers and encouraging remaining staff to support a union drive, and say their departures followed retaliation from WiPro. Since January, the Communication Workers of America (CWA) labor union has been promoting its Campaign to Organize Digital Employees (CODE). The organization is especially interested in organizing workers who, like the Austin-based contingent Facebook workers, perform work for major tech firms but aren’t directly employed by them.
    </td>
    <td>
-    <a href="/actions/0295.json">
+    <a href="/actions/0296.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1822,7 +1837,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Scientists funded by the Chan Zuckerberg Initiative addressed a letter to Mark Zuckerberg critiquing Facebook's role in diffusing inaccurate information, in particular Donald Trump's "when the looting starts, the shooting starts" comment in relation to the George Floyd protests. The authors argued that the letter promotes violence.
    </td>
    <td>
-    <a href="/actions/0294.json">
+    <a href="/actions/0295.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1837,7 +1852,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Employees at Coinbase held a virtual walkout following an "ask me anything" session with company management where CEO Brian Armstrong did not indicate that the company would be willing to publicly express support for the Black Lives Matter movement. WIRED reports: "Pressed on whether the company would say the words “Black Lives Matter,” Armstrong again demurred. 'TBD'"
    </td>
    <td>
-    <a href="/actions/0293.json">
+    <a href="/actions/0294.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1852,7 +1867,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Nearly three dozen early Facebook employees, including its first Chief of Communications, wrote a letter to CEO Mark Zuckerberg protesting his decision to leave Donald Trump's posts up on the website without action. Twitter chose to add labels to several of these posts warning that they were inaccurate or glorified violence. They claimed Facebook's inaction against these posts violated many of the original ideals the company had been founded on.
    </td>
    <td>
-    <a href="/actions/0292.json">
+    <a href="/actions/0293.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1867,7 +1882,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Facebook employees hosted a virtual walkout, refusing to work for the time of the event, in protest of the company's failure to take a tougher stance on Trump's posts in reaction to the George Floyd protests. Many employees also expressed solidarity with the Black Lives Matter movement. The New York Times reports that employees have also circulated petitions internally and threatened to resign in response to the event. The previous week Twitter added fact-check and warning labels to two tweets from the president that broke Twitter’s rules around voter suppression and glorification of violence.
    </td>
    <td>
-    <a href="/actions/0291.json">
+    <a href="/actions/0292.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1882,7 +1897,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Jana Jumpp, an Amazon employee in Indiana, has been tracking cases and logged at least 500 cases in 125 Amazon facilities as of late April. Jumpp has a counterpart at Amazon-owned Whole Foods, Katie Doan, who has been collecting cases since April 2. The two women have never spoken, but they describe nearly identical work fielding a torrent of private messages, searching Facebook groups, Reddit, Twitter and news outlets for reports of infections, and meticulously updating Google documents with the numbers.
    </td>
    <td>
-    <a href="/actions/0290.json">
+    <a href="/actions/0291.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1897,7 +1912,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Deliveroo workers went on strike for multiple days in Hong Kong over the company's new payment structure.
    </td>
    <td>
-    <a href="/actions/0289.json">
+    <a href="/actions/0290.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1912,7 +1927,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Around 100 Uber and Lyft drivers are staging a caravan protest at Uber's San Francisco headquarters to demand Uber comply with gig worker protections law AB 5, pay into the state's unemployment insurance fund and drop the ballot initiative it proposed along with Lyft and DoorDash that aims to keep gig workers classified as independent contractors. 'Uber, Lyft and other gig companies are continuing in the same path of abusing and completely taking advantage of workers while putting them at risk,' rideshare driver and organizer with Gig Workers Rising Edan Alva told TechCrunch. This protest comes shortly after California Attorney General Xavier Becerra, along with city attorneys from Los Angeles, San Diego and San Francisco, filed a lawsuit asserting Uber and Lyft gain an unfair and unlawful competitive advantage by misclassifying workers as independent contractors.
    </td>
    <td>
-    <a href="/actions/0288.json">
+    <a href="/actions/0289.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1927,7 +1942,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Amazon warehouse workers plan to deliver thousands signed petitions to the residences of Amazon CEO Jeff Bezos and lead Amazon spokesperson Jay Carney on Thursday, demanding the reinstatement of its recently terminated unlimited paid leave policy. In late April, Amazon announced that it would end its unlimited unpaid leave policy on May 1. The policy, which was introduced in response to COVID-19, allowed workers to call out sick without penalty. As of Wednesday, more than 5,300 workers from 350 locations, including Amazon warehouses, delivery pick-up stations, and Whole Foods stores, had signed onto petitions. The action was organized by a number of labor groups including the Athena coalition.
    </td>
    <td>
-    <a href="/actions/0287.json">
+    <a href="/actions/0288.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1942,7 +1957,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Hundreds of thousands of writers signed to China Literature (subsidiary of Tencent), the country's biggest online publisher, went on an online strike, protesting against exploitative contracts and the company's regular infringement of their intellectual property rights. The strike's organizers were demonstrating against proposed changes to China Literature’s business model and contracts with its writers. Writers stopped publishing new content on the website on the day of the strike. This change would negatively affect writers' income, which primarily comes from subscription fees and tips from their readers. 'Financially speaking, we were already drowning in quicksand before the rumors. Now they are trying to give us a death blow' a China Literature writer
    </td>
    <td>
-    <a href="/actions/0286.json">
+    <a href="/actions/0287.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1957,7 +1972,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Amazon has been sued by workers at two different locations, New York City and Salem, Oregon, for its failure to protect its employees during the coronavirus pandemic. Three Amazon employees from the New York fulfillment center sued the company for failing to follow local public health guidance, claiming the company purposefully miscommunicated with workers. The employees are not seeking compensation, only an order that Amazon comply with guidance. A former employee from Salem alleged that she was fired after taking a medical leave for a coronavirus infection and speaking out publicly about safety issues.
    </td>
    <td>
-    <a href="/actions/0285.json">
+    <a href="/actions/0286.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1972,7 +1987,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Workers at Amazon, Whole Foods, Instacart, Target, and Shipt walked off the job on May 1st (International Workers' Day) to call for better working conditions under the covid-19 pandemic. The Washington Post reports that "a small crowd" outside of an Amazon Staten Island warehouse was made up of Amazon workers and also healthcare professionals who appeared out of solidarity with their cause. The scale of the action is difficult to measure, given its broad geography. Walkouts and protests were reported in Atlanta, New York, and the Bay Area.
    </td>
    <td>
-    <a href="/actions/0284.json">
+    <a href="/actions/0285.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -1987,7 +2002,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Amazon Workers International, speaking on behalf of Amazon workers across the U.S. and Europe, sent an open letter to Jeff Bezos and Stefano Perego, VP of European Fulfillment. The letter called for making covid-era wage increases and breaks permanent and suspending productivity feedback. In addition, AWI demanded more transparency around covid cases at Amazon, improved sick leave, and good faith bargaining with unions.
    </td>
    <td>
-    <a href="/actions/0283.json">
+    <a href="/actions/0284.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2002,7 +2017,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Amazon employees went on strike after the company allegedly fired a worker who chose to stay at home with her two children during the pandemic. Workers also protested the company's announcement that it would phase out their new paid-leave policy on May 1st. The company announced that two more employees had tested positive for the virus the night before the protest. Reporting from Vice and a tweet from a local community center suggest that this also served as impetus for the strike. Organizers claimed that more than 50 employees were involved in the strike, while management claimed it was 25.
    </td>
    <td>
-    <a href="/actions/0282.json">
+    <a href="/actions/0283.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2017,7 +2032,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Two former Huawei employees are suing the company alleging that it used its local connections to the police to detain employees who posed problems for the company. One of the employees had started a chat group where there was open discussion of Huawei breaking US sanctions with Iran. That same employee claims two other members from the chat group were detained and later released as well. The Financial Times quoted Shenzhen-based labour rights lawyer, Pang Kun, who estimated that there were more than 10 others currently detained at a local jail as a result of company disputes.
    </td>
    <td>
-    <a href="/actions/0281.json">
+    <a href="/actions/0282.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2032,7 +2047,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Over 300 Amazon workers across the country signed a pledge to call out of work to protest the company's reaction to the coronavirus pandemic. Participants claim the company continues to fall short in providing personal protective equipment and are calling for a more flexible paid leave policy that would allow them to take care of sick family members.
    </td>
    <td>
-    <a href="/actions/0280.json">
+    <a href="/actions/0281.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2047,7 +2062,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Over 300 academics from 26 countries signed a letter calling for contact-tracing apps to respect user privacy and to limit large-scale, centralized surveillance in favor of decentralized systems. The signatories favored the DP-3T protocol and systems like Apple and Google’s cross-platform solution over the PEPP-T system designed by a set of European countries.
    </td>
    <td>
-    <a href="/actions/0279.json">
+    <a href="/actions/0280.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2062,7 +2077,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Over the past few days, food delivery workers have carried out strikes in several countries demanding safe working conditions in the face of the coronavirus pandemic and an increase in delivery rates to ensure the workers a livable income. The countries include Brazil, Spain, Argentina, and Ecuador.
    </td>
    <td>
-    <a href="/actions/0278.json">
+    <a href="/actions/0279.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2077,7 +2092,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     As a gesture of solidarity, tech workers have started tweeting with the hashtags #TechSolidarity, #AmazonStrike, #HuelgaAmazon to indicate support for striking Amazon workers. The Twitter page, @TechSpeaksOut, was reportedly designed to exert public pressure tech corporations. In addition to taking to Twitter, activists have started GoFundMes and mutual aid campaigns to benefit workers.
    </td>
    <td>
-    <a href="/actions/0277.json">
+    <a href="/actions/0278.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2092,7 +2107,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Rideshare drivers, partnered with the Mobile Workers Alliance, sent a letter to the Los Angeles City Attorney calling for the city to mandate that Lyft and Uber provide personal protective equipment to their employees, including masks and hand sanitizer, as well as access to handwashing stations in certain locations such as the airport.
    </td>
    <td>
-    <a href="/actions/0276.json">
+    <a href="/actions/0277.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2107,7 +2122,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Workers at Amazon’s Eastvale fulfillment center in Riverside County filed complaints with state and county regulators alleging that the company failed to properly shutdown and disinfect facilities after receiving its first reported case of coronavirus. The company also delayed telling employees of third case of coronavirus for over five days, putting employees at risk. The filings were compiled by the Warehouse Worker Resource Center on behalf of LGB3 employees.
    </td>
    <td>
-    <a href="/actions/0275.json">
+    <a href="/actions/0276.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2122,7 +2137,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     For the second week in a row, workers at an Amazon warehouse in Staten Island held a walkout to protest the company's handling of the coronavirus crisis. Organizers state that they have heard of over 25 cases of coronavirus at the facility. In response, workers are calling for an extension of paid time off and improved sanitation in the facility. Last week, the company fired one of the organizers of the previous week's walkout.
    </td>
    <td>
-    <a href="/actions/0274.json">
+    <a href="/actions/0275.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2137,7 +2152,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Amazon workers, organized by DCH1 Amazonians United, staged a walkout at a facility in Chicago calling on the company to temporarily close and sanitize the facility following two positive coronavirus tests among employees. Additionally, the workers are calling for the company to cover any health bills accrued by employees and family members that have contracted coronavirus at the facility, plus more time on-the-job to incorporate safety practices such as regular hand sanitizing. This is the fourth such action organized by DCH1 Amazonians in response to the coronavirus outbreak.
    </td>
    <td>
-    <a href="/actions/0273.json">
+    <a href="/actions/0274.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2152,7 +2167,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Amazon's French SUD-Commerce union launched a lawsuit against the company alleging that they had failed to uphold coronavirus safety measures at six different warehouses in the country.  French courts ruled in favor of the union. The company was forced to stop its operations for five days, while continuing to pay workers, in order to improve safety. Delivery was also restricted to food, hygiene, and medical products at this time.
    </td>
    <td>
-    <a href="/actions/0272.json">
+    <a href="/actions/0273.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2167,7 +2182,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Whole Foods employees went on strike to call for guaranteed pay during sick leave, reinstatement of health insurance for part-time and seasonal employees, coverage of coronavirus testing and treatment, improved sanitation at worksites, and immediate shutdown of any locations where employees test positive. The strike came amid a surge of activism from grocery and delivery workers at several companies.
    </td>
    <td>
-    <a href="/actions/0271.json">
+    <a href="/actions/0272.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2182,7 +2197,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Amazon warehouse workers near Detroit staged a demonstration to call for more stringent cleaning practices in their facility and reimbursement for any health bills incurred by employees (and their families) who had contracted coronavirus on the job. Management reports that fewer than 15 employees joined in, while organizers say there were 40 participants.
    </td>
    <td>
-    <a href="/actions/0270.json">
+    <a href="/actions/0271.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2197,7 +2212,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Instacart workers, organized by Instacart Shoppers and Gig Workers Collective, went on strike on Monday in protest of lack of protections offered by the company during the coronavirus epidemic. Strikers are calling for the company to provide hand sanitizer and disinfectant wipes, hazard pay, and easier qualification standards for the 14 days of sick leave currently offered by the company (a policy set to expire on April 8th). Update: Instacart has said it will give all workers a health kit including a reusable cloth mask, hand sanitizer, and a thermometer. The size of the strike has not been reported.
    </td>
    <td>
-    <a href="/actions/0269.json">
+    <a href="/actions/0270.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2212,7 +2227,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Amazon workers in Staten Island walked off the job to call for the company to temporarily close and sanitize the facilities following several positive tests for coronavirus among employees. The NY Post reported than more than 100 workers participated in the action. Vice has reported 62.
    </td>
    <td>
-    <a href="/actions/0268.json">
+    <a href="/actions/0269.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2227,7 +2242,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Amazonians United, a group of Amazon employee advocates around the US, won paid time off for part-time logistics workers in the midst the coronavirus pandemic. Amazon has also said it will raise pay for warehouse workers and delivery drivers by $2 per hour through April. For several weeks, the Amazonians United group has been calling for improved working conditions and paid time off using petitions and walkouts, including actions by groups in the Sacramento, Chicago, and New York areas.
    </td>
    <td>
-    <a href="/actions/0267.json">
+    <a href="/actions/0268.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2242,7 +2257,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     A group of 153 Google employees from 11 European offices wrote to the company’s management requesting the establishment of the council. Google’s management agreed to take the first steps toward creating the council and will soon begin negotiating with employees about its scope. (The creation of such works councils-- which aim to give employees the right to be consulted by management about issues such as organizational changes or job cuts -- is required by the European Union if enough of a company’s employees in at least two countries file a written request). The works council is likely to include employee representatives from more than 35 Google offices across Europe, according to the people familiar with the matte
    </td>
    <td>
-    <a href="/actions/0266.json">
+    <a href="/actions/0267.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2257,7 +2272,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Ride-hail drivers in California gathered outside Uber headquarters in San Francisco, Los Angeles, and San Diego to demand that gig platforms provide immediate relief to their cash-strapped, at-risk workers, including by adhering to California’s new labor law known as AB5. Drivers are calling on California to enforce its new employment law as illness, confusion, and hardship from COVID-19 sweep their industries. They are also calling for the $110 million set aside by Uber, Lyft, Doordash, Postmates, and Instacart for fighting that law to instead be used to give workers some relief.
    </td>
    <td>
-    <a href="/actions/0265.json">
+    <a href="/actions/0266.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2272,7 +2287,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     As the novel coronavirus spreads around the world, Uber and Lyft drivers in California are asking both companies to do more to protect them. A coalition of drivers released a list of demands, signed by thousands, asking the ride-hailing services to take immediate steps to help ensure their safety. The demands include providing free COVID-19 screenings to all drivers, along with 14 days paid leave for all affected drivers. The drivers are organized with advocacy group Mobile Workers Alliance.
    </td>
    <td>
-    <a href="/actions/0264.json">
+    <a href="/actions/0265.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2287,7 +2302,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Food delivery drivers carried out a series of strikes in several major cities across China in protest of lowered wages from the dominant food delivery platform, Meituan Dianping.  Workers lined up delivery scooters and bikes displaying signs that read, "stop taking orders.”  The work stoppage created tension between delivery drivers and food vendors, sometimes leading to physical confrontation.
    </td>
    <td>
-    <a href="/actions/0263.json">
+    <a href="/actions/0264.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2302,7 +2317,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     The staff of podcasting company Gimlet Media, recently acquired by Spotify Media, voted in favor of unionization with the Writers Guild of America, East. Gimlet is the first podcasting company to join the WGAE. Notably, the union includes contractors. Update: In April, management announced they would recognize the union.
    </td>
    <td>
-    <a href="/actions/0262.json">
+    <a href="/actions/0263.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2317,7 +2332,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Mijente, an immigrant rights group is calling on ICE to stop hunting down undocumented immigrants amid the coronavirus crisis. In an open letter published on Github, Microsoft workers backed mijente's campaign, calling on tech companies not to share their technologies with ICE.
    </td>
    <td>
-    <a href="/actions/0261.json">
+    <a href="/actions/0262.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2332,7 +2347,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     French Amazon employees at six warehouses protested and threatened walkouts over lax covid-19 protections, calling for the company to adhere to social distancing, provide personal protective equipment, and initiate employee temperature checks. A spokesperson for Amazon's French CFDT union estimated that between 30-40% of Amazon employees in the country were no longer showing up to work over safety concerns or because of childcare obligations. A French law requires workplaces to keep paying workers who refuse to work over safety concerns.
    </td>
    <td>
-    <a href="/actions/0260.json">
+    <a href="/actions/0261.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2347,7 +2362,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     At an Amazon warehouse and shipping center at Saran just outside Orleans, a city south of Paris, 250-300 workers staged a strike, gathering outside and calling for its closure. It normally employs some 1,800 full-time staff. They are calling on the online retailer to cease operations or make it easier for employees not wanting to work during the coronavirus outbreak to stay away.
    </td>
    <td>
-    <a href="/actions/0259.json">
+    <a href="/actions/0260.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2362,7 +2377,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     As the coronavirus continues to spread, Amazon logistics workers circulated a petition calling for the company to put in place more “protective measures,”  in which they demanded that the company provide paid sick leave to all its employees, even those who do not have a positive COVID-19 diagnosis, given the scarcity of coronavirus tests. They also requested child-care funds for workers with children, increased hazard pay, an end to penalties for working too slowly, and an immediate closure of any facility where a worker tests positive. “While Amazon has made some limited coronavirus accommodations, it needs a comprehensive plan to ensure the safety of all of its workers and the larger public, including giving workers paid leave and not simply extending our unpaid leave, as was announced recently,” the petition states.
    </td>
    <td>
-    <a href="/actions/0258.json">
+    <a href="/actions/0259.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2377,7 +2392,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Over 5000 Amazon employees signed an open letter to Jeff Bezos calling for improved working conditions during the coronavirus pandemic, including paid sick leave regardless of diagnosis, child care, and 1.5x hazard pay. Since then, on March 22nd, the letter has been updated to include a call for transparency on any diagnosed covid-19 cases at the facilities, a halt on the shipping of non-essential items, and medical coverage to part-time employees. On March 27th, Amazon Employees for Climate Justice emailed its constituents (mostly corporate employees) to encourage them to sign the open letter, which purportedly lead to an additional 580 signatures.
    </td>
    <td>
-    <a href="/actions/0257.json">
+    <a href="/actions/0258.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2392,7 +2407,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     A group of Google employees has sent a memo to company leadership demanding stronger commitments to protect the more vulnerable members of Google’s workforce, primarily its contract workers, during the ongoing coronavirus crisis. The memo notes that some Google contractors, like those in the company’s Pittsburgh office employed by an independent company called HCL Technologies, have been forced to come into the office, even as full-time Google employees were first allowed and then instructed to stay home.
    </td>
    <td>
-    <a href="/actions/0256.json">
+    <a href="/actions/0257.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2407,7 +2422,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Pittsburgh's office Google contractors employed by an independent company called HCL Technologies, have been forced to come into the office, even as full-time Google employees were first allowed and then instructed to stay home. Some HCL contractors wore black in a protest at the Pittsburgh office’s cafeteria on Monday. This action is linked to the memo that Googlers sent out on the same day.
    </td>
    <td>
-    <a href="/actions/0255.json">
+    <a href="/actions/0256.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2422,7 +2437,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Employees of online software collaboration tool Glitch won their union with the Communications Workers of America (CWA). The move comes after 90% of the workers indicated their support for joining CWA and authorized CWA to be their bargaining representative. Glitch will join the CWA Local 1101, as part of the Campaign to Organize Digital Employees (CODE-CWA) initiative, which was launched back in January.
    </td>
    <td>
-    <a href="/actions/0254.json">
+    <a href="/actions/0255.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2437,7 +2452,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     A group of five baristas who operate the espresso machines at Slack’s corporate headquarters in San Francisco learned on March 6 that they were losing their contracted positions just prior to a decision by the company to move to remote operations to curb the spread of COVID-19. The baristas claim that Slack caught wind of their intention to criticize the company publicly—and in what they claim to be an organizing victory, they learned that their severance would be extended to 90 days.
    </td>
    <td>
-    <a href="/actions/0253.json">
+    <a href="/actions/0254.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2452,7 +2467,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     The Berlin office of Babbel, the language learning platform elected a Works Council with consultation and guidance of IG Metall.
    </td>
    <td>
-    <a href="/actions/0252.json">
+    <a href="/actions/0253.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2467,7 +2482,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Gig Workers Rising launched a petition calling on the heads of the biggest gig economy platforms to give workers paid sick leave amid the coronavirus outbreak. That petition garnered more than 900 signatures. In the petition, the workers say they are often on the “front lines of exposure,” given that every day they come in contact with various people, including those arriving at airports or heading to the hospital. Without paid sick leave, the gig workers say they are often forced to choose between making ends meet and taking care of their health, and therefore the health of the company's customers.
    </td>
    <td>
-    <a href="/actions/0251.json">
+    <a href="/actions/0252.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2482,7 +2497,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Over the past few months, Amazon workers across the country have called on the company to provide part-time employees with paid sick leave. Amazon workers in New York City have started an online petition on coworker.org to advocate for paid time off, paid sick leave, and a process to appeal final warnings. Over 1,200 people have signed the petition. Workers at the Skokie, Illinois facility have written a letter to management and are circulating a petition demanding backdated paid time off. Though many workers log more than 20 hours a week, they are still recognized as part-time employees of the company. These events follow similar actions taken by Amazon workers in Sacramento late in 2019.
    </td>
    <td>
-    <a href="/actions/0250.json">
+    <a href="/actions/0251.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2497,7 +2512,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     People left their desks at Oracle offices around the world to protest Chairman Larry Ellison’s fundraiser a day earlier for President Donald Trump. The protest, called No Ethics/No Work, involved about 300 employees walking out of their offices or stopping work at remote locations at noon local time and devoting the rest of the day to volunteering or civic engagement.
    </td>
    <td>
-    <a href="/actions/0249.json">
+    <a href="/actions/0250.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2512,7 +2527,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Employees at the crowdfunding platform Kickstarter voted to unionize. The decision, which was formalized by a vote count at the National Labor Relations Board, came down to a narrow margin, with 46 employees voting in favor of the move and 37 opposing it. The debate over a union — and whether such representation was appropriate for highly paid tech workers — had been a source of tension at the company for many months.
    </td>
    <td>
-    <a href="/actions/0248.json">
+    <a href="/actions/0249.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2527,7 +2542,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Oracle founder and CTO Larry Ellison‘s decision to throw a fundraiser for President Donald Trump has angered  Oracle employees, who have set up a Change.org petition demanding he cancel the fundraiser. “As Oracle employees, we must hold our leaders accountable for upholding their ethical responsibilities,” the petition, which anyone can sign, continues. “Ellison’s financial support of Donald Trump endangers the well-being of women, immigrants, communities of color, the environment, LGBTQ and trans communities, disabled people and workers everywhere.”
    </td>
    <td>
-    <a href="/actions/0247.json">
+    <a href="/actions/0248.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2542,7 +2557,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Rideshare workers have signed a petition calling on the LAX (Los Angeles) airport to provide them with better bathrooms. Currently all workers are forced to use six port-a-potties and one external handwashing station located on airport grounds. LAX management responded by saying they will install three additional port-a-potties and two more external handwashing stations. Drivers, organized through the Mobile Workers Alliance, continue to call for more.
    </td>
    <td>
-    <a href="/actions/0246.json">
+    <a href="/actions/0247.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2557,7 +2572,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     AI researchers and engineers from around the world signed an online open letter calling for the tech industry to refrain from using AI technologies to 'exacerbate the climate crisis'. The letter, authored by Tech Won't Drill It, has been signed by over 100 AI researchers.
    </td>
    <td>
-    <a href="/actions/0245.json">
+    <a href="/actions/0246.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2572,7 +2587,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Rideshare workers organized under Rideshare Drivers United filed wage claims with the California Labor Commissioner's Office seeking to be reimbursed for unpaid wages under AB5. AB5 took effect on Jan. 1 in California but is being disputed by rideshare companies who seek to keep drivers classified as contractors as opposed to employees. Under AB5, many drivers would be entitled to higher wages, pay for overtime, and compensation for work-related expenses.
    </td>
    <td>
-    <a href="/actions/0244.json">
+    <a href="/actions/0245.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2587,7 +2602,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Members of Amazon Employees for Climate Justice submitted comments to the U.S. Securities and Exchange Commission against a new regulation that would prevent smaller shareholders from proposing shareholder resolutions (i.e. proposals to change how a company is run). Under the new rules, shareholders would have to presently hold at least $25,000 worth of shares or have held $2,000 worth of shares continuously for the last three years. The group has argued that this prevents smaller shareholders from voicing their opinion. Included in this group are many recently hired tech employees with small caches of employer stock. While shareholder resolutions are not binding, they have had some success in pushing corporations towards taking a stance on social issues such as gender equity.
    </td>
    <td>
-    <a href="/actions/0243.json">
+    <a href="/actions/0244.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2602,7 +2617,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     A group of Instacart employees in the Chicago suburb Skokie voted to unionize with the United Food and Commercial Workers Local 1546—a historic win for the grocery delivery platform. The vote was 10-to-4 in favor of the union, according to workers. 'The overwhelming majority of the employees made history by becoming the first Instacart employees to win a certified union election in the United States,' UFCW Local 1546 wrote in a press statement.
    </td>
    <td>
-    <a href="/actions/0242.json">
+    <a href="/actions/0243.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2617,7 +2632,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Amazon Employees for Climate Action published a Medium post with quotations from 364 employees criticizing the company for its continued involvement with the fossil fuel industry. Notably, all quotes included employee name and company title. Some quotes touched on other ethical issues in addition to climate change, such as the company's contracts with ICE. The action violates a company policy that prohibits employees from publicly speaking about the business without prior company approval. The employee group is currently calling for Amazon to go carbon neutral by 2030, to cut ties with fossil fuel companies, and to stop funding politicians and lobbyists who deny climate change. This action is a response to Amazon's previous threats to fire internal critics. Update: Quotations received from 400 employees.
    </td>
    <td>
-    <a href="/actions/0241.json">
+    <a href="/actions/0242.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2632,7 +2647,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Many of the app's 130,000 workers claim to have seen their pay drop by more than 50 percent in 2019 alone, as the company has sought to lower costs and appease its investors. Workers are now calling for a national boycott. They’re asking customers and the general public to tweet under the hashtag #DeleteInstacart on January 19, and to email Instacart CEO Apoorva Mehta on January 20, asking him to restore the 10 percent default tip—which workers lost back in 2016. (The default tip sits at five percent.)
    </td>
    <td>
-    <a href="/actions/0240.json">
+    <a href="/actions/0241.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2647,7 +2662,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     The Hong Kong Information Technology Workers’ Union form out of the 2019 Hong Kong movement, and is developing a database of employers who do not threaten or dismiss employees for political protests. Reuters reports that unionizing in Hong Kong has grown since anti-extradition protests began last year. Organizers see unions as a means of protecting politically engaged workers from retaliation.
    </td>
    <td>
-    <a href="/actions/0239.json">
+    <a href="/actions/0240.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2662,7 +2677,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     More than 30 Amazon workers at a Sacramento warehouse walked off the job, demanding they receive paid time off. 36 workers — out of around 100 in total on the shift— left work two hours early after they read a letter to management out loud stating their demands to be granted paid time off (PTO) and meet with management to discuss their concerns, according to a worker at the site. These workers — who say they lift hundreds of packages a day in “back-breaking” labor —currently receive zero PTO days a year. The walkout comes weeks after workers say management has ignored their requests to meet with leaders of a group organizing around the issue. So far, workers have circulated an internal and public petition gaining over 4,000 signatures in total.
    </td>
    <td>
-    <a href="/actions/0238.json">
+    <a href="/actions/0239.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2677,7 +2692,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     One-third of the night shift at one of Amazon's Sacramento warehouse walked off the job in the wee hours of December 23. Workers went together on a break to deliver their demands to management, then clocked out. Night-shift workers delivered a petition with 4,015 signatures to management during their 2:30 a.m. break on December 23. After reading out loud their demands for a meeting with management and paid time off, 36 of the 100 night-shift workers clocked out at 2:45 a.m. and walked off the job mid-shift.
    </td>
    <td>
-    <a href="/actions/0237.json">
+    <a href="/actions/0238.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2692,7 +2707,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     In an open letter, several engineers, researchers, analysts, and designers working with global companies such as Google and Facebook have condemned the Citizenship (Amendment) Act in India. The letter, issued 'in solidarity with the Indian democracy', was posted through the 'TechAgainstFascism' handle on Medium. It called upon technology leaders to take a stance and publicly denounce the 'fascist acts by the Indian government'. 'We call upon the leaders to use technology as a force for good, to refuse to share user details with the government, refuse to shut off the Internet at the government's whim, provide tools for citizen mobilization, and ensure that content moderation is not skewing pro-government,' it said.
    </td>
    <td>
-    <a href="/actions/0236.json">
+    <a href="/actions/0237.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2707,7 +2722,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     A group of Googlers unhappy with the company's expanding 'need to know' restrictions on internal documents have come up with a clever form of protest: A new tool that sends auto alerts to Google's top lawyer every time an employee opens a company document. The deluge of notifications was meant as a protest to what they saw as Walker’s insistence on controlling the minutiae of their professional lives.
    </td>
    <td>
-    <a href="/actions/0235.json">
+    <a href="/actions/0236.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2722,7 +2737,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     E-scooter workers in San Francisco at the Ford-owned start-up Spin joined a union on Wednesday—a first in the fledgling industry. Roughly 40 Spin workers—who collect, repair, deploy, and charge Spin’s fleet of more than 500 electric scooters on the streets of San Francisco—are now part of Teamsters Local 665, as first reported by the San Francisco Examiner. The union says workers want to negotiate for better pay, health care, and retirement security in their first contract.
    </td>
    <td>
-    <a href="/actions/0234.json">
+    <a href="/actions/0235.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2737,7 +2752,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Injured former Amazon warehouse workers and labor organizers in Chicago are protesting dangerous work speed and high injury rates today outside one of the company’s brick-and-mortar stores in downtown Chicago. The action coincides with the release of a new report on injury rates in one of the region’s largest and most dangerous warehouses, MDW7, the first in Illinois with automated robots. The report and protest in Chicago coincides with the launch of a national coalition, known as Athena, of three dozen grassroots labor, antitrust, and digital rights organizations—the first unified resistance effort in the United States against the delivery giant.
    </td>
    <td>
-    <a href="/actions/0233.json">
+    <a href="/actions/0234.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2752,7 +2767,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     In an open letter published Wednesday on GitHub, software developers representing the open source community joined the call for GitHub to immediately cancel the $200,000 contract with ICE. 'Open source is about inverting power structures and creating access and opportunities for everyone,' the letter, signed by 167 developers at the time of publication, reads. 'We, the undersigned, cannot see how to reconcile our ethics with GitHub’s continued support of ICE. Moreover, your lack of transparency around the ethical standards you use for conducting business is also concerning to a community that is focused around doing everything out in the open.'
    </td>
    <td>
-    <a href="/actions/0232.json">
+    <a href="/actions/0233.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2767,7 +2782,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Amazon delivery station employees in Sacramento are demanding fair treatment and benefits equal to those of other Amazon workers. By Sunday, more than 200 workers had signed a petition requesting an explanation for why they receive fewer paid days off per year than typical Amazon warehouse workers. The workers, who call themselves Amazonians United Sacramento, say that unlike other Amazon employees, they receive no paid time off. These workers, who sort and prepare packages for final-mile delivery in a station called DSM1, said they were told by Amazon managers that they get less paid time off (PTO) because they are classified by the company as Class Q workers. The Sacramento employees said they were previously unaware of any such classification.
    </td>
    <td>
-    <a href="/actions/0231.json">
+    <a href="/actions/0232.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2782,7 +2797,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Four recently fired Google engineers who were active in organizing within the company say they will push for a federal investigation into the search and advertising giant for unfair labor practices. In a medium post, the four former employees announced their intent to file charges with the National Labor Relations Board for what they allege was retaliation from the company against their roles in organizing workers. In the letter, they write: 'Last week, Google fired us for engaging in protected labor organizing.' Update: Complaint was officially filed with the NLRB.
    </td>
    <td>
-    <a href="/actions/0230.json">
+    <a href="/actions/0231.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2797,7 +2812,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Amazon was targeted by a UK-wide protest organised to coincide with Black Friday and Cyber Monday demanding an end to ‘appalling’ working conditions. Trade union GMB co-ordinated the British demonstrations to take place across two of the busiest shopping days of the year. 'Workers are breaking bones, being knocked unconscious and being taken away in ambulances,' GMB national officer Mick Rix said in a statement. Labour leader Jeremy Corbyn visited protesters outside an Amazon depot in Sheffield. The union cited figures suggesting there had been more than 600 ambulance call-outs to Amazon warehouses over a three-year period and just as many serious incidents reported to the Health and Safety Executive for various injuries.
    </td>
    <td>
-    <a href="/actions/0229.json">
+    <a href="/actions/0230.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2812,7 +2827,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Hundreds of Amazon workers in Germany walked off the job as the online retailer kicked off its 'Black Friday' sales bonanza, escalating a long-simmering battle for better pay and working conditions. The strike called by the powerful Verdi union is set to last until Tuesday morning and will also cover 'Cyber Monday', another extravaganza of online discounts in what is a crucial sales period for Amazon. Verdi members are demanding a collective agreement for a living wage.
    </td>
    <td>
-    <a href="/actions/0228.json">
+    <a href="/actions/0229.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2827,7 +2842,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Over a hundred Amazon workers and their supporters gathered outside the facility to protest working conditions that they say only worsen as the e-tailing giant gears up to deliver a rush of packages ahead of Christmas and Hanukkah. 600 workers at an Amazon fulfillment center in New York signed a letter and protested working conditions. Amazon workers face injury rates over three times the industry average, and are asking for increased break time and better transit benefits.
    </td>
    <td>
-    <a href="/actions/0227.json">
+    <a href="/actions/0228.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2842,7 +2857,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     A group of roughly 200 Googler and other protesters rallied outside of the search giant’s offices in San Francisco on Friday, demanding the company reinstate two colleagues who they say were unjustly punished for workplace organizing at the company — calling it an attack on accountability and transparency in tech. Google has said the employees were placed on administrative leave for violating company policies about accessing sensitive internal documents and monitoring employees’ calendar events. They accuse management of targeting Rebecca Rivers and Laurence Berland, because of their involvement in worker activism at the company. Rivers helped put together a petition against Google’s work for US immigration enforcement agency Customs and Border Patrol (CBP), and Berland was involved with employee protests about hate speech policies on YouTube. Protesters are demanding that Rivers and Berland be reinstated at work immediately. Organizers called their suspension an “attempt to silence workers,” in an email about the rally.
    </td>
    <td>
-    <a href="/actions/0226.json">
+    <a href="/actions/0227.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2857,7 +2872,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     About 2,300 Google cafeteria workers (contracted through Compass) voted to unionize to call for better pay and benefits. These workers include dishwashers and food preparers who serve breakfast, lunch, and dinner to Google employees. The service workers are considered contract workers and don't receive the same benefits such as retirement plans which are standard for direct Google employees. The cafeteria workers voted to unionize with a local chapter of Unite Here, which represents 300,000 workers in food, casino, laundry, hotel, and warehouse industries.
    </td>
    <td>
-    <a href="/actions/0225.json">
+    <a href="/actions/0226.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2872,7 +2887,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Approximately 2,300 contract workers employed in food service at Google have voted to unionize under a local chapter of Unite Here. Workers expressed dissatisfaction with their low wages, which start at $35,000 in the Bay Area, and lack of benefits compared to full-time Google employees. Some reported incidents of discrimination and bullying. The workers are officially employed by Compass Group, a third party contractor. The vote followed a two year effort.
    </td>
    <td>
-    <a href="/actions/0224.json">
+    <a href="/actions/0225.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2887,7 +2902,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Google employees held a protest in San Francisco days before the company ended its long-held TGIF meetings, according to an internal memo obtained by CNBC. Some 20 people organized at Google's office in downtown San Francisco to protest the company placing Rebecca Rivers and Laurence Berland on sudden and indefinite administrative leave the prior week, the memo states. Authors of the memo, which was circulated internally at Google on Monday, claimed the actions were an act of retaliation against the workers.
    </td>
    <td>
-    <a href="/actions/0223.json">
+    <a href="/actions/0224.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2902,7 +2917,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Before Github’s CEO Nat Friedman delivered his keynote address at Github Universe, an annual Github-hosted conference, dozens of tech workers and immigrant rights activists protested outside with a replica of the cages ICE uses to detain migrant families and children. “The demonstration [is in response to] GitHub's contract with ICE and is intended to show support for the GitHub workers who are organizing internally to get the contract cancelled,” said a representative of Tech Workers Coalition, the group organizing the protest. Just before the annual conference, 5 Githubbers left the company, citing Github's involvement with ICE.
    </td>
    <td>
-    <a href="/actions/0222.json">
+    <a href="/actions/0223.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2917,7 +2932,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Tech activists, artists, and creators who helped organize Google, Facebook, WeWork, Kickstarter, and more annotated an assemblage of common anti-union statements.  The zine's organizer-driven content is an inoculation tool for tech workers that exposes them to union busting rhetoric and arms them with pro union rebuttals.
    </td>
    <td>
-    <a href="/actions/0221.json">
+    <a href="/actions/0222.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2932,7 +2947,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     WeWork employees have formed a group to campaign for better severance pay, employment conditions and an end to 'deception, exclusion and selfishness at the company's highest levels' following the turmoil of its failed IPO process. The WeWorkers Coalition announced its existence on Friday with a letter to management setting out demands including for sexual assault claims to be 'taken seriously' and for thousands of employees about to lose their jobs to receive 'fair and reasonable separation terms'. 'Thousands of us will be laid off in the upcoming weeks. But we want our time here to have meant something' the group said in its letter. A software engineer at WeWork who is helping to organise the WeWorkers Coalition, said 185 people had signed the letter to management, while at least 600 expressed an interest in joining ahead of the group publicising its launch this week. The coalition wants cleaners and maintenance staff to receive full benefits and fair pay.
    </td>
    <td>
-    <a href="/actions/0220.json">
+    <a href="/actions/0221.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2947,7 +2962,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Shutterstock engineers were tasked with the creation of a search blacklist that would wipe from query results images associated with keywords forbidden by the Chinese government, including images of the Hong Kong protests. The company's decision to silently aid China's censorship agenda comes at a time of heightened scrutiny into the relationship between corporate America and President Xi Jinping's authoritarian regime. More than 180 Shutterstock workers to sign a petition against the search blacklist and accuse the company of trading its values for access to the lucrative Chinese market. They write that by 'complying, we are enabling injustices, including the discrimination of the people of Hong Kong, the suppression of Chinese political dissent, and undermining the sovereignty of Taiwanese people.'
    </td>
    <td>
-    <a href="/actions/0219.json">
+    <a href="/actions/0220.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2962,7 +2977,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Uber and Lyft employees protested outside the homes of three company investors to highlight the inequality between them and their workforce in a campaign called 'Deactivate Uber Billionaires'. The San Francisco Chronicle reports that protests occured at 'the San Francisco office of GV, the venture capital arm of Google parent Alphabet that was an early Uber investor; the Atherton mansion of Bill Gurley, an Uber board member and venture capitalist; and the Beverly Hills home of Uber co-founder Garrett Camp'. The protests coincide with the end of Uber's stock lockup period six months after their IPO.
    </td>
    <td>
-    <a href="/actions/0218.json">
+    <a href="/actions/0219.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2977,7 +2992,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Over 1000 Google employees have signed a letter calling for their employer to take action on the issues of climate change and immigration. The letter called on Google to commit to zero carbon emissions by 2030, end all contracts with fossil fuel companies and climate change denying or delaying 'think tanks, lobbyists, and politicians', and end all collaboration with organizations or individuals 'enabling the incarceration, surveillance, displacement, or oppression of refugees or frontline communities'.
    </td>
    <td>
-    <a href="/actions/0217.json">
+    <a href="/actions/0218.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -2992,7 +3007,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Thousands' of Instacart shoppers went on strike from Nov. 3rd to Nov. 5th to protest the company's new tipping policy, which returns a portion of tips to the corporation rather than the workers. Participating shoppers refused to answer requests on the app. Instacart workers are considered contractors currently but this will change on January 1st in the state of California under AB5 legislation.
    </td>
    <td>
-    <a href="/actions/0216.json">
+    <a href="/actions/0217.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -3007,7 +3022,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Instacart workers circulated an open letter on Medium prior to a walkout scheduled for Nov. 3rd to Nov. 5th. Employees are protesting the company's history of systematically devaluing labor, using algorithms to reduce pay to employees and changing tipping structures to return profit to the company. Over 200 workers have signed the letter.
    </td>
    <td>
-    <a href="/actions/0215.json">
+    <a href="/actions/0216.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -3022,7 +3037,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Over 200 employees of the data visualization company Tableau protested their company's contracts with the federal government. They called on their company to drop these contracts in oppositio to the actions of ICE (U.S. Immigration and Customs Enforcement) throughout the US and at the US-Mexico border. An open letter was also published on Medium.
    </td>
    <td>
-    <a href="/actions/0214.json">
+    <a href="/actions/0215.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -3037,7 +3052,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     More than 250 Facebook employees signed a letter to management protesting the company's decision to keep political ads, including those making false claims, on the social network during the 2020 US Presidential election. The letter was posted on Facebook Workplace, an internal communication service within the company.
    </td>
    <td>
-    <a href="/actions/0213.json">
+    <a href="/actions/0214.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -3052,7 +3067,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Approximately 40 Google employees in Zurich held a meeting at the office to discuss unions and labor rights with representatives from Syndicom, a Swiss labor union. Employees had invited Syndicom to speak earlier in June but the event was cancelled at the request of management. Management later announced they would be holding a series of talk on labor rights and would allow Syndicom to join.
    </td>
    <td>
-    <a href="/actions/0212.json">
+    <a href="/actions/0213.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -3067,7 +3082,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Microsoft employees are circulating a letter supporting an effort to get its GitHub subsidiary to cancel a contract with the U.S. Immigration and Customs Enforcement agency, the latest effort among tech-company staff to influence corporate policy on government work. The letter reflects concerns that Microsoft’s sales to the agency implicate the software maker in the government’s detention of immigrants.
    </td>
    <td>
-    <a href="/actions/0211.json">
+    <a href="/actions/0212.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -3082,7 +3097,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Staff in Japan of ride-hailing company Uber's food delivery service formed a labor union Thursday to negotiate contract terms and seek improved working conditions. The union, formed by 17 platformers, also plans to request the Japanese unit of the U.S. company to ensure fair treatment among delivery riders and review how distance-based wages are set.
    </td>
    <td>
-    <a href="/actions/0210.json">
+    <a href="/actions/0211.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -3097,7 +3112,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     After GitHub CEO Nat Friedman wrote in an internal letter on Tuesday that the company plans to renew a contract worth $200,000 with ICE to license its GitHub Enterprise Server, GitHub's employees began publicly pressuring their company's leadership to stop working with the immigration agency over human rights concerns.
    </td>
    <td>
-    <a href="/actions/0209.json">
+    <a href="/actions/0210.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -3112,7 +3127,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Approximately 60 Amazon workers walked out of a delivery center in Eagan, Minnesota to demand increased wages, weight restrictions on boxes, and abolishing a cap on 30 hour workweeks. The strike lasted two and half hours until a manager promised to address concerns the following morning.
    </td>
    <td>
-    <a href="/actions/0208.json">
+    <a href="/actions/0209.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -3127,7 +3142,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     A coalition of students protested Palantir &amp; other ICE-friendly recruitment on the Carnegie Mellon University campus. They disrupted a Palantir recruitment event, held 500 in-person conversations with passing colleagues, &amp; collected 150 promises from fellow students to not work or engage with Palantir.
    </td>
    <td>
-    <a href="/actions/0207.json">
+    <a href="/actions/0208.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -3142,7 +3157,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Kickstarter workers have sent a letter to management asking them to voluntarily recognize their union. If management refuses to recognize the union, workers have the option to go to the NLRB to authorize a union election.
    </td>
    <td>
-    <a href="/actions/0206.json">
+    <a href="/actions/0207.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -3157,7 +3172,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Amazon workers at a delivery center in Sacramento circulated a petition to reinstate two workers believed to have been unfairly fired and to give part-time workers paid time off. Management reinstated the two fired workers but did not acquiese to the request for paid time off. The action led workers to form a new group: Amazonians United Sacramento.
    </td>
    <td>
-    <a href="/actions/0205.json">
+    <a href="/actions/0206.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -3172,7 +3187,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Deliveroo workers held wildcat strikes in 16 different UK cities in September in response to lowered wages. Strikers have blocked access to delivery-only kitchens that specifically cater to Deliveroo and other services and have publicly picketed. The Independent Workers of Great Britain Couriers and Logistics Branch (IWGB CLB) has been involved in organizing protests and reports that membership has grown 25% in recent months.
    </td>
    <td>
-    <a href="/actions/0204.json">
+    <a href="/actions/0205.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -3187,7 +3202,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Over 400 Facebook employees protested publicly against the company's treatment of foreign workers on H1B visas days after a Chinese employee committed suicide by jumping off the roof of a company building. Workers at the company have started publicly posting and speaking out about the mistreatment of international workers, who are only allowed to stay in the US if they are sponsored by their employer and thus face greater pressures not to speak out against working conditions. Two separate GoFundMe pages have been started to raise money for a memorial and a protest event (over $6,000) and for Chen's family (over $122,000). Facebook has since fired one of the employees who organized the protest, Yi Yin. Yin also spoke to the press about the suicide after the company instructed him not to speak about the suicide.
    </td>
    <td>
-    <a href="/actions/0203.json">
+    <a href="/actions/0204.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -3202,7 +3217,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Students at UC Berkeley have led protests and circulated petitions to stop Palantir from attending campus events due to their standing contracts with ICE. 50 students attended a protest and over 700 students and faculty signed a petition to stop an upcoming informational session.
    </td>
    <td>
-    <a href="/actions/0202.json">
+    <a href="/actions/0203.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -3217,7 +3232,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Contract workers at Google in Pittsburgh have voted to unionize, joining the United Steel Workers Union. News outlets report that this is the first successful unionization of white-collar tech contractors. Workers intend to use their position to bargain for compensation, benefits, and job security comparable to Google employees. Google currently employs more contract workers (135,000) than direct Google employees (115,000) according to the Guardian. A group of Google employees have signed a letter of support and others have published a petition calling for the company to sign a neutrality agreement and abstain from union-busting tactics.
    </td>
    <td>
-    <a href="/actions/0201.json">
+    <a href="/actions/0202.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -3232,7 +3247,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Students at Brown demonstrated against four companies (Amazon, Microsoft, Palantir, and Ernst &amp; Young) at an on-campus career fair. All four companies have done business with ICE. The students have also started an online petition to protest Brown's connections to these four companies.
    </td>
    <td>
-    <a href="/actions/0200.json">
+    <a href="/actions/0201.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -3247,7 +3262,7 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
     Google employees created an internal document describing cases of discrimination and retaliation by the company. 45 cases were reported.
    </td>
    <td>
-    <a href="/actions/0199.json">
+    <a href="/actions/0200.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -3260,6 +3275,22 @@ Italian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which
    </td>
    <td>
     Hopkins Coalition Against ICE (HCAI), a student organization, organized three protests over the course of the 2018-19 school year against contracts between Johns Hopkins University Center for Law Enforcement Medicine and ICE (U.S. Dept. of Immigrations Customs and Enforcement). In response, the Center announced that they would not be renewing their contract.
+   </td>
+   <td>
+    <a href="/actions/0199.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="william boag">
+   <td>
+    2019-09-19
+   </td>
+   <td>
+    A former employee of Chef, a Seattle-based tech firm,
+protested the company's involvement with ICE by deleting open source projects used by Chef customers. The CEO of Chef initially defended the decision to work with ICE but within a week, reversed course and canceled their contract following internal protests and advocacy by Chef employees.
    </td>
    <td>
     <a href="/actions/0198.json">

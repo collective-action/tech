@@ -1,45 +1,50 @@
 {
-    "id": 417,
-    "date": "2021/04/09",
+    "id": 415,
+    "date": "2021/04/07",
     "sources": [
-        "https://stopprotectingharassers.medium.com/alphabet-stop-protecting-harassers-d32a17aa5762",
-        "https://www.theverge.com/2021/4/9/22375913/alphabet-employees-open-letter-google-harassers"
+        "https://www.theverge.com/2021/4/7/22327090/gimlet-media-union-spotify-contract-agreement",
+        "https://www.wgaeast.org/gimlet-media-and-the-ringer-ratify-first-podcast-contracts-at-spotify/",
+        "https://www.wgaeast.org/wp-content/uploads/sites/4/2021/04/Gimlet-Media-WGA-CBA-FINAL-DRAFT-March-23-2021-1.pdf",
+        "https://www.wgaeast.org/wp-content/uploads/sites/4/2021/03/Ringer-LLC-WGAE-CBA-FINAL.pdf"
     ],
     "actions": [
-        "open letter"
+        "union representation"
     ],
     "struggles": [
+        "pay and benefits",
+        "discrimination",
+        "working conditions",
         "unfair labor practices",
-        "working conditions"
+        "job security"
     ],
     "employment_types": [
         "white collar workers",
-        "blue collar workers",
-        "inhouse workers",
-        "contract workers"
+        "inhouse workers"
     ],
-    "description": "An open letter was sent to Sundar Pichai, CEO of Alphabet, asking him to take a stronger stance on addressing sexual harassment within the company. The letter points out that workers who have been harassed still must work directly or report to those that have harassed them. Moreover, the letter points out to a trend where the company protects harassers and not the victim. ",
-    "online": true,
+    "description": "Spotify and two unions, the Ringer Union and the Gimlet Union, agreed on a 3-year union contract, the first in the tech industry. The contract sets salary minimums, annual salary increases, terms for severance pay, and diversity hiring guarantees but does not clarify terms around intellectual property. ",
+    "online": null,
     "locations": [
         "usa"
     ],
     "companies": [
-        "alphabet"
+        "spotify",
+        "gimlet media",
+        "the ringer"
     ],
-    "workers": 2067,
+    "workers": null,
     "tags": [
-        "sexual_harassment"
+        "coworker_solidarity"
     ],
     "author": [
         "hyatt d."
     ],
     "latlngs": [
         [
-            37.3398646,
-            -121.8844823
+            38.5344585,
+            -94.9085748
         ]
     ],
     "addresses": [
-        "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112-3580, United States"
+        "Ringer, Miami County, Kansas, United States"
     ]
 }

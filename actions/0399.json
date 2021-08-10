@@ -1,51 +1,37 @@
 {
-    "id": 423,
-    "date": "2021/04/26",
+    "id": 430,
+    "date": "2021/04/16",
     "sources": [
-        "https://www.thehindubusinessline.com/news/national/drivers-jac-demand-covid-19-cover-from-uber-ola/article34417191.ece",
-        "https://twitter.com/ShaikTgfwda/status/1386677337106706434"
+        "https://www.businessinsider.com/grocery-startup-imperfect-foods-drivers-vote-to-unionize-in-california-2021-4",
+        "https://twitter.com/LaurenKGurley/status/1383103307040792578"
     ],
     "actions": [
-        "open letter"
+        "union representation"
     ],
     "struggles": [
-        "pay and benefits",
         "working conditions",
-        "unfair labor practices"
+        "pay and benefits"
     ],
     "employment_types": [
-        "gig workers"
+        "inhouse workers",
+        "blue collar workers"
     ],
-    "description": "In an open letter, the Telangana State Taxi and Drivers Joint Action Committee (JAC) in India demanded Uber and Ola pay for hospital expenses for drivers who test positive for covid and compensation to their families. The JAC, which comprises more than 20 unions and associations of app-based workers, also called on the companies to provide PPE, increase the rate of the fixed fare, and allow drivers to pick up their evening earnings within at least 3 km of their homes. India reported more than 350,000 cases in a single day on the same day. ",
-    "online": true,
+    "description": "Delivery drivers for Imperfect Foods have successfully voted to unionize, 28  for and 23 against. Interest in the union emerged last summer as a result of workers having to deliver more extensive workloads and cover healthcare costs from the pandemic. ",
+    "online": null,
     "locations": [
-        "telangana-india"
+        "usa"
     ],
     "companies": [
-        "uber",
-        "ola"
+        "imperfect_foods"
     ],
-    "workers": null,
+    "workers": 51,
     "tags": [
         "coronavirus",
-        "drivers",
         "delivery_workers"
     ],
     "author": [
         "hyatt d."
     ],
-    "latlngs": [
-        [
-            28.564093,
-            77.1217351
-        ],
-        [
-            19.1815187,
-            78.0699956
-        ]
-    ],
-    "addresses": [
-        "Uber Ola pickup road, Delhi Cantonment, New Delhi, Delhi, 110010, India",
-        "Sub Centre, Ola, Oala, Adilabad, Nirmal, Telangana, 504109, India"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

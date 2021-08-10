@@ -1,37 +1,45 @@
 {
-    "id": 430,
-    "date": "2021/04/16",
+    "id": 417,
+    "date": "2021/04/09",
     "sources": [
-        "https://www.businessinsider.com/grocery-startup-imperfect-foods-drivers-vote-to-unionize-in-california-2021-4",
-        "https://twitter.com/LaurenKGurley/status/1383103307040792578"
+        "https://stopprotectingharassers.medium.com/alphabet-stop-protecting-harassers-d32a17aa5762",
+        "https://www.theverge.com/2021/4/9/22375913/alphabet-employees-open-letter-google-harassers"
     ],
     "actions": [
-        "union representation"
+        "open letter"
     ],
     "struggles": [
-        "working conditions",
-        "pay and benefits"
+        "unfair labor practices",
+        "working conditions"
     ],
     "employment_types": [
+        "white collar workers",
+        "blue collar workers",
         "inhouse workers",
-        "blue collar workers"
+        "contract workers"
     ],
-    "description": "Delivery drivers for Imperfect Foods have successfully voted to unionize, 28  for and 23 against. Interest in the union emerged last summer as a result of workers having to deliver more extensive workloads and cover healthcare costs from the pandemic. ",
-    "online": null,
+    "description": "An open letter was sent to Sundar Pichai, CEO of Alphabet, asking him to take a stronger stance on addressing sexual harassment within the company. The letter points out that workers who have been harassed still must work directly or report to those that have harassed them. Moreover, the letter points out to a trend where the company protects harassers and not the victim. ",
+    "online": true,
     "locations": [
         "usa"
     ],
     "companies": [
-        "imperfect_foods"
+        "alphabet"
     ],
-    "workers": 51,
+    "workers": 2067,
     "tags": [
-        "coronavirus",
-        "delivery_workers"
+        "sexual_harassment"
     ],
     "author": [
         "hyatt d."
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.3398646,
+            -121.8844823
+        ]
+    ],
+    "addresses": [
+        "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112-3580, United States"
+    ]
 }

@@ -1,33 +1,39 @@
 {
-    "id": 406,
-    "date": "2021/03/01",
+    "id": 396,
+    "date": "2021/02/28",
     "sources": [
-        "https://www.unitedigitaltech.org/2021/03/goodlord-strike-picket-line-video#more-1498"
+        "https://www.theverge.com/2021/3/2/22307671/glitch-workers-sign-historic-collective-bargaining-agreement-cwa"
     ],
     "actions": [
-        "protest",
-        "strike"
+        "union representation"
     ],
     "struggles": [
-        "pay and benefits",
         "job security"
     ],
     "employment_types": [
-        "contract workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Contract tech workers of Goodlord have been striking for two weeks because they are being fired and rehired for permanent contracts that have less favorable terms than their current contracts. The contracts have resulted in 20% pay decrease and will have the workers making 6,000 pounds less than the livable wage in London. The workers refuse to work until Goodlord negotiates with them for better pay and benefits. Goodlord is an online platform for tenants, agents, and landlords to utilize in the real estate market. ",
+    "description": "Glitch workers signed a collective bargaining agreement with company management that will last for 11 months. According to a press release from the Communications Workers of America (CWA), this is the first agreement signed by white collar tech workers in the United States. The agreement did not include a call for higher wages because workers recognized that they are paid relatively high wages and that the company has faced economic pressures as a result of the pandemic. Instead, the contract improved job stability, ensuring \"just cause\" protections against firing and recall rights (priority for re-hiring for the same positions) for workers laid off due to the pandemic. ",
     "online": null,
     "locations": [
-        "london-uk"
+        "usa"
     ],
     "companies": [
-        "goodlord"
+        "glitch"
     ],
     "workers": null,
-    "tags": null,
-    "author": [
-        "hyatt d."
+    "tags": [
+        "cwa"
     ],
-    "latlngs": null,
-    "addresses": null
+    "author": null,
+    "latlngs": [
+        [
+            35.599386,
+            -82.31032
+        ]
+    ],
+    "addresses": [
+        "Glitch Drive, Black Mountain, Buncombe County, North Carolina, 28711, United States"
+    ]
 }

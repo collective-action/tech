@@ -1,33 +1,66 @@
 {
-    "id": 331,
-    "date": "2020/09/23",
+    "id": 330,
+    "date": "2020/09/22",
     "sources": [
-        "https://www.forbes.com/sites/rachelsandler/2020/09/24/hootsuite-drops-ice-contract-after-employee-backlash/#714f8e261c50",
-        "https://www.vice.com/en/article/jgx75b/hootsuite-denied-providing-tech-to-ice-this-contract-shows-that-it-did"
+        "https://www.vice.com/amp/en_us/article/g5p333/uk-tech-workers-launch-first-national-effort-to-unionize-tech-industry"
     ],
     "actions": [
-        "protest"
+        "union drive"
     ],
     "struggles": [
-        "ethics"
+        "working conditions"
     ],
     "employment_types": [
+        "blue collar workers",
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "Employees at Hootsuite succeeded in getting the company, a B-corporation, to drop its contract with U.S. ICE after protesting via social media and voicing their opposition internally to the company. A Tweet from a senior training specialist at Hootsuite, Sam Anderson, generated significant backlash within the industry, including from many social media managers at client companies.  ",
-    "online": true,
-    "locations": null,
-    "companies": [
-        "hootsuite"
+    "description": "Tech workers in the U.K. have started a union aimed at organizing a wide array of tech workers in the country. The United Tech and Allied Workers, a branch of the Communications Workers Union, offers legal counsel and representation at employment tribunals for its members. Under U.K. law, employees can join a union even if that union has not been recognized by their employer. In an interview with Vice, a member highlighted the union's \"very broad definition of a tech worker\", which spans white collar and blue collar labor.",
+    "online": null,
+    "locations": [
+        "uk"
     ],
-    "workers": 100,
+    "companies": [
+        "google",
+        "amazon",
+        "microsoft",
+        "samsung",
+        "deliveroo"
+    ],
+    "workers": 30,
     "tags": [
-        "ice"
+        "industry_solidarity"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            51.5332143,
+            -0.1259925739528908
+        ],
+        [
+            53.78405275,
+            -1.4836579363489633
+        ],
+        [
+            51.51500405,
+            -0.1422825722054385
+        ],
+        [
+            54.975233700000004,
+            -1.61271275552904
+        ],
+        [
+            51.58489745,
+            -0.11333842774111015
+        ]
+    ],
+    "addresses": [
+        "Google, 6, Pancras Road, King's Cross, London Borough of Camden, London, Camden Town, Greater London, England, N1C 4BJ, United Kingdom",
+        "Amazon, (Non-Definitive Bridleway) Skelton Moor Farm, Logic Leeds, Knowsthorpe, Leeds, West Yorkshire, Yorkshire and the Humber, England, LS15 0BF, United Kingdom",
+        "Microsoft Experience Centre, 253-259, Regent Street, Fitzrovia, City of Westminster, London, Greater London, England, W1B 2ER, United Kingdom",
+        "Samsung, 43-45, Northumberland Street, Haymarket, Newcastle upon Tyne, Tyne and Wear, North East England, England, NE1 7AF, United Kingdom",
+        "Deliveroo Editions, Cranford Way, Haringey Heartlands, London Borough of Haringey, London, Wood Green, Greater London, England, N8 9DG, United Kingdom"
+    ]
 }

@@ -1,31 +1,28 @@
 {
-    "id": 252,
-    "date": "2020/04/04",
+    "id": 274,
+    "date": "2020/04/01",
     "sources": [
-        "https://www.commondreams.org/news/2020/04/04/despite-threats-management-amazon-warehouse-workers-chicago-strike-demand-better",
-        "https://patch.com/illinois/chicago/cars-picket-amazon-workers-striking-coronavirus-safety"
+        "https://www.nytimes.com/2020/04/15/business/amazon-france-covid.html"
     ],
     "actions": [
-        "protest",
-        "strike"
+        "legal action"
     ],
     "struggles": [
-        "working conditions",
-        "pay and benefits"
+        "working conditions"
     ],
     "employment_types": [
         "inhouse workers",
         "blue collar workers"
     ],
-    "description": "Amazon workers, organized by DCH1 Amazonians United, staged a walkout at a facility in Chicago calling on the company to temporarily close and sanitize the facility following two positive coronavirus tests among employees. Additionally, the workers are calling for the company to cover any health bills accrued by employees and family members that have contracted coronavirus at the facility, plus more time on-the-job to incorporate safety practices such as regular hand sanitizing. This is the fourth such action organized by DCH1 Amazonians in response to the coronavirus outbreak. ",
+    "description": "Amazon's French SUD-Commerce union launched a lawsuit against the company alleging that they had failed to uphold coronavirus safety measures at six different warehouses in the country.  French courts ruled in favor of the union. The company was forced to stop its operations for five days, while continuing to pay workers, in order to improve safety. Delivery was also restricted to food, hygiene, and medical products at this time.",
     "online": null,
     "locations": [
-        "staten island-new york city-new york-usa"
+        "france"
     ],
     "companies": [
         "amazon"
     ],
-    "workers": 20,
+    "workers": null,
     "tags": [
         "coronavirus"
     ],
@@ -34,11 +31,11 @@
     ],
     "latlngs": [
         [
-            40.6149354,
-            -74.18374209999999
+            49.0632423,
+            6.131329990388637
         ]
     ],
     "addresses": [
-        "Amazon JFK8, 546, Gulf Avenue, Bloomfield, Staten Island, Richmond County, New York, 10303, United States"
+        "Amazon, Augny, Metz, Moselle, Grand Est, France m\u00e9tropolitaine, 57685, France"
     ]
 }

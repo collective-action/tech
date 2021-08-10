@@ -1,42 +1,34 @@
 {
-    "id": 333,
-    "date": "2020/10/01",
+    "id": 337,
+    "date": "2020/09/28",
     "sources": [
-        "https://workdayminnesota.org/thursday-night-shakopee-amazon-workers-walked-out-in-protest-of-worker-firing/",
-        "https://twitter.com/athenaforall/status/1312080698140962818?s=20"
+        "https://discotech.tech/techtruths",
+        "https://twitter.com/discotechorg/status/1310613703126114304?s=19"
     ],
     "actions": [
-        "protest"
+        "resources"
     ],
     "struggles": [
-        "working conditions"
+        "ethics",
+        "discrimination"
     ],
     "employment_types": [
-        "blue collar workers",
+        "white collar workers",
         "inhouse workers"
     ],
-    "description": "35 Amazon workers in Shakopee, Minnesota walked off the job to protest the firing of Farhiyo Warsame. The company alleged that the employee violated \"time off task\" policies but workers claim that the employee was fired for raising concerns about covid-related safety.",
-    "online": null,
-    "locations": [
-        "shakopee-minnesota-usa"
-    ],
-    "companies": [
-        "amazon"
-    ],
-    "workers": 35,
+    "description": "A group of cross-company organizers in tech have started a repository called \"Tech Truths\" that highlights incidents of discrimination in tech, including \"discrimination by race, gender, sexual orientation, disability status, immigration status, and more\". To date (10/7/2020), 107 different stories of discrimination have been shared and published.",
+    "online": true,
+    "locations": null,
+    "companies": null,
+    "workers": 107,
     "tags": [
-        "coronavirus"
+        "antiracism",
+        "blm",
+        "industry_solidarity"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            44.78839255,
-            -93.44285005008032
-        ]
-    ],
-    "addresses": [
-        "Amazon Sortation Center MSP5, 5825, 11th Avenue East, Shakopee, Scott County, Minnesota, 55379, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

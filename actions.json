@@ -7903,6 +7903,50 @@
         ]
     },
     {
+        "id": 449,
+        "date": "2019/09/19",
+        "sources": [
+            "https://www.geekwire.com/2019/tech-company-chef-wont-renew-u-s-immigration-contracts-changing-course-amid-employee-activism/",
+            "https://seattleglobalist.com/2019/10/09/seattle-tech-firm-announces-end-of-ice-contracts/88379",
+            "https://github.com/sethvargo/chef-sugar"
+        ],
+        "actions": [
+            "protest"
+        ],
+        "struggles": [
+            "ethics"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "A former employee of Chef, a Seattle-based tech firm,\nprotested the company's involvement with ICE by deleting open source projects used by Chef customers. The CEO of Chef initially defended the decision to work with ICE but within a week, reversed course and canceled their contract following internal protests and advocacy by Chef employees.  ",
+        "online": true,
+        "locations": [
+            "seattle-washington-usa"
+        ],
+        "companies": [
+            "chef"
+        ],
+        "workers": 2,
+        "tags": [
+            "ice",
+            "immigration"
+        ],
+        "author": [
+            "william boag"
+        ],
+        "latlngs": [
+            [
+                47.6904007,
+                -122.357756
+            ]
+        ],
+        "addresses": [
+            "Chef King, 101, North 85th Street, Greenwood, Seattle, King County, Washington, 98103, United States"
+        ]
+    },
+    {
         "id": 185,
         "date": "2019/09/19",
         "sources": [
@@ -15739,6 +15783,51 @@
             "Amazon, Via Baldanzese, Settimello, Calenzano, Firenze, Toscana, 50019, Italia",
             "Amazon, Via Baldanzese, Settimello, Calenzano, Firenze, Toscana, 50019, Italia",
             "Amazon Logistics, Via Enrica Calabresi, Montacchiello, Pisa, Toscana, 56125, Italia"
+        ]
+    },
+    {
+        "id": 450,
+        "date": "2021/04/01",
+        "sources": [
+            "https://labornotes.org/2021/06/dispersed-undaunted-chicago-amazon-workers-help-win-megacycle-pay-nationwide",
+            "https://www.amazoniansunited.org/megacyclepetition",
+            "https://news.wttw.com/2021/04/01/amazon-employees-chicago-demand-accommodations-brutal-shift"
+        ],
+        "actions": [
+            "protest",
+            "open letter"
+        ],
+        "struggles": [
+            "pay and benefits",
+            "working conditions"
+        ],
+        "employment_types": [
+            "blue collar workers",
+            "inhouse workers"
+        ],
+        "description": "The Chicago chapter of Amazonians United, DCH1, created a petition demanding a $2 pay increase and full 20-minute breaks for workers on the company's megacycle shift, a new shift that runs from 1:20 am -11:50 am. In addition, the petition called for accommodations for workers who are unable to work the shift. In April DCH1 also organized a walkout in protest. On May 19th, Amazon warehouse workers across the country who work on the Megacycle shift began receiving a $1.50-$2.00 pay increase per hour for certain days of the week. ",
+        "online": null,
+        "locations": [
+            "chicago-illinois-usa"
+        ],
+        "companies": [
+            "amazon"
+        ],
+        "workers": null,
+        "tags": [
+            "coworker solidarity"
+        ],
+        "author": [
+            "hyatt d."
+        ],
+        "latlngs": [
+            [
+                41.84040105,
+                -87.68351928672685
+            ]
+        ],
+        "addresses": [
+            "Amazon Distribution, 2801, South Western Avenue, Lower West Side, Chicago, Cook County, Illinois, 60608, United States"
         ]
     },
     {

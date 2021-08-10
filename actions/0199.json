@@ -1,42 +1,40 @@
 {
-    "id": 186,
-    "date": "2019/09/23",
+    "id": 185,
+    "date": "2019/09/19",
     "sources": [
-        "https://www.vice.com/en_us/article/vb53wy/45-google-employees-explain-how-they-were-retaliated-against-for-reporting-abuse"
+        "https://www.jhunewsletter.com/article/2019/09/university-will-not-renew-its-contracts-with-ice?fbclid=iwar2qil9rnrrv2giufwqcqxv6qwsfl1r-_4uui76dh7jkljjmidg2ttcrk4s"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
-        "discrimination"
+        "ethics"
     ],
     "employment_types": [
-        "white collar workers"
+        "na"
     ],
-    "description": "Google employees created an internal document describing cases of discrimination and retaliation by the company. 45 cases were reported.",
-    "online": true,
+    "description": "Hopkins Coalition Against ICE (HCAI), a student organization, organized three protests over the course of the 2018-19 school year against contracts between Johns Hopkins University Center for Law Enforcement Medicine and ICE (U.S. Dept. of Immigrations Customs and Enforcement). In response, the Center announced that they would not be renewing their contract.",
+    "online": null,
     "locations": [
-        "usa",
-        "online"
+        "baltimore-maryland-usa"
     ],
-    "companies": [
-        "google"
-    ],
-    "workers": 45,
+    "companies": null,
+    "workers": null,
     "tags": [
-        "antiracism",
-        "sexism"
+        "students",
+        "immigration",
+        "ice"
     ],
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            33.977092,
-            -118.4092133
+            39.2908816,
+            -76.610759
         ]
     ],
     "addresses": [
-        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, California, 90094, United States"
+        "Baltimore, Maryland, United States"
     ]
 }

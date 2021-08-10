@@ -1,45 +1,42 @@
 {
-    "id": 187,
-    "date": "2019/09/25",
+    "id": 186,
+    "date": "2019/09/23",
     "sources": [
-        "http://www.browndailyherald.com/2019/09/26/students-protest-companies-tied-ice-career-fair/"
+        "https://www.vice.com/en_us/article/vb53wy/45-google-employees-explain-how-they-were-retaliated-against-for-reporting-abuse"
     ],
     "actions": [
-        "protest",
-        "open letter"
+        "protest"
     ],
     "struggles": [
-        "ethics"
+        "discrimination"
     ],
     "employment_types": [
-        "na"
+        "white collar workers"
     ],
-    "description": "Students at Brown demonstrated against four companies (Amazon, Microsoft, Palantir, and Ernst & Young) at an on-campus career fair. All four companies have done business with ICE. The students have also started an online petition to protest Brown's connections to these four companies. ",
-    "online": null,
+    "description": "Google employees created an internal document describing cases of discrimination and retaliation by the company. 45 cases were reported.",
+    "online": true,
     "locations": [
-        "providence-rhode island-usa"
+        "usa",
+        "online"
     ],
     "companies": [
-        "palantir",
-        "microsoft",
-        "amazon"
+        "google"
     ],
-    "workers": null,
+    "workers": 45,
     "tags": [
-        "students",
-        "immigration",
-        "ice"
+        "antiracism",
+        "sexism"
     ],
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            41.7558634,
-            -71.4564942
+            33.977092,
+            -118.4092133
         ]
     ],
     "addresses": [
-        "Amazon Locker, Sockanosset Cross Road, Sockanosset, Cranston, Providence County, Rhode Island, 02920, United States"
+        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, California, 90094, United States"
     ]
 }

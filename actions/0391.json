@@ -1,41 +1,39 @@
 {
-    "id": 429,
-    "date": "2021/04/07",
+    "id": 424,
+    "date": "2021/04/03",
     "sources": [
-        "https://chicago.suntimes.com/business/2021/4/7/22372242/amazon-online-retailer-working-conditions-protest-walkout-gage-park-facility",
-        "https://twitter.com/AUchicagoland/status/1379788679649058823?s=20"
+        "https://www.rfa.org/english/news/china/riders-03042021131132.html",
+        "https://chinadigitaltimes.net/2021/03/translation-detention-of-takeout-driver-advocate-highlights-digital-era-labor-abuses/"
     ],
     "actions": [
-        "strike",
-        "protest"
+        "protest",
+        "strike"
     ],
     "struggles": [
-        "pay and benefits"
+        "ethics",
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
-        "blue collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "Amazon workers in Gage Park, Chicago walked out during their shift and protested outside the facility. Workers demanded a $2 wage increase, scheduling accommodations, and better working conditions, including hiring more full-time workers.",
-    "online": null,
+    "description": "Food delivery drivers for the platform Ele.me are going on strike for better pay, working conditions, and to protest Xiong Yan's detainment. Xiong Yan is the head of an unofficial union for the platform who was detained in Beijing last month. Delivery workers who are on strike and part of the sabotage campaign are refusing to accept work or, in cases when they do, purposefully taking a long time to complete orders to trigger \"time outs\". ",
+    "online": true,
     "locations": [
-        "chicago-illinois-usa"
+        "shenzhen-china",
+        "beijing-china"
     ],
     "companies": [
-        "amazon"
+        "ele.me"
     ],
-    "workers": 40,
-    "tags": null,
+    "workers": 10000,
+    "tags": [
+        "coworker solidarity",
+        "delivery_workers"
+    ],
     "author": [
         "hyatt d."
     ],
-    "latlngs": [
-        [
-            41.84040105,
-            -87.68351928672685
-        ]
-    ],
-    "addresses": [
-        "Amazon Distribution, 2801, South Western Avenue, Lower West Side, Chicago, Cook County, Illinois, 60608, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

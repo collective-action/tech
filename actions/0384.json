@@ -1,44 +1,43 @@
 {
-    "id": 412,
-    "date": "2021/03/22",
+    "id": 410,
+    "date": "2021/03/15",
     "sources": [
-        "https://www.bloomberg.com/news/articles/2021-03-30/youtube-refuses-to-remove-anti-asian-song-drawing-staff-ire",
-        "https://www.nbcnews.com/news/asian-america/youtube-declines-ban-video-anti-asian-lyrics-staff-outcry-rcna562",
-        "https://www.indy100.com/news/youtube-yg-song-anti-asian-song-removal-b1826955"
+        "https://www.protocol.com/mobilize-app-code-cwa-union"
     ],
     "actions": [
-        "protest"
+        "union drive",
+        "union representation"
     ],
     "struggles": [
-        "ethics",
-        "discrimination"
+        "working conditions"
     ],
     "employment_types": [
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "Several of YouTube's employees raised concerns that a music video on the website, \"Meet the Flockers\" by YG, promotes racism towards Asian Americans. The video details a burglary and calls for targeting Chinese communities according to press reports. The employees requested that the company's Trust and Safety team pull the video from the site, which the company declined to do in a statement. Update: In early April, several newspapers reported that the video had been removed from the website. ",
+    "description": "Workers for Mobilize have formed a union that is part of the CODE-CWA movement. Mobilize is owned by political tech company EveryAction. One hundred percent of eligible Mobilize workers voted to join the union after it was voluntarily recognized by EveryAction management. The union was created as a result of the EveryAction acquisition. Employees were negotiating new contracts and wanted to negotiate certain clauses collectively.",
     "online": null,
     "locations": [
-        "san bruno-california-usa"
+        "usa"
     ],
     "companies": [
-        "youtube"
+        "mobilize"
     ],
     "workers": null,
     "tags": [
-        "antiracism"
+        "cwa",
+        "industry solidarity"
     ],
     "author": [
         "hyatt d."
     ],
     "latlngs": [
         [
-            37.6291599,
-            -122.42551778433794
+            47.6609882,
+            -122.2895547
         ]
     ],
     "addresses": [
-        "YouTube, 1000, Cherry Avenue, YouTube, San Bruno, San Mateo County, California, 94066, United States"
+        "Mobilize Physical Therapy, 3515, Northeast 45th Street, Seattle, King County, Washington, 98105, United States"
     ]
 }

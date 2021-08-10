@@ -1,40 +1,36 @@
 {
-    "id": 332,
-    "date": "2020/09/21",
+    "id": 329,
+    "date": "2020/09/16",
     "sources": [
-        "https://www.cnbc.com/2020/10/01/google-contractors-allege-ndas-violate-free-speech-laws.html",
-        "https://www.courts.ca.gov/opinions/documents/A157097.PDF"
+        "https://www.deccanchronicle.com/amp/nation/current-affairs/160920/swiggy-workers-go-on-strike-in-hyderabad-demand-revised-charges.html",
+        "https://www.newsclick.in/swiggy-employees-strike"
     ],
     "actions": [
-        "legal action"
+        "strike"
     ],
     "struggles": [
-        "unfair labor practices"
+        "pay and benefits"
     ],
     "employment_types": [
-        "contract workers"
+        "gig workers"
     ],
-    "description": "A number of contractors for Google (employed through staffing firm Adecco) have filed a lawsuit alleging that confidentiality agreements with the company deprive them of basic legal rights, such as free speech. Contractors are prevented from discussing wages or working conditions, which they claim prohibit them from \u201cdisclosing violations of state and federal law, either within Google to their managers or outside Google to private attorneys or government officials\u201d. The Sept. 21st filing with a California appeals court reverses a lower court decision, allowing the lawsuit to proceed. ",
+    "description": "Workers for delivery company Swiggy went on strike in a number of Indian cities including Hyderabad, Chennai, and Delhi to call for greater pay. They rallied outside of restaurants and prevented third-party companies from picking up orders.",
     "online": null,
     "locations": [
-        "san francisco-california-usa"
+        "hyderabad-india",
+        "chennai-india",
+        "delhi-india"
     ],
     "companies": [
-        "google",
-        "adecco"
+        "swiggy"
     ],
-    "workers": null,
-    "tags": null,
+    "workers": 3000,
+    "tags": [
+        "delivery_workers"
+    ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            37.7933154,
-            -122.3945205
-        ]
-    ],
-    "addresses": [
-        "Google One Market, 1, Market Street, Financial District, San Francisco, San Francisco City and County, San Francisco, California, 94111, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

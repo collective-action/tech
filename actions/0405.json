@@ -1,8 +1,8 @@
 {
-    "id": 440,
-    "date": "2021/05/20",
+    "id": 438,
+    "date": "2021/05/12",
     "sources": [
-        "https://campaigns.organizefor.org/petitions/black-women-did-the-work-then-they-were-denied-the-credit"
+        "https://www.imore.com/petition-circulating-among-apple-employees-regarding-companys-misogynistic-new-hire"
     ],
     "actions": [
         "open letter"
@@ -11,21 +11,19 @@
         "discrimination"
     ],
     "employment_types": [
-        "white collar workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "The Algorithmic Justice League started an online campaign protesting a recent episode of the CBS news program, \"60 Minutes\", which featured a segment about the racial bias in law enforcement facial recognition technology but failed to cite any Black female scientists in the field. The group is demanding that 60 Minutes and Anderson Cooper apologize and cite Black female scientists, specifically Deborah Raji, Timnit Gebru, Joy Buolamwini, for their contribution to AI facial recognition research in their segment.   ",
-    "online": true,
+    "description": "Workers at Apple have circulated a petition protesting the company's decision to hire Antonio Garcia Martinez. Employees expressed concerns about his views on women and people of color because of statements in his book, \"Chaos Monkeys\", which they find to be racist and sexist. UPDATE: As of May 12, 2021, Antonio Garcia Martinez is no longer working with Apple.",
+    "online": null,
     "locations": null,
     "companies": [
-        "viacomcbs"
+        "apple"
     ],
-    "workers": 5845,
+    "workers": null,
     "tags": [
-        "blm",
         "sexism",
-        "antiracism",
-        "law_enforcement",
-        "ai"
+        "antiracism"
     ],
     "author": [
         "hyatt d."

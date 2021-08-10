@@ -1,47 +1,65 @@
 {
-    "id": 208,
-    "date": "2019/11/13",
+    "id": 297,
+    "date": "2019/11/12",
     "sources": [
-        "https://www.vice.com/en_us/article/evjwwp/as-githubs-conference-begins-five-employees-resign-over-protest-ice-contract"
+        "https://www.vice.com/en_ca/article/d3aqkz/a-fired-kickstarter-organizer-is-trying-to-unionize-tech-workers-using-kickstarter",
+        "https://www.kickstarter.com/projects/clarissaredwine/solidarity-onboarding?ref=user_menu"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
-        "ethics"
+        "unfair labor practices"
     ],
     "employment_types": [
         "white collar workers"
     ],
-    "description": "Before Github\u2019s CEO Nat Friedman delivered his keynote address at Github Universe, an annual Github-hosted conference, dozens of tech workers and immigrant rights activists protested outside with a replica of the cages ICE uses to detain migrant families and children. \u201cThe demonstration [is in response to] GitHub's contract with ICE and is intended to show support for the GitHub workers who are organizing internally to get the contract cancelled,\u201d said a representative of Tech Workers Coalition, the group organizing the protest. Just before the annual conference, 5 Githubbers left the company, citing Github's involvement with ICE. ",
-    "online": null,
+    "description": "Tech activists, artists, and creators who helped organize Google, Facebook, WeWork, Kickstarter, and more annotated an assemblage of common anti-union statements.  The zine's organizer-driven content is an inoculation tool for tech workers that exposes them to union busting rhetoric and arms them with pro union rebuttals. ",
+    "online": true,
     "locations": [
-        "san francisco-california-usa"
+        "san francisco-california-usa",
+        "brooklyn-new york city-new york-usa"
     ],
     "companies": [
-        "github",
-        "microsoft"
+        "kickstarter",
+        "google",
+        "wework",
+        "facebook"
     ],
-    "workers": 24,
+    "workers": 10,
     "tags": [
-        "immigration",
-        "ice"
+        "industry_solidarity"
     ],
     "author": [
-        "organizejs"
+        "clarissa"
     ],
     "latlngs": [
         [
-            37.7821769,
-            -122.3912458
+            37.7933154,
+            -122.3945205
         ],
         [
-            37.41096725,
-            -122.07138737347663
+            37.778011,
+            -122.4121644
+        ],
+        [
+            37.4815072,
+            -122.1572098
+        ],
+        [
+            40.7321996,
+            -73.9598257
+        ],
+        [
+            40.7007485,
+            -73.9725542
         ]
     ],
     "addresses": [
-        "GitHub, 88, Colin P. Kelly Junior Street, South Beach, San Francisco, San Francisco City and County, San Francisco, California, 94107, United States",
-        "Microsoft Silicon Valley, Mountain View, Santa Clara County, California, United States"
+        "Google One Market, 1, Market Street, Financial District, San Francisco, San Francisco City and County, San Francisco, California, 94111, United States",
+        "WeWork, Mission Street, West SoMa, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States",
+        "Facebook Way, Belle Haven, Menlo Park, San Mateo County, California, 94025-1246, United States",
+        "Kickstarter HQ, West Street, Brooklyn, Kings County, New York, 11222, United States",
+        "WeWork, Market Street, Brooklyn Navy Yard, Brooklyn, Kings County, New York, 11251, United States"
     ]
 }

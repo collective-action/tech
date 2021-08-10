@@ -1,33 +1,31 @@
 {
-    "id": 442,
-    "date": "2021/05/25",
+    "id": 440,
+    "date": "2021/05/20",
     "sources": [
-        "https://www.theverge.com/2021/5/25/22453516/amazon-workers-pollution-petition-letter-demand",
-        "https://secure.everyaction.com/Xsul4-F6BUuVi_MofTP5YA2"
+        "https://campaigns.organizefor.org/petitions/black-women-did-the-work-then-they-were-denied-the-credit"
     ],
     "actions": [
         "open letter"
     ],
     "struggles": [
-        "ethics"
+        "discrimination"
     ],
     "employment_types": [
-        "white collar workers",
-        "blue collar workers",
-        "contract workers",
-        "inhouse workers"
+        "white collar workers"
     ],
-    "description": "640 Amazon workers have signed a petition asking the company to commit to zero emissions by 2030 and to prioritize zero emission technology in communities of color hit hardest by the effects of their pollution. The petition began after Amazon rejected a shareholder resolution asking the company to report their emissions in communities of color. ",
+    "description": "The Algorithmic Justice League started an online campaign protesting a recent episode of the CBS news program, \"60 Minutes\", which featured a segment about the racial bias in law enforcement facial recognition technology but failed to cite any Black female scientists in the field. The group is demanding that 60 Minutes and Anderson Cooper apologize and cite Black female scientists, specifically Deborah Raji, Timnit Gebru, Joy Buolamwini, for their contribution to AI facial recognition research in their segment.   ",
     "online": true,
     "locations": null,
     "companies": [
-        "amazon"
+        "viacomcbs"
     ],
-    "workers": 640,
+    "workers": 5845,
     "tags": [
-        "climate_change",
+        "blm",
+        "sexism",
         "antiracism",
-        "blm"
+        "law_enforcement",
+        "ai"
     ],
     "author": [
         "hyatt d."

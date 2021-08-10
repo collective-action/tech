@@ -1,27 +1,29 @@
 {
-    "id": 441,
-    "date": "2021/05/20",
+    "id": 439,
+    "date": "2021/05/18",
     "sources": [
-        "https://www.theverge.com/platform/amp/2021/5/20/22446059/apple-employees-palestinians-support-internal-letter-tim-cook?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter&__twitter_impression=true"
+        "https://www.theverge.com/2021/5/18/22441236/jewish-google-employees-support-palestine-letter-anti-zionism-israel"
     ],
     "actions": [
         "open letter"
     ],
     "struggles": [
+        "discrimination",
         "ethics"
     ],
     "employment_types": [
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "Nearly a thousand Apple employees have signed an internal letter addressed to Tim Cook asking him to support the Palestinian community and people in light of Israel's bombing of Gaza which has led to the loss of 227 lives, including 63 children. The letter, written by the Apple Muslim Association, asks that Apple make it clear that Palestinian lives matter and that Palestinian people are under an illegal occupation. Moreover, the letter asks Apple to commit to understanding, engaging with, and learning about the Palestinian community and other diverse communities which make up the company. ",
+    "description": "At Google, a group of Jewish employees (Jewish Diaspora in Tech) is asking the company to support Palestinians during the Israeli bombing campaign in Gaza. An internal letter was circulated among employees asking Sundar Pichai to make a statement condemning recent Israeli attacks on Gaza. The letter mentions accepting the requests of Palestinian Googlers and funding relief for Palestinians affected by the violence, as well as protecting freedom of speech within the company. This new group was formed because some Jewish employees felt that the official Jewish ERG didn't allow a safe place to express anti-Zionist beliefs. ",
     "online": true,
     "locations": null,
     "companies": [
-        "apple"
+        "google"
     ],
-    "workers": 1000,
+    "workers": 250,
     "tags": [
+        "international solidarity",
         "politics"
     ],
     "author": [

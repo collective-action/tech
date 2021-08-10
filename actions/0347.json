@@ -1,38 +1,43 @@
 {
-    "id": 351,
+    "id": 352,
     "date": "2020/10/22",
     "sources": [
-        "https://www.washingtonpost.com/technology/2020/10/22/uber-prop22-suit/"
+        "https://www.nytimes.com/2020/10/22/business/amazon-shutdown-threat-election-day.html"
     ],
     "actions": [
-        "legal action"
+        "strike"
     ],
     "struggles": [
+        "working conditions",
         "ethics"
     ],
     "employment_types": [
-        "gig workers"
+        "blue collar workers",
+        "inhouse workers"
     ],
-    "description": "A group of California Uber drivers sued the company for asking drivers to support Prop. 22 (a state proposition that would overrule attempts to classify gig workers as employees) through in-app messaging. The suit seeks an injunction that would stop the messages. The plaintiffs were active in the movement against Prop. 22. They claimed that the company's message that 72% of its drivers support Prop. 22 was false because that percentage was the result of company pressures (including workers' concerns that the company was surveilling their survey answers on the app). ",
-    "online": null,
+    "description": "Amazon workers, organized by Amazon Employees for Climate Justice, are calling for a 15-minute work stoppage at warehouses across the country on Halloween in a push for paid time-off for voting on Election Day. ",
+    "online": true,
     "locations": [
-        "san francisco-california-usa"
+        "usa"
     ],
     "companies": [
-        "uber"
+        "amazon"
     ],
     "workers": null,
-    "tags": null,
+    "tags": [
+        "politics",
+        "coworker_solidarity"
+    ],
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            37.7756962,
-            -122.4180838
+            46.320207,
+            -112.1072224
         ]
     ],
     "addresses": [
-        "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States"
+        "Amazon, Jefferson County, Montana, United States"
     ]
 }

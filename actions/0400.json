@@ -1,49 +1,54 @@
 {
-    "id": 422,
-    "date": "2021/04/26",
+    "id": 436,
+    "date": "2021/04/21",
     "sources": [
-        "https://timesofindia.indiatimes.com/city/hyderabad/495-cab-drivers-delivery-execs-have-tested-positive-for-covid-19-report/articleshow/82248108.cms"
+        "https://www.vice.com/en/article/epn437/nyc-gig-workers-are-organizing-against-rampant-e-bike-theft-and-assault"
     ],
     "actions": [
-        "resources"
+        "protest"
     ],
     "struggles": [
+        "working conditions",
+        "unfair labor practices",
         "pay and benefits",
-        "working conditions"
+        "job security"
     ],
     "employment_types": [
         "gig workers"
     ],
-    "description": "Telangana Gig and Platform Workers Union ran a survey of its members, who are rideshare drivers and delivery workers in the state of Telangana in India. 495 drivers and delivery workers tested positive for COVID-19 and 4 have died, according to the survey. The Union is calling on the government to tell app-based companies to provide health insurance as well as prioritize covid vaccinations for workers and their families. The app-based companies, which include prominent names such as Uber and Ola, do not currently provide any health insurance for the drivers. India reported more than 350,000 cases in a single day on the same day. ",
-    "online": true,
+    "description": "New York City delivery workers who ride e-bikes for food delivery apps protested against wage theft, lack of protections, and poor working conditions, including rampant theft of their e-bikes and violent assault while on the job. The protest was organized by Los Deliveristas Unidos, a grassroots campaign formed by immigrant Latinx delivery workers in New York City in 2020 during the pandemic.",
+    "online": null,
     "locations": [
-        "telangana-india"
+        "new york city-new york-usa"
     ],
     "companies": [
         "uber",
-        "ola"
+        "doordash",
+        "grubhub",
+        "postmates",
+        "chowbus",
+        "relay"
     ],
-    "workers": null,
+    "workers": 1000,
     "tags": [
-        "coronavirus",
-        "drivers",
-        "delivery_workers"
+        "delivery_workers",
+        "industry solidarity"
     ],
     "author": [
-        "hyatt d."
+        "CM"
     ],
     "latlngs": [
         [
-            28.564093,
-            77.1217351
+            40.65532605,
+            -73.79478942223645
         ],
         [
-            19.1815187,
-            78.0699956
+            42.3261966,
+            -74.62099388712133
         ]
     ],
     "addresses": [
-        "Uber Ola pickup road, Delhi Cantonment, New Delhi, Delhi, 110010, India",
-        "Sub Centre, Ola, Oala, Adilabad, Nirmal, Telangana, 504109, India"
+        "Uber Limo Livery Hold Lot, Cargo Plaza Road, Queens, Queens County, New York, 11430, United States",
+        "Relay State Forest, Town of Stamford, Delaware County, New York, United States"
     ]
 }

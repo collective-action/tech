@@ -1,15 +1,14 @@
 {
-    "id": 446,
-    "date": "2021/06/01",
+    "id": 442,
+    "date": "2021/05/25",
     "sources": [
-        "https://www.theverge.com/2021/6/1/22463952/facebook-employees-petition-palestine-content-moderation-policy"
+        "https://www.theverge.com/2021/5/25/22453516/amazon-workers-pollution-petition-letter-demand",
+        "https://secure.everyaction.com/Xsul4-F6BUuVi_MofTP5YA2"
     ],
     "actions": [
-        "protest",
         "open letter"
     ],
     "struggles": [
-        "discrimination",
         "ethics"
     ],
     "employment_types": [
@@ -18,16 +17,17 @@
         "contract workers",
         "inhouse workers"
     ],
-    "description": "Facebook employees are circulating a petition for the company to conduct an investigation for censoring Palestinian content on their website. At Facebook, content moderation is executed by third party contractors and algorithms. Facebook employees have taken notice and are asking the company as a whole to do a third party audit of any Muslim or Arab content decisions made by moderators.  ",
+    "description": "640 Amazon workers have signed a petition asking the company to commit to zero emissions by 2030 and to prioritize zero emission technology in communities of color hit hardest by the effects of their pollution. The petition began after Amazon rejected a shareholder resolution asking the company to report their emissions in communities of color. ",
     "online": true,
     "locations": null,
     "companies": [
-        "facebook"
+        "amazon"
     ],
-    "workers": 174,
+    "workers": 640,
     "tags": [
-        "international solidarity",
-        "moderators"
+        "climate_change",
+        "antiracism",
+        "blm"
     ],
     "author": [
         "hyatt d."

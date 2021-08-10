@@ -1,41 +1,56 @@
 {
-    "id": 377,
-    "date": "2020/03/10",
+    "id": 235,
+    "date": "2020/03/06",
     "sources": [
-        "https://www.igmetall-berlin.de/betriebsraete-vertrauensleute/meldung/beyond-quitting-employees-at-babbel-elect-a-works-council/"
+        "https://fortune.com/2020/03/10/gig-workers-petition-for-sick-leave-coronavirus/",
+        "https://www.coworker.org/petitions/demand-gig-economy-companies-give-paid-sick-time-off-during-coronavirus",
+        "https://www.fastcompany.com/90472535/coronavirus-paid-sick-leave"
     ],
     "actions": [
-        "union drive"
+        "open letter"
     ],
     "struggles": [
         "working conditions",
-        "unfair labor practices",
-        "job security"
+        "unfair labor practices"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "The Berlin office of Babbel, the language learning platform elected a Works Council with consultation and guidance of IG Metall. ",
-    "online": null,
+    "description": "Gig Workers Rising launched a petition calling on the heads of the biggest gig economy platforms to give workers paid sick leave amid the coronavirus outbreak. That petition garnered more than 900 signatures. In the petition, the workers say they are often on the \u201cfront lines of exposure,\u201d given that every day they come in contact with various people, including those arriving at airports or heading to the hospital. Without paid sick leave, the gig workers say they are often forced to choose between making ends meet and taking care of their health, and therefore the health of the company's customers. ",
+    "online": true,
     "locations": [
-        "berlin-germany"
+        "california-usa"
     ],
     "companies": [
-        "babbel"
+        "uber",
+        "lyft",
+        "instacart",
+        "doordash"
     ],
-    "workers": 20,
-    "tags": null,
+    "workers": 900,
+    "tags": [
+        "coronavirus"
+    ],
     "author": [
-        "@shushugah"
+        "organizejs"
     ],
     "latlngs": [
         [
-            52.5248559,
-            13.4082467
+            37.7756962,
+            -122.4180838
+        ],
+        [
+            37.750721999999996,
+            -122.40243254779433
+        ],
+        [
+            37.7834546,
+            -122.4080358
         ]
     ],
     "addresses": [
-        "Babbel, 2, Max-Beer-Stra\u00dfe, Scheunenviertel, Mitte, Berlin, 10119, Deutschland"
+        "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States",
+        "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, San Francisco, California, 94124, United States",
+        "Doordash HQ, Market Street, Union Square, San Francisco, San Francisco City and County, San Francisco, California, 94103-3124, United States"
     ]
 }

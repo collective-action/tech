@@ -1,35 +1,42 @@
 {
-    "id": 320,
+    "id": 321,
     "date": "2020/08/19",
     "sources": [
-        "https://leftfootforward.org/2020/08/give-us-better-pay-and-conditions-say-sheffield-deliveroo-drivers/"
+        "https://www.law360.com/articles/1302356/ex-google-workers-want-sexist-emails-memes-turned-over",
+        "https://www.lieffcabraser.com/2020/08/ex-google-workers-want-sexist-emails-meme-messages-turned-over-in-google-gender-discrimination-suit/"
     ],
     "actions": [
-        "protest",
-        "strike"
+        "legal action"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "discrimination"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Deliveroo workers in Sheffield, England kicked off two weeks of strike actions to demand higher pay and better working conditions, including the right to appeal terminations. The actions are designed to target companies, e.g. certain restaurants, that workers believe to be part of the exploitation. An outright strike was deemed too expensive by the workers, many of whom report working 60-70 hours a week to make ends meet. Actions will also include flyering and a demonstration.",
+    "description": "Four former Google software engineers have filed a lawsuit in California claiming gender discrimination at the company and demanding that the company turn over sexist emails and memes created by two male company employees. The plaintiffs hope to mount a class action lawsuit against the company.",
     "online": null,
     "locations": [
-        "sheffield-uk"
+        "san francisco-california-usa"
     ],
     "companies": [
-        "deliveroo"
+        "google"
     ],
-    "workers": null,
+    "workers": 4,
     "tags": [
-        "delivery_workers"
+        "sexism"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.7933154,
+            -122.3945205
+        ]
+    ],
+    "addresses": [
+        "Google One Market, 1, Market Street, Financial District, San Francisco, San Francisco City and County, San Francisco, California, 94111, United States"
+    ]
 }

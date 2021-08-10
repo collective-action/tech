@@ -1,16 +1,13 @@
 {
-    "id": 445,
-    "date": "2021/06/01",
+    "id": 443,
+    "date": "2021/05/25",
     "sources": [
-        "https://www.theverge.com/2021/6/1/22463267/google-union-g4s-subcontractor-deadname-id-badge",
-        "https://dropthedeadnames.org/#petition"
+        "https://www.middleeasteye.net/news/israel-palestine-amazon-employees-urge-jeff-bezos-cut-ties-israeli-military"
     ],
     "actions": [
-        "protest",
         "open letter"
     ],
     "struggles": [
-        "discrimination",
         "ethics"
     ],
     "employment_types": [
@@ -19,17 +16,16 @@
         "inhouse workers",
         "contract workers"
     ],
-    "description": "The Alphabet Workers Union circulated a petition asking the company and its contractors to allow employees to choose which name appears on their ID badges. These actions were taken because a transgender man, Phares Lee, requested to have his deadname replaced by his preferred name. His request was denied and he was forced to put his legal name. Lee works for G4S, a Google contractor, and was also banned from participating in employee resource groups (ERGs) as a result of his contractor status. The petition also called on the company to open ERGs to contractors. Update (6/14): G4S and Google allowed Phares to use his preferred name and join Google ERGs. The companies have not communicated larger changes in policy. ",
+    "description": "Approximately 600 Amazon employees have signed an open letter asking Jeff Bezos to break off all ties to the Israeli military. The letter points out that Amazon employs Palestinians around the world, including in Tel Aviv and Haifa and that \"ignoring the suffering faced by Palestinians and their families at home erases our Palestinian coworkers.\"",
     "online": true,
     "locations": null,
     "companies": [
-        "google",
-        "g4s"
+        "amazon"
     ],
-    "workers": 1044,
+    "workers": 600,
     "tags": [
-        "lgbtq",
-        "coworker solidarity"
+        "military_contracts",
+        "politics"
     ],
     "author": [
         "hyatt d."

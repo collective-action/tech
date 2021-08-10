@@ -1,34 +1,49 @@
 {
-    "id": 437,
-    "date": "2021/05/10",
+    "id": 422,
+    "date": "2021/04/26",
     "sources": [
-        "http://www.winlp.org/an-open-letter-to-google/"
+        "https://timesofindia.indiatimes.com/city/hyderabad/495-cab-drivers-delivery-execs-have-tested-positive-for-covid-19-report/articleshow/82248108.cms"
     ],
     "actions": [
-        "open letter"
+        "resources"
     ],
     "struggles": [
-        "ethics"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "Black in AI, Queer in AI, and WiNLP have written an open letter condemning Google's actions for dismissing Dr. Timnit Gebru, Dr. Margaret Mitchell, and April Christina Curley. Black in AI, Queer in AI, and WiNLP have ended their sponsorship with Google and expressed concern that the company's actions have set a dangerous precedent for what is acceptable in the AI community.",
-    "online": null,
-    "locations": null,
+    "description": "Telangana Gig and Platform Workers Union ran a survey of its members, who are rideshare drivers and delivery workers in the state of Telangana in India. 495 drivers and delivery workers tested positive for COVID-19 and 4 have died, according to the survey. The Union is calling on the government to tell app-based companies to provide health insurance as well as prioritize covid vaccinations for workers and their families. The app-based companies, which include prominent names such as Uber and Ola, do not currently provide any health insurance for the drivers. India reported more than 350,000 cases in a single day on the same day. ",
+    "online": true,
+    "locations": [
+        "telangana-india"
+    ],
     "companies": [
-        "google"
+        "uber",
+        "ola"
     ],
     "workers": null,
     "tags": [
-        "industry solidarity",
-        "lgbtq",
-        "antiracism"
+        "coronavirus",
+        "drivers",
+        "delivery_workers"
     ],
     "author": [
         "hyatt d."
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            28.564093,
+            77.1217351
+        ],
+        [
+            19.1815187,
+            78.0699956
+        ]
+    ],
+    "addresses": [
+        "Uber Ola pickup road, Delhi Cantonment, New Delhi, Delhi, 110010, India",
+        "Sub Centre, Ola, Oala, Adilabad, Nirmal, Telangana, 504109, India"
+    ]
 }

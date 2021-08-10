@@ -1,42 +1,39 @@
 {
-    "id": 399,
+    "id": 304,
     "date": "2020/07/20",
     "sources": [
-        "https://www.vice.com/en/article/v7gyp4/uber-drivers-sue-to-gain-access-to-its-secret-algorithms",
-        "https://declinenow.org/open-letter-to-doordash/?v=47e5dceea252"
+        "https://syndicom.ch/aktuell/artikel/bei-google-zuerich-bestimmen-die-zooglers-nun-mit/"
     ],
     "actions": [
-        "legal action"
+        "union representation"
     ],
     "struggles": [
-        "unfair labor practices",
-        "pay and benefits"
+        "working conditions"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "In the United Kingdom, four Uber drivers have filed a lawsuit to gain access to Uber's algorithms. The drivers along with The UK App Drivers and Couriers Union argue that under Europe's General Data Protection Regulation they should have access to the data that Uber collects on their drivers. If given access to this data, drivers on the platform will be able to calculate an hourly wage as well as understand why they have been deactivated using trip ratings. ",
+    "description": "Employees at Google's Zurich office voted to recognize the Syndicom union as their employee representative. Employees first reached out to Syndicom after management failed to address their concerns over \"Project Dragonfly\", a search engine that would enable the Chinese government to censor certain results. Employee representatives function as consultants and do not engage in collective bargaining. ",
     "online": null,
     "locations": [
-        "uk"
+        "zurich-switzerland"
     ],
     "companies": [
-        "uber"
+        "google"
     ],
-    "workers": 4,
-    "tags": [
-        "drivers"
-    ],
+    "workers": null,
+    "tags": null,
     "author": [
-        "hyatt d."
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            52.4746766,
-            -1.91586332385543
+            47.3793085,
+            8.5307904
         ]
     ],
     "addresses": [
-        "UBER, 100, Broad Street, Ladywood, Park Central, Birmingham, West Midlands Combined Authority, West Midlands, England, B15 1AE, United Kingdom"
+        "Google, 1, Gustav-Gull-Platz, Langstrasse, Aussersihl, Z\u00fcrich, Bezirk Z\u00fcrich, Z\u00fcrich, 8004, Schweiz/Suisse/Svizzera/Svizra"
     ]
 }

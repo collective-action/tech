@@ -1,43 +1,39 @@
 {
-    "id": 410,
-    "date": "2021/03/15",
+    "id": 404,
+    "date": "2021/03/10",
     "sources": [
-        "https://www.protocol.com/mobilize-app-code-cwa-union"
+        "https://notechfortyrants.org/2021/03/02/no-tech-for-tyrants-launches-recruitmenot-campaign-highlighting-racism-and-censorship-at-google/"
     ],
     "actions": [
-        "union drive",
-        "union representation"
+        "protest"
     ],
     "struggles": [
-        "working conditions"
+        "discrimination",
+        "ethics"
     ],
     "employment_types": [
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "Workers for Mobilize have formed a union that is part of the CODE-CWA movement. Mobilize is owned by political tech company EveryAction. One hundred percent of eligible Mobilize workers voted to join the union after it was voluntarily recognized by EveryAction management. The union was created as a result of the EveryAction acquisition. Employees were negotiating new contracts and wanted to negotiate certain clauses collectively.",
-    "online": null,
+    "description": "No Tech for Tyrants (NT4T) launched a campaign called #RecruitMeNot in response to Dr. Timnit Gebru being censored and fired at Google for refusing to do unethical practices. Dr. Gebru was Google's Lead AI ethics researcher. The #RecruitMeNot campaign asks students and researchers to refuse recruitment and job offers from Google until they meet the basic demands outlined by its employees. ",
+    "online": true,
     "locations": [
-        "usa"
+        "worldwide"
     ],
     "companies": [
-        "mobilize"
+        "google"
     ],
     "workers": null,
     "tags": [
-        "cwa",
-        "industry solidarity"
+        "students",
+        "industry solidarity",
+        "academics",
+        "antiracism",
+        "ai"
     ],
     "author": [
         "hyatt d."
     ],
-    "latlngs": [
-        [
-            47.6609882,
-            -122.2895547
-        ]
-    ],
-    "addresses": [
-        "Mobilize Physical Therapy, 3515, Northeast 45th Street, Seattle, King County, Washington, 98105, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

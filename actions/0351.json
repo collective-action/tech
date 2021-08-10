@@ -1,43 +1,40 @@
 {
-    "id": 359,
-    "date": "2020/11/17",
+    "id": 402,
+    "date": "2020/11/07",
     "sources": [
-        "https://www.vice.com/en/article/n7vn9w/blue-collar-unions-fear-widespread-layoffs-in-silicon-valley"
+        "https://clb.org.hk/content/all-india-gig-workers-union-case-study"
     ],
     "actions": [
-        "protest"
+        "union drive"
     ],
     "struggles": [
-        "job security",
         "pay and benefits"
     ],
     "employment_types": [
-        "blue collar workers"
+        "gig workers"
     ],
-    "description": "On Tuesday, dozens of those workers will protest outside the San Francisco home of the Verizon Media CEO Guru Gowrappan, and drop off letters demanding an extension of their healthcare coverage and pay (Verizon Media owns Yahoo). Though these workers are technically not employed by  Verizon Media, the decision to lay off the cafeteria workers was ultimately made by the company, which like most Silicon Valley tech companies contracts out its blue-collar labor. ",
+    "description": "The All India Gig Workers Union (AIGWU) which, was initiated by the Center of India Trade Union (CITU) is attempting to become a registered as an All-India Union. Their main focus of their goal is to help delivery drivers through organization and so that they can initiate platform and political change for better wages and working conditions. ",
     "online": null,
     "locations": [
-        "san francisco-california-usa"
+        "india"
     ],
-    "companies": [
-        "verizon",
-        "yahoo"
-    ],
+    "companies": null,
     "workers": null,
-    "tags": null,
-    "author": null,
+    "tags": [
+        "drivers",
+        "industry solidarity",
+        "politics"
+    ],
+    "author": [
+        "hyatt d."
+    ],
     "latlngs": [
         [
-            37.7334587,
-            -122.4896943
-        ],
-        [
-            37.4181243,
-            -122.02538023988251
+            22.3511148,
+            78.6677428
         ]
     ],
     "addresses": [
-        "Verizon Wireless, 1513, Sloat Boulevard, San Francisco, San Francisco City and County, San Francisco, California, 94132, United States",
-        "Yahoo, Sunnyvale, Santa Clara County, California, United States"
+        "India"
     ]
 }

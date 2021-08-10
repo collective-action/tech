@@ -1,41 +1,46 @@
 {
-    "id": 211,
-    "date": "2019/11/22",
+    "id": 420,
+    "date": "2019/11/20",
     "sources": [
-        "https://techcrunch.com/2019/11/21/google-employees-will-rally-in-protest-of-alleged-worker-retaliation/",
-        "https://www.vox.com/recode/2019/11/22/20978537/google-workers-suspension-employee-activists-protest"
+        "https://www.vox.com/recode/2019/12/31/21043467/google-union-cafeteria-workers-unionized-alphabet-silicon-valley-mountainview"
     ],
     "actions": [
-        "protest"
+        "union representation"
     ],
     "struggles": [
-        "unfair labor practices"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
-        "white collar workers"
+        "blue collar workers",
+        "contract workers"
     ],
-    "description": "A group of roughly 200 Googler and other protesters rallied outside of the search giant\u2019s offices in San Francisco on Friday, demanding the company reinstate two colleagues who they say were unjustly punished for workplace organizing at the company \u2014 calling it an attack on accountability and transparency in tech. Google has said the employees were placed on administrative leave for violating company policies about accessing sensitive internal documents and monitoring employees\u2019 calendar events. They accuse management of targeting Rebecca Rivers and Laurence Berland, because of their involvement in worker activism at the company. Rivers helped put together a petition against Google\u2019s work for US immigration enforcement agency Customs and Border Patrol (CBP), and Berland was involved with employee protests about hate speech policies on YouTube. Protesters are demanding that Rivers and Berland be reinstated at work immediately. Organizers called their suspension an \u201cattempt to silence workers,\u201d in an email about the rally.",
+    "description": "About 2,300 Google cafeteria workers (contracted through Compass) voted to unionize to call for better pay and benefits. These workers include dishwashers and food preparers who serve breakfast, lunch, and dinner to Google employees. The service workers are considered contract workers and don't receive the same benefits such as retirement plans which are standard for direct Google employees. The cafeteria workers voted to unionize with a local chapter of Unite Here, which represents 300,000 workers in food, casino, laundry, hotel, and warehouse industries. ",
     "online": null,
     "locations": [
-        "san francisco-california-usa"
+        "usa"
     ],
     "companies": [
-        "google"
+        "google",
+        "compass"
     ],
-    "workers": 200,
-    "tags": [
-        "coworker_solidarity"
-    ],
+    "workers": 2300,
+    "tags": null,
     "author": [
-        "organizejs"
+        "hyatt d."
     ],
     "latlngs": [
         [
-            37.7933154,
-            -122.3945205
+            33.977092,
+            -118.4092133
+        ],
+        [
+            43.0520142,
+            -87.8903172
         ]
     ],
     "addresses": [
-        "Google One Market, 1, Market Street, Financial District, San Francisco, San Francisco City and County, San Francisco, California, 94111, United States"
+        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, California, 90094, United States",
+        "Compass, Oak Leaf Trail, The East Side, Milwaukee, Milwaukee County, Wisconsin, 53202-2330, United States"
     ]
 }

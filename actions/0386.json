@@ -1,67 +1,37 @@
 {
-    "id": 432,
-    "date": "2021/03/29",
+    "id": 426,
+    "date": "2021/03/23",
     "sources": [
-        "https://www.politico.eu/article/german-union-leads-four-day-amazon-strike/"
+        "https://rms-open-letter.github.io/",
+        "https://rms-open-letter.github.io/appendix",
+        "https://rms-open-letter.github.io/statements",
+        "https://itwire.com/open-source/pro-stallman-group-issues-open-letter",
+        "-wants-him-to-stay-on-fsf-board.html"
     ],
     "actions": [
-        "protest",
-        "strike"
+        "open letter"
     ],
     "struggles": [
-        "working conditions",
-        "job security"
+        "ethics",
+        "discrimination"
     ],
     "employment_types": [
-        "blue collar workers",
-        "inhouse workers"
+        "open source community"
     ],
-    "description": "German Amazon workers went on strike in six centers across the country to put pressure on the company to sign a collective agreement with the union in Germany. Ver.di, the union, has also criticized the company for unsafe working conditions under covid. ",
-    "online": null,
-    "locations": [
-        "rheinberg-germany",
-        "werne-germany",
-        "koblenz-germany",
-        "leipzig-germany",
-        "bad hersfeld-germany"
-    ],
+    "description": "Members of the open source community have written an open letter calling on the entire Board of the Free Software Foundation to be removed for supporting Richard M. Stallman over his many years involved with that organization. They are also demanding that Stallman be removed from all leadership positions including the GNU Project. The letter says that Stallman is misogynist, ableist, and transphobic and cites incidents thereof. It calls on members of the open source community to stop contributing and associating with the organization and their projects.",
+    "online": true,
+    "locations": null,
     "companies": [
-        "amazon"
+        "free_software_foundation"
     ],
-    "workers": 2000,
+    "workers": 3007,
     "tags": [
-        "coronavirus"
+        "sexism",
+        "sexual_harassment"
     ],
     "author": [
-        "nataliyaned"
+        "hyatt d."
     ],
-    "latlngs": [
-        [
-            51.5369716,
-            6.5877929
-        ],
-        [
-            51.653494949999995,
-            7.59464606445661
-        ],
-        [
-            50.3495332,
-            7.4901388
-        ],
-        [
-            51.3622584,
-            12.452329749225527
-        ],
-        [
-            50.845334,
-            9.677958815746917
-        ]
-    ],
-    "addresses": [
-        "Amazon, Amazonstra\u00dfe, Winterswick, Rheinberg, Kreis Wesel, Nordrhein-Westfalen, 47495, Deutschland",
-        "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
-        "Amazon, Am Autobahnkreuz, Industriepark A61/GVZ Koblenz, R\u00fcbenach, Koblenz, Rheinland-Pfalz, 56072, Deutschland",
-        "Amazon, 1, Amazonstra\u00dfe, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland",
-        "Amazon FRA1, Eichhof, Asbach, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

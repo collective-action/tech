@@ -1,34 +1,41 @@
 {
-    "id": 265,
-    "date": "2020/06/01",
+    "id": 264,
+    "date": "2020/05/28",
     "sources": [
-        "https://www.nytimes.com/2020/06/01/technology/facebook-employee-protest-trump.html",
-        "https://www.washingtonpost.com/business/2020/06/01/facebook-zuckerberg-donation-trump/"
+        "https://www.latimes.com/business/technology/story/2020-05-28/amazon-whole-foods-workers-track-coronavirus-cases",
+        "https://www.theguardian.com/world/2020/may/06/tracking-tool-allows-amazon-workers-to-report-covid-19-cases"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
-        "ethics"
+        "working conditions"
     ],
     "employment_types": [
-        "na"
+        "white collar workers"
     ],
-    "description": "Facebook employees hosted a virtual walkout, refusing to work for the time of the event, in protest of the company's failure to take a tougher stance on Trump's posts in reaction to the George Floyd protests. Many employees also expressed solidarity with the Black Lives Matter movement. The New York Times reports that employees have also circulated petitions internally and threatened to resign in response to the event. The previous week Twitter added fact-check and warning labels to two tweets from the president that broke Twitter\u2019s rules around voter suppression and glorification of violence.",
-    "online": true,
-    "locations": null,
+    "description": "Jana Jumpp, an Amazon employee in Indiana, has been tracking cases and logged at least 500 cases in 125 Amazon facilities as of late April. Jumpp has a counterpart at Amazon-owned Whole Foods, Katie Doan, who has been collecting cases since April 2. The two women have never spoken, but they describe nearly identical work fielding a torrent of private messages, searching Facebook groups, Reddit, Twitter and news outlets for reports of infections, and meticulously updating Google documents with the numbers.",
+    "online": null,
+    "locations": [
+        "usa"
+    ],
     "companies": [
-        "facebook"
+        "amazon"
     ],
-    "workers": null,
+    "workers": 2,
     "tags": [
-        "antiracism",
-        "blm",
-        "trump"
+        "coronavirus"
     ],
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            46.320207,
+            -112.1072224
+        ]
+    ],
+    "addresses": [
+        "Amazon, Jefferson County, Montana, United States"
+    ]
 }

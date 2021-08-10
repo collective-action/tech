@@ -1,45 +1,34 @@
 {
-    "id": 347,
-    "date": "2020/10/13",
+    "id": 340,
+    "date": "2020/10/10",
     "sources": [
-        "https://www.nbcnews.com/news/amp/ncna1243217",
-        "https://www.kmov.com/thousands-of-workers-petition-amazon-for-paid-time-off-to-vote/article_c29297aa-e08d-5aae-b887-75b506e79fef.html",
-        "https://www.cbsnews.com/news/amazon-workers-petition-election-day-holiday-paid-time-off/",
-        "https://amazonemployees4climatejustice.medium.com/jeff-bezos-give-all-amazon-workers-pto-to-vote-dc0003434d65"
+        "https://www.vice.com/amp/en_us/article/z3ejzx/facebook-workers-sign-petition-demanding-hazard-pay-for-content-moderators-who-have-to-go-back-to-the-office"
     ],
     "actions": [
         "open letter"
     ],
     "struggles": [
-        "unfair labor practices",
-        "ethics"
+        "unfair labor practices"
     ],
     "employment_types": [
-        "blue collar workers",
-        "inhouse workers"
+        "contract workers"
     ],
-    "description": "More than 6,400 Amazon workers signed an internal petition calling for time off to vote for its entire workforce ahead of the 2020 U.S. Election. Other companies like Walmart, Apple, and Target have policies allowing for paid time off for voting. Amazon Employees for Climate Justice organized the petition.",
+    "description": "At least 290 Facebook employees and contractors signed a petition demanding a 50% wage increase as hazard pay for site moderators who have been forced to return to the office by October 12th of this year. Additional demands include compensation for all costs related to COVID-19 testing and treatment, as well as additional time off and an expedited time off review process. Accenture, which hired the moderators as contractors, informed them on October 1st that they would have to return to their office in Austin, Texas. A Facebook spokesperson said the reason for the return was that \"some of the most sensitive content can\u2019t be reviewed from home\". Full-time, directly hired Facebook employees don't have to return to the office until July 2021. ",
     "online": true,
-    "locations": [
-        "usa"
-    ],
+    "locations": null,
     "companies": [
-        "amazon"
+        "accenture",
+        "facebook"
     ],
-    "workers": 6400,
+    "workers": 290,
     "tags": [
-        "politics"
+        "coronavirus",
+        "moderators",
+        "coworker_solidarity"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            46.320207,
-            -112.1072224
-        ]
-    ],
-    "addresses": [
-        "Amazon, Jefferson County, Montana, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

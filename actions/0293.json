@@ -1,29 +1,29 @@
 {
-    "id": 342,
-    "date": "2020/06/04",
+    "id": 334,
+    "date": "2020/06/03",
     "sources": [
-        "https://www.axios.com/coinbase-controversy-b707973c-0f24-4d1e-9690-78ac5fdb94e7.html"
+        "https://www.nytimes.com/2020/06/03/technology/facebook-trump-employees-letter.html",
+        "https://www.businessinsider.com/early-facebook-employees-write-open-letter-mark-zuckerberg-2020-6"
     ],
     "actions": [
-        "protest"
+        "open letter"
     ],
     "struggles": [
-        "discrimination"
+        "ethics"
     ],
     "employment_types": [
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "Employees at Coinbase held a virtual walkout following an \"ask me anything\" session with company management where CEO Brian Armstrong did not indicate that the company would be willing to publicly express support for the Black Lives Matter movement. WIRED reports: \"Pressed on whether the company would say the words \u201cBlack Lives Matter,\u201d Armstrong again demurred. 'TBD'\"",
+    "description": "Nearly three dozen early Facebook employees, including its first Chief of Communications, wrote a letter to CEO Mark Zuckerberg protesting his decision to leave Donald Trump's posts up on the website without action. Twitter chose to add labels to several of these posts warning that they were inaccurate or glorified violence. They claimed Facebook's inaction against these posts violated many of the original ideals the company had been founded on. ",
     "online": true,
     "locations": null,
     "companies": [
-        "coinbase"
+        "facebook"
     ],
     "workers": null,
     "tags": [
-        "antiracism",
-        "blm"
+        "politics"
     ],
     "author": [
         "nataliyaned"

@@ -1,35 +1,31 @@
 {
-    "id": 341,
-    "date": "2020/10/08",
+    "id": 335,
+    "date": "2020/10/05",
     "sources": [
-        "https://www.wired.com/story/turmoil-black-lives-matter-political-speech-coinbase/",
-        "https://www.forbes.com/sites/rachelsandler/2020/10/08/60-employees-leave-coinbase-over-ceos-pledge-to-be-apolitical/#5e0848325a06",
-        "https://blog.coinbase.com/coinbase-is-a-mission-focused-company-af882df8804?gi=e4cb4315d1e5"
+        "https://www.theverge.com/2020/9/2/21417146/parcast-spotify-union-writers-guild-america-east",
+        "https://twitter.com/ParcastUnion/status/1313555636651655170?s=19"
     ],
     "actions": [
-        "resignation"
+        "union representation"
     ],
     "struggles": [
-        "ethics",
-        "discrimination"
+        "unfair labor practices"
     ],
     "employment_types": [
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "More than 60 Coinbase employees chose to leave the company, opting for a severance package, to protest CEO Brian Armstrong's assertion that employees should not participate in social activism in the workplace. This represents roughly 5% of the company's employees. This event follows several months of internal activism within the company after management failed to make a public statement on the Black Lives Matter movement.",
-    "online": true,
+    "description": "Parcast, a Spotify-owned podcast company, announced a unionization effort back in September. Employees of the company chose to pursue unionization through the Writers Guild of America, East to call for greater diversity, equity, and inclusion at the company, as well as equitable pay, reasonable working hours, and overtime compensation. Parcast announced on October 6th that Spotify had chosen to voluntarily recognize the union. ",
+    "online": null,
     "locations": [
-        "san francisco-california-usa"
+        "new york city-new york-usa"
     ],
     "companies": [
-        "coinbase"
+        "spotify",
+        "parcast"
     ],
-    "workers": 60,
-    "tags": [
-        "antiracism",
-        "blm"
-    ],
+    "workers": null,
+    "tags": null,
     "author": [
         "nataliyaned"
     ],

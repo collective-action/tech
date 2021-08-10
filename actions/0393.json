@@ -1,50 +1,41 @@
 {
-    "id": 415,
+    "id": 429,
     "date": "2021/04/07",
     "sources": [
-        "https://www.theverge.com/2021/4/7/22327090/gimlet-media-union-spotify-contract-agreement",
-        "https://www.wgaeast.org/gimlet-media-and-the-ringer-ratify-first-podcast-contracts-at-spotify/",
-        "https://www.wgaeast.org/wp-content/uploads/sites/4/2021/04/Gimlet-Media-WGA-CBA-FINAL-DRAFT-March-23-2021-1.pdf",
-        "https://www.wgaeast.org/wp-content/uploads/sites/4/2021/03/Ringer-LLC-WGAE-CBA-FINAL.pdf"
+        "https://chicago.suntimes.com/business/2021/4/7/22372242/amazon-online-retailer-working-conditions-protest-walkout-gage-park-facility",
+        "https://twitter.com/AUchicagoland/status/1379788679649058823?s=20"
     ],
     "actions": [
-        "union representation"
+        "strike",
+        "protest"
     ],
     "struggles": [
-        "pay and benefits",
-        "discrimination",
-        "working conditions",
-        "unfair labor practices",
-        "job security"
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers",
+        "blue collar workers",
         "inhouse workers"
     ],
-    "description": "Spotify and two unions, the Ringer Union and the Gimlet Union, agreed on a 3-year union contract, the first in the tech industry. The contract sets salary minimums, annual salary increases, terms for severance pay, and diversity hiring guarantees but does not clarify terms around intellectual property. ",
+    "description": "Amazon workers in Gage Park, Chicago walked out during their shift and protested outside the facility. Workers demanded a $2 wage increase, scheduling accommodations, and better working conditions, including hiring more full-time workers.",
     "online": null,
     "locations": [
-        "usa"
+        "chicago-illinois-usa"
     ],
     "companies": [
-        "spotify",
-        "gimlet media",
-        "the ringer"
+        "amazon"
     ],
-    "workers": null,
-    "tags": [
-        "coworker_solidarity"
-    ],
+    "workers": 40,
+    "tags": null,
     "author": [
         "hyatt d."
     ],
     "latlngs": [
         [
-            38.5344585,
-            -94.9085748
+            41.84040105,
+            -87.68351928672685
         ]
     ],
     "addresses": [
-        "Ringer, Miami County, Kansas, United States"
+        "Amazon Distribution, 2801, South Western Avenue, Lower West Side, Chicago, Cook County, Illinois, 60608, United States"
     ]
 }

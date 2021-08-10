@@ -1,43 +1,44 @@
 {
-    "id": 391,
-    "date": "2021/02/11",
+    "id": 401,
+    "date": "2021/01/29",
     "sources": [
-        "https://www.theverge.com/2021/2/11/22278684/medium-union-unionizing-communications-workers-america",
-        "https://mediumworkersunion.org/",
-        "https://www.cnn.com/2021/02/11/media/medium-union/index.html"
+        "https://www.reuters.com/article/us-alphabet-resignations/two-google-engineers-resign-over-firing-of-ai-ethics-researcher-timnit-gebru-idUSKBN2A4090"
     ],
     "actions": [
-        "union drive"
+        "open letter",
+        "protest"
     ],
     "struggles": [
-        "ethics"
+        "ethics",
+        "discrimination"
     ],
     "employment_types": [
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "Medium workers have announced they are forming a union. Over 140 Medium workers (reportedly 70% of eligible workers) have signed union cards in support of forming a union with the Communications Workers of America (CWA) Local 9410. They have called on management to voluntarily recognize the union. ",
+    "description": "Two Google engineers (engineering director David Baker plus a software developer Vinesh Kannan) have both quit in reaction to Timnit Gebru, an AI ethics researcher, being fired at Google. Gebru's firing has resulted in Google workers questioning the ethics and diversity of Google. ",
     "online": null,
     "locations": [
         "usa"
     ],
     "companies": [
-        "medium"
+        "google"
     ],
-    "workers": 140,
+    "workers": 2,
     "tags": [
-        "cwa"
+        "coworker solidarity",
+        "ai"
     ],
     "author": [
-        "fiona tay"
+        "hyatt d."
     ],
     "latlngs": [
         [
-            41.3750149,
-            -83.6402779
+            33.977092,
+            -118.4092133
         ]
     ],
     "addresses": [
-        "MEDIUM, East Wooster Street, Bowling Green, Wood County, Ohio, 43402, United States"
+        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, California, 90094, United States"
     ]
 }

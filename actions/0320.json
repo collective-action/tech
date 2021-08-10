@@ -1,46 +1,41 @@
 {
-    "id": 309,
-    "date": "2020/08/13",
+    "id": 312,
+    "date": "2020/08/12",
     "sources": [
-        "https://www.cnbc.com/2020/08/13/german-digital-bank-n26-faces-outcry-from-staff-over-management.html",
-        "https://www.finextra.com/newsarticle/36392/n26-faces-off-with-employees-over-works-council",
-        "https://www.fintechfutures.com/2020/08/n26-founders-obtain-injunction-against-works-council/",
-        "https://twitter.com/worker291/status/1293830980172689410"
+        "https://qz.com/1894241/belaruss-crackdown-could-squash-minsks-budding-tech-sector/",
+        "https://dev.by/news/otkrytoe-pismo-it-kompanii"
     ],
     "actions": [
-        "union representation",
-        "open letter",
-        "union drive"
+        "open letter"
     ],
     "struggles": [
-        "working conditions",
-        "pay and benefits",
-        "unfair labor practices"
+        "ethics"
     ],
     "employment_types": [
         "white collar workers",
+        "inhouse workers",
         "contract workers"
     ],
-    "description": "After workers of N26 (digital bank) announced their intent to form a Works Council (Betriebsrat), management responded by issuing a legal injunction, banning 6 of the workers from partaking in formation of electoral committee. They forgot to include the service union Ver.di, so on August 13th, Ver.di chaired a meeting for N26 Operations GmbH, and workers voted for the first electoral committee.",
-    "online": null,
+    "description": "Over 2,900 Belarusian tech workers, including top level management and investors, publicly signed onto an open letter calling the recent presidential elections a fraud. Signatories threatened to relocate their offices and investments outside of Belarus, stating that the atmosphere of fear and suppression was not conducive to a thriving technology sector. The letter denounced anti-democratic measures taken by the government, including the arrests of protesters and widespread Internet outages, and called for new elections, the release of those arrested, and freedom of press in the country. ",
+    "online": true,
     "locations": [
-        "berlin-germany"
+        "belarus"
     ],
-    "companies": [
-        "N26"
+    "companies": null,
+    "workers": 2900,
+    "tags": [
+        "politics"
     ],
-    "workers": 20,
-    "tags": null,
     "author": [
-        "Worker26"
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            52.5160429,
-            13.4125087
+            53.4250605,
+            27.6971358
         ]
     ],
     "addresses": [
-        "N26 Bank GmbH, 62, Klosterstra\u00dfe, Mitte, Berlin, 10179, Deutschland"
+        "\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c"
     ]
 }

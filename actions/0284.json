@@ -1,53 +1,34 @@
 {
-    "id": 261,
-    "date": "2020/05/01",
+    "id": 275,
+    "date": "2020/04/30",
     "sources": [
-        "https://www.washingtonpost.com/technology/2020/05/01/amazon-instacart-workers-strike/",
-        "https://www.wired.com/story/amazon-instacart-target-coronavirus-may-day-strike/"
+        "https://www.transnational-strike.info/2020/05/03/addressing-the-pandemic-at-amazon-open-letter-to-jeff-bezos-and-stefano-perego/",
+        "http://inthesetimes.com/working/entry/22501/amazon-europe-united-states-international-labor-organizing-workers-bezos"
     ],
     "actions": [
-        "protest",
-        "strike"
+        "open letter"
     ],
     "struggles": [
         "working conditions"
     ],
     "employment_types": [
         "inhouse workers",
-        "blue collar workers",
-        "gig workers"
+        "blue collar workers"
     ],
-    "description": "Workers at Amazon, Whole Foods, Instacart, Target, and Shipt walked off the job on May 1st (International Workers' Day) to call for better working conditions under the covid-19 pandemic. The Washington Post reports that \"a small crowd\" outside of an Amazon Staten Island warehouse was made up of Amazon workers and also healthcare professionals who appeared out of solidarity with their cause. The scale of the action is difficult to measure, given its broad geography. Walkouts and protests were reported in Atlanta, New York, and the Bay Area.",
-    "online": null,
-    "locations": [
-        "usa"
-    ],
+    "description": "Amazon Workers International, speaking on behalf of Amazon workers across the U.S. and Europe, sent an open letter to Jeff Bezos and Stefano Perego, VP of European Fulfillment. The letter called for making covid-era wage increases and breaks permanent and suspending productivity feedback. In addition, AWI demanded more transparency around covid cases at Amazon, improved sick leave, and good faith bargaining with unions. ",
+    "online": true,
+    "locations": null,
     "companies": [
-        "amazon",
-        "instacart",
-        "target",
-        "shipt"
+        "amazon"
     ],
-    "workers": 1000,
+    "workers": 8,
     "tags": [
-        "coronavirus",
-        "delivery_workers"
+        "international_solidarity",
+        "coronavirus"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            46.320207,
-            -112.1072224
-        ],
-        [
-            38.594073550000005,
-            -90.54739094340695
-        ]
-    ],
-    "addresses": [
-        "Amazon, Jefferson County, Montana, United States",
-        "Target, Ballwin, Saint Louis County, Missouri, 63011, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }
