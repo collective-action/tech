@@ -1,9 +1,8 @@
 {
-    "id": 442,
-    "date": "2021/05/25",
+    "id": 441,
+    "date": "2021/05/20",
     "sources": [
-        "https://www.theverge.com/2021/5/25/22453516/amazon-workers-pollution-petition-letter-demand",
-        "https://secure.everyaction.com/Xsul4-F6BUuVi_MofTP5YA2"
+        "https://www.theverge.com/platform/amp/2021/5/20/22446059/apple-employees-palestinians-support-internal-letter-tim-cook?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter&__twitter_impression=true"
     ],
     "actions": [
         "open letter"
@@ -13,21 +12,17 @@
     ],
     "employment_types": [
         "white collar workers",
-        "blue collar workers",
-        "contract workers",
         "inhouse workers"
     ],
-    "description": "640 Amazon workers have signed a petition asking the company to commit to zero emissions by 2030 and to prioritize zero emission technology in communities of color hit hardest by the effects of their pollution. The petition began after Amazon rejected a shareholder resolution asking the company to report their emissions in communities of color. ",
+    "description": "Nearly a thousand Apple employees have signed an internal letter addressed to Tim Cook asking him to support the Palestinian community and people in light of Israel's bombing of Gaza which has led to the loss of 227 lives, including 63 children. The letter, written by the Apple Muslim Association, asks that Apple make it clear that Palestinian lives matter and that Palestinian people are under an illegal occupation. Moreover, the letter asks Apple to commit to understanding, engaging with, and learning about the Palestinian community and other diverse communities which make up the company. ",
     "online": true,
     "locations": null,
     "companies": [
-        "amazon"
+        "apple"
     ],
-    "workers": 640,
+    "workers": 1000,
     "tags": [
-        "climate_change",
-        "antiracism",
-        "blm"
+        "politics"
     ],
     "author": [
         "hyatt d."

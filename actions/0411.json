@@ -1,33 +1,31 @@
 {
-    "id": 446,
-    "date": "2021/06/01",
+    "id": 443,
+    "date": "2021/05/25",
     "sources": [
-        "https://www.theverge.com/2021/6/1/22463952/facebook-employees-petition-palestine-content-moderation-policy"
+        "https://www.middleeasteye.net/news/israel-palestine-amazon-employees-urge-jeff-bezos-cut-ties-israeli-military"
     ],
     "actions": [
-        "protest",
         "open letter"
     ],
     "struggles": [
-        "discrimination",
         "ethics"
     ],
     "employment_types": [
         "white collar workers",
         "blue collar workers",
-        "contract workers",
-        "inhouse workers"
+        "inhouse workers",
+        "contract workers"
     ],
-    "description": "Facebook employees are circulating a petition for the company to conduct an investigation for censoring Palestinian content on their website. At Facebook, content moderation is executed by third party contractors and algorithms. Facebook employees have taken notice and are asking the company as a whole to do a third party audit of any Muslim or Arab content decisions made by moderators.  ",
+    "description": "Approximately 600 Amazon employees have signed an open letter asking Jeff Bezos to break off all ties to the Israeli military. The letter points out that Amazon employs Palestinians around the world, including in Tel Aviv and Haifa and that \"ignoring the suffering faced by Palestinians and their families at home erases our Palestinian coworkers.\"",
     "online": true,
     "locations": null,
     "companies": [
-        "facebook"
+        "amazon"
     ],
-    "workers": 174,
+    "workers": 600,
     "tags": [
-        "international solidarity",
-        "moderators"
+        "military_contracts",
+        "politics"
     ],
     "author": [
         "hyatt d."

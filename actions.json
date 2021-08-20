@@ -16449,6 +16449,42 @@
         "addresses": null
     },
     {
+        "id": 454,
+        "date": "2021/05/07",
+        "sources": [
+            "https://www.bloomberg.com/news/articles/2021-05-07/google-childcare-workers-circulate-petition-for-commute-stipends?sref=i8nBPoz1",
+            "https://justiceforgcc.org/"
+        ],
+        "actions": [
+            "open letter"
+        ],
+        "struggles": [
+            "working conditions",
+            "pay and benefits"
+        ],
+        "employment_types": [
+            "inhouse workers",
+            "white collar workers"
+        ],
+        "description": "Childcare and education workers at Google created an online petition to reinstate the transportation shuttles previously provided to workers before the COVID-19 pandemic. According to the petition, they are demanding a \"$1,500 per-month transportation equity stipend for childcare workers who rely on Google transportation; until Google\u2019s normal transportation operations resume\". The petition has gained 622 signatures from Google employees in all departments. ",
+        "online": true,
+        "locations": null,
+        "companies": [
+            "google",
+            "alphabet"
+        ],
+        "workers": 457,
+        "tags": [
+            "coworker solidarity",
+            "child_care"
+        ],
+        "author": [
+            "hyatt d."
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
         "id": 437,
         "date": "2021/05/10",
         "sources": [
@@ -16825,6 +16861,129 @@
         "tags": [
             "cwa",
             "coworker_solidarity"
+        ],
+        "author": [
+            "hyatt d."
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 453,
+        "date": "2021/06/28",
+        "sources": [
+            "https://therealnews.com/gorillas-workers-in-germany-launch-a-wildcat-strike"
+        ],
+        "actions": [
+            "protest",
+            "strike"
+        ],
+        "struggles": [
+            "job security",
+            "working conditions"
+        ],
+        "employment_types": [
+            "gig workers"
+        ],
+        "description": "Delivery workers at Gorillas held a series of wildcat strikes in June protesting their working conditions and the firing of their colleagues. Gorillas are a delivery startup company in Berlin, Germany which delivers groceries. Workers protested the company's 6-month probationary period that allows them to fire any workers without cause, resulting in job insecurity for the delivery drivers. ",
+        "online": null,
+        "locations": [
+            "berlin-germany"
+        ],
+        "companies": [
+            "gorillas"
+        ],
+        "workers": null,
+        "tags": [
+            "delivery_workers"
+        ],
+        "author": [
+            "hyatt d."
+        ],
+        "latlngs": [
+            [
+                52.5064919,
+                13.336216896921181
+            ]
+        ],
+        "addresses": [
+            "Flachland-Gorilla, Tiergarten, Mitte, Berlin, 10787, Deutschland"
+        ]
+    },
+    {
+        "id": 451,
+        "date": "2021/06/29",
+        "sources": [
+            "https://www.theverge.com/2021/6/29/22556436/whatsapp-spanish-language-content-moderators-contractor-equal-pay"
+        ],
+        "actions": [
+            "open letter"
+        ],
+        "struggles": [
+            "pay and benefits",
+            "discrimination"
+        ],
+        "employment_types": [
+            "inhouse workers",
+            "contract workers"
+        ],
+        "description": "Spanish language content moderators and customer service representatives at WhatsApp sent an internal letter demanding the $2 premium paid to other bi-lingual moderators and backpay, which Spanish language contractors don't receive. The letter addressed the CEOs of Facebook, Accenture, and WhatsApp and circulated on Facebook's communication platform. Eighty-nine employees signed the letter. ",
+        "online": true,
+        "locations": [
+            "austin-texas-usa"
+        ],
+        "companies": [
+            "facebook",
+            "accenture"
+        ],
+        "workers": 89,
+        "tags": [
+            "moderators"
+        ],
+        "author": [
+            "hyatt d."
+        ],
+        "latlngs": [
+            [
+                30.2691649,
+                -97.7455041
+            ]
+        ],
+        "addresses": [
+            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
+        ]
+    },
+    {
+        "id": 452,
+        "date": "2021/06/30",
+        "sources": [
+            "https://wamu.org/story/21/06/30/change-org-workers-form-a-union-giving-labor-activists-another-win-in-tech/"
+        ],
+        "actions": [
+            "union drive",
+            "union representation"
+        ],
+        "struggles": [
+            "pay and benefits",
+            "ethics",
+            "discrimination"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "contract workers",
+            "inhouse workers"
+        ],
+        "description": "Seventy employees who work for Change.org unionized and joined the Workers of America's CODE-CWA Project. Organizing in the company began with Erni Poch\u00e9, who noticed that the company used the racial identities of its employees to claim diversity and inclusion within the company. Black employees reported being disproportionately assigned to petitions around race, for instance. The workers who joined the union want to have a say in wages, benefits, and the implementation of diversity and equity programs. ",
+        "online": null,
+        "locations": null,
+        "companies": [
+            "change.org"
+        ],
+        "workers": null,
+        "tags": [
+            "coworker solidarity",
+            "cwa",
+            "antiracism"
         ],
         "author": [
             "hyatt d."
