@@ -29,6 +29,13 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            30.187622849999997,
+            120.1935601
+        ]
+    ],
+    "addresses": [
+        "\u534e\u4e09\u901a\u4fe1, \u6ee8\u6c5f\u533a, \u676d\u5dde\u5e02, \u957f\u6cb3\u8857\u9053, \u6d59\u6c5f\u7701, \u4e2d\u56fd"
+    ]
 }
