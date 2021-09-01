@@ -16497,6 +16497,41 @@
         "addresses": null
     },
     {
+        "id": 455,
+        "date": "2021/05/07",
+        "sources": [
+            "https://www.protocol.com/policy/google-interns-won-stipend"
+        ],
+        "actions": [
+            "open letter"
+        ],
+        "struggles": [
+            "pay and benefits"
+        ],
+        "employment_types": [
+            "interns",
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "Interns in Google's BOLD internship program, Tyrese Thomas and Jacob Ngai created a petition with the help of the Alphabet Workers Union. The petition asked Google to provide a $5,000 stipend for costs such as rent and other basic needs for their job. Typically, Google covers these costs with an $11,000 relocation stipend. However, due to COVID-19, the stipend wasn't instated because interns would work remotely from home. Interns argued, however, that those from lower income backgrounds might need additional funding to find office space during the day or to cover the costs of childcare. Overall, the petition gathered 1500 signatures from interns and Google employees. Google gave the interns a $5,000 stipend to spend on what they deem necessary. ",
+        "online": true,
+        "locations": null,
+        "companies": [
+            "google",
+            "alphabet"
+        ],
+        "workers": 1500,
+        "tags": [
+            "students",
+            "coworker solidarity"
+        ],
+        "author": [
+            "hyatt d."
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
         "id": 437,
         "date": "2021/05/10",
         "sources": [
@@ -16996,6 +17031,252 @@
             "coworker solidarity",
             "cwa",
             "antiracism"
+        ],
+        "author": [
+            "hyatt d."
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 459,
+        "date": "2021/07/01",
+        "sources": [
+            "https://www.npr.org/2021/07/01/1011899328/black-tiktok-creators-are-on-strike-to-protest-a-lack-of-credit-for-their-work"
+        ],
+        "actions": [
+            "protest",
+            "strike"
+        ],
+        "struggles": [
+            "discrimination"
+        ],
+        "employment_types": [
+            "content creators"
+        ],
+        "description": "Black TikTok content creators went on strike protesting the platform's cultural appropriation of their creative content. Users and content creators have pointed out that they don't receive credit for their creative work while other platform users can copy them and receive more views, fame, and recognition. Using the hashtag #BlackTikTokStrike, users and content creators raised awareness on the app and Twitter. ",
+        "online": true,
+        "locations": null,
+        "companies": [
+            "tiktok"
+        ],
+        "workers": null,
+        "tags": [
+            "blm",
+            "antiracism"
+        ],
+        "author": [
+            "hyatt d."
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 460,
+        "date": "2021/07/15",
+        "sources": [
+            "https://clb.org.hk/content/hong-kong-food-delivery-workers-protest-pay-and-working-conditions"
+        ],
+        "actions": [
+            "protest",
+            "strike"
+        ],
+        "struggles": [
+            "pay and benefits",
+            "job security",
+            "working conditions"
+        ],
+        "employment_types": [
+            "gig workers"
+        ],
+        "description": "Foodpanda delivery workers protested in front of the company's headquarters while seven representatives of the strike tried to negotiate demands with the company. The delivery workers demanded to raise the base rate for deliveries, stop unreasonable termination of workers, end the cash-on-delivery system, and increase insurance coverage for personal accidents. Company management did not accept any of the demands or decide to hold another meeting. ",
+        "online": null,
+        "locations": [
+            "hong kong-china"
+        ],
+        "companies": [
+            "foodpanda"
+        ],
+        "workers": 7,
+        "tags": [
+            "delivery_workers"
+        ],
+        "author": [
+            "hyatt d."
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 457,
+        "date": "2021/07/21",
+        "sources": [
+            "https://www.latimes.com/business/story/2021-07-21/uber-lyft-drivers-strike-wednesday-july-21-rider-information"
+        ],
+        "actions": [
+            "protest",
+            "strike"
+        ],
+        "struggles": [
+            "pay and benefits"
+        ],
+        "employment_types": [
+            "gig workers"
+        ],
+        "description": "Organized by Rideshare Drivers United, Uber, Lyft, and other rideshare app-based drivers are striking in 11 different cities around the country. The drivers are protesting for better pay and legal protection under the PRO Act.",
+        "online": null,
+        "locations": [
+            "los angeles-california-usa"
+        ],
+        "companies": [
+            "uber",
+            "lyft"
+        ],
+        "workers": 700,
+        "tags": [
+            "drivers",
+            "industry_solidarity"
+        ],
+        "author": [
+            "hyatt d."
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 456,
+        "date": "2021/07/21",
+        "sources": [
+            "https://justice-for-jessica.com/",
+            "https://newsnationusa.com/news/finance/banking/hundreds-of-google-employees-call-on-company-to-change-sexual-misconduct-policies-that-they-say-put-the-burden-on-survivors/"
+        ],
+        "actions": [
+            "open letter"
+        ],
+        "struggles": [
+            "working conditions",
+            "unfair labor practices"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "An open letter was published demanding justice for Jessica (Ming) Tao, a former employee at Google. According to the open letter, \"Google has chosen to put Jessica on unpaid leave while her rapist is still fully employed.\" The letter states that this is a common practice where Google protects the harasser instead of the victim. The letter demands that Jessica is compensated in full for her time on disability leave. The letter demands, \"that survivors involved in future proceedings are always compensated for their time during this traumatizing process.\" Lastly, the letter demands Alphabet to stop having workers go to employee assistance program (EAP) therapy when they face harassment or other workplace abuses. ",
+        "online": true,
+        "locations": null,
+        "companies": [
+            "google",
+            "alphabet"
+        ],
+        "workers": 700,
+        "tags": [
+            "sexual_harassment"
+        ],
+        "author": [
+            "hyatt d."
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 461,
+        "date": "2021/07/26",
+        "sources": [
+            "https://www.foxglove.org.uk/2021/07/25/open-letter-from-60-content-moderators-to-facebook/"
+        ],
+        "actions": [
+            "open letter"
+        ],
+        "struggles": [
+            "job security",
+            "working conditions",
+            "ethics"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers",
+            "contract workers"
+        ],
+        "description": "Content moderators who work for Facebook across the world wrote an open letter to Mark Zuckerberg, Sheryl Sandberg, Anne Heraty, and Julie Sweet. The moderators are demanding Facebook stop using non-disclosure agreements to prevent moderators from speaking out about their working conditions. The moderators also want proper mental health support and to make all moderators in-house instead of contract workers outsourced by Accenture.  ",
+        "online": true,
+        "locations": null,
+        "companies": [
+            "facebook",
+            "accenture"
+        ],
+        "workers": 60,
+        "tags": [
+            "international solidarity",
+            "coworker_solidarity",
+            "moderators"
+        ],
+        "author": [
+            "hyatt d."
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 458,
+        "date": "2021/07/31",
+        "sources": [
+            "https://www.vice.com/en/article/pkbvgz/no-dasher-no-deliveries-doordash-drivers-strike-for-tip-transparency",
+            "https://www.npr.org/2021/07/31/1023265561/why-doordash-drivers-are-on-strike"
+        ],
+        "actions": [
+            "protest",
+            "strike"
+        ],
+        "struggles": [
+            "pay and benefits"
+        ],
+        "employment_types": [
+            "gig workers"
+        ],
+        "description": "Only July 31st, DoorDash drivers across the nation went on strike protesting pay and the company's lack of transparency about tips in what might be the first coordinated strike in the company's history. Workers demand that DoorDash show the tip amount for an order and have a minimum of $4.50 base pay for every order. DoorDash had recently blocked access to an app called Para that allowed workers to see the tip amount before accepting an order. Organizing for the strike began with online posts to Reddit. On the day of the strike, many workers posted online via Twitter, YouTube, and Reddit voicing their struggles. ",
+        "online": true,
+        "locations": null,
+        "companies": [
+            "doordash"
+        ],
+        "workers": null,
+        "tags": [
+            "coworker solidarity",
+            "delivery_workers"
+        ],
+        "author": [
+            "hyatt d."
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 462,
+        "date": "2021/08/09",
+        "sources": [
+            "https://www.theverge.com/2021/8/9/22609687/apple-pay-equity-employee-surveys-protected-activity"
+        ],
+        "actions": [
+            "resources"
+        ],
+        "struggles": [
+            "pay and benefits",
+            "discrimination"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers",
+            "contract workers"
+        ],
+        "description": "Apple employees circulated voluntary surveys throughout the company to see if Apple has a problem with pay inequality toward women and minorities. Apple HR barred the employees from conducting the surveys, which according to The Verge, is illegally preventing employees' rights to discuss pay. ",
+        "online": true,
+        "locations": null,
+        "companies": [
+            "apple"
+        ],
+        "workers": null,
+        "tags": [
+            "sexism"
         ],
         "author": [
             "hyatt d."

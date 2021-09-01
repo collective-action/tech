@@ -1,32 +1,28 @@
 {
-    "id": 448,
-    "date": "2021/06/16",
+    "id": 447,
+    "date": "2021/06/04",
     "sources": [
-        "https://thehill.com/policy/technology/558812-workers-at-progressive-data-firm-catalist-unionize?amp"
+        "https://www.theverge.com/2021/6/4/22491629/apple-employees-push-back-return-office-internal-letter-tim-cook?fbclid=IwAR08D4vzo6shzwwtNXwr8HCw6h1nsHG7rQcSx-k-JyuYL-I2Q7aDl0o_aZ0"
     ],
     "actions": [
-        "union drive",
-        "union representation"
+        "open letter"
     ],
     "struggles": [
-        "ethics"
+        "working conditions"
     ],
     "employment_types": [
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "Workers at Catalist, a political data services provider, have formed a union. 30 out of 38 employees have joined the union which is represented by the Communication Workers of America. The motivation for workers to unionize was not any specific mistreatment, rather they believe that in the broad benefits of organizing. The company voluntarily recognized the union. ",
-    "online": null,
-    "locations": [
-        "washington_dc-usa"
-    ],
+    "description": "Apple employees are fighting against a new policy requiring them to return to work three days a week in an open letter addressed to Tim Cook on Slack. Approximately 80 people were involved in writing the letter. Employees have argued that the company should adopt a flexible approach for those who still want to remotely work from home. ",
+    "online": true,
+    "locations": null,
     "companies": [
-        "catalist"
+        "apple"
     ],
-    "workers": 30,
+    "workers": 80,
     "tags": [
-        "cwa",
-        "coworker_solidarity"
+        "coronavirus"
     ],
     "author": [
         "hyatt d."

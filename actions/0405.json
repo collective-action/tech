@@ -1,30 +1,31 @@
 {
-    "id": 437,
-    "date": "2021/05/10",
+    "id": 455,
+    "date": "2021/05/07",
     "sources": [
-        "http://www.winlp.org/an-open-letter-to-google/"
+        "https://www.protocol.com/policy/google-interns-won-stipend"
     ],
     "actions": [
         "open letter"
     ],
     "struggles": [
-        "ethics"
+        "pay and benefits"
     ],
     "employment_types": [
+        "interns",
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "Black in AI, Queer in AI, and WiNLP have written an open letter condemning Google's actions for dismissing Dr. Timnit Gebru, Dr. Margaret Mitchell, and April Christina Curley. Black in AI, Queer in AI, and WiNLP have ended their sponsorship with Google and expressed concern that the company's actions have set a dangerous precedent for what is acceptable in the AI community.",
-    "online": null,
+    "description": "Interns in Google's BOLD internship program, Tyrese Thomas and Jacob Ngai created a petition with the help of the Alphabet Workers Union. The petition asked Google to provide a $5,000 stipend for costs such as rent and other basic needs for their job. Typically, Google covers these costs with an $11,000 relocation stipend. However, due to COVID-19, the stipend wasn't instated because interns would work remotely from home. Interns argued, however, that those from lower income backgrounds might need additional funding to find office space during the day or to cover the costs of childcare. Overall, the petition gathered 1500 signatures from interns and Google employees. Google gave the interns a $5,000 stipend to spend on what they deem necessary. ",
+    "online": true,
     "locations": null,
     "companies": [
-        "google"
+        "google",
+        "alphabet"
     ],
-    "workers": null,
+    "workers": 1500,
     "tags": [
-        "industry solidarity",
-        "lgbtq",
-        "antiracism"
+        "students",
+        "coworker solidarity"
     ],
     "author": [
         "hyatt d."
