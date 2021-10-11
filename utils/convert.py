@@ -8,6 +8,27 @@ from utils.files import get_all_files
 from utils.misc import ca_json_converter, README, CSV, JSON, ACTION_FOLDER
 from utils.markdown import update_markdown_document
 
+"""
+These functions gets Union Records
+from any format (CSV, JSON, Folder)
+"""
+
+def get_urs_from_airtable(secret: str, app: str, table: str):
+    """ Get CAS from airtable. """
+    urs = UnionRecords()
+    airtable = Airtable(app, table, api_key=secret)
+    pages = airtable.get_iter(maxRecords=1000)
+    records = []
+    for page in pages:
+        for record in page:
+            records.append(record["fields"])
+    for record in records:
+        if bool(record):
+            urs.append(
+                UnionRecord(**record)
+            )
+    return urs
+
 
 """
 These functions gets CollectiveActions

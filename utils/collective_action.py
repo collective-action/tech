@@ -11,7 +11,7 @@ from dataclasses import dataclass, field, asdict
 from typing import Any, List, Dict, ClassVar, Iterable, Tuple
 from urllib.parse import urlparse
 from geopy.geocoders import Nominatim
-from geopy.exc import GeocoderTimedOut
+from geopy.exc import GeopyError
 from .files import save_to_file, parse_file, remove_all_files
 from .misc import Url, literal_eval, NoneType, ACTION_FOLDER
 
@@ -138,8 +138,8 @@ class CollectiveAction:
                             loc = geolocator.geocode(f"{company}, {location}")
                             if loc:
                                 add_address_latlng(loc)
-                        except GeocoderTimedOut as e:
-                            print("Geocoder timed out, skipping...")
+                        except GeopyError:
+                            print(f"Geocoder error, skipping entry: '{company}, {location}'...")
 
                 # if no company listed, just use location
                 else:
@@ -147,8 +147,8 @@ class CollectiveAction:
                         loc = geolocator.geocode(f"{location}")
                         if loc:
                             add_address_latlng(loc)
-                    except GeocoderTimedOut as e:
-                        print("Geocoder timed out, skipping...")
+                    except GeopyError:
+                        print(f"Geocoder error, skipping entry: '{location}'...")
 
         if len(latlngs) == 0:
             latlngs = None
