@@ -11,6 +11,7 @@ from dataclasses import dataclass, field, asdict
 from typing import Any, List, Dict, ClassVar, Iterable, Tuple
 from urllib.parse import urlparse
 from geopy.geocoders import Nominatim
+from geopy.exc import GeocoderTimedOut
 from .files import save_to_file, parse_file, remove_all_files
 from .misc import Url, literal_eval, NoneType, ACTION_FOLDER
 
@@ -133,15 +134,21 @@ class CollectiveAction:
                 # attach company name to each city/state/country location
                 if self.companies:
                     for company in self.companies:
-                        loc = geolocator.geocode(f"{company}, {location}")
-                        if loc:
-                            add_address_latlng(loc)
+                        try:
+                            loc = geolocator.geocode(f"{company}, {location}")
+                            if loc:
+                                add_address_latlng(loc)
+                        except GeocoderTimedOut as e:
+                            print("Geocoder timed out, skipping...")
 
                 # if no company listed, just use location
                 else:
-                    loc = geolocator.geocode(f"{location}")
-                    if loc:
-                        add_address_latlng(loc)
+                    try:
+                        loc = geolocator.geocode(f"{location}")
+                        if loc:
+                            add_address_latlng(loc)
+                    except GeocoderTimedOut as e:
+                        print("Geocoder timed out, skipping...")
 
         if len(latlngs) == 0:
             latlngs = None
