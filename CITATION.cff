@@ -1,0 +1,11 @@
+cff-version:  1.2.0
+message: "If you use this data or benefited from it, please cite us"
+authors:
+  - family-names: Tan
+    given-names: JS
+  - family-names: Nedzhvetskaya
+    given-names: Nataliya
+title: "Collective Action In Tech"
+version: 1.0.0
+url: "https://github.com/collective-action/tech"
+date-released: 2021-08-26
