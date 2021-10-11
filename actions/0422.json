@@ -1,32 +1,32 @@
 {
-    "id": 457,
-    "date": "2021/07/21",
+    "id": 460,
+    "date": "2021/07/15",
     "sources": [
-        "https://www.latimes.com/business/story/2021-07-21/uber-lyft-drivers-strike-wednesday-july-21-rider-information"
+        "https://clb.org.hk/content/hong-kong-food-delivery-workers-protest-pay-and-working-conditions"
     ],
     "actions": [
         "protest",
         "strike"
     ],
     "struggles": [
-        "pay and benefits"
+        "pay and benefits",
+        "job security",
+        "working conditions"
     ],
     "employment_types": [
         "gig workers"
     ],
-    "description": "Organized by Rideshare Drivers United, Uber, Lyft, and other rideshare app-based drivers are striking in 11 different cities around the country. The drivers are protesting for better pay and legal protection under the PRO Act.",
+    "description": "Foodpanda delivery workers protested in front of the company's headquarters while seven representatives of the strike tried to negotiate demands with the company. The delivery workers demanded to raise the base rate for deliveries, stop unreasonable termination of workers, end the cash-on-delivery system, and increase insurance coverage for personal accidents. Company management did not accept any of the demands or decide to hold another meeting. ",
     "online": null,
     "locations": [
-        "los angeles-california-usa"
+        "hong kong-china"
     ],
     "companies": [
-        "uber",
-        "lyft"
+        "foodpanda"
     ],
-    "workers": 700,
+    "workers": 7,
     "tags": [
-        "drivers",
-        "industry_solidarity"
+        "delivery_workers"
     ],
     "author": [
         "hyatt d."

@@ -20,11 +20,11 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">06/10/2021 03:22PM</td>
+    <td data-summary="timestamp">11/10/2021 07:27PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">427</td>
+    <td data-summary="action-count">429</td>
   </tr>
  </table>
 </div>
@@ -45,13 +45,29 @@ The goal of this archive is to provide data and insights on organizing in the te
   </tr>
   <tr author="hyatt d.">
    <td>
+    2021-08-11
+   </td>
+   <td>
+    Tech workers fighting for a union at the Times virtually walked out in protest over management’s continued anti-union tactics, the first work stoppage tied to unionization in the tech industry. 
+On the day of the walk out, over 50% of the bargaining unit or 300 workers participated. They allege the company has been illegally trying to obstruct their unionization campaign. Tech workers from the company hope to join NewsGuild, an affiliate of the Communications Workers of America Union.
+   </td>
+   <td>
+    <a href="/actions/0428.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="hyatt d.">
+   <td>
     2021-08-09
    </td>
    <td>
     Apple employees circulated voluntary surveys throughout the company to see if Apple has a problem with pay inequality toward women and minorities. Apple HR barred the employees from conducting the surveys, which according to The Verge, is illegally preventing employees' rights to discuss pay.
    </td>
    <td>
-    <a href="/actions/0426.json">
+    <a href="/actions/0427.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -66,7 +82,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Only July 31st, DoorDash drivers across the nation went on strike protesting pay and the company's lack of transparency about tips in what might be the first coordinated strike in the company's history. Workers demand that DoorDash show the tip amount for an order and have a minimum of $4.50 base pay for every order. DoorDash had recently blocked access to an app called Para that allowed workers to see the tip amount before accepting an order. Organizing for the strike began with online posts to Reddit. On the day of the strike, many workers posted online via Twitter, YouTube, and Reddit voicing their struggles.
    </td>
    <td>
-    <a href="/actions/0425.json">
+    <a href="/actions/0426.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -81,7 +97,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Content moderators who work for Facebook across the world wrote an open letter to Mark Zuckerberg, Sheryl Sandberg, Anne Heraty, and Julie Sweet. The moderators are demanding Facebook stop using non-disclosure agreements to prevent moderators from speaking out about their working conditions. The moderators also want proper mental health support and to make all moderators in-house instead of contract workers outsourced by Accenture.
    </td>
    <td>
-    <a href="/actions/0424.json">
+    <a href="/actions/0425.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -96,7 +112,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     An open letter was published demanding justice for Jessica (Ming) Tao, a former employee at Google. According to the open letter, "Google has chosen to put Jessica on unpaid leave while her rapist is still fully employed." The letter states that this is a common practice where Google protects the harasser instead of the victim. The letter demands that Jessica is compensated in full for her time on disability leave. The letter demands, "that survivors involved in future proceedings are always compensated for their time during this traumatizing process." Lastly, the letter demands Alphabet to stop having workers go to employee assistance program (EAP) therapy when they face harassment or other workplace abuses.
    </td>
    <td>
-    <a href="/actions/0423.json">
+    <a href="/actions/0424.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -111,7 +127,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Organized by Rideshare Drivers United, Uber, Lyft, and other rideshare app-based drivers are striking in 11 different cities around the country. The drivers are protesting for better pay and legal protection under the PRO Act.
    </td>
    <td>
-    <a href="/actions/0422.json">
+    <a href="/actions/0423.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -126,7 +142,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Foodpanda delivery workers protested in front of the company's headquarters while seven representatives of the strike tried to negotiate demands with the company. The delivery workers demanded to raise the base rate for deliveries, stop unreasonable termination of workers, end the cash-on-delivery system, and increase insurance coverage for personal accidents. Company management did not accept any of the demands or decide to hold another meeting.
    </td>
    <td>
-    <a href="/actions/0421.json">
+    <a href="/actions/0422.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -141,7 +157,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Black TikTok content creators went on strike protesting the platform's cultural appropriation of their creative content. Users and content creators have pointed out that they don't receive credit for their creative work while other platform users can copy them and receive more views, fame, and recognition. Using the hashtag #BlackTikTokStrike, users and content creators raised awareness on the app and Twitter.
    </td>
    <td>
-    <a href="/actions/0420.json">
+    <a href="/actions/0421.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -156,7 +172,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Seventy employees who work for Change.org unionized and joined the Workers of America's CODE-CWA Project. Organizing in the company began with Erni Poché, who noticed that the company used the racial identities of its employees to claim diversity and inclusion within the company. Black employees reported being disproportionately assigned to petitions around race, for instance. The workers who joined the union want to have a say in wages, benefits, and the implementation of diversity and equity programs.
    </td>
    <td>
-    <a href="/actions/0419.json">
+    <a href="/actions/0420.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -171,7 +187,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Spanish language content moderators and customer service representatives at WhatsApp sent an internal letter demanding the $2 premium paid to other bi-lingual moderators and backpay, which Spanish language contractors don't receive. The letter addressed the CEOs of Facebook, Accenture, and WhatsApp and circulated on Facebook's communication platform. Eighty-nine employees signed the letter.
    </td>
    <td>
-    <a href="/actions/0418.json">
+    <a href="/actions/0419.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -186,7 +202,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Delivery workers at Gorillas held a series of wildcat strikes in June protesting their working conditions and the firing of their colleagues. Gorillas are a delivery startup company in Berlin, Germany which delivers groceries. Workers protested the company's 6-month probationary period that allows them to fire any workers without cause, resulting in job insecurity for the delivery drivers.
    </td>
    <td>
-    <a href="/actions/0417.json">
+    <a href="/actions/0418.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -201,7 +217,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Workers at Catalist, a political data services provider, have formed a union. 30 out of 38 employees have joined the union which is represented by the Communication Workers of America. The motivation for workers to unionize was not any specific mistreatment, rather they believe that in the broad benefits of organizing. The company voluntarily recognized the union.
    </td>
    <td>
-    <a href="/actions/0416.json">
+    <a href="/actions/0417.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -214,6 +230,21 @@ The goal of this archive is to provide data and insights on organizing in the te
    </td>
    <td>
     Apple employees are fighting against a new policy requiring them to return to work three days a week in an open letter addressed to Tim Cook on Slack. Approximately 80 people were involved in writing the letter. Employees have argued that the company should adopt a flexible approach for those who still want to remotely work from home.
+   </td>
+   <td>
+    <a href="/actions/0416.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="hyatt d.">
+   <td>
+    2021-06-03
+   </td>
+   <td>
+    Delivery workers at Gorillas are organizing to form a work council known as Gorillas Workers Collective. The employees held a meeting to establish a work council to obtain co-determination rights. Having access to these rights would allow them to have a say in break times and safety arrangements. The workers have organized due to unpaid hours, back pain and psychological distress incurred from the job, lack of safety, violation of labor laws, and chaotic management.
    </td>
    <td>
     <a href="/actions/0415.json">

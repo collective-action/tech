@@ -1,31 +1,32 @@
 {
-    "id": 456,
+    "id": 457,
     "date": "2021/07/21",
     "sources": [
-        "https://justice-for-jessica.com/",
-        "https://newsnationusa.com/news/finance/banking/hundreds-of-google-employees-call-on-company-to-change-sexual-misconduct-policies-that-they-say-put-the-burden-on-survivors/"
+        "https://www.latimes.com/business/story/2021-07-21/uber-lyft-drivers-strike-wednesday-july-21-rider-information"
     ],
     "actions": [
-        "open letter"
+        "protest",
+        "strike"
     ],
     "struggles": [
-        "working conditions",
-        "unfair labor practices"
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "An open letter was published demanding justice for Jessica (Ming) Tao, a former employee at Google. According to the open letter, \"Google has chosen to put Jessica on unpaid leave while her rapist is still fully employed.\" The letter states that this is a common practice where Google protects the harasser instead of the victim. The letter demands that Jessica is compensated in full for her time on disability leave. The letter demands, \"that survivors involved in future proceedings are always compensated for their time during this traumatizing process.\" Lastly, the letter demands Alphabet to stop having workers go to employee assistance program (EAP) therapy when they face harassment or other workplace abuses. ",
-    "online": true,
-    "locations": null,
+    "description": "Organized by Rideshare Drivers United, Uber, Lyft, and other rideshare app-based drivers are striking in 11 different cities around the country. The drivers are protesting for better pay and legal protection under the PRO Act.",
+    "online": null,
+    "locations": [
+        "los angeles-california-usa"
+    ],
     "companies": [
-        "google",
-        "alphabet"
+        "uber",
+        "lyft"
     ],
     "workers": 700,
     "tags": [
-        "sexual_harassment"
+        "drivers",
+        "industry_solidarity"
     ],
     "author": [
         "hyatt d."
