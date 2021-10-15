@@ -33,11 +33,21 @@
     ],
     "latlngs": [
         [
+            40.722465,
+            -73.9977307
+        ],
+        [
+            42.017435000000006,
+            -87.71964029792224
+        ],
+        [
             38.6767343,
             -121.4948028
         ]
     ],
     "addresses": [
+        "Amazon, 72, Spring Street, Manhattan Community Board 2, Manhattan, New York County, New York, 10013, United States",
+        "Amazon Fulfillment Center DIL7, 3639, West Howard Street, Skokie, Niles Township, Cook County, Illinois, 60076, United States",
         "Amazon Avenue, Sacramento, Sacramento County, California, 95835, United States"
     ]
 }
