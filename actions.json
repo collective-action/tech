@@ -17327,5 +17327,122 @@
         "addresses": [
             "The New York Times, Whitestone Expressway, Linden Hill, Queens, Queens County, New York, 11354, United States"
         ]
+    },
+    {
+        "id": 466,
+        "date": "2021/09/03",
+        "sources": [
+            "https://cwa-union.org/news/releases/workers-everyaction-become-largest-progressive-tech-union?amp"
+        ],
+        "actions": [
+            "union representation"
+        ],
+        "struggles": [
+            "working conditions"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "After a supermajority of EveryAction workers signed cards to establish a union, EveryAction voluntarily recognized the EveryAction Workers Union, who will become part of the Communications Workers of America. As a result, the company will engage in negotiations over a collective bargaining agreement in the near future. EveryAction prides themselves on being a progressive workplace and has embraced this unionization.",
+        "online": null,
+        "locations": [
+            "boston-massachussetts-usa",
+            "washington_dc-usa"
+        ],
+        "companies": [
+            "everyaction"
+        ],
+        "workers": 160,
+        "tags": [
+            "cwa"
+        ],
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 468,
+        "date": "2021/09/13",
+        "sources": [
+            "https://www.reuters.com/technology/canadian-amazon-facility-files-union-vote-union-2021-09-14/"
+        ],
+        "actions": [
+            "union drive",
+            "union representation",
+            "open letter"
+        ],
+        "struggles": [
+            "pay and benefits",
+            "working conditions"
+        ],
+        "employment_types": [
+            "blue collar workers",
+            "inhouse workers"
+        ],
+        "description": "Teamsters Local Union 362 filed a request to hold a vote to form a union at an Amazon facility in Nisku, Alberta, Canada. Teamsters Local Union 362 is part of Teamsters Canada, a trade union that is affiliated with the International Brotherhood of Teamster.  Unionization efforts have already begun, including a petition being signed by \u201chundreds\u201d of warehouse workers, and the date to vote is yet to be decided. ",
+        "online": null,
+        "locations": [
+            "nisku-alberta-canada"
+        ],
+        "companies": [
+            "amazon"
+        ],
+        "workers": 601,
+        "tags": [
+            "teamster"
+        ],
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": [
+            [
+                53.393627,
+                -113.49682402031908
+            ]
+        ],
+        "addresses": [
+            "Amazon Warehouse, Nisku Spine Road, Ellerslie Industrial, Ellerslie, Edmonton, Leduc County, Alberta, T6X 2H4, Canada"
+        ]
+    },
+    {
+        "id": 467,
+        "date": "2021/09/15",
+        "sources": [
+            "https://www.theguardian.com/technology/2021/sep/15/google-underpayment-wages?CMP=Share_AndroidApp_Other",
+            "https://payparity.org/"
+        ],
+        "actions": [
+            "open letter"
+        ],
+        "struggles": [
+            "pay and benefits",
+            "unfair labor practices"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "blue collar workers",
+            "inhouse workers",
+            "contract workers"
+        ],
+        "description": "After news from The Guardian that Google had been illegally underpaying their Temps, Vendors, and Contractors (TVCs) despite pay parity laws in European and Asian countries, over 900 Google employees and subcontractors have signed a petition calling for Google to amend their exploitation of TVCs. They are demanding for Google to repay the TVCs, create a path towards permanent employment, and end its two-tiered perma-temp system. This letter was organized by the Alphabet Workers Union (AWU). Google has acknowledged these issues but hasn\u2019t commented directly on the petition.",
+        "online": true,
+        "locations": null,
+        "companies": [
+            "google",
+            "alphabet"
+        ],
+        "workers": 901,
+        "tags": [
+            "international_solidarity",
+            "coworker solidarity"
+        ],
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": null,
+        "addresses": null
     }
 ]

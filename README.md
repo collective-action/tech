@@ -20,11 +20,11 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">19/10/2021 05:24PM</td>
+    <td data-summary="timestamp">19/10/2021 06:27PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">429</td>
+    <td data-summary="action-count">432</td>
   </tr>
  </table>
 </div>
@@ -41,6 +41,51 @@ The goal of this archive is to provide data and insights on organizing in the te
    </td>
    <td>
     link
+   </td>
+  </tr>
+  <tr author="wynniechan">
+   <td>
+    2021-09-15
+   </td>
+   <td>
+    After news from The Guardian that Google had been illegally underpaying their Temps, Vendors, and Contractors (TVCs) despite pay parity laws in European and Asian countries, over 900 Google employees and subcontractors have signed a petition calling for Google to amend their exploitation of TVCs. They are demanding for Google to repay the TVCs, create a path towards permanent employment, and end its two-tiered perma-temp system. This letter was organized by the Alphabet Workers Union (AWU). Google has acknowledged these issues but hasn’t commented directly on the petition.
+   </td>
+   <td>
+    <a href="/actions/0431.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="wynniechan">
+   <td>
+    2021-09-13
+   </td>
+   <td>
+    Teamsters Local Union 362 filed a request to hold a vote to form a union at an Amazon facility in Nisku, Alberta, Canada. Teamsters Local Union 362 is part of Teamsters Canada, a trade union that is affiliated with the International Brotherhood of Teamster.  Unionization efforts have already begun, including a petition being signed by “hundreds” of warehouse workers, and the date to vote is yet to be decided.
+   </td>
+   <td>
+    <a href="/actions/0430.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="wynniechan">
+   <td>
+    2021-09-03
+   </td>
+   <td>
+    After a supermajority of EveryAction workers signed cards to establish a union, EveryAction voluntarily recognized the EveryAction Workers Union, who will become part of the Communications Workers of America. As a result, the company will engage in negotiations over a collective bargaining agreement in the near future. EveryAction prides themselves on being a progressive workplace and has embraced this unionization.
+   </td>
+   <td>
+    <a href="/actions/0429.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
    </td>
   </tr>
   <tr author="hyatt d.">
