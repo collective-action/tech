@@ -36,6 +36,13 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.7753423,
+            -122.39763106771915
+        ]
+    ],
+    "addresses": [
+        "UserTesting, 690, 5th Street, South of Market, San Francisco, San Francisco City and County, San Francisco, California, 94017, United States"
+    ]
 }

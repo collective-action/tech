@@ -28,6 +28,13 @@
     "author": [
         "hyatt d."
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            22.3511148,
+            78.6677428
+        ]
+    ],
+    "addresses": [
+        "India"
+    ]
 }
