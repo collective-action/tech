@@ -29,13 +29,6 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            40.7049204,
-            -74.0063212
-        ]
-    ],
-    "addresses": [
-        "WeWork, Front Street, Financial District, Manhattan, New York County, New York, 10038, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

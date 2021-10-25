@@ -29,18 +29,6 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            46.320207,
-            -112.1072224
-        ],
-        [
-            27.048664,
-            -82.060911
-        ]
-    ],
-    "addresses": [
-        "Amazon, Jefferson County, Montana, United States",
-        "Damo Street, North Port, Sarasota County, Florida, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

@@ -28,18 +28,6 @@
     "author": [
         "@shushugah"
     ],
-    "latlngs": [
-        [
-            49.078094500000006,
-            9.304616994654571
-        ],
-        [
-            47.68201895,
-            9.3864579
-        ]
-    ],
-    "addresses": [
-        "Bosch, Hohbuch, Happenbach, Abstatt, Verwaltungsverband Schozach-Bottwartal, Landkreis Heilbronn, Baden-W\u00fcrttemberg, 74232, Deutschland",
-        "Bosch.IO, 7, Ziegelei, Alte Ziegelei / Steigwiesen, Immenstaad am Bodensee, Verwaltungsgemeinschaft Friedrichshafen, Bodenseekreis, Baden-W\u00fcrttemberg, 88090, Deutschland"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

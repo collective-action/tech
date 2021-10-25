@@ -36,33 +36,6 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            46.320207,
-            -112.1072224
-        ],
-        [
-            33.977092,
-            -118.4092133
-        ],
-        [
-            42.4732549,
-            -83.180503
-        ],
-        [
-            37.750721999999996,
-            -122.40243254779433
-        ],
-        [
-            37.7753423,
-            -122.39763106771915
-        ]
-    ],
-    "addresses": [
-        "Amazon, Jefferson County, Montana, United States",
-        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, California, 90094, United States",
-        "Uber, Burton Street, Oak Park, Oakland County, Michigan, 48237, United States",
-        "Lyft, 26th Street, Potrero Terrace, San Francisco, San Francisco City and County, San Francisco, California, 94124, United States",
-        "UserTesting, 690, 5th Street, South of Market, San Francisco, San Francisco City and County, San Francisco, California, 94017, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

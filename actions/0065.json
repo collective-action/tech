@@ -32,18 +32,6 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            37.7756962,
-            -122.4180838
-        ],
-        [
-            42.5032848,
-            -71.8857521
-        ]
-    ],
-    "addresses": [
-        "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States",
-        "Lyft Uber Pickup Location, Midstate Trail, Westminster, Worcester County, Massachusetts, 01541, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

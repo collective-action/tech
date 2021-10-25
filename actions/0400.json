@@ -37,18 +37,6 @@
     "author": [
         "CM"
     ],
-    "latlngs": [
-        [
-            40.65532605,
-            -73.79478942223645
-        ],
-        [
-            42.3261966,
-            -74.62099388712133
-        ]
-    ],
-    "addresses": [
-        "Uber Limo Livery Hold Lot, Cargo Plaza Road, Queens, Queens County, New York, 11430, United States",
-        "Relay State Forest, Town of Stamford, Delaware County, New York, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

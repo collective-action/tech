@@ -30,13 +30,6 @@
     "author": [
         "hyatt d."
     ],
-    "latlngs": [
-        [
-            51.5148804,
-            -0.0718856
-        ]
-    ],
-    "addresses": [
-        "Uber, 2, Leman Street, Spitalfields, London Borough of Tower Hamlets, London, Islington, Greater London, England, E1 8FA, United Kingdom"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

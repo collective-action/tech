@@ -37,23 +37,6 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            37.3398646,
-            -121.8844823
-        ],
-        [
-            33.977092,
-            -118.4092133
-        ],
-        [
-            37.6291599,
-            -122.42551778433794
-        ]
-    ],
-    "addresses": [
-        "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112-3580, United States",
-        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, California, 90094, United States",
-        "YouTube, 1000, Cherry Avenue, YouTube, San Bruno, San Mateo County, California, 94066, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

@@ -28,13 +28,6 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            37.7790262,
-            -122.419906
-        ]
-    ],
-    "addresses": [
-        "San Francisco, San Francisco City and County, San Francisco, California, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

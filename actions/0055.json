@@ -32,13 +32,6 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            37.3323673,
-            -122.0292398
-        ]
-    ],
-    "addresses": [
-        "Caff\u00e8 Macs, 4, Infinite Loop, Apple Campus, Cupertino, Santa Clara County, California, 95014, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

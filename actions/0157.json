@@ -32,13 +32,6 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            47.6289467,
-            -122.3428731
-        ]
-    ],
-    "addresses": [
-        "Facebook Dexter, 1101, Dexter Avenue North, Westlake, Queen Anne, Seattle, King County, Washington, 98109, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

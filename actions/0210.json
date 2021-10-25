@@ -31,18 +31,6 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            37.7821769,
-            -122.3912458
-        ],
-        [
-            35.139622349999996,
-            -80.92306993327955
-        ]
-    ],
-    "addresses": [
-        "GitHub, 88, Colin P. Kelly Junior Street, Port of San Francisco, San Francisco, San Francisco City and County, San Francisco, California, 94107, United States",
-        "Microsoft, Ayrsley, Charlotte, Mecklenburg County, North Carolina, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

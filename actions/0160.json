@@ -31,13 +31,6 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            37.406317,
-            -122.02122171852054
-        ]
-    ],
-    "addresses": [
-        "Google MP7, Borregas Avenue, Sunnyvale, Santa Clara County, California, 94089, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

@@ -29,18 +29,6 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            46.320207,
-            -112.1072224
-        ],
-        [
-            32.815940350000005,
-            -96.75223175473414
-        ]
-    ],
-    "addresses": [
-        "Amazon, Jefferson County, Montana, United States",
-        "WholeFoods, 2118, Abrams Road, Dallas, Dallas County, Texas, 75214:75243, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

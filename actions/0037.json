@@ -29,18 +29,6 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            50.845334,
-            9.677958815746917
-        ],
-        [
-            51.36227055,
-            12.45231287033246
-        ]
-    ],
-    "addresses": [
-        "Amazon FRA1, Eichhof, Asbach, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
-        "Amazon Distribution GmbH, Paunsdorf, Ost, Sachsen, 04347, Deutschland"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

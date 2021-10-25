@@ -34,23 +34,6 @@
     "author": [
         "hyatt d."
     ],
-    "latlngs": [
-        [
-            43.841860749999995,
-            11.166183284518766
-        ],
-        [
-            43.841860749999995,
-            11.166183284518766
-        ],
-        [
-            43.651292049999995,
-            10.439298412939564
-        ]
-    ],
-    "addresses": [
-        "Amazon, Via Baldanzese, Settimello, Sesto Fiorentino, Firenze, Toscana, 50019, Italia",
-        "Amazon, Via Baldanzese, Settimello, Sesto Fiorentino, Firenze, Toscana, 50019, Italia",
-        "Amazon Logistics, Via Enrica Calabresi, Montacchiello, Pisa, Toscana, 56125, Italia"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

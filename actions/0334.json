@@ -34,33 +34,6 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            51.5333771,
-            -0.1258455
-        ],
-        [
-            53.9603742,
-            -1.0712337
-        ],
-        [
-            51.5195583,
-            -0.181935
-        ],
-        [
-            51.51579395,
-            -0.13555097805192262
-        ],
-        [
-            51.58489745,
-            -0.11333842774111015
-        ]
-    ],
-    "addresses": [
-        "Google, Pancras Road, King's Cross, London Borough of Camden, London, Camden Town, Greater London, England, N1C 4BJ, United Kingdom",
-        "Amazon, Foss Islands Road, Foss Islands Retail Park, Layerthorpe, York, Yorkshire and the Humber, England, YO31 7UL, United Kingdom",
-        "Microsoft London, Kingdom Street, Paddington Central, City of Westminster, London, Kensington, Greater London, England, W2 6PY, United Kingdom",
-        "Samsung, Wardour Street, City of Westminster, London, Islington, Greater London, England, N1, United Kingdom",
-        "Deliveroo Editions, Cranford Way, Haringey Heartlands, London Borough of Haringey, London, Wood Green, Greater London, England, N8 9DG, United Kingdom"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

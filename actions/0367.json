@@ -41,28 +41,6 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            37.3398646,
-            -121.8844823
-        ],
-        [
-            33.977092,
-            -118.4092133
-        ],
-        [
-            49.0312631,
-            -69.6858339
-        ],
-        [
-            43.4510812,
-            -80.4987516
-        ]
-    ],
-    "addresses": [
-        "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112-3580, United States",
-        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, California, 90094, United States",
-        "Ruisseau Alphabet, Lac-au-Brochet, La Haute-C\u00f4te-Nord, C\u00f4te-Nord, Qu\u00e9bec, Canada",
-        "Google Waterloo, 151, Charles Street West, Downtown, Kitchener, Region of Waterloo, Southwestern Ontario, Ontario, N2G 1H6, Canada"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

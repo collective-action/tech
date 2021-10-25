@@ -33,13 +33,6 @@
     "author": [
         "CM"
     ],
-    "latlngs": [
-        [
-            40.7127281,
-            -74.0060152
-        ]
-    ],
-    "addresses": [
-        "New York, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

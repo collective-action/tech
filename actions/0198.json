@@ -32,13 +32,6 @@
     "author": [
         "william boag"
     ],
-    "latlngs": [
-        [
-            47.7193863,
-            -122.3557875
-        ]
-    ],
-    "addresses": [
-        "Chef at Wok, 12427, Greenwood Avenue North, Broadview, Seattle, King County, Washington, 98133, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

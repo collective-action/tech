@@ -28,23 +28,6 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            37.7834546,
-            -122.4080358
-        ],
-        [
-            65.4102317,
-            -163.0526448
-        ],
-        [
-            30.4422494,
-            -84.32472631122516
-        ]
-    ],
-    "addresses": [
-        "Doordash HQ, Market Street, Union Square, San Francisco, San Francisco City and County, San Francisco, California, 94103-3124, United States",
-        "Caviar Creek, Nome, Alaska, United States",
-        "The Square, Tallahassee, Leon County, Florida, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

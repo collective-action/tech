@@ -27,18 +27,6 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            37.400726750000004,
-            -121.9307206
-        ],
-        [
-            37.3504112,
-            -121.9016582
-        ]
-    ],
-    "addresses": [
-        "Broadcom (250/#1), 250, Innovation Drive, San Jose, Santa Clara County, California, 95031, United States",
-        "Universal Protection Service, North 1st Street, Civic Center, Japantown, San Jose, Santa Clara County, California, 95112-5005, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

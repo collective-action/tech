@@ -31,18 +31,6 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            33.80967965,
-            -117.83605415
-        ],
-        [
-            39.5830822,
-            -119.7380521
-        ]
-    ],
-    "addresses": [
-        "AT&T, 1302, North Tustin Street, Orange, Orange County, California, 92867, United States",
-        "AT&T, 279, Los Altos Parkway, Sparks, Washoe County, Nevada, 89436, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

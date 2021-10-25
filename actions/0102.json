@@ -29,13 +29,6 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            39.7737435,
-            -86.1611436
-        ]
-    ],
-    "addresses": [
-        "Salesforce, 433, North Capitol Avenue, Fayette Street Conservation Area, Indianapolis, Marion County, Indiana, 46204, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }
