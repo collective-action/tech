@@ -29,6 +29,13 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.7673038,
+            -122.38860026918435
+        ]
+    ],
+    "addresses": [
+        "Uber, 1725, 3rd Street, Mission Bay, San Francisco, San Francisco City and County, San Francisco, California, 94158, United States"
+    ]
 }

@@ -30,6 +30,13 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.7759881,
+            -122.3919991
+        ]
+    ],
+    "addresses": [
+        "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, San Francisco, California, 94107, United States"
+    ]
 }
