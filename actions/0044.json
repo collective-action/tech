@@ -28,6 +28,13 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            51.5174596,
+            -0.10460573009892905
+        ]
+    ],
+    "addresses": [
+        "Amazon, 60, Holborn Viaduct, Smithfield, City of London, Greater London, England, EC1A 2BN, United Kingdom"
+    ]
 }

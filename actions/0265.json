@@ -42,10 +42,20 @@
         [
             37.7673038,
             -122.38860026918435
+        ],
+        [
+            32.7768074,
+            -117.0684271
+        ],
+        [
+            32.7768074,
+            -117.0684271
         ]
     ],
     "addresses": [
         "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, San Francisco, California, 94107, United States",
-        "Uber, 1725, 3rd Street, Mission Bay, San Francisco, San Francisco City and County, San Francisco, California, 94158, United States"
+        "Uber, 1725, 3rd Street, Mission Bay, San Francisco, San Francisco City and County, San Francisco, California, 94158, United States",
+        "Uber / Lyft Driver Drop Off, Campanile Mall, Montezuma Mesa, Del Cerro, San Diego, San Diego County, California, 92182, United States",
+        "Uber / Lyft Driver Drop Off, Campanile Mall, Montezuma Mesa, Del Cerro, San Diego, San Diego County, California, 92182, United States"
     ]
 }
