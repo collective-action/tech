@@ -44,6 +44,13 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            -34.5814605,
+            -58.4513731
+        ]
+    ],
+    "addresses": [
+        "Glovo, 3590, Avenida Federico Lacroze, Chacarita, Buenos Aires, Comuna 15, Ciudad Aut\u00f3noma de Buenos Aires, Distrito Audiovisual, C1427EDN, Argentina"
+    ]
 }
