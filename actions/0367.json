@@ -41,6 +41,23 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            33.977092,
+            -118.4092133
+        ],
+        [
+            49.0312631,
+            -69.6858339
+        ],
+        [
+            43.6503609,
+            -79.3837616
+        ]
+    ],
+    "addresses": [
+        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
+        "Ruisseau Alphabet, Lac-au-Brochet, La Haute-C\u00f4te-Nord, C\u00f4te-Nord, Qu\u00e9bec, Canada",
+        "Google Canada, 111, Richmond Street West, Spadina\u2014Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5H 2G4, Canada"
+    ]
 }

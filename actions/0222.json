@@ -33,6 +33,13 @@
     "author": [
         "clarissa"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.778011,
+            -122.4121644
+        ]
+    ],
+    "addresses": [
+        "WeWork, Mission Street, West SoMa, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States"
+    ]
 }
