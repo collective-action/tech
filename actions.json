@@ -855,8 +855,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.3361905,
+                -121.890583
+            ]
+        ],
+        "addresses": [
+            "San Jose, Santa Clara County, California, 95113, United States"
+        ]
     },
     {
         "id": 14,
@@ -1245,8 +1252,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                34.7284406,
+                113.7595316
+            ]
+        ],
+        "addresses": [
+            "Foxconn Technology Group, \u7ecf\u5317\u4e8c\u8def, \u7ba1\u57ce\u56de\u65cf\u533a, \u90d1\u5dde\u5e02, \u6cb3\u5357\u7701, 450046, \u4e2d\u56fd"
+        ]
     },
     {
         "id": 25,
@@ -3491,8 +3505,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.4417249,
+                -122.1725159
+            ]
+        ],
+        "addresses": [
+            "Apple Store, Stanford Shopping Center, Stanford, Palo Alto, Santa Clara County, California, 94304, United States"
+        ]
     },
     {
         "id": 78,
@@ -6048,8 +6069,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.4440869,
+                -122.16287540411753
+            ]
+        ],
+        "addresses": [
+            "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States"
+        ]
     },
     {
         "id": 141,
@@ -8923,15 +8951,8 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": [
-            [
-                37.7894073,
-                -122.3895538
-            ]
-        ],
-        "addresses": [
-            "Google - San Francisco, 345, Spear Street, Rincon Hill, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 210,
@@ -10012,11 +10033,16 @@
             [
                 42.017435000000006,
                 -87.71964029792224
+            ],
+            [
+                38.6767343,
+                -121.4948028
             ]
         ],
         "addresses": [
             "Amazon, 72, Spring Street, Manhattan Community Board 2, Manhattan, New York County, New York, 10013, United States",
-            "Amazon Fulfillment Center DIL7, 3639, West Howard Street, Skokie, Niles Township, Cook County, Illinois, 60076, United States"
+            "Amazon Fulfillment Center DIL7, 3639, West Howard Street, Skokie, Niles Township, Cook County, Illinois, 60076, United States",
+            "Amazon Avenue, Sacramento, Sacramento County, California, 95835, United States"
         ]
     },
     {
@@ -12449,8 +12475,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                38.594073550000005,
+                -90.54739094340695
+            ]
+        ],
+        "addresses": [
+            "Target, Ballwin, Saint Louis County, Missouri, 63011, United States"
+        ]
     },
     {
         "id": 303,
@@ -12664,8 +12697,20 @@
         "author": [
             "@shushugah"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                47.572049050000004,
+                10.667775368755255
+            ],
+            [
+                47.68201895,
+                9.3864579
+            ]
+        ],
+        "addresses": [
+            "Bosch, ADAC, Schlichtling, F\u00fcssen, Landkreis Ostallg\u00e4u, Bayern, 87629, Deutschland",
+            "Bosch.IO, 7, Ziegelei, Alte Ziegelei / Steigwiesen, Immenstaad am Bodensee, Verwaltungsgemeinschaft Friedrichshafen, Bodenseekreis, Baden-W\u00fcrttemberg, 88090, Deutschland"
+        ]
     },
     {
         "id": 307,
@@ -12943,8 +12988,15 @@
         "author": [
             "Worker26"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                54.4051916,
+                9.4248338
+            ]
+        ],
+        "addresses": [
+            "Berlin, Potsdam, Klein Bennebek, Kropp-Stapelholm, Schleswig-Flensburg, Schleswig-Holstein, 24848, Deutschland"
+        ]
     },
     {
         "id": 310,
@@ -15792,8 +15844,15 @@
         "author": [
             "hyatt d."
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                33.063544750000005,
+                -80.04270395155184
+            ]
+        ],
+        "addresses": [
+            "Google Data Center, Berkeley County, South Carolina, United States"
+        ]
     },
     {
         "id": 424,
