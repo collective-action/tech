@@ -29,6 +29,13 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            33.377165649999995,
+            -87.00551025009236
+        ]
+    ],
+    "addresses": [
+        "Amazon Fulfillment Center - BHM1, 975, Powder Plant Road, McAdory, Bessemer, Jefferson County, Alabama, 35022, United States"
+    ]
 }

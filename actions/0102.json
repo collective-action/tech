@@ -29,6 +29,13 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            39.7737435,
+            -86.1611436
+        ]
+    ],
+    "addresses": [
+        "Salesforce, 433, North Capitol Avenue SB BAT Lane, Historic Ransom Place, Indianapolis, Marion County, Indiana, 46204, United States"
+    ]
 }

@@ -28,6 +28,23 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.7834546,
+            -122.4080358
+        ],
+        [
+            65.4102317,
+            -163.0526448
+        ],
+        [
+            40.7000871,
+            -73.6909527
+        ]
+    ],
+    "addresses": [
+        "Doordash HQ, Market Street, Union Square, San Francisco, San Francisco City and County, San Francisco, California, 94104, United States",
+        "Caviar Creek, Nome, Alaska, United States",
+        "USA, Meacham Avenue, Franklin Square, Town of Hempstead, Nassau County, New York, 11003, United States"
+    ]
 }

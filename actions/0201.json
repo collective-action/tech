@@ -33,6 +33,13 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            41.7558634,
+            -71.4564942
+        ]
+    ],
+    "addresses": [
+        "Amazon Locker, Sockanosset Cross Road, Sockanosset, Cranston, Providence County, Rhode Island, 02920, United States"
+    ]
 }

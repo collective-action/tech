@@ -27,6 +27,18 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.40114225,
+            -121.92943989999999
+        ],
+        [
+            37.3504112,
+            -121.9016582
+        ]
+    ],
+    "addresses": [
+        "Broadcom (280/#2), 280, Innovation Drive, San Jose, Santa Clara County, California, 95031, United States",
+        "Universal Protection Service, North 1st Street, Civic Center, Japantown, San Jose, Santa Clara County, California, 95112, United States"
+    ]
 }

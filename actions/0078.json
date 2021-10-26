@@ -31,6 +31,18 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            33.80967965,
+            -117.83605415
+        ],
+        [
+            36.1269453,
+            -115.1689215
+        ]
+    ],
+    "addresses": [
+        "AT&T, 1302, North Tustin Street, Orange, Orange County, California, 92867, United States",
+        "AT&T, South Las Vegas Boulevard, Paradise, Hughes Center, Clark County, Nevada, 89123, United States"
+    ]
 }

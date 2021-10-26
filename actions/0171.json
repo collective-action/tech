@@ -31,6 +31,13 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            44.9696864,
+            -93.2883524
+        ]
+    ],
+    "addresses": [
+        "Wounded Amazon, Lyndale Avenue South, Lowry Hill, Bde Maka Ska - Isles, Minneapolis, Hennepin County, Minnesota, 55403, United States"
+    ]
 }

@@ -29,6 +29,13 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            40.7395721,
+            -74.0059266
+        ]
+    ],
+    "addresses": [
+        "WeWork, 1, Little West 12th Street, Meatpacking District, Manhattan Community Board 2, Manhattan, New York County, New York, 10014, United States"
+    ]
 }

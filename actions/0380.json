@@ -27,6 +27,13 @@
         "cwa"
     ],
     "author": null,
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            35.6006784,
+            -82.3119169
+        ]
+    ],
+    "addresses": [
+        "Glitch Drive, Black Mountain, Buncombe County, North Carolina, 28711, United States"
+    ]
 }

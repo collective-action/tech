@@ -31,6 +31,13 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.4123687,
+            -121.9283094
+        ]
+    ],
+    "addresses": [
+        "Cisco Way, 399, East Tasman Drive, Cisco Systems, San Jose, Santa Clara County, California, 95134, United States"
+    ]
 }
