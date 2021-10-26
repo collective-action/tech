@@ -31,6 +31,18 @@
     "author": [
         "CM"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.411849450000005,
+            -122.1480713239311
+        ],
+        [
+            37.3974949,
+            -122.0842646
+        ]
+    ],
+    "addresses": [
+        "HP, Page Mill Road, Palo Alto, Santa Clara County, California, 94304, United States",
+        "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, California, 94043, United States"
+    ]
 }
