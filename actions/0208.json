@@ -31,13 +31,6 @@
     "author": [
         "moates"
     ],
-    "latlngs": [
-        [
-            40.444185950000005,
-            -79.94272039927895
-        ]
-    ],
-    "addresses": [
-        "Carnegie Mellon University, Fifth Avenue, Squirrel Hill North, Pittsburgh, Allegheny County, Pennsylvania, 15232-2131, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }
