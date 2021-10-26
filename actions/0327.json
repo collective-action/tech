@@ -29,6 +29,13 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            38.9623245,
+            -77.0844314
+        ]
+    ],
+    "addresses": [
+        "Amazon Fresh, 5463, Wisconsin Avenue, Friendship Heights, Chevy Chase Village, Montgomery County, Maryland, 20815, United States"
+    ]
 }

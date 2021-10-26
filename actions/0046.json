@@ -31,6 +31,28 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            33.977092,
+            -118.4092133
+        ],
+        [
+            34.1443979,
+            -118.257051
+        ],
+        [
+            32.939795,
+            -117.1026021
+        ],
+        [
+            37.33196605,
+            -121.8954904847011
+        ]
+    ],
+    "addresses": [
+        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
+        "Apple Store, 877, Americana Way, Glendale, Los Angeles County, California, 91210, United States",
+        "Intel, 12220, Scripps Summit Drive, San Diego, San Diego County, California, 92131, United States",
+        "Adobe, Little Italy, San Jose, Santa Clara County, California, United States"
+    ]
 }

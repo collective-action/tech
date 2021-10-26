@@ -30,6 +30,13 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            42.3582393,
+            -71.09664602558988
+        ]
+    ],
+    "addresses": [
+        "Massachusetts Institute of Technology, Kendall Square Transit Plaza, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02238, United States"
+    ]
 }

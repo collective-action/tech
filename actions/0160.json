@@ -31,6 +31,13 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.40344915,
+            -122.03322363608164
+        ]
+    ],
+    "addresses": [
+        "Google TC4, 809, 11th Avenue, Sunnyvale, Santa Clara County, California, 94089, United States"
+    ]
 }

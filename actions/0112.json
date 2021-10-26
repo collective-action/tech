@@ -27,6 +27,13 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.3974949,
+            -122.0842646
+        ]
+    ],
+    "addresses": [
+        "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, California, 94043, United States"
+    ]
 }

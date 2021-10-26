@@ -33,11 +33,16 @@
     ],
     "latlngs": [
         [
+            46.320207,
+            -112.1072224
+        ],
+        [
             37.4440869,
             -122.16287540411753
         ]
     ],
     "addresses": [
+        "Amazon, Jefferson County, Montana, United States",
         "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States"
     ]
 }

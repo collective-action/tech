@@ -28,6 +28,18 @@
     "author": [
         "@shushugah"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            47.572049050000004,
+            10.667775368755255
+        ],
+        [
+            47.68201895,
+            9.3864579
+        ]
+    ],
+    "addresses": [
+        "Bosch, ADAC, Schlichtling, F\u00fcssen, Landkreis Ostallg\u00e4u, Bayern, 87629, Deutschland",
+        "Bosch.IO, 7, Ziegelei, Alte Ziegelei / Steigwiesen, Immenstaad am Bodensee, Verwaltungsgemeinschaft Friedrichshafen, Bodenseekreis, Baden-W\u00fcrttemberg, 88090, Deutschland"
+    ]
 }

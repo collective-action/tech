@@ -31,6 +31,18 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            42.5032848,
+            -71.8857521
+        ],
+        [
+            42.5032848,
+            -71.8857521
+        ]
+    ],
+    "addresses": [
+        "Lyft Uber Pickup Location, Midstate Trail, Westminster, Worcester County, Massachusetts, United States",
+        "Lyft Uber Pickup Location, Midstate Trail, Westminster, Worcester County, Massachusetts, United States"
+    ]
 }

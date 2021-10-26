@@ -27,6 +27,13 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            40.52484925,
+            -105.07159884920989
+        ]
+    ],
+    "addresses": [
+        "AT&T, 4515, John F Kennedy Parkway, Fairway Estates, Fort Collins, Larimer County, Colorado, 80525-5962, United States"
+    ]
 }
