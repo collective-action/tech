@@ -932,15 +932,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                37.3361905,
-                -121.890583
-            ]
-        ],
-        "addresses": [
-            "San Jose, Santa Clara County, California, 95113, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 16,
