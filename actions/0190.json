@@ -28,18 +28,6 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            37.7753423,
-            -122.39763106771915
-        ],
-        [
-            37.7834546,
-            -122.4080358
-        ]
-    ],
-    "addresses": [
-        "UserTesting, 690, 5th Street, South of Market, San Francisco, San Francisco City and County, San Francisco, California, 94017, United States",
-        "Doordash HQ, Market Street, Union Square, San Francisco, San Francisco City and County, San Francisco, California, 94104, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

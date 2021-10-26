@@ -27,13 +27,6 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            39.7837304,
-            -100.445882
-        ]
-    ],
-    "addresses": [
-        "United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

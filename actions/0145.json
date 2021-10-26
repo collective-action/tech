@@ -30,13 +30,6 @@
     "author": [
         "bentarnoff"
     ],
-    "latlngs": [
-        [
-            40.7417176,
-            -74.0041592
-        ]
-    ],
-    "addresses": [
-        "Google, 111, 8th Avenue, Chelsea, Manhattan, New York County, New York, 10011, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

@@ -38,23 +38,6 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            18.6534612,
-            -91.8401158
-        ],
-        [
-            47.2269198,
-            8.8245459
-        ],
-        [
-            19.42437,
-            -99.168218
-        ]
-    ],
-    "addresses": [
-        "Ifood, Calle 61, FRACC. MARINA DEL REY, Ciudad del Carmen, Carmen, Campeche, 24100, M\u00e9xico",
-        "Rapperswil, Rapperswil-Jona, Wahlkreis See-Gaster, Sankt Gallen, 8640, Schweiz/Suisse/Svizzera/Svizra",
-        "Uber, Calle Hamburgo, Zona Rosa, Cuauht\u00e9moc, Ciudad de M\u00e9xico, 06600, M\u00e9xico"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

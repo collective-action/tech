@@ -29,13 +29,6 @@
     "author": [
         "@shushugah"
     ],
-    "latlngs": [
-        [
-            52.5248559,
-            13.4082467
-        ]
-    ],
-    "addresses": [
-        "Babbel, 2, Max-Beer-Stra\u00dfe, Scheunenviertel, Mitte, Berlin, 10119, Deutschland"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

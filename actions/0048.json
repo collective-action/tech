@@ -31,18 +31,6 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            37.3974949,
-            -122.0842646
-        ],
-        [
-            47.578722799999994,
-            -122.17154487755995
-        ]
-    ],
-    "addresses": [
-        "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, California, 94043, United States",
-        "Lionbridge, 3525, Factoria Boulevard Southeast, Factoria, Bellevue, King County, Washington, 98006, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

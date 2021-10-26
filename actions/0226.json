@@ -29,18 +29,6 @@
     "author": [
         "hyatt d."
     ],
-    "latlngs": [
-        [
-            33.977092,
-            -118.4092133
-        ],
-        [
-            43.0520142,
-            -87.8903172
-        ]
-    ],
-    "addresses": [
-        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
-        "Compass, Oak Leaf Trail, The East Side, Milwaukee, Milwaukee County, Wisconsin, 53202-2330, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }
