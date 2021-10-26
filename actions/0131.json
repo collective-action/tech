@@ -28,6 +28,13 @@
     "author": [
         "moates"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            26.0532941,
+            -98.3427189
+        ]
+    ],
+    "addresses": [
+        "Merida, Reynosa, Municipio de Reynosa, Tamaulipas, 88500, M\u00e9xico"
+    ]
 }

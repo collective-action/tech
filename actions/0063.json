@@ -27,6 +27,13 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            31.5877145,
+            -106.3916453
+        ]
+    ],
+    "addresses": [
+        "Lexmark, Boulevard Independencia, Municipio de Ju\u00e1rez, Chihuahua, 32696, M\u00e9xico"
+    ]
 }

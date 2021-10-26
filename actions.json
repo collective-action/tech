@@ -468,8 +468,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                47.5388725,
+                -122.2901728
+            ]
+        ],
+        "addresses": [
+            "Microsoft Gathering Hall, 32nd Avenue South, Holly Park, Rainier Valley, Seattle, King County, Washington, 98118, United States"
+        ]
     },
     {
         "id": 7,
@@ -810,8 +817,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.3361905,
+                -121.890583
+            ]
+        ],
+        "addresses": [
+            "San Jose, Santa Clara County, California, 95113, United States"
+        ]
     },
     {
         "id": 16,
@@ -1196,8 +1210,20 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                50.845334,
+                9.677958815746917
+            ],
+            [
+                51.36227055,
+                12.45231287033246
+            ]
+        ],
+        "addresses": [
+            "Amazon FRA1, Eichhof, Asbach, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
+            "Amazon Distribution GmbH, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland"
+        ]
     },
     {
         "id": 28,
@@ -2140,8 +2166,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                31.5877145,
+                -106.3916453
+            ]
+        ],
+        "addresses": [
+            "Lexmark, Boulevard Independencia, Municipio de Ju\u00e1rez, Chihuahua, 32696, M\u00e9xico"
+        ]
     },
     {
         "id": 55,
@@ -2825,8 +2858,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.4181243,
+                -122.02538023988251
+            ]
+        ],
+        "addresses": [
+            "Yahoo, Sunnyvale, Santa Clara County, California, United States"
+        ]
     },
     {
         "id": 408,
@@ -3741,8 +3781,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                51.5148804,
+                -0.0718856
+            ]
+        ],
+        "addresses": [
+            "Uber, 2, Leman Street, Spitalfields, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, E1 8FA, United Kingdom"
+        ]
     },
     {
         "id": 100,
@@ -3877,8 +3924,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                33.977092,
+                -118.4092133
+            ]
+        ],
+        "addresses": [
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
+        ]
     },
     {
         "id": 104,
@@ -4080,8 +4134,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.7673038,
+                -122.38860026918435
+            ]
+        ],
+        "addresses": [
+            "Uber, 1725, 3rd Street, Mission Bay, San Francisco, San Francisco City and County, San Francisco, California, 94158, United States"
+        ]
     },
     {
         "id": 110,
@@ -4450,8 +4511,15 @@
         "author": [
             "moates"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                26.0532941,
+                -98.3427189
+            ]
+        ],
+        "addresses": [
+            "Merida, Reynosa, Municipio de Reynosa, Tamaulipas, 88500, M\u00e9xico"
+        ]
     },
     {
         "id": 121,
@@ -5704,8 +5772,20 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                46.320207,
+                -112.1072224
+            ],
+            [
+                37.4440869,
+                -122.16287540411753
+            ]
+        ],
+        "addresses": [
+            "Amazon, Jefferson County, Montana, United States",
+            "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States"
+        ]
     },
     {
         "id": 156,
@@ -7112,8 +7192,15 @@
         "author": [
             "moates"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                40.444185950000005,
+                -79.94272039927895
+            ]
+        ],
+        "addresses": [
+            "Carnegie Mellon University, Fifth Avenue, Squirrel Hill North, Pittsburgh, Allegheny County, Pennsylvania, 15232-2131, United States"
+        ]
     },
     {
         "id": 195,
@@ -7866,8 +7953,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                53.40766365,
+                -1.4300128864588455
+            ]
+        ],
+        "addresses": [
+            "Amazon, Holywell Road, Grimesthorpe, Sheffield, Yorkshire and the Humber, England, S4 8AR, United Kingdom"
+        ]
     },
     {
         "id": 215,
@@ -8126,8 +8220,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                38.6767343,
+                -121.4948028
+            ]
+        ],
+        "addresses": [
+            "Amazon Avenue, Sacramento, Sacramento County, California, 95835, United States"
+        ]
     },
     {
         "id": 223,
@@ -9701,8 +9802,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                22.6677719,
+                114.0488435
+            ]
+        ],
+        "addresses": [
+            "\u534e\u4e3a, \u73e0\u4e09\u89d2\u73af\u7ebf\u9ad8\u901f, \u9f99\u534e\u8857\u9053, \u9f99\u534e\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518110, \u4e2d\u56fd"
+        ]
     },
     {
         "id": 259,
@@ -11881,8 +11989,15 @@
         "author": [
             "hyatt d."
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                46.320207,
+                -112.1072224
+            ]
+        ],
+        "addresses": [
+            "Amazon, Jefferson County, Montana, United States"
+        ]
     },
     {
         "id": 350,
@@ -12021,8 +12136,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.7673038,
+                -122.38860026918435
+            ]
+        ],
+        "addresses": [
+            "Uber, 1725, 3rd Street, Mission Bay, San Francisco, San Francisco City and County, San Francisco, California, 94158, United States"
+        ]
     },
     {
         "id": 355,
@@ -13143,8 +13265,15 @@
         "author": [
             "hyatt d."
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                40.7417176,
+                -74.0041592
+            ]
+        ],
+        "addresses": [
+            "Google, 111, 8th Avenue, Chelsea, Manhattan Community Board 4, Manhattan, New York County, New York, 10011, United States"
+        ]
     },
     {
         "id": 396,

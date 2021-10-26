@@ -29,6 +29,13 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            53.40766365,
+            -1.4300128864588455
+        ]
+    ],
+    "addresses": [
+        "Amazon, Holywell Road, Grimesthorpe, Sheffield, Yorkshire and the Humber, England, S4 8AR, United Kingdom"
+    ]
 }
