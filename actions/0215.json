@@ -31,6 +31,13 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            47.6490619,
+            -122.3479148
+        ]
+    ],
+    "addresses": [
+        "Tableau Software, 837, North 34th Street, Fremont, Seattle, King County, Washington, 98103, United States"
+    ]
 }

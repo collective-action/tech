@@ -31,6 +31,23 @@
     "author": [
         "hyatt d."
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            50.845334,
+            9.677958815746917
+        ],
+        [
+            51.653494949999995,
+            7.59464606445661
+        ],
+        [
+            51.5371004,
+            6.5876793
+        ]
+    ],
+    "addresses": [
+        "Amazon FRA1, Eichhof, Asbach, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
+        "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
+        "Amazon, Amazonstra\u00dfe, Winterswick, Rheinberg, Kreis Wesel, Nordrhein-Westfalen, 47495, Deutschland"
+    ]
 }

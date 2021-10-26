@@ -28,6 +28,13 @@
     "author": [
         "hyatt d."
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            18.521428,
+            73.8544541
+        ]
+    ],
+    "addresses": [
+        "Pune City, Pune District, Maharashtra, India"
+    ]
 }

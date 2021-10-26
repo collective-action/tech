@@ -31,13 +31,6 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            36.1269453,
-            -115.1689215
-        ]
-    ],
-    "addresses": [
-        "AT&T, South Las Vegas Boulevard, Paradise, Hughes Center, Clark County, Nevada, 89123, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

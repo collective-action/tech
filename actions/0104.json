@@ -27,6 +27,13 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            40.4593249,
+            -3.4602878
+        ]
+    ],
+    "addresses": [
+        "Amazon, Avenida de la Constituci\u00f3n, Torrej\u00f3n de Ardoz, \u00c1rea metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28859, Espa\u00f1a"
+    ]
 }

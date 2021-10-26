@@ -32,6 +32,13 @@
     "author": [
         "william boag"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            47.6310393,
+            -122.3744898
+        ]
+    ],
+    "addresses": [
+        "Chef Shop, 1425, Elliott Avenue West, Queen Anne, Seattle, King County, Washington, 98119, United States"
+    ]
 }

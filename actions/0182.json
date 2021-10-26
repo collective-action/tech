@@ -29,18 +29,6 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            46.320207,
-            -112.1072224
-        ],
-        [
-            42.321508800000004,
-            -71.11090220594383
-        ]
-    ],
-    "addresses": [
-        "Amazon, Jefferson County, Montana, United States",
-        "Whole Foods Market, 413, Centre Street, Jamaica Plain, Boston, Suffolk County, Massachusetts, 02130, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

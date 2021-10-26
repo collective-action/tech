@@ -34,13 +34,6 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            48.837679,
-            2.3909358
-        ]
-    ],
-    "addresses": [
-        "Amazon, 235, Rue de Charenton, Quartier de Picpus, Paris 12e Arrondissement, Paris, \u00cele-de-France, France m\u00e9tropolitaine, 75012, France"
-    ]
+    "latlngs": null,
+    "addresses": null
 }
