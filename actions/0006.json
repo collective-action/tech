@@ -27,6 +27,13 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            41.8805458,
+            -87.6339601
+        ]
+    ],
+    "addresses": [
+        "AT&T, West Monroe Street, Loop, Chicago, Cook County, Illinois, 60603, United States"
+    ]
 }

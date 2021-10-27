@@ -34,13 +34,6 @@
     "author": [
         "Worker26"
     ],
-    "latlngs": [
-        [
-            54.4051916,
-            9.4248338
-        ]
-    ],
-    "addresses": [
-        "Berlin, Potsdam, Klein Bennebek, Kropp-Stapelholm, Schleswig-Flensburg, Schleswig-Holstein, 24848, Deutschland"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

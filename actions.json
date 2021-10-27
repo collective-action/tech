@@ -255,8 +255,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                41.8805458,
+                -87.6339601
+            ]
+        ],
+        "addresses": [
+            "AT&T, West Monroe Street, Loop, Chicago, Cook County, Illinois, 60603, United States"
+        ]
     },
     {
         "id": 3,
@@ -517,8 +524,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                47.5388725,
+                -122.2901728
+            ]
+        ],
+        "addresses": [
+            "Microsoft Gathering Hall, 32nd Avenue South, Holly Park, Rainier Valley, Seattle, King County, Washington, 98118, United States"
+        ]
     },
     {
         "id": 7,
@@ -841,15 +855,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                37.3361905,
-                -121.890583
-            ]
-        ],
-        "addresses": [
-            "San Jose, Santa Clara County, California, 95113, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 14,
@@ -918,8 +925,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.3361905,
+                -121.890583
+            ]
+        ],
+        "addresses": [
+            "San Jose, Santa Clara County, California, 95113, United States"
+        ]
     },
     {
         "id": 16,
@@ -1353,11 +1367,16 @@
         ],
         "latlngs": [
             [
+                50.845334,
+                9.677958815746917
+            ],
+            [
                 51.36227055,
                 12.45231287033246
             ]
         ],
         "addresses": [
+            "Amazon FRA1, Eichhof, Asbach, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
             "Amazon Distribution GmbH, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland"
         ]
     },
@@ -2813,8 +2832,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                39.7837304,
+                -100.445882
+            ]
+        ],
+        "addresses": [
+            "United States"
+        ]
     },
     {
         "id": 63,
@@ -4342,8 +4368,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                52.4746766,
+                -1.91586332385543
+            ]
+        ],
+        "addresses": [
+            "UBER, 100, Broad Street, Ladywood, Park Central, Birmingham, West Midlands Combined Authority, West Midlands, England, B15 1AE, United Kingdom"
+        ]
     },
     {
         "id": 100,
@@ -4497,8 +4530,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                33.977092,
+                -118.4092133
+            ]
+        ],
+        "addresses": [
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
+        ]
     },
     {
         "id": 104,
@@ -4871,8 +4911,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                34.7284406,
+                113.7595316
+            ]
+        ],
+        "addresses": [
+            "Foxconn Technology Group, \u7ecf\u5317\u4e8c\u8def, \u7ba1\u57ce\u56de\u65cf\u533a, \u90d1\u5dde\u5e02, \u6cb3\u5357\u7701, 450046, \u4e2d\u56fd"
+        ]
     },
     {
         "id": 113,
@@ -5156,8 +5203,15 @@
         "author": [
             "moates"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                20.9670759,
+                -89.6237402
+            ]
+        ],
+        "addresses": [
+            "M\u00e9rida, Yucat\u00e1n, M\u00e9xico"
+        ]
     },
     {
         "id": 121,
@@ -5674,15 +5728,8 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": [
-            [
-                31.2969721,
-                121.1624993
-            ]
-        ],
-        "addresses": [
-            "Alibaba, \u660c\u5409\u8def, \u5b89\u4ead\u9547, \u5609\u5b9a\u533a, \u4e0a\u6d77\u5e02, 215332, \u4e2d\u56fd"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 134,
@@ -6451,15 +6498,8 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": [
-            [
-                42.3506879,
-                -71.0732592
-            ]
-        ],
-        "addresses": [
-            "Wayfair, 222, Berkeley Street, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 152,
@@ -7068,15 +7108,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                48.1386201,
-                11.5776179
-            ]
-        ],
-        "addresses": [
-            "Google, Hofgraben, Graggenauerviertel, Graggenau, Altstadt-Lehel, M\u00fcnchen, Bayern, 80331, Deutschland"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 272,
@@ -8268,8 +8301,15 @@
         "author": [
             "moates"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                40.444185950000005,
+                -79.94272039927895
+            ]
+        ],
+        "addresses": [
+            "Carnegie Mellon University, Hamerschlag Drive, Squirrel Hill North, Pittsburgh, Allegheny County, Pennsylvania, 15213-3704, United States"
+        ]
     },
     {
         "id": 195,
@@ -8803,6 +8843,10 @@
                 -122.4121644
             ],
             [
+                40.7321996,
+                -73.9598257
+            ],
+            [
                 40.7007485,
                 -73.9725542
             ]
@@ -8810,6 +8854,7 @@
         "addresses": [
             "Google - San Francisco, 345, Spear Street, Rincon Hill, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States",
             "WeWork, Mission Street, West SoMa, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States",
+            "Kickstarter HQ, West Street, Brooklyn, Kings County, New York, 11222, United States",
             "WeWork, Market Street, Brooklyn Navy Yard, Brooklyn, Kings County, New York, 11251, United States"
         ]
     },
@@ -9027,15 +9072,8 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": [
-            [
-                37.7894073,
-                -122.3895538
-            ]
-        ],
-        "addresses": [
-            "Google - San Francisco, 345, Spear Street, Rincon Hill, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 212,
@@ -10445,8 +10483,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.3974949,
+                -122.0842646
+            ]
+        ],
+        "addresses": [
+            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, California, 94043, United States"
+        ]
     },
     {
         "id": 343,
@@ -12326,6 +12371,14 @@
                 -46.76732571122068
             ],
             [
+                -23.0017437,
+                -45.5600722
+            ],
+            [
+                -21.2180398,
+                -47.7985009230547
+            ],
+            [
                 43.0770299,
                 12.4143374
             ],
@@ -12356,6 +12409,8 @@
         ],
         "addresses": [
             "iFood, 1496, Avenida dos Autonomistas, Osasco, Regi\u00e3o Imediata de S\u00e3o Paulo, Regi\u00e3o Metropolitana de S\u00e3o Paulo, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de S\u00e3o Paulo, S\u00e3o Paulo, Regi\u00e3o Sudeste, 06020-010, Brasil",
+            "Rappi 10, Avenida Santa Cruz do Are\u00e3o, Parque S\u00e3o Jorge, Are\u00e3o, Taubat\u00e9, Regi\u00e3o Imediata de Taubat\u00e9-Pindamonhangaba, Regi\u00e3o Metropolitana do Vale do Para\u00edba e Litoral Norte, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de S\u00e3o Jos\u00e9 dos Campos, S\u00e3o Paulo, Regi\u00e3o Sudeste, 12060-800, Brasil",
+            "Parque Uber, Jardim Bot\u00e2nico, Ribeir\u00e3o Preto, Regi\u00e3o Imediata de Ribeir\u00e3o Preto, Regi\u00e3o Metropolitana de Ribeir\u00e3o Preto, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Ribeir\u00e3o Preto, S\u00e3o Paulo, Regi\u00e3o Sudeste, Brasil",
             "Strada dei Loggi, Balanzano, Montebello, Ponte San Giovanni, Perugia, Umbria, 06154, Italia",
             "MI TIERRA AG - vinoteca argentina, 7, Alpenstrasse, Rapperswil, Rapperswil-Jona, Wahlkreis See-Gaster, Sankt Gallen, 8640, Schweiz/Suisse/Svizzera/Svizra",
             "\u00dcber, Thalwenden, Uder, Landkreis Eichsfeld, Th\u00fcringen, 37318, Deutschland",
@@ -12912,15 +12967,8 @@
         "author": [
             "Worker26"
         ],
-        "latlngs": [
-            [
-                54.4051916,
-                9.4248338
-            ]
-        ],
-        "addresses": [
-            "Berlin, Potsdam, Klein Bennebek, Kropp-Stapelholm, Schleswig-Flensburg, Schleswig-Holstein, 24848, Deutschland"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 310,
@@ -13769,15 +13817,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                33.97670635,
-                -118.41819635850888
-            ]
-        ],
-        "addresses": [
-            "Whole Foods Market, McConnell Avenue, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 419,
@@ -15666,25 +15707,8 @@
         "author": [
             "hyatt d."
         ],
-        "latlngs": [
-            [
-                43.841860749999995,
-                11.166183284518766
-            ],
-            [
-                43.841860749999995,
-                11.166183284518766
-            ],
-            [
-                43.7245809,
-                10.3897394
-            ]
-        ],
-        "addresses": [
-            "Amazon, Via Baldanzese, Settimello, Sesto Fiorentino, Firenze, Toscana, 50019, Italia",
-            "Amazon, Via Baldanzese, Settimello, Sesto Fiorentino, Firenze, Toscana, 50019, Italia",
-            "Amazon Locker, Viale delle Cascine, Gagno, Pisa, Toscana, 56123, Italia"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 450,
