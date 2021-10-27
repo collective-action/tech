@@ -29,6 +29,13 @@
     "author": [
         "hyatt d."
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            41.84040105,
+            -87.68351928672685
+        ]
+    ],
+    "addresses": [
+        "Amazon Distribution, 2801, South Western Avenue, Lower West Side, Chicago, Cook County, Illinois, 60608, United States"
+    ]
 }
