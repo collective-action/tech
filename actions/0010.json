@@ -30,6 +30,13 @@
     "author": [
         "CM"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            38.64577295,
+            -121.16569779442514
+        ]
+    ],
+    "addresses": [
+        "Intel Corporation, Natoma Station, Folsom, Sacramento County, California, United States"
+    ]
 }

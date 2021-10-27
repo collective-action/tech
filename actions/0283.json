@@ -30,6 +30,13 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            44.80059945,
+            -93.48865500885567
+        ]
+    ],
+    "addresses": [
+        "Amazon Fullfillment Center MSP1, 2601, 4th Avenue East, Shakopee, Scott County, Minnesota, 55379, United States"
+    ]
 }
