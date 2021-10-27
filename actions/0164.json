@@ -31,13 +31,6 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            37.7894073,
-            -122.3895538
-        ]
-    ],
-    "addresses": [
-        "Google - San Francisco, 345, Spear Street, Rincon Hill, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }
