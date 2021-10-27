@@ -255,8 +255,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                41.8805458,
+                -87.6339601
+            ]
+        ],
+        "addresses": [
+            "AT&T, West Monroe Street, Loop, Chicago, Cook County, Illinois, 60603, United States"
+        ]
     },
     {
         "id": 3,
@@ -848,15 +855,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                37.3361905,
-                -121.890583
-            ]
-        ],
-        "addresses": [
-            "San Jose, Santa Clara County, California, 95113, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 14,
@@ -1822,6 +1822,14 @@
         ],
         "latlngs": [
             [
+                33.977092,
+                -118.4092133
+            ],
+            [
+                34.1443979,
+                -118.257051
+            ],
+            [
                 32.939795,
                 -117.1026021
             ],
@@ -1831,6 +1839,8 @@
             ]
         ],
         "addresses": [
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
+            "Apple Store, 877, Americana Way, Glendale, Los Angeles County, California, 91210, United States",
             "Intel, 12220, Scripps Summit Drive, San Diego, San Diego County, California, 92131, United States",
             "Adobe, Little Italy, San Jose, Santa Clara County, California, United States"
         ]
@@ -2182,8 +2192,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.3326452,
+                -122.0299129658936
+            ]
+        ],
+        "addresses": [
+            "Apple Campus, Cupertino, Santa Clara County, California, United States"
+        ]
     },
     {
         "id": 48,
@@ -2846,8 +2863,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                41.32038665,
+                -73.67869784162318
+            ]
+        ],
+        "addresses": [
+            "IBM, Lake Purdy, Town of Somers, Westchester County, New York, United States"
+        ]
     },
     {
         "id": 64,
@@ -3009,8 +3033,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                30.2691649,
+                -97.7455041
+            ]
+        ],
+        "addresses": [
+            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
+        ]
     },
     {
         "id": 68,
@@ -3088,11 +3119,16 @@
         ],
         "latlngs": [
             [
+                33.80967965,
+                -117.83605415
+            ],
+            [
                 36.1269453,
                 -115.1689215
             ]
         ],
         "addresses": [
+            "AT&T, 1302, North Tustin Street, Orange, Orange County, California, 92867, United States",
             "AT&T, South Las Vegas Boulevard, Paradise, Hughes Center, Clark County, Nevada, 89123, United States"
         ]
     },
@@ -3252,8 +3288,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                40.722465,
+                -73.9977307
+            ]
+        ],
+        "addresses": [
+            "Amazon, 72, Spring Street, Manhattan Community Board 2, Manhattan, New York County, New York, 10013, United States"
+        ]
     },
     {
         "id": 74,
@@ -4854,8 +4897,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                34.7284406,
+                113.7595316
+            ]
+        ],
+        "addresses": [
+            "Foxconn Technology Group, \u7ecf\u5317\u4e8c\u8def, \u7ba1\u57ce\u56de\u65cf\u533a, \u90d1\u5dde\u5e02, \u6cb3\u5357\u7701, 450046, \u4e2d\u56fd"
+        ]
     },
     {
         "id": 113,
@@ -6484,8 +6534,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.7894073,
+                -122.3895538
+            ]
+        ],
+        "addresses": [
+            "Google - San Francisco, 345, Spear Street, Rincon Hill, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States"
+        ]
     },
     {
         "id": 153,
@@ -6886,10 +6943,15 @@
             [
                 37.7673038,
                 -122.38860026918435
+            ],
+            [
+                37.7759881,
+                -122.3919991
             ]
         ],
         "addresses": [
-            "Uber, 1725, 3rd Street, Mission Bay, San Francisco, San Francisco City and County, San Francisco, California, 94158, United States"
+            "Uber, 1725, 3rd Street, Mission Bay, San Francisco, San Francisco City and County, San Francisco, California, 94158, United States",
+            "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, San Francisco, California, 94107, United States"
         ]
     },
     {
@@ -7309,8 +7371,25 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.7834546,
+                -122.4080358
+            ],
+            [
+                65.4102317,
+                -163.0526448
+            ],
+            [
+                40.7000871,
+                -73.6909527
+            ]
+        ],
+        "addresses": [
+            "Doordash HQ, Market Street, Union Square, San Francisco, San Francisco City and County, San Francisco, California, 94104, United States",
+            "Caviar Creek, Nome, Alaska, United States",
+            "USA, Meacham Avenue, Franklin Square, Town of Hempstead, Nassau County, New York, 11003, United States"
+        ]
     },
     {
         "id": 173,
@@ -7497,8 +7576,20 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.7753423,
+                -122.39763106771915
+            ],
+            [
+                37.7834546,
+                -122.4080358
+            ]
+        ],
+        "addresses": [
+            "UserTesting, 690, 5th Street, South of Market, San Francisco, San Francisco City and County, San Francisco, California, 94017, United States",
+            "Doordash HQ, Market Street, Union Square, San Francisco, San Francisco City and County, San Francisco, California, 94104, United States"
+        ]
     },
     {
         "id": 178,
@@ -7566,8 +7657,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                47.6224574,
+                -122.33650433873851
+            ]
+        ],
+        "addresses": [
+            "Amazon, Belltown, Seattle, King County, Washington, 98109-5210, United States"
+        ]
     },
     {
         "id": 180,
@@ -7768,8 +7866,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                47.5388725,
+                -122.2901728
+            ]
+        ],
+        "addresses": [
+            "Microsoft Gathering Hall, 32nd Avenue South, Holly Park, Rainier Valley, Seattle, King County, Washington, 98118, United States"
+        ]
     },
     {
         "id": 449,
@@ -8203,8 +8308,15 @@
         "author": [
             "moates"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                40.444185950000005,
+                -79.94272039927895
+            ]
+        ],
+        "addresses": [
+            "Carnegie Mellon University, Hamerschlag Drive, Squirrel Hill North, Pittsburgh, Allegheny County, Pennsylvania, 15213-3704, United States"
+        ]
     },
     {
         "id": 195,
@@ -8350,8 +8462,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.3974949,
+                -122.0842646
+            ]
+        ],
+        "addresses": [
+            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, California, 94043, United States"
+        ]
     },
     {
         "id": 199,
@@ -8383,8 +8502,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                47.3793085,
+                8.5307904
+            ]
+        ],
+        "addresses": [
+            "Google, 1, Gustav-Gull-Platz, Langstrasse, Aussersihl, Z\u00fcrich, Bezirk Z\u00fcrich, Z\u00fcrich, 8004, Schweiz/Suisse/Svizzera/Svizra"
+        ]
     },
     {
         "id": 200,
@@ -8995,8 +9121,15 @@
         "author": [
             "ericandrewlewis"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                40.6194923,
+                -74.0729948
+            ]
+        ],
+        "addresses": [
+            "Amazon Court, Clifton, Staten Island, Richmond County, New York, 10304, United States"
+        ]
     },
     {
         "id": 213,
@@ -9263,8 +9396,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                41.84040105,
+                -87.68351928672685
+            ]
+        ],
+        "addresses": [
+            "Amazon Distribution, 2801, South Western Avenue, Lower West Side, Chicago, Cook County, Illinois, 60608, United States"
+        ]
     },
     {
         "id": 219,
@@ -10950,8 +11090,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                33.9985319,
+                -117.5528503240254
+            ]
+        ],
+        "addresses": [
+            "Amazon LGB3 Fulfillment Center;Amazon, 4950, Goodman Way, Eastvale, Riverside County, California, 91752, United States"
+        ]
     },
     {
         "id": 254,
@@ -12383,8 +12530,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                47.3793085,
+                8.5307904
+            ]
+        ],
+        "addresses": [
+            "Google, 1, Gustav-Gull-Platz, Langstrasse, Aussersihl, Z\u00fcrich, Bezirk Z\u00fcrich, Z\u00fcrich, 8004, Schweiz/Suisse/Svizzera/Svizra"
+        ]
     },
     {
         "id": 399,

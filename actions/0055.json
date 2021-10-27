@@ -32,6 +32,13 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.3326452,
+            -122.0299129658936
+        ]
+    ],
+    "addresses": [
+        "Apple Campus, Cupertino, Santa Clara County, California, United States"
+    ]
 }

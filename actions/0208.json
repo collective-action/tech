@@ -31,6 +31,13 @@
     "author": [
         "moates"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            40.444185950000005,
+            -79.94272039927895
+        ]
+    ],
+    "addresses": [
+        "Carnegie Mellon University, Hamerschlag Drive, Squirrel Hill North, Pittsburgh, Allegheny County, Pennsylvania, 15213-3704, United States"
+    ]
 }
