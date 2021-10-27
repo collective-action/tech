@@ -855,8 +855,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.3361905,
+                -121.890583
+            ]
+        ],
+        "addresses": [
+            "San Jose, Santa Clara County, California, 95113, United States"
+        ]
     },
     {
         "id": 14,
@@ -1826,6 +1833,10 @@
                 -118.4092133
             ],
             [
+                34.1443979,
+                -118.257051
+            ],
+            [
                 32.939795,
                 -117.1026021
             ],
@@ -1836,6 +1847,7 @@
         ],
         "addresses": [
             "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
+            "Apple Store, 877, Americana Way, Glendale, Los Angeles County, California, 91210, United States",
             "Intel, 12220, Scripps Summit Drive, San Diego, San Diego County, California, 92131, United States",
             "Adobe, Little Italy, San Jose, Santa Clara County, California, United States"
         ]
@@ -2458,8 +2470,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.389317899999995,
+                -121.97901174515997
+            ]
+        ],
+        "addresses": [
+            "McAfee, Mission College Boulevard, Santa Clara, Santa Clara County, California, 95054-1231, United States"
+        ]
     },
     {
         "id": 54,
@@ -3114,11 +3133,16 @@
         ],
         "latlngs": [
             [
+                33.80967965,
+                -117.83605415
+            ],
+            [
                 36.1269453,
                 -115.1689215
             ]
         ],
         "addresses": [
+            "AT&T, 1302, North Tustin Street, Orange, Orange County, California, 92867, United States",
             "AT&T, South Las Vegas Boulevard, Paradise, Hughes Center, Clark County, Nevada, 89123, United States"
         ]
     },
@@ -3481,8 +3505,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.4417249,
+                -122.1725159
+            ]
+        ],
+        "addresses": [
+            "Apple Store, Stanford Shopping Center, Stanford, Palo Alto, Santa Clara County, California, 94304, United States"
+        ]
     },
     {
         "id": 78,
@@ -6517,8 +6548,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.7894073,
+                -122.3895538
+            ]
+        ],
+        "addresses": [
+            "Google - San Francisco, 345, Spear Street, Rincon Hill, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States"
+        ]
     },
     {
         "id": 153,
@@ -8203,15 +8241,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                38.6767343,
-                -121.4948028
-            ]
-        ],
-        "addresses": [
-            "Amazon Avenue, Sacramento, Sacramento County, California, 95835, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 193,
@@ -8241,8 +8272,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                40.7321996,
+                -73.9598257
+            ]
+        ],
+        "addresses": [
+            "Kickstarter HQ, West Street, Brooklyn, Kings County, New York, 11222, United States"
+        ]
     },
     {
         "id": 194,
@@ -8277,8 +8315,15 @@
         "author": [
             "moates"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                40.444185950000005,
+                -79.94272039927895
+            ]
+        ],
+        "addresses": [
+            "Carnegie Mellon University, Hamerschlag Drive, Squirrel Hill North, Pittsburgh, Allegheny County, Pennsylvania, 15213-3704, United States"
+        ]
     },
     {
         "id": 195,
@@ -10087,15 +10132,8 @@
         "author": [
             "@shushugah"
         ],
-        "latlngs": [
-            [
-                52.5248559,
-                13.4082467
-            ]
-        ],
-        "addresses": [
-            "Babbel, 2, Max-Beer-Stra\u00dfe, Scheunenviertel, Mitte, Berlin, 10119, Deutschland"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 236,
