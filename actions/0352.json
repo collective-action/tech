@@ -26,13 +26,6 @@
     "workers": null,
     "tags": null,
     "author": null,
-    "latlngs": [
-        [
-            37.7271031,
-            -122.477099
-        ]
-    ],
-    "addresses": [
-        "Verizon, Winston Drive, San Francisco, San Francisco City and County, San Francisco, California, 94132, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }
