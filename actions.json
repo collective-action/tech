@@ -740,7 +740,7 @@
         ],
         "addresses": [
             "Colliers International; E-Trade Financial; IBM, 4660, La Jolla Village Drive, University City, San Diego, San Diego County, California, 92039, United States",
-            "HP, Page Mill Road, Palo Alto, Santa Clara County, California, 94304, United States",
+            "HP, Peter Coutts Circle, Stanford, Santa Clara County, California, 94304-1050, United States",
             "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, California, 94043, United States"
         ]
     },
@@ -855,15 +855,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                37.3361905,
-                -121.890583
-            ]
-        ],
-        "addresses": [
-            "San Jose, Santa Clara County, California, 95113, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 14,
@@ -932,15 +925,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                37.3361905,
-                -121.890583
-            ]
-        ],
-        "addresses": [
-            "San Jose, Santa Clara County, California, 95113, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 16,
@@ -2604,8 +2590,8 @@
         ],
         "latlngs": [
             [
-                37.7673038,
-                -122.38860026918435
+                37.7756962,
+                -122.4180838
             ],
             [
                 42.5032848,
@@ -2613,8 +2599,8 @@
             ]
         ],
         "addresses": [
-            "Uber, 1725, 3rd Street, Mission Bay, San Francisco, San Francisco City and County, San Francisco, California, 94158, United States",
-            "Lyft Uber Pickup Location, Midstate Trail, Westminster, Worcester County, Massachusetts, United States"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States",
+            "Lyft Uber Pickup Location, Midstate Trail, Westminster, Worcester County, Massachusetts, 01541, United States"
         ]
     },
     {
@@ -2690,12 +2676,12 @@
         ],
         "latlngs": [
             [
-                51.58489745,
-                -0.11333842774111015
+                51.5314216,
+                -0.1113624
             ]
         ],
         "addresses": [
-            "Deliveroo Editions, Cranford Way, Haringey Heartlands, Hornsey, London Borough of Haringey, London, Greater London, England, N8 9DG, United Kingdom"
+            "Deliveroo, Pentonville Road, Pentonville, Barnsbury, London Borough of Islington, London, Greater London, England, N1 9JB, United Kingdom"
         ]
     },
     {
@@ -3512,15 +3498,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                37.4417249,
-                -122.1725159
-            ]
-        ],
-        "addresses": [
-            "Apple Store, Stanford Shopping Center, Stanford, Palo Alto, Santa Clara County, California, 94304, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 78,
@@ -5784,7 +5763,7 @@
             ]
         ],
         "addresses": [
-            "Google, 111, 8th Avenue, Chelsea, Manhattan, New York County, New York, 10011, United States"
+            "Google, 111, 8th Avenue, West Village, Chelsea, Manhattan, New York County, New York, 10011, United States"
         ]
     },
     {
@@ -7009,17 +6988,17 @@
         ],
         "latlngs": [
             [
-                37.7673038,
-                -122.38860026918435
+                37.7756962,
+                -122.4180838
             ],
             [
-                37.7759881,
-                -122.3919991
+                37.7509149,
+                -122.40246883416269
             ]
         ],
         "addresses": [
-            "Uber, 1725, 3rd Street, Mission Bay, San Francisco, San Francisco City and County, San Francisco, California, 94158, United States",
-            "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, San Francisco, California, 94107, United States"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States",
+            "Lyft, Kansas Street, Potrero Terrace, San Francisco, San Francisco City and County, San Francisco, California, 94124, United States"
         ]
     },
     {
@@ -7732,8 +7711,8 @@
             ]
         ],
         "addresses": [
-            "Lyft Uber Pickup Location, Midstate Trail, Westminster, Worcester County, Massachusetts, United States",
-            "Lyft Uber Pickup Location, Midstate Trail, Westminster, Worcester County, Massachusetts, United States"
+            "Lyft Uber Pickup Location, Midstate Trail, Westminster, Worcester County, Massachusetts, 01541, United States",
+            "Lyft Uber Pickup Location, Midstate Trail, Westminster, Worcester County, Massachusetts, 01541, United States"
         ]
     },
     {
@@ -8525,12 +8504,12 @@
         ],
         "latlngs": [
             [
-                47.3793085,
-                8.5307904
+                47.3790106,
+                8.5326056
             ]
         ],
         "addresses": [
-            "Google, 1, Gustav-Gull-Platz, Langstrasse, Aussersihl, Z\u00fcrich, Bezirk Z\u00fcrich, Z\u00fcrich, 8004, Schweiz/Suisse/Svizzera/Svizra"
+            "Google, 38, Europaallee, Langstrasse, Aussersihl, Z\u00fcrich, Bezirk Z\u00fcrich, Z\u00fcrich, 8004, Schweiz/Suisse/Svizzera/Svizra"
         ]
     },
     {
@@ -8960,12 +8939,12 @@
         ],
         "latlngs": [
             [
-                37.7894073,
-                -122.3895538
+                37.7933154,
+                -122.3945205
             ]
         ],
         "addresses": [
-            "Google - San Francisco, 345, Spear Street, Rincon Hill, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States"
+            "Google One Market, 1, Market Street, Financial District, San Francisco, San Francisco City and County, San Francisco, California, 94111, United States"
         ]
     },
     {
@@ -9009,8 +8988,8 @@
                 -122.08237596053958
             ],
             [
-                37.7894073,
-                -122.3895538
+                37.7933154,
+                -122.3945205
             ],
             [
                 37.7249773,
@@ -9019,7 +8998,7 @@
         ],
         "addresses": [
             "Google, Mountain View, Santa Clara County, California, United States",
-            "Google - San Francisco, 345, Spear Street, Rincon Hill, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States",
+            "Google One Market, 1, Market Street, Financial District, San Francisco, San Francisco City and County, San Francisco, California, 94111, United States",
             "LT Group - Compass Real Estate, Ocean Avenue, Ingleside, San Francisco, San Francisco City and County, San Francisco, California, 94112, United States"
         ]
     },
@@ -9102,12 +9081,12 @@
         ],
         "latlngs": [
             [
-                37.7894073,
-                -122.3895538
+                37.7933154,
+                -122.3945205
             ]
         ],
         "addresses": [
-            "Google - San Francisco, 345, Spear Street, Rincon Hill, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States"
+            "Google One Market, 1, Market Street, Financial District, San Francisco, San Francisco City and County, San Francisco, California, 94111, United States"
         ]
     },
     {
@@ -12414,20 +12393,16 @@
                 -47.7985009230547
             ],
             [
-                43.0770299,
-                12.4143374
+                43.0890186,
+                12.4292444
             ],
             [
                 47.2260752,
                 8.8172776
             ],
             [
-                51.3551751,
-                10.0402186
-            ],
-            [
-                43.0770299,
-                12.4143374
+                43.0890186,
+                12.4292444
             ],
             [
                 18.6534612,
@@ -12446,10 +12421,9 @@
             "iFood, 1496, Avenida dos Autonomistas, Osasco, Regi\u00e3o Imediata de S\u00e3o Paulo, Regi\u00e3o Metropolitana de S\u00e3o Paulo, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de S\u00e3o Paulo, S\u00e3o Paulo, Regi\u00e3o Sudeste, 06020-010, Brasil",
             "Rappi 10, Avenida Santa Cruz do Are\u00e3o, Parque S\u00e3o Jorge, Are\u00e3o, Taubat\u00e9, Regi\u00e3o Imediata de Taubat\u00e9-Pindamonhangaba, Regi\u00e3o Metropolitana do Vale do Para\u00edba e Litoral Norte, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de S\u00e3o Jos\u00e9 dos Campos, S\u00e3o Paulo, Regi\u00e3o Sudeste, 12060-800, Brasil",
             "Parque Uber, Jardim Bot\u00e2nico, Ribeir\u00e3o Preto, Regi\u00e3o Imediata de Ribeir\u00e3o Preto, Regi\u00e3o Metropolitana de Ribeir\u00e3o Preto, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Ribeir\u00e3o Preto, S\u00e3o Paulo, Regi\u00e3o Sudeste, Brasil",
-            "Strada dei Loggi, Balanzano, Montebello, Ponte San Giovanni, Perugia, Umbria, 06154, Italia",
+            "Strada dei Loggi, Ponte San Giovanni, Perugia, Umbria, 06154, Italia",
             "MI TIERRA AG - vinoteca argentina, 7, Alpenstrasse, Rapperswil, Rapperswil-Jona, Wahlkreis See-Gaster, Sankt Gallen, 8640, Schweiz/Suisse/Svizzera/Svizra",
-            "\u00dcber, Thalwenden, Uder, Landkreis Eichsfeld, Th\u00fcringen, 37318, Deutschland",
-            "Strada dei Loggi, Balanzano, Montebello, Ponte San Giovanni, Perugia, Umbria, 06154, Italia",
+            "Strada dei Loggi, Ponte San Giovanni, Perugia, Umbria, 06154, Italia",
             "Ifood, Calle 61, FRACC. MARINA DEL REY, Ciudad del Carmen, Carmen, Campeche, 24100, M\u00e9xico",
             "Rapperswil, Rapperswil-Jona, Wahlkreis See-Gaster, Sankt Gallen, 8640, Schweiz/Suisse/Svizzera/Svizra",
             "Uber, Calle Hamburgo, Zona Rosa, Cuauht\u00e9moc, Ciudad de M\u00e9xico, 06600, M\u00e9xico"
@@ -12605,12 +12579,12 @@
         ],
         "latlngs": [
             [
-                52.4746766,
-                -1.91586332385543
+                51.5148804,
+                -0.0718856
             ]
         ],
         "addresses": [
-            "UBER, 100, Broad Street, Ladywood, Park Central, Birmingham, West Midlands Combined Authority, West Midlands, England, B15 1AE, United Kingdom"
+            "Uber, 2, Leman Street, Spitalfields, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, E1 8FA, United Kingdom"
         ]
     },
     {
@@ -12764,8 +12738,8 @@
         ],
         "latlngs": [
             [
-                42.361005950000006,
-                -71.11395056436744
+                42.3891156,
+                -71.1417515
             ],
             [
                 42.3651852,
@@ -12773,7 +12747,7 @@
             ]
         ],
         "addresses": [
-            "Whole Foods Market, 340, River Street, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02139, United States",
+            "Whole Foods Market, Concord Lane, Fresh Pond Mall, Cambridge, Middlesex County, Massachusetts, 02474-8735, United States",
             "Amazon Pickup, 1, Magazine Street, Central Square, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02139, United States"
         ]
     },
@@ -13004,8 +12978,8 @@
         ],
         "latlngs": [
             [
-                54.4051916,
-                9.4248338
+                54.405119,
+                9.4319966
             ]
         ],
         "addresses": [
@@ -14652,8 +14626,8 @@
                 7.59464606445661
             ],
             [
-                51.5371004,
-                6.5876793
+                51.5369716,
+                6.5877929
             ]
         ],
         "addresses": [
@@ -14901,14 +14875,14 @@
                 -118.4092133
             ],
             [
-                37.628145950000004,
-                -122.4264270211096
+                37.6291599,
+                -122.42551778433794
             ]
         ],
         "addresses": [
             "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112-3580, United States",
             "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
-            "YouTube, 901, Cherry Avenue, YouTube, San Bruno, San Mateo County, California, 94066, United States"
+            "YouTube, 1000, Cherry Avenue, YouTube, San Bruno, San Mateo County, California, 94066, United States"
         ]
     },
     {
@@ -15608,12 +15582,12 @@
         ],
         "latlngs": [
             [
-                37.628145950000004,
-                -122.4264270211096
+                37.6291599,
+                -122.42551778433794
             ]
         ],
         "addresses": [
-            "YouTube, 901, Cherry Avenue, YouTube, San Bruno, San Mateo County, California, 94066, United States"
+            "YouTube, 1000, Cherry Avenue, YouTube, San Bruno, San Mateo County, California, 94066, United States"
         ]
     },
     {
@@ -15766,14 +15740,14 @@
                 11.166183284518766
             ],
             [
-                43.7245809,
-                10.3897394
+                43.709862,
+                10.4328227
             ]
         ],
         "addresses": [
             "Amazon, Via Baldanzese, Settimello, Sesto Fiorentino, Firenze, Toscana, 50019, Italia",
             "Amazon, Via Baldanzese, Settimello, Sesto Fiorentino, Firenze, Toscana, 50019, Italia",
-            "Amazon Locker, Viale delle Cascine, Gagno, Pisa, Toscana, 56123, Italia"
+            "Amazon locker, Via Vittorio Frascani, Cisanello, Pisa, Toscana, 56124, Italia"
         ]
     },
     {
@@ -16121,12 +16095,12 @@
         ],
         "latlngs": [
             [
-                51.58489745,
-                -0.11333842774111015
+                51.5314216,
+                -0.1113624
             ]
         ],
         "addresses": [
-            "Deliveroo Editions, Cranford Way, Haringey Heartlands, Hornsey, London Borough of Haringey, London, Greater London, England, N8 9DG, United Kingdom"
+            "Deliveroo, Pentonville Road, Pentonville, Barnsbury, London Borough of Islington, London, Greater London, England, N1 9JB, United Kingdom"
         ]
     },
     {
