@@ -36,31 +36,31 @@
     ],
     "latlngs": [
         [
-            51.5332143,
-            -0.1259925739528908
+            51.5333771,
+            -0.1258455
         ],
         [
-            51.5174596,
-            -0.10460573009892905
+            52.4492169,
+            1.56996
         ],
         [
             51.5195583,
             -0.181935
         ],
         [
-            55.9519248,
-            -3.1982756
+            52.6257484,
+            1.2905940715942223
         ],
         [
-            51.58489745,
-            -0.11333842774111015
+            51.5314216,
+            -0.1113624
         ]
     ],
     "addresses": [
-        "Google, 6, Pancras Road, King's Cross, London Borough of Camden, London, Greater London, England, N1C 4BJ, United Kingdom",
-        "Amazon, 60, Holborn Viaduct, Smithfield, City of London, Greater London, England, EC1A 2BN, United Kingdom",
+        "Google, Pancras Road, King's Cross, London Borough of Camden, London, Greater London, England, N1C 4BJ, United Kingdom",
+        "Amazon Locker, Rigbourne Hill, Beccles, East Suffolk, Suffolk, East of England, England, NR34 9JD, United Kingdom",
         "Microsoft London, Kingdom Street, Paddington Central, Paddington, City of Westminster, London, Greater London, England, W2 6PY, United Kingdom",
-        "Samsung, Princes Street, New Town, New Town/Broughton, City of Edinburgh, Scotland, EH2 2ER, United Kingdom",
-        "Deliveroo Editions, Cranford Way, Haringey Heartlands, Hornsey, London Borough of Haringey, London, Greater London, England, N8 9DG, United Kingdom"
+        "Samsung, 143, Merchants' Hall, Heigham Grove, Norwich, Norfolk, East of England, England, NR2 1SH, United Kingdom",
+        "Deliveroo, Pentonville Road, Pentonville, Barnsbury, London Borough of Islington, London, Greater London, England, N1 9JB, United Kingdom"
     ]
 }

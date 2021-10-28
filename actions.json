@@ -855,8 +855,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.3361905,
+                -121.890583
+            ]
+        ],
+        "addresses": [
+            "San Jose, Santa Clara County, California, 95113, United States"
+        ]
     },
     {
         "id": 14,
@@ -925,8 +932,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.3361905,
+                -121.890583
+            ]
+        ],
+        "addresses": [
+            "San Jose, Santa Clara County, California, 95113, United States"
+        ]
     },
     {
         "id": 16,
@@ -1028,7 +1042,7 @@
             ]
         ],
         "addresses": [
-            "LG, \u71d5\u5b50\u77f6\u8857\u9053, \u6816\u971e\u533a, \u5357\u4eac\u5e02, \u6c5f\u82cf\u7701, \u4e2d\u56fd"
+            "LG, \u71d5\u5b50\u77f6\u8857\u9053, \u6816\u971e\u533a, \u6c5f\u82cf\u7701, \u4e2d\u56fd"
         ]
     },
     {
@@ -1214,7 +1228,7 @@
             ]
         ],
         "addresses": [
-            "\u81fa\u5317\u5e02, \u81fa\u7063"
+            "\u81fa\u5317\u5e02, 11008, \u81fa\u7063"
         ]
     },
     {
@@ -1321,12 +1335,12 @@
         ],
         "latlngs": [
             [
-                37.7673038,
-                -122.38860026918435
+                37.7756962,
+                -122.4180838
             ]
         ],
         "addresses": [
-            "Uber, 1725, 3rd Street, Mission Bay, San Francisco, San Francisco City and County, San Francisco, California, 94158, United States"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States"
         ]
     },
     {
@@ -1736,12 +1750,12 @@
         ],
         "latlngs": [
             [
-                51.5174596,
-                -0.10460573009892905
+                52.4492169,
+                1.56996
             ]
         ],
         "addresses": [
-            "Amazon, 60, Holborn Viaduct, Smithfield, City of London, Greater London, England, EC1A 2BN, United Kingdom"
+            "Amazon Locker, Rigbourne Hill, Beccles, East Suffolk, Suffolk, East of England, England, NR34 9JD, United Kingdom"
         ]
     },
     {
@@ -2322,12 +2336,12 @@
         ],
         "latlngs": [
             [
-                40.7395721,
-                -74.0059266
+                40.7480531,
+                -73.9841627
             ]
         ],
         "addresses": [
-            "WeWork, 1, Little West 12th Street, Meatpacking District, Manhattan Community Board 2, Manhattan, New York County, New York, 10014, United States"
+            "WeWork, East 34th Street, Midtown South, Manhattan Community Board 5, Manhattan, New York County, New York, 10016, United States"
         ]
     },
     {
@@ -2425,12 +2439,12 @@
         ],
         "latlngs": [
             [
-                37.7673038,
-                -122.38860026918435
+                37.7756962,
+                -122.4180838
             ]
         ],
         "addresses": [
-            "Uber, 1725, 3rd Street, Mission Bay, San Francisco, San Francisco City and County, San Francisco, California, 94158, United States"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States"
         ]
     },
     {
@@ -3130,13 +3144,13 @@
                 -117.83605415
             ],
             [
-                36.1269453,
-                -115.1689215
+                36.1150911,
+                -115.1484235
             ]
         ],
         "addresses": [
             "AT&T, 1302, North Tustin Street, Orange, Orange County, California, 92867, United States",
-            "AT&T, South Las Vegas Boulevard, Paradise, Hughes Center, Clark County, Nevada, 89123, United States"
+            "AT&T, East Flamingo Road, Paradise, Hughes Center, Clark County, Nevada, 89169-4813, United States"
         ]
     },
     {
@@ -3498,8 +3512,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.4417249,
+                -122.1725159
+            ]
+        ],
+        "addresses": [
+            "Apple Store, Stanford Shopping Center, Stanford, Palo Alto, Santa Clara County, California, 94304, United States"
+        ]
     },
     {
         "id": 78,
@@ -4356,12 +4377,12 @@
         ],
         "latlngs": [
             [
-                52.4746766,
-                -1.91586332385543
+                51.5148804,
+                -0.0718856
             ]
         ],
         "addresses": [
-            "UBER, 100, Broad Street, Ladywood, Park Central, Birmingham, West Midlands Combined Authority, West Midlands, England, B15 1AE, United Kingdom"
+            "Uber, 2, Leman Street, Spitalfields, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, E1 8FA, United Kingdom"
         ]
     },
     {
@@ -4606,20 +4627,20 @@
                 9.835897674840712
             ],
             [
-                41.629635699999994,
-                -1.021503660941872
+                41.626546149999996,
+                -1.0205305479809663
             ],
             [
-                51.5174596,
-                -0.10460573009892905
+                52.4492169,
+                1.56996
             ]
         ],
         "addresses": [
             "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
             "Amazon, Augny, Metz, Moselle, Grand Est, France m\u00e9tropolitaine, 57685, France",
             "Amazon, Cividate al Piano, Bergamo, Lombardia, Italia",
-            "Amazon, Plataforma Log\u00edstica de Zaragoza, Zaragoza, Arag\u00f3n, Espa\u00f1a",
-            "Amazon, 60, Holborn Viaduct, Smithfield, City of London, Greater London, England, EC1A 2BN, United Kingdom"
+            "Amazon, Zaragoza, Arag\u00f3n, Espa\u00f1a",
+            "Amazon Locker, Rigbourne Hill, Beccles, East Suffolk, Suffolk, East of England, England, NR34 9JD, United Kingdom"
         ]
     },
     {
@@ -4779,12 +4800,12 @@
         ],
         "latlngs": [
             [
-                37.7673038,
-                -122.38860026918435
+                37.7756962,
+                -122.4180838
             ]
         ],
         "addresses": [
-            "Uber, 1725, 3rd Street, Mission Bay, San Francisco, San Francisco City and County, San Francisco, California, 94158, United States"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States"
         ]
     },
     {
@@ -6364,12 +6385,12 @@
         ],
         "latlngs": [
             [
-                37.40344915,
-                -122.03322363608164
+                37.404940100000005,
+                -122.0214337065872
             ]
         ],
         "addresses": [
-            "Google TC4, 809, 11th Avenue, Sunnyvale, Santa Clara County, California, 94089, United States"
+            "Google MP1, Moffett Park Drive, Sunnyvale, Santa Clara County, California, 94089, United States"
         ]
     },
     {
@@ -6450,12 +6471,12 @@
         ],
         "latlngs": [
             [
-                37.7894073,
-                -122.3895538
+                37.7933154,
+                -122.3945205
             ]
         ],
         "addresses": [
-            "Google - San Francisco, 345, Spear Street, Rincon Hill, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States"
+            "Google One Market, 1, Market Street, Financial District, San Francisco, San Francisco City and County, San Francisco, California, 94111, United States"
         ]
     },
     {
@@ -6536,12 +6557,12 @@
         ],
         "latlngs": [
             [
-                37.7894073,
-                -122.3895538
+                37.7933154,
+                -122.3945205
             ]
         ],
         "addresses": [
-            "Google - San Francisco, 345, Spear Street, Rincon Hill, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States"
+            "Google One Market, 1, Market Street, Financial District, San Francisco, San Francisco City and County, San Francisco, California, 94111, United States"
         ]
     },
     {
@@ -6941,17 +6962,17 @@
         ],
         "latlngs": [
             [
-                37.7673038,
-                -122.38860026918435
+                37.7756962,
+                -122.4180838
             ],
             [
-                37.7759881,
-                -122.3919991
+                37.7509149,
+                -122.40246883416269
             ]
         ],
         "addresses": [
-            "Uber, 1725, 3rd Street, Mission Bay, San Francisco, San Francisco City and County, San Francisco, California, 94158, United States",
-            "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, San Francisco, California, 94107, United States"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States",
+            "Lyft, Kansas Street, Potrero Terrace, San Francisco, San Francisco City and County, San Francisco, California, 94124, United States"
         ]
     },
     {
@@ -7468,17 +7489,17 @@
         ],
         "latlngs": [
             [
-                37.7673038,
-                -122.38860026918435
+                37.7756962,
+                -122.4180838
             ],
             [
-                37.7759881,
-                -122.3919991
+                37.7509149,
+                -122.40246883416269
             ]
         ],
         "addresses": [
-            "Uber, 1725, 3rd Street, Mission Bay, San Francisco, San Francisco City and County, San Francisco, California, 94158, United States",
-            "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, San Francisco, California, 94107, United States"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States",
+            "Lyft, Kansas Street, Potrero Terrace, San Francisco, San Francisco City and County, San Francisco, California, 94124, United States"
         ]
     },
     {
@@ -7912,12 +7933,12 @@
         ],
         "latlngs": [
             [
-                47.6310393,
-                -122.3744898
+                47.6729217,
+                -122.3541709
             ]
         ],
         "addresses": [
-            "Chef Shop, 1425, Elliott Avenue West, Queen Anne, Seattle, King County, Washington, 98119, United States"
+            "Chef Liao, 6012, Phinney Avenue North, Phinney Ridge, Seattle, King County, Washington, 98103, United States"
         ]
     },
     {
@@ -8189,12 +8210,12 @@
         ],
         "latlngs": [
             [
-                51.58489745,
-                -0.11333842774111015
+                51.5314216,
+                -0.1113624
             ]
         ],
         "addresses": [
-            "Deliveroo Editions, Cranford Way, Haringey Heartlands, Hornsey, London Borough of Haringey, London, Greater London, England, N8 9DG, United Kingdom"
+            "Deliveroo, Pentonville Road, Pentonville, Barnsbury, London Borough of Islington, London, Greater London, England, N1 9JB, United Kingdom"
         ]
     },
     {
@@ -8315,7 +8336,7 @@
             ]
         ],
         "addresses": [
-            "Carnegie Mellon University, Hamerschlag Drive, Squirrel Hill North, Pittsburgh, Allegheny County, Pennsylvania, 15213-3704, United States"
+            "Carnegie Mellon University, Fifth Avenue, North Oakland, Pittsburgh, Allegheny County, Pennsylvania, 15260, United States"
         ]
     },
     {
@@ -8726,17 +8747,17 @@
         ],
         "latlngs": [
             [
-                37.7673038,
-                -122.38860026918435
+                37.7756962,
+                -122.4180838
             ],
             [
-                37.7759881,
-                -122.3919991
+                37.7509149,
+                -122.40246883416269
             ]
         ],
         "addresses": [
-            "Uber, 1725, 3rd Street, Mission Bay, San Francisco, San Francisco City and County, San Francisco, California, 94158, United States",
-            "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, San Francisco, California, 94107, United States"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States",
+            "Lyft, Kansas Street, Potrero Terrace, San Francisco, San Francisco City and County, San Francisco, California, 94124, United States"
         ]
     },
     {
@@ -8842,8 +8863,8 @@
         ],
         "latlngs": [
             [
-                37.7894073,
-                -122.3895538
+                37.7933154,
+                -122.3945205
             ],
             [
                 37.778011,
@@ -8859,7 +8880,7 @@
             ]
         ],
         "addresses": [
-            "Google - San Francisco, 345, Spear Street, Rincon Hill, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States",
+            "Google One Market, 1, Market Street, Financial District, San Francisco, San Francisco City and County, San Francisco, California, 94111, United States",
             "WeWork, Mission Street, West SoMa, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States",
             "Kickstarter HQ, West Street, Brooklyn, Kings County, New York, 11222, United States",
             "WeWork, Market Street, Brooklyn Navy Yard, Brooklyn, Kings County, New York, 11251, United States"
@@ -9123,8 +9144,8 @@
         ],
         "latlngs": [
             [
-                40.6194923,
-                -74.0729948
+                40.6193387,
+                -74.0727749
             ]
         ],
         "addresses": [
@@ -9180,8 +9201,8 @@
                 7.4901388
             ],
             [
-                51.5371004,
-                6.5876793
+                51.5369716,
+                6.5877929
             ],
             [
                 51.653494949999995,
@@ -9784,17 +9805,17 @@
         ],
         "latlngs": [
             [
-                37.7673038,
-                -122.38860026918435
+                37.7756962,
+                -122.4180838
             ],
             [
-                37.7759881,
-                -122.3919991
+                37.7509149,
+                -122.40246883416269
             ]
         ],
         "addresses": [
-            "Uber, 1725, 3rd Street, Mission Bay, San Francisco, San Francisco City and County, San Francisco, California, 94158, United States",
-            "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, San Francisco, California, 94107, United States"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States",
+            "Lyft, Kansas Street, Potrero Terrace, San Francisco, San Francisco City and County, San Francisco, California, 94124, United States"
         ]
     },
     {
@@ -10076,12 +10097,12 @@
         ],
         "latlngs": [
             [
-                37.7673038,
-                -122.38860026918435
+                37.7756962,
+                -122.4180838
             ],
             [
-                37.7759881,
-                -122.3919991
+                37.7509149,
+                -122.40246883416269
             ],
             [
                 37.7834546,
@@ -10089,8 +10110,8 @@
             ]
         ],
         "addresses": [
-            "Uber, 1725, 3rd Street, Mission Bay, San Francisco, San Francisco City and County, San Francisco, California, 94158, United States",
-            "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, San Francisco, California, 94107, United States",
+            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States",
+            "Lyft, Kansas Street, Potrero Terrace, San Francisco, San Francisco City and County, San Francisco, California, 94124, United States",
             "Doordash HQ, Market Street, Union Square, San Francisco, San Francisco City and County, San Francisco, California, 94104, United States"
         ]
     },
@@ -10616,27 +10637,27 @@
         ],
         "latlngs": [
             [
-                37.7759881,
-                -122.3919991
+                37.7509149,
+                -122.40246883416269
             ],
             [
-                37.7673038,
-                -122.38860026918435
+                37.7756962,
+                -122.4180838
             ],
             [
-                32.7768074,
-                -117.0684271
+                32.771334,
+                -117.06736
             ],
             [
-                32.7768074,
-                -117.0684271
+                32.771334,
+                -117.06736
             ]
         ],
         "addresses": [
-            "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, San Francisco, California, 94107, United States",
-            "Uber, 1725, 3rd Street, Mission Bay, San Francisco, San Francisco City and County, San Francisco, California, 94158, United States",
-            "Uber / Lyft Driver Drop Off, Campanile Mall, Montezuma Mesa, Del Cerro, San Diego, San Diego County, California, 92182, United States",
-            "Uber / Lyft Driver Drop Off, Campanile Mall, Montezuma Mesa, Del Cerro, San Diego, San Diego County, California, 92182, United States"
+            "Lyft, Kansas Street, Potrero Terrace, San Francisco, San Francisco City and County, San Francisco, California, 94124, United States",
+            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States",
+            "Uber / Lyft Driver Drop Off, Campanile Mall Dr, Montezuma Mesa, San Diego, San Diego County, California, 92182, United States",
+            "Uber / Lyft Driver Drop Off, Campanile Mall Dr, Montezuma Mesa, San Diego, San Diego County, California, 92182, United States"
         ]
     },
     {
@@ -10757,8 +10778,8 @@
         ],
         "latlngs": [
             [
-                40.6194923,
-                -74.0729948
+                40.6193387,
+                -74.0727749
             ]
         ],
         "addresses": [
@@ -11017,8 +11038,8 @@
         ],
         "latlngs": [
             [
-                40.6194923,
-                -74.0729948
+                40.6193387,
+                -74.0727749
             ]
         ],
         "addresses": [
@@ -11410,12 +11431,12 @@
         ],
         "latlngs": [
             [
-                44.80059945,
-                -93.48865500885567
+                44.78839255,
+                -93.44285005008032
             ]
         ],
         "addresses": [
-            "Amazon Fullfillment Center MSP1, 2601, 4th Avenue East, Shakopee, Scott County, Minnesota, 55379, United States"
+            "Amazon Sortation Center MSP5, 5825, 11th Avenue East, Shakopee, Scott County, Minnesota, 55379, United States"
         ]
     },
     {
@@ -11673,12 +11694,12 @@
         ],
         "latlngs": [
             [
-                37.7673038,
-                -122.38860026918435
+                37.7756962,
+                -122.4180838
             ]
         ],
         "addresses": [
-            "Uber, 1725, 3rd Street, Mission Bay, San Francisco, San Francisco City and County, San Francisco, California, 94158, United States"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States"
         ]
     },
     {
@@ -12108,11 +12129,11 @@
         "latlngs": [
             [
                 42.3582393,
-                -71.09664602558988
+                -71.09663495185691
             ]
         ],
         "addresses": [
-            "Massachusetts Institute of Technology, Kendall Square Transit Plaza, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02238, United States"
+            "Massachusetts Institute of Technology, Broadway, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States"
         ]
     },
     {
@@ -12537,12 +12558,12 @@
         ],
         "latlngs": [
             [
-                47.3793085,
-                8.5307904
+                47.3790106,
+                8.5326056
             ]
         ],
         "addresses": [
-            "Google, 1, Gustav-Gull-Platz, Langstrasse, Aussersihl, Z\u00fcrich, Bezirk Z\u00fcrich, Z\u00fcrich, 8004, Schweiz/Suisse/Svizzera/Svizra"
+            "Google, 38, Europaallee, Langstrasse, Aussersihl, Z\u00fcrich, Bezirk Z\u00fcrich, Z\u00fcrich, 8004, Schweiz/Suisse/Svizzera/Svizra"
         ]
     },
     {
@@ -12639,8 +12660,8 @@
                 -76.5905444
             ],
             [
-                37.7759881,
-                -122.3919991
+                37.7509149,
+                -122.40246883416269
             ],
             [
                 37.7753423,
@@ -12651,7 +12672,7 @@
             "Amazon, Jefferson County, Montana, United States",
             "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
             "Uber, 918, Fell Street, Fell's Point, Baltimore, Maryland, 21231, United States",
-            "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, San Francisco, California, 94107, United States",
+            "Lyft, Kansas Street, Potrero Terrace, San Francisco, San Francisco City and County, San Francisco, California, 94124, United States",
             "UserTesting, 690, 5th Street, South of Market, San Francisco, San Francisco City and County, San Francisco, California, 94017, United States"
         ]
     },
@@ -13056,12 +13077,12 @@
         ],
         "latlngs": [
             [
-                37.7894073,
-                -122.3895538
+                37.7933154,
+                -122.3945205
             ]
         ],
         "addresses": [
-            "Google - San Francisco, 345, Spear Street, Rincon Hill, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States"
+            "Google One Market, 1, Market Street, Financial District, San Francisco, San Francisco City and County, San Francisco, California, 94111, United States"
         ]
     },
     {
@@ -13201,12 +13222,12 @@
         ],
         "latlngs": [
             [
-                38.9623245,
-                -77.0844314
+                38.9035981,
+                -77.0186204
             ]
         ],
         "addresses": [
-            "Amazon Fresh, 5463, Wisconsin Avenue, Friendship Heights, Chevy Chase Village, Montgomery County, Maryland, 20815, United States"
+            "Amazon Locker - Saba, 490, L Street Northwest, Mount Vernon Square, Washington, District of Columbia, 20001, United States"
         ]
     },
     {
@@ -13425,12 +13446,12 @@
         ],
         "latlngs": [
             [
-                37.7894073,
-                -122.3895538
+                37.7933154,
+                -122.3945205
             ]
         ],
         "addresses": [
-            "Google - San Francisco, 345, Spear Street, Rincon Hill, San Francisco, San Francisco City and County, San Francisco, California, 94105, United States"
+            "Google One Market, 1, Market Street, Financial District, San Francisco, San Francisco City and County, San Francisco, California, 94111, United States"
         ]
     },
     {
@@ -13471,32 +13492,32 @@
         ],
         "latlngs": [
             [
-                51.5332143,
-                -0.1259925739528908
+                51.5333771,
+                -0.1258455
             ],
             [
-                51.5174596,
-                -0.10460573009892905
+                52.4492169,
+                1.56996
             ],
             [
                 51.5195583,
                 -0.181935
             ],
             [
-                55.9519248,
-                -3.1982756
+                52.6257484,
+                1.2905940715942223
             ],
             [
-                51.58489745,
-                -0.11333842774111015
+                51.5314216,
+                -0.1113624
             ]
         ],
         "addresses": [
-            "Google, 6, Pancras Road, King's Cross, London Borough of Camden, London, Greater London, England, N1C 4BJ, United Kingdom",
-            "Amazon, 60, Holborn Viaduct, Smithfield, City of London, Greater London, England, EC1A 2BN, United Kingdom",
+            "Google, Pancras Road, King's Cross, London Borough of Camden, London, Greater London, England, N1C 4BJ, United Kingdom",
+            "Amazon Locker, Rigbourne Hill, Beccles, East Suffolk, Suffolk, East of England, England, NR34 9JD, United Kingdom",
             "Microsoft London, Kingdom Street, Paddington Central, Paddington, City of Westminster, London, Greater London, England, W2 6PY, United Kingdom",
-            "Samsung, Princes Street, New Town, New Town/Broughton, City of Edinburgh, Scotland, EH2 2ER, United Kingdom",
-            "Deliveroo Editions, Cranford Way, Haringey Heartlands, Hornsey, London Borough of Haringey, London, Greater London, England, N8 9DG, United Kingdom"
+            "Samsung, 143, Merchants' Hall, Heigham Grove, Norwich, Norfolk, East of England, England, NR2 1SH, United Kingdom",
+            "Deliveroo, Pentonville Road, Pentonville, Barnsbury, London Borough of Islington, London, Greater London, England, N1 9JB, United Kingdom"
         ]
     },
     {
@@ -13600,12 +13621,12 @@
         ],
         "latlngs": [
             [
-                44.80059945,
-                -93.48865500885567
+                44.78839255,
+                -93.44285005008032
             ]
         ],
         "addresses": [
-            "Amazon Fullfillment Center MSP1, 2601, 4th Avenue East, Shakopee, Scott County, Minnesota, 55379, United States"
+            "Amazon Sortation Center MSP5, 5825, 11th Avenue East, Shakopee, Scott County, Minnesota, 55379, United States"
         ]
     },
     {
@@ -14045,12 +14066,12 @@
         ],
         "latlngs": [
             [
-                37.7673038,
-                -122.38860026918435
+                37.7756962,
+                -122.4180838
             ]
         ],
         "addresses": [
-            "Uber, 1725, 3rd Street, Mission Bay, San Francisco, San Francisco City and County, San Francisco, California, 94158, United States"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States"
         ]
     },
     {
@@ -14811,8 +14832,8 @@
                 -118.4092133
             ],
             [
-                49.0312631,
-                -69.6858339
+                49.0336258,
+                -69.6817118
             ],
             [
                 43.6503609,
@@ -14918,12 +14939,12 @@
         ],
         "latlngs": [
             [
-                37.7765529,
-                -122.4167931517656
+                37.7762709,
+                -122.41630688295965
             ]
         ],
         "addresses": [
-            "Twitter, Stevenson Street, Market Square, San Francisco, San Francisco City and County, San Francisco, California, 94102, United States"
+            "Twitter, 875, Stevenson Street, Market Square, San Francisco, San Francisco City and County, San Francisco, California, 94102, United States"
         ]
     },
     {
@@ -15051,12 +15072,12 @@
         ],
         "latlngs": [
             [
-                37.7673038,
-                -122.38860026918435
+                37.7756962,
+                -122.4180838
             ],
             [
-                37.7759881,
-                -122.3919991
+                37.7509149,
+                -122.40246883416269
             ],
             [
                 37.7834546,
@@ -15064,8 +15085,8 @@
             ]
         ],
         "addresses": [
-            "Uber, 1725, 3rd Street, Mission Bay, San Francisco, San Francisco City and County, San Francisco, California, 94158, United States",
-            "Lyft, 185, Berry Street, South Beach, San Francisco, San Francisco City and County, San Francisco, California, 94107, United States",
+            "Uber, 1455, Market Street, Civic Center, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States",
+            "Lyft, Kansas Street, Potrero Terrace, San Francisco, San Francisco City and County, San Francisco, California, 94124, United States",
             "Doordash HQ, Market Street, Union Square, San Francisco, San Francisco City and County, San Francisco, California, 94104, United States"
         ]
     },
@@ -15350,7 +15371,7 @@
             ]
         ],
         "addresses": [
-            "Google, 111, 8th Avenue, Chelsea, Manhattan, New York County, New York, 10011, United States"
+            "Google, 111, 8th Avenue, West Village, Chelsea, Manhattan, New York County, New York, 10011, United States"
         ]
     },
     {
@@ -15666,8 +15687,8 @@
         ],
         "latlngs": [
             [
-                51.5371004,
-                6.5876793
+                51.5369716,
+                6.5877929
             ],
             [
                 51.653494949999995,
