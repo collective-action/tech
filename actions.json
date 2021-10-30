@@ -6163,8 +6163,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                41.4072965,
+                2.1807742
+            ]
+        ],
+        "addresses": [
+            "Glovo, Carrer de Mallorca, la Sagrada Fam\u00edlia, Eixample, Barcelona, Barcelon\u00e8s, Barcelona, Catalunya, 08001, Espa\u00f1a"
+        ]
     },
     {
         "id": 143,
