@@ -1,33 +1,44 @@
 {
-    "id": 303,
-    "date": "2020/07/20",
+    "id": 306,
+    "date": "2020/07/15",
     "sources": [
-        "https://www.vice.com/en_us/article/m7jpgy/open-source-community-changing-github-avatars-drop-ice"
+        "https://www.vice.com/en_us/article/v7gzd8/targets-gig-workers-will-strike-to-protest-switch-to-algorithmic-pay-model",
+        "https://www.marketwatch.com/story/target-owned-shipt-workers-strike-over-new-algorithm-based-compensation-that-they-say-will-lower-their-pay-11594842478",
+        "https://medium.com/@shiptshopper/shipt-walkoff-july-15th-dab1ee2c2571"
     ],
     "actions": [
-        "protest"
+        "protest",
+        "strike"
     ],
     "struggles": [
-        "ethics"
+        "pay and benefits"
     ],
     "employment_types": [
-        "open source community"
+        "gig workers"
     ],
-    "description": "Github users have launched a campaign to pressure the company to drop its contracts with ICE. Users have changed their profile pictures to the company's mascot, Octocat, with a message reading \"Drop ICE\". ",
-    "online": true,
-    "locations": null,
+    "description": "Shipt workers went on strike across the U.S. to protest the company's move to a new, less transparent algorithmic pay model that reduces their wages by 25-50%, according to reports. Workers also called for consumers to boycott the service. Shipt has more than 100,000 workers in the U.S. and is used by companies such as Target. Willy Solis, from the Gig Workers Collective, was the lead organizer for the event and used social media groups and word-of-mouth (encouraging each committed worker to recruit five additional participants) to drive the strike.",
+    "online": null,
+    "locations": [
+        "usa"
+    ],
     "companies": [
-        "github",
-        "microsoft"
+        "target",
+        "shipt"
     ],
     "workers": null,
     "tags": [
-        "ice",
-        "immigration"
+        "delivery_workers"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            38.594073550000005,
+            -90.54739094340695
+        ]
+    ],
+    "addresses": [
+        "Target, Ballwin, Saint Louis County, Missouri, 63011, United States"
+    ]
 }

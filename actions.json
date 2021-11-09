@@ -3360,6 +3360,53 @@
         ]
     },
     {
+        "id": 479,
+        "date": "2017/12/31",
+        "sources": [
+            "https://www.sfchronicle.com/tech/article/The-tech-world-gives-back-with-a-fund-that-gives-16398360.php",
+            "https://coworkerfund.org/"
+        ],
+        "actions": [
+            "resources"
+        ],
+        "struggles": [
+            "pay and benefits",
+            "working conditions",
+            "discrimination",
+            "job security",
+            "ethics"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "contract workers",
+            "inhouse workers"
+        ],
+        "description": "A nonprofit, The Solidarity Fund by Coworker, offers no-strings-attached $2,500 checks to tech workers involved in workplace organizing. Some fund recipients have donated the money to unions or for worker solidarity activities. Notably, the nonprofit uses a grassroots fundraising model based on worker solidarity.",
+        "online": true,
+        "locations": [
+            "usa"
+        ],
+        "companies": null,
+        "workers": 44,
+        "tags": [
+            "coworker solidarity",
+            "industry solidarity",
+            "fund_raising"
+        ],
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": [
+            [
+                39.7837304,
+                -100.445882
+            ]
+        ],
+        "addresses": [
+            "United States"
+        ]
+    },
+    {
         "id": 408,
         "date": "2018/01/14",
         "sources": [
@@ -17319,6 +17366,40 @@
         "addresses": null
     },
     {
+        "id": 478,
+        "date": "2021/08/09",
+        "sources": [
+            "https://www.theverge.com/2021/8/11/22620874/twitch-implements-improved-chat-filters",
+            "https://www.washingtonpost.com/video-games/2021/08/11/twitch-do-better-hate-raids/"
+        ],
+        "actions": [
+            "protest"
+        ],
+        "struggles": [
+            "discrimination"
+        ],
+        "employment_types": [
+            "content creators"
+        ],
+        "description": "Twitch streamer RekltRaven began a hashtag movement #twitchdobetter in response to the hate raids targeting marginalized creators, especially those who identify as Black, queer, or female. Twitch responded by fixing their chat filters and are planning to update their services to include improved safety features, including an improved account verification process and ban evasion detection tools. As there are still gaps, marginalized creators are calling for more proactive moderation and tools that the creators can use to moderate the stream.",
+        "online": true,
+        "locations": null,
+        "companies": null,
+        "workers": null,
+        "tags": [
+            "lgbtq",
+            "sexism",
+            "antiracism",
+            "moderators",
+            "coworker solidarity"
+        ],
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
         "id": 464,
         "date": "2021/08/11",
         "sources": [
@@ -17515,6 +17596,38 @@
         ]
     },
     {
+        "id": 480,
+        "date": "2021/09/14",
+        "sources": [
+            "https://www.vice.com/amp/en/article/m7ey5b/hellofresh-workers-are-unionizing-the-booming-meal-kit-industry?__twitter_impression=true"
+        ],
+        "actions": [
+            "union drive",
+            "union representation"
+        ],
+        "struggles": [
+            "pay and benefits",
+            "working conditions"
+        ],
+        "employment_types": [
+            "blue collar workers"
+        ],
+        "description": "1,300 HelloFresh workers are unionizing with UNITE HERE in Colorado and California due to low wages, safety issues, and poor work conditions. HelloFresh management has also been unresponsive towards workers after a COVID-19 outbreak in a Richmond facility. UNITE HERE filed a petition to NLRB to authorize a vote to unionize. In response, anti-union consultants, such as Kulture Consulting, were reported to have held mandatory anti-union meetings.",
+        "online": null,
+        "locations": null,
+        "companies": null,
+        "workers": null,
+        "tags": [
+            "unite_here",
+            "coronavirus"
+        ],
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
         "id": 467,
         "date": "2021/09/15",
         "sources": [
@@ -17640,5 +17753,161 @@
             "Uber, 2, Leman Street, Spitalfields, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, E1 8FA, United Kingdom",
             "UBER, 100, Broad Street, Ladywood, Park Central, Birmingham, West Midlands Combined Authority, West Midlands, England, B15 1AE, United Kingdom"
         ]
+    },
+    {
+        "id": 474,
+        "date": "2021/09/30",
+        "sources": [
+            "https://www.vice.com/en/article/v7e9gb/instacart-shoppers-will-stage-nationwide-strike",
+            "https://gigworkerscollective.medium.com/open-letter-to-fidgi-simo-instacarts-ceo-e72c0de55e22"
+        ],
+        "actions": [
+            "strike",
+            "open letter"
+        ],
+        "struggles": [
+            "working conditions",
+            "pay and benefits",
+            "unfair labor practices"
+        ],
+        "employment_types": [
+            "gig workers"
+        ],
+        "description": "Instacart shoppers under Gig Workers Collective have planned a nationwide work stoppage on October 16 until Instacart agrees to their demands for higher pay, occupational death benefits, and a more fair rating system. An Instacart spokesperson has responded that these experiences do not reflect the majority and are receptive to feedback. However, the workers claimed only receiving generic responses, and\ntheir open letter addressed to CEO Fidji Simo was ignored. ",
+        "online": null,
+        "locations": [
+            "usa"
+        ],
+        "companies": [
+            "instacart"
+        ],
+        "workers": null,
+        "tags": [
+            "delivery_workers"
+        ],
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 475,
+        "date": "2021/10/04",
+        "sources": [
+            "https://www.dw.com/en/gorillas-delivery-service-fires-back-over-workers-strike/a-59445809",
+            "https://www.vice.com/en/article/7kvgmd/gorillas-delivery-app-fires-workers-for-striking"
+        ],
+        "actions": [
+            "protest",
+            "strike"
+        ],
+        "struggles": [
+            "pay and benefits",
+            "working conditions",
+            "unfair labor practices",
+            "job security"
+        ],
+        "employment_types": [
+            "gig workers"
+        ],
+        "description": "In response to recent strikes that protested unfair working conditions, Gorillas fired \u201cseveral dozen Berlin-based delivery workers.\u201d In response, the Gorillas Workers Collective called for a protest in front of the company\u2019s headquarters. Gorillas have said that these strikes were unannounced, non-unionized, spontaneous, and are illegal under German law. However, other workers have shown screenshots of schedules that violate German labor law.  After the strikes took place, the company reportedly replaced those striking with Zenjob gig workers from Bermannkiez. ",
+        "online": null,
+        "locations": [
+            "berlin-germany"
+        ],
+        "companies": [
+            "gorillas"
+        ],
+        "workers": 150,
+        "tags": [
+            "retaliation",
+            "coworker solidarity",
+            "delivery_workers"
+        ],
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": [
+            [
+                52.5064919,
+                13.336216896921181
+            ]
+        ],
+        "addresses": [
+            "Flachland-Gorilla, Tiergarten, Mitte, Berlin, 10787, Deutschland"
+        ]
+    },
+    {
+        "id": 476,
+        "date": "2021/10/12",
+        "sources": [
+            "https://www.theguardian.com/commentisfree/2021/oct/12/google-amazon-workers-condemn-project-nimbus-israeli-military-contract"
+        ],
+        "actions": [
+            "open letter"
+        ],
+        "struggles": [
+            "ethics"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "contract workers",
+            "inhouse workers"
+        ],
+        "description": "Google and Amazon workers condemn Amazon and Google\u2019s supplying to the Israeli military and government technology to harm Palestinians through Project Nimbus. They write that Project Nimbus would provide cloud services, including surveillance and data collection on Palestinians, that would support systematic discrimination and displacement. Workers released an internal letter, with 90+ Google workers and 300+ Amazon workers anonymously signing it.",
+        "online": true,
+        "locations": null,
+        "companies": [
+            "google",
+            "amazon"
+        ],
+        "workers": 391,
+        "tags": [
+            "international solidarity",
+            "politics",
+            "surveillance",
+            "military_contracts",
+            "industry solidarity",
+            "ice"
+        ],
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 477,
+        "date": "2021/10/18",
+        "sources": [
+            "https://www.total-croatia-news.com/business/57000-uber-drivers-strike-in-croatia",
+            "https://twitter.com/nicoemoe/status/1449978260289294340?t=WdHP4kHHe5sMs9VJUfPQEg&s=19"
+        ],
+        "actions": [
+            "strike"
+        ],
+        "struggles": [
+            "pay and benefits",
+            "working conditions"
+        ],
+        "employment_types": [
+            "gig workers"
+        ],
+        "description": "Uber drivers, organized by the Croatian Digital Platform Workers\u2019 Union, held a strike and press conference in Croatia. They claimed that their salaries were not paid in time with no explanation. Despite Uber portraying drivers as partners, the workers feel like \u201cdigital slaves\u201d who cannot get in contact with Uber\u2019s authorities.",
+        "online": null,
+        "locations": null,
+        "companies": [
+            "uber"
+        ],
+        "workers": null,
+        "tags": [
+            "drivers"
+        ],
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": null,
+        "addresses": null
     }
 ]

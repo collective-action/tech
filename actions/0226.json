@@ -1,46 +1,55 @@
 {
-    "id": 420,
+    "id": 210,
     "date": "2019/11/20",
     "sources": [
-        "https://www.vox.com/recode/2019/12/31/21043467/google-union-cafeteria-workers-unionized-alphabet-silicon-valley-mountainview"
+        "https://www.vox.com/recode/2019/12/31/21043467/google-union-cafeteria-workers-unionized-alphabet-silicon-valley-mountainview",
+        "https://www.cnbctv18.com/politics/over-2000-underpaid-overworked-google-workers-unionised-4974661.htm"
     ],
     "actions": [
-        "union representation"
+        "union representation",
+        "union drive"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "pay and benefits"
     ],
     "employment_types": [
-        "blue collar workers",
-        "contract workers"
+        "contract workers",
+        "blue collar workers"
     ],
-    "description": "About 2,300 Google cafeteria workers (contracted through Compass) voted to unionize to call for better pay and benefits. These workers include dishwashers and food preparers who serve breakfast, lunch, and dinner to Google employees. The service workers are considered contract workers and don't receive the same benefits such as retirement plans which are standard for direct Google employees. The cafeteria workers voted to unionize with a local chapter of Unite Here, which represents 300,000 workers in food, casino, laundry, hotel, and warehouse industries. ",
+    "description": "Approximately 2,300 contract workers employed in food service at Google have voted to unionize under a local chapter of Unite Here. Workers expressed dissatisfaction with their low wages, which start at $35,000 in the Bay Area, and lack of benefits compared to full-time Google employees. Some reported incidents of discrimination and bullying. The workers are officially employed by Compass Group, a third party contractor. The vote followed a two year effort.",
     "online": null,
     "locations": [
-        "usa"
+        "mountain view-california-usa",
+        "san francisco-california-usa"
     ],
     "companies": [
         "google",
-        "compass"
+        "compass_group"
     ],
     "workers": 2300,
-    "tags": null,
+    "tags": [
+        "unite_here"
+    ],
     "author": [
-        "hyatt d."
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            33.977092,
-            -118.4092133
+            37.419000999999994,
+            -122.08237596053958
         ],
         [
-            43.0520142,
-            -87.8903172
+            37.7933154,
+            -122.3945205
+        ],
+        [
+            37.7249773,
+            -122.4603378
         ]
     ],
     "addresses": [
-        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
-        "Compass, Oak Leaf Trail, The East Side, Milwaukee, Milwaukee County, Wisconsin, 53202-2330, United States"
+        "Google, Mountain View, Santa Clara County, California, United States",
+        "Google One Market, 1, Market Street, Financial District, San Francisco, San Francisco City and County, San Francisco, California, 94111, United States",
+        "LT Group - Compass Real Estate, Ocean Avenue, Ingleside, San Francisco, San Francisco City and County, San Francisco, California, 94112, United States"
     ]
 }

@@ -1,11 +1,11 @@
 {
-    "id": 92,
-    "date": "2018/06/25",
+    "id": 91,
+    "date": "2018/06/21",
     "sources": [
-        "https://www.bloomberg.com/news/articles/2018-06-25/salesforce-employees-ask-ceo-to-revisit-ties-with-border-agency"
+        "https://www.bloomberg.com/news/articles/2018-06-21/google-engineers-refused-to-build-security-tool-to-win-military-contracts"
     ],
     "actions": [
-        "open letter"
+        "protest"
     ],
     "struggles": [
         "ethics"
@@ -14,28 +14,28 @@
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "Hundreds of Salesforce.com Inc. employees signed a letter to Chief Executive Officer Marc Benioff criticizing the companies's contracts with the U.S. Customs and Border Protection agency.",
-    "online": true,
+    "description": "Earlier this year, a group of influential software engineers in Google\u2019s cloud division, referred to as the 'Group of Nine', surprised their superiors by refusing to work on a cutting-edge security feature. Known as \u201cair gap,\u201d the technology would have helped Google win sensitive military contracts. The coders weren\u2019t persuaded their employer should be using its technological might to help the government wage war, according to four current and former employees. After hearing the engineers\u2019 objections, Urs H\u00f6lzle, Google\u2019s top technical executive, said the air gap feature would be postponed, one of the people said. ",
+    "online": null,
     "locations": [
         "usa"
     ],
     "companies": [
-        "salesforce"
+        "google"
     ],
-    "workers": 650,
+    "workers": 9,
     "tags": [
-        "cbp"
+        "military_contracts"
     ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            39.7737435,
-            -86.1611436
+            33.977092,
+            -118.4092133
         ]
     ],
     "addresses": [
-        "Salesforce, 433, North Capitol Avenue SB BAT Lane, Historic Ransom Place, Indianapolis, Marion County, Indiana, 46204, United States"
+        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
     ]
 }

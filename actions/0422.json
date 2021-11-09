@@ -1,32 +1,29 @@
 {
-    "id": 460,
-    "date": "2021/07/15",
+    "id": 459,
+    "date": "2021/07/01",
     "sources": [
-        "https://clb.org.hk/content/hong-kong-food-delivery-workers-protest-pay-and-working-conditions"
+        "https://www.npr.org/2021/07/01/1011899328/black-tiktok-creators-are-on-strike-to-protest-a-lack-of-credit-for-their-work"
     ],
     "actions": [
         "protest",
         "strike"
     ],
     "struggles": [
-        "pay and benefits",
-        "job security",
-        "working conditions"
+        "discrimination"
     ],
     "employment_types": [
-        "gig workers"
+        "content creators"
     ],
-    "description": "Foodpanda delivery workers protested in front of the company's headquarters while seven representatives of the strike tried to negotiate demands with the company. The delivery workers demanded to raise the base rate for deliveries, stop unreasonable termination of workers, end the cash-on-delivery system, and increase insurance coverage for personal accidents. Company management did not accept any of the demands or decide to hold another meeting. ",
-    "online": null,
-    "locations": [
-        "hong kong-china"
-    ],
+    "description": "Black TikTok content creators went on strike protesting the platform's cultural appropriation of their creative content. Users and content creators have pointed out that they don't receive credit for their creative work while other platform users can copy them and receive more views, fame, and recognition. Using the hashtag #BlackTikTokStrike, users and content creators raised awareness on the app and Twitter. ",
+    "online": true,
+    "locations": null,
     "companies": [
-        "foodpanda"
+        "tiktok"
     ],
-    "workers": 7,
+    "workers": null,
     "tags": [
-        "delivery_workers"
+        "blm",
+        "antiracism"
     ],
     "author": [
         "hyatt d."

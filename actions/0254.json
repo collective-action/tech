@@ -1,38 +1,41 @@
 {
-    "id": 236,
-    "date": "2020/03/12",
+    "id": 377,
+    "date": "2020/03/10",
     "sources": [
-        "https://www.vice.com/en_us/article/n7jkdx/baristas-at-slack-say-theyve-won-90-days-of-severance",
-        "https://www.theverge.com/2020/3/12/21177319/slack-paying-contractors-after-laid-off-baristas-send-letter"
+        "https://www.igmetall-berlin.de/betriebsraete-vertrauensleute/meldung/beyond-quitting-employees-at-babbel-elect-a-works-council/"
     ],
     "actions": [
-        "open letter",
-        "legal action"
+        "union drive"
     ],
     "struggles": [
+        "working conditions",
+        "unfair labor practices",
         "job security"
     ],
     "employment_types": [
-        "blue collar workers",
-        "contract workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "A group of five baristas who operate the espresso machines at Slack\u2019s corporate headquarters in San Francisco learned on March 6 that they were losing their contracted positions just prior to a decision by the company to move to remote operations to curb the spread of COVID-19. The baristas claim that Slack caught wind of their intention to criticize the company publicly\u2014and in what they claim to be an organizing victory, they learned that their severance would be extended to 90 days.",
+    "description": "The Berlin office of Babbel, the language learning platform elected a Works Council with consultation and guidance of IG Metall. ",
     "online": null,
     "locations": [
-        "san francisco-california-usa"
+        "berlin-germany"
     ],
     "companies": [
-        "slack"
+        "babbel"
     ],
-    "workers": 5,
-    "tags": [
-        "coworker_solidarity",
-        "fund_raising",
-        "coronavirus"
-    ],
+    "workers": 20,
+    "tags": null,
     "author": [
-        "organizejs"
+        "@shushugah"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            52.5248559,
+            13.4082467
+        ]
+    ],
+    "addresses": [
+        "Babbel, 2, Max-Beer-Stra\u00dfe, Scheunenviertel, Mitte, Berlin, 10119, Deutschland"
+    ]
 }

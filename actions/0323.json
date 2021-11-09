@@ -1,12 +1,16 @@
 {
-    "id": 321,
-    "date": "2020/08/19",
+    "id": 310,
+    "date": "2020/08/14",
     "sources": [
-        "https://www.law360.com/articles/1302356/ex-google-workers-want-sexist-emails-memes-turned-over",
-        "https://www.lieffcabraser.com/2020/08/ex-google-workers-want-sexist-emails-meme-messages-turned-over-in-google-gender-discrimination-suit/"
+        "https://www.nytimes.com/2020/08/14/technology/pinterest-walkout-equality.html",
+        "https://techcrunch.com/2020/08/14/pinterest-employees-are-walking-out-today-in-light-of-discrimination-allegations/",
+        "https://www.theverge.com/2020/8/14/21369035/pinterest-virtual-walkout-protest-discrimination-slack-blind",
+        "https://www.usatoday.com/story/money/2020/08/13/pinterest-workers-walk-out-calling-end-workplace-bias/3369999001/"
     ],
     "actions": [
-        "legal action"
+        "protest",
+        "open letter",
+        "strike"
     ],
     "struggles": [
         "discrimination"
@@ -15,28 +19,18 @@
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "Four former Google software engineers have filed a lawsuit in California claiming gender discrimination at the company and demanding that the company turn over sexist emails and memes created by two male company employees. The plaintiffs hope to mount a class action lawsuit against the company.",
-    "online": null,
-    "locations": [
-        "san francisco-california-usa"
-    ],
+    "description": "Pinterest employees staged a virtual walk out by posting messages to Slack and then logging off their work accounts, to protest the racial and gender discrimination brought to light by Ifeoma Ozoma and Aerica Shimizu Banks, and then again by Francoise Brougher. Workers also signed onto an online petition to CEO Ben Silberman calling for an end to discrimination and retaliation by the company.",
+    "online": true,
+    "locations": null,
     "companies": [
-        "google"
+        "pinterest"
     ],
-    "workers": 4,
+    "workers": 236,
     "tags": [
-        "sexism"
+        "antiracism",
+        "blm"
     ],
-    "author": [
-        "nataliyaned"
-    ],
-    "latlngs": [
-        [
-            37.7933154,
-            -122.3945205
-        ]
-    ],
-    "addresses": [
-        "Google One Market, 1, Market Street, Financial District, San Francisco, San Francisco City and County, San Francisco, California, 94111, United States"
-    ]
+    "author": null,
+    "latlngs": null,
+    "addresses": null
 }

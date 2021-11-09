@@ -1,38 +1,43 @@
 {
-    "id": 452,
-    "date": "2021/06/30",
+    "id": 451,
+    "date": "2021/06/29",
     "sources": [
-        "https://wamu.org/story/21/06/30/change-org-workers-form-a-union-giving-labor-activists-another-win-in-tech/"
+        "https://www.theverge.com/2021/6/29/22556436/whatsapp-spanish-language-content-moderators-contractor-equal-pay"
     ],
     "actions": [
-        "union drive",
-        "union representation"
+        "open letter"
     ],
     "struggles": [
         "pay and benefits",
-        "ethics",
         "discrimination"
     ],
     "employment_types": [
-        "white collar workers",
-        "contract workers",
-        "inhouse workers"
+        "inhouse workers",
+        "contract workers"
     ],
-    "description": "Seventy employees who work for Change.org unionized and joined the Workers of America's CODE-CWA Project. Organizing in the company began with Erni Poch\u00e9, who noticed that the company used the racial identities of its employees to claim diversity and inclusion within the company. Black employees reported being disproportionately assigned to petitions around race, for instance. The workers who joined the union want to have a say in wages, benefits, and the implementation of diversity and equity programs. ",
-    "online": null,
-    "locations": null,
+    "description": "Spanish language content moderators and customer service representatives at WhatsApp sent an internal letter demanding the $2 premium paid to other bi-lingual moderators and backpay, which Spanish language contractors don't receive. The letter addressed the CEOs of Facebook, Accenture, and WhatsApp and circulated on Facebook's communication platform. Eighty-nine employees signed the letter. ",
+    "online": true,
+    "locations": [
+        "austin-texas-usa"
+    ],
     "companies": [
-        "change.org"
+        "facebook",
+        "accenture"
     ],
-    "workers": null,
+    "workers": 89,
     "tags": [
-        "coworker solidarity",
-        "cwa",
-        "antiracism"
+        "moderators"
     ],
     "author": [
         "hyatt d."
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            30.2691649,
+            -97.7455041
+        ]
+    ],
+    "addresses": [
+        "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
+    ]
 }

@@ -1,46 +1,46 @@
 {
-    "id": 108,
-    "date": "2018/12/04",
+    "id": 107,
+    "date": "2018/11/27",
     "sources": [
-        "https://www.washingtonpost.com/technology/2018/12/04/new-rules-guarantee-minimum-wage-nyc-uber-lyft-drivers/"
+        "https://medium.com/@googlersagainstdragonfly/we-are-google-employees-google-must-drop-dragonfly-4c8a30c5e5eb",
+        "https://slate.com/technology/2018/11/google-employees-sign-petition-to-end-project-dragonfly.html"
     ],
     "actions": [
-        "legal action"
+        "open letter"
     ],
     "struggles": [
-        "pay and benefits"
+        "ethics"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "After a multiyear campaign by app-based drivers, some of whom were organized under the Independent Driver's Guild, New York City's Taxi and Limousine Commission passed a new law setting minimum wage at $17.22 per hour in the city. ",
-    "online": null,
+    "description": "Google employees have signed an open letter published Tuesday on Medium demanding that the companies cease work on Project Dragonfly, which is aimed at creating a search engine that the Chinese government would be able to control to censor certain results and surveil users. 'International human rights organizations and investigative reporters have also sounded the alarm, emphasizing serious human rights concerns and repeatedly calling on Google to cancel the project,' the letter reads in part. 'So far, our leadership's response has been unsatisfactory.",
+    "online": true,
     "locations": [
-        "new york city-new york-usa"
+        "usa",
+        "china"
     ],
     "companies": [
-        "uber",
-        "lyft"
+        "google"
     ],
-    "workers": null,
-    "tags": [
-        "drivers"
-    ],
+    "workers": 740,
+    "tags": null,
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
     "latlngs": [
         [
-            40.65532605,
-            -73.79478942223645
+            33.977092,
+            -118.4092133
         ],
         [
-            40.7408482,
-            -73.9419238
+            22.278428,
+            114.182429
         ]
     ],
     "addresses": [
-        "Uber Limo Livery Hold Lot, Cargo Plaza Road, Queens, Queens County, New York, 11430, United States",
-        "Lyft Driver Center, 49th Avenue, Sunnyside, Queens, Queens County, New York, 11101, United States"
+        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
+        "Google, \u8ed2\u5c3c\u8a69\u9053 Hennessy Road, \u9d5d\u9838 Bowrington, \u9285\u947c\u7063 Causeway Bay, \u7063\u4ed4\u5340 Wan Chai District, \u9999\u6e2f\u5cf6 Hong Kong Island, \u9999\u6e2f Hong Kong, 000000, \u4e2d\u56fd"
     ]
 }

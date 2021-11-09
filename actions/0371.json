@@ -1,43 +1,46 @@
 {
-    "id": 390,
-    "date": "2021/01/09",
+    "id": 393,
+    "date": "2021/01/08",
     "sources": [
-        "https://www.buzzfeednews.com/article/johnpaczkowski/amazon-parler-aws",
-        "https://twitter.com/AMZNforClimate/status/1347799256883552259?s=19"
+        "https://outline.com/Mn7BCV",
+        "https://github.blog/2021-01-17-update-on-an-employee-matter/"
     ],
     "actions": [
-        "protest"
+        "open letter"
     ],
     "struggles": [
-        "ethics"
+        "ethics",
+        "discrimination"
     ],
     "employment_types": [
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "Amazon suspends hosting for Parler, a social network app cited for facilitating the pro-Trump storming of the Capitol, after Amazon employees send internal messages to AWS management and participate in various online actions, including a coworker.org petition.",
+    "description": "Approximately 200 GitHub workers signed an open letter calling on management to explain their decision to fire a Jewish worker who called the January 6th rioters at the U.S. Capitol \"Nazis\" on an internal company message board. They also called on the company to take a stronger position on anti-Semitism and white supremacy. Management responded with a letter denouncing the events of Jan. 6th and promising an investigation of the firing. UPDATE: On January 17th, GitHub posted to their company blog that their investigation \"revealed significant errors of judgment and procedure\". Their head of HR resigned from the company and the company reinstated the employee.",
     "online": true,
     "locations": [
         "usa"
     ],
     "companies": [
-        "amazon"
+        "github"
     ],
-    "workers": null,
+    "workers": 200,
     "tags": [
+        "retaliation",
+        "coworker_solidarity",
         "trump",
         "politics"
     ],
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            46.320207,
-            -112.1072224
+            37.7821769,
+            -122.3912458
         ]
     ],
     "addresses": [
-        "Amazon, Jefferson County, Montana, United States"
+        "GitHub, 88, Colin P. Kelly Junior Street, Port of San Francisco, San Francisco, San Francisco City and County, San Francisco, California, 94107, United States"
     ]
 }

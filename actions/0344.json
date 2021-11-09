@@ -1,42 +1,42 @@
 {
-    "id": 419,
-    "date": "2020/10/15",
+    "id": 349,
+    "date": "2020/10/14",
     "sources": [
-        "https://dailynewsweek.com/amazon-employees-start-anti-surveillance-petition-for-labor-tracking/"
+        "https://calmatters.org/california-divide/2020/10/amazon-warehouse-workers-bezos-mansion-prime-day/"
     ],
     "actions": [
-        "protest",
-        "open letter"
+        "protest"
     ],
     "struggles": [
-        "working conditions"
+        "pay and benefits"
     ],
     "employment_types": [
         "blue collar workers",
         "inhouse workers"
     ],
-    "description": "A group of Amazon employees are circulating a petition, first created in October, demanding that Amazon stop monitoring employee activism and labor organization efforts.  The group is called Amazonians for Employee Privacy and they are requesting more transparency from Amazon about their surveillance activities, including their union heat map. ",
+    "description": "Amazon workers staged a vigil at Jeff Bezos' Beverly Hills mansion for fellow workers that had died as a result of working through the coronavirus pandemic. The event was organized by  the Warehouse Worker Resource Center. ",
     "online": null,
     "locations": [
-        "usa"
+        "los angeles-california-usa"
     ],
     "companies": [
         "amazon"
     ],
-    "workers": 199,
+    "workers": null,
     "tags": [
-        "surveillance"
+        "delivery_workers",
+        "coronavirus"
     ],
     "author": [
-        "hyatt d."
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            46.320207,
-            -112.1072224
+            33.97670635,
+            -118.41819635850888
         ]
     ],
     "addresses": [
-        "Amazon, Jefferson County, Montana, United States"
+        "Whole Foods Market, McConnell Avenue, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
     ]
 }

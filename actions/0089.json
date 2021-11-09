@@ -1,32 +1,38 @@
 {
-    "id": 79,
-    "date": "2018/04/02",
+    "id": 78,
+    "date": "2018/03/21",
     "sources": [
-        "https://en.yna.co.kr/view/aen20180402010200320"
+        "https://www.reuters.com/article/us-amazon-com-spain/spains-amazon-workers-call-two-day-strike-over-wages-rights-iduskcn1gp13l"
     ],
     "actions": [
-        "union representation"
+        "strike"
     ],
     "struggles": [
-        "working conditions"
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "blue collar workers"
     ],
-    "description": "Naver Corp., South Korea's dominant Internet portal and search engine, said that it has established the company's first labor union. After receiving official approval, the union started receiving membership applications from potential members, Naver's union said. More than 300 people joined within two hours.",
+    "description": "Over one thousand Amazon workers in Spain plan to stage their first strike with a two-day walkout to protest what unions claim are efforts to reduce employees' rights. The union claimed the companies aims to block salary increases, cut wages and reduce payments for those working weekends or holidays as part of a new contract agreement.",
     "online": null,
     "locations": [
-        "seoul-south korea"
+        "madrid-spain"
     ],
     "companies": [
-        "naver"
+        "amazon"
     ],
-    "workers": 300,
+    "workers": 1100,
     "tags": null,
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            40.4593249,
+            -3.4602878
+        ]
+    ],
+    "addresses": [
+        "Amazon, Avenida de la Constituci\u00f3n, Torrej\u00f3n de Ardoz, \u00c1rea metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28859, Espa\u00f1a"
+    ]
 }

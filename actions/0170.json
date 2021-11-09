@@ -1,40 +1,50 @@
 {
-    "id": 158,
-    "date": "2019/07/15",
+    "id": 157,
+    "date": "2019/07/13",
     "sources": [
-        "https://www.coworker.org/petitions/amazon-management-meet-with-dch1-amazonians-united-now",
-        "https://labornotes.org/2019/07/amazon-warehouse-worker-why-im-taking-action",
-        "https://www.buzzfeednews.com/amphtml/carolineodonovan/amazon-worker-protests-chicago-heat-wave"
+        "https://www.merca20.com/los-problemas-con-los-que-se-enfrentan-los-repartidores-de-comida-en-apps/",
+        "https://www.xataka.com.mx/aplicaciones/vacaciones-jubilacion-horario-flexible-que-repartidores-uber-eats-rappi-sindelantal-piden-al-ser-empleados-mexico"
     ],
     "actions": [
-        "open letter"
+        "protest"
     ],
     "struggles": [
-        "working conditions"
+        "working conditions",
+        "pay and benefits"
     ],
     "employment_types": [
-        "blue collar workers"
+        "contract workers",
+        "gig workers"
     ],
-    "description": "Amazon employees of DCH1 Amazonians United sign a petition to demand that their site leader meet with them to discuss providing the appropriate measures for days of excessive heat, among other issues. The top 3 are: 1) Prime Pay for Prime Days. 2) Health Insurance. 3) Getting A/C",
-    "online": null,
+    "description": "After increasing concerns about accident and death rates for delivery drivers, delivery workers across Mexico rallied under the hashtag #NiUnRepartidorMenos (translation: Not One Deliveryperson More). The workers have demanded better working conditions, and advocate that labor law better considers gig apps. They look to companies for improved insurance coverage, company protection from theft, and look to governments for fairer delivery driver licensing.  Workers in the movement have succeeded in meeting with several companies. ",
+    "online": true,
     "locations": [
-        "chicago-illinois-usa"
+        "mexico"
     ],
     "companies": [
-        "amazon"
+        "glovo",
+        "uber",
+        "rappi",
+        "sindelantal",
+        "didi_food"
     ],
-    "workers": 800,
+    "workers": 20000,
     "tags": null,
     "author": [
-        "organizejs"
+        "moates"
     ],
     "latlngs": [
         [
-            41.84040105,
-            -87.68351928672685
+            19.42437,
+            -99.168218
+        ],
+        [
+            47.2269198,
+            8.8245459
         ]
     ],
     "addresses": [
-        "Amazon Distribution, 2801, South Western Avenue, Lower West Side, Chicago, Cook County, Illinois, 60608, United States"
+        "Uber, Calle Hamburgo, Zona Rosa, Cuauht\u00e9moc, Ciudad de M\u00e9xico, 06600, M\u00e9xico",
+        "Rapperswil, Rapperswil-Jona, Wahlkreis See-Gaster, Sankt Gallen, 8640, Schweiz/Suisse/Svizzera/Svizra"
     ]
 }

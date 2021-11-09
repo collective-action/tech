@@ -1,56 +1,67 @@
 {
-    "id": 425,
+    "id": 432,
     "date": "2021/03/29",
     "sources": [
-        "https://www.al.com/business/2021/03/workers-in-2-european-countries-strike-against-amazon.html",
-        "https://www.cnbc.com/2021/03/22/amazon-workers-go-on-strike-in-italy-over-labor-conditions-.html"
+        "https://www.politico.eu/article/german-union-leads-four-day-amazon-strike/"
     ],
     "actions": [
         "protest",
         "strike"
     ],
     "struggles": [
-        "pay and benefits",
+        "working conditions",
         "job security"
     ],
     "employment_types": [
         "blue collar workers",
         "inhouse workers"
     ],
-    "description": "Italian Amazon workers went on a national strike for 24 hours to protest for fewer hours and job stability for temporary workers. \nItalian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which took place in Tuscany, Florence, and Pisa. ",
+    "description": "German Amazon workers went on strike in six centers across the country to put pressure on the company to sign a collective agreement with the union in Germany. Ver.di, the union, has also criticized the company for unsafe working conditions under covid. ",
     "online": null,
     "locations": [
-        "tuscany-italy",
-        "florence-italy",
-        "pisa-italy"
+        "rheinberg-germany",
+        "werne-germany",
+        "koblenz-germany",
+        "leipzig-germany",
+        "bad hersfeld-germany"
     ],
     "companies": [
         "amazon"
     ],
-    "workers": null,
+    "workers": 2000,
     "tags": [
-        "delivery_workers"
+        "coronavirus"
     ],
     "author": [
-        "hyatt d."
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            43.841860749999995,
-            11.166183284518766
+            51.5369716,
+            6.5877929
         ],
         [
-            43.841860749999995,
-            11.166183284518766
+            51.653494949999995,
+            7.59464606445661
         ],
         [
-            43.709862,
-            10.4328227
+            50.3495332,
+            7.4901388
+        ],
+        [
+            51.36227055,
+            12.45231287033246
+        ],
+        [
+            50.845334,
+            9.677958815746917
         ]
     ],
     "addresses": [
-        "Amazon, Via Baldanzese, Settimello, Sesto Fiorentino, Firenze, Toscana, 50019, Italia",
-        "Amazon, Via Baldanzese, Settimello, Sesto Fiorentino, Firenze, Toscana, 50019, Italia",
-        "Amazon locker, Via Vittorio Frascani, Cisanello, Pisa, Toscana, 56124, Italia"
+        "Amazon, Amazonstra\u00dfe, Winterswick, Rheinberg, Kreis Wesel, Nordrhein-Westfalen, 47495, Deutschland",
+        "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
+        "Amazon, Am Autobahnkreuz, Industriepark A61/GVZ Koblenz, R\u00fcbenach, Koblenz, Rheinland-Pfalz, 56072, Deutschland",
+        "Amazon Distribution GmbH, Paunsdorf, Ost, Leipzig, Sachsen, 04347, Deutschland",
+        "Amazon FRA1, Eichhof, Asbach, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland"
     ]
 }

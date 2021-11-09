@@ -1,35 +1,43 @@
 {
-    "id": 473,
-    "date": "2021/09/20",
+    "id": 468,
+    "date": "2021/09/13",
     "sources": [
-        "https://gigworkerscollective.medium.com/deleteinstacart-b1e138ed88f3"
+        "https://www.reuters.com/technology/canadian-amazon-facility-files-union-vote-union-2021-09-14/"
     ],
     "actions": [
-        "open letter",
-        "protest"
+        "union drive",
+        "union representation"
     ],
     "struggles": [
         "pay and benefits",
-        "working conditions",
-        "unfair labor practices"
+        "working conditions"
     ],
     "employment_types": [
-        "gig workers"
+        "blue collar workers",
+        "inhouse workers"
     ],
-    "description": "Instacart has been accused of exploiting their gig workers, considering tip theft, unsafe working conditions, pay cuts, COVID practices, among others. Despite a CEO change, Instacart has not changed its practices, so Gig Workers Collective calls on Instacart\u2019s customers to delete the app and support the Collective\u2019s demands with the hashtag #DELETEINSTACART. The demands include: (1) \u201cInstacart shoppers must be paid by order, and not by batch,\u201d (2) \u201cInstacart must re-introduce item commission,\u201d (3) \u201cInstacart\u2019s rating system can no longer unfairly punish shoppers for issues outside their control,\u201d (4) \u201coccupational death benefits,\u201d (5) and \u201cdefault tip must be raised to at least 10% for every single order.\u201d",
-    "online": true,
-    "locations": null,
+    "description": "Teamsters Local Union 362 filed a request to hold a vote to form a union at an Amazon facility in Nisku, Alberta, Canada. Teamsters Local Union 362 is part of Teamsters Canada, a trade union that is affiliated with the International Brotherhood of Teamster.  Unionization efforts have already begun, including a petition being signed by \u201chundreds\u201d of warehouse workers, and the date to vote is yet to be decided. ",
+    "online": null,
+    "locations": [
+        "nisku-alberta-canada"
+    ],
     "companies": [
-        "instacart"
+        "amazon"
     ],
-    "workers": null,
+    "workers": 601,
     "tags": [
-        "coronavirus",
-        "delivery_workers"
+        "teamster"
     ],
     "author": [
         "wynniechan"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            53.393627,
+            -113.49682402031908
+        ]
+    ],
+    "addresses": [
+        "Amazon Warehouse, Nisku Spine Road, Ellerslie Industrial, Ellerslie, Edmonton, Leduc County, Alberta, T6X 2H4, Canada"
+    ]
 }

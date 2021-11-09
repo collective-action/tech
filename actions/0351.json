@@ -1,40 +1,40 @@
 {
-    "id": 402,
-    "date": "2020/11/07",
+    "id": 354,
+    "date": "2020/10/27",
     "sources": [
-        "https://clb.org.hk/content/all-india-gig-workers-union-case-study"
+        "https://www.washingtonpost.com/context/a-statement-on-caste-bias-in-silicon-valley-from-30-dalit-women-engineers/d692b4f8-2710-41c3-9d5f-ea55c13bcc50/?itid=lk_interstitial_manual_16",
+        "https://www.washingtonpost.com/technology/2020/10/27/indian-caste-bias-silicon-valley/"
     ],
     "actions": [
-        "union drive"
+        "open letter"
     ],
     "struggles": [
-        "pay and benefits"
+        "discrimination"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "The All India Gig Workers Union (AIGWU) which, was initiated by the Center of India Trade Union (CITU) is attempting to become a registered as an All-India Union. Their main focus of their goal is to help delivery drivers through organization and so that they can initiate platform and political change for better wages and working conditions. ",
-    "online": null,
+    "description": "A group of 30 Indian female engineers who were born into the Dalit caste shared a statement with the Washington Post describing their experience of casteism and sexism in Silicon Valley. The group called for American corporations to adopt caste as a protected category, treated on the same terms as gender, race, and sexuality. ",
+    "online": true,
     "locations": [
-        "india"
+        "usa"
     ],
     "companies": null,
-    "workers": null,
+    "workers": 30,
     "tags": [
-        "drivers",
-        "industry solidarity",
-        "politics"
+        "sexism"
     ],
     "author": [
-        "hyatt d."
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            22.3511148,
-            78.6677428
+            39.7837304,
+            -100.445882
         ]
     ],
     "addresses": [
-        "India"
+        "United States"
     ]
 }

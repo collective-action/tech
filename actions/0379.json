@@ -1,43 +1,36 @@
 {
-    "id": 411,
-    "date": "2021/02/26",
+    "id": 444,
+    "date": "2021/02/23",
     "sources": [
-        "https://venturebeat.com/2021/03/02/ai-ethics-research-conference-suspends-google-sponsorship/",
-        "https://twitter.com/geomblog/status/1365422379397124099"
+        "https://businesstech.co.za/news/technology/470264/uber-faces-class-action-lawsuit-in-south-africa/"
     ],
     "actions": [
-        "protest"
+        "legal action"
     ],
     "struggles": [
-        "ethics"
+        "pay and benefits",
+        "unfair labor practices",
+        "job security"
     ],
     "employment_types": [
-        "white collar workers"
+        "gig workers"
     ],
-    "description": "The ACM Conference for Fairness, Accountability, and Transparency (ACM FAccT) organizers have decided not to continue their sponsorship with Google this year. Several press publications have noted the decision to drop Google follows the company's recent decision to fire Ethical AI co-leaders, Timnit Gebru and Margaret Mitchell. The conference's Executive Committee said they chose not to continue their relationship because they it does not align with their Strategic Plan, the goals outlined and agreed upon to guide the FAccT. Gebru was a cofounder of the organization and continues to advise the group. Mitchell is a program co-chair of the conference and a FAccT program committee member.",
-    "online": true,
+    "description": "In South Africa, Uber drivers are taking part in a class-action lawsuit against the company. Drivers are seeking compensation for unpaid overtime and holiday pay based on South African law. One of the law firms representing South African drivers also represented UK drivers in front of the UK Supreme Court, which ruled on February 19th that drivers must be classified as employees rather than independent contractors in the country.",
+    "online": null,
     "locations": [
-        "new york city-new york-usa"
+        "south africa"
     ],
     "companies": [
-        "google"
+        "uber"
     ],
     "workers": null,
     "tags": [
-        "academics",
-        "ai",
+        "drivers",
         "industry solidarity"
     ],
     "author": [
         "hyatt d."
     ],
-    "latlngs": [
-        [
-            40.7417176,
-            -74.0041592
-        ]
-    ],
-    "addresses": [
-        "Google, 111, 8th Avenue, West Village, Chelsea, Manhattan, New York County, New York, 10011, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

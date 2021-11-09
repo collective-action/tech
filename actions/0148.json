@@ -1,41 +1,44 @@
 {
-    "id": 136,
-    "date": "2019/05/08",
+    "id": 135,
+    "date": "2019/05/01",
     "sources": [
-        "https://www.nytimes.com/2019/05/08/technology/amazon-muslim-workers-complaint.html#click=https://t.co/9xmgnjlfoq"
+        "https://slate.com/technology/2019/05/google-employees-are-protesting-to-remain-the-companys-watchdog.html",
+        "https://www.cnn.com/2019/05/01/tech/google-employees-protest-may-day/index.html",
+        "https://twitter.com/googlewalkout/status/1123294379609870337?s=20"
     ],
     "actions": [
-        "legal action"
+        "protest"
     ],
     "struggles": [
-        "discrimination"
+        "working conditions"
     ],
     "employment_types": [
-        "blue collar workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Three Muslim Somali Workers at Amazon File Federal Discrimination Complaint, accusing the company of creating a hostile environment for Muslim workers and of retaliating against them for protesting their work conditions. These are the same workers who in December of 2018 protested against Amazon.",
+    "description": "Google workers stage a sit-in on May Day, following allegations of retaliation from the company against employees who participated in walkouts last year. 'Googlers from around the world gathered at 11am local time to sit together and show retaliation is #NotOkGoogle. The stories we've been collecting will be shared, demands will be read, and all will be in solidarity with those withstanding this chilling practice.",
     "online": null,
     "locations": [
-        "minneapolis-minnesota-usa"
+        "usa",
+        "worldwide"
     ],
     "companies": [
-        "amazon"
+        "google"
     ],
-    "workers": 3,
+    "workers": 1000,
     "tags": [
-        "retaliation",
-        "religious_discrimination"
+        "retaliation"
     ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            44.9696864,
-            -93.2883524
+            33.977092,
+            -118.4092133
         ]
     ],
     "addresses": [
-        "Wounded Amazon, Lyndale Avenue South, Lowry Hill, Bde Maka Ska - Isles, Minneapolis, Hennepin County, Minnesota, 55403, United States"
+        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
     ]
 }

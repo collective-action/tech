@@ -1,34 +1,34 @@
 {
-    "id": 365,
-    "date": "2020/12/03",
+    "id": 364,
+    "date": "2020/11/27",
     "sources": [
-        "https://www.theguardian.com/technology/2020/dec/07/timnit-gebru-google-firing-resignation-ai-research",
-        "https://googlewalkout.medium.com/standing-with-dr-timnit-gebru-isupporttimnit-believeblackwomen-6dadc300d382"
+        "https://fortune.com/2020/11/27/amazon-workers-protests-black-friday-covid19/"
     ],
     "actions": [
-        "open letter"
+        "strike",
+        "protest"
     ],
     "struggles": [
-        "ethics",
-        "discrimination"
+        "pay and benefits",
+        "working conditions",
+        "unfair labor practices",
+        "job security"
     ],
     "employment_types": [
-        "white collar workers"
+        "blue collar workers",
+        "contract workers"
     ],
-    "description": "After Dr. Timnit Gebru was fired from Google, Googlers wrote an open letter demanding accountability from Google. 2695 Googlers and 4302 academic, industry, and civil society supporters signed on to the letter.",
-    "online": true,
-    "locations": null,
+    "description": "Thousands of Amazon workers walk off the job to fight for fair pay and COVID protections. Unions representing tens of thousands of Amazon.com Inc. employees walked out during the year's busiest shopping season, in protest of Amazon's handling of everything from sick pay and COVID-19 precautions to user privacy. The giant Verdi trade union in Germany is holding a walkout across seven Amazon facilities. Garment workers in Bangladesh will call for higher pay outside an Amazon supplier facility in Dhaka. In Australia, unions will perform \u201chealth and safety\u201d inspections of the company\u2019s facilities using their \u201cstatutory right of entry,\u201d the campaign said. Others will project the campaign\u2019s logo on buildings in Brussels, London, Sao Paulo and other cities. In all, the organizations participating in the protests represent roughly 40,000 Amazon employees, according to a spokesman for the UNI Global Union. These actions are part of the Make Amazon Pay campaign. ",
+    "online": null,
+    "locations": [
+        "worldwide"
+    ],
     "companies": [
-        "google"
+        "amazon"
     ],
-    "workers": 2695,
+    "workers": 40000,
     "tags": [
-        "sexism",
-        "antiracism",
-        "industry solidarity",
-        "retaliation",
-        "ai",
-        "academics"
+        "coronavirus"
     ],
     "author": [
         "organizejs"

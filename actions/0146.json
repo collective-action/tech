@@ -1,36 +1,42 @@
 {
-    "id": 260,
-    "date": "2019/05/01",
+    "id": 134,
+    "date": "2019/04/26",
     "sources": [
-        "https://www.vice.com/en_ca/article/gy4qew/foodora-couriers-want-to-be-among-first-gig-economy-workers-to-unionize-in-canada",
-        "https://www.globenewswire.com/news-release/2020/04/27/2022709/0/en/foodora-Canada-announces-plans-to-close-business-while-assuring-support-for-employees.html",
-        "https://www.thestar.com/business/2020/04/29/foodora-declares-bankruptcy-in-canada-leaving-47-million-in-debt.html"
+        "https://www.wired.com/story/dispute-googles-alleged-retaliation-intensifies/",
+        "https://www.bloomberg.com/news/articles/2019-04-26/google-staffers-share-350-stories-of-systemic-retaliation"
     ],
     "actions": [
-        "union drive"
+        "protest"
     ],
     "struggles": [
-        "pay and benefits",
         "working conditions"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Foodora couriers announced their intention to join a union of Canadian post workers and held a union drive. If successful, this would make Foodora workers the first app-based employees to unionize in Canada. In April 2020 the company announced its intention to leave the Canadian market and initiated bankruptcy proceedings, making the future of the business and the unionizing effort uncertain. ",
+    "description": "Meredith Whittaker and Claire Stapleton held a town hall for Google workers to discuss the retaliation they have faced from management for engaging in organizing, and to share more than a dozen other stories of retaliation they have gathered. The meeting was held in New York but live-streamed to Google offices elsewhere. This action involved hundreds of workers.",
     "online": null,
     "locations": [
-        "toronto-ontario-canada"
+        "new york city-new york-usa"
     ],
     "companies": [
-        "foodora"
+        "google"
     ],
-    "workers": 1000,
+    "workers": 200,
     "tags": [
-        "delivery_workers"
+        "retaliation"
     ],
     "author": [
-        "nataliyaned"
+        "bentarnoff"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            40.7417176,
+            -74.0041592
+        ]
+    ],
+    "addresses": [
+        "Google, 111, 8th Avenue, West Village, Chelsea, Manhattan, New York County, New York, 10011, United States"
+    ]
 }

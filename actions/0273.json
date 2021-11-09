@@ -1,28 +1,32 @@
 {
-    "id": 274,
-    "date": "2020/04/01",
+    "id": 251,
+    "date": "2020/03/31",
     "sources": [
-        "https://www.nytimes.com/2020/04/15/business/amazon-france-covid.html"
+        "https://www.cnbc.com/2020/03/31/grocery-and-delivery-workers-demand-more-coronavirus-protection-say-pay-isnt-enough.html",
+        "https://www.coworker.org/petitions/global-retail-worker-sick-out"
     ],
     "actions": [
-        "legal action"
+        "strike",
+        "open letter"
     ],
     "struggles": [
-        "working conditions"
+        "working conditions",
+        "pay and benefits"
     ],
     "employment_types": [
         "inhouse workers",
         "blue collar workers"
     ],
-    "description": "Amazon's French SUD-Commerce union launched a lawsuit against the company alleging that they had failed to uphold coronavirus safety measures at six different warehouses in the country.  French courts ruled in favor of the union. The company was forced to stop its operations for five days, while continuing to pay workers, in order to improve safety. Delivery was also restricted to food, hygiene, and medical products at this time.",
+    "description": "Whole Foods employees went on strike to call for guaranteed pay during sick leave, reinstatement of health insurance for part-time and seasonal employees, coverage of coronavirus testing and treatment, improved sanitation at worksites, and immediate shutdown of any locations where employees test positive. The strike came amid a surge of activism from grocery and delivery workers at several companies. ",
     "online": null,
     "locations": [
-        "france"
+        "chicago-illinois-usa"
     ],
     "companies": [
-        "amazon"
+        "amazon",
+        "whole_foods"
     ],
-    "workers": null,
+    "workers": 1000,
     "tags": [
         "coronavirus"
     ],
@@ -31,11 +35,16 @@
     ],
     "latlngs": [
         [
-            49.0632423,
-            6.131329990388637
+            41.84040105,
+            -87.68351928672685
+        ],
+        [
+            41.9251419,
+            -87.6532654
         ]
     ],
     "addresses": [
-        "Amazon, Augny, Metz, Moselle, Grand Est, France m\u00e9tropolitaine, 57685, France"
+        "Amazon Distribution, 2801, South Western Avenue, Lower West Side, Chicago, Cook County, Illinois, 60608, United States",
+        "Whole Foods Market, 959, West Fullerton Avenue, Lincoln Park, Chicago, Lake View Township, Cook County, Illinois, 60614, United States"
     ]
 }

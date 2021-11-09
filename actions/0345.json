@@ -1,43 +1,42 @@
 {
-    "id": 350,
-    "date": "2020/10/17",
+    "id": 419,
+    "date": "2020/10/15",
     "sources": [
-        "https://fortune.com/2020/10/16/amazon-employee-activists-union-climate-justice/",
-        "https://www.cbsnews.com/news/amazon-workers-petition-election-day-holiday-paid-time-off/"
+        "https://dailynewsweek.com/amazon-employees-start-anti-surveillance-petition-for-labor-tracking/"
     ],
     "actions": [
-        "protest"
+        "protest",
+        "open letter"
     ],
     "struggles": [
-        "working conditions",
-        "ethics"
+        "working conditions"
     ],
     "employment_types": [
-        "white collar workers",
+        "blue collar workers",
         "inhouse workers"
     ],
-    "description": "Amazon Employees for Climate Justice organized a rally in Seattle to call for paid time off for workers to vote on Election Day. A few hundred people attended the rally according to CBS News. Amazon stated that managers have been instructed to approve time-off requests for voting. ",
+    "description": "A group of Amazon employees are circulating a petition, first created in October, demanding that Amazon stop monitoring employee activism and labor organization efforts.  The group is called Amazonians for Employee Privacy and they are requesting more transparency from Amazon about their surveillance activities, including their union heat map. ",
     "online": null,
     "locations": [
-        "seattle-washington-usa"
+        "usa"
     ],
     "companies": [
         "amazon"
     ],
-    "workers": null,
+    "workers": 199,
     "tags": [
-        "politics"
+        "surveillance"
     ],
     "author": [
-        "nataliyaned"
+        "hyatt d."
     ],
     "latlngs": [
         [
-            47.6224574,
-            -122.33650433873851
+            46.320207,
+            -112.1072224
         ]
     ],
     "addresses": [
-        "Amazon, Belltown, Seattle, King County, Washington, 98109-5210, United States"
+        "Amazon, Jefferson County, Montana, United States"
     ]
 }

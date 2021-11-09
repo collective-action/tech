@@ -1,41 +1,37 @@
 {
-    "id": 362,
-    "date": "2020/11/24",
+    "id": 361,
+    "date": "2020/11/18",
     "sources": [
-        "https://www.bloomberg.com/news/articles/2020-12-16/amazon-warehouse-union-vote-is-greenlighted-by-federal-regulator",
-        "https://www.huffpost.com/entry/amazon-warehouse-workers-file-for-union-election-in-alabama_n_5fbd1f0cc5b63d1b7706d817",
-        "https://www.businessinsider.com/amazon-workers-vote-on-union-2021-1"
+        "https://www.theguardian.com/technology/2020/nov/18/facebook-workers-demand-better-treatment-pandemic",
+        "https://www.foxglove.org.uk/news/open-letter-from-content-moderators-re-pandemic"
     ],
     "actions": [
-        "union drive"
+        "open letter"
     ],
     "struggles": [
         "pay and benefits",
-        "working conditions"
+        "working conditions",
+        "unfair labor practices"
     ],
     "employment_types": [
-        "blue collar workers"
+        "contract workers"
     ],
-    "description": "Amazon warehouse workers in Alabama filed a petition to hold a union election. If successful, this would be the first Amazon Union for warehouse workers in the U.S. Workers from the warehouse in Bessemer, Alabama, outside Birmingham, filed the petition with the NLRB seeking to be represented by the Retail, Wholesale and Department Store Union, or RWDSU. Amazon employs more than 1,500 workers at the facility, which just opened earlier this year. UPDATE: The petition was successful, and workers are expected to receive their mail-in ballots on February 8th with ballot counting set to begin on March 30th. ",
-    "online": null,
-    "locations": [
-        "bessemer-alabama-usa"
-    ],
+    "description": "More than 200 Facebook workers signed a letter demanding better treatment for content moderators after being required to return to the office in the midst of the pandemic. The contractors who wrote the letter condemned the company for deciding \u201cto risk our lives to maintain Facebook\u2019s profits during the pandemic\u201d. It was sent to chief executive officer Mark Zuckerberg, chief operating officer Sheryl Sandberg, and top executives at Accenture and CPL, two companies that contract the moderators. The open letter was published with UK-based non-profit Foxglove.",
+    "online": true,
+    "locations": null,
     "companies": [
-        "amazon"
+        "CPL",
+        "facebook",
+        "accenture"
     ],
-    "workers": null,
-    "tags": null,
+    "workers": 200,
+    "tags": [
+        "coronavirus",
+        "moderators"
+    ],
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            33.377165649999995,
-            -87.00551025009236
-        ]
-    ],
-    "addresses": [
-        "Amazon Fulfillment Center - BHM1, 975, Powder Plant Road, McAdory, Bessemer, Jefferson County, Alabama, 35022, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

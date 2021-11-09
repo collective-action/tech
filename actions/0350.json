@@ -1,40 +1,40 @@
 {
-    "id": 354,
-    "date": "2020/10/27",
+    "id": 355,
+    "date": "2020/10/26",
     "sources": [
-        "https://www.washingtonpost.com/context/a-statement-on-caste-bias-in-silicon-valley-from-30-dalit-women-engineers/d692b4f8-2710-41c3-9d5f-ea55c13bcc50/?itid=lk_interstitial_manual_16",
-        "https://www.washingtonpost.com/technology/2020/10/27/indian-caste-bias-silicon-valley/"
+        "https://www.bbc.co.uk/news/amp/business-54698858"
     ],
     "actions": [
-        "open letter"
+        "legal action"
     ],
     "struggles": [
-        "discrimination"
+        "unfair labor practices"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "A group of 30 Indian female engineers who were born into the Dalit caste shared a statement with the Washington Post describing their experience of casteism and sexism in Silicon Valley. The group called for American corporations to adopt caste as a protected category, treated on the same terms as gender, race, and sexuality. ",
-    "online": true,
+    "description": "British Uber drivers are launching a lawsuit in the Netherlands to protest the company's use of algorithms to fire workers. The App Drivers & Couriers Union (ADCU) claims there are over 1,000 cases of drivers being wrongfully fired and that this violates Article 22 of the GDPR. This Article grants technology users a right to an explanation for any automated decisions. ",
+    "online": null,
     "locations": [
-        "usa"
+        "netherlands"
     ],
-    "companies": null,
-    "workers": 30,
+    "companies": [
+        "uber"
+    ],
+    "workers": null,
     "tags": [
-        "sexism"
+        "drivers"
     ],
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            39.7837304,
-            -100.445882
+            51.851619299999996,
+            6.305120020863311
         ]
     ],
     "addresses": [
-        "United States"
+        "Br\u00fccke \u00fcber den Netterdenschen Kanal, Emmerikseweg, Netterden, Oude IJsselstreek, Gelderland, Nederland, 7077AP, Nederland"
     ]
 }

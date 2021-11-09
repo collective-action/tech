@@ -1,40 +1,47 @@
 {
-    "id": 408,
-    "date": "2018/01/14",
+    "id": 479,
+    "date": "2017/12/31",
     "sources": [
-        "https://indianexpress.com/article/cities/pune/indias-first-it-trade-union-registered-in-pune-aims-to-fight-illegal-layoffs-5023587/"
+        "https://www.sfchronicle.com/tech/article/The-tech-world-gives-back-with-a-fund-that-gives-16398360.php",
+        "https://coworkerfund.org/"
     ],
     "actions": [
-        "union representation"
+        "resources"
     ],
     "struggles": [
-        "unfair labor practices",
-        "job security"
+        "pay and benefits",
+        "working conditions",
+        "discrimination",
+        "job security",
+        "ethics"
     ],
     "employment_types": [
         "white collar workers",
+        "contract workers",
         "inhouse workers"
     ],
-    "description": "One of FITE's (Forum of IT Employees) chapters, located in Pune, became the first registered trade union for IT industry. FITE helps IT employees through legal actions under the Industrial Disputes Act. The Pune chapter can now represent IT employees statewide. FITE also mobilizes to help IT workers and laid off employees utilize resources. ",
+    "description": "A nonprofit, The Solidarity Fund by Coworker, offers no-strings-attached $2,500 checks to tech workers involved in workplace organizing. Some fund recipients have donated the money to unions or for worker solidarity activities. Notably, the nonprofit uses a grassroots fundraising model based on worker solidarity.",
     "online": true,
     "locations": [
-        "pune-india"
+        "usa"
     ],
     "companies": null,
-    "workers": null,
+    "workers": 44,
     "tags": [
-        "it workers"
+        "coworker solidarity",
+        "industry solidarity",
+        "fund_raising"
     ],
     "author": [
-        "hyatt d."
+        "wynniechan"
     ],
     "latlngs": [
         [
-            18.521428,
-            73.8544541
+            39.7837304,
+            -100.445882
         ]
     ],
     "addresses": [
-        "Pune City, Pune District, Maharashtra, India"
+        "United States"
     ]
 }

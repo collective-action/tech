@@ -1,31 +1,29 @@
 {
-    "id": 82,
-    "date": "2018/05/14",
+    "id": 81,
+    "date": "2018/04/28",
     "sources": [
-        "https://www.theguardian.com/australia-news/2018/may/16/food-delivery-riders-protest-against-wage-theft-by-deliveroo-foodora-and-ubereats",
-        "https://www.abc.net.au/news/2018-03-14/delivery-riders-march-against-ubereats-foodora-and-deliveroo/9546822"
+        "https://technode.com/2018/04/28/didi-food-delivery-strike/"
     ],
     "actions": [
-        "protest"
+        "strike"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "working conditions",
+        "pay and benefits"
     ],
     "employment_types": [
         "gig workers"
     ],
-    "description": "Food delivery riders have marched in Sydney to demand UberEats, Deliveroo and Foodora provide pay increases and better working conditions to the many contractors darting from door to door around Australian cities. Dozens of protesters voiced their concerns in Surry Hills about the lack of regulation surrounding rider pay, safety protections and benefits like sick pay and superannuation.",
+    "description": "Around 30 drivers gathered on Thursday at lunchtime, the peak hour for deliveries, to express their dissatisfaction with a serious drop in the number of orders and a change in rules for payments. The majority of the protesters were freelancers for Didi Waimai who complained of unfair rules and meager earnings.",
     "online": null,
     "locations": [
-        "sydney-australia"
+        "wuxi-china",
+        "jiangsu-china"
     ],
     "companies": [
-        "deliveroo",
-        "foodora",
-        "uber"
+        "didi"
     ],
-    "workers": 24,
+    "workers": 30,
     "tags": null,
     "author": [
         "organizejs"

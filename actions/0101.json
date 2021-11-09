@@ -1,11 +1,12 @@
 {
-    "id": 91,
+    "id": 90,
     "date": "2018/06/21",
     "sources": [
-        "https://www.bloomberg.com/news/articles/2018-06-21/google-engineers-refused-to-build-security-tool-to-win-military-contracts"
+        "https://thehill.com/business-a-lobbying/393583-amazon-employees-protest-sale-of-facial-recognition-tech-to-law",
+        "https://www.businessinsider.com/over-100-amazon-employees-sign-letter-jeff-bezos-stop-selling-facial-recognition-software-police-2018-6"
     ],
     "actions": [
-        "protest"
+        "open letter"
     ],
     "struggles": [
         "ethics"
@@ -14,28 +15,34 @@
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "Earlier this year, a group of influential software engineers in Google\u2019s cloud division, referred to as the 'Group of Nine', surprised their superiors by refusing to work on a cutting-edge security feature. Known as \u201cair gap,\u201d the technology would have helped Google win sensitive military contracts. The coders weren\u2019t persuaded their employer should be using its technological might to help the government wage war, according to four current and former employees. After hearing the engineers\u2019 objections, Urs H\u00f6lzle, Google\u2019s top technical executive, said the air gap feature would be postponed, one of the people said. ",
-    "online": null,
+    "description": "Workers at Amazon are circulating an internal letter to CEO Jeff Bezos, asking him to stop selling the companies's Rekognition facial recognition software to law enforcement and to boot the data-mining firm Palantir from its cloud services.",
+    "online": true,
     "locations": [
         "usa"
     ],
     "companies": [
-        "google"
+        "amazon",
+        "palantir"
     ],
-    "workers": 9,
+    "workers": 100,
     "tags": [
-        "military_contracts"
+        "law_enforcement"
     ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            33.977092,
-            -118.4092133
+            46.320207,
+            -112.1072224
+        ],
+        [
+            37.4440869,
+            -122.16287540411753
         ]
     ],
     "addresses": [
-        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
+        "Amazon, Jefferson County, Montana, United States",
+        "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States"
     ]
 }

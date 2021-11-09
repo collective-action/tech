@@ -1,44 +1,40 @@
 {
-    "id": 401,
-    "date": "2021/01/29",
+    "id": 407,
+    "date": "2021/01/25",
     "sources": [
-        "https://www.reuters.com/article/us-alphabet-resignations/two-google-engineers-resign-over-firing-of-ai-ethics-researcher-timnit-gebru-idUSKBN2A4090"
+        "https://www.theverge.com/2021/1/25/22243138/google-union-alphabet-workers-europe-announce-global-alliance"
     ],
     "actions": [
-        "open letter",
-        "protest"
+        "union drive"
     ],
     "struggles": [
         "ethics",
+        "unfair labor practices",
         "discrimination"
     ],
     "employment_types": [
         "white collar workers",
+        "contract workers",
         "inhouse workers"
     ],
-    "description": "Two Google engineers (engineering director David Baker plus a software developer Vinesh Kannan) have both quit in reaction to Timnit Gebru, an AI ethics researcher, being fired at Google. Gebru's firing has resulted in Google workers questioning the ethics and diversity of Google. ",
-    "online": null,
+    "description": "Alphabet Workers Union (AWU) joined a global union alliance called Alpha Global. Alpha Global is an international coalition formed by 13 unions across the world in 10 different countries including the US, UK, and Switzerland and affiliated with UNI Global Union. Alpha Global is now choosing a steering committee, which may include Google workers. They plan to launch campaigns targeting \"national issues, like the treatment of content moderators in certain countries, as well as international concerns, like workers being forced to sign nondisclosure agreements\".",
+    "online": true,
     "locations": [
-        "usa"
+        "worldwide"
     ],
     "companies": [
+        "alphabet",
         "google"
     ],
-    "workers": 2,
+    "workers": null,
     "tags": [
-        "coworker solidarity",
-        "ai"
+        "international solidarity",
+        "industry solidarity",
+        "cwa"
     ],
     "author": [
         "hyatt d."
     ],
-    "latlngs": [
-        [
-            33.977092,
-            -118.4092133
-        ]
-    ],
-    "addresses": [
-        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

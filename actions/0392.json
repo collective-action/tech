@@ -1,28 +1,32 @@
 {
-    "id": 416,
-    "date": "2021/04/06",
+    "id": 424,
+    "date": "2021/04/03",
     "sources": [
-        "https://www.bloomberg.com/news/articles/2021-04-06/doordash-workers-are-trying-to-game-the-algorithm-to-increase-pay"
+        "https://www.rfa.org/english/news/china/riders-03042021131132.html",
+        "https://chinadigitaltimes.net/2021/03/translation-detention-of-takeout-driver-advocate-highlights-digital-era-labor-abuses/"
     ],
     "actions": [
         "protest",
         "strike"
     ],
     "struggles": [
-        "pay and benefits"
+        "ethics",
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
         "gig workers"
     ],
-    "description": "DoorDash drivers are working together with a 40,000 person online community (#DeclineNow) to increase their pay by systematically declining orders through the platform. As part of the #DeclineNow movement, DoorDash drivers do not accept orders that pay less than $7, more than twice the current $3 floor. By collectively declining orders, it forces the algorithm to offer the next driver the same delivery but at a higher price. ",
+    "description": "Food delivery drivers for the platform Ele.me are going on strike for better pay, working conditions, and to protest Xiong Yan's detainment. Xiong Yan is the head of an unofficial union for the platform who was detained in Beijing last month. Delivery workers who are on strike and part of the sabotage campaign are refusing to accept work or, in cases when they do, purposefully taking a long time to complete orders to trigger \"time outs\". ",
     "online": true,
     "locations": [
-        "usa"
+        "shenzhen-china",
+        "beijing-china"
     ],
     "companies": [
-        "doordash"
+        "ele.me"
     ],
-    "workers": 40000,
+    "workers": 10000,
     "tags": [
         "coworker solidarity",
         "delivery_workers"
@@ -30,13 +34,6 @@
     "author": [
         "hyatt d."
     ],
-    "latlngs": [
-        [
-            37.7834546,
-            -122.4080358
-        ]
-    ],
-    "addresses": [
-        "Doordash HQ, Market Street, SOMA Pilipinas, San Francisco, San Francisco City and County, San Francisco, California, 94104, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

@@ -1,32 +1,41 @@
 {
-    "id": 224,
-    "date": "2020/01/13",
+    "id": 324,
+    "date": "2020/01/01",
     "sources": [
-        "https://www.vice.com/amp/en_us/article/884npb/instacart-workers-are-calling-for-a-national-boycott-of-the-grocery-delivery-app"
+        "https://www.reuters.com/article/us-hongkong-protests-unions/hong-kong-workers-flock-to-labor-unions-as-new-protest-tactic-idUSKBN1Z9007",
+        "https://www.hkitwu.org/about-us/",
+        "https://www.hkitwu.org/2020/01/3630/"
     ],
     "actions": [
-        "protest"
+        "union representation"
     ],
     "struggles": [
-        "pay and benefits"
+        "unfair labor practices"
     ],
     "employment_types": [
-        "blue collar workers",
-        "gig workers"
+        "white collar workers"
     ],
-    "description": "Many of the app's 130,000 workers claim to have seen their pay drop by more than 50 percent in 2019 alone, as the company has sought to lower costs and appease its investors. Workers are now calling for a national boycott. They\u2019re asking customers and the general public to tweet under the hashtag #DeleteInstacart on January 19, and to email Instacart CEO Apoorva Mehta on January 20, asking him to restore the 10 percent default tip\u2014which workers lost back in 2016. (The default tip sits at five percent.)",
-    "online": true,
+    "description": "The Hong Kong Information Technology Workers\u2019 Union form out of the 2019 Hong Kong movement, and is developing a database of employers who do not threaten or dismiss employees for political protests. Reuters reports that unionizing in Hong Kong has grown since anti-extradition protests began last year. Organizers see unions as a means of protecting politically engaged workers from retaliation. ",
+    "online": null,
     "locations": [
-        "usa"
+        "hong kong-china"
     ],
-    "companies": [
-        "instacart"
+    "companies": null,
+    "workers": 280,
+    "tags": [
+        "trade union",
+        "politics"
     ],
-    "workers": null,
-    "tags": null,
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            22.2793278,
+            114.1628131
+        ]
+    ],
+    "addresses": [
+        "\u9999\u6e2f\u5cf6 Hong Kong Island, \u9999\u6e2f Hong Kong, 000000, \u4e2d\u56fd"
+    ]
 }

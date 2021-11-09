@@ -1,0 +1,47 @@
+{
+    "id": 475,
+    "date": "2021/10/04",
+    "sources": [
+        "https://www.dw.com/en/gorillas-delivery-service-fires-back-over-workers-strike/a-59445809",
+        "https://www.vice.com/en/article/7kvgmd/gorillas-delivery-app-fires-workers-for-striking"
+    ],
+    "actions": [
+        "protest",
+        "strike"
+    ],
+    "struggles": [
+        "pay and benefits",
+        "working conditions",
+        "unfair labor practices",
+        "job security"
+    ],
+    "employment_types": [
+        "gig workers"
+    ],
+    "description": "In response to recent strikes that protested unfair working conditions, Gorillas fired \u201cseveral dozen Berlin-based delivery workers.\u201d In response, the Gorillas Workers Collective called for a protest in front of the company\u2019s headquarters. Gorillas have said that these strikes were unannounced, non-unionized, spontaneous, and are illegal under German law. However, other workers have shown screenshots of schedules that violate German labor law.  After the strikes took place, the company reportedly replaced those striking with Zenjob gig workers from Bermannkiez. ",
+    "online": null,
+    "locations": [
+        "berlin-germany"
+    ],
+    "companies": [
+        "gorillas"
+    ],
+    "workers": 150,
+    "tags": [
+        "retaliation",
+        "coworker solidarity",
+        "delivery_workers"
+    ],
+    "author": [
+        "wynniechan"
+    ],
+    "latlngs": [
+        [
+            52.5064919,
+            13.336216896921181
+        ]
+    ],
+    "addresses": [
+        "Flachland-Gorilla, Tiergarten, Mitte, Berlin, 10787, Deutschland"
+    ]
+}

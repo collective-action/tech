@@ -1,45 +1,68 @@
 {
-    "id": 376,
-    "date": "2020/07/21",
+    "id": 308,
+    "date": "2020/07/20",
     "sources": [
-        "https://www.igmetall-berlin.de/aktuelles/meldung/das-war-goldrichtig-warum-software-ingenieure-das-leben-mit-tarifvertrag-und-ig-metall-schoener-f/"
+        "https://www.vice.com/en_us/article/qj4zxx/amazon-google-and-lyft-workers-tell-us-why-theyre-striking-for-black-lives-matter",
+        "https://www.washingtonpost.com/business/2020/07/20/strike-for-black-lives/"
     ],
     "actions": [
-        "union representation"
+        "protest",
+        "strike"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "ethics",
+        "discrimination"
     ],
     "employment_types": [
-        "white collar workers"
+        "gig workers"
     ],
-    "description": "In 2019 employees of Bosch.io (subsidary of Bosch) formed a Works Council (Betriebsrat). In 2020 they formed their first Collective Bargaining Agreement, and Bosch.IO will join employer association. The CBA (Tarifvertrag) including provisions related to short time work (Kurzarbeit), home office usage during the coronavirus pandemic. An interview with several elected Works Councilors is included in German. ",
+    "description": "Amazon, Google, Uber, Lyft, and Postmates workers were reportedly among the \"tens of thousands\" of employees across the U.S. that took part in a protest of the country's long-standing systemic racism. Those that were unable to leave their jobs were encouraged to take an 8 minute, 46 second break (the amount of time a police officer knelt on George Floyd's neck) or to bend a knee in solidarity (a reference to protests by the NFL). The Washington Post reports that demonstrations took place in over 200 cities.",
     "online": null,
     "locations": [
-        "germany"
+        "usa"
     ],
     "companies": [
-        "bosch",
-        "bosch.io"
+        "amazon",
+        "google",
+        "uber",
+        "lyft",
+        "postmates"
     ],
-    "workers": 700,
-    "tags": null,
+    "workers": null,
+    "tags": [
+        "blm",
+        "antiracism"
+    ],
     "author": [
-        "@shushugah"
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            47.572049050000004,
-            10.667775368755255
+            46.320207,
+            -112.1072224
         ],
         [
-            47.68201895,
-            9.3864579
+            33.977092,
+            -118.4092133
+        ],
+        [
+            37.7756962,
+            -122.4180838
+        ],
+        [
+            37.7509149,
+            -122.40246883416269
+        ],
+        [
+            37.7753423,
+            -122.39763106771915
         ]
     ],
     "addresses": [
-        "Bosch, ADAC, Schlichtling, F\u00fcssen, Landkreis Ostallg\u00e4u, Bayern, 87629, Deutschland",
-        "Bosch.IO, 7, Ziegelei, Alte Ziegelei / Steigwiesen, Immenstaad am Bodensee, Verwaltungsgemeinschaft Friedrichshafen, Bodenseekreis, Baden-W\u00fcrttemberg, 88090, Deutschland"
+        "Amazon, Jefferson County, Montana, United States",
+        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
+        "Uber, 1455, Market Street, SOMA Pilipinas, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States",
+        "Lyft, Kansas Street, Potrero Terrace, San Francisco, San Francisco City and County, San Francisco, California, 94124, United States",
+        "UserTesting, 690, 5th Street, SOMA Pilipinas, San Francisco, San Francisco City and County, San Francisco, California, 94017, United States"
     ]
 }

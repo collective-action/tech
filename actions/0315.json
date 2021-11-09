@@ -1,51 +1,45 @@
 {
-    "id": 307,
-    "date": "2020/07/26",
+    "id": 376,
+    "date": "2020/07/21",
     "sources": [
-        "https://www.msn.com/en-us/news/us/boycott-continues-against-cambridge-whole-foods-that-sent-employees-home-for-black-lives-matter-masks/ar-BB16mPY2"
+        "https://www.igmetall-berlin.de/aktuelles/meldung/das-war-goldrichtig-warum-software-ingenieure-das-leben-mit-tarifvertrag-und-ig-metall-schoener-f/"
     ],
     "actions": [
-        "protest",
-        "strike"
+        "union representation"
     ],
     "struggles": [
-        "unfair labor practices",
-        "ethics",
-        "discrimination"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
-        "inhouse workers",
-        "blue collar workers"
+        "white collar workers"
     ],
-    "description": "Whole Foods employees and local residents protested in front of a Cambridge location that turned away seven employees on June 25th for wearing masks with \"Black Lives Matter\" slogans. The event is part of a larger boycott that has been ongoing since the incident. Suverino Frith, one of the seven employees, spoke at the event and called on the company to live up to their \"core values\". ",
+    "description": "In 2019 employees of Bosch.io (subsidary of Bosch) formed a Works Council (Betriebsrat). In 2020 they formed their first Collective Bargaining Agreement, and Bosch.IO will join employer association. The CBA (Tarifvertrag) including provisions related to short time work (Kurzarbeit), home office usage during the coronavirus pandemic. An interview with several elected Works Councilors is included in German. ",
     "online": null,
     "locations": [
-        "cambridge-massachusetts-usa"
+        "germany"
     ],
     "companies": [
-        "whole_foods",
-        "amazon"
+        "bosch",
+        "bosch.io"
     ],
-    "workers": null,
-    "tags": [
-        "antiracism",
-        "blm"
-    ],
+    "workers": 700,
+    "tags": null,
     "author": [
-        "nataliyaned"
+        "@shushugah"
     ],
     "latlngs": [
         [
-            42.361005950000006,
-            -71.11395056436744
+            47.572049050000004,
+            10.667775368755255
         ],
         [
-            42.3651852,
-            -71.1042178
+            47.68201895,
+            9.3864579
         ]
     ],
     "addresses": [
-        "Whole Foods Market, 340, River Street, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02139, United States",
-        "Amazon Pickup, 1, Magazine Street, Central Square, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02139, United States"
+        "Bosch, ADAC, Schlichtling, F\u00fcssen, Landkreis Ostallg\u00e4u, Bayern, 87629, Deutschland",
+        "Bosch.IO, 7, Ziegelei, Alte Ziegelei / Steigwiesen, Immenstaad am Bodensee, Verwaltungsgemeinschaft Friedrichshafen, Bodenseekreis, Baden-W\u00fcrttemberg, 88090, Deutschland"
     ]
 }

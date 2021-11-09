@@ -1,39 +1,47 @@
 {
-    "id": 101,
-    "date": "2018/10/12",
+    "id": 100,
+    "date": "2018/10/09",
     "sources": [
-        "https://medium.com/s/story/an-open-letter-to-microsoft-dont-bid-on-the-us-military-s-project-jedi-7279338b7132"
+        "https://www.theguardian.com/technology/2018/oct/09/uber-uk-strike-users-urged-not-to-cross-digital-picket-line",
+        "https://www.bbc.com/news/business-45796409"
     ],
     "actions": [
-        "open letter"
+        "strike"
     ],
     "struggles": [
-        "ethics"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "An open letter signed by 'employees of Microsoft' asks the cloud giant to abstain from bidding on the military's massive JEDI cloud computing contract for ethical reasons involving the application of artificial intelligence.",
-    "online": true,
+    "description": "Hundreds of Uber drivers are expected to switch off their apps from 1pm, making themselves unavailable for work, union organisers said. Protests are also being held outside the ride-hailing app's offices in London, Nottingham and Birmingham.",
+    "online": null,
     "locations": [
-        "usa"
+        "london-uk",
+        "nottingham-uk",
+        "birmingham-uk"
     ],
     "companies": [
-        "microsoft"
+        "uber"
     ],
-    "workers": null,
+    "workers": 100,
     "tags": null,
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            37.3974949,
-            -122.0842646
+            51.5148804,
+            -0.0718856
+        ],
+        [
+            52.4746766,
+            -1.91586332385543
         ]
     ],
     "addresses": [
-        "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, California, 94043, United States"
+        "Uber, 2, Leman Street, Spitalfields, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, E1 8FA, United Kingdom",
+        "UBER, 100, Broad Street, Ladywood, Park Central, Birmingham, West Midlands Combined Authority, West Midlands, England, B15 1AE, United Kingdom"
     ]
 }

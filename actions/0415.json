@@ -1,41 +1,39 @@
 {
-    "id": 465,
-    "date": "2021/06/03",
+    "id": 445,
+    "date": "2021/06/01",
     "sources": [
-        "https://www.vice.com/en/article/7kv89q/riders-for-europes-delivery-unicorn-report-grueling-delivery-times-and-back-pain"
+        "https://www.theverge.com/2021/6/1/22463267/google-union-g4s-subcontractor-deadname-id-badge",
+        "https://dropthedeadnames.org/#petition"
     ],
     "actions": [
-        "union drive"
+        "protest",
+        "open letter"
     ],
     "struggles": [
-        "working conditions",
-        "pay and benefits"
+        "discrimination",
+        "ethics"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers",
+        "blue collar workers",
+        "inhouse workers",
+        "contract workers"
     ],
-    "description": "Delivery workers at Gorillas are organizing to form a work council known as Gorillas Workers Collective. The employees held a meeting to establish a work council to obtain co-determination rights. Having access to these rights would allow them to have a say in break times and safety arrangements. The workers have organized due to unpaid hours, back pain and psychological distress incurred from the job, lack of safety, violation of labor laws, and chaotic management. ",
-    "online": null,
-    "locations": [
-        "berlin-germany"
-    ],
+    "description": "The Alphabet Workers Union circulated a petition asking the company and its contractors to allow employees to choose which name appears on their ID badges. These actions were taken because a transgender man, Phares Lee, requested to have his deadname replaced by his preferred name. His request was denied and he was forced to put his legal name. Lee works for G4S, a Google contractor, and was also banned from participating in employee resource groups (ERGs) as a result of his contractor status. The petition also called on the company to open ERGs to contractors. Update (6/14): G4S and Google allowed Phares to use his preferred name and join Google ERGs. The companies have not communicated larger changes in policy. ",
+    "online": true,
+    "locations": null,
     "companies": [
-        "gorillas"
+        "google",
+        "g4s"
     ],
-    "workers": null,
+    "workers": 1044,
     "tags": [
-        "delivery_workers"
+        "lgbtq",
+        "coworker solidarity"
     ],
     "author": [
         "hyatt d."
     ],
-    "latlngs": [
-        [
-            52.5064919,
-            13.336216896921181
-        ]
-    ],
-    "addresses": [
-        "Flachland-Gorilla, Tiergarten, Mitte, Berlin, 10787, Deutschland"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

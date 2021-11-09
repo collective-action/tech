@@ -1,37 +1,29 @@
 {
-    "id": 471,
-    "date": "2021/09/03",
+    "id": 470,
+    "date": "2021/09/01",
     "sources": [
-        "appletoo.us/letter/",
-        "https://twitter.com/cherthedev/status/1433865109550501888"
+        "https://www.nytimes.com/2021/09/03/technology/texas-abortion-law-website-tiktok.html"
     ],
     "actions": [
-        "open letter"
+        "protest",
+        "resources"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions",
-        "ethics",
-        "discrimination",
-        "unfair labor practices"
+        "ethics"
     ],
     "employment_types": [
         "white collar workers",
-        "inhouse workers",
-        "contract workers"
+        "content creators",
+        "open source community"
     ],
-    "description": "The Apple workers in #AppleToo have released an open letter calling on Tim Cook and the Senior Leadership team to follow through in its diversity, equity, and inclusion promises. Workers have brought up invasive privacy policies, abuse, discrimination, and harassment. Their demands include: (1) \u201cincreased separation between Apple-owned and worker-owned digital and physical property in all Apple policies,\u201d (2) \u201ctransparent livable, equitable, and fair compensation across all of Apple,\u201d (3) \u201caudit all third-party relationships,\u201d among others. ",
+    "description": "In response to Texas\u2019s new abortion law and the creation of the website prolifewhistleblower.com, TikTok activists, programmers, and Twitter and Reddit users engaged in \u201chacktivism\u201d by submitting fake reports to the website. Programmers have also created and released scripts for others to automatically generate fake reports. The website responded by adding a new version of a Captcha to filter out bot reports. Furthermore, some Twitter users called for a boycott of GoDaddy, the company that hosts the website, as the website violates GoDaddy\u2019s terms of service. In response, GoDaddy gave the website 24 hours to move to another provider before cutting off service.",
     "online": true,
     "locations": null,
-    "companies": [
-        "apple"
-    ],
-    "workers": null,
+    "companies": null,
+    "workers": 8451,
     "tags": [
-        "coworker solidarity",
-        "sexism",
-        "antiracism",
-        "surveillance"
+        "law_enforcement",
+        "politics"
     ],
     "author": [
         "wynniechan"

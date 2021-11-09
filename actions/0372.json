@@ -1,54 +1,43 @@
 {
-    "id": 394,
-    "date": "2021/01/12",
+    "id": 390,
+    "date": "2021/01/09",
     "sources": [
-        "https://www.washingtonpost.com/technology/2021/01/12/prop22-uber-lawsuit/"
+        "https://www.buzzfeednews.com/article/johnpaczkowski/amazon-parler-aws",
+        "https://twitter.com/AMZNforClimate/status/1347799256883552259?s=19"
     ],
     "actions": [
-        "legal action"
+        "protest"
     ],
     "struggles": [
-        "unfair labor practices"
+        "ethics"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "The SEIU, along with a number of individual rideshare drivers, filed a lawsuit with the California Supreme Court seeking to overturn Proposition 22, which ruled that gig workers are independent contractors in the state. They argue that the law is unconstitutional and violates the right of state legislators; they also argue that Proposition 22 violated a rule that limits ballot measures to a single subject to prevent voter confusion.",
-    "online": null,
+    "description": "Amazon suspends hosting for Parler, a social network app cited for facilitating the pro-Trump storming of the Capitol, after Amazon employees send internal messages to AWS management and participate in various online actions, including a coworker.org petition.",
+    "online": true,
     "locations": [
-        "california-usa"
+        "usa"
     ],
     "companies": [
-        "uber",
-        "lyft",
-        "doordash"
+        "amazon"
     ],
     "workers": null,
     "tags": [
-        "drivers",
-        "seiu",
-        "climate change"
+        "trump",
+        "politics"
     ],
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
     "latlngs": [
         [
-            37.7756962,
-            -122.4180838
-        ],
-        [
-            37.7509149,
-            -122.40246883416269
-        ],
-        [
-            37.7834546,
-            -122.4080358
+            46.320207,
+            -112.1072224
         ]
     ],
     "addresses": [
-        "Uber, 1455, Market Street, SOMA Pilipinas, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States",
-        "Lyft, Kansas Street, Potrero Terrace, San Francisco, San Francisco City and County, San Francisco, California, 94124, United States",
-        "Doordash HQ, Market Street, SOMA Pilipinas, San Francisco, San Francisco City and County, San Francisco, California, 94104, United States"
+        "Amazon, Jefferson County, Montana, United States"
     ]
 }

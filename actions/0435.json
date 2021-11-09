@@ -1,54 +1,32 @@
 {
-    "id": 472,
-    "date": "2021/09/28",
+    "id": 480,
+    "date": "2021/09/14",
     "sources": [
-        "https://www.mirror.co.uk/news/uk-news/uber-drivers-stage-24-hour-25087702",
-        "https://www.adcu.org.uk/uberstrike",
-        "https://twitter.com/Yaseenaslam381/status/1442827661546561538?s=19"
+        "https://www.vice.com/amp/en/article/m7ey5b/hellofresh-workers-are-unionizing-the-booming-meal-kit-industry?__twitter_impression=true"
     ],
     "actions": [
-        "strike",
-        "protest"
+        "union drive",
+        "union representation"
     ],
     "struggles": [
         "pay and benefits",
-        "unfair labor practices",
-        "job security"
+        "working conditions"
     ],
     "employment_types": [
-        "gig workers",
-        "inhouse workers"
+        "blue collar workers"
     ],
-    "description": "The ADCU National Executive Committee organized a national 24-hour strike against Uber on September 28th with the hashtag campaign #UberStrike. On the 28th, Uber drivers didn\u2019t log on, and passengers were encouraged to stop using the service or book services. Employees protested about being unfairly dismissed as well as the company failing to pay for waiting time, despite a UK Supreme Court ruling. It is also a protest against the newly introduced fixed price fares. The strike occurred in London, Bristol, Birmingham, Sheffield, Manchester, Leeds, Glasgow, and Nottingham. ",
-    "online": true,
-    "locations": [
-        "london-uk",
-        "birmingham-uk",
-        "sheffield-uk",
-        "nottingham-uk"
-    ],
-    "companies": [
-        "uber"
-    ],
-    "workers": 25,
+    "description": "1,300 HelloFresh workers are unionizing with UNITE HERE in Colorado and California due to low wages, safety issues, and poor work conditions. HelloFresh management has also been unresponsive towards workers after a COVID-19 outbreak in a Richmond facility. UNITE HERE filed a petition to NLRB to authorize a vote to unionize. In response, anti-union consultants, such as Kulture Consulting, were reported to have held mandatory anti-union meetings.",
+    "online": null,
+    "locations": null,
+    "companies": null,
+    "workers": null,
     "tags": [
-        "drivers"
+        "unite_here",
+        "coronavirus"
     ],
     "author": [
         "wynniechan"
     ],
-    "latlngs": [
-        [
-            51.5148804,
-            -0.0718856
-        ],
-        [
-            52.4746766,
-            -1.91586332385543
-        ]
-    ],
-    "addresses": [
-        "Uber, 2, Leman Street, Spitalfields, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, E1 8FA, United Kingdom",
-        "UBER, 100, Broad Street, Ladywood, Park Central, Birmingham, West Midlands Combined Authority, West Midlands, England, B15 1AE, United Kingdom"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

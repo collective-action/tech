@@ -1,40 +1,31 @@
 {
-    "id": 77,
-    "date": "2018/03/06",
+    "id": 76,
+    "date": "2018/02/18",
     "sources": [
-        "https://www.mercurynews.com/2018/03/07/stanford-students-protest-outside-apple-headquarters-over-smartphone-addiction/"
+        "https://medium.com/@anna.geiduschek/an-open-letter-from-tech-workers-to-doordash-dc387fdef0fe"
     ],
     "actions": [
-        "protest"
+        "open letter"
     ],
     "struggles": [
-        "ethics"
+        "pay and benefits"
     ],
     "employment_types": [
-        "na"
+        "gig workers"
     ],
-    "description": "Stanford Students Against Addictive Devices, a group of computer science students at the university, stage a protest at Apple Headquarters. They call for Apple to design devices with an 'essential mode', allowing the user to activate only basic functions. The group previously held a protest at the Apple store in downtown Palo Alto.",
+    "description": "After raising a round of $400 million, tech workers protest Doordash using workers' tip money to subsidize base pay. 'Silicon Valley investors clearly don't care that DoorDash cheats drivers\u200a\u2014\u200ain fact, DoorDash is likely being rewarded for adopting practices that improve their profit margins and treats drivers unfairly. However, investors do care that their startups can hire the best tech talent to help them execute on their mission.",
     "online": null,
     "locations": [
-        "palo alto-california-usa"
+        "madrid-spain"
     ],
     "companies": [
-        "apple"
+        "doordash"
     ],
-    "workers": null,
-    "tags": [
-        "students"
-    ],
+    "workers": 320,
+    "tags": null,
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
-    "latlngs": [
-        [
-            37.4417249,
-            -122.1725159
-        ]
-    ],
-    "addresses": [
-        "Apple Store, Stanford Shopping Center, Stanford, Palo Alto, Santa Clara County, California, 94304, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

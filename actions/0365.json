@@ -1,44 +1,41 @@
 {
-    "id": 403,
-    "date": "2020/12/22",
+    "id": 373,
+    "date": "2020/12/21",
     "sources": [
-        "https://csedsupportstimnit.medium.com/computer-science-needs-more-timnit-gebrus-csedsupportstimnit-believeblackwomen-9600d7fa22b6"
+        "https://www.rfa.org/english/news/china/workers-12212020111240.html"
     ],
     "actions": [
-        "open letter"
+        "protest",
+        "strike"
     ],
     "struggles": [
-        "ethics",
-        "discrimination"
+        "job security"
     ],
     "employment_types": [
-        "white collar workers"
+        "contract workers",
+        "blue collar workers"
     ],
-    "description": "CS Ed Supports Timnit is an online movement started in response to Dr. Timnit Gebru's firing at Google. Gebru, \"a world renowned researcher on ethics and artificial intelligence\", lost her position after raising concerns about using data being used against marginalized groups of people. CS Ed Supports Timnit wrote an open letter asking for academics, researchers, program providers, and advocates for computer science students to stand in solidarity in with Timnit. They advocate to not stay neutral and address the inequalities across the tech industries. ",
-    "online": true,
+    "description": "Shanghai factory workers at the Apple supplier Pegatron turned out to protest a pay dispute with management at the weekend. Thousands of temporary workers gathered outside the Taiwanese-invested Pegatron facility in Shanghai, as authorities dispatched large numbers of police to block their entrance to the facility, sparking clashes. The protest came after Pegatron tried to transfer thousands of workers from its Shanghai factory to another facility at Kunshan in the eastern province of Jiangsu. Those who refused the transfer would be fired, and workers fired for refusing the offer wouldn't be eligible for their share of finders' fee commission usually shared between recruitment agencies and workers.",
+    "online": null,
     "locations": [
-        "usa"
+        "shanghai-china"
     ],
     "companies": [
-        "google"
+        "pegatron",
+        "apple"
     ],
-    "workers": 195,
-    "tags": [
-        "industry solidarity",
-        "academics",
-        "antiracism",
-        "ai"
-    ],
+    "workers": 1000,
+    "tags": null,
     "author": [
-        "hyatt d."
+        "organizejs"
     ],
     "latlngs": [
         [
-            33.977092,
-            -118.4092133
+            31.2350886,
+            121.4754904
         ]
     ],
     "addresses": [
-        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
+        "Apple Store, \u798f\u5dde\u8def, \u5357\u4eac\u4e1c\u8def\u8857\u9053, \u9ec4\u6d66\u533a, \u4e0a\u6d77\u5e02, 200001, \u4e2d\u56fd"
     ]
 }

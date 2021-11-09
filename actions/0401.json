@@ -1,46 +1,49 @@
 {
-    "id": 423,
-    "date": "2021/04/26",
+    "id": 436,
+    "date": "2021/04/21",
     "sources": [
-        "https://www.thehindubusinessline.com/news/national/drivers-jac-demand-covid-19-cover-from-uber-ola/article34417191.ece",
-        "https://twitter.com/ShaikTgfwda/status/1386677337106706434"
+        "https://www.vice.com/en/article/epn437/nyc-gig-workers-are-organizing-against-rampant-e-bike-theft-and-assault"
     ],
     "actions": [
-        "open letter"
+        "protest"
     ],
     "struggles": [
-        "pay and benefits",
         "working conditions",
-        "unfair labor practices"
+        "unfair labor practices",
+        "pay and benefits",
+        "job security"
     ],
     "employment_types": [
         "gig workers"
     ],
-    "description": "In an open letter, the Telangana State Taxi and Drivers Joint Action Committee (JAC) in India demanded Uber and Ola pay for hospital expenses for drivers who test positive for covid and compensation to their families. The JAC, which comprises more than 20 unions and associations of app-based workers, also called on the companies to provide PPE, increase the rate of the fixed fare, and allow drivers to pick up their evening earnings within at least 3 km of their homes. India reported more than 350,000 cases in a single day on the same day. ",
-    "online": true,
+    "description": "New York City delivery workers who ride e-bikes for food delivery apps protested against wage theft, lack of protections, and poor working conditions, including rampant theft of their e-bikes and violent assault while on the job. The protest was organized by Los Deliveristas Unidos, a grassroots campaign formed by immigrant Latinx delivery workers in New York City in 2020 during the pandemic.",
+    "online": null,
     "locations": [
-        "telangana-india"
+        "new york city-new york-usa"
     ],
     "companies": [
         "uber",
-        "ola"
+        "doordash",
+        "grubhub",
+        "postmates",
+        "chowbus",
+        "relay"
     ],
-    "workers": null,
+    "workers": 1000,
     "tags": [
-        "coronavirus",
-        "drivers",
-        "delivery_workers"
+        "delivery_workers",
+        "industry solidarity"
     ],
     "author": [
-        "hyatt d."
+        "CM"
     ],
     "latlngs": [
         [
-            19.1815187,
-            78.0699956
+            40.65532605,
+            -73.79478942223645
         ]
     ],
     "addresses": [
-        "Sub Centre, Ola, Oala, Adilabad, Nirmal, Telangana, 504109, India"
+        "Uber Limo Livery Hold Lot, Cargo Plaza Road, Queens, Queens County, New York, 11430, United States"
     ]
 }

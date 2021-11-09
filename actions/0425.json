@@ -1,34 +1,31 @@
 {
-    "id": 461,
-    "date": "2021/07/26",
+    "id": 456,
+    "date": "2021/07/21",
     "sources": [
-        "https://www.foxglove.org.uk/2021/07/25/open-letter-from-60-content-moderators-to-facebook/"
+        "https://justice-for-jessica.com/",
+        "https://newsnationusa.com/news/finance/banking/hundreds-of-google-employees-call-on-company-to-change-sexual-misconduct-policies-that-they-say-put-the-burden-on-survivors/"
     ],
     "actions": [
         "open letter"
     ],
     "struggles": [
-        "job security",
         "working conditions",
-        "ethics"
+        "unfair labor practices"
     ],
     "employment_types": [
         "white collar workers",
-        "inhouse workers",
-        "contract workers"
+        "inhouse workers"
     ],
-    "description": "Content moderators who work for Facebook across the world wrote an open letter to Mark Zuckerberg, Sheryl Sandberg, Anne Heraty, and Julie Sweet. The moderators are demanding Facebook stop using non-disclosure agreements to prevent moderators from speaking out about their working conditions. The moderators also want proper mental health support and to make all moderators in-house instead of contract workers outsourced by Accenture.  ",
+    "description": "An open letter was published demanding justice for Jessica (Ming) Tao, a former employee at Google. According to the open letter, \"Google has chosen to put Jessica on unpaid leave while her rapist is still fully employed.\" The letter states that this is a common practice where Google protects the harasser instead of the victim. The letter demands that Jessica is compensated in full for her time on disability leave. The letter demands, \"that survivors involved in future proceedings are always compensated for their time during this traumatizing process.\" Lastly, the letter demands Alphabet to stop having workers go to employee assistance program (EAP) therapy when they face harassment or other workplace abuses. ",
     "online": true,
     "locations": null,
     "companies": [
-        "facebook",
-        "accenture"
+        "google",
+        "alphabet"
     ],
-    "workers": 60,
+    "workers": 700,
     "tags": [
-        "international solidarity",
-        "coworker_solidarity",
-        "moderators"
+        "sexual_harassment"
     ],
     "author": [
         "hyatt d."

@@ -1,36 +1,51 @@
 {
-    "id": 348,
-    "date": "2020/08/01",
+    "id": 307,
+    "date": "2020/07/26",
     "sources": [
-        "https://www.berkeleyside.com/2020/10/13/amazon-workers-want-to-unionize-their-east-bay-warehouse",
-        "https://www.youtube.com/watch?v=LpSrDtHhKVs"
+        "https://www.msn.com/en-us/news/us/boycott-continues-against-cambridge-whole-foods-that-sent-employees-home-for-black-lives-matter-masks/ar-BB16mPY2"
     ],
     "actions": [
-        "protest"
+        "protest",
+        "strike"
     ],
     "struggles": [
-        "working conditions"
+        "unfair labor practices",
+        "ethics",
+        "discrimination"
     ],
     "employment_types": [
-        "blue collar workers",
-        "inhouse workers"
+        "inhouse workers",
+        "blue collar workers"
     ],
-    "description": "Amazon workers and supporters blocked the entrance of a San Leandro warehouse for several hours in a call for improved coronavirus safety measures.",
-    "online": true,
+    "description": "Whole Foods employees and local residents protested in front of a Cambridge location that turned away seven employees on June 25th for wearing masks with \"Black Lives Matter\" slogans. The event is part of a larger boycott that has been ongoing since the incident. Suverino Frith, one of the seven employees, spoke at the event and called on the company to live up to their \"core values\". ",
+    "online": null,
     "locations": [
-        "san leandro-california-usa"
+        "cambridge-massachusetts-usa"
     ],
     "companies": [
+        "whole_foods",
         "amazon"
     ],
     "workers": null,
     "tags": [
-        "coronavirus",
-        "delivery_workers"
+        "antiracism",
+        "blm"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            42.361005950000006,
+            -71.11395056436744
+        ],
+        [
+            42.3651852,
+            -71.1042178
+        ]
+    ],
+    "addresses": [
+        "Whole Foods Market, 340, River Street, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02139, United States",
+        "Amazon Pickup, 1, Magazine Street, Central Square, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02139, United States"
+    ]
 }

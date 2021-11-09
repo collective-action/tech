@@ -1,37 +1,44 @@
 {
-    "id": 426,
-    "date": "2021/03/23",
+    "id": 412,
+    "date": "2021/03/22",
     "sources": [
-        "https://rms-open-letter.github.io/",
-        "https://rms-open-letter.github.io/appendix",
-        "https://rms-open-letter.github.io/statements",
-        "https://itwire.com/open-source/pro-stallman-group-issues-open-letter",
-        "-wants-him-to-stay-on-fsf-board.html"
+        "https://www.bloomberg.com/news/articles/2021-03-30/youtube-refuses-to-remove-anti-asian-song-drawing-staff-ire",
+        "https://www.nbcnews.com/news/asian-america/youtube-declines-ban-video-anti-asian-lyrics-staff-outcry-rcna562",
+        "https://www.indy100.com/news/youtube-yg-song-anti-asian-song-removal-b1826955"
     ],
     "actions": [
-        "open letter"
+        "protest"
     ],
     "struggles": [
         "ethics",
         "discrimination"
     ],
     "employment_types": [
-        "open source community"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Members of the open source community have written an open letter calling on the entire Board of the Free Software Foundation to be removed for supporting Richard M. Stallman over his many years involved with that organization. They are also demanding that Stallman be removed from all leadership positions including the GNU Project. The letter says that Stallman is misogynist, ableist, and transphobic and cites incidents thereof. It calls on members of the open source community to stop contributing and associating with the organization and their projects.",
-    "online": true,
-    "locations": null,
+    "description": "Several of YouTube's employees raised concerns that a music video on the website, \"Meet the Flockers\" by YG, promotes racism towards Asian Americans. The video details a burglary and calls for targeting Chinese communities according to press reports. The employees requested that the company's Trust and Safety team pull the video from the site, which the company declined to do in a statement. Update: In early April, several newspapers reported that the video had been removed from the website. ",
+    "online": null,
+    "locations": [
+        "san bruno-california-usa"
+    ],
     "companies": [
-        "free_software_foundation"
+        "youtube"
     ],
-    "workers": 3007,
+    "workers": null,
     "tags": [
-        "sexism",
-        "sexual_harassment"
+        "antiracism"
     ],
     "author": [
         "hyatt d."
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.6291599,
+            -122.42551778433794
+        ]
+    ],
+    "addresses": [
+        "YouTube, 1000, Cherry Avenue, YouTube, San Bruno, San Mateo County, California, 94066, United States"
+    ]
 }

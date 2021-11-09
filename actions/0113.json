@@ -1,32 +1,39 @@
 {
-    "id": 102,
-    "date": "2018/10/24",
+    "id": 101,
+    "date": "2018/10/12",
     "sources": [
-        "https://clb.org.hk/content/taxi-drivers-out-strike-again-china-competition-threatens-livelihoods"
+        "https://medium.com/s/story/an-open-letter-to-microsoft-dont-bid-on-the-us-military-s-project-jedi-7279338b7132"
     ],
     "actions": [
-        "strike"
+        "open letter"
     ],
     "struggles": [
-        "pay and benefits"
+        "ethics"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Hundreds of regular Didi drivers in Xiamen went on strike in protest against the company's advantageous policy towards drivers who have not yet formally registered. Drivers said their daily incomes had fallen to around 200-300 yuan per day, about the same as regular taxi drivers in the city, and that they were now struggling just to get by. After police arrived at the site of the protest and dispersed the crowd, the workers elected their own representatives to hold talks with the company, and vowed to continue with their protests until the situation improved.",
-    "online": null,
+    "description": "An open letter signed by 'employees of Microsoft' asks the cloud giant to abstain from bidding on the military's massive JEDI cloud computing contract for ethical reasons involving the application of artificial intelligence.",
+    "online": true,
     "locations": [
-        "xiamen-china",
-        "fujian-china"
+        "usa"
     ],
     "companies": [
-        "didi"
+        "microsoft"
     ],
-    "workers": 100,
+    "workers": null,
     "tags": null,
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.3974949,
+            -122.0842646
+        ]
+    ],
+    "addresses": [
+        "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, California, 94043, United States"
+    ]
 }

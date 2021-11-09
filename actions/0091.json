@@ -1,33 +1,40 @@
 {
-    "id": 81,
-    "date": "2018/04/28",
+    "id": 80,
+    "date": "2018/04/06",
     "sources": [
-        "https://technode.com/2018/04/28/didi-food-delivery-strike/"
+        "https://www.thetimes.co.uk/article/academics-stride-into-battle-to-halt-march-of-the-korean-killer-robots-0wt052m6r"
     ],
     "actions": [
-        "strike"
+        "open letter"
     ],
     "struggles": [
-        "working conditions",
-        "pay and benefits"
+        "ethics"
     ],
     "employment_types": [
-        "gig workers"
+        "na"
     ],
-    "description": "Around 30 drivers gathered on Thursday at lunchtime, the peak hour for deliveries, to express their dissatisfaction with a serious drop in the number of orders and a change in rules for payments. The majority of the protesters were freelancers for Didi Waimai who complained of unfair rules and meager earnings.",
-    "online": null,
+    "description": "A group of academics working on artificial technologies call for a boycott of the Korea Advanced Institute of Science and Technology, a South Korean university. KAIST is believed to be developing AI weapons through a collaboration with a defense contractor. An open letter has been signed by 50 academics.",
+    "online": true,
     "locations": [
-        "wuxi-china",
-        "jiangsu-china"
+        "south korea"
     ],
     "companies": [
-        "didi"
+        "korea_advanced_institute_of_science_and_technology"
     ],
-    "workers": 30,
-    "tags": null,
+    "workers": 50,
+    "tags": [
+        "academics"
+    ],
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            36.3697191,
+            127.36253700115094
+        ]
+    ],
+    "addresses": [
+        "\ud55c\uad6d\uacfc\ud559\uae30\uc220\uc6d0, 291, \ub300\ud559\ub85c, \uc628\ucc9c2\ub3d9, \uc628\ucc9c\ub3d9, \uc720\uc131\uad6c, \ub300\uc804, 34141, \ub300\ud55c\ubbfc\uad6d"
+    ]
 }

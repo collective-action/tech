@@ -1,44 +1,41 @@
 {
-    "id": 316,
-    "date": "2020/08/31",
+    "id": 318,
+    "date": "2020/08/28",
     "sources": [
-        "https://onezero.medium.com/leaked-salary-spreadsheet-reveals-microsoft-employee-earnings-for-a-second-year-d1466132d309"
+        "https://www.businessinsider.in/tech/news/protesters-set-up-a-guillotine-outside-jeff-bezos-mansion-and-demanded-higher-wages-for-amazon-workers-after-the-ceos-net-worth-surpassed-200-billion/amp_articleshow/77794471.cms"
     ],
     "actions": [
-        "protest",
-        "resources"
+        "protest"
     ],
     "struggles": [
-        "pay and benefits",
-        "discrimination"
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers",
+        "blue collar workers",
         "inhouse workers"
     ],
-    "description": "More than 300 Microsoft employees shared salary and pay bonus data in spreadsheet. A similar action took place last year. This year's survey asked whether employees identified as people of color or experienced discrimination because of their gender identity. Notably, 194 of 310 participants identified as people of color and 69 had experienced discrimination on the basis of gender identity.",
-    "online": true,
+    "description": "More than 100 protesters, led by former Amazon worker Christian Smalls, placed a guillotine outside of Jeff Bezos' D.C. home to call on the company to raise minimum wages from $15 to $30/hour. ",
+    "online": null,
     "locations": [
-        "usa"
+        "washington_dc-usa"
     ],
     "companies": [
-        "microsoft"
+        "amazon"
     ],
-    "workers": 310,
+    "workers": 101,
     "tags": [
-        "antiracism",
-        "salary sharing"
+        "coronavirus"
     ],
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            37.3974949,
-            -122.0842646
+            38.9035981,
+            -77.0186204
         ]
     ],
     "addresses": [
-        "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, California, 94043, United States"
+        "Amazon Locker - Saba, 490, L Street Northwest, Mount Vernon Square, Washington, District of Columbia, 20001, United States"
     ]
 }

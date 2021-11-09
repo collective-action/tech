@@ -1,47 +1,50 @@
 {
-    "id": 428,
+    "id": 415,
     "date": "2021/04/07",
     "sources": [
-        "https://abcnews.go.com/Technology/wireStory/uk-deliveroo-riders-strike-pay-gig-work-conditions-76920998",
-        "https://twitter.com/joinaunionpls/status/1379728581975285762?s=19"
+        "https://www.theverge.com/2021/4/7/22327090/gimlet-media-union-spotify-contract-agreement",
+        "https://www.wgaeast.org/gimlet-media-and-the-ringer-ratify-first-podcast-contracts-at-spotify/",
+        "https://www.wgaeast.org/wp-content/uploads/sites/4/2021/04/Gimlet-Media-WGA-CBA-FINAL-DRAFT-March-23-2021-1.pdf",
+        "https://www.wgaeast.org/wp-content/uploads/sites/4/2021/03/Ringer-LLC-WGAE-CBA-FINAL.pdf"
     ],
     "actions": [
-        "strike",
-        "protest"
+        "union representation"
     ],
     "struggles": [
         "pay and benefits",
-        "working conditions"
+        "discrimination",
+        "working conditions",
+        "unfair labor practices",
+        "job security"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Deliveroo drivers went on a national strike in London, York, Redding, Sheffield, and Wolverhampton for better pay, working conditions, and basic workers rights. The strike was strategically timed to coincide with the company's IPO. According to protesters,  the company has profited from the COVID-19 pandemic at the expense of workers.",
+    "description": "Spotify and two unions, the Ringer Union and the Gimlet Union, agreed on a 3-year union contract, the first in the tech industry. The contract sets salary minimums, annual salary increases, terms for severance pay, and diversity hiring guarantees but does not clarify terms around intellectual property. ",
     "online": null,
     "locations": [
-        "london-uk",
-        "sheffield-uk",
-        "york-uk",
-        "redding-uk",
-        "wolverhampton-uk"
+        "usa"
     ],
     "companies": [
-        "deliveroo"
+        "spotify",
+        "gimlet media",
+        "the ringer"
     ],
     "workers": null,
     "tags": [
-        "delivery_workers"
+        "coworker_solidarity"
     ],
     "author": [
         "hyatt d."
     ],
     "latlngs": [
         [
-            51.5314216,
-            -0.1113624
+            40.7411352,
+            -73.7712961
         ]
     ],
     "addresses": [
-        "Deliveroo, Pentonville Road, Pentonville, Barnsbury, London Borough of Islington, London, Greater London, England, N1 9JB, United Kingdom"
+        "Ringer, Queens, Queens County, New York, 11364:11427, United States"
     ]
 }

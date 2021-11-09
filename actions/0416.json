@@ -1,32 +1,41 @@
 {
-    "id": 447,
-    "date": "2021/06/04",
+    "id": 465,
+    "date": "2021/06/03",
     "sources": [
-        "https://www.theverge.com/2021/6/4/22491629/apple-employees-push-back-return-office-internal-letter-tim-cook?fbclid=IwAR08D4vzo6shzwwtNXwr8HCw6h1nsHG7rQcSx-k-JyuYL-I2Q7aDl0o_aZ0"
+        "https://www.vice.com/en/article/7kv89q/riders-for-europes-delivery-unicorn-report-grueling-delivery-times-and-back-pain"
     ],
     "actions": [
-        "open letter"
+        "union drive"
     ],
     "struggles": [
-        "working conditions"
+        "working conditions",
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "Apple employees are fighting against a new policy requiring them to return to work three days a week in an open letter addressed to Tim Cook on Slack. Approximately 80 people were involved in writing the letter. Employees have argued that the company should adopt a flexible approach for those who still want to remotely work from home. ",
-    "online": true,
-    "locations": null,
+    "description": "Delivery workers at Gorillas are organizing to form a work council known as Gorillas Workers Collective. The employees held a meeting to establish a work council to obtain co-determination rights. Having access to these rights would allow them to have a say in break times and safety arrangements. The workers have organized due to unpaid hours, back pain and psychological distress incurred from the job, lack of safety, violation of labor laws, and chaotic management. ",
+    "online": null,
+    "locations": [
+        "berlin-germany"
+    ],
     "companies": [
-        "apple"
+        "gorillas"
     ],
-    "workers": 80,
+    "workers": null,
     "tags": [
-        "coronavirus"
+        "delivery_workers"
     ],
     "author": [
         "hyatt d."
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            52.5064919,
+            13.336216896921181
+        ]
+    ],
+    "addresses": [
+        "Flachland-Gorilla, Tiergarten, Mitte, Berlin, 10787, Deutschland"
+    ]
 }

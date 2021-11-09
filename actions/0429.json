@@ -1,29 +1,30 @@
 {
-    "id": 470,
-    "date": "2021/09/01",
+    "id": 478,
+    "date": "2021/08/09",
     "sources": [
-        "https://www.nytimes.com/2021/09/03/technology/texas-abortion-law-website-tiktok.html"
+        "https://www.theverge.com/2021/8/11/22620874/twitch-implements-improved-chat-filters",
+        "https://www.washingtonpost.com/video-games/2021/08/11/twitch-do-better-hate-raids/"
     ],
     "actions": [
-        "protest",
-        "resources"
+        "protest"
     ],
     "struggles": [
-        "ethics"
+        "discrimination"
     ],
     "employment_types": [
-        "white collar workers",
-        "content creators",
-        "open source community"
+        "content creators"
     ],
-    "description": "In response to Texas\u2019s new abortion law and the creation of the website prolifewhistleblower.com, TikTok activists, programmers, and Twitter and Reddit users engaged in \u201chacktivism\u201d by submitting fake reports to the website. Programmers have also created and released scripts for others to automatically generate fake reports. The website responded by adding a new version of a Captcha to filter out bot reports. Furthermore, some Twitter users called for a boycott of GoDaddy, the company that hosts the website, as the website violates GoDaddy\u2019s terms of service. In response, GoDaddy gave the website 24 hours to move to another provider before cutting off service.",
+    "description": "Twitch streamer RekltRaven began a hashtag movement #twitchdobetter in response to the hate raids targeting marginalized creators, especially those who identify as Black, queer, or female. Twitch responded by fixing their chat filters and are planning to update their services to include improved safety features, including an improved account verification process and ban evasion detection tools. As there are still gaps, marginalized creators are calling for more proactive moderation and tools that the creators can use to moderate the stream.",
     "online": true,
     "locations": null,
     "companies": null,
-    "workers": 8451,
+    "workers": null,
     "tags": [
-        "law_enforcement",
-        "politics"
+        "lgbtq",
+        "sexism",
+        "antiracism",
+        "moderators",
+        "coworker solidarity"
     ],
     "author": [
         "wynniechan"

@@ -1,42 +1,33 @@
 {
-    "id": 285,
-    "date": "2020/06/15",
+    "id": 283,
+    "date": "2020/06/12",
     "sources": [
-        "https://medium.com/@macprac/open-letter-the-mit-college-of-computing-must-address-systemic-racism-b8c63ccc3d36"
+        "https://rabble.ca/news/2020/06/foodsters-union-certification-win-symbolic-other-gig-workers"
     ],
     "actions": [
-        "open letter"
+        "union representation"
     ],
     "struggles": [
-        "ethics"
+        "working conditions"
     ],
     "employment_types": [
-        "white collar workers"
+        "gig workers"
     ],
-    "description": "Over 90 individuals and organizations affiliated with MIT have signed a letter to the MIT College of Computing Leadership calling for the college to make a public statement condemning the death of George Floyd, developing a plan to address \"the legacy of anti-blackness and the relationship between technology and policing\", and breaking ties with companies that sell to police departments and ICE. Long-term asks include hiring more Black faculty and recruiting and accepting more Black undergraduate and graduate students.",
-    "online": true,
+    "description": "Foodora couriers overwhelmingly voted to join the Canadian Union of Postal Workers (CUPW). 88% of workers who voted supported joining the union. In April 2020, Foodora announced it was leaving the country after the Ontario Labor Board voted to recognize the couriers as company employees. While this makes the vote largely symbolic, it nevertheless makes Foodora's union the first certified gig workers' union in Canada.",
+    "online": null,
     "locations": [
-        "cambridge-massachusetts-usa"
+        "toronto-ontario-canada"
     ],
     "companies": [
-        "mit"
+        "foodora"
     ],
-    "workers": 91,
+    "workers": null,
     "tags": [
-        "blm",
-        "antiracism",
-        "academics"
+        "delivery_workers"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            42.3582393,
-            -71.09663495185691
-        ]
-    ],
-    "addresses": [
-        "Massachusetts Institute of Technology, Massachusetts Avenue, Central Square, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02139, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

@@ -1,21 +1,20 @@
 {
-    "id": 334,
-    "date": "2020/06/03",
+    "id": 265,
+    "date": "2020/06/01",
     "sources": [
-        "https://www.nytimes.com/2020/06/03/technology/facebook-trump-employees-letter.html",
-        "https://www.businessinsider.com/early-facebook-employees-write-open-letter-mark-zuckerberg-2020-6"
+        "https://www.nytimes.com/2020/06/01/technology/facebook-employee-protest-trump.html",
+        "https://www.washingtonpost.com/business/2020/06/01/facebook-zuckerberg-donation-trump/"
     ],
     "actions": [
-        "open letter"
+        "protest"
     ],
     "struggles": [
         "ethics"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "na"
     ],
-    "description": "Nearly three dozen early Facebook employees, including its first Chief of Communications, wrote a letter to CEO Mark Zuckerberg protesting his decision to leave Donald Trump's posts up on the website without action. Twitter chose to add labels to several of these posts warning that they were inaccurate or glorified violence. They claimed Facebook's inaction against these posts violated many of the original ideals the company had been founded on. ",
+    "description": "Facebook employees hosted a virtual walkout, refusing to work for the time of the event, in protest of the company's failure to take a tougher stance on Trump's posts in reaction to the George Floyd protests. Many employees also expressed solidarity with the Black Lives Matter movement. The New York Times reports that employees have also circulated petitions internally and threatened to resign in response to the event. The previous week Twitter added fact-check and warning labels to two tweets from the president that broke Twitter\u2019s rules around voter suppression and glorification of violence.",
     "online": true,
     "locations": null,
     "companies": [
@@ -23,7 +22,9 @@
     ],
     "workers": null,
     "tags": [
-        "politics"
+        "antiracism",
+        "blm",
+        "trump"
     ],
     "author": [
         "nataliyaned"

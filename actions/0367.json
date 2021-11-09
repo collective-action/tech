@@ -1,68 +1,37 @@
 {
-    "id": 378,
-    "date": "2021/01/04",
+    "id": 395,
+    "date": "2020/12/31",
     "sources": [
-        "https://www.nytimes.com/2021/01/04/technology/google-employees-union.html",
-        "https://alphabetworkersunion.org/",
-        "https://collectiveaction.tech/2021/the-abcs-of-googles-new-union/",
-        "https://twitter.com/AlphabetWorkers/status/1346612197305114624",
-        "https://www.theverge.com/2021/1/11/22224926/google-union-700-members"
+        "https://www.vice.com/en/article/7k9e4e/court-rules-deliveroo-used-discriminatory-algorithm",
+        "http://www.bollettinoadapt.it/wp-content/uploads/2021/01/Ordinanza-Bologna.pdf",
+        "https://www.ilfattoquotidiano.it/in-edicola/articoli/2021/01/02/rider-lalgoritmo-discrimina-chi-si-ammala-e-chi-sciopera"
     ],
     "actions": [
-        "union representation"
+        "legal action"
     ],
     "struggles": [
-        "working conditions",
-        "job security",
-        "discrimination",
         "unfair labor practices",
-        "ethics"
+        "discrimination"
     ],
     "employment_types": [
-        "white collar workers",
-        "contract workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "Over 200 Google employees in the U.S. and Canada revealed that they had formed a solidarity union. Updated to 530 members (1/6/21). Updated to 700 members (1/12/21). Updated to 800 members (2/17/21).The Alphabet Workers Union includes contractors, who make up over half of the company's workforce, and is affiliated with the Communications Workers of America. According to the union website, the goal of the AWU is \"to create a democratic process for workers to wield decision-making power; promote social, economic, and environmental justice; and end the unfair disparities between TVCs (temporary, vendor, and contractor workers) and FTEs (full-time employees)\". The union has been over a year in the making and organizers credit the foundation laid by the last decade of collective actions at the company. ",
+    "description": "A court in Bologna, Italy upheld a lawsuit filed by a group of Deliveroo workers, backed by Italy's CGIL union. The lawsuit alleged that Deliveroo's algorithms discriminated against gig workers. The company used machine learning algorithms to determine the \"reliability\" of a worker and give them preference for certain shifts. The court ruled that the company failed to take valid reasons for cancellation into account, such as medical illness. Legal experts say this could be an important precedent in holding companies responsible for algorithms that cause inadvertent harm. ",
     "online": null,
     "locations": [
-        "usa",
-        "canada"
+        "italy"
     ],
     "companies": [
-        "alphabet",
-        "google"
+        "deliveroo"
     ],
-    "workers": 701,
+    "workers": null,
     "tags": [
-        "coworker solidarity",
-        "cwa"
+        "delivery_workers",
+        "ai"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            37.3398646,
-            -121.8844823
-        ],
-        [
-            33.977092,
-            -118.4092133
-        ],
-        [
-            49.0336258,
-            -69.6817118
-        ],
-        [
-            43.6503609,
-            -79.3837616
-        ]
-    ],
-    "addresses": [
-        "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112-3580, United States",
-        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
-        "Ruisseau Alphabet, Lac-au-Brochet, La Haute-C\u00f4te-Nord, C\u00f4te-Nord, Qu\u00e9bec, Canada",
-        "Google Canada, 111, Richmond Street West, Spadina\u2014Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5H 2G4, Canada"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

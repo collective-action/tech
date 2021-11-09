@@ -1,42 +1,43 @@
 {
-    "id": 400,
-    "date": "2021/02/19",
+    "id": 391,
+    "date": "2021/02/11",
     "sources": [
-        "https://www.vice.com/en/article/3anwdy/organized-doordash-drivers-declinenow-strategy-is-driving-up-their-pay",
-        "https://declinenow.org/open-letter-to-doordash/?v=47e5dceea252"
+        "https://www.theverge.com/2021/2/11/22278684/medium-union-unionizing-communications-workers-america",
+        "https://mediumworkersunion.org/",
+        "https://www.cnn.com/2021/02/11/media/medium-union/index.html"
     ],
     "actions": [
-        "protest",
-        "strike"
+        "union drive"
     ],
     "struggles": [
-        "pay and benefits"
+        "ethics"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "DoorDash drivers are leveraging an old Android version of the DoorDash app to strategically select deliveries and make more money on the platform. Drivers are also organizing online through a movement called #DeclineNow where they follow a strict set of rules to not accept any deliveries that would result in less pay for their time, resources, and gas. A gig worker, Amy Lee, ran an analysis and found that DoorDashers who accept every order are at a stark disadvantage make significantly less an hour than those who selective accept deliveries. Lee has written her own open letter addressing the inefficiencies regarding the pay structure of the app so that it can become a more sustainable job for drivers. ",
+    "description": "Medium workers have announced they are forming a union. Over 140 Medium workers (reportedly 70% of eligible workers) have signed union cards in support of forming a union with the Communications Workers of America (CWA) Local 9410. They have called on management to voluntarily recognize the union. ",
     "online": null,
     "locations": [
         "usa"
     ],
     "companies": [
-        "doordash"
+        "medium"
     ],
-    "workers": 26000,
+    "workers": 140,
     "tags": [
-        "drivers"
+        "cwa"
     ],
     "author": [
-        "hyatt d."
+        "fiona tay"
     ],
     "latlngs": [
         [
-            37.7834546,
-            -122.4080358
+            41.3750149,
+            -83.6402779
         ]
     ],
     "addresses": [
-        "Doordash HQ, Market Street, SOMA Pilipinas, San Francisco, San Francisco City and County, San Francisco, California, 94104, United States"
+        "MEDIUM, East Wooster Street, Bowling Green, Wood County, Ohio, 43403-0001, United States"
     ]
 }

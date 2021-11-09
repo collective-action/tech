@@ -1,29 +1,34 @@
 {
-    "id": 372,
-    "date": "2020/12/07",
+    "id": 365,
+    "date": "2020/12/03",
     "sources": [
-        "https://www.nlrb.gov/case/13-CA-269890"
+        "https://www.theguardian.com/technology/2020/dec/07/timnit-gebru-google-firing-resignation-ai-research",
+        "https://googlewalkout.medium.com/standing-with-dr-timnit-gebru-isupporttimnit-believeblackwomen-6dadc300d382"
     ],
     "actions": [
-        "legal action"
+        "open letter"
     ],
     "struggles": [
-        "unfair labor practices"
+        "ethics",
+        "discrimination"
     ],
     "employment_types": [
         "white collar workers"
     ],
-    "description": "The tech firm Civis Analysis, which came out of Obama's 2012 campaign and is backed by Eric Schmidt, has been hit with an unfair labor practice charge for illegally firing workers in retaliation for organizing. ",
-    "online": null,
-    "locations": [
-        "chicago-illinois-usa"
-    ],
+    "description": "After Dr. Timnit Gebru was fired from Google, Googlers wrote an open letter demanding accountability from Google. 2695 Googlers and 4302 academic, industry, and civil society supporters signed on to the letter.",
+    "online": true,
+    "locations": null,
     "companies": [
-        "civis analytics"
+        "google"
     ],
-    "workers": null,
+    "workers": 2695,
     "tags": [
-        "retaliation"
+        "sexism",
+        "antiracism",
+        "industry solidarity",
+        "retaliation",
+        "ai",
+        "academics"
     ],
     "author": [
         "organizejs"

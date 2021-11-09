@@ -1,31 +1,32 @@
 {
-    "id": 455,
+    "id": 454,
     "date": "2021/05/07",
     "sources": [
-        "https://www.protocol.com/policy/google-interns-won-stipend"
+        "https://www.bloomberg.com/news/articles/2021-05-07/google-childcare-workers-circulate-petition-for-commute-stipends?sref=i8nBPoz1",
+        "https://justiceforgcc.org/"
     ],
     "actions": [
         "open letter"
     ],
     "struggles": [
+        "working conditions",
         "pay and benefits"
     ],
     "employment_types": [
-        "interns",
-        "white collar workers",
-        "inhouse workers"
+        "inhouse workers",
+        "white collar workers"
     ],
-    "description": "Interns in Google's BOLD internship program, Tyrese Thomas and Jacob Ngai created a petition with the help of the Alphabet Workers Union. The petition asked Google to provide a $5,000 stipend for costs such as rent and other basic needs for their job. Typically, Google covers these costs with an $11,000 relocation stipend. However, due to COVID-19, the stipend wasn't instated because interns would work remotely from home. Interns argued, however, that those from lower income backgrounds might need additional funding to find office space during the day or to cover the costs of childcare. Overall, the petition gathered 1500 signatures from interns and Google employees. Google gave the interns a $5,000 stipend to spend on what they deem necessary. ",
+    "description": "Childcare and education workers at Google created an online petition to reinstate the transportation shuttles previously provided to workers before the COVID-19 pandemic. According to the petition, they are demanding a \"$1,500 per-month transportation equity stipend for childcare workers who rely on Google transportation; until Google\u2019s normal transportation operations resume\". The petition has gained 622 signatures from Google employees in all departments. ",
     "online": true,
     "locations": null,
     "companies": [
         "google",
         "alphabet"
     ],
-    "workers": 1500,
+    "workers": 457,
     "tags": [
-        "students",
-        "coworker solidarity"
+        "coworker solidarity",
+        "child_care"
     ],
     "author": [
         "hyatt d."

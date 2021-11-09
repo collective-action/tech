@@ -1,47 +1,45 @@
 {
-    "id": 413,
+    "id": 450,
     "date": "2021/04/01",
     "sources": [
-        "https://www.bbc.com/news/technology-56659212",
-        "https://cwa-union.org/sites/default/files/20210331_nlrbsettlement_alphabet_modis.pdf",
-        "https://www2.staffingindustry.com/Editorial/Daily-News/Google-union-reports-NLRB-settlement-contingent-worker-s-suspension-rescinded-57218"
+        "https://labornotes.org/2021/06/dispersed-undaunted-chicago-amazon-workers-help-win-megacycle-pay-nationwide",
+        "https://www.amazoniansunited.org/megacyclepetition",
+        "https://news.wttw.com/2021/04/01/amazon-employees-chicago-demand-accommodations-brutal-shift"
     ],
     "actions": [
-        "legal action"
+        "protest",
+        "open letter"
     ],
     "struggles": [
-        "unfair labor practices",
         "pay and benefits",
         "working conditions"
     ],
     "employment_types": [
-        "contract workers",
-        "blue collar workers"
+        "blue collar workers",
+        "inhouse workers"
     ],
-    "description": "In February, the Alphabet Worker's Union filed two lawsuits against Google for unfair labor practices on behalf of Shannon Wait, a contractor at Google and member of the union. The first lawsuit contested Wait's illegal suspension for supporting a union. The second lawsuit alleged that managers illegally asked Wait and other employees not to discuss their wages. Google, Modis (the contracting firm), and the AWU reached a settlement and had Wait's suspension overturned. Google signed a document that its employees had the right to discuss wage, bonuses, and working conditions. This is the first NLRB settlement with the AWU.",
+    "description": "The Chicago chapter of Amazonians United, DCH1, created a petition demanding a $2 pay increase and full 20-minute breaks for workers on the company's megacycle shift, a new shift that runs from 1:20 am -11:50 am. In addition, the petition called for accommodations for workers who are unable to work the shift. In April DCH1 also organized a walkout in protest. On May 19th, Amazon warehouse workers across the country who work on the Megacycle shift began receiving a $1.50-$2.00 pay increase per hour for certain days of the week. ",
     "online": null,
     "locations": [
-        "south carolina-usa"
+        "chicago-illinois-usa"
     ],
     "companies": [
-        "google",
-        "modis",
-        "adecco"
+        "amazon"
     ],
     "workers": null,
     "tags": [
-        "cwa"
+        "coworker solidarity"
     ],
     "author": [
         "hyatt d."
     ],
     "latlngs": [
         [
-            33.063544750000005,
-            -80.04270395155184
+            41.84040105,
+            -87.68351928672685
         ]
     ],
     "addresses": [
-        "Google Data Center, Berkeley County, South Carolina, United States"
+        "Amazon Distribution, 2801, South Western Avenue, Lower West Side, Chicago, Cook County, Illinois, 60608, United States"
     ]
 }

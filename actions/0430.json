@@ -1,35 +1,44 @@
 {
-    "id": 466,
-    "date": "2021/09/03",
+    "id": 464,
+    "date": "2021/08/11",
     "sources": [
-        "https://cwa-union.org/news/releases/workers-everyaction-become-largest-progressive-tech-union?amp"
+        "https://www.bloomberg.com/news/articles/2021-08-10/new-york-times-tech-staff-to-walk-out-escalating-union-fight",
+        "https://collectiveaction.tech/2021/first-strike-for-a-seat-at-the-table/"
     ],
     "actions": [
-        "union representation"
+        "protest",
+        "strike"
     ],
     "struggles": [
-        "working conditions"
+        "unfair labor practices"
     ],
     "employment_types": [
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "After a supermajority of EveryAction workers signed cards to establish a union, EveryAction voluntarily recognized the EveryAction Workers Union, who will become part of the Communications Workers of America. As a result, the company will engage in negotiations over a collective bargaining agreement in the near future. EveryAction prides themselves on being a progressive workplace and has embraced this unionization.",
-    "online": null,
+    "description": "Tech workers fighting for a union at the Times virtually walked out in protest over management\u2019s continued anti-union tactics, the first work stoppage tied to unionization in the tech industry. \nOn the day of the walk out, over 50% of the bargaining unit or 300 workers participated. They allege the company has been illegally trying to obstruct their unionization campaign. Tech workers from the company hope to join NewsGuild, an affiliate of the Communications Workers of America Union.",
+    "online": true,
     "locations": [
-        "boston-massachussetts-usa",
-        "washington_dc-usa"
+        "new york city-new york-usa"
     ],
     "companies": [
-        "everyaction"
+        "the new york times"
     ],
-    "workers": 160,
+    "workers": 300,
     "tags": [
-        "cwa"
+        "cwa",
+        "coworker solidarity"
     ],
     "author": [
-        "wynniechan"
+        "hyatt d."
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            40.77541455,
+            -73.83098624117696
+        ]
+    ],
+    "addresses": [
+        "The New York Times, Whitestone Expressway, Linden Hill, Queens, Queens County, New York, 11354, United States"
+    ]
 }

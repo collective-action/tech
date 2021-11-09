@@ -1,50 +1,42 @@
 {
-    "id": 415,
+    "id": 427,
     "date": "2021/04/07",
     "sources": [
-        "https://www.theverge.com/2021/4/7/22327090/gimlet-media-union-spotify-contract-agreement",
-        "https://www.wgaeast.org/gimlet-media-and-the-ringer-ratify-first-podcast-contracts-at-spotify/",
-        "https://www.wgaeast.org/wp-content/uploads/sites/4/2021/04/Gimlet-Media-WGA-CBA-FINAL-DRAFT-March-23-2021-1.pdf",
-        "https://www.wgaeast.org/wp-content/uploads/sites/4/2021/03/Ringer-LLC-WGAE-CBA-FINAL.pdf"
+        "https://www.newsweek.com/amazon-driver-leaves-packages-upside-down-start-no-more-smiles-protest-1581599",
+        "https://twitter.com/DaveLeeFT/status/1379631120501772289?s=19"
     ],
     "actions": [
-        "union representation"
+        "protest"
     ],
     "struggles": [
-        "pay and benefits",
-        "discrimination",
-        "working conditions",
-        "unfair labor practices",
-        "job security"
+        "working conditions"
     ],
     "employment_types": [
-        "white collar workers",
+        "blue collar workers",
         "inhouse workers"
     ],
-    "description": "Spotify and two unions, the Ringer Union and the Gimlet Union, agreed on a 3-year union contract, the first in the tech industry. The contract sets salary minimums, annual salary increases, terms for severance pay, and diversity hiring guarantees but does not clarify terms around intellectual property. ",
+    "description": "Amazon drivers have begun leaving the company's trademark packages upside-down which displays the company's logo as a frown. The trend began when an Amazon delivery driver, who goes by AugustaSummerz, posted photos online of displaying packages upside-down to protest working conditions. ",
     "online": null,
     "locations": [
         "usa"
     ],
     "companies": [
-        "spotify",
-        "gimlet media",
-        "the ringer"
+        "amazon"
     ],
     "workers": null,
     "tags": [
-        "coworker_solidarity"
+        "delivery_workers"
     ],
     "author": [
         "hyatt d."
     ],
     "latlngs": [
         [
-            40.7411352,
-            -73.7712961
+            46.320207,
+            -112.1072224
         ]
     ],
     "addresses": [
-        "Ringer, Queens, Queens County, New York, 11364:11427, United States"
+        "Amazon, Jefferson County, Montana, United States"
     ]
 }

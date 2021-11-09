@@ -1,45 +1,56 @@
 {
-    "id": 450,
-    "date": "2021/04/01",
+    "id": 425,
+    "date": "2021/03/29",
     "sources": [
-        "https://labornotes.org/2021/06/dispersed-undaunted-chicago-amazon-workers-help-win-megacycle-pay-nationwide",
-        "https://www.amazoniansunited.org/megacyclepetition",
-        "https://news.wttw.com/2021/04/01/amazon-employees-chicago-demand-accommodations-brutal-shift"
+        "https://www.al.com/business/2021/03/workers-in-2-european-countries-strike-against-amazon.html",
+        "https://www.cnbc.com/2021/03/22/amazon-workers-go-on-strike-in-italy-over-labor-conditions-.html"
     ],
     "actions": [
         "protest",
-        "open letter"
+        "strike"
     ],
     "struggles": [
         "pay and benefits",
-        "working conditions"
+        "job security"
     ],
     "employment_types": [
         "blue collar workers",
         "inhouse workers"
     ],
-    "description": "The Chicago chapter of Amazonians United, DCH1, created a petition demanding a $2 pay increase and full 20-minute breaks for workers on the company's megacycle shift, a new shift that runs from 1:20 am -11:50 am. In addition, the petition called for accommodations for workers who are unable to work the shift. In April DCH1 also organized a walkout in protest. On May 19th, Amazon warehouse workers across the country who work on the Megacycle shift began receiving a $1.50-$2.00 pay increase per hour for certain days of the week. ",
+    "description": "Italian Amazon workers went on a national strike for 24 hours to protest for fewer hours and job stability for temporary workers. \nItalian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which took place in Tuscany, Florence, and Pisa. ",
     "online": null,
     "locations": [
-        "chicago-illinois-usa"
+        "tuscany-italy",
+        "florence-italy",
+        "pisa-italy"
     ],
     "companies": [
         "amazon"
     ],
     "workers": null,
     "tags": [
-        "coworker solidarity"
+        "delivery_workers"
     ],
     "author": [
         "hyatt d."
     ],
     "latlngs": [
         [
-            41.84040105,
-            -87.68351928672685
+            43.841860749999995,
+            11.166183284518766
+        ],
+        [
+            43.841860749999995,
+            11.166183284518766
+        ],
+        [
+            43.709862,
+            10.4328227
         ]
     ],
     "addresses": [
-        "Amazon Distribution, 2801, South Western Avenue, Lower West Side, Chicago, Cook County, Illinois, 60608, United States"
+        "Amazon, Via Baldanzese, Settimello, Sesto Fiorentino, Firenze, Toscana, 50019, Italia",
+        "Amazon, Via Baldanzese, Settimello, Sesto Fiorentino, Firenze, Toscana, 50019, Italia",
+        "Amazon locker, Via Vittorio Frascani, Cisanello, Pisa, Toscana, 56124, Italia"
     ]
 }

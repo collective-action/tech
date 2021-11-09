@@ -1,37 +1,44 @@
 {
-    "id": 395,
-    "date": "2020/12/31",
+    "id": 403,
+    "date": "2020/12/22",
     "sources": [
-        "https://www.vice.com/en/article/7k9e4e/court-rules-deliveroo-used-discriminatory-algorithm",
-        "http://www.bollettinoadapt.it/wp-content/uploads/2021/01/Ordinanza-Bologna.pdf",
-        "https://www.ilfattoquotidiano.it/in-edicola/articoli/2021/01/02/rider-lalgoritmo-discrimina-chi-si-ammala-e-chi-sciopera"
+        "https://csedsupportstimnit.medium.com/computer-science-needs-more-timnit-gebrus-csedsupportstimnit-believeblackwomen-9600d7fa22b6"
     ],
     "actions": [
-        "legal action"
+        "open letter"
     ],
     "struggles": [
-        "unfair labor practices",
+        "ethics",
         "discrimination"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers"
     ],
-    "description": "A court in Bologna, Italy upheld a lawsuit filed by a group of Deliveroo workers, backed by Italy's CGIL union. The lawsuit alleged that Deliveroo's algorithms discriminated against gig workers. The company used machine learning algorithms to determine the \"reliability\" of a worker and give them preference for certain shifts. The court ruled that the company failed to take valid reasons for cancellation into account, such as medical illness. Legal experts say this could be an important precedent in holding companies responsible for algorithms that cause inadvertent harm. ",
-    "online": null,
+    "description": "CS Ed Supports Timnit is an online movement started in response to Dr. Timnit Gebru's firing at Google. Gebru, \"a world renowned researcher on ethics and artificial intelligence\", lost her position after raising concerns about using data being used against marginalized groups of people. CS Ed Supports Timnit wrote an open letter asking for academics, researchers, program providers, and advocates for computer science students to stand in solidarity in with Timnit. They advocate to not stay neutral and address the inequalities across the tech industries. ",
+    "online": true,
     "locations": [
-        "italy"
+        "usa"
     ],
     "companies": [
-        "deliveroo"
+        "google"
     ],
-    "workers": null,
+    "workers": 195,
     "tags": [
-        "delivery_workers",
+        "industry solidarity",
+        "academics",
+        "antiracism",
         "ai"
     ],
     "author": [
-        "nataliyaned"
+        "hyatt d."
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            33.977092,
+            -118.4092133
+        ]
+    ],
+    "addresses": [
+        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
+    ]
 }

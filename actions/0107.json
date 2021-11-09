@@ -1,41 +1,38 @@
 {
-    "id": 96,
-    "date": "2018/07/31",
+    "id": 397,
+    "date": "2018/07/26",
     "sources": [
-        "https://www.buzzfeednews.com/article/carolineodonovan/palantir-ice-contract-protest",
-        "https://www.paloaltoonline.com/news/2018/07/31/protesters-demand-palantir-end-ice-contracts"
+        "https://www.nytimes.com/2018/07/26/technology/microsoft-ice-immigration.html",
+        "https://www.nbcnews.com/tech/tech-news/microsoft-backtracks-proud-support-ice-blog-post-goes-viral-n884446"
     ],
     "actions": [
+        "open letter",
         "protest"
     ],
     "struggles": [
         "ethics"
     ],
     "employment_types": [
-        "na"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Dozens of protesters gathered outside the data analysis companies Palantir in Palo Alto, California, on Tuesday to present Palantir's employees and CEO Alex Karp with a letter asking for an end to the companies' contracts with US Immigration and Customs Enforcement (ICE).",
-    "online": null,
+    "description": "Two Microsoft employees presented their CEO with an online petition including more than 300,000 signatures (including 500 employees) calling for the firm to cancel their contract with the US Immigration and Customs Enforcement Agency. The action took place during an annual gathering at company headquarters. Earlier in the year, the company had published a blog post saying it was \"proud to support\" the agency through technologies that included facial recognition software.",
+    "online": true,
     "locations": [
-        "palo alto-california-usa"
+        "redwood shores-california-usa"
     ],
     "companies": [
-        "palantir"
+        "microsoft"
     ],
-    "workers": 50,
+    "workers": 500,
     "tags": [
-        "industry_solidarity"
+        "ai",
+        "ice",
+        "trump"
     ],
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
-    "latlngs": [
-        [
-            37.4440869,
-            -122.16287540411753
-        ]
-    ],
-    "addresses": [
-        "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

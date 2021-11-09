@@ -1,29 +1,29 @@
 {
-    "id": 336,
-    "date": "2020/10/04",
+    "id": 333,
+    "date": "2020/10/01",
     "sources": [
-        "https://www.latimes.com/california/story/2020-10-04/amazon-jeff-bezos-protest-beverly-hills"
+        "https://workdayminnesota.org/thursday-night-shakopee-amazon-workers-walked-out-in-protest-of-worker-firing/",
+        "https://twitter.com/athenaforall/status/1312080698140962818?s=20"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
-        "working conditions",
-        "pay and benefits"
+        "working conditions"
     ],
     "employment_types": [
         "blue collar workers",
         "inhouse workers"
     ],
-    "description": "Amazon workers, organized by the Congress of Essential Workers, protested in front of Jeff Bezos' Beverley Hills mansion, calling for improved working conditions under covid, hazard pay, and better health benefits. ",
+    "description": "35 Amazon workers in Shakopee, Minnesota walked off the job to protest the firing of Farhiyo Warsame. The company alleged that the employee violated \"time off task\" policies but workers claim that the employee was fired for raising concerns about covid-related safety.",
     "online": null,
     "locations": [
-        "los angeles-california-usa"
+        "shakopee-minnesota-usa"
     ],
     "companies": [
         "amazon"
     ],
-    "workers": 100,
+    "workers": 35,
     "tags": [
         "coronavirus"
     ],
@@ -32,11 +32,11 @@
     ],
     "latlngs": [
         [
-            33.97670635,
-            -118.41819635850888
+            44.78839255,
+            -93.44285005008032
         ]
     ],
     "addresses": [
-        "Whole Foods Market, McConnell Avenue, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
+        "Amazon Sortation Center MSP5, 5825, 11th Avenue East, Shakopee, Scott County, Minnesota, 55379, United States"
     ]
 }

@@ -1,45 +1,42 @@
 {
-    "id": 130,
-    "date": "2019/04/17",
+    "id": 129,
+    "date": "2019/04/10",
     "sources": [
-        "https://www.theatlantic.com/technology/archive/2019/04/instagram-memers-are-unionizing/587308/?fbclid=iwar0enfo9hotaka_ukh0snpjn5pypplmygz1wkelyul-42lue4p-_foalbq0"
+        "https://www.recode.net/2019/4/10/18304877/amazon-climate-change-employees-tech-activism",
+        "https://www.vox.com/business-and-finance/2019/4/11/18306389/amazon-employees-climate-change-plan"
     ],
     "actions": [
-        "union drive"
+        "open letter"
     ],
     "struggles": [
-        "working conditions",
-        "pay and benefits"
+        "ethics"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Instagram memers have had enough. They generate the engagement that helps keep Instagram growing\u2014but, they argue, the multibillion-dollar platform doesn't pay them for their work, or give them any control. So they're fighting back. And before you write off IG Meme Union Local 69-420 as a joke, the organizers of the collective would like you to know that they are very serious.",
+    "description": "The company's corporate employees signed their names to a letter published on Wednesday that urged Jeff Bezos to create a comprehensive climate-change plan for the company.",
     "online": true,
     "locations": [
         "usa"
     ],
     "companies": [
-        "instagram",
-        "facebook"
+        "amazon"
     ],
-    "workers": null,
-    "tags": null,
+    "workers": 7000,
+    "tags": [
+        "climate_change"
+    ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            41.14127715,
-            -77.46294984398486
-        ],
-        [
-            30.2691649,
-            -97.7455041
+            46.320207,
+            -112.1072224
         ]
     ],
     "addresses": [
-        "Instagram-Ferris_Joshua / Marycate.minnigh, Campus Drive, Sunset Pines, Lock Haven, Clinton County, Pennsylvania, 17745, United States",
-        "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
+        "Amazon, Jefferson County, Montana, United States"
     ]
 }

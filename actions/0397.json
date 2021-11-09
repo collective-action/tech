@@ -1,45 +1,47 @@
 {
-    "id": 417,
-    "date": "2021/04/09",
+    "id": 428,
+    "date": "2021/04/07",
     "sources": [
-        "https://stopprotectingharassers.medium.com/alphabet-stop-protecting-harassers-d32a17aa5762",
-        "https://www.theverge.com/2021/4/9/22375913/alphabet-employees-open-letter-google-harassers"
+        "https://abcnews.go.com/Technology/wireStory/uk-deliveroo-riders-strike-pay-gig-work-conditions-76920998",
+        "https://twitter.com/joinaunionpls/status/1379728581975285762?s=19"
     ],
     "actions": [
-        "open letter"
+        "strike",
+        "protest"
     ],
     "struggles": [
-        "unfair labor practices",
+        "pay and benefits",
         "working conditions"
     ],
     "employment_types": [
-        "white collar workers",
-        "blue collar workers",
-        "inhouse workers",
-        "contract workers"
+        "gig workers"
     ],
-    "description": "An open letter was sent to Sundar Pichai, CEO of Alphabet, asking him to take a stronger stance on addressing sexual harassment within the company. The letter points out that workers who have been harassed still must work directly or report to those that have harassed them. Moreover, the letter points out to a trend where the company protects harassers and not the victim. ",
-    "online": true,
+    "description": "Deliveroo drivers went on a national strike in London, York, Redding, Sheffield, and Wolverhampton for better pay, working conditions, and basic workers rights. The strike was strategically timed to coincide with the company's IPO. According to protesters,  the company has profited from the COVID-19 pandemic at the expense of workers.",
+    "online": null,
     "locations": [
-        "usa"
+        "london-uk",
+        "sheffield-uk",
+        "york-uk",
+        "redding-uk",
+        "wolverhampton-uk"
     ],
     "companies": [
-        "alphabet"
+        "deliveroo"
     ],
-    "workers": 2067,
+    "workers": null,
     "tags": [
-        "sexual_harassment"
+        "delivery_workers"
     ],
     "author": [
         "hyatt d."
     ],
     "latlngs": [
         [
-            37.3398646,
-            -121.8844823
+            51.5314216,
+            -0.1113624
         ]
     ],
     "addresses": [
-        "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112-3580, United States"
+        "Deliveroo, Pentonville Road, Pentonville, Barnsbury, London Borough of Islington, London, Greater London, England, N1 9JB, United Kingdom"
     ]
 }

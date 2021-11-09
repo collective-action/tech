@@ -1,9 +1,9 @@
 {
-    "id": 141,
-    "date": "2019/05/22",
+    "id": 140,
+    "date": "2019/05/11",
     "sources": [
-        "https://www.vox.com/recode/2019/5/22/18635604/amazon-shareholder-meeting-2019-climate-change-proposal",
-        "https://gizmodo.com/jeff-bezos-wouldn-t-even-come-on-stage-to-listen-to-his-1834957220"
+        "https://www.fastcompany.com/90348304/exclusive-tech-workers-organize-protest-against-palantir-on-the-github-coding-platform",
+        "https://gist.github.com/noahzgordon/29af8c13106ddc591ccaa1ea0ce6af74"
     ],
     "actions": [
         "protest"
@@ -12,31 +12,32 @@
         "ethics"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "na"
     ],
-    "description": "More than 50 Amazon employees from Amazon Employees for Climate Justice attended the shareholder meeting, where Emily Cunningham delivered an impassioned speech to shareholders urging them to support the resolution for Amazon to adopt a strong climate plan. Jeff Bezos did not come on stage when asked by Cunningham to make an appearance. Shareholders voted no.",
+    "description": "Tech workers organized by the Tech Workers Coalition are protesting the Palantir's contract with ICE on the company's GitHub projects. The plan calls for organized waves of digital protesters to post a prepared message to their GitHub boards. The protest appeals to workers to consider their role, even if indirectly, in Palantir\u2019s work with ICE. It also encourages people to add their own personal sentiments.",
     "online": null,
     "locations": [
-        "seattle-washington-usa"
+        "usa"
     ],
     "companies": [
-        "amazon"
+        "palantir"
     ],
-    "workers": 50,
+    "workers": null,
     "tags": [
-        "climate_change"
+        "ice",
+        "industry_solidarity",
+        "twc"
     ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            47.6224574,
-            -122.33650433873851
+            37.4440869,
+            -122.16287540411753
         ]
     ],
     "addresses": [
-        "Amazon, Belltown, Seattle, King County, Washington, 98109-5210, United States"
+        "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States"
     ]
 }
