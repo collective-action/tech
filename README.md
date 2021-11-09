@@ -20,11 +20,11 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">02/11/2021 01:32PM</td>
+    <td data-summary="timestamp">09/11/2021 12:32PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">432</td>
+    <td data-summary="action-count">436</td>
   </tr>
  </table>
 </div>
@@ -45,13 +45,43 @@ The goal of this archive is to provide data and insights on organizing in the te
   </tr>
   <tr author="wynniechan">
    <td>
+    2021-09-28
+   </td>
+   <td>
+    The ADCU National Executive Committee organized a national 24-hour strike against Uber on September 28th with the hashtag campaign #UberStrike. On the 28th, Uber drivers didn’t log on, and passengers were encouraged to stop using the service or book services. Employees protested about being unfairly dismissed as well as the company failing to pay for waiting time, despite a UK Supreme Court ruling. It is also a protest against the newly introduced fixed price fares. The strike occurred in London, Bristol, Birmingham, Sheffield, Manchester, Leeds, Glasgow, and Nottingham.
+   </td>
+   <td>
+    <a href="/actions/0435.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="wynniechan">
+   <td>
+    2021-09-20
+   </td>
+   <td>
+    Instacart has been accused of exploiting their gig workers, considering tip theft, unsafe working conditions, pay cuts, COVID practices, among others. Despite a CEO change, Instacart has not changed its practices, so Gig Workers Collective calls on Instacart’s customers to delete the app and support the Collective’s demands with the hashtag #DELETEINSTACART. The demands include: (1) “Instacart shoppers must be paid by order, and not by batch,” (2) “Instacart must re-introduce item commission,” (3) “Instacart’s rating system can no longer unfairly punish shoppers for issues outside their control,” (4) “occupational death benefits,” (5) and “default tip must be raised to at least 10% for every single order.”
+   </td>
+   <td>
+    <a href="/actions/0434.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="wynniechan">
+   <td>
     2021-09-15
    </td>
    <td>
     After news from The Guardian that Google had been illegally underpaying their Temps, Vendors, and Contractors (TVCs) despite pay parity laws in European and Asian countries, over 900 Google employees and subcontractors have signed a petition calling for Google to amend their exploitation of TVCs. They are demanding for Google to repay the TVCs, create a path towards permanent employment, and end its two-tiered perma-temp system. This letter was organized by the Alphabet Workers Union (AWU). Google has acknowledged these issues but hasn’t commented directly on the petition.
    </td>
    <td>
-    <a href="/actions/0431.json">
+    <a href="/actions/0433.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -66,7 +96,22 @@ The goal of this archive is to provide data and insights on organizing in the te
     Teamsters Local Union 362 filed a request to hold a vote to form a union at an Amazon facility in Nisku, Alberta, Canada. Teamsters Local Union 362 is part of Teamsters Canada, a trade union that is affiliated with the International Brotherhood of Teamster.  Unionization efforts have already begun, including a petition being signed by “hundreds” of warehouse workers, and the date to vote is yet to be decided.
    </td>
    <td>
-    <a href="/actions/0430.json">
+    <a href="/actions/0432.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="wynniechan">
+   <td>
+    2021-09-03
+   </td>
+   <td>
+    The Apple workers in #AppleToo have released an open letter calling on Tim Cook and the Senior Leadership team to follow through in its diversity, equity, and inclusion promises. Workers have brought up invasive privacy policies, abuse, discrimination, and harassment. Their demands include: (1) “increased separation between Apple-owned and worker-owned digital and physical property in all Apple policies,” (2) “transparent livable, equitable, and fair compensation across all of Apple,” (3) “audit all third-party relationships,” among others.
+   </td>
+   <td>
+    <a href="/actions/0431.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -79,6 +124,21 @@ The goal of this archive is to provide data and insights on organizing in the te
    </td>
    <td>
     After a supermajority of EveryAction workers signed cards to establish a union, EveryAction voluntarily recognized the EveryAction Workers Union, who will become part of the Communications Workers of America. As a result, the company will engage in negotiations over a collective bargaining agreement in the near future. EveryAction prides themselves on being a progressive workplace and has embraced this unionization.
+   </td>
+   <td>
+    <a href="/actions/0430.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="wynniechan">
+   <td>
+    2021-09-01
+   </td>
+   <td>
+    In response to Texas’s new abortion law and the creation of the website prolifewhistleblower.com, TikTok activists, programmers, and Twitter and Reddit users engaged in “hacktivism” by submitting fake reports to the website. Programmers have also created and released scripts for others to automatically generate fake reports. The website responded by adding a new version of a Captcha to filter out bot reports. Furthermore, some Twitter users called for a boycott of GoDaddy, the company that hosts the website, as the website violates GoDaddy’s terms of service. In response, GoDaddy gave the website 24 hours to move to another provider before cutting off service.
    </td>
    <td>
     <a href="/actions/0429.json">

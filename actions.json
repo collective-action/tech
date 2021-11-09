@@ -2056,12 +2056,12 @@
         ],
         "latlngs": [
             [
-                37.484668049999996,
-                -122.1483654685629
+                37.48131065,
+                -122.15924036537902
             ]
         ],
         "addresses": [
-            "Meta, Menlo Park, San Mateo County, California, 94025, United States"
+            "Meta West Campus, Belle Haven, Menlo Park, San Mateo County, California, United States"
         ]
     },
     {
@@ -2970,16 +2970,11 @@
         ],
         "latlngs": [
             [
-                37.484668049999996,
-                -122.1483654685629
-            ],
-            [
                 37.4123687,
                 -121.9283094
             ]
         ],
         "addresses": [
-            "Meta, Menlo Park, San Mateo County, California, 94025, United States",
             "Cisco Way, 399, East Tasman Drive, Cisco Systems, San Jose, Santa Clara County, California, 95134, United States"
         ]
     },
@@ -3061,12 +3056,12 @@
         ],
         "latlngs": [
             [
-                37.484668049999996,
-                -122.1483654685629
+                30.2691649,
+                -97.7455041
             ]
         ],
         "addresses": [
-            "Meta, Menlo Park, San Mateo County, California, 94025, United States"
+            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
         ]
     },
     {
@@ -3192,12 +3187,12 @@
         ],
         "latlngs": [
             [
-                37.484668049999996,
-                -122.1483654685629
+                37.48131065,
+                -122.15924036537902
             ]
         ],
         "addresses": [
-            "Meta, Menlo Park, San Mateo County, California, 94025, United States"
+            "Meta West Campus, Belle Haven, Menlo Park, San Mateo County, California, United States"
         ]
     },
     {
@@ -5615,13 +5610,13 @@
                 -77.46294984398486
             ],
             [
-                37.484668049999996,
-                -122.1483654685629
+                30.2691649,
+                -97.7455041
             ]
         ],
         "addresses": [
             "Instagram-Ferris_Joshua / Marycate.minnigh, Campus Drive, Sunset Pines, Lock Haven, Clinton County, Pennsylvania, 17745, United States",
-            "Meta, Menlo Park, San Mateo County, California, 94025, United States"
+            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
         ]
     },
     {
@@ -5947,8 +5942,8 @@
         ],
         "latlngs": [
             [
-                37.484668049999996,
-                -122.1483654685629
+                30.2691649,
+                -97.7455041
             ],
             [
                 37.3339398,
@@ -5956,7 +5951,7 @@
             ]
         ],
         "addresses": [
-            "Meta, Menlo Park, San Mateo County, California, 94025, United States",
+            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States",
             "Accenture, West San Fernando Street, Downtown Historic District, San Jose, Santa Clara County, California, 95113, United States"
         ]
     },
@@ -6246,12 +6241,12 @@
         ],
         "latlngs": [
             [
-                37.484668049999996,
-                -122.1483654685629
+                37.48131065,
+                -122.15924036537902
             ]
         ],
         "addresses": [
-            "Meta, Menlo Park, San Mateo County, California, 94025, United States"
+            "Meta West Campus, Belle Haven, Menlo Park, San Mateo County, California, United States"
         ]
     },
     {
@@ -6397,12 +6392,12 @@
         ],
         "latlngs": [
             [
-                37.404940100000005,
-                -122.0214337065872
+                37.406317,
+                -122.02122171852054
             ]
         ],
         "addresses": [
-            "Google MP1, Moffett Park Drive, Sunnyvale, Santa Clara County, California, 94089, United States"
+            "Google MP7, Borregas Avenue, Sunnyvale, Santa Clara County, California, 94085-3010, United States"
         ]
     },
     {
@@ -6531,7 +6526,7 @@
             ]
         ],
         "addresses": [
-            "Wayfair, 222, Berkeley Street, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States"
+            "Wayfair, 222, Berkeley Street, Bay Village, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States"
         ]
     },
     {
@@ -7990,7 +7985,7 @@
             ]
         ],
         "addresses": [
-            "Baltimore, Maryland, United States"
+            "Baltimore, Maryland, 21203, United States"
         ]
     },
     {
@@ -8183,12 +8178,12 @@
         ],
         "latlngs": [
             [
-                37.484668049999996,
-                -122.1483654685629
+                37.48131065,
+                -122.15924036537902
             ]
         ],
         "addresses": [
-            "Meta, Menlo Park, San Mateo County, California, 94025, United States"
+            "Meta West Campus, Belle Haven, Menlo Park, San Mateo County, California, United States"
         ]
     },
     {
@@ -8576,12 +8571,12 @@
         ],
         "latlngs": [
             [
-                37.484668049999996,
-                -122.1483654685629
+                30.2691649,
+                -97.7455041
             ]
         ],
         "addresses": [
-            "Meta, Menlo Park, San Mateo County, California, 94025, United States"
+            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
         ]
     },
     {
@@ -8934,10 +8929,15 @@
             [
                 37.7821769,
                 -122.3912458
+            ],
+            [
+                37.41096725,
+                -122.07138737347663
             ]
         ],
         "addresses": [
-            "GitHub, 88, Colin P. Kelly Junior Street, Port of San Francisco, San Francisco, San Francisco City and County, San Francisco, California, 94107, United States"
+            "GitHub, 88, Colin P. Kelly Junior Street, Port of San Francisco, San Francisco, San Francisco City and County, San Francisco, California, 94107, United States",
+            "Microsoft Silicon Valley, Mountain View, Santa Clara County, California, United States"
         ]
     },
     {
@@ -11277,6 +11277,10 @@
                 -47.7985009230547
             ],
             [
+                -36.8691092,
+                -60.1620626
+            ],
+            [
                 -34.5814605,
                 -58.4513731
             ]
@@ -11285,7 +11289,8 @@
             "iFood, 1496, Avenida dos Autonomistas, Osasco, Regi\u00e3o Imediata de S\u00e3o Paulo, Regi\u00e3o Metropolitana de S\u00e3o Paulo, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de S\u00e3o Paulo, S\u00e3o Paulo, Regi\u00e3o Sudeste, 06020-010, Brasil",
             "Rappi 10, Avenida Santa Cruz do Are\u00e3o, Parque S\u00e3o Jorge, Are\u00e3o, Taubat\u00e9, Regi\u00e3o Imediata de Taubat\u00e9-Pindamonhangaba, Regi\u00e3o Metropolitana do Vale do Para\u00edba e Litoral Norte, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de S\u00e3o Jos\u00e9 dos Campos, S\u00e3o Paulo, Regi\u00e3o Sudeste, 12060-800, Brasil",
             "Parque Uber, Jardim Bot\u00e2nico, Ribeir\u00e3o Preto, Regi\u00e3o Imediata de Ribeir\u00e3o Preto, Regi\u00e3o Metropolitana de Ribeir\u00e3o Preto, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Ribeir\u00e3o Preto, S\u00e3o Paulo, Regi\u00e3o Sudeste, Brasil",
-            "Glovo, 3590, Avenida Federico Lacroze, Chacarita, Buenos Aires, Comuna 15, Ciudad Aut\u00f3noma de Buenos Aires, Distrito Audiovisual, C1427EDN, Argentina"
+            "Cristian Uber, Hinojo, Partido de Olavarr\u00eda, Buenos Aires, 7318, Argentina",
+            "Glovo, 3590, Avenida Federico Lacroze, Chacarita, Buenos Aires, Comuna 15, Distrito Audiovisual, Ciudad Aut\u00f3noma de Buenos Aires, C1427EDN, Argentina"
         ]
     },
     {
@@ -12145,7 +12150,7 @@
             ]
         ],
         "addresses": [
-            "Massachusetts Institute of Technology, Fifth Street, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States"
+            "Massachusetts Institute of Technology, Massachusetts Avenue, Central Square, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02139, United States"
         ]
     },
     {
@@ -12434,6 +12439,10 @@
                 8.8172776
             ],
             [
+                51.3551751,
+                10.0402186
+            ],
+            [
                 43.0890186,
                 12.4292444
             ],
@@ -12456,6 +12465,7 @@
             "Parque Uber, Jardim Bot\u00e2nico, Ribeir\u00e3o Preto, Regi\u00e3o Imediata de Ribeir\u00e3o Preto, Regi\u00e3o Metropolitana de Ribeir\u00e3o Preto, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Ribeir\u00e3o Preto, S\u00e3o Paulo, Regi\u00e3o Sudeste, Brasil",
             "Strada dei Loggi, Ponte San Giovanni, Perugia, Umbria, 06154, Italia",
             "MI TIERRA AG - vinoteca argentina, 7, Alpenstrasse, Rapperswil, Rapperswil-Jona, Wahlkreis See-Gaster, Sankt Gallen, 8640, Schweiz/Suisse/Svizzera/Svizra",
+            "\u00dcber, Thalwenden, Uder, Landkreis Eichsfeld, Th\u00fcringen, 37318, Deutschland",
             "Strada dei Loggi, Ponte San Giovanni, Perugia, Umbria, 06154, Italia",
             "Ifood, Calle 61, FRACC. MARINA DEL REY, Ciudad del Carmen, Carmen, Campeche, 24100, M\u00e9xico",
             "Rapperswil, Rapperswil-Jona, Wahlkreis See-Gaster, Sankt Gallen, 8640, Schweiz/Suisse/Svizzera/Svizra",
@@ -13011,12 +13021,12 @@
         ],
         "latlngs": [
             [
-                54.4051916,
-                9.4248338
+                52.5160429,
+                13.4125087
             ]
         ],
         "addresses": [
-            "Berlin, Potsdam, Klein Bennebek, Kropp-Stapelholm, Schleswig-Flensburg, Schleswig-Holstein, 24848, Deutschland"
+            "N26 Bank GmbH, 62, Klosterstra\u00dfe, Mitte, Berlin, 10179, Deutschland"
         ]
     },
     {
@@ -13318,8 +13328,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                6.45269435,
+                3.4498998
+            ]
+        ],
+        "addresses": [
+            "Uber Nigeria HQ, 2, Onikoyi Road, Ikoyi, Okepa, Eti Osa, Lagos, 20050, Nigeria"
+        ]
     },
     {
         "id": 326,
@@ -14238,10 +14255,15 @@
             [
                 37.7271031,
                 -122.477099
+            ],
+            [
+                37.4181243,
+                -122.02538023988251
             ]
         ],
         "addresses": [
-            "Verizon, Winston Drive, San Francisco, San Francisco City and County, San Francisco, California, 94132, United States"
+            "Verizon, Winston Drive, San Francisco, San Francisco City and County, San Francisco, California, 94132, United States",
+            "Yahoo, Sunnyvale, Santa Clara County, California, United States"
         ]
     },
     {
@@ -16079,8 +16101,15 @@
         "author": [
             "hyatt d."
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                40.7411352,
+                -73.7712961
+            ]
+        ],
+        "addresses": [
+            "Ringer, Queens, Queens County, New York, 11364:11427, United States"
+        ]
     },
     {
         "id": 428,
@@ -17334,6 +17363,39 @@
         ]
     },
     {
+        "id": 470,
+        "date": "2021/09/01",
+        "sources": [
+            "https://www.nytimes.com/2021/09/03/technology/texas-abortion-law-website-tiktok.html"
+        ],
+        "actions": [
+            "protest",
+            "resources"
+        ],
+        "struggles": [
+            "ethics"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "content creators",
+            "open source community"
+        ],
+        "description": "In response to Texas\u2019s new abortion law and the creation of the website prolifewhistleblower.com, TikTok activists, programmers, and Twitter and Reddit users engaged in \u201chacktivism\u201d by submitting fake reports to the website. Programmers have also created and released scripts for others to automatically generate fake reports. The website responded by adding a new version of a Captcha to filter out bot reports. Furthermore, some Twitter users called for a boycott of GoDaddy, the company that hosts the website, as the website violates GoDaddy\u2019s terms of service. In response, GoDaddy gave the website 24 hours to move to another provider before cutting off service.",
+        "online": true,
+        "locations": null,
+        "companies": null,
+        "workers": 8451,
+        "tags": [
+            "law_enforcement",
+            "politics"
+        ],
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
         "id": 466,
         "date": "2021/09/03",
         "sources": [
@@ -17369,6 +17431,47 @@
         "addresses": null
     },
     {
+        "id": 471,
+        "date": "2021/09/03",
+        "sources": [
+            "appletoo.us/letter/",
+            "https://twitter.com/cherthedev/status/1433865109550501888"
+        ],
+        "actions": [
+            "open letter"
+        ],
+        "struggles": [
+            "pay and benefits",
+            "working conditions",
+            "ethics",
+            "discrimination",
+            "unfair labor practices"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers",
+            "contract workers"
+        ],
+        "description": "The Apple workers in #AppleToo have released an open letter calling on Tim Cook and the Senior Leadership team to follow through in its diversity, equity, and inclusion promises. Workers have brought up invasive privacy policies, abuse, discrimination, and harassment. Their demands include: (1) \u201cincreased separation between Apple-owned and worker-owned digital and physical property in all Apple policies,\u201d (2) \u201ctransparent livable, equitable, and fair compensation across all of Apple,\u201d (3) \u201caudit all third-party relationships,\u201d among others. ",
+        "online": true,
+        "locations": null,
+        "companies": [
+            "apple"
+        ],
+        "workers": null,
+        "tags": [
+            "coworker solidarity",
+            "sexism",
+            "antiracism",
+            "surveillance"
+        ],
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
         "id": 468,
         "date": "2021/09/13",
         "sources": [
@@ -17376,8 +17479,7 @@
         ],
         "actions": [
             "union drive",
-            "union representation",
-            "open letter"
+            "union representation"
         ],
         "struggles": [
             "pay and benefits",
@@ -17449,5 +17551,94 @@
         ],
         "latlngs": null,
         "addresses": null
+    },
+    {
+        "id": 473,
+        "date": "2021/09/20",
+        "sources": [
+            "https://gigworkerscollective.medium.com/deleteinstacart-b1e138ed88f3"
+        ],
+        "actions": [
+            "open letter",
+            "protest"
+        ],
+        "struggles": [
+            "pay and benefits",
+            "working conditions",
+            "unfair labor practices"
+        ],
+        "employment_types": [
+            "gig workers"
+        ],
+        "description": "Instacart has been accused of exploiting their gig workers, considering tip theft, unsafe working conditions, pay cuts, COVID practices, among others. Despite a CEO change, Instacart has not changed its practices, so Gig Workers Collective calls on Instacart\u2019s customers to delete the app and support the Collective\u2019s demands with the hashtag #DELETEINSTACART. The demands include: (1) \u201cInstacart shoppers must be paid by order, and not by batch,\u201d (2) \u201cInstacart must re-introduce item commission,\u201d (3) \u201cInstacart\u2019s rating system can no longer unfairly punish shoppers for issues outside their control,\u201d (4) \u201coccupational death benefits,\u201d (5) and \u201cdefault tip must be raised to at least 10% for every single order.\u201d",
+        "online": true,
+        "locations": null,
+        "companies": [
+            "instacart"
+        ],
+        "workers": null,
+        "tags": [
+            "coronavirus",
+            "delivery_workers"
+        ],
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 472,
+        "date": "2021/09/28",
+        "sources": [
+            "https://www.mirror.co.uk/news/uk-news/uber-drivers-stage-24-hour-25087702",
+            "https://www.adcu.org.uk/uberstrike",
+            "https://twitter.com/Yaseenaslam381/status/1442827661546561538?s=19"
+        ],
+        "actions": [
+            "strike",
+            "protest"
+        ],
+        "struggles": [
+            "pay and benefits",
+            "unfair labor practices",
+            "job security"
+        ],
+        "employment_types": [
+            "gig workers",
+            "inhouse workers"
+        ],
+        "description": "The ADCU National Executive Committee organized a national 24-hour strike against Uber on September 28th with the hashtag campaign #UberStrike. On the 28th, Uber drivers didn\u2019t log on, and passengers were encouraged to stop using the service or book services. Employees protested about being unfairly dismissed as well as the company failing to pay for waiting time, despite a UK Supreme Court ruling. It is also a protest against the newly introduced fixed price fares. The strike occurred in London, Bristol, Birmingham, Sheffield, Manchester, Leeds, Glasgow, and Nottingham. ",
+        "online": true,
+        "locations": [
+            "london-uk",
+            "birmingham-uk",
+            "sheffield-uk",
+            "nottingham-uk"
+        ],
+        "companies": [
+            "uber"
+        ],
+        "workers": 25,
+        "tags": [
+            "drivers"
+        ],
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": [
+            [
+                51.5148804,
+                -0.0718856
+            ],
+            [
+                52.4746766,
+                -1.91586332385543
+            ]
+        ],
+        "addresses": [
+            "Uber, 2, Leman Street, Spitalfields, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, E1 8FA, United Kingdom",
+            "UBER, 100, Broad Street, Ladywood, Park Central, Birmingham, West Midlands Combined Authority, West Midlands, England, B15 1AE, United Kingdom"
+        ]
     }
 ]
