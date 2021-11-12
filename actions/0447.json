@@ -1,33 +1,31 @@
 {
-    "id": 485,
+    "id": 477,
     "date": "2021/10/18",
     "sources": [
-        "https://www.theverge.com/2021/10/18/22733098/netflix-trans-employees-demands-dave-chappelle-walkout",
-        "https://www.theverge.com/2021/10/15/22728337/netflix-fires-organizer-trans-employee-walkout-dave-chappelle"
+        "https://www.total-croatia-news.com/business/57000-uber-drivers-strike-in-croatia",
+        "https://twitter.com/nicoemoe/status/1449978260289294340?t=WdHP4kHHe5sMs9VJUfPQEg&s=19"
     ],
     "actions": [
-        "open letter",
-        "protest"
+        "strike"
     ],
     "struggles": [
-        "discrimination",
-        "ethics"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "In response to Dave Chappelle's controversial Netflix special,  Netflix trans employee resource group has released a list of demands and organized a walkout for October 20th. The demands are increased internal conversations about potentially harmful content, the hiring of trans and nonbinary executives, and removing transphobic content in the office; it notably does not include removing Chappelle\u2019s special from Netflix. Also, a leader of the trans-ERG was fired from Netflix because the company concluded that she leaked confidential information. ",
-    "online": true,
-    "locations": null,
+    "description": "Uber drivers, organized by the Croatian Digital Platform Workers\u2019 Union, held a strike and press conference in Croatia. They claimed that their salaries were not paid in time with no explanation. Despite Uber portraying drivers as partners, the workers feel like \u201cdigital slaves\u201d who cannot get in contact with Uber\u2019s authorities.",
+    "online": null,
+    "locations": [
+        "zagreb-croatia"
+    ],
     "companies": [
-        "netflix"
+        "uber"
     ],
     "workers": null,
     "tags": [
-        "lgbtq",
-        "coworker solidarity",
-        "online action"
+        "drivers"
     ],
     "author": [
         "wynniechan"

@@ -20,11 +20,11 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">12/11/2021 03:29PM</td>
+    <td data-summary="timestamp">12/11/2021 04:24PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">450</td>
+    <td data-summary="action-count">454</td>
   </tr>
  </table>
 </div>
@@ -45,20 +45,65 @@ The goal of this archive is to provide data and insights on organizing in the te
   </tr>
   <tr author="wynniechan">
    <td>
-    2021-10-25
+    2021-10-29
    </td>
    <td>
-    More than 2,000 Amazon workers in Staten Island filed the petition to the NLRB to hold a union election. This effort, led by Chris Smalls and is called the Amazon labor Union. Smalls, a former employee, was fired after organizing a protest for lack of COVID protective gear and poor hazard pay. As an independent union, they hope to avoid Amazon’s anti-union messaging targeted towards established unions. The Amazon Labor Union has begun a union drive. Its goals are to bring back variable compensation pay and stock options that Amazon removed in 2018. In response, Amazon questioned if there was a sufficient number of legitimate signatures from Amazon employees.  Amazon has also taken anti-union tactics, such as displaying anti-union messages in their facilities and bringing in anti-union consultants.
+    Datacenter temps who work for Modis, a Google subcontractor, were promised $200 weekly incentive bonuses because of the pandemic. After Modis stopped this program and announced that workers would not receive back pay, the Alphabet Workers Union-CWA workers began organization efforts. Workers filed “tickets” to Modis' management, sent more than 100 messages, and arranged a videoconference. There were also discussions of a work stoppage. Before the scheduled videoconference, however, Modis backtracked their decision in an email. Modis agreed to continue paying the hazard pay until December 19.
    </td>
    <td>
-    <a href="/actions/0449.json">
+    <a href="/actions/0453.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
     </a>
    </td>
   </tr>
-  <tr author="">
+  <tr author="wynniechan">
+   <td>
+    2021-10-27
+   </td>
+   <td>
+    To express solidarity with the Trans Netflix employee resource group, members of Google Walkout for Real Change affirmed their demands in an open letter, and they also called on all employees of big technology and media companies to hold their employers accountable.
+   </td>
+   <td>
+    <a href="/actions/0452.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="wynniechan">
+   <td>
+    2021-10-25
+   </td>
+   <td>
+    More than 2,000 Amazon workers in Staten Island filed the petition to the NLRB to hold a union election. This effort, led by Chris Smalls and is called the Amazon labor Union. Smalls, a former employee, was fired after organizing a protest for lack of COVID protective gear and poor hazard pay. As an independent union, they hope to avoid Amazon’s anti-union messaging targeted towards established unions. The Amazon Labor Union has begun a union drive. Its goals are to bring back variable compensation pay and stock options that Amazon removed in 2018. In response, Amazon questioned if there was a sufficient number of legitimate signatures from Amazon employees.  Amazon has also taken anti-union tactics, such as displaying anti-union messages in their facilities and bringing in anti-union consultants.
+   </td>
+   <td>
+    <a href="/actions/0451.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="wynniechan">
+   <td>
+    2021-10-20
+   </td>
+   <td>
+    Employees walked out of a Netflix building in Los Angeles to protest Dave Chappelle’s special, joining supporters and activists who were already rallying. Other Netflix employees stopped working that day as a virtual walkout. #NetflixWalkOut also trended on Twitter. In response, Netflix issued a statement expressing support of the walkout while also remaining supportive of Chappelle.
+   </td>
+   <td>
+    <a href="/actions/0450.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="wynniechan">
    <td>
     2021-10-19
    </td>
@@ -66,7 +111,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     With the backing of Foxglove Legal, Facebook contract moderators at Accenture are protesting low wages with a mobile billboard and internal letter. The billboard calls for Accenture CEO Julie Sweet to “stop exploiting your workers,” considering how much Accenture is paid compared to how much content moderators make per hour. Ukrainian and Spanish language moderators are also excluded from the $2 premium that bilingual moderators receive. Despite the demand for equal pay in June, there was no change. Moreover, the moderators’ work is emotionally and mentally taxing because of the unpleasant content they moderate. Accenture only offers access to behavioral coaches instead of professional psychological care, according to Foxglove Legal.
    </td>
    <td>
-    <a href="/actions/0448.json">
+    <a href="/actions/0449.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -81,7 +126,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     In response to Dave Chappelle's controversial Netflix special,  Netflix trans employee resource group has released a list of demands and organized a walkout for October 20th. The demands are increased internal conversations about potentially harmful content, the hiring of trans and nonbinary executives, and removing transphobic content in the office; it notably does not include removing Chappelle’s special from Netflix. Also, a leader of the trans-ERG was fired from Netflix because the company concluded that she leaked confidential information.
    </td>
    <td>
-    <a href="/actions/0447.json">
+    <a href="/actions/0448.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -94,6 +139,21 @@ The goal of this archive is to provide data and insights on organizing in the te
    </td>
    <td>
     Uber drivers, organized by the Croatian Digital Platform Workers’ Union, held a strike and press conference in Croatia. They claimed that their salaries were not paid in time with no explanation. Despite Uber portraying drivers as partners, the workers feel like “digital slaves” who cannot get in contact with Uber’s authorities.
+   </td>
+   <td>
+    <a href="/actions/0447.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="wynniechan">
+   <td>
+    2021-10-14
+   </td>
+   <td>
+    Four anonymous creators started the “Worker Lives Matter” campaign, in which employees of Chinese tech companies log their working hours in a GitHub spreadsheet to protest the “996” working overtime culture. They hope to popularize the “955” instead and have GitHub serve as a reference tool for job seekers. Notably, there was a recent court ruling in China’s top court that made “996” culture illegal in August, but the practice is still used. As of October 28, the official account and website have been permanently banned, and so the project has been suspended. A backup of GitHub data is still available to view.
    </td>
    <td>
     <a href="/actions/0446.json">

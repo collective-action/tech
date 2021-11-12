@@ -1,50 +1,41 @@
 {
-    "id": 484,
-    "date": "2021/10/25",
+    "id": 487,
+    "date": "2021/10/19",
     "sources": [
-        "https://www.nbcnews.com/news/us-news/amazon-workers-staten-island-file-union-election-rcna3745",
-        "https://twitter.com/CDAW_National/status/1449913538919677954?t=1FloYuZc25cyobcFMYe7tw&s=19",
-        "https://amazonlaborunion.org/",
-        "https://www.vice.com/en/article/akvwkp/amazon-warehouse-workers-in-new-york-city-to-file-for-union-election"
+        "https://www.theverge.com/2021/10/19/22726915/facebook-content-moderators-protest-low-wages",
+        "https://www.foxglove.org.uk/2021/10/19/letter-facebook-content-moderators-julie-sweet/"
     ],
     "actions": [
-        "union drive",
-        "union representation"
+        "protest",
+        "open letter"
     ],
     "struggles": [
-        "working conditions",
         "pay and benefits",
-        "job security"
+        "working conditions"
     ],
     "employment_types": [
-        "inhouse workers",
-        "blue collar workers"
+        "contract workers"
     ],
-    "description": "More than 2,000 Amazon workers in Staten Island filed the petition to the NLRB to hold a union election. This effort, led by Chris Smalls and is called the Amazon labor Union. Smalls, a former employee, was fired after organizing a protest for lack of COVID protective gear and poor hazard pay. As an independent union, they hope to avoid Amazon\u2019s anti-union messaging targeted towards established unions. The Amazon Labor Union has begun a union drive. Its goals are to bring back variable compensation pay and stock options that Amazon removed in 2018. In response, Amazon questioned if there was a sufficient number of legitimate signatures from Amazon employees.  Amazon has also taken anti-union tactics, such as displaying anti-union messages in their facilities and bringing in anti-union consultants.",
+    "description": "With the backing of Foxglove Legal, Facebook contract moderators at Accenture are protesting low wages with a mobile billboard and internal letter. The billboard calls for Accenture CEO Julie Sweet to \u201cstop exploiting your workers,\u201d considering how much Accenture is paid compared to how much content moderators make per hour. Ukrainian and Spanish language moderators are also excluded from the $2 premium that bilingual moderators receive. Despite the demand for equal pay in June, there was no change. Moreover, the moderators\u2019 work is emotionally and mentally taxing because of the unpleasant content they moderate. Accenture only offers access to behavioral coaches instead of professional psychological care, according to Foxglove Legal. ",
     "online": null,
     "locations": [
-        "staten island-new york city-new york-usa"
+        "bethesda-maryland-usa",
+        "washington_dc-usa"
     ],
     "companies": [
-        "amazon"
+        "accenture",
+        "facebook"
     ],
-    "workers": 2001,
+    "workers": null,
     "tags": [
-        "coronavirus",
-        "retaliation",
+        "moderators",
+        "coworker solidarity",
         "industry solidarity",
-        "coworker solidarity"
+        "international solidarity"
     ],
     "author": [
         "wynniechan"
     ],
-    "latlngs": [
-        [
-            40.6193387,
-            -74.0727749
-        ]
-    ],
-    "addresses": [
-        "Amazon Court, Clifton, Staten Island, Richmond County, New York, 10304, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }
