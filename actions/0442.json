@@ -1,47 +1,48 @@
 {
-    "id": 475,
-    "date": "2021/10/04",
+    "id": 481,
+    "date": "2021/09/30",
     "sources": [
-        "https://www.dw.com/en/gorillas-delivery-service-fires-back-over-workers-strike/a-59445809",
-        "https://www.vice.com/en/article/7kvgmd/gorillas-delivery-app-fires-workers-for-striking"
+        "https://www.theverge.com/2021/9/30/22702335/jeff-bezos-employees-essay-blue-origin-toxic-workplace",
+        "https://www.lioness.co/post/bezos-wants-to-create-a-better-future-in-space-his-company-blue-origin-is-stuck-in-a-toxic-past"
     ],
     "actions": [
-        "protest",
-        "strike"
+        "open letter"
     ],
     "struggles": [
-        "pay and benefits",
         "working conditions",
-        "unfair labor practices",
-        "job security"
+        "ethics",
+        "discrimination"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers",
+        "inhouse workers",
+        "contract workers"
     ],
-    "description": "In response to recent strikes that protested unfair working conditions, Gorillas fired \u201cseveral dozen Berlin-based delivery workers.\u201d In response, the Gorillas Workers Collective called for a protest in front of the company\u2019s headquarters. Gorillas have said that these strikes were unannounced, non-unionized, spontaneous, and are illegal under German law. However, other workers have shown screenshots of schedules that violate German labor law.  After the strikes took place, the company reportedly replaced those striking with Zenjob gig workers from Bermannkiez. ",
-    "online": null,
+    "description": "21 current and former employees of Blue Origin published an essay that claimed that Blue Origin had multiple issues with sexism and safety. The CEO, Bob Smith was also accused of keeping track of \u201cagitators\u201d and discouraging dissent. Moreover, the letter brings up environmental issues; Blue Origin operates with no consideration of its environmental footprint or permits needed for waste. Smith has responded with a letter that says that the company would \u201creflect\u201d on ways of improvement and that it has no tolerance for discrimination or harassment. He also emphasized that the vehicle was properly certified for First Human Flight.",
+    "online": true,
     "locations": [
-        "berlin-germany"
+        "usa"
     ],
     "companies": [
-        "gorillas"
+        "Blue Origin"
     ],
-    "workers": 150,
+    "workers": 21,
     "tags": [
         "retaliation",
-        "coworker solidarity",
-        "delivery_workers"
+        "climate change",
+        "sexism",
+        "sexual_harassment"
     ],
     "author": [
         "wynniechan"
     ],
     "latlngs": [
         [
-            52.5064919,
-            13.336216896921181
+            47.407176750000005,
+            -122.24016302698797
         ]
     ],
     "addresses": [
-        "Flachland-Gorilla, Tiergarten, Mitte, Berlin, 10787, Deutschland"
+        "Blue Origin, Kent, King County, Washington, United States"
     ]
 }

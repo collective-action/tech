@@ -20,11 +20,11 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">12/11/2021 02:23PM</td>
+    <td data-summary="timestamp">12/11/2021 03:29PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">447</td>
+    <td data-summary="action-count">450</td>
   </tr>
  </table>
 </div>
@@ -51,7 +51,37 @@ The goal of this archive is to provide data and insights on organizing in the te
     More than 2,000 Amazon workers in Staten Island filed the petition to the NLRB to hold a union election. This effort, led by Chris Smalls and is called the Amazon labor Union. Smalls, a former employee, was fired after organizing a protest for lack of COVID protective gear and poor hazard pay. As an independent union, they hope to avoid Amazon’s anti-union messaging targeted towards established unions. The Amazon Labor Union has begun a union drive. Its goals are to bring back variable compensation pay and stock options that Amazon removed in 2018. In response, Amazon questioned if there was a sufficient number of legitimate signatures from Amazon employees.  Amazon has also taken anti-union tactics, such as displaying anti-union messages in their facilities and bringing in anti-union consultants.
    </td>
    <td>
-    <a href="/actions/0446.json">
+    <a href="/actions/0449.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="">
+   <td>
+    2021-10-19
+   </td>
+   <td>
+    With the backing of Foxglove Legal, Facebook contract moderators at Accenture are protesting low wages with a mobile billboard and internal letter. The billboard calls for Accenture CEO Julie Sweet to “stop exploiting your workers,” considering how much Accenture is paid compared to how much content moderators make per hour. Ukrainian and Spanish language moderators are also excluded from the $2 premium that bilingual moderators receive. Despite the demand for equal pay in June, there was no change. Moreover, the moderators’ work is emotionally and mentally taxing because of the unpleasant content they moderate. Accenture only offers access to behavioral coaches instead of professional psychological care, according to Foxglove Legal.
+   </td>
+   <td>
+    <a href="/actions/0448.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="wynniechan">
+   <td>
+    2021-10-18
+   </td>
+   <td>
+    In response to Dave Chappelle's controversial Netflix special,  Netflix trans employee resource group has released a list of demands and organized a walkout for October 20th. The demands are increased internal conversations about potentially harmful content, the hiring of trans and nonbinary executives, and removing transphobic content in the office; it notably does not include removing Chappelle’s special from Netflix. Also, a leader of the trans-ERG was fired from Netflix because the company concluded that she leaked confidential information.
+   </td>
+   <td>
+    <a href="/actions/0447.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -66,7 +96,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Uber drivers, organized by the Croatian Digital Platform Workers’ Union, held a strike and press conference in Croatia. They claimed that their salaries were not paid in time with no explanation. Despite Uber portraying drivers as partners, the workers feel like “digital slaves” who cannot get in contact with Uber’s authorities.
    </td>
    <td>
-    <a href="/actions/0445.json">
+    <a href="/actions/0446.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -81,7 +111,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Google and Amazon workers condemn Amazon and Google’s supplying to the Israeli military and government technology to harm Palestinians through Project Nimbus. They write that Project Nimbus would provide cloud services, including surveillance and data collection on Palestinians, that would support systematic discrimination and displacement. Workers released an internal letter, with 90+ Google workers and 300+ Amazon workers anonymously signing it.
    </td>
    <td>
-    <a href="/actions/0444.json">
+    <a href="/actions/0445.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -96,7 +126,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Amazon had plans to build a new Amazon “mega-hub” at Newark Liberty International Airport, drawing resistance from Amazon warehouse workers, some of which were Teamster members. Environmental advocates, labor groups, and small business owners also participated. They held a press conference on October 6 to protest. Protestors wanted to be part of the decision-making process, and they were worried about pollution and negative impacts on the local economy. Others worry about the working conditions of the new jobs, considering Amazon’s history and how the mega-hub could depress local wages. Officials have said the deal would bring more revenue into the area while also providing opportunities for minority- and women-owned businesses.
    </td>
    <td>
-    <a href="/actions/0443.json">
+    <a href="/actions/0444.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -111,7 +141,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     In response to recent strikes that protested unfair working conditions, Gorillas fired “several dozen Berlin-based delivery workers.” In response, the Gorillas Workers Collective called for a protest in front of the company’s headquarters. Gorillas have said that these strikes were unannounced, non-unionized, spontaneous, and are illegal under German law. However, other workers have shown screenshots of schedules that violate German labor law.  After the strikes took place, the company reportedly replaced those striking with Zenjob gig workers from Bermannkiez.
    </td>
    <td>
-    <a href="/actions/0442.json">
+    <a href="/actions/0443.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -126,7 +156,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     21 current and former employees of Blue Origin published an essay that claimed that Blue Origin had multiple issues with sexism and safety. The CEO, Bob Smith was also accused of keeping track of “agitators” and discouraging dissent. Moreover, the letter brings up environmental issues; Blue Origin operates with no consideration of its environmental footprint or permits needed for waste. Smith has responded with a letter that says that the company would “reflect” on ways of improvement and that it has no tolerance for discrimination or harassment. He also emphasized that the vehicle was properly certified for First Human Flight.
    </td>
    <td>
-    <a href="/actions/0441.json">
+    <a href="/actions/0442.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -142,7 +172,7 @@ The goal of this archive is to provide data and insights on organizing in the te
 their open letter addressed to CEO Fidji Simo was ignored.
    </td>
    <td>
-    <a href="/actions/0440.json">
+    <a href="/actions/0441.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -157,7 +187,7 @@ their open letter addressed to CEO Fidji Simo was ignored.
     After the online food platform eFood announced that it will change its contract-based workers into freelancers, it sparked a strike and motor-march by its workers. Workers demanded the company to provide motorcycles or pay a 15% additional allowance, pay for the fuel, add protection measures, and allow collective bargaining. eFood also faced social media backlash, even before the strike. The campaign #cancel_efood went viral, and thousands of customers deleted the app and rated the app poorly on the Google Play store. Riders of Wolt, another big food delivery platform, and other workers’ unions expressed solidarity through a protest meeting. eFood has since then announced it would make all contract workers into direct hires. The day after the announcement, the delivery workers held a 24-hour strike as planned.
    </td>
    <td>
-    <a href="/actions/0439.json">
+    <a href="/actions/0440.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -172,7 +202,7 @@ their open letter addressed to CEO Fidji Simo was ignored.
     The ADCU National Executive Committee organized a national 24-hour strike against Uber on September 28th with the hashtag campaign #UberStrike. On the 28th, Uber drivers didn’t log on, and passengers were encouraged to stop using the service or book services. Employees protested about being unfairly dismissed as well as the company failing to pay for waiting time, despite a UK Supreme Court ruling. It is also a protest against the newly introduced fixed price fares. The strike occurred in London, Bristol, Birmingham, Sheffield, Manchester, Leeds, Glasgow, and Nottingham.
    </td>
    <td>
-    <a href="/actions/0438.json">
+    <a href="/actions/0439.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -187,7 +217,7 @@ their open letter addressed to CEO Fidji Simo was ignored.
     Instacart has been accused of exploiting their gig workers, considering tip theft, unsafe working conditions, pay cuts, COVID practices, among others. Despite a CEO change, Instacart has not changed its practices, so Gig Workers Collective calls on Instacart’s customers to delete the app and support the Collective’s demands with the hashtag #DELETEINSTACART. The demands include: (1) “Instacart shoppers must be paid by order, and not by batch,” (2) “Instacart must re-introduce item commission,” (3) “Instacart’s rating system can no longer unfairly punish shoppers for issues outside their control,” (4) “occupational death benefits,” (5) and “default tip must be raised to at least 10% for every single order.”
    </td>
    <td>
-    <a href="/actions/0437.json">
+    <a href="/actions/0438.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -202,7 +232,7 @@ their open letter addressed to CEO Fidji Simo was ignored.
     After news from The Guardian that Google had been illegally underpaying their Temps, Vendors, and Contractors (TVCs) despite pay parity laws in European and Asian countries, over 900 Google employees and subcontractors have signed a petition calling for Google to amend their exploitation of TVCs. They are demanding for Google to repay the TVCs, create a path towards permanent employment, and end its two-tiered perma-temp system. This letter was organized by the Alphabet Workers Union (AWU). Google has acknowledged these issues but hasn’t commented directly on the petition.
    </td>
    <td>
-    <a href="/actions/0436.json">
+    <a href="/actions/0437.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -217,7 +247,7 @@ their open letter addressed to CEO Fidji Simo was ignored.
     1,300 HelloFresh workers are unionizing with UNITE HERE in Colorado and California due to low wages, safety issues, and poor work conditions. HelloFresh management has also been unresponsive towards workers after a COVID-19 outbreak in a Richmond facility. UNITE HERE filed a petition to NLRB to authorize a vote to unionize. In response, anti-union consultants, such as Kulture Consulting, were reported to have held mandatory anti-union meetings.
    </td>
    <td>
-    <a href="/actions/0435.json">
+    <a href="/actions/0436.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -232,7 +262,7 @@ their open letter addressed to CEO Fidji Simo was ignored.
     Teamsters Local Union 362 filed a request to hold a vote to form a union at an Amazon facility in Nisku, Alberta, Canada. Teamsters Local Union 362 is part of Teamsters Canada, a trade union that is affiliated with the International Brotherhood of Teamster.  Unionization efforts have already begun, including a petition being signed by “hundreds” of warehouse workers, and the date to vote is yet to be decided.
    </td>
    <td>
-    <a href="/actions/0434.json">
+    <a href="/actions/0435.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -247,7 +277,7 @@ their open letter addressed to CEO Fidji Simo was ignored.
     The Apple workers in #AppleToo have released an open letter calling on Tim Cook and the Senior Leadership team to follow through in its diversity, equity, and inclusion promises. Workers have brought up invasive privacy policies, abuse, discrimination, and harassment. Their demands include: (1) “increased separation between Apple-owned and worker-owned digital and physical property in all Apple policies,” (2) “transparent livable, equitable, and fair compensation across all of Apple,” (3) “audit all third-party relationships,” among others.
    </td>
    <td>
-    <a href="/actions/0433.json">
+    <a href="/actions/0434.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -262,7 +292,7 @@ their open letter addressed to CEO Fidji Simo was ignored.
     After a supermajority of EveryAction workers signed cards to establish a union, EveryAction voluntarily recognized the EveryAction Workers Union, who will become part of the Communications Workers of America. As a result, the company will engage in negotiations over a collective bargaining agreement in the near future. EveryAction prides themselves on being a progressive workplace and has embraced this unionization.
    </td>
    <td>
-    <a href="/actions/0432.json">
+    <a href="/actions/0433.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -277,7 +307,7 @@ their open letter addressed to CEO Fidji Simo was ignored.
     In response to Texas’s new abortion law and the creation of the website prolifewhistleblower.com, TikTok activists, programmers, and Twitter and Reddit users engaged in “hacktivism” by submitting fake reports to the website. Programmers have also created and released scripts for others to automatically generate fake reports. The website responded by adding a new version of a Captcha to filter out bot reports. Furthermore, some Twitter users called for a boycott of GoDaddy, the company that hosts the website, as the website violates GoDaddy’s terms of service. In response, GoDaddy gave the website 24 hours to move to another provider before cutting off service.
    </td>
    <td>
-    <a href="/actions/0431.json">
+    <a href="/actions/0432.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -293,7 +323,7 @@ their open letter addressed to CEO Fidji Simo was ignored.
 On the day of the walk out, over 50% of the bargaining unit or 300 workers participated. They allege the company has been illegally trying to obstruct their unionization campaign. Tech workers from the company hope to join NewsGuild, an affiliate of the Communications Workers of America Union.
    </td>
    <td>
-    <a href="/actions/0430.json">
+    <a href="/actions/0431.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -308,7 +338,7 @@ On the day of the walk out, over 50% of the bargaining unit or 300 workers parti
     Twitch streamer RekltRaven began a hashtag movement #twitchdobetter in response to the hate raids targeting marginalized creators, especially those who identify as Black, queer, or female. Twitch responded by fixing their chat filters and are planning to update their services to include improved safety features, including an improved account verification process and ban evasion detection tools. As there are still gaps, marginalized creators are calling for more proactive moderation and tools that the creators can use to moderate the stream.
    </td>
    <td>
-    <a href="/actions/0429.json">
+    <a href="/actions/0430.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -321,6 +351,21 @@ On the day of the walk out, over 50% of the bargaining unit or 300 workers parti
    </td>
    <td>
     Apple employees circulated voluntary surveys throughout the company to see if Apple has a problem with pay inequality toward women and minorities. Apple HR barred the employees from conducting the surveys, which according to The Verge, is illegally preventing employees' rights to discuss pay.
+   </td>
+   <td>
+    <a href="/actions/0429.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="wynniechan">
+   <td>
+    2021-08-02
+   </td>
+   <td>
+    After CfA Workers united requested for voluntary recognition of their union on August 2nd, Code for America voluntarily recognized CfA Workers United Union on October 22, 2021. CfA is one of the first unions in civic tech, and a unionized contract is under negotiation.
    </td>
    <td>
     <a href="/actions/0428.json">

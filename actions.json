@@ -17330,6 +17330,48 @@
         "addresses": null
     },
     {
+        "id": 486,
+        "date": "2021/08/02",
+        "sources": [
+            "https://www.codeforamerica.org/news/code-for-america-voluntarily-recognizes-cfa-workers-united-union/"
+        ],
+        "actions": [
+            "union drive",
+            "union representation"
+        ],
+        "struggles": [
+            "working conditions"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "After CfA Workers united requested for voluntary recognition of their union on August 2nd, Code for America voluntarily recognized CfA Workers United Union on October 22, 2021. CfA is one of the first unions in civic tech, and a unionized contract is under negotiation.",
+        "online": null,
+        "locations": [
+            "usa"
+        ],
+        "companies": [
+            "code for america"
+        ],
+        "workers": null,
+        "tags": [
+            "opeiu"
+        ],
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": [
+            [
+                37.7756648,
+                -122.4136613
+            ]
+        ],
+        "addresses": [
+            "Code for America, 155, 9th Street, SOMA Pilipinas, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States"
+        ]
+    },
+    {
         "id": 462,
         "date": "2021/08/09",
         "sources": [
@@ -18055,6 +18097,82 @@
         "author": [
             "wynniechan"
         ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 485,
+        "date": "2021/10/18",
+        "sources": [
+            "https://www.theverge.com/2021/10/18/22733098/netflix-trans-employees-demands-dave-chappelle-walkout",
+            "https://www.theverge.com/2021/10/15/22728337/netflix-fires-organizer-trans-employee-walkout-dave-chappelle"
+        ],
+        "actions": [
+            "open letter",
+            "protest"
+        ],
+        "struggles": [
+            "discrimination",
+            "ethics"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "In response to Dave Chappelle's controversial Netflix special,  Netflix trans employee resource group has released a list of demands and organized a walkout for October 20th. The demands are increased internal conversations about potentially harmful content, the hiring of trans and nonbinary executives, and removing transphobic content in the office; it notably does not include removing Chappelle\u2019s special from Netflix. Also, a leader of the trans-ERG was fired from Netflix because the company concluded that she leaked confidential information. ",
+        "online": true,
+        "locations": null,
+        "companies": [
+            "netflix"
+        ],
+        "workers": null,
+        "tags": [
+            "lgbtq",
+            "coworker solidarity",
+            "online action"
+        ],
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 487,
+        "date": "2021/10/19",
+        "sources": [
+            "https://www.theverge.com/2021/10/19/22726915/facebook-content-moderators-protest-low-wages",
+            "https://www.foxglove.org.uk/2021/10/19/letter-facebook-content-moderators-julie-sweet/"
+        ],
+        "actions": [
+            "protest",
+            "open letter"
+        ],
+        "struggles": [
+            "pay and benefits",
+            "working conditions"
+        ],
+        "employment_types": [
+            "contract workers"
+        ],
+        "description": "With the backing of Foxglove Legal, Facebook contract moderators at Accenture are protesting low wages with a mobile billboard and internal letter. The billboard calls for Accenture CEO Julie Sweet to \u201cstop exploiting your workers,\u201d considering how much Accenture is paid compared to how much content moderators make per hour. Ukrainian and Spanish language moderators are also excluded from the $2 premium that bilingual moderators receive. Despite the demand for equal pay in June, there was no change. Moreover, the moderators\u2019 work is emotionally and mentally taxing because of the unpleasant content they moderate. Accenture only offers access to behavioral coaches instead of professional psychological care, according to Foxglove Legal. ",
+        "online": null,
+        "locations": [
+            "bethesda-maryland-usa",
+            "washington_dc-usa"
+        ],
+        "companies": [
+            "accenture",
+            "facebook"
+        ],
+        "workers": null,
+        "tags": [
+            "moderators",
+            "coworker solidarity",
+            "industry solidarity",
+            "industry_solidarity"
+        ],
+        "author": null,
         "latlngs": null,
         "addresses": null
     },

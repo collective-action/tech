@@ -1,34 +1,33 @@
 {
-    "id": 467,
-    "date": "2021/09/15",
+    "id": 480,
+    "date": "2021/09/14",
     "sources": [
-        "https://www.theguardian.com/technology/2021/sep/15/google-underpayment-wages?CMP=Share_AndroidApp_Other",
-        "https://payparity.org/"
+        "https://www.vice.com/amp/en/article/m7ey5b/hellofresh-workers-are-unionizing-the-booming-meal-kit-industry?__twitter_impression=true"
     ],
     "actions": [
-        "open letter"
+        "union drive",
+        "union representation"
     ],
     "struggles": [
         "pay and benefits",
-        "unfair labor practices"
+        "working conditions"
     ],
     "employment_types": [
-        "white collar workers",
-        "blue collar workers",
-        "inhouse workers",
-        "contract workers"
+        "blue collar workers"
     ],
-    "description": "After news from The Guardian that Google had been illegally underpaying their Temps, Vendors, and Contractors (TVCs) despite pay parity laws in European and Asian countries, over 900 Google employees and subcontractors have signed a petition calling for Google to amend their exploitation of TVCs. They are demanding for Google to repay the TVCs, create a path towards permanent employment, and end its two-tiered perma-temp system. This letter was organized by the Alphabet Workers Union (AWU). Google has acknowledged these issues but hasn\u2019t commented directly on the petition.",
-    "online": true,
-    "locations": null,
+    "description": "1,300 HelloFresh workers are unionizing with UNITE HERE in Colorado and California due to low wages, safety issues, and poor work conditions. HelloFresh management has also been unresponsive towards workers after a COVID-19 outbreak in a Richmond facility. UNITE HERE filed a petition to NLRB to authorize a vote to unionize. In response, anti-union consultants, such as Kulture Consulting, were reported to have held mandatory anti-union meetings.",
+    "online": null,
+    "locations": [
+        "richmond-california-usa",
+        "aurora-colorado-usa"
+    ],
     "companies": [
-        "google",
-        "alphabet"
+        "hellofresh"
     ],
-    "workers": 901,
+    "workers": null,
     "tags": [
-        "international_solidarity",
-        "coworker solidarity"
+        "unite_here",
+        "coronavirus"
     ],
     "author": [
         "wynniechan"

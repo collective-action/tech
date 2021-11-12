@@ -1,8 +1,8 @@
 {
-    "id": 480,
-    "date": "2021/09/14",
+    "id": 468,
+    "date": "2021/09/13",
     "sources": [
-        "https://www.vice.com/amp/en/article/m7ey5b/hellofresh-workers-are-unionizing-the-booming-meal-kit-industry?__twitter_impression=true"
+        "https://www.reuters.com/technology/canadian-amazon-facility-files-union-vote-union-2021-09-14/"
     ],
     "actions": [
         "union drive",
@@ -13,25 +13,31 @@
         "working conditions"
     ],
     "employment_types": [
-        "blue collar workers"
+        "blue collar workers",
+        "inhouse workers"
     ],
-    "description": "1,300 HelloFresh workers are unionizing with UNITE HERE in Colorado and California due to low wages, safety issues, and poor work conditions. HelloFresh management has also been unresponsive towards workers after a COVID-19 outbreak in a Richmond facility. UNITE HERE filed a petition to NLRB to authorize a vote to unionize. In response, anti-union consultants, such as Kulture Consulting, were reported to have held mandatory anti-union meetings.",
+    "description": "Teamsters Local Union 362 filed a request to hold a vote to form a union at an Amazon facility in Nisku, Alberta, Canada. Teamsters Local Union 362 is part of Teamsters Canada, a trade union that is affiliated with the International Brotherhood of Teamster.  Unionization efforts have already begun, including a petition being signed by \u201chundreds\u201d of warehouse workers, and the date to vote is yet to be decided. ",
     "online": null,
     "locations": [
-        "richmond-california-usa",
-        "aurora-colorado-usa"
+        "nisku-alberta-canada"
     ],
     "companies": [
-        "hellofresh"
+        "amazon"
     ],
-    "workers": null,
+    "workers": 601,
     "tags": [
-        "unite_here",
-        "coronavirus"
+        "teamster"
     ],
     "author": [
         "wynniechan"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            53.393627,
+            -113.49682402031908
+        ]
+    ],
+    "addresses": [
+        "Amazon Warehouse, Nisku Spine Road, Ellerslie Industrial, Ellerslie, Edmonton, Leduc County, Alberta, T6X 2H4, Canada"
+    ]
 }

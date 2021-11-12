@@ -1,33 +1,44 @@
 {
-    "id": 470,
-    "date": "2021/09/01",
+    "id": 464,
+    "date": "2021/08/11",
     "sources": [
-        "https://www.nytimes.com/2021/09/03/technology/texas-abortion-law-website-tiktok.html"
+        "https://www.bloomberg.com/news/articles/2021-08-10/new-york-times-tech-staff-to-walk-out-escalating-union-fight",
+        "https://collectiveaction.tech/2021/first-strike-for-a-seat-at-the-table/"
     ],
     "actions": [
         "protest",
-        "resources"
+        "strike"
     ],
     "struggles": [
-        "ethics"
+        "unfair labor practices"
     ],
     "employment_types": [
         "white collar workers",
-        "content creators",
-        "open source community"
+        "inhouse workers"
     ],
-    "description": "In response to Texas\u2019s new abortion law and the creation of the website prolifewhistleblower.com, TikTok activists, programmers, and Twitter and Reddit users engaged in \u201chacktivism\u201d by submitting fake reports to the website. Programmers have also created and released scripts for others to automatically generate fake reports. The website responded by adding a new version of a Captcha to filter out bot reports. Furthermore, some Twitter users called for a boycott of GoDaddy, the company that hosts the website, as the website violates GoDaddy\u2019s terms of service. In response, GoDaddy gave the website 24 hours to move to another provider before cutting off service.",
+    "description": "Tech workers fighting for a union at the Times virtually walked out in protest over management\u2019s continued anti-union tactics, the first work stoppage tied to unionization in the tech industry. \nOn the day of the walk out, over 50% of the bargaining unit or 300 workers participated. They allege the company has been illegally trying to obstruct their unionization campaign. Tech workers from the company hope to join NewsGuild, an affiliate of the Communications Workers of America Union.",
     "online": true,
-    "locations": null,
-    "companies": null,
-    "workers": 8451,
+    "locations": [
+        "new york city-new york-usa"
+    ],
+    "companies": [
+        "the new york times"
+    ],
+    "workers": 300,
     "tags": [
-        "law_enforcement",
-        "politics"
+        "cwa",
+        "coworker solidarity"
     ],
     "author": [
-        "wynniechan"
+        "hyatt d."
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            40.77541455,
+            -73.83098624117696
+        ]
+    ],
+    "addresses": [
+        "The New York Times, Whitestone Expressway, Linden Hill, Queens, Queens County, New York, 11354, United States"
+    ]
 }

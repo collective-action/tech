@@ -1,49 +1,58 @@
 {
-    "id": 482,
-    "date": "2021/09/29",
+    "id": 472,
+    "date": "2021/09/28",
     "sources": [
-        "https://twitter.com/nantarsya/status/1441064662661955585?s=19",
-        "https://www.keeptalkinggreece.com/2021/09/24/efood-delivery-workers-on-24h-strike-despite-company-promising-contracts/",
-        "https://braveneweurope.com/gig-economy-project-greece-e-food-concedes-to-riders-demands-in-huge-victory"
+        "https://www.mirror.co.uk/news/uk-news/uber-drivers-stage-24-hour-25087702",
+        "https://www.adcu.org.uk/uberstrike",
+        "https://twitter.com/Yaseenaslam381/status/1442827661546561538?s=19"
     ],
     "actions": [
         "strike",
-        "union representation",
         "protest"
     ],
     "struggles": [
-        "job security",
         "pay and benefits",
-        "working conditions"
+        "unfair labor practices",
+        "job security"
     ],
     "employment_types": [
-        "gig workers"
+        "gig workers",
+        "inhouse workers"
     ],
-    "description": "After the online food platform eFood announced that it will change its contract-based workers into freelancers, it sparked a strike and motor-march by its workers. Workers demanded the company to provide motorcycles or pay a 15% additional allowance, pay for the fuel, add protection measures, and allow collective bargaining. eFood also faced social media backlash, even before the strike. The campaign #cancel_efood went viral, and thousands of customers deleted the app and rated the app poorly on the Google Play store. Riders of Wolt, another big food delivery platform, and other workers\u2019 unions expressed solidarity through a protest meeting. eFood has since then announced it would make all contract workers into direct hires. The day after the announcement, the delivery workers held a 24-hour strike as planned.",
+    "description": "The ADCU National Executive Committee organized a national 24-hour strike against Uber on September 28th with the hashtag campaign #UberStrike. On the 28th, Uber drivers didn\u2019t log on, and passengers were encouraged to stop using the service or book services. Employees protested about being unfairly dismissed as well as the company failing to pay for waiting time, despite a UK Supreme Court ruling. It is also a protest against the newly introduced fixed price fares. The strike occurred in London, Bristol, Birmingham, Sheffield, Manchester, Leeds, Glasgow, and Nottingham. ",
     "online": true,
     "locations": [
-        "athens-greece",
-        "thessaloniki-greece"
+        "london-uk",
+        "birmingham-uk",
+        "sheffield-uk",
+        "nottingham-uk",
+        "bristol-uk",
+        "manchester-uk",
+        "leeds-uk",
+        "glasgow-uk"
     ],
     "companies": [
-        "eFood"
+        "uber"
     ],
-    "workers": 1001,
+    "workers": 25,
     "tags": [
-        "industry solidarity",
-        "delivery_workers",
-        "online action"
+        "drivers"
     ],
     "author": [
         "wynniechan"
     ],
     "latlngs": [
         [
-            38.0539245,
-            23.76823299635968
+            51.5148804,
+            -0.0718856
+        ],
+        [
+            52.4746766,
+            -1.91586332385543
         ]
     ],
     "addresses": [
-        "eFood, \u0397\u03c1\u03b1\u03ba\u03bb\u03b5\u03af\u03bf\u03c5, \u03a0\u03c1\u03ac\u03c3\u03b9\u03bd\u03bf\u03c2 \u039b\u03cc\u03c6\u03bf\u03c2, \u0397\u03c1\u03ac\u03ba\u03bb\u03b5\u03b9\u03bf, \u0394\u03ae\u03bc\u03bf\u03c2 \u0397\u03c1\u03b1\u03ba\u03bb\u03b5\u03af\u03bf\u03c5 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0392\u03bf\u03c1\u03b5\u03af\u03bf\u03c5 \u03a4\u03bf\u03bc\u03ad\u03b1 \u0391\u03b8\u03b7\u03bd\u03ce\u03bd, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2, 14122, \u0395\u03bb\u03bb\u03ac\u03c2"
+        "Uber, 2, Leman Street, Spitalfields, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, E1 8FA, United Kingdom",
+        "UBER, 100, Broad Street, Ladywood, Park Central, Birmingham, West Midlands Combined Authority, West Midlands, England, B15 1AE, United Kingdom"
     ]
 }

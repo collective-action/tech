@@ -1,35 +1,33 @@
 {
-    "id": 476,
-    "date": "2021/10/12",
+    "id": 483,
+    "date": "2021/10/06",
     "sources": [
-        "https://www.theguardian.com/commentisfree/2021/oct/12/google-amazon-workers-condemn-project-nimbus-israeli-military-contract"
+        "https://patch.com/new-jersey/newarknj/protesters-bash-amazon-s-plan-bring-mega-hub-newark-airport",
+        "https://twitter.com/LaurenKGurley/status/1445403513660522496?s=20"
     ],
     "actions": [
-        "open letter"
+        "protest"
     ],
     "struggles": [
+        "pay and benefits",
+        "working conditions",
         "ethics"
     ],
     "employment_types": [
-        "white collar workers",
-        "contract workers",
-        "inhouse workers"
+        "inhouse workers",
+        "blue collar workers"
     ],
-    "description": "Google and Amazon workers condemn Amazon and Google\u2019s supplying to the Israeli military and government technology to harm Palestinians through Project Nimbus. They write that Project Nimbus would provide cloud services, including surveillance and data collection on Palestinians, that would support systematic discrimination and displacement. Workers released an internal letter, with 90+ Google workers and 300+ Amazon workers anonymously signing it.",
-    "online": true,
-    "locations": null,
+    "description": "Amazon had plans to build a new Amazon \u201cmega-hub\u201d at Newark Liberty International Airport, drawing resistance from Amazon warehouse workers, some of which were Teamster members. Environmental advocates, labor groups, and small business owners also participated. They held a press conference on October 6 to protest. Protestors wanted to be part of the decision-making process, and they were worried about pollution and negative impacts on the local economy. Others worry about the working conditions of the new jobs, considering Amazon\u2019s history and how the mega-hub could depress local wages. Officials have said the deal would bring more revenue into the area while also providing opportunities for minority- and women-owned businesses. ",
+    "online": null,
+    "locations": [
+        "newark-new jersey-usa"
+    ],
     "companies": [
-        "google",
         "amazon"
     ],
-    "workers": 391,
+    "workers": 11,
     "tags": [
-        "international solidarity",
-        "politics",
-        "surveillance",
-        "military_contracts",
-        "industry solidarity",
-        "ice"
+        "teamster"
     ],
     "author": [
         "wynniechan"

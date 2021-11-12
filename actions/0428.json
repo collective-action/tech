@@ -1,34 +1,42 @@
 {
-    "id": 462,
-    "date": "2021/08/09",
+    "id": 486,
+    "date": "2021/08/02",
     "sources": [
-        "https://www.theverge.com/2021/8/9/22609687/apple-pay-equity-employee-surveys-protected-activity"
+        "https://www.codeforamerica.org/news/code-for-america-voluntarily-recognizes-cfa-workers-united-union/"
     ],
     "actions": [
-        "resources"
+        "union drive",
+        "union representation"
     ],
     "struggles": [
-        "pay and benefits",
-        "discrimination"
+        "working conditions"
     ],
     "employment_types": [
         "white collar workers",
-        "inhouse workers",
-        "contract workers"
+        "inhouse workers"
     ],
-    "description": "Apple employees circulated voluntary surveys throughout the company to see if Apple has a problem with pay inequality toward women and minorities. Apple HR barred the employees from conducting the surveys, which according to The Verge, is illegally preventing employees' rights to discuss pay. ",
-    "online": true,
-    "locations": null,
+    "description": "After CfA Workers united requested for voluntary recognition of their union on August 2nd, Code for America voluntarily recognized CfA Workers United Union on October 22, 2021. CfA is one of the first unions in civic tech, and a unionized contract is under negotiation.",
+    "online": null,
+    "locations": [
+        "usa"
+    ],
     "companies": [
-        "apple"
+        "code for america"
     ],
     "workers": null,
     "tags": [
-        "sexism"
+        "opeiu"
     ],
     "author": [
-        "hyatt d."
+        "wynniechan"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.7756648,
+            -122.4136613
+        ]
+    ],
+    "addresses": [
+        "Code for America, 155, 9th Street, SOMA Pilipinas, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States"
+    ]
 }

@@ -1,50 +1,35 @@
 {
-    "id": 484,
-    "date": "2021/10/25",
+    "id": 477,
+    "date": "2021/10/18",
     "sources": [
-        "https://www.nbcnews.com/news/us-news/amazon-workers-staten-island-file-union-election-rcna3745",
-        "https://twitter.com/CDAW_National/status/1449913538919677954?t=1FloYuZc25cyobcFMYe7tw&s=19",
-        "https://amazonlaborunion.org/",
-        "https://www.vice.com/en/article/akvwkp/amazon-warehouse-workers-in-new-york-city-to-file-for-union-election"
+        "https://www.total-croatia-news.com/business/57000-uber-drivers-strike-in-croatia",
+        "https://twitter.com/nicoemoe/status/1449978260289294340?t=WdHP4kHHe5sMs9VJUfPQEg&s=19"
     ],
     "actions": [
-        "union drive",
-        "union representation"
+        "strike"
     ],
     "struggles": [
-        "working conditions",
         "pay and benefits",
-        "job security"
+        "working conditions"
     ],
     "employment_types": [
-        "inhouse workers",
-        "blue collar workers"
+        "gig workers"
     ],
-    "description": "More than 2,000 Amazon workers in Staten Island filed the petition to the NLRB to hold a union election. This effort, led by Chris Smalls and is called the Amazon labor Union. Smalls, a former employee, was fired after organizing a protest for lack of COVID protective gear and poor hazard pay. As an independent union, they hope to avoid Amazon\u2019s anti-union messaging targeted towards established unions. The Amazon Labor Union has begun a union drive. Its goals are to bring back variable compensation pay and stock options that Amazon removed in 2018. In response, Amazon questioned if there was a sufficient number of legitimate signatures from Amazon employees.  Amazon has also taken anti-union tactics, such as displaying anti-union messages in their facilities and bringing in anti-union consultants.",
+    "description": "Uber drivers, organized by the Croatian Digital Platform Workers\u2019 Union, held a strike and press conference in Croatia. They claimed that their salaries were not paid in time with no explanation. Despite Uber portraying drivers as partners, the workers feel like \u201cdigital slaves\u201d who cannot get in contact with Uber\u2019s authorities.",
     "online": null,
     "locations": [
-        "staten island-new york city-new york-usa"
+        "zagreb-croatia"
     ],
     "companies": [
-        "amazon"
+        "uber"
     ],
-    "workers": 2001,
+    "workers": null,
     "tags": [
-        "coronavirus",
-        "retaliation",
-        "industry solidarity",
-        "coworker solidarity"
+        "drivers"
     ],
     "author": [
         "wynniechan"
     ],
-    "latlngs": [
-        [
-            40.6193387,
-            -74.0727749
-        ]
-    ],
-    "addresses": [
-        "Amazon Court, Clifton, Staten Island, Richmond County, New York, 10304, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

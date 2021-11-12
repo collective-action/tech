@@ -1,35 +1,33 @@
 {
-    "id": 478,
+    "id": 462,
     "date": "2021/08/09",
     "sources": [
-        "https://www.theverge.com/2021/8/11/22620874/twitch-implements-improved-chat-filters",
-        "https://www.washingtonpost.com/video-games/2021/08/11/twitch-do-better-hate-raids/"
+        "https://www.theverge.com/2021/8/9/22609687/apple-pay-equity-employee-surveys-protected-activity"
     ],
     "actions": [
-        "protest"
+        "resources"
     ],
     "struggles": [
+        "pay and benefits",
         "discrimination"
     ],
     "employment_types": [
-        "content creators"
+        "white collar workers",
+        "inhouse workers",
+        "contract workers"
     ],
-    "description": "Twitch streamer RekltRaven began a hashtag movement #twitchdobetter in response to the hate raids targeting marginalized creators, especially those who identify as Black, queer, or female. Twitch responded by fixing their chat filters and are planning to update their services to include improved safety features, including an improved account verification process and ban evasion detection tools. As there are still gaps, marginalized creators are calling for more proactive moderation and tools that the creators can use to moderate the stream.",
+    "description": "Apple employees circulated voluntary surveys throughout the company to see if Apple has a problem with pay inequality toward women and minorities. Apple HR barred the employees from conducting the surveys, which according to The Verge, is illegally preventing employees' rights to discuss pay. ",
     "online": true,
     "locations": null,
     "companies": [
-        "twitch"
+        "apple"
     ],
     "workers": null,
     "tags": [
-        "lgbtq",
-        "sexism",
-        "antiracism",
-        "moderators",
-        "coworker solidarity"
+        "sexism"
     ],
     "author": [
-        "wynniechan"
+        "hyatt d."
     ],
     "latlngs": null,
     "addresses": null

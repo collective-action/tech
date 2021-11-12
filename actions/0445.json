@@ -1,31 +1,35 @@
 {
-    "id": 477,
-    "date": "2021/10/18",
+    "id": 476,
+    "date": "2021/10/12",
     "sources": [
-        "https://www.total-croatia-news.com/business/57000-uber-drivers-strike-in-croatia",
-        "https://twitter.com/nicoemoe/status/1449978260289294340?t=WdHP4kHHe5sMs9VJUfPQEg&s=19"
+        "https://www.theguardian.com/commentisfree/2021/oct/12/google-amazon-workers-condemn-project-nimbus-israeli-military-contract"
     ],
     "actions": [
-        "strike"
+        "open letter"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "ethics"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers",
+        "contract workers",
+        "inhouse workers"
     ],
-    "description": "Uber drivers, organized by the Croatian Digital Platform Workers\u2019 Union, held a strike and press conference in Croatia. They claimed that their salaries were not paid in time with no explanation. Despite Uber portraying drivers as partners, the workers feel like \u201cdigital slaves\u201d who cannot get in contact with Uber\u2019s authorities.",
-    "online": null,
-    "locations": [
-        "zagreb-croatia"
-    ],
+    "description": "Google and Amazon workers condemn Amazon and Google\u2019s supplying to the Israeli military and government technology to harm Palestinians through Project Nimbus. They write that Project Nimbus would provide cloud services, including surveillance and data collection on Palestinians, that would support systematic discrimination and displacement. Workers released an internal letter, with 90+ Google workers and 300+ Amazon workers anonymously signing it.",
+    "online": true,
+    "locations": null,
     "companies": [
-        "uber"
+        "google",
+        "amazon"
     ],
-    "workers": null,
+    "workers": 391,
     "tags": [
-        "drivers"
+        "international solidarity",
+        "politics",
+        "surveillance",
+        "military_contracts",
+        "industry solidarity",
+        "ice"
     ],
     "author": [
         "wynniechan"

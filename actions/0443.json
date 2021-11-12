@@ -1,37 +1,47 @@
 {
-    "id": 483,
-    "date": "2021/10/06",
+    "id": 475,
+    "date": "2021/10/04",
     "sources": [
-        "https://patch.com/new-jersey/newarknj/protesters-bash-amazon-s-plan-bring-mega-hub-newark-airport",
-        "https://twitter.com/LaurenKGurley/status/1445403513660522496?s=20"
+        "https://www.dw.com/en/gorillas-delivery-service-fires-back-over-workers-strike/a-59445809",
+        "https://www.vice.com/en/article/7kvgmd/gorillas-delivery-app-fires-workers-for-striking"
     ],
     "actions": [
-        "protest"
+        "protest",
+        "strike"
     ],
     "struggles": [
         "pay and benefits",
         "working conditions",
-        "ethics"
+        "unfair labor practices",
+        "job security"
     ],
     "employment_types": [
-        "inhouse workers",
-        "blue collar workers"
+        "gig workers"
     ],
-    "description": "Amazon had plans to build a new Amazon \u201cmega-hub\u201d at Newark Liberty International Airport, drawing resistance from Amazon warehouse workers, some of which were Teamster members. Environmental advocates, labor groups, and small business owners also participated. They held a press conference on October 6 to protest. Protestors wanted to be part of the decision-making process, and they were worried about pollution and negative impacts on the local economy. Others worry about the working conditions of the new jobs, considering Amazon\u2019s history and how the mega-hub could depress local wages. Officials have said the deal would bring more revenue into the area while also providing opportunities for minority- and women-owned businesses. ",
+    "description": "In response to recent strikes that protested unfair working conditions, Gorillas fired \u201cseveral dozen Berlin-based delivery workers.\u201d In response, the Gorillas Workers Collective called for a protest in front of the company\u2019s headquarters. Gorillas have said that these strikes were unannounced, non-unionized, spontaneous, and are illegal under German law. However, other workers have shown screenshots of schedules that violate German labor law.  After the strikes took place, the company reportedly replaced those striking with Zenjob gig workers from Bermannkiez. ",
     "online": null,
     "locations": [
-        "newark-new jersey-usa"
+        "berlin-germany"
     ],
     "companies": [
-        "amazon"
+        "gorillas"
     ],
-    "workers": 11,
+    "workers": 150,
     "tags": [
-        "teamster"
+        "retaliation",
+        "coworker solidarity",
+        "delivery_workers"
     ],
     "author": [
         "wynniechan"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            52.5064919,
+            13.336216896921181
+        ]
+    ],
+    "addresses": [
+        "Flachland-Gorilla, Tiergarten, Mitte, Berlin, 10787, Deutschland"
+    ]
 }

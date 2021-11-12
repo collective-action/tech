@@ -1,44 +1,36 @@
 {
-    "id": 464,
-    "date": "2021/08/11",
+    "id": 478,
+    "date": "2021/08/09",
     "sources": [
-        "https://www.bloomberg.com/news/articles/2021-08-10/new-york-times-tech-staff-to-walk-out-escalating-union-fight",
-        "https://collectiveaction.tech/2021/first-strike-for-a-seat-at-the-table/"
+        "https://www.theverge.com/2021/8/11/22620874/twitch-implements-improved-chat-filters",
+        "https://www.washingtonpost.com/video-games/2021/08/11/twitch-do-better-hate-raids/"
     ],
     "actions": [
-        "protest",
-        "strike"
+        "protest"
     ],
     "struggles": [
-        "unfair labor practices"
+        "discrimination"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "content creators"
     ],
-    "description": "Tech workers fighting for a union at the Times virtually walked out in protest over management\u2019s continued anti-union tactics, the first work stoppage tied to unionization in the tech industry. \nOn the day of the walk out, over 50% of the bargaining unit or 300 workers participated. They allege the company has been illegally trying to obstruct their unionization campaign. Tech workers from the company hope to join NewsGuild, an affiliate of the Communications Workers of America Union.",
+    "description": "Twitch streamer RekltRaven began a hashtag movement #twitchdobetter in response to the hate raids targeting marginalized creators, especially those who identify as Black, queer, or female. Twitch responded by fixing their chat filters and are planning to update their services to include improved safety features, including an improved account verification process and ban evasion detection tools. As there are still gaps, marginalized creators are calling for more proactive moderation and tools that the creators can use to moderate the stream.",
     "online": true,
-    "locations": [
-        "new york city-new york-usa"
-    ],
+    "locations": null,
     "companies": [
-        "the new york times"
+        "twitch"
     ],
-    "workers": 300,
+    "workers": null,
     "tags": [
-        "cwa",
+        "lgbtq",
+        "sexism",
+        "antiracism",
+        "moderators",
         "coworker solidarity"
     ],
     "author": [
-        "hyatt d."
+        "wynniechan"
     ],
-    "latlngs": [
-        [
-            40.77541455,
-            -73.83098624117696
-        ]
-    ],
-    "addresses": [
-        "The New York Times, Whitestone Expressway, Linden Hill, Queens, Queens County, New York, 11354, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }
