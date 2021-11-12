@@ -20,11 +20,11 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">09/11/2021 01:31PM</td>
+    <td data-summary="timestamp">11/11/2021 08:14PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">443</td>
+    <td data-summary="action-count">447</td>
   </tr>
  </table>
 </div>
@@ -45,13 +45,28 @@ The goal of this archive is to provide data and insights on organizing in the te
   </tr>
   <tr author="wynniechan">
    <td>
+    2021-10-25
+   </td>
+   <td>
+    More than 2,000 Amazon workers in Staten Island filed the petition to the NLRB to hold a union election. This effort, led by Chris Smalls and is called the Amazon labor Union. Smalls, a former employee, was fired after organizing a protest for lack of COVID protective gear and poor hazard pay. As an independent union, they hope to avoid Amazon’s anti-union messaging targeted towards established unions. The Amazon Labor Union has begun a union drive. Its goals are to bring back variable compensation pay and stock options that Amazon removed in 2018. In response, Amazon questioned if there was a sufficient number of legitimate signatures from Amazon employees.  Amazon has also taken anti-union tactics, such as displaying anti-union messages in their facilities and bringing in anti-union consultants.
+   </td>
+   <td>
+    <a href="/actions/0446.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="wynniechan">
+   <td>
     2021-10-18
    </td>
    <td>
     Uber drivers, organized by the Croatian Digital Platform Workers’ Union, held a strike and press conference in Croatia. They claimed that their salaries were not paid in time with no explanation. Despite Uber portraying drivers as partners, the workers feel like “digital slaves” who cannot get in contact with Uber’s authorities.
    </td>
    <td>
-    <a href="/actions/0442.json">
+    <a href="/actions/0445.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -66,7 +81,22 @@ The goal of this archive is to provide data and insights on organizing in the te
     Google and Amazon workers condemn Amazon and Google’s supplying to the Israeli military and government technology to harm Palestinians through Project Nimbus. They write that Project Nimbus would provide cloud services, including surveillance and data collection on Palestinians, that would support systematic discrimination and displacement. Workers released an internal letter, with 90+ Google workers and 300+ Amazon workers anonymously signing it.
    </td>
    <td>
-    <a href="/actions/0441.json">
+    <a href="/actions/0444.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="wynniechan">
+   <td>
+    2021-10-06
+   </td>
+   <td>
+    Amazon had plans to build a new Amazon “mega-hub” at Newark Liberty International Airport, drawing resistance from Amazon warehouse workers, some of which were Teamster members. Environmental advocates, labor groups, and small business owners also participated. They held a press conference on October 6 to protest. Protestors wanted to be part of the decision-making process, and they were worried about pollution and negative impacts on the local economy. Others worry about the working conditions of the new jobs, considering Amazon’s history and how the mega-hub could depress local wages. Officials have said the deal would bring more revenue into the area while also providing opportunities for minority- and women-owned businesses.
+   </td>
+   <td>
+    <a href="/actions/0443.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -81,7 +111,22 @@ The goal of this archive is to provide data and insights on organizing in the te
     In response to recent strikes that protested unfair working conditions, Gorillas fired “several dozen Berlin-based delivery workers.” In response, the Gorillas Workers Collective called for a protest in front of the company’s headquarters. Gorillas have said that these strikes were unannounced, non-unionized, spontaneous, and are illegal under German law. However, other workers have shown screenshots of schedules that violate German labor law.  After the strikes took place, the company reportedly replaced those striking with Zenjob gig workers from Bermannkiez.
    </td>
    <td>
-    <a href="/actions/0440.json">
+    <a href="/actions/0442.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="wynniechan">
+   <td>
+    2021-09-30
+   </td>
+   <td>
+    21 current and former employees of Blue Origin published an essay that claimed that Blue Origin had multiple issues with sexism and safety. The CEO, Bob Smith was also accused of keeping track of “agitators” and discouraging dissent. Moreover, the letter brings up environmental issues; Blue Origin operates with no consideration of its environmental footprint or permits needed for waste. Smith has responded with a letter that says that the company would “reflect” on ways of improvement and that it has no tolerance for discrimination or harassment. He also emphasized that the vehicle was properly certified for First Human Flight.
+   </td>
+   <td>
+    <a href="/actions/0441.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -95,6 +140,21 @@ The goal of this archive is to provide data and insights on organizing in the te
    <td>
     Instacart shoppers under Gig Workers Collective have planned a nationwide work stoppage on October 16 until Instacart agrees to their demands for higher pay, occupational death benefits, and a more fair rating system. An Instacart spokesperson has responded that these experiences do not reflect the majority and are receptive to feedback. However, the workers claimed only receiving generic responses, and
 their open letter addressed to CEO Fidji Simo was ignored.
+   </td>
+   <td>
+    <a href="/actions/0440.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="wynniechan">
+   <td>
+    2021-09-29
+   </td>
+   <td>
+    After the online food platform eFood announced that it will change its contract-based workers into freelancers, it sparked a strike and motor-march by its workers. Workers demanded the company to provide motorcycles or pay a 15% additional allowance, pay for the fuel, add protection measures, and allow collective bargaining. eFood also faced social media backlash, even before the strike. The campaign #cancel_efood went viral, and thousands of customers deleted the app and rated the app poorly on the Google Play store. Riders of Wolt, another big food delivery platform, and other workers’ unions expressed solidarity through a protest meeting. eFood has since then announced it would make all contract workers into direct hires. The day after the announcement, the delivery workers held a 24-hour strike as planned.
    </td>
    <td>
     <a href="/actions/0439.json">
@@ -435,12 +495,12 @@ On the day of the walk out, over 50% of the bargaining unit or 300 workers parti
     </a>
    </td>
   </tr>
-  <tr author="hyatt d.">
+  <tr author="hyatt d. wynniechan">
    <td>
     2021-06-03
    </td>
    <td>
-    Delivery workers at Gorillas are organizing to form a work council known as Gorillas Workers Collective. The employees held a meeting to establish a work council to obtain co-determination rights. Having access to these rights would allow them to have a say in break times and safety arrangements. The workers have organized due to unpaid hours, back pain and psychological distress incurred from the job, lack of safety, violation of labor laws, and chaotic management.
+    Delivery workers at Gorillas are organizing to form a work council known as Gorillas Workers Collective. At three warehouses, riders unanimously voted to go on strike and form the Gorillas Workers Collective. The employees held a meeting to establish a work council to obtain co-determination rights. Having access to these rights would allow them to have a say in break times and safety arrangements. The workers have organized due to unpaid hours, back pain and psychological distress incurred from the job, lack of safety, violation of labor laws, and chaotic management.
    </td>
    <td>
     <a href="/actions/0416.json">

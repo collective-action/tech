@@ -1,39 +1,48 @@
 {
-    "id": 476,
-    "date": "2021/10/12",
+    "id": 481,
+    "date": "2021/09/30",
     "sources": [
-        "https://www.theguardian.com/commentisfree/2021/oct/12/google-amazon-workers-condemn-project-nimbus-israeli-military-contract"
+        "https://www.theverge.com/2021/9/30/22702335/jeff-bezos-employees-essay-blue-origin-toxic-workplace",
+        "https://www.lioness.co/post/bezos-wants-to-create-a-better-future-in-space-his-company-blue-origin-is-stuck-in-a-toxic-past"
     ],
     "actions": [
         "open letter"
     ],
     "struggles": [
-        "ethics"
+        "working conditions",
+        "ethics",
+        "discrimination"
     ],
     "employment_types": [
         "white collar workers",
-        "contract workers",
-        "inhouse workers"
+        "inhouse workers",
+        "contract workers"
     ],
-    "description": "Google and Amazon workers condemn Amazon and Google\u2019s supplying to the Israeli military and government technology to harm Palestinians through Project Nimbus. They write that Project Nimbus would provide cloud services, including surveillance and data collection on Palestinians, that would support systematic discrimination and displacement. Workers released an internal letter, with 90+ Google workers and 300+ Amazon workers anonymously signing it.",
+    "description": "21 current and former employees of Blue Origin published an essay that claimed that Blue Origin had multiple issues with sexism and safety. The CEO, Bob Smith was also accused of keeping track of \u201cagitators\u201d and discouraging dissent. Moreover, the letter brings up environmental issues; Blue Origin operates with no consideration of its environmental footprint or permits needed for waste. Smith has responded with a letter that says that the company would \u201creflect\u201d on ways of improvement and that it has no tolerance for discrimination or harassment. He also emphasized that the vehicle was properly certified for First Human Flight.",
     "online": true,
-    "locations": null,
-    "companies": [
-        "google",
-        "amazon"
+    "locations": [
+        "usa"
     ],
-    "workers": 391,
+    "companies": [
+        "Blue Origin"
+    ],
+    "workers": 21,
     "tags": [
-        "international solidarity",
-        "politics",
-        "surveillance",
-        "military_contracts",
-        "industry solidarity",
-        "ice"
+        "retaliation",
+        "climate change",
+        "sexism",
+        "sexual_harassment"
     ],
     "author": [
         "wynniechan"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            47.407176750000005,
+            -122.24016302698797
+        ]
+    ],
+    "addresses": [
+        "Blue Origin, Kent, King County, Washington, United States"
+    ]
 }

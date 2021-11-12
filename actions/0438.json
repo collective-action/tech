@@ -25,7 +25,11 @@
         "london-uk",
         "birmingham-uk",
         "sheffield-uk",
-        "nottingham-uk"
+        "nottingham-uk",
+        "bristol-uk",
+        "manchester-uk",
+        "leeds-uk",
+        "glasgow-uk"
     ],
     "companies": [
         "uber"

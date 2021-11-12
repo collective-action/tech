@@ -1,47 +1,37 @@
 {
-    "id": 475,
-    "date": "2021/10/04",
+    "id": 474,
+    "date": "2021/09/30",
     "sources": [
-        "https://www.dw.com/en/gorillas-delivery-service-fires-back-over-workers-strike/a-59445809",
-        "https://www.vice.com/en/article/7kvgmd/gorillas-delivery-app-fires-workers-for-striking"
+        "https://www.vice.com/en/article/v7e9gb/instacart-shoppers-will-stage-nationwide-strike",
+        "https://gigworkerscollective.medium.com/open-letter-to-fidgi-simo-instacarts-ceo-e72c0de55e22"
     ],
     "actions": [
-        "protest",
-        "strike"
+        "strike",
+        "open letter"
     ],
     "struggles": [
-        "pay and benefits",
         "working conditions",
-        "unfair labor practices",
-        "job security"
+        "pay and benefits",
+        "unfair labor practices"
     ],
     "employment_types": [
         "gig workers"
     ],
-    "description": "In response to recent strikes that protested unfair working conditions, Gorillas fired \u201cseveral dozen Berlin-based delivery workers.\u201d In response, the Gorillas Workers Collective called for a protest in front of the company\u2019s headquarters. Gorillas have said that these strikes were unannounced, non-unionized, spontaneous, and are illegal under German law. However, other workers have shown screenshots of schedules that violate German labor law.  After the strikes took place, the company reportedly replaced those striking with Zenjob gig workers from Bermannkiez. ",
+    "description": "Instacart shoppers under Gig Workers Collective have planned a nationwide work stoppage on October 16 until Instacart agrees to their demands for higher pay, occupational death benefits, and a more fair rating system. An Instacart spokesperson has responded that these experiences do not reflect the majority and are receptive to feedback. However, the workers claimed only receiving generic responses, and\ntheir open letter addressed to CEO Fidji Simo was ignored. ",
     "online": null,
     "locations": [
-        "berlin-germany"
+        "usa"
     ],
     "companies": [
-        "gorillas"
+        "instacart"
     ],
-    "workers": 150,
+    "workers": null,
     "tags": [
-        "retaliation",
-        "coworker solidarity",
         "delivery_workers"
     ],
     "author": [
         "wynniechan"
     ],
-    "latlngs": [
-        [
-            52.5064919,
-            13.336216896921181
-        ]
-    ],
-    "addresses": [
-        "Flachland-Gorilla, Tiergarten, Mitte, Berlin, 10787, Deutschland"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

@@ -17,7 +17,9 @@
     "description": "Twitch streamer RekltRaven began a hashtag movement #twitchdobetter in response to the hate raids targeting marginalized creators, especially those who identify as Black, queer, or female. Twitch responded by fixing their chat filters and are planning to update their services to include improved safety features, including an improved account verification process and ban evasion detection tools. As there are still gaps, marginalized creators are calling for more proactive moderation and tools that the creators can use to moderate the stream.",
     "online": true,
     "locations": null,
-    "companies": null,
+    "companies": [
+        "twitch"
+    ],
     "workers": null,
     "tags": [
         "lgbtq",

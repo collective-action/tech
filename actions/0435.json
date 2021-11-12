@@ -17,8 +17,13 @@
     ],
     "description": "1,300 HelloFresh workers are unionizing with UNITE HERE in Colorado and California due to low wages, safety issues, and poor work conditions. HelloFresh management has also been unresponsive towards workers after a COVID-19 outbreak in a Richmond facility. UNITE HERE filed a petition to NLRB to authorize a vote to unionize. In response, anti-union consultants, such as Kulture Consulting, were reported to have held mandatory anti-union meetings.",
     "online": null,
-    "locations": null,
-    "companies": null,
+    "locations": [
+        "richmond-california-usa",
+        "aurora-colorado-usa"
+    ],
+    "companies": [
+        "hellofresh"
+    ],
     "workers": null,
     "tags": [
         "unite_here",

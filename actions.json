@@ -3150,7 +3150,7 @@
         ],
         "addresses": [
             "AT&T, 1302, North Tustin Street, Orange, Orange County, California, 92867, United States",
-            "AT&T, East Flamingo Road, Paradise, Hughes Center, Clark County, Nevada, 89169-4813, United States"
+            "AT&T, East Flamingo Road, Hughes Center, Paradise, Clark County, Nevada, 89169-4813, United States"
         ]
     },
     {
@@ -3386,7 +3386,9 @@
         "locations": [
             "usa"
         ],
-        "companies": null,
+        "companies": [
+            "coworker"
+        ],
         "workers": 44,
         "tags": [
             "coworker solidarity",
@@ -3396,15 +3398,8 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": [
-            [
-                39.7837304,
-                -100.445882
-            ]
-        ],
-        "addresses": [
-            "United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 408,
@@ -3443,7 +3438,7 @@
             ]
         ],
         "addresses": [
-            "Pune City, Pune District, Maharashtra, India"
+            "Pune, Pune City, Pune District, Maharashtra, 411001, India"
         ]
     },
     {
@@ -4674,8 +4669,8 @@
                 9.835897674840712
             ],
             [
-                41.626546149999996,
-                -1.0205305479809663
+                41.629635699999994,
+                -1.021503660941872
             ],
             [
                 52.4492169,
@@ -4686,7 +4681,7 @@
             "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
             "Amazon, Augny, Metz, Moselle, Grand Est, France m\u00e9tropolitaine, 57685, France",
             "Amazon, Cividate al Piano, Bergamo, Lombardia, Italia",
-            "Amazon, Zaragoza, Arag\u00f3n, Espa\u00f1a",
+            "Amazon, Plataforma Log\u00edstica de Zaragoza, Zaragoza, Arag\u00f3n, Espa\u00f1a",
             "Amazon Locker, Rigbourne Hill, Beccles, East Suffolk, Suffolk, East of England, England, NR34 9JD, United Kingdom"
         ]
     },
@@ -13580,8 +13575,8 @@
                 -0.181935
             ],
             [
-                52.6257484,
-                1.2905940715942223
+                53.1898051,
+                -2.8935235
             ],
             [
                 51.5314216,
@@ -13592,7 +13587,7 @@
             "Google, Pancras Road, King's Cross, London Borough of Camden, London, Greater London, England, N1C 4BJ, United Kingdom",
             "Amazon Locker, Rigbourne Hill, Beccles, East Suffolk, Suffolk, East of England, England, NR34 9JD, United Kingdom",
             "Microsoft London, Kingdom Street, Paddington Central, Paddington, City of Westminster, London, Greater London, England, W2 6PY, United Kingdom",
-            "Samsung, 143, Merchants' Hall, Heigham Grove, Norwich, Norfolk, East of England, England, NR2 1SH, United Kingdom",
+            "Samsung, Watergate Street South Row, Handbridge, City of Chester, Chester, Cheshire West and Chester, North West England, England, CH1 2LB, United Kingdom",
             "Deliveroo, Pentonville Road, Pentonville, Barnsbury, London Borough of Islington, London, Greater London, England, N1 9JB, United Kingdom"
         ]
     },
@@ -14913,8 +14908,8 @@
                 -118.4092133
             ],
             [
-                49.0336258,
-                -69.6817118
+                49.0050388,
+                -69.6857183
             ],
             [
                 43.6503609,
@@ -16894,16 +16889,18 @@
             "https://www.vice.com/en/article/7kv89q/riders-for-europes-delivery-unicorn-report-grueling-delivery-times-and-back-pain"
         ],
         "actions": [
-            "union drive"
+            "union drive",
+            "strike"
         ],
         "struggles": [
             "working conditions",
-            "pay and benefits"
+            "pay and benefits",
+            "unfair labor practices"
         ],
         "employment_types": [
             "gig workers"
         ],
-        "description": "Delivery workers at Gorillas are organizing to form a work council known as Gorillas Workers Collective. The employees held a meeting to establish a work council to obtain co-determination rights. Having access to these rights would allow them to have a say in break times and safety arrangements. The workers have organized due to unpaid hours, back pain and psychological distress incurred from the job, lack of safety, violation of labor laws, and chaotic management. ",
+        "description": "Delivery workers at Gorillas are organizing to form a work council known as Gorillas Workers Collective. At three warehouses, riders unanimously voted to go on strike and form the Gorillas Workers Collective. The employees held a meeting to establish a work council to obtain co-determination rights. Having access to these rights would allow them to have a say in break times and safety arrangements. The workers have organized due to unpaid hours, back pain and psychological distress incurred from the job, lack of safety, violation of labor laws, and chaotic management. ",
         "online": null,
         "locations": [
             "berlin-germany"
@@ -16911,12 +16908,13 @@
         "companies": [
             "gorillas"
         ],
-        "workers": null,
+        "workers": 6,
         "tags": [
             "delivery_workers"
         ],
         "author": [
-            "hyatt d."
+            "hyatt d.",
+            "wynniechan"
         ],
         "latlngs": [
             [
@@ -17384,7 +17382,9 @@
         "description": "Twitch streamer RekltRaven began a hashtag movement #twitchdobetter in response to the hate raids targeting marginalized creators, especially those who identify as Black, queer, or female. Twitch responded by fixing their chat filters and are planning to update their services to include improved safety features, including an improved account verification process and ban evasion detection tools. As there are still gaps, marginalized creators are calling for more proactive moderation and tools that the creators can use to moderate the stream.",
         "online": true,
         "locations": null,
-        "companies": null,
+        "companies": [
+            "twitch"
+        ],
         "workers": null,
         "tags": [
             "lgbtq",
@@ -17544,7 +17544,9 @@
             "coworker solidarity",
             "sexism",
             "antiracism",
-            "surveillance"
+            "surveillance",
+            "mental health",
+            "online action"
         ],
         "author": [
             "wynniechan"
@@ -17614,8 +17616,13 @@
         ],
         "description": "1,300 HelloFresh workers are unionizing with UNITE HERE in Colorado and California due to low wages, safety issues, and poor work conditions. HelloFresh management has also been unresponsive towards workers after a COVID-19 outbreak in a Richmond facility. UNITE HERE filed a petition to NLRB to authorize a vote to unionize. In response, anti-union consultants, such as Kulture Consulting, were reported to have held mandatory anti-union meetings.",
         "online": null,
-        "locations": null,
-        "companies": null,
+        "locations": [
+            "richmond-california-usa",
+            "aurora-colorado-usa"
+        ],
+        "companies": [
+            "hellofresh"
+        ],
         "workers": null,
         "tags": [
             "unite_here",
@@ -17692,7 +17699,8 @@
         "workers": null,
         "tags": [
             "coronavirus",
-            "delivery_workers"
+            "delivery_workers",
+            "online action"
         ],
         "author": [
             "wynniechan"
@@ -17727,7 +17735,11 @@
             "london-uk",
             "birmingham-uk",
             "sheffield-uk",
-            "nottingham-uk"
+            "nottingham-uk",
+            "bristol-uk",
+            "manchester-uk",
+            "leeds-uk",
+            "glasgow-uk"
         ],
         "companies": [
             "uber"
@@ -17752,6 +17764,55 @@
         "addresses": [
             "Uber, 2, Leman Street, Spitalfields, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, E1 8FA, United Kingdom",
             "UBER, 100, Broad Street, Ladywood, Park Central, Birmingham, West Midlands Combined Authority, West Midlands, England, B15 1AE, United Kingdom"
+        ]
+    },
+    {
+        "id": 482,
+        "date": "2021/09/29",
+        "sources": [
+            "https://twitter.com/nantarsya/status/1441064662661955585?s=19",
+            "https://www.keeptalkinggreece.com/2021/09/24/efood-delivery-workers-on-24h-strike-despite-company-promising-contracts/",
+            "https://braveneweurope.com/gig-economy-project-greece-e-food-concedes-to-riders-demands-in-huge-victory"
+        ],
+        "actions": [
+            "strike",
+            "union representation",
+            "protest"
+        ],
+        "struggles": [
+            "job security",
+            "pay and benefits",
+            "working conditions"
+        ],
+        "employment_types": [
+            "gig workers"
+        ],
+        "description": "After the online food platform eFood announced that it will change its contract-based workers into freelancers, it sparked a strike and motor-march by its workers. Workers demanded the company to provide motorcycles or pay a 15% additional allowance, pay for the fuel, add protection measures, and allow collective bargaining. eFood also faced social media backlash, even before the strike. The campaign #cancel_efood went viral, and thousands of customers deleted the app and rated the app poorly on the Google Play store. Riders of Wolt, another big food delivery platform, and other workers\u2019 unions expressed solidarity through a protest meeting. eFood has since then announced it would make all contract workers into direct hires. The day after the announcement, the delivery workers held a 24-hour strike as planned.",
+        "online": true,
+        "locations": [
+            "athens-greece",
+            "thessaloniki-greece"
+        ],
+        "companies": [
+            "eFood"
+        ],
+        "workers": 1001,
+        "tags": [
+            "industry solidarity",
+            "delivery_workers",
+            "online action"
+        ],
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": [
+            [
+                38.0539245,
+                23.76823299635968
+            ]
+        ],
+        "addresses": [
+            "eFood, \u0397\u03c1\u03b1\u03ba\u03bb\u03b5\u03af\u03bf\u03c5, \u03a0\u03c1\u03ac\u03c3\u03b9\u03bd\u03bf\u03c2 \u039b\u03cc\u03c6\u03bf\u03c2, \u0397\u03c1\u03ac\u03ba\u03bb\u03b5\u03b9\u03bf, \u0394\u03ae\u03bc\u03bf\u03c2 \u0397\u03c1\u03b1\u03ba\u03bb\u03b5\u03af\u03bf\u03c5 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0392\u03bf\u03c1\u03b5\u03af\u03bf\u03c5 \u03a4\u03bf\u03bc\u03ad\u03b1 \u0391\u03b8\u03b7\u03bd\u03ce\u03bd, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2, 14122, \u0395\u03bb\u03bb\u03ac\u03c2"
         ]
     },
     {
@@ -17790,6 +17851,54 @@
         ],
         "latlngs": null,
         "addresses": null
+    },
+    {
+        "id": 481,
+        "date": "2021/09/30",
+        "sources": [
+            "https://www.theverge.com/2021/9/30/22702335/jeff-bezos-employees-essay-blue-origin-toxic-workplace",
+            "https://www.lioness.co/post/bezos-wants-to-create-a-better-future-in-space-his-company-blue-origin-is-stuck-in-a-toxic-past"
+        ],
+        "actions": [
+            "open letter"
+        ],
+        "struggles": [
+            "working conditions",
+            "ethics",
+            "discrimination"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers",
+            "contract workers"
+        ],
+        "description": "21 current and former employees of Blue Origin published an essay that claimed that Blue Origin had multiple issues with sexism and safety. The CEO, Bob Smith was also accused of keeping track of \u201cagitators\u201d and discouraging dissent. Moreover, the letter brings up environmental issues; Blue Origin operates with no consideration of its environmental footprint or permits needed for waste. Smith has responded with a letter that says that the company would \u201creflect\u201d on ways of improvement and that it has no tolerance for discrimination or harassment. He also emphasized that the vehicle was properly certified for First Human Flight.",
+        "online": true,
+        "locations": [
+            "usa"
+        ],
+        "companies": [
+            "Blue Origin"
+        ],
+        "workers": 21,
+        "tags": [
+            "retaliation",
+            "climate change",
+            "sexism",
+            "sexual_harassment"
+        ],
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": [
+            [
+                47.407176750000005,
+                -122.24016302698797
+            ]
+        ],
+        "addresses": [
+            "Blue Origin, Kent, King County, Washington, United States"
+        ]
     },
     {
         "id": 475,
@@ -17837,6 +17946,43 @@
         "addresses": [
             "Flachland-Gorilla, Tiergarten, Mitte, Berlin, 10787, Deutschland"
         ]
+    },
+    {
+        "id": 483,
+        "date": "2021/10/06",
+        "sources": [
+            "https://patch.com/new-jersey/newarknj/protesters-bash-amazon-s-plan-bring-mega-hub-newark-airport",
+            "https://twitter.com/LaurenKGurley/status/1445403513660522496?s=20"
+        ],
+        "actions": [
+            "protest"
+        ],
+        "struggles": [
+            "pay and benefits",
+            "working conditions",
+            "ethics"
+        ],
+        "employment_types": [
+            "inhouse workers",
+            "blue collar workers"
+        ],
+        "description": "Amazon had plans to build a new Amazon \u201cmega-hub\u201d at Newark Liberty International Airport, drawing resistance from Amazon warehouse workers, some of which were Teamster members. Environmental advocates, labor groups, and small business owners also participated. They held a press conference on October 6 to protest. Protestors wanted to be part of the decision-making process, and they were worried about pollution and negative impacts on the local economy. Others worry about the working conditions of the new jobs, considering Amazon\u2019s history and how the mega-hub could depress local wages. Officials have said the deal would bring more revenue into the area while also providing opportunities for minority- and women-owned businesses. ",
+        "online": null,
+        "locations": [
+            "newark-new jersey-usa"
+        ],
+        "companies": [
+            "amazon"
+        ],
+        "workers": 11,
+        "tags": [
+            "teamster"
+        ],
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 476,
@@ -17896,7 +18042,9 @@
         ],
         "description": "Uber drivers, organized by the Croatian Digital Platform Workers\u2019 Union, held a strike and press conference in Croatia. They claimed that their salaries were not paid in time with no explanation. Despite Uber portraying drivers as partners, the workers feel like \u201cdigital slaves\u201d who cannot get in contact with Uber\u2019s authorities.",
         "online": null,
-        "locations": null,
+        "locations": [
+            "zagreb-croatia"
+        ],
         "companies": [
             "uber"
         ],
@@ -17909,5 +18057,55 @@
         ],
         "latlngs": null,
         "addresses": null
+    },
+    {
+        "id": 484,
+        "date": "2021/10/25",
+        "sources": [
+            "https://www.nbcnews.com/news/us-news/amazon-workers-staten-island-file-union-election-rcna3745",
+            "https://twitter.com/CDAW_National/status/1449913538919677954?t=1FloYuZc25cyobcFMYe7tw&s=19",
+            "https://amazonlaborunion.org/",
+            "https://www.vice.com/en/article/akvwkp/amazon-warehouse-workers-in-new-york-city-to-file-for-union-election"
+        ],
+        "actions": [
+            "union drive",
+            "union representation"
+        ],
+        "struggles": [
+            "working conditions",
+            "pay and benefits",
+            "job security"
+        ],
+        "employment_types": [
+            "inhouse workers",
+            "blue collar workers"
+        ],
+        "description": "More than 2,000 Amazon workers in Staten Island filed the petition to the NLRB to hold a union election. This effort, led by Chris Smalls and is called the Amazon labor Union. Smalls, a former employee, was fired after organizing a protest for lack of COVID protective gear and poor hazard pay. As an independent union, they hope to avoid Amazon\u2019s anti-union messaging targeted towards established unions. The Amazon Labor Union has begun a union drive. Its goals are to bring back variable compensation pay and stock options that Amazon removed in 2018. In response, Amazon questioned if there was a sufficient number of legitimate signatures from Amazon employees.  Amazon has also taken anti-union tactics, such as displaying anti-union messages in their facilities and bringing in anti-union consultants.",
+        "online": null,
+        "locations": [
+            "staten island-new york city-new york-usa"
+        ],
+        "companies": [
+            "amazon"
+        ],
+        "workers": 2001,
+        "tags": [
+            "coronavirus",
+            "retaliation",
+            "industry solidarity",
+            "coworker solidarity"
+        ],
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": [
+            [
+                40.6193387,
+                -74.0727749
+            ]
+        ],
+        "addresses": [
+            "Amazon Court, Clifton, Staten Island, Richmond County, New York, 10304, United States"
+        ]
     }
 ]

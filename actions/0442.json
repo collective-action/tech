@@ -1,33 +1,47 @@
 {
-    "id": 477,
-    "date": "2021/10/18",
+    "id": 475,
+    "date": "2021/10/04",
     "sources": [
-        "https://www.total-croatia-news.com/business/57000-uber-drivers-strike-in-croatia",
-        "https://twitter.com/nicoemoe/status/1449978260289294340?t=WdHP4kHHe5sMs9VJUfPQEg&s=19"
+        "https://www.dw.com/en/gorillas-delivery-service-fires-back-over-workers-strike/a-59445809",
+        "https://www.vice.com/en/article/7kvgmd/gorillas-delivery-app-fires-workers-for-striking"
     ],
     "actions": [
+        "protest",
         "strike"
     ],
     "struggles": [
         "pay and benefits",
-        "working conditions"
+        "working conditions",
+        "unfair labor practices",
+        "job security"
     ],
     "employment_types": [
         "gig workers"
     ],
-    "description": "Uber drivers, organized by the Croatian Digital Platform Workers\u2019 Union, held a strike and press conference in Croatia. They claimed that their salaries were not paid in time with no explanation. Despite Uber portraying drivers as partners, the workers feel like \u201cdigital slaves\u201d who cannot get in contact with Uber\u2019s authorities.",
+    "description": "In response to recent strikes that protested unfair working conditions, Gorillas fired \u201cseveral dozen Berlin-based delivery workers.\u201d In response, the Gorillas Workers Collective called for a protest in front of the company\u2019s headquarters. Gorillas have said that these strikes were unannounced, non-unionized, spontaneous, and are illegal under German law. However, other workers have shown screenshots of schedules that violate German labor law.  After the strikes took place, the company reportedly replaced those striking with Zenjob gig workers from Bermannkiez. ",
     "online": null,
-    "locations": null,
-    "companies": [
-        "uber"
+    "locations": [
+        "berlin-germany"
     ],
-    "workers": null,
+    "companies": [
+        "gorillas"
+    ],
+    "workers": 150,
     "tags": [
-        "drivers"
+        "retaliation",
+        "coworker solidarity",
+        "delivery_workers"
     ],
     "author": [
         "wynniechan"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            52.5064919,
+            13.336216896921181
+        ]
+    ],
+    "addresses": [
+        "Flachland-Gorilla, Tiergarten, Mitte, Berlin, 10787, Deutschland"
+    ]
 }

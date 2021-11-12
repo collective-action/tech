@@ -25,7 +25,9 @@
     "locations": [
         "usa"
     ],
-    "companies": null,
+    "companies": [
+        "coworker"
+    ],
     "workers": 44,
     "tags": [
         "coworker solidarity",
@@ -35,13 +37,6 @@
     "author": [
         "wynniechan"
     ],
-    "latlngs": [
-        [
-            39.7837304,
-            -100.445882
-        ]
-    ],
-    "addresses": [
-        "United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }
