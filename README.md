@@ -20,7 +20,7 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">12/11/2021 05:28PM</td>
+    <td data-summary="timestamp">12/11/2021 06:28PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
@@ -48,7 +48,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     2021-10-29
    </td>
    <td>
-    Datacenter temps who work for Modis, a Google subcontractor, were promised $200 weekly incentive bonuses because of the pandemic. After Modis stopped this program and announced that workers would not receive back pay, the Alphabet Workers Union-CWA workers began organization efforts. Workers filed “tickets” to Modis' management, sent more than 100 messages, and arranged a videoconference. There were also discussions of a work stoppage. Before the scheduled videoconference, however, Modis backtracked their decision in an email. Modis agreed to continue paying the hazard pay until December 19.
+    Data center temps who work for Modis, a Google subcontractor, were promised $200 weekly incentive bonuses because of the pandemic. After Modis stopped this program and announced that workers would not receive back pay, the Alphabet Workers Union-CWA workers began organization efforts. Workers filed “tickets” to Modis' management, sent more than 100 messages, and arranged a videoconference. There were also discussions of a work stoppage. Before the scheduled videoconference, however, Modis backtracked their decision in an email. Modis agreed to continue paying the hazard pay until December 19.
    </td>
    <td>
     <a href="/actions/0453.json">
