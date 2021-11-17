@@ -3739,8 +3739,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                -33.7458331,
+                150.6219417
+            ]
+        ],
+        "addresses": [
+            "Uber Beauty Skin Laundry, Old Bathurst Road, East Blaxland, Blaxland, Sydney, Blue Mountains City Council, New South Wales, 2774, Australia"
+        ]
     },
     {
         "id": 83,
