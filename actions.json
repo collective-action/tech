@@ -2477,8 +2477,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.389317899999995,
+                -121.97901174515997
+            ]
+        ],
+        "addresses": [
+            "McAfee, Mission College Boulevard, Santa Clara, Santa Clara County, California, 95054-1231, United States"
+        ]
     },
     {
         "id": 54,
