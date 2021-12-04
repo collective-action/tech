@@ -18,7 +18,9 @@
     ],
     "description": "In response to Texas\u2019s new abortion law and the creation of the website prolifewhistleblower.com, TikTok activists, programmers, and Twitter and Reddit users engaged in \u201chacktivism\u201d by submitting fake reports to the website. Programmers have also created and released scripts for others to automatically generate fake reports. The website responded by adding a new version of a Captcha to filter out bot reports. Furthermore, some Twitter users called for a boycott of GoDaddy, the company that hosts the website, as the website violates GoDaddy\u2019s terms of service. In response, GoDaddy gave the website 24 hours to move to another provider before cutting off service.",
     "online": true,
-    "locations": null,
+    "locations": [
+        "usa"
+    ],
     "companies": null,
     "workers": 8451,
     "tags": [
@@ -28,6 +30,13 @@
     "author": [
         "wynniechan"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            39.7837304,
+            -100.445882
+        ]
+    ],
+    "addresses": [
+        "United States"
+    ]
 }

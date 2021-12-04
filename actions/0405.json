@@ -18,7 +18,9 @@
     ],
     "description": "Childcare and education workers at Google created an online petition to reinstate the transportation shuttles previously provided to workers before the COVID-19 pandemic. According to the petition, they are demanding a \"$1,500 per-month transportation equity stipend for childcare workers who rely on Google transportation; until Google\u2019s normal transportation operations resume\". The petition has gained 622 signatures from Google employees in all departments. ",
     "online": true,
-    "locations": null,
+    "locations": [
+        "usa"
+    ],
     "companies": [
         "google",
         "alphabet"
@@ -31,6 +33,18 @@
     "author": [
         "hyatt d."
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            33.977092,
+            -118.4092133
+        ],
+        [
+            37.3398646,
+            -121.8844823
+        ]
+    ],
+    "addresses": [
+        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
+        "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112-3580, United States"
+    ]
 }

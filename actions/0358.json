@@ -17,7 +17,9 @@
     ],
     "description": "After Dr. Timnit Gebru was fired from Google, Googlers wrote an open letter demanding accountability from Google. 2695 Googlers and 4302 academic, industry, and civil society supporters signed on to the letter.",
     "online": true,
-    "locations": null,
+    "locations": [
+        "worldwide"
+    ],
     "companies": [
         "google"
     ],

@@ -17,7 +17,9 @@
     ],
     "description": "Interns in Google's BOLD internship program, Tyrese Thomas and Jacob Ngai created a petition with the help of the Alphabet Workers Union. The petition asked Google to provide a $5,000 stipend for costs such as rent and other basic needs for their job. Typically, Google covers these costs with an $11,000 relocation stipend. However, due to COVID-19, the stipend wasn't instated because interns would work remotely from home. Interns argued, however, that those from lower income backgrounds might need additional funding to find office space during the day or to cover the costs of childcare. Overall, the petition gathered 1500 signatures from interns and Google employees. Google gave the interns a $5,000 stipend to spend on what they deem necessary. ",
     "online": true,
-    "locations": null,
+    "locations": [
+        "usa"
+    ],
     "companies": [
         "google",
         "alphabet"
@@ -30,6 +32,18 @@
     "author": [
         "hyatt d."
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            33.977092,
+            -118.4092133
+        ],
+        [
+            37.3398646,
+            -121.8844823
+        ]
+    ],
+    "addresses": [
+        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
+        "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112-3580, United States"
+    ]
 }

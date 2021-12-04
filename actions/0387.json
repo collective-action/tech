@@ -20,7 +20,9 @@
     ],
     "description": "Members of the open source community have written an open letter calling on the entire Board of the Free Software Foundation to be removed for supporting Richard M. Stallman over his many years involved with that organization. They are also demanding that Stallman be removed from all leadership positions including the GNU Project. The letter says that Stallman is misogynist, ableist, and transphobic and cites incidents thereof. It calls on members of the open source community to stop contributing and associating with the organization and their projects.",
     "online": true,
-    "locations": null,
+    "locations": [
+        "worldwide"
+    ],
     "companies": [
         "free_software_foundation"
     ],

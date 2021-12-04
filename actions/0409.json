@@ -17,7 +17,9 @@
     ],
     "description": "At Google, a group of Jewish employees (Jewish Diaspora in Tech) is asking the company to support Palestinians during the Israeli bombing campaign in Gaza. An internal letter was circulated among employees asking Sundar Pichai to make a statement condemning recent Israeli attacks on Gaza. The letter mentions accepting the requests of Palestinian Googlers and funding relief for Palestinians affected by the violence, as well as protecting freedom of speech within the company. This new group was formed because some Jewish employees felt that the official Jewish ERG didn't allow a safe place to express anti-Zionist beliefs. ",
     "online": true,
-    "locations": null,
+    "locations": [
+        "worldwide"
+    ],
     "companies": [
         "google"
     ],

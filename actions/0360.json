@@ -18,7 +18,9 @@
     ],
     "description": "Three unions at Spotify kicked off a two hour work stoppage in solidarity with their collective struggles for fairer contracts and better workplace conditions. The union at Gimlet, a major podcast publisher that was bought by Spotify last year for $230 million, is joining unions at The Ringer and Parcast\u2014all properties owned by Spotify\u2014in the work stoppage. The union's demands have included a contract with guaranteed raises, clear guidelines surrounding promotions, the right to profit from intellectual property they help create, a greater emphasis on diversity, and pay equity across the board. The work stoppage was streamed on Twitch for a little over an hour, with organizing members from all three groups outlining in detail their demands. ",
     "online": true,
-    "locations": null,
+    "locations": [
+        "usa"
+    ],
     "companies": [
         "the ringer",
         "spotify",
@@ -30,6 +32,13 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            40.7411352,
+            -73.7712961
+        ]
+    ],
+    "addresses": [
+        "Ringer, Queens, Queens County, New York, 11364:11427, United States"
+    ]
 }

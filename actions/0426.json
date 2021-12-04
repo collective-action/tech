@@ -19,7 +19,9 @@
     ],
     "description": "Content moderators who work for Facebook across the world wrote an open letter to Mark Zuckerberg, Sheryl Sandberg, Anne Heraty, and Julie Sweet. The moderators are demanding Facebook stop using non-disclosure agreements to prevent moderators from speaking out about their working conditions. The moderators also want proper mental health support and to make all moderators in-house instead of contract workers outsourced by Accenture.  ",
     "online": true,
-    "locations": null,
+    "locations": [
+        "usa"
+    ],
     "companies": [
         "facebook",
         "accenture"
@@ -33,6 +35,18 @@
     "author": [
         "hyatt d."
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            30.2691649,
+            -97.7455041
+        ],
+        [
+            37.3339398,
+            -121.8895142
+        ]
+    ],
+    "addresses": [
+        "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States",
+        "Accenture, West San Fernando Street, Downtown Historic District, San Jose, Santa Clara County, California, 95113, United States"
+    ]
 }

@@ -19,7 +19,9 @@
     ],
     "description": "In response to Dave Chappelle's controversial Netflix special,  Netflix trans employee resource group has released a list of demands and organized a walkout for October 20th. The demands are increased internal conversations about potentially harmful content, the hiring of trans and nonbinary executives, and removing transphobic content in the office; it notably does not include removing Chappelle\u2019s special from Netflix. Also, a leader of the trans-ERG was fired from Netflix because the company concluded that she leaked confidential information. ",
     "online": true,
-    "locations": null,
+    "locations": [
+        "usa"
+    ],
     "companies": [
         "netflix"
     ],
@@ -33,6 +35,13 @@
     "author": [
         "wynniechan"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            40.76376354999999,
+            -73.97430267133896
+        ]
+    ],
+    "addresses": [
+        "Paris Theatre, 4, West 58th Street, Midtown, Manhattan Community Board 5, Manhattan, New York County, New York, 10019, United States"
+    ]
 }

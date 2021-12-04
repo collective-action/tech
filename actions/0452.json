@@ -17,7 +17,9 @@
     ],
     "description": "To express solidarity with the Trans Netflix employee resource group, members of Google Walkout for Real Change affirmed their demands in an open letter, and they also called on all employees of big technology and media companies to hold their employers accountable.",
     "online": true,
-    "locations": null,
+    "locations": [
+        "worldwide"
+    ],
     "companies": [
         "google",
         "netflix"

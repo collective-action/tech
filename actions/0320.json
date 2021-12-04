@@ -18,7 +18,9 @@
     ],
     "description": "A group of Black employees across tech companies have launched an initiative, Tech Can Do Better, to call for greater equity in the workplace. An Instagram account promotes the visibility and highlights the accomplishments of Black employees in tech. The group has also started an online pledge where workers can commit to \"mak[ing] the changes needed to achieve equitable hiring, promotions, and compensation, mak[ing] significant Investment in social equity and driv[ing] advocacy for equitable legislation.\"",
     "online": true,
-    "locations": null,
+    "locations": [
+        "usa"
+    ],
     "companies": null,
     "workers": null,
     "tags": [
@@ -29,6 +31,13 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            39.7837304,
+            -100.445882
+        ]
+    ],
+    "addresses": [
+        "United States"
+    ]
 }

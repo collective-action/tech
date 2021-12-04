@@ -20,7 +20,9 @@
     ],
     "description": "Facebook employees are circulating a petition for the company to conduct an investigation for censoring Palestinian content on their website. At Facebook, content moderation is executed by third party contractors and algorithms. Facebook employees have taken notice and are asking the company as a whole to do a third party audit of any Muslim or Arab content decisions made by moderators.  ",
     "online": true,
-    "locations": null,
+    "locations": [
+        "worldwide"
+    ],
     "companies": [
         "facebook"
     ],

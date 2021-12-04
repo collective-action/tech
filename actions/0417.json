@@ -16,7 +16,9 @@
     ],
     "description": "Apple employees are fighting against a new policy requiring them to return to work three days a week in an open letter addressed to Tim Cook on Slack. Approximately 80 people were involved in writing the letter. Employees have argued that the company should adopt a flexible approach for those who still want to remotely work from home. ",
     "online": true,
-    "locations": null,
+    "locations": [
+        "usa"
+    ],
     "companies": [
         "apple"
     ],
@@ -27,6 +29,13 @@
     "author": [
         "hyatt d."
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            42.3489689,
+            -71.0824143
+        ]
+    ],
+    "addresses": [
+        "Apple Store, 815, Boylston Street, Block F, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States"
+    ]
 }

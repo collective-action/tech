@@ -20,7 +20,9 @@
     ],
     "description": "As a gesture of solidarity, tech workers have started tweeting with the hashtags #TechSolidarity, #AmazonStrike, #HuelgaAmazon to indicate support for striking Amazon workers. The Twitter page, @TechSpeaksOut, was reportedly designed to exert public pressure tech corporations. In addition to taking to Twitter, activists have started GoFundMes and mutual aid campaigns to benefit workers.",
     "online": true,
-    "locations": null,
+    "locations": [
+        "usa"
+    ],
     "companies": [
         "amazon"
     ],
@@ -33,6 +35,13 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            46.320207,
+            -112.1072224
+        ]
+    ],
+    "addresses": [
+        "Amazon, Jefferson County, Montana, United States"
+    ]
 }

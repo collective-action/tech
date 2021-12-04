@@ -18,7 +18,9 @@
     ],
     "description": "24 employees of tech non-profit Do Something walked off the job, calling for the resignation of current CEO Aria Finger. They have also sent two direct letters to the CEO and Board of Directors that have been shared on Twitter. Former employees shared experiences of racial discrimination and harassment via social media earlier this year. The letter states that Finger reacted to these posts by calling them untrue or \"standard-issued American forms of microaggression and racism\". Finger returned in August after a legal investigation did not find evidence of discrimination under her tenure. ",
     "online": true,
-    "locations": null,
+    "locations": [
+        "usa"
+    ],
     "companies": [
         "do something"
     ],
@@ -30,6 +32,13 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            35.9100131,
+            -79.0627506
+        ]
+    ],
+    "addresses": [
+        "Something Different Caf\u00e9, 431, West Franklin Street, Franklin-Rosemary Historic District, Downtown, Chapel Hill, Orange County, North Carolina, 27516, United States"
+    ]
 }

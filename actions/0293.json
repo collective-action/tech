@@ -16,7 +16,9 @@
     ],
     "description": "Facebook employees hosted a virtual walkout, refusing to work for the time of the event, in protest of the company's failure to take a tougher stance on Trump's posts in reaction to the George Floyd protests. Many employees also expressed solidarity with the Black Lives Matter movement. The New York Times reports that employees have also circulated petitions internally and threatened to resign in response to the event. The previous week Twitter added fact-check and warning labels to two tweets from the president that broke Twitter\u2019s rules around voter suppression and glorification of violence.",
     "online": true,
-    "locations": null,
+    "locations": [
+        "usa"
+    ],
     "companies": [
         "facebook"
     ],
@@ -29,6 +31,13 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            30.2691649,
+            -97.7455041
+        ]
+    ],
+    "addresses": [
+        "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
+    ]
 }

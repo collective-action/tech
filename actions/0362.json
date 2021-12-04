@@ -17,7 +17,9 @@
     ],
     "description": "Two weeks after Dr Timnit Gebru was fired from her role in Google, Google\u2019s Ethical AI employees sent CEO Sundar Pichai a list of demands, including organizational changes and a request to reinstate dismissed researcher Timnit Gebru at a higher level.",
     "online": true,
-    "locations": null,
+    "locations": [
+        "usa"
+    ],
     "companies": [
         "google"
     ],
@@ -32,6 +34,13 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            33.977092,
+            -118.4092133
+        ]
+    ],
+    "addresses": [
+        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
+    ]
 }

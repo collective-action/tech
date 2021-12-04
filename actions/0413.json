@@ -18,7 +18,9 @@
     ],
     "description": "Approximately 600 Amazon employees have signed an open letter asking Jeff Bezos to break off all ties to the Israeli military. The letter points out that Amazon employs Palestinians around the world, including in Tel Aviv and Haifa and that \"ignoring the suffering faced by Palestinians and their families at home erases our Palestinian coworkers.\"",
     "online": true,
-    "locations": null,
+    "locations": [
+        "worldwide"
+    ],
     "companies": [
         "amazon"
     ],

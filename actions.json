@@ -358,7 +358,9 @@
         ],
         "description": "Computer Professionals for Social Responsibility (CPSR) launches an online petition in opposition to the Clipper Chip, a cryptographic device intended to provide a standard for securing private voice communication. The group expresses concern about the possibility of surveillance through decryption keys held by government agencies. The petition obtains over 50,000 signatures. An earlier physical letter, sent directly to the President, received 40 signatures from cryptography and computing experts.",
         "online": true,
-        "locations": null,
+        "locations": [
+            "worldwide"
+        ],
         "companies": null,
         "workers": 50000,
         "tags": null,
@@ -1404,7 +1406,9 @@
         ],
         "description": "Reddit and Mozilla, among others, posted prominent messages protesting NSA surveillance practices unveiled by whistleblower Edward Snowden. The protest was organized by the Internet Defense League, an organization of more than 30,000 websites that fights for Web freedom.",
         "online": true,
-        "locations": null,
+        "locations": [
+            "worldwide"
+        ],
         "companies": [
             "reddit",
             "mozilla"
@@ -1879,7 +1883,9 @@
         ],
         "description": "Over two hundred Mechanical Turk workers and academics, organized through Dynamo, have collaborated and signed a set of ethical guidelines for scholars requesting labor through the platform. The Wiki page includes information on fair payment, communication practices, and the basics of requesting.",
         "online": true,
-        "locations": null,
+        "locations": [
+            "worldwide"
+        ],
         "companies": [
             "amazon",
             "mechanical_turk"
@@ -2363,7 +2369,9 @@
         ],
         "description": "Google employees have started an internal spreadsheet to share data on salary and bonuses. Employees have reportedly used the spreadsheet to advocate for greater compensation.",
         "online": true,
-        "locations": null,
+        "locations": [
+            "worldwide"
+        ],
         "companies": [
             "google"
         ],
@@ -2392,7 +2400,9 @@
         ],
         "description": "Three online petitions were started to protest parental leave policies at Netflix. The company recently began to offer a one-year paid parental leave but excluded employees in its DVD-by-mail service, who are typically lower paid than streaming employees and receive fewer benefits.",
         "online": true,
-        "locations": null,
+        "locations": [
+            "usa"
+        ],
         "companies": [
             "netflix"
         ],
@@ -2403,8 +2413,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                40.76376354999999,
+                -73.97430267133896
+            ]
+        ],
+        "addresses": [
+            "Paris Theatre, 4, West 58th Street, Midtown, Manhattan Community Board 5, Manhattan, New York County, New York, 10019, United States"
+        ]
     },
     {
         "id": 52,
@@ -7686,7 +7703,9 @@
         ],
         "description": "A group of Facebook employees published an anonymous memo saying the culture at the company has only gotten worse for nonwhite workers. Published on Medium, the letter documents a variety of micro- and full-blown aggressions employees say they have endured over the last year from managers, HR, and their white colleagues. The memo was co-written by 12 current employees, including black, Latinx, and Asian women workers. One program manager describes being told by two white employees to 'clean up after their mess' at breakfast. When the program manager flagged the incident for their supervisor, they were told to 'dress more professionally.'",
         "online": true,
-        "locations": null,
+        "locations": [
+            "usa"
+        ],
         "companies": [
             "facebook"
         ],
@@ -7698,8 +7717,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                30.2691649,
+                -97.7455041
+            ]
+        ],
+        "addresses": [
+            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
+        ]
     },
     {
         "id": 179,
@@ -7810,7 +7836,9 @@
         ],
         "description": "Microsoft employees are using a shared Google spreadsheet to compile data on salary and bonuses. The spreadsheet also makes note of employee level, or rank, within the company in an attempt to encourage greater transparency on compensation.",
         "online": true,
-        "locations": null,
+        "locations": [
+            "usa"
+        ],
         "companies": [
             "microsoft"
         ],
@@ -7819,8 +7847,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.3974949,
+                -122.0842646
+            ]
+        ],
+        "addresses": [
+            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, California, 94043, United States"
+        ]
     },
     {
         "id": 182,
@@ -8689,7 +8724,9 @@
         ],
         "description": "Instacart workers circulated an open letter on Medium prior to a walkout scheduled for Nov. 3rd to Nov. 5th. Employees are protesting the company's history of systematically devaluing labor, using algorithms to reduce pay to employees and changing tipping structures to return profit to the company. Over 200 workers have signed the letter.",
         "online": true,
-        "locations": null,
+        "locations": [
+            "usa"
+        ],
         "companies": [
             "instacart"
         ],
@@ -8751,7 +8788,9 @@
         ],
         "description": "Over 1000 Google employees have signed a letter calling for their employer to take action on the issues of climate change and immigration. The letter called on Google to commit to zero carbon emissions by 2030, end all contracts with fossil fuel companies and climate change denying or delaying 'think tanks, lobbyists, and politicians', and end all collaboration with organizations or individuals 'enabling the incarceration, surveillance, displacement, or oppression of refugees or frontline communities'. ",
         "online": true,
-        "locations": null,
+        "locations": [
+            "usa"
+        ],
         "companies": [
             "google"
         ],
@@ -8764,8 +8803,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                33.977092,
+                -118.4092133
+            ]
+        ],
+        "addresses": [
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
+        ]
     },
     {
         "id": 205,
@@ -8833,7 +8879,9 @@
         ],
         "description": "Shutterstock engineers were tasked with the creation of a search blacklist that would wipe from query results images associated with keywords forbidden by the Chinese government, including images of the Hong Kong protests. The company's decision to silently aid China's censorship agenda comes at a time of heightened scrutiny into the relationship between corporate America and President Xi Jinping's authoritarian regime. More than 180 Shutterstock workers to sign a petition against the search blacklist and accuse the company of trading its values for access to the lucrative Chinese market. They write that by 'complying, we are enabling injustices, including the discrimination of the people of Hong Kong, the suppression of Chinese political dissent, and undermining the sovereignty of Taiwanese people.'",
         "online": true,
-        "locations": null,
+        "locations": [
+            "usa"
+        ],
         "companies": [
             "shutterstock"
         ],
@@ -8868,7 +8916,9 @@
         ],
         "description": "WeWork employees have formed a group to campaign for better severance pay, employment conditions and an end to 'deception, exclusion and selfishness at the company's highest levels' following the turmoil of its failed IPO process.\u00a0The WeWorkers Coalition announced its existence on Friday with a letter to management setting out demands including for sexual assault claims to be 'taken seriously' and for thousands of employees about to lose their jobs to receive 'fair and reasonable separation terms'.\u00a0'Thousands of us will be laid off in the upcoming weeks. But we want our time here to have meant something' the group said in its letter. A software engineer at WeWork who is helping to organise the WeWorkers Coalition, said 185 people had signed the letter to management, while at least 600 expressed an interest in joining ahead of the group publicising its launch this week.\u00a0The coalition wants cleaners and maintenance staff to receive full benefits and fair pay.",
         "online": true,
-        "locations": null,
+        "locations": [
+            "usa"
+        ],
         "companies": [
             "wework"
         ],
@@ -8879,8 +8929,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                40.7273252,
+                -74.0061913
+            ]
+        ],
+        "addresses": [
+            "WeWork, 175, Varick Street, Hudson Square, Manhattan Community Board 2, Manhattan, New York County, New York, 10014, United States"
+        ]
     },
     {
         "id": 297,
@@ -9432,7 +9489,9 @@
         ],
         "description": "In an open letter published Wednesday on GitHub, software developers representing the open source community joined the call for GitHub to immediately cancel the $200,000 contract with ICE. 'Open source is about inverting power structures and creating access and opportunities for everyone,' the letter, signed by 167 developers at the time of publication, reads. 'We, the undersigned, cannot see how to reconcile our ethics with GitHub\u2019s continued support of ICE. Moreover, your lack of transparency around the ethical standards you use for conducting business is also concerning to a community that is focused around doing everything out in the open.'",
         "online": true,
-        "locations": null,
+        "locations": [
+            "usa"
+        ],
         "companies": [
             "github",
             "microsoft"
@@ -9446,8 +9505,20 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.7821769,
+                -122.3912458
+            ],
+            [
+                37.3974949,
+                -122.0842646
+            ]
+        ],
+        "addresses": [
+            "GitHub, 88, Colin P. Kelly Junior Street, Port of San Francisco, San Francisco, San Francisco City and County, San Francisco, California, 94107, United States",
+            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, California, 94043, United States"
+        ]
     },
     {
         "id": 218,
@@ -9548,7 +9619,9 @@
         ],
         "description": "A group of Googlers unhappy with the company's expanding 'need to know' restrictions on internal documents have come up with a clever form of protest: A new tool that sends auto alerts to Google's top lawyer every time an employee opens a company document. The deluge of notifications was meant as a protest to what they saw as Walker\u2019s insistence on controlling the minutiae of their professional lives.",
         "online": true,
-        "locations": null,
+        "locations": [
+            "usa"
+        ],
         "companies": [
             "google"
         ],
@@ -9557,8 +9630,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                33.977092,
+                -118.4092133
+            ]
+        ],
+        "addresses": [
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
+        ]
     },
     {
         "id": 221,
@@ -9578,7 +9658,10 @@
         ],
         "description": "In an open letter, several engineers, researchers, analysts, and designers working with global companies such as Google and Facebook have condemned the Citizenship (Amendment) Act in India. The letter, issued 'in solidarity with the Indian democracy', was posted through the 'TechAgainstFascism' handle on Medium. It called upon technology leaders to take a stance and publicly denounce the 'fascist acts by the Indian government'. 'We call upon the leaders to use technology as a force for good, to refuse to share user details with the government, refuse to shut off the Internet at the government's whim, provide tools for citizen mobilization, and ensure that content moderation is not skewing pro-government,' it said.",
         "online": true,
-        "locations": null,
+        "locations": [
+            "worldwide",
+            "india"
+        ],
         "companies": null,
         "workers": 400,
         "tags": [
@@ -9587,8 +9670,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                22.3511148,
+                78.6677428
+            ]
+        ],
+        "addresses": [
+            "India"
+        ]
     },
     {
         "id": 222,
@@ -9759,7 +9849,9 @@
         ],
         "description": "Amazon Employees for Climate Action published a Medium post with quotations from 364 employees criticizing the company for its continued involvement with the fossil fuel industry. Notably, all quotes included employee name and company title. Some quotes touched on other ethical issues in addition to climate change, such as the company's contracts with ICE. The action violates a company policy that prohibits employees from publicly speaking about the business without prior company approval. The employee group is currently calling for Amazon to go carbon neutral by 2030, to cut ties with fossil fuel companies, and to stop funding politicians and lobbyists who deny climate change. This action is a response to Amazon's previous threats to fire internal critics. Update: Quotations received from 400 employees.",
         "online": true,
-        "locations": null,
+        "locations": [
+            "usa"
+        ],
         "companies": [
             "amazon"
         ],
@@ -9770,8 +9862,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                46.320207,
+                -112.1072224
+            ]
+        ],
+        "addresses": [
+            "Amazon, Jefferson County, Montana, United States"
+        ]
     },
     {
         "id": 226,
@@ -9823,7 +9922,9 @@
         ],
         "description": "Members of Amazon Employees for Climate Justice submitted comments to the U.S. Securities and Exchange Commission against a new regulation that would prevent smaller shareholders from proposing shareholder resolutions (i.e. proposals to change how a company is run). Under the new rules, shareholders would have to presently hold at least $25,000 worth of shares or have held $2,000 worth of shares continuously for the last three years. The group has argued that this prevents smaller shareholders from voicing their opinion. Included in this group are many recently hired tech employees with small caches of employer stock. While shareholder resolutions are not binding, they have had some success in pushing corporations towards taking a stance on social issues such as gender equity.",
         "online": true,
-        "locations": null,
+        "locations": [
+            "usa"
+        ],
         "companies": [
             "amazon"
         ],
@@ -9832,8 +9933,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                46.320207,
+                -112.1072224
+            ]
+        ],
+        "addresses": [
+            "Amazon, Jefferson County, Montana, United States"
+        ]
     },
     {
         "id": 228,
@@ -9897,7 +10005,9 @@
         ],
         "description": "AI researchers and engineers from around the world signed an online open letter calling for the tech industry to refrain from using AI technologies to 'exacerbate the climate crisis'. The letter, authored by Tech Won't Drill It, has been signed by over 100 AI researchers.",
         "online": true,
-        "locations": null,
+        "locations": [
+            "worldwide"
+        ],
         "companies": null,
         "workers": 141,
         "tags": [
@@ -9965,7 +10075,9 @@
         ],
         "description": "Oracle founder and CTO Larry Ellison\u2018s decision to throw a fundraiser for President Donald Trump has angered  Oracle employees, who have set up a Change.org petition demanding he cancel the fundraiser. \u201cAs Oracle employees, we must hold our leaders accountable for upholding their ethical responsibilities,\u201d the petition, which anyone can sign, continues. \u201cEllison\u2019s financial support of Donald Trump endangers the well-being of women, immigrants, communities of color, the environment, LGBTQ and trans communities, disabled people and workers everywhere.\u201d",
         "online": true,
-        "locations": null,
+        "locations": [
+            "usa"
+        ],
         "companies": [
             "oracle"
         ],
@@ -9978,8 +10090,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                32.6099702,
+                -110.7651843
+            ]
+        ],
+        "addresses": [
+            "Oracle, Pinal County, Arizona, 85623, United States"
+        ]
     },
     {
         "id": 232,
@@ -11250,7 +11369,9 @@
         ],
         "description": "As a gesture of solidarity, tech workers have started tweeting with the hashtags #TechSolidarity, #AmazonStrike, #HuelgaAmazon to indicate support for striking Amazon workers. The Twitter page, @TechSpeaksOut, was reportedly designed to exert public pressure tech corporations. In addition to taking to Twitter, activists have started GoFundMes and mutual aid campaigns to benefit workers.",
         "online": true,
-        "locations": null,
+        "locations": [
+            "usa"
+        ],
         "companies": [
             "amazon"
         ],
@@ -11263,8 +11384,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                46.320207,
+                -112.1072224
+            ]
+        ],
+        "addresses": [
+            "Amazon, Jefferson County, Montana, United States"
+        ]
     },
     {
         "id": 294,
@@ -11524,7 +11652,9 @@
         ],
         "description": "Amazon Workers International, speaking on behalf of Amazon workers across the U.S. and Europe, sent an open letter to Jeff Bezos and Stefano Perego, VP of European Fulfillment. The letter called for making covid-era wage increases and breaks permanent and suspending productivity feedback. In addition, AWI demanded more transparency around covid cases at Amazon, improved sick leave, and good faith bargaining with unions. ",
         "online": true,
-        "locations": null,
+        "locations": [
+            "worldwide"
+        ],
         "companies": [
             "amazon"
         ],
@@ -11860,7 +11990,9 @@
         ],
         "description": "Facebook employees hosted a virtual walkout, refusing to work for the time of the event, in protest of the company's failure to take a tougher stance on Trump's posts in reaction to the George Floyd protests. Many employees also expressed solidarity with the Black Lives Matter movement. The New York Times reports that employees have also circulated petitions internally and threatened to resign in response to the event. The previous week Twitter added fact-check and warning labels to two tweets from the president that broke Twitter\u2019s rules around voter suppression and glorification of violence.",
         "online": true,
-        "locations": null,
+        "locations": [
+            "usa"
+        ],
         "companies": [
             "facebook"
         ],
@@ -11873,8 +12005,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                30.2691649,
+                -97.7455041
+            ]
+        ],
+        "addresses": [
+            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
+        ]
     },
     {
         "id": 334,
@@ -11895,7 +12034,9 @@
         ],
         "description": "Nearly three dozen early Facebook employees, including its first Chief of Communications, wrote a letter to CEO Mark Zuckerberg protesting his decision to leave Donald Trump's posts up on the website without action. Twitter chose to add labels to several of these posts warning that they were inaccurate or glorified violence. They claimed Facebook's inaction against these posts violated many of the original ideals the company had been founded on. ",
         "online": true,
-        "locations": null,
+        "locations": [
+            "usa"
+        ],
         "companies": [
             "facebook"
         ],
@@ -11906,8 +12047,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                30.2691649,
+                -97.7455041
+            ]
+        ],
+        "addresses": [
+            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
+        ]
     },
     {
         "id": 342,
@@ -11927,7 +12075,9 @@
         ],
         "description": "Employees at Coinbase held a virtual walkout following an \"ask me anything\" session with company management where CEO Brian Armstrong did not indicate that the company would be willing to publicly express support for the Black Lives Matter movement. WIRED reports: \"Pressed on whether the company would say the words \u201cBlack Lives Matter,\u201d Armstrong again demurred. 'TBD'\"",
         "online": true,
-        "locations": null,
+        "locations": [
+            "usa"
+        ],
         "companies": [
             "coinbase"
         ],
@@ -11959,7 +12109,9 @@
         ],
         "description": "Scientists funded by the Chan Zuckerberg Initiative addressed a letter to Mark Zuckerberg critiquing Facebook's role in diffusing inaccurate information, in particular Donald Trump's \"when the looting starts, the shooting starts\" comment in relation to the George Floyd protests. The authors argued that the letter promotes violence. ",
         "online": true,
-        "locations": null,
+        "locations": [
+            "usa"
+        ],
         "companies": [
             "facebook"
         ],
@@ -11971,8 +12123,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                30.2691649,
+                -97.7455041
+            ]
+        ],
+        "addresses": [
+            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
+        ]
     },
     {
         "id": 268,
@@ -12031,7 +12190,9 @@
         ],
         "description": "Nine current and former Facebook content moderators posted a message of solidarity with the Black community in the wake of the George Floyd protests and in support of the virtual walkout. The authors noted that they would have attended the walkout \"if Facebook would allow it. As outsourced contractors, non-disclosure agreements deter us from speaking openly about what we do and witness for most of our waking hours.\" The workers also remarked on the lack of protections they receive from their employer. \"We would walk out with you \u2014 if we could afford it. At the moment, content moderators have no possibility, no network or platform or financial security \u2014 especially when we are atomized in pandemic and remotely micromanaged \u2014 to stage an effective walkout without risking fines, our income and even our right to stay in the countries where we live and work.\"",
         "online": true,
-        "locations": null,
+        "locations": [
+            "usa"
+        ],
         "companies": [
             "facebook"
         ],
@@ -12044,8 +12205,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                30.2691649,
+                -97.7455041
+            ]
+        ],
+        "addresses": [
+            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
+        ]
     },
     {
         "id": 266,
@@ -12219,7 +12387,9 @@
         ],
         "description": "Gig Workers Rising organized an open letter from workers calling for economic justice from their employees, many of whom are Black and Brown, as a means of responding meaningfully to anti-racist protests. The letter calls out companies for releasing statements that \"have included various platitudes about your commitment to Racial Justice and the Black community\" without promising \"real change\". Among the demands are: (1) \"meaningful representation at work\", (2) \"benefits to take care of ourselves and our families\", (3) \"a living wage\", (4) and dropping the AB5 ballot measure. To date, the letter has received over 330 signatures.",
         "online": true,
-        "locations": null,
+        "locations": [
+            "usa"
+        ],
         "companies": [
             "uber",
             "lyft",
@@ -12235,8 +12405,30 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.7756962,
+                -122.4180838
+            ],
+            [
+                37.7509149,
+                -122.40246883416269
+            ],
+            [
+                37.7834546,
+                -122.4080358
+            ],
+            [
+                37.7753423,
+                -122.39763106771915
+            ]
+        ],
+        "addresses": [
+            "Uber, 1455, Market Street, SOMA Pilipinas, San Francisco, San Francisco City and County, San Francisco, California, 94103, United States",
+            "Lyft, Kansas Street, Potrero Terrace, San Francisco, San Francisco City and County, San Francisco, California, 94124, United States",
+            "Doordash HQ, Market Street, SOMA Pilipinas, San Francisco, San Francisco City and County, San Francisco, California, 94104, United States",
+            "UserTesting, 690, 5th Street, SOMA Pilipinas, San Francisco, San Francisco City and County, San Francisco, California, 94017, United States"
+        ]
     },
     {
         "id": 279,
@@ -12258,7 +12450,9 @@
         ],
         "description": "Over 1, 650 Google employees have signed an open letter to CEO Sundar Pichai demanding the company stop selling its technology to police forces across the US. \u201cThe past weeks have shown us that addressing racism is not merely an issue of words, but of actions taken to dismantle the actual structures that perpetuate it, \u201d the letter, written by the employee group Googlers Against Racism, reads. \u201cWhile we as individuals hold difficult but necessary conversations with our family, friends and peers, we are also incredibly disappointed by our company\u2019s response.\u201d",
         "online": true,
-        "locations": null,
+        "locations": [
+            "usa"
+        ],
         "companies": [
             "google"
         ],
@@ -12270,8 +12464,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                33.977092,
+                -118.4092133
+            ]
+        ],
+        "addresses": [
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
+        ]
     },
     {
         "id": 288,
@@ -12291,7 +12492,9 @@
         ],
         "description": "Hundreds of expert researchers and practitioners across a variety of technical, scientific, and humanistic fields (including statistics, machine learning and artificial intelligence, law, sociology, history, communication studies and anthropology) sign a letter calling for a forthcoming publication entitled \u201cA Deep Neural Network Model to Predict Criminality Using Image Processing\u201d, to be rescinded from publication. The letter also urges for such research topics to not be published in the future.",
         "online": true,
-        "locations": null,
+        "locations": [
+            "worldwide"
+        ],
         "companies": [
             "springer publishing"
         ],
@@ -12582,7 +12785,9 @@
         ],
         "description": "Github users have launched a campaign to pressure the company to drop its contracts with ICE. Users have changed their profile pictures to the company's mascot, Octocat, with a message reading \"Drop ICE\". ",
         "online": true,
-        "locations": null,
+        "locations": [
+            "worldwide"
+        ],
         "companies": [
             "github",
             "microsoft"
@@ -12977,7 +13182,9 @@
         ],
         "description": "A group of Black employees across tech companies have launched an initiative, Tech Can Do Better, to call for greater equity in the workplace. An Instagram account promotes the visibility and highlights the accomplishments of Black employees in tech. The group has also started an online pledge where workers can commit to \"mak[ing] the changes needed to achieve equitable hiring, promotions, and compensation, mak[ing] significant Investment in social equity and driv[ing] advocacy for equitable legislation.\"",
         "online": true,
-        "locations": null,
+        "locations": [
+            "usa"
+        ],
         "companies": null,
         "workers": null,
         "tags": [
@@ -12988,8 +13195,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                39.7837304,
+                -100.445882
+            ]
+        ],
+        "addresses": [
+            "United States"
+        ]
     },
     {
         "id": 312,
@@ -13101,7 +13315,9 @@
         ],
         "description": "Pinterest employees staged a virtual walk out by posting messages to Slack and then logging off their work accounts, to protest the racial and gender discrimination brought to light by Ifeoma Ozoma and Aerica Shimizu Banks, and then again by Francoise Brougher. Workers also signed onto an online petition to CEO Ben Silberman calling for an end to discrimination and retaliation by the company.",
         "online": true,
-        "locations": null,
+        "locations": [
+            "usa"
+        ],
         "companies": [
             "pinterest"
         ],
@@ -13111,8 +13327,15 @@
             "blm"
         ],
         "author": null,
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.774879,
+                -122.39893244999999
+            ]
+        ],
+        "addresses": [
+            "Pinterest, 149, Bluxome Street, South Beach, San Francisco, San Francisco City and County, San Francisco, California, 94017, United States"
+        ]
     },
     {
         "id": 321,
@@ -13407,7 +13630,9 @@
         ],
         "description": "24 employees of tech non-profit Do Something walked off the job, calling for the resignation of current CEO Aria Finger. They have also sent two direct letters to the CEO and Board of Directors that have been shared on Twitter. Former employees shared experiences of racial discrimination and harassment via social media earlier this year. The letter states that Finger reacted to these posts by calling them untrue or \"standard-issued American forms of microaggression and racism\". Finger returned in August after a legal investigation did not find evidence of discrimination under her tenure. ",
         "online": true,
-        "locations": null,
+        "locations": [
+            "usa"
+        ],
         "companies": [
             "do something"
         ],
@@ -13419,8 +13644,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                35.9100131,
+                -79.0627506
+            ]
+        ],
+        "addresses": [
+            "Something Different Caf\u00e9, 431, West Franklin Street, Franklin-Rosemary Historic District, Downtown, Chapel Hill, Orange County, North Carolina, 27516, United States"
+        ]
     },
     {
         "id": 327,
@@ -13617,7 +13849,9 @@
         ],
         "description": "Employees at Hootsuite succeeded in getting the company, a B-corporation, to drop its contract with U.S. ICE after protesting via social media and voicing their opposition internally to the company. A Tweet from a senior training specialist at Hootsuite, Sam Anderson, generated significant backlash within the industry, including from many social media managers at client companies.  ",
         "online": true,
-        "locations": null,
+        "locations": [
+            "usa"
+        ],
         "companies": [
             "hootsuite"
         ],
@@ -13651,7 +13885,9 @@
         ],
         "description": "A group of cross-company organizers in tech have started a repository called \"Tech Truths\" that highlights incidents of discrimination in tech, including \"discrimination by race, gender, sexual orientation, disability status, immigration status, and more\". To date (10/7/2020), 107 different stories of discrimination have been shared and published.",
         "online": true,
-        "locations": null,
+        "locations": [
+            "usa"
+        ],
         "companies": null,
         "workers": 107,
         "tags": [
@@ -13662,8 +13898,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                39.7837304,
+                -100.445882
+            ]
+        ],
+        "addresses": [
+            "United States"
+        ]
     },
     {
         "id": 333,
@@ -13838,7 +14081,9 @@
         ],
         "description": "At least 290 Facebook employees and contractors signed a petition demanding a 50% wage increase as hazard pay for site moderators who have been forced to return to the office by October 12th of this year. Additional demands include compensation for all costs related to COVID-19 testing and treatment, as well as additional time off and an expedited time off review process. Accenture, which hired the moderators as contractors, informed them on October 1st that they would have to return to their office in Austin, Texas. A Facebook spokesperson said the reason for the return was that \"some of the most sensitive content can\u2019t be reviewed from home\". Full-time, directly hired Facebook employees don't have to return to the office until July 2021. ",
         "online": true,
-        "locations": null,
+        "locations": [
+            "usa"
+        ],
         "companies": [
             "accenture",
             "facebook"
@@ -13852,8 +14097,20 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.3339398,
+                -121.8895142
+            ],
+            [
+                30.2691649,
+                -97.7455041
+            ]
+        ],
+        "addresses": [
+            "Accenture, West San Fernando Street, Downtown Historic District, San Jose, Santa Clara County, California, 95113, United States",
+            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
+        ]
     },
     {
         "id": 347,
@@ -14335,7 +14592,9 @@
         ],
         "description": "More than 200 Facebook workers signed a letter demanding better treatment for content moderators after being required to return to the office in the midst of the pandemic. The contractors who wrote the letter condemned the company for deciding \u201cto risk our lives to maintain Facebook\u2019s profits during the pandemic\u201d. It was sent to chief executive officer Mark Zuckerberg, chief operating officer Sheryl Sandberg, and top executives at Accenture and CPL, two companies that contract the moderators. The open letter was published with UK-based non-profit Foxglove.",
         "online": true,
-        "locations": null,
+        "locations": [
+            "usa"
+        ],
         "companies": [
             "CPL",
             "facebook",
@@ -14349,8 +14608,25 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                40.76893325,
+                -73.50525969769677
+            ],
+            [
+                30.2691649,
+                -97.7455041
+            ],
+            [
+                37.3339398,
+                -121.8895142
+            ]
+        ],
+        "addresses": [
+            "Cpl Kevin Kolm Memorial Park (Triangle Park) H-19, Hicksville, Town of Oyster Bay, Nassau County, New York, United States",
+            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States",
+            "Accenture, West San Fernando Street, Downtown Historic District, San Jose, Santa Clara County, California, 95113, United States"
+        ]
     },
     {
         "id": 362,
@@ -14493,7 +14769,9 @@
         ],
         "description": "After Dr. Timnit Gebru was fired from Google, Googlers wrote an open letter demanding accountability from Google. 2695 Googlers and 4302 academic, industry, and civil society supporters signed on to the letter.",
         "online": true,
-        "locations": null,
+        "locations": [
+            "worldwide"
+        ],
         "companies": [
             "google"
         ],
@@ -14565,7 +14843,9 @@
         ],
         "description": "Three unions at Spotify kicked off a two hour work stoppage in solidarity with their collective struggles for fairer contracts and better workplace conditions. The union at Gimlet, a major podcast publisher that was bought by Spotify last year for $230 million, is joining unions at The Ringer and Parcast\u2014all properties owned by Spotify\u2014in the work stoppage. The union's demands have included a contract with guaranteed raises, clear guidelines surrounding promotions, the right to profit from intellectual property they help create, a greater emphasis on diversity, and pay equity across the board. The work stoppage was streamed on Twitch for a little over an hour, with organizing members from all three groups outlining in detail their demands. ",
         "online": true,
-        "locations": null,
+        "locations": [
+            "usa"
+        ],
         "companies": [
             "the ringer",
             "spotify",
@@ -14577,8 +14857,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                40.7411352,
+                -73.7712961
+            ]
+        ],
+        "addresses": [
+            "Ringer, Queens, Queens County, New York, 11364:11427, United States"
+        ]
     },
     {
         "id": 360,
@@ -14629,7 +14916,9 @@
         ],
         "description": "Two weeks after Dr Timnit Gebru was fired from her role in Google, Google\u2019s Ethical AI employees sent CEO Sundar Pichai a list of demands, including organizational changes and a request to reinstate dismissed researcher Timnit Gebru at a higher level.",
         "online": true,
-        "locations": null,
+        "locations": [
+            "usa"
+        ],
         "companies": [
             "google"
         ],
@@ -14644,8 +14933,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                33.977092,
+                -118.4092133
+            ]
+        ],
+        "addresses": [
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
+        ]
     },
     {
         "id": 371,
@@ -15716,7 +16012,9 @@
         ],
         "description": "Members of the open source community have written an open letter calling on the entire Board of the Free Software Foundation to be removed for supporting Richard M. Stallman over his many years involved with that organization. They are also demanding that Stallman be removed from all leadership positions including the GNU Project. The letter says that Stallman is misogynist, ableist, and transphobic and cites incidents thereof. It calls on members of the open source community to stop contributing and associating with the organization and their projects.",
         "online": true,
-        "locations": null,
+        "locations": [
+            "worldwide"
+        ],
         "companies": [
             "free_software_foundation"
         ],
@@ -16488,7 +16786,9 @@
         ],
         "description": "Roughly 1/3rd of Basecamp's 57 employees have decided to accept Basecamp's severance package and resigned because of the company's recent policy changes\u2013 the most notable restricting political and societal discussions in the workplace. Several employees posted tweets stating that they left Basecamp due to these changes.",
         "online": null,
-        "locations": null,
+        "locations": [
+            "usa"
+        ],
         "companies": [
             "basecamp"
         ],
@@ -16499,8 +16799,15 @@
         "author": [
             "hyatt d."
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                30.2675086,
+                -97.7439557
+            ]
+        ],
+        "addresses": [
+            "Basecamp, West 5th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
+        ]
     },
     {
         "id": 454,
@@ -16522,7 +16829,9 @@
         ],
         "description": "Childcare and education workers at Google created an online petition to reinstate the transportation shuttles previously provided to workers before the COVID-19 pandemic. According to the petition, they are demanding a \"$1,500 per-month transportation equity stipend for childcare workers who rely on Google transportation; until Google\u2019s normal transportation operations resume\". The petition has gained 622 signatures from Google employees in all departments. ",
         "online": true,
-        "locations": null,
+        "locations": [
+            "usa"
+        ],
         "companies": [
             "google",
             "alphabet"
@@ -16535,8 +16844,20 @@
         "author": [
             "hyatt d."
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                33.977092,
+                -118.4092133
+            ],
+            [
+                37.3398646,
+                -121.8844823
+            ]
+        ],
+        "addresses": [
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
+            "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112-3580, United States"
+        ]
     },
     {
         "id": 455,
@@ -16557,7 +16878,9 @@
         ],
         "description": "Interns in Google's BOLD internship program, Tyrese Thomas and Jacob Ngai created a petition with the help of the Alphabet Workers Union. The petition asked Google to provide a $5,000 stipend for costs such as rent and other basic needs for their job. Typically, Google covers these costs with an $11,000 relocation stipend. However, due to COVID-19, the stipend wasn't instated because interns would work remotely from home. Interns argued, however, that those from lower income backgrounds might need additional funding to find office space during the day or to cover the costs of childcare. Overall, the petition gathered 1500 signatures from interns and Google employees. Google gave the interns a $5,000 stipend to spend on what they deem necessary. ",
         "online": true,
-        "locations": null,
+        "locations": [
+            "usa"
+        ],
         "companies": [
             "google",
             "alphabet"
@@ -16570,8 +16893,20 @@
         "author": [
             "hyatt d."
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                33.977092,
+                -118.4092133
+            ],
+            [
+                37.3398646,
+                -121.8844823
+            ]
+        ],
+        "addresses": [
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
+            "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112-3580, United States"
+        ]
     },
     {
         "id": 437,
@@ -16591,7 +16926,9 @@
         ],
         "description": "Black in AI, Queer in AI, and WiNLP have written an open letter condemning Google's actions for dismissing Dr. Timnit Gebru, Dr. Margaret Mitchell, and April Christina Curley. Black in AI, Queer in AI, and WiNLP have ended their sponsorship with Google and expressed concern that the company's actions have set a dangerous precedent for what is acceptable in the AI community.",
         "online": null,
-        "locations": null,
+        "locations": [
+            "worldwide"
+        ],
         "companies": [
             "google"
         ],
@@ -16625,7 +16962,9 @@
         ],
         "description": "Workers at Apple have circulated a petition protesting the company's decision to hire Antonio Garcia Martinez. Employees expressed concerns about his views on women and people of color because of statements in his book, \"Chaos Monkeys\", which they find to be racist and sexist. UPDATE: As of May 12, 2021, Antonio Garcia Martinez is no longer working with Apple.",
         "online": null,
-        "locations": null,
+        "locations": [
+            "usa"
+        ],
         "companies": [
             "apple"
         ],
@@ -16637,8 +16976,15 @@
         "author": [
             "hyatt d."
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                42.3489689,
+                -71.0824143
+            ]
+        ],
+        "addresses": [
+            "Apple Store, 815, Boylston Street, Block F, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States"
+        ]
     },
     {
         "id": 439,
@@ -16659,7 +17005,9 @@
         ],
         "description": "At Google, a group of Jewish employees (Jewish Diaspora in Tech) is asking the company to support Palestinians during the Israeli bombing campaign in Gaza. An internal letter was circulated among employees asking Sundar Pichai to make a statement condemning recent Israeli attacks on Gaza. The letter mentions accepting the requests of Palestinian Googlers and funding relief for Palestinians affected by the violence, as well as protecting freedom of speech within the company. This new group was formed because some Jewish employees felt that the official Jewish ERG didn't allow a safe place to express anti-Zionist beliefs. ",
         "online": true,
-        "locations": null,
+        "locations": [
+            "worldwide"
+        ],
         "companies": [
             "google"
         ],
@@ -16691,7 +17039,9 @@
         ],
         "description": "The Algorithmic Justice League started an online campaign protesting a recent episode of the CBS news program, \"60 Minutes\", which featured a segment about the racial bias in law enforcement facial recognition technology but failed to cite any Black female scientists in the field. The group is demanding that 60 Minutes and Anderson Cooper apologize and cite Black female scientists, specifically Deborah Raji, Timnit Gebru, Joy Buolamwini, for their contribution to AI facial recognition research in their segment.   ",
         "online": true,
-        "locations": null,
+        "locations": [
+            "usa"
+        ],
         "companies": [
             "viacomcbs"
         ],
@@ -16727,7 +17077,9 @@
         ],
         "description": "Nearly a thousand Apple employees have signed an internal letter addressed to Tim Cook asking him to support the Palestinian community and people in light of Israel's bombing of Gaza which has led to the loss of 227 lives, including 63 children. The letter, written by the Apple Muslim Association, asks that Apple make it clear that Palestinian lives matter and that Palestinian people are under an illegal occupation. Moreover, the letter asks Apple to commit to understanding, engaging with, and learning about the Palestinian community and other diverse communities which make up the company. ",
         "online": true,
-        "locations": null,
+        "locations": [
+            "usa"
+        ],
         "companies": [
             "apple"
         ],
@@ -16738,8 +17090,15 @@
         "author": [
             "hyatt d."
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                42.3489689,
+                -71.0824143
+            ]
+        ],
+        "addresses": [
+            "Apple Store, 815, Boylston Street, Block F, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States"
+        ]
     },
     {
         "id": 442,
@@ -16762,7 +17121,9 @@
         ],
         "description": "640 Amazon workers have signed a petition asking the company to commit to zero emissions by 2030 and to prioritize zero emission technology in communities of color hit hardest by the effects of their pollution. The petition began after Amazon rejected a shareholder resolution asking the company to report their emissions in communities of color. ",
         "online": true,
-        "locations": null,
+        "locations": [
+            "usa"
+        ],
         "companies": [
             "amazon"
         ],
@@ -16775,8 +17136,15 @@
         "author": [
             "hyatt d."
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                46.320207,
+                -112.1072224
+            ]
+        ],
+        "addresses": [
+            "Amazon, Jefferson County, Montana, United States"
+        ]
     },
     {
         "id": 443,
@@ -16798,7 +17166,9 @@
         ],
         "description": "Approximately 600 Amazon employees have signed an open letter asking Jeff Bezos to break off all ties to the Israeli military. The letter points out that Amazon employs Palestinians around the world, including in Tel Aviv and Haifa and that \"ignoring the suffering faced by Palestinians and their families at home erases our Palestinian coworkers.\"",
         "online": true,
-        "locations": null,
+        "locations": [
+            "worldwide"
+        ],
         "companies": [
             "amazon"
         ],
@@ -16835,7 +17205,9 @@
         ],
         "description": "Facebook employees are circulating a petition for the company to conduct an investigation for censoring Palestinian content on their website. At Facebook, content moderation is executed by third party contractors and algorithms. Facebook employees have taken notice and are asking the company as a whole to do a third party audit of any Muslim or Arab content decisions made by moderators.  ",
         "online": true,
-        "locations": null,
+        "locations": [
+            "worldwide"
+        ],
         "companies": [
             "facebook"
         ],
@@ -16873,7 +17245,9 @@
         ],
         "description": "The Alphabet Workers Union circulated a petition asking the company and its contractors to allow employees to choose which name appears on their ID badges. These actions were taken because a transgender man, Phares Lee, requested to have his deadname replaced by his preferred name. His request was denied and he was forced to put his legal name. Lee works for G4S, a Google contractor, and was also banned from participating in employee resource groups (ERGs) as a result of his contractor status. The petition also called on the company to open ERGs to contractors. Update (6/14): G4S and Google allowed Phares to use his preferred name and join Google ERGs. The companies have not communicated larger changes in policy. ",
         "online": true,
-        "locations": null,
+        "locations": [
+            "usa"
+        ],
         "companies": [
             "google",
             "g4s"
@@ -16886,8 +17260,20 @@
         "author": [
             "hyatt d."
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                33.977092,
+                -118.4092133
+            ],
+            [
+                45.4859369,
+                -122.6750084
+            ]
+        ],
+        "addresses": [
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
+            "G4S, 5100, South Macadam Avenue, South Portland, Portland, Multnomah County, Oregon, 97239, United States"
+        ]
     },
     {
         "id": 465,
@@ -16951,7 +17337,9 @@
         ],
         "description": "Apple employees are fighting against a new policy requiring them to return to work three days a week in an open letter addressed to Tim Cook on Slack. Approximately 80 people were involved in writing the letter. Employees have argued that the company should adopt a flexible approach for those who still want to remotely work from home. ",
         "online": true,
-        "locations": null,
+        "locations": [
+            "usa"
+        ],
         "companies": [
             "apple"
         ],
@@ -16962,8 +17350,15 @@
         "author": [
             "hyatt d."
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                42.3489689,
+                -71.0824143
+            ]
+        ],
+        "addresses": [
+            "Apple Store, 815, Boylston Street, Block F, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States"
+        ]
     },
     {
         "id": 448,
@@ -17108,7 +17503,9 @@
         ],
         "description": "Seventy employees who work for Change.org unionized and joined the Workers of America's CODE-CWA Project. Organizing in the company began with Erni Poch\u00e9, who noticed that the company used the racial identities of its employees to claim diversity and inclusion within the company. Black employees reported being disproportionately assigned to petitions around race, for instance. The workers who joined the union want to have a say in wages, benefits, and the implementation of diversity and equity programs. ",
         "online": null,
-        "locations": null,
+        "locations": [
+            "usa"
+        ],
         "companies": [
             "change.org"
         ],
@@ -17142,7 +17539,9 @@
         ],
         "description": "Black TikTok content creators went on strike protesting the platform's cultural appropriation of their creative content. Users and content creators have pointed out that they don't receive credit for their creative work while other platform users can copy them and receive more views, fame, and recognition. Using the hashtag #BlackTikTokStrike, users and content creators raised awareness on the app and Twitter. ",
         "online": true,
-        "locations": null,
+        "locations": [
+            "worldwide"
+        ],
         "companies": [
             "tiktok"
         ],
@@ -17249,7 +17648,9 @@
         ],
         "description": "An open letter was published demanding justice for Jessica (Ming) Tao, a former employee at Google. According to the open letter, \"Google has chosen to put Jessica on unpaid leave while her rapist is still fully employed.\" The letter states that this is a common practice where Google protects the harasser instead of the victim. The letter demands that Jessica is compensated in full for her time on disability leave. The letter demands, \"that survivors involved in future proceedings are always compensated for their time during this traumatizing process.\" Lastly, the letter demands Alphabet to stop having workers go to employee assistance program (EAP) therapy when they face harassment or other workplace abuses. ",
         "online": true,
-        "locations": null,
+        "locations": [
+            "usa"
+        ],
         "companies": [
             "google",
             "alphabet"
@@ -17261,8 +17662,20 @@
         "author": [
             "hyatt d."
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                33.977092,
+                -118.4092133
+            ],
+            [
+                37.3398646,
+                -121.8844823
+            ]
+        ],
+        "addresses": [
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
+            "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112-3580, United States"
+        ]
     },
     {
         "id": 461,
@@ -17285,7 +17698,9 @@
         ],
         "description": "Content moderators who work for Facebook across the world wrote an open letter to Mark Zuckerberg, Sheryl Sandberg, Anne Heraty, and Julie Sweet. The moderators are demanding Facebook stop using non-disclosure agreements to prevent moderators from speaking out about their working conditions. The moderators also want proper mental health support and to make all moderators in-house instead of contract workers outsourced by Accenture.  ",
         "online": true,
-        "locations": null,
+        "locations": [
+            "usa"
+        ],
         "companies": [
             "facebook",
             "accenture"
@@ -17299,8 +17714,20 @@
         "author": [
             "hyatt d."
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                30.2691649,
+                -97.7455041
+            ],
+            [
+                37.3339398,
+                -121.8895142
+            ]
+        ],
+        "addresses": [
+            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States",
+            "Accenture, West San Fernando Street, Downtown Historic District, San Jose, Santa Clara County, California, 95113, United States"
+        ]
     },
     {
         "id": 458,
@@ -17321,7 +17748,9 @@
         ],
         "description": "Only July 31st, DoorDash drivers across the nation went on strike protesting pay and the company's lack of transparency about tips in what might be the first coordinated strike in the company's history. Workers demand that DoorDash show the tip amount for an order and have a minimum of $4.50 base pay for every order. DoorDash had recently blocked access to an app called Para that allowed workers to see the tip amount before accepting an order. Organizing for the strike began with online posts to Reddit. On the day of the strike, many workers posted online via Twitter, YouTube, and Reddit voicing their struggles. ",
         "online": true,
-        "locations": null,
+        "locations": [
+            "usa"
+        ],
         "companies": [
             "doordash"
         ],
@@ -17333,8 +17762,15 @@
         "author": [
             "hyatt d."
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.7834546,
+                -122.4080358
+            ]
+        ],
+        "addresses": [
+            "Doordash HQ, Market Street, SOMA Pilipinas, San Francisco, San Francisco City and County, San Francisco, California, 94104, United States"
+        ]
     },
     {
         "id": 486,
@@ -17398,7 +17834,9 @@
         ],
         "description": "Apple employees circulated voluntary surveys throughout the company to see if Apple has a problem with pay inequality toward women and minorities. Apple HR barred the employees from conducting the surveys, which according to The Verge, is illegally preventing employees' rights to discuss pay. ",
         "online": true,
-        "locations": null,
+        "locations": [
+            "usa"
+        ],
         "companies": [
             "apple"
         ],
@@ -17409,8 +17847,15 @@
         "author": [
             "hyatt d."
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                42.3489689,
+                -71.0824143
+            ]
+        ],
+        "addresses": [
+            "Apple Store, 815, Boylston Street, Block F, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States"
+        ]
     },
     {
         "id": 478,
@@ -17430,7 +17875,9 @@
         ],
         "description": "Twitch streamer RekltRaven began a hashtag movement #twitchdobetter in response to the hate raids targeting marginalized creators, especially those who identify as Black, queer, or female. Twitch responded by fixing their chat filters and are planning to update their services to include improved safety features, including an improved account verification process and ban evasion detection tools. As there are still gaps, marginalized creators are calling for more proactive moderation and tools that the creators can use to moderate the stream.",
         "online": true,
-        "locations": null,
+        "locations": [
+            "worldwide"
+        ],
         "companies": [
             "twitch"
         ],
@@ -17512,7 +17959,9 @@
         ],
         "description": "In response to Texas\u2019s new abortion law and the creation of the website prolifewhistleblower.com, TikTok activists, programmers, and Twitter and Reddit users engaged in \u201chacktivism\u201d by submitting fake reports to the website. Programmers have also created and released scripts for others to automatically generate fake reports. The website responded by adding a new version of a Captcha to filter out bot reports. Furthermore, some Twitter users called for a boycott of GoDaddy, the company that hosts the website, as the website violates GoDaddy\u2019s terms of service. In response, GoDaddy gave the website 24 hours to move to another provider before cutting off service.",
         "online": true,
-        "locations": null,
+        "locations": [
+            "usa"
+        ],
         "companies": null,
         "workers": 8451,
         "tags": [
@@ -17522,8 +17971,15 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                39.7837304,
+                -100.445882
+            ]
+        ],
+        "addresses": [
+            "United States"
+        ]
     },
     {
         "id": 466,
@@ -17584,7 +18040,9 @@
         ],
         "description": "The Apple workers in #AppleToo have released an open letter calling on Tim Cook and the Senior Leadership team to follow through in its diversity, equity, and inclusion promises. Workers have brought up invasive privacy policies, abuse, discrimination, and harassment. Their demands include: (1) \u201cincreased separation between Apple-owned and worker-owned digital and physical property in all Apple policies,\u201d (2) \u201ctransparent livable, equitable, and fair compensation across all of Apple,\u201d (3) \u201caudit all third-party relationships,\u201d among others. ",
         "online": true,
-        "locations": null,
+        "locations": [
+            "usa"
+        ],
         "companies": [
             "apple"
         ],
@@ -17600,8 +18058,15 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                42.3489689,
+                -71.0824143
+            ]
+        ],
+        "addresses": [
+            "Apple Store, 815, Boylston Street, Block F, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States"
+        ]
     },
     {
         "id": 468,
@@ -17705,7 +18170,9 @@
         ],
         "description": "After news from The Guardian that Google had been illegally underpaying their Temps, Vendors, and Contractors (TVCs) despite pay parity laws in European and Asian countries, over 900 Google employees and subcontractors have signed a petition calling for Google to amend their exploitation of TVCs. They are demanding for Google to repay the TVCs, create a path towards permanent employment, and end its two-tiered perma-temp system. This letter was organized by the Alphabet Workers Union (AWU). Google has acknowledged these issues but hasn\u2019t commented directly on the petition.",
         "online": true,
-        "locations": null,
+        "locations": [
+            "worldwide"
+        ],
         "companies": [
             "google",
             "alphabet"
@@ -17741,7 +18208,9 @@
         ],
         "description": "Instacart has been accused of exploiting their gig workers, considering tip theft, unsafe working conditions, pay cuts, COVID practices, among others. Despite a CEO change, Instacart has not changed its practices, so Gig Workers Collective calls on Instacart\u2019s customers to delete the app and support the Collective\u2019s demands with the hashtag #DELETEINSTACART. The demands include: (1) \u201cInstacart shoppers must be paid by order, and not by batch,\u201d (2) \u201cInstacart must re-introduce item commission,\u201d (3) \u201cInstacart\u2019s rating system can no longer unfairly punish shoppers for issues outside their control,\u201d (4) \u201coccupational death benefits,\u201d (5) and \u201cdefault tip must be raised to at least 10% for every single order.\u201d",
         "online": true,
-        "locations": null,
+        "locations": [
+            "usa"
+        ],
         "companies": [
             "instacart"
         ],
@@ -18052,7 +18521,9 @@
         ],
         "description": "Google and Amazon workers condemn Amazon and Google\u2019s supplying to the Israeli military and government technology to harm Palestinians through Project Nimbus. They write that Project Nimbus would provide cloud services, including surveillance and data collection on Palestinians, that would support systematic discrimination and displacement. Workers released an internal letter, with 90+ Google workers and 300+ Amazon workers anonymously signing it.",
         "online": true,
-        "locations": null,
+        "locations": [
+            "worldwide"
+        ],
         "companies": [
             "google",
             "amazon"
@@ -18192,7 +18663,9 @@
         ],
         "description": "In response to Dave Chappelle's controversial Netflix special,  Netflix trans employee resource group has released a list of demands and organized a walkout for October 20th. The demands are increased internal conversations about potentially harmful content, the hiring of trans and nonbinary executives, and removing transphobic content in the office; it notably does not include removing Chappelle\u2019s special from Netflix. Also, a leader of the trans-ERG was fired from Netflix because the company concluded that she leaked confidential information. ",
         "online": true,
-        "locations": null,
+        "locations": [
+            "usa"
+        ],
         "companies": [
             "netflix"
         ],
@@ -18206,8 +18679,15 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                40.76376354999999,
+                -73.97430267133896
+            ]
+        ],
+        "addresses": [
+            "Paris Theatre, 4, West 58th Street, Midtown, Manhattan Community Board 5, Manhattan, New York County, New York, 10019, United States"
+        ]
     },
     {
         "id": 487,
@@ -18364,7 +18844,9 @@
         ],
         "description": "To express solidarity with the Trans Netflix employee resource group, members of Google Walkout for Real Change affirmed their demands in an open letter, and they also called on all employees of big technology and media companies to hold their employers accountable.",
         "online": true,
-        "locations": null,
+        "locations": [
+            "worldwide"
+        ],
         "companies": [
             "google",
             "netflix"
@@ -18398,7 +18880,9 @@
         ],
         "description": "Data center temps who work for Modis, a Google subcontractor, were promised $200 weekly incentive bonuses because of the pandemic. After Modis stopped this program and announced that workers would not receive back pay, the Alphabet Workers Union-CWA workers began organization efforts. Workers filed \u201ctickets\u201d to Modis' management, sent more than 100 messages, and arranged a videoconference. There were also discussions of a work stoppage. Before the scheduled videoconference, however, Modis backtracked their decision in an email. Modis agreed to continue paying the hazard pay until December 19. ",
         "online": true,
-        "locations": null,
+        "locations": [
+            "usa"
+        ],
         "companies": [
             "google",
             "modis",
@@ -18414,7 +18898,24 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                33.977092,
+                -118.4092133
+            ],
+            [
+                39.4816128,
+                -106.046296
+            ],
+            [
+                47.49030525,
+                -122.27396915604896
+            ]
+        ],
+        "addresses": [
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
+            "Modis, 113, South Main Street, Breckenridge, Summit County, Colorado, 80424, United States",
+            "Adecco, 12720, Gateway Drive South, Tukwila Commerce Park, Foster, Tukwila, King County, Washington, 98168, United States"
+        ]
     }
 ]

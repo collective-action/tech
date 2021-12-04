@@ -16,7 +16,9 @@
     ],
     "description": "Over 1000 Google employees have signed a letter calling for their employer to take action on the issues of climate change and immigration. The letter called on Google to commit to zero carbon emissions by 2030, end all contracts with fossil fuel companies and climate change denying or delaying 'think tanks, lobbyists, and politicians', and end all collaboration with organizations or individuals 'enabling the incarceration, surveillance, displacement, or oppression of refugees or frontline communities'. ",
     "online": true,
-    "locations": null,
+    "locations": [
+        "usa"
+    ],
     "companies": [
         "google"
     ],
@@ -29,6 +31,13 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            33.977092,
+            -118.4092133
+        ]
+    ],
+    "addresses": [
+        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
+    ]
 }

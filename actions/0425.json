@@ -18,7 +18,9 @@
     ],
     "description": "An open letter was published demanding justice for Jessica (Ming) Tao, a former employee at Google. According to the open letter, \"Google has chosen to put Jessica on unpaid leave while her rapist is still fully employed.\" The letter states that this is a common practice where Google protects the harasser instead of the victim. The letter demands that Jessica is compensated in full for her time on disability leave. The letter demands, \"that survivors involved in future proceedings are always compensated for their time during this traumatizing process.\" Lastly, the letter demands Alphabet to stop having workers go to employee assistance program (EAP) therapy when they face harassment or other workplace abuses. ",
     "online": true,
-    "locations": null,
+    "locations": [
+        "usa"
+    ],
     "companies": [
         "google",
         "alphabet"
@@ -30,6 +32,18 @@
     "author": [
         "hyatt d."
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            33.977092,
+            -118.4092133
+        ],
+        [
+            37.3398646,
+            -121.8844823
+        ]
+    ],
+    "addresses": [
+        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
+        "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112-3580, United States"
+    ]
 }

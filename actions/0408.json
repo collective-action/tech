@@ -16,7 +16,9 @@
     ],
     "description": "Workers at Apple have circulated a petition protesting the company's decision to hire Antonio Garcia Martinez. Employees expressed concerns about his views on women and people of color because of statements in his book, \"Chaos Monkeys\", which they find to be racist and sexist. UPDATE: As of May 12, 2021, Antonio Garcia Martinez is no longer working with Apple.",
     "online": null,
-    "locations": null,
+    "locations": [
+        "usa"
+    ],
     "companies": [
         "apple"
     ],
@@ -28,6 +30,13 @@
     "author": [
         "hyatt d."
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            42.3489689,
+            -71.0824143
+        ]
+    ],
+    "addresses": [
+        "Apple Store, 815, Boylston Street, Block F, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States"
+    ]
 }

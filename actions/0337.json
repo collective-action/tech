@@ -18,7 +18,9 @@
     ],
     "description": "A group of cross-company organizers in tech have started a repository called \"Tech Truths\" that highlights incidents of discrimination in tech, including \"discrimination by race, gender, sexual orientation, disability status, immigration status, and more\". To date (10/7/2020), 107 different stories of discrimination have been shared and published.",
     "online": true,
-    "locations": null,
+    "locations": [
+        "usa"
+    ],
     "companies": null,
     "workers": 107,
     "tags": [
@@ -29,6 +31,13 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            39.7837304,
+            -100.445882
+        ]
+    ],
+    "addresses": [
+        "United States"
+    ]
 }

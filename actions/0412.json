@@ -19,7 +19,9 @@
     ],
     "description": "640 Amazon workers have signed a petition asking the company to commit to zero emissions by 2030 and to prioritize zero emission technology in communities of color hit hardest by the effects of their pollution. The petition began after Amazon rejected a shareholder resolution asking the company to report their emissions in communities of color. ",
     "online": true,
-    "locations": null,
+    "locations": [
+        "usa"
+    ],
     "companies": [
         "amazon"
     ],
@@ -32,6 +34,13 @@
     "author": [
         "hyatt d."
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            46.320207,
+            -112.1072224
+        ]
+    ],
+    "addresses": [
+        "Amazon, Jefferson County, Montana, United States"
+    ]
 }

@@ -15,7 +15,9 @@
     ],
     "description": "Github users have launched a campaign to pressure the company to drop its contracts with ICE. Users have changed their profile pictures to the company's mascot, Octocat, with a message reading \"Drop ICE\". ",
     "online": true,
-    "locations": null,
+    "locations": [
+        "worldwide"
+    ],
     "companies": [
         "github",
         "microsoft"

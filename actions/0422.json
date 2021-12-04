@@ -16,7 +16,9 @@
     ],
     "description": "Black TikTok content creators went on strike protesting the platform's cultural appropriation of their creative content. Users and content creators have pointed out that they don't receive credit for their creative work while other platform users can copy them and receive more views, fame, and recognition. Using the hashtag #BlackTikTokStrike, users and content creators raised awareness on the app and Twitter. ",
     "online": true,
-    "locations": null,
+    "locations": [
+        "worldwide"
+    ],
     "companies": [
         "tiktok"
     ],

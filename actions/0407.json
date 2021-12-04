@@ -16,7 +16,9 @@
     ],
     "description": "Black in AI, Queer in AI, and WiNLP have written an open letter condemning Google's actions for dismissing Dr. Timnit Gebru, Dr. Margaret Mitchell, and April Christina Curley. Black in AI, Queer in AI, and WiNLP have ended their sponsorship with Google and expressed concern that the company's actions have set a dangerous precedent for what is acceptable in the AI community.",
     "online": null,
-    "locations": null,
+    "locations": [
+        "worldwide"
+    ],
     "companies": [
         "google"
     ],

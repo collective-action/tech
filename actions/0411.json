@@ -16,7 +16,9 @@
     ],
     "description": "Nearly a thousand Apple employees have signed an internal letter addressed to Tim Cook asking him to support the Palestinian community and people in light of Israel's bombing of Gaza which has led to the loss of 227 lives, including 63 children. The letter, written by the Apple Muslim Association, asks that Apple make it clear that Palestinian lives matter and that Palestinian people are under an illegal occupation. Moreover, the letter asks Apple to commit to understanding, engaging with, and learning about the Palestinian community and other diverse communities which make up the company. ",
     "online": true,
-    "locations": null,
+    "locations": [
+        "usa"
+    ],
     "companies": [
         "apple"
     ],
@@ -27,6 +29,13 @@
     "author": [
         "hyatt d."
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            42.3489689,
+            -71.0824143
+        ]
+    ],
+    "addresses": [
+        "Apple Store, 815, Boylston Street, Block F, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States"
+    ]
 }

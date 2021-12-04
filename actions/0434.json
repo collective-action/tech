@@ -22,7 +22,9 @@
     ],
     "description": "The Apple workers in #AppleToo have released an open letter calling on Tim Cook and the Senior Leadership team to follow through in its diversity, equity, and inclusion promises. Workers have brought up invasive privacy policies, abuse, discrimination, and harassment. Their demands include: (1) \u201cincreased separation between Apple-owned and worker-owned digital and physical property in all Apple policies,\u201d (2) \u201ctransparent livable, equitable, and fair compensation across all of Apple,\u201d (3) \u201caudit all third-party relationships,\u201d among others. ",
     "online": true,
-    "locations": null,
+    "locations": [
+        "usa"
+    ],
     "companies": [
         "apple"
     ],
@@ -38,6 +40,13 @@
     "author": [
         "wynniechan"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            42.3489689,
+            -71.0824143
+        ]
+    ],
+    "addresses": [
+        "Apple Store, 815, Boylston Street, Block F, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States"
+    ]
 }

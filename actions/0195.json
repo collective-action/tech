@@ -16,7 +16,9 @@
     ],
     "description": "Microsoft employees are using a shared Google spreadsheet to compile data on salary and bonuses. The spreadsheet also makes note of employee level, or rank, within the company in an attempt to encourage greater transparency on compensation.",
     "online": true,
-    "locations": null,
+    "locations": [
+        "usa"
+    ],
     "companies": [
         "microsoft"
     ],
@@ -25,6 +27,13 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.3974949,
+            -122.0842646
+        ]
+    ],
+    "addresses": [
+        "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, California, 94043, United States"
+    ]
 }

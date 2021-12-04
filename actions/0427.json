@@ -17,7 +17,9 @@
     ],
     "description": "Only July 31st, DoorDash drivers across the nation went on strike protesting pay and the company's lack of transparency about tips in what might be the first coordinated strike in the company's history. Workers demand that DoorDash show the tip amount for an order and have a minimum of $4.50 base pay for every order. DoorDash had recently blocked access to an app called Para that allowed workers to see the tip amount before accepting an order. Organizing for the strike began with online posts to Reddit. On the day of the strike, many workers posted online via Twitter, YouTube, and Reddit voicing their struggles. ",
     "online": true,
-    "locations": null,
+    "locations": [
+        "usa"
+    ],
     "companies": [
         "doordash"
     ],
@@ -29,6 +31,13 @@
     "author": [
         "hyatt d."
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.7834546,
+            -122.4080358
+        ]
+    ],
+    "addresses": [
+        "Doordash HQ, Market Street, SOMA Pilipinas, San Francisco, San Francisco City and County, San Francisco, California, 94104, United States"
+    ]
 }

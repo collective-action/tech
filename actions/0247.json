@@ -16,7 +16,9 @@
     ],
     "description": "AI researchers and engineers from around the world signed an online open letter calling for the tech industry to refrain from using AI technologies to 'exacerbate the climate crisis'. The letter, authored by Tech Won't Drill It, has been signed by over 100 AI researchers.",
     "online": true,
-    "locations": null,
+    "locations": [
+        "worldwide"
+    ],
     "companies": null,
     "workers": 141,
     "tags": [

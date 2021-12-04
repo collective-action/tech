@@ -18,7 +18,9 @@
     ],
     "description": "More than 200 Facebook workers signed a letter demanding better treatment for content moderators after being required to return to the office in the midst of the pandemic. The contractors who wrote the letter condemned the company for deciding \u201cto risk our lives to maintain Facebook\u2019s profits during the pandemic\u201d. It was sent to chief executive officer Mark Zuckerberg, chief operating officer Sheryl Sandberg, and top executives at Accenture and CPL, two companies that contract the moderators. The open letter was published with UK-based non-profit Foxglove.",
     "online": true,
-    "locations": null,
+    "locations": [
+        "usa"
+    ],
     "companies": [
         "CPL",
         "facebook",
@@ -32,6 +34,23 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            40.76893325,
+            -73.50525969769677
+        ],
+        [
+            30.2691649,
+            -97.7455041
+        ],
+        [
+            37.3339398,
+            -121.8895142
+        ]
+    ],
+    "addresses": [
+        "Cpl Kevin Kolm Memorial Park (Triangle Park) H-19, Hicksville, Town of Oyster Bay, Nassau County, New York, United States",
+        "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States",
+        "Accenture, West San Fernando Street, Downtown Historic District, San Jose, Santa Clara County, California, 95113, United States"
+    ]
 }

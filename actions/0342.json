@@ -15,7 +15,9 @@
     ],
     "description": "At least 290 Facebook employees and contractors signed a petition demanding a 50% wage increase as hazard pay for site moderators who have been forced to return to the office by October 12th of this year. Additional demands include compensation for all costs related to COVID-19 testing and treatment, as well as additional time off and an expedited time off review process. Accenture, which hired the moderators as contractors, informed them on October 1st that they would have to return to their office in Austin, Texas. A Facebook spokesperson said the reason for the return was that \"some of the most sensitive content can\u2019t be reviewed from home\". Full-time, directly hired Facebook employees don't have to return to the office until July 2021. ",
     "online": true,
-    "locations": null,
+    "locations": [
+        "usa"
+    ],
     "companies": [
         "accenture",
         "facebook"
@@ -29,6 +31,18 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.3339398,
+            -121.8895142
+        ],
+        [
+            30.2691649,
+            -97.7455041
+        ]
+    ],
+    "addresses": [
+        "Accenture, West San Fernando Street, Downtown Historic District, San Jose, Santa Clara County, California, 95113, United States",
+        "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
+    ]
 }

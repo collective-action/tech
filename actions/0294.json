@@ -17,7 +17,9 @@
     ],
     "description": "Nearly three dozen early Facebook employees, including its first Chief of Communications, wrote a letter to CEO Mark Zuckerberg protesting his decision to leave Donald Trump's posts up on the website without action. Twitter chose to add labels to several of these posts warning that they were inaccurate or glorified violence. They claimed Facebook's inaction against these posts violated many of the original ideals the company had been founded on. ",
     "online": true,
-    "locations": null,
+    "locations": [
+        "usa"
+    ],
     "companies": [
         "facebook"
     ],
@@ -28,6 +30,13 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            30.2691649,
+            -97.7455041
+        ]
+    ],
+    "addresses": [
+        "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
+    ]
 }

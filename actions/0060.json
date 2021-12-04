@@ -15,7 +15,9 @@
     ],
     "description": "Three online petitions were started to protest parental leave policies at Netflix. The company recently began to offer a one-year paid parental leave but excluded employees in its DVD-by-mail service, who are typically lower paid than streaming employees and receive fewer benefits.",
     "online": true,
-    "locations": null,
+    "locations": [
+        "usa"
+    ],
     "companies": [
         "netflix"
     ],
@@ -26,6 +28,13 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            40.76376354999999,
+            -73.97430267133896
+        ]
+    ],
+    "addresses": [
+        "Paris Theatre, 4, West 58th Street, Midtown, Manhattan Community Board 5, Manhattan, New York County, New York, 10019, United States"
+    ]
 }

@@ -15,7 +15,9 @@
     ],
     "description": "Scientists funded by the Chan Zuckerberg Initiative addressed a letter to Mark Zuckerberg critiquing Facebook's role in diffusing inaccurate information, in particular Donald Trump's \"when the looting starts, the shooting starts\" comment in relation to the George Floyd protests. The authors argued that the letter promotes violence. ",
     "online": true,
-    "locations": null,
+    "locations": [
+        "usa"
+    ],
     "companies": [
         "facebook"
     ],
@@ -27,6 +29,13 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            30.2691649,
+            -97.7455041
+        ]
+    ],
+    "addresses": [
+        "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
+    ]
 }
