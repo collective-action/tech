@@ -20,11 +20,11 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">04/12/2021 04:27PM</td>
+    <td data-summary="timestamp">05/12/2021 12:27AM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">454</td>
+    <td data-summary="action-count">456</td>
   </tr>
  </table>
 </div>
@@ -41,6 +41,36 @@ The goal of this archive is to provide data and insights on organizing in the te
    </td>
    <td>
     link
+   </td>
+  </tr>
+  <tr author="wynniechan">
+   <td>
+    2021-11-13
+   </td>
+   <td>
+    In response to foodpanda cutting the delivery fee and fee for delivering two orders at once, the delivery workers went on strike outside the Tsim Sha Tsui and Kwun Tong foodpanda offices from November 13 to 14. Their slogans criticized the pay cuts and called for a higher minimum service charge.
+   </td>
+   <td>
+    <a href="/actions/0455.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="wynniechan">
+   <td>
+    2021-11-11
+   </td>
+   <td>
+    The union Unite Here Local 2850 has filed unfair labor practice charges against HelloFresh for retaliation, intimidation, and bullying. For example, some workers who were distributing union leaflets outside during lunch break were told this wasn’t permitted, and others were demoted. Moreover, Kulture Consulting consultants have hosted captive audience meetings. A HelloFresh spokesperson has responded, saying that they respect the workers' decision of choosing whether to be represented by a union, and that they will refute the charges.
+   </td>
+   <td>
+    <a href="/actions/0454.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
    </td>
   </tr>
   <tr author="wynniechan">
