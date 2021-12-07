@@ -1,44 +1,36 @@
 {
-    "id": 501,
+    "id": 498,
     "date": "2021/11/23",
     "sources": [
-        "https://www.cnbc.com/2021/11/23/google-employees-sign-manifesto-against-widened-vaccine-mandate.html",
-        "https://www.dailymail.co.uk/news/article-10236939/At-600-Google-workers-sign-manifesto-calling-company-retract-COVID-vaccine-mandate.html"
+        "https://t.co/sLOVFbdbZK?amp=1",
+        "https://twitter.com/wirecutterunion/status/1463175088325505035"
     ],
     "actions": [
-        "open letter"
+        "protest",
+        "strike"
     ],
     "struggles": [
-        "ethics"
+        "pay and benefits",
+        "working conditions",
+        "unfair labor practices"
     ],
     "employment_types": [
         "white collar workers",
-        "contract workers",
         "inhouse workers"
     ],
-    "description": "Around 600 Google employees signed a manifesto that opposes Google\u2019s new COVID-19 vaccine mandate for its potential impact on corporate America and as a matter of principle and inclusion. An open letter was also sent to Google\u2019s chief health officer, Karen DeSalvo. ",
+    "description": "After wage and unfair labor practice negotiations were continually delayed for two years by The New York Times Company, the Wirecutter Union organized a walkout during Black Friday and encouraged their readers to not use Wirecutter from 11/25 - 11/29.",
     "online": true,
-    "locations": [
-        "usa"
-    ],
+    "locations": null,
     "companies": [
-        "google"
+        "the new york times"
     ],
-    "workers": 601,
+    "workers": null,
     "tags": [
-        "coronavirus",
-        "politics"
+        "online action"
     ],
     "author": [
         "wynniechan"
     ],
-    "latlngs": [
-        [
-            33.977092,
-            -118.4092133
-        ]
-    ],
-    "addresses": [
-        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

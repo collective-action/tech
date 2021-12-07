@@ -1,38 +1,40 @@
 {
-    "id": 500,
-    "date": "2021/11/28",
+    "id": 502,
+    "date": "2021/11/26",
     "sources": [
-        "https://freedomnews.org.uk/2021/11/26/sheffield-justeat-couriers-set-to-strike-protest-against-shocking-pay-cut/",
-        "https://actionnetwork.org/fundraising/sheffield-justeat-riders-are-going-on-strike-pay-rise-not-pay-cut",
-        "https://twitter.com/SYorksCouriers/status/1463197173261156353?t=Ad7HM8-Sil6pAu00vzPK-g&s=19"
+        "https://aiscientists4peace.org/offener-brief/english-version"
     ],
     "actions": [
-        "protest",
-        "strike"
+        "open letter"
     ],
     "struggles": [
-        "pay and benefits"
+        "ethics"
     ],
     "employment_types": [
-        "gig workers",
+        "white collar workers",
+        "inhouse workers",
         "contract workers"
     ],
-    "description": "In response to a planned 25% pay cut, Stuart food delivery workers from IWGB held a demonstration outside of Sheffield Town Hall. They demand a pay rise, especially as the minimum living wage has increased. They also have no sick pay and have to pay for their own vehicle and insurance costs.",
-    "online": null,
+    "description": "German AI and computer scientists created a public appeal that opposes the use of autonomous weapon systems for the Bundeswehr. They argue that weaponized, automated drones are dangerous for humanitarian and security reasons, such as how this technology can enable military confrontation. Thus, they wish to ban armed drones.",
+    "online": true,
     "locations": [
-        "sheffield-englad-uk"
+        "germany"
     ],
-    "companies": [
-        "stuart",
-        "justeatuk"
-    ],
-    "workers": 22,
+    "companies": null,
+    "workers": null,
     "tags": [
-        "delivery_workers"
+        "industry solidarity"
     ],
     "author": [
         "wynniechan"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            51.0834196,
+            10.4234469
+        ]
+    ],
+    "addresses": [
+        "Deutschland"
+    ]
 }

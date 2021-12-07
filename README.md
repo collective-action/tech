@@ -20,11 +20,11 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">07/12/2021 04:27PM</td>
+    <td data-summary="timestamp">07/12/2021 05:30PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">463</td>
+    <td data-summary="action-count">464</td>
   </tr>
  </table>
 </div>
@@ -51,7 +51,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Three former Google workers are filing a lawsuit against Google for slander, breach of contract, and termination in violation of public policy. While at Google, the former employees had publicly protested Google’s intent to enter a contract with the CBP and ICE. Some Google workers believe the firing was to discourage organizing. Google responded that the firings are due to violations of their data security policies.
    </td>
    <td>
-    <a href="/actions/0462.json">
+    <a href="/actions/0463.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -66,7 +66,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     In response to a planned 25% pay cut, Stuart food delivery workers from IWGB held a demonstration outside of Sheffield Town Hall. They demand a pay rise, especially as the minimum living wage has increased. They also have no sick pay and have to pay for their own vehicle and insurance costs.
    </td>
    <td>
-    <a href="/actions/0461.json">
+    <a href="/actions/0462.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -81,7 +81,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     German AI and computer scientists created a public appeal that opposes the use of autonomous weapon systems for the Bundeswehr. They argue that weaponized, automated drones are dangerous for humanitarian and security reasons, such as how this technology can enable military confrontation. Thus, they wish to ban armed drones.
    </td>
    <td>
-    <a href="/actions/0460.json">
+    <a href="/actions/0461.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -96,7 +96,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     With the slogan “Gopuff yourself,” Gopuff drivers plan to strike for 24 hours on Tuesday to demand better pay and working conditions. Specifically, the drivers are demanding an increase in their guaranteed hourly rate and a guaranteed minimum number of hours. They also want increased transparency around termination. The strikes are in response to reduced minimum hourly pay rate and bonuses, to which Gopuff said they were working to improve conditions, and that drivers earn more on average compared to industry rates. The drivers are supported by Working Washington, a pro-labor group.
    </td>
    <td>
-    <a href="/actions/0459.json">
+    <a href="/actions/0460.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -111,7 +111,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Around 600 Google employees signed a manifesto that opposes Google’s new COVID-19 vaccine mandate for its potential impact on corporate America and as a matter of principle and inclusion. An open letter was also sent to Google’s chief health officer, Karen DeSalvo.
    </td>
    <td>
-    <a href="/actions/0458.json">
+    <a href="/actions/0459.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -124,6 +124,21 @@ The goal of this archive is to provide data and insights on organizing in the te
    </td>
    <td>
     After wage and unfair labor practice negotiations were continually delayed for two years by The New York Times Company, the Wirecutter Union organized a walkout during Black Friday and encouraged their readers to not use Wirecutter from 11/25 - 11/29.
+   </td>
+   <td>
+    <a href="/actions/0458.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="wynniechan">
+   <td>
+    2021-11-18
+   </td>
+   <td>
+    The campaign Make Amazon Pay, composed of over 70 labor unions of 20 different countries, planned delivery drivers strike, work stoppages, demonstrations, and protests on Black Friday. Their demands include “workplace improvements, job security, respect for workers’ rights, sustainable operations and paying back society.” Additionally, on Black Friday, the environmental group Extinction Rebellion blocked the entrances to 13 UK distribution centers, a separate protest from Make Amazon Pay.
    </td>
    <td>
     <a href="/actions/0457.json">

@@ -1,45 +1,38 @@
 {
-    "id": 503,
-    "date": "2021/11/29",
+    "id": 500,
+    "date": "2021/11/28",
     "sources": [
-        "https://www.forbes.com/sites/angelauyeung/2021/11/29/former-google-engineers-sue-company-alleging-slander-and-breach-of-contract/?sh=2157de0e67e6"
+        "https://freedomnews.org.uk/2021/11/26/sheffield-justeat-couriers-set-to-strike-protest-against-shocking-pay-cut/",
+        "https://actionnetwork.org/fundraising/sheffield-justeat-riders-are-going-on-strike-pay-rise-not-pay-cut",
+        "https://twitter.com/SYorksCouriers/status/1463197173261156353?t=Ad7HM8-Sil6pAu00vzPK-g&s=19"
     ],
     "actions": [
-        "legal action"
+        "protest",
+        "strike"
     ],
     "struggles": [
-        "unfair labor practices",
-        "ethics",
-        "job security"
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers"
+        "gig workers",
+        "contract workers"
     ],
-    "description": "Three former Google workers are filing a lawsuit against Google for slander, breach of contract, and termination in violation of public policy. While at Google, the former employees had publicly protested Google\u2019s intent to enter a contract with the CBP and ICE. Some Google workers believe the firing was to discourage organizing. Google responded that the firings are due to violations of their data security policies. ",
+    "description": "In response to a planned 25% pay cut, Stuart food delivery workers from IWGB held a demonstration outside of Sheffield Town Hall. They demand a pay rise, especially as the minimum living wage has increased. They also have no sick pay and have to pay for their own vehicle and insurance costs.",
     "online": null,
     "locations": [
-        "santa clara-california-usa"
+        "sheffield-englad-uk"
     ],
     "companies": [
-        "google"
+        "stuart",
+        "justeatuk"
     ],
-    "workers": 3,
+    "workers": 22,
     "tags": [
-        "retaliation",
-        "military_contracts",
-        "ice",
-        "politics"
+        "delivery_workers"
     ],
     "author": [
         "wynniechan"
     ],
-    "latlngs": [
-        [
-            37.419000999999994,
-            -122.08237596053958
-        ]
-    ],
-    "addresses": [
-        "Google, Mountain View, Santa Clara County, California, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

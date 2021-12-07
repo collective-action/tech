@@ -1,36 +1,107 @@
 {
-    "id": 498,
-    "date": "2021/11/23",
+    "id": 505,
+    "date": "2021/11/18",
     "sources": [
-        "https://t.co/sLOVFbdbZK?amp=1",
-        "https://twitter.com/wirecutterunion/status/1463175088325505035"
+        "https://www.dailydot.com/debug/make-amazon-pay-black-friday/",
+        "https://www.cnet.com/tech/amazon-scattered-black-friday-protests/",
+        "https://makeamazonpay.com/"
     ],
     "actions": [
         "protest",
-        "strike"
+        "strike",
+        "open letter"
     ],
     "struggles": [
         "pay and benefits",
         "working conditions",
-        "unfair labor practices"
+        "ethics",
+        "job security"
     ],
     "employment_types": [
-        "white collar workers",
+        "blue collar workers",
+        "contract workers",
         "inhouse workers"
     ],
-    "description": "After wage and unfair labor practice negotiations were continually delayed for two years by The New York Times Company, the Wirecutter Union organized a walkout during Black Friday and encouraged their readers to not use Wirecutter from 11/25 - 11/29.",
+    "description": "The campaign Make Amazon Pay, composed of over 70 labor unions of 20 different countries, planned delivery drivers strike, work stoppages, demonstrations, and protests on Black Friday. Their demands include \u201cworkplace improvements, job security, respect for workers\u2019 rights, sustainable operations and paying back society.\u201d Additionally, on Black Friday, the environmental group Extinction Rebellion blocked the entrances to 13 UK distribution centers, a separate protest from Make Amazon Pay. ",
     "online": true,
-    "locations": null,
-    "companies": [
-        "the new york times"
+    "locations": [
+        "italy",
+        "france",
+        "usa",
+        "south africa",
+        "bangladesh",
+        "cambodia",
+        "uk",
+        "germany",
+        "netherlands",
+        "india"
     ],
-    "workers": null,
+    "companies": [
+        "amazon"
+    ],
+    "workers": 22,
     "tags": [
-        "online action"
+        "international solidarity",
+        "climate_strike",
+        "climate change",
+        "politics",
+        "coronavirus"
     ],
     "author": [
         "wynniechan"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            45.528468950000004,
+            9.835897674840712
+        ],
+        [
+            46.73690925,
+            4.850183355658723
+        ],
+        [
+            46.320207,
+            -112.1072224
+        ],
+        [
+            -25.7668121,
+            28.3256044
+        ],
+        [
+            23.60752375,
+            89.49479645087905
+        ],
+        [
+            11.5615519,
+            104.9260436
+        ],
+        [
+            52.3124769,
+            -1.878707127163782
+        ],
+        [
+            51.653494949999995,
+            7.59464606445661
+        ],
+        [
+            52.3752474,
+            4.8947825
+        ],
+        [
+            12.9795028,
+            77.6959454
+        ]
+    ],
+    "addresses": [
+        "Amazon, Cividate al Piano, Bergamo, Lombardia, Italia",
+        "Amazon.fr Logistique Distrip\u00f4le Chalon, Sevrey, Chalon-sur-Sa\u00f4ne, Sa\u00f4ne-et-Loire, Bourgogne-Franche-Comt\u00e9, France m\u00e9tropolitaine, 71100, France",
+        "Amazon, Jefferson County, Montana, United States",
+        "Amazon, The Highway Street, Wapadrand Security Village, Tshwane Ward 85, City of Tshwane Metropolitan Municipality, Gauteng, 0050, South Africa",
+        "Amazon, Narua Kheya Ghat Road, Narua, \u09b0\u09be\u099c\u09ac\u09be\u09dc\u09c0 \u099c\u09c7\u09b2\u09be, \u09a2\u09be\u0995\u09be \u09ac\u09bf\u09ad\u09be\u0997, 7730, \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6",
+        "Amazon, \u179c\u17b7\u1790\u17b8 \u179f\u1798\u17d2\u178f\u17c1\u1785 \u1794\u17c9\u17b6\u1793 (\u17e2\u17e1\u17e4), \u179f\u1784\u17d2\u1780\u17b6\u178f\u17cb\u1794\u17b9\u1784\u179a\u17b6\u17c6\u1784, \u1781\u178e\u17d2\u178c\u178a\u17bc\u1793\u1796\u17c1\u1789, \u179a\u17b6\u1787\u1792\u17b6\u1793\u17b8\u1797\u17d2\u1793\u17c6\u1796\u17c1\u1789, 120204, \u1796\u17d2\u179a\u17c7\u179a\u17b6\u1787\u17b6\u178e\u17b6\u1785\u1780\u17d2\u179a\u200b\u1780\u1798\u17d2\u1796\u17bb\u1787\u17b6",
+        "Amazon, Beoley CP, Holt End, Bromsgrove, Worcestershire, West Midlands, England, United Kingdom",
+        "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
+        "Amazon, 169, Nieuwendijk, Centrum, Amsterdam, Noord-Holland, Nederland, 1012MG, Nederland",
+        "Amazon, Doddanekkundi Main Road, Doddanekundi, Dodda Nekkundi, Mahadevapura Zone, Bengaluru, Bangalore East, Bangalore Urban, Karnataka, 560 048, India"
+    ]
 }
