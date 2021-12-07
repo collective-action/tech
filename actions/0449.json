@@ -1,41 +1,47 @@
 {
-    "id": 487,
-    "date": "2021/10/19",
+    "id": 485,
+    "date": "2021/10/18",
     "sources": [
-        "https://www.theverge.com/2021/10/19/22726915/facebook-content-moderators-protest-low-wages",
-        "https://www.foxglove.org.uk/2021/10/19/letter-facebook-content-moderators-julie-sweet/"
+        "https://www.theverge.com/2021/10/18/22733098/netflix-trans-employees-demands-dave-chappelle-walkout",
+        "https://www.theverge.com/2021/10/15/22728337/netflix-fires-organizer-trans-employee-walkout-dave-chappelle"
     ],
     "actions": [
-        "protest",
-        "open letter"
+        "open letter",
+        "protest"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "discrimination",
+        "ethics"
     ],
     "employment_types": [
-        "contract workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "With the backing of Foxglove Legal, Facebook contract moderators at Accenture are protesting low wages with a mobile billboard and internal letter. The billboard calls for Accenture CEO Julie Sweet to \u201cstop exploiting your workers,\u201d considering how much Accenture is paid compared to how much content moderators make per hour. Ukrainian and Spanish language moderators are also excluded from the $2 premium that bilingual moderators receive. Despite the demand for equal pay in June, there was no change. Moreover, the moderators\u2019 work is emotionally and mentally taxing because of the unpleasant content they moderate. Accenture only offers access to behavioral coaches instead of professional psychological care, according to Foxglove Legal. ",
-    "online": null,
+    "description": "In response to Dave Chappelle's controversial Netflix special,  Netflix trans employee resource group has released a list of demands and organized a walkout for October 20th. The demands are increased internal conversations about potentially harmful content, the hiring of trans and nonbinary executives, and removing transphobic content in the office; it notably does not include removing Chappelle\u2019s special from Netflix. Also, a leader of the trans-ERG was fired from Netflix because the company concluded that she leaked confidential information. ",
+    "online": true,
     "locations": [
-        "bethesda-maryland-usa",
-        "washington_dc-usa"
+        "usa"
     ],
     "companies": [
-        "accenture",
-        "facebook"
+        "netflix"
     ],
     "workers": null,
     "tags": [
-        "moderators",
+        "lgbtq",
         "coworker solidarity",
-        "industry solidarity",
-        "international solidarity"
+        "online action",
+        "retaliation"
     ],
     "author": [
         "wynniechan"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            40.76376354999999,
+            -73.97430267133896
+        ]
+    ],
+    "addresses": [
+        "Paris Theatre, 4, West 58th Street, Midtown, Manhattan Community Board 5, Manhattan, New York County, New York, 10019, United States"
+    ]
 }

@@ -1,0 +1,44 @@
+{
+    "id": 501,
+    "date": "2021/11/23",
+    "sources": [
+        "https://www.cnbc.com/2021/11/23/google-employees-sign-manifesto-against-widened-vaccine-mandate.html",
+        "https://www.dailymail.co.uk/news/article-10236939/At-600-Google-workers-sign-manifesto-calling-company-retract-COVID-vaccine-mandate.html"
+    ],
+    "actions": [
+        "open letter"
+    ],
+    "struggles": [
+        "ethics"
+    ],
+    "employment_types": [
+        "white collar workers",
+        "contract workers",
+        "inhouse workers"
+    ],
+    "description": "Around 600 Google employees signed a manifesto that opposes Google\u2019s new COVID-19 vaccine mandate for its potential impact on corporate America and as a matter of principle and inclusion. An open letter was also sent to Google\u2019s chief health officer, Karen DeSalvo. ",
+    "online": true,
+    "locations": [
+        "usa"
+    ],
+    "companies": [
+        "google"
+    ],
+    "workers": 601,
+    "tags": [
+        "coronavirus",
+        "politics"
+    ],
+    "author": [
+        "wynniechan"
+    ],
+    "latlngs": [
+        [
+            33.977092,
+            -118.4092133
+        ]
+    ],
+    "addresses": [
+        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": 500,
+    "date": "2021/11/28",
+    "sources": [
+        "https://freedomnews.org.uk/2021/11/26/sheffield-justeat-couriers-set-to-strike-protest-against-shocking-pay-cut/",
+        "https://actionnetwork.org/fundraising/sheffield-justeat-riders-are-going-on-strike-pay-rise-not-pay-cut",
+        "https://twitter.com/SYorksCouriers/status/1463197173261156353?t=Ad7HM8-Sil6pAu00vzPK-g&s=19"
+    ],
+    "actions": [
+        "protest",
+        "strike"
+    ],
+    "struggles": [
+        "pay and benefits"
+    ],
+    "employment_types": [
+        "gig workers",
+        "contract workers"
+    ],
+    "description": "In response to a planned 25% pay cut, Stuart food delivery workers from IWGB held a demonstration outside of Sheffield Town Hall. They demand a pay rise, especially as the minimum living wage has increased. They also have no sick pay and have to pay for their own vehicle and insurance costs.",
+    "online": null,
+    "locations": [
+        "sheffield-englad-uk"
+    ],
+    "companies": [
+        "stuart",
+        "justeatuk"
+    ],
+    "workers": 22,
+    "tags": [
+        "delivery_workers"
+    ],
+    "author": [
+        "wynniechan"
+    ],
+    "latlngs": null,
+    "addresses": null
+}

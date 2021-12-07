@@ -18128,7 +18128,7 @@
         "employment_types": [
             "blue collar workers"
         ],
-        "description": "1,300 HelloFresh workers are unionizing with UNITE HERE in Colorado and California due to low wages, safety issues, and poor work conditions. HelloFresh management has also been unresponsive towards workers after a COVID-19 outbreak in a Richmond facility. UNITE HERE filed a petition to NLRB to authorize a vote to unionize. In response, anti-union consultants, such as Kulture Consulting, were reported to have held mandatory anti-union meetings.",
+        "description": "1,300 HelloFresh workers are unionizing with UNITE HERE in Colorado and California due to low wages, safety issues, and poor work conditions. HelloFresh management has also been unresponsive towards workers after a COVID-19 outbreak in a Richmond facility. UNITE HERE filed a petition to NLRB to authorize a vote to unionize. In response, anti-union consultants, such as Kulture Consulting, were reported to have held mandatory anti-union meetings. Update: as of 11/23/2021, Workers at the HelloFresh Aurora facility voted 166-to-91 against union organizing. ",
         "online": null,
         "locations": [
             "richmond-california-usa",
@@ -18137,7 +18137,7 @@
         "companies": [
             "hellofresh"
         ],
-        "workers": null,
+        "workers": 1300,
         "tags": [
             "unite_here",
             "coronavirus"
@@ -18495,6 +18495,40 @@
         "workers": 11,
         "tags": [
             "teamster"
+        ],
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 495,
+        "date": "2021/10/12",
+        "sources": [
+            "https://www.businessinsider.com/microsoft-employees-leaked-salaries-spreadsheet-2021-10"
+        ],
+        "actions": [
+            "protest"
+        ],
+        "struggles": [
+            "pay and benefits",
+            "discrimination"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "In response to an internal email chain that brought up concerns over a gender wage gap, over 1200 Microsoft employees volunteered information about their salaries in a shared spreadsheet. Microsoft responded by acknowledging that there is more work to be done in the effort for equal pay for equal work. ",
+        "online": true,
+        "locations": null,
+        "companies": [
+            "microsoft"
+        ],
+        "workers": 1201,
+        "tags": [
+            "sexism",
+            "coworker solidarity"
         ],
         "author": [
             "wynniechan"
@@ -18981,6 +19015,202 @@
             "foodpanda"
         ],
         "workers": 50,
+        "tags": [
+            "delivery_workers"
+        ],
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 498,
+        "date": "2021/11/23",
+        "sources": [
+            "https://t.co/sLOVFbdbZK?amp=1",
+            "https://twitter.com/wirecutterunion/status/1463175088325505035"
+        ],
+        "actions": [
+            "protest",
+            "strike"
+        ],
+        "struggles": [
+            "pay and benefits",
+            "working conditions",
+            "unfair labor practices"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "After wage and unfair labor practice negotiations were continually delayed for two years by The New York Times Company, the Wirecutter Union organized a walkout during Black Friday and encouraged their readers to not use Wirecutter from 11/25 - 11/29.",
+        "online": true,
+        "locations": null,
+        "companies": [
+            "the new york times"
+        ],
+        "workers": null,
+        "tags": [
+            "online action"
+        ],
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 501,
+        "date": "2021/11/23",
+        "sources": [
+            "https://www.cnbc.com/2021/11/23/google-employees-sign-manifesto-against-widened-vaccine-mandate.html",
+            "https://www.dailymail.co.uk/news/article-10236939/At-600-Google-workers-sign-manifesto-calling-company-retract-COVID-vaccine-mandate.html"
+        ],
+        "actions": [
+            "open letter"
+        ],
+        "struggles": [
+            "ethics"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "contract workers",
+            "inhouse workers"
+        ],
+        "description": "Around 600 Google employees signed a manifesto that opposes Google\u2019s new COVID-19 vaccine mandate for its potential impact on corporate America and as a matter of principle and inclusion. An open letter was also sent to Google\u2019s chief health officer, Karen DeSalvo. ",
+        "online": true,
+        "locations": [
+            "usa"
+        ],
+        "companies": [
+            "google"
+        ],
+        "workers": 601,
+        "tags": [
+            "coronavirus",
+            "politics"
+        ],
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": [
+            [
+                33.977092,
+                -118.4092133
+            ]
+        ],
+        "addresses": [
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
+        ]
+    },
+    {
+        "id": 496,
+        "date": "2021/11/23",
+        "sources": [
+            "https://www.msn.com/en-us/money/markets/using-the-slogan-gopuff-yourself-company-drivers-plan-a-24-hour-strike-over-pay/ar-AAQZU5Q",
+            "https://gp-action.paperform.co/?s=ss"
+        ],
+        "actions": [
+            "strike",
+            "open letter"
+        ],
+        "struggles": [
+            "pay and benefits",
+            "working conditions",
+            "job security"
+        ],
+        "employment_types": [
+            "gig workers",
+            "contract workers"
+        ],
+        "description": "With the slogan \u201cGopuff yourself,\u201d Gopuff drivers plan to strike for 24 hours on Tuesday to demand better pay and working conditions. Specifically, the drivers are demanding an increase in their guaranteed hourly rate and a guaranteed minimum number of hours. They also want increased transparency around termination. The strikes are in response to reduced minimum hourly pay rate and bonuses, to which Gopuff said they were working to improve conditions, and that drivers earn more on average compared to industry rates. The drivers are supported by Working Washington, a pro-labor group.  ",
+        "online": true,
+        "locations": [
+            "philadephia-pennsylvania-usa"
+        ],
+        "companies": [
+            "gopuff"
+        ],
+        "workers": 201,
+        "tags": [
+            "delivery_workers"
+        ],
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 502,
+        "date": "2021/11/26",
+        "sources": [
+            "https://aiscientists4peace.org/offener-brief/english-version"
+        ],
+        "actions": [
+            "open letter"
+        ],
+        "struggles": [
+            "ethics"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers",
+            "contract workers"
+        ],
+        "description": "German AI and computer scientists created a public appeal that opposes the use of autonomous weapon systems for the Bundeswehr. They argue that weaponized, automated drones are dangerous for humanitarian and security reasons, such as how this technology can enable military confrontation. Thus, they wish to ban armed drones.",
+        "online": true,
+        "locations": [
+            "germany"
+        ],
+        "companies": null,
+        "workers": null,
+        "tags": [
+            "industry solidarity"
+        ],
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": [
+            [
+                51.0834196,
+                10.4234469
+            ]
+        ],
+        "addresses": [
+            "Deutschland"
+        ]
+    },
+    {
+        "id": 500,
+        "date": "2021/11/28",
+        "sources": [
+            "https://freedomnews.org.uk/2021/11/26/sheffield-justeat-couriers-set-to-strike-protest-against-shocking-pay-cut/",
+            "https://actionnetwork.org/fundraising/sheffield-justeat-riders-are-going-on-strike-pay-rise-not-pay-cut",
+            "https://twitter.com/SYorksCouriers/status/1463197173261156353?t=Ad7HM8-Sil6pAu00vzPK-g&s=19"
+        ],
+        "actions": [
+            "protest",
+            "strike"
+        ],
+        "struggles": [
+            "pay and benefits"
+        ],
+        "employment_types": [
+            "gig workers",
+            "contract workers"
+        ],
+        "description": "In response to a planned 25% pay cut, Stuart food delivery workers from IWGB held a demonstration outside of Sheffield Town Hall. They demand a pay rise, especially as the minimum living wage has increased. They also have no sick pay and have to pay for their own vehicle and insurance costs.",
+        "online": null,
+        "locations": [
+            "sheffield-englad-uk"
+        ],
+        "companies": [
+            "stuart",
+            "justeatuk"
+        ],
+        "workers": 22,
         "tags": [
             "delivery_workers"
         ],

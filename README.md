@@ -20,11 +20,11 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">07/12/2021 01:34PM</td>
+    <td data-summary="timestamp">07/12/2021 03:31PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">456</td>
+    <td data-summary="action-count">462</td>
   </tr>
  </table>
 </div>
@@ -45,13 +45,88 @@ The goal of this archive is to provide data and insights on organizing in the te
   </tr>
   <tr author="wynniechan">
    <td>
+    2021-11-28
+   </td>
+   <td>
+    In response to a planned 25% pay cut, Stuart food delivery workers from IWGB held a demonstration outside of Sheffield Town Hall. They demand a pay rise, especially as the minimum living wage has increased. They also have no sick pay and have to pay for their own vehicle and insurance costs.
+   </td>
+   <td>
+    <a href="/actions/0461.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="wynniechan">
+   <td>
+    2021-11-26
+   </td>
+   <td>
+    German AI and computer scientists created a public appeal that opposes the use of autonomous weapon systems for the Bundeswehr. They argue that weaponized, automated drones are dangerous for humanitarian and security reasons, such as how this technology can enable military confrontation. Thus, they wish to ban armed drones.
+   </td>
+   <td>
+    <a href="/actions/0460.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="wynniechan">
+   <td>
+    2021-11-23
+   </td>
+   <td>
+    With the slogan “Gopuff yourself,” Gopuff drivers plan to strike for 24 hours on Tuesday to demand better pay and working conditions. Specifically, the drivers are demanding an increase in their guaranteed hourly rate and a guaranteed minimum number of hours. They also want increased transparency around termination. The strikes are in response to reduced minimum hourly pay rate and bonuses, to which Gopuff said they were working to improve conditions, and that drivers earn more on average compared to industry rates. The drivers are supported by Working Washington, a pro-labor group.
+   </td>
+   <td>
+    <a href="/actions/0459.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="wynniechan">
+   <td>
+    2021-11-23
+   </td>
+   <td>
+    Around 600 Google employees signed a manifesto that opposes Google’s new COVID-19 vaccine mandate for its potential impact on corporate America and as a matter of principle and inclusion. An open letter was also sent to Google’s chief health officer, Karen DeSalvo.
+   </td>
+   <td>
+    <a href="/actions/0458.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="wynniechan">
+   <td>
+    2021-11-23
+   </td>
+   <td>
+    After wage and unfair labor practice negotiations were continually delayed for two years by The New York Times Company, the Wirecutter Union organized a walkout during Black Friday and encouraged their readers to not use Wirecutter from 11/25 - 11/29.
+   </td>
+   <td>
+    <a href="/actions/0457.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="wynniechan">
+   <td>
     2021-11-13
    </td>
    <td>
     In response to foodpanda cutting the delivery fee and fee for delivering two orders at once, the delivery workers went on strike outside the Tsim Sha Tsui and Kwun Tong foodpanda offices from November 13 to 14. Their slogans criticized the pay cuts and called for a higher minimum service charge.
    </td>
    <td>
-    <a href="/actions/0455.json">
+    <a href="/actions/0456.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -66,7 +141,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     The union Unite Here Local 2850 has filed unfair labor practice charges against HelloFresh for retaliation, intimidation, and bullying. For example, some workers who were distributing union leaflets outside during lunch break were told this wasn’t permitted, and others were demoted. Moreover, Kulture Consulting consultants have hosted captive audience meetings. A HelloFresh spokesperson has responded, saying that they respect the workers' decision of choosing whether to be represented by a union, and that they will refute the charges.
    </td>
    <td>
-    <a href="/actions/0454.json">
+    <a href="/actions/0455.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -81,7 +156,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Data center temps who work for Modis, a Google subcontractor, were promised $200 weekly incentive bonuses because of the pandemic. After Modis stopped this program and announced that workers would not receive back pay, the Alphabet Workers Union-CWA workers began organization efforts. Workers filed “tickets” to Modis' management, sent more than 100 messages, and arranged a videoconference. There were also discussions of a work stoppage. Before the scheduled videoconference, however, Modis backtracked their decision in an email. Modis agreed to continue paying the hazard pay until December 19.
    </td>
    <td>
-    <a href="/actions/0453.json">
+    <a href="/actions/0454.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -96,7 +171,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     To express solidarity with the Trans Netflix employee resource group, members of Google Walkout for Real Change affirmed their demands in an open letter, and they also called on all employees of big technology and media companies to hold their employers accountable.
    </td>
    <td>
-    <a href="/actions/0452.json">
+    <a href="/actions/0453.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -111,7 +186,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     More than 2,000 Amazon workers in Staten Island filed the petition to the NLRB to hold a union election. This effort, led by Chris Smalls and is called the Amazon labor Union. Smalls, a former employee, was fired after organizing a protest for lack of COVID protective gear and poor hazard pay. As an independent union, they hope to avoid Amazon’s anti-union messaging targeted towards established unions. The Amazon Labor Union has begun a union drive. Its goals are to bring back variable compensation pay and stock options that Amazon removed in 2018. In response, Amazon questioned if there was a sufficient number of legitimate signatures from Amazon employees.  Amazon has also taken anti-union tactics, such as displaying anti-union messages in their facilities and bringing in anti-union consultants.
    </td>
    <td>
-    <a href="/actions/0451.json">
+    <a href="/actions/0452.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -126,7 +201,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Employees walked out of a Netflix building in Los Angeles to protest Dave Chappelle’s special, joining supporters and activists who were already rallying. Other Netflix employees stopped working that day as a virtual walkout. #NetflixWalkOut also trended on Twitter. In response, Netflix issued a statement expressing support of the walkout while also remaining supportive of Chappelle.
    </td>
    <td>
-    <a href="/actions/0450.json">
+    <a href="/actions/0451.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -141,7 +216,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     With the backing of Foxglove Legal, Facebook contract moderators at Accenture are protesting low wages with a mobile billboard and internal letter. The billboard calls for Accenture CEO Julie Sweet to “stop exploiting your workers,” considering how much Accenture is paid compared to how much content moderators make per hour. Ukrainian and Spanish language moderators are also excluded from the $2 premium that bilingual moderators receive. Despite the demand for equal pay in June, there was no change. Moreover, the moderators’ work is emotionally and mentally taxing because of the unpleasant content they moderate. Accenture only offers access to behavioral coaches instead of professional psychological care, according to Foxglove Legal.
    </td>
    <td>
-    <a href="/actions/0449.json">
+    <a href="/actions/0450.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -156,7 +231,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     In response to Dave Chappelle's controversial Netflix special,  Netflix trans employee resource group has released a list of demands and organized a walkout for October 20th. The demands are increased internal conversations about potentially harmful content, the hiring of trans and nonbinary executives, and removing transphobic content in the office; it notably does not include removing Chappelle’s special from Netflix. Also, a leader of the trans-ERG was fired from Netflix because the company concluded that she leaked confidential information.
    </td>
    <td>
-    <a href="/actions/0448.json">
+    <a href="/actions/0449.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -171,7 +246,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Uber drivers, organized by the Croatian Digital Platform Workers’ Union, held a strike and press conference in Croatia. They claimed that their salaries were not paid in time with no explanation. Despite Uber portraying drivers as partners, the workers feel like “digital slaves” who cannot get in contact with Uber’s authorities.
    </td>
    <td>
-    <a href="/actions/0447.json">
+    <a href="/actions/0448.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -186,7 +261,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Four anonymous creators started the “Worker Lives Matter” campaign, in which employees of Chinese tech companies log their working hours in a GitHub spreadsheet to protest the “996” working overtime culture. They hope to popularize the “955” instead and have GitHub serve as a reference tool for job seekers. Notably, there was a recent court ruling in China’s top court that made “996” culture illegal in August, but the practice is still used. As of October 28, the official account and website have been permanently banned, and so the project has been suspended. A backup of GitHub data is still available to view.
    </td>
    <td>
-    <a href="/actions/0446.json">
+    <a href="/actions/0447.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -199,6 +274,21 @@ The goal of this archive is to provide data and insights on organizing in the te
    </td>
    <td>
     Google and Amazon workers condemn Amazon and Google’s supplying to the Israeli military and government technology to harm Palestinians through Project Nimbus. They write that Project Nimbus would provide cloud services, including surveillance and data collection on Palestinians, that would support systematic discrimination and displacement. Workers released an internal letter, with 90+ Google workers and 300+ Amazon workers anonymously signing it.
+   </td>
+   <td>
+    <a href="/actions/0446.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="wynniechan">
+   <td>
+    2021-10-12
+   </td>
+   <td>
+    In response to an internal email chain that brought up concerns over a gender wage gap, over 1200 Microsoft employees volunteered information about their salaries in a shared spreadsheet. Microsoft responded by acknowledging that there is more work to be done in the effort for equal pay for equal work.
    </td>
    <td>
     <a href="/actions/0445.json">
@@ -334,7 +424,7 @@ their open letter addressed to CEO Fidji Simo was ignored.
     2021-09-14
    </td>
    <td>
-    1,300 HelloFresh workers are unionizing with UNITE HERE in Colorado and California due to low wages, safety issues, and poor work conditions. HelloFresh management has also been unresponsive towards workers after a COVID-19 outbreak in a Richmond facility. UNITE HERE filed a petition to NLRB to authorize a vote to unionize. In response, anti-union consultants, such as Kulture Consulting, were reported to have held mandatory anti-union meetings.
+    1,300 HelloFresh workers are unionizing with UNITE HERE in Colorado and California due to low wages, safety issues, and poor work conditions. HelloFresh management has also been unresponsive towards workers after a COVID-19 outbreak in a Richmond facility. UNITE HERE filed a petition to NLRB to authorize a vote to unionize. In response, anti-union consultants, such as Kulture Consulting, were reported to have held mandatory anti-union meetings. Update: as of 11/23/2021, Workers at the HelloFresh Aurora facility voted 166-to-91 against union organizing.
    </td>
    <td>
     <a href="/actions/0436.json">

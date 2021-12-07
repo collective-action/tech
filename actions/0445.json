@@ -1,37 +1,30 @@
 {
-    "id": 476,
+    "id": 495,
     "date": "2021/10/12",
     "sources": [
-        "https://www.theguardian.com/commentisfree/2021/oct/12/google-amazon-workers-condemn-project-nimbus-israeli-military-contract"
+        "https://www.businessinsider.com/microsoft-employees-leaked-salaries-spreadsheet-2021-10"
     ],
     "actions": [
-        "open letter"
+        "protest"
     ],
     "struggles": [
-        "ethics"
+        "pay and benefits",
+        "discrimination"
     ],
     "employment_types": [
         "white collar workers",
-        "contract workers",
         "inhouse workers"
     ],
-    "description": "Google and Amazon workers condemn Amazon and Google\u2019s supplying to the Israeli military and government technology to harm Palestinians through Project Nimbus. They write that Project Nimbus would provide cloud services, including surveillance and data collection on Palestinians, that would support systematic discrimination and displacement. Workers released an internal letter, with 90+ Google workers and 300+ Amazon workers anonymously signing it.",
+    "description": "In response to an internal email chain that brought up concerns over a gender wage gap, over 1200 Microsoft employees volunteered information about their salaries in a shared spreadsheet. Microsoft responded by acknowledging that there is more work to be done in the effort for equal pay for equal work. ",
     "online": true,
-    "locations": [
-        "worldwide"
-    ],
+    "locations": null,
     "companies": [
-        "google",
-        "amazon"
+        "microsoft"
     ],
-    "workers": 391,
+    "workers": 1201,
     "tags": [
-        "international solidarity",
-        "politics",
-        "surveillance",
-        "military_contracts",
-        "industry solidarity",
-        "ice"
+        "sexism",
+        "coworker solidarity"
     ],
     "author": [
         "wynniechan"
