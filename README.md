@@ -20,11 +20,11 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">07/12/2021 03:31PM</td>
+    <td data-summary="timestamp">07/12/2021 04:27PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">462</td>
+    <td data-summary="action-count">463</td>
   </tr>
  </table>
 </div>
@@ -41,6 +41,21 @@ The goal of this archive is to provide data and insights on organizing in the te
    </td>
    <td>
     link
+   </td>
+  </tr>
+  <tr author="wynniechan">
+   <td>
+    2021-11-29
+   </td>
+   <td>
+    Three former Google workers are filing a lawsuit against Google for slander, breach of contract, and termination in violation of public policy. While at Google, the former employees had publicly protested Google’s intent to enter a contract with the CBP and ICE. Some Google workers believe the firing was to discourage organizing. Google responded that the firings are due to violations of their data security policies.
+   </td>
+   <td>
+    <a href="/actions/0462.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
    </td>
   </tr>
   <tr author="wynniechan">
