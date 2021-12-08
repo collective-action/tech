@@ -28,13 +28,6 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            37.48131065,
-            -122.15924036537902
-        ]
-    ],
-    "addresses": [
-        "Meta West Campus, Belle Haven, Menlo Park, San Mateo County, California, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }
