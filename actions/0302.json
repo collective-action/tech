@@ -30,6 +30,13 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            42.3582393,
+            -71.09663495185691
+        ]
+    ],
+    "addresses": [
+        "Massachusetts Institute of Technology, Erie Street, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02139, United States"
+    ]
 }

@@ -29,6 +29,13 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            38.9035981,
+            -77.0186204
+        ]
+    ],
+    "addresses": [
+        "Amazon Locker - Saba, 490, L Street Northwest, Mount Vernon Square, Washington, District of Columbia, 20001, United States"
+    ]
 }
