@@ -484,8 +484,15 @@
         "author": [
             "CM"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                41.32038665,
+                -73.67869784162318
+            ]
+        ],
+        "addresses": [
+            "IBM, Lake Purdy, Town of Somers, Westchester County, New York, United States"
+        ]
     },
     {
         "id": 6,
@@ -850,8 +857,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.3361905,
+                -121.890583
+            ]
+        ],
+        "addresses": [
+            "San Jose, Santa Clara County, California, United States"
+        ]
     },
     {
         "id": 14,
@@ -2928,8 +2942,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.4440869,
+                -122.16287540411753
+            ]
+        ],
+        "addresses": [
+            "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States"
+        ]
     },
     {
         "id": 65,
@@ -4660,6 +4681,10 @@
         ],
         "latlngs": [
             [
+                51.653494949999995,
+                7.59464606445661
+            ],
+            [
                 46.73690925,
                 4.850183355658723
             ],
@@ -4677,6 +4702,7 @@
             ]
         ],
         "addresses": [
+            "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
             "Amazon.fr Logistique Distrip\u00f4le Chalon, Sevrey, Chalon-sur-Sa\u00f4ne, Sa\u00f4ne-et-Loire, Bourgogne-Franche-Comt\u00e9, France m\u00e9tropolitaine, 71100, France",
             "Amazon, Agognate, Novara, Piemonte, Italia",
             "Amazon, 14, Carrer de Facund Bacard\u00ed i Mass\u00f3, Pol\u00edgon Industrial de Can Magarola, Mollet del Vall\u00e8s, Vall\u00e8s Oriental, Barcelona, Catalunya, 08100, Espa\u00f1a",
@@ -5134,8 +5160,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.3974949,
+                -122.0842646
+            ]
+        ],
+        "addresses": [
+            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, California, 94043, United States"
+        ]
     },
     {
         "id": 118,
@@ -10188,6 +10221,10 @@
         ],
         "latlngs": [
             [
+                40.722465,
+                -73.9977307
+            ],
+            [
                 42.017435000000006,
                 -87.71964029792224
             ],
@@ -10197,6 +10234,7 @@
             ]
         ],
         "addresses": [
+            "Amazon, 72, Spring Street, Manhattan Community Board 2, Manhattan, New York County, New York, 10013, United States",
             "Amazon Fulfillment Center DIL7, 3639, West Howard Street, Skokie, Niles Township, Cook County, Illinois, 60076, United States",
             "Amazon Avenue, Sacramento, Sacramento County, California, 95835, United States"
         ]
@@ -14401,8 +14439,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                51.851619299999996,
+                6.305120020863311
+            ]
+        ],
+        "addresses": [
+            "Br\u00fccke \u00fcber den Netterdenschen Kanal, Emmerikseweg, Netterden, Oude IJsselstreek, Gelderland, Nederland, 7077AP, Nederland"
+        ]
     },
     {
         "id": 354,

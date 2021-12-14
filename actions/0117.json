@@ -34,6 +34,10 @@
     ],
     "latlngs": [
         [
+            51.653494949999995,
+            7.59464606445661
+        ],
+        [
             46.73690925,
             4.850183355658723
         ],
@@ -51,6 +55,7 @@
         ]
     ],
     "addresses": [
+        "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
         "Amazon.fr Logistique Distrip\u00f4le Chalon, Sevrey, Chalon-sur-Sa\u00f4ne, Sa\u00f4ne-et-Loire, Bourgogne-Franche-Comt\u00e9, France m\u00e9tropolitaine, 71100, France",
         "Amazon, Agognate, Novara, Piemonte, Italia",
         "Amazon, 14, Carrer de Facund Bacard\u00ed i Mass\u00f3, Pol\u00edgon Industrial de Can Magarola, Mollet del Vall\u00e8s, Vall\u00e8s Oriental, Barcelona, Catalunya, 08100, Espa\u00f1a",
