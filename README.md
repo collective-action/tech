@@ -20,11 +20,11 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">20/12/2021 03:31PM</td>
+    <td data-summary="timestamp">20/12/2021 04:26PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">463</td>
+    <td data-summary="action-count">464</td>
   </tr>
  </table>
 </div>
@@ -41,6 +41,21 @@ The goal of this archive is to provide data and insights on organizing in the te
    </td>
    <td>
     link
+   </td>
+  </tr>
+  <tr author="wynniechan">
+   <td>
+    2021-12-14
+   </td>
+   <td>
+    A Citizen App workers’ bargaining unit voted 51-22 in favor of unionizing with the help of the Communications Workers of America. This effort was partially driven by fears of outsourcing after the company outsourced some job tasks to contract workers overseas.
+   </td>
+   <td>
+    <a href="/actions/0463.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
    </td>
   </tr>
   <tr author="wynniechan">
