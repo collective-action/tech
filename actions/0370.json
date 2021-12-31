@@ -1,41 +1,43 @@
 {
-    "id": 383,
-    "date": "2021/01/08",
+    "id": 390,
+    "date": "2021/01/09",
     "sources": [
-        "https://www.washingtonpost.com/technology/2021/01/08/twitter-trump-dorsey/"
+        "https://www.buzzfeednews.com/article/johnpaczkowski/amazon-parler-aws",
+        "https://twitter.com/AMZNforClimate/status/1347799256883552259?s=19"
     ],
     "actions": [
-        "open letter"
+        "protest"
     ],
     "struggles": [
         "ethics"
     ],
     "employment_types": [
-        "white collar workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Following the pro-Trump storming of the Capitol on January 6, roughly 350 Twitter employees signed an internal letter addressed to CEO Jack Dorsey and top executives questioning Twitter's policies and role in facilitating the attack. The employees requested an investigation into corporation actions over the last several years and asked for greater transparency to the company\u2019s decision-making process regarding Donald Trumps' Twitter account on the day of the attack.",
+    "description": "Amazon suspends hosting for Parler, a social network app cited for facilitating the pro-Trump storming of the Capitol, after Amazon employees send internal messages to AWS management and participate in various online actions, including a coworker.org petition.",
     "online": true,
     "locations": [
         "usa"
     ],
     "companies": [
-        "twitter"
+        "amazon"
     ],
-    "workers": 350,
+    "workers": null,
     "tags": [
         "trump",
         "politics"
     ],
     "author": [
-        "CM"
+        "organizejs"
     ],
     "latlngs": [
         [
-            37.7765529,
-            -122.4167931517656
+            46.320207,
+            -112.1072224
         ]
     ],
     "addresses": [
-        "Twitter, 10th Street, SOMA Pilipinas, San Francisco, City and County of San Francisco, California, 94102, United States"
+        "Amazon, Jefferson County, Montana, United States"
     ]
 }

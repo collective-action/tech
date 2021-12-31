@@ -1,41 +1,33 @@
 {
-    "id": 377,
-    "date": "2020/03/10",
+    "id": 237,
+    "date": "2020/03/13",
     "sources": [
-        "https://www.igmetall-berlin.de/betriebsraete-vertrauensleute/meldung/beyond-quitting-employees-at-babbel-elect-a-works-council/"
+        "https://techcrunch.com/2020/03/13/online-code-collaboration-tool-glitch-votes-to-unionize/",
+        "https://cwa-union.org/news/releases/tech-workers-app-developer-glitch-vote-form-union-and-join-cwa-organizing-initiative"
     ],
     "actions": [
-        "union drive"
+        "union representation"
     ],
     "struggles": [
-        "working conditions",
-        "unfair labor practices",
-        "job security"
+        "na"
     ],
     "employment_types": [
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "The Berlin office of Babbel, the language learning platform elected a Works Council with consultation and guidance of IG Metall. ",
+    "description": "Employees of online software collaboration tool Glitch won their union with the Communications Workers of America (CWA). The move comes after 90% of the workers indicated their support for joining CWA and authorized CWA to be their bargaining representative. Glitch will join the CWA Local 1101, as part of the Campaign to Organize Digital Employees (CODE-CWA) initiative, which was launched back in January.",
     "online": null,
     "locations": [
-        "berlin-germany"
+        "new york city-new york-usa"
     ],
     "companies": [
-        "babbel"
+        "glitch"
     ],
-    "workers": 20,
+    "workers": null,
     "tags": null,
     "author": [
-        "@shushugah"
+        "organizejs"
     ],
-    "latlngs": [
-        [
-            52.5248559,
-            13.4082467
-        ]
-    ],
-    "addresses": [
-        "Babbel, 2, Max-Beer-Stra\u00dfe, Scheunenviertel, Mitte, Berlin, 10119, Deutschland"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

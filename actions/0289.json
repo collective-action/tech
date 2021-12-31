@@ -1,41 +1,33 @@
 {
-    "id": 287,
-    "date": "2020/05/07",
+    "id": 271,
+    "date": "2020/05/23",
     "sources": [
-        "https://www.vice.com/en_us/article/akzw4p/amazon-warehouse-workers-send-thousands-of-petitions-to-jeff-bezos-and-jay-carneys-homes"
+        "https://hk.appledaily.com/breaking/20200527/6PTZ5EDM7HK2NQDMSGESGVGAQA/"
     ],
     "actions": [
-        "open letter"
+        "strike"
     ],
     "struggles": [
         "pay and benefits"
     ],
     "employment_types": [
-        "inhouse workers",
-        "blue collar workers"
+        "gig workers"
     ],
-    "description": "Amazon warehouse workers plan to deliver thousands signed petitions to the residences of Amazon CEO Jeff Bezos and lead Amazon spokesperson Jay Carney on Thursday, demanding the reinstatement of its recently terminated unlimited paid leave policy. In late April, Amazon announced that it would end its unlimited unpaid leave policy on May 1. The policy, which was introduced in response to COVID-19, allowed workers to call out sick without penalty. As of Wednesday, more than 5,300 workers from 350 locations, including Amazon warehouses, delivery pick-up stations, and Whole Foods stores, had signed onto petitions. The action was organized by a number of labor groups including the Athena coalition.",
+    "description": "Deliveroo workers went on strike for multiple days in Hong Kong over the company's new payment structure. ",
     "online": null,
     "locations": [
-        "usa"
+        "hong kong-china"
     ],
     "companies": [
-        "amazon"
+        "deliveroo"
     ],
-    "workers": 5300,
+    "workers": 200,
     "tags": [
-        "coronavirus"
+        "delivery_workers"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            46.320207,
-            -112.1072224
-        ]
-    ],
-    "addresses": [
-        "Amazon, Jefferson County, Montana, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

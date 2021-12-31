@@ -1,43 +1,32 @@
 {
-    "id": 194,
-    "date": "2019/10/02",
+    "id": 195,
+    "date": "2019/10/03",
     "sources": [
-        "http://thetartan.org/2019/10/7/news/palantir-protest"
+        "https://www.vice.com/en_us/article/pa7qny/60-amazon-workers-walked-out-over-warehouse-working-conditions?f"
     ],
     "actions": [
-        "protest"
+        "strike"
     ],
     "struggles": [
-        "ethics"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
-        "na"
+        "blue collar workers"
     ],
-    "description": "A coalition of students protested Palantir & other ICE-friendly recruitment on the Carnegie Mellon University campus. They disrupted a Palantir recruitment event, held 500 in-person conversations with passing colleagues, & collected 150 promises from fellow students to not work or engage with Palantir.",
+    "description": "Approximately 60 Amazon workers walked out of a delivery center in Eagan, Minnesota to demand increased wages, weight restrictions on boxes, and abolishing a cap on 30 hour workweeks. The strike lasted two and half hours until a manager promised to address concerns the following morning.",
     "online": null,
     "locations": [
-        "pittsburgh-pennsylvania-usa"
+        "eagan-minnesota-usa"
     ],
     "companies": [
-        "carnegie mellon university",
-        "palantir"
+        "amazon"
     ],
-    "workers": 30,
-    "tags": [
-        "students",
-        "mijente",
-        "academics"
-    ],
+    "workers": 60,
+    "tags": null,
     "author": [
-        "moates"
+        "nataliyaned"
     ],
-    "latlngs": [
-        [
-            40.444189699999995,
-            -79.94271918393466
-        ]
-    ],
-    "addresses": [
-        "Carnegie Mellon University, Fifth Avenue, North Oakland, Pittsburgh, Allegheny County, Pennsylvania, 15260, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

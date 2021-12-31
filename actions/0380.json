@@ -1,43 +1,33 @@
 {
-    "id": 411,
-    "date": "2021/02/26",
+    "id": 406,
+    "date": "2021/03/01",
     "sources": [
-        "https://venturebeat.com/2021/03/02/ai-ethics-research-conference-suspends-google-sponsorship/",
-        "https://twitter.com/geomblog/status/1365422379397124099"
+        "https://www.unitedigitaltech.org/2021/03/goodlord-strike-picket-line-video#more-1498"
     ],
     "actions": [
-        "protest"
+        "protest",
+        "strike"
     ],
     "struggles": [
-        "ethics"
+        "pay and benefits",
+        "job security"
     ],
     "employment_types": [
-        "white collar workers"
+        "contract workers"
     ],
-    "description": "The ACM Conference for Fairness, Accountability, and Transparency (ACM FAccT) organizers have decided not to continue their sponsorship with Google this year. Several press publications have noted the decision to drop Google follows the company's recent decision to fire Ethical AI co-leaders, Timnit Gebru and Margaret Mitchell. The conference's Executive Committee said they chose not to continue their relationship because they it does not align with their Strategic Plan, the goals outlined and agreed upon to guide the FAccT. Gebru was a cofounder of the organization and continues to advise the group. Mitchell is a program co-chair of the conference and a FAccT program committee member.",
-    "online": true,
+    "description": "Contract tech workers of Goodlord have been striking for two weeks because they are being fired and rehired for permanent contracts that have less favorable terms than their current contracts. The contracts have resulted in 20% pay decrease and will have the workers making 6,000 pounds less than the livable wage in London. The workers refuse to work until Goodlord negotiates with them for better pay and benefits. Goodlord is an online platform for tenants, agents, and landlords to utilize in the real estate market. ",
+    "online": null,
     "locations": [
-        "new york city-new york-usa"
+        "london-uk"
     ],
     "companies": [
-        "google"
+        "goodlord"
     ],
     "workers": null,
-    "tags": [
-        "academics",
-        "ai",
-        "industry solidarity"
-    ],
+    "tags": null,
     "author": [
         "hyatt d."
     ],
-    "latlngs": [
-        [
-            40.7417176,
-            -74.0041592
-        ]
-    ],
-    "addresses": [
-        "Google, 111, 8th Avenue, West Village, Chelsea, Manhattan, New York, 10011, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

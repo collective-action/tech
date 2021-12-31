@@ -1,43 +1,36 @@
 {
-    "id": 390,
-    "date": "2021/01/09",
+    "id": 409,
+    "date": "2021/01/22",
     "sources": [
-        "https://www.buzzfeednews.com/article/johnpaczkowski/amazon-parler-aws",
-        "https://twitter.com/AMZNforClimate/status/1347799256883552259?s=19"
+        "https://www.irishtimes.com/news/ireland/irish-news/deliveroo-riders-across-dublin-strike-over-working-conditions-1.4465621"
     ],
     "actions": [
-        "protest"
+        "protest",
+        "strike"
     ],
     "struggles": [
-        "ethics"
+        "pay and benefits",
+        "job security"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "Amazon suspends hosting for Parler, a social network app cited for facilitating the pro-Trump storming of the Capitol, after Amazon employees send internal messages to AWS management and participate in various online actions, including a coworker.org petition.",
+    "description": "Delivery drivers and restaurant owners in Dublin, Ireland organized to not work from 6pm - 8pm for the delivery platform, Deliveroo. Drivers have claimed their pay has been reduced and that they have been facing unsafe conditions while working. Some, restaurants that have their food delivered though the platform have decided to support the protest by not taking orders during the strike.",
     "online": true,
     "locations": [
-        "usa"
+        "dublin-ireland"
     ],
     "companies": [
-        "amazon"
+        "deliveroo"
     ],
     "workers": null,
     "tags": [
-        "trump",
-        "politics"
+        "coronavirus",
+        "delivery_workers"
     ],
     "author": [
-        "organizejs"
+        "hyatt d."
     ],
-    "latlngs": [
-        [
-            46.320207,
-            -112.1072224
-        ]
-    ],
-    "addresses": [
-        "Amazon, Jefferson County, Montana, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

@@ -1,41 +1,42 @@
 {
-    "id": 447,
-    "date": "2021/06/04",
+    "id": 453,
+    "date": "2021/06/28",
     "sources": [
-        "https://www.theverge.com/2021/6/4/22491629/apple-employees-push-back-return-office-internal-letter-tim-cook?fbclid=IwAR08D4vzo6shzwwtNXwr8HCw6h1nsHG7rQcSx-k-JyuYL-I2Q7aDl0o_aZ0"
+        "https://therealnews.com/gorillas-workers-in-germany-launch-a-wildcat-strike"
     ],
     "actions": [
-        "open letter"
+        "protest",
+        "strike"
     ],
     "struggles": [
+        "job security",
         "working conditions"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "Apple employees are fighting against a new policy requiring them to return to work three days a week in an open letter addressed to Tim Cook on Slack. Approximately 80 people were involved in writing the letter. Employees have argued that the company should adopt a flexible approach for those who still want to remotely work from home. ",
-    "online": true,
+    "description": "Delivery workers at Gorillas held a series of wildcat strikes in June protesting their working conditions and the firing of their colleagues. Gorillas are a delivery startup company in Berlin, Germany which delivers groceries. Workers protested the company's 6-month probationary period that allows them to fire any workers without cause, resulting in job insecurity for the delivery drivers. ",
+    "online": null,
     "locations": [
-        "usa"
+        "berlin-germany"
     ],
     "companies": [
-        "apple"
+        "gorillas"
     ],
-    "workers": 80,
+    "workers": null,
     "tags": [
-        "coronavirus"
+        "delivery_workers"
     ],
     "author": [
         "hyatt d."
     ],
     "latlngs": [
         [
-            42.3489689,
-            -71.0824143
+            52.5064919,
+            13.336216896921181
         ]
     ],
     "addresses": [
-        "Apple Store, 815, Boylston Street, Block F, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States"
+        "Flachland-Gorilla, Tiergarten, Mitte, Berlin, 10787, Deutschland"
     ]
 }

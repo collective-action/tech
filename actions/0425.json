@@ -1,36 +1,52 @@
 {
-    "id": 457,
-    "date": "2021/07/21",
+    "id": 461,
+    "date": "2021/07/26",
     "sources": [
-        "https://www.latimes.com/business/story/2021-07-21/uber-lyft-drivers-strike-wednesday-july-21-rider-information"
+        "https://www.foxglove.org.uk/2021/07/25/open-letter-from-60-content-moderators-to-facebook/"
     ],
     "actions": [
-        "protest",
-        "strike"
+        "open letter"
     ],
     "struggles": [
-        "pay and benefits"
+        "job security",
+        "working conditions",
+        "ethics"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers",
+        "inhouse workers",
+        "contract workers"
     ],
-    "description": "Organized by Rideshare Drivers United, Uber, Lyft, and other rideshare app-based drivers are striking in 11 different cities around the country. The drivers are protesting for better pay and legal protection under the PRO Act.",
-    "online": null,
+    "description": "Content moderators who work for Facebook across the world wrote an open letter to Mark Zuckerberg, Sheryl Sandberg, Anne Heraty, and Julie Sweet. The moderators are demanding Facebook stop using non-disclosure agreements to prevent moderators from speaking out about their working conditions. The moderators also want proper mental health support and to make all moderators in-house instead of contract workers outsourced by Accenture.  ",
+    "online": true,
     "locations": [
-        "los angeles-california-usa"
+        "usa"
     ],
     "companies": [
-        "uber",
-        "lyft"
+        "facebook",
+        "accenture"
     ],
-    "workers": 700,
+    "workers": 60,
     "tags": [
-        "drivers",
-        "industry_solidarity"
+        "international solidarity",
+        "coworker_solidarity",
+        "moderators"
     ],
     "author": [
         "hyatt d."
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            30.2691649,
+            -97.7455041
+        ],
+        [
+            37.3339398,
+            -121.8895142
+        ]
+    ],
+    "addresses": [
+        "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States",
+        "Accenture, West San Fernando Street, Downtown Historic District, San Jose, Santa Clara County, California, 95113, United States"
+    ]
 }

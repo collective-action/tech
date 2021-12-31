@@ -1,67 +1,45 @@
 {
-    "id": 432,
-    "date": "2021/03/29",
+    "id": 450,
+    "date": "2021/04/01",
     "sources": [
-        "https://www.politico.eu/article/german-union-leads-four-day-amazon-strike/"
+        "https://labornotes.org/2021/06/dispersed-undaunted-chicago-amazon-workers-help-win-megacycle-pay-nationwide",
+        "https://www.amazoniansunited.org/megacyclepetition",
+        "https://news.wttw.com/2021/04/01/amazon-employees-chicago-demand-accommodations-brutal-shift"
     ],
     "actions": [
         "protest",
-        "strike"
+        "open letter"
     ],
     "struggles": [
-        "working conditions",
-        "job security"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
         "blue collar workers",
         "inhouse workers"
     ],
-    "description": "German Amazon workers went on strike in six centers across the country to put pressure on the company to sign a collective agreement with the union in Germany. Ver.di, the union, has also criticized the company for unsafe working conditions under covid. ",
+    "description": "The Chicago chapter of Amazonians United, DCH1, created a petition demanding a $2 pay increase and full 20-minute breaks for workers on the company's megacycle shift, a new shift that runs from 1:20 am -11:50 am. In addition, the petition called for accommodations for workers who are unable to work the shift. In April DCH1 also organized a walkout in protest. On May 19th, Amazon warehouse workers across the country who work on the Megacycle shift began receiving a $1.50-$2.00 pay increase per hour for certain days of the week. ",
     "online": null,
     "locations": [
-        "rheinberg-germany",
-        "werne-germany",
-        "koblenz-germany",
-        "leipzig-germany",
-        "bad hersfeld-germany"
+        "chicago-illinois-usa"
     ],
     "companies": [
         "amazon"
     ],
-    "workers": 2000,
+    "workers": null,
     "tags": [
-        "coronavirus"
+        "coworker solidarity"
     ],
     "author": [
-        "nataliyaned"
+        "hyatt d."
     ],
     "latlngs": [
         [
-            51.5369716,
-            6.5877929
-        ],
-        [
-            51.653494949999995,
-            7.59464606445661
-        ],
-        [
-            50.3495332,
-            7.4901388
-        ],
-        [
-            51.36227055,
-            12.45231287033246
-        ],
-        [
-            50.845334,
-            9.677958815746917
+            41.84040105,
+            -87.68351928672685
         ]
     ],
     "addresses": [
-        "Amazon, Amazonstra\u00dfe, Winterswick, Rheinberg, Kreis Wesel, Nordrhein-Westfalen, 47495, Deutschland",
-        "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
-        "Amazon, Am Autobahnkreuz, Gewerbegebiet Industriepark A61/GVZ Koblenz, R\u00fcbenach, Koblenz, Rheinland-Pfalz, 56072, Deutschland",
-        "Amazon Distribution GmbH, Paunsdorf, Ost, Sachsen, 04347, Deutschland",
-        "Amazon FRA1, Eichhof, Asbach, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland"
+        "Amazon Distribution, 2801, South Western Avenue, Lower West Side, Chicago, Cook County, Illinois, 60608, United States"
     ]
 }

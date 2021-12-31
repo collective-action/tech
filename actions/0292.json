@@ -1,41 +1,42 @@
 {
-    "id": 264,
-    "date": "2020/05/28",
+    "id": 334,
+    "date": "2020/06/03",
     "sources": [
-        "https://www.latimes.com/business/technology/story/2020-05-28/amazon-whole-foods-workers-track-coronavirus-cases",
-        "https://www.theguardian.com/world/2020/may/06/tracking-tool-allows-amazon-workers-to-report-covid-19-cases"
+        "https://www.nytimes.com/2020/06/03/technology/facebook-trump-employees-letter.html",
+        "https://www.businessinsider.com/early-facebook-employees-write-open-letter-mark-zuckerberg-2020-6"
     ],
     "actions": [
-        "protest"
+        "open letter"
     ],
     "struggles": [
-        "working conditions"
+        "ethics"
     ],
     "employment_types": [
-        "white collar workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Jana Jumpp, an Amazon employee in Indiana, has been tracking cases and logged at least 500 cases in 125 Amazon facilities as of late April. Jumpp has a counterpart at Amazon-owned Whole Foods, Katie Doan, who has been collecting cases since April 2. The two women have never spoken, but they describe nearly identical work fielding a torrent of private messages, searching Facebook groups, Reddit, Twitter and news outlets for reports of infections, and meticulously updating Google documents with the numbers.",
-    "online": null,
+    "description": "Nearly three dozen early Facebook employees, including its first Chief of Communications, wrote a letter to CEO Mark Zuckerberg protesting his decision to leave Donald Trump's posts up on the website without action. Twitter chose to add labels to several of these posts warning that they were inaccurate or glorified violence. They claimed Facebook's inaction against these posts violated many of the original ideals the company had been founded on. ",
+    "online": true,
     "locations": [
         "usa"
     ],
     "companies": [
-        "amazon"
+        "facebook"
     ],
-    "workers": 2,
+    "workers": null,
     "tags": [
-        "coronavirus"
+        "politics"
     ],
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            46.320207,
-            -112.1072224
+            30.2691649,
+            -97.7455041
         ]
     ],
     "addresses": [
-        "Amazon, Jefferson County, Montana, United States"
+        "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
     ]
 }

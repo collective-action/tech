@@ -1,36 +1,32 @@
 {
-    "id": 452,
-    "date": "2021/06/30",
+    "id": 460,
+    "date": "2021/07/15",
     "sources": [
-        "https://wamu.org/story/21/06/30/change-org-workers-form-a-union-giving-labor-activists-another-win-in-tech/"
+        "https://clb.org.hk/content/hong-kong-food-delivery-workers-protest-pay-and-working-conditions"
     ],
     "actions": [
-        "union drive",
-        "union representation"
+        "protest",
+        "strike"
     ],
     "struggles": [
         "pay and benefits",
-        "ethics",
-        "discrimination"
+        "job security",
+        "working conditions"
     ],
     "employment_types": [
-        "white collar workers",
-        "contract workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "Seventy employees who work for Change.org unionized and joined the Workers of America's CODE-CWA Project. Organizing in the company began with Erni Poch\u00e9, who noticed that the company used the racial identities of its employees to claim diversity and inclusion within the company. Black employees reported being disproportionately assigned to petitions around race, for instance. The workers who joined the union want to have a say in wages, benefits, and the implementation of diversity and equity programs. ",
+    "description": "Foodpanda delivery workers protested in front of the company's headquarters while seven representatives of the strike tried to negotiate demands with the company. The delivery workers demanded to raise the base rate for deliveries, stop unreasonable termination of workers, end the cash-on-delivery system, and increase insurance coverage for personal accidents. Company management did not accept any of the demands or decide to hold another meeting. ",
     "online": null,
     "locations": [
-        "usa"
+        "hong kong-china"
     ],
     "companies": [
-        "change.org"
+        "foodpanda"
     ],
-    "workers": null,
+    "workers": 7,
     "tags": [
-        "coworker solidarity",
-        "cwa",
-        "antiracism"
+        "delivery_workers"
     ],
     "author": [
         "hyatt d."

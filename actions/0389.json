@@ -1,56 +1,47 @@
 {
-    "id": 425,
-    "date": "2021/03/29",
+    "id": 413,
+    "date": "2021/04/01",
     "sources": [
-        "https://www.al.com/business/2021/03/workers-in-2-european-countries-strike-against-amazon.html",
-        "https://www.cnbc.com/2021/03/22/amazon-workers-go-on-strike-in-italy-over-labor-conditions-.html"
+        "https://www.bbc.com/news/technology-56659212",
+        "https://cwa-union.org/sites/default/files/20210331_nlrbsettlement_alphabet_modis.pdf",
+        "https://www2.staffingindustry.com/Editorial/Daily-News/Google-union-reports-NLRB-settlement-contingent-worker-s-suspension-rescinded-57218"
     ],
     "actions": [
-        "protest",
-        "strike"
+        "legal action"
     ],
     "struggles": [
+        "unfair labor practices",
         "pay and benefits",
-        "job security"
+        "working conditions"
     ],
     "employment_types": [
-        "blue collar workers",
-        "inhouse workers"
+        "contract workers",
+        "blue collar workers"
     ],
-    "description": "Italian Amazon workers went on a national strike for 24 hours to protest for fewer hours and job stability for temporary workers. \nItalian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which took place in Tuscany, Florence, and Pisa. ",
+    "description": "In February, the Alphabet Worker's Union filed two lawsuits against Google for unfair labor practices on behalf of Shannon Wait, a contractor at Google and member of the union. The first lawsuit contested Wait's illegal suspension for supporting a union. The second lawsuit alleged that managers illegally asked Wait and other employees not to discuss their wages. Google, Modis (the contracting firm), and the AWU reached a settlement and had Wait's suspension overturned. Google signed a document that its employees had the right to discuss wage, bonuses, and working conditions. This is the first NLRB settlement with the AWU.",
     "online": null,
     "locations": [
-        "tuscany-italy",
-        "florence-italy",
-        "pisa-italy"
+        "south carolina-usa"
     ],
     "companies": [
-        "amazon"
+        "google",
+        "modis",
+        "adecco"
     ],
     "workers": null,
     "tags": [
-        "delivery_workers"
+        "cwa"
     ],
     "author": [
         "hyatt d."
     ],
     "latlngs": [
         [
-            43.841860749999995,
-            11.166183284518766
-        ],
-        [
-            43.841860749999995,
-            11.166183284518766
-        ],
-        [
-            43.709862,
-            10.4328227
+            33.0639975,
+            -80.04244587737227
         ]
     ],
     "addresses": [
-        "Amazon, Via Baldanzese, Settimello, Sesto Fiorentino, Firenze, Toscana, 50019, Italia",
-        "Amazon, Via Baldanzese, Settimello, Sesto Fiorentino, Firenze, Toscana, 50019, Italia",
-        "Amazon locker, Via Vittorio Frascani, Cisanello, Pisa, Toscana, 56124, Italia"
+        "Google Data Center, Berkeley County, South Carolina, United States"
     ]
 }

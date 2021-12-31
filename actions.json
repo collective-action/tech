@@ -664,7 +664,7 @@
             "https://www.wired.com/2001/01/union-to-etown-threats-unfair/"
         ],
         "actions": [
-            "union representation"
+            "union drive"
         ],
         "struggles": [
             "pay and benefits",
@@ -673,7 +673,7 @@
         "employment_types": [
             "inhouse workers"
         ],
-        "description": "Customer service representatives at etown.com, a website that provides information on consumer electronics. voted on whether to join the Communication Workers of America. The New York Times reports that this is the first unionization vote at a dot com. Two workers who lead unionization efforts were reportedly fired by the company in the time leading up to the vote. Management threatened to shut down the company if unionization proceeded, which prompted CWA to file a motion with the NLRB. The company ultimately did shut down in mid-February 2001, due to  failure to secure additional venture capital funding.",
+        "description": "Customer service representatives at etown.com, a website that provides information on consumer electronics voted on whether to join the Communication Workers of America. The New York Times reports that this is the first unionization vote at a dot com. Two workers who lead unionization efforts were reportedly fired by the company in the time leading up to the vote. Management threatened to shut down the company if unionization proceeded, which prompted CWA to file a motion with the NLRB. The company ultimately did shut down in mid-February 2001, due to  failure to secure additional venture capital funding.",
         "online": null,
         "locations": [
             "san francisco-california-usa"
@@ -1618,7 +1618,7 @@
             "https://time.com/956/how-amazon-crushed-the-union-movement/"
         ],
         "actions": [
-            "union representation"
+            "union drive"
         ],
         "struggles": [
             "pay and benefits",
@@ -1906,7 +1906,8 @@
             "https://lionbridgeunion.blogspot.com/"
         ],
         "actions": [
-            "union representation"
+            "union representation",
+            "union contract"
         ],
         "struggles": [
             "unfair labor practices",
@@ -1994,7 +1995,7 @@
             "https://www.chenpe.com/news/24911.html"
         ],
         "actions": [
-            "union representation"
+            "protest"
         ],
         "struggles": [
             "job security",
@@ -2511,7 +2512,8 @@
             "https://www.theguardian.com/world/2016/feb/17/juarez-factory-workers-protest-rights-occupy-style-sit-in-lexmark"
         ],
         "actions": [
-            "union representation"
+            "union drive",
+            "protest"
         ],
         "struggles": [
             "pay and benefits",
@@ -4348,7 +4350,7 @@
             "https://www.equaltimes.org/in-denmark-a-historic-collective?lang=en"
         ],
         "actions": [
-            "union representation"
+            "union contract"
         ],
         "struggles": [
             "pay and benefits",
@@ -7222,7 +7224,7 @@
             "https://nowtoronto.com/food-and-drink/food/foodora-leaving-canada/"
         ],
         "actions": [
-            "union representation"
+            "union drive"
         ],
         "struggles": [
             "pay and benefits",
@@ -7579,27 +7581,32 @@
         "id": 175,
         "date": "2019/08/30",
         "sources": [
-            "https://www.washingtonpost.com/technology/2019/08/30/google-contract-workers-vote-form-union-amid-employee-discord-over-treatment/"
+            "https://www.washingtonpost.com/technology/2019/08/30/google-contract-workers-vote-form-union-amid-employee-discord-over-treatment/",
+            "https://www.salon.com/2019/09/25/in-historic-first-tech-contractors-for-google-vote-to-unionize/",
+            "https://www.theguardian.com/technology/2019/sep/23/google-pittsburgh-union-roots-transform-tech-industry"
         ],
         "actions": [
             "union representation"
         ],
         "struggles": [
             "pay and benefits",
-            "working conditions"
+            "working conditions",
+            "job security"
         ],
         "employment_types": [
-            "contract workers"
+            "contract workers",
+            "white collar workers"
         ],
-        "description": "Google contract workers in Pittsburgh voted to unionize and petitioned the National Labor Relations Board to set up a representation election. Two-thirds of the workers, formally employed by HCL America, were in favor of the action. United Steelworkers helped to organize the union drive through their Pittsburgh Association of Tech Professionals (PATP) project.",
+        "description": "Google contract workers in Pittsburgh voted to unionize and petitioned the National Labor Relations Board to set up a representation election. Two-thirds of the workers, formally employed by HCL America, were in favor of the action. United Steelworkers helped to organize the union drive through their Pittsburgh Association of Tech Professionals (PATP) project. News outlets report that this is the first successful unionization of white-collar tech contractors. Workers intend to use their position to bargain for compensation, benefits, and job security comparable to Google employees. Google currently employs more contract workers (135,000) than direct Google employees (115,000) according to the Guardian. A group of Google employees have signed a letter of support and others have published a petition calling for the company to sign a neutrality agreement and abstain from union-busting tactics.",
         "online": null,
         "locations": [
             "pittsburgh-pennsylvania-usa"
         ],
         "companies": [
-            "google"
+            "google",
+            "alphabet"
         ],
-        "workers": 90,
+        "workers": 73,
         "tags": null,
         "author": [
             "nataliyaned"
@@ -8158,40 +8165,6 @@
         "addresses": [
             "Amazon Locker, Sockanosset Cross Road, Sockanosset, Cranston, Providence County, Rhode Island, 02920, United States"
         ]
-    },
-    {
-        "id": 188,
-        "date": "2019/09/25",
-        "sources": [
-            "https://www.salon.com/2019/09/25/in-historic-first-tech-contractors-for-google-vote-to-unionize/",
-            "https://www.theguardian.com/technology/2019/sep/23/google-pittsburgh-union-roots-transform-tech-industry?cmp=share_androidapp_copy_to_clipboard"
-        ],
-        "actions": [
-            "union representation"
-        ],
-        "struggles": [
-            "job security",
-            "pay and benefits"
-        ],
-        "employment_types": [
-            "contract workers",
-            "white collar workers"
-        ],
-        "description": "Contract workers at Google in Pittsburgh have voted to unionize, joining the United Steel Workers Union. News outlets report that this is the first successful unionization of white-collar tech contractors. Workers intend to use their position to bargain for compensation, benefits, and job security comparable to Google employees. Google currently employs more contract workers (135,000) than direct Google employees (115,000) according to the Guardian. A group of Google employees have signed a letter of support and others have published a petition calling for the company to sign a neutrality agreement and abstain from union-busting tactics.",
-        "online": null,
-        "locations": [
-            "pittsburgh-pennsylvania-usa"
-        ],
-        "companies": [
-            "google"
-        ],
-        "workers": 73,
-        "tags": null,
-        "author": [
-            "nataliyaned"
-        ],
-        "latlngs": null,
-        "addresses": null
     },
     {
         "id": 189,
@@ -9087,61 +9060,6 @@
         ]
     },
     {
-        "id": 210,
-        "date": "2019/11/20",
-        "sources": [
-            "https://www.vox.com/recode/2019/12/31/21043467/google-union-cafeteria-workers-unionized-alphabet-silicon-valley-mountainview",
-            "https://www.cnbctv18.com/politics/over-2000-underpaid-overworked-google-workers-unionised-4974661.htm"
-        ],
-        "actions": [
-            "union representation",
-            "union drive"
-        ],
-        "struggles": [
-            "pay and benefits"
-        ],
-        "employment_types": [
-            "contract workers",
-            "blue collar workers"
-        ],
-        "description": "Approximately 2,300 contract workers employed in food service at Google have voted to unionize under a local chapter of Unite Here. Workers expressed dissatisfaction with their low wages, which start at $35,000 in the Bay Area, and lack of benefits compared to full-time Google employees. Some reported incidents of discrimination and bullying. The workers are officially employed by Compass Group, a third party contractor. The vote followed a two year effort.",
-        "online": null,
-        "locations": [
-            "mountain view-california-usa",
-            "san francisco-california-usa"
-        ],
-        "companies": [
-            "google",
-            "compass_group"
-        ],
-        "workers": 2300,
-        "tags": [
-            "unite_here"
-        ],
-        "author": [
-            "nataliyaned"
-        ],
-        "latlngs": [
-            [
-                37.419000999999994,
-                -122.08237596053958
-            ],
-            [
-                37.7933154,
-                -122.3945205
-            ],
-            [
-                37.7249773,
-                -122.4603378
-            ]
-        ],
-        "addresses": [
-            "Google, Mountain View, Santa Clara County, California, United States",
-            "Google One Market, 1, Market Street, Financial District, San Francisco, City and County of San Francisco, California, 94111, United States",
-            "LT Group - Compass Real Estate, Ocean Avenue, Ingleside, San Francisco, City and County of San Francisco, California, 94112, United States"
-        ]
-    },
-    {
         "id": 420,
         "date": "2019/11/20",
         "sources": [
@@ -9158,14 +9076,16 @@
             "blue collar workers",
             "contract workers"
         ],
-        "description": "About 2,300 Google cafeteria workers (contracted through Compass) voted to unionize to call for better pay and benefits. These workers include dishwashers and food preparers who serve breakfast, lunch, and dinner to Google employees. The service workers are considered contract workers and don't receive the same benefits such as retirement plans which are standard for direct Google employees. The cafeteria workers voted to unionize with a local chapter of Unite Here, which represents 300,000 workers in food, casino, laundry, hotel, and warehouse industries. ",
+        "description": "About 2,300 Google cafeteria workers (contracted through Compass) voted to unionize to call for better pay and benefits. These workers include dishwashers and food preparers who serve breakfast, lunch, and dinner to Google employees. The service workers are considered contract workers and don't receive the same benefits such as retirement plans which are standard for direct Google employees. The cafeteria workers voted to unionize with a local chapter of Unite Here, which represents 300,000 workers in food, casino, laundry, hotel, and warehouse industries. Workers expressed dissatisfaction with their low wages, which start at $35,000 in the Bay Area, and lack of benefits compared to full-time Google employees. Some reported incidents of discrimination and bullying. The workers are officially employed by Compass Group, a third party contractor. The vote followed a two year effort.",
         "online": null,
         "locations": [
-            "usa"
+            "usa",
+            "mountain view-california-usa",
+            "san francisco-california-usa"
         ],
         "companies": [
             "google",
-            "compass"
+            "compass group"
         ],
         "workers": 2300,
         "tags": null,
@@ -9178,13 +9098,23 @@
                 -118.4092133
             ],
             [
-                43.0520142,
-                -87.8903172
+                37.419000999999994,
+                -122.08237596053958
+            ],
+            [
+                37.7933154,
+                -122.3945205
+            ],
+            [
+                37.7249773,
+                -122.4603378
             ]
         ],
         "addresses": [
             "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
-            "Compass, Oak Leaf Trail, The East Side, Milwaukee, Milwaukee County, Wisconsin, 53202-2330, United States"
+            "Google, Mountain View, Santa Clara County, California, United States",
+            "Google One Market, 1, Market Street, Financial District, San Francisco, City and County of San Francisco, California, 94111, United States",
+            "LT Group - Compass Real Estate, Ocean Avenue, Ingleside, San Francisco, City and County of San Francisco, California, 94112, United States"
         ]
     },
     {
@@ -15760,7 +15690,7 @@
             "https://www.theverge.com/2021/3/2/22307671/glitch-workers-sign-historic-collective-bargaining-agreement-cwa"
         ],
         "actions": [
-            "union representation"
+            "union contract"
         ],
         "struggles": [
             "job security"
@@ -16418,7 +16348,7 @@
             "https://www.wgaeast.org/wp-content/uploads/sites/4/2021/03/Ringer-LLC-WGAE-CBA-FINAL.pdf"
         ],
         "actions": [
-            "union representation"
+            "union contract"
         ],
         "struggles": [
             "pay and benefits",
@@ -18119,8 +18049,7 @@
             "https://www.reuters.com/technology/canadian-amazon-facility-files-union-vote-union-2021-09-14/"
         ],
         "actions": [
-            "union drive",
-            "union representation"
+            "union drive"
         ],
         "struggles": [
             "pay and benefits",
@@ -18233,6 +18162,51 @@
         "addresses": null
     },
     {
+        "id": 517,
+        "date": "2021/09/20",
+        "sources": [
+            "https://medium.com/bluestateunion/blue-state-is-forming-a-union-b0874044061e",
+            "https://cwa-union.org/news/releases/employees-creative-agency-blue-state-secure-first-collective-bargaining-agreement"
+        ],
+        "actions": [
+            "union representation"
+        ],
+        "struggles": [
+            "pay and benefits",
+            "working conditions",
+            "job security"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "Represented by CWA, workers at Blue State have formed a union in order to better advocate for changes and be a part of the decision-making process. This union was voluntarily recognized, and a collective bargaining contract was approved that improved job security, pay, and benefits.",
+        "online": null,
+        "locations": [
+            "new york city-new york-usa"
+        ],
+        "companies": [
+            "blue state"
+        ],
+        "workers": 80,
+        "tags": [
+            "cwa",
+            "it workers"
+        ],
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": [
+            [
+                40.6453855,
+                -74.1077517
+            ]
+        ],
+        "addresses": [
+            "Blue, 1115, Richmond Terrace, Staten Island, Richmond County, New York, 10310, United States"
+        ]
+    },
+    {
         "id": 473,
         "date": "2021/09/20",
         "sources": [
@@ -18338,7 +18312,6 @@
         ],
         "actions": [
             "strike",
-            "union representation",
             "protest"
         ],
         "struggles": [
@@ -18865,8 +18838,7 @@
             "https://www.vice.com/en/article/akvwkp/amazon-warehouse-workers-in-new-york-city-to-file-for-union-election"
         ],
         "actions": [
-            "union drive",
-            "union representation"
+            "union drive"
         ],
         "struggles": [
             "working conditions",
@@ -19521,7 +19493,8 @@
         ],
         "actions": [
             "legal action",
-            "union representation"
+            "union representation",
+            "union drive"
         ],
         "struggles": [
             "job security"
@@ -19556,7 +19529,7 @@
             "https://www.cnbc.com/2021/12/22/amazon-warehouse-workers-on-staten-island-refile-union-petition.html"
         ],
         "actions": [
-            "union representation"
+            "union drive"
         ],
         "struggles": [
             "pay and benefits",

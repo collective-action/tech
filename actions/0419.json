@@ -1,36 +1,43 @@
 {
-    "id": 448,
-    "date": "2021/06/16",
+    "id": 451,
+    "date": "2021/06/29",
     "sources": [
-        "https://thehill.com/policy/technology/558812-workers-at-progressive-data-firm-catalist-unionize?amp"
+        "https://www.theverge.com/2021/6/29/22556436/whatsapp-spanish-language-content-moderators-contractor-equal-pay"
     ],
     "actions": [
-        "union drive",
-        "union representation"
+        "open letter"
     ],
     "struggles": [
-        "ethics"
+        "pay and benefits",
+        "discrimination"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "inhouse workers",
+        "contract workers"
     ],
-    "description": "Workers at Catalist, a political data services provider, have formed a union. 30 out of 38 employees have joined the union which is represented by the Communication Workers of America. The motivation for workers to unionize was not any specific mistreatment, rather they believe that in the broad benefits of organizing. The company voluntarily recognized the union. ",
-    "online": null,
+    "description": "Spanish language content moderators and customer service representatives at WhatsApp sent an internal letter demanding the $2 premium paid to other bi-lingual moderators and backpay, which Spanish language contractors don't receive. The letter addressed the CEOs of Facebook, Accenture, and WhatsApp and circulated on Facebook's communication platform. Eighty-nine employees signed the letter. ",
+    "online": true,
     "locations": [
-        "washington_dc-usa"
+        "austin-texas-usa"
     ],
     "companies": [
-        "catalist"
+        "facebook",
+        "accenture"
     ],
-    "workers": 30,
+    "workers": 89,
     "tags": [
-        "cwa",
-        "coworker_solidarity"
+        "moderators"
     ],
     "author": [
         "hyatt d."
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            30.2691649,
+            -97.7455041
+        ]
+    ],
+    "addresses": [
+        "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
+    ]
 }

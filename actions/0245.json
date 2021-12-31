@@ -1,38 +1,35 @@
 {
-    "id": 227,
-    "date": "2020/02/03",
+    "id": 229,
+    "date": "2020/02/09",
     "sources": [
-        "https://www.nbcnews.com/news/all/amazon-workers-protest-proposal-raise-bar-shareholder-resolutions-n1129216"
+        "https://medium.com/@techwontdrillit/tech-wont-drill-it-a63594dc6e66"
     ],
     "actions": [
-        "protest"
+        "open letter"
     ],
     "struggles": [
         "ethics"
     ],
     "employment_types": [
-        "white collar workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Members of Amazon Employees for Climate Justice submitted comments to the U.S. Securities and Exchange Commission against a new regulation that would prevent smaller shareholders from proposing shareholder resolutions (i.e. proposals to change how a company is run). Under the new rules, shareholders would have to presently hold at least $25,000 worth of shares or have held $2,000 worth of shares continuously for the last three years. The group has argued that this prevents smaller shareholders from voicing their opinion. Included in this group are many recently hired tech employees with small caches of employer stock. While shareholder resolutions are not binding, they have had some success in pushing corporations towards taking a stance on social issues such as gender equity.",
+    "description": "AI researchers and engineers from around the world signed an online open letter calling for the tech industry to refrain from using AI technologies to 'exacerbate the climate crisis'. The letter, authored by Tech Won't Drill It, has been signed by over 100 AI researchers.",
     "online": true,
     "locations": [
-        "usa"
+        "worldwide"
     ],
-    "companies": [
-        "amazon"
+    "companies": null,
+    "workers": 141,
+    "tags": [
+        "academics",
+        "students",
+        "climate_change",
+        "ai"
     ],
-    "workers": 3,
-    "tags": null,
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            46.320207,
-            -112.1072224
-        ]
-    ],
-    "addresses": [
-        "Amazon, Jefferson County, Montana, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

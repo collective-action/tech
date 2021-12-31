@@ -1,42 +1,36 @@
 {
-    "id": 273,
-    "date": "2020/03/18",
+    "id": 343,
+    "date": "2020/03/19",
     "sources": [
-        "https://www.nytimes.com/2020/05/14/technology/amazon-unions-france-coronavirus.html",
-        "https://www.reuters.com/article/us-health-coronavirus-france-amazon-idUSKBN2152MP"
+        "https://www.buzzfeednews.com/article/carolineodonovan/gimlet-media-podcasts-spotify-union",
+        "https://gizmodo.com/gimlet-gets-a-union-1834243384",
+        "https://gizmodo.com/whats-gimlets-problem-1833639322"
     ],
     "actions": [
-        "strike"
+        "union representation"
     ],
     "struggles": [
         "working conditions"
     ],
     "employment_types": [
-        "inhouse workers",
-        "blue collar workers"
+        "white collar workers",
+        "contract workers",
+        "inhouse workers"
     ],
-    "description": "French Amazon employees at six warehouses protested and threatened walkouts over lax covid-19 protections, calling for the company to adhere to social distancing, provide personal protective equipment, and initiate employee temperature checks. A spokesperson for Amazon's French CFDT union estimated that between 30-40% of Amazon employees in the country were no longer showing up to work over safety concerns or because of childcare obligations. A French law requires workplaces to keep paying workers who refuse to work over safety concerns. ",
+    "description": "The staff of podcasting company Gimlet Media, recently acquired by Spotify Media, voted in favor of unionization with the Writers Guild of America, East. Gimlet is the first podcasting company to join the WGAE. Notably, the union includes contractors. Update: In April, management announced they would recognize the union. ",
     "online": null,
     "locations": [
-        "saran-france"
+        "brooklyn-new york city-new york-usa"
     ],
     "companies": [
-        "amazon"
+        "spotify",
+        "gimlet media"
     ],
-    "workers": 250,
-    "tags": [
-        "coronavirus"
-    ],
+    "workers": 83,
+    "tags": null,
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            47.9619318,
-            1.8440185793930501
-        ]
-    ],
-    "addresses": [
-        "Amazon.fr ORY1, Rue du Champs Rouge, Saran, Orl\u00e9ans, Loiret, Centre-Val de Loire, France m\u00e9tropolitaine, 45770, France"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

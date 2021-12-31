@@ -1,33 +1,43 @@
 {
-    "id": 271,
-    "date": "2020/05/23",
+    "id": 265,
+    "date": "2020/06/01",
     "sources": [
-        "https://hk.appledaily.com/breaking/20200527/6PTZ5EDM7HK2NQDMSGESGVGAQA/"
+        "https://www.nytimes.com/2020/06/01/technology/facebook-employee-protest-trump.html",
+        "https://www.washingtonpost.com/business/2020/06/01/facebook-zuckerberg-donation-trump/"
     ],
     "actions": [
-        "strike"
+        "protest"
     ],
     "struggles": [
-        "pay and benefits"
+        "ethics"
     ],
     "employment_types": [
-        "gig workers"
+        "na"
     ],
-    "description": "Deliveroo workers went on strike for multiple days in Hong Kong over the company's new payment structure. ",
-    "online": null,
+    "description": "Facebook employees hosted a virtual walkout, refusing to work for the time of the event, in protest of the company's failure to take a tougher stance on Trump's posts in reaction to the George Floyd protests. Many employees also expressed solidarity with the Black Lives Matter movement. The New York Times reports that employees have also circulated petitions internally and threatened to resign in response to the event. The previous week Twitter added fact-check and warning labels to two tweets from the president that broke Twitter\u2019s rules around voter suppression and glorification of violence.",
+    "online": true,
     "locations": [
-        "hong kong-china"
+        "usa"
     ],
     "companies": [
-        "deliveroo"
+        "facebook"
     ],
-    "workers": 200,
+    "workers": null,
     "tags": [
-        "delivery_workers"
+        "antiracism",
+        "blm",
+        "trump"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            30.2691649,
+            -97.7455041
+        ]
+    ],
+    "addresses": [
+        "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
+    ]
 }

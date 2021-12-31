@@ -1,49 +1,43 @@
 {
-    "id": 456,
-    "date": "2021/07/21",
+    "id": 458,
+    "date": "2021/07/31",
     "sources": [
-        "https://justice-for-jessica.com/",
-        "https://newsnationusa.com/news/finance/banking/hundreds-of-google-employees-call-on-company-to-change-sexual-misconduct-policies-that-they-say-put-the-burden-on-survivors/"
+        "https://www.vice.com/en/article/pkbvgz/no-dasher-no-deliveries-doordash-drivers-strike-for-tip-transparency",
+        "https://www.npr.org/2021/07/31/1023265561/why-doordash-drivers-are-on-strike"
     ],
     "actions": [
-        "open letter"
+        "protest",
+        "strike"
     ],
     "struggles": [
-        "working conditions",
-        "unfair labor practices"
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "An open letter was published demanding justice for Jessica (Ming) Tao, a former employee at Google. According to the open letter, \"Google has chosen to put Jessica on unpaid leave while her rapist is still fully employed.\" The letter states that this is a common practice where Google protects the harasser instead of the victim. The letter demands that Jessica is compensated in full for her time on disability leave. The letter demands, \"that survivors involved in future proceedings are always compensated for their time during this traumatizing process.\" Lastly, the letter demands Alphabet to stop having workers go to employee assistance program (EAP) therapy when they face harassment or other workplace abuses. ",
+    "description": "Only July 31st, DoorDash drivers across the nation went on strike protesting pay and the company's lack of transparency about tips in what might be the first coordinated strike in the company's history. Workers demand that DoorDash show the tip amount for an order and have a minimum of $4.50 base pay for every order. DoorDash had recently blocked access to an app called Para that allowed workers to see the tip amount before accepting an order. Organizing for the strike began with online posts to Reddit. On the day of the strike, many workers posted online via Twitter, YouTube, and Reddit voicing their struggles. ",
     "online": true,
     "locations": [
         "usa"
     ],
     "companies": [
-        "google",
-        "alphabet"
+        "doordash"
     ],
-    "workers": 700,
+    "workers": null,
     "tags": [
-        "sexual_harassment"
+        "coworker solidarity",
+        "delivery_workers"
     ],
     "author": [
         "hyatt d."
     ],
     "latlngs": [
         [
-            33.977092,
-            -118.4092133
-        ],
-        [
-            37.3398646,
-            -121.8844823
+            37.7834546,
+            -122.4080358
         ]
     ],
     "addresses": [
-        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
-        "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112-3580, United States"
+        "Doordash HQ, Market Street, SOMA Pilipinas, San Francisco, City and County of San Francisco, California, 94104, United States"
     ]
 }

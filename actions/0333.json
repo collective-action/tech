@@ -1,36 +1,66 @@
 {
-    "id": 329,
-    "date": "2020/09/16",
+    "id": 330,
+    "date": "2020/09/22",
     "sources": [
-        "https://www.deccanchronicle.com/amp/nation/current-affairs/160920/swiggy-workers-go-on-strike-in-hyderabad-demand-revised-charges.html",
-        "https://www.newsclick.in/swiggy-employees-strike"
+        "https://www.vice.com/amp/en_us/article/g5p333/uk-tech-workers-launch-first-national-effort-to-unionize-tech-industry"
     ],
     "actions": [
-        "strike"
+        "union drive"
     ],
     "struggles": [
-        "pay and benefits"
+        "working conditions"
     ],
     "employment_types": [
-        "gig workers"
+        "blue collar workers",
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Workers for delivery company Swiggy went on strike in a number of Indian cities including Hyderabad, Chennai, and Delhi to call for greater pay. They rallied outside of restaurants and prevented third-party companies from picking up orders.",
+    "description": "Tech workers in the U.K. have started a union aimed at organizing a wide array of tech workers in the country. The United Tech and Allied Workers, a branch of the Communications Workers Union, offers legal counsel and representation at employment tribunals for its members. Under U.K. law, employees can join a union even if that union has not been recognized by their employer. In an interview with Vice, a member highlighted the union's \"very broad definition of a tech worker\", which spans white collar and blue collar labor.",
     "online": null,
     "locations": [
-        "hyderabad-india",
-        "chennai-india",
-        "delhi-india"
+        "uk"
     ],
     "companies": [
-        "swiggy"
+        "google",
+        "amazon",
+        "microsoft",
+        "samsung",
+        "deliveroo"
     ],
-    "workers": 3000,
+    "workers": 30,
     "tags": [
-        "delivery_workers"
+        "industry_solidarity"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            51.5333771,
+            -0.1258455
+        ],
+        [
+            52.3124769,
+            -1.878707127163782
+        ],
+        [
+            51.5195583,
+            -0.181935
+        ],
+        [
+            55.9519248,
+            -3.1982756
+        ],
+        [
+            51.5314216,
+            -0.1113624
+        ]
+    ],
+    "addresses": [
+        "Google, Pancras Road, King's Cross, London Borough of Camden, London, Greater London, England, N1C 4BJ, United Kingdom",
+        "Amazon, Beoley CP, Holt End, Bromsgrove, Worcestershire, West Midlands, England, United Kingdom",
+        "Microsoft London, Kingdom Street, Paddington Central, Paddington, City of Westminster, London, Greater London, England, W2 6PY, United Kingdom",
+        "Samsung, Princes Street, New Town, New Town/Broughton, City of Edinburgh, Scotland, EH2 2ER, United Kingdom",
+        "Deliveroo, Pentonville Road, Pentonville, Barnsbury, London Borough of Islington, London, Greater London, England, N1 9JB, United Kingdom"
+    ]
 }

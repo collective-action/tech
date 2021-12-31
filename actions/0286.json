@@ -1,53 +1,44 @@
 {
-    "id": 261,
-    "date": "2020/05/01",
+    "id": 262,
+    "date": "2020/05/05",
     "sources": [
-        "https://www.washingtonpost.com/technology/2020/05/01/amazon-instacart-workers-strike/",
-        "https://www.wired.com/story/amazon-instacart-target-coronavirus-may-day-strike/"
+        "https://supchina.com/2020/05/05/internet-writers-protest-what-they-call-unfair-contracts-with-tencent-company/"
     ],
     "actions": [
-        "protest",
         "strike"
     ],
     "struggles": [
-        "working conditions"
+        "pay and benefits"
     ],
     "employment_types": [
-        "inhouse workers",
-        "blue collar workers",
         "gig workers"
     ],
-    "description": "Workers at Amazon, Whole Foods, Instacart, Target, and Shipt walked off the job on May 1st (International Workers' Day) to call for better working conditions under the covid-19 pandemic. The Washington Post reports that \"a small crowd\" outside of an Amazon Staten Island warehouse was made up of Amazon workers and also healthcare professionals who appeared out of solidarity with their cause. The scale of the action is difficult to measure, given its broad geography. Walkouts and protests were reported in Atlanta, New York, and the Bay Area.",
+    "description": "Hundreds of thousands of writers signed to China Literature (subsidiary of Tencent), the country's biggest online publisher, went on an online strike, protesting against exploitative contracts and the company's regular infringement of their intellectual property rights. The strike's organizers were demonstrating against proposed changes to China Literature\u2019s business model and contracts with its writers. Writers stopped publishing new content on the website on the day of the strike. This change would negatively affect writers' income, which primarily comes from subscription fees and tips from their readers. 'Financially speaking, we were already drowning in quicksand before the rumors. Now they are trying to give us a death blow' a China Literature writer",
     "online": null,
     "locations": [
-        "usa"
+        "china"
     ],
     "companies": [
-        "amazon",
-        "instacart",
-        "target",
-        "shipt"
+        "chinese literature",
+        "tencent"
     ],
-    "workers": 1000,
-    "tags": [
-        "coronavirus",
-        "delivery_workers"
-    ],
+    "workers": 100001,
+    "tags": null,
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
     "latlngs": [
         [
-            46.320207,
-            -112.1072224
+            23.09733995,
+            113.29374279344763
         ],
         [
-            38.594073550000005,
-            -90.54739094340695
+            26.3695593,
+            106.50085007231183
         ]
     ],
     "addresses": [
-        "Amazon, Jefferson County, Montana, United States",
-        "Target, Ballwin, Saint Louis County, Missouri, 63011, United States"
+        "\u4e2d\u6587\u5802, 274, \u9038\u4ed9\u8def, \u65b0\u6e2f\u8857\u9053, \u6d77\u73e0\u533a, \u5e7f\u5dde\u5e02, \u5e7f\u4e1c\u7701, 510275, \u4e2d\u56fd",
+        "\u817e\u8baf\u8d35\u5b89\u4e03\u661f\u6570\u636e\u4e2d\u5fc3, \u5e73\u575d\u533a, \u5b89\u987a\u5e02, \u8d35\u5dde\u7701, \u4e2d\u56fd"
     ]
 }

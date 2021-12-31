@@ -1,48 +1,42 @@
 {
-    "id": 217,
-    "date": "2019/12/04",
+    "id": 219,
+    "date": "2019/12/12",
     "sources": [
-        "https://www.latimes.com/business/technology/story/2019-12-04/github-open-source-developers-ice-contract"
+        "https://www.vice.com/en_us/article/dyggwv/e-scooter-workers-just-formed-their-first-union"
     ],
     "actions": [
-        "open letter"
+        "union representation"
     ],
     "struggles": [
-        "ethics"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
-        "white collar workers"
+        "blue collar workers",
+        "inhouse workers"
     ],
-    "description": "In an open letter published Wednesday on GitHub, software developers representing the open source community joined the call for GitHub to immediately cancel the $200,000 contract with ICE. 'Open source is about inverting power structures and creating access and opportunities for everyone,' the letter, signed by 167 developers at the time of publication, reads. 'We, the undersigned, cannot see how to reconcile our ethics with GitHub\u2019s continued support of ICE. Moreover, your lack of transparency around the ethical standards you use for conducting business is also concerning to a community that is focused around doing everything out in the open.'",
-    "online": true,
+    "description": "E-scooter workers in San Francisco at the Ford-owned start-up Spin joined a union on Wednesday\u2014a first in the fledgling industry. Roughly 40 Spin workers\u2014who collect, repair, deploy, and charge Spin\u2019s fleet of more than 500 electric scooters on the streets of San Francisco\u2014are now part of Teamsters Local 665, as first reported by the San Francisco Examiner. The union says workers want to negotiate for better pay, health care, and retirement security in their first contract.",
+    "online": null,
     "locations": [
-        "usa"
+        "san francisco-california-usa"
     ],
     "companies": [
-        "github",
-        "microsoft"
+        "spin"
     ],
-    "workers": 200,
+    "workers": 40,
     "tags": [
-        "industry_solidarity",
-        "immigration",
-        "ice"
+        "teamster"
     ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            37.7821769,
-            -122.3912458
-        ],
-        [
-            37.3974949,
-            -122.0842646
+            37.7699033,
+            -122.4595573
         ]
     ],
     "addresses": [
-        "GitHub, 88, Colin P. Kelly Junior Street, Port of San Francisco, San Francisco, City and County of San Francisco, California, 94107, United States",
-        "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, California, 94043, United States"
+        "Spin, Bowling Green Drive, Inner Sunset, San Francisco, City and County of San Francisco, California, 94118-4504, United States"
     ]
 }

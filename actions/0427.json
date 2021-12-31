@@ -1,52 +1,42 @@
 {
-    "id": 461,
-    "date": "2021/07/26",
+    "id": 486,
+    "date": "2021/08/02",
     "sources": [
-        "https://www.foxglove.org.uk/2021/07/25/open-letter-from-60-content-moderators-to-facebook/"
+        "https://www.codeforamerica.org/news/code-for-america-voluntarily-recognizes-cfa-workers-united-union/"
     ],
     "actions": [
-        "open letter"
+        "union drive",
+        "union representation"
     ],
     "struggles": [
-        "job security",
-        "working conditions",
-        "ethics"
+        "working conditions"
     ],
     "employment_types": [
         "white collar workers",
-        "inhouse workers",
-        "contract workers"
+        "inhouse workers"
     ],
-    "description": "Content moderators who work for Facebook across the world wrote an open letter to Mark Zuckerberg, Sheryl Sandberg, Anne Heraty, and Julie Sweet. The moderators are demanding Facebook stop using non-disclosure agreements to prevent moderators from speaking out about their working conditions. The moderators also want proper mental health support and to make all moderators in-house instead of contract workers outsourced by Accenture.  ",
-    "online": true,
+    "description": "After CfA Workers united requested for voluntary recognition of their union on August 2nd, Code for America voluntarily recognized CfA Workers United Union on October 22, 2021. CfA is one of the first unions in civic tech, and a unionized contract is under negotiation.",
+    "online": null,
     "locations": [
         "usa"
     ],
     "companies": [
-        "facebook",
-        "accenture"
+        "code for america"
     ],
-    "workers": 60,
+    "workers": null,
     "tags": [
-        "international solidarity",
-        "coworker_solidarity",
-        "moderators"
+        "opeiu"
     ],
     "author": [
-        "hyatt d."
+        "wynniechan"
     ],
     "latlngs": [
         [
-            30.2691649,
-            -97.7455041
-        ],
-        [
-            37.3339398,
-            -121.8895142
+            37.7816161,
+            -122.4082886
         ]
     ],
     "addresses": [
-        "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States",
-        "Accenture, West San Fernando Street, Downtown Historic District, San Jose, Santa Clara County, California, 95113, United States"
+        "Code for America, 972, Mission Street, SOMA Pilipinas, San Francisco, City and County of San Francisco, California, 94103, United States"
     ]
 }

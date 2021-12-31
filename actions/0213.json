@@ -1,42 +1,40 @@
 {
-    "id": 198,
-    "date": "2019/10/04",
+    "id": 199,
+    "date": "2019/10/21",
     "sources": [
-        "https://www.bloomberg.com/news/articles/2019-10-10/microsoft-employees-call-to-end-github-ice-contract",
-        "https://www.businessinsider.com/microsoft-github-ice-contracts-solidarity-2019-10"
+        "https://www.bloomberg.com/amp/news/articles/2019-10-21/swiss-google-employees-defy-managers-stage-labor-event?__twitter_impression=true",
+        "https://www.vox.com/recode/2019/10/21/20924697/google-unionization-switzerland-zurich-syndicom-zooglers"
     ],
     "actions": [
-        "open letter"
+        "union drive"
     ],
     "struggles": [
-        "ethics"
+        "working conditions",
+        "job security"
     ],
     "employment_types": [
         "white collar workers"
     ],
-    "description": "Microsoft employees are circulating a letter supporting an effort to get its GitHub subsidiary to cancel a contract with the U.S. Immigration and Customs Enforcement agency, the latest effort among tech-company staff to influence corporate policy on government work. The letter reflects concerns that Microsoft\u2019s sales to the agency implicate the software maker in the government\u2019s detention of immigrants. ",
-    "online": true,
+    "description": "Approximately 40 Google employees in Zurich held a meeting at the office to discuss unions and labor rights with representatives from Syndicom, a Swiss labor union. Employees had invited Syndicom to speak earlier in June but the event was cancelled at the request of management. Management later announced they would be holding a series of talk on labor rights and would allow Syndicom to join.",
+    "online": null,
     "locations": [
-        "usa"
+        "zurich-switzerland"
     ],
     "companies": [
-        "microsoft"
+        "google"
     ],
-    "workers": 200,
-    "tags": [
-        "ice",
-        "industry_solidarity"
-    ],
+    "workers": 40,
+    "tags": null,
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            37.3974949,
-            -122.0842646
+            47.3793085,
+            8.5307904
         ]
     ],
     "addresses": [
-        "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, California, 94043, United States"
+        "Google, 1, Gustav-Gull-Platz, Langstrasse, Aussersihl, Z\u00fcrich, Bezirk Z\u00fcrich, Z\u00fcrich, 8004, Schweiz/Suisse/Svizzera/Svizra"
     ]
 }

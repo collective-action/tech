@@ -1,32 +1,42 @@
 {
-    "id": 197,
-    "date": "2019/10/03",
+    "id": 198,
+    "date": "2019/10/04",
     "sources": [
-        "https://english.kyodonews.net/news/2019/10/d2198529f08b-update1-uber-eats-delivery-staff-in-japan-form-labor-union.html",
-        "https://www.japantimes.co.jp/news/2019/10/03/business/corporate-business/uber-eats-delivery-staff-japan-form-labor-union/#.xaurdohkihs"
+        "https://www.bloomberg.com/news/articles/2019-10-10/microsoft-employees-call-to-end-github-ice-contract",
+        "https://www.businessinsider.com/microsoft-github-ice-contracts-solidarity-2019-10"
     ],
     "actions": [
-        "union representation"
+        "open letter"
     ],
     "struggles": [
-        "working conditions"
+        "ethics"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers"
     ],
-    "description": "Staff in Japan of ride-hailing company Uber's food delivery service formed a labor union Thursday to negotiate contract terms and seek improved working conditions. The union, formed by 17 platformers, also plans to request the Japanese unit of the U.S. company to ensure fair treatment among delivery riders and review how distance-based wages are set.",
-    "online": null,
+    "description": "Microsoft employees are circulating a letter supporting an effort to get its GitHub subsidiary to cancel a contract with the U.S. Immigration and Customs Enforcement agency, the latest effort among tech-company staff to influence corporate policy on government work. The letter reflects concerns that Microsoft\u2019s sales to the agency implicate the software maker in the government\u2019s detention of immigrants. ",
+    "online": true,
     "locations": [
-        "tokyo-japan"
+        "usa"
     ],
     "companies": [
-        "uber"
+        "microsoft"
     ],
-    "workers": 17,
-    "tags": null,
+    "workers": 200,
+    "tags": [
+        "ice",
+        "industry_solidarity"
+    ],
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.3974949,
+            -122.0842646
+        ]
+    ],
+    "addresses": [
+        "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, California, 94043, United States"
+    ]
 }

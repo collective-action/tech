@@ -1,9 +1,8 @@
 {
-    "id": 334,
-    "date": "2020/06/03",
+    "id": 270,
+    "date": "2020/06/06",
     "sources": [
-        "https://www.nytimes.com/2020/06/03/technology/facebook-trump-employees-letter.html",
-        "https://www.businessinsider.com/early-facebook-employees-write-open-letter-mark-zuckerberg-2020-6"
+        "https://www.washingtonpost.com/technology/2020/06/06/chan-zuckerberg-initiative-open-letter-trump/"
     ],
     "actions": [
         "open letter"
@@ -12,10 +11,9 @@
         "ethics"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "white collar workers"
     ],
-    "description": "Nearly three dozen early Facebook employees, including its first Chief of Communications, wrote a letter to CEO Mark Zuckerberg protesting his decision to leave Donald Trump's posts up on the website without action. Twitter chose to add labels to several of these posts warning that they were inaccurate or glorified violence. They claimed Facebook's inaction against these posts violated many of the original ideals the company had been founded on. ",
+    "description": "Scientists funded by the Chan Zuckerberg Initiative addressed a letter to Mark Zuckerberg critiquing Facebook's role in diffusing inaccurate information, in particular Donald Trump's \"when the looting starts, the shooting starts\" comment in relation to the George Floyd protests. The authors argued that the letter promotes violence. ",
     "online": true,
     "locations": [
         "usa"
@@ -23,9 +21,10 @@
     "companies": [
         "facebook"
     ],
-    "workers": null,
+    "workers": 141,
     "tags": [
-        "politics"
+        "academics",
+        "ai"
     ],
     "author": [
         "nataliyaned"

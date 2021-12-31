@@ -1,46 +1,42 @@
 {
-    "id": 420,
-    "date": "2019/11/20",
+    "id": 212,
+    "date": "2019/11/25",
     "sources": [
-        "https://www.vox.com/recode/2019/12/31/21043467/google-union-cafeteria-workers-unionized-alphabet-silicon-valley-mountainview"
+        "https://www.vox.com/the-goods/2019/11/27/20985691/amazon-workers-black-friday-2019",
+        "https://nypost.com/2019/11/25/workers-at-amazons-staten-island-warehouse-to-hold-rally-over-high-injury-rates/"
     ],
     "actions": [
-        "union representation"
+        "open letter",
+        "protest"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "working conditions",
+        "pay and benefits"
     ],
     "employment_types": [
         "blue collar workers",
-        "contract workers"
+        "inhouse workers"
     ],
-    "description": "About 2,300 Google cafeteria workers (contracted through Compass) voted to unionize to call for better pay and benefits. These workers include dishwashers and food preparers who serve breakfast, lunch, and dinner to Google employees. The service workers are considered contract workers and don't receive the same benefits such as retirement plans which are standard for direct Google employees. The cafeteria workers voted to unionize with a local chapter of Unite Here, which represents 300,000 workers in food, casino, laundry, hotel, and warehouse industries. ",
+    "description": "Over a hundred Amazon workers and their supporters gathered outside the facility to protest working conditions that they say only worsen as the e-tailing giant gears up to deliver a rush of packages ahead of Christmas and Hanukkah. 600 workers at an Amazon fulfillment center in New York signed a letter and protested working conditions. Amazon workers face injury rates over three times the industry average, and are asking for increased break time and better transit benefits.",
     "online": null,
     "locations": [
-        "usa"
+        "staten island-new york city-new york-usa"
     ],
     "companies": [
-        "google",
-        "compass"
+        "amazon"
     ],
-    "workers": 2300,
+    "workers": 600,
     "tags": null,
     "author": [
-        "hyatt d."
+        "ericandrewlewis"
     ],
     "latlngs": [
         [
-            33.977092,
-            -118.4092133
-        ],
-        [
-            43.0520142,
-            -87.8903172
+            40.6193387,
+            -74.0727749
         ]
     ],
     "addresses": [
-        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
-        "Compass, Oak Leaf Trail, The East Side, Milwaukee, Milwaukee County, Wisconsin, 53202-2330, United States"
+        "Amazon Court, Clifton, Staten Island, Richmond County, New York, 10304, United States"
     ]
 }

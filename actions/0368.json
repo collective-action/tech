@@ -1,68 +1,41 @@
 {
-    "id": 378,
-    "date": "2021/01/04",
+    "id": 383,
+    "date": "2021/01/08",
     "sources": [
-        "https://www.nytimes.com/2021/01/04/technology/google-employees-union.html",
-        "https://alphabetworkersunion.org/",
-        "https://collectiveaction.tech/2021/the-abcs-of-googles-new-union/",
-        "https://twitter.com/AlphabetWorkers/status/1346612197305114624",
-        "https://www.theverge.com/2021/1/11/22224926/google-union-700-members"
+        "https://www.washingtonpost.com/technology/2021/01/08/twitter-trump-dorsey/"
     ],
     "actions": [
-        "union representation"
+        "open letter"
     ],
     "struggles": [
-        "working conditions",
-        "job security",
-        "discrimination",
-        "unfair labor practices",
         "ethics"
     ],
     "employment_types": [
-        "white collar workers",
-        "contract workers",
-        "inhouse workers"
+        "white collar workers"
     ],
-    "description": "Over 200 Google employees in the U.S. and Canada revealed that they had formed a solidarity union. Updated to 530 members (1/6/21). Updated to 700 members (1/12/21). Updated to 800 members (2/17/21).The Alphabet Workers Union includes contractors, who make up over half of the company's workforce, and is affiliated with the Communications Workers of America. According to the union website, the goal of the AWU is \"to create a democratic process for workers to wield decision-making power; promote social, economic, and environmental justice; and end the unfair disparities between TVCs (temporary, vendor, and contractor workers) and FTEs (full-time employees)\". The union has been over a year in the making and organizers credit the foundation laid by the last decade of collective actions at the company. ",
-    "online": null,
+    "description": "Following the pro-Trump storming of the Capitol on January 6, roughly 350 Twitter employees signed an internal letter addressed to CEO Jack Dorsey and top executives questioning Twitter's policies and role in facilitating the attack. The employees requested an investigation into corporation actions over the last several years and asked for greater transparency to the company\u2019s decision-making process regarding Donald Trumps' Twitter account on the day of the attack.",
+    "online": true,
     "locations": [
-        "usa",
-        "canada"
+        "usa"
     ],
     "companies": [
-        "alphabet",
-        "google"
+        "twitter"
     ],
-    "workers": 701,
+    "workers": 350,
     "tags": [
-        "coworker solidarity",
-        "cwa"
+        "trump",
+        "politics"
     ],
     "author": [
-        "nataliyaned"
+        "CM"
     ],
     "latlngs": [
         [
-            37.3398646,
-            -121.8844823
-        ],
-        [
-            33.977092,
-            -118.4092133
-        ],
-        [
-            49.0336258,
-            -69.6817118
-        ],
-        [
-            43.453913650000004,
-            -80.50015897052897
+            37.7765529,
+            -122.4167931517656
         ]
     ],
     "addresses": [
-        "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112-3580, United States",
-        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
-        "Ruisseau Alphabet, Lac-au-Brochet, La Haute-C\u00f4te-Nord, C\u00f4te-Nord, Qu\u00e9bec, Canada",
-        "Google Waterloo, 25, Breithaupt Street, Downtown, Kitchener, Region of Waterloo, Southwestern Ontario, Ontario, N2H 3X8, Canada"
+        "Twitter, 10th Street, SOMA Pilipinas, San Francisco, City and County of San Francisco, California, 94102, United States"
     ]
 }

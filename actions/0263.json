@@ -1,44 +1,35 @@
 {
-    "id": 243,
+    "id": 295,
     "date": "2020/03/19",
     "sources": [
-        "https://www.businessinsider.com/ice-mijente-microsoft-coronavirus-crisis-2020-3",
-        "https://github.com/msworkers/against.ice"
+        "https://technode.com/2020/04/29/there-are-no-food-delivery-winners/",
+        "https://technode.com/2019/02/25/meituan-deliveryman-strike/",
+        "https://maps.clb.org.hk/?i18n_language=en_US&map=1&startDate=2019-02&endDate=2019-02&eventId=2020010622223453021"
     ],
     "actions": [
-        "open letter"
+        "strike"
     ],
     "struggles": [
-        "ethics"
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "Mijente, an immigrant rights group is calling on ICE to stop hunting down undocumented immigrants amid the coronavirus crisis. In an open letter published on Github, Microsoft workers backed mijente's campaign, calling on tech companies not to share their technologies with ICE.",
+    "description": "Food delivery drivers carried out a series of strikes in several major cities across China in protest of lowered wages from the dominant food delivery platform, Meituan Dianping.  Workers lined up delivery scooters and bikes displaying signs that read, \"stop taking orders.\u201d  The work stoppage created tension between delivery drivers and food vendors, sometimes leading to physical confrontation.",
     "online": null,
     "locations": [
-        "california-usa"
+        "dongguan-china"
     ],
     "companies": [
-        "microsoft"
+        "meituan"
     ],
-    "workers": null,
+    "workers": 100,
     "tags": [
-        "ice",
-        "immigration",
-        "coronavirus"
+        "delivery_workers"
     ],
     "author": [
-        "organizejs"
+        "clarissa"
     ],
-    "latlngs": [
-        [
-            37.3974949,
-            -122.0842646
-        ]
-    ],
-    "addresses": [
-        "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, California, 94043, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

@@ -1,43 +1,36 @@
 {
-    "id": 391,
-    "date": "2021/02/11",
+    "id": 444,
+    "date": "2021/02/23",
     "sources": [
-        "https://www.theverge.com/2021/2/11/22278684/medium-union-unionizing-communications-workers-america",
-        "https://mediumworkersunion.org/",
-        "https://www.cnn.com/2021/02/11/media/medium-union/index.html"
+        "https://businesstech.co.za/news/technology/470264/uber-faces-class-action-lawsuit-in-south-africa/"
     ],
     "actions": [
-        "union drive"
+        "legal action"
     ],
     "struggles": [
-        "ethics"
+        "pay and benefits",
+        "unfair labor practices",
+        "job security"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "Medium workers have announced they are forming a union. Over 140 Medium workers (reportedly 70% of eligible workers) have signed union cards in support of forming a union with the Communications Workers of America (CWA) Local 9410. They have called on management to voluntarily recognize the union. ",
+    "description": "In South Africa, Uber drivers are taking part in a class-action lawsuit against the company. Drivers are seeking compensation for unpaid overtime and holiday pay based on South African law. One of the law firms representing South African drivers also represented UK drivers in front of the UK Supreme Court, which ruled on February 19th that drivers must be classified as employees rather than independent contractors in the country.",
     "online": null,
     "locations": [
-        "usa"
+        "south africa"
     ],
     "companies": [
-        "medium"
+        "uber"
     ],
-    "workers": 140,
+    "workers": null,
     "tags": [
-        "cwa"
+        "drivers",
+        "industry solidarity"
     ],
     "author": [
-        "fiona tay"
+        "hyatt d."
     ],
-    "latlngs": [
-        [
-            41.3750149,
-            -83.6402779
-        ]
-    ],
-    "addresses": [
-        "MEDIUM, East Wooster Street, Bowling Green, Wood County, Ohio, 43403-0001, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

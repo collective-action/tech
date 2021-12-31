@@ -1,44 +1,67 @@
 {
-    "id": 412,
-    "date": "2021/03/22",
+    "id": 432,
+    "date": "2021/03/29",
     "sources": [
-        "https://www.bloomberg.com/news/articles/2021-03-30/youtube-refuses-to-remove-anti-asian-song-drawing-staff-ire",
-        "https://www.nbcnews.com/news/asian-america/youtube-declines-ban-video-anti-asian-lyrics-staff-outcry-rcna562",
-        "https://www.indy100.com/news/youtube-yg-song-anti-asian-song-removal-b1826955"
+        "https://www.politico.eu/article/german-union-leads-four-day-amazon-strike/"
     ],
     "actions": [
-        "protest"
+        "protest",
+        "strike"
     ],
     "struggles": [
-        "ethics",
-        "discrimination"
+        "working conditions",
+        "job security"
     ],
     "employment_types": [
-        "white collar workers",
+        "blue collar workers",
         "inhouse workers"
     ],
-    "description": "Several of YouTube's employees raised concerns that a music video on the website, \"Meet the Flockers\" by YG, promotes racism towards Asian Americans. The video details a burglary and calls for targeting Chinese communities according to press reports. The employees requested that the company's Trust and Safety team pull the video from the site, which the company declined to do in a statement. Update: In early April, several newspapers reported that the video had been removed from the website. ",
+    "description": "German Amazon workers went on strike in six centers across the country to put pressure on the company to sign a collective agreement with the union in Germany. Ver.di, the union, has also criticized the company for unsafe working conditions under covid. ",
     "online": null,
     "locations": [
-        "san bruno-california-usa"
+        "rheinberg-germany",
+        "werne-germany",
+        "koblenz-germany",
+        "leipzig-germany",
+        "bad hersfeld-germany"
     ],
     "companies": [
-        "youtube"
+        "amazon"
     ],
-    "workers": null,
+    "workers": 2000,
     "tags": [
-        "antiracism"
+        "coronavirus"
     ],
     "author": [
-        "hyatt d."
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            37.6291599,
-            -122.42551778433794
+            51.5369716,
+            6.5877929
+        ],
+        [
+            51.653494949999995,
+            7.59464606445661
+        ],
+        [
+            50.3495332,
+            7.4901388
+        ],
+        [
+            51.36227055,
+            12.45231287033246
+        ],
+        [
+            50.845334,
+            9.677958815746917
         ]
     ],
     "addresses": [
-        "YouTube, 1000, Cherry Avenue, YouTube, San Bruno, San Mateo County, California, 94066, United States"
+        "Amazon, Amazonstra\u00dfe, Winterswick, Rheinberg, Kreis Wesel, Nordrhein-Westfalen, 47495, Deutschland",
+        "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
+        "Amazon, Am Autobahnkreuz, Gewerbegebiet Industriepark A61/GVZ Koblenz, R\u00fcbenach, Koblenz, Rheinland-Pfalz, 56072, Deutschland",
+        "Amazon Distribution GmbH, Paunsdorf, Ost, Sachsen, 04347, Deutschland",
+        "Amazon FRA1, Eichhof, Asbach, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland"
     ]
 }

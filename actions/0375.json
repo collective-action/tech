@@ -1,40 +1,43 @@
 {
-    "id": 407,
-    "date": "2021/01/25",
+    "id": 391,
+    "date": "2021/02/11",
     "sources": [
-        "https://www.theverge.com/2021/1/25/22243138/google-union-alphabet-workers-europe-announce-global-alliance"
+        "https://www.theverge.com/2021/2/11/22278684/medium-union-unionizing-communications-workers-america",
+        "https://mediumworkersunion.org/",
+        "https://www.cnn.com/2021/02/11/media/medium-union/index.html"
     ],
     "actions": [
         "union drive"
     ],
     "struggles": [
-        "ethics",
-        "unfair labor practices",
-        "discrimination"
+        "ethics"
     ],
     "employment_types": [
         "white collar workers",
-        "contract workers",
         "inhouse workers"
     ],
-    "description": "Alphabet Workers Union (AWU) joined a global union alliance called Alpha Global. Alpha Global is an international coalition formed by 13 unions across the world in 10 different countries including the US, UK, and Switzerland and affiliated with UNI Global Union. Alpha Global is now choosing a steering committee, which may include Google workers. They plan to launch campaigns targeting \"national issues, like the treatment of content moderators in certain countries, as well as international concerns, like workers being forced to sign nondisclosure agreements\".",
-    "online": true,
+    "description": "Medium workers have announced they are forming a union. Over 140 Medium workers (reportedly 70% of eligible workers) have signed union cards in support of forming a union with the Communications Workers of America (CWA) Local 9410. They have called on management to voluntarily recognize the union. ",
+    "online": null,
     "locations": [
-        "worldwide"
+        "usa"
     ],
     "companies": [
-        "alphabet",
-        "google"
+        "medium"
     ],
-    "workers": null,
+    "workers": 140,
     "tags": [
-        "international solidarity",
-        "industry solidarity",
         "cwa"
     ],
     "author": [
-        "hyatt d."
+        "fiona tay"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            41.3750149,
+            -83.6402779
+        ]
+    ],
+    "addresses": [
+        "MEDIUM, East Wooster Street, Bowling Green, Wood County, Ohio, 43403-0001, United States"
+    ]
 }

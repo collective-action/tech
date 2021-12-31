@@ -1,40 +1,35 @@
 {
-    "id": 332,
-    "date": "2020/09/21",
+    "id": 331,
+    "date": "2020/09/23",
     "sources": [
-        "https://www.cnbc.com/2020/10/01/google-contractors-allege-ndas-violate-free-speech-laws.html",
-        "https://www.courts.ca.gov/opinions/documents/A157097.PDF"
+        "https://www.forbes.com/sites/rachelsandler/2020/09/24/hootsuite-drops-ice-contract-after-employee-backlash/#714f8e261c50",
+        "https://www.vice.com/en/article/jgx75b/hootsuite-denied-providing-tech-to-ice-this-contract-shows-that-it-did"
     ],
     "actions": [
-        "legal action"
+        "protest"
     ],
     "struggles": [
-        "unfair labor practices"
+        "ethics"
     ],
     "employment_types": [
-        "contract workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "A number of contractors for Google (employed through staffing firm Adecco) have filed a lawsuit alleging that confidentiality agreements with the company deprive them of basic legal rights, such as free speech. Contractors are prevented from discussing wages or working conditions, which they claim prohibit them from \u201cdisclosing violations of state and federal law, either within Google to their managers or outside Google to private attorneys or government officials\u201d. The Sept. 21st filing with a California appeals court reverses a lower court decision, allowing the lawsuit to proceed. ",
-    "online": null,
+    "description": "Employees at Hootsuite succeeded in getting the company, a B-corporation, to drop its contract with U.S. ICE after protesting via social media and voicing their opposition internally to the company. A Tweet from a senior training specialist at Hootsuite, Sam Anderson, generated significant backlash within the industry, including from many social media managers at client companies.  ",
+    "online": true,
     "locations": [
-        "san francisco-california-usa"
+        "usa"
     ],
     "companies": [
-        "google",
-        "adecco"
+        "hootsuite"
     ],
-    "workers": null,
-    "tags": null,
+    "workers": 100,
+    "tags": [
+        "ice"
+    ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            37.7933154,
-            -122.3945205
-        ]
-    ],
-    "addresses": [
-        "Google One Market, 1, Market Street, Financial District, San Francisco, City and County of San Francisco, California, 94111, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

@@ -1,42 +1,45 @@
 {
-    "id": 399,
-    "date": "2020/07/20",
+    "id": 376,
+    "date": "2020/07/21",
     "sources": [
-        "https://www.vice.com/en/article/v7gyp4/uber-drivers-sue-to-gain-access-to-its-secret-algorithms",
-        "https://declinenow.org/open-letter-to-doordash/?v=47e5dceea252"
+        "https://www.igmetall-berlin.de/aktuelles/meldung/das-war-goldrichtig-warum-software-ingenieure-das-leben-mit-tarifvertrag-und-ig-metall-schoener-f/"
     ],
     "actions": [
-        "legal action"
+        "union representation"
     ],
     "struggles": [
-        "unfair labor practices",
-        "pay and benefits"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers"
     ],
-    "description": "In the United Kingdom, four Uber drivers have filed a lawsuit to gain access to Uber's algorithms. The drivers along with The UK App Drivers and Couriers Union argue that under Europe's General Data Protection Regulation they should have access to the data that Uber collects on their drivers. If given access to this data, drivers on the platform will be able to calculate an hourly wage as well as understand why they have been deactivated using trip ratings. ",
+    "description": "In 2019 employees of Bosch.io (subsidary of Bosch) formed a Works Council (Betriebsrat). In 2020 they formed their first Collective Bargaining Agreement, and Bosch.IO will join employer association. The CBA (Tarifvertrag) including provisions related to short time work (Kurzarbeit), home office usage during the coronavirus pandemic. An interview with several elected Works Councilors is included in German. ",
     "online": null,
     "locations": [
-        "uk"
+        "germany"
     ],
     "companies": [
-        "uber"
+        "bosch",
+        "bosch.io"
     ],
-    "workers": 4,
-    "tags": [
-        "drivers"
-    ],
+    "workers": 700,
+    "tags": null,
     "author": [
-        "hyatt d."
+        "@shushugah"
     ],
     "latlngs": [
         [
-            51.5148804,
-            -0.0718856
+            47.572049050000004,
+            10.667775368755255
+        ],
+        [
+            47.68201895,
+            9.3864579
         ]
     ],
     "addresses": [
-        "Uber, 2, Leman Street, Spitalfields, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, E1 8FA, United Kingdom"
+        "Bosch, ADAC, Schlichtling, F\u00fcssen, Landkreis Ostallg\u00e4u, Bayern, 87629, Deutschland",
+        "Bosch.IO, 7, Ziegelei, Alte Ziegelei / Steigwiesen, Immenstaad am Bodensee, Verwaltungsgemeinschaft Friedrichshafen, Bodenseekreis, Baden-W\u00fcrttemberg, 88090, Deutschland"
     ]
 }

@@ -1,44 +1,36 @@
 {
-    "id": 326,
-    "date": "2020/09/08",
+    "id": 329,
+    "date": "2020/09/16",
     "sources": [
-        "https://www.vice.com/en/article/g5p9nb/employees-of-social-change-nonprofit-stage-walkout-to-protest-racial-abuse"
+        "https://www.deccanchronicle.com/amp/nation/current-affairs/160920/swiggy-workers-go-on-strike-in-hyderabad-demand-revised-charges.html",
+        "https://www.newsclick.in/swiggy-employees-strike"
     ],
     "actions": [
-        "protest",
-        "strike",
-        "open letter"
+        "strike"
     ],
     "struggles": [
-        "discrimination"
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "24 employees of tech non-profit Do Something walked off the job, calling for the resignation of current CEO Aria Finger. They have also sent two direct letters to the CEO and Board of Directors that have been shared on Twitter. Former employees shared experiences of racial discrimination and harassment via social media earlier this year. The letter states that Finger reacted to these posts by calling them untrue or \"standard-issued American forms of microaggression and racism\". Finger returned in August after a legal investigation did not find evidence of discrimination under her tenure. ",
-    "online": true,
+    "description": "Workers for delivery company Swiggy went on strike in a number of Indian cities including Hyderabad, Chennai, and Delhi to call for greater pay. They rallied outside of restaurants and prevented third-party companies from picking up orders.",
+    "online": null,
     "locations": [
-        "usa"
+        "hyderabad-india",
+        "chennai-india",
+        "delhi-india"
     ],
     "companies": [
-        "do something"
+        "swiggy"
     ],
-    "workers": 24,
+    "workers": 3000,
     "tags": [
-        "antiracism",
-        "blm"
+        "delivery_workers"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            35.9100131,
-            -79.0627506
-        ]
-    ],
-    "addresses": [
-        "Something Different Caf\u00e9, 431, West Franklin Street, Franklin-Rosemary Historic District, Downtown, Chapel Hill, Orange County, North Carolina, 27516, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

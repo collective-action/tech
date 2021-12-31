@@ -1,13 +1,13 @@
 {
-    "id": 251,
-    "date": "2020/03/31",
+    "id": 252,
+    "date": "2020/04/04",
     "sources": [
-        "https://www.cnbc.com/2020/03/31/grocery-and-delivery-workers-demand-more-coronavirus-protection-say-pay-isnt-enough.html",
-        "https://www.coworker.org/petitions/global-retail-worker-sick-out"
+        "https://www.commondreams.org/news/2020/04/04/despite-threats-management-amazon-warehouse-workers-chicago-strike-demand-better",
+        "https://patch.com/illinois/chicago/cars-picket-amazon-workers-striking-coronavirus-safety"
     ],
     "actions": [
-        "strike",
-        "open letter"
+        "protest",
+        "strike"
     ],
     "struggles": [
         "working conditions",
@@ -17,16 +17,15 @@
         "inhouse workers",
         "blue collar workers"
     ],
-    "description": "Whole Foods employees went on strike to call for guaranteed pay during sick leave, reinstatement of health insurance for part-time and seasonal employees, coverage of coronavirus testing and treatment, improved sanitation at worksites, and immediate shutdown of any locations where employees test positive. The strike came amid a surge of activism from grocery and delivery workers at several companies. ",
+    "description": "Amazon workers, organized by DCH1 Amazonians United, staged a walkout at a facility in Chicago calling on the company to temporarily close and sanitize the facility following two positive coronavirus tests among employees. Additionally, the workers are calling for the company to cover any health bills accrued by employees and family members that have contracted coronavirus at the facility, plus more time on-the-job to incorporate safety practices such as regular hand sanitizing. This is the fourth such action organized by DCH1 Amazonians in response to the coronavirus outbreak. ",
     "online": null,
     "locations": [
-        "chicago-illinois-usa"
+        "staten island-new york city-new york-usa"
     ],
     "companies": [
-        "amazon",
-        "whole_foods"
+        "amazon"
     ],
-    "workers": 1000,
+    "workers": 20,
     "tags": [
         "coronavirus"
     ],
@@ -35,16 +34,11 @@
     ],
     "latlngs": [
         [
-            41.84040105,
-            -87.68351928672685
-        ],
-        [
-            41.9251419,
-            -87.6532654
+            40.6193387,
+            -74.0727749
         ]
     ],
     "addresses": [
-        "Amazon Distribution, 2801, South Western Avenue, Lower West Side, Chicago, Cook County, Illinois, 60608, United States",
-        "Whole Foods Market, 959, West Fullerton Avenue, Lincoln Park, Chicago, Lake View Township, Cook County, Illinois, 60614, United States"
+        "Amazon Court, Clifton, Staten Island, Richmond County, New York, 10304, United States"
     ]
 }

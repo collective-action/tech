@@ -1,35 +1,42 @@
 {
-    "id": 466,
-    "date": "2021/09/03",
+    "id": 468,
+    "date": "2021/09/13",
     "sources": [
-        "https://cwa-union.org/news/releases/workers-everyaction-become-largest-progressive-tech-union?amp"
+        "https://www.reuters.com/technology/canadian-amazon-facility-files-union-vote-union-2021-09-14/"
     ],
     "actions": [
-        "union representation"
+        "union drive"
     ],
     "struggles": [
+        "pay and benefits",
         "working conditions"
     ],
     "employment_types": [
-        "white collar workers",
+        "blue collar workers",
         "inhouse workers"
     ],
-    "description": "After a supermajority of EveryAction workers signed cards to establish a union, EveryAction voluntarily recognized the EveryAction Workers Union, who will become part of the Communications Workers of America. As a result, the company will engage in negotiations over a collective bargaining agreement in the near future. EveryAction prides themselves on being a progressive workplace and has embraced this unionization.",
+    "description": "Teamsters Local Union 362 filed a request to hold a vote to form a union at an Amazon facility in Nisku, Alberta, Canada. Teamsters Local Union 362 is part of Teamsters Canada, a trade union that is affiliated with the International Brotherhood of Teamster.  Unionization efforts have already begun, including a petition being signed by \u201chundreds\u201d of warehouse workers, and the date to vote is yet to be decided. ",
     "online": null,
     "locations": [
-        "boston-massachussetts-usa",
-        "washington_dc-usa"
+        "nisku-alberta-canada"
     ],
     "companies": [
-        "everyaction"
+        "amazon"
     ],
-    "workers": 160,
+    "workers": 601,
     "tags": [
-        "cwa"
+        "teamster"
     ],
     "author": [
         "wynniechan"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            53.393627,
+            -113.49682402031908
+        ]
+    ],
+    "addresses": [
+        "Amazon Warehouse, Nisku Spine Road, Ellerslie Industrial, Ellerslie, Edmonton, Leduc County, Alberta, T6X 2H4, Canada"
+    ]
 }

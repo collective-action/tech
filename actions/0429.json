@@ -1,42 +1,38 @@
 {
-    "id": 486,
-    "date": "2021/08/02",
+    "id": 478,
+    "date": "2021/08/09",
     "sources": [
-        "https://www.codeforamerica.org/news/code-for-america-voluntarily-recognizes-cfa-workers-united-union/"
+        "https://www.theverge.com/2021/8/11/22620874/twitch-implements-improved-chat-filters",
+        "https://www.washingtonpost.com/video-games/2021/08/11/twitch-do-better-hate-raids/"
     ],
     "actions": [
-        "union drive",
-        "union representation"
+        "protest"
     ],
     "struggles": [
-        "working conditions"
+        "discrimination"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "content creators"
     ],
-    "description": "After CfA Workers united requested for voluntary recognition of their union on August 2nd, Code for America voluntarily recognized CfA Workers United Union on October 22, 2021. CfA is one of the first unions in civic tech, and a unionized contract is under negotiation.",
-    "online": null,
+    "description": "Twitch streamer RekltRaven began a hashtag movement #twitchdobetter in response to the hate raids targeting marginalized creators, especially those who identify as Black, queer, or female. Twitch responded by fixing their chat filters and are planning to update their services to include improved safety features, including an improved account verification process and ban evasion detection tools. As there are still gaps, marginalized creators are calling for more proactive moderation and tools that the creators can use to moderate the stream.",
+    "online": true,
     "locations": [
-        "usa"
+        "worldwide"
     ],
     "companies": [
-        "code for america"
+        "twitch"
     ],
     "workers": null,
     "tags": [
-        "opeiu"
+        "lgbtq",
+        "sexism",
+        "antiracism",
+        "moderators",
+        "coworker solidarity"
     ],
     "author": [
         "wynniechan"
     ],
-    "latlngs": [
-        [
-            37.7816161,
-            -122.4082886
-        ]
-    ],
-    "addresses": [
-        "Code for America, 972, Mission Street, SOMA Pilipinas, San Francisco, City and County of San Francisco, California, 94103, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

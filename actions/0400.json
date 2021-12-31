@@ -1,37 +1,44 @@
 {
-    "id": 430,
-    "date": "2021/04/16",
+    "id": 511,
+    "date": "2021/04/26",
     "sources": [
-        "https://www.businessinsider.com/grocery-startup-imperfect-foods-drivers-vote-to-unionize-in-california-2021-4",
-        "https://twitter.com/LaurenKGurley/status/1383103307040792578"
+        "https://current.org/2021/04/npr-plans-to-recognize-digital-staffers-union/?wallit_nosession=1",
+        "https://www.digitalmediaunited.org/"
     ],
     "actions": [
         "union representation"
     ],
     "struggles": [
-        "working conditions",
-        "pay and benefits"
+        "ethics",
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
         "inhouse workers",
-        "blue collar workers"
+        "white collar workers"
     ],
-    "description": "Delivery drivers for Imperfect Foods have successfully voted to unionize, 28  for and 23 against. Interest in the union emerged last summer as a result of workers having to deliver more extensive workloads and cover healthcare costs from the pandemic. ",
+    "description": "More than 90% of NPR tech workers, a group that includes workers in content operations, design, digital support, product management and software engineering, signed cards to unionize with the Communications Workers of America. NPR voluntarily recognized the union the same week.   ",
     "online": null,
     "locations": [
         "usa"
     ],
     "companies": [
-        "imperfect_foods"
+        "NPR"
     ],
-    "workers": 51,
+    "workers": 63,
     "tags": [
-        "coronavirus",
-        "delivery_workers"
+        "cwa"
     ],
     "author": [
-        "hyatt d."
+        "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            39.108487,
+            -84.5205435
+        ]
+    ],
+    "addresses": [
+        "WVXU 91.7 FM, Central Parkway, Betts-Longworth Historic District, West End, Cincinnati, Hamilton County, Ohio, 45210, United States"
+    ]
 }

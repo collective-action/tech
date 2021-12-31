@@ -1,41 +1,42 @@
 {
-    "id": 318,
-    "date": "2020/08/28",
+    "id": 328,
+    "date": "2020/08/31",
     "sources": [
-        "https://www.businessinsider.in/tech/news/protesters-set-up-a-guillotine-outside-jeff-bezos-mansion-and-demanded-higher-wages-for-amazon-workers-after-the-ceos-net-worth-surpassed-200-billion/amp_articleshow/77794471.cms"
+        "https://guardian.ng/news/uber-bolt-drivers-begin-one-week-strike-in-lagos/",
+        "https://guardian.ng/news/e-hailing-drivers-reject-reviewed-lagos-ride-hailing-regulation/"
     ],
     "actions": [
-        "protest"
+        "strike"
     ],
     "struggles": [
         "pay and benefits"
     ],
     "employment_types": [
-        "blue collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "More than 100 protesters, led by former Amazon worker Christian Smalls, placed a guillotine outside of Jeff Bezos' D.C. home to call on the company to raise minimum wages from $15 to $30/hour. ",
+    "description": "Rideshare drivers in Lagos, Nigeria went on a one-week strike to protest new state regulations that added a fixed service tax to all trips. The agreement was reached between the companies, the Lagos state government, and the Professional E-hailing Drivers and Private Owners Association but did not include the National Union of Professional App-Based Workers, which union representatives claim was sidelined during negotiations due to its initial rejection of the proposal.  ",
     "online": null,
     "locations": [
-        "washington_dc-usa"
+        "lagos-nigeria"
     ],
     "companies": [
-        "amazon"
+        "uber",
+        "bolt"
     ],
-    "workers": 101,
+    "workers": null,
     "tags": [
-        "coronavirus"
+        "drivers"
     ],
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            38.9035981,
-            -77.0186204
+            6.45269435,
+            3.4498998
         ]
     ],
     "addresses": [
-        "Amazon Locker - Saba, 490, L Street Northwest, Mount Vernon Square, Washington, District of Columbia, 20001, United States"
+        "Uber Nigeria HQ, 2, Onikoyi Road, Ikoyi, Okepa, Eti Osa, Lagos, 20050, Nigeria"
     ]
 }

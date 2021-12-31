@@ -1,44 +1,44 @@
 {
-    "id": 316,
-    "date": "2020/08/31",
+    "id": 326,
+    "date": "2020/09/08",
     "sources": [
-        "https://onezero.medium.com/leaked-salary-spreadsheet-reveals-microsoft-employee-earnings-for-a-second-year-d1466132d309"
+        "https://www.vice.com/en/article/g5p9nb/employees-of-social-change-nonprofit-stage-walkout-to-protest-racial-abuse"
     ],
     "actions": [
         "protest",
-        "resources"
+        "strike",
+        "open letter"
     ],
     "struggles": [
-        "pay and benefits",
         "discrimination"
     ],
     "employment_types": [
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "More than 300 Microsoft employees shared salary and pay bonus data in spreadsheet. A similar action took place last year. This year's survey asked whether employees identified as people of color or experienced discrimination because of their gender identity. Notably, 194 of 310 participants identified as people of color and 69 had experienced discrimination on the basis of gender identity.",
+    "description": "24 employees of tech non-profit Do Something walked off the job, calling for the resignation of current CEO Aria Finger. They have also sent two direct letters to the CEO and Board of Directors that have been shared on Twitter. Former employees shared experiences of racial discrimination and harassment via social media earlier this year. The letter states that Finger reacted to these posts by calling them untrue or \"standard-issued American forms of microaggression and racism\". Finger returned in August after a legal investigation did not find evidence of discrimination under her tenure. ",
     "online": true,
     "locations": [
         "usa"
     ],
     "companies": [
-        "microsoft"
+        "do something"
     ],
-    "workers": 310,
+    "workers": 24,
     "tags": [
         "antiracism",
-        "salary sharing"
+        "blm"
     ],
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            37.3974949,
-            -122.0842646
+            35.9100131,
+            -79.0627506
         ]
     ],
     "addresses": [
-        "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, California, 94043, United States"
+        "Something Different Caf\u00e9, 431, West Franklin Street, Franklin-Rosemary Historic District, Downtown, Chapel Hill, Orange County, North Carolina, 27516, United States"
     ]
 }

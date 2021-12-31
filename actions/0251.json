@@ -1,45 +1,56 @@
 {
-    "id": 233,
-    "date": "2020/02/20",
+    "id": 235,
+    "date": "2020/03/06",
     "sources": [
-        "https://www.marketwatch.com/story/hundreds-of-oracle-workers-stage-walkout-to-protest-larry-ellisons-fundraiser-for-trump-2020-02-20",
-        "https://www.marketwatch.com/story/hundreds-of-oracle-workers-stage-walkout-to-protest-larry-ellisons-fundraiser-for-trump-2020-02-20"
+        "https://fortune.com/2020/03/10/gig-workers-petition-for-sick-leave-coronavirus/",
+        "https://www.coworker.org/petitions/demand-gig-economy-companies-give-paid-sick-time-off-during-coronavirus",
+        "https://www.fastcompany.com/90472535/coronavirus-paid-sick-leave"
     ],
     "actions": [
-        "strike",
-        "protest"
+        "open letter"
     ],
     "struggles": [
-        "ethics",
-        "discrimination"
+        "working conditions",
+        "unfair labor practices"
     ],
     "employment_types": [
-        "white collar workers"
+        "gig workers"
     ],
-    "description": "People left their desks at Oracle offices around the world to protest Chairman Larry Ellison\u2019s fundraiser a day earlier for President Donald Trump. The protest, called No Ethics/No Work, involved about 300 employees walking out of their offices or stopping work at remote locations at noon local time and devoting the rest of the day to volunteering or civic engagement.",
+    "description": "Gig Workers Rising launched a petition calling on the heads of the biggest gig economy platforms to give workers paid sick leave amid the coronavirus outbreak. That petition garnered more than 900 signatures. In the petition, the workers say they are often on the \u201cfront lines of exposure,\u201d given that every day they come in contact with various people, including those arriving at airports or heading to the hospital. Without paid sick leave, the gig workers say they are often forced to choose between making ends meet and taking care of their health, and therefore the health of the company's customers. ",
     "online": true,
     "locations": [
-        "usa"
+        "california-usa"
     ],
     "companies": [
-        "oracle"
+        "uber",
+        "lyft",
+        "instacart",
+        "doordash"
     ],
-    "workers": 300,
+    "workers": 900,
     "tags": [
-        "trump",
-        "lgbtq",
-        "ableism"
+        "coronavirus"
     ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            32.6099702,
-            -110.7651843
+            37.7756962,
+            -122.4180838
+        ],
+        [
+            37.7509149,
+            -122.40246883416269
+        ],
+        [
+            37.7834546,
+            -122.4080358
         ]
     ],
     "addresses": [
-        "Oracle, Pinal County, Arizona, 85623, United States"
+        "Uber, 1455, Market Street, SOMA Pilipinas, San Francisco, City and County of San Francisco, California, 94103, United States",
+        "Lyft, Kansas Street, Potrero Terrace, San Francisco, City and County of San Francisco, California, 94124, United States",
+        "Doordash HQ, Market Street, SOMA Pilipinas, San Francisco, City and County of San Francisco, California, 94104, United States"
     ]
 }

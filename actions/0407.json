@@ -1,49 +1,42 @@
 {
-    "id": 455,
-    "date": "2021/05/07",
+    "id": 438,
+    "date": "2021/05/12",
     "sources": [
-        "https://www.protocol.com/policy/google-interns-won-stipend"
+        "https://www.imore.com/petition-circulating-among-apple-employees-regarding-companys-misogynistic-new-hire"
     ],
     "actions": [
         "open letter"
     ],
     "struggles": [
-        "pay and benefits"
+        "discrimination"
     ],
     "employment_types": [
-        "interns",
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "Interns in Google's BOLD internship program, Tyrese Thomas and Jacob Ngai created a petition with the help of the Alphabet Workers Union. The petition asked Google to provide a $5,000 stipend for costs such as rent and other basic needs for their job. Typically, Google covers these costs with an $11,000 relocation stipend. However, due to COVID-19, the stipend wasn't instated because interns would work remotely from home. Interns argued, however, that those from lower income backgrounds might need additional funding to find office space during the day or to cover the costs of childcare. Overall, the petition gathered 1500 signatures from interns and Google employees. Google gave the interns a $5,000 stipend to spend on what they deem necessary. ",
-    "online": true,
+    "description": "Workers at Apple have circulated a petition protesting the company's decision to hire Antonio Garcia Martinez. Employees expressed concerns about his views on women and people of color because of statements in his book, \"Chaos Monkeys\", which they find to be racist and sexist. UPDATE: As of May 12, 2021, Antonio Garcia Martinez is no longer working with Apple.",
+    "online": null,
     "locations": [
         "usa"
     ],
     "companies": [
-        "google",
-        "alphabet"
+        "apple"
     ],
-    "workers": 1500,
+    "workers": null,
     "tags": [
-        "students",
-        "coworker solidarity"
+        "sexism",
+        "antiracism"
     ],
     "author": [
         "hyatt d."
     ],
     "latlngs": [
         [
-            33.977092,
-            -118.4092133
-        ],
-        [
-            37.3398646,
-            -121.8844823
+            42.3489689,
+            -71.0824143
         ]
     ],
     "addresses": [
-        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
-        "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112-3580, United States"
+        "Apple Store, 815, Boylston Street, Block F, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States"
     ]
 }

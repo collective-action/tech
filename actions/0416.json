@@ -1,53 +1,41 @@
 {
-    "id": 445,
-    "date": "2021/06/01",
+    "id": 447,
+    "date": "2021/06/04",
     "sources": [
-        "https://www.theverge.com/2021/6/1/22463267/google-union-g4s-subcontractor-deadname-id-badge",
-        "https://dropthedeadnames.org/#petition"
+        "https://www.theverge.com/2021/6/4/22491629/apple-employees-push-back-return-office-internal-letter-tim-cook?fbclid=IwAR08D4vzo6shzwwtNXwr8HCw6h1nsHG7rQcSx-k-JyuYL-I2Q7aDl0o_aZ0"
     ],
     "actions": [
-        "protest",
         "open letter"
     ],
     "struggles": [
-        "discrimination",
-        "ethics"
+        "working conditions"
     ],
     "employment_types": [
         "white collar workers",
-        "blue collar workers",
-        "inhouse workers",
-        "contract workers"
+        "inhouse workers"
     ],
-    "description": "The Alphabet Workers Union circulated a petition asking the company and its contractors to allow employees to choose which name appears on their ID badges. These actions were taken because a transgender man, Phares Lee, requested to have his deadname replaced by his preferred name. His request was denied and he was forced to put his legal name. Lee works for G4S, a Google contractor, and was also banned from participating in employee resource groups (ERGs) as a result of his contractor status. The petition also called on the company to open ERGs to contractors. Update (6/14): G4S and Google allowed Phares to use his preferred name and join Google ERGs. The companies have not communicated larger changes in policy. ",
+    "description": "Apple employees are fighting against a new policy requiring them to return to work three days a week in an open letter addressed to Tim Cook on Slack. Approximately 80 people were involved in writing the letter. Employees have argued that the company should adopt a flexible approach for those who still want to remotely work from home. ",
     "online": true,
     "locations": [
         "usa"
     ],
     "companies": [
-        "google",
-        "g4s"
+        "apple"
     ],
-    "workers": 1044,
+    "workers": 80,
     "tags": [
-        "lgbtq",
-        "coworker solidarity"
+        "coronavirus"
     ],
     "author": [
         "hyatt d."
     ],
     "latlngs": [
         [
-            33.977092,
-            -118.4092133
-        ],
-        [
-            45.4859369,
-            -122.6750084
+            42.3489689,
+            -71.0824143
         ]
     ],
     "addresses": [
-        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
-        "G4S, 5100, South Macadam Avenue, South Portland, Portland, Multnomah County, Oregon, 97239, United States"
+        "Apple Store, 815, Boylston Street, Block F, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States"
     ]
 }

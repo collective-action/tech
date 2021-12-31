@@ -1,12 +1,13 @@
 {
-    "id": 513,
+    "id": 509,
     "date": "2021/12/22",
     "sources": [
         "https://www.theverge.com/2021/12/22/22850880/amazon-workers-staten-island-refile-union-petition",
         "https://www.cnbc.com/2021/12/22/amazon-warehouse-workers-on-staten-island-refile-union-petition.html"
     ],
     "actions": [
-        "union representation"
+        "protest",
+        "strike"
     ],
     "struggles": [
         "pay and benefits",
@@ -15,7 +16,7 @@
     "employment_types": [
         "blue collar workers"
     ],
-    "description": "Staten Island Amazon workers of the Amazon Labor Union refiled a union petition to the NLRB and are focusing on unionizing the JFK8 warehouse.",
+    "description": "Staten Island Amazon workers staged a lunchtime walkout to urge Amazon to recognize their union. Their demands include better wages, safer working conditions, longer breaks, and better benefits.",
     "online": null,
     "locations": [
         "staten island-new york city-new york-usa"

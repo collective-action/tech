@@ -1,42 +1,40 @@
 {
-    "id": 453,
-    "date": "2021/06/28",
+    "id": 452,
+    "date": "2021/06/30",
     "sources": [
-        "https://therealnews.com/gorillas-workers-in-germany-launch-a-wildcat-strike"
+        "https://wamu.org/story/21/06/30/change-org-workers-form-a-union-giving-labor-activists-another-win-in-tech/"
     ],
     "actions": [
-        "protest",
-        "strike"
+        "union drive",
+        "union representation"
     ],
     "struggles": [
-        "job security",
-        "working conditions"
+        "pay and benefits",
+        "ethics",
+        "discrimination"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers",
+        "contract workers",
+        "inhouse workers"
     ],
-    "description": "Delivery workers at Gorillas held a series of wildcat strikes in June protesting their working conditions and the firing of their colleagues. Gorillas are a delivery startup company in Berlin, Germany which delivers groceries. Workers protested the company's 6-month probationary period that allows them to fire any workers without cause, resulting in job insecurity for the delivery drivers. ",
+    "description": "Seventy employees who work for Change.org unionized and joined the Workers of America's CODE-CWA Project. Organizing in the company began with Erni Poch\u00e9, who noticed that the company used the racial identities of its employees to claim diversity and inclusion within the company. Black employees reported being disproportionately assigned to petitions around race, for instance. The workers who joined the union want to have a say in wages, benefits, and the implementation of diversity and equity programs. ",
     "online": null,
     "locations": [
-        "berlin-germany"
+        "usa"
     ],
     "companies": [
-        "gorillas"
+        "change.org"
     ],
     "workers": null,
     "tags": [
-        "delivery_workers"
+        "coworker solidarity",
+        "cwa",
+        "antiracism"
     ],
     "author": [
         "hyatt d."
     ],
-    "latlngs": [
-        [
-            52.5064919,
-            13.336216896921181
-        ]
-    ],
-    "addresses": [
-        "Flachland-Gorilla, Tiergarten, Mitte, Berlin, 10787, Deutschland"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

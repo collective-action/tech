@@ -1,36 +1,49 @@
 {
-    "id": 460,
-    "date": "2021/07/15",
+    "id": 456,
+    "date": "2021/07/21",
     "sources": [
-        "https://clb.org.hk/content/hong-kong-food-delivery-workers-protest-pay-and-working-conditions"
+        "https://justice-for-jessica.com/",
+        "https://newsnationusa.com/news/finance/banking/hundreds-of-google-employees-call-on-company-to-change-sexual-misconduct-policies-that-they-say-put-the-burden-on-survivors/"
     ],
     "actions": [
-        "protest",
-        "strike"
+        "open letter"
     ],
     "struggles": [
-        "pay and benefits",
-        "job security",
-        "working conditions"
+        "working conditions",
+        "unfair labor practices"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Foodpanda delivery workers protested in front of the company's headquarters while seven representatives of the strike tried to negotiate demands with the company. The delivery workers demanded to raise the base rate for deliveries, stop unreasonable termination of workers, end the cash-on-delivery system, and increase insurance coverage for personal accidents. Company management did not accept any of the demands or decide to hold another meeting. ",
-    "online": null,
+    "description": "An open letter was published demanding justice for Jessica (Ming) Tao, a former employee at Google. According to the open letter, \"Google has chosen to put Jessica on unpaid leave while her rapist is still fully employed.\" The letter states that this is a common practice where Google protects the harasser instead of the victim. The letter demands that Jessica is compensated in full for her time on disability leave. The letter demands, \"that survivors involved in future proceedings are always compensated for their time during this traumatizing process.\" Lastly, the letter demands Alphabet to stop having workers go to employee assistance program (EAP) therapy when they face harassment or other workplace abuses. ",
+    "online": true,
     "locations": [
-        "hong kong-china"
+        "usa"
     ],
     "companies": [
-        "foodpanda"
+        "google",
+        "alphabet"
     ],
-    "workers": 7,
+    "workers": 700,
     "tags": [
-        "delivery_workers"
+        "sexual_harassment"
     ],
     "author": [
         "hyatt d."
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            33.977092,
+            -118.4092133
+        ],
+        [
+            37.3398646,
+            -121.8844823
+        ]
+    ],
+    "addresses": [
+        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
+        "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112-3580, United States"
+    ]
 }

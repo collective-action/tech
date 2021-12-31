@@ -1,14 +1,15 @@
 {
-    "id": 442,
-    "date": "2021/05/25",
+    "id": 446,
+    "date": "2021/06/01",
     "sources": [
-        "https://www.theverge.com/2021/5/25/22453516/amazon-workers-pollution-petition-letter-demand",
-        "https://secure.everyaction.com/Xsul4-F6BUuVi_MofTP5YA2"
+        "https://www.theverge.com/2021/6/1/22463952/facebook-employees-petition-palestine-content-moderation-policy"
     ],
     "actions": [
+        "protest",
         "open letter"
     ],
     "struggles": [
+        "discrimination",
         "ethics"
     ],
     "employment_types": [
@@ -17,30 +18,22 @@
         "contract workers",
         "inhouse workers"
     ],
-    "description": "640 Amazon workers have signed a petition asking the company to commit to zero emissions by 2030 and to prioritize zero emission technology in communities of color hit hardest by the effects of their pollution. The petition began after Amazon rejected a shareholder resolution asking the company to report their emissions in communities of color. ",
+    "description": "Facebook employees are circulating a petition for the company to conduct an investigation for censoring Palestinian content on their website. At Facebook, content moderation is executed by third party contractors and algorithms. Facebook employees have taken notice and are asking the company as a whole to do a third party audit of any Muslim or Arab content decisions made by moderators.  ",
     "online": true,
     "locations": [
-        "usa"
+        "worldwide"
     ],
     "companies": [
-        "amazon"
+        "facebook"
     ],
-    "workers": 640,
+    "workers": 174,
     "tags": [
-        "climate_change",
-        "antiracism",
-        "blm"
+        "international solidarity",
+        "moderators"
     ],
     "author": [
         "hyatt d."
     ],
-    "latlngs": [
-        [
-            46.320207,
-            -112.1072224
-        ]
-    ],
-    "addresses": [
-        "Amazon, Jefferson County, Montana, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

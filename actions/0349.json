@@ -1,38 +1,40 @@
 {
-    "id": 351,
-    "date": "2020/10/22",
+    "id": 354,
+    "date": "2020/10/27",
     "sources": [
-        "https://www.washingtonpost.com/technology/2020/10/22/uber-prop22-suit/"
+        "https://www.washingtonpost.com/context/a-statement-on-caste-bias-in-silicon-valley-from-30-dalit-women-engineers/d692b4f8-2710-41c3-9d5f-ea55c13bcc50/?itid=lk_interstitial_manual_16",
+        "https://www.washingtonpost.com/technology/2020/10/27/indian-caste-bias-silicon-valley/"
     ],
     "actions": [
-        "legal action"
+        "open letter"
     ],
     "struggles": [
-        "ethics"
+        "discrimination"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "A group of California Uber drivers sued the company for asking drivers to support Prop. 22 (a state proposition that would overrule attempts to classify gig workers as employees) through in-app messaging. The suit seeks an injunction that would stop the messages. The plaintiffs were active in the movement against Prop. 22. They claimed that the company's message that 72% of its drivers support Prop. 22 was false because that percentage was the result of company pressures (including workers' concerns that the company was surveilling their survey answers on the app). ",
-    "online": null,
+    "description": "A group of 30 Indian female engineers who were born into the Dalit caste shared a statement with the Washington Post describing their experience of casteism and sexism in Silicon Valley. The group called for American corporations to adopt caste as a protected category, treated on the same terms as gender, race, and sexuality. ",
+    "online": true,
     "locations": [
-        "san francisco-california-usa"
+        "usa"
     ],
-    "companies": [
-        "uber"
+    "companies": null,
+    "workers": 30,
+    "tags": [
+        "sexism"
     ],
-    "workers": null,
-    "tags": null,
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            37.7756962,
-            -122.4180838
+            39.7837304,
+            -100.445882
         ]
     ],
     "addresses": [
-        "Uber, 1455, Market Street, SOMA Pilipinas, San Francisco, City and County of San Francisco, California, 94103, United States"
+        "United States"
     ]
 }

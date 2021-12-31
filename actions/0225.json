@@ -1,40 +1,58 @@
 {
-    "id": 209,
-    "date": "2019/11/19",
+    "id": 420,
+    "date": "2019/11/20",
     "sources": [
-        "https://www.cnbc.com/2019/11/19/google-employees-protested-security-team-interrogation-memo-says.html"
+        "https://www.vox.com/recode/2019/12/31/21043467/google-union-cafeteria-workers-unionized-alphabet-silicon-valley-mountainview"
     ],
     "actions": [
-        "protest"
+        "union representation"
     ],
     "struggles": [
-        "unfair labor practices"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
-        "white collar workers"
+        "blue collar workers",
+        "contract workers"
     ],
-    "description": "Google employees held a protest in San Francisco days before the company ended its long-held TGIF meetings, according to an internal memo obtained by CNBC. Some 20 people organized at Google's office in downtown San Francisco to protest the company placing Rebecca Rivers and Laurence Berland on sudden and indefinite administrative leave the prior week, the memo states. Authors of the memo, which was circulated internally at Google on Monday, claimed the actions were an act of retaliation against the workers.",
+    "description": "About 2,300 Google cafeteria workers (contracted through Compass) voted to unionize to call for better pay and benefits. These workers include dishwashers and food preparers who serve breakfast, lunch, and dinner to Google employees. The service workers are considered contract workers and don't receive the same benefits such as retirement plans which are standard for direct Google employees. The cafeteria workers voted to unionize with a local chapter of Unite Here, which represents 300,000 workers in food, casino, laundry, hotel, and warehouse industries. Workers expressed dissatisfaction with their low wages, which start at $35,000 in the Bay Area, and lack of benefits compared to full-time Google employees. Some reported incidents of discrimination and bullying. The workers are officially employed by Compass Group, a third party contractor. The vote followed a two year effort.",
     "online": null,
     "locations": [
+        "usa",
+        "mountain view-california-usa",
         "san francisco-california-usa"
     ],
     "companies": [
-        "google"
+        "google",
+        "compass group"
     ],
-    "workers": 20,
-    "tags": [
-        "retaliation"
-    ],
+    "workers": 2300,
+    "tags": null,
     "author": [
-        "organizejs"
+        "hyatt d."
     ],
     "latlngs": [
         [
+            33.977092,
+            -118.4092133
+        ],
+        [
+            37.419000999999994,
+            -122.08237596053958
+        ],
+        [
             37.7933154,
             -122.3945205
+        ],
+        [
+            37.7249773,
+            -122.4603378
         ]
     ],
     "addresses": [
-        "Google One Market, 1, Market Street, Financial District, San Francisco, City and County of San Francisco, California, 94111, United States"
+        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
+        "Google, Mountain View, Santa Clara County, California, United States",
+        "Google One Market, 1, Market Street, Financial District, San Francisco, City and County of San Francisco, California, 94111, United States",
+        "LT Group - Compass Real Estate, Ocean Avenue, Ingleside, San Francisco, City and County of San Francisco, California, 94112, United States"
     ]
 }

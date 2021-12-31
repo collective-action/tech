@@ -1,42 +1,38 @@
 {
-    "id": 336,
-    "date": "2020/10/04",
+    "id": 341,
+    "date": "2020/10/08",
     "sources": [
-        "https://www.latimes.com/california/story/2020-10-04/amazon-jeff-bezos-protest-beverly-hills"
+        "https://www.wired.com/story/turmoil-black-lives-matter-political-speech-coinbase/",
+        "https://www.forbes.com/sites/rachelsandler/2020/10/08/60-employees-leave-coinbase-over-ceos-pledge-to-be-apolitical/#5e0848325a06",
+        "https://blog.coinbase.com/coinbase-is-a-mission-focused-company-af882df8804?gi=e4cb4315d1e5"
     ],
     "actions": [
-        "protest"
+        "resignation"
     ],
     "struggles": [
-        "working conditions",
-        "pay and benefits"
+        "ethics",
+        "discrimination"
     ],
     "employment_types": [
-        "blue collar workers",
+        "white collar workers",
         "inhouse workers"
     ],
-    "description": "Amazon workers, organized by the Congress of Essential Workers, protested in front of Jeff Bezos' Beverley Hills mansion, calling for improved working conditions under covid, hazard pay, and better health benefits. ",
-    "online": null,
+    "description": "More than 60 Coinbase employees chose to leave the company, opting for a severance package, to protest CEO Brian Armstrong's assertion that employees should not participate in social activism in the workplace. This represents roughly 5% of the company's employees. This event follows several months of internal activism within the company after management failed to make a public statement on the Black Lives Matter movement.",
+    "online": true,
     "locations": [
-        "los angeles-california-usa"
+        "san francisco-california-usa"
     ],
     "companies": [
-        "amazon"
+        "coinbase"
     ],
-    "workers": 100,
+    "workers": 60,
     "tags": [
-        "coronavirus"
+        "antiracism",
+        "blm"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            33.97670635,
-            -118.41819635850888
-        ]
-    ],
-    "addresses": [
-        "Whole Foods Market, McConnell Avenue, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

@@ -1,40 +1,41 @@
 {
-    "id": 371,
-    "date": "2020/12/17",
+    "id": 373,
+    "date": "2020/12/21",
     "sources": [
-        "https://berlinvsamazon.com/2020/12/menschen-vor-profite-solidaritat-mit-den-von-covid-betroffenen-arbeiterinnen-in-amazon-zentren-17-12-2020/"
+        "https://www.rfa.org/english/news/china/workers-12212020111240.html"
     ],
     "actions": [
-        "protest"
+        "protest",
+        "strike"
     ],
     "struggles": [
-        "working conditions"
+        "job security"
     ],
     "employment_types": [
+        "contract workers",
         "blue collar workers"
     ],
-    "description": "Activists from various initiatives, including initiatives against the Amazon Tower, Mietenwahnsinnb\u00fcndnis, #200H\u00e4user spontaneously demonstrated in front of the construction site of the \u201cAmazon East Side Edge Tower\u201d at Warschauer Br\u00fccke. The protests are directed at Amazon's handling of the pandemic in several German Amazon centers. The company is responsible for the increase in infections and illnesses among workers and is allowing the Christmas shopping season to continue. ",
+    "description": "Shanghai factory workers at the Apple supplier Pegatron turned out to protest a pay dispute with management at the weekend. Thousands of temporary workers gathered outside the Taiwanese-invested Pegatron facility in Shanghai, as authorities dispatched large numbers of police to block their entrance to the facility, sparking clashes. The protest came after Pegatron tried to transfer thousands of workers from its Shanghai factory to another facility at Kunshan in the eastern province of Jiangsu. Those who refused the transfer would be fired, and workers fired for refusing the offer wouldn't be eligible for their share of finders' fee commission usually shared between recruitment agencies and workers.",
     "online": null,
     "locations": [
-        "berlin-germany"
+        "shanghai-china"
     ],
     "companies": [
-        "amazon"
+        "pegatron",
+        "apple"
     ],
-    "workers": null,
-    "tags": [
-        "coronavirus"
-    ],
+    "workers": 1000,
+    "tags": null,
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            52.6108443,
-            13.2147318
+            31.2350886,
+            121.4754904
         ]
     ],
     "addresses": [
-        "Amazon, Alt-Heiligensee, Heiligensee, Reinickendorf, Berlin, 13503, Deutschland"
+        "Apple Store, \u798f\u5dde\u8def, \u6ce5\u57ce\u6865, \u5357\u4eac\u4e1c\u8def\u8857\u9053, \u9ec4\u6d66\u533a, \u4e0a\u6d77\u5e02, 200001, \u4e2d\u56fd"
     ]
 }

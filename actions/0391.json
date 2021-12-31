@@ -1,47 +1,42 @@
 {
-    "id": 413,
-    "date": "2021/04/01",
+    "id": 416,
+    "date": "2021/04/06",
     "sources": [
-        "https://www.bbc.com/news/technology-56659212",
-        "https://cwa-union.org/sites/default/files/20210331_nlrbsettlement_alphabet_modis.pdf",
-        "https://www2.staffingindustry.com/Editorial/Daily-News/Google-union-reports-NLRB-settlement-contingent-worker-s-suspension-rescinded-57218"
+        "https://www.bloomberg.com/news/articles/2021-04-06/doordash-workers-are-trying-to-game-the-algorithm-to-increase-pay"
     ],
     "actions": [
-        "legal action"
+        "protest",
+        "strike"
     ],
     "struggles": [
-        "unfair labor practices",
-        "pay and benefits",
-        "working conditions"
+        "pay and benefits"
     ],
     "employment_types": [
-        "contract workers",
-        "blue collar workers"
+        "gig workers"
     ],
-    "description": "In February, the Alphabet Worker's Union filed two lawsuits against Google for unfair labor practices on behalf of Shannon Wait, a contractor at Google and member of the union. The first lawsuit contested Wait's illegal suspension for supporting a union. The second lawsuit alleged that managers illegally asked Wait and other employees not to discuss their wages. Google, Modis (the contracting firm), and the AWU reached a settlement and had Wait's suspension overturned. Google signed a document that its employees had the right to discuss wage, bonuses, and working conditions. This is the first NLRB settlement with the AWU.",
-    "online": null,
+    "description": "DoorDash drivers are working together with a 40,000 person online community (#DeclineNow) to increase their pay by systematically declining orders through the platform. As part of the #DeclineNow movement, DoorDash drivers do not accept orders that pay less than $7, more than twice the current $3 floor. By collectively declining orders, it forces the algorithm to offer the next driver the same delivery but at a higher price. ",
+    "online": true,
     "locations": [
-        "south carolina-usa"
+        "usa"
     ],
     "companies": [
-        "google",
-        "modis",
-        "adecco"
+        "doordash"
     ],
-    "workers": null,
+    "workers": 40000,
     "tags": [
-        "cwa"
+        "coworker solidarity",
+        "delivery_workers"
     ],
     "author": [
         "hyatt d."
     ],
     "latlngs": [
         [
-            33.0639975,
-            -80.04244587737227
+            37.7834546,
+            -122.4080358
         ]
     ],
     "addresses": [
-        "Google Data Center, Berkeley County, South Carolina, United States"
+        "Doordash HQ, Market Street, SOMA Pilipinas, San Francisco, City and County of San Francisco, California, 94104, United States"
     ]
 }

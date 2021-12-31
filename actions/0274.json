@@ -1,28 +1,31 @@
 {
-    "id": 274,
-    "date": "2020/04/01",
+    "id": 253,
+    "date": "2020/04/06",
     "sources": [
-        "https://www.nytimes.com/2020/04/15/business/amazon-france-covid.html"
+        "https://www.vice.com/en_us/article/4age5j/amazon-workers-in-new-york-are-striking-for-the-second-week-in-a-row-as-coronavirus-cases-pile-up",
+        "https://nypost.com/2020/04/06/amazon-faces-another-staten-island-warehouse-strike/",
+        "https://finance.yahoo.com/news/amazon-warehouse-workers-second-walkout-one-week-over-coronavirus-fears-195814468.html"
     ],
     "actions": [
-        "legal action"
+        "protest"
     ],
     "struggles": [
-        "working conditions"
+        "working conditions",
+        "pay and benefits"
     ],
     "employment_types": [
         "inhouse workers",
         "blue collar workers"
     ],
-    "description": "Amazon's French SUD-Commerce union launched a lawsuit against the company alleging that they had failed to uphold coronavirus safety measures at six different warehouses in the country.  French courts ruled in favor of the union. The company was forced to stop its operations for five days, while continuing to pay workers, in order to improve safety. Delivery was also restricted to food, hygiene, and medical products at this time.",
+    "description": "For the second week in a row, workers at an Amazon warehouse in Staten Island held a walkout to protest the company's handling of the coronavirus crisis. Organizers state that they have heard of over 25 cases of coronavirus at the facility. In response, workers are calling for an extension of paid time off and improved sanitation in the facility. Last week, the company fired one of the organizers of the previous week's walkout. ",
     "online": null,
     "locations": [
-        "france"
+        "new york city-new york-usa"
     ],
     "companies": [
         "amazon"
     ],
-    "workers": null,
+    "workers": 50,
     "tags": [
         "coronavirus"
     ],
@@ -31,11 +34,11 @@
     ],
     "latlngs": [
         [
-            46.73690925,
-            4.850183355658723
+            40.722465,
+            -73.9977307
         ]
     ],
     "addresses": [
-        "Amazon.fr Logistique Distrip\u00f4le Chalon, Sevrey, Chalon-sur-Sa\u00f4ne, Sa\u00f4ne-et-Loire, Bourgogne-Franche-Comt\u00e9, France m\u00e9tropolitaine, 71100, France"
+        "Amazon, 72, Spring Street, Manhattan Community Board 2, Manhattan, New York, 10013, United States"
     ]
 }

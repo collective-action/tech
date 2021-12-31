@@ -1,13 +1,16 @@
 {
-    "id": 443,
-    "date": "2021/05/25",
+    "id": 445,
+    "date": "2021/06/01",
     "sources": [
-        "https://www.middleeasteye.net/news/israel-palestine-amazon-employees-urge-jeff-bezos-cut-ties-israeli-military"
+        "https://www.theverge.com/2021/6/1/22463267/google-union-g4s-subcontractor-deadname-id-badge",
+        "https://dropthedeadnames.org/#petition"
     ],
     "actions": [
+        "protest",
         "open letter"
     ],
     "struggles": [
+        "discrimination",
         "ethics"
     ],
     "employment_types": [
@@ -16,22 +19,35 @@
         "inhouse workers",
         "contract workers"
     ],
-    "description": "Approximately 600 Amazon employees have signed an open letter asking Jeff Bezos to break off all ties to the Israeli military. The letter points out that Amazon employs Palestinians around the world, including in Tel Aviv and Haifa and that \"ignoring the suffering faced by Palestinians and their families at home erases our Palestinian coworkers.\"",
+    "description": "The Alphabet Workers Union circulated a petition asking the company and its contractors to allow employees to choose which name appears on their ID badges. These actions were taken because a transgender man, Phares Lee, requested to have his deadname replaced by his preferred name. His request was denied and he was forced to put his legal name. Lee works for G4S, a Google contractor, and was also banned from participating in employee resource groups (ERGs) as a result of his contractor status. The petition also called on the company to open ERGs to contractors. Update (6/14): G4S and Google allowed Phares to use his preferred name and join Google ERGs. The companies have not communicated larger changes in policy. ",
     "online": true,
     "locations": [
-        "worldwide"
+        "usa"
     ],
     "companies": [
-        "amazon"
+        "google",
+        "g4s"
     ],
-    "workers": 600,
+    "workers": 1044,
     "tags": [
-        "military_contracts",
-        "politics"
+        "lgbtq",
+        "coworker solidarity"
     ],
     "author": [
         "hyatt d."
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            33.977092,
+            -118.4092133
+        ],
+        [
+            45.4859369,
+            -122.6750084
+        ]
+    ],
+    "addresses": [
+        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
+        "G4S, 5100, South Macadam Avenue, South Portland, Portland, Multnomah County, Oregon, 97239, United States"
+    ]
 }

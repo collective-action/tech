@@ -1,39 +1,44 @@
 {
-    "id": 404,
-    "date": "2021/03/10",
+    "id": 412,
+    "date": "2021/03/22",
     "sources": [
-        "https://notechfortyrants.org/2021/03/02/no-tech-for-tyrants-launches-recruitmenot-campaign-highlighting-racism-and-censorship-at-google/"
+        "https://www.bloomberg.com/news/articles/2021-03-30/youtube-refuses-to-remove-anti-asian-song-drawing-staff-ire",
+        "https://www.nbcnews.com/news/asian-america/youtube-declines-ban-video-anti-asian-lyrics-staff-outcry-rcna562",
+        "https://www.indy100.com/news/youtube-yg-song-anti-asian-song-removal-b1826955"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
-        "discrimination",
-        "ethics"
+        "ethics",
+        "discrimination"
     ],
     "employment_types": [
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "No Tech for Tyrants (NT4T) launched a campaign called #RecruitMeNot in response to Dr. Timnit Gebru being censored and fired at Google for refusing to do unethical practices. Dr. Gebru was Google's Lead AI ethics researcher. The #RecruitMeNot campaign asks students and researchers to refuse recruitment and job offers from Google until they meet the basic demands outlined by its employees. ",
-    "online": true,
+    "description": "Several of YouTube's employees raised concerns that a music video on the website, \"Meet the Flockers\" by YG, promotes racism towards Asian Americans. The video details a burglary and calls for targeting Chinese communities according to press reports. The employees requested that the company's Trust and Safety team pull the video from the site, which the company declined to do in a statement. Update: In early April, several newspapers reported that the video had been removed from the website. ",
+    "online": null,
     "locations": [
-        "worldwide"
+        "san bruno-california-usa"
     ],
     "companies": [
-        "google"
+        "youtube"
     ],
     "workers": null,
     "tags": [
-        "students",
-        "industry solidarity",
-        "academics",
-        "antiracism",
-        "ai"
+        "antiracism"
     ],
     "author": [
         "hyatt d."
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.6291599,
+            -122.42551778433794
+        ]
+    ],
+    "addresses": [
+        "YouTube, 1000, Cherry Avenue, YouTube, San Bruno, San Mateo County, California, 94066, United States"
+    ]
 }

@@ -1,43 +1,33 @@
 {
-    "id": 266,
-    "date": "2020/06/08",
+    "id": 283,
+    "date": "2020/06/12",
     "sources": [
-        "https://onezero.medium.com/250-microsoft-employees-call-on-ceo-to-cancel-police-contracts-and-support-defunding-seattle-pd-e89fa5d9e843",
-        "https://finance.yahoo.com/news/microsoft-employees-petition-seattle-police-contracts-161102239.html"
+        "https://rabble.ca/news/2020/06/foodsters-union-certification-win-symbolic-other-gig-workers"
     ],
     "actions": [
-        "open letter"
+        "union representation"
     ],
     "struggles": [
-        "ethics"
+        "working conditions"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "Hundreds of Microsoft employees have signed a letter to the company\u2019s top executives asking for Microsoft to take action in the wake of national protests. The initiative came out of a Facebook group called \"Young Microsoft FTEs\". The email to the Microsoft executives includes a list of requests, including increased leniency for Microsoft workers in performance reviews due to the coronavirus pandemic and protests; the company formally condemning the use of tear gas, rubber bullets, and flashbangs; increasing Microsoft\u2019s employee donation matches; the cancellation of contracts with SPD and other law enforcement agencies; support for defunding the SPD; signing a petition for the resignation of Seattle Mayor Jenny Durkan; and support for a list of demands from BLM Seattle. Employees volunteered to be CC\u2019d on the email in a show of solidarity, though their inclusion was not intended to show explicit support for every request, according to the email.",
-    "online": true,
+    "description": "Foodora couriers overwhelmingly voted to join the Canadian Union of Postal Workers (CUPW). 88% of workers who voted supported joining the union. In April 2020, Foodora announced it was leaving the country after the Ontario Labor Board voted to recognize the couriers as company employees. While this makes the vote largely symbolic, it nevertheless makes Foodora's union the first certified gig workers' union in Canada.",
+    "online": null,
     "locations": [
-        "seattle-washington-usa"
+        "toronto-ontario-canada"
     ],
     "companies": [
-        "microsoft"
+        "foodora"
     ],
-    "workers": 250,
+    "workers": null,
     "tags": [
-        "antiracism",
-        "blm"
+        "delivery_workers"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            47.5388725,
-            -122.2901728
-        ]
-    ],
-    "addresses": [
-        "Microsoft Gathering Hall, 32nd Avenue South, Holly Park, Rainier Valley, Seattle, King County, Washington, 98118, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

@@ -1,44 +1,42 @@
 {
-    "id": 401,
-    "date": "2021/01/29",
+    "id": 400,
+    "date": "2021/02/19",
     "sources": [
-        "https://www.reuters.com/article/us-alphabet-resignations/two-google-engineers-resign-over-firing-of-ai-ethics-researcher-timnit-gebru-idUSKBN2A4090"
+        "https://www.vice.com/en/article/3anwdy/organized-doordash-drivers-declinenow-strategy-is-driving-up-their-pay",
+        "https://declinenow.org/open-letter-to-doordash/?v=47e5dceea252"
     ],
     "actions": [
-        "open letter",
-        "protest"
+        "protest",
+        "strike"
     ],
     "struggles": [
-        "ethics",
-        "discrimination"
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "Two Google engineers (engineering director David Baker plus a software developer Vinesh Kannan) have both quit in reaction to Timnit Gebru, an AI ethics researcher, being fired at Google. Gebru's firing has resulted in Google workers questioning the ethics and diversity of Google. ",
+    "description": "DoorDash drivers are leveraging an old Android version of the DoorDash app to strategically select deliveries and make more money on the platform. Drivers are also organizing online through a movement called #DeclineNow where they follow a strict set of rules to not accept any deliveries that would result in less pay for their time, resources, and gas. A gig worker, Amy Lee, ran an analysis and found that DoorDashers who accept every order are at a stark disadvantage make significantly less an hour than those who selective accept deliveries. Lee has written her own open letter addressing the inefficiencies regarding the pay structure of the app so that it can become a more sustainable job for drivers. ",
     "online": null,
     "locations": [
         "usa"
     ],
     "companies": [
-        "google"
+        "doordash"
     ],
-    "workers": 2,
+    "workers": 26000,
     "tags": [
-        "coworker solidarity",
-        "ai"
+        "drivers"
     ],
     "author": [
         "hyatt d."
     ],
     "latlngs": [
         [
-            33.977092,
-            -118.4092133
+            37.7834546,
+            -122.4080358
         ]
     ],
     "addresses": [
-        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
+        "Doordash HQ, Market Street, SOMA Pilipinas, San Francisco, City and County of San Francisco, California, 94104, United States"
     ]
 }

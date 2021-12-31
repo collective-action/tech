@@ -1,9 +1,9 @@
 {
-    "id": 509,
+    "id": 514,
     "date": "2021/12/22",
     "sources": [
-        "https://www.theverge.com/2021/12/22/22850880/amazon-workers-staten-island-refile-union-petition",
-        "https://www.cnbc.com/2021/12/22/amazon-warehouse-workers-on-staten-island-refile-union-petition.html"
+        "https://www.chicagotribune.com/business/ct-biz-amazon-delivery-walkout-chicago-20211222-nghmf7fqove2xeziam5m5todyq-story.html",
+        "https://inthesetimes.com/article/labor-amazon-warehouse-union-walkout-chicago-illinois-2021"
     ],
     "actions": [
         "protest",
@@ -11,31 +11,36 @@
     ],
     "struggles": [
         "pay and benefits",
-        "working conditions"
+        "working conditions",
+        "unfair labor practices"
     ],
     "employment_types": [
-        "blue collar workers"
+        "blue collar workers",
+        "inhouse workers"
     ],
-    "description": "Staten Island Amazon workers staged a lunchtime walkout to urge Amazon to recognize their union. Their demands include better wages, safer working conditions, longer breaks, and better benefits.",
+    "description": "During the Christmas shipping season, workers organized by Amazonians United staged a walkout at two Chicago Amazon warehouses. Their demands were higher pay for their physically intensive work and better safety conditions considering their high risk for COVID infection. Workers staged a walkout after managers didn\u2019t respond to their petition with similar demands a month ago. Moreover, some workers say that promised bonuses and pay rates were never received. ",
     "online": null,
     "locations": [
-        "staten island-new york city-new york-usa"
+        "chicago-illinois-usa"
     ],
     "companies": [
         "amazon"
     ],
-    "workers": null,
-    "tags": null,
+    "workers": 25,
+    "tags": [
+        "unite_here",
+        "coronavirus"
+    ],
     "author": [
         "wynniechan"
     ],
     "latlngs": [
         [
-            40.6193387,
-            -74.0727749
+            41.84040105,
+            -87.68351928672685
         ]
     ],
     "addresses": [
-        "Amazon Court, Clifton, Staten Island, Richmond County, New York, 10304, United States"
+        "Amazon Distribution, 2801, South Western Avenue, Lower West Side, Chicago, Cook County, Illinois, 60608, United States"
     ]
 }

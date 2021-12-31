@@ -1,31 +1,32 @@
 {
-    "id": 459,
-    "date": "2021/07/01",
+    "id": 457,
+    "date": "2021/07/21",
     "sources": [
-        "https://www.npr.org/2021/07/01/1011899328/black-tiktok-creators-are-on-strike-to-protest-a-lack-of-credit-for-their-work"
+        "https://www.latimes.com/business/story/2021-07-21/uber-lyft-drivers-strike-wednesday-july-21-rider-information"
     ],
     "actions": [
         "protest",
         "strike"
     ],
     "struggles": [
-        "discrimination"
+        "pay and benefits"
     ],
     "employment_types": [
-        "content creators"
+        "gig workers"
     ],
-    "description": "Black TikTok content creators went on strike protesting the platform's cultural appropriation of their creative content. Users and content creators have pointed out that they don't receive credit for their creative work while other platform users can copy them and receive more views, fame, and recognition. Using the hashtag #BlackTikTokStrike, users and content creators raised awareness on the app and Twitter. ",
-    "online": true,
+    "description": "Organized by Rideshare Drivers United, Uber, Lyft, and other rideshare app-based drivers are striking in 11 different cities around the country. The drivers are protesting for better pay and legal protection under the PRO Act.",
+    "online": null,
     "locations": [
-        "worldwide"
+        "los angeles-california-usa"
     ],
     "companies": [
-        "tiktok"
+        "uber",
+        "lyft"
     ],
-    "workers": null,
+    "workers": 700,
     "tags": [
-        "blm",
-        "antiracism"
+        "drivers",
+        "industry_solidarity"
     ],
     "author": [
         "hyatt d."

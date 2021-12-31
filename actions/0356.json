@@ -1,39 +1,36 @@
 {
-    "id": 363,
-    "date": "2020/11/27",
+    "id": 365,
+    "date": "2020/12/03",
     "sources": [
-        "https://www.theverge.com/2020/11/27/21722421/make-amazon-pay-protest-campaign-black-friday",
-        "https://www.theguardian.com/commentisfree/2020/dec/01/amazon-workers-fighting-for-their-rights",
-        "https://makeamazonpay.com/"
+        "https://www.theguardian.com/technology/2020/dec/07/timnit-gebru-google-firing-resignation-ai-research",
+        "https://googlewalkout.medium.com/standing-with-dr-timnit-gebru-isupporttimnit-believeblackwomen-6dadc300d382"
     ],
     "actions": [
-        "open letter",
-        "protest"
+        "open letter"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions",
-        "unfair labor practices",
-        "job security",
-        "ethics"
+        "ethics",
+        "discrimination"
     ],
     "employment_types": [
-        "other"
+        "white collar workers"
     ],
-    "description": "Progressive International launched a protest campaign against Amazon called \"Make Amazon Pay.\"  They called on the tech giant to provide better working conditions for its employees and to reduce its expanding carbon footprint. Launched on Black Friday, the campaign provides a list of demands for Amazon, which include raising pay for workers in Amazon\u2019s warehouses, extending paid sick leave, and allowing workers to organize in unions. The campaign also tasks Amazon with \u201ccommitting to zero emissions by 2030\u201d and paying back society by \u201cending partnerships with police forces and immigration authorities that are institutionally racist\u201d and \u201cpaying taxes in full, in the countries where the real economic activity takes place.\u201d The campaign was run by Progressive International, and had the support of the Amazon Workers International, Amazon Employees for Climate Justice, the Tech Workers Coalition, Athena, and many more.\n",
+    "description": "After Dr. Timnit Gebru was fired from Google, Googlers wrote an open letter demanding accountability from Google. 2695 Googlers and 4302 academic, industry, and civil society supporters signed on to the letter.",
     "online": true,
     "locations": [
         "worldwide"
     ],
     "companies": [
-        "amazon"
+        "google"
     ],
-    "workers": null,
+    "workers": 2695,
     "tags": [
-        "international solidarity",
-        "coronavirus",
-        "coworker solidarity",
-        "climate change"
+        "sexism",
+        "antiracism",
+        "industry solidarity",
+        "retaliation",
+        "ai",
+        "academics"
     ],
     "author": [
         "organizejs"

@@ -1,36 +1,44 @@
 {
-    "id": 409,
-    "date": "2021/01/22",
+    "id": 401,
+    "date": "2021/01/29",
     "sources": [
-        "https://www.irishtimes.com/news/ireland/irish-news/deliveroo-riders-across-dublin-strike-over-working-conditions-1.4465621"
+        "https://www.reuters.com/article/us-alphabet-resignations/two-google-engineers-resign-over-firing-of-ai-ethics-researcher-timnit-gebru-idUSKBN2A4090"
     ],
     "actions": [
-        "protest",
-        "strike"
+        "open letter",
+        "protest"
     ],
     "struggles": [
-        "pay and benefits",
-        "job security"
+        "ethics",
+        "discrimination"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Delivery drivers and restaurant owners in Dublin, Ireland organized to not work from 6pm - 8pm for the delivery platform, Deliveroo. Drivers have claimed their pay has been reduced and that they have been facing unsafe conditions while working. Some, restaurants that have their food delivered though the platform have decided to support the protest by not taking orders during the strike.",
-    "online": true,
+    "description": "Two Google engineers (engineering director David Baker plus a software developer Vinesh Kannan) have both quit in reaction to Timnit Gebru, an AI ethics researcher, being fired at Google. Gebru's firing has resulted in Google workers questioning the ethics and diversity of Google. ",
+    "online": null,
     "locations": [
-        "dublin-ireland"
+        "usa"
     ],
     "companies": [
-        "deliveroo"
+        "google"
     ],
-    "workers": null,
+    "workers": 2,
     "tags": [
-        "coronavirus",
-        "delivery_workers"
+        "coworker solidarity",
+        "ai"
     ],
     "author": [
         "hyatt d."
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            33.977092,
+            -118.4092133
+        ]
+    ],
+    "addresses": [
+        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
+    ]
 }

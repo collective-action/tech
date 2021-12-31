@@ -1,37 +1,42 @@
 {
-    "id": 293,
-    "date": "2020/06/09",
+    "id": 285,
+    "date": "2020/06/15",
     "sources": [
-        "https://www.wsws.org/en/articles/2020/06/12/braz-j12.html"
+        "https://medium.com/@macprac/open-letter-the-mit-college-of-computing-must-address-systemic-racism-b8c63ccc3d36"
     ],
     "actions": [
-        "protest",
-        "strike"
+        "open letter"
     ],
     "struggles": [
-        "working conditions",
-        "pay and benefits"
+        "ethics"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers"
     ],
-    "description": "Loggi delivery workers in Brazil went on strike starting June 9th to protest poor working conditions, including lack of protections against coronavirus, and low pay. Protestors also commemorated the death of a fellow worker, Thiago Coelho, who was killed in a motorcycle accident. ",
-    "online": null,
+    "description": "Over 90 individuals and organizations affiliated with MIT have signed a letter to the MIT College of Computing Leadership calling for the college to make a public statement condemning the death of George Floyd, developing a plan to address \"the legacy of anti-blackness and the relationship between technology and policing\", and breaking ties with companies that sell to police departments and ICE. Long-term asks include hiring more Black faculty and recruiting and accepting more Black undergraduate and graduate students.",
+    "online": true,
     "locations": [
-        "rio de janiero-brazil",
-        "s\u00e3o paulo-brazil"
+        "cambridge-massachusetts-usa"
     ],
     "companies": [
-        "loggi"
+        "mit"
     ],
-    "workers": null,
+    "workers": 91,
     "tags": [
-        "coronavirus",
-        "delivery_workers"
+        "blm",
+        "antiracism",
+        "academics"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            42.3582393,
+            -71.09663495185691
+        ]
+    ],
+    "addresses": [
+        "Massachusetts Institute of Technology, Erie Street, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02139, United States"
+    ]
 }

@@ -1,52 +1,37 @@
 {
-    "id": 471,
-    "date": "2021/09/03",
+    "id": 480,
+    "date": "2021/09/14",
     "sources": [
-        "https://www.appletoo.us/letter/",
-        "https://twitter.com/cherthedev/status/1433865109550501888"
+        "https://www.vice.com/amp/en/article/m7ey5b/hellofresh-workers-are-unionizing-the-booming-meal-kit-industry?__twitter_impression=true"
     ],
     "actions": [
-        "open letter"
+        "union drive",
+        "union representation"
     ],
     "struggles": [
         "pay and benefits",
-        "working conditions",
-        "ethics",
-        "discrimination",
-        "unfair labor practices"
+        "working conditions"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers",
-        "contract workers"
+        "blue collar workers"
     ],
-    "description": "The Apple workers in #AppleToo have released an open letter calling on Tim Cook and the Senior Leadership team to follow through in its diversity, equity, and inclusion promises. Workers have brought up invasive privacy policies, abuse, discrimination, and harassment. Their demands include: (1) \u201cincreased separation between Apple-owned and worker-owned digital and physical property in all Apple policies,\u201d (2) \u201ctransparent livable, equitable, and fair compensation across all of Apple,\u201d (3) \u201caudit all third-party relationships,\u201d among others. ",
-    "online": true,
+    "description": "1,300 HelloFresh workers are unionizing with UNITE HERE in Colorado and California due to low wages, safety issues, and poor work conditions. HelloFresh management has also been unresponsive towards workers after a COVID-19 outbreak in a Richmond facility. UNITE HERE filed a petition to NLRB to authorize a vote to unionize. In response, anti-union consultants, such as Kulture Consulting, were reported to have held mandatory anti-union meetings. Update: as of 11/23/2021, Workers at the HelloFresh Aurora facility voted 166-to-91 against union organizing. ",
+    "online": null,
     "locations": [
-        "usa"
+        "richmond-california-usa",
+        "aurora-colorado-usa"
     ],
     "companies": [
-        "apple"
+        "hellofresh"
     ],
-    "workers": null,
+    "workers": 1300,
     "tags": [
-        "coworker solidarity",
-        "sexism",
-        "antiracism",
-        "surveillance",
-        "mental health",
-        "online action"
+        "unite_here",
+        "coronavirus"
     ],
     "author": [
         "wynniechan"
     ],
-    "latlngs": [
-        [
-            42.3489689,
-            -71.0824143
-        ]
-    ],
-    "addresses": [
-        "Apple Store, 815, Boylston Street, Block F, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

@@ -1,37 +1,34 @@
 {
-    "id": 347,
-    "date": "2020/10/13",
+    "id": 419,
+    "date": "2020/10/15",
     "sources": [
-        "https://www.nbcnews.com/news/amp/ncna1243217",
-        "https://www.kmov.com/thousands-of-workers-petition-amazon-for-paid-time-off-to-vote/article_c29297aa-e08d-5aae-b887-75b506e79fef.html",
-        "https://www.cbsnews.com/news/amazon-workers-petition-election-day-holiday-paid-time-off/",
-        "https://amazonemployees4climatejustice.medium.com/jeff-bezos-give-all-amazon-workers-pto-to-vote-dc0003434d65"
+        "https://dailynewsweek.com/amazon-employees-start-anti-surveillance-petition-for-labor-tracking/"
     ],
     "actions": [
+        "protest",
         "open letter"
     ],
     "struggles": [
-        "unfair labor practices",
-        "ethics"
+        "working conditions"
     ],
     "employment_types": [
         "blue collar workers",
         "inhouse workers"
     ],
-    "description": "More than 6,400 Amazon workers signed an internal petition calling for time off to vote for its entire workforce ahead of the 2020 U.S. Election. Other companies like Walmart, Apple, and Target have policies allowing for paid time off for voting. Amazon Employees for Climate Justice organized the petition.",
-    "online": true,
+    "description": "A group of Amazon employees are circulating a petition, first created in October, demanding that Amazon stop monitoring employee activism and labor organization efforts.  The group is called Amazonians for Employee Privacy and they are requesting more transparency from Amazon about their surveillance activities, including their union heat map. ",
+    "online": null,
     "locations": [
         "usa"
     ],
     "companies": [
         "amazon"
     ],
-    "workers": 6400,
+    "workers": 199,
     "tags": [
-        "politics"
+        "surveillance"
     ],
     "author": [
-        "nataliyaned"
+        "hyatt d."
     ],
     "latlngs": [
         [

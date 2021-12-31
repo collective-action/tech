@@ -1,42 +1,40 @@
 {
-    "id": 219,
-    "date": "2019/12/12",
+    "id": 221,
+    "date": "2019/12/19",
     "sources": [
-        "https://www.vice.com/en_us/article/dyggwv/e-scooter-workers-just-formed-their-first-union"
+        "https://static.theintercept.com/amp/shutterstock-china-censorship-tech.html",
+        "https://medium.com/@techagainstfascism/in-solidarity-with-pluralism-and-peaceful-dissent-in-india-b9c40e0d4476"
     ],
     "actions": [
-        "union representation"
+        "open letter"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "ethics"
     ],
     "employment_types": [
-        "blue collar workers",
-        "inhouse workers"
+        "white collar workers"
     ],
-    "description": "E-scooter workers in San Francisco at the Ford-owned start-up Spin joined a union on Wednesday\u2014a first in the fledgling industry. Roughly 40 Spin workers\u2014who collect, repair, deploy, and charge Spin\u2019s fleet of more than 500 electric scooters on the streets of San Francisco\u2014are now part of Teamsters Local 665, as first reported by the San Francisco Examiner. The union says workers want to negotiate for better pay, health care, and retirement security in their first contract.",
-    "online": null,
+    "description": "In an open letter, several engineers, researchers, analysts, and designers working with global companies such as Google and Facebook have condemned the Citizenship (Amendment) Act in India. The letter, issued 'in solidarity with the Indian democracy', was posted through the 'TechAgainstFascism' handle on Medium. It called upon technology leaders to take a stance and publicly denounce the 'fascist acts by the Indian government'. 'We call upon the leaders to use technology as a force for good, to refuse to share user details with the government, refuse to shut off the Internet at the government's whim, provide tools for citizen mobilization, and ensure that content moderation is not skewing pro-government,' it said.",
+    "online": true,
     "locations": [
-        "san francisco-california-usa"
+        "worldwide",
+        "india"
     ],
-    "companies": [
-        "spin"
-    ],
-    "workers": 40,
+    "companies": null,
+    "workers": 400,
     "tags": [
-        "teamster"
+        "international_solidarity"
     ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            37.7699033,
-            -122.4595573
+            22.3511148,
+            78.6677428
         ]
     ],
     "addresses": [
-        "Spin, Bowling Green Drive, Inner Sunset, San Francisco, City and County of San Francisco, California, 94118-4504, United States"
+        "India"
     ]
 }

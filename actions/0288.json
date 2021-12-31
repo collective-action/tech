@@ -1,44 +1,42 @@
 {
-    "id": 262,
-    "date": "2020/05/05",
+    "id": 263,
+    "date": "2020/05/11",
     "sources": [
-        "https://supchina.com/2020/05/05/internet-writers-protest-what-they-call-unfair-contracts-with-tencent-company/"
+        "https://www.wedriveprogress.org/caravan",
+        "https://www.vice.com/en_us/article/g5ppqq/uber-and-lyft-drivers-organize-caravan-outside-uber-hq",
+        "https://techcrunch.com/2020/05/11/rideshare-drivers-stage-caravan-protest-over-ubers-labor-practices/"
     ],
     "actions": [
-        "strike"
+        "protest"
     ],
     "struggles": [
-        "pay and benefits"
+        "working conditions"
     ],
     "employment_types": [
         "gig workers"
     ],
-    "description": "Hundreds of thousands of writers signed to China Literature (subsidiary of Tencent), the country's biggest online publisher, went on an online strike, protesting against exploitative contracts and the company's regular infringement of their intellectual property rights. The strike's organizers were demonstrating against proposed changes to China Literature\u2019s business model and contracts with its writers. Writers stopped publishing new content on the website on the day of the strike. This change would negatively affect writers' income, which primarily comes from subscription fees and tips from their readers. 'Financially speaking, we were already drowning in quicksand before the rumors. Now they are trying to give us a death blow' a China Literature writer",
+    "description": "Around 100 Uber and Lyft drivers are staging a caravan protest at Uber's San Francisco headquarters to demand Uber comply with gig worker protections law AB 5, pay into the state's unemployment insurance fund and drop the ballot initiative it proposed along with Lyft and DoorDash that aims to keep gig workers classified as independent contractors. 'Uber, Lyft and other gig companies are continuing in the same path of abusing and completely taking advantage of workers while putting them at risk,' rideshare driver and organizer with Gig Workers Rising Edan Alva told TechCrunch. This protest comes shortly after California Attorney General Xavier Becerra, along with city attorneys from Los Angeles, San Diego and San Francisco, filed a lawsuit asserting Uber and Lyft gain an unfair and unlawful competitive advantage by misclassifying workers as independent contractors.",
     "online": null,
     "locations": [
-        "china"
+        "san francisco-california-usa"
     ],
     "companies": [
-        "chinese literature",
-        "tencent"
+        "uber"
     ],
-    "workers": 100001,
-    "tags": null,
+    "workers": 100,
+    "tags": [
+        "coronavirus"
+    ],
     "author": [
         "organizejs"
     ],
     "latlngs": [
         [
-            23.09733995,
-            113.29374279344763
-        ],
-        [
-            26.3695593,
-            106.50085007231183
+            37.7756962,
+            -122.4180838
         ]
     ],
     "addresses": [
-        "\u4e2d\u6587\u5802, 274, \u9038\u4ed9\u8def, \u65b0\u6e2f\u8857\u9053, \u6d77\u73e0\u533a, \u5e7f\u5dde\u5e02, \u5e7f\u4e1c\u7701, 510275, \u4e2d\u56fd",
-        "\u817e\u8baf\u8d35\u5b89\u4e03\u661f\u6570\u636e\u4e2d\u5fc3, \u5e73\u575d\u533a, \u5b89\u987a\u5e02, \u8d35\u5dde\u7701, \u4e2d\u56fd"
+        "Uber, 1455, Market Street, SOMA Pilipinas, San Francisco, City and County of San Francisco, California, 94103, United States"
     ]
 }

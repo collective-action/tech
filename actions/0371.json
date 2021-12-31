@@ -1,46 +1,54 @@
 {
-    "id": 393,
-    "date": "2021/01/08",
+    "id": 394,
+    "date": "2021/01/12",
     "sources": [
-        "https://outline.com/Mn7BCV",
-        "https://github.blog/2021-01-17-update-on-an-employee-matter/"
+        "https://www.washingtonpost.com/technology/2021/01/12/prop22-uber-lawsuit/"
     ],
     "actions": [
-        "open letter"
+        "legal action"
     ],
     "struggles": [
-        "ethics",
-        "discrimination"
+        "unfair labor practices"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "Approximately 200 GitHub workers signed an open letter calling on management to explain their decision to fire a Jewish worker who called the January 6th rioters at the U.S. Capitol \"Nazis\" on an internal company message board. They also called on the company to take a stronger position on anti-Semitism and white supremacy. Management responded with a letter denouncing the events of Jan. 6th and promising an investigation of the firing. UPDATE: On January 17th, GitHub posted to their company blog that their investigation \"revealed significant errors of judgment and procedure\". Their head of HR resigned from the company and the company reinstated the employee.",
-    "online": true,
+    "description": "The SEIU, along with a number of individual rideshare drivers, filed a lawsuit with the California Supreme Court seeking to overturn Proposition 22, which ruled that gig workers are independent contractors in the state. They argue that the law is unconstitutional and violates the right of state legislators; they also argue that Proposition 22 violated a rule that limits ballot measures to a single subject to prevent voter confusion.",
+    "online": null,
     "locations": [
-        "usa"
+        "california-usa"
     ],
     "companies": [
-        "github"
+        "uber",
+        "lyft",
+        "doordash"
     ],
-    "workers": 200,
+    "workers": null,
     "tags": [
-        "retaliation",
-        "coworker_solidarity",
-        "trump",
-        "politics"
+        "drivers",
+        "seiu",
+        "climate change"
     ],
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            37.7821769,
-            -122.3912458
+            37.7756962,
+            -122.4180838
+        ],
+        [
+            37.7509149,
+            -122.40246883416269
+        ],
+        [
+            37.7834546,
+            -122.4080358
         ]
     ],
     "addresses": [
-        "GitHub, 88, Colin P. Kelly Junior Street, Port of San Francisco, San Francisco, City and County of San Francisco, California, 94107, United States"
+        "Uber, 1455, Market Street, SOMA Pilipinas, San Francisco, City and County of San Francisco, California, 94103, United States",
+        "Lyft, Kansas Street, Potrero Terrace, San Francisco, City and County of San Francisco, California, 94124, United States",
+        "Doordash HQ, Market Street, SOMA Pilipinas, San Francisco, City and County of San Francisco, California, 94104, United States"
     ]
 }

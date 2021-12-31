@@ -1,36 +1,39 @@
 {
-    "id": 444,
-    "date": "2021/02/23",
+    "id": 396,
+    "date": "2021/02/28",
     "sources": [
-        "https://businesstech.co.za/news/technology/470264/uber-faces-class-action-lawsuit-in-south-africa/"
+        "https://www.theverge.com/2021/3/2/22307671/glitch-workers-sign-historic-collective-bargaining-agreement-cwa"
     ],
     "actions": [
-        "legal action"
+        "union contract"
     ],
     "struggles": [
-        "pay and benefits",
-        "unfair labor practices",
         "job security"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "In South Africa, Uber drivers are taking part in a class-action lawsuit against the company. Drivers are seeking compensation for unpaid overtime and holiday pay based on South African law. One of the law firms representing South African drivers also represented UK drivers in front of the UK Supreme Court, which ruled on February 19th that drivers must be classified as employees rather than independent contractors in the country.",
+    "description": "Glitch workers signed a collective bargaining agreement with company management that will last for 11 months. According to a press release from the Communications Workers of America (CWA), this is the first agreement signed by white collar tech workers in the United States. The agreement did not include a call for higher wages because workers recognized that they are paid relatively high wages and that the company has faced economic pressures as a result of the pandemic. Instead, the contract improved job stability, ensuring \"just cause\" protections against firing and recall rights (priority for re-hiring for the same positions) for workers laid off due to the pandemic. ",
     "online": null,
     "locations": [
-        "south africa"
+        "usa"
     ],
     "companies": [
-        "uber"
+        "glitch"
     ],
     "workers": null,
     "tags": [
-        "drivers",
-        "industry solidarity"
+        "cwa"
     ],
-    "author": [
-        "hyatt d."
+    "author": null,
+    "latlngs": [
+        [
+            35.6006784,
+            -82.3119169
+        ]
     ],
-    "latlngs": null,
-    "addresses": null
+    "addresses": [
+        "Glitch Drive, Black Mountain, Buncombe County, North Carolina, 28711, United States"
+    ]
 }

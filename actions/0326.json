@@ -1,36 +1,41 @@
 {
-    "id": 317,
-    "date": "2020/08/22",
+    "id": 318,
+    "date": "2020/08/28",
     "sources": [
-        "https://mp.weixin.qq.com/s/bvbmlUIPatMX4xzDvwU8FQ"
+        "https://www.businessinsider.in/tech/news/protesters-set-up-a-guillotine-outside-jeff-bezos-mansion-and-demanded-higher-wages-for-amazon-workers-after-the-ceos-net-worth-surpassed-200-billion/amp_articleshow/77794471.cms"
     ],
     "actions": [
-        "protest",
-        "open letter",
-        "strike"
+        "protest"
     ],
     "struggles": [
         "pay and benefits"
     ],
     "employment_types": [
-        "gig workers"
+        "blue collar workers",
+        "inhouse workers"
     ],
-    "description": "Didi rideshare workers have started holding strikes in a number of Chinese cities including Suzhou, Nanjing, Nantong, and Zunyi City to protest high commission fees on the platform. Drivers in Zunyi City also issued a letter with 5 demands to their local government and transportation department. ",
+    "description": "More than 100 protesters, led by former Amazon worker Christian Smalls, placed a guillotine outside of Jeff Bezos' D.C. home to call on the company to raise minimum wages from $15 to $30/hour. ",
     "online": null,
     "locations": [
-        "suzhou-china",
-        "nanjing-china",
-        "nantong-china",
-        "zunyi-china"
+        "washington_dc-usa"
     ],
     "companies": [
-        "didi"
+        "amazon"
     ],
-    "workers": null,
-    "tags": null,
+    "workers": 101,
+    "tags": [
+        "coronavirus"
+    ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            38.9035981,
+            -77.0186204
+        ]
+    ],
+    "addresses": [
+        "Amazon Locker - Saba, 490, L Street Northwest, Mount Vernon Square, Washington, District of Columbia, 20001, United States"
+    ]
 }

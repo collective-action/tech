@@ -1,43 +1,44 @@
 {
-    "id": 462,
-    "date": "2021/08/09",
+    "id": 464,
+    "date": "2021/08/11",
     "sources": [
-        "https://www.theverge.com/2021/8/9/22609687/apple-pay-equity-employee-surveys-protected-activity"
+        "https://www.bloomberg.com/news/articles/2021-08-10/new-york-times-tech-staff-to-walk-out-escalating-union-fight",
+        "https://collectiveaction.tech/2021/first-strike-for-a-seat-at-the-table/"
     ],
     "actions": [
-        "resources"
+        "protest",
+        "strike"
     ],
     "struggles": [
-        "pay and benefits",
-        "discrimination"
+        "unfair labor practices"
     ],
     "employment_types": [
         "white collar workers",
-        "inhouse workers",
-        "contract workers"
+        "inhouse workers"
     ],
-    "description": "Apple employees circulated voluntary surveys throughout the company to see if Apple has a problem with pay inequality toward women and minorities. Apple HR barred the employees from conducting the surveys, which according to The Verge, is illegally preventing employees' rights to discuss pay. ",
+    "description": "Tech workers fighting for a union at the Times virtually walked out in protest over management\u2019s continued anti-union tactics, the first work stoppage tied to unionization in the tech industry. \nOn the day of the walk out, over 50% of the bargaining unit or 300 workers participated. They allege the company has been illegally trying to obstruct their unionization campaign. Tech workers from the company hope to join NewsGuild, an affiliate of the Communications Workers of America Union.",
     "online": true,
     "locations": [
-        "usa"
+        "new york city-new york-usa"
     ],
     "companies": [
-        "apple"
+        "the new york times"
     ],
-    "workers": null,
+    "workers": 300,
     "tags": [
-        "sexism"
+        "cwa",
+        "coworker solidarity"
     ],
     "author": [
         "hyatt d."
     ],
     "latlngs": [
         [
-            42.3489689,
-            -71.0824143
+            40.77541455,
+            -73.83098624117696
         ]
     ],
     "addresses": [
-        "Apple Store, 815, Boylston Street, Block F, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States"
+        "The New York Times, Whitestone Expressway, Linden Hill, Queens, Queens County, New York, 11354, United States"
     ]
 }

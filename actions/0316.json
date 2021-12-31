@@ -1,51 +1,33 @@
 {
-    "id": 307,
-    "date": "2020/07/26",
+    "id": 299,
+    "date": "2020/08/01",
     "sources": [
-        "https://www.msn.com/en-us/news/us/boycott-continues-against-cambridge-whole-foods-that-sent-employees-home-for-black-lives-matter-masks/ar-BB16mPY2"
+        "https://www.vice.com/en_au/article/ep4qdz/amazon-workers-blocked-delivery-trucks-from-leaving-a-warehouse-for-hours"
     ],
     "actions": [
-        "protest",
-        "strike"
+        "strike",
+        "protest"
     ],
     "struggles": [
-        "unfair labor practices",
-        "ethics",
-        "discrimination"
+        "pay and benefits"
     ],
     "employment_types": [
         "inhouse workers",
         "blue collar workers"
     ],
-    "description": "Whole Foods employees and local residents protested in front of a Cambridge location that turned away seven employees on June 25th for wearing masks with \"Black Lives Matter\" slogans. The event is part of a larger boycott that has been ongoing since the incident. Suverino Frith, one of the seven employees, spoke at the event and called on the company to live up to their \"core values\". ",
+    "description": "A caravan of protestors demanding increased pay and COVID-19 protections disrupted business at an Amazon Distribution Center in the San Francisco Bay Area. The caravan was organized by Bay Area Amazonians.",
     "online": null,
     "locations": [
-        "cambridge-massachusetts-usa"
+        "san leandro-california-usa"
     ],
     "companies": [
-        "whole_foods",
         "amazon"
     ],
-    "workers": null,
+    "workers": 30,
     "tags": [
-        "antiracism",
-        "blm"
+        "coronavirus"
     ],
-    "author": [
-        "nataliyaned"
-    ],
-    "latlngs": [
-        [
-            42.3891156,
-            -71.1417515
-        ],
-        [
-            42.3651852,
-            -71.1042178
-        ]
-    ],
-    "addresses": [
-        "Whole Foods Market, Concord Lane, Fresh Pond Mall, Cambridge, Middlesex County, Massachusetts, 02474-8735, United States",
-        "Amazon Pickup, 1, Magazine Street, Central Square, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02139, United States"
-    ]
+    "author": null,
+    "latlngs": null,
+    "addresses": null
 }

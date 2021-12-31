@@ -1,39 +1,44 @@
 {
-    "id": 446,
-    "date": "2021/06/01",
+    "id": 465,
+    "date": "2021/06/03",
     "sources": [
-        "https://www.theverge.com/2021/6/1/22463952/facebook-employees-petition-palestine-content-moderation-policy"
+        "https://www.vice.com/en/article/7kv89q/riders-for-europes-delivery-unicorn-report-grueling-delivery-times-and-back-pain"
     ],
     "actions": [
-        "protest",
-        "open letter"
+        "union drive",
+        "strike"
     ],
     "struggles": [
-        "discrimination",
-        "ethics"
+        "working conditions",
+        "pay and benefits",
+        "unfair labor practices"
     ],
     "employment_types": [
-        "white collar workers",
-        "blue collar workers",
-        "contract workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "Facebook employees are circulating a petition for the company to conduct an investigation for censoring Palestinian content on their website. At Facebook, content moderation is executed by third party contractors and algorithms. Facebook employees have taken notice and are asking the company as a whole to do a third party audit of any Muslim or Arab content decisions made by moderators.  ",
-    "online": true,
+    "description": "Delivery workers at Gorillas are organizing to form a work council known as Gorillas Workers Collective. At three warehouses, riders unanimously voted to go on strike and form the Gorillas Workers Collective. The employees held a meeting to establish a work council to obtain co-determination rights. Having access to these rights would allow them to have a say in break times and safety arrangements. The workers have organized due to unpaid hours, back pain and psychological distress incurred from the job, lack of safety, violation of labor laws, and chaotic management. ",
+    "online": null,
     "locations": [
-        "worldwide"
+        "berlin-germany"
     ],
     "companies": [
-        "facebook"
+        "gorillas"
     ],
-    "workers": 174,
+    "workers": 6,
     "tags": [
-        "international solidarity",
-        "moderators"
+        "delivery_workers"
     ],
     "author": [
-        "hyatt d."
+        "hyatt d.",
+        "wynniechan"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            52.5064919,
+            13.336216896921181
+        ]
+    ],
+    "addresses": [
+        "Flachland-Gorilla, Tiergarten, Mitte, Berlin, 10787, Deutschland"
+    ]
 }
