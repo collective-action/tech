@@ -1,43 +1,42 @@
 {
-    "id": 451,
-    "date": "2021/06/29",
+    "id": 453,
+    "date": "2021/06/28",
     "sources": [
-        "https://www.theverge.com/2021/6/29/22556436/whatsapp-spanish-language-content-moderators-contractor-equal-pay"
+        "https://therealnews.com/gorillas-workers-in-germany-launch-a-wildcat-strike"
     ],
     "actions": [
-        "open letter"
+        "protest",
+        "strike"
     ],
     "struggles": [
-        "pay and benefits",
-        "discrimination"
+        "job security",
+        "working conditions"
     ],
     "employment_types": [
-        "inhouse workers",
-        "contract workers"
+        "gig workers"
     ],
-    "description": "Spanish language content moderators and customer service representatives at WhatsApp sent an internal letter demanding the $2 premium paid to other bi-lingual moderators and backpay, which Spanish language contractors don't receive. The letter addressed the CEOs of Facebook, Accenture, and WhatsApp and circulated on Facebook's communication platform. Eighty-nine employees signed the letter. ",
-    "online": true,
+    "description": "Delivery workers at Gorillas held a series of wildcat strikes in June protesting their working conditions and the firing of their colleagues. Gorillas are a delivery startup company in Berlin, Germany which delivers groceries. Workers protested the company's 6-month probationary period that allows them to fire any workers without cause, resulting in job insecurity for the delivery drivers. ",
+    "online": null,
     "locations": [
-        "austin-texas-usa"
+        "berlin-germany"
     ],
     "companies": [
-        "facebook",
-        "accenture"
+        "gorillas"
     ],
-    "workers": 89,
+    "workers": null,
     "tags": [
-        "moderators"
+        "delivery_workers"
     ],
     "author": [
         "hyatt d."
     ],
     "latlngs": [
         [
-            30.2691649,
-            -97.7455041
+            52.5064919,
+            13.336216896921181
         ]
     ],
     "addresses": [
-        "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
+        "Flachland-Gorilla, Tiergarten, Mitte, Berlin, 10787, Deutschland"
     ]
 }

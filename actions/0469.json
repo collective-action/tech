@@ -1,0 +1,41 @@
+{
+    "id": 509,
+    "date": "2021/12/22",
+    "sources": [
+        "https://www.theverge.com/2021/12/22/22850880/amazon-workers-staten-island-refile-union-petition",
+        "https://www.cnbc.com/2021/12/22/amazon-warehouse-workers-on-staten-island-refile-union-petition.html"
+    ],
+    "actions": [
+        "protest",
+        "strike"
+    ],
+    "struggles": [
+        "pay and benefits",
+        "working conditions"
+    ],
+    "employment_types": [
+        "blue collar workers"
+    ],
+    "description": "Staten Island Amazon workers staged a lunchtime walkout to urge Amazon to recognize their union. Their demands include better wages, safer working conditions, longer breaks, and better benefits.",
+    "online": null,
+    "locations": [
+        "staten island-new york city-new york-usa"
+    ],
+    "companies": [
+        "amazon"
+    ],
+    "workers": null,
+    "tags": null,
+    "author": [
+        "wynniechan"
+    ],
+    "latlngs": [
+        [
+            40.6193387,
+            -74.0727749
+        ]
+    ],
+    "addresses": [
+        "Amazon Court, Clifton, Staten Island, Richmond County, New York, 10304, United States"
+    ]
+}

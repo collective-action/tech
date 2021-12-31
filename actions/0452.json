@@ -1,50 +1,45 @@
 {
-    "id": 484,
-    "date": "2021/10/25",
+    "id": 489,
+    "date": "2021/10/20",
     "sources": [
-        "https://www.nbcnews.com/news/us-news/amazon-workers-staten-island-file-union-election-rcna3745",
-        "https://twitter.com/CDAW_National/status/1449913538919677954?t=1FloYuZc25cyobcFMYe7tw&s=19",
-        "https://amazonlaborunion.org/",
-        "https://www.vice.com/en/article/akvwkp/amazon-warehouse-workers-in-new-york-city-to-file-for-union-election"
+        "https://www.nytimes.com/2021/10/20/business/media/netflix-protest-dave-chappelle.html"
     ],
     "actions": [
-        "union drive",
-        "union representation"
+        "protest",
+        "strike"
     ],
     "struggles": [
-        "working conditions",
-        "pay and benefits",
-        "job security"
+        "discrimination",
+        "ethics"
     ],
     "employment_types": [
-        "inhouse workers",
-        "blue collar workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "More than 2,000 Amazon workers in Staten Island filed the petition to the NLRB to hold a union election. This effort, led by Chris Smalls and is called the Amazon labor Union. Smalls, a former employee, was fired after organizing a protest for lack of COVID protective gear and poor hazard pay. As an independent union, they hope to avoid Amazon\u2019s anti-union messaging targeted towards established unions. The Amazon Labor Union has begun a union drive. Its goals are to bring back variable compensation pay and stock options that Amazon removed in 2018. In response, Amazon questioned if there was a sufficient number of legitimate signatures from Amazon employees.  Amazon has also taken anti-union tactics, such as displaying anti-union messages in their facilities and bringing in anti-union consultants.",
-    "online": null,
+    "description": "Employees walked out of a Netflix building in Los Angeles to protest Dave Chappelle\u2019s special, joining supporters and activists who were already rallying. Other Netflix employees stopped working that day as a virtual walkout. #NetflixWalkOut also trended on Twitter. In response, Netflix issued a statement expressing support of the walkout while also remaining supportive of Chappelle.",
+    "online": true,
     "locations": [
-        "staten island-new york city-new york-usa"
+        "los angeles-california-usa"
     ],
     "companies": [
-        "amazon"
+        "netflix"
     ],
-    "workers": 2001,
+    "workers": 125,
     "tags": [
-        "coronavirus",
-        "retaliation",
-        "industry solidarity",
-        "coworker solidarity"
+        "lgbtq",
+        "online action",
+        "politics"
     ],
     "author": [
         "wynniechan"
     ],
     "latlngs": [
         [
-            40.6193387,
-            -74.0727749
+            34.0976547,
+            -118.3164863
         ]
     ],
     "addresses": [
-        "Amazon Court, Clifton, Staten Island, Richmond County, New York, 10304, United States"
+        "Netflix at Sunset Bronson Studios, West Sunset Boulevard, Hollywood, Los Angeles, Los Angeles County, California, 90028-5420, United States"
     ]
 }

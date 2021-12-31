@@ -1,39 +1,45 @@
 {
-    "id": 506,
-    "date": "2021/12/14",
+    "id": 503,
+    "date": "2021/11/29",
     "sources": [
-        "https://www.yahoo.com/now/citizen-app-workers-vote-unionize-210325963.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAABzGqlx9rV0WtzFdwvQMW1lNxIYsj3jG1yvHG2HUVLY03t6R10vLFBw2yIUv3_8VycSDnEiGa3yuUfuM0fWY4_SxRFBMO3KkMmN9zPdpf3LextbBH16mIiRJDc9KmWcAukkBRrxKl4FzET7sMHovLg6AL02_DJmSHLJi-dDZ2rNA"
+        "https://www.forbes.com/sites/angelauyeung/2021/11/29/former-google-engineers-sue-company-alleging-slander-and-breach-of-contract/?sh=2157de0e67e6"
     ],
     "actions": [
-        "union representation"
+        "legal action"
     ],
     "struggles": [
+        "unfair labor practices",
+        "ethics",
         "job security"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "white collar workers"
     ],
-    "description": "A Citizen App workers\u2019 bargaining unit voted 51-22 in favor of unionizing with the help of the Communications Workers of America. This effort was partially driven by fears of outsourcing after the company outsourced some job tasks to contract workers overseas.",
+    "description": "Three former Google workers are filing a lawsuit against Google for slander, breach of contract, and termination in violation of public policy. While at Google, the former employees had publicly protested Google\u2019s intent to enter a contract with the CBP and ICE. Some Google workers believe the firing was to discourage organizing. Google responded that the firings are due to violations of their data security policies. ",
     "online": null,
     "locations": [
-        "usa"
+        "santa clara-california-usa"
     ],
     "companies": [
-        "citizen"
+        "google"
     ],
-    "workers": 73,
-    "tags": null,
+    "workers": 3,
+    "tags": [
+        "retaliation",
+        "military_contracts",
+        "ice",
+        "politics"
+    ],
     "author": [
         "wynniechan"
     ],
     "latlngs": [
         [
-            37.5364762,
-            -77.4336951
+            37.419000999999994,
+            -122.08237596053958
         ]
     ],
     "addresses": [
-        "Citizen, 1203, East Main Street, Shockoe Slip, Richmond, Virginia, 23219, United States"
+        "Google, Mountain View, Santa Clara County, California, United States"
     ]
 }

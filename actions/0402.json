@@ -1,46 +1,44 @@
 {
-    "id": 423,
+    "id": 511,
     "date": "2021/04/26",
     "sources": [
-        "https://www.thehindubusinessline.com/news/national/drivers-jac-demand-covid-19-cover-from-uber-ola/article34417191.ece",
-        "https://twitter.com/ShaikTgfwda/status/1386677337106706434"
+        "https://current.org/2021/04/npr-plans-to-recognize-digital-staffers-union/?wallit_nosession=1",
+        "https://www.digitalmediaunited.org/"
     ],
     "actions": [
-        "open letter"
+        "union representation"
     ],
     "struggles": [
+        "ethics",
         "pay and benefits",
-        "working conditions",
-        "unfair labor practices"
+        "working conditions"
     ],
     "employment_types": [
-        "gig workers"
+        "inhouse workers",
+        "white collar workers"
     ],
-    "description": "In an open letter, the Telangana State Taxi and Drivers Joint Action Committee (JAC) in India demanded Uber and Ola pay for hospital expenses for drivers who test positive for covid and compensation to their families. The JAC, which comprises more than 20 unions and associations of app-based workers, also called on the companies to provide PPE, increase the rate of the fixed fare, and allow drivers to pick up their evening earnings within at least 3 km of their homes. India reported more than 350,000 cases in a single day on the same day. ",
-    "online": true,
+    "description": "More than 90% of NPR tech workers, a group that includes workers in content operations, design, digital support, product management and software engineering, signed cards to unionize with the Communications Workers of America. NPR voluntarily recognized the union the same week.   ",
+    "online": null,
     "locations": [
-        "telangana-india"
+        "usa"
     ],
     "companies": [
-        "uber",
-        "ola"
+        "NPR"
     ],
-    "workers": null,
+    "workers": 63,
     "tags": [
-        "coronavirus",
-        "drivers",
-        "delivery_workers"
+        "cwa"
     ],
     "author": [
-        "hyatt d."
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            19.1815187,
-            78.0699956
+            39.108487,
+            -84.5205435
         ]
     ],
     "addresses": [
-        "Sub Centre, Ola, Oala, Adilabad, Nirmal, Telangana, 504109, India"
+        "WVXU 91.7 FM, Central Parkway, Betts-Longworth Historic District, West End, Cincinnati, Hamilton County, Ohio, 45210, United States"
     ]
 }

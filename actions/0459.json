@@ -1,38 +1,44 @@
 {
-    "id": 496,
+    "id": 501,
     "date": "2021/11/23",
     "sources": [
-        "https://www.msn.com/en-us/money/markets/using-the-slogan-gopuff-yourself-company-drivers-plan-a-24-hour-strike-over-pay/ar-AAQZU5Q",
-        "https://gp-action.paperform.co/?s=ss"
+        "https://www.cnbc.com/2021/11/23/google-employees-sign-manifesto-against-widened-vaccine-mandate.html",
+        "https://www.dailymail.co.uk/news/article-10236939/At-600-Google-workers-sign-manifesto-calling-company-retract-COVID-vaccine-mandate.html"
     ],
     "actions": [
-        "strike",
         "open letter"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions",
-        "job security"
+        "ethics"
     ],
     "employment_types": [
-        "gig workers",
-        "contract workers"
+        "white collar workers",
+        "contract workers",
+        "inhouse workers"
     ],
-    "description": "With the slogan \u201cGopuff yourself,\u201d Gopuff drivers plan to strike for 24 hours on Tuesday to demand better pay and working conditions. Specifically, the drivers are demanding an increase in their guaranteed hourly rate and a guaranteed minimum number of hours. They also want increased transparency around termination. The strikes are in response to reduced minimum hourly pay rate and bonuses, to which Gopuff said they were working to improve conditions, and that drivers earn more on average compared to industry rates. The drivers are supported by Working Washington, a pro-labor group.  ",
+    "description": "Around 600 Google employees signed a manifesto that opposes Google\u2019s new COVID-19 vaccine mandate for its potential impact on corporate America and as a matter of principle and inclusion. An open letter was also sent to Google\u2019s chief health officer, Karen DeSalvo. ",
     "online": true,
     "locations": [
-        "philadephia-pennsylvania-usa"
+        "usa"
     ],
     "companies": [
-        "gopuff"
+        "google"
     ],
-    "workers": 201,
+    "workers": 601,
     "tags": [
-        "delivery_workers"
+        "coronavirus",
+        "politics"
     ],
     "author": [
         "wynniechan"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            33.977092,
+            -118.4092133
+        ]
+    ],
+    "addresses": [
+        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
+    ]
 }
