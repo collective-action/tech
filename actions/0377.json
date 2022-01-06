@@ -31,6 +31,13 @@
     "author": [
         "hyatt d."
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            51.3551751,
+            10.0402186
+        ]
+    ],
+    "addresses": [
+        "\u00dcber, Thalwenden, Uder, Landkreis Eichsfeld, Th\u00fcringen, 37318, Deutschland"
+    ]
 }

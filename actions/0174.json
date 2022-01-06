@@ -33,6 +33,13 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.4816514,
+            -122.1515164
+        ]
+    ],
+    "addresses": [
+        "Facebook Way, Meta West Campus, Belle Haven, Menlo Park, San Mateo County, California, 94025-1246, United States"
+    ]
 }

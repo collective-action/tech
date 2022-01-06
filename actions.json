@@ -2300,8 +2300,15 @@
         "author": [
             "CM"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                45.54352555,
+                -122.9618170926439
+            ]
+        ],
+        "addresses": [
+            "Intel Jones Farm Campus, Hillsboro, Washington County, Oregon, 97124-5961, United States"
+        ]
     },
     {
         "id": 49,
@@ -2982,11 +2989,16 @@
         ],
         "latlngs": [
             [
+                37.4816514,
+                -122.1515164
+            ],
+            [
                 37.4123687,
                 -121.9283094
             ]
         ],
         "addresses": [
+            "Facebook Way, Meta West Campus, Belle Haven, Menlo Park, San Mateo County, California, 94025-1246, United States",
             "Cisco Way, 399, East Tasman Drive, Cisco Systems, San Jose, Santa Clara County, California, 95134, United States"
         ]
     },
@@ -6994,8 +7006,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.4816514,
+                -122.1515164
+            ]
+        ],
+        "addresses": [
+            "Facebook Way, Meta West Campus, Belle Haven, Menlo Park, San Mateo County, California, 94025-1246, United States"
+        ]
     },
     {
         "id": 162,
@@ -8950,6 +8969,10 @@
                 -122.4121644
             ],
             [
+                37.4816514,
+                -122.1515164
+            ],
+            [
                 40.7321996,
                 -73.9598257
             ],
@@ -8961,6 +8984,7 @@
         "addresses": [
             "Google One Market, 1, Market Street, Financial District, San Francisco, City and County of San Francisco, California, 94111, United States",
             "WeWork, Mission Street, SOMA Pilipinas, San Francisco, City and County of San Francisco, California, 94103, United States",
+            "Facebook Way, Meta West Campus, Belle Haven, Menlo Park, San Mateo County, California, 94025-1246, United States",
             "Kickstarter HQ, West Street, Brooklyn, New York, 11222, United States",
             "WeWork, Market Street, Brooklyn Navy Yard, Brooklyn, New York, 11251, United States"
         ]
@@ -10294,8 +10318,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                35.2960341,
+                -120.6532192
+            ]
+        ],
+        "addresses": [
+            "Slack Street, San Luis Obispo, San Luis Obispo County, California, 93410, United States"
+        ]
     },
     {
         "id": 237,
@@ -13569,12 +13600,12 @@
         ],
         "latlngs": [
             [
-                35.9100131,
-                -79.0627506
+                32.6661685,
+                -114.5361341
             ]
         ],
         "addresses": [
-            "Something Different Caf\u00e9, 431, West Franklin Street, Franklin-Rosemary Historic District, Downtown, Chapel Hill, Orange County, North Carolina, 27516, United States"
+            "Something Special Avenue, Country Roads, Yuma, Yuma County, Arizona, 85365, United States"
         ]
     },
     {
@@ -15630,8 +15661,15 @@
         "author": [
             "hyatt d."
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                51.3551751,
+                10.0402186
+            ]
+        ],
+        "addresses": [
+            "\u00dcber, Thalwenden, Uder, Landkreis Eichsfeld, Th\u00fcringen, 37318, Deutschland"
+        ]
     },
     {
         "id": 411,
