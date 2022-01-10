@@ -934,8 +934,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.3361905,
+                -121.890583
+            ]
+        ],
+        "addresses": [
+            "San Jose, Santa Clara County, California, United States"
+        ]
     },
     {
         "id": 16,
@@ -1373,13 +1380,13 @@
                 9.677958815746917
             ],
             [
-                51.36227055,
-                12.45231287033246
+                51.1238951,
+                12.492158
             ]
         ],
         "addresses": [
             "Amazon FRA1, Eichhof, Asbach, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
-            "Amazon Distribution GmbH, Paunsdorf, Ost, Sachsen, 04347, Deutschland"
+            "Abholstation, 26, Sachsenallee, Borna, Landkreis Leipzig, Sachsen, 04552, Deutschland"
         ]
     },
     {
@@ -1451,13 +1458,13 @@
                 9.677958815746917
             ],
             [
-                51.36227055,
-                12.45231287033246
+                51.1238951,
+                12.492158
             ]
         ],
         "addresses": [
             "Amazon FRA1, Eichhof, Asbach, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
-            "Amazon Distribution GmbH, Paunsdorf, Ost, Sachsen, 04347, Deutschland"
+            "Abholstation, 26, Sachsenallee, Borna, Landkreis Leipzig, Sachsen, 04552, Deutschland"
         ]
     },
     {
@@ -1580,8 +1587,8 @@
                 9.677958815746917
             ],
             [
-                51.36227055,
-                12.45231287033246
+                51.1238951,
+                12.492158
             ],
             [
                 48.198871499999996,
@@ -1598,7 +1605,7 @@
         ],
         "addresses": [
             "Amazon FRA1, Eichhof, Asbach, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
-            "Amazon Distribution GmbH, Paunsdorf, Ost, Sachsen, 04347, Deutschland",
+            "Abholstation, 26, Sachsenallee, Borna, Landkreis Leipzig, Sachsen, 04552, Deutschland",
             "Amazon-Logistikzentrum, Graben, Landkreis Augsburg, Bayern, 86836, Deutschland",
             "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
             "Amazon, Belltown, Seattle, King County, Washington, 98109-5210, United States"
@@ -1707,12 +1714,12 @@
         ],
         "latlngs": [
             [
-                51.36227055,
-                12.45231287033246
+                51.1238951,
+                12.492158
             ]
         ],
         "addresses": [
-            "Amazon Distribution GmbH, Paunsdorf, Ost, Sachsen, 04347, Deutschland"
+            "Abholstation, 26, Sachsenallee, Borna, Landkreis Leipzig, Sachsen, 04552, Deutschland"
         ]
     },
     {
@@ -2982,11 +2989,16 @@
         ],
         "latlngs": [
             [
+                37.4816514,
+                -122.1515164
+            ],
+            [
                 37.4123687,
                 -121.9283094
             ]
         ],
         "addresses": [
+            "Facebook Way, Meta West Campus, Belle Haven, Menlo Park, San Mateo County, California, 94025-1246, United States",
             "Cisco Way, 399, East Tasman Drive, Cisco Systems, San Jose, Santa Clara County, California, 95134, United States"
         ]
     },
@@ -3566,8 +3578,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.4417249,
+                -122.172515
+            ]
+        ],
+        "addresses": [
+            "Apple Store, Stanford Shopping Center, Stanford, Palo Alto, Santa Clara County, California, 94304, United States"
+        ]
     },
     {
         "id": 78,
@@ -9239,8 +9258,8 @@
                 9.677958815746917
             ],
             [
-                51.36227055,
-                12.45231287033246
+                51.1238951,
+                12.492158
             ],
             [
                 50.3495332,
@@ -9261,7 +9280,7 @@
         ],
         "addresses": [
             "Amazon FRA1, Eichhof, Asbach, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
-            "Amazon Distribution GmbH, Paunsdorf, Ost, Sachsen, 04347, Deutschland",
+            "Abholstation, 26, Sachsenallee, Borna, Landkreis Leipzig, Sachsen, 04552, Deutschland",
             "Amazon, Am Autobahnkreuz, Gewerbegebiet Industriepark A61/GVZ Koblenz, R\u00fcbenach, Koblenz, Rheinland-Pfalz, 56072, Deutschland",
             "Amazon, Amazonstra\u00dfe, Winterswick, Rheinberg, Kreis Wesel, Nordrhein-Westfalen, 47495, Deutschland",
             "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
@@ -11151,8 +11170,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                40.6193387,
+                -74.0727749
+            ]
+        ],
+        "addresses": [
+            "Amazon Court, Clifton, Staten Island, Richmond County, New York, 10304, United States"
+        ]
     },
     {
         "id": 253,
@@ -16015,8 +16041,8 @@
                 7.4901388
             ],
             [
-                51.36227055,
-                12.45231287033246
+                51.1238951,
+                12.492158
             ],
             [
                 50.845334,
@@ -16027,7 +16053,7 @@
             "Amazon, Amazonstra\u00dfe, Winterswick, Rheinberg, Kreis Wesel, Nordrhein-Westfalen, 47495, Deutschland",
             "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
             "Amazon, Am Autobahnkreuz, Gewerbegebiet Industriepark A61/GVZ Koblenz, R\u00fcbenach, Koblenz, Rheinland-Pfalz, 56072, Deutschland",
-            "Amazon Distribution GmbH, Paunsdorf, Ost, Sachsen, 04347, Deutschland",
+            "Abholstation, 26, Sachsenallee, Borna, Landkreis Leipzig, Sachsen, 04552, Deutschland",
             "Amazon FRA1, Eichhof, Asbach, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland"
         ]
     },
