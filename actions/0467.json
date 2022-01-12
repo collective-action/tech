@@ -1,27 +1,26 @@
 {
-    "id": 513,
-    "date": "2021/12/22",
+    "id": 516,
+    "date": "2021/12/18",
     "sources": [
-        "https://www.theverge.com/2021/12/22/22850880/amazon-workers-staten-island-refile-union-petition",
-        "https://www.cnbc.com/2021/12/22/amazon-warehouse-workers-on-staten-island-refile-union-petition.html"
+        "https://taipeitimes.com/News/front/archives/2021/12/27/2003770256?s=09"
     ],
     "actions": [
-        "union drive"
+        "protest"
     ],
     "struggles": [
-        "pay and benefits",
         "working conditions"
     ],
     "employment_types": [
-        "blue collar workers"
+        "blue collar workers",
+        "contract workers"
     ],
-    "description": "Staten Island Amazon workers of the Amazon Labor Union refiled a union petition to the NLRB and are focusing on unionizing the JFK8 warehouse.",
+    "description": "Temporary workers at Foxconn Technology Group (Hon Hai), a major electronics company that manufactures Apple products, protested over their working and living conditions. The workers were mostly women. In response, the company has agreed to their demands.\nchennai-tamil nadu-india",
     "online": null,
     "locations": [
-        "staten island-new york city-new york-usa"
+        "chennai-india"
     ],
     "companies": [
-        "amazon"
+        "foxconn"
     ],
     "workers": null,
     "tags": null,
@@ -30,11 +29,11 @@
     ],
     "latlngs": [
         [
-            40.6193387,
-            -74.0727749
+            12.92266025,
+            79.88984389117235
         ]
     ],
     "addresses": [
-        "Amazon Court, Clifton, Staten Island, Richmond County, New York, 10304, United States"
+        "Foxconn, Sunguvarchatram, Sriperumbudur, Kanchipuram District, Tamil Nadu, India"
     ]
 }

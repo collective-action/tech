@@ -19379,6 +19379,77 @@
         ]
     },
     {
+        "id": 521,
+        "date": "2021/12/02",
+        "sources": [
+            "https://blog.actblue.com/2020/12/02/welcome-actblue-union/"
+        ],
+        "actions": [
+            "union representation"
+        ],
+        "struggles": [
+            "working conditions",
+            "ethics"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "ActBlue has voluntarily recognized the Campaign Workers Guild as union representatives for ActBlue\u2019s workers, and there are plans to create a collective bargaining agreement.",
+        "online": true,
+        "locations": [
+            "usa"
+        ],
+        "companies": [
+            "actblue"
+        ],
+        "workers": 80,
+        "tags": [
+            "fund_raising"
+        ],
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 520,
+        "date": "2021/12/13",
+        "sources": [
+            "https://techcrunch.com/2021/12/14/big-cartel-staff-are-voluntarily-recognized-as-the-latest-tech-workers-union/"
+        ],
+        "actions": [
+            "union drive",
+            "union representation"
+        ],
+        "struggles": [
+            "working conditions",
+            "pay and benefits"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "The co-founders of Big Cartel voluntarily recognized the Big Cartel Workers Union, which are represented by the OPEIU. The workers unionized in order to have a larger voice in the decision-making process, and to ensure fair pay and benefits for everyone. This union is also the first tech union in a \u201cright-to-work\u201d state.",
+        "online": null,
+        "locations": [
+            "salt lake city-utah-usa"
+        ],
+        "companies": [
+            "big cartel"
+        ],
+        "workers": 30,
+        "tags": [
+            "opeiu"
+        ],
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
         "id": 506,
         "date": "2021/12/14",
         "sources": [
@@ -19755,6 +19826,136 @@
         ],
         "addresses": [
             "Apple Store, 815, Boylston Street, Block F, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States"
+        ]
+    },
+    {
+        "id": 518,
+        "date": "2022/01/04",
+        "sources": [
+            "https://www.bloomberg.com/news/articles/2022-01-04/google-fiber-staff-seek-union-vote-contract-talks-with-alphabet"
+        ],
+        "actions": [
+            "union representation"
+        ],
+        "struggles": [
+            "working conditions"
+        ],
+        "employment_types": [
+            "contract workers",
+            "blue collar workers"
+        ],
+        "description": "Subcontracted Google Fiber workers of AWU have filed a request to the NLRB for unionization, and it seeks to negotiate with both their vendor and Alphabet. They contend that Alphabet is a \u201cjoint employer.\u201d They want to have a greater voice in shaping their working conditions.",
+        "online": null,
+        "locations": [
+            "kansas city-missouri-usa"
+        ],
+        "companies": [
+            "alphabet",
+            "bds solutions group"
+        ],
+        "workers": null,
+        "tags": [
+            "technicians",
+            "politics"
+        ],
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": [
+            [
+                39.0678907,
+                -94.56529439152422
+            ]
+        ],
+        "addresses": [
+            "Alphabet Academy Child Care, 3200, Wayne Avenue, Ivanhoe, Kansas City, Jackson County, Missouri, 64109, United States"
+        ]
+    },
+    {
+        "id": 519,
+        "date": "2022/01/05",
+        "sources": [
+            "https://www.buzzfeednews.com/article/sarahemerson/facebook-moderators-who-were-ordered-back-to-the-office-can"
+        ],
+        "actions": [
+            "protest"
+        ],
+        "struggles": [
+            "pay and benefits",
+            "working conditions"
+        ],
+        "employment_types": [
+            "contract workers"
+        ],
+        "description": "Facebook moderators protested their subcontractor Accenture\u2019s return-to-office mandate, while workers at Meta were allowed to work from home. Some also threatened to resign. The protests caused Accenture to reverse the decision. Workers also raised concerns over COVID-related working conditions, benefits, and support.",
+        "online": null,
+        "locations": [
+            "mountain view-california-usa"
+        ],
+        "companies": [
+            "accenture",
+            "meta"
+        ],
+        "workers": null,
+        "tags": [
+            "moderators",
+            "coronavirus"
+        ],
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": [
+            [
+                33.6381162,
+                -117.8225518
+            ]
+        ],
+        "addresses": [
+            "Mountain View, Turtle Rock, Irvine, Orange County, California, 92603-3322, United States"
+        ]
+    },
+    {
+        "id": 522,
+        "date": "2022/01/06",
+        "sources": [
+            "https://www.theverge.com/2022/1/11/22878120/facebook-meta-whatsapp-moderators-accenture-missing-paycheck"
+        ],
+        "actions": [
+            "protest",
+            "open letter"
+        ],
+        "struggles": [
+            "pay and benefits"
+        ],
+        "employment_types": [
+            "contract workers"
+        ],
+        "description": "Facebook and Whatsapp moderators didn\u2019t receive paychecks after a change in payroll providers. In response, they posted an open letter and threatened a work stoppage until they receive their paychecks. There has been no indication of a work stoppage, according to Accenture. Some workers have received lump-sum payments that partially cover their pay. However, not everyone has received the payments.",
+        "online": null,
+        "locations": [
+            "austin-texas-usa"
+        ],
+        "companies": [
+            "accenture",
+            "facebook",
+            "whatsapp"
+        ],
+        "workers": null,
+        "tags": [
+            "coworker solidarity",
+            "moderators"
+        ],
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": [
+            [
+                30.2691649,
+                -97.7455041
+            ]
+        ],
+        "addresses": [
+            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
         ]
     }
 ]

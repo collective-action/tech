@@ -1,43 +1,41 @@
 {
-    "id": 515,
-    "date": "2021/12/23",
+    "id": 509,
+    "date": "2021/12/22",
     "sources": [
-        "https://www.cbsnews.com/news/amazon-reaches-settlement-that-gives-workers-more-power-to-organize/"
+        "https://www.theverge.com/2021/12/22/22850880/amazon-workers-staten-island-refile-union-petition",
+        "https://www.cnbc.com/2021/12/22/amazon-warehouse-workers-on-staten-island-refile-union-petition.html"
     ],
     "actions": [
-        "legal action"
+        "protest",
+        "strike"
     ],
     "struggles": [
-        "unfair labor practices",
+        "pay and benefits",
         "working conditions"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers",
         "blue collar workers"
     ],
-    "description": "Amazon has reached a settlement with the NLRB that would allow its workers to organize more freely without retaliation. Amazon will also email its employees to notify them of their organizing rights.",
+    "description": "Staten Island Amazon workers staged a lunchtime walkout to urge Amazon to recognize their union. Their demands include better wages, safer working conditions, longer breaks, and better benefits.",
     "online": null,
     "locations": [
-        "usa"
+        "staten island-new york city-new york-usa"
     ],
     "companies": [
         "amazon"
     ],
     "workers": null,
-    "tags": [
-        "retaliation"
-    ],
+    "tags": null,
     "author": [
         "wynniechan"
     ],
     "latlngs": [
         [
-            46.320207,
-            -112.1072224
+            40.6193387,
+            -74.0727749
         ]
     ],
     "addresses": [
-        "Amazon, Jefferson County, Montana, United States"
+        "Amazon Court, Clifton, Staten Island, Richmond County, New York, 10304, United States"
     ]
 }

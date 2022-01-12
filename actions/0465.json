@@ -1,39 +1,39 @@
 {
-    "id": 516,
-    "date": "2021/12/18",
+    "id": 506,
+    "date": "2021/12/14",
     "sources": [
-        "https://taipeitimes.com/News/front/archives/2021/12/27/2003770256?s=09"
+        "https://www.yahoo.com/now/citizen-app-workers-vote-unionize-210325963.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAABzGqlx9rV0WtzFdwvQMW1lNxIYsj3jG1yvHG2HUVLY03t6R10vLFBw2yIUv3_8VycSDnEiGa3yuUfuM0fWY4_SxRFBMO3KkMmN9zPdpf3LextbBH16mIiRJDc9KmWcAukkBRrxKl4FzET7sMHovLg6AL02_DJmSHLJi-dDZ2rNA"
     ],
     "actions": [
-        "protest"
+        "union representation"
     ],
     "struggles": [
-        "working conditions"
+        "job security"
     ],
     "employment_types": [
-        "blue collar workers",
-        "contract workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Temporary workers at Foxconn Technology Group (Hon Hai), a major electronics company that manufactures Apple products, protested over their working and living conditions. The workers were mostly women. In response, the company has agreed to their demands.\nchennai-tamil nadu-india",
+    "description": "A Citizen App workers\u2019 bargaining unit voted 51-22 in favor of unionizing with the help of the Communications Workers of America. This effort was partially driven by fears of outsourcing after the company outsourced some job tasks to contract workers overseas.",
     "online": null,
     "locations": [
-        "chennai-india"
+        "usa"
     ],
     "companies": [
-        "foxconn"
+        "citizen"
     ],
-    "workers": null,
+    "workers": 73,
     "tags": null,
     "author": [
         "wynniechan"
     ],
     "latlngs": [
         [
-            12.92266025,
-            79.88984389117235
+            37.5364762,
+            -77.4336951
         ]
     ],
     "addresses": [
-        "Foxconn, Sunguvarchatram, Sriperumbudur, Kanchipuram District, Tamil Nadu, India"
+        "Citizen, 1203, East Main Street, Shockoe Slip, Richmond, Virginia, 23219, United States"
     ]
 }

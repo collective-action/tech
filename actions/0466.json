@@ -1,37 +1,52 @@
 {
-    "id": 512,
-    "date": "2021/12/20",
+    "id": 507,
+    "date": "2021/12/17",
     "sources": [
-        "https://www.startbase.com/news/sumup-mitarbeiter-wollen-betriebsrat-gruenden/",
-        "https://twitter.com/TechWorkersBER/status/1473233396964941825?t=u0VJtCkoJsvvgGc_EpdqUA&s=19"
+        "https://www.vice.com/en/article/z3nm3a/no-ones-life-is-worth-a-package-amazon-workers-are-organizing-for-cell-phone-access"
     ],
     "actions": [
-        "legal action",
-        "union representation",
-        "union drive"
+        "protest",
+        "open letter"
     ],
     "struggles": [
+        "working conditions",
+        "pay and benefits",
         "job security"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "inhouse workers",
+        "blue collar workers"
     ],
-    "description": "In response to Sumup laying off 150 employees, employees have called for a works council election, with one employee also sending a mass email. The CEO, Michael Schrezenmaier, has affirmed these plans, since it is legal by German law. Moreover, the Berlin Tech Workers Coalition and ver.di Tech Berlin/Brandenburg are supporting this group.",
-    "online": true,
+    "description": "After a tornado disaster led to the death of 6 workers in an Amazon warehouse, Amazon employees are demanding changes in policy, including the ability to keep their phones with them during their shifts and changes in pay and excused absence policy in the case of severe weather. Other demands include an hourly pay raise, 20 minute breaks, and an appeals process for terminations. Signed petitions that were organized by Amazonians United were offered to warehouse managers, but some managers have refused to accept it. These actions were also motivated by reports of workers still having to show up in dangerous weather due to fear of losing their jobs.",
+    "online": null,
     "locations": [
-        "germany"
+        "new york city-new york-usa",
+        "washington_dc-usa",
+        "bellmawr-new jersey-usa",
+        "upper marlboro-maryland-usa"
     ],
     "companies": [
-        "sumup"
+        "amazon"
     ],
-    "workers": null,
+    "workers": 501,
     "tags": [
         "coworker_solidarity"
     ],
     "author": [
         "wynniechan"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            40.722465,
+            -73.9977307
+        ],
+        [
+            38.9132465,
+            -77.0317256
+        ]
+    ],
+    "addresses": [
+        "Amazon, 72, Spring Street, Manhattan Community Board 2, Manhattan, New York, 10013, United States",
+        "Amazon Fresh, 1733, 14th Street Northwest, Logan Circle/Shaw, Washington, District of Columbia, 20009, United States"
+    ]
 }

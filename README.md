@@ -20,11 +20,11 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">12/01/2022 12:39PM</td>
+    <td data-summary="timestamp">12/01/2022 01:35PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">472</td>
+    <td data-summary="action-count">477</td>
   </tr>
  </table>
 </div>
@@ -45,13 +45,58 @@ The goal of this archive is to provide data and insights on organizing in the te
   </tr>
   <tr author="wynniechan">
    <td>
+    2022-01-06
+   </td>
+   <td>
+    Facebook and Whatsapp moderators didn’t receive paychecks after a change in payroll providers. In response, they posted an open letter and threatened a work stoppage until they receive their paychecks. There has been no indication of a work stoppage, according to Accenture. Some workers have received lump-sum payments that partially cover their pay. However, not everyone has received the payments.
+   </td>
+   <td>
+    <a href="/actions/0476.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="wynniechan">
+   <td>
+    2022-01-05
+   </td>
+   <td>
+    Facebook moderators protested their subcontractor Accenture’s return-to-office mandate, while workers at Meta were allowed to work from home. Some also threatened to resign. The protests caused Accenture to reverse the decision. Workers also raised concerns over COVID-related working conditions, benefits, and support.
+   </td>
+   <td>
+    <a href="/actions/0475.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="wynniechan">
+   <td>
+    2022-01-04
+   </td>
+   <td>
+    Subcontracted Google Fiber workers of AWU have filed a request to the NLRB for unionization, and it seeks to negotiate with both their vendor and Alphabet. They contend that Alphabet is a “joint employer.” They want to have a greater voice in shaping their working conditions.
+   </td>
+   <td>
+    <a href="/actions/0474.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="wynniechan">
+   <td>
     2021-12-23
    </td>
    <td>
     Apple Together, a group of Apple employees in retail and corporate, staged a walkout and are encouraging customers to boycott Apple products on Christmas Eve. They are demanding better working conditions, including paid sick leave and COVID-related protection, and hazard pay.
    </td>
    <td>
-    <a href="/actions/0471.json">
+    <a href="/actions/0473.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -66,7 +111,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Amazon has reached a settlement with the NLRB that would allow its workers to organize more freely without retaliation. Amazon will also email its employees to notify them of their organizing rights.
    </td>
    <td>
-    <a href="/actions/0470.json">
+    <a href="/actions/0472.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -81,7 +126,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     During the Christmas shipping season, workers organized by Amazonians United staged a walkout at two Chicago Amazon warehouses. Their demands were higher pay for their physically intensive work and better safety conditions considering their high risk for COVID infection. Workers staged a walkout after managers didn’t respond to their petition with similar demands a month ago. Moreover, some workers say that promised bonuses and pay rates were never received.
    </td>
    <td>
-    <a href="/actions/0469.json">
+    <a href="/actions/0471.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -96,7 +141,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Staten Island Amazon workers staged a lunchtime walkout to urge Amazon to recognize their union. Their demands include better wages, safer working conditions, longer breaks, and better benefits.
    </td>
    <td>
-    <a href="/actions/0468.json">
+    <a href="/actions/0470.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -111,7 +156,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     Staten Island Amazon workers of the Amazon Labor Union refiled a union petition to the NLRB and are focusing on unionizing the JFK8 warehouse.
    </td>
    <td>
-    <a href="/actions/0467.json">
+    <a href="/actions/0469.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -126,7 +171,7 @@ The goal of this archive is to provide data and insights on organizing in the te
     In response to Sumup laying off 150 employees, employees have called for a works council election, with one employee also sending a mass email. The CEO, Michael Schrezenmaier, has affirmed these plans, since it is legal by German law. Moreover, the Berlin Tech Workers Coalition and ver.di Tech Berlin/Brandenburg are supporting this group.
    </td>
    <td>
-    <a href="/actions/0466.json">
+    <a href="/actions/0468.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -142,7 +187,7 @@ The goal of this archive is to provide data and insights on organizing in the te
 chennai-tamil nadu-india
    </td>
    <td>
-    <a href="/actions/0465.json">
+    <a href="/actions/0467.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -157,7 +202,7 @@ chennai-tamil nadu-india
     After a tornado disaster led to the death of 6 workers in an Amazon warehouse, Amazon employees are demanding changes in policy, including the ability to keep their phones with them during their shifts and changes in pay and excused absence policy in the case of severe weather. Other demands include an hourly pay raise, 20 minute breaks, and an appeals process for terminations. Signed petitions that were organized by Amazonians United were offered to warehouse managers, but some managers have refused to accept it. These actions were also motivated by reports of workers still having to show up in dangerous weather due to fear of losing their jobs.
    </td>
    <td>
-    <a href="/actions/0464.json">
+    <a href="/actions/0466.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -170,6 +215,36 @@ chennai-tamil nadu-india
    </td>
    <td>
     A Citizen App workers’ bargaining unit voted 51-22 in favor of unionizing with the help of the Communications Workers of America. This effort was partially driven by fears of outsourcing after the company outsourced some job tasks to contract workers overseas.
+   </td>
+   <td>
+    <a href="/actions/0465.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="wynniechan">
+   <td>
+    2021-12-13
+   </td>
+   <td>
+    The co-founders of Big Cartel voluntarily recognized the Big Cartel Workers Union, which are represented by the OPEIU. The workers unionized in order to have a larger voice in the decision-making process, and to ensure fair pay and benefits for everyone. This union is also the first tech union in a “right-to-work” state.
+   </td>
+   <td>
+    <a href="/actions/0464.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="wynniechan">
+   <td>
+    2021-12-02
+   </td>
+   <td>
+    ActBlue has voluntarily recognized the Campaign Workers Guild as union representatives for ActBlue’s workers, and there are plans to create a collective bargaining agreement.
    </td>
    <td>
     <a href="/actions/0463.json">
