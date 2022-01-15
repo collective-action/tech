@@ -857,8 +857,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.3361905,
+                -121.890583
+            ]
+        ],
+        "addresses": [
+            "San Jose, Santa Clara County, California, United States"
+        ]
     },
     {
         "id": 14,
@@ -11572,12 +11579,12 @@
         ],
         "latlngs": [
             [
-                44.78839255,
-                -93.44285005008032
+                44.80059945,
+                -93.48865500885567
             ]
         ],
         "addresses": [
-            "Amazon Sortation Center MSP5, 5825, 11th Avenue East, Shakopee, Scott County, Minnesota, 55379, United States"
+            "Amazon Fullfillment Center MSP1, 2601, 4th Avenue East, Shakopee, Scott County, Minnesota, 55379, United States"
         ]
     },
     {
@@ -13889,12 +13896,12 @@
         ],
         "latlngs": [
             [
-                44.78839255,
-                -93.44285005008032
+                44.80059945,
+                -93.48865500885567
             ]
         ],
         "addresses": [
-            "Amazon Sortation Center MSP5, 5825, 11th Avenue East, Shakopee, Scott County, Minnesota, 55379, United States"
+            "Amazon Fullfillment Center MSP1, 2601, 4th Avenue East, Shakopee, Scott County, Minnesota, 55379, United States"
         ]
     },
     {
