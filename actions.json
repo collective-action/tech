@@ -2989,16 +2989,11 @@
         ],
         "latlngs": [
             [
-                37.4816514,
-                -122.1515164
-            ],
-            [
                 37.4123687,
                 -121.9283094
             ]
         ],
         "addresses": [
-            "Facebook Way, Meta West Campus, Belle Haven, Menlo Park, San Mateo County, California, 94025-1246, United States",
             "Cisco Way, 399, East Tasman Drive, Cisco Systems, San Jose, Santa Clara County, California, 95134, United States"
         ]
     },
@@ -11760,13 +11755,13 @@
                 113.29374279344763
             ],
             [
-                22.52586985,
-                113.93041229445548
+                26.3695593,
+                106.50085007231183
             ]
         ],
         "addresses": [
             "\u4e2d\u6587\u5802, 274, \u9038\u4ed9\u8def, \u65b0\u6e2f\u8857\u9053, \u6d77\u73e0\u533a, \u5e7f\u5dde\u5e02, \u5e7f\u4e1c\u7701, 510275, \u4e2d\u56fd",
-            "\u817e\u8baf\u6ee8\u6d77\u5927\u53a6, \u7ca4\u6d77\u8857\u9053, \u6df1\u5733\u5e02, \u5357\u5c71\u533a, \u5e7f\u4e1c\u7701, 518054, \u4e2d\u56fd"
+            "\u817e\u8baf\u8d35\u5b89\u4e03\u661f\u6570\u636e\u4e2d\u5fc3, \u5e73\u575d\u533a, \u5b89\u987a\u5e02, \u8d35\u5dde\u7701, \u4e2d\u56fd"
         ]
     },
     {
@@ -18672,8 +18667,8 @@
                 120.0873432
             ],
             [
-                22.52586985,
-                113.93041229445548
+                26.3695593,
+                106.50085007231183
             ],
             [
                 24.4978707,
@@ -18686,7 +18681,7 @@
         ],
         "addresses": [
             "Alibaba (halal), \u7a20\u5dde\u5317\u8def, \u4e49\u4e4c\u5e02, \u91d1\u534e\u5e02, \u6d59\u6c5f\u7701, 322000, \u4e2d\u56fd",
-            "\u817e\u8baf\u6ee8\u6d77\u5927\u53a6, \u7ca4\u6d77\u8857\u9053, \u6df1\u5733\u5e02, \u5357\u5c71\u533a, \u5e7f\u4e1c\u7701, 518054, \u4e2d\u56fd",
+            "\u817e\u8baf\u8d35\u5b89\u4e03\u661f\u6570\u636e\u4e2d\u5fc3, \u5e73\u575d\u533a, \u5b89\u987a\u5e02, \u8d35\u5dde\u7701, \u4e2d\u56fd",
             "\u767d\u6e21\u9547, \u6885\u5dde\u5e02, \u5e7f\u4e1c\u7701, \u4e2d\u56fd",
             "\u5b57\u8282\u8df3\u52a8\u603b\u90e8, \u53cc\u6986\u6811\u5317\u8def, \u4e2d\u5173\u6751, \u4e2d\u5173\u6751\u8857\u9053, \u6d77\u6dc0\u533a, \u5317\u4eac\u5e02, 100098, \u4e2d\u56fd"
         ]
@@ -18849,15 +18844,8 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": [
-            [
-                34.0976547,
-                -118.3164863
-            ]
-        ],
-        "addresses": [
-            "Netflix at Sunset Bronson Studios, West Sunset Boulevard, Hollywood, Los Angeles, Los Angeles County, California, 90028-5420, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 484,
