@@ -2714,7 +2714,7 @@
             ]
         ],
         "addresses": [
-            "Deliveroo, Pentonville Road, Pentonville, Barnsbury, London Borough of Islington, London, Greater London, England, N1 9JB, United Kingdom"
+            "Deliveroo, Pentonville Road, Pentonville, Barnsbury, London Borough of Islington, Greater London, England, N1 9JB, United Kingdom"
         ]
     },
     {
@@ -4455,7 +4455,7 @@
             ]
         ],
         "addresses": [
-            "Uber, 2, Leman Street, Spitalfields, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, E1 8FA, United Kingdom"
+            "Uber, 2, Leman Street, Spitalfields, Whitechapel, London, Greater London, England, E1 8FA, United Kingdom"
         ]
     },
     {
@@ -4501,7 +4501,7 @@
             ]
         ],
         "addresses": [
-            "Uber, 2, Leman Street, Spitalfields, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, E1 8FA, United Kingdom",
+            "Uber, 2, Leman Street, Spitalfields, Whitechapel, London, Greater London, England, E1 8FA, United Kingdom",
             "UBER, 100, Broad Street, Ladywood, Park Central, Birmingham, West Midlands Combined Authority, West Midlands, England, B15 1AE, United Kingdom"
         ]
     },
@@ -8291,7 +8291,7 @@
             ]
         ],
         "addresses": [
-            "Deliveroo, Pentonville Road, Pentonville, Barnsbury, London Borough of Islington, London, Greater London, England, N1 9JB, United Kingdom"
+            "Deliveroo, Pentonville Road, Pentonville, Barnsbury, London Borough of Islington, Greater London, England, N1 9JB, United Kingdom"
         ]
     },
     {
@@ -12835,7 +12835,7 @@
             ]
         ],
         "addresses": [
-            "Uber, 2, Leman Street, Spitalfields, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, E1 8FA, United Kingdom"
+            "Uber, 2, Leman Street, Spitalfields, Whitechapel, London, Greater London, England, E1 8FA, United Kingdom"
         ]
     },
     {
@@ -13777,11 +13777,11 @@
             ]
         ],
         "addresses": [
-            "Google, Pancras Road, King's Cross, London Borough of Camden, London, Greater London, England, N1C 4BJ, United Kingdom",
+            "Google, Pancras Road, King's Cross, London Borough of Camden, Greater London, England, N1C 4BJ, United Kingdom",
             "Amazon, Beoley CP, Holt End, Bromsgrove, Worcestershire, West Midlands, England, United Kingdom",
-            "Microsoft London, Kingdom Street, Paddington Central, Paddington, City of Westminster, London, Greater London, England, W2 6PY, United Kingdom",
+            "Microsoft London, Kingdom Street, Paddington Central, Paddington, City of Westminster, Greater London, England, W2 6PY, United Kingdom",
             "Samsung, Princes Street, New Town, New Town/Broughton, City of Edinburgh, Alba / Scotland, EH2 2ER, United Kingdom",
-            "Deliveroo, Pentonville Road, Pentonville, Barnsbury, London Borough of Islington, London, Greater London, England, N1 9JB, United Kingdom"
+            "Deliveroo, Pentonville Road, Pentonville, Barnsbury, London Borough of Islington, Greater London, England, N1 9JB, United Kingdom"
         ]
     },
     {
@@ -16463,7 +16463,7 @@
             ]
         ],
         "addresses": [
-            "Deliveroo, Pentonville Road, Pentonville, Barnsbury, London Borough of Islington, London, Greater London, England, N1 9JB, United Kingdom"
+            "Deliveroo, Pentonville Road, Pentonville, Barnsbury, London Borough of Islington, Greater London, England, N1 9JB, United Kingdom"
         ]
     },
     {
@@ -18329,7 +18329,7 @@
             ]
         ],
         "addresses": [
-            "Uber, 2, Leman Street, Spitalfields, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, E1 8FA, United Kingdom",
+            "Uber, 2, Leman Street, Spitalfields, Whitechapel, London, Greater London, England, E1 8FA, United Kingdom",
             "UBER, 100, Broad Street, Ladywood, Park Central, Birmingham, West Midlands Combined Authority, West Midlands, England, B15 1AE, United Kingdom"
         ]
     },
@@ -18849,8 +18849,15 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                34.0976547,
+                -118.3164863
+            ]
+        ],
+        "addresses": [
+            "Netflix at Sunset Bronson Studios, West Sunset Boulevard, Hollywood, Los Angeles, Los Angeles County, California, 90028-5420, United States"
+        ]
     },
     {
         "id": 484,
