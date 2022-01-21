@@ -2623,8 +2623,8 @@
         ],
         "latlngs": [
             [
-                37.7756962,
-                -122.4180838
+                37.7899898,
+                -122.3999799
             ],
             [
                 42.5032848,
@@ -2632,7 +2632,7 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, SOMA Pilipinas, San Francisco, City and County of San Francisco, California, 94103, United States",
+            "Uber, Market Street, Financial District, San Francisco, City and County of San Francisco, California, 94105, United States",
             "Lyft Uber Pickup Location, Midstate Trail, Westminster, Worcester County, Massachusetts, 01541, United States"
         ]
     },
@@ -6556,7 +6556,7 @@
             ]
         ],
         "addresses": [
-            "Google One Market, 1, Market Street, Financial District, San Francisco, City and County of San Francisco, California, 94111, United States"
+            "Google One Market, 1, Market Street, Financial District, City and County of San Francisco, California, 94111, United States"
         ]
     },
     {
@@ -7049,8 +7049,8 @@
         ],
         "latlngs": [
             [
-                37.7756962,
-                -122.4180838
+                37.7899898,
+                -122.3999799
             ],
             [
                 37.7509149,
@@ -7058,7 +7058,7 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, SOMA Pilipinas, San Francisco, City and County of San Francisco, California, 94103, United States",
+            "Uber, Market Street, Financial District, San Francisco, City and County of San Francisco, California, 94105, United States",
             "Lyft, Kansas Street, Potrero Terrace, San Francisco, City and County of San Francisco, California, 94124, United States"
         ]
     },
@@ -7096,17 +7096,17 @@
         ],
         "latlngs": [
             [
-                37.7756962,
-                -122.4180838
+                37.7899898,
+                -122.3999799
             ],
             [
-                37.7509149,
-                -122.40246883416269
+                37.7759881,
+                -122.3919991
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, SOMA Pilipinas, San Francisco, City and County of San Francisco, California, 94103, United States",
-            "Lyft, Kansas Street, Potrero Terrace, San Francisco, City and County of San Francisco, California, 94124, United States"
+            "Uber, Market Street, Financial District, San Francisco, City and County of San Francisco, California, 94105, United States",
+            "Lyft, 185, Berry Street, South Beach, San Francisco, City and County of San Francisco, California, 94107, United States"
         ]
     },
     {
@@ -7576,8 +7576,8 @@
         ],
         "latlngs": [
             [
-                37.7756962,
-                -122.4180838
+                37.7899898,
+                -122.3999799
             ],
             [
                 37.7509149,
@@ -7585,7 +7585,7 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, SOMA Pilipinas, San Francisco, City and County of San Francisco, California, 94103, United States",
+            "Uber, Market Street, Financial District, San Francisco, City and County of San Francisco, California, 94105, United States",
             "Lyft, Kansas Street, Potrero Terrace, San Francisco, City and County of San Francisco, California, 94124, United States"
         ]
     },
@@ -9068,12 +9068,12 @@
         ],
         "latlngs": [
             [
-                37.7933154,
-                -122.3945205
+                37.7894073,
+                -122.3895538
             ]
         ],
         "addresses": [
-            "Google One Market, 1, Market Street, Financial District, San Francisco, City and County of San Francisco, California, 94111, United States"
+            "Google - San Francisco, 345, Spear Street, Rincon Hill, San Francisco, City and County of San Francisco, California, 94105, United States"
         ]
     },
     {
@@ -9119,8 +9119,8 @@
                 -122.08237596053958
             ],
             [
-                37.7933154,
-                -122.3945205
+                37.7894073,
+                -122.3895538
             ],
             [
                 37.7249773,
@@ -9130,7 +9130,7 @@
         "addresses": [
             "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
             "Google, Mountain View, Santa Clara County, California, United States",
-            "Google One Market, 1, Market Street, Financial District, San Francisco, City and County of San Francisco, California, 94111, United States",
+            "Google - San Francisco, 345, Spear Street, Rincon Hill, San Francisco, City and County of San Francisco, California, 94105, United States",
             "LT Group - Compass Real Estate, Ocean Avenue, Ingleside, San Francisco, City and County of San Francisco, California, 94112, United States"
         ]
     },
@@ -9167,12 +9167,12 @@
         ],
         "latlngs": [
             [
-                37.7933154,
-                -122.3945205
+                37.7924005,
+                -122.39175109524751
             ]
         ],
         "addresses": [
-            "Google One Market, 1, Market Street, Financial District, San Francisco, City and County of San Francisco, California, 94111, United States"
+            "Google Community Space, 188, The Embarcadero, Port of San Francisco, San Francisco, City and County of San Francisco, California, 94105, United States"
         ]
     },
     {
@@ -9930,8 +9930,8 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, SOMA Pilipinas, San Francisco, City and County of San Francisco, California, 94103, United States",
-            "Lyft, Kansas Street, Potrero Terrace, San Francisco, City and County of San Francisco, California, 94124, United States"
+            "Uber, 1455, Market Street, SOMA Pilipinas, City and County of San Francisco, California, 94103, United States",
+            "Lyft, Kansas Street, Potrero Terrace, City and County of San Francisco, California, 94124, United States"
         ]
     },
     {
@@ -10771,12 +10771,12 @@
         ],
         "latlngs": [
             [
-                37.7509149,
-                -122.40246883416269
+                37.7759881,
+                -122.3919991
             ],
             [
-                37.7756962,
-                -122.4180838
+                37.7899898,
+                -122.3999799
             ],
             [
                 32.7717259,
@@ -10788,8 +10788,8 @@
             ]
         ],
         "addresses": [
-            "Lyft, Kansas Street, Potrero Terrace, San Francisco, City and County of San Francisco, California, 94124, United States",
-            "Uber, 1455, Market Street, SOMA Pilipinas, San Francisco, City and County of San Francisco, California, 94103, United States",
+            "Lyft, 185, Berry Street, South Beach, San Francisco, City and County of San Francisco, California, 94107, United States",
+            "Uber, Market Street, Financial District, San Francisco, City and County of San Francisco, California, 94105, United States",
             "UBER / Lyft Driver Drop Off, Campanile Mall Dr, Montezuma Mesa, Del Cerro, San Diego, San Diego County, California, 92182, United States",
             "UBER / Lyft Driver Drop Off, Campanile Mall Dr, Montezuma Mesa, Del Cerro, San Diego, San Diego County, California, 92182, United States"
         ]
@@ -12365,8 +12365,8 @@
                 -76.5905444
             ],
             [
-                37.7509149,
-                -122.40246883416269
+                37.7759881,
+                -122.3919991
             ],
             [
                 37.7834546,
@@ -12379,7 +12379,7 @@
         ],
         "addresses": [
             "Uber, 918, Fell Street, Fell's Point, Baltimore, Maryland, 21231, United States",
-            "Lyft, Kansas Street, Potrero Terrace, San Francisco, City and County of San Francisco, California, 94124, United States",
+            "Lyft, 185, Berry Street, South Beach, San Francisco, City and County of San Francisco, California, 94107, United States",
             "Doordash HQ, Market Street, SOMA Pilipinas, San Francisco, City and County of San Francisco, California, 94104, United States",
             "UserTesting, 690, 5th Street, SOMA Pilipinas, San Francisco, City and County of San Francisco, California, 94017, United States"
         ]
@@ -13288,7 +13288,7 @@
             ]
         ],
         "addresses": [
-            "Pinterest, 149, Bluxome Street, South Beach, San Francisco, City and County of San Francisco, California, 94017, United States"
+            "Pinterest, 149, Bluxome Street, South Beach, City and County of San Francisco, California, 94017, United States"
         ]
     },
     {
@@ -19963,6 +19963,51 @@
         ],
         "addresses": [
             "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
+        ]
+    },
+    {
+        "id": 523,
+        "date": "2022/01/11",
+        "sources": [
+            "https://www.businessinsider.com/amazon-employee-ranking-system-drone-engineer-lawmakers-bill-washington-2022-1",
+            "https://actionnetwork.org/petitions/demand-transparency-for-washingtons-workers-pass-sb-5130?source=direct_link"
+        ],
+        "actions": [
+            "protest",
+            "open letter",
+            "legal action"
+        ],
+        "struggles": [
+            "working conditions"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "A former Amazon engineer created an online petition to urge Washington lawmakers to pass the SB 5130 bill. This bill would mandate employers to provide workers with access to their personnel files and internal rankings for increased transparency. While the bill is stalled, several tech workers will testify on it in the next legislative session.",
+        "online": true,
+        "locations": [
+            "washington_dc-usa"
+        ],
+        "companies": [
+            "amazon"
+        ],
+        "workers": 201,
+        "tags": [
+            "online action",
+            "politics"
+        ],
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": [
+            [
+                38.9132465,
+                -77.0317256
+            ]
+        ],
+        "addresses": [
+            "Amazon Fresh, 1733, 14th Street Northwest, Logan Circle/Shaw, Washington, District of Columbia, 20009, United States"
         ]
     }
 ]

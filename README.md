@@ -20,11 +20,11 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">21/01/2022 05:29PM</td>
+    <td data-summary="timestamp">21/01/2022 06:29PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">477</td>
+    <td data-summary="action-count">478</td>
   </tr>
  </table>
 </div>
@@ -41,6 +41,21 @@ The goal of this archive is to provide data and insights on organizing in the te
    </td>
    <td>
     link
+   </td>
+  </tr>
+  <tr author="wynniechan">
+   <td>
+    2022-01-11
+   </td>
+   <td>
+    A former Amazon engineer created an online petition to urge Washington lawmakers to pass the SB 5130 bill. This bill would mandate employers to provide workers with access to their personnel files and internal rankings for increased transparency. While the bill is stalled, several tech workers will testify on it in the next legislative session.
+   </td>
+   <td>
+    <a href="/actions/0477.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
    </td>
   </tr>
   <tr author="wynniechan">
