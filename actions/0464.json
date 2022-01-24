@@ -1,32 +1,31 @@
 {
-    "id": 520,
-    "date": "2021/12/13",
+    "id": 521,
+    "date": "2021/12/02",
     "sources": [
-        "https://techcrunch.com/2021/12/14/big-cartel-staff-are-voluntarily-recognized-as-the-latest-tech-workers-union/"
+        "https://blog.actblue.com/2020/12/02/welcome-actblue-union/"
     ],
     "actions": [
-        "union drive",
         "union representation"
     ],
     "struggles": [
         "working conditions",
-        "pay and benefits"
+        "ethics"
     ],
     "employment_types": [
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "The co-founders of Big Cartel voluntarily recognized the Big Cartel Workers Union, which are represented by the OPEIU. The workers unionized in order to have a larger voice in the decision-making process, and to ensure fair pay and benefits for everyone. This union is also the first tech union in a \u201cright-to-work\u201d state.",
-    "online": null,
+    "description": "ActBlue has voluntarily recognized the Campaign Workers Guild as union representatives for ActBlue\u2019s workers, and there are plans to create a collective bargaining agreement.",
+    "online": true,
     "locations": [
-        "salt lake city-utah-usa"
+        "usa"
     ],
     "companies": [
-        "big cartel"
+        "actblue"
     ],
-    "workers": 30,
+    "workers": 80,
     "tags": [
-        "opeiu"
+        "fund_raising"
     ],
     "author": [
         "wynniechan"

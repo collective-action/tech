@@ -1,44 +1,43 @@
 {
-    "id": 522,
-    "date": "2022/01/06",
+    "id": 519,
+    "date": "2022/01/05",
     "sources": [
-        "https://www.theverge.com/2022/1/11/22878120/facebook-meta-whatsapp-moderators-accenture-missing-paycheck"
+        "https://www.buzzfeednews.com/article/sarahemerson/facebook-moderators-who-were-ordered-back-to-the-office-can"
     ],
     "actions": [
-        "protest",
-        "open letter"
+        "protest"
     ],
     "struggles": [
-        "pay and benefits"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
         "contract workers"
     ],
-    "description": "Facebook and Whatsapp moderators didn\u2019t receive paychecks after a change in payroll providers. In response, they posted an open letter and threatened a work stoppage until they receive their paychecks. There has been no indication of a work stoppage, according to Accenture. Some workers have received lump-sum payments that partially cover their pay. However, not everyone has received the payments.",
+    "description": "Facebook moderators protested their subcontractor Accenture\u2019s return-to-office mandate, while workers at Meta were allowed to work from home. Some also threatened to resign. The protests caused Accenture to reverse the decision. Workers also raised concerns over COVID-related working conditions, benefits, and support.",
     "online": null,
     "locations": [
-        "austin-texas-usa"
+        "mountain view-california-usa"
     ],
     "companies": [
         "accenture",
-        "facebook",
-        "whatsapp"
+        "meta"
     ],
     "workers": null,
     "tags": [
-        "coworker solidarity",
-        "moderators"
+        "moderators",
+        "coronavirus"
     ],
     "author": [
         "wynniechan"
     ],
     "latlngs": [
         [
-            30.2691649,
-            -97.7455041
+            33.6381162,
+            -117.8225518
         ]
     ],
     "addresses": [
-        "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
+        "Mountain View, Turtle Rock, Irvine, Orange County, California, 92603-3322, United States"
     ]
 }

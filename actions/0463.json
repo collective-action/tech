@@ -1,35 +1,45 @@
 {
-    "id": 521,
-    "date": "2021/12/02",
+    "id": 503,
+    "date": "2021/11/29",
     "sources": [
-        "https://blog.actblue.com/2020/12/02/welcome-actblue-union/"
+        "https://www.forbes.com/sites/angelauyeung/2021/11/29/former-google-engineers-sue-company-alleging-slander-and-breach-of-contract/?sh=2157de0e67e6"
     ],
     "actions": [
-        "union representation"
+        "legal action"
     ],
     "struggles": [
-        "working conditions",
-        "ethics"
+        "unfair labor practices",
+        "ethics",
+        "job security"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "white collar workers"
     ],
-    "description": "ActBlue has voluntarily recognized the Campaign Workers Guild as union representatives for ActBlue\u2019s workers, and there are plans to create a collective bargaining agreement.",
-    "online": true,
+    "description": "Three former Google workers are filing a lawsuit against Google for slander, breach of contract, and termination in violation of public policy. While at Google, the former employees had publicly protested Google\u2019s intent to enter a contract with the CBP and ICE. Some Google workers believe the firing was to discourage organizing. Google responded that the firings are due to violations of their data security policies. ",
+    "online": null,
     "locations": [
-        "usa"
+        "santa clara-california-usa"
     ],
     "companies": [
-        "actblue"
+        "google"
     ],
-    "workers": 80,
+    "workers": 3,
     "tags": [
-        "fund_raising"
+        "retaliation",
+        "military_contracts",
+        "ice",
+        "politics"
     ],
     "author": [
         "wynniechan"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.419000999999994,
+            -122.08237596053958
+        ]
+    ],
+    "addresses": [
+        "Google, Mountain View, Santa Clara County, California, United States"
+    ]
 }
