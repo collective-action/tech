@@ -1,43 +1,43 @@
 {
-    "id": 519,
-    "date": "2022/01/05",
+    "id": 518,
+    "date": "2022/01/04",
     "sources": [
-        "https://www.buzzfeednews.com/article/sarahemerson/facebook-moderators-who-were-ordered-back-to-the-office-can"
+        "https://www.bloomberg.com/news/articles/2022-01-04/google-fiber-staff-seek-union-vote-contract-talks-with-alphabet"
     ],
     "actions": [
-        "protest"
+        "union representation"
     ],
     "struggles": [
-        "pay and benefits",
         "working conditions"
     ],
     "employment_types": [
-        "contract workers"
+        "contract workers",
+        "blue collar workers"
     ],
-    "description": "Facebook moderators protested their subcontractor Accenture\u2019s return-to-office mandate, while workers at Meta were allowed to work from home. Some also threatened to resign. The protests caused Accenture to reverse the decision. Workers also raised concerns over COVID-related working conditions, benefits, and support.",
+    "description": "Subcontracted Google Fiber workers of AWU have filed a request to the NLRB for unionization, and it seeks to negotiate with both their vendor and Alphabet. They contend that Alphabet is a \u201cjoint employer.\u201d They want to have a greater voice in shaping their working conditions.",
     "online": null,
     "locations": [
-        "mountain view-california-usa"
+        "kansas city-missouri-usa"
     ],
     "companies": [
-        "accenture",
-        "meta"
+        "alphabet",
+        "bds solutions group"
     ],
     "workers": null,
     "tags": [
-        "moderators",
-        "coronavirus"
+        "technicians",
+        "politics"
     ],
     "author": [
         "wynniechan"
     ],
     "latlngs": [
         [
-            33.6381162,
-            -117.8225518
+            39.0678907,
+            -94.56529439152422
         ]
     ],
     "addresses": [
-        "Mountain View, Turtle Rock, Irvine, Orange County, California, 92603-3322, United States"
+        "Alphabet Academy Child Care, 3200, Wayne Avenue, Ivanhoe, Kansas City, Jackson County, Missouri, 64109, United States"
     ]
 }

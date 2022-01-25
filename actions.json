@@ -17820,6 +17820,55 @@
         ]
     },
     {
+        "id": 525,
+        "date": "2021/08/05",
+        "sources": [
+            "https://www.protocol.com/bulletins/mapbox-workers-lose-union-vote",
+            "https://www.reuters.com/technology/silicon-valley-workers-vote-down-union-softbank-backed-mapbox-2021-08-05/",
+            "https://www.mapboxworkersunion.org/faq",
+            "https://technical.ly/2021/10/04/mapbox-union-challenge/"
+        ],
+        "actions": [
+            "union drive",
+            "union representation"
+        ],
+        "struggles": [
+            "working conditions",
+            "job security",
+            "pay and benefits",
+            "unfair labor practices"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "Workers at Mapbox had formed a union with CWA; however, they failed to achieve recognition from the NLRB when workers voted against unionization 123 to 81. The Mapbox Union will continue to represent workers to management. Since then, union members have claimed they experienced retaliation from the company, with some being fired, intimidated, or threatened. As a result, the union plans to file an unfair labor practice charge. ",
+        "online": null,
+        "locations": [
+            "usa"
+        ],
+        "companies": [
+            "mapbox"
+        ],
+        "workers": null,
+        "tags": [
+            "cwa",
+            "retaliation"
+        ],
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": [
+            [
+                38.8999418,
+                -77.033996
+            ]
+        ],
+        "addresses": [
+            "Mapbox, 740, 15th Street Northwest, Washington, District of Columbia, 20005, United States"
+        ]
+    },
+    {
         "id": 524,
         "date": "2021/08/08",
         "sources": [
@@ -18892,15 +18941,8 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": [
-            [
-                34.0976547,
-                -118.3164863
-            ]
-        ],
-        "addresses": [
-            "Netflix at Sunset Bronson Studios, West Sunset Boulevard, Hollywood, Los Angeles, Los Angeles County, California, 90028-5420, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 484,

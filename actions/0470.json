@@ -1,40 +1,37 @@
 {
-    "id": 513,
-    "date": "2021/12/22",
+    "id": 512,
+    "date": "2021/12/20",
     "sources": [
-        "https://www.theverge.com/2021/12/22/22850880/amazon-workers-staten-island-refile-union-petition",
-        "https://www.cnbc.com/2021/12/22/amazon-warehouse-workers-on-staten-island-refile-union-petition.html"
+        "https://www.startbase.com/news/sumup-mitarbeiter-wollen-betriebsrat-gruenden/",
+        "https://twitter.com/TechWorkersBER/status/1473233396964941825?t=u0VJtCkoJsvvgGc_EpdqUA&s=19"
     ],
     "actions": [
+        "legal action",
+        "union representation",
         "union drive"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "job security"
     ],
     "employment_types": [
-        "blue collar workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Staten Island Amazon workers of the Amazon Labor Union refiled a union petition to the NLRB and are focusing on unionizing the JFK8 warehouse.",
-    "online": null,
+    "description": "In response to Sumup laying off 150 employees, employees have called for a works council election, with one employee also sending a mass email. The CEO, Michael Schrezenmaier, has affirmed these plans, since it is legal by German law. Moreover, the Berlin Tech Workers Coalition and ver.di Tech Berlin/Brandenburg are supporting this group.",
+    "online": true,
     "locations": [
-        "staten island-new york city-new york-usa"
+        "germany"
     ],
     "companies": [
-        "amazon"
+        "sumup"
     ],
     "workers": null,
-    "tags": null,
+    "tags": [
+        "coworker_solidarity"
+    ],
     "author": [
         "wynniechan"
     ],
-    "latlngs": [
-        [
-            40.6193387,
-            -74.0727749
-        ]
-    ],
-    "addresses": [
-        "Amazon Court, Clifton, Staten Island, Richmond County, New York, 10304, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

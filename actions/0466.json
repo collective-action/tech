@@ -1,39 +1,36 @@
 {
-    "id": 506,
-    "date": "2021/12/14",
+    "id": 520,
+    "date": "2021/12/13",
     "sources": [
-        "https://www.yahoo.com/now/citizen-app-workers-vote-unionize-210325963.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAABzGqlx9rV0WtzFdwvQMW1lNxIYsj3jG1yvHG2HUVLY03t6R10vLFBw2yIUv3_8VycSDnEiGa3yuUfuM0fWY4_SxRFBMO3KkMmN9zPdpf3LextbBH16mIiRJDc9KmWcAukkBRrxKl4FzET7sMHovLg6AL02_DJmSHLJi-dDZ2rNA"
+        "https://techcrunch.com/2021/12/14/big-cartel-staff-are-voluntarily-recognized-as-the-latest-tech-workers-union/"
     ],
     "actions": [
+        "union drive",
         "union representation"
     ],
     "struggles": [
-        "job security"
+        "working conditions",
+        "pay and benefits"
     ],
     "employment_types": [
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "A Citizen App workers\u2019 bargaining unit voted 51-22 in favor of unionizing with the help of the Communications Workers of America. This effort was partially driven by fears of outsourcing after the company outsourced some job tasks to contract workers overseas.",
+    "description": "The co-founders of Big Cartel voluntarily recognized the Big Cartel Workers Union, which are represented by the OPEIU. The workers unionized in order to have a larger voice in the decision-making process, and to ensure fair pay and benefits for everyone. This union is also the first tech union in a \u201cright-to-work\u201d state.",
     "online": null,
     "locations": [
-        "usa"
+        "salt lake city-utah-usa"
     ],
     "companies": [
-        "citizen"
+        "big cartel"
     ],
-    "workers": 73,
-    "tags": null,
+    "workers": 30,
+    "tags": [
+        "opeiu"
+    ],
     "author": [
         "wynniechan"
     ],
-    "latlngs": [
-        [
-            40.917056,
-            -72.7107602
-        ]
-    ],
-    "addresses": [
-        "Citizen, 1770, West Main Street, Town of Riverhead, Suffolk County, New York, 11901, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

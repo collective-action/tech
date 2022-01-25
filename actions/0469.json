@@ -1,37 +1,39 @@
 {
-    "id": 512,
-    "date": "2021/12/20",
+    "id": 516,
+    "date": "2021/12/18",
     "sources": [
-        "https://www.startbase.com/news/sumup-mitarbeiter-wollen-betriebsrat-gruenden/",
-        "https://twitter.com/TechWorkersBER/status/1473233396964941825?t=u0VJtCkoJsvvgGc_EpdqUA&s=19"
+        "https://taipeitimes.com/News/front/archives/2021/12/27/2003770256?s=09"
     ],
     "actions": [
-        "legal action",
-        "union representation",
-        "union drive"
+        "protest"
     ],
     "struggles": [
-        "job security"
+        "working conditions"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "blue collar workers",
+        "contract workers"
     ],
-    "description": "In response to Sumup laying off 150 employees, employees have called for a works council election, with one employee also sending a mass email. The CEO, Michael Schrezenmaier, has affirmed these plans, since it is legal by German law. Moreover, the Berlin Tech Workers Coalition and ver.di Tech Berlin/Brandenburg are supporting this group.",
-    "online": true,
+    "description": "Temporary workers at Foxconn Technology Group (Hon Hai), a major electronics company that manufactures Apple products, protested over their working and living conditions. The workers were mostly women. In response, the company has agreed to their demands.\nchennai-tamil nadu-india",
+    "online": null,
     "locations": [
-        "germany"
+        "chennai-india"
     ],
     "companies": [
-        "sumup"
+        "foxconn"
     ],
     "workers": null,
-    "tags": [
-        "coworker_solidarity"
-    ],
+    "tags": null,
     "author": [
         "wynniechan"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            12.92266025,
+            79.88984389117235
+        ]
+    ],
+    "addresses": [
+        "Foxconn, Sunguvarchatram, Sriperumbudur, Kanchipuram District, Tamil Nadu, India"
+    ]
 }

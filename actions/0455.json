@@ -1,57 +1,36 @@
 {
-    "id": 491,
-    "date": "2021/10/29",
+    "id": 488,
+    "date": "2021/10/27",
     "sources": [
-        "https://www.nytimes.com/2021/11/05/technology/google-workers.html",
-        "https://www.protocol.com/bulletins/google-modis-hazard-pay",
-        "https://twitter.com/AlphabetWorkers/status/1456639911444942856?t=uNa2SAn2hlXtBcaLKIVj2g&s=19"
+        "https://googlewalkout.medium.com/an-open-letter-supporting-trans-netflix-employees-c291defbc772"
     ],
     "actions": [
-        "protest"
+        "open letter"
     ],
     "struggles": [
-        "pay and benefits"
+        "ethics",
+        "discrimination"
     ],
     "employment_types": [
-        "contract workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Data center temps who work for Modis, a Google subcontractor, were promised $200 weekly incentive bonuses because of the pandemic. After Modis stopped this program and announced that workers would not receive back pay, the Alphabet Workers Union-CWA workers began organization efforts. Workers filed \u201ctickets\u201d to Modis' management, sent more than 100 messages, and arranged a videoconference. There were also discussions of a work stoppage. Before the scheduled videoconference, however, Modis backtracked their decision in an email. Modis agreed to continue paying the hazard pay until December 19. ",
+    "description": "To express solidarity with the Trans Netflix employee resource group, members of Google Walkout for Real Change affirmed their demands in an open letter, and they also called on all employees of big technology and media companies to hold their employers accountable.",
     "online": true,
     "locations": [
-        "usa"
+        "worldwide"
     ],
     "companies": [
         "google",
-        "modis",
-        "adecco"
+        "netflix"
     ],
-    "workers": 130,
+    "workers": 319,
     "tags": [
-        "cwa",
-        "coronavirus",
-        "technicians",
-        "online action"
+        "industry solidarity"
     ],
     "author": [
         "wynniechan"
     ],
-    "latlngs": [
-        [
-            33.977092,
-            -118.4092133
-        ],
-        [
-            39.4816128,
-            -106.046296
-        ],
-        [
-            47.49030525,
-            -122.27396915604896
-        ]
-    ],
-    "addresses": [
-        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
-        "Modis, 113, South Main Street, Breckenridge, Summit County, Colorado, 80424, United States",
-        "Adecco, 12720, Gateway Drive South, Tukwila Commerce Park, Foster, Tukwila, King County, Washington, 98168, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

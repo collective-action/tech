@@ -1,45 +1,44 @@
 {
-    "id": 523,
-    "date": "2022/01/11",
+    "id": 522,
+    "date": "2022/01/06",
     "sources": [
-        "https://www.businessinsider.com/amazon-employee-ranking-system-drone-engineer-lawmakers-bill-washington-2022-1",
-        "https://actionnetwork.org/petitions/demand-transparency-for-washingtons-workers-pass-sb-5130?source=direct_link"
+        "https://www.theverge.com/2022/1/11/22878120/facebook-meta-whatsapp-moderators-accenture-missing-paycheck"
     ],
     "actions": [
         "protest",
-        "open letter",
-        "legal action"
+        "open letter"
     ],
     "struggles": [
-        "working conditions"
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "contract workers"
     ],
-    "description": "A former Amazon engineer created an online petition to urge Washington lawmakers to pass the SB 5130 bill. This bill would mandate employers to provide workers with access to their personnel files and internal rankings for increased transparency. While the bill is stalled, several tech workers will testify on it in the next legislative session.",
-    "online": true,
+    "description": "Facebook and Whatsapp moderators didn\u2019t receive paychecks after a change in payroll providers. In response, they posted an open letter and threatened a work stoppage until they receive their paychecks. There has been no indication of a work stoppage, according to Accenture. Some workers have received lump-sum payments that partially cover their pay. However, not everyone has received the payments.",
+    "online": null,
     "locations": [
-        "washington_dc-usa"
+        "austin-texas-usa"
     ],
     "companies": [
-        "amazon"
+        "accenture",
+        "facebook",
+        "whatsapp"
     ],
-    "workers": 201,
+    "workers": null,
     "tags": [
-        "online action",
-        "politics"
+        "coworker solidarity",
+        "moderators"
     ],
     "author": [
         "wynniechan"
     ],
     "latlngs": [
         [
-            38.9132465,
-            -77.0317256
+            30.2691649,
+            -97.7455041
         ]
     ],
     "addresses": [
-        "Amazon Fresh, 1733, 14th Street Northwest, Logan Circle/Shaw, Washington, District of Columbia, 20009, United States"
+        "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
     ]
 }
