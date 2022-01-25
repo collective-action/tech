@@ -20,11 +20,11 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">25/01/2022 03:30PM</td>
+    <td data-summary="timestamp">25/01/2022 04:27PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">480</td>
+    <td data-summary="action-count">481</td>
   </tr>
  </table>
 </div>
@@ -41,6 +41,21 @@ The goal of this archive is to provide data and insights on organizing in the te
    </td>
    <td>
     link
+   </td>
+  </tr>
+  <tr author="wynniechan">
+   <td>
+    2022-01-21
+   </td>
+   <td>
+    Thirty-four members of Activision Blizzard Studios have formed a union supported by the CWA. The members have requested for Activision Blizzard to voluntarily recognize it. Activision Blizzard responded that they are “carefully considering” it. Unionization efforts have started in response to poor workplace conditions and issues of sexual harassment.
+   </td>
+   <td>
+    <a href="/actions/0480.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
    </td>
   </tr>
   <tr author="wynniechan">
