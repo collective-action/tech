@@ -257,12 +257,12 @@
         ],
         "latlngs": [
             [
-                40.52484925,
-                -105.07159884920989
+                36.5793042,
+                -87.4088336
             ]
         ],
         "addresses": [
-            "AT&T, 4515, John F Kennedy Parkway, Fairway Estates, Fort Collins, Larimer County, Colorado, 80525-5962, United States"
+            "AT&T, 1661F, Fort Campbell Boulevard, Clarksville, Montgomery County, Tennessee, 37042, United States"
         ]
     },
     {
@@ -607,12 +607,12 @@
         ],
         "latlngs": [
             [
-                47.6224574,
-                -122.33650433873851
+                47.6226943,
+                -122.33938923913493
             ]
         ],
         "addresses": [
-            "Amazon, Belltown, Seattle, King County, Washington, 98109-5210, United States"
+            "Amazon, Belltown, Seattle, King County, Washington, United States"
         ]
     },
     {
@@ -742,7 +742,7 @@
         ],
         "addresses": [
             "Colliers International; E-Trade Financial; IBM, 4660, La Jolla Village Drive, University City, San Diego, San Diego County, California, 92039, United States",
-            "HP, Peter Coutts Circle, Peter Coutts Hill, Stanford, Sunnyvale, Santa Clara County, California, 94304-1050, United States",
+            "HP, Page Mill Road, Palo Alto, Santa Clara County, California, 94304, United States",
             "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, California, 94043, United States"
         ]
     },
@@ -1337,12 +1337,12 @@
         ],
         "latlngs": [
             [
-                37.7756962,
-                -122.4180838
+                37.7899898,
+                -122.3999799
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, SOMA Pilipinas, San Francisco, California, 94103, United States"
+            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States"
         ]
     },
     {
@@ -1599,8 +1599,8 @@
                 7.59464606445661
             ],
             [
-                47.6224574,
-                -122.33650433873851
+                47.6226943,
+                -122.33938923913493
             ]
         ],
         "addresses": [
@@ -1608,7 +1608,7 @@
             "Abholstation, 26, Sachsenallee, Borna, Landkreis Leipzig, Sachsen, 04552, Deutschland",
             "Amazon-Logistikzentrum, Graben, Landkreis Augsburg, Bayern, 86836, Deutschland",
             "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
-            "Amazon, Belltown, Seattle, King County, Washington, 98109-5210, United States"
+            "Amazon, Belltown, Seattle, King County, Washington, United States"
         ]
     },
     {
@@ -1681,7 +1681,7 @@
             ]
         ],
         "addresses": [
-            "\u8054\u60f3 (\u62db\u547c\u7ad9), \u6843\u82b1\u8def, \u798f\u4fdd\u793e\u533a, \u798f\u7530\u4fdd\u7a0e\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518000, \u4e2d\u56fd"
+            "\u8054\u60f3 (\u62db\u547c\u7ad9), \u6843\u82b1\u8def, \u798f\u7530\u4fdd\u7a0e\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518000, \u4e2d\u56fd"
         ]
     },
     {
@@ -2254,17 +2254,17 @@
         ],
         "latlngs": [
             [
-                37.40114225,
-                -121.92943989999999
+                37.400493100000006,
+                -121.92919743884462
             ],
             [
-                37.3504112,
-                -121.9016582
+                37.3496794,
+                -121.9009359
             ]
         ],
         "addresses": [
-            "Broadcom (280/#2), 280, Innovation Drive, San Jose, Santa Clara County, California, 95031, United States",
-            "Universal Protection Service, North 1st Street, Civic Center, Japantown, San Jose, Santa Clara County, California, 95112, United States"
+            "Broadcom (270/#3), Montague Expressway, San Jose, Santa Clara County, California, 95031, United States",
+            "Universal Protection Service, North 1st Street, Civic Center, Japantown, San Jose, Santa Clara County, California, 95110, United States"
         ]
     },
     {
@@ -2300,15 +2300,8 @@
         "author": [
             "CM"
         ],
-        "latlngs": [
-            [
-                45.54352555,
-                -122.9618170926439
-            ]
-        ],
-        "addresses": [
-            "Intel Jones Farm Campus, Hillsboro, Washington County, Oregon, 97124-5961, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 49,
@@ -2457,12 +2450,12 @@
         ],
         "latlngs": [
             [
-                37.7756962,
-                -122.4180838
+                37.7899898,
+                -122.3999799
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, SOMA Pilipinas, San Francisco, California, 94103, United States"
+            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States"
         ]
     },
     {
@@ -2623,8 +2616,8 @@
         ],
         "latlngs": [
             [
-                37.7756962,
-                -122.4180838
+                37.7899898,
+                -122.3999799
             ],
             [
                 42.5032848,
@@ -2632,7 +2625,7 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, SOMA Pilipinas, San Francisco, California, 94103, United States",
+            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States",
             "Lyft Uber Pickup Location, Midstate Trail, Westminster, Worcester County, Massachusetts, 01541, United States"
         ]
     },
@@ -2821,12 +2814,12 @@
         ],
         "latlngs": [
             [
-                39.2813025,
-                -76.5905444
+                37.7756962,
+                -122.4180838
             ]
         ],
         "addresses": [
-            "Uber, 918, Fell Street, Fell's Point, Baltimore, Maryland, 21231, United States"
+            "Uber, 1455, Market Street, SOMA Pilipinas, San Francisco, California, 94103, United States"
         ]
     },
     {
@@ -2989,8 +2982,8 @@
         ],
         "latlngs": [
             [
-                37.4816514,
-                -122.1515164
+                37.4814691,
+                -122.158646
             ],
             [
                 37.4123687,
@@ -3168,13 +3161,13 @@
                 -117.83605415
             ],
             [
-                36.1154959,
-                -115.1036521
+                39.5055546,
+                -119.783363
             ]
         ],
         "addresses": [
             "AT&T, 1302, North Tustin Street, Orange, Orange County, California, 92867, United States",
-            "AT&T, East Flamingo Road, Paradise, Clark County, Nevada, 89121, United States"
+            "AT&T, East Plumb Lane, Reno, Washoe County, Nevada, 89502, United States"
         ]
     },
     {
@@ -3295,13 +3288,13 @@
                 7.59464606445661
             ],
             [
-                45.4719294,
-                8.575395801365145
+                45.491035,
+                9.545438948553128
             ]
         ],
         "addresses": [
             "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
-            "Amazon, Agognate, Novara, Piemonte, Italia"
+            "Amazon, Casirate d'Adda, Bergamo, Lombardia, Italia"
         ]
     },
     {
@@ -3340,7 +3333,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, 72, Spring Street, Manhattan Community Board 2, Manhattan, New York, 10013, United States"
+            "Amazon, 72, Spring Street, SoHo, Manhattan Community Board 2, Manhattan, New York, 10013, United States"
         ]
     },
     {
@@ -4696,12 +4689,12 @@
                 4.850183355658723
             ],
             [
-                45.4719294,
-                8.575395801365145
+                45.491035,
+                9.545438948553128
             ],
             [
-                41.43071325,
-                2.202495903015774
+                41.4015005,
+                2.1921906095749035
             ],
             [
                 52.3124769,
@@ -4711,8 +4704,8 @@
         "addresses": [
             "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
             "Amazon.fr Logistique Distrip\u00f4le Chalon, Sevrey, Chalon-sur-Sa\u00f4ne, Sa\u00f4ne-et-Loire, Bourgogne-Franche-Comt\u00e9, France m\u00e9tropolitaine, 71100, France",
-            "Amazon, Agognate, Novara, Piemonte, Italia",
-            "Amazon, Carrer de Santander, el Bon Pastor, Sant Andreu, Barcelona, Barcelon\u00e8s, Barcelona, Catalunya, 08001, Espa\u00f1a",
+            "Amazon, Casirate d'Adda, Bergamo, Lombardia, Italia",
+            "Amazon, Carrer de Badajoz, el Parc i la Llacuna del Poblenou, Sant Mart\u00ed, Barcelona, Barcelon\u00e8s, Barcelona, Catalunya, 08001, Espa\u00f1a",
             "Amazon, Beoley CP, Holt End, Bromsgrove, Worcestershire, West Midlands, England, United Kingdom"
         ]
     },
@@ -4873,12 +4866,12 @@
         ],
         "latlngs": [
             [
-                37.7756962,
-                -122.4180838
+                37.7899898,
+                -122.3999799
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, SOMA Pilipinas, San Francisco, California, 94103, United States"
+            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States"
         ]
     },
     {
@@ -5245,12 +5238,12 @@
         ],
         "latlngs": [
             [
-                47.6224574,
-                -122.33650433873851
+                47.6226943,
+                -122.33938923913493
             ]
         ],
         "addresses": [
-            "Amazon, Belltown, Seattle, King County, Washington, 98109-5210, United States"
+            "Amazon, Belltown, Seattle, King County, Washington, United States"
         ]
     },
     {
@@ -5815,7 +5808,7 @@
             ]
         ],
         "addresses": [
-            "Alibaba, \u660c\u5409\u8def, \u5b89\u4ead\u9547, \u5609\u5b9a\u533a, \u4e0a\u6d77\u5e02, 215332, \u4e2d\u56fd"
+            "Alibaba, \u660c\u5409\u8def, \u5b89\u4ead\u9547, \u5609\u5b9a\u533a, \u4e0a\u6d77\u5e02, 201805, \u4e2d\u56fd"
         ]
     },
     {
@@ -5857,7 +5850,7 @@
             ]
         ],
         "addresses": [
-            "Google, 111, 8th Avenue, West Village, Chelsea, Manhattan, New York, 10011, United States"
+            "Google, 111, 8th Avenue, Chelsea, Manhattan, New York, 10011, United States"
         ]
     },
     {
@@ -6193,12 +6186,12 @@
         ],
         "latlngs": [
             [
-                47.6224574,
-                -122.33650433873851
+                47.6226943,
+                -122.33938923913493
             ]
         ],
         "addresses": [
-            "Amazon, Belltown, Seattle, King County, Washington, 98109-5210, United States"
+            "Amazon, Belltown, Seattle, King County, Washington, United States"
         ]
     },
     {
@@ -6465,12 +6458,12 @@
         ],
         "latlngs": [
             [
-                37.406317,
-                -122.02122171852054
+                37.40568415,
+                -122.02074412940476
             ]
         ],
         "addresses": [
-            "Google MP7, Borregas Avenue, Sunnyvale, Santa Clara County, California, 94085-3010, United States"
+            "Google MP2, Borregas Avenue, Sunnyvale, Santa Clara County, California, 94085-3010, United States"
         ]
     },
     {
@@ -6551,12 +6544,12 @@
         ],
         "latlngs": [
             [
-                37.7933154,
-                -122.3945205
+                37.7924005,
+                -122.39175109524751
             ]
         ],
         "addresses": [
-            "Google One Market, 1, Market Street, Financial District, San Francisco, California, 94111, United States"
+            "Google Community Space, 188, The Embarcadero, Port of San Francisco, San Francisco, California, 94105, United States"
         ]
     },
     {
@@ -6637,12 +6630,12 @@
         ],
         "latlngs": [
             [
-                37.7933154,
-                -122.3945205
+                37.7924005,
+                -122.39175109524751
             ]
         ],
         "addresses": [
-            "Google One Market, 1, Market Street, Financial District, San Francisco, California, 94111, United States"
+            "Google Community Space, 188, The Embarcadero, Port of San Francisco, San Francisco, California, 94105, United States"
         ]
     },
     {
@@ -6719,7 +6712,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, 72, Spring Street, Manhattan Community Board 2, Manhattan, New York, 10013, United States"
+            "Amazon, 72, Spring Street, SoHo, Manhattan Community Board 2, Manhattan, New York, 10013, United States"
         ]
     },
     {
@@ -6885,12 +6878,12 @@
         ],
         "latlngs": [
             [
-                41.84040105,
-                -87.68351928672685
+                41.90311505,
+                -87.73727936317198
             ]
         ],
         "addresses": [
-            "Amazon Distribution, 2801, South Western Avenue, Lower West Side, Chicago, Cook County, Illinois, 60608, United States"
+            "Amazon, 1260, North Kostner Avenue, Beat 2523, Humboldt Park, Chicago, Cook County, Illinois, 60651, United States"
         ]
     },
     {
@@ -7008,8 +7001,8 @@
         ],
         "latlngs": [
             [
-                37.4816514,
-                -122.1515164
+                37.4814691,
+                -122.158646
             ]
         ],
         "addresses": [
@@ -7049,8 +7042,8 @@
         ],
         "latlngs": [
             [
-                37.7756962,
-                -122.4180838
+                37.7899898,
+                -122.3999799
             ],
             [
                 37.7759881,
@@ -7058,7 +7051,7 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, SOMA Pilipinas, San Francisco, California, 94103, United States",
+            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States",
             "Lyft, 185, Berry Street, South Beach, San Francisco, California, 94107, United States"
         ]
     },
@@ -7096,8 +7089,8 @@
         ],
         "latlngs": [
             [
-                37.7756962,
-                -122.4180838
+                37.7899898,
+                -122.3999799
             ],
             [
                 37.7759881,
@@ -7105,7 +7098,7 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, SOMA Pilipinas, San Francisco, California, 94103, United States",
+            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States",
             "Lyft, 185, Berry Street, South Beach, San Francisco, California, 94107, United States"
         ]
     },
@@ -7365,13 +7358,13 @@
                 -112.1072224
             ],
             [
-                40.75785875,
-                -111.87199162170198
+                44.0503848,
+                -123.0877742
             ]
         ],
         "addresses": [
             "Amazon, Jefferson County, Montana, United States",
-            "Whole Foods Market, 500 South, Central City, Salt Lake City, Salt Lake County, Utah, 84102, United States"
+            "Whole Foods, East Broadway, Eugene, Lane County, Oregon, 97401, United States"
         ]
     },
     {
@@ -7576,8 +7569,8 @@
         ],
         "latlngs": [
             [
-                37.7756962,
-                -122.4180838
+                37.7899898,
+                -122.3999799
             ],
             [
                 37.7759881,
@@ -7585,7 +7578,7 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, SOMA Pilipinas, San Francisco, California, 94103, United States",
+            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States",
             "Lyft, 185, Berry Street, South Beach, San Francisco, California, 94107, United States"
         ]
     },
@@ -7788,12 +7781,12 @@
         ],
         "latlngs": [
             [
-                47.6224574,
-                -122.33650433873851
+                47.6226943,
+                -122.33938923913493
             ]
         ],
         "addresses": [
-            "Amazon, Belltown, Seattle, King County, Washington, 98109-5210, United States"
+            "Amazon, Belltown, Seattle, King County, Washington, United States"
         ]
     },
     {
@@ -8050,12 +8043,12 @@
         ],
         "latlngs": [
             [
-                47.6729217,
-                -122.3541709
+                47.7193863,
+                -122.3557875
             ]
         ],
         "addresses": [
-            "Chef Liao, 6012, Phinney Avenue North, Phinney Ridge, Seattle, King County, Washington, 98103, United States"
+            "Chef at Wok, 12427, Greenwood Avenue North, Broadview, Seattle, King County, Washington, 98133, United States"
         ]
     },
     {
@@ -8095,7 +8088,7 @@
             ]
         ],
         "addresses": [
-            "Baltimore, Maryland, 21203, United States"
+            "Baltimore, Maryland, United States"
         ]
     },
     {
@@ -8419,7 +8412,7 @@
             ]
         ],
         "addresses": [
-            "Carnegie Mellon University, Boundary Street, Panther Hollow, Central Oakland, Pittsburgh, Allegheny County, Pennsylvania, 15213, United States"
+            "Carnegie Mellon University, Morewood Place, Squirrel Hill North, Pittsburgh, Allegheny County, Pennsylvania, 15213, United States"
         ]
     },
     {
@@ -8690,12 +8683,12 @@
         ],
         "latlngs": [
             [
-                47.6490619,
-                -122.3479148
+                47.6496028,
+                -122.3481207
             ]
         ],
         "addresses": [
-            "Tableau Software, 837, North 34th Street, Fremont, Seattle, King County, Washington, 98103, United States"
+            "Tableau Software, 744, North 34th Street, Fremont, Seattle, King County, Washington, 98103, United States"
         ]
     },
     {
@@ -8841,8 +8834,8 @@
         ],
         "latlngs": [
             [
-                37.7756962,
-                -122.4180838
+                37.7899898,
+                -122.3999799
             ],
             [
                 37.7759881,
@@ -8850,7 +8843,7 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, SOMA Pilipinas, San Francisco, California, 94103, United States",
+            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States",
             "Lyft, 185, Berry Street, South Beach, San Francisco, California, 94107, United States"
         ]
     },
@@ -8923,12 +8916,12 @@
         ],
         "latlngs": [
             [
-                37.8721058,
-                -122.2675326
+                39.758527,
+                -105.0074445
             ]
         ],
         "addresses": [
-            "WeWork, 2120, University Avenue, Downtown Berkeley, Berkeley, Alameda County, California, 94704, United States"
+            "WeWork, 2420, 17th Street, Highland, Denver, Colorado, 80202, United States"
         ]
     },
     {
@@ -8968,16 +8961,16 @@
         ],
         "latlngs": [
             [
-                37.7933154,
-                -122.3945205
+                37.7924005,
+                -122.39175109524751
             ],
             [
                 37.778011,
                 -122.4121644
             ],
             [
-                37.4816514,
-                -122.1515164
+                37.4814691,
+                -122.158646
             ],
             [
                 40.7321996,
@@ -8989,7 +8982,7 @@
             ]
         ],
         "addresses": [
-            "Google One Market, 1, Market Street, Financial District, San Francisco, California, 94111, United States",
+            "Google Community Space, 188, The Embarcadero, Port of San Francisco, San Francisco, California, 94105, United States",
             "WeWork, Mission Street, SOMA Pilipinas, San Francisco, California, 94103, United States",
             "Facebook Way, Meta West Campus, Belle Haven, Menlo Park, San Mateo County, California, 94025-1246, United States",
             "Kickstarter HQ, West Street, Brooklyn, New York, 11222, United States",
@@ -9075,12 +9068,12 @@
         ],
         "latlngs": [
             [
-                37.7933154,
-                -122.3945205
+                37.7924005,
+                -122.39175109524751
             ]
         ],
         "addresses": [
-            "Google One Market, 1, Market Street, Financial District, San Francisco, California, 94111, United States"
+            "Google Community Space, 188, The Embarcadero, Port of San Francisco, San Francisco, California, 94105, United States"
         ]
     },
     {
@@ -9126,8 +9119,8 @@
                 -122.08237596053958
             ],
             [
-                37.7933154,
-                -122.3945205
+                37.7924005,
+                -122.39175109524751
             ],
             [
                 37.7249773,
@@ -9137,7 +9130,7 @@
         "addresses": [
             "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
             "Google, Mountain View, Santa Clara County, California, United States",
-            "Google One Market, 1, Market Street, Financial District, San Francisco, California, 94111, United States",
+            "Google Community Space, 188, The Embarcadero, Port of San Francisco, San Francisco, California, 94105, United States",
             "LT Group - Compass Real Estate, Ocean Avenue, Ingleside, San Francisco, California, 94112, United States"
         ]
     },
@@ -9174,12 +9167,12 @@
         ],
         "latlngs": [
             [
-                37.7933154,
-                -122.3945205
+                37.7924005,
+                -122.39175109524751
             ]
         ],
         "addresses": [
-            "Google One Market, 1, Market Street, Financial District, San Francisco, California, 94111, United States"
+            "Google Community Space, 188, The Embarcadero, Port of San Francisco, San Francisco, California, 94105, United States"
         ]
     },
     {
@@ -9505,12 +9498,12 @@
         ],
         "latlngs": [
             [
-                41.84040105,
-                -87.68351928672685
+                41.90311505,
+                -87.73727936317198
             ]
         ],
         "addresses": [
-            "Amazon Distribution, 2801, South Western Avenue, Lower West Side, Chicago, Cook County, Illinois, 60608, United States"
+            "Amazon, 1260, North Kostner Avenue, Beat 2523, Humboldt Park, Chicago, Cook County, Illinois, 60651, United States"
         ]
     },
     {
@@ -9749,7 +9742,7 @@
             ]
         ],
         "addresses": [
-            "\u9999\u6e2f\u5cf6 Hong Kong Island, \u9999\u6e2f Hong Kong, 000000, \u4e2d\u56fd"
+            "\u9999\u6e2f\u5cf6 Hong Kong Island, \u9999\u6e2f Hong Kong, \u4e2d\u56fd"
         ]
     },
     {
@@ -9928,17 +9921,17 @@
         ],
         "latlngs": [
             [
-                37.7756962,
-                -122.4180838
+                37.7899898,
+                -122.3999799
             ],
             [
-                37.7509149,
-                -122.40246883416269
+                37.7759881,
+                -122.3919991
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, SOMA Pilipinas, San Francisco, California, 94103, United States",
-            "Lyft, Kansas Street, Potrero Terrace, San Francisco, California, 94124, United States"
+            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States",
+            "Lyft, 185, Berry Street, South Beach, San Francisco, California, 94107, United States"
         ]
     },
     {
@@ -10051,7 +10044,7 @@
             ]
         ],
         "addresses": [
-            "Oracle, Pinal County, Arizona, 85623, United States"
+            "Oracle, Pinal County, Arizona, 82623, United States"
         ]
     },
     {
@@ -10137,7 +10130,7 @@
             ]
         ],
         "addresses": [
-            "Oracle, Pinal County, Arizona, 85623, United States"
+            "Oracle, Pinal County, Arizona, 82623, United States"
         ]
     },
     {
@@ -10179,8 +10172,8 @@
                 -73.9977307
             ],
             [
-                42.017435000000006,
-                -87.71964029792224
+                42.01744345,
+                -87.71965899910367
             ],
             [
                 38.6767343,
@@ -10188,7 +10181,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, 72, Spring Street, Manhattan Community Board 2, Manhattan, New York, 10013, United States",
+            "Amazon, 72, Spring Street, SoHo, Manhattan Community Board 2, Manhattan, New York, 10013, United States",
             "Amazon Fulfillment Center DIL7, 3639, West Howard Street, Skokie, Niles Township, Cook County, Illinois, 60076, United States",
             "Amazon Avenue, Sacramento, Sacramento County, California, 95835, United States"
         ]
@@ -10231,12 +10224,12 @@
         ],
         "latlngs": [
             [
-                37.7756962,
-                -122.4180838
+                37.7899898,
+                -122.3999799
             ],
             [
-                37.7509149,
-                -122.40246883416269
+                37.7759881,
+                -122.3919991
             ],
             [
                 37.7834546,
@@ -10244,8 +10237,8 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, SOMA Pilipinas, San Francisco, California, 94103, United States",
-            "Lyft, Kansas Street, Potrero Terrace, San Francisco, California, 94124, United States",
+            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States",
+            "Lyft, 185, Berry Street, South Beach, San Francisco, California, 94107, United States",
             "Doordash HQ, Market Street, SOMA Pilipinas, San Francisco, California, 94104, United States"
         ]
     },
@@ -10494,7 +10487,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, 72, Spring Street, Manhattan Community Board 2, Manhattan, New York, 10013, United States"
+            "Amazon, 72, Spring Street, SoHo, Manhattan Community Board 2, Manhattan, New York, 10013, United States"
         ]
     },
     {
@@ -10789,23 +10782,23 @@
                 -122.3919991
             ],
             [
-                37.7756962,
-                -122.4180838
+                37.7899898,
+                -122.3999799
             ],
             [
-                32.7717259,
-                -117.0725274
+                32.7768074,
+                -117.0684271
             ],
             [
-                32.7717259,
-                -117.0725274
+                32.7768074,
+                -117.0684271
             ]
         ],
         "addresses": [
             "Lyft, 185, Berry Street, South Beach, San Francisco, California, 94107, United States",
-            "Uber, 1455, Market Street, SOMA Pilipinas, San Francisco, California, 94103, United States",
-            "UBER / Lyft Driver Drop Off, Campanile Mall Dr, Montezuma Mesa, Del Cerro, San Diego, San Diego County, California, 92182, United States",
-            "UBER / Lyft Driver Drop Off, Campanile Mall Dr, Montezuma Mesa, Del Cerro, San Diego, San Diego County, California, 92182, United States"
+            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States",
+            "Uber / Lyft Driver Drop Off, Campanile Mall, Montezuma Mesa, San Diego, San Diego County, California, 92182, United States",
+            "Uber / Lyft Driver Drop Off, Campanile Mall, Montezuma Mesa, San Diego, San Diego County, California, 92182, United States"
         ]
     },
     {
@@ -11096,8 +11089,8 @@
         ],
         "latlngs": [
             [
-                41.84040105,
-                -87.68351928672685
+                41.90311505,
+                -87.73727936317198
             ],
             [
                 41.9251419,
@@ -11105,7 +11098,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Distribution, 2801, South Western Avenue, Lower West Side, Chicago, Cook County, Illinois, 60608, United States",
+            "Amazon, 1260, North Kostner Avenue, Beat 2523, Humboldt Park, Chicago, Cook County, Illinois, 60651, United States",
             "Whole Foods Market, 959, West Fullerton Avenue, Lincoln Park, Chicago, Lake View Township, Cook County, Illinois, 60614, United States"
         ]
     },
@@ -11235,7 +11228,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, 72, Spring Street, Manhattan Community Board 2, Manhattan, New York, 10013, United States"
+            "Amazon, 72, Spring Street, SoHo, Manhattan Community Board 2, Manhattan, New York, 10013, United States"
         ]
     },
     {
@@ -11435,7 +11428,7 @@
             "Rappi 10, Avenida Santa Cruz do Are\u00e3o, Parque S\u00e3o Jorge, Are\u00e3o, Taubat\u00e9, Regi\u00e3o Imediata de Taubat\u00e9-Pindamonhangaba, Regi\u00e3o Metropolitana do Vale do Para\u00edba e Litoral Norte, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de S\u00e3o Jos\u00e9 dos Campos, S\u00e3o Paulo, Regi\u00e3o Sudeste, 12060-800, Brasil",
             "Parque Uber, Jardim Bot\u00e2nico, Ribeir\u00e3o Preto, Regi\u00e3o Imediata de Ribeir\u00e3o Preto, Regi\u00e3o Metropolitana de Ribeir\u00e3o Preto, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Ribeir\u00e3o Preto, S\u00e3o Paulo, Regi\u00e3o Sudeste, Brasil",
             "Cristian Uber, Hinojo, Partido de Olavarr\u00eda, Buenos Aires, 7318, Argentina",
-            "Glovo, 3590, Avenida Federico Lacroze, Chacarita, Buenos Aires, Distrito Audiovisual, Comuna 15, Ciudad Aut\u00f3noma de Buenos Aires, C1427EDN, Argentina"
+            "Glovo, 3590, Avenida Federico Lacroze, Chacarita, Buenos Aires, Comuna 15, Distrito Audiovisual, Ciudad Aut\u00f3noma de Buenos Aires, C1427EDN, Argentina"
         ]
     },
     {
@@ -11556,7 +11549,7 @@
             ]
         ],
         "addresses": [
-            "\u534e\u4e3a\u6280\u672f\u6709\u9650\u516c\u53f8, \u5742\u7530\u8857\u9053, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518100, \u4e2d\u56fd"
+            "\u534e\u4e3a\u6280\u672f\u6709\u9650\u516c\u53f8, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518100, \u4e2d\u56fd"
         ]
     },
     {
@@ -11593,12 +11586,12 @@
         ],
         "latlngs": [
             [
-                44.80059945,
-                -93.48865500885567
+                44.78839255,
+                -93.44285005008032
             ]
         ],
         "addresses": [
-            "Amazon Fullfillment Center MSP1, 2601, 4th Avenue East, Shakopee, Scott County, Minnesota, 55379, United States"
+            "Amazon Sortation Center MSP5, 5825, 11th Avenue East, Shakopee, Scott County, Minnesota, 55379, United States"
         ]
     },
     {
@@ -11735,7 +11728,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, 72, Spring Street, Manhattan Community Board 2, Manhattan, New York, 10013, United States",
+            "Amazon, 72, Spring Street, SoHo, Manhattan Community Board 2, Manhattan, New York, 10013, United States",
             "Amazon PDX7, 4775, Depot Court, Salem, Marion County, Oregon, 97317, United States"
         ]
     },
@@ -11774,13 +11767,13 @@
                 113.29374279344763
             ],
             [
-                26.3695593,
-                106.50085007231183
+                22.52586985,
+                113.93041229445548
             ]
         ],
         "addresses": [
             "\u4e2d\u6587\u5802, 274, \u9038\u4ed9\u8def, \u65b0\u6e2f\u8857\u9053, \u6d77\u73e0\u533a, \u5e7f\u5dde\u5e02, \u5e7f\u4e1c\u7701, 510275, \u4e2d\u56fd",
-            "\u817e\u8baf\u8d35\u5b89\u4e03\u661f\u6570\u636e\u4e2d\u5fc3, \u5e73\u575d\u533a, \u5b89\u987a\u5e02, \u8d35\u5dde\u7701, \u4e2d\u56fd"
+            "\u817e\u8baf\u6ee8\u6d77\u5927\u53a6, \u5357\u5c71\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518054, \u4e2d\u56fd"
         ]
     },
     {
@@ -11858,12 +11851,12 @@
         ],
         "latlngs": [
             [
-                37.7756962,
-                -122.4180838
+                37.7899898,
+                -122.3999799
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, SOMA Pilipinas, San Francisco, California, 94103, United States"
+            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States"
         ]
     },
     {
@@ -12335,7 +12328,7 @@
             ]
         ],
         "addresses": [
-            "Massachusetts Institute of Technology, Memorial Drive, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02238, United States"
+            "Massachusetts Institute of Technology, Galileo Galilei Way, East Cambridge, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02142, United States"
         ]
     },
     {
@@ -12375,12 +12368,12 @@
         ],
         "latlngs": [
             [
-                39.2813025,
-                -76.5905444
+                37.7756962,
+                -122.4180838
             ],
             [
-                37.7509149,
-                -122.40246883416269
+                37.7759881,
+                -122.3919991
             ],
             [
                 37.7834546,
@@ -12392,8 +12385,8 @@
             ]
         ],
         "addresses": [
-            "Uber, 918, Fell Street, Fell's Point, Baltimore, Maryland, 21231, United States",
-            "Lyft, Kansas Street, Potrero Terrace, San Francisco, California, 94124, United States",
+            "Uber, 1455, Market Street, SOMA Pilipinas, San Francisco, California, 94103, United States",
+            "Lyft, 185, Berry Street, South Beach, San Francisco, California, 94107, United States",
             "Doordash HQ, Market Street, SOMA Pilipinas, San Francisco, California, 94104, United States",
             "UserTesting, 690, 5th Street, SOMA Pilipinas, San Francisco, California, 94017, United States"
         ]
@@ -12651,8 +12644,8 @@
                 -47.7985009230547
             ],
             [
-                43.0890186,
-                12.4292444
+                43.0872471,
+                12.4275077
             ],
             [
                 47.2260752,
@@ -12663,8 +12656,8 @@
                 10.0402186
             ],
             [
-                43.0890186,
-                12.4292444
+                43.0872471,
+                12.4275077
             ],
             [
                 18.6534612,
@@ -12900,12 +12893,12 @@
                 -118.4092133
             ],
             [
-                39.2813025,
-                -76.5905444
+                37.7756962,
+                -122.4180838
             ],
             [
-                37.7509149,
-                -122.40246883416269
+                37.7759881,
+                -122.3919991
             ],
             [
                 37.7753423,
@@ -12915,8 +12908,8 @@
         "addresses": [
             "Amazon, Jefferson County, Montana, United States",
             "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
-            "Uber, 918, Fell Street, Fell's Point, Baltimore, Maryland, 21231, United States",
-            "Lyft, Kansas Street, Potrero Terrace, San Francisco, California, 94124, United States",
+            "Uber, 1455, Market Street, SOMA Pilipinas, San Francisco, California, 94103, United States",
+            "Lyft, 185, Berry Street, South Beach, San Francisco, California, 94107, United States",
             "UserTesting, 690, 5th Street, SOMA Pilipinas, San Francisco, California, 94017, United States"
         ]
     },
@@ -13127,7 +13120,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, 72, Spring Street, Manhattan Community Board 2, Manhattan, New York, 10013, United States"
+            "Amazon, 72, Spring Street, SoHo, Manhattan Community Board 2, Manhattan, New York, 10013, United States"
         ]
     },
     {
@@ -13339,12 +13332,12 @@
         ],
         "latlngs": [
             [
-                37.7933154,
-                -122.3945205
+                37.7924005,
+                -122.39175109524751
             ]
         ],
         "addresses": [
-            "Google One Market, 1, Market Street, Financial District, San Francisco, California, 94111, United States"
+            "Google Community Space, 188, The Embarcadero, Port of San Francisco, San Francisco, California, 94105, United States"
         ]
     },
     {
@@ -13724,12 +13717,12 @@
         ],
         "latlngs": [
             [
-                37.7933154,
-                -122.3945205
+                37.7924005,
+                -122.39175109524751
             ]
         ],
         "addresses": [
-            "Google One Market, 1, Market Street, Financial District, San Francisco, California, 94111, United States"
+            "Google Community Space, 188, The Embarcadero, Port of San Francisco, San Francisco, California, 94105, United States"
         ]
     },
     {
@@ -13770,8 +13763,8 @@
         ],
         "latlngs": [
             [
-                51.5333771,
-                -0.1258455
+                51.5332143,
+                -0.1259925739528908
             ],
             [
                 52.3124769,
@@ -13782,8 +13775,8 @@
                 -0.181935
             ],
             [
-                55.9519248,
-                -3.1982756
+                53.7989164,
+                -1.541806
             ],
             [
                 51.5314216,
@@ -13791,10 +13784,10 @@
             ]
         ],
         "addresses": [
-            "Google, Pancras Road, King's Cross, London Borough of Camden, London, Greater London, England, N1C 4BJ, United Kingdom",
+            "Google, 6, Pancras Road, King's Cross, London Borough of Camden, London, Greater London, England, N1C 4BJ, United Kingdom",
             "Amazon, Beoley CP, Holt End, Bromsgrove, Worcestershire, West Midlands, England, United Kingdom",
             "Microsoft London, Kingdom Street, Paddington Central, Paddington, City of Westminster, London, Greater London, England, W2 6PY, United Kingdom",
-            "Samsung, Princes Street, New Town, New Town/Broughton, City of Edinburgh, Alba / Scotland, EH2 2ER, United Kingdom",
+            "Samsung, 89-91, Briggate, Arena Quarter, Lovell Park, Leeds, West Yorkshire, Yorkshire and the Humber, England, LS1 6NP, United Kingdom",
             "Deliveroo, Pentonville Road, Pentonville, Barnsbury, London Borough of Islington, London, Greater London, England, N1 9JB, United Kingdom"
         ]
     },
@@ -13910,12 +13903,12 @@
         ],
         "latlngs": [
             [
-                44.80059945,
-                -93.48865500885567
+                44.78839255,
+                -93.44285005008032
             ]
         ],
         "addresses": [
-            "Amazon Fullfillment Center MSP1, 2601, 4th Avenue East, Shakopee, Scott County, Minnesota, 55379, United States"
+            "Amazon Sortation Center MSP5, 5825, 11th Avenue East, Shakopee, Scott County, Minnesota, 55379, United States"
         ]
     },
     {
@@ -14244,12 +14237,12 @@
         ],
         "latlngs": [
             [
-                47.6224574,
-                -122.33650433873851
+                47.6226943,
+                -122.33938923913493
             ]
         ],
         "addresses": [
-            "Amazon, Belltown, Seattle, King County, Washington, 98109-5210, United States"
+            "Amazon, Belltown, Seattle, King County, Washington, United States"
         ]
     },
     {
@@ -14369,12 +14362,12 @@
         ],
         "latlngs": [
             [
-                37.7756962,
-                -122.4180838
+                37.7899898,
+                -122.3999799
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, SOMA Pilipinas, San Francisco, California, 94103, United States"
+            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States"
         ]
     },
     {
@@ -14527,8 +14520,8 @@
         "author": null,
         "latlngs": [
             [
-                37.7921546,
-                -122.399599
+                37.7869314,
+                -122.421939
             ],
             [
                 37.4181243,
@@ -14536,7 +14529,7 @@
             ]
         ],
         "addresses": [
-            "Verizon, Pine Street, Financial District, San Francisco, California, 94111, United States",
+            "Verizon, Daniel Burnham Court, Western Addition, San Francisco, California, 94164, United States",
             "Yahoo, Sunnyvale, Santa Clara County, California, United States"
         ]
     },
@@ -14578,8 +14571,8 @@
         ],
         "latlngs": [
             [
-                40.76893325,
-                -73.50525969769677
+                39.9687148,
+                -75.13098427034083
             ],
             [
                 30.2691649,
@@ -14591,7 +14584,7 @@
             ]
         ],
         "addresses": [
-            "Cpl Kevin Kolm Memorial Park (Triangle Park) H-19, Hicksville, Town of Oyster Bay, Nassau County, New York, United States",
+            "CPL. Charles J. Glenn, 3rd USMC Memorial, Fishtown, Philadelphia, Philadelphia County, Pennsylvania, United States",
             "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States",
             "Accenture, West San Fernando Street, Downtown Historic District, San Jose, Santa Clara County, California, 95113, United States"
         ]
@@ -15179,19 +15172,19 @@
                 -118.4092133
             ],
             [
-                49.0336258,
-                -69.6817118
+                49.0312631,
+                -69.6858339
             ],
             [
-                43.453913650000004,
-                -80.50015897052897
+                43.4510812,
+                -80.4987516
             ]
         ],
         "addresses": [
             "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112-3580, United States",
             "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
             "Ruisseau Alphabet, Lac-au-Brochet, La Haute-C\u00f4te-Nord, C\u00f4te-Nord, Qu\u00e9bec, Canada",
-            "Google Waterloo, 25, Breithaupt Street, Downtown, Kitchener, Region of Waterloo, Southwestern Ontario, Ontario, N2H 3X8, Canada"
+            "Google Waterloo, 151, Charles Street West, Downtown, Kitchener, Region of Waterloo, Southwestern Ontario, Ontario, N2G 1H6, Canada"
         ]
     },
     {
@@ -15243,14 +15236,14 @@
                 -118.4092133
             ],
             [
-                37.6291599,
-                -122.42551778433794
+                37.62814305,
+                -122.42521678541321
             ]
         ],
         "addresses": [
             "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112-3580, United States",
             "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
-            "YouTube, 1000, Cherry Avenue, YouTube, San Bruno, San Mateo County, California, 94066, United States"
+            "YouTube, 900, Cherry Avenue, YouTube, San Bruno, San Mateo County, California, 94066, United States"
         ]
     },
     {
@@ -15286,12 +15279,12 @@
         ],
         "latlngs": [
             [
-                37.7765529,
-                -122.4167931517656
+                37.7762709,
+                -122.41630688295965
             ]
         ],
         "addresses": [
-            "Twitter, Market Street, SOMA Pilipinas, San Francisco, California, 94102, United States"
+            "Twitter, 875, Stevenson Street, SOMA Pilipinas, San Francisco, California, 94102, United States"
         ]
     },
     {
@@ -15419,12 +15412,12 @@
         ],
         "latlngs": [
             [
-                37.7756962,
-                -122.4180838
+                37.7899898,
+                -122.3999799
             ],
             [
-                37.7509149,
-                -122.40246883416269
+                37.7759881,
+                -122.3919991
             ],
             [
                 37.7834546,
@@ -15432,8 +15425,8 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, SOMA Pilipinas, San Francisco, California, 94103, United States",
-            "Lyft, Kansas Street, Potrero Terrace, San Francisco, California, 94124, United States",
+            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States",
+            "Lyft, 185, Berry Street, South Beach, San Francisco, California, 94107, United States",
             "Doordash HQ, Market Street, SOMA Pilipinas, San Francisco, California, 94104, United States"
         ]
     },
@@ -15675,15 +15668,8 @@
         "author": [
             "hyatt d."
         ],
-        "latlngs": [
-            [
-                51.3551751,
-                10.0402186
-            ]
-        ],
-        "addresses": [
-            "\u00dcber, Thalwenden, Uder, Landkreis Eichsfeld, Th\u00fcringen, 37318, Deutschland"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 411,
@@ -15725,7 +15711,7 @@
             ]
         ],
         "addresses": [
-            "Google, 111, 8th Avenue, West Village, Chelsea, Manhattan, New York, 10011, United States"
+            "Google, 111, 8th Avenue, Chelsea, Manhattan, New York, 10011, United States"
         ]
     },
     {
@@ -15759,8 +15745,8 @@
         "author": null,
         "latlngs": [
             [
-                35.6006784,
-                -82.3119169
+                35.599386,
+                -82.31032
             ]
         ],
         "addresses": [
@@ -15957,12 +15943,12 @@
         ],
         "latlngs": [
             [
-                37.6291599,
-                -122.42551778433794
+                37.62814305,
+                -122.42521678541321
             ]
         ],
         "addresses": [
-            "YouTube, 1000, Cherry Avenue, YouTube, San Bruno, San Mateo County, California, 94066, United States"
+            "YouTube, 900, Cherry Avenue, YouTube, San Bruno, San Mateo County, California, 94066, United States"
         ]
     },
     {
@@ -16117,14 +16103,14 @@
                 11.166183284518766
             ],
             [
-                43.709862,
-                10.4328227
+                43.7245809,
+                10.3897394
             ]
         ],
         "addresses": [
             "Amazon, Via Baldanzese, Settimello, Sesto Fiorentino, Firenze, Toscana, 50019, Italia",
             "Amazon, Via Baldanzese, Settimello, Sesto Fiorentino, Firenze, Toscana, 50019, Italia",
-            "Amazon locker, Via Vittorio Frascani, Cisanello, Pisa, Toscana, 56124, Italia"
+            "Amazon Locker, Viale delle Cascine, Gagno, Pisa, Toscana, 56123, Italia"
         ]
     },
     {
@@ -16164,12 +16150,12 @@
         ],
         "latlngs": [
             [
-                41.84040105,
-                -87.68351928672685
+                41.90311505,
+                -87.73727936317198
             ]
         ],
         "addresses": [
-            "Amazon Distribution, 2801, South Western Avenue, Lower West Side, Chicago, Cook County, Illinois, 60608, United States"
+            "Amazon, 1260, North Kostner Avenue, Beat 2523, Humboldt Park, Chicago, Cook County, Illinois, 60651, United States"
         ]
     },
     {
@@ -16333,12 +16319,12 @@
         ],
         "latlngs": [
             [
-                41.84040105,
-                -87.68351928672685
+                41.90311505,
+                -87.73727936317198
             ]
         ],
         "addresses": [
-            "Amazon Distribution, 2801, South Western Avenue, Lower West Side, Chicago, Cook County, Illinois, 60608, United States"
+            "Amazon, 1260, North Kostner Avenue, Beat 2523, Humboldt Park, Chicago, Cook County, Illinois, 60651, United States"
         ]
     },
     {
@@ -17922,7 +17908,7 @@
             ]
         ],
         "addresses": [
-            "Alibaba, \u660c\u5409\u8def, \u5b89\u4ead\u9547, \u5609\u5b9a\u533a, \u4e0a\u6d77\u5e02, 215332, \u4e2d\u56fd"
+            "Alibaba, \u660c\u5409\u8def, \u5b89\u4ead\u9547, \u5609\u5b9a\u533a, \u4e0a\u6d77\u5e02, 201805, \u4e2d\u56fd"
         ]
     },
     {
@@ -18778,8 +18764,8 @@
                 121.1624993
             ],
             [
-                26.3695593,
-                106.50085007231183
+                22.52586985,
+                113.93041229445548
             ],
             [
                 24.4978707,
@@ -18791,8 +18777,8 @@
             ]
         ],
         "addresses": [
-            "Alibaba, \u660c\u5409\u8def, \u5b89\u4ead\u9547, \u5609\u5b9a\u533a, \u4e0a\u6d77\u5e02, 215332, \u4e2d\u56fd",
-            "\u817e\u8baf\u8d35\u5b89\u4e03\u661f\u6570\u636e\u4e2d\u5fc3, \u5e73\u575d\u533a, \u5b89\u987a\u5e02, \u8d35\u5dde\u7701, \u4e2d\u56fd",
+            "Alibaba, \u660c\u5409\u8def, \u5b89\u4ead\u9547, \u5609\u5b9a\u533a, \u4e0a\u6d77\u5e02, 201805, \u4e2d\u56fd",
+            "\u817e\u8baf\u6ee8\u6d77\u5927\u53a6, \u5357\u5c71\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518054, \u4e2d\u56fd",
             "\u767d\u6e21\u9547, \u6885\u5dde\u5e02, \u5e7f\u4e1c\u7701, \u4e2d\u56fd",
             "\u5b57\u8282\u8df3\u52a8\u603b\u90e8, \u53cc\u6986\u6811\u5317\u8def, \u4e2d\u5173\u6751, \u4e2d\u5173\u6751\u8857\u9053, \u6d77\u6dc0\u533a, \u5317\u4eac\u5e02, 100098, \u4e2d\u56fd"
         ]
@@ -19097,14 +19083,14 @@
                 -106.046296
             ],
             [
-                47.49030525,
-                -122.27396915604896
+                43.6621143,
+                -116.3420819
             ]
         ],
         "addresses": [
             "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
             "Modis, 113, South Main Street, Breckenridge, Summit County, Colorado, 80424, United States",
-            "Adecco, 12720, Gateway Drive South, Tukwila Commerce Park, Foster, Tukwila, King County, Washington, 98168, United States"
+            "Adecco, 12828, West Lasalle Street, Boise Research Center, Boise, Ada County, Idaho, 83713, United States"
         ]
     },
     {
@@ -19233,8 +19219,8 @@
         ],
         "latlngs": [
             [
-                45.4719294,
-                8.575395801365145
+                45.491035,
+                9.545438948553128
             ],
             [
                 46.73690925,
@@ -19253,8 +19239,8 @@
                 89.49479645087905
             ],
             [
-                11.5674685,
-                104.9210927
+                11.5615519,
+                104.9260436
             ],
             [
                 52.3124769,
@@ -19269,21 +19255,21 @@
                 4.8947825
             ],
             [
-                12.9798967,
-                77.6954191
+                17.4203401,
+                78.3394273
             ]
         ],
         "addresses": [
-            "Amazon, Agognate, Novara, Piemonte, Italia",
+            "Amazon, Casirate d'Adda, Bergamo, Lombardia, Italia",
             "Amazon.fr Logistique Distrip\u00f4le Chalon, Sevrey, Chalon-sur-Sa\u00f4ne, Sa\u00f4ne-et-Loire, Bourgogne-Franche-Comt\u00e9, France m\u00e9tropolitaine, 71100, France",
             "Amazon, Jefferson County, Montana, United States",
             "Amazon, The Highway Street, Wapadrand Security Village, Tshwane Ward 85, City of Tshwane Metropolitan Municipality, Gauteng, 0050, South Africa",
             "Amazon, Narua Kheya Ghat Road, Narua, \u09b0\u09be\u099c\u09ac\u09be\u09dc\u09c0 \u099c\u09c7\u09b2\u09be, \u09a2\u09be\u0995\u09be \u09ac\u09bf\u09ad\u09be\u0997, 7730, \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6",
-            "Amazon, \u1795\u17d2\u179b\u17bc\u179c \u178f\u17d2\u179a\u179f\u1780\u17cb\u1795\u17d2\u17a2\u17c2\u1798 (\u17e6\u17e3), \u179a\u17b6\u1787\u1792\u17b6\u1793\u17b8\u1797\u17d2\u1793\u17c6\u1796\u17c1\u1789, \u1781\u178e\u17d2\u178c\u178a\u17bc\u1793\u1796\u17c1\u1789, \u179a\u17b6\u1787\u1792\u17b6\u1793\u17b8\u1797\u17d2\u1793\u17c6\u1796\u17c1\u1789, 120202, \u1796\u17d2\u179a\u17c7\u179a\u17b6\u1787\u17b6\u178e\u17b6\u1785\u1780\u17d2\u179a\u200b\u1780\u1798\u17d2\u1796\u17bb\u1787\u17b6",
+            "Amazon, \u179c\u17b7\u1790\u17b8 \u179f\u1798\u17d2\u178f\u17c1\u1785 \u1794\u17c9\u17b6\u1793 (\u17e2\u17e1\u17e4), \u179f\u1784\u17d2\u1780\u17b6\u178f\u17cb\u1794\u17b9\u1784\u179a\u17b6\u17c6\u1784, \u1781\u178e\u17d2\u178c\u178a\u17bc\u1793\u1796\u17c1\u1789, \u179a\u17b6\u1787\u1792\u17b6\u1793\u17b8\u1797\u17d2\u1793\u17c6\u1796\u17c1\u1789, 120204, \u1796\u17d2\u179a\u17c7\u179a\u17b6\u1787\u17b6\u178e\u17b6\u1785\u1780\u17d2\u179a\u200b\u1780\u1798\u17d2\u1796\u17bb\u1787\u17b6",
             "Amazon, Beoley CP, Holt End, Bromsgrove, Worcestershire, West Midlands, England, United Kingdom",
             "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
             "Amazon, 169, Nieuwendijk, Centrum, Amsterdam, Noord-Holland, Nederland, 1012MG, Nederland",
-            "Amazon, Goshala Road, Vignananagar, Dodda Nekkundi, Mahadevapura Zone, Bengaluru, Bangalore East, Bangalore Urban, Karnataka, 560048, India"
+            "Amazon, ISB Road, Ward 105 Gachibowli, Serilingampalle mandal, Hyderabad, Rangareddy, Telangana, 500032, India"
         ]
     },
     {
@@ -19593,12 +19579,12 @@
         ],
         "latlngs": [
             [
-                40.917056,
-                -72.7107602
+                37.5364762,
+                -77.4336951
             ]
         ],
         "addresses": [
-            "Citizen, 1770, West Main Street, Town of Riverhead, Suffolk County, New York, 11901, United States"
+            "Citizen, 1203, East Main Street, Shockoe Slip, Richmond, Virginia, 23219, United States"
         ]
     },
     {
@@ -19649,7 +19635,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, 72, Spring Street, Manhattan Community Board 2, Manhattan, New York, 10013, United States",
+            "Amazon, 72, Spring Street, SoHo, Manhattan Community Board 2, Manhattan, New York, 10013, United States",
             "Amazon Fresh, 1733, 14th Street Northwest, Logan Circle/Shaw, Washington, District of Columbia, 20009, United States"
         ]
     },
@@ -19848,12 +19834,12 @@
         ],
         "latlngs": [
             [
-                41.84040105,
-                -87.68351928672685
+                41.90311505,
+                -87.73727936317198
             ]
         ],
         "addresses": [
-            "Amazon Distribution, 2801, South Western Avenue, Lower West Side, Chicago, Cook County, Illinois, 60608, United States"
+            "Amazon, 1260, North Kostner Avenue, Beat 2523, Humboldt Park, Chicago, Cook County, Illinois, 60651, United States"
         ]
     },
     {
