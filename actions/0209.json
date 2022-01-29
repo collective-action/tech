@@ -27,6 +27,13 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            44.84351205,
+            -93.14540553254446
+        ]
+    ],
+    "addresses": [
+        "Amazon, 3130, Lexington Avenue South, Eagan, Dakota County, Minnesota, 55121, United States"
+    ]
 }
