@@ -1980,12 +1980,12 @@
         ],
         "latlngs": [
             [
-                42.3489689,
-                -71.0824143
+                37.3326452,
+                -122.0299129658936
             ]
         ],
         "addresses": [
-            "Apple Store, 815, Boylston Street, Block F, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States"
+            "Apple Campus, Cupertino, Santa Clara County, California, United States"
         ]
     },
     {
@@ -17011,12 +17011,12 @@
         ],
         "latlngs": [
             [
-                42.3489689,
-                -71.0824143
+                37.3326452,
+                -122.0299129658936
             ]
         ],
         "addresses": [
-            "Apple Store, 815, Boylston Street, Block F, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States"
+            "Apple Campus, Cupertino, Santa Clara County, California, United States"
         ]
     },
     {
@@ -17125,12 +17125,12 @@
         ],
         "latlngs": [
             [
-                42.3489689,
-                -71.0824143
+                37.3326452,
+                -122.0299129658936
             ]
         ],
         "addresses": [
-            "Apple Store, 815, Boylston Street, Block F, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States"
+            "Apple Campus, Cupertino, Santa Clara County, California, United States"
         ]
     },
     {
@@ -17385,12 +17385,12 @@
         ],
         "latlngs": [
             [
-                42.3489689,
-                -71.0824143
+                37.3326452,
+                -122.0299129658936
             ]
         ],
         "addresses": [
-            "Apple Store, 815, Boylston Street, Block F, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States"
+            "Apple Campus, Cupertino, Santa Clara County, California, United States"
         ]
     },
     {
@@ -17974,12 +17974,12 @@
         ],
         "latlngs": [
             [
-                42.3489689,
-                -71.0824143
+                37.3326452,
+                -122.0299129658936
             ]
         ],
         "addresses": [
-            "Apple Store, 815, Boylston Street, Block F, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States"
+            "Apple Campus, Cupertino, Santa Clara County, California, United States"
         ]
     },
     {
@@ -18185,12 +18185,12 @@
         ],
         "latlngs": [
             [
-                42.3489689,
-                -71.0824143
+                37.3326452,
+                -122.0299129658936
             ]
         ],
         "addresses": [
-            "Apple Store, 815, Boylston Street, Block F, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States"
+            "Apple Campus, Cupertino, Santa Clara County, California, United States"
         ]
     },
     {
@@ -18969,8 +18969,15 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                34.0976547,
+                -118.3164863
+            ]
+        ],
+        "addresses": [
+            "Netflix at Sunset Bronson Studios, West Sunset Boulevard, Hollywood, Los Angeles, Los Angeles County, California, 90028-5420, United States"
+        ]
     },
     {
         "id": 484,
@@ -19940,12 +19947,12 @@
         ],
         "latlngs": [
             [
-                42.3489689,
-                -71.0824143
+                37.3326452,
+                -122.0299129658936
             ]
         ],
         "addresses": [
-            "Apple Store, 815, Boylston Street, Block F, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States"
+            "Apple Campus, Cupertino, Santa Clara County, California, United States"
         ]
     },
     {
