@@ -5857,7 +5857,7 @@
             ]
         ],
         "addresses": [
-            "Google, 111, 8th Avenue, West Village, Chelsea, Manhattan, New York, 10011, United States"
+            "Google, 111, 8th Avenue, Chelsea District, Manhattan, New York, 10011, United States"
         ]
     },
     {
@@ -15739,7 +15739,7 @@
             ]
         ],
         "addresses": [
-            "Google, 111, 8th Avenue, West Village, Chelsea, Manhattan, New York, 10011, United States"
+            "Google, 111, 8th Avenue, Chelsea District, Manhattan, New York, 10011, United States"
         ]
     },
     {
@@ -18969,8 +18969,15 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                34.0976547,
+                -118.3164863
+            ]
+        ],
+        "addresses": [
+            "Netflix at Sunset Bronson Studios, West Sunset Boulevard, Hollywood, Los Angeles, Los Angeles County, California, 90028-5420, United States"
+        ]
     },
     {
         "id": 484,
