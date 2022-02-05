@@ -6592,8 +6592,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                42.3506879,
+                -71.0732592
+            ]
+        ],
+        "addresses": [
+            "Wayfair, 222, Berkeley Street, Bay Village, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States"
+        ]
     },
     {
         "id": 152,
