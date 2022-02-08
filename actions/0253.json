@@ -33,13 +33,6 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            35.2960341,
-            -120.6532192
-        ]
-    ],
-    "addresses": [
-        "Slack Street, San Luis Obispo, San Luis Obispo County, California, 93410, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }
