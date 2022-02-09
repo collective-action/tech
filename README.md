@@ -20,11 +20,11 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">09/02/2022 01:33PM</td>
+    <td data-summary="timestamp">09/02/2022 02:24PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">481</td>
+    <td data-summary="action-count">483</td>
   </tr>
  </table>
 </div>
@@ -45,13 +45,28 @@ The goal of this archive is to provide data and insights on organizing in the te
   </tr>
   <tr author="wynniechan">
    <td>
+    2022-02-03
+   </td>
+   <td>
+    After two years of organizing, Nava PBC workers formed Nava United in partnership with OPEIU. Besides adding stability and benefits, union organizers hope that this effort will “increase pay transparency, equity, employee retention and attract new talent.” They are currently seeking voluntary recognition.
+   </td>
+   <td>
+    <a href="/actions/0482.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="wynniechan">
+   <td>
     2022-01-21
    </td>
    <td>
     Thirty-four members of Activision Blizzard Studios have formed a union supported by the CWA. The members have requested for Activision Blizzard to voluntarily recognize it. Activision Blizzard responded that they are “carefully considering” it. Unionization efforts have started in response to poor workplace conditions and issues of sexual harassment.
    </td>
    <td>
-    <a href="/actions/0480.json">
+    <a href="/actions/0481.json">
      <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
       :link:
      </g-emoji>
@@ -64,6 +79,23 @@ The goal of this archive is to provide data and insights on organizing in the te
    </td>
    <td>
     A former Amazon engineer created an online petition to urge Washington lawmakers to pass the SB 5130 bill. This bill would mandate employers to provide workers with access to their personnel files and internal rankings for increased transparency. While the bill is stalled, several tech workers will testify on it in the next legislative session.
+   </td>
+   <td>
+    <a href="/actions/0480.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="wynniechan">
+   <td>
+    2022-01-07
+   </td>
+   <td>
+    BDS Connected Solutions workers contracted with Google Fiber petitioned the NLRB for formal union recognition. In partnership with the Alphabet Workers Union, the unionization effort was driven by concern over work conditions, pay structure changes, understaffing, and COVID safety issues. Before the vote to determine the eligibility of union votes, workers received a letter from BDS that discouraged them from unionizing by bringing up points like “everyone will be stuck with the union and forced to pay dues” and that “Missouri is not a right-to-work state.”
+
+AWU has released a statement of solidarity towards the Kansas City workers. A Google spokesperson has responded that BDS will handle this, and Google works with both unionized and non-unionized suppliers.
    </td>
    <td>
     <a href="/actions/0479.json">

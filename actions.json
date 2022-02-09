@@ -18940,8 +18940,15 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                34.0976547,
+                -118.3164863
+            ]
+        ],
+        "addresses": [
+            "Netflix at Sunset Bronson Studios, West Sunset Boulevard, Hollywood, Los Angeles, Los Angeles County, California, 90028-5420, United States"
+        ]
     },
     {
         "id": 484,
@@ -20050,6 +20057,52 @@
         ]
     },
     {
+        "id": 528,
+        "date": "2022/01/07",
+        "sources": [
+            "https://www.cnbc.com/2022/02/04/google-fiber-workers-in-kansas-city-face-union-busting-effort-by-bds.html",
+            "https://www.kshb.com/news/local-news/google-fiber-retail-staff-in-kansas-city-begin-unionizing-efforts"
+        ],
+        "actions": [
+            "union drive"
+        ],
+        "struggles": [
+            "pay and benefits",
+            "working conditions"
+        ],
+        "employment_types": [
+            "contract workers"
+        ],
+        "description": "BDS Connected Solutions workers contracted with Google Fiber petitioned the NLRB for formal union recognition. In partnership with the Alphabet Workers Union, the unionization effort was driven by concern over work conditions, pay structure changes, understaffing, and COVID safety issues. Before the vote to determine the eligibility of union votes, workers received a letter from BDS that discouraged them from unionizing by bringing up points like \u201ceveryone will be stuck with the union and forced to pay dues\u201d and that \u201cMissouri is not a right-to-work state.\u201d\n\nAWU has released a statement of solidarity towards the Kansas City workers. A Google spokesperson has responded that BDS will handle this, and Google works with both unionized and non-unionized suppliers. ",
+        "online": null,
+        "locations": [
+            "kansas city-missouri-usa"
+        ],
+        "companies": [
+            "google",
+            "bds solutions group",
+            "bds connected solutions"
+        ],
+        "workers": 10,
+        "tags": [
+            "coronavirus",
+            "technicians",
+            "industry solidarity"
+        ],
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": [
+            [
+                39.2507006,
+                -94.661471
+            ]
+        ],
+        "addresses": [
+            "Google Fiber Space, 8615, Northwest Prairie View Road, Kansas City, Platte County, Missouri, 64153, United States"
+        ]
+    },
+    {
         "id": 523,
         "date": "2022/01/11",
         "sources": [
@@ -20124,6 +20177,46 @@
             "cwa",
             "coworker solidarity",
             "sexual_harassment"
+        ],
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 527,
+        "date": "2022/02/03",
+        "sources": [
+            "https://technical.ly/2022/02/03/nava-pbc-tech-union/",
+            "https://twitter.com/Nava_United/status/1489328874575912960?t=XCIQHf6V9CimZJiYw_rUoQ&s=19"
+        ],
+        "actions": [
+            "union representation",
+            "union drive",
+            "open letter"
+        ],
+        "struggles": [
+            "pay and benefits",
+            "job security",
+            "ethics"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "contract workers",
+            "inhouse workers"
+        ],
+        "description": "After two years of organizing, Nava PBC workers formed Nava United in partnership with OPEIU. Besides adding stability and benefits, union organizers hope that this effort will \u201cincrease pay transparency, equity, employee retention and attract new talent.\u201d They are currently seeking voluntary recognition. ",
+        "online": null,
+        "locations": [
+            "washington_dc-usa"
+        ],
+        "companies": [
+            "nava pbc"
+        ],
+        "workers": 171,
+        "tags": [
+            "opeiu"
         ],
         "author": [
             "wynniechan"
