@@ -2989,8 +2989,8 @@
         ],
         "latlngs": [
             [
-                37.4816514,
-                -122.1515164
+                37.4814819,
+                -122.1579463
             ],
             [
                 37.4123687,
@@ -13604,12 +13604,12 @@
         ],
         "latlngs": [
             [
-                32.6661685,
-                -114.5361341
+                40.8541838,
+                -74.2138917
             ]
         ],
         "addresses": [
-            "Something Special Avenue, Country Roads, Yuma, Yuma County, Arizona, 85365, United States"
+            "Something Fun, Cedar Grove, Essex County, New Jersey, 07009, United States"
         ]
     },
     {
@@ -18940,15 +18940,8 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": [
-            [
-                34.0976547,
-                -118.3164863
-            ]
-        ],
-        "addresses": [
-            "Netflix at Sunset Bronson Studios, West Sunset Boulevard, Hollywood, Los Angeles, Los Angeles County, California, 90028-5420, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 484,
@@ -20004,12 +19997,12 @@
         ],
         "latlngs": [
             [
-                33.6381162,
-                -117.8225518
+                34.7614797,
+                -118.1669078
             ]
         ],
         "addresses": [
-            "Mountain View, Turtle Rock, Irvine, Orange County, California, 92603-3322, United States"
+            "Mountain View, Leisure Lake Mobile Estate, Los Angeles County, California, United States"
         ]
     },
     {
