@@ -20,11 +20,11 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">15/02/2022 05:29PM</td>
+    <td data-summary="timestamp">15/02/2022 06:30PM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">483</td>
+    <td data-summary="action-count">485</td>
   </tr>
  </table>
 </div>
@@ -45,10 +45,40 @@ The goal of this archive is to provide data and insights on organizing in the te
   </tr>
   <tr author="wynniechan">
    <td>
+    2022-02-09
+   </td>
+   <td>
+    In response to new leadership and business restructuring that led to 2,800 employees being fired, terminated employees (who were allowed to attend the meeting) flooded the chat box of the virtual Q2 earnings call with complaints about the job cuts and mismanagement. Former employees also began helping each other find new jobs on LinkedIn and a publicly accessible spreadsheet.
+   </td>
+   <td>
+    <a href="/actions/0484.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="wynniechan">
+   <td>
     2022-02-03
    </td>
    <td>
     After two years of organizing, Nava PBC workers formed Nava United in partnership with OPEIU. Besides adding stability and benefits, union organizers hope that this effort will “increase pay transparency, equity, employee retention and attract new talent.” They are currently seeking voluntary recognition.
+   </td>
+   <td>
+    <a href="/actions/0483.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="wynniechan">
+   <td>
+    2022-02-02
+   </td>
+   <td>
+    Workers at Amazon’s Staten Island facility LDJ5 are seeking to be represented by the Amazon Labor union, and so they have filed a petition to the NLRB for a union election.
    </td>
    <td>
     <a href="/actions/0482.json">

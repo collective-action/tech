@@ -1,40 +1,40 @@
 {
-    "id": 527,
-    "date": "2022/02/03",
+    "id": 529,
+    "date": "2022/02/02",
     "sources": [
-        "https://technical.ly/2022/02/03/nava-pbc-tech-union/",
-        "https://twitter.com/Nava_United/status/1489328874575912960?t=XCIQHf6V9CimZJiYw_rUoQ&s=19"
+        "https://www.cnbc.com/2022/02/02/amazon-workers-in-new-york-file-petition-for-union-election.html"
     ],
     "actions": [
-        "union representation",
-        "union drive",
-        "open letter"
+        "union drive"
     ],
     "struggles": [
         "pay and benefits",
-        "job security",
-        "ethics"
+        "working conditions"
     ],
     "employment_types": [
-        "white collar workers",
-        "contract workers",
+        "blue collar workers",
         "inhouse workers"
     ],
-    "description": "After two years of organizing, Nava PBC workers formed Nava United in partnership with OPEIU. Besides adding stability and benefits, union organizers hope that this effort will \u201cincrease pay transparency, equity, employee retention and attract new talent.\u201d They are currently seeking voluntary recognition. ",
+    "description": "Workers at Amazon\u2019s Staten Island facility LDJ5 are seeking to be represented by the Amazon Labor union, and so they have filed a petition to the NLRB for a union election. ",
     "online": null,
     "locations": [
-        "washington_dc-usa"
+        "new york city-new york-usa"
     ],
     "companies": [
-        "nava pbc"
+        "amazon"
     ],
-    "workers": 171,
-    "tags": [
-        "opeiu"
-    ],
+    "workers": null,
+    "tags": null,
     "author": [
         "wynniechan"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            40.722465,
+            -73.9977307
+        ]
+    ],
+    "addresses": [
+        "Amazon, 72, Spring Street, Manhattan Community Board 2, Manhattan, New York, 10013, United States"
+    ]
 }
