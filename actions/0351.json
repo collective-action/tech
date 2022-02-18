@@ -26,13 +26,6 @@
     "workers": null,
     "tags": null,
     "author": null,
-    "latlngs": [
-        [
-            37.7921546,
-            -122.399599
-        ]
-    ],
-    "addresses": [
-        "Verizon, Pine Street, Financial District, San Francisco, California, 94111, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

@@ -29,18 +29,6 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            50.845334,
-            9.677958815746917
-        ],
-        [
-            51.1238951,
-            12.492158
-        ]
-    ],
-    "addresses": [
-        "Amazon FRA1, Eichhof, Asbach, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
-        "Abholstation, 26, Sachsenallee, Borna, Landkreis Leipzig, Sachsen, 04552, Deutschland"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

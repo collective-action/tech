@@ -29,18 +29,6 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            46.320207,
-            -112.1072224
-        ],
-        [
-            40.75785875,
-            -111.87199162170198
-        ]
-    ],
-    "addresses": [
-        "Amazon, Jefferson County, Montana, United States",
-        "Whole Foods Market, 500 South, Central City, Salt Lake City, Salt Lake County, Utah, 84102, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }
