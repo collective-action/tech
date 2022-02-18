@@ -38,6 +38,18 @@
     ],
     "latlngs": [
         [
+            46.320207,
+            -112.1072224
+        ],
+        [
+            33.977092,
+            -118.4092133
+        ],
+        [
+            39.2813025,
+            -76.5905444
+        ],
+        [
             37.7509149,
             -122.40246883416269
         ],
@@ -47,6 +59,9 @@
         ]
     ],
     "addresses": [
+        "Amazon, Jefferson County, Montana, United States",
+        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
+        "Uber, 918, Fell Street, Fell's Point, Baltimore, Maryland, 21231, United States",
         "Lyft, Kansas Street, Potrero Terrace, San Francisco, California, 94124, United States",
         "UserTesting, 690, 5th Street, SOMA Pilipinas, San Francisco, California, 94017, United States"
     ]

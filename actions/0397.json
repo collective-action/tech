@@ -29,6 +29,13 @@
     "author": [
         "hyatt d."
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            40.77541455,
+            -73.83098624117696
+        ]
+    ],
+    "addresses": [
+        "The New York Times, Whitestone Expressway, Linden Hill, Queens, Queens County, New York, 11354, United States"
+    ]
 }

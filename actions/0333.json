@@ -34,6 +34,33 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            51.5333771,
+            -0.1258455
+        ],
+        [
+            52.3124769,
+            -1.878707127163782
+        ],
+        [
+            51.5195583,
+            -0.181935
+        ],
+        [
+            55.9519248,
+            -3.1982756
+        ],
+        [
+            51.5314216,
+            -0.1113624
+        ]
+    ],
+    "addresses": [
+        "Google, Pancras Road, King's Cross, London Borough of Camden, London, Greater London, England, N1C 4BJ, United Kingdom",
+        "Amazon, Beoley CP, Holt End, Bromsgrove, Worcestershire, West Midlands, England, United Kingdom",
+        "Microsoft London, Kingdom Street, Paddington Central, Paddington, City of Westminster, London, Greater London, England, W2 6PY, United Kingdom",
+        "Samsung, Princes Street, New Town, New Town/Broughton, City of Edinburgh, Alba / Scotland, EH2 2ER, United Kingdom",
+        "Deliveroo, Pentonville Road, Pentonville, Barnsbury, London Borough of Islington, London, Greater London, England, N1 9JB, United Kingdom"
+    ]
 }

@@ -31,6 +31,13 @@
     "author": [
         "fiona tay"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            41.3750149,
+            -83.6402779
+        ]
+    ],
+    "addresses": [
+        "MEDIUM, East Wooster Street, Bowling Green, Wood County, Ohio, 43403-0001, United States"
+    ]
 }

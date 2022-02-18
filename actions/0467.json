@@ -27,6 +27,13 @@
     "author": [
         "wynniechan"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            40.917056,
+            -72.7107602
+        ]
+    ],
+    "addresses": [
+        "Citizen, 1770, West Main Street, Town of Riverhead, Suffolk County, New York, 11901, United States"
+    ]
 }
