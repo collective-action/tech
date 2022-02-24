@@ -728,8 +728,8 @@
         ],
         "latlngs": [
             [
-                37.2532293,
-                -121.802881
+                32.874623,
+                -117.20683041525174
             ],
             [
                 37.411849450000005,
@@ -741,7 +741,7 @@
             ]
         ],
         "addresses": [
-            "IBM, Cottle Road, San Jose, Santa Clara County, California, 95123-3620, United States",
+            "Colliers International; E-Trade Financial; IBM, 4660, La Jolla Village Drive, University City, San Diego, San Diego County, California, 92039, United States",
             "HP, Peter Coutts Circle, Peter Coutts Hill, Stanford, Sunnyvale, Santa Clara County, California, 94304-1050, United States",
             "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, California, 94043, United States"
         ]
@@ -18945,15 +18945,8 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": [
-            [
-                34.0976547,
-                -118.3164863
-            ]
-        ],
-        "addresses": [
-            "Netflix at Sunset Bronson Studios, West Sunset Boulevard, Hollywood, Los Angeles, Los Angeles County, California, 90028-5420, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 484,
