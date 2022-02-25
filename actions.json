@@ -5808,8 +5808,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                29.3169332,
+                120.0873432
+            ]
+        ],
+        "addresses": [
+            "Alibaba (halal), \u7a20\u5dde\u5317\u8def, \u4e49\u4e4c\u5e02, \u6d59\u6c5f\u7701, 322000, \u4e2d\u56fd"
+        ]
     },
     {
         "id": 134,
@@ -18316,15 +18323,8 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": [
-            [
-                40.6453855,
-                -74.1077517
-            ]
-        ],
-        "addresses": [
-            "Blue, 1115, Richmond Terrace, Staten Island, Richmond County, New York, 10310, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 473,
@@ -18938,15 +18938,8 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": [
-            [
-                34.0976547,
-                -118.3164863
-            ]
-        ],
-        "addresses": [
-            "Netflix at Sunset Bronson Studios, West Sunset Boulevard, Hollywood, Los Angeles, Los Angeles County, California, 90028-5420, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 484,
