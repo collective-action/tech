@@ -20,11 +20,11 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">02/03/2022 03:35AM</td>
+    <td data-summary="timestamp">02/03/2022 04:29AM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">486</td>
+    <td data-summary="action-count">488</td>
   </tr>
  </table>
 </div>
@@ -45,10 +45,44 @@ The goal of this archive is to provide data and insights on organizing in the te
   </tr>
   <tr author="wynniechan">
    <td>
+    2022-02-16
+   </td>
+   <td>
+    The NLRB determined that the Amazon Labor Union has enough signatures to hold an election. The election will occur in late March. An Amazon spokesperson expressed doubt that there were enough legitimate signatures.
+   </td>
+   <td>
+    <a href="/actions/0487.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="wynniechan">
+   <td>
     2022-02-09
    </td>
    <td>
     In response to new leadership and business restructuring that led to 2,800 employees being fired, terminated employees (who were allowed to attend the meeting) flooded the chat box of the virtual Q2 earnings call with complaints about the job cuts and mismanagement. Former employees also began helping each other find new jobs on LinkedIn and a publicly accessible spreadsheet.
+   </td>
+   <td>
+    <a href="/actions/0486.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="wynniechan">
+   <td>
+    2022-02-07
+   </td>
+   <td>
+    In response to the economic crisis in Turkey, food delivery company, Yemeksepeti Banabi, announced a 10% raise in salary, which sparked outrage, and its delivery workers of Yemeksepeti Banabi are striking for higher wages. They are also demanding to change the business model, in which they are considered self-employed and don’t have social security. A majority union, The All Shipping Workers Union, has been formed, but the company is preventing unionization rights from being implemented through legal loopholes. 
+
+In similar Turkish companies like Trendyol Express, Yurtiçi Cargo, Scotty, Aras Cargo, Sürat Cargo, and Migros Warehouse, delivery workers also protested the miniscule wage increase. Trendyol Express workers succeeded in a wage increase from 11% to 39%. 
+
+The head of the Transportation Workers Union expressed solidarity and support.
    </td>
    <td>
     <a href="/actions/0485.json">

@@ -1,0 +1,44 @@
+{
+    "id": 530,
+    "date": "2022/02/09",
+    "sources": [
+        "https://www.theverge.com/2022/2/9/22926095/peloton-ceo-all-hands-fired-employees",
+        "https://www.cnbc.com/2022/02/09/peloton-ceos-first-all-hands-meeting-cut-short-as-ex-staff-crash-it.html"
+    ],
+    "actions": [
+        "protest",
+        "resources"
+    ],
+    "struggles": [
+        "working conditions",
+        "job security"
+    ],
+    "employment_types": [
+        "white collar workers"
+    ],
+    "description": "In response to new leadership and business restructuring that led to 2,800 employees being fired, terminated employees (who were allowed to attend the meeting) flooded the chat box of the virtual Q2 earnings call with complaints about the job cuts and mismanagement. Former employees also began helping each other find new jobs on LinkedIn and a publicly accessible spreadsheet.",
+    "online": true,
+    "locations": [
+        "usa"
+    ],
+    "companies": [
+        "peloton"
+    ],
+    "workers": 260,
+    "tags": [
+        "online action",
+        "coworker solidarity"
+    ],
+    "author": [
+        "wynniechan"
+    ],
+    "latlngs": [
+        [
+            45.55394075,
+            -122.66734744298007
+        ]
+    ],
+    "addresses": [
+        "Peloton, Boise, Portland, Multnomah County, Oregon, United States"
+    ]
+}

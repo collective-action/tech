@@ -1,0 +1,40 @@
+{
+    "id": 532,
+    "date": "2022/02/16",
+    "sources": [
+        "https://www.nytimes.com/2022/02/16/technology/amazon-staten-island-union.html"
+    ],
+    "actions": [
+        "union drive"
+    ],
+    "struggles": [
+        "working conditions",
+        "pay and benefits"
+    ],
+    "employment_types": [
+        "blue collar workers",
+        "inhouse workers"
+    ],
+    "description": "The NLRB determined that the Amazon Labor Union has enough signatures to hold an election. The election will occur in late March. An Amazon spokesperson expressed doubt that there were enough legitimate signatures.",
+    "online": null,
+    "locations": [
+        "new york city-new york-usa"
+    ],
+    "companies": [
+        "amazon"
+    ],
+    "workers": null,
+    "tags": null,
+    "author": [
+        "wynniechan"
+    ],
+    "latlngs": [
+        [
+            40.722465,
+            -73.9977307
+        ]
+    ],
+    "addresses": [
+        "Amazon, 72, Spring Street, Manhattan Community Board 2, Manhattan, New York, 10013, United States"
+    ]
+}

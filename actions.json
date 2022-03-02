@@ -20301,6 +20301,51 @@
         "addresses": null
     },
     {
+        "id": 533,
+        "date": "2022/02/07",
+        "sources": [
+            "https://progressive.international/wire/2022-02-15-turkish-delivery-workers-protest-for-wage-increase-and-unionization-rights/en"
+        ],
+        "actions": [
+            "protest",
+            "strike",
+            "union drive"
+        ],
+        "struggles": [
+            "pay and benefits"
+        ],
+        "employment_types": [
+            "contract workers",
+            "gig workers"
+        ],
+        "description": "In response to the economic crisis in Turkey, food delivery company, Yemeksepeti Banabi, announced a 10% raise in salary, which sparked outrage, and its delivery workers of Yemeksepeti Banabi are striking for higher wages. They are also demanding to change the business model, in which they are considered self-employed and don\u2019t have social security. A majority union, The All Shipping Workers Union, has been formed, but the company is preventing unionization rights from being implemented through legal loopholes. \n\nIn similar Turkish companies like Trendyol Express, Yurti\u00e7i Cargo, Scotty, Aras Cargo, S\u00fcrat Cargo, and Migros Warehouse, delivery workers also protested the miniscule wage increase. Trendyol Express workers succeeded in a wage increase from 11% to 39%. \n\nThe head of the Transportation Workers Union expressed solidarity and support.",
+        "online": null,
+        "locations": [
+            "levent-turkey",
+            "izmir-turkey",
+            "ankara-turkey"
+        ],
+        "companies": [
+            "yemeksepti banabi",
+            "trendyol express",
+            "yurtici cargo",
+            "scotty",
+            "aras cargo",
+            "surat cargo",
+            "migros warehouse"
+        ],
+        "workers": null,
+        "tags": [
+            "delivery_workers",
+            "industry solidarity"
+        ],
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
         "id": 530,
         "date": "2022/02/09",
         "sources": [
@@ -20342,6 +20387,46 @@
         ],
         "addresses": [
             "Peloton, Boise, Portland, Multnomah County, Oregon, United States"
+        ]
+    },
+    {
+        "id": 532,
+        "date": "2022/02/16",
+        "sources": [
+            "https://www.nytimes.com/2022/02/16/technology/amazon-staten-island-union.html"
+        ],
+        "actions": [
+            "union drive"
+        ],
+        "struggles": [
+            "working conditions",
+            "pay and benefits"
+        ],
+        "employment_types": [
+            "blue collar workers",
+            "inhouse workers"
+        ],
+        "description": "The NLRB determined that the Amazon Labor Union has enough signatures to hold an election. The election will occur in late March. An Amazon spokesperson expressed doubt that there were enough legitimate signatures.",
+        "online": null,
+        "locations": [
+            "new york city-new york-usa"
+        ],
+        "companies": [
+            "amazon"
+        ],
+        "workers": null,
+        "tags": null,
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": [
+            [
+                40.722465,
+                -73.9977307
+            ]
+        ],
+        "addresses": [
+            "Amazon, 72, Spring Street, Manhattan Community Board 2, Manhattan, New York, 10013, United States"
         ]
     }
 ]
