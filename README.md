@@ -20,11 +20,11 @@ The goal of this archive is to provide data and insights on organizing in the te
  <table>
   <tr>
     <td>Last Updated</td>
-    <td data-summary="timestamp">02/03/2022 02:29AM</td>
+    <td data-summary="timestamp">02/03/2022 03:35AM</td>
   </tr>
   <tr>
     <td>Number of documented actions</td>
-    <td data-summary="action-count">485</td>
+    <td data-summary="action-count">486</td>
   </tr>
  </table>
 </div>
@@ -49,6 +49,21 @@ The goal of this archive is to provide data and insights on organizing in the te
    </td>
    <td>
     In response to new leadership and business restructuring that led to 2,800 employees being fired, terminated employees (who were allowed to attend the meeting) flooded the chat box of the virtual Q2 earnings call with complaints about the job cuts and mismanagement. Former employees also began helping each other find new jobs on LinkedIn and a publicly accessible spreadsheet.
+   </td>
+   <td>
+    <a href="/actions/0485.json">
+     <g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">
+      :link:
+     </g-emoji>
+    </a>
+   </td>
+  </tr>
+  <tr author="wynniechan">
+   <td>
+    2022-02-03
+   </td>
+   <td>
+    Workers at Nava PBC have joined together with a supermajority of their colleagues to form Nava United. Workers at Nava help to build accessible platforms for vital government services (like the DOJ's civil rights portal, medicare and medicaid services, and more), and more. They are forming a union to improve their working conditions and strengthen the work they do at Nava.
    </td>
    <td>
     <a href="/actions/0484.json">

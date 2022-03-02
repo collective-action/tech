@@ -1,44 +1,33 @@
 {
-    "id": 530,
-    "date": "2022/02/09",
+    "id": 531,
+    "date": "2022/02/03",
     "sources": [
-        "https://www.theverge.com/2022/2/9/22926095/peloton-ceo-all-hands-fired-employees",
-        "https://www.cnbc.com/2022/02/09/peloton-ceos-first-all-hands-meeting-cut-short-as-ex-staff-crash-it.html"
+        "https://twitter.com/Nava_United/status/1489328874575912960?s=20&t=wBhNN2TOTrksE7vxzWCo3w",
+        "https://technical.ly/company-culture/nava-pbc-tech-union/"
     ],
     "actions": [
-        "protest",
-        "resources"
+        "union drive",
+        "union representation"
     ],
     "struggles": [
-        "working conditions",
-        "job security"
+        "working conditions"
     ],
     "employment_types": [
         "white collar workers"
     ],
-    "description": "In response to new leadership and business restructuring that led to 2,800 employees being fired, terminated employees (who were allowed to attend the meeting) flooded the chat box of the virtual Q2 earnings call with complaints about the job cuts and mismanagement. Former employees also began helping each other find new jobs on LinkedIn and a publicly accessible spreadsheet.",
+    "description": "Workers at Nava PBC have joined together with a supermajority of their colleagues to form Nava United. Workers at Nava help to build accessible platforms for vital government services (like the DOJ's civil rights portal, medicare and medicaid services, and more), and more. They are forming a union to improve their working conditions and strengthen the work they do at Nava.",
     "online": true,
-    "locations": [
-        "usa"
-    ],
+    "locations": null,
     "companies": [
-        "peloton"
+        "nava pbc"
     ],
-    "workers": 260,
+    "workers": 115,
     "tags": [
-        "online action",
-        "coworker solidarity"
+        "opeiu"
     ],
     "author": [
         "wynniechan"
     ],
-    "latlngs": [
-        [
-            45.55394075,
-            -122.66734744298007
-        ]
-    ],
-    "addresses": [
-        "Peloton, Boise, Portland, Multnomah County, Oregon, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }
