@@ -36,8 +36,8 @@
     ],
     "latlngs": [
         [
-            51.5333771,
-            -0.1258455
+            51.5332143,
+            -0.1259925739528908
         ],
         [
             52.3124769,
@@ -57,10 +57,10 @@
         ]
     ],
     "addresses": [
-        "Google, Pancras Road, King's Cross, London, London Borough of Camden, Greater London, England, N1C 4BJ, United Kingdom",
+        "Google, 6, Pancras Road, King's Cross, London Borough of Camden, London, Greater London, England, N1C 4BJ, United Kingdom",
         "Amazon, Beoley CP, Holt End, Bromsgrove, Worcestershire, West Midlands, England, United Kingdom",
-        "Microsoft London, Kingdom Street, Paddington Central, Paddington, London, City of Westminster, Greater London, England, W2 6PY, United Kingdom",
+        "Microsoft London, Kingdom Street, Paddington Central, Paddington, City of Westminster, London, Greater London, England, W2 6PY, United Kingdom",
         "Samsung, 18-20, Commercial Street, City Centre, Sheffield, Yorkshire and the Humber, England, S1 2AT, United Kingdom",
-        "Deliveroo, Pentonville Road, Pentonville, Barnsbury, London, London Borough of Islington, Greater London, England, N1, United Kingdom"
+        "Deliveroo, Pentonville Road, Pentonville, Barnsbury, London Borough of Islington, London, Greater London, England, N1 9JB, United Kingdom"
     ]
 }
