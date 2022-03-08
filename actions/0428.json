@@ -1,49 +1,42 @@
 {
-    "id": 525,
-    "date": "2021/08/05",
+    "id": 486,
+    "date": "2021/08/02",
     "sources": [
-        "https://www.protocol.com/bulletins/mapbox-workers-lose-union-vote",
-        "https://www.reuters.com/technology/silicon-valley-workers-vote-down-union-softbank-backed-mapbox-2021-08-05/",
-        "https://www.mapboxworkersunion.org/faq",
-        "https://technical.ly/2021/10/04/mapbox-union-challenge/"
+        "https://www.codeforamerica.org/news/code-for-america-voluntarily-recognizes-cfa-workers-united-union/"
     ],
     "actions": [
         "union drive",
         "union representation"
     ],
     "struggles": [
-        "working conditions",
-        "job security",
-        "pay and benefits",
-        "unfair labor practices"
+        "working conditions"
     ],
     "employment_types": [
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "Workers at Mapbox had formed a union with CWA; however, they failed to achieve recognition from the NLRB when workers voted against unionization 123 to 81. The Mapbox Union will continue to represent workers to management. Since then, union members have claimed they experienced retaliation from the company, with some being fired, intimidated, or threatened. As a result, the union plans to file an unfair labor practice charge. ",
+    "description": "After CfA Workers united requested for voluntary recognition of their union on August 2nd, Code for America voluntarily recognized CfA Workers United Union on October 22, 2021. CfA is one of the first unions in civic tech, and a unionized contract is under negotiation.",
     "online": null,
     "locations": [
         "usa"
     ],
     "companies": [
-        "mapbox"
+        "code for america"
     ],
     "workers": null,
     "tags": [
-        "cwa",
-        "retaliation"
+        "opeiu"
     ],
     "author": [
         "wynniechan"
     ],
     "latlngs": [
         [
-            38.8999418,
-            -77.033996
+            37.7816161,
+            -122.4082886
         ]
     ],
     "addresses": [
-        "Mapbox, 740, 15th Street Northwest, Washington, District of Columbia, 20005, United States"
+        "Code for America, 972, Mission Street, SOMA Pilipinas, San Francisco, California, 94103, United States"
     ]
 }

@@ -1,45 +1,46 @@
 {
-    "id": 523,
-    "date": "2022/01/11",
+    "id": 528,
+    "date": "2022/01/07",
     "sources": [
-        "https://www.businessinsider.com/amazon-employee-ranking-system-drone-engineer-lawmakers-bill-washington-2022-1",
-        "https://actionnetwork.org/petitions/demand-transparency-for-washingtons-workers-pass-sb-5130?source=direct_link"
+        "https://www.cnbc.com/2022/02/04/google-fiber-workers-in-kansas-city-face-union-busting-effort-by-bds.html",
+        "https://www.kshb.com/news/local-news/google-fiber-retail-staff-in-kansas-city-begin-unionizing-efforts"
     ],
     "actions": [
-        "protest",
-        "open letter",
-        "legal action"
+        "union drive"
     ],
     "struggles": [
+        "pay and benefits",
         "working conditions"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "contract workers"
     ],
-    "description": "A former Amazon engineer created an online petition to urge Washington lawmakers to pass the SB 5130 bill. This bill would mandate employers to provide workers with access to their personnel files and internal rankings for increased transparency. While the bill is stalled, several tech workers will testify on it in the next legislative session.",
-    "online": true,
+    "description": "BDS Connected Solutions workers contracted with Google Fiber petitioned the NLRB for formal union recognition. In partnership with the Alphabet Workers Union, the unionization effort was driven by concern over work conditions, pay structure changes, understaffing, and COVID safety issues. Before the vote to determine the eligibility of union votes, workers received a letter from BDS that discouraged them from unionizing by bringing up points like \u201ceveryone will be stuck with the union and forced to pay dues\u201d and that \u201cMissouri is not a right-to-work state.\u201d\n\nAWU has released a statement of solidarity towards the Kansas City workers. A Google spokesperson has responded that BDS will handle this, and Google works with both unionized and non-unionized suppliers. ",
+    "online": null,
     "locations": [
-        "washington_dc-usa"
+        "kansas city-missouri-usa"
     ],
     "companies": [
-        "amazon"
+        "google",
+        "bds solutions group",
+        "bds connected solutions"
     ],
-    "workers": 201,
+    "workers": 10,
     "tags": [
-        "online action",
-        "politics"
+        "coronavirus",
+        "technicians",
+        "industry solidarity"
     ],
     "author": [
         "wynniechan"
     ],
     "latlngs": [
         [
-            38.9132465,
-            -77.0317256
+            39.2507006,
+            -94.661471
         ]
     ],
     "addresses": [
-        "Amazon Fresh, 1733, 14th Street Northwest, Logan Circle/Shaw, Washington, District of Columbia, 20009, United States"
+        "Google Fiber Space, 8615, Northwest Prairie View Road, Kansas City, Platte County, Missouri, 64153, United States"
     ]
 }

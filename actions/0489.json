@@ -1,21 +1,21 @@
 {
-    "id": 529,
-    "date": "2022/02/02",
+    "id": 532,
+    "date": "2022/02/16",
     "sources": [
-        "https://www.cnbc.com/2022/02/02/amazon-workers-in-new-york-file-petition-for-union-election.html"
+        "https://www.nytimes.com/2022/02/16/technology/amazon-staten-island-union.html"
     ],
     "actions": [
         "union drive"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "working conditions",
+        "pay and benefits"
     ],
     "employment_types": [
         "blue collar workers",
         "inhouse workers"
     ],
-    "description": "Workers at Amazon\u2019s Staten Island facility LDJ5 are seeking to be represented by the Amazon Labor union, and so they have filed a petition to the NLRB for a union election. ",
+    "description": "The NLRB determined that the Amazon Labor Union has enough signatures to hold an election. The election will occur in late March. An Amazon spokesperson expressed doubt that there were enough legitimate signatures.",
     "online": null,
     "locations": [
         "new york city-new york-usa"

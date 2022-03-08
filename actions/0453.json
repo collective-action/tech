@@ -1,45 +1,41 @@
 {
-    "id": 489,
-    "date": "2021/10/20",
+    "id": 487,
+    "date": "2021/10/19",
     "sources": [
-        "https://www.nytimes.com/2021/10/20/business/media/netflix-protest-dave-chappelle.html"
+        "https://www.theverge.com/2021/10/19/22726915/facebook-content-moderators-protest-low-wages",
+        "https://www.foxglove.org.uk/2021/10/19/letter-facebook-content-moderators-julie-sweet/"
     ],
     "actions": [
         "protest",
-        "strike"
+        "open letter"
     ],
     "struggles": [
-        "discrimination",
-        "ethics"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "contract workers"
     ],
-    "description": "Employees walked out of a Netflix building in Los Angeles to protest Dave Chappelle\u2019s special, joining supporters and activists who were already rallying. Other Netflix employees stopped working that day as a virtual walkout. #NetflixWalkOut also trended on Twitter. In response, Netflix issued a statement expressing support of the walkout while also remaining supportive of Chappelle.",
-    "online": true,
+    "description": "With the backing of Foxglove Legal, Facebook contract moderators at Accenture are protesting low wages with a mobile billboard and internal letter. The billboard calls for Accenture CEO Julie Sweet to \u201cstop exploiting your workers,\u201d considering how much Accenture is paid compared to how much content moderators make per hour. Ukrainian and Spanish language moderators are also excluded from the $2 premium that bilingual moderators receive. Despite the demand for equal pay in June, there was no change. Moreover, the moderators\u2019 work is emotionally and mentally taxing because of the unpleasant content they moderate. Accenture only offers access to behavioral coaches instead of professional psychological care, according to Foxglove Legal. ",
+    "online": null,
     "locations": [
-        "los angeles-california-usa"
+        "bethesda-maryland-usa",
+        "washington_dc-usa"
     ],
     "companies": [
-        "netflix"
+        "accenture",
+        "facebook"
     ],
-    "workers": 125,
+    "workers": null,
     "tags": [
-        "lgbtq",
-        "online action",
-        "politics"
+        "moderators",
+        "coworker solidarity",
+        "industry solidarity",
+        "international solidarity"
     ],
     "author": [
         "wynniechan"
     ],
-    "latlngs": [
-        [
-            34.0976547,
-            -118.3164863
-        ]
-    ],
-    "addresses": [
-        "Netflix at Sunset Bronson Studios, West Sunset Boulevard, Hollywood, Los Angeles, Los Angeles County, California, 90028-5420, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

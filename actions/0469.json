@@ -1,39 +1,52 @@
 {
-    "id": 516,
-    "date": "2021/12/18",
+    "id": 507,
+    "date": "2021/12/17",
     "sources": [
-        "https://taipeitimes.com/News/front/archives/2021/12/27/2003770256?s=09"
+        "https://www.vice.com/en/article/z3nm3a/no-ones-life-is-worth-a-package-amazon-workers-are-organizing-for-cell-phone-access"
     ],
     "actions": [
-        "protest"
+        "protest",
+        "open letter"
     ],
     "struggles": [
-        "working conditions"
+        "working conditions",
+        "pay and benefits",
+        "job security"
     ],
     "employment_types": [
-        "blue collar workers",
-        "contract workers"
+        "inhouse workers",
+        "blue collar workers"
     ],
-    "description": "Temporary workers at Foxconn Technology Group (Hon Hai), a major electronics company that manufactures Apple products, protested over their working and living conditions. The workers were mostly women. In response, the company has agreed to their demands.\nchennai-tamil nadu-india",
+    "description": "After a tornado disaster led to the death of 6 workers in an Amazon warehouse, Amazon employees are demanding changes in policy, including the ability to keep their phones with them during their shifts and changes in pay and excused absence policy in the case of severe weather. Other demands include an hourly pay raise, 20 minute breaks, and an appeals process for terminations. Signed petitions that were organized by Amazonians United were offered to warehouse managers, but some managers have refused to accept it. These actions were also motivated by reports of workers still having to show up in dangerous weather due to fear of losing their jobs.",
     "online": null,
     "locations": [
-        "chennai-india"
+        "new york city-new york-usa",
+        "washington_dc-usa",
+        "bellmawr-new jersey-usa",
+        "upper marlboro-maryland-usa"
     ],
     "companies": [
-        "foxconn"
+        "amazon"
     ],
-    "workers": null,
-    "tags": null,
+    "workers": 501,
+    "tags": [
+        "coworker_solidarity"
+    ],
     "author": [
         "wynniechan"
     ],
     "latlngs": [
         [
-            12.92266025,
-            79.88984389117235
+            40.722465,
+            -73.9977307
+        ],
+        [
+            38.9132465,
+            -77.0317256
         ]
     ],
     "addresses": [
-        "Foxconn, Sunguvarchatram, Sriperumbudur, Kanchipuram District, Tamil Nadu, India"
+        "Amazon, 72, Spring Street, Manhattan Community Board 2, Manhattan, New York, 10013, United States",
+        "Amazon Fresh, 1733, 14th Street Northwest, Logan Circle/Shaw, Washington, District of Columbia, 20009, United States"
     ]
 }

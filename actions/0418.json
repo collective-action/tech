@@ -1,42 +1,36 @@
 {
-    "id": 453,
-    "date": "2021/06/28",
+    "id": 448,
+    "date": "2021/06/16",
     "sources": [
-        "https://therealnews.com/gorillas-workers-in-germany-launch-a-wildcat-strike"
+        "https://thehill.com/policy/technology/558812-workers-at-progressive-data-firm-catalist-unionize?amp"
     ],
     "actions": [
-        "protest",
-        "strike"
+        "union drive",
+        "union representation"
     ],
     "struggles": [
-        "job security",
-        "working conditions"
+        "ethics"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Delivery workers at Gorillas held a series of wildcat strikes in June protesting their working conditions and the firing of their colleagues. Gorillas are a delivery startup company in Berlin, Germany which delivers groceries. Workers protested the company's 6-month probationary period that allows them to fire any workers without cause, resulting in job insecurity for the delivery drivers. ",
+    "description": "Workers at Catalist, a political data services provider, have formed a union. 30 out of 38 employees have joined the union which is represented by the Communication Workers of America. The motivation for workers to unionize was not any specific mistreatment, rather they believe that in the broad benefits of organizing. The company voluntarily recognized the union. ",
     "online": null,
     "locations": [
-        "berlin-germany"
+        "washington_dc-usa"
     ],
     "companies": [
-        "gorillas"
+        "catalist"
     ],
-    "workers": null,
+    "workers": 30,
     "tags": [
-        "delivery_workers"
+        "cwa",
+        "coworker_solidarity"
     ],
     "author": [
         "hyatt d."
     ],
-    "latlngs": [
-        [
-            52.5064919,
-            13.336216896921181
-        ]
-    ],
-    "addresses": [
-        "Flachland-Gorilla, Tiergarten, Mitte, Berlin, 10787, Deutschland"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

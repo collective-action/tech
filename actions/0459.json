@@ -1,107 +1,36 @@
 {
-    "id": 505,
-    "date": "2021/11/18",
+    "id": 494,
+    "date": "2021/11/13",
     "sources": [
-        "https://www.dailydot.com/debug/make-amazon-pay-black-friday/",
-        "https://www.cnet.com/tech/amazon-scattered-black-friday-protests/",
-        "https://makeamazonpay.com/"
+        "https://www.thestandard.com.hk/breaking-news/section/4/182904/Foodpanda-deliverymen-go-on-strike-over-cut-in-delivery-fee",
+        "https://chinaworker.info/en/2021/11/15/30911/",
+        "https://twitter.com/galileocheng/status/1459479651735142401?t=n5S0KrQjImEml5VnoxjgXA&s=19"
     ],
     "actions": [
         "protest",
-        "strike",
-        "open letter"
+        "strike"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions",
-        "ethics",
-        "job security"
+        "pay and benefits"
     ],
     "employment_types": [
-        "blue collar workers",
-        "contract workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "The campaign Make Amazon Pay, composed of over 70 labor unions of 20 different countries, planned delivery drivers strike, work stoppages, demonstrations, and protests on Black Friday. Their demands include \u201cworkplace improvements, job security, respect for workers\u2019 rights, sustainable operations and paying back society.\u201d Additionally, on Black Friday, the environmental group Extinction Rebellion blocked the entrances to 13 UK distribution centers, a separate protest from Make Amazon Pay. ",
-    "online": true,
+    "description": "In response to foodpanda cutting the delivery fee and fee for delivering two orders at once, the delivery workers went on strike outside the Tsim Sha Tsui and Kwun Tong foodpanda offices from November 13 to 14. Their slogans criticized the pay cuts and called for a higher minimum service charge.",
+    "online": null,
     "locations": [
-        "italy",
-        "france",
-        "usa",
-        "south africa",
-        "bangladesh",
-        "cambodia",
-        "uk",
-        "germany",
-        "netherlands",
-        "india"
+        "kwun tong-china"
     ],
     "companies": [
-        "amazon"
+        "foodpanda"
     ],
-    "workers": 22,
+    "workers": 50,
     "tags": [
-        "international solidarity",
-        "climate_strike",
-        "climate change",
-        "politics",
-        "coronavirus"
+        "delivery_workers"
     ],
     "author": [
         "wynniechan"
     ],
-    "latlngs": [
-        [
-            45.528468950000004,
-            9.835897674840712
-        ],
-        [
-            46.73690925,
-            4.850183355658723
-        ],
-        [
-            46.320207,
-            -112.1072224
-        ],
-        [
-            -25.7668121,
-            28.3256044
-        ],
-        [
-            23.60752375,
-            89.49479645087905
-        ],
-        [
-            11.5673666,
-            104.9211112
-        ],
-        [
-            52.3124769,
-            -1.878707127163782
-        ],
-        [
-            51.653494949999995,
-            7.59464606445661
-        ],
-        [
-            52.3752474,
-            4.8947825
-        ],
-        [
-            12.9798967,
-            77.6954191
-        ]
-    ],
-    "addresses": [
-        "Amazon, Cividate al Piano, Bergamo, Lombardia, Italia",
-        "Amazon.fr Logistique Distrip\u00f4le Chalon, Sevrey, Chalon-sur-Sa\u00f4ne, Sa\u00f4ne-et-Loire, Bourgogne-Franche-Comt\u00e9, France m\u00e9tropolitaine, 71100, France",
-        "Amazon, Jefferson County, Montana, United States",
-        "Amazon, The Highway Street, Wapadrand Security Village, Tshwane Ward 85, City of Tshwane Metropolitan Municipality, Gauteng, 0050, South Africa",
-        "Amazon, Narua Kheya Ghat Road, Narua, \u09b0\u09be\u099c\u09ac\u09be\u09dc\u09c0 \u099c\u09c7\u09b2\u09be, \u09a2\u09be\u0995\u09be \u09ac\u09bf\u09ad\u09be\u0997, 7730, Bangladesh",
-        "Amazon, \u1795\u17d2\u179b\u17bc\u179c \u178f\u17d2\u179a\u179f\u1780\u17cb\u1795\u17d2\u17a2\u17c2\u1798 (\u17e6\u17e3), \u179a\u17b6\u1787\u1792\u17b6\u1793\u17b8\u1797\u17d2\u1793\u17c6\u1796\u17c1\u1789, \u1781\u178e\u17d2\u178c\u178a\u17bc\u1793\u1796\u17c1\u1789, \u179a\u17b6\u1787\u1792\u17b6\u1793\u17b8\u1797\u17d2\u1793\u17c6\u1796\u17c1\u1789, 120202, \u1796\u17d2\u179a\u17c7\u179a\u17b6\u1787\u17b6\u178e\u17b6\u1785\u1780\u17d2\u179a\u200b\u1780\u1798\u17d2\u1796\u17bb\u1787\u17b6",
-        "Amazon, Beoley CP, Holt End, Bromsgrove, Worcestershire, West Midlands, England, United Kingdom",
-        "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
-        "Amazon, 169, Nieuwendijk, Centrum, Amsterdam, Noord-Holland, Nederland, 1012MG, Nederland",
-        "Amazon, Goshala Road, Vignananagar, Dodda Nekkundi, Mahadevapura Zone, Bengaluru, Bangalore East, Bangalore Urban, Karnataka, 560048, India"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

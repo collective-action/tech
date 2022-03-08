@@ -1,42 +1,43 @@
 {
-    "id": 486,
-    "date": "2021/08/02",
+    "id": 458,
+    "date": "2021/07/31",
     "sources": [
-        "https://www.codeforamerica.org/news/code-for-america-voluntarily-recognizes-cfa-workers-united-union/"
+        "https://www.vice.com/en/article/pkbvgz/no-dasher-no-deliveries-doordash-drivers-strike-for-tip-transparency",
+        "https://www.npr.org/2021/07/31/1023265561/why-doordash-drivers-are-on-strike"
     ],
     "actions": [
-        "union drive",
-        "union representation"
+        "protest",
+        "strike"
     ],
     "struggles": [
-        "working conditions"
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "After CfA Workers united requested for voluntary recognition of their union on August 2nd, Code for America voluntarily recognized CfA Workers United Union on October 22, 2021. CfA is one of the first unions in civic tech, and a unionized contract is under negotiation.",
-    "online": null,
+    "description": "Only July 31st, DoorDash drivers across the nation went on strike protesting pay and the company's lack of transparency about tips in what might be the first coordinated strike in the company's history. Workers demand that DoorDash show the tip amount for an order and have a minimum of $4.50 base pay for every order. DoorDash had recently blocked access to an app called Para that allowed workers to see the tip amount before accepting an order. Organizing for the strike began with online posts to Reddit. On the day of the strike, many workers posted online via Twitter, YouTube, and Reddit voicing their struggles. ",
+    "online": true,
     "locations": [
         "usa"
     ],
     "companies": [
-        "code for america"
+        "doordash"
     ],
     "workers": null,
     "tags": [
-        "opeiu"
+        "coworker solidarity",
+        "delivery_workers"
     ],
     "author": [
-        "wynniechan"
+        "hyatt d."
     ],
     "latlngs": [
         [
-            37.7816161,
-            -122.4082886
+            37.7834546,
+            -122.4080358
         ]
     ],
     "addresses": [
-        "Code for America, 972, Mission Street, SOMA Pilipinas, San Francisco, California, 94103, United States"
+        "Doordash HQ, Market Street, SOMA Pilipinas, San Francisco, California, 94104, United States"
     ]
 }

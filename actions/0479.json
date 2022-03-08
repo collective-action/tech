@@ -1,46 +1,49 @@
 {
-    "id": 528,
-    "date": "2022/01/07",
+    "id": 522,
+    "date": "2022/01/06",
     "sources": [
-        "https://www.cnbc.com/2022/02/04/google-fiber-workers-in-kansas-city-face-union-busting-effort-by-bds.html",
-        "https://www.kshb.com/news/local-news/google-fiber-retail-staff-in-kansas-city-begin-unionizing-efforts"
+        "https://www.theverge.com/2022/1/11/22878120/facebook-meta-whatsapp-moderators-accenture-missing-paycheck"
     ],
     "actions": [
-        "union drive"
+        "protest",
+        "open letter"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "pay and benefits"
     ],
     "employment_types": [
         "contract workers"
     ],
-    "description": "BDS Connected Solutions workers contracted with Google Fiber petitioned the NLRB for formal union recognition. In partnership with the Alphabet Workers Union, the unionization effort was driven by concern over work conditions, pay structure changes, understaffing, and COVID safety issues. Before the vote to determine the eligibility of union votes, workers received a letter from BDS that discouraged them from unionizing by bringing up points like \u201ceveryone will be stuck with the union and forced to pay dues\u201d and that \u201cMissouri is not a right-to-work state.\u201d\n\nAWU has released a statement of solidarity towards the Kansas City workers. A Google spokesperson has responded that BDS will handle this, and Google works with both unionized and non-unionized suppliers. ",
+    "description": "Facebook and Whatsapp moderators didn\u2019t receive paychecks after a change in payroll providers. In response, they posted an open letter and threatened a work stoppage until they receive their paychecks. There has been no indication of a work stoppage, according to Accenture. Some workers have received lump-sum payments that partially cover their pay. However, not everyone has received the payments.",
     "online": null,
     "locations": [
-        "kansas city-missouri-usa"
+        "austin-texas-usa"
     ],
     "companies": [
-        "google",
-        "bds solutions group",
-        "bds connected solutions"
+        "accenture",
+        "facebook",
+        "whatsapp"
     ],
-    "workers": 10,
+    "workers": null,
     "tags": [
-        "coronavirus",
-        "technicians",
-        "industry solidarity"
+        "coworker solidarity",
+        "moderators"
     ],
     "author": [
         "wynniechan"
     ],
     "latlngs": [
         [
-            39.2507006,
-            -94.661471
+            30.2658505,
+            -97.7434222
+        ],
+        [
+            30.2691649,
+            -97.7455041
         ]
     ],
     "addresses": [
-        "Google Fiber Space, 8615, Northwest Prairie View Road, Kansas City, Platte County, Missouri, 64153, United States"
+        "Accenture, 323, Congress Avenue, Downtown, Austin, Travis County, Texas, 78701, United States",
+        "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
     ]
 }

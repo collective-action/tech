@@ -1,42 +1,43 @@
 {
-    "id": 508,
+    "id": 515,
     "date": "2021/12/23",
     "sources": [
-        "https://deadline.com/2021/12/apple-employees-christmas-eve-boycott-1234901677/",
-        "https://uk.news.yahoo.com/apple-workers-walk-christmas-eve-195521760.html?guccounter=1&guce_referrer=aHR0cHM6Ly9kZWFkbGluZS5jb20v&guce_referrer_sig=AQAAALWVW9ivmXOG7qloLztp29VH4yT1Kd3tmDTuAEvYu_7W556oAVr0LDkumNrdkuaVmpezEkLAHZBeFOGyx7z2gfWiXiJ_AEyciWjsFVZxbjeutU5KvtfAT3lxRFu6zF6WR40fYR6iHqI6LS8ESCANFc5PZit7j_Oe3MXE_bbf758R"
+        "https://www.cbsnews.com/news/amazon-reaches-settlement-that-gives-workers-more-power-to-organize/"
     ],
     "actions": [
-        "protest",
-        "strike"
+        "legal action"
     ],
     "struggles": [
-        "working conditions",
-        "pay and benefits"
+        "unfair labor practices",
+        "working conditions"
     ],
     "employment_types": [
         "white collar workers",
-        "inhouse workers"
+        "inhouse workers",
+        "blue collar workers"
     ],
-    "description": "Apple Together, a group of Apple employees in retail and corporate, staged a walkout and are encouraging customers to boycott Apple products on Christmas Eve. They are demanding better working conditions, including paid sick leave and COVID-related protection, and hazard pay.",
-    "online": true,
+    "description": "Amazon has reached a settlement with the NLRB that would allow its workers to organize more freely without retaliation. Amazon will also email its employees to notify them of their organizing rights.",
+    "online": null,
     "locations": [
         "usa"
     ],
     "companies": [
-        "apple"
+        "amazon"
     ],
-    "workers": 51,
-    "tags": null,
+    "workers": null,
+    "tags": [
+        "retaliation"
+    ],
     "author": [
         "wynniechan"
     ],
     "latlngs": [
         [
-            37.3326452,
-            -122.0299129658936
+            46.320207,
+            -112.1072224
         ]
     ],
     "addresses": [
-        "Apple Campus, Cupertino, Santa Clara County, California, United States"
+        "Amazon, Jefferson County, Montana, United States"
     ]
 }

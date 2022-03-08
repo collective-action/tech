@@ -1,41 +1,36 @@
 {
-    "id": 533,
-    "date": "2022/02/07",
+    "id": 527,
+    "date": "2022/02/03",
     "sources": [
-        "https://progressive.international/wire/2022-02-15-turkish-delivery-workers-protest-for-wage-increase-and-unionization-rights/en"
+        "https://technical.ly/2022/02/03/nava-pbc-tech-union/",
+        "https://twitter.com/Nava_United/status/1489328874575912960?t=XCIQHf6V9CimZJiYw_rUoQ&s=19"
     ],
     "actions": [
-        "protest",
-        "strike",
-        "union drive"
+        "union representation",
+        "union drive",
+        "open letter"
     ],
     "struggles": [
-        "pay and benefits"
+        "pay and benefits",
+        "job security",
+        "ethics"
     ],
     "employment_types": [
+        "white collar workers",
         "contract workers",
-        "gig workers"
+        "inhouse workers"
     ],
-    "description": "In response to the economic crisis in Turkey, food delivery company, Yemeksepeti Banabi, announced a 10% raise in salary, which sparked outrage, and its delivery workers of Yemeksepeti Banabi are striking for higher wages. They are also demanding to change the business model, in which they are considered self-employed and don\u2019t have social security. A majority union, The All Shipping Workers Union, has been formed, but the company is preventing unionization rights from being implemented through legal loopholes. \n\nIn similar Turkish companies like Trendyol Express, Yurti\u00e7i Cargo, Scotty, Aras Cargo, S\u00fcrat Cargo, and Migros Warehouse, delivery workers also protested the miniscule wage increase. Trendyol Express workers succeeded in a wage increase from 11% to 39%. \n\nThe head of the Transportation Workers Union expressed solidarity and support.",
+    "description": "After two years of organizing, Nava PBC workers formed Nava United in partnership with OPEIU. Besides adding stability and benefits, union organizers hope that this effort will \u201cincrease pay transparency, equity, employee retention and attract new talent.\u201d They are currently seeking voluntary recognition. ",
     "online": null,
     "locations": [
-        "levent-turkey",
-        "izmir-turkey",
-        "ankara-turkey"
+        "washington_dc-usa"
     ],
     "companies": [
-        "yemeksepti banabi",
-        "trendyol express",
-        "yurtici cargo",
-        "scotty",
-        "aras cargo",
-        "surat cargo",
-        "migros warehouse"
+        "nava pbc"
     ],
-    "workers": null,
+    "workers": 171,
     "tags": [
-        "delivery_workers",
-        "industry solidarity"
+        "opeiu"
     ],
     "author": [
         "wynniechan"

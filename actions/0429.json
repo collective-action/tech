@@ -1,43 +1,49 @@
 {
-    "id": 524,
-    "date": "2021/08/08",
+    "id": 525,
+    "date": "2021/08/05",
     "sources": [
-        "https://www.zhihu.com/question/478292821"
+        "https://www.protocol.com/bulletins/mapbox-workers-lose-union-vote",
+        "https://www.reuters.com/technology/silicon-valley-workers-vote-down-union-softbank-backed-mapbox-2021-08-05/",
+        "https://www.mapboxworkersunion.org/faq",
+        "https://technical.ly/2021/10/04/mapbox-union-challenge/"
     ],
     "actions": [
-        "open letter"
+        "union drive",
+        "union representation"
     ],
     "struggles": [
-        "discrimination",
-        "working conditions"
+        "working conditions",
+        "job security",
+        "pay and benefits",
+        "unfair labor practices"
     ],
     "employment_types": [
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "Over the summer of 2021, a female employee at Alibaba was sexually assaulted by her supervisor after a business meeting where she was expected to drink. The incident became known as the Alibaba incident, or 807--August 7th--which was the date when the victim posted an essay that detailed the night she was sexually assaulted. In her post, she also talked about how, after the incident, she demanded that the perpetrator be fired from Alibaba, but her superiors at the company protected him. \n\nAfter the essay was published, over 6000 employees joined a discussion group to support the victim. On August 8th, they posted a set of recommendations to the company. The post was titled \"Aliren for Aliren\" (\"ren\" means \"people\", so this can be read \"Ali-people for Ali-people\"). The post critiqued the lack of protection of women employee's rights and the incompetency of upper management for not being able to help the victim.  \n\nThe recommendations included giving the victim a paid vacation to emotionally and physically recover from the incident, compensating the victim for her injuries, providing the victim and her family with the necessary counseling/therapy, making the investigation process transparent, providing better training and support to combat sexual harassment and discrimination at the workplace, and reforming HR to better serve the needs of employees (and not just management). ",
-    "online": true,
+    "description": "Workers at Mapbox had formed a union with CWA; however, they failed to achieve recognition from the NLRB when workers voted against unionization 123 to 81. The Mapbox Union will continue to represent workers to management. Since then, union members have claimed they experienced retaliation from the company, with some being fired, intimidated, or threatened. As a result, the union plans to file an unfair labor practice charge. ",
+    "online": null,
     "locations": [
-        "china"
+        "usa"
     ],
     "companies": [
-        "alibaba"
+        "mapbox"
     ],
-    "workers": 6000,
+    "workers": null,
     "tags": [
-        "sexism",
-        "sexual_harassment"
+        "cwa",
+        "retaliation"
     ],
     "author": [
-        "organizejs"
+        "wynniechan"
     ],
     "latlngs": [
         [
-            29.3169332,
-            120.0873432
+            38.8999418,
+            -77.033996
         ]
     ],
     "addresses": [
-        "Alibaba (halal), \u7a20\u5dde\u5317\u8def, \u4e49\u4e4c\u5e02, \u6d59\u6c5f\u7701, 322000, \u4e2d\u56fd"
+        "Mapbox, 740, 15th Street Northwest, Washington, District of Columbia, 20005, United States"
     ]
 }

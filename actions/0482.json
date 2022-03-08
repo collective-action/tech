@@ -1,40 +1,37 @@
 {
-    "id": 529,
-    "date": "2022/02/02",
+    "id": 526,
+    "date": "2022/01/21",
     "sources": [
-        "https://www.cnbc.com/2022/02/02/amazon-workers-in-new-york-file-petition-for-union-election.html"
+        "https://ohionewstime.com/workers-in-a-studio-owned-by-activision-blizzard-say-they-formed-a-coalition/321196/"
     ],
     "actions": [
         "union drive"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "working conditions",
+        "ethics"
     ],
     "employment_types": [
-        "blue collar workers",
+        "white collar workers",
         "inhouse workers"
     ],
-    "description": "Workers at Amazon\u2019s Staten Island facility LDJ5 are seeking to be represented by the Amazon Labor union, and so they have filed a petition to the NLRB for a union election. ",
+    "description": "Thirty-four members of Activision Blizzard Studios have formed a union supported by the CWA. The members have requested for Activision Blizzard to voluntarily recognize it. Activision Blizzard responded that they are \u201ccarefully considering\u201d it. Unionization efforts have started in response to poor workplace conditions and issues of sexual harassment.",
     "online": null,
     "locations": [
-        "new york city-new york-usa"
+        "san francisco-california-usa"
     ],
     "companies": [
-        "amazon"
+        "activision blizzard"
     ],
-    "workers": null,
-    "tags": null,
+    "workers": 34,
+    "tags": [
+        "cwa",
+        "coworker solidarity",
+        "sexual_harassment"
+    ],
     "author": [
         "wynniechan"
     ],
-    "latlngs": [
-        [
-            40.722465,
-            -73.9977307
-        ]
-    ],
-    "addresses": [
-        "Amazon, 72, Spring Street, Manhattan Community Board 2, Manhattan, New York, 10013, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }
