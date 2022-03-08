@@ -2261,8 +2261,8 @@
         ],
         "latlngs": [
             [
-                37.40114225,
-                -121.92943989999999
+                37.400714050000005,
+                -121.930720897062
             ],
             [
                 37.3504112,
@@ -2270,7 +2270,7 @@
             ]
         ],
         "addresses": [
-            "Broadcom (280/#2), 280, Innovation Drive, San Jose, Santa Clara County, California, 95031, United States",
+            "Broadcom (250/#1), 250, Innovation Drive, San Jose, Santa Clara County, California, 95134, United States",
             "Universal Protection Service, North 1st Street, Civic Center, Japantown, San Jose, Santa Clara County, California, 95112, United States"
         ]
     },
@@ -18323,8 +18323,15 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                40.6453855,
+                -74.1077517
+            ]
+        ],
+        "addresses": [
+            "Blue, 1115, Richmond Terrace, Staten Island, Richmond County, New York, 10310, United States"
+        ]
     },
     {
         "id": 473,
@@ -18938,15 +18945,8 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": [
-            [
-                34.0976547,
-                -118.3164863
-            ]
-        ],
-        "addresses": [
-            "Netflix at Sunset Bronson Studios, West Sunset Boulevard, Hollywood, Los Angeles, Los Angeles County, California, 90028-5420, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 484,
