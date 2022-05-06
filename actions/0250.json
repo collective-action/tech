@@ -1,53 +1,45 @@
 {
-    "id": 234,
-    "date": "2020/02/29",
+    "id": 231,
+    "date": "2020/02/14",
     "sources": [
-        "https://www.buzzfeednews.com/article/carolineodonovan/warehouse-workers-say-they-caught-amazon-breaking-the-law",
-        "https://www.coworker.org/petitions/amazon-give-us-fair-compensation-a-fair-workplace-and-fair-accommodations?just_launched=true"
+        "https://www.change.org/p/larry-ellison-uphold-company-ethics",
+        "https://time.com/5784848/oracle-petition-larry-ellison-trump/",
+        "https://www.washingtontimes.com/news/2020/feb/14/oracle-employees-petition-chairman-larry-ellison-t/"
     ],
     "actions": [
         "open letter"
     ],
     "struggles": [
-        "unfair labor practices",
-        "pay and benefits"
+        "ethics",
+        "discrimination"
     ],
     "employment_types": [
-        "blue collar workers",
-        "inhouse workers"
+        "white collar workers"
     ],
-    "description": "Over the past few months, Amazon workers across the country have called on the company to provide part-time employees with paid sick leave. Amazon workers in New York City have started an online petition on coworker.org to advocate for paid time off, paid sick leave, and a process to appeal final warnings. Over 1,200 people have signed the petition. Workers at the Skokie, Illinois facility have written a letter to management and are circulating a petition demanding backdated paid time off. Though many workers log more than 20 hours a week, they are still recognized as part-time employees of the company. These events follow similar actions taken by Amazon workers in Sacramento late in 2019.",
-    "online": null,
+    "description": "Oracle founder and CTO Larry Ellison\u2018s decision to throw a fundraiser for President Donald Trump has angered  Oracle employees, who have set up a Change.org petition demanding he cancel the fundraiser. \u201cAs Oracle employees, we must hold our leaders accountable for upholding their ethical responsibilities,\u201d the petition, which anyone can sign, continues. \u201cEllison\u2019s financial support of Donald Trump endangers the well-being of women, immigrants, communities of color, the environment, LGBTQ and trans communities, disabled people and workers everywhere.\u201d",
+    "online": true,
     "locations": [
-        "new york city-new york-usa",
-        "skokie-illinois-usa",
-        "sacramento-california-usa"
+        "usa"
     ],
     "companies": [
-        "amazon"
+        "oracle"
     ],
-    "workers": 1260,
-    "tags": null,
+    "workers": null,
+    "tags": [
+        "trump",
+        "lgbtq",
+        "ableism"
+    ],
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
     "latlngs": [
         [
-            40.722465,
-            -73.9977307
-        ],
-        [
-            42.0181391,
-            -87.76355375148333
-        ],
-        [
-            38.6767343,
-            -121.4948028
+            32.6099702,
+            -110.7651843
         ]
     ],
     "addresses": [
-        "Amazon, 72, Spring Street, Manhattan Community Board 2, Manhattan, New York, 10013, United States",
-        "SIL2 - Amazon SSD, 7555, Linder Avenue, Skokie, Niles Township, Cook County, Illinois, 60077, United States",
-        "Amazon Avenue, Sacramento, Sacramento County, California, 95835, United States"
+        "Oracle, Pinal County, Arizona, 85623, United States"
     ]
 }

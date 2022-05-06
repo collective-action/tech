@@ -1,40 +1,38 @@
 {
-    "id": 402,
-    "date": "2020/11/07",
+    "id": 351,
+    "date": "2020/10/22",
     "sources": [
-        "https://clb.org.hk/content/all-india-gig-workers-union-case-study"
+        "https://www.washingtonpost.com/technology/2020/10/22/uber-prop22-suit/"
     ],
     "actions": [
-        "union drive"
+        "legal action"
     ],
     "struggles": [
-        "pay and benefits"
+        "ethics"
     ],
     "employment_types": [
         "gig workers"
     ],
-    "description": "The All India Gig Workers Union (AIGWU) which, was initiated by the Center of India Trade Union (CITU) is attempting to become a registered as an All-India Union. Their main focus of their goal is to help delivery drivers through organization and so that they can initiate platform and political change for better wages and working conditions. ",
+    "description": "A group of California Uber drivers sued the company for asking drivers to support Prop. 22 (a state proposition that would overrule attempts to classify gig workers as employees) through in-app messaging. The suit seeks an injunction that would stop the messages. The plaintiffs were active in the movement against Prop. 22. They claimed that the company's message that 72% of its drivers support Prop. 22 was false because that percentage was the result of company pressures (including workers' concerns that the company was surveilling their survey answers on the app). ",
     "online": null,
     "locations": [
-        "india"
+        "san francisco-california-usa"
     ],
-    "companies": null,
+    "companies": [
+        "uber"
+    ],
     "workers": null,
-    "tags": [
-        "drivers",
-        "industry solidarity",
-        "politics"
-    ],
+    "tags": null,
     "author": [
-        "hyatt d."
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            22.3511148,
-            78.6677428
+            37.7899898,
+            -122.3999799
         ]
     ],
     "addresses": [
-        "India"
+        "Uber, Market Street, Financial District, San Francisco, California, 94105, United States"
     ]
 }

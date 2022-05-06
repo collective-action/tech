@@ -1,42 +1,33 @@
 {
-    "id": 328,
-    "date": "2020/08/31",
+    "id": 319,
+    "date": "2020/08/26",
     "sources": [
-        "https://guardian.ng/news/uber-bolt-drivers-begin-one-week-strike-in-lagos/",
-        "https://guardian.ng/news/e-hailing-drivers-reject-reviewed-lagos-ride-hailing-regulation/"
+        "https://rabble.ca/news/2020/08/former-foodora-workers-receive-closure-346-million-settlement"
     ],
     "actions": [
-        "strike"
+        "legal action"
     ],
     "struggles": [
-        "pay and benefits"
+        "unfair labor practices"
     ],
     "employment_types": [
         "gig workers"
     ],
-    "description": "Rideshare drivers in Lagos, Nigeria went on a one-week strike to protest new state regulations that added a fixed service tax to all trips. The agreement was reached between the companies, the Lagos state government, and the Professional E-hailing Drivers and Private Owners Association but did not include the National Union of Professional App-Based Workers, which union representatives claim was sidelined during negotiations due to its initial rejection of the proposal.  ",
+    "description": "Foodora workers in Canada received a $3.5 million settlement after suing their employer for union busting. Foodora chose to leave Canada in April 2020 after the Ontario Labor Board voted to recognize the couriers as company employees. The Canadian Union of Postal Workers sued on behalf of the workers and declared that the settlement would be distributed between all Canadian Foodora employees.",
     "online": null,
     "locations": [
-        "lagos-nigeria"
+        "canada"
     ],
     "companies": [
-        "uber",
-        "bolt"
+        "foodora"
     ],
-    "workers": null,
+    "workers": 2000,
     "tags": [
-        "drivers"
+        "delivery_workers"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            6.45269435,
-            3.4498998
-        ]
-    ],
-    "addresses": [
-        "Uber Nigeria HQ, 2, Onikoyi Road, Ikoyi, Okepa, Eti Osa, Lagos, 106104, Nigeria"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

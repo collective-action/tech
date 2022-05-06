@@ -1,36 +1,49 @@
 {
-    "id": 439,
-    "date": "2021/05/18",
+    "id": 455,
+    "date": "2021/05/07",
     "sources": [
-        "https://www.theverge.com/2021/5/18/22441236/jewish-google-employees-support-palestine-letter-anti-zionism-israel"
+        "https://www.protocol.com/policy/google-interns-won-stipend"
     ],
     "actions": [
         "open letter"
     ],
     "struggles": [
-        "discrimination",
-        "ethics"
+        "pay and benefits"
     ],
     "employment_types": [
+        "interns",
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "At Google, a group of Jewish employees (Jewish Diaspora in Tech) is asking the company to support Palestinians during the Israeli bombing campaign in Gaza. An internal letter was circulated among employees asking Sundar Pichai to make a statement condemning recent Israeli attacks on Gaza. The letter mentions accepting the requests of Palestinian Googlers and funding relief for Palestinians affected by the violence, as well as protecting freedom of speech within the company. This new group was formed because some Jewish employees felt that the official Jewish ERG didn't allow a safe place to express anti-Zionist beliefs. ",
+    "description": "Interns in Google's BOLD internship program, Tyrese Thomas and Jacob Ngai created a petition with the help of the Alphabet Workers Union. The petition asked Google to provide a $5,000 stipend for costs such as rent and other basic needs for their job. Typically, Google covers these costs with an $11,000 relocation stipend. However, due to COVID-19, the stipend wasn't instated because interns would work remotely from home. Interns argued, however, that those from lower income backgrounds might need additional funding to find office space during the day or to cover the costs of childcare. Overall, the petition gathered 1500 signatures from interns and Google employees. Google gave the interns a $5,000 stipend to spend on what they deem necessary. ",
     "online": true,
     "locations": [
-        "worldwide"
+        "usa"
     ],
     "companies": [
-        "google"
+        "google",
+        "alphabet"
     ],
-    "workers": 250,
+    "workers": 1500,
     "tags": [
-        "international solidarity",
-        "politics"
+        "students",
+        "coworker solidarity"
     ],
     "author": [
         "hyatt d."
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            33.977092,
+            -118.4092133
+        ],
+        [
+            37.3398646,
+            -121.8844823
+        ]
+    ],
+    "addresses": [
+        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
+        "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112-3580, United States"
+    ]
 }

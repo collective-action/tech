@@ -1,40 +1,52 @@
 {
-    "id": 513,
-    "date": "2021/12/22",
+    "id": 507,
+    "date": "2021/12/17",
     "sources": [
-        "https://www.theverge.com/2021/12/22/22850880/amazon-workers-staten-island-refile-union-petition",
-        "https://www.cnbc.com/2021/12/22/amazon-warehouse-workers-on-staten-island-refile-union-petition.html"
+        "https://www.vice.com/en/article/z3nm3a/no-ones-life-is-worth-a-package-amazon-workers-are-organizing-for-cell-phone-access"
     ],
     "actions": [
-        "union drive"
+        "protest",
+        "open letter"
     ],
     "struggles": [
+        "working conditions",
         "pay and benefits",
-        "working conditions"
+        "job security"
     ],
     "employment_types": [
+        "inhouse workers",
         "blue collar workers"
     ],
-    "description": "Staten Island Amazon workers of the Amazon Labor Union refiled a union petition to the NLRB and are focusing on unionizing the JFK8 warehouse.",
+    "description": "After a tornado disaster led to the death of 6 workers in an Amazon warehouse, Amazon employees are demanding changes in policy, including the ability to keep their phones with them during their shifts and changes in pay and excused absence policy in the case of severe weather. Other demands include an hourly pay raise, 20 minute breaks, and an appeals process for terminations. Signed petitions that were organized by Amazonians United were offered to warehouse managers, but some managers have refused to accept it. These actions were also motivated by reports of workers still having to show up in dangerous weather due to fear of losing their jobs.",
     "online": null,
     "locations": [
-        "staten island-new york city-new york-usa"
+        "new york city-new york-usa",
+        "washington_dc-usa",
+        "bellmawr-new jersey-usa",
+        "upper marlboro-maryland-usa"
     ],
     "companies": [
         "amazon"
     ],
-    "workers": null,
-    "tags": null,
+    "workers": 501,
+    "tags": [
+        "coworker_solidarity"
+    ],
     "author": [
         "wynniechan"
     ],
     "latlngs": [
         [
-            40.6193387,
-            -74.0727749
+            40.722465,
+            -73.9977307
+        ],
+        [
+            38.9132465,
+            -77.0317256
         ]
     ],
     "addresses": [
-        "Amazon Court, Clifton, Staten Island, Richmond County, New York, 10304, United States"
+        "Amazon, 72, Spring Street, Manhattan Community Board 2, New York County, New York, 10013, United States",
+        "Amazon Fresh, 1733, 14th Street Northwest, Logan Circle/Shaw, Washington, District of Columbia, 20009, United States"
     ]
 }

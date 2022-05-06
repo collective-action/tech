@@ -1,41 +1,33 @@
 {
-    "id": 312,
-    "date": "2020/08/12",
+    "id": 299,
+    "date": "2020/08/01",
     "sources": [
-        "https://qz.com/1894241/belaruss-crackdown-could-squash-minsks-budding-tech-sector/",
-        "https://dev.by/news/otkrytoe-pismo-it-kompanii"
+        "https://www.vice.com/en_au/article/ep4qdz/amazon-workers-blocked-delivery-trucks-from-leaving-a-warehouse-for-hours"
     ],
     "actions": [
-        "open letter"
+        "strike",
+        "protest"
     ],
     "struggles": [
-        "ethics"
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers",
         "inhouse workers",
-        "contract workers"
+        "blue collar workers"
     ],
-    "description": "Over 2,900 Belarusian tech workers, including top level management and investors, publicly signed onto an open letter calling the recent presidential elections a fraud. Signatories threatened to relocate their offices and investments outside of Belarus, stating that the atmosphere of fear and suppression was not conducive to a thriving technology sector. The letter denounced anti-democratic measures taken by the government, including the arrests of protesters and widespread Internet outages, and called for new elections, the release of those arrested, and freedom of press in the country. ",
-    "online": true,
+    "description": "A caravan of protestors demanding increased pay and COVID-19 protections disrupted business at an Amazon Distribution Center in the San Francisco Bay Area. The caravan was organized by Bay Area Amazonians.",
+    "online": null,
     "locations": [
-        "belarus"
+        "san leandro-california-usa"
     ],
-    "companies": null,
-    "workers": 2900,
+    "companies": [
+        "amazon"
+    ],
+    "workers": 30,
     "tags": [
-        "politics"
+        "coronavirus"
     ],
-    "author": [
-        "nataliyaned"
-    ],
-    "latlngs": [
-        [
-            53.4250605,
-            27.6971358
-        ]
-    ],
-    "addresses": [
-        "\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c"
-    ]
+    "author": null,
+    "latlngs": null,
+    "addresses": null
 }

@@ -1,24 +1,23 @@
 {
-    "id": 474,
-    "date": "2021/09/30",
+    "id": 473,
+    "date": "2021/09/20",
     "sources": [
-        "https://www.vice.com/en/article/v7e9gb/instacart-shoppers-will-stage-nationwide-strike",
-        "https://gigworkerscollective.medium.com/open-letter-to-fidgi-simo-instacarts-ceo-e72c0de55e22"
+        "https://gigworkerscollective.medium.com/deleteinstacart-b1e138ed88f3"
     ],
     "actions": [
-        "strike",
-        "open letter"
+        "open letter",
+        "protest"
     ],
     "struggles": [
-        "working conditions",
         "pay and benefits",
+        "working conditions",
         "unfair labor practices"
     ],
     "employment_types": [
         "gig workers"
     ],
-    "description": "Instacart shoppers under Gig Workers Collective have planned a nationwide work stoppage on October 16 until Instacart agrees to their demands for higher pay, occupational death benefits, and a more fair rating system. An Instacart spokesperson has responded that these experiences do not reflect the majority and are receptive to feedback. However, the workers claimed only receiving generic responses, and\ntheir open letter addressed to CEO Fidji Simo was ignored. ",
-    "online": null,
+    "description": "Instacart has been accused of exploiting their gig workers, considering tip theft, unsafe working conditions, pay cuts, COVID practices, among others. Despite a CEO change, Instacart has not changed its practices, so Gig Workers Collective calls on Instacart\u2019s customers to delete the app and support the Collective\u2019s demands with the hashtag #DELETEINSTACART. The demands include: (1) \u201cInstacart shoppers must be paid by order, and not by batch,\u201d (2) \u201cInstacart must re-introduce item commission,\u201d (3) \u201cInstacart\u2019s rating system can no longer unfairly punish shoppers for issues outside their control,\u201d (4) \u201coccupational death benefits,\u201d (5) and \u201cdefault tip must be raised to at least 10% for every single order.\u201d",
+    "online": true,
     "locations": [
         "usa"
     ],
@@ -27,7 +26,9 @@
     ],
     "workers": null,
     "tags": [
-        "delivery_workers"
+        "coronavirus",
+        "delivery_workers",
+        "online action"
     ],
     "author": [
         "wynniechan"

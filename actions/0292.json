@@ -1,42 +1,33 @@
 {
-    "id": 334,
-    "date": "2020/06/03",
+    "id": 271,
+    "date": "2020/05/23",
     "sources": [
-        "https://www.nytimes.com/2020/06/03/technology/facebook-trump-employees-letter.html",
-        "https://www.businessinsider.com/early-facebook-employees-write-open-letter-mark-zuckerberg-2020-6"
+        "https://hk.appledaily.com/breaking/20200527/6PTZ5EDM7HK2NQDMSGESGVGAQA/"
     ],
     "actions": [
-        "open letter"
+        "strike"
     ],
     "struggles": [
-        "ethics"
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "Nearly three dozen early Facebook employees, including its first Chief of Communications, wrote a letter to CEO Mark Zuckerberg protesting his decision to leave Donald Trump's posts up on the website without action. Twitter chose to add labels to several of these posts warning that they were inaccurate or glorified violence. They claimed Facebook's inaction against these posts violated many of the original ideals the company had been founded on. ",
-    "online": true,
+    "description": "Deliveroo workers went on strike for multiple days in Hong Kong over the company's new payment structure. ",
+    "online": null,
     "locations": [
-        "usa"
+        "hong kong-china"
     ],
     "companies": [
-        "facebook"
+        "deliveroo"
     ],
-    "workers": null,
+    "workers": 200,
     "tags": [
-        "politics"
+        "delivery_workers"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            30.2691649,
-            -97.7455041
-        ]
-    ],
-    "addresses": [
-        "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

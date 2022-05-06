@@ -1,34 +1,33 @@
 {
-    "id": 473,
-    "date": "2021/09/20",
+    "id": 480,
+    "date": "2021/09/14",
     "sources": [
-        "https://gigworkerscollective.medium.com/deleteinstacart-b1e138ed88f3"
+        "https://www.vice.com/amp/en/article/m7ey5b/hellofresh-workers-are-unionizing-the-booming-meal-kit-industry?__twitter_impression=true"
     ],
     "actions": [
-        "open letter",
-        "protest"
+        "union drive",
+        "union representation"
     ],
     "struggles": [
         "pay and benefits",
-        "working conditions",
-        "unfair labor practices"
+        "working conditions"
     ],
     "employment_types": [
-        "gig workers"
+        "blue collar workers"
     ],
-    "description": "Instacart has been accused of exploiting their gig workers, considering tip theft, unsafe working conditions, pay cuts, COVID practices, among others. Despite a CEO change, Instacart has not changed its practices, so Gig Workers Collective calls on Instacart\u2019s customers to delete the app and support the Collective\u2019s demands with the hashtag #DELETEINSTACART. The demands include: (1) \u201cInstacart shoppers must be paid by order, and not by batch,\u201d (2) \u201cInstacart must re-introduce item commission,\u201d (3) \u201cInstacart\u2019s rating system can no longer unfairly punish shoppers for issues outside their control,\u201d (4) \u201coccupational death benefits,\u201d (5) and \u201cdefault tip must be raised to at least 10% for every single order.\u201d",
-    "online": true,
+    "description": "1,300 HelloFresh workers are unionizing with UNITE HERE in Colorado and California due to low wages, safety issues, and poor work conditions. HelloFresh management has also been unresponsive towards workers after a COVID-19 outbreak in a Richmond facility. UNITE HERE filed a petition to NLRB to authorize a vote to unionize. In response, anti-union consultants, such as Kulture Consulting, were reported to have held mandatory anti-union meetings. Update: as of 11/23/2021, Workers at the HelloFresh Aurora facility voted 166-to-91 against union organizing. ",
+    "online": null,
     "locations": [
-        "usa"
+        "richmond-california-usa",
+        "aurora-colorado-usa"
     ],
     "companies": [
-        "instacart"
+        "hellofresh"
     ],
-    "workers": null,
+    "workers": 1300,
     "tags": [
-        "coronavirus",
-        "delivery_workers",
-        "online action"
+        "unite_here",
+        "coronavirus"
     ],
     "author": [
         "wynniechan"

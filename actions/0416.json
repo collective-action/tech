@@ -1,44 +1,37 @@
 {
-    "id": 465,
-    "date": "2021/06/03",
+    "id": 443,
+    "date": "2021/05/25",
     "sources": [
-        "https://www.vice.com/en/article/7kv89q/riders-for-europes-delivery-unicorn-report-grueling-delivery-times-and-back-pain"
+        "https://www.middleeasteye.net/news/israel-palestine-amazon-employees-urge-jeff-bezos-cut-ties-israeli-military"
     ],
     "actions": [
-        "union drive",
-        "strike"
+        "open letter"
     ],
     "struggles": [
-        "working conditions",
-        "pay and benefits",
-        "unfair labor practices"
+        "ethics"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers",
+        "blue collar workers",
+        "inhouse workers",
+        "contract workers"
     ],
-    "description": "Delivery workers at Gorillas are organizing to form a work council known as Gorillas Workers Collective. At three warehouses, riders unanimously voted to go on strike and form the Gorillas Workers Collective. The employees held a meeting to establish a work council to obtain co-determination rights. Having access to these rights would allow them to have a say in break times and safety arrangements. The workers have organized due to unpaid hours, back pain and psychological distress incurred from the job, lack of safety, violation of labor laws, and chaotic management. ",
-    "online": null,
+    "description": "Approximately 600 Amazon employees have signed an open letter asking Jeff Bezos to break off all ties to the Israeli military. The letter points out that Amazon employs Palestinians around the world, including in Tel Aviv and Haifa and that \"ignoring the suffering faced by Palestinians and their families at home erases our Palestinian coworkers.\"",
+    "online": true,
     "locations": [
-        "berlin-germany"
+        "worldwide"
     ],
     "companies": [
-        "gorillas"
+        "amazon"
     ],
-    "workers": 6,
+    "workers": 600,
     "tags": [
-        "delivery_workers"
+        "military_contracts",
+        "politics"
     ],
     "author": [
-        "hyatt d.",
-        "wynniechan"
+        "hyatt d."
     ],
-    "latlngs": [
-        [
-            52.5064919,
-            13.336216896921181
-        ]
-    ],
-    "addresses": [
-        "Flachland-Gorilla, Tiergarten, Mitte, Berlin, 10787, Deutschland"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

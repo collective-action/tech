@@ -1,35 +1,34 @@
 {
-    "id": 352,
-    "date": "2020/10/22",
+    "id": 419,
+    "date": "2020/10/15",
     "sources": [
-        "https://www.nytimes.com/2020/10/22/business/amazon-shutdown-threat-election-day.html"
+        "https://dailynewsweek.com/amazon-employees-start-anti-surveillance-petition-for-labor-tracking/"
     ],
     "actions": [
-        "strike"
+        "protest",
+        "open letter"
     ],
     "struggles": [
-        "working conditions",
-        "ethics"
+        "working conditions"
     ],
     "employment_types": [
         "blue collar workers",
         "inhouse workers"
     ],
-    "description": "Amazon workers, organized by Amazon Employees for Climate Justice, are calling for a 15-minute work stoppage at warehouses across the country on Halloween in a push for paid time-off for voting on Election Day. ",
-    "online": true,
+    "description": "A group of Amazon employees are circulating a petition, first created in October, demanding that Amazon stop monitoring employee activism and labor organization efforts.  The group is called Amazonians for Employee Privacy and they are requesting more transparency from Amazon about their surveillance activities, including their union heat map. ",
+    "online": null,
     "locations": [
         "usa"
     ],
     "companies": [
         "amazon"
     ],
-    "workers": null,
+    "workers": 199,
     "tags": [
-        "politics",
-        "coworker_solidarity"
+        "surveillance"
     ],
     "author": [
-        "nataliyaned"
+        "hyatt d."
     ],
     "latlngs": [
         [

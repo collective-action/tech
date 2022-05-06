@@ -1,41 +1,40 @@
 {
-    "id": 324,
-    "date": "2020/01/01",
+    "id": 221,
+    "date": "2019/12/19",
     "sources": [
-        "https://www.reuters.com/article/us-hongkong-protests-unions/hong-kong-workers-flock-to-labor-unions-as-new-protest-tactic-idUSKBN1Z9007",
-        "https://www.hkitwu.org/about-us/",
-        "https://www.hkitwu.org/2020/01/3630/"
+        "https://static.theintercept.com/amp/shutterstock-china-censorship-tech.html",
+        "https://medium.com/@techagainstfascism/in-solidarity-with-pluralism-and-peaceful-dissent-in-india-b9c40e0d4476"
     ],
     "actions": [
-        "union representation"
+        "open letter"
     ],
     "struggles": [
-        "unfair labor practices"
+        "ethics"
     ],
     "employment_types": [
         "white collar workers"
     ],
-    "description": "The Hong Kong Information Technology Workers\u2019 Union form out of the 2019 Hong Kong movement, and is developing a database of employers who do not threaten or dismiss employees for political protests. Reuters reports that unionizing in Hong Kong has grown since anti-extradition protests began last year. Organizers see unions as a means of protecting politically engaged workers from retaliation. ",
-    "online": null,
+    "description": "In an open letter, several engineers, researchers, analysts, and designers working with global companies such as Google and Facebook have condemned the Citizenship (Amendment) Act in India. The letter, issued 'in solidarity with the Indian democracy', was posted through the 'TechAgainstFascism' handle on Medium. It called upon technology leaders to take a stance and publicly denounce the 'fascist acts by the Indian government'. 'We call upon the leaders to use technology as a force for good, to refuse to share user details with the government, refuse to shut off the Internet at the government's whim, provide tools for citizen mobilization, and ensure that content moderation is not skewing pro-government,' it said.",
+    "online": true,
     "locations": [
-        "hong kong-china"
+        "worldwide",
+        "india"
     ],
     "companies": null,
-    "workers": 280,
+    "workers": 400,
     "tags": [
-        "trade union",
-        "politics"
+        "international_solidarity"
     ],
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
     "latlngs": [
         [
-            22.2793278,
-            114.1628131
+            22.3511148,
+            78.6677428
         ]
     ],
     "addresses": [
-        "\u9999\u6e2f\u5cf6 Hong Kong Island, \u9999\u6e2f Hong Kong, 000000, \u4e2d\u56fd"
+        "India"
     ]
 }

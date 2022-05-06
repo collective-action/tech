@@ -1,58 +1,40 @@
 {
-    "id": 472,
-    "date": "2021/09/28",
+    "id": 467,
+    "date": "2021/09/15",
     "sources": [
-        "https://www.mirror.co.uk/news/uk-news/uber-drivers-stage-24-hour-25087702",
-        "https://www.adcu.org.uk/uberstrike",
-        "https://twitter.com/Yaseenaslam381/status/1442827661546561538?s=19"
+        "https://www.theguardian.com/technology/2021/sep/15/google-underpayment-wages?CMP=Share_AndroidApp_Other",
+        "https://payparity.org/"
     ],
     "actions": [
-        "strike",
-        "protest"
+        "open letter"
     ],
     "struggles": [
         "pay and benefits",
-        "unfair labor practices",
-        "job security"
+        "unfair labor practices"
     ],
     "employment_types": [
-        "gig workers",
-        "inhouse workers"
+        "white collar workers",
+        "blue collar workers",
+        "inhouse workers",
+        "contract workers"
     ],
-    "description": "The ADCU National Executive Committee organized a national 24-hour strike against Uber on September 28th with the hashtag campaign #UberStrike. On the 28th, Uber drivers didn\u2019t log on, and passengers were encouraged to stop using the service or book services. Employees protested about being unfairly dismissed as well as the company failing to pay for waiting time, despite a UK Supreme Court ruling. It is also a protest against the newly introduced fixed price fares. The strike occurred in London, Bristol, Birmingham, Sheffield, Manchester, Leeds, Glasgow, and Nottingham. ",
+    "description": "After news from The Guardian that Google had been illegally underpaying their Temps, Vendors, and Contractors (TVCs) despite pay parity laws in European and Asian countries, over 900 Google employees and subcontractors have signed a petition calling for Google to amend their exploitation of TVCs. They are demanding for Google to repay the TVCs, create a path towards permanent employment, and end its two-tiered perma-temp system. This letter was organized by the Alphabet Workers Union (AWU). Google has acknowledged these issues but hasn\u2019t commented directly on the petition.",
     "online": true,
     "locations": [
-        "london-uk",
-        "birmingham-uk",
-        "sheffield-uk",
-        "nottingham-uk",
-        "bristol-uk",
-        "manchester-uk",
-        "leeds-uk",
-        "glasgow-uk"
+        "worldwide"
     ],
     "companies": [
-        "uber"
+        "google",
+        "alphabet"
     ],
-    "workers": 25,
+    "workers": 901,
     "tags": [
-        "drivers"
+        "international_solidarity",
+        "coworker solidarity"
     ],
     "author": [
         "wynniechan"
     ],
-    "latlngs": [
-        [
-            51.5148804,
-            -0.0718856
-        ],
-        [
-            52.4746766,
-            -1.91586332385543
-        ]
-    ],
-    "addresses": [
-        "Uber, 2, Leman Street, Spitalfields, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, E1 8FA, United Kingdom",
-        "UBER, 100, Broad Street, Ladywood, Park Central, Birmingham, West Midlands Combined Authority, West Midlands, England, B15 1AE, United Kingdom"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

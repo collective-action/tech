@@ -1,39 +1,41 @@
 {
-    "id": 446,
-    "date": "2021/06/01",
+    "id": 441,
+    "date": "2021/05/20",
     "sources": [
-        "https://www.theverge.com/2021/6/1/22463952/facebook-employees-petition-palestine-content-moderation-policy"
+        "https://www.theverge.com/platform/amp/2021/5/20/22446059/apple-employees-palestinians-support-internal-letter-tim-cook?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter&__twitter_impression=true"
     ],
     "actions": [
-        "protest",
         "open letter"
     ],
     "struggles": [
-        "discrimination",
         "ethics"
     ],
     "employment_types": [
         "white collar workers",
-        "blue collar workers",
-        "contract workers",
         "inhouse workers"
     ],
-    "description": "Facebook employees are circulating a petition for the company to conduct an investigation for censoring Palestinian content on their website. At Facebook, content moderation is executed by third party contractors and algorithms. Facebook employees have taken notice and are asking the company as a whole to do a third party audit of any Muslim or Arab content decisions made by moderators.  ",
+    "description": "Nearly a thousand Apple employees have signed an internal letter addressed to Tim Cook asking him to support the Palestinian community and people in light of Israel's bombing of Gaza which has led to the loss of 227 lives, including 63 children. The letter, written by the Apple Muslim Association, asks that Apple make it clear that Palestinian lives matter and that Palestinian people are under an illegal occupation. Moreover, the letter asks Apple to commit to understanding, engaging with, and learning about the Palestinian community and other diverse communities which make up the company. ",
     "online": true,
     "locations": [
-        "worldwide"
+        "usa"
     ],
     "companies": [
-        "facebook"
+        "apple"
     ],
-    "workers": 174,
+    "workers": 1000,
     "tags": [
-        "international solidarity",
-        "moderators"
+        "politics"
     ],
     "author": [
         "hyatt d."
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.3326452,
+            -122.0299129658936
+        ]
+    ],
+    "addresses": [
+        "Apple Campus, Cupertino, Santa Clara County, California, United States"
+    ]
 }

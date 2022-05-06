@@ -1,40 +1,45 @@
 {
-    "id": 529,
-    "date": "2022/02/02",
+    "id": 523,
+    "date": "2022/01/11",
     "sources": [
-        "https://www.cnbc.com/2022/02/02/amazon-workers-in-new-york-file-petition-for-union-election.html"
+        "https://www.businessinsider.com/amazon-employee-ranking-system-drone-engineer-lawmakers-bill-washington-2022-1",
+        "https://actionnetwork.org/petitions/demand-transparency-for-washingtons-workers-pass-sb-5130?source=direct_link"
     ],
     "actions": [
-        "union drive"
+        "protest",
+        "open letter",
+        "legal action"
     ],
     "struggles": [
-        "pay and benefits",
         "working conditions"
     ],
     "employment_types": [
-        "blue collar workers",
+        "white collar workers",
         "inhouse workers"
     ],
-    "description": "Workers at Amazon\u2019s Staten Island facility LDJ5 are seeking to be represented by the Amazon Labor union, and so they have filed a petition to the NLRB for a union election. ",
-    "online": null,
+    "description": "A former Amazon engineer created an online petition to urge Washington lawmakers to pass the SB 5130 bill. This bill would mandate employers to provide workers with access to their personnel files and internal rankings for increased transparency. While the bill is stalled, several tech workers will testify on it in the next legislative session.",
+    "online": true,
     "locations": [
-        "new york city-new york-usa"
+        "washington_dc-usa"
     ],
     "companies": [
         "amazon"
     ],
-    "workers": null,
-    "tags": null,
+    "workers": 201,
+    "tags": [
+        "online action",
+        "politics"
+    ],
     "author": [
         "wynniechan"
     ],
     "latlngs": [
         [
-            40.722465,
-            -73.9977307
+            38.9132465,
+            -77.0317256
         ]
     ],
     "addresses": [
-        "Amazon, 72, Spring Street, Manhattan Community Board 2, Manhattan, New York, 10013, United States"
+        "Amazon Fresh, 1733, 14th Street Northwest, Logan Circle/Shaw, Washington, District of Columbia, 20009, United States"
     ]
 }

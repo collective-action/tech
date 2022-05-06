@@ -1,42 +1,38 @@
 {
-    "id": 349,
-    "date": "2020/10/14",
+    "id": 341,
+    "date": "2020/10/08",
     "sources": [
-        "https://calmatters.org/california-divide/2020/10/amazon-warehouse-workers-bezos-mansion-prime-day/"
+        "https://www.wired.com/story/turmoil-black-lives-matter-political-speech-coinbase/",
+        "https://www.forbes.com/sites/rachelsandler/2020/10/08/60-employees-leave-coinbase-over-ceos-pledge-to-be-apolitical/#5e0848325a06",
+        "https://blog.coinbase.com/coinbase-is-a-mission-focused-company-af882df8804?gi=e4cb4315d1e5"
     ],
     "actions": [
-        "protest"
+        "resignation"
     ],
     "struggles": [
-        "pay and benefits"
+        "ethics",
+        "discrimination"
     ],
     "employment_types": [
-        "blue collar workers",
+        "white collar workers",
         "inhouse workers"
     ],
-    "description": "Amazon workers staged a vigil at Jeff Bezos' Beverly Hills mansion for fellow workers that had died as a result of working through the coronavirus pandemic. The event was organized by  the Warehouse Worker Resource Center. ",
-    "online": null,
+    "description": "More than 60 Coinbase employees chose to leave the company, opting for a severance package, to protest CEO Brian Armstrong's assertion that employees should not participate in social activism in the workplace. This represents roughly 5% of the company's employees. This event follows several months of internal activism within the company after management failed to make a public statement on the Black Lives Matter movement.",
+    "online": true,
     "locations": [
-        "los angeles-california-usa"
+        "san francisco-california-usa"
     ],
     "companies": [
-        "amazon"
+        "coinbase"
     ],
-    "workers": null,
+    "workers": 60,
     "tags": [
-        "delivery_workers",
-        "coronavirus"
+        "antiracism",
+        "blm"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            34.593865449999996,
-            -118.14161832712509
-        ]
-    ],
-    "addresses": [
-        "Amazon, 600, Technology Drive, Palmdale, Los Angeles County, California, 93551-3713, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

@@ -1,13 +1,11 @@
 {
-    "id": 252,
-    "date": "2020/04/04",
+    "id": 250,
+    "date": "2020/03/31",
     "sources": [
-        "https://www.commondreams.org/news/2020/04/04/despite-threats-management-amazon-warehouse-workers-chicago-strike-demand-better",
-        "https://patch.com/illinois/chicago/cars-picket-amazon-workers-striking-coronavirus-safety"
+        "https://www.reuters.com/article/us-health-coronavirus-amazon-com-warehou/amazon-warehouse-workers-protest-near-detroit-days-after-nyc-walkout-iduskbn21j6ix"
     ],
     "actions": [
-        "protest",
-        "strike"
+        "protest"
     ],
     "struggles": [
         "working conditions",
@@ -17,15 +15,15 @@
         "inhouse workers",
         "blue collar workers"
     ],
-    "description": "Amazon workers, organized by DCH1 Amazonians United, staged a walkout at a facility in Chicago calling on the company to temporarily close and sanitize the facility following two positive coronavirus tests among employees. Additionally, the workers are calling for the company to cover any health bills accrued by employees and family members that have contracted coronavirus at the facility, plus more time on-the-job to incorporate safety practices such as regular hand sanitizing. This is the fourth such action organized by DCH1 Amazonians in response to the coronavirus outbreak. ",
+    "description": "Amazon warehouse workers near Detroit staged a demonstration to call for more stringent cleaning practices in their facility and reimbursement for any health bills incurred by employees (and their families) who had contracted coronavirus on the job. Management reports that fewer than 15 employees joined in, while organizers say there were 40 participants. ",
     "online": null,
     "locations": [
-        "staten island-new york city-new york-usa"
+        "usa"
     ],
     "companies": [
         "amazon"
     ],
-    "workers": 20,
+    "workers": 40,
     "tags": [
         "coronavirus"
     ],
@@ -34,11 +32,11 @@
     ],
     "latlngs": [
         [
-            40.6193387,
-            -74.0727749
+            46.320207,
+            -112.1072224
         ]
     ],
     "addresses": [
-        "Amazon Court, Clifton, Staten Island, Richmond County, New York, 10304, United States"
+        "Amazon, Jefferson County, Montana, United States"
     ]
 }

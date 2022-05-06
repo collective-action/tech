@@ -1,36 +1,32 @@
 {
-    "id": 452,
-    "date": "2021/06/30",
+    "id": 448,
+    "date": "2021/06/16",
     "sources": [
-        "https://wamu.org/story/21/06/30/change-org-workers-form-a-union-giving-labor-activists-another-win-in-tech/"
+        "https://thehill.com/policy/technology/558812-workers-at-progressive-data-firm-catalist-unionize?amp"
     ],
     "actions": [
         "union drive",
         "union representation"
     ],
     "struggles": [
-        "pay and benefits",
-        "ethics",
-        "discrimination"
+        "ethics"
     ],
     "employment_types": [
         "white collar workers",
-        "contract workers",
         "inhouse workers"
     ],
-    "description": "Seventy employees who work for Change.org unionized and joined the Workers of America's CODE-CWA Project. Organizing in the company began with Erni Poch\u00e9, who noticed that the company used the racial identities of its employees to claim diversity and inclusion within the company. Black employees reported being disproportionately assigned to petitions around race, for instance. The workers who joined the union want to have a say in wages, benefits, and the implementation of diversity and equity programs. ",
+    "description": "Workers at Catalist, a political data services provider, have formed a union. 30 out of 38 employees have joined the union which is represented by the Communication Workers of America. The motivation for workers to unionize was not any specific mistreatment, rather they believe that in the broad benefits of organizing. The company voluntarily recognized the union. ",
     "online": null,
     "locations": [
-        "usa"
+        "washington_dc-usa"
     ],
     "companies": [
-        "change.org"
+        "catalist"
     ],
-    "workers": null,
+    "workers": 30,
     "tags": [
-        "coworker solidarity",
         "cwa",
-        "antiracism"
+        "coworker_solidarity"
     ],
     "author": [
         "hyatt d."

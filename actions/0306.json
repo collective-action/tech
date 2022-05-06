@@ -1,41 +1,36 @@
 {
-    "id": 353,
-    "date": "2020/06/26",
+    "id": 288,
+    "date": "2020/06/23",
     "sources": [
-        "https://www.politico.com/news/2020/06/26/supreme-court-canada-uber-lawsuit-341644"
+        "https://medium.com/@CoalitionForCriticalTechnology/abolish-the-techtoprisonpipeline-9b5b14366b16"
     ],
     "actions": [
-        "legal action"
+        "open letter"
     ],
     "struggles": [
-        "pay and benefits",
-        "unfair labor practices"
+        "ethics",
+        "discrimination"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers"
     ],
-    "description": "The Supreme Court of Canada allowed a C$400 million lawsuit against Uber by its drivers to proceed. The lawsuit alleges that drivers are, in fact, company employees.",
-    "online": null,
+    "description": "Hundreds of expert researchers and practitioners across a variety of technical, scientific, and humanistic fields (including statistics, machine learning and artificial intelligence, law, sociology, history, communication studies and anthropology) sign a letter calling for a forthcoming publication entitled \u201cA Deep Neural Network Model to Predict Criminality Using Image Processing\u201d, to be rescinded from publication. The letter also urges for such research topics to not be published in the future.",
+    "online": true,
     "locations": [
-        "canada"
+        "worldwide"
     ],
     "companies": [
-        "uber"
+        "springer publishing"
     ],
-    "workers": null,
+    "workers": 600,
     "tags": [
-        "drivers"
+        "blm",
+        "antiracism",
+        "academics"
     ],
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
-    "latlngs": [
-        [
-            42.9833851,
-            -81.2513098
-        ]
-    ],
-    "addresses": [
-        "Uber, Dundas Street, London, Southwestern Ontario, Ontario, N6A 1G2, Canada"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

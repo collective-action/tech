@@ -1,43 +1,38 @@
 {
-    "id": 239,
-    "date": "2020/03/17",
+    "id": 236,
+    "date": "2020/03/12",
     "sources": [
-        "https://www.theverge.com/2020/3/17/21184495/google-employees-memo-contract-workers-coronavirus-covid-19",
-        "https://www.businessinsider.com/google-workers-raise-internal-concerns-tvc-policies-for-covid-19-2020-3"
+        "https://www.vice.com/en_us/article/n7jkdx/baristas-at-slack-say-theyve-won-90-days-of-severance",
+        "https://www.theverge.com/2020/3/12/21177319/slack-paying-contractors-after-laid-off-baristas-send-letter"
     ],
     "actions": [
-        "open letter"
+        "open letter",
+        "legal action"
     ],
     "struggles": [
-        "unfair labor practices"
+        "job security"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "blue collar workers",
+        "contract workers"
     ],
-    "description": "A group of Google employees has sent a memo to company leadership demanding stronger commitments to protect the more vulnerable members of Google\u2019s workforce, primarily its contract workers, during the ongoing coronavirus crisis. The memo notes that some Google contractors, like those in the company\u2019s Pittsburgh office employed by an independent company called HCL Technologies, have been forced to come into the office, even as full-time Google employees were first allowed and then instructed to stay home.",
-    "online": true,
+    "description": "A group of five baristas who operate the espresso machines at Slack\u2019s corporate headquarters in San Francisco learned on March 6 that they were losing their contracted positions just prior to a decision by the company to move to remote operations to curb the spread of COVID-19. The baristas claim that Slack caught wind of their intention to criticize the company publicly\u2014and in what they claim to be an organizing victory, they learned that their severance would be extended to 90 days.",
+    "online": null,
     "locations": [
-        "usa"
+        "san francisco-california-usa"
     ],
     "companies": [
-        "google"
+        "slack"
     ],
-    "workers": null,
+    "workers": 5,
     "tags": [
         "coworker_solidarity",
+        "fund_raising",
         "coronavirus"
     ],
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            33.977092,
-            -118.4092133
-        ]
-    ],
-    "addresses": [
-        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

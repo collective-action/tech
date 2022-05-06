@@ -1,47 +1,48 @@
 {
-    "id": 475,
-    "date": "2021/10/04",
+    "id": 482,
+    "date": "2021/09/29",
     "sources": [
-        "https://www.dw.com/en/gorillas-delivery-service-fires-back-over-workers-strike/a-59445809",
-        "https://www.vice.com/en/article/7kvgmd/gorillas-delivery-app-fires-workers-for-striking"
+        "https://twitter.com/nantarsya/status/1441064662661955585?s=19",
+        "https://www.keeptalkinggreece.com/2021/09/24/efood-delivery-workers-on-24h-strike-despite-company-promising-contracts/",
+        "https://braveneweurope.com/gig-economy-project-greece-e-food-concedes-to-riders-demands-in-huge-victory"
     ],
     "actions": [
-        "protest",
-        "strike"
+        "strike",
+        "protest"
     ],
     "struggles": [
+        "job security",
         "pay and benefits",
-        "working conditions",
-        "unfair labor practices",
-        "job security"
+        "working conditions"
     ],
     "employment_types": [
         "gig workers"
     ],
-    "description": "In response to recent strikes that protested unfair working conditions, Gorillas fired \u201cseveral dozen Berlin-based delivery workers.\u201d In response, the Gorillas Workers Collective called for a protest in front of the company\u2019s headquarters. Gorillas have said that these strikes were unannounced, non-unionized, spontaneous, and are illegal under German law. However, other workers have shown screenshots of schedules that violate German labor law.  After the strikes took place, the company reportedly replaced those striking with Zenjob gig workers from Bermannkiez. ",
-    "online": null,
+    "description": "After the online food platform eFood announced that it will change its contract-based workers into freelancers, it sparked a strike and motor-march by its workers. Workers demanded the company to provide motorcycles or pay a 15% additional allowance, pay for the fuel, add protection measures, and allow collective bargaining. eFood also faced social media backlash, even before the strike. The campaign #cancel_efood went viral, and thousands of customers deleted the app and rated the app poorly on the Google Play store. Riders of Wolt, another big food delivery platform, and other workers\u2019 unions expressed solidarity through a protest meeting. eFood has since then announced it would make all contract workers into direct hires. The day after the announcement, the delivery workers held a 24-hour strike as planned.",
+    "online": true,
     "locations": [
-        "berlin-germany"
+        "athens-greece",
+        "thessaloniki-greece"
     ],
     "companies": [
-        "gorillas"
+        "eFood"
     ],
-    "workers": 150,
+    "workers": 1001,
     "tags": [
-        "retaliation",
-        "coworker solidarity",
-        "delivery_workers"
+        "industry solidarity",
+        "delivery_workers",
+        "online action"
     ],
     "author": [
         "wynniechan"
     ],
     "latlngs": [
         [
-            52.5064919,
-            13.336216896921181
+            38.05399235,
+            23.768215146813738
         ]
     ],
     "addresses": [
-        "Flachland-Gorilla, Tiergarten, Mitte, Berlin, 10787, Deutschland"
+        "eFood, \u0397\u03c1\u03b1\u03ba\u03bb\u03b5\u03af\u03bf\u03c5, \u03a0\u03c1\u03ac\u03c3\u03b9\u03bd\u03bf\u03c2 \u039b\u03cc\u03c6\u03bf\u03c2, \u0397\u03c1\u03ac\u03ba\u03bb\u03b5\u03b9\u03bf, \u0394\u03ae\u03bc\u03bf\u03c2 \u0397\u03c1\u03b1\u03ba\u03bb\u03b5\u03af\u03bf\u03c5 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0392\u03bf\u03c1\u03b5\u03af\u03bf\u03c5 \u03a4\u03bf\u03bc\u03ad\u03b1 \u0391\u03b8\u03b7\u03bd\u03ce\u03bd, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2, 14122, \u0395\u03bb\u03bb\u03ac\u03c2"
     ]
 }

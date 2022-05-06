@@ -1,33 +1,33 @@
 {
-    "id": 443,
-    "date": "2021/05/25",
+    "id": 440,
+    "date": "2021/05/20",
     "sources": [
-        "https://www.middleeasteye.net/news/israel-palestine-amazon-employees-urge-jeff-bezos-cut-ties-israeli-military"
+        "https://campaigns.organizefor.org/petitions/black-women-did-the-work-then-they-were-denied-the-credit"
     ],
     "actions": [
         "open letter"
     ],
     "struggles": [
-        "ethics"
+        "discrimination"
     ],
     "employment_types": [
-        "white collar workers",
-        "blue collar workers",
-        "inhouse workers",
-        "contract workers"
+        "white collar workers"
     ],
-    "description": "Approximately 600 Amazon employees have signed an open letter asking Jeff Bezos to break off all ties to the Israeli military. The letter points out that Amazon employs Palestinians around the world, including in Tel Aviv and Haifa and that \"ignoring the suffering faced by Palestinians and their families at home erases our Palestinian coworkers.\"",
+    "description": "The Algorithmic Justice League started an online campaign protesting a recent episode of the CBS news program, \"60 Minutes\", which featured a segment about the racial bias in law enforcement facial recognition technology but failed to cite any Black female scientists in the field. The group is demanding that 60 Minutes and Anderson Cooper apologize and cite Black female scientists, specifically Deborah Raji, Timnit Gebru, Joy Buolamwini, for their contribution to AI facial recognition research in their segment.   ",
     "online": true,
     "locations": [
-        "worldwide"
+        "usa"
     ],
     "companies": [
-        "amazon"
+        "viacomcbs"
     ],
-    "workers": 600,
+    "workers": 5845,
     "tags": [
-        "military_contracts",
-        "politics"
+        "blm",
+        "sexism",
+        "antiracism",
+        "law_enforcement",
+        "ai"
     ],
     "author": [
         "hyatt d."

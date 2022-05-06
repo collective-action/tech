@@ -1,48 +1,41 @@
 {
-    "id": 451,
-    "date": "2021/06/29",
+    "id": 447,
+    "date": "2021/06/04",
     "sources": [
-        "https://www.theverge.com/2021/6/29/22556436/whatsapp-spanish-language-content-moderators-contractor-equal-pay"
+        "https://www.theverge.com/2021/6/4/22491629/apple-employees-push-back-return-office-internal-letter-tim-cook?fbclid=IwAR08D4vzo6shzwwtNXwr8HCw6h1nsHG7rQcSx-k-JyuYL-I2Q7aDl0o_aZ0"
     ],
     "actions": [
         "open letter"
     ],
     "struggles": [
-        "pay and benefits",
-        "discrimination"
+        "working conditions"
     ],
     "employment_types": [
-        "inhouse workers",
-        "contract workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Spanish language content moderators and customer service representatives at WhatsApp sent an internal letter demanding the $2 premium paid to other bi-lingual moderators and backpay, which Spanish language contractors don't receive. The letter addressed the CEOs of Facebook, Accenture, and WhatsApp and circulated on Facebook's communication platform. Eighty-nine employees signed the letter. ",
+    "description": "Apple employees are fighting against a new policy requiring them to return to work three days a week in an open letter addressed to Tim Cook on Slack. Approximately 80 people were involved in writing the letter. Employees have argued that the company should adopt a flexible approach for those who still want to remotely work from home. ",
     "online": true,
     "locations": [
-        "austin-texas-usa"
+        "usa"
     ],
     "companies": [
-        "facebook",
-        "accenture"
+        "apple"
     ],
-    "workers": 89,
+    "workers": 80,
     "tags": [
-        "moderators"
+        "coronavirus"
     ],
     "author": [
         "hyatt d."
     ],
     "latlngs": [
         [
-            30.2691649,
-            -97.7455041
-        ],
-        [
-            30.2658505,
-            -97.7434222
+            37.3326452,
+            -122.0299129658936
         ]
     ],
     "addresses": [
-        "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States",
-        "Accenture, 323, Congress Avenue, Downtown, Austin, Travis County, Texas, 78701, United States"
+        "Apple Campus, Cupertino, Santa Clara County, California, United States"
     ]
 }

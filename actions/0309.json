@@ -1,35 +1,41 @@
 {
-    "id": 303,
-    "date": "2020/07/20",
+    "id": 353,
+    "date": "2020/06/26",
     "sources": [
-        "https://www.vice.com/en_us/article/m7jpgy/open-source-community-changing-github-avatars-drop-ice"
+        "https://www.politico.com/news/2020/06/26/supreme-court-canada-uber-lawsuit-341644"
     ],
     "actions": [
-        "protest"
+        "legal action"
     ],
     "struggles": [
-        "ethics"
+        "pay and benefits",
+        "unfair labor practices"
     ],
     "employment_types": [
-        "open source community"
+        "gig workers"
     ],
-    "description": "Github users have launched a campaign to pressure the company to drop its contracts with ICE. Users have changed their profile pictures to the company's mascot, Octocat, with a message reading \"Drop ICE\". ",
-    "online": true,
+    "description": "The Supreme Court of Canada allowed a C$400 million lawsuit against Uber by its drivers to proceed. The lawsuit alleges that drivers are, in fact, company employees.",
+    "online": null,
     "locations": [
-        "worldwide"
+        "canada"
     ],
     "companies": [
-        "github",
-        "microsoft"
+        "uber"
     ],
     "workers": null,
     "tags": [
-        "ice",
-        "immigration"
+        "drivers"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            42.9833851,
+            -81.2513098
+        ]
+    ],
+    "addresses": [
+        "Uber, Dundas Street, London, Southwestern Ontario, Ontario, N6A 1G2, Canada"
+    ]
 }

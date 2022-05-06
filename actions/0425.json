@@ -1,49 +1,35 @@
 {
-    "id": 456,
-    "date": "2021/07/21",
+    "id": 459,
+    "date": "2021/07/01",
     "sources": [
-        "https://justice-for-jessica.com/",
-        "https://newsnationusa.com/news/finance/banking/hundreds-of-google-employees-call-on-company-to-change-sexual-misconduct-policies-that-they-say-put-the-burden-on-survivors/"
+        "https://www.npr.org/2021/07/01/1011899328/black-tiktok-creators-are-on-strike-to-protest-a-lack-of-credit-for-their-work"
     ],
     "actions": [
-        "open letter"
+        "protest",
+        "strike"
     ],
     "struggles": [
-        "working conditions",
-        "unfair labor practices"
+        "discrimination"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "content creators"
     ],
-    "description": "An open letter was published demanding justice for Jessica (Ming) Tao, a former employee at Google. According to the open letter, \"Google has chosen to put Jessica on unpaid leave while her rapist is still fully employed.\" The letter states that this is a common practice where Google protects the harasser instead of the victim. The letter demands that Jessica is compensated in full for her time on disability leave. The letter demands, \"that survivors involved in future proceedings are always compensated for their time during this traumatizing process.\" Lastly, the letter demands Alphabet to stop having workers go to employee assistance program (EAP) therapy when they face harassment or other workplace abuses. ",
+    "description": "Black TikTok content creators went on strike protesting the platform's cultural appropriation of their creative content. Users and content creators have pointed out that they don't receive credit for their creative work while other platform users can copy them and receive more views, fame, and recognition. Using the hashtag #BlackTikTokStrike, users and content creators raised awareness on the app and Twitter. ",
     "online": true,
     "locations": [
-        "usa"
+        "worldwide"
     ],
     "companies": [
-        "google",
-        "alphabet"
+        "tiktok"
     ],
-    "workers": 700,
+    "workers": null,
     "tags": [
-        "sexual_harassment"
+        "blm",
+        "antiracism"
     ],
     "author": [
         "hyatt d."
     ],
-    "latlngs": [
-        [
-            33.977092,
-            -118.4092133
-        ],
-        [
-            37.3398646,
-            -121.8844823
-        ]
-    ],
-    "addresses": [
-        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
-        "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112-3580, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

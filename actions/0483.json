@@ -1,50 +1,46 @@
 {
-    "id": 535,
-    "date": "2022/02/01",
+    "id": 528,
+    "date": "2022/01/07",
     "sources": [
-        "https://www.theguardian.com/us-news/2022/feb/07/rideshare-delivery-app-workers-fight-to-unionize"
+        "https://www.cnbc.com/2022/02/04/google-fiber-workers-in-kansas-city-face-union-busting-effort-by-bds.html",
+        "https://www.kshb.com/news/local-news/google-fiber-retail-staff-in-kansas-city-begin-unionizing-efforts"
     ],
     "actions": [
-        "protest",
         "union drive"
     ],
     "struggles": [
         "pay and benefits",
-        "working conditions",
-        "job security"
+        "working conditions"
     ],
     "employment_types": [
-        "gig workers"
+        "contract workers"
     ],
-    "description": "The International Alliance of Delivery Workers is launching a new coalition called Justice for App Workers. They represent over 10,000 rideshare and delivery gig workers. To kick off their formation, they held a rally in Manhattan. Their demands include; better work conditions, more job security, more benefits, a living wage, and the right to form a union for rideshare and delivery app workers.",
+    "description": "BDS Connected Solutions workers contracted with Google Fiber petitioned the NLRB for formal union recognition. In partnership with the Alphabet Workers Union, the unionization effort was driven by concern over work conditions, pay structure changes, understaffing, and COVID safety issues. Before the vote to determine the eligibility of union votes, workers received a letter from BDS that discouraged them from unionizing by bringing up points like \u201ceveryone will be stuck with the union and forced to pay dues\u201d and that \u201cMissouri is not a right-to-work state.\u201d\n\nAWU has released a statement of solidarity towards the Kansas City workers. A Google spokesperson has responded that BDS will handle this, and Google works with both unionized and non-unionized suppliers. ",
     "online": null,
     "locations": [
-        "manhattan-new york city-new york-usa"
+        "kansas city-missouri-usa"
     ],
     "companies": [
-        "doordash",
-        "uber",
-        "grubhub",
-        "lyft",
-        "ubereats"
+        "google",
+        "bds solutions group",
+        "bds connected solutions"
     ],
-    "workers": 10000,
+    "workers": 10,
     "tags": [
-        "international solidarity",
-        "drivers",
-        "industry solidarity",
-        "delivery_workers"
+        "coronavirus",
+        "technicians",
+        "industry solidarity"
     ],
     "author": [
         "wynniechan"
     ],
     "latlngs": [
         [
-            40.7859179,
-            -73.9849146
+            39.2507006,
+            -94.661471
         ]
     ],
     "addresses": [
-        "Yachthafen(Blick \u00fcber New Yersey), Riverside Walk, Upper West Side, Manhattan Community Board 7, Manhattan, New York County, New York, 10069, United States"
+        "Google Fiber Space, 8615, Northwest Prairie View Road, Kansas City, Platte County, Missouri, 64153, United States"
     ]
 }

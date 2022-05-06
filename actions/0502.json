@@ -1,0 +1,45 @@
+{
+    "id": 546,
+    "date": "2022/04/01",
+    "sources": [
+        "https://www.nytimes.com/2022/04/01/technology/amazon-union-staten-island.html",
+        "https://abcnews.go.com/Politics/wireStory/amazon-plans-object-union-win-york-83947220"
+    ],
+    "actions": [
+        "union representation"
+    ],
+    "struggles": [
+        "pay and benefits",
+        "working conditions",
+        "job security"
+    ],
+    "employment_types": [
+        "inhouse workers",
+        "blue collar workers"
+    ],
+    "description": "Despite heavy anti-union tactics, including texts and mandated anti-union meetings, Amazon workers at Staten Island voted to unionize 2,654 to 2,131 under the Amazon Labor Union. This marks the first union ever at the company. \n\nHigh attrition and firings, poor workplace safety considering the pandemic, and a \"culture of fear\" from constant monitoring have increased interest in unionization. ALU being a union composed of current employees instead of being an outside group was also effective in foiling Amazon\u2019s anti-union messages.\n\nAmazon plans to file an objection to the NLRB.",
+    "online": null,
+    "locations": [
+        "staten island-new york city-new york-usa"
+    ],
+    "companies": [
+        "amazon"
+    ],
+    "workers": 2375,
+    "tags": [
+        "coronavirus",
+        "surveillance"
+    ],
+    "author": [
+        "wynniechan"
+    ],
+    "latlngs": [
+        [
+            40.6193387,
+            -74.0727749
+        ]
+    ],
+    "addresses": [
+        "Amazon Court, Clifton, Staten Island, Richmond County, New York, 10304, United States"
+    ]
+}

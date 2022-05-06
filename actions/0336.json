@@ -1,42 +1,66 @@
 {
-    "id": 333,
-    "date": "2020/10/01",
+    "id": 330,
+    "date": "2020/09/22",
     "sources": [
-        "https://workdayminnesota.org/thursday-night-shakopee-amazon-workers-walked-out-in-protest-of-worker-firing/",
-        "https://twitter.com/athenaforall/status/1312080698140962818?s=20"
+        "https://www.vice.com/amp/en_us/article/g5p333/uk-tech-workers-launch-first-national-effort-to-unionize-tech-industry"
     ],
     "actions": [
-        "protest"
+        "union drive"
     ],
     "struggles": [
         "working conditions"
     ],
     "employment_types": [
         "blue collar workers",
+        "white collar workers",
         "inhouse workers"
     ],
-    "description": "35 Amazon workers in Shakopee, Minnesota walked off the job to protest the firing of Farhiyo Warsame. The company alleged that the employee violated \"time off task\" policies but workers claim that the employee was fired for raising concerns about covid-related safety.",
+    "description": "Tech workers in the U.K. have started a union aimed at organizing a wide array of tech workers in the country. The United Tech and Allied Workers, a branch of the Communications Workers Union, offers legal counsel and representation at employment tribunals for its members. Under U.K. law, employees can join a union even if that union has not been recognized by their employer. In an interview with Vice, a member highlighted the union's \"very broad definition of a tech worker\", which spans white collar and blue collar labor.",
     "online": null,
     "locations": [
-        "shakopee-minnesota-usa"
+        "uk"
     ],
     "companies": [
-        "amazon"
+        "google",
+        "amazon",
+        "microsoft",
+        "samsung",
+        "deliveroo"
     ],
-    "workers": 35,
+    "workers": 30,
     "tags": [
-        "coronavirus"
+        "industry_solidarity"
     ],
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            44.80059945,
-            -93.48865500885567
+            51.5333771,
+            -0.1258455
+        ],
+        [
+            52.3124769,
+            -1.878707127163782
+        ],
+        [
+            51.5195583,
+            -0.181935
+        ],
+        [
+            53.3828946,
+            -1.4634543
+        ],
+        [
+            51.5314216,
+            -0.1113624
         ]
     ],
     "addresses": [
-        "Amazon Fullfillment Center MSP1, 2601, 4th Avenue East, Shakopee, Scott County, Minnesota, 55379, United States"
+        "Google, 6, Pancras Road, King's Cross, London, London Borough of Camden, Greater London, England, N1C 4BJ, United Kingdom",
+        "Amazon, Beoley CP, Holt End, Bromsgrove, Worcestershire, West Midlands, England, United Kingdom",
+        "Microsoft London, 2, Kingdom Street, Paddington Central, Paddington, London, City of Westminster, Greater London, England, W2 6PY, United Kingdom",
+        "Samsung, 18-20, Commercial Street, City Centre, Sheffield, Yorkshire and the Humber, England, S1 2AT, United Kingdom",
+        "Deliveroo, Pentonville Road, Pentonville, Barnsbury, London, London Borough of Islington, Greater London, England, N1, United Kingdom"
     ]
 }

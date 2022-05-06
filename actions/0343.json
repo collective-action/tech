@@ -1,42 +1,48 @@
 {
-    "id": 419,
-    "date": "2020/10/15",
+    "id": 340,
+    "date": "2020/10/10",
     "sources": [
-        "https://dailynewsweek.com/amazon-employees-start-anti-surveillance-petition-for-labor-tracking/"
+        "https://www.vice.com/amp/en_us/article/z3ejzx/facebook-workers-sign-petition-demanding-hazard-pay-for-content-moderators-who-have-to-go-back-to-the-office"
     ],
     "actions": [
-        "protest",
         "open letter"
     ],
     "struggles": [
-        "working conditions"
+        "unfair labor practices"
     ],
     "employment_types": [
-        "blue collar workers",
-        "inhouse workers"
+        "contract workers"
     ],
-    "description": "A group of Amazon employees are circulating a petition, first created in October, demanding that Amazon stop monitoring employee activism and labor organization efforts.  The group is called Amazonians for Employee Privacy and they are requesting more transparency from Amazon about their surveillance activities, including their union heat map. ",
-    "online": null,
+    "description": "At least 290 Facebook employees and contractors signed a petition demanding a 50% wage increase as hazard pay for site moderators who have been forced to return to the office by October 12th of this year. Additional demands include compensation for all costs related to COVID-19 testing and treatment, as well as additional time off and an expedited time off review process. Accenture, which hired the moderators as contractors, informed them on October 1st that they would have to return to their office in Austin, Texas. A Facebook spokesperson said the reason for the return was that \"some of the most sensitive content can\u2019t be reviewed from home\". Full-time, directly hired Facebook employees don't have to return to the office until July 2021. ",
+    "online": true,
     "locations": [
         "usa"
     ],
     "companies": [
-        "amazon"
+        "accenture",
+        "facebook"
     ],
-    "workers": 199,
+    "workers": 290,
     "tags": [
-        "surveillance"
+        "coronavirus",
+        "moderators",
+        "coworker_solidarity"
     ],
     "author": [
-        "hyatt d."
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            46.320207,
-            -112.1072224
+            37.3339398,
+            -121.8895142
+        ],
+        [
+            30.2691649,
+            -97.7455041
         ]
     ],
     "addresses": [
-        "Amazon, Jefferson County, Montana, United States"
+        "Accenture, West San Fernando Street, Downtown Historic District, San Jose, Santa Clara County, California, 95113, United States",
+        "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
     ]
 }

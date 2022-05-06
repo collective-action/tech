@@ -1,13 +1,14 @@
 {
-    "id": 251,
-    "date": "2020/03/31",
+    "id": 248,
+    "date": "2020/03/30",
     "sources": [
-        "https://www.cnbc.com/2020/03/31/grocery-and-delivery-workers-demand-more-coronavirus-protection-say-pay-isnt-enough.html",
-        "https://www.coworker.org/petitions/global-retail-worker-sick-out"
+        "https://www.cnn.com/2020/03/29/tech/amazon-workers-walkout-coronavirus/index.html",
+        "https://nypost.com/2020/03/30/coronavirus-in-ny-amazons-staten-island-employees-strike-over-response/",
+        "https://www.vice.com/en_us/article/4age5j/amazon-workers-in-new-york-are-striking-for-the-second-week-in-a-row-as-coronavirus-cases-pile-up"
     ],
     "actions": [
         "strike",
-        "open letter"
+        "protest"
     ],
     "struggles": [
         "working conditions",
@@ -17,16 +18,15 @@
         "inhouse workers",
         "blue collar workers"
     ],
-    "description": "Whole Foods employees went on strike to call for guaranteed pay during sick leave, reinstatement of health insurance for part-time and seasonal employees, coverage of coronavirus testing and treatment, improved sanitation at worksites, and immediate shutdown of any locations where employees test positive. The strike came amid a surge of activism from grocery and delivery workers at several companies. ",
+    "description": "Amazon workers in Staten Island walked off the job to call for the company to temporarily close and sanitize the facilities following several positive tests for coronavirus among employees. The NY Post reported than more than 100 workers participated in the action. Vice has reported 62.",
     "online": null,
     "locations": [
-        "chicago-illinois-usa"
+        "usa"
     ],
     "companies": [
-        "amazon",
-        "whole_foods"
+        "amazon"
     ],
-    "workers": 1000,
+    "workers": 62,
     "tags": [
         "coronavirus"
     ],
@@ -35,16 +35,11 @@
     ],
     "latlngs": [
         [
-            41.84040105,
-            -87.68351928672685
-        ],
-        [
-            41.9251419,
-            -87.6532654
+            46.320207,
+            -112.1072224
         ]
     ],
     "addresses": [
-        "Amazon Distribution, 2801, South Western Avenue, Lower West Side, Chicago, Cook County, Illinois, 60608, United States",
-        "Whole Foods Market, 959, West Fullerton Avenue, Lincoln Park, Chicago, Lake View Township, Cook County, Illinois, 60614, United States"
+        "Amazon, Jefferson County, Montana, United States"
     ]
 }

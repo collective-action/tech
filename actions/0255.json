@@ -1,43 +1,41 @@
 {
-    "id": 238,
-    "date": "2020/03/17",
+    "id": 377,
+    "date": "2020/03/10",
     "sources": [
-        "https://www.theverge.com/2020/3/17/21184495/google-employees-memo-contract-workers-coronavirus-covid-19",
-        "https://www.businessinsider.com/google-workers-raise-internal-concerns-tvc-policies-for-covid-19-2020-3"
+        "https://www.igmetall-berlin.de/betriebsraete-vertrauensleute/meldung/beyond-quitting-employees-at-babbel-elect-a-works-council/"
     ],
     "actions": [
-        "protest"
+        "union drive"
     ],
     "struggles": [
-        "unfair labor practices"
+        "working conditions",
+        "unfair labor practices",
+        "job security"
     ],
     "employment_types": [
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "Pittsburgh's office Google contractors employed by an independent company called HCL Technologies, have been forced to come into the office, even as full-time Google employees were first allowed and then instructed to stay home. Some HCL contractors wore black in a protest at the Pittsburgh office\u2019s cafeteria on Monday. This action is linked to the memo that Googlers sent out on the same day.",
+    "description": "The Berlin office of Babbel, the language learning platform elected a Works Council with consultation and guidance of IG Metall. ",
     "online": null,
     "locations": [
-        "pittsburgh-pennsylvania-usa"
+        "berlin-germany"
     ],
     "companies": [
-        "google"
+        "babbel"
     ],
-    "workers": 10,
-    "tags": [
-        "coworker_solidarity",
-        "coronavirus"
-    ],
+    "workers": 20,
+    "tags": null,
     "author": [
-        "organizejs"
+        "@shushugah"
     ],
     "latlngs": [
         [
-            40.4573607,
-            -79.9169227
+            52.5248559,
+            13.4082467
         ]
     ],
     "addresses": [
-        "Google, Penn Avenue, Larimer, Pittsburgh, Allegheny County, Pennsylvania, 15206-4320, United States"
+        "Babbel, 2, Max-Beer-Stra\u00dfe, Scheunenviertel, Mitte, Berlin, 10119, Deutschland"
     ]
 }

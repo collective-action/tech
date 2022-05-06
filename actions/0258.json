@@ -1,32 +1,29 @@
 {
-    "id": 241,
+    "id": 238,
     "date": "2020/03/17",
     "sources": [
-        "https://medium.com/@amazoniansunitednyc/we-amazon-workers-demand-coronavirus-protections-16f28ad8b15f",
-        "https://www.cnbc.com/2020/03/19/amazon-warehouse-worker-in-new-york-tests-positive-for-the-coronavirus.html",
-        "https://www.theatlantic.com/health/archive/2020/03/amazon-warehouse-employee-has-coronavirus/608341/"
+        "https://www.theverge.com/2020/3/17/21184495/google-employees-memo-contract-workers-coronavirus-covid-19",
+        "https://www.businessinsider.com/google-workers-raise-internal-concerns-tvc-policies-for-covid-19-2020-3"
     ],
     "actions": [
-        "open letter"
+        "protest"
     ],
     "struggles": [
-        "working conditions",
         "unfair labor practices"
     ],
     "employment_types": [
-        "blue collar workers",
+        "white collar workers",
         "inhouse workers"
     ],
-    "description": "As the coronavirus continues to spread, Amazon logistics workers circulated a petition calling for the company to put in place more \u201cprotective measures,\u201d  in which they demanded that the company provide paid sick leave to all its employees, even those who do not have a positive COVID-19 diagnosis, given the scarcity of coronavirus tests. They also requested child-care funds for workers with children, increased hazard pay, an end to penalties for working too slowly, and an immediate closure of any facility where a worker tests positive. \u201cWhile Amazon has made some limited coronavirus accommodations, it needs a comprehensive plan to ensure the safety of all of its workers and the larger public, including giving workers paid leave and not simply extending our unpaid leave, as was announced recently,\u201d the petition states. ",
+    "description": "Pittsburgh's office Google contractors employed by an independent company called HCL Technologies, have been forced to come into the office, even as full-time Google employees were first allowed and then instructed to stay home. Some HCL contractors wore black in a protest at the Pittsburgh office\u2019s cafeteria on Monday. This action is linked to the memo that Googlers sent out on the same day.",
     "online": null,
     "locations": [
-        "saran-france",
-        "paris-france"
+        "pittsburgh-pennsylvania-usa"
     ],
     "companies": [
-        "amazon"
+        "google"
     ],
-    "workers": 1800,
+    "workers": 10,
     "tags": [
         "coworker_solidarity",
         "coronavirus"
@@ -36,16 +33,11 @@
     ],
     "latlngs": [
         [
-            47.9619318,
-            1.8440185793930501
-        ],
-        [
-            48.837679,
-            2.3909358
+            40.4573607,
+            -79.9169227
         ]
     ],
     "addresses": [
-        "Amazon.fr ORY1, Rue du Champs Rouge, Saran, Orl\u00e9ans, Loiret, Centre-Val de Loire, France m\u00e9tropolitaine, 45770, France",
-        "Amazon, 235, Rue de Charenton, Quartier de Picpus, Paris 12e Arrondissement, Paris, \u00cele-de-France, France m\u00e9tropolitaine, 75012, France"
+        "Google, Penn Avenue, Larimer, Pittsburgh, Allegheny County, Pennsylvania, 15206-4320, United States"
     ]
 }

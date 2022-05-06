@@ -1,42 +1,44 @@
 {
-    "id": 178,
-    "date": "2019/09/07",
+    "id": 175,
+    "date": "2019/08/30",
     "sources": [
-        "https://medium.com/@blindfb2020/facebook-empowers-racism-against-its-employees-of-color-fbbfaf55ab76",
-        "https://www.theroot.com/black-facebook-workers-write-open-letter-to-company-we-1839776402"
+        "https://www.washingtonpost.com/technology/2019/08/30/google-contract-workers-vote-form-union-amid-employee-discord-over-treatment/",
+        "https://www.salon.com/2019/09/25/in-historic-first-tech-contractors-for-google-vote-to-unionize/",
+        "https://www.theguardian.com/technology/2019/sep/23/google-pittsburgh-union-roots-transform-tech-industry"
     ],
     "actions": [
-        "open letter"
+        "union representation"
     ],
     "struggles": [
-        "discrimination"
+        "pay and benefits",
+        "working conditions",
+        "job security"
     ],
     "employment_types": [
+        "contract workers",
         "white collar workers"
     ],
-    "description": "A group of Facebook employees published an anonymous memo saying the culture at the company has only gotten worse for nonwhite workers. Published on Medium, the letter documents a variety of micro- and full-blown aggressions employees say they have endured over the last year from managers, HR, and their white colleagues. The memo was co-written by 12 current employees, including black, Latinx, and Asian women workers. One program manager describes being told by two white employees to 'clean up after their mess' at breakfast. When the program manager flagged the incident for their supervisor, they were told to 'dress more professionally.'",
-    "online": true,
+    "description": "Google contract workers in Pittsburgh voted to unionize and petitioned the National Labor Relations Board to set up a representation election. Two-thirds of the workers, formally employed by HCL America, were in favor of the action. United Steelworkers helped to organize the union drive through their Pittsburgh Association of Tech Professionals (PATP) project. News outlets report that this is the first successful unionization of white-collar tech contractors. Workers intend to use their position to bargain for compensation, benefits, and job security comparable to Google employees. Google currently employs more contract workers (135,000) than direct Google employees (115,000) according to the Guardian. A group of Google employees have signed a letter of support and others have published a petition calling for the company to sign a neutrality agreement and abstain from union-busting tactics.",
+    "online": null,
     "locations": [
-        "usa"
+        "pittsburgh-pennsylvania-usa"
     ],
     "companies": [
-        "facebook"
+        "google",
+        "alphabet"
     ],
-    "workers": 12,
-    "tags": [
-        "antiracism",
-        "sexism"
-    ],
+    "workers": 73,
+    "tags": null,
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            30.2691649,
-            -97.7455041
+            40.4573607,
+            -79.9169227
         ]
     ],
     "addresses": [
-        "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
+        "Google, Penn Avenue, Larimer, Pittsburgh, Allegheny County, Pennsylvania, 15206-4320, United States"
     ]
 }

@@ -1,49 +1,52 @@
 {
-    "id": 525,
-    "date": "2021/08/05",
+    "id": 461,
+    "date": "2021/07/26",
     "sources": [
-        "https://www.protocol.com/bulletins/mapbox-workers-lose-union-vote",
-        "https://www.reuters.com/technology/silicon-valley-workers-vote-down-union-softbank-backed-mapbox-2021-08-05/",
-        "https://www.mapboxworkersunion.org/faq",
-        "https://technical.ly/2021/10/04/mapbox-union-challenge/"
+        "https://www.foxglove.org.uk/2021/07/25/open-letter-from-60-content-moderators-to-facebook/"
     ],
     "actions": [
-        "union drive",
-        "union representation"
+        "open letter"
     ],
     "struggles": [
-        "working conditions",
         "job security",
-        "pay and benefits",
-        "unfair labor practices"
+        "working conditions",
+        "ethics"
     ],
     "employment_types": [
         "white collar workers",
-        "inhouse workers"
+        "inhouse workers",
+        "contract workers"
     ],
-    "description": "Workers at Mapbox had formed a union with CWA; however, they failed to achieve recognition from the NLRB when workers voted against unionization 123 to 81. The Mapbox Union will continue to represent workers to management. Since then, union members have claimed they experienced retaliation from the company, with some being fired, intimidated, or threatened. As a result, the union plans to file an unfair labor practice charge. ",
-    "online": null,
+    "description": "Content moderators who work for Facebook across the world wrote an open letter to Mark Zuckerberg, Sheryl Sandberg, Anne Heraty, and Julie Sweet. The moderators are demanding Facebook stop using non-disclosure agreements to prevent moderators from speaking out about their working conditions. The moderators also want proper mental health support and to make all moderators in-house instead of contract workers outsourced by Accenture.  ",
+    "online": true,
     "locations": [
         "usa"
     ],
     "companies": [
-        "mapbox"
+        "facebook",
+        "accenture"
     ],
-    "workers": null,
+    "workers": 60,
     "tags": [
-        "cwa",
-        "retaliation"
+        "international solidarity",
+        "coworker_solidarity",
+        "moderators"
     ],
     "author": [
-        "wynniechan"
+        "hyatt d."
     ],
     "latlngs": [
         [
-            38.8999418,
-            -77.033996
+            30.2691649,
+            -97.7455041
+        ],
+        [
+            37.3339398,
+            -121.8895142
         ]
     ],
     "addresses": [
-        "Mapbox, 740, 15th Street Northwest, Washington, District of Columbia, 20005, United States"
+        "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States",
+        "Accenture, West San Fernando Street, Downtown Historic District, San Jose, Santa Clara County, California, 95113, United States"
     ]
 }

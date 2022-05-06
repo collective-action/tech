@@ -1,67 +1,43 @@
 {
-    "id": 432,
-    "date": "2021/03/29",
+    "id": 410,
+    "date": "2021/03/15",
     "sources": [
-        "https://www.politico.eu/article/german-union-leads-four-day-amazon-strike/"
+        "https://www.protocol.com/mobilize-app-code-cwa-union"
     ],
     "actions": [
-        "protest",
-        "strike"
+        "union drive",
+        "union representation"
     ],
     "struggles": [
-        "working conditions",
-        "job security"
+        "working conditions"
     ],
     "employment_types": [
-        "blue collar workers",
+        "white collar workers",
         "inhouse workers"
     ],
-    "description": "German Amazon workers went on strike in six centers across the country to put pressure on the company to sign a collective agreement with the union in Germany. Ver.di, the union, has also criticized the company for unsafe working conditions under covid. ",
+    "description": "Workers for Mobilize have formed a union that is part of the CODE-CWA movement. Mobilize is owned by political tech company EveryAction. One hundred percent of eligible Mobilize workers voted to join the union after it was voluntarily recognized by EveryAction management. The union was created as a result of the EveryAction acquisition. Employees were negotiating new contracts and wanted to negotiate certain clauses collectively.",
     "online": null,
     "locations": [
-        "rheinberg-germany",
-        "werne-germany",
-        "koblenz-germany",
-        "leipzig-germany",
-        "bad hersfeld-germany"
+        "usa"
     ],
     "companies": [
-        "amazon"
+        "mobilize"
     ],
-    "workers": 2000,
+    "workers": null,
     "tags": [
-        "coronavirus"
+        "cwa",
+        "industry solidarity"
     ],
     "author": [
-        "nataliyaned"
+        "hyatt d."
     ],
     "latlngs": [
         [
-            51.5369716,
-            6.5877929
-        ],
-        [
-            51.653494949999995,
-            7.59464606445661
-        ],
-        [
-            50.3495332,
-            7.4901388
-        ],
-        [
-            51.1238951,
-            12.492158
-        ],
-        [
-            50.845334,
-            9.677958815746917
+            47.6609713,
+            -122.2893898
         ]
     ],
     "addresses": [
-        "Amazon, Amazonstra\u00dfe, Winterswick, Rheinberg, Kreis Wesel, Nordrhein-Westfalen, 47495, Deutschland",
-        "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
-        "Amazon, Am Autobahnkreuz, Gewerbegebiet Industriepark A61/GVZ Koblenz, R\u00fcbenach, Koblenz, Rheinland-Pfalz, 56072, Deutschland",
-        "Abholstation, 26, Sachsenallee, Borna, Landkreis Leipzig, Sachsen, 04552, Deutschland",
-        "Amazon FRA1, Eichhof, Asbach, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland"
+        "Mobilize Physical Therapy, 3515, Northeast 45th Street, Seattle, King County, Washington, 98105, United States"
     ]
 }

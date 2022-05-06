@@ -1,53 +1,30 @@
 {
-    "id": 418,
-    "date": "2020/12/21",
+    "id": 360,
+    "date": "2020/12/12",
     "sources": [
-        "https://www.thelocal.de/20201221/amazon-workers-across-germany-go-on-strike-for-higher-wages-in-build-up-to-online-xmas/"
+        "https://www.bbc.co.uk/news/world-asia-india-55296433?at_custom2=facebook_page&at_campaign=64&at_custom3=BBC+News&at_medium=custom7&at_custom1=%5Bpost+type%5D&at_custom4=81D22262-3D70-11EB-B208-D9C496E8478F&fbclid=IwAR3puILhntOwygYe8HWoRjMsvcnw9IFD1YRTIKIQUbGWA1hbUn17Sw1yENM"
     ],
     "actions": [
-        "protest",
-        "strike"
+        "protest"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "pay and benefits"
     ],
     "employment_types": [
-        "blue collar workers",
-        "inhouse workers"
+        "blue collar workers"
     ],
-    "description": "In Germany, 800 Amazon employees at six different locations stopped work ahead of Christmas to protest precarious wages. Strikes were called by trade union Verdi and took place in Bad Herzfeld, Rheinberg, and Werne. The strike was called to push for recognition of the union's collective agreements and paying employees according to those agreements. Verdi is also pressuring Amazon for better health and safety conditions. ",
+    "description": "Workers at an iPhone production facility in the city of Narsapura near Bangalore in India protested unpaid wages by destroying office property and factory equipment at Wistron Infocomm's manufacturing facility. Around 100 workers are arrested. ",
     "online": null,
     "locations": [
-        "bad hersfeld-germany",
-        "werne-germany",
-        "rheinberg-germany"
+        "narsapura-bangalore-india"
     ],
     "companies": [
-        "amazon"
+        "wistron infocomm",
+        "apple"
     ],
-    "workers": 800,
+    "workers": 2000,
     "tags": null,
-    "author": [
-        "hyatt d."
-    ],
-    "latlngs": [
-        [
-            50.845334,
-            9.677958815746917
-        ],
-        [
-            51.653494949999995,
-            7.59464606445661
-        ],
-        [
-            51.5369716,
-            6.5877929
-        ]
-    ],
-    "addresses": [
-        "Amazon FRA1, Eichhof, Asbach, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
-        "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
-        "Amazon, Amazonstra\u00dfe, Winterswick, Rheinberg, Kreis Wesel, Nordrhein-Westfalen, 47495, Deutschland"
-    ]
+    "author": null,
+    "latlngs": null,
+    "addresses": null
 }

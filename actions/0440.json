@@ -1,45 +1,42 @@
 {
-    "id": 517,
-    "date": "2021/09/20",
+    "id": 468,
+    "date": "2021/09/13",
     "sources": [
-        "https://medium.com/bluestateunion/blue-state-is-forming-a-union-b0874044061e",
-        "https://cwa-union.org/news/releases/employees-creative-agency-blue-state-secure-first-collective-bargaining-agreement"
+        "https://www.reuters.com/technology/canadian-amazon-facility-files-union-vote-union-2021-09-14/"
     ],
     "actions": [
-        "union representation"
+        "union drive"
     ],
     "struggles": [
         "pay and benefits",
-        "working conditions",
-        "job security"
+        "working conditions"
     ],
     "employment_types": [
-        "white collar workers",
+        "blue collar workers",
         "inhouse workers"
     ],
-    "description": "Represented by CWA, workers at Blue State have formed a union in order to better advocate for changes and be a part of the decision-making process. This union was voluntarily recognized, and a collective bargaining contract was approved that improved job security, pay, and benefits.",
+    "description": "Teamsters Local Union 362 filed a request to hold a vote to form a union at an Amazon facility in Nisku, Alberta, Canada. Teamsters Local Union 362 is part of Teamsters Canada, a trade union that is affiliated with the International Brotherhood of Teamster.  Unionization efforts have already begun, including a petition being signed by \u201chundreds\u201d of warehouse workers, and the date to vote is yet to be decided. ",
     "online": null,
     "locations": [
-        "new york city-new york-usa"
+        "nisku-alberta-canada"
     ],
     "companies": [
-        "blue state"
+        "amazon"
     ],
-    "workers": 80,
+    "workers": 601,
     "tags": [
-        "cwa",
-        "it workers"
+        "teamster"
     ],
     "author": [
         "wynniechan"
     ],
     "latlngs": [
         [
-            40.6453855,
-            -74.1077517
+            53.393627,
+            -113.49682402031908
         ]
     ],
     "addresses": [
-        "Blue, 1115, Richmond Terrace, Staten Island, Richmond County, New York, 10310, United States"
+        "Amazon Warehouse, Nisku Spine Road, Ellerslie Industrial, Ellerslie, Edmonton, Leduc County, Alberta, T6X 2H4, Canada"
     ]
 }

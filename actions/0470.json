@@ -1,39 +1,36 @@
 {
-    "id": 516,
-    "date": "2021/12/18",
+    "id": 520,
+    "date": "2021/12/13",
     "sources": [
-        "https://taipeitimes.com/News/front/archives/2021/12/27/2003770256?s=09"
+        "https://techcrunch.com/2021/12/14/big-cartel-staff-are-voluntarily-recognized-as-the-latest-tech-workers-union/"
     ],
     "actions": [
-        "protest"
+        "union drive",
+        "union representation"
     ],
     "struggles": [
-        "working conditions"
+        "working conditions",
+        "pay and benefits"
     ],
     "employment_types": [
-        "blue collar workers",
-        "contract workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Temporary workers at Foxconn Technology Group (Hon Hai), a major electronics company that manufactures Apple products, protested over their working and living conditions. The workers were mostly women. In response, the company has agreed to their demands.\nchennai-tamil nadu-india",
+    "description": "The co-founders of Big Cartel voluntarily recognized the Big Cartel Workers Union, which are represented by the OPEIU. The workers unionized in order to have a larger voice in the decision-making process, and to ensure fair pay and benefits for everyone. This union is also the first tech union in a \u201cright-to-work\u201d state.",
     "online": null,
     "locations": [
-        "chennai-india"
+        "salt lake city-utah-usa"
     ],
     "companies": [
-        "foxconn"
+        "big cartel"
     ],
-    "workers": null,
-    "tags": null,
+    "workers": 30,
+    "tags": [
+        "opeiu"
+    ],
     "author": [
         "wynniechan"
     ],
-    "latlngs": [
-        [
-            12.92266025,
-            79.88984389117235
-        ]
-    ],
-    "addresses": [
-        "Foxconn, Sunguvarchatram, Sriperumbudur, Kanchipuram District, Tamil Nadu, India"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

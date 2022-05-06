@@ -1,32 +1,42 @@
 {
-    "id": 113,
-    "date": "2019/01/17",
+    "id": 542,
+    "date": "2018/12/31",
     "sources": [
-        "https://www.businessinsider.com/instacart-workers-request-22-cent-tips-protest-2019-1",
-        "https://actionnetwork.org/petitions/instacart-heres-our-22-cents-no-more-tip-theft-low-pay-and-black-box-pay-algorithms"
+        "https://journals.sagepub.com/doi/full/10.1177/1329878X221074793?s=09"
     ],
     "actions": [
-        "open letter"
+        "resources"
     ],
     "struggles": [
-        "pay and benefits"
+        "working conditions"
     ],
     "employment_types": [
-        "gig workers"
+        "gig workers",
+        "contract workers"
     ],
-    "description": "150 Instacart workers have started a petition to protest changes in how they are paid. The petition urges the company to change this policy. It also encourages Instacart users to pay 'shoppers' the minimum $0.22 tip through the app and to pay the remainder of the tip in cash to ensure the tip amount primarily goes to workers.",
+    "description": "Knights League, a WeChat group that serves as an informal union for Chinese food delivery platform workers, was founded in 2018. They share news and information with each other.",
     "online": true,
     "locations": [
-        "usa"
+        "china"
     ],
     "companies": [
-        "instacart"
+        "meituan",
+        "ele.me",
+        "sf express",
+        "flash ex"
     ],
-    "workers": 150,
+    "workers": null,
     "tags": null,
     "author": [
-        "nataliyaned"
+        "wynniechan"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            35.7463637,
+            115.0636717
+        ]
+    ],
+    "addresses": [
+        "\u987a\u4e30\u901f\u8fd0, \u77f3\u5316\u4e1c\u8def, \u80dc\u5229\u8def\u8857\u9053, \u534e\u9f99\u533a, \u6fee\u9633\u5e02, \u6cb3\u5357\u7701, 457000, \u4e2d\u56fd"
+    ]
 }

@@ -1,42 +1,35 @@
 {
-    "id": 246,
+    "id": 295,
     "date": "2020/03/19",
     "sources": [
-        "https://www.bloomberg.com/news/articles/2020-03-19/google-agrees-to-worker-council-in-europe-amid-recurring-discord"
+        "https://technode.com/2020/04/29/there-are-no-food-delivery-winners/",
+        "https://technode.com/2019/02/25/meituan-deliveryman-strike/",
+        "https://maps.clb.org.hk/?i18n_language=en_US&map=1&startDate=2019-02&endDate=2019-02&eventId=2020010622223453021"
     ],
     "actions": [
-        "legal action"
+        "strike"
     ],
     "struggles": [
-        "na"
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "A group of 153 Google employees from 11 European offices wrote to the company\u2019s management requesting the establishment of the council. Google\u2019s management agreed to take the first steps toward creating the council and will soon begin negotiating with employees about its scope. (The creation of such works councils-- which aim to give employees the right to be consulted by management about issues such as organizational changes or job cuts -- is required by the European Union if enough of a company\u2019s employees in at least two countries file a written request). The works council is likely to include employee representatives from more than 35 Google offices across Europe, according to the people familiar with the matte",
+    "description": "Food delivery drivers carried out a series of strikes in several major cities across China in protest of lowered wages from the dominant food delivery platform, Meituan Dianping.  Workers lined up delivery scooters and bikes displaying signs that read, \"stop taking orders.\u201d  The work stoppage created tension between delivery drivers and food vendors, sometimes leading to physical confrontation.",
     "online": null,
     "locations": [
-        "usa"
+        "dongguan-china"
     ],
     "companies": [
-        "google"
+        "meituan"
     ],
-    "workers": 153,
+    "workers": 100,
     "tags": [
-        "coworker_solidarity",
-        "international_solidarity"
+        "delivery_workers"
     ],
     "author": [
-        "organizejs"
+        "clarissa"
     ],
-    "latlngs": [
-        [
-            33.977092,
-            -118.4092133
-        ]
-    ],
-    "addresses": [
-        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

@@ -1,40 +1,44 @@
 {
-    "id": 332,
-    "date": "2020/09/21",
+    "id": 326,
+    "date": "2020/09/08",
     "sources": [
-        "https://www.cnbc.com/2020/10/01/google-contractors-allege-ndas-violate-free-speech-laws.html",
-        "https://www.courts.ca.gov/opinions/documents/A157097.PDF"
+        "https://www.vice.com/en/article/g5p9nb/employees-of-social-change-nonprofit-stage-walkout-to-protest-racial-abuse"
     ],
     "actions": [
-        "legal action"
+        "protest",
+        "strike",
+        "open letter"
     ],
     "struggles": [
-        "unfair labor practices"
+        "discrimination"
     ],
     "employment_types": [
-        "contract workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "A number of contractors for Google (employed through staffing firm Adecco) have filed a lawsuit alleging that confidentiality agreements with the company deprive them of basic legal rights, such as free speech. Contractors are prevented from discussing wages or working conditions, which they claim prohibit them from \u201cdisclosing violations of state and federal law, either within Google to their managers or outside Google to private attorneys or government officials\u201d. The Sept. 21st filing with a California appeals court reverses a lower court decision, allowing the lawsuit to proceed. ",
-    "online": null,
+    "description": "24 employees of tech non-profit Do Something walked off the job, calling for the resignation of current CEO Aria Finger. They have also sent two direct letters to the CEO and Board of Directors that have been shared on Twitter. Former employees shared experiences of racial discrimination and harassment via social media earlier this year. The letter states that Finger reacted to these posts by calling them untrue or \"standard-issued American forms of microaggression and racism\". Finger returned in August after a legal investigation did not find evidence of discrimination under her tenure. ",
+    "online": true,
     "locations": [
-        "san francisco-california-usa"
+        "usa"
     ],
     "companies": [
-        "google",
-        "adecco"
+        "do something"
     ],
-    "workers": null,
-    "tags": null,
+    "workers": 24,
+    "tags": [
+        "antiracism",
+        "blm"
+    ],
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            37.7933154,
-            -122.3945205
+            40.8541838,
+            -74.2138917
         ]
     ],
     "addresses": [
-        "Google One Market, 1, Market Street, Financial District, San Francisco, California, 94111, United States"
+        "Something Fun, Cedar Grove, Essex County, New Jersey, 07009, United States"
     ]
 }

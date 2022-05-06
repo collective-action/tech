@@ -1,45 +1,42 @@
 {
-    "id": 417,
-    "date": "2021/04/09",
+    "id": 427,
+    "date": "2021/04/07",
     "sources": [
-        "https://stopprotectingharassers.medium.com/alphabet-stop-protecting-harassers-d32a17aa5762",
-        "https://www.theverge.com/2021/4/9/22375913/alphabet-employees-open-letter-google-harassers"
+        "https://www.newsweek.com/amazon-driver-leaves-packages-upside-down-start-no-more-smiles-protest-1581599",
+        "https://twitter.com/DaveLeeFT/status/1379631120501772289?s=19"
     ],
     "actions": [
-        "open letter"
+        "protest"
     ],
     "struggles": [
-        "unfair labor practices",
         "working conditions"
     ],
     "employment_types": [
-        "white collar workers",
         "blue collar workers",
-        "inhouse workers",
-        "contract workers"
+        "inhouse workers"
     ],
-    "description": "An open letter was sent to Sundar Pichai, CEO of Alphabet, asking him to take a stronger stance on addressing sexual harassment within the company. The letter points out that workers who have been harassed still must work directly or report to those that have harassed them. Moreover, the letter points out to a trend where the company protects harassers and not the victim. ",
-    "online": true,
+    "description": "Amazon drivers have begun leaving the company's trademark packages upside-down which displays the company's logo as a frown. The trend began when an Amazon delivery driver, who goes by AugustaSummerz, posted photos online of displaying packages upside-down to protest working conditions. ",
+    "online": null,
     "locations": [
         "usa"
     ],
     "companies": [
-        "alphabet"
+        "amazon"
     ],
-    "workers": 2067,
+    "workers": null,
     "tags": [
-        "sexual_harassment"
+        "delivery_workers"
     ],
     "author": [
         "hyatt d."
     ],
     "latlngs": [
         [
-            37.3398646,
-            -121.8844823
+            46.320207,
+            -112.1072224
         ]
     ],
     "addresses": [
-        "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112-3580, United States"
+        "Amazon, Jefferson County, Montana, United States"
     ]
 }

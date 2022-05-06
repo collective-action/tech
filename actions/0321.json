@@ -1,16 +1,13 @@
 {
-    "id": 310,
-    "date": "2020/08/14",
+    "id": 338,
+    "date": "2020/08/12",
     "sources": [
-        "https://www.nytimes.com/2020/08/14/technology/pinterest-walkout-equality.html",
-        "https://techcrunch.com/2020/08/14/pinterest-employees-are-walking-out-today-in-light-of-discrimination-allegations/",
-        "https://www.theverge.com/2020/8/14/21369035/pinterest-virtual-walkout-protest-discrimination-slack-blind",
-        "https://www.usatoday.com/story/money/2020/08/13/pinterest-workers-walk-out-calling-end-workplace-bias/3369999001/"
+        "https://www.printmag.com/post/tech-can-do-better-an-industry-wide-wake-up-call",
+        "https://www.instagram.com/techcandobetter/",
+        "https://docs.google.com/forms/d/e/1FAIpQLSck1JZR5FdfWbRB7OOgCPBCVGIS0kB-zLHN-Q3J6PZORRUP3w/viewform"
     ],
     "actions": [
-        "protest",
-        "open letter",
-        "strike"
+        "resources"
     ],
     "struggles": [
         "discrimination"
@@ -19,27 +16,28 @@
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "Pinterest employees staged a virtual walk out by posting messages to Slack and then logging off their work accounts, to protest the racial and gender discrimination brought to light by Ifeoma Ozoma and Aerica Shimizu Banks, and then again by Francoise Brougher. Workers also signed onto an online petition to CEO Ben Silberman calling for an end to discrimination and retaliation by the company.",
+    "description": "A group of Black employees across tech companies have launched an initiative, Tech Can Do Better, to call for greater equity in the workplace. An Instagram account promotes the visibility and highlights the accomplishments of Black employees in tech. The group has also started an online pledge where workers can commit to \"mak[ing] the changes needed to achieve equitable hiring, promotions, and compensation, mak[ing] significant Investment in social equity and driv[ing] advocacy for equitable legislation.\"",
     "online": true,
     "locations": [
         "usa"
     ],
-    "companies": [
-        "pinterest"
-    ],
-    "workers": 236,
+    "companies": null,
+    "workers": null,
     "tags": [
         "antiracism",
-        "blm"
+        "blm",
+        "industry_solidarity"
     ],
-    "author": null,
+    "author": [
+        "nataliyaned"
+    ],
     "latlngs": [
         [
-            37.7730978,
-            -122.4036357
+            39.7837304,
+            -100.445882
         ]
     ],
     "addresses": [
-        "Pinterest, 7th Street, SOMA Pilipinas, San Francisco, California, 94103, United States"
+        "United States"
     ]
 }

@@ -1,32 +1,37 @@
 {
-    "id": 488,
-    "date": "2021/10/27",
+    "id": 487,
+    "date": "2021/10/19",
     "sources": [
-        "https://googlewalkout.medium.com/an-open-letter-supporting-trans-netflix-employees-c291defbc772"
+        "https://www.theverge.com/2021/10/19/22726915/facebook-content-moderators-protest-low-wages",
+        "https://www.foxglove.org.uk/2021/10/19/letter-facebook-content-moderators-julie-sweet/"
     ],
     "actions": [
+        "protest",
         "open letter"
     ],
     "struggles": [
-        "ethics",
-        "discrimination"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "contract workers"
     ],
-    "description": "To express solidarity with the Trans Netflix employee resource group, members of Google Walkout for Real Change affirmed their demands in an open letter, and they also called on all employees of big technology and media companies to hold their employers accountable.",
-    "online": true,
+    "description": "With the backing of Foxglove Legal, Facebook contract moderators at Accenture are protesting low wages with a mobile billboard and internal letter. The billboard calls for Accenture CEO Julie Sweet to \u201cstop exploiting your workers,\u201d considering how much Accenture is paid compared to how much content moderators make per hour. Ukrainian and Spanish language moderators are also excluded from the $2 premium that bilingual moderators receive. Despite the demand for equal pay in June, there was no change. Moreover, the moderators\u2019 work is emotionally and mentally taxing because of the unpleasant content they moderate. Accenture only offers access to behavioral coaches instead of professional psychological care, according to Foxglove Legal. ",
+    "online": null,
     "locations": [
-        "worldwide"
+        "bethesda-maryland-usa",
+        "washington_dc-usa"
     ],
     "companies": [
-        "google",
-        "netflix"
+        "accenture",
+        "facebook"
     ],
-    "workers": 319,
+    "workers": null,
     "tags": [
-        "industry solidarity"
+        "moderators",
+        "coworker solidarity",
+        "industry solidarity",
+        "international solidarity"
     ],
     "author": [
         "wynniechan"

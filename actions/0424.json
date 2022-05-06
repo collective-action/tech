@@ -1,36 +1,47 @@
 {
-    "id": 457,
-    "date": "2021/07/21",
+    "id": 452,
+    "date": "2021/06/30",
     "sources": [
-        "https://www.latimes.com/business/story/2021-07-21/uber-lyft-drivers-strike-wednesday-july-21-rider-information"
+        "https://wamu.org/story/21/06/30/change-org-workers-form-a-union-giving-labor-activists-another-win-in-tech/"
     ],
     "actions": [
-        "protest",
-        "strike"
+        "union drive",
+        "union representation"
     ],
     "struggles": [
-        "pay and benefits"
+        "pay and benefits",
+        "ethics",
+        "discrimination"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers",
+        "contract workers",
+        "inhouse workers"
     ],
-    "description": "Organized by Rideshare Drivers United, Uber, Lyft, and other rideshare app-based drivers are striking in 11 different cities around the country. The drivers are protesting for better pay and legal protection under the PRO Act.",
+    "description": "Seventy employees who work for Change.org unionized and joined the Workers of America's CODE-CWA Project. Organizing in the company began with Erni Poch\u00e9, who noticed that the company used the racial identities of its employees to claim diversity and inclusion within the company. Black employees reported being disproportionately assigned to petitions around race, for instance. The workers who joined the union want to have a say in wages, benefits, and the implementation of diversity and equity programs. ",
     "online": null,
     "locations": [
-        "los angeles-california-usa"
+        "usa"
     ],
     "companies": [
-        "uber",
-        "lyft"
+        "change.org"
     ],
-    "workers": 700,
+    "workers": null,
     "tags": [
-        "drivers",
-        "industry_solidarity"
+        "coworker solidarity",
+        "cwa",
+        "antiracism"
     ],
     "author": [
         "hyatt d."
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.7899932,
+            -122.4008494
+        ]
+    ],
+    "addresses": [
+        "Change.org, 548, Market Street, Transbay, San Francisco, California, 90104, United States"
+    ]
 }

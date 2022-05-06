@@ -1,14 +1,11 @@
 {
-    "id": 512,
-    "date": "2021/12/20",
+    "id": 506,
+    "date": "2021/12/14",
     "sources": [
-        "https://www.startbase.com/news/sumup-mitarbeiter-wollen-betriebsrat-gruenden/",
-        "https://twitter.com/TechWorkersBER/status/1473233396964941825?t=u0VJtCkoJsvvgGc_EpdqUA&s=19"
+        "https://www.yahoo.com/now/citizen-app-workers-vote-unionize-210325963.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAABzGqlx9rV0WtzFdwvQMW1lNxIYsj3jG1yvHG2HUVLY03t6R10vLFBw2yIUv3_8VycSDnEiGa3yuUfuM0fWY4_SxRFBMO3KkMmN9zPdpf3LextbBH16mIiRJDc9KmWcAukkBRrxKl4FzET7sMHovLg6AL02_DJmSHLJi-dDZ2rNA"
     ],
     "actions": [
-        "legal action",
-        "union representation",
-        "union drive"
+        "union representation"
     ],
     "struggles": [
         "job security"
@@ -17,21 +14,26 @@
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "In response to Sumup laying off 150 employees, employees have called for a works council election, with one employee also sending a mass email. The CEO, Michael Schrezenmaier, has affirmed these plans, since it is legal by German law. Moreover, the Berlin Tech Workers Coalition and ver.di Tech Berlin/Brandenburg are supporting this group.",
-    "online": true,
+    "description": "A Citizen App workers\u2019 bargaining unit voted 51-22 in favor of unionizing with the help of the Communications Workers of America. This effort was partially driven by fears of outsourcing after the company outsourced some job tasks to contract workers overseas.",
+    "online": null,
     "locations": [
-        "germany"
+        "usa"
     ],
     "companies": [
-        "sumup"
+        "citizen"
     ],
-    "workers": null,
-    "tags": [
-        "coworker_solidarity"
-    ],
+    "workers": 73,
+    "tags": null,
     "author": [
         "wynniechan"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            34.2157869,
+            -119.0615961
+        ]
+    ],
+    "addresses": [
+        "Citizen, 740, East Ventura Boulevard, Camarillo, Ventura County, California, 93010, United States"
+    ]
 }

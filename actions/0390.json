@@ -1,39 +1,56 @@
 {
-    "id": 424,
-    "date": "2021/04/03",
+    "id": 425,
+    "date": "2021/03/29",
     "sources": [
-        "https://www.rfa.org/english/news/china/riders-03042021131132.html",
-        "https://chinadigitaltimes.net/2021/03/translation-detention-of-takeout-driver-advocate-highlights-digital-era-labor-abuses/"
+        "https://www.al.com/business/2021/03/workers-in-2-european-countries-strike-against-amazon.html",
+        "https://www.cnbc.com/2021/03/22/amazon-workers-go-on-strike-in-italy-over-labor-conditions-.html"
     ],
     "actions": [
         "protest",
         "strike"
     ],
     "struggles": [
-        "ethics",
         "pay and benefits",
-        "working conditions"
+        "job security"
     ],
     "employment_types": [
-        "gig workers"
+        "blue collar workers",
+        "inhouse workers"
     ],
-    "description": "Food delivery drivers for the platform Ele.me are going on strike for better pay, working conditions, and to protest Xiong Yan's detainment. Xiong Yan is the head of an unofficial union for the platform who was detained in Beijing last month. Delivery workers who are on strike and part of the sabotage campaign are refusing to accept work or, in cases when they do, purposefully taking a long time to complete orders to trigger \"time outs\". ",
-    "online": true,
+    "description": "Italian Amazon workers went on a national strike for 24 hours to protest for fewer hours and job stability for temporary workers. \nItalian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which took place in Tuscany, Florence, and Pisa. ",
+    "online": null,
     "locations": [
-        "shenzhen-china",
-        "beijing-china"
+        "tuscany-italy",
+        "florence-italy",
+        "pisa-italy"
     ],
     "companies": [
-        "ele.me"
+        "amazon"
     ],
-    "workers": 10000,
+    "workers": null,
     "tags": [
-        "coworker solidarity",
         "delivery_workers"
     ],
     "author": [
         "hyatt d."
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            43.841860749999995,
+            11.166183284518766
+        ],
+        [
+            43.841860749999995,
+            11.166183284518766
+        ],
+        [
+            43.7245809,
+            10.3897394
+        ]
+    ],
+    "addresses": [
+        "Amazon, Via Baldanzese, Settimello, Sesto Fiorentino, Firenze, Toscana, 50019, Italia",
+        "Amazon, Via Baldanzese, Settimello, Sesto Fiorentino, Firenze, Toscana, 50019, Italia",
+        "Amazon Hub Locker, Viale delle Cascine, Gagno, Pisa, Toscana, 56123, Italia"
+    ]
 }

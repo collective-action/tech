@@ -1,42 +1,41 @@
 {
-    "id": 321,
-    "date": "2020/08/19",
+    "id": 312,
+    "date": "2020/08/12",
     "sources": [
-        "https://www.law360.com/articles/1302356/ex-google-workers-want-sexist-emails-memes-turned-over",
-        "https://www.lieffcabraser.com/2020/08/ex-google-workers-want-sexist-emails-meme-messages-turned-over-in-google-gender-discrimination-suit/"
+        "https://qz.com/1894241/belaruss-crackdown-could-squash-minsks-budding-tech-sector/",
+        "https://dev.by/news/otkrytoe-pismo-it-kompanii"
     ],
     "actions": [
-        "legal action"
+        "open letter"
     ],
     "struggles": [
-        "discrimination"
+        "ethics"
     ],
     "employment_types": [
         "white collar workers",
-        "inhouse workers"
+        "inhouse workers",
+        "contract workers"
     ],
-    "description": "Four former Google software engineers have filed a lawsuit in California claiming gender discrimination at the company and demanding that the company turn over sexist emails and memes created by two male company employees. The plaintiffs hope to mount a class action lawsuit against the company.",
-    "online": null,
+    "description": "Over 2,900 Belarusian tech workers, including top level management and investors, publicly signed onto an open letter calling the recent presidential elections a fraud. Signatories threatened to relocate their offices and investments outside of Belarus, stating that the atmosphere of fear and suppression was not conducive to a thriving technology sector. The letter denounced anti-democratic measures taken by the government, including the arrests of protesters and widespread Internet outages, and called for new elections, the release of those arrested, and freedom of press in the country. ",
+    "online": true,
     "locations": [
-        "san francisco-california-usa"
+        "belarus"
     ],
-    "companies": [
-        "google"
-    ],
-    "workers": 4,
+    "companies": null,
+    "workers": 2900,
     "tags": [
-        "sexism"
+        "politics"
     ],
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            37.7933154,
-            -122.3945205
+            53.4250605,
+            27.6971358
         ]
     ],
     "addresses": [
-        "Google One Market, 1, Market Street, Financial District, San Francisco, California, 94111, United States"
+        "\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c"
     ]
 }

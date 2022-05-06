@@ -1,33 +1,50 @@
 {
-    "id": 531,
-    "date": "2022/02/03",
+    "id": 535,
+    "date": "2022/02/01",
     "sources": [
-        "https://twitter.com/Nava_United/status/1489328874575912960?s=20&t=wBhNN2TOTrksE7vxzWCo3w",
-        "https://technical.ly/company-culture/nava-pbc-tech-union/"
+        "https://www.theguardian.com/us-news/2022/feb/07/rideshare-delivery-app-workers-fight-to-unionize"
     ],
     "actions": [
-        "union drive",
-        "union representation"
+        "protest",
+        "union drive"
     ],
     "struggles": [
-        "working conditions"
+        "pay and benefits",
+        "working conditions",
+        "job security"
     ],
     "employment_types": [
-        "white collar workers"
+        "gig workers"
     ],
-    "description": "Workers at Nava PBC have joined together with a supermajority of their colleagues to form Nava United. Workers at Nava help to build accessible platforms for vital government services (like the DOJ's civil rights portal, medicare and medicaid services, and more), and more. They are forming a union to improve their working conditions and strengthen the work they do at Nava.",
-    "online": true,
-    "locations": null,
+    "description": "The International Alliance of Delivery Workers is launching a new coalition called Justice for App Workers. They represent over 10,000 rideshare and delivery gig workers. To kick off their formation, they held a rally in Manhattan. Their demands include; better work conditions, more job security, more benefits, a living wage, and the right to form a union for rideshare and delivery app workers.",
+    "online": null,
+    "locations": [
+        "manhattan-new york city-new york-usa"
+    ],
     "companies": [
-        "nava pbc"
+        "doordash",
+        "uber",
+        "grubhub",
+        "lyft",
+        "ubereats"
     ],
-    "workers": 115,
+    "workers": 10000,
     "tags": [
-        "opeiu"
+        "international solidarity",
+        "drivers",
+        "industry solidarity",
+        "delivery_workers"
     ],
     "author": [
         "wynniechan"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            40.7859179,
+            -73.9849146
+        ]
+    ],
+    "addresses": [
+        "Yachthafen(Blick \u00fcber New Yersey), Riverside Walk, Upper West Side, Manhattan Community Board 7, New York County, New York, 10069, United States"
+    ]
 }

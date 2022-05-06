@@ -1,54 +1,41 @@
 {
-    "id": 394,
-    "date": "2021/01/12",
+    "id": 383,
+    "date": "2021/01/08",
     "sources": [
-        "https://www.washingtonpost.com/technology/2021/01/12/prop22-uber-lawsuit/"
+        "https://www.washingtonpost.com/technology/2021/01/08/twitter-trump-dorsey/"
     ],
     "actions": [
-        "legal action"
+        "open letter"
     ],
     "struggles": [
-        "unfair labor practices"
+        "ethics"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers"
     ],
-    "description": "The SEIU, along with a number of individual rideshare drivers, filed a lawsuit with the California Supreme Court seeking to overturn Proposition 22, which ruled that gig workers are independent contractors in the state. They argue that the law is unconstitutional and violates the right of state legislators; they also argue that Proposition 22 violated a rule that limits ballot measures to a single subject to prevent voter confusion.",
-    "online": null,
+    "description": "Following the pro-Trump storming of the Capitol on January 6, roughly 350 Twitter employees signed an internal letter addressed to CEO Jack Dorsey and top executives questioning Twitter's policies and role in facilitating the attack. The employees requested an investigation into corporation actions over the last several years and asked for greater transparency to the company\u2019s decision-making process regarding Donald Trumps' Twitter account on the day of the attack.",
+    "online": true,
     "locations": [
-        "california-usa"
+        "usa"
     ],
     "companies": [
-        "uber",
-        "lyft",
-        "doordash"
+        "twitter"
     ],
-    "workers": null,
+    "workers": 350,
     "tags": [
-        "drivers",
-        "seiu",
-        "climate change"
+        "trump",
+        "politics"
     ],
     "author": [
-        "nataliyaned"
+        "CM"
     ],
     "latlngs": [
         [
-            37.7756962,
-            -122.4180838
-        ],
-        [
-            37.7509149,
-            -122.40246883416269
-        ],
-        [
-            37.7834546,
-            -122.4080358
+            37.7765529,
+            -122.4167931517656
         ]
     ],
     "addresses": [
-        "Uber, 1455, Market Street, SOMA Pilipinas, San Francisco, California, 94103, United States",
-        "Lyft, Kansas Street, Potrero Terrace, San Francisco, California, 94124, United States",
-        "Doordash HQ, Market Street, SOMA Pilipinas, San Francisco, California, 94104, United States"
+        "Twitter, Market Street, Civic Center, San Francisco, California, 94102, United States"
     ]
 }

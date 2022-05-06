@@ -1,19 +1,20 @@
 {
-    "id": 270,
-    "date": "2020/06/06",
+    "id": 265,
+    "date": "2020/06/01",
     "sources": [
-        "https://www.washingtonpost.com/technology/2020/06/06/chan-zuckerberg-initiative-open-letter-trump/"
+        "https://www.nytimes.com/2020/06/01/technology/facebook-employee-protest-trump.html",
+        "https://www.washingtonpost.com/business/2020/06/01/facebook-zuckerberg-donation-trump/"
     ],
     "actions": [
-        "open letter"
+        "protest"
     ],
     "struggles": [
         "ethics"
     ],
     "employment_types": [
-        "white collar workers"
+        "na"
     ],
-    "description": "Scientists funded by the Chan Zuckerberg Initiative addressed a letter to Mark Zuckerberg critiquing Facebook's role in diffusing inaccurate information, in particular Donald Trump's \"when the looting starts, the shooting starts\" comment in relation to the George Floyd protests. The authors argued that the letter promotes violence. ",
+    "description": "Facebook employees hosted a virtual walkout, refusing to work for the time of the event, in protest of the company's failure to take a tougher stance on Trump's posts in reaction to the George Floyd protests. Many employees also expressed solidarity with the Black Lives Matter movement. The New York Times reports that employees have also circulated petitions internally and threatened to resign in response to the event. The previous week Twitter added fact-check and warning labels to two tweets from the president that broke Twitter\u2019s rules around voter suppression and glorification of violence.",
     "online": true,
     "locations": [
         "usa"
@@ -21,10 +22,11 @@
     "companies": [
         "facebook"
     ],
-    "workers": 141,
+    "workers": null,
     "tags": [
-        "academics",
-        "ai"
+        "antiracism",
+        "blm",
+        "trump"
     ],
     "author": [
         "nataliyaned"

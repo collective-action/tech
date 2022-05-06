@@ -1,45 +1,44 @@
 {
-    "id": 187,
-    "date": "2019/09/25",
+    "id": 449,
+    "date": "2019/09/19",
     "sources": [
-        "http://www.browndailyherald.com/2019/09/26/students-protest-companies-tied-ice-career-fair/"
+        "https://www.geekwire.com/2019/tech-company-chef-wont-renew-u-s-immigration-contracts-changing-course-amid-employee-activism/",
+        "https://seattleglobalist.com/2019/10/09/seattle-tech-firm-announces-end-of-ice-contracts/88379",
+        "https://github.com/sethvargo/chef-sugar"
     ],
     "actions": [
-        "protest",
-        "open letter"
+        "protest"
     ],
     "struggles": [
         "ethics"
     ],
     "employment_types": [
-        "na"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Students at Brown demonstrated against four companies (Amazon, Microsoft, Palantir, and Ernst & Young) at an on-campus career fair. All four companies have done business with ICE. The students have also started an online petition to protest Brown's connections to these four companies. ",
-    "online": null,
+    "description": "A former employee of Chef, a Seattle-based tech firm,\nprotested the company's involvement with ICE by deleting open source projects used by Chef customers. The CEO of Chef initially defended the decision to work with ICE but within a week, reversed course and canceled their contract following internal protests and advocacy by Chef employees.  ",
+    "online": true,
     "locations": [
-        "providence-rhode island-usa"
+        "seattle-washington-usa"
     ],
     "companies": [
-        "palantir",
-        "microsoft",
-        "amazon"
+        "chef"
     ],
-    "workers": null,
+    "workers": 2,
     "tags": [
-        "students",
-        "immigration",
-        "ice"
+        "ice",
+        "immigration"
     ],
     "author": [
-        "nataliyaned"
+        "william boag"
     ],
     "latlngs": [
         [
-            41.7558634,
-            -71.4564942
+            47.6023356,
+            -122.3358275
         ]
     ],
     "addresses": [
-        "Amazon Locker, Sockanosset Cross Road, Sockanosset, Cranston, Providence County, Rhode Island, 02920, United States"
+        "Chef Software, Inc., 619, Western Avenue, West Edge, International District/Chinatown, Seattle, King County, Washington, 98104, United States"
     ]
 }

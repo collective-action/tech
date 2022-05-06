@@ -1,52 +1,36 @@
 {
-    "id": 461,
-    "date": "2021/07/26",
+    "id": 460,
+    "date": "2021/07/15",
     "sources": [
-        "https://www.foxglove.org.uk/2021/07/25/open-letter-from-60-content-moderators-to-facebook/"
+        "https://clb.org.hk/content/hong-kong-food-delivery-workers-protest-pay-and-working-conditions"
     ],
     "actions": [
-        "open letter"
+        "protest",
+        "strike"
     ],
     "struggles": [
+        "pay and benefits",
         "job security",
-        "working conditions",
-        "ethics"
+        "working conditions"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers",
-        "contract workers"
+        "gig workers"
     ],
-    "description": "Content moderators who work for Facebook across the world wrote an open letter to Mark Zuckerberg, Sheryl Sandberg, Anne Heraty, and Julie Sweet. The moderators are demanding Facebook stop using non-disclosure agreements to prevent moderators from speaking out about their working conditions. The moderators also want proper mental health support and to make all moderators in-house instead of contract workers outsourced by Accenture.  ",
-    "online": true,
+    "description": "Foodpanda delivery workers protested in front of the company's headquarters while seven representatives of the strike tried to negotiate demands with the company. The delivery workers demanded to raise the base rate for deliveries, stop unreasonable termination of workers, end the cash-on-delivery system, and increase insurance coverage for personal accidents. Company management did not accept any of the demands or decide to hold another meeting. ",
+    "online": null,
     "locations": [
-        "usa"
+        "hong kong-china"
     ],
     "companies": [
-        "facebook",
-        "accenture"
+        "foodpanda"
     ],
-    "workers": 60,
+    "workers": 7,
     "tags": [
-        "international solidarity",
-        "coworker_solidarity",
-        "moderators"
+        "delivery_workers"
     ],
     "author": [
         "hyatt d."
     ],
-    "latlngs": [
-        [
-            30.2691649,
-            -97.7455041
-        ],
-        [
-            37.3339398,
-            -121.8895142
-        ]
-    ],
-    "addresses": [
-        "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States",
-        "Accenture, West San Fernando Street, Downtown Historic District, San Jose, Santa Clara County, California, 95113, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

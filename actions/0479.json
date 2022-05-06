@@ -1,49 +1,42 @@
 {
-    "id": 522,
-    "date": "2022/01/06",
+    "id": 508,
+    "date": "2021/12/23",
     "sources": [
-        "https://www.theverge.com/2022/1/11/22878120/facebook-meta-whatsapp-moderators-accenture-missing-paycheck"
+        "https://deadline.com/2021/12/apple-employees-christmas-eve-boycott-1234901677/",
+        "https://uk.news.yahoo.com/apple-workers-walk-christmas-eve-195521760.html?guccounter=1&guce_referrer=aHR0cHM6Ly9kZWFkbGluZS5jb20v&guce_referrer_sig=AQAAALWVW9ivmXOG7qloLztp29VH4yT1Kd3tmDTuAEvYu_7W556oAVr0LDkumNrdkuaVmpezEkLAHZBeFOGyx7z2gfWiXiJ_AEyciWjsFVZxbjeutU5KvtfAT3lxRFu6zF6WR40fYR6iHqI6LS8ESCANFc5PZit7j_Oe3MXE_bbf758R"
     ],
     "actions": [
         "protest",
-        "open letter"
+        "strike"
     ],
     "struggles": [
+        "working conditions",
         "pay and benefits"
     ],
     "employment_types": [
-        "contract workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Facebook and Whatsapp moderators didn\u2019t receive paychecks after a change in payroll providers. In response, they posted an open letter and threatened a work stoppage until they receive their paychecks. There has been no indication of a work stoppage, according to Accenture. Some workers have received lump-sum payments that partially cover their pay. However, not everyone has received the payments.",
-    "online": null,
+    "description": "Apple Together, a group of Apple employees in retail and corporate, staged a walkout and are encouraging customers to boycott Apple products on Christmas Eve. They are demanding better working conditions, including paid sick leave and COVID-related protection, and hazard pay.",
+    "online": true,
     "locations": [
-        "austin-texas-usa"
+        "usa"
     ],
     "companies": [
-        "accenture",
-        "facebook",
-        "whatsapp"
+        "apple"
     ],
-    "workers": null,
-    "tags": [
-        "coworker solidarity",
-        "moderators"
-    ],
+    "workers": 51,
+    "tags": null,
     "author": [
         "wynniechan"
     ],
     "latlngs": [
         [
-            30.2658505,
-            -97.7434222
-        ],
-        [
-            30.2691649,
-            -97.7455041
+            37.3326452,
+            -122.0299129658936
         ]
     ],
     "addresses": [
-        "Accenture, 323, Congress Avenue, Downtown, Austin, Travis County, Texas, 78701, United States",
-        "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
+        "Apple Campus, Cupertino, Santa Clara County, California, United States"
     ]
 }

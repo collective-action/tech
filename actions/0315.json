@@ -1,36 +1,68 @@
 {
-    "id": 348,
-    "date": "2020/08/01",
+    "id": 308,
+    "date": "2020/07/20",
     "sources": [
-        "https://www.berkeleyside.com/2020/10/13/amazon-workers-want-to-unionize-their-east-bay-warehouse",
-        "https://www.youtube.com/watch?v=LpSrDtHhKVs"
+        "https://www.vice.com/en_us/article/qj4zxx/amazon-google-and-lyft-workers-tell-us-why-theyre-striking-for-black-lives-matter",
+        "https://www.washingtonpost.com/business/2020/07/20/strike-for-black-lives/"
     ],
     "actions": [
-        "protest"
+        "protest",
+        "strike"
     ],
     "struggles": [
-        "working conditions"
+        "ethics",
+        "discrimination"
     ],
     "employment_types": [
-        "blue collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "Amazon workers and supporters blocked the entrance of a San Leandro warehouse for several hours in a call for improved coronavirus safety measures.",
-    "online": true,
+    "description": "Amazon, Google, Uber, Lyft, and Postmates workers were reportedly among the \"tens of thousands\" of employees across the U.S. that took part in a protest of the country's long-standing systemic racism. Those that were unable to leave their jobs were encouraged to take an 8 minute, 46 second break (the amount of time a police officer knelt on George Floyd's neck) or to bend a knee in solidarity (a reference to protests by the NFL). The Washington Post reports that demonstrations took place in over 200 cities.",
+    "online": null,
     "locations": [
-        "san leandro-california-usa"
+        "usa"
     ],
     "companies": [
-        "amazon"
+        "amazon",
+        "google",
+        "uber",
+        "lyft",
+        "postmates"
     ],
     "workers": null,
     "tags": [
-        "coronavirus",
-        "delivery_workers"
+        "blm",
+        "antiracism"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            46.320207,
+            -112.1072224
+        ],
+        [
+            33.977092,
+            -118.4092133
+        ],
+        [
+            37.7899898,
+            -122.3999799
+        ],
+        [
+            37.7509149,
+            -122.40246883416269
+        ],
+        [
+            37.7753423,
+            -122.39763106771915
+        ]
+    ],
+    "addresses": [
+        "Amazon, Jefferson County, Montana, United States",
+        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
+        "Uber, Market Street, Financial District, San Francisco, California, 94105, United States",
+        "Lyft, Kansas Street, Potrero Terrace, San Francisco, California, 94124, United States",
+        "UserTesting, 690, 5th Street, South of Market, San Francisco, California, 94017, United States"
+    ]
 }

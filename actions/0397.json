@@ -1,41 +1,50 @@
 {
-    "id": 421,
-    "date": "2021/04/13",
+    "id": 415,
+    "date": "2021/04/07",
     "sources": [
-        "https://www.nytimes.com/2021/04/13/business/media/new-york-times-tech-workers-form-a-union.html"
+        "https://www.theverge.com/2021/4/7/22327090/gimlet-media-union-spotify-contract-agreement",
+        "https://www.wgaeast.org/gimlet-media-and-the-ringer-ratify-first-podcast-contracts-at-spotify/",
+        "https://www.wgaeast.org/wp-content/uploads/sites/4/2021/04/Gimlet-Media-WGA-CBA-FINAL-DRAFT-March-23-2021-1.pdf",
+        "https://www.wgaeast.org/wp-content/uploads/sites/4/2021/03/Ringer-LLC-WGAE-CBA-FINAL.pdf"
     ],
     "actions": [
-        "union representation"
+        "union contract"
     ],
     "struggles": [
         "pay and benefits",
-        "job security",
-        "working conditions"
+        "discrimination",
+        "working conditions",
+        "unfair labor practices",
+        "job security"
     ],
     "employment_types": [
         "white collar workers",
         "inhouse workers"
     ],
-    "description": "Tech workers including, software engineers, designers, data analysts and product managers at the New York Times formed a union and are asking for voluntarily recognition from the company. The workers formed the union because of concerns regarding pay equity, job security, health care costs, and career advancement. The tech workers will be represented by the News Guild of New York which already has 1300 newsroom and staff members from the New York Times.",
+    "description": "Spotify and two unions, the Ringer Union and the Gimlet Union, agreed on a 3-year union contract, the first in the tech industry. The contract sets salary minimums, annual salary increases, terms for severance pay, and diversity hiring guarantees but does not clarify terms around intellectual property. ",
     "online": null,
     "locations": [
-        "new york city-new york-usa"
+        "usa"
     ],
     "companies": [
-        "the new york times"
+        "spotify",
+        "gimlet media",
+        "the ringer"
     ],
-    "workers": 651,
-    "tags": null,
+    "workers": null,
+    "tags": [
+        "coworker_solidarity"
+    ],
     "author": [
         "hyatt d."
     ],
     "latlngs": [
         [
-            40.77541455,
-            -73.83098624117696
+            40.7411352,
+            -73.7712961
         ]
     ],
     "addresses": [
-        "The New York Times, Whitestone Expressway, Linden Hill, Queens, Queens County, New York, 11354, United States"
+        "Ringer, Queens, Queens County, New York, 11364:11427, United States"
     ]
 }

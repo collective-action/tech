@@ -1,38 +1,49 @@
 {
-    "id": 478,
-    "date": "2021/08/09",
+    "id": 525,
+    "date": "2021/08/05",
     "sources": [
-        "https://www.theverge.com/2021/8/11/22620874/twitch-implements-improved-chat-filters",
-        "https://www.washingtonpost.com/video-games/2021/08/11/twitch-do-better-hate-raids/"
+        "https://www.protocol.com/bulletins/mapbox-workers-lose-union-vote",
+        "https://www.reuters.com/technology/silicon-valley-workers-vote-down-union-softbank-backed-mapbox-2021-08-05/",
+        "https://www.mapboxworkersunion.org/faq",
+        "https://technical.ly/2021/10/04/mapbox-union-challenge/"
     ],
     "actions": [
-        "protest"
+        "union drive",
+        "union representation"
     ],
     "struggles": [
-        "discrimination"
+        "working conditions",
+        "job security",
+        "pay and benefits",
+        "unfair labor practices"
     ],
     "employment_types": [
-        "content creators"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Twitch streamer RekltRaven began a hashtag movement #twitchdobetter in response to the hate raids targeting marginalized creators, especially those who identify as Black, queer, or female. Twitch responded by fixing their chat filters and are planning to update their services to include improved safety features, including an improved account verification process and ban evasion detection tools. As there are still gaps, marginalized creators are calling for more proactive moderation and tools that the creators can use to moderate the stream.",
-    "online": true,
+    "description": "Workers at Mapbox had formed a union with CWA; however, they failed to achieve recognition from the NLRB when workers voted against unionization 123 to 81. The Mapbox Union will continue to represent workers to management. Since then, union members have claimed they experienced retaliation from the company, with some being fired, intimidated, or threatened. As a result, the union plans to file an unfair labor practice charge. ",
+    "online": null,
     "locations": [
-        "worldwide"
+        "usa"
     ],
     "companies": [
-        "twitch"
+        "mapbox"
     ],
     "workers": null,
     "tags": [
-        "lgbtq",
-        "sexism",
-        "antiracism",
-        "moderators",
-        "coworker solidarity"
+        "cwa",
+        "retaliation"
     ],
     "author": [
         "wynniechan"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            38.8999418,
+            -77.033996
+        ]
+    ],
+    "addresses": [
+        "Mapbox, 740, 15th Street Northwest, Washington, District of Columbia, 20005, United States"
+    ]
 }

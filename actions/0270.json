@@ -1,29 +1,31 @@
 {
-    "id": 250,
-    "date": "2020/03/31",
+    "id": 247,
+    "date": "2020/03/22",
     "sources": [
-        "https://www.reuters.com/article/us-health-coronavirus-amazon-com-warehou/amazon-warehouse-workers-protest-near-detroit-days-after-nyc-walkout-iduskbn21j6ix"
+        "https://www.cnbc.com/2020/03/23/amazon-gives-part-time-warehouse-workers-paid-leave-amid-coronavirus.html",
+        "https://medium.com/@dch1united/amazonians-united-wins-pto-for-all-amazon-workers-f17e6ffbb192"
     ],
     "actions": [
-        "protest"
+        "open letter",
+        "strike"
     ],
     "struggles": [
-        "working conditions",
-        "pay and benefits"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
-        "inhouse workers",
-        "blue collar workers"
+        "blue collar workers",
+        "inhouse workers"
     ],
-    "description": "Amazon warehouse workers near Detroit staged a demonstration to call for more stringent cleaning practices in their facility and reimbursement for any health bills incurred by employees (and their families) who had contracted coronavirus on the job. Management reports that fewer than 15 employees joined in, while organizers say there were 40 participants. ",
+    "description": "Amazonians United, a group of Amazon employee advocates around the US, won paid time off for part-time logistics workers in the midst the coronavirus pandemic. Amazon has also said it will raise pay for warehouse workers and delivery drivers by $2 per hour through April. For several weeks, the Amazonians United group has been calling for improved working conditions and paid time off using petitions and walkouts, including actions by groups in the Sacramento, Chicago, and New York areas.",
     "online": null,
     "locations": [
-        "usa"
+        "staten island-new york city-new york-usa"
     ],
     "companies": [
         "amazon"
     ],
-    "workers": 40,
+    "workers": 251,
     "tags": [
         "coronavirus"
     ],
@@ -32,11 +34,11 @@
     ],
     "latlngs": [
         [
-            46.320207,
-            -112.1072224
+            40.6193387,
+            -74.0727749
         ]
     ],
     "addresses": [
-        "Amazon, Jefferson County, Montana, United States"
+        "Amazon Court, Clifton, Staten Island, Richmond County, New York, 10304, United States"
     ]
 }

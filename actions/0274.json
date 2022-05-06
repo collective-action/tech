@@ -1,13 +1,13 @@
 {
-    "id": 253,
-    "date": "2020/04/06",
+    "id": 251,
+    "date": "2020/03/31",
     "sources": [
-        "https://www.vice.com/en_us/article/4age5j/amazon-workers-in-new-york-are-striking-for-the-second-week-in-a-row-as-coronavirus-cases-pile-up",
-        "https://nypost.com/2020/04/06/amazon-faces-another-staten-island-warehouse-strike/",
-        "https://finance.yahoo.com/news/amazon-warehouse-workers-second-walkout-one-week-over-coronavirus-fears-195814468.html"
+        "https://www.cnbc.com/2020/03/31/grocery-and-delivery-workers-demand-more-coronavirus-protection-say-pay-isnt-enough.html",
+        "https://www.coworker.org/petitions/global-retail-worker-sick-out"
     ],
     "actions": [
-        "protest"
+        "strike",
+        "open letter"
     ],
     "struggles": [
         "working conditions",
@@ -17,15 +17,16 @@
         "inhouse workers",
         "blue collar workers"
     ],
-    "description": "For the second week in a row, workers at an Amazon warehouse in Staten Island held a walkout to protest the company's handling of the coronavirus crisis. Organizers state that they have heard of over 25 cases of coronavirus at the facility. In response, workers are calling for an extension of paid time off and improved sanitation in the facility. Last week, the company fired one of the organizers of the previous week's walkout. ",
+    "description": "Whole Foods employees went on strike to call for guaranteed pay during sick leave, reinstatement of health insurance for part-time and seasonal employees, coverage of coronavirus testing and treatment, improved sanitation at worksites, and immediate shutdown of any locations where employees test positive. The strike came amid a surge of activism from grocery and delivery workers at several companies. ",
     "online": null,
     "locations": [
-        "new york city-new york-usa"
+        "chicago-illinois-usa"
     ],
     "companies": [
-        "amazon"
+        "amazon",
+        "whole_foods"
     ],
-    "workers": 50,
+    "workers": 1000,
     "tags": [
         "coronavirus"
     ],
@@ -34,11 +35,16 @@
     ],
     "latlngs": [
         [
-            40.722465,
-            -73.9977307
+            41.84040105,
+            -87.68351928672685
+        ],
+        [
+            41.9251419,
+            -87.6532654
         ]
     ],
     "addresses": [
-        "Amazon, 72, Spring Street, Manhattan Community Board 2, Manhattan, New York, 10013, United States"
+        "Amazon Distribution, 2801, South Western Avenue, Lower West Side, Chicago, Cook County, Illinois, 60608, United States",
+        "Whole Foods Market, 959, West Fullerton Avenue, Lincoln Park, Chicago, Lake View Township, Cook County, Illinois, 60614, United States"
     ]
 }

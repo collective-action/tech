@@ -1,36 +1,48 @@
 {
-    "id": 460,
-    "date": "2021/07/15",
+    "id": 451,
+    "date": "2021/06/29",
     "sources": [
-        "https://clb.org.hk/content/hong-kong-food-delivery-workers-protest-pay-and-working-conditions"
+        "https://www.theverge.com/2021/6/29/22556436/whatsapp-spanish-language-content-moderators-contractor-equal-pay"
     ],
     "actions": [
-        "protest",
-        "strike"
+        "open letter"
     ],
     "struggles": [
         "pay and benefits",
-        "job security",
-        "working conditions"
+        "discrimination"
     ],
     "employment_types": [
-        "gig workers"
+        "inhouse workers",
+        "contract workers"
     ],
-    "description": "Foodpanda delivery workers protested in front of the company's headquarters while seven representatives of the strike tried to negotiate demands with the company. The delivery workers demanded to raise the base rate for deliveries, stop unreasonable termination of workers, end the cash-on-delivery system, and increase insurance coverage for personal accidents. Company management did not accept any of the demands or decide to hold another meeting. ",
-    "online": null,
+    "description": "Spanish language content moderators and customer service representatives at WhatsApp sent an internal letter demanding the $2 premium paid to other bi-lingual moderators and backpay, which Spanish language contractors don't receive. The letter addressed the CEOs of Facebook, Accenture, and WhatsApp and circulated on Facebook's communication platform. Eighty-nine employees signed the letter. ",
+    "online": true,
     "locations": [
-        "hong kong-china"
+        "austin-texas-usa"
     ],
     "companies": [
-        "foodpanda"
+        "facebook",
+        "accenture"
     ],
-    "workers": 7,
+    "workers": 89,
     "tags": [
-        "delivery_workers"
+        "moderators"
     ],
     "author": [
         "hyatt d."
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            30.2691649,
+            -97.7455041
+        ],
+        [
+            30.2658505,
+            -97.7434222
+        ]
+    ],
+    "addresses": [
+        "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States",
+        "Accenture, 323, Congress Avenue, Downtown, Austin, Travis County, Texas, 78701, United States"
+    ]
 }

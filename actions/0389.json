@@ -1,47 +1,67 @@
 {
-    "id": 413,
-    "date": "2021/04/01",
+    "id": 432,
+    "date": "2021/03/29",
     "sources": [
-        "https://www.bbc.com/news/technology-56659212",
-        "https://cwa-union.org/sites/default/files/20210331_nlrbsettlement_alphabet_modis.pdf",
-        "https://www2.staffingindustry.com/Editorial/Daily-News/Google-union-reports-NLRB-settlement-contingent-worker-s-suspension-rescinded-57218"
+        "https://www.politico.eu/article/german-union-leads-four-day-amazon-strike/"
     ],
     "actions": [
-        "legal action"
+        "protest",
+        "strike"
     ],
     "struggles": [
-        "unfair labor practices",
-        "pay and benefits",
-        "working conditions"
+        "working conditions",
+        "job security"
     ],
     "employment_types": [
-        "contract workers",
-        "blue collar workers"
+        "blue collar workers",
+        "inhouse workers"
     ],
-    "description": "In February, the Alphabet Worker's Union filed two lawsuits against Google for unfair labor practices on behalf of Shannon Wait, a contractor at Google and member of the union. The first lawsuit contested Wait's illegal suspension for supporting a union. The second lawsuit alleged that managers illegally asked Wait and other employees not to discuss their wages. Google, Modis (the contracting firm), and the AWU reached a settlement and had Wait's suspension overturned. Google signed a document that its employees had the right to discuss wage, bonuses, and working conditions. This is the first NLRB settlement with the AWU.",
+    "description": "German Amazon workers went on strike in six centers across the country to put pressure on the company to sign a collective agreement with the union in Germany. Ver.di, the union, has also criticized the company for unsafe working conditions under covid. ",
     "online": null,
     "locations": [
-        "south carolina-usa"
+        "rheinberg-germany",
+        "werne-germany",
+        "koblenz-germany",
+        "leipzig-germany",
+        "bad hersfeld-germany"
     ],
     "companies": [
-        "google",
-        "modis",
-        "adecco"
+        "amazon"
     ],
-    "workers": null,
+    "workers": 2000,
     "tags": [
-        "cwa"
+        "coronavirus"
     ],
     "author": [
-        "hyatt d."
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            33.0639975,
-            -80.04244587737227
+            51.5369716,
+            6.5877929
+        ],
+        [
+            51.653494949999995,
+            7.59464606445661
+        ],
+        [
+            50.3495332,
+            7.4901388
+        ],
+        [
+            51.3375846,
+            12.3746848
+        ],
+        [
+            50.845334,
+            9.677958815746917
         ]
     ],
     "addresses": [
-        "Google Data Center, Berkeley County, South Carolina, United States"
+        "Amazon, Amazonstra\u00dfe, Winterswick, Rheinberg, Kreis Wesel, Nordrhein-Westfalen, 47495, Deutschland",
+        "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
+        "Amazon, Am Autobahnkreuz, Gewerbegebiet Industriepark A61/GVZ Koblenz, R\u00fcbenach, Koblenz, Rheinland-Pfalz, 56072, Deutschland",
+        "Amazon Recruitment Center, Petersstra\u00dfe, Leipzig-Zentrum, Mitte, Leipzig, Sachsen, 04109, Deutschland",
+        "Amazon FRA1, Eichhof, Asbach, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland"
     ]
 }

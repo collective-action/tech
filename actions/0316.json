@@ -1,33 +1,45 @@
 {
-    "id": 299,
-    "date": "2020/08/01",
+    "id": 376,
+    "date": "2020/07/21",
     "sources": [
-        "https://www.vice.com/en_au/article/ep4qdz/amazon-workers-blocked-delivery-trucks-from-leaving-a-warehouse-for-hours"
+        "https://www.igmetall-berlin.de/aktuelles/meldung/das-war-goldrichtig-warum-software-ingenieure-das-leben-mit-tarifvertrag-und-ig-metall-schoener-f/"
     ],
     "actions": [
-        "strike",
-        "protest"
+        "union representation"
     ],
     "struggles": [
-        "pay and benefits"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
-        "inhouse workers",
-        "blue collar workers"
+        "white collar workers"
     ],
-    "description": "A caravan of protestors demanding increased pay and COVID-19 protections disrupted business at an Amazon Distribution Center in the San Francisco Bay Area. The caravan was organized by Bay Area Amazonians.",
+    "description": "In 2019 employees of Bosch.io (subsidary of Bosch) formed a Works Council (Betriebsrat). In 2020 they formed their first Collective Bargaining Agreement, and Bosch.IO will join employer association. The CBA (Tarifvertrag) including provisions related to short time work (Kurzarbeit), home office usage during the coronavirus pandemic. An interview with several elected Works Councilors is included in German. ",
     "online": null,
     "locations": [
-        "san leandro-california-usa"
+        "germany"
     ],
     "companies": [
-        "amazon"
+        "bosch",
+        "bosch.io"
     ],
-    "workers": 30,
-    "tags": [
-        "coronavirus"
+    "workers": 700,
+    "tags": null,
+    "author": [
+        "@shushugah"
     ],
-    "author": null,
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            47.572049050000004,
+            10.667775368755255
+        ],
+        [
+            47.68201895,
+            9.3864579
+        ]
+    ],
+    "addresses": [
+        "Bosch, ADAC, Schlichtling, F\u00fcssen, Landkreis Ostallg\u00e4u, Bayern, 87629, Deutschland",
+        "Bosch.IO, 7, Ziegelei, Alte Ziegelei / Steigwiesen, Immenstaad am Bodensee, Verwaltungsgemeinschaft Friedrichshafen, Bodenseekreis, Baden-W\u00fcrttemberg, 88090, Deutschland"
+    ]
 }

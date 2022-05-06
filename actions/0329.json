@@ -1,44 +1,41 @@
 {
-    "id": 326,
-    "date": "2020/09/08",
+    "id": 318,
+    "date": "2020/08/28",
     "sources": [
-        "https://www.vice.com/en/article/g5p9nb/employees-of-social-change-nonprofit-stage-walkout-to-protest-racial-abuse"
+        "https://www.businessinsider.in/tech/news/protesters-set-up-a-guillotine-outside-jeff-bezos-mansion-and-demanded-higher-wages-for-amazon-workers-after-the-ceos-net-worth-surpassed-200-billion/amp_articleshow/77794471.cms"
     ],
     "actions": [
-        "protest",
-        "strike",
-        "open letter"
+        "protest"
     ],
     "struggles": [
-        "discrimination"
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers",
+        "blue collar workers",
         "inhouse workers"
     ],
-    "description": "24 employees of tech non-profit Do Something walked off the job, calling for the resignation of current CEO Aria Finger. They have also sent two direct letters to the CEO and Board of Directors that have been shared on Twitter. Former employees shared experiences of racial discrimination and harassment via social media earlier this year. The letter states that Finger reacted to these posts by calling them untrue or \"standard-issued American forms of microaggression and racism\". Finger returned in August after a legal investigation did not find evidence of discrimination under her tenure. ",
-    "online": true,
+    "description": "More than 100 protesters, led by former Amazon worker Christian Smalls, placed a guillotine outside of Jeff Bezos' D.C. home to call on the company to raise minimum wages from $15 to $30/hour. ",
+    "online": null,
     "locations": [
-        "usa"
+        "washington_dc-usa"
     ],
     "companies": [
-        "do something"
+        "amazon"
     ],
-    "workers": 24,
+    "workers": 101,
     "tags": [
-        "antiracism",
-        "blm"
+        "coronavirus"
     ],
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            40.8541838,
-            -74.2138917
+            38.9132465,
+            -77.0317256
         ]
     ],
     "addresses": [
-        "Something Fun, Cedar Grove, Essex County, New Jersey, 07009, United States"
+        "Amazon Fresh, 1733, 14th Street Northwest, Logan Circle/Shaw, Washington, District of Columbia, 20009, United States"
     ]
 }

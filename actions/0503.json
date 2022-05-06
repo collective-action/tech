@@ -1,0 +1,41 @@
+{
+    "id": 550,
+    "date": "2022/04/18",
+    "sources": [
+        "https://www.reuters.com/technology/amazon-workers-small-new-jersey-facility-file-union-election-2022-04-18/"
+    ],
+    "actions": [
+        "union drive"
+    ],
+    "struggles": [
+        "pay and benefits",
+        "working conditions",
+        "job security"
+    ],
+    "employment_types": [
+        "inhouse workers",
+        "blue collar workers"
+    ],
+    "description": "Amazon workers at a New Jersey facility have submitted enough cards to hold a vote on unionizing. They seek to be affiliated with Local 713 International Brotherhood of the Trade Union.",
+    "online": null,
+    "locations": [
+        "bayonne-new jersey-usa"
+    ],
+    "companies": [
+        "amazon"
+    ],
+    "workers": 60,
+    "tags": null,
+    "author": [
+        "wynniechan"
+    ],
+    "latlngs": [
+        [
+            40.65221335,
+            -74.13982828961909
+        ]
+    ],
+    "addresses": [
+        "Amazon Distribution Center, Bayview Court, Bergen Point, Bayonne, Hudson County, New Jersey, 07002, United States"
+    ]
+}

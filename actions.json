@@ -1044,7 +1044,7 @@
             ]
         ],
         "addresses": [
-            "LG, \u71d5\u5b50\u77f6\u8857\u9053, \u6816\u971e\u533a, \u5357\u4eac\u5e02, \u6c5f\u82cf\u7701, \u4e2d\u56fd"
+            "LG, \u71d5\u5b50\u77f6\u8857\u9053, \u5357\u4eac\u5e02, \u6c5f\u82cf\u7701, \u4e2d\u56fd"
         ]
     },
     {
@@ -1337,12 +1337,12 @@
         ],
         "latlngs": [
             [
-                37.7756962,
-                -122.4180838
+                37.7899898,
+                -122.3999799
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, SOMA Pilipinas, San Francisco, California, 94103, United States"
+            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States"
         ]
     },
     {
@@ -1380,13 +1380,13 @@
                 9.677958815746917
             ],
             [
-                51.1238951,
-                12.492158
+                51.3375846,
+                12.3746848
             ]
         ],
         "addresses": [
             "Amazon FRA1, Eichhof, Asbach, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
-            "Abholstation, 26, Sachsenallee, Borna, Landkreis Leipzig, Sachsen, 04552, Deutschland"
+            "Amazon Recruitment Center, Petersstra\u00dfe, Leipzig-Zentrum, Mitte, Leipzig, Sachsen, 04109, Deutschland"
         ]
     },
     {
@@ -1458,13 +1458,13 @@
                 9.677958815746917
             ],
             [
-                51.1238951,
-                12.492158
+                51.3375846,
+                12.3746848
             ]
         ],
         "addresses": [
             "Amazon FRA1, Eichhof, Asbach, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
-            "Abholstation, 26, Sachsenallee, Borna, Landkreis Leipzig, Sachsen, 04552, Deutschland"
+            "Amazon Recruitment Center, Petersstra\u00dfe, Leipzig-Zentrum, Mitte, Leipzig, Sachsen, 04109, Deutschland"
         ]
     },
     {
@@ -1504,13 +1504,13 @@
                 9.677958815746917
             ],
             [
-                51.1238951,
-                12.492158
+                51.3375846,
+                12.3746848
             ]
         ],
         "addresses": [
             "Amazon FRA1, Eichhof, Asbach, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
-            "Abholstation, 26, Sachsenallee, Borna, Landkreis Leipzig, Sachsen, 04552, Deutschland"
+            "Amazon Recruitment Center, Petersstra\u00dfe, Leipzig-Zentrum, Mitte, Leipzig, Sachsen, 04109, Deutschland"
         ]
     },
     {
@@ -1587,8 +1587,8 @@
                 9.677958815746917
             ],
             [
-                51.1238951,
-                12.492158
+                51.3375846,
+                12.3746848
             ],
             [
                 48.198871499999996,
@@ -1605,7 +1605,7 @@
         ],
         "addresses": [
             "Amazon FRA1, Eichhof, Asbach, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
-            "Abholstation, 26, Sachsenallee, Borna, Landkreis Leipzig, Sachsen, 04552, Deutschland",
+            "Amazon Recruitment Center, Petersstra\u00dfe, Leipzig-Zentrum, Mitte, Leipzig, Sachsen, 04109, Deutschland",
             "Amazon-Logistikzentrum, Graben, Landkreis Augsburg, Bayern, 86836, Deutschland",
             "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
             "Amazon, Belltown, Seattle, King County, Washington, 98109-5210, United States"
@@ -1681,7 +1681,7 @@
             ]
         ],
         "addresses": [
-            "\u8054\u60f3 (\u62db\u547c\u7ad9), \u6843\u82b1\u8def, \u798f\u4fdd\u793e\u533a, \u798f\u7530\u4fdd\u7a0e\u533a, \u6df1\u5733\u5e02, \u798f\u7530\u533a, \u5e7f\u4e1c\u7701, 518000, \u4e2d\u56fd"
+            "\u8054\u60f3 (\u62db\u547c\u7ad9), \u6843\u82b1\u8def, \u798f\u4fdd\u793e\u533a, \u798f\u7530\u4fdd\u7a0e\u533a, \u798f\u4fdd\u8857\u9053, \u798f\u7530\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518000, \u4e2d\u56fd"
         ]
     },
     {
@@ -1714,12 +1714,12 @@
         ],
         "latlngs": [
             [
-                51.1238951,
-                12.492158
+                51.3375846,
+                12.3746848
             ]
         ],
         "addresses": [
-            "Abholstation, 26, Sachsenallee, Borna, Landkreis Leipzig, Sachsen, 04552, Deutschland"
+            "Amazon Recruitment Center, Petersstra\u00dfe, Leipzig-Zentrum, Mitte, Leipzig, Sachsen, 04109, Deutschland"
         ]
     },
     {
@@ -2064,7 +2064,7 @@
         "latlngs": [
             [
                 37.48131065,
-                -122.15924036537902
+                -122.15924031258726
             ]
         ],
         "addresses": [
@@ -2176,15 +2176,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                30.187622849999997,
-                120.1935601
-            ]
-        ],
-        "addresses": [
-            "\u534e\u4e09\u901a\u4fe1, \u6ee8\u6c5f\u533a, \u676d\u5dde\u5e02, \u957f\u6cb3\u8857\u9053, \u6d59\u6c5f\u7701, \u4e2d\u56fd"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 47,
@@ -2265,13 +2258,13 @@
                 -121.930720897062
             ],
             [
-                37.3504112,
-                -121.9016582
+                37.3496794,
+                -121.9009359
             ]
         ],
         "addresses": [
             "Broadcom (250/#1), 250, Innovation Drive, San Jose, Santa Clara County, California, 95134, United States",
-            "Universal Protection Service, North 1st Street, Civic Center, Japantown, San Jose, Santa Clara County, California, 95112, United States"
+            "Universal Protection Service, North 1st Street, Civic Center, Japantown, San Jose, Santa Clara County, California, 95110, United States"
         ]
     },
     {
@@ -2343,12 +2336,12 @@
         ],
         "latlngs": [
             [
-                40.7395721,
-                -74.0059266
+                40.704059,
+                -74.011355
             ]
         ],
         "addresses": [
-            "WeWork, 1, Little West 12th Street, Manhattan Community Board 2, Manhattan, New York, 10014, United States"
+            "WeWork, Broad Street, Financial District, Manhattan Community Board 1, New York County, New York, 10004, United States"
         ]
     },
     {
@@ -2421,7 +2414,7 @@
             ]
         ],
         "addresses": [
-            "Paris Theatre, 4, West 58th Street, Midtown, Manhattan Community Board 5, Manhattan, New York County, New York, 10019, United States"
+            "Paris Theatre, 4, West 58th Street, Midtown, Manhattan Community Board 5, New York County, New York, 10019, United States"
         ]
     },
     {
@@ -2457,12 +2450,12 @@
         ],
         "latlngs": [
             [
-                37.7756962,
-                -122.4180838
+                37.7899898,
+                -122.3999799
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, SOMA Pilipinas, San Francisco, California, 94103, United States"
+            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States"
         ]
     },
     {
@@ -2623,8 +2616,8 @@
         ],
         "latlngs": [
             [
-                37.7756962,
-                -122.4180838
+                37.7899898,
+                -122.3999799
             ],
             [
                 42.5032848,
@@ -2632,7 +2625,7 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, SOMA Pilipinas, San Francisco, California, 94103, United States",
+            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States",
             "Lyft Uber Pickup Location, Midstate Trail, Westminster, Worcester County, Massachusetts, 01541, United States"
         ]
     },
@@ -2714,7 +2707,7 @@
             ]
         ],
         "addresses": [
-            "Deliveroo, Pentonville Road, Pentonville, Barnsbury, London Borough of Islington, London, Greater London, England, N1 9JB, United Kingdom"
+            "Deliveroo, Pentonville Road, Pentonville, Barnsbury, London, London Borough of Islington, Greater London, England, N1, United Kingdom"
         ]
     },
     {
@@ -2821,12 +2814,12 @@
         ],
         "latlngs": [
             [
-                39.2813025,
-                -76.5905444
+                37.7899898,
+                -122.3999799
             ]
         ],
         "addresses": [
-            "Uber, 918, Fell Street, Fell's Point, Baltimore, Maryland, 21231, United States"
+            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States"
         ]
     },
     {
@@ -2989,16 +2982,11 @@
         ],
         "latlngs": [
             [
-                37.4814819,
-                -122.1579463
-            ],
-            [
                 37.4123687,
                 -121.9283094
             ]
         ],
         "addresses": [
-            "Facebook Way, Meta West Campus, Belle Haven, Menlo Park, San Mateo County, California, 94025-1246, United States",
             "Cisco Way, 399, East Tasman Drive, Cisco Systems, San Jose, Santa Clara County, California, 95134, United States"
         ]
     },
@@ -3174,7 +3162,7 @@
         ],
         "addresses": [
             "AT&T, 1302, North Tustin Street, Orange, Orange County, California, 92867, United States",
-            "AT&T, West Sahara Avenue, Las Vegas, Clark County, Nevada, 89102-3742, United States"
+            "AT&T, West Sahara Avenue, Las Vegas, Clark County, Nevada, 89102-3636, United States"
         ]
     },
     {
@@ -3212,7 +3200,7 @@
         "latlngs": [
             [
                 37.48131065,
-                -122.15924036537902
+                -122.15924031258726
             ]
         ],
         "addresses": [
@@ -3340,7 +3328,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, 72, Spring Street, Manhattan Community Board 2, Manhattan, New York, 10013, United States"
+            "Amazon, 72, Spring Street, Manhattan Community Board 2, New York County, New York, 10013, United States"
         ]
     },
     {
@@ -4450,12 +4438,12 @@
         ],
         "latlngs": [
             [
-                52.4746766,
-                -1.91586332385543
+                51.5148804,
+                -0.0718856
             ]
         ],
         "addresses": [
-            "UBER, 100, Broad Street, Ladywood, Park Central, Birmingham, West Midlands Combined Authority, West Midlands, England, B15 1AE, United Kingdom"
+            "Uber, 2, Leman Street, East Smithfield, Whitechapel, London, City of London, Greater London, England, E1 8FA, United Kingdom"
         ]
     },
     {
@@ -4501,8 +4489,8 @@
             ]
         ],
         "addresses": [
-            "Uber, 2, Leman Street, Spitalfields, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, E1 8FA, United Kingdom",
-            "UBER, 100, Broad Street, Ladywood, Park Central, Birmingham, West Midlands Combined Authority, West Midlands, England, B15 1AE, United Kingdom"
+            "Uber, 2, Leman Street, East Smithfield, Whitechapel, London, City of London, Greater London, England, E1 8FA, United Kingdom",
+            "UBER, 100, Broad Street, Ladywood, Birmingham, Park Central, West Midlands, England, B15 1AE, United Kingdom"
         ]
     },
     {
@@ -4700,8 +4688,8 @@
                 9.835897674840712
             ],
             [
-                41.43071325,
-                2.202495903015774
+                43.30536375,
+                -8.295145534659124
             ],
             [
                 52.3124769,
@@ -4712,7 +4700,7 @@
             "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
             "Amazon.fr Logistique Distrip\u00f4le Chalon, Sevrey, Chalon-sur-Sa\u00f4ne, Sa\u00f4ne-et-Loire, Bourgogne-Franche-Comt\u00e9, France m\u00e9tropolitaine, 71100, France",
             "Amazon, Cividate al Piano, Bergamo, Lombardia, Italia",
-            "Amazon, Carrer de Santander, el Bon Pastor, Sant Andreu, Barcelona, Barcelon\u00e8s, Barcelona, Catalunya, 08001, Espa\u00f1a",
+            "Amazon, A R\u00faa, Cecebre, Cambre, A Coru\u00f1a, Galicia, Espa\u00f1a",
             "Amazon, Beoley CP, Holt End, Bromsgrove, Worcestershire, West Midlands, England, United Kingdom"
         ]
     },
@@ -4837,7 +4825,7 @@
         ],
         "addresses": [
             "Uber Limo Livery Hold Lot, Cargo Plaza Road, Queens, Queens County, New York, 11430, United States",
-            "Lyft Driver Center, 49th Avenue, Sunnyside, Queens, Queens County, New York, 11101, United States"
+            "Lyft Driver Center, 49th Avenue, Queens, Queens County, New York, 11101, United States"
         ]
     },
     {
@@ -4873,12 +4861,12 @@
         ],
         "latlngs": [
             [
-                37.7756962,
-                -122.4180838
+                37.7899898,
+                -122.3999799
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, SOMA Pilipinas, San Francisco, California, 94103, United States"
+            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States"
         ]
     },
     {
@@ -4916,12 +4904,12 @@
         ],
         "latlngs": [
             [
-                47.6289467,
-                -122.3428731
+                47.6293105,
+                -122.34140808546655
             ]
         ],
         "addresses": [
-            "Facebook Dexter, 1101, Dexter Avenue North, Westlake, Queen Anne, Seattle, King County, Washington, 98109, United States"
+            "Facebook Westlake, 1101, Westlake Avenue North, Westlake, Seattle, King County, Washington, 98109, United States"
         ]
     },
     {
@@ -4959,7 +4947,7 @@
             ]
         ],
         "addresses": [
-            "Wounded Amazon, Lyndale Avenue South, Lowry Hill, Bde Maka Ska - Isles, Minneapolis, Hennepin County, Minnesota, 55403, United States"
+            "Wounded Amazon, Lyndale Avenue South;Hennepin Avenue South, Lowry Hill, Bde Maka Ska - Isles, Minneapolis, Hennepin County, Minnesota, 55403, United States"
         ]
     },
     {
@@ -4999,6 +4987,48 @@
         ],
         "addresses": [
             "Foxconn Technology Group, \u7ecf\u5317\u4e8c\u8def, \u7ba1\u57ce\u56de\u65cf\u533a, \u90d1\u5dde\u5e02, \u6cb3\u5357\u7701, 450046, \u4e2d\u56fd"
+        ]
+    },
+    {
+        "id": 542,
+        "date": "2018/12/31",
+        "sources": [
+            "https://journals.sagepub.com/doi/full/10.1177/1329878X221074793?s=09"
+        ],
+        "actions": [
+            "resources"
+        ],
+        "struggles": [
+            "working conditions"
+        ],
+        "employment_types": [
+            "gig workers",
+            "contract workers"
+        ],
+        "description": "Knights League, a WeChat group that serves as an informal union for Chinese food delivery platform workers, was founded in 2018. They share news and information with each other.",
+        "online": true,
+        "locations": [
+            "china"
+        ],
+        "companies": [
+            "meituan",
+            "ele.me",
+            "sf express",
+            "flash ex"
+        ],
+        "workers": null,
+        "tags": null,
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": [
+            [
+                35.7463637,
+                115.0636717
+            ]
+        ],
+        "addresses": [
+            "\u987a\u4e30\u901f\u8fd0, \u77f3\u5316\u4e1c\u8def, \u80dc\u5229\u8def\u8857\u9053, \u534e\u9f99\u533a, \u6fee\u9633\u5e02, \u6cb3\u5357\u7701, 457000, \u4e2d\u56fd"
         ]
     },
     {
@@ -5329,7 +5359,7 @@
             ]
         ],
         "addresses": [
-            "Kickstarter HQ, West Street, Brooklyn, New York, 11222, United States"
+            "Kickstarter HQ, West Street, Brooklyn, Kings County, New York, 11222, United States"
         ]
     },
     {
@@ -5688,7 +5718,7 @@
             ]
         ],
         "addresses": [
-            "Instagram-Ferris_Joshua / Marycate.minnigh, Campus Drive, Sunset Pines, Lock Haven, Clinton County, Pennsylvania, 17745, United States",
+            "Instagram-Ferris_Joshua / Marycate.minnigh, University Drive, Sunset Pines, Lock Haven, Clinton County, Pennsylvania, 17745, United States",
             "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
         ]
     },
@@ -5857,7 +5887,7 @@
             ]
         ],
         "addresses": [
-            "Google, 111, 8th Avenue, Chelsea District, Manhattan, New York, 10011, United States"
+            "Google, 111, 8th Avenue, Chelsea District, New York County, New York, 10011, United States"
         ]
     },
     {
@@ -5978,7 +6008,7 @@
             ]
         ],
         "addresses": [
-            "Wounded Amazon, Lyndale Avenue South, Lowry Hill, Bde Maka Ska - Isles, Minneapolis, Hennepin County, Minnesota, 55403, United States"
+            "Wounded Amazon, Lyndale Avenue South;Hennepin Avenue South, Lowry Hill, Bde Maka Ska - Isles, Minneapolis, Hennepin County, Minnesota, 55403, United States"
         ]
     },
     {
@@ -6160,6 +6190,41 @@
         ]
     },
     {
+        "id": 538,
+        "date": "2019/05/22",
+        "sources": [
+            "https://github.com/climate-strike/license",
+            "https://climatestrike.software/"
+        ],
+        "actions": [
+            "resources",
+            "legal action"
+        ],
+        "struggles": [
+            "ethics"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "open source community"
+        ],
+        "description": "Developers have created the Climate Strike License, which can be used to prohibit certain fossil fuel companies from using their code, as they have been using open source technologies, cloud computing, the internet of things, and AI for increasing fossil fuel extraction efficiency. ",
+        "online": true,
+        "locations": null,
+        "companies": null,
+        "workers": null,
+        "tags": [
+            "ai",
+            "climate change",
+            "climate_strike",
+            "online action"
+        ],
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
         "id": 141,
         "date": "2019/05/22",
         "sources": [
@@ -6315,7 +6380,7 @@
         "latlngs": [
             [
                 37.48131065,
-                -122.15924036537902
+                -122.15924031258726
             ]
         ],
         "addresses": [
@@ -6358,12 +6423,12 @@
         ],
         "latlngs": [
             [
-                47.6289467,
-                -122.3428731
+                47.6293105,
+                -122.34140808546655
             ]
         ],
         "addresses": [
-            "Facebook Dexter, 1101, Dexter Avenue North, Westlake, Queen Anne, Seattle, King County, Washington, 98109, United States"
+            "Facebook Westlake, 1101, Westlake Avenue North, Westlake, Seattle, King County, Washington, 98109, United States"
         ]
     },
     {
@@ -6465,12 +6530,12 @@
         ],
         "latlngs": [
             [
-                37.406317,
-                -122.02122171852054
+                37.40858695,
+                -122.02648926338104
             ]
         ],
         "addresses": [
-            "Google MP7, Borregas Avenue, Sunnyvale, Santa Clara County, California, 94085-3010, United States"
+            "Google MAT1, 1184, North Mathilda Avenue, Sunnyvale, Santa Clara County, California, 94089, United States"
         ]
     },
     {
@@ -6551,12 +6616,12 @@
         ],
         "latlngs": [
             [
-                37.7933154,
-                -122.3945205
+                37.7924005,
+                -122.39175109524751
             ]
         ],
         "addresses": [
-            "Google One Market, 1, Market Street, Financial District, San Francisco, California, 94111, United States"
+            "Google Community Space, 188, The Embarcadero, Port of San Francisco, San Francisco, California, 94105, United States"
         ]
     },
     {
@@ -6637,12 +6702,12 @@
         ],
         "latlngs": [
             [
-                37.7933154,
-                -122.3945205
+                37.7924005,
+                -122.39175109524751
             ]
         ],
         "addresses": [
-            "Google One Market, 1, Market Street, Financial District, San Francisco, California, 94111, United States"
+            "Google Community Space, 188, The Embarcadero, Port of San Francisco, San Francisco, California, 94105, United States"
         ]
     },
     {
@@ -6719,7 +6784,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, 72, Spring Street, Manhattan Community Board 2, Manhattan, New York, 10013, United States"
+            "Amazon, 72, Spring Street, Manhattan Community Board 2, New York County, New York, 10013, United States"
         ]
     },
     {
@@ -6844,8 +6909,8 @@
                 -99.168218
             ],
             [
-                47.2269198,
-                8.8245459
+                47.2266532,
+                8.8164042
             ]
         ],
         "addresses": [
@@ -6933,7 +6998,7 @@
             ]
         ],
         "addresses": [
-            "Wounded Amazon, Lyndale Avenue South, Lowry Hill, Bde Maka Ska - Isles, Minneapolis, Hennepin County, Minnesota, 55403, United States"
+            "Wounded Amazon, Lyndale Avenue South;Hennepin Avenue South, Lowry Hill, Bde Maka Ska - Isles, Minneapolis, Hennepin County, Minnesota, 55403, United States"
         ]
     },
     {
@@ -7042,8 +7107,8 @@
         ],
         "latlngs": [
             [
-                37.7756962,
-                -122.4180838
+                37.7899898,
+                -122.3999799
             ],
             [
                 37.7759881,
@@ -7051,7 +7116,7 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, SOMA Pilipinas, San Francisco, California, 94103, United States",
+            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States",
             "Lyft, 185, Berry Street, South Beach, San Francisco, California, 94107, United States"
         ]
     },
@@ -7089,8 +7154,8 @@
         ],
         "latlngs": [
             [
-                37.7756962,
-                -122.4180838
+                37.7899898,
+                -122.3999799
             ],
             [
                 37.7759881,
@@ -7098,7 +7163,7 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, SOMA Pilipinas, San Francisco, California, 94103, United States",
+            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States",
             "Lyft, 185, Berry Street, South Beach, San Francisco, California, 94107, United States"
         ]
     },
@@ -7217,6 +7282,52 @@
         ],
         "addresses": [
             "Google, Hofgraben, Graggenauerviertel, Graggenau, Altstadt-Lehel, M\u00fcnchen, Bayern, 80331, Deutschland"
+        ]
+    },
+    {
+        "id": 537,
+        "date": "2019/07/30",
+        "sources": [
+            "https://time.com/6147458/facebook-africa-content-moderation-employee-treatment/"
+        ],
+        "actions": [
+            "protest",
+            "union drive"
+        ],
+        "struggles": [
+            "pay and benefits",
+            "working conditions"
+        ],
+        "employment_types": [
+            "contract workers"
+        ],
+        "description": "In Nairobi, subcontracted Facebook content moderators employed by Sama face poor wages and working conditions.\n\nIn 2019, more than 100 workers known as The Alliance demanded higher wages, increased transparency about what the job entails, its mental impact, and better working conditions in a petition to management, with a threat to strike. As a result, some workers were suspended.  Sama also allegedly threatened the employees to remove their signatures from the petition by emphasizing that they were replaceable. Daniel Motaung, a key organizer, worked to establish The Alliance as a union but was fired.\n\nSince then, Sama has improved the transparency of the role in their onboarding program. No strike or unionization has happened.\n\nDuring the pandemic, many content moderators requested sick leave. However, unless they had a not from a specific hospital, HR didn\u2019t grant sick leave. As a result, many continued going to the office, even if they had symptoms. \n",
+        "online": null,
+        "locations": [
+            "nairobi-kenya"
+        ],
+        "companies": [
+            "facebook",
+            "sama"
+        ],
+        "workers": 100,
+        "tags": [
+            "retaliation",
+            "moderators",
+            "coronavirus",
+            "mental health"
+        ],
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": [
+            [
+                -1.2772989,
+                36.76095918258451
+            ]
+        ],
+        "addresses": [
+            "Facebook, Kawangware, Nairobi, Kenya"
         ]
     },
     {
@@ -7365,13 +7476,13 @@
                 -112.1072224
             ],
             [
-                40.75785875,
-                -111.87199162170198
+                39.9427277,
+                -75.1574059
             ]
         ],
         "addresses": [
             "Amazon, Jefferson County, Montana, United States",
-            "Whole Foods Market, 500 South, Central City, Salt Lake City, Salt Lake County, Utah, 84102, United States"
+            "Whole Foods, South Street, Bella Vista, South Philadelphia, Philadelphia, Philadelphia County, Pennsylvania, 19146, United States"
         ]
     },
     {
@@ -7494,7 +7605,7 @@
             ]
         ],
         "addresses": [
-            "Doordash HQ, Market Street, SOMA Pilipinas, San Francisco, California, 94104, United States",
+            "Doordash HQ, Market Street, Union Square, San Francisco, California, 94104, United States",
             "Caviar Creek, Nome, Alaska, United States",
             "USA, Meacham Avenue, Franklin Square, Town of Hempstead, Nassau County, New York, 11003, United States"
         ]
@@ -7576,8 +7687,8 @@
         ],
         "latlngs": [
             [
-                37.7756962,
-                -122.4180838
+                37.7899898,
+                -122.3999799
             ],
             [
                 37.7759881,
@@ -7585,7 +7696,7 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, SOMA Pilipinas, San Francisco, California, 94103, United States",
+            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States",
             "Lyft, 185, Berry Street, South Beach, San Francisco, California, 94107, United States"
         ]
     },
@@ -7707,8 +7818,8 @@
             ]
         ],
         "addresses": [
-            "UserTesting, 690, 5th Street, SOMA Pilipinas, San Francisco, California, 94017, United States",
-            "Doordash HQ, Market Street, SOMA Pilipinas, San Francisco, California, 94104, United States"
+            "UserTesting, 690, 5th Street, South of Market, San Francisco, California, 94017, United States",
+            "Doordash HQ, Market Street, Union Square, San Francisco, California, 94104, United States"
         ]
     },
     {
@@ -8095,7 +8206,7 @@
             ]
         ],
         "addresses": [
-            "Baltimore, Maryland, 21203, United States"
+            "Baltimore, Maryland, 21202-4036, United States"
         ]
     },
     {
@@ -8255,7 +8366,7 @@
         "latlngs": [
             [
                 37.48131065,
-                -122.15924036537902
+                -122.15924031258726
             ]
         ],
         "addresses": [
@@ -8298,7 +8409,7 @@
             ]
         ],
         "addresses": [
-            "Deliveroo, Pentonville Road, Pentonville, Barnsbury, London Borough of Islington, London, Greater London, England, N1 9JB, United Kingdom"
+            "Deliveroo, Pentonville Road, Pentonville, Barnsbury, London, London Borough of Islington, Greater London, England, N1, United Kingdom"
         ]
     },
     {
@@ -8376,7 +8487,7 @@
             ]
         ],
         "addresses": [
-            "Kickstarter HQ, West Street, Brooklyn, New York, 11222, United States"
+            "Kickstarter HQ, West Street, Brooklyn, Kings County, New York, 11222, United States"
         ]
     },
     {
@@ -8419,7 +8530,7 @@
             ]
         ],
         "addresses": [
-            "Carnegie Mellon University, Boundary Street, Panther Hollow, Central Oakland, Pittsburgh, Allegheny County, Pennsylvania, 15213, United States"
+            "Carnegie Mellon University, Canterbury Lane, Shadyside, Pittsburgh, Allegheny County, Pennsylvania, 15232, United States"
         ]
     },
     {
@@ -8848,8 +8959,8 @@
         ],
         "latlngs": [
             [
-                37.7756962,
-                -122.4180838
+                37.7899898,
+                -122.3999799
             ],
             [
                 37.7759881,
@@ -8857,7 +8968,7 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, SOMA Pilipinas, San Francisco, California, 94103, United States",
+            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States",
             "Lyft, 185, Berry Street, South Beach, San Francisco, California, 94107, United States"
         ]
     },
@@ -8930,12 +9041,12 @@
         ],
         "latlngs": [
             [
-                37.8721058,
-                -122.2675326
+                39.7492848,
+                -104.9966459
             ]
         ],
         "addresses": [
-            "WeWork, 2120, University Avenue, Downtown Berkeley, Berkeley, Alameda County, California, 94704, United States"
+            "WeWork, 1200, 17th Street, Central Business District, Denver, Colorado, 80202, United States"
         ]
     },
     {
@@ -8975,8 +9086,8 @@
         ],
         "latlngs": [
             [
-                37.7933154,
-                -122.3945205
+                37.7924005,
+                -122.39175109524751
             ],
             [
                 37.778011,
@@ -8992,10 +9103,10 @@
             ]
         ],
         "addresses": [
-            "Google One Market, 1, Market Street, Financial District, San Francisco, California, 94111, United States",
-            "WeWork, Mission Street, SOMA Pilipinas, San Francisco, California, 94103, United States",
-            "Kickstarter HQ, West Street, Brooklyn, New York, 11222, United States",
-            "WeWork, Market Street, Brooklyn Navy Yard, Brooklyn, New York, 11251, United States"
+            "Google Community Space, 188, The Embarcadero, Port of San Francisco, San Francisco, California, 94105, United States",
+            "WeWork, Mission Street, West SoMa, San Francisco, California, 94103, United States",
+            "Kickstarter HQ, West Street, Brooklyn, Kings County, New York, 11222, United States",
+            "WeWork, Market Street, Brooklyn, Kings County, New York, 11251, United States"
         ]
     },
     {
@@ -9072,12 +9183,12 @@
         ],
         "latlngs": [
             [
-                37.7933154,
-                -122.3945205
+                37.7924005,
+                -122.39175109524751
             ]
         ],
         "addresses": [
-            "Google One Market, 1, Market Street, Financial District, San Francisco, California, 94111, United States"
+            "Google Community Space, 188, The Embarcadero, Port of San Francisco, San Francisco, California, 94105, United States"
         ]
     },
     {
@@ -9123,8 +9234,8 @@
                 -122.08237596053958
             ],
             [
-                37.7933154,
-                -122.3945205
+                37.7924005,
+                -122.39175109524751
             ],
             [
                 37.7249773,
@@ -9134,7 +9245,7 @@
         "addresses": [
             "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
             "Google, Mountain View, Santa Clara County, California, United States",
-            "Google One Market, 1, Market Street, Financial District, San Francisco, California, 94111, United States",
+            "Google Community Space, 188, The Embarcadero, Port of San Francisco, San Francisco, California, 94105, United States",
             "LT Group - Compass Real Estate, Ocean Avenue, Ingleside, San Francisco, California, 94112, United States"
         ]
     },
@@ -9171,12 +9282,12 @@
         ],
         "latlngs": [
             [
-                37.7933154,
-                -122.3945205
+                37.7924005,
+                -122.39175109524751
             ]
         ],
         "addresses": [
-            "Google One Market, 1, Market Street, Financial District, San Francisco, California, 94111, United States"
+            "Google Community Space, 188, The Embarcadero, Port of San Francisco, San Francisco, California, 94105, United States"
         ]
     },
     {
@@ -9262,8 +9373,8 @@
                 9.677958815746917
             ],
             [
-                51.1238951,
-                12.492158
+                51.3375846,
+                12.3746848
             ],
             [
                 50.3495332,
@@ -9284,7 +9395,7 @@
         ],
         "addresses": [
             "Amazon FRA1, Eichhof, Asbach, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
-            "Abholstation, 26, Sachsenallee, Borna, Landkreis Leipzig, Sachsen, 04552, Deutschland",
+            "Amazon Recruitment Center, Petersstra\u00dfe, Leipzig-Zentrum, Mitte, Leipzig, Sachsen, 04109, Deutschland",
             "Amazon, Am Autobahnkreuz, Gewerbegebiet Industriepark A61/GVZ Koblenz, R\u00fcbenach, Koblenz, Rheinland-Pfalz, 56072, Deutschland",
             "Amazon, Amazonstra\u00dfe, Winterswick, Rheinberg, Kreis Wesel, Nordrhein-Westfalen, 47495, Deutschland",
             "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
@@ -9337,7 +9448,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Holywell Road, Grimesthorpe, Sheffield, Yorkshire and the Humber, England, S4 8AR, United Kingdom",
+            "Amazon, Brathay Road, Wincobank, Sheffield, Yorkshire and the Humber, England, S4 8AW, United Kingdom",
             "Amazon.co.uk, Towers Business Park, Brereton and Ravenhill, Brereton, Cannock Chase, Staffordshire, West Midlands, England, WS15 1LX, United Kingdom",
             "Amazon, Unit 1, Flaxley Road, Kingston Park, Stanground, Peterborough, City of Peterborough, East of England, England, PE2 9EN, United Kingdom"
         ]
@@ -9746,7 +9857,7 @@
             ]
         ],
         "addresses": [
-            "\u9999\u6e2f\u5cf6 Hong Kong Island, \u9999\u6e2f Hong Kong, 000000, \u4e2d\u56fd"
+            "\u9999\u6e2f\u5cf6 Hong Kong Island, \u9999\u6e2f Hong Kong, \u4e2d\u56fd"
         ]
     },
     {
@@ -9925,8 +10036,8 @@
         ],
         "latlngs": [
             [
-                37.7756962,
-                -122.4180838
+                37.7899898,
+                -122.3999799
             ],
             [
                 37.7509149,
@@ -9934,7 +10045,7 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, SOMA Pilipinas, San Francisco, California, 94103, United States",
+            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States",
             "Lyft, Kansas Street, Potrero Terrace, San Francisco, California, 94124, United States"
         ]
     },
@@ -10089,7 +10200,7 @@
             ]
         ],
         "addresses": [
-            "Kickstarter HQ, West Street, Brooklyn, New York, 11222, United States"
+            "Kickstarter HQ, West Street, Brooklyn, Kings County, New York, 11222, United States"
         ]
     },
     {
@@ -10185,7 +10296,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, 72, Spring Street, Manhattan Community Board 2, Manhattan, New York, 10013, United States",
+            "Amazon, 72, Spring Street, Manhattan Community Board 2, New York County, New York, 10013, United States",
             "SIL2 - Amazon SSD, 7555, Linder Avenue, Skokie, Niles Township, Cook County, Illinois, 60077, United States",
             "Amazon Avenue, Sacramento, Sacramento County, California, 95835, United States"
         ]
@@ -10228,8 +10339,8 @@
         ],
         "latlngs": [
             [
-                37.7756962,
-                -122.4180838
+                37.7899898,
+                -122.3999799
             ],
             [
                 37.7509149,
@@ -10241,9 +10352,9 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, SOMA Pilipinas, San Francisco, California, 94103, United States",
+            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States",
             "Lyft, Kansas Street, Potrero Terrace, San Francisco, California, 94124, United States",
-            "Doordash HQ, Market Street, SOMA Pilipinas, San Francisco, California, 94104, United States"
+            "Doordash HQ, Market Street, Union Square, San Francisco, California, 94104, United States"
         ]
     },
     {
@@ -10484,7 +10595,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, 72, Spring Street, Manhattan Community Board 2, Manhattan, New York, 10013, United States"
+            "Amazon, 72, Spring Street, Manhattan Community Board 2, New York County, New York, 10013, United States"
         ]
     },
     {
@@ -10779,8 +10890,8 @@
                 -122.3919991
             ],
             [
-                37.7756962,
-                -122.4180838
+                37.7899898,
+                -122.3999799
             ],
             [
                 32.7717259,
@@ -10793,9 +10904,9 @@
         ],
         "addresses": [
             "Lyft, 185, Berry Street, South Beach, San Francisco, California, 94107, United States",
-            "Uber, 1455, Market Street, SOMA Pilipinas, San Francisco, California, 94103, United States",
-            "UBER / Lyft Driver Drop Off, Campanile Mall, Montezuma Mesa, Del Cerro, San Diego, San Diego County, California, 92182, United States",
-            "UBER / Lyft Driver Drop Off, Campanile Mall, Montezuma Mesa, Del Cerro, San Diego, San Diego County, California, 92182, United States"
+            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States",
+            "UBER / Lyft Driver Drop Off, Campanile Mall, Montezuma Mesa, San Diego, San Diego County, California, 92182, United States",
+            "UBER / Lyft Driver Drop Off, Campanile Mall, Montezuma Mesa, San Diego, San Diego County, California, 92182, United States"
         ]
     },
     {
@@ -11225,7 +11336,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, 72, Spring Street, Manhattan Community Board 2, Manhattan, New York, 10013, United States"
+            "Amazon, 72, Spring Street, Manhattan Community Board 2, New York County, New York, 10013, United States"
         ]
     },
     {
@@ -11546,7 +11657,7 @@
             ]
         ],
         "addresses": [
-            "\u534e\u4e3a\u6280\u672f\u6709\u9650\u516c\u53f8, \u6df1\u5733\u5e02, \u9f99\u5c97\u533a, \u5e7f\u4e1c\u7701, 518100, \u4e2d\u56fd"
+            "\u534e\u4e3a\u6280\u672f\u6709\u9650\u516c\u53f8, \u5742\u7530\u8857\u9053, \u9f99\u5c97\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518100, \u4e2d\u56fd"
         ]
     },
     {
@@ -11720,13 +11831,13 @@
                 -73.9977307
             ],
             [
-                44.90190785,
-                -122.96427765593445
+                44.9063923,
+                -122.94780702526626
             ]
         ],
         "addresses": [
-            "Amazon, 72, Spring Street, Manhattan Community Board 2, Manhattan, New York, 10013, United States",
-            "Amazon PDX7, 4775, Depot Court, Salem, Marion County, Oregon, 97317, United States"
+            "Amazon, 72, Spring Street, Manhattan Community Board 2, New York County, New York, 10013, United States",
+            "Amazon DPD6, Gaffin Road Southeast, Salem, Marion County, Oregon, 97317, United States"
         ]
     },
     {
@@ -11769,7 +11880,7 @@
             ]
         ],
         "addresses": [
-            "\u4e2d\u6587\u5802, 274, \u9038\u4ed9\u8def, \u65b0\u6e2f\u8857\u9053, \u6d77\u73e0\u533a, \u5e7f\u5dde\u5e02, \u5e7f\u4e1c\u7701, 510275, \u4e2d\u56fd",
+            "\u4e2d\u6587\u5802, 274, \u9038\u4ed9\u8def, \u65b0\u6e2f\u8857\u9053, \u65b0\u51e4\u51f0\u6751, \u6d77\u73e0\u533a, \u5e7f\u5dde\u5e02, \u5e7f\u4e1c\u7701, 510275, \u4e2d\u56fd",
             "\u817e\u8baf\u8d35\u5b89\u4e03\u661f\u6570\u636e\u4e2d\u5fc3, \u5e73\u575d\u533a, \u5b89\u987a\u5e02, \u8d35\u5dde\u7701, \u4e2d\u56fd"
         ]
     },
@@ -11848,12 +11959,12 @@
         ],
         "latlngs": [
             [
-                37.7756962,
-                -122.4180838
+                37.7899898,
+                -122.3999799
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, SOMA Pilipinas, San Francisco, California, 94103, United States"
+            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States"
         ]
     },
     {
@@ -12365,8 +12476,8 @@
         ],
         "latlngs": [
             [
-                39.2813025,
-                -76.5905444
+                37.7899898,
+                -122.3999799
             ],
             [
                 37.7509149,
@@ -12382,10 +12493,10 @@
             ]
         ],
         "addresses": [
-            "Uber, 918, Fell Street, Fell's Point, Baltimore, Maryland, 21231, United States",
+            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States",
             "Lyft, Kansas Street, Potrero Terrace, San Francisco, California, 94124, United States",
-            "Doordash HQ, Market Street, SOMA Pilipinas, San Francisco, California, 94104, United States",
-            "UserTesting, 690, 5th Street, SOMA Pilipinas, San Francisco, California, 94017, United States"
+            "Doordash HQ, Market Street, Union Square, San Francisco, California, 94104, United States",
+            "UserTesting, 690, 5th Street, South of Market, San Francisco, California, 94017, United States"
         ]
     },
     {
@@ -12510,7 +12621,7 @@
             ]
         ],
         "addresses": [
-            "Pinterest, 7th Street, SOMA Pilipinas, San Francisco, California, 94103, United States"
+            "Pinterest, 7th Street, West SoMa, San Francisco, California, 94103, United States"
         ]
     },
     {
@@ -12641,8 +12752,8 @@
                 -47.7985009230547
             ],
             [
-                43.0890186,
-                12.4292444
+                43.0770299,
+                12.4143374
             ],
             [
                 47.2260752,
@@ -12653,16 +12764,16 @@
                 10.0402186
             ],
             [
-                43.0890186,
-                12.4292444
+                43.0770299,
+                12.4143374
             ],
             [
                 18.6534612,
                 -91.8401158
             ],
             [
-                47.2269198,
-                8.8245459
+                47.2266532,
+                8.8164042
             ],
             [
                 19.42437,
@@ -12673,10 +12784,10 @@
             "iFood, 1496, Avenida dos Autonomistas, Osasco, Regi\u00e3o Imediata de S\u00e3o Paulo, Regi\u00e3o Metropolitana de S\u00e3o Paulo, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de S\u00e3o Paulo, S\u00e3o Paulo, Regi\u00e3o Sudeste, 06020-010, Brasil",
             "Rappi 10, Avenida Santa Cruz do Are\u00e3o, Parque S\u00e3o Jorge, Are\u00e3o, Taubat\u00e9, Regi\u00e3o Imediata de Taubat\u00e9-Pindamonhangaba, Regi\u00e3o Metropolitana do Vale do Para\u00edba e Litoral Norte, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de S\u00e3o Jos\u00e9 dos Campos, S\u00e3o Paulo, Regi\u00e3o Sudeste, 12060-800, Brasil",
             "Parque Uber, Jardim Bot\u00e2nico, Ribeir\u00e3o Preto, Regi\u00e3o Imediata de Ribeir\u00e3o Preto, Regi\u00e3o Metropolitana de Ribeir\u00e3o Preto, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Ribeir\u00e3o Preto, S\u00e3o Paulo, Regi\u00e3o Sudeste, Brasil",
-            "Strada dei Loggi, Ponte San Giovanni, Perugia, Umbria, 06154, Italia",
+            "Strada dei Loggi, Balanzano, Montebello, Ponte San Giovanni, Perugia, Umbria, 06154, Italia",
             "MI TIERRA AG - vinoteca argentina, 7, Alpenstrasse, Rapperswil, Rapperswil-Jona, Wahlkreis See-Gaster, Sankt Gallen, 8640, Schweiz/Suisse/Svizzera/Svizra",
             "\u00dcber, Thalwenden, Uder, Landkreis Eichsfeld, Th\u00fcringen, 37318, Deutschland",
-            "Strada dei Loggi, Ponte San Giovanni, Perugia, Umbria, 06154, Italia",
+            "Strada dei Loggi, Balanzano, Montebello, Ponte San Giovanni, Perugia, Umbria, 06154, Italia",
             "Ifood, Calle 61, FRACC. MARINA DEL REY, Ciudad del Carmen, Carmen, Campeche, 24100, M\u00e9xico",
             "Rapperswil, Rapperswil-Jona, Wahlkreis See-Gaster, Sankt Gallen, 8640, Schweiz/Suisse/Svizzera/Svizra",
             "Uber, Calle Hamburgo, Zona Rosa, Cuauht\u00e9moc, Ciudad de M\u00e9xico, 06600, M\u00e9xico"
@@ -12834,12 +12945,12 @@
         ],
         "latlngs": [
             [
-                52.4746766,
-                -1.91586332385543
+                51.5148804,
+                -0.0718856
             ]
         ],
         "addresses": [
-            "UBER, 100, Broad Street, Ladywood, Park Central, Birmingham, West Midlands Combined Authority, West Midlands, England, B15 1AE, United Kingdom"
+            "Uber, 2, Leman Street, East Smithfield, Whitechapel, London, City of London, Greater London, England, E1 8FA, United Kingdom"
         ]
     },
     {
@@ -12890,8 +13001,8 @@
                 -118.4092133
             ],
             [
-                39.2813025,
-                -76.5905444
+                37.7899898,
+                -122.3999799
             ],
             [
                 37.7509149,
@@ -12905,9 +13016,9 @@
         "addresses": [
             "Amazon, Jefferson County, Montana, United States",
             "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
-            "Uber, 918, Fell Street, Fell's Point, Baltimore, Maryland, 21231, United States",
+            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States",
             "Lyft, Kansas Street, Potrero Terrace, San Francisco, California, 94124, United States",
-            "UserTesting, 690, 5th Street, SOMA Pilipinas, San Francisco, California, 94017, United States"
+            "UserTesting, 690, 5th Street, South of Market, San Francisco, California, 94017, United States"
         ]
     },
     {
@@ -12993,8 +13104,8 @@
         ],
         "latlngs": [
             [
-                42.3891156,
-                -71.1417515
+                42.361005950000006,
+                -71.11395056436744
             ],
             [
                 42.3651852,
@@ -13002,7 +13113,7 @@
             ]
         ],
         "addresses": [
-            "Whole Foods Market, Concord Lane, Fresh Pond Mall, Cambridge, Middlesex County, Massachusetts, 02474-8735, United States",
+            "Whole Foods Market, 340, River Street, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02139, United States",
             "Amazon Pickup, 1, Magazine Street, Central Square, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02139, United States"
         ]
     },
@@ -13117,7 +13228,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, 72, Spring Street, Manhattan Community Board 2, Manhattan, New York, 10013, United States"
+            "Amazon, 72, Spring Street, Manhattan Community Board 2, New York County, New York, 10013, United States"
         ]
     },
     {
@@ -13292,7 +13403,7 @@
             ]
         ],
         "addresses": [
-            "Pinterest, 7th Street, SOMA Pilipinas, San Francisco, California, 94103, United States"
+            "Pinterest, 7th Street, West SoMa, San Francisco, California, 94103, United States"
         ]
     },
     {
@@ -13329,12 +13440,12 @@
         ],
         "latlngs": [
             [
-                37.7933154,
-                -122.3945205
+                37.7924005,
+                -122.39175109524751
             ]
         ],
         "addresses": [
-            "Google One Market, 1, Market Street, Financial District, San Francisco, California, 94111, United States"
+            "Google Community Space, 188, The Embarcadero, Port of San Francisco, San Francisco, California, 94105, United States"
         ]
     },
     {
@@ -13714,12 +13825,12 @@
         ],
         "latlngs": [
             [
-                37.7933154,
-                -122.3945205
+                37.7924005,
+                -122.39175109524751
             ]
         ],
         "addresses": [
-            "Google One Market, 1, Market Street, Financial District, San Francisco, California, 94111, United States"
+            "Google Community Space, 188, The Embarcadero, Port of San Francisco, San Francisco, California, 94105, United States"
         ]
     },
     {
@@ -13760,8 +13871,8 @@
         ],
         "latlngs": [
             [
-                51.5332143,
-                -0.1259925739528908
+                51.5333771,
+                -0.1258455
             ],
             [
                 52.3124769,
@@ -13781,11 +13892,11 @@
             ]
         ],
         "addresses": [
-            "Google, 6, Pancras Road, King's Cross, London Borough of Camden, London, Greater London, England, N1C 4BJ, United Kingdom",
+            "Google, 6, Pancras Road, King's Cross, London, London Borough of Camden, Greater London, England, N1C 4BJ, United Kingdom",
             "Amazon, Beoley CP, Holt End, Bromsgrove, Worcestershire, West Midlands, England, United Kingdom",
-            "Microsoft London, Kingdom Street, Paddington Central, Paddington, City of Westminster, London, Greater London, England, W2 6PY, United Kingdom",
+            "Microsoft London, 2, Kingdom Street, Paddington Central, Paddington, London, City of Westminster, Greater London, England, W2 6PY, United Kingdom",
             "Samsung, 18-20, Commercial Street, City Centre, Sheffield, Yorkshire and the Humber, England, S1 2AT, United Kingdom",
-            "Deliveroo, Pentonville Road, Pentonville, Barnsbury, London Borough of Islington, London, Greater London, England, N1 9JB, United Kingdom"
+            "Deliveroo, Pentonville Road, Pentonville, Barnsbury, London, London Borough of Islington, Greater London, England, N1, United Kingdom"
         ]
     },
     {
@@ -13942,12 +14053,12 @@
         ],
         "latlngs": [
             [
-                34.593865449999996,
-                -118.14161832712509
+                33.8053661,
+                -118.3349656038286
             ]
         ],
         "addresses": [
-            "Amazon, 600, Technology Drive, Palmdale, Los Angeles County, California, 93551-3713, United States"
+            "Amazon, Skypark Drive, Walteria, Torrance, Los Angeles County, California, 90505, United States"
         ]
     },
     {
@@ -14149,12 +14260,12 @@
         ],
         "latlngs": [
             [
-                34.593865449999996,
-                -118.14161832712509
+                33.8053661,
+                -118.3349656038286
             ]
         ],
         "addresses": [
-            "Amazon, 600, Technology Drive, Palmdale, Los Angeles County, California, 93551-3713, United States"
+            "Amazon, Skypark Drive, Walteria, Torrance, Los Angeles County, California, 90505, United States"
         ]
     },
     {
@@ -14359,12 +14470,12 @@
         ],
         "latlngs": [
             [
-                37.7756962,
-                -122.4180838
+                37.7899898,
+                -122.3999799
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, SOMA Pilipinas, San Francisco, California, 94103, United States"
+            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States"
         ]
     },
     {
@@ -14517,12 +14628,12 @@
         "author": null,
         "latlngs": [
             [
-                37.7869314,
-                -122.421939
+                37.7334587,
+                -122.489694
             ]
         ],
         "addresses": [
-            "Verizon, Daniel Burnham Court, Western Addition, San Francisco, California, 94164, United States"
+            "Verizon, 1513, Sloat Boulevard, San Francisco, California, 94132, United States"
         ]
     },
     {
@@ -14563,8 +14674,8 @@
         ],
         "latlngs": [
             [
-                40.76893325,
-                -73.50525969769677
+                39.9687148,
+                -75.13098427034083
             ],
             [
                 30.2691649,
@@ -14576,7 +14687,7 @@
             ]
         ],
         "addresses": [
-            "Cpl Kevin Kolm Memorial Park (Triangle Park) H-19, Hicksville, Town of Oyster Bay, Nassau County, New York, United States",
+            "CPL. Charles J. Glenn, 3rd USMC Memorial, Fishtown, Philadelphia, Philadelphia County, Pennsylvania, United States",
             "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States",
             "Accenture, West San Fernando Street, Downtown Historic District, San Jose, Santa Clara County, California, 95113, United States"
         ]
@@ -15027,7 +15138,7 @@
             ]
         ],
         "addresses": [
-            "Apple Store, \u798f\u5dde\u8def, \u6ce5\u57ce\u6865, \u5357\u4eac\u4e1c\u8def\u8857\u9053, \u9ec4\u6d66\u533a, \u4e0a\u6d77\u5e02, 200001, \u4e2d\u56fd"
+            "Apple Store, \u798f\u5dde\u8def, \u6ce5\u57ce\u6865, \u5357\u4eac\u4e1c\u8def\u8857\u9053, \u4e0a\u6d77\u5e02, \u9ec4\u6d66\u533a, \u4e0a\u6d77\u5e02, 200001, \u4e2d\u56fd"
         ]
     },
     {
@@ -15168,15 +15279,15 @@
                 -69.6817118
             ],
             [
-                43.453913650000004,
-                -80.50015897052897
+                43.4510812,
+                -80.4987516
             ]
         ],
         "addresses": [
             "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112-3580, United States",
             "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
             "Ruisseau Alphabet, Lac-au-Brochet, La Haute-C\u00f4te-Nord, C\u00f4te-Nord, Qu\u00e9bec, Canada",
-            "Google Waterloo, 25, Breithaupt Street, Downtown, Kitchener, Region of Waterloo, Southwestern Ontario, Ontario, N2H 3X8, Canada"
+            "Google Waterloo, 151, Charles Street West, Downtown, Kitchener, Region of Waterloo, Southwestern Ontario, Ontario, N2G 1H6, Canada"
         ]
     },
     {
@@ -15228,14 +15339,14 @@
                 -118.4092133
             ],
             [
-                37.6291599,
-                -122.42551778433794
+                37.628145950000004,
+                -122.4264270211096
             ]
         ],
         "addresses": [
             "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112-3580, United States",
             "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
-            "YouTube, 1000, Cherry Avenue, YouTube, San Bruno, San Mateo County, California, 94066, United States"
+            "YouTube, 901, Cherry Avenue, YouTube, San Bruno, San Mateo County, California, 94066, United States"
         ]
     },
     {
@@ -15276,7 +15387,7 @@
             ]
         ],
         "addresses": [
-            "Twitter, Market Street, SOMA Pilipinas, San Francisco, California, 94102, United States"
+            "Twitter, Market Street, Civic Center, San Francisco, California, 94102, United States"
         ]
     },
     {
@@ -15404,8 +15515,8 @@
         ],
         "latlngs": [
             [
-                37.7756962,
-                -122.4180838
+                37.7899898,
+                -122.3999799
             ],
             [
                 37.7509149,
@@ -15417,9 +15528,9 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, SOMA Pilipinas, San Francisco, California, 94103, United States",
+            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States",
             "Lyft, Kansas Street, Potrero Terrace, San Francisco, California, 94124, United States",
-            "Doordash HQ, Market Street, SOMA Pilipinas, San Francisco, California, 94104, United States"
+            "Doordash HQ, Market Street, Union Square, San Francisco, California, 94104, United States"
         ]
     },
     {
@@ -15577,12 +15688,12 @@
         ],
         "latlngs": [
             [
-                41.3750149,
-                -83.6402779
+                40.7264299,
+                -111.8655941
             ]
         ],
         "addresses": [
-            "MEDIUM, East Wooster Street, Bowling Green, Wood County, Ohio, 43403-0001, United States"
+            "Medium, Redondo Avenue, Sugar House, Salt Lake City, Salt Lake County, Utah, 84105, United States"
         ]
     },
     {
@@ -15624,7 +15735,7 @@
             ]
         ],
         "addresses": [
-            "Doordash HQ, Market Street, SOMA Pilipinas, San Francisco, California, 94104, United States"
+            "Doordash HQ, Market Street, Union Square, San Francisco, California, 94104, United States"
         ]
     },
     {
@@ -15710,7 +15821,7 @@
             ]
         ],
         "addresses": [
-            "Google, 111, 8th Avenue, Chelsea District, Manhattan, New York, 10011, United States"
+            "Google, 111, 8th Avenue, Chelsea District, New York County, New York, 10011, United States"
         ]
     },
     {
@@ -15942,12 +16053,12 @@
         ],
         "latlngs": [
             [
-                37.6291599,
-                -122.42551778433794
+                37.628145950000004,
+                -122.4264270211096
             ]
         ],
         "addresses": [
-            "YouTube, 1000, Cherry Avenue, YouTube, San Bruno, San Mateo County, California, 94066, United States"
+            "YouTube, 901, Cherry Avenue, YouTube, San Bruno, San Mateo County, California, 94066, United States"
         ]
     },
     {
@@ -16040,8 +16151,8 @@
                 7.4901388
             ],
             [
-                51.1238951,
-                12.492158
+                51.3375846,
+                12.3746848
             ],
             [
                 50.845334,
@@ -16052,7 +16163,7 @@
             "Amazon, Amazonstra\u00dfe, Winterswick, Rheinberg, Kreis Wesel, Nordrhein-Westfalen, 47495, Deutschland",
             "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
             "Amazon, Am Autobahnkreuz, Gewerbegebiet Industriepark A61/GVZ Koblenz, R\u00fcbenach, Koblenz, Rheinland-Pfalz, 56072, Deutschland",
-            "Abholstation, 26, Sachsenallee, Borna, Landkreis Leipzig, Sachsen, 04552, Deutschland",
+            "Amazon Recruitment Center, Petersstra\u00dfe, Leipzig-Zentrum, Mitte, Leipzig, Sachsen, 04109, Deutschland",
             "Amazon FRA1, Eichhof, Asbach, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland"
         ]
     },
@@ -16102,14 +16213,14 @@
                 11.166183284518766
             ],
             [
-                43.709862,
-                10.4328227
+                43.7245809,
+                10.3897394
             ]
         ],
         "addresses": [
             "Amazon, Via Baldanzese, Settimello, Sesto Fiorentino, Firenze, Toscana, 50019, Italia",
             "Amazon, Via Baldanzese, Settimello, Sesto Fiorentino, Firenze, Toscana, 50019, Italia",
-            "Amazon Hub Locker, Via Vittorio Frascani, Cisanello, Pisa, Toscana, 56124, Italia"
+            "Amazon Hub Locker, Viale delle Cascine, Gagno, Pisa, Toscana, 56123, Italia"
         ]
     },
     {
@@ -16282,7 +16393,7 @@
             ]
         ],
         "addresses": [
-            "Doordash HQ, Market Street, SOMA Pilipinas, San Francisco, California, 94104, United States"
+            "Doordash HQ, Market Street, Union Square, San Francisco, California, 94104, United States"
         ]
     },
     {
@@ -16462,7 +16573,7 @@
             ]
         ],
         "addresses": [
-            "Deliveroo, Pentonville Road, Pentonville, Barnsbury, London Borough of Islington, London, Greater London, England, N1 9JB, United Kingdom"
+            "Deliveroo, Pentonville Road, Pentonville, Barnsbury, London, London Borough of Islington, Greater London, England, N1, United Kingdom"
         ]
     },
     {
@@ -16548,7 +16659,7 @@
             ]
         ],
         "addresses": [
-            "The New York Times, Whitestone Expressway, Linden Hill, Queens, Queens County, New York, 11354, United States"
+            "The New York Times, Whitestone Expressway, Queens, Queens County, New York, 11354, United States"
         ]
     },
     {
@@ -16848,12 +16959,12 @@
         ],
         "latlngs": [
             [
-                35.061676649999995,
-                -85.30502724013692
+                41.3113886,
+                -105.59521895412776
             ]
         ],
         "addresses": [
-            "Basecamp, Tremont Street, North Chattanooga, Chattanooga, Hamilton County, Tennessee, 37405, United States"
+            "Basecamp, 220, South 2nd Street, Laramie, Albany County, Wyoming, 82070, United States"
         ]
     },
     {
@@ -17313,13 +17424,13 @@
                 -118.4092133
             ],
             [
-                45.4859369,
-                -122.6750084
+                33.401502199999996,
+                -86.8046687991098
             ]
         ],
         "addresses": [
             "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
-            "G4S, 5100, South Macadam Avenue, South Portland, Portland, Multnomah County, Oregon, 97239, United States"
+            "G4S Secure Soultions USA, Lorna Road, Chapel Hill, Patton Chapel, Hoover, Jefferson County, Alabama, 35216, United States"
         ]
     },
     {
@@ -17570,8 +17681,15 @@
         "author": [
             "hyatt d."
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.7899932,
+                -122.4008494
+            ]
+        ],
+        "addresses": [
+            "Change.org, 548, Market Street, Transbay, San Francisco, California, 90104, United States"
+        ]
     },
     {
         "id": 459,
@@ -17821,7 +17939,7 @@
             ]
         ],
         "addresses": [
-            "Doordash HQ, Market Street, SOMA Pilipinas, San Francisco, California, 94104, United States"
+            "Doordash HQ, Market Street, Union Square, San Francisco, California, 94104, United States"
         ]
     },
     {
@@ -17863,7 +17981,7 @@
             ]
         ],
         "addresses": [
-            "Code for America, 972, Mission Street, SOMA Pilipinas, San Francisco, California, 94103, United States"
+            "Code for America, 972, Mission Street, West SoMa, San Francisco, California, 94103, United States"
         ]
     },
     {
@@ -18080,7 +18198,7 @@
             ]
         ],
         "addresses": [
-            "The New York Times, Whitestone Expressway, Linden Hill, Queens, Queens County, New York, 11354, United States"
+            "The New York Times, Whitestone Expressway, Queens, Queens County, New York, 11354, United States"
         ]
     },
     {
@@ -18366,15 +18484,8 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": [
-            [
-                40.6453855,
-                -74.1077517
-            ]
-        ],
-        "addresses": [
-            "Blue, 1115, Richmond Terrace, Staten Island, Richmond County, New York, 10310, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 473,
@@ -18468,8 +18579,8 @@
             ]
         ],
         "addresses": [
-            "Uber, 2, Leman Street, Spitalfields, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, E1 8FA, United Kingdom",
-            "UBER, 100, Broad Street, Ladywood, Park Central, Birmingham, West Midlands Combined Authority, West Midlands, England, B15 1AE, United Kingdom"
+            "Uber, 2, Leman Street, East Smithfield, Whitechapel, London, City of London, Greater London, England, E1 8FA, United Kingdom",
+            "UBER, 100, Broad Street, Ladywood, Birmingham, Park Central, West Midlands, England, B15 1AE, United Kingdom"
         ]
     },
     {
@@ -18729,7 +18840,8 @@
         "id": 476,
         "date": "2021/10/12",
         "sources": [
-            "https://www.theguardian.com/commentisfree/2021/oct/12/google-amazon-workers-condemn-project-nimbus-israeli-military-contract"
+            "https://www.theguardian.com/commentisfree/2021/oct/12/google-amazon-workers-condemn-project-nimbus-israeli-military-contract",
+            "https://twitter.com/dropnimbus/status/1501969004335812631?s=21"
         ],
         "actions": [
             "open letter"
@@ -18742,7 +18854,7 @@
             "contract workers",
             "inhouse workers"
         ],
-        "description": "Google and Amazon workers condemn Amazon and Google\u2019s supplying to the Israeli military and government technology to harm Palestinians through Project Nimbus. They write that Project Nimbus would provide cloud services, including surveillance and data collection on Palestinians, that would support systematic discrimination and displacement. Workers released an internal letter, with 90+ Google workers and 300+ Amazon workers anonymously signing it.",
+        "description": "Google and Amazon workers condemn Amazon and Google\u2019s supplying to the Israeli military and government technology to harm Palestinians through Project Nimbus. They write that Project Nimbus would provide cloud services, including surveillance and data collection on Palestinians, that would support systematic discrimination and displacement. Workers released an internal letter, with 90+ Google workers and 300+ Amazon workers anonymously signing it.\n\nEDIT: As of 3/10/2022, they have 2000 workers supporting the group.",
         "online": true,
         "locations": [
             "worldwide"
@@ -18751,7 +18863,7 @@
             "google",
             "amazon"
         ],
-        "workers": 391,
+        "workers": 2000,
         "tags": [
             "international solidarity",
             "politics",
@@ -18827,7 +18939,7 @@
             "Alibaba (halal), \u7a20\u5dde\u5317\u8def, \u4e49\u4e4c\u5e02, \u6d59\u6c5f\u7701, 322000, \u4e2d\u56fd",
             "\u817e\u8baf\u8d35\u5b89\u4e03\u661f\u6570\u636e\u4e2d\u5fc3, \u5e73\u575d\u533a, \u5b89\u987a\u5e02, \u8d35\u5dde\u7701, \u4e2d\u56fd",
             "\u767d\u6e21\u9547, \u6885\u5dde\u5e02, \u5e7f\u4e1c\u7701, \u4e2d\u56fd",
-            "\u5b57\u8282\u8df3\u52a8\u603b\u90e8, \u53cc\u6986\u6811\u5317\u8def, \u4e2d\u5173\u6751, \u4e2d\u5173\u6751\u8857\u9053, \u6d77\u6dc0\u533a, \u5317\u4eac\u5e02, 100098, \u4e2d\u56fd"
+            "\u5b57\u8282\u8df3\u52a8\u603b\u90e8, \u53cc\u6986\u6811\u5317\u8def, \u77e5\u6625\u4e1c\u91cc\u793e\u533a, \u4e2d\u5173\u6751\u8857\u9053, \u6d77\u6dc0\u533a, \u5317\u4eac\u5e02, 100098, \u4e2d\u56fd"
         ]
     },
     {
@@ -18909,7 +19021,7 @@
             ]
         ],
         "addresses": [
-            "Paris Theatre, 4, West 58th Street, Midtown, Manhattan Community Board 5, Manhattan, New York County, New York, 10019, United States"
+            "Paris Theatre, 4, West 58th Street, Midtown, Manhattan Community Board 5, New York County, New York, 10019, United States"
         ]
     },
     {
@@ -18988,15 +19100,8 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": [
-            [
-                34.0976547,
-                -118.3164863
-            ]
-        ],
-        "addresses": [
-            "Netflix at Sunset Bronson Studios, West Sunset Boulevard, Hollywood, Los Angeles, Los Angeles County, California, 90028-5420, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 484,
@@ -19302,8 +19407,8 @@
                 4.8947825
             ],
             [
-                12.9798967,
-                77.6954191
+                12.9872599,
+                77.5913241
             ]
         ],
         "addresses": [
@@ -19311,12 +19416,12 @@
             "Amazon.fr Logistique Distrip\u00f4le Chalon, Sevrey, Chalon-sur-Sa\u00f4ne, Sa\u00f4ne-et-Loire, Bourgogne-Franche-Comt\u00e9, France m\u00e9tropolitaine, 71100, France",
             "Amazon, Jefferson County, Montana, United States",
             "Amazon, The Highway Street, Wapadrand Security Village, Tshwane Ward 85, City of Tshwane Metropolitan Municipality, Gauteng, 0050, South Africa",
-            "Amazon, Narua Kheya Ghat Road, Narua, \u09b0\u09be\u099c\u09ac\u09be\u09dc\u09c0 \u099c\u09c7\u09b2\u09be, \u09a2\u09be\u0995\u09be \u09ac\u09bf\u09ad\u09be\u0997, 7730, Bangladesh",
+            "Amazon, Narua Kheya Ghat Road, Narua, \u09b0\u09be\u099c\u09ac\u09be\u09dc\u09c0 \u099c\u09c7\u09b2\u09be, \u09a2\u09be\u0995\u09be \u09ac\u09bf\u09ad\u09be\u0997, 7730, \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6",
             "Amazon, \u1795\u17d2\u179b\u17bc\u179c \u178f\u17d2\u179a\u179f\u1780\u17cb\u1795\u17d2\u17a2\u17c2\u1798 (\u17e6\u17e3), \u179a\u17b6\u1787\u1792\u17b6\u1793\u17b8\u1797\u17d2\u1793\u17c6\u1796\u17c1\u1789, \u1781\u178e\u17d2\u178c\u178a\u17bc\u1793\u1796\u17c1\u1789, \u179a\u17b6\u1787\u1792\u17b6\u1793\u17b8\u1797\u17d2\u1793\u17c6\u1796\u17c1\u1789, 120202, \u1796\u17d2\u179a\u17c7\u179a\u17b6\u1787\u17b6\u178e\u17b6\u1785\u1780\u17d2\u179a\u200b\u1780\u1798\u17d2\u1796\u17bb\u1787\u17b6",
             "Amazon, Beoley CP, Holt End, Bromsgrove, Worcestershire, West Midlands, England, United Kingdom",
             "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
             "Amazon, 169, Nieuwendijk, Centrum, Amsterdam, Noord-Holland, Nederland, 1012MG, Nederland",
-            "Amazon, Goshala Road, Vignananagar, Dodda Nekkundi, Mahadevapura Zone, Bengaluru, Bangalore East, Bangalore Urban, Karnataka, 560048, India"
+            "Amazon, Basaveshara Road, Fair Field Layout, Sampangiram Nagar Ward, East Zone, Bengaluru, Bangalore North, Bangalore Urban, Karnataka, 560052, India"
         ]
     },
     {
@@ -19626,12 +19731,12 @@
         ],
         "latlngs": [
             [
-                40.917056,
-                -72.7107602
+                34.2157869,
+                -119.0615961
             ]
         ],
         "addresses": [
-            "Citizen, 1770, West Main Street, Town of Riverhead, Suffolk County, New York, 11901, United States"
+            "Citizen, 740, East Ventura Boulevard, Camarillo, Ventura County, California, 93010, United States"
         ]
     },
     {
@@ -19682,7 +19787,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, 72, Spring Street, Manhattan Community Board 2, Manhattan, New York, 10013, United States",
+            "Amazon, 72, Spring Street, Manhattan Community Board 2, New York County, New York, 10013, United States",
             "Amazon Fresh, 1733, 14th Street Northwest, Logan Circle/Shaw, Washington, District of Columbia, 20009, United States"
         ]
     },
@@ -20284,7 +20389,7 @@
             ]
         ],
         "addresses": [
-            "Yachthafen(Blick \u00fcber New Yersey), Riverside Walk, Upper West Side, Manhattan Community Board 7, Manhattan, New York County, New York, 10069, United States"
+            "Yachthafen(Blick \u00fcber New Yersey), Riverside Walk, Upper West Side, Manhattan Community Board 7, New York County, New York, 10069, United States"
         ]
     },
     {
@@ -20324,7 +20429,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, 72, Spring Street, Manhattan Community Board 2, Manhattan, New York, 10013, United States"
+            "Amazon, 72, Spring Street, Manhattan Community Board 2, New York County, New York, 10013, United States"
         ]
     },
     {
@@ -20526,7 +20631,587 @@
             ]
         ],
         "addresses": [
-            "Amazon, 72, Spring Street, Manhattan Community Board 2, Manhattan, New York, 10013, United States"
+            "Amazon, 72, Spring Street, Manhattan Community Board 2, New York County, New York, 10013, United States"
+        ]
+    },
+    {
+        "id": 539,
+        "date": "2022/02/18",
+        "sources": [
+            "https://www.inquirer.com/business/apple-union-efforts-tech-disruption-business-economy-20220218.html"
+        ],
+        "actions": [
+            "union drive"
+        ],
+        "struggles": [
+            "pay and benefits"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "Hourly retail workers who work for Apple stores are unionizing, with at least two preparing to file paperwork with the NLRB (National Labor Relations Board) and at least six others also involved in unionizing. Workers are unionizing because their hourly raises weren\u2019t enough, considering inflation. Moreover, the Apple workers were inspired by the recent unions at Starbucks. In response, some Apple Store managers have given anti-union speeches, saying that this will lower their wages and force Apple to remove benefits and \u201ccareer experience\u201d opportunities. \n\nIn the past, organizers, including Janneke Parrish and Cher Scarlett, have been fired. As a result, some Apple corporate employees have expressed support in secret for the retail workers. \n",
+        "online": null,
+        "locations": [
+            "usa"
+        ],
+        "companies": [
+            "apple"
+        ],
+        "workers": null,
+        "tags": [
+            "coworker solidarity"
+        ],
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": [
+            [
+                37.3326452,
+                -122.0299129658936
+            ]
+        ],
+        "addresses": [
+            "Apple Campus, Cupertino, Santa Clara County, California, United States"
+        ]
+    },
+    {
+        "id": 540,
+        "date": "2022/02/18",
+        "sources": [
+            "https://www.washingtonpost.com/technology/2022/02/18/google-raleigh-hbcu-salary/",
+            "https://www.newsobserver.com/news/business/article258555663.html",
+            "https://airtable.com/shrWrnlxqumeJhF1g"
+        ],
+        "actions": [
+            "open letter"
+        ],
+        "struggles": [
+            "pay and benefits",
+            "unfair labor practices"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "Google is expanding its North Carolina offices located in the \u201cTriangle Area\u201d for increased diversity in the workforce. However, workers expressed concern over the workers\u2019 lower salaries and stock equity grants. In a letter, employees asked for increased transparency about regional salary calculations and the removal of the salary cut. Moreover, many workers had relocated to the Triangle Area during the pandemic due to remote work for more affordable living expenses.\n\nThe Alphabet Workers Union has also created an open letter that expressed their grievances with the salary in the Triangle Area.\n\nIn response, a spokesperson has said that their compensation guidelines in the area exceed the market pay benchmarks and that employees haven\u2019t had a reduction in salary or existing equity grants.",
+        "online": true,
+        "locations": [
+            "chapel hill-north carolina-usa",
+            "durham-north carolina-usa",
+            "raleigh-north carolina-usa"
+        ],
+        "companies": [
+            "google"
+        ],
+        "workers": null,
+        "tags": [
+            "coworker solidarity",
+            "coronavirus",
+            "online action"
+        ],
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": [
+            [
+                35.78297695,
+                -78.64720791655616
+            ]
+        ],
+        "addresses": [
+            "Google Fiber, 518, West Jones Street, Glenwood South, Raleigh, Wake County, North Carolina, 27603, United States"
+        ]
+    },
+    {
+        "id": 549,
+        "date": "2022/02/21",
+        "sources": [
+            "https://www.washingtonpost.com/technology/2022/04/16/apple-grand-central-station-retail-union-workers-united/",
+            "https://fsworkersunited.org/"
+        ],
+        "actions": [
+            "union drive"
+        ],
+        "struggles": [
+            "pay and benefits",
+            "working conditions",
+            "job security"
+        ],
+        "employment_types": [
+            "inhouse workers"
+        ],
+        "description": "Fruit Stand Workers United organizers at Apple\u2019s flagship Grand Central Store are collecting signatures to form a union that would be affiliated with Workers United. For the past couple of months, they\u2019ve experienced union-busting tactics from Apple. They\u2019ve also said that they have some allies among the Apple corporate workers. This unionization movement was motivated by the pandemic and consumer price inflation. Their goals are better job security, better pay and benefits, and safer working conditions.",
+        "online": null,
+        "locations": [
+            "manhattan-new york city-new york-usa"
+        ],
+        "companies": [
+            "apple"
+        ],
+        "workers": null,
+        "tags": [
+            "coworker solidarity"
+        ],
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": [
+            [
+                40.775066100000004,
+                -73.98266860124198
+            ]
+        ],
+        "addresses": [
+            "Apple Store, 1981, Broadway, Upper West Side, Manhattan, New York County, New York, 10023, United States"
+        ]
+    },
+    {
+        "id": 541,
+        "date": "2022/02/28",
+        "sources": [
+            "https://www.timesofisrael.com/ukraine-volunteer-hacker-corps-fights-russia-with-cyberattacks-intel-and-infowar/",
+            "https://stop-russian-desinformation.near.page/",
+            "https://qz.com/india/2139750/sainikhesh-ravichandran-the-indian-in-ukraines-volunteer-army/"
+        ],
+        "actions": [
+            "protest",
+            "hacktivism"
+        ],
+        "struggles": [
+            "ethics"
+        ],
+        "employment_types": [
+            "other"
+        ],
+        "description": "Thousands of volunteer hackers in Ukraine, many of them employed in the country's tech industry, have strategically targeted Russian government websites in an effort to disrupt war mobilization efforts. They have been joined by sympathetic hackers from other countries. Using DDoS attacks, informally organized groups such as StandForUkraine have succeeded in taking many of these websites offline. Hacktivists in Belarus, organized by CyberPartisans, have also disrupted Russian rail service used to transport Russian troops into Ukraine. Mykhailo Federov, Ukraine's Minister of Digital Transformation, also announced a volunteer cyber army known as The IT Army of Ukraine. ",
+        "online": true,
+        "locations": [
+            "ukraine",
+            "belarus",
+            "worldwide"
+        ],
+        "companies": null,
+        "workers": null,
+        "tags": [
+            "international_solidarity",
+            "online action",
+            "politics"
+        ],
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": [
+            [
+                49.4871968,
+                31.2718321
+            ],
+            [
+                53.4250605,
+                27.6971358
+            ]
+        ],
+        "addresses": [
+            "\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+            "\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c"
+        ]
+    },
+    {
+        "id": 543,
+        "date": "2022/03/23",
+        "sources": [
+            "https://www.cnet.com/tech/the-first-google-fiber-workers-have-unionized/"
+        ],
+        "actions": [
+            "union representation"
+        ],
+        "struggles": [
+            "pay and benefits",
+            "working conditions"
+        ],
+        "employment_types": [
+            "contract workers"
+        ],
+        "description": "Despite anti-union busting efforts, 10 Google Fiber workers who are contractors for BDS Connected Solutions have unionized with the AWU through a majority vote. They are notably the first unionized Google Fiber workers and Alphabet Workers Union\u2019s first official bargaining unit.",
+        "online": null,
+        "locations": [
+            "kansas city-missouri-usa"
+        ],
+        "companies": [
+            "google",
+            "bds connected solutions"
+        ],
+        "workers": 10,
+        "tags": [
+            "cwa",
+            "technicians"
+        ],
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": [
+            [
+                39.2507006,
+                -94.661471
+            ]
+        ],
+        "addresses": [
+            "Google Fiber Space, 8615, Northwest Prairie View Road, Kansas City, Platte County, Missouri, 64153, United States"
+        ]
+    },
+    {
+        "id": 544,
+        "date": "2022/03/25",
+        "sources": [
+            "https://www.opeiu.org/Home/NewsandMedia/TabId/2838/ArtMID/4815/ArticleID/2637/Employees-at-Nava-PBC-Secure-Recognition-of-Their-Union-the-Largest-in-Civic-Tech.aspx",
+            "https://www.prnewswire.com/news-releases/employees-at-civic-tech-company-nava-pbc-request-voluntary-recognition-of-their-wall-to-wall-union-with-opeiu-tech-workers-union-local-1010-301475241.html",
+            "https://twitter.com/nava_united/status/1507451172495376389?s=21"
+        ],
+        "actions": [
+            "union representation"
+        ],
+        "struggles": [
+            "pay and benefits",
+            "working conditions",
+            "discrimination",
+            "ethics"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "Workers at Nava PBC have received voluntary recognition for their union Nava United with OPEIU Tech Workers Union Local 1010. They are now the largest union of civic tech workers in the US. Some of their goals are to improve the workplace to be more equitable and inclusive, as well as improve pay and PTO. ",
+        "online": null,
+        "locations": [
+            "usa"
+        ],
+        "companies": [
+            "nava pbc"
+        ],
+        "workers": 171,
+        "tags": [
+            "opeiu"
+        ],
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 545,
+        "date": "2022/03/30",
+        "sources": [
+            "https://www.reuters.com/technology/tech-workers-urge-companies-join-ukraines-digital-blockade-russia-2022-03-30/"
+        ],
+        "actions": [
+            "protest"
+        ],
+        "struggles": [
+            "ethics"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "Microsoft, SAP SE, and IBM have continued to maintain operations in Russia. In response, groups of workers at these companies have called for them to do more than just end new sales and to instead withdraw completely. Workers also discussed and criticized the companies\u2019 stances in internal discussion forums, with some Microsoft workers even threatening to quit if the company doesn\u2019t exit. Other workers worry about the withdrawal\u2019s potential effect on civilians.",
+        "online": true,
+        "locations": [
+            "usa",
+            "ukraine",
+            "germany"
+        ],
+        "companies": [
+            "microsoft",
+            "ibm",
+            "sap se"
+        ],
+        "workers": 18,
+        "tags": [
+            "politics",
+            "online action"
+        ],
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": [
+            [
+                37.3974949,
+                -122.0842646
+            ],
+            [
+                41.32038665,
+                -73.67869784162318
+            ],
+            [
+                50.4390554,
+                30.4987257
+            ],
+            [
+                52.5167758,
+                13.3904886
+            ],
+            [
+                48.13614845,
+                11.66865734637517
+            ],
+            [
+                49.29395475,
+                8.640571372526976
+            ]
+        ],
+        "addresses": [
+            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, California, 94043, United States",
+            "IBM, Lake Purdy, Town of Somers, Westchester County, New York, United States",
+            "Microsoft, \u0416\u0438\u043b\u044f\u043d\u0441\u044c\u043a\u0430 \u0432\u0443\u043b\u0438\u0446\u044f, \u041f\u0430\u043d\u044c\u043a\u0456\u0432\u0449\u0438\u043d\u0430, \u0413\u043e\u043b\u043e\u0441\u0456\u0457\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0438\u0457\u0432, 01032, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+            "Microsoft Berlin, 17, Unter den Linden, Mitte, Berlin, 10117, Deutschland",
+            "IBM, Stahlgruberring, Am Moosfeld, Trudering - Riem, Trudering-Riem, M\u00fcnchen, Bayern, 81829, Deutschland",
+            "SAP SE, 7, Hasso-Plattner-Ring, Walldorf, Rhein-Neckar-Kreis, Baden-W\u00fcrttemberg, 69190, Deutschland"
+        ]
+    },
+    {
+        "id": 548,
+        "date": "2022/03/30",
+        "sources": [
+            "https://www.theverge.com/2022/3/30/23001727/etsy-seller-strike-boycott-fee-increase"
+        ],
+        "actions": [
+            "strike",
+            "protest"
+        ],
+        "struggles": [
+            "pay and benefits",
+            "working conditions"
+        ],
+        "employment_types": [
+            "contract workers",
+            "gig workers"
+        ],
+        "description": "In response to Etsy CEO Josh Silverman announcing that transaction fees for sellers was increasing from 5% to 6.5%, along with prior stresses like rising fees, mandatory marketing programs, and mass-production sellers, thousands of Etsy sellers are planning to strike by going into vacation mode for a week. They also asked shoppers to boycott Etsy, with 36,000+ signatures on their coworker.org petition.\n\nTheir demands include canceling the fee increase, cracking down on resellers, and creating expedited support tickets.",
+        "online": true,
+        "locations": [
+            "usa"
+        ],
+        "companies": [
+            "etsy"
+        ],
+        "workers": 1000,
+        "tags": [
+            "coworker solidarity",
+            "online action"
+        ],
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": [
+            [
+                40.7005615,
+                -73.9881467
+            ]
+        ],
+        "addresses": [
+            "Etsy, Inc., 117, Adams Street, Brooklyn, Kings County, New York, 11201, United States"
+        ]
+    },
+    {
+        "id": 547,
+        "date": "2022/04/01",
+        "sources": [
+            "https://www.theverge.com/2022/4/1/23007115/activision-blizzard-workers-walkout-vaccine-mandate-a-better-abk",
+            "https://twitter.com/ABetterABK/status/1509999545459134469?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1509999547375886355%7Ctwgr%5E%7Ctwcon%5Es2_&ref_url=https%3A%2F%2Fwww.theverge.com%2F2022%2F4%2F1%2F23007115%2Factivision-blizzard-workers-walkout-vaccine-mandate-a-better-abk"
+        ],
+        "actions": [
+            "protest"
+        ],
+        "struggles": [
+            "ethics"
+        ],
+        "employment_types": [
+            "white collar workers",
+            "inhouse workers"
+        ],
+        "description": "In response to Activision Blizzard lifting its vaccine mandate, A Better ABK announced that employees will walk out in protest. Their demands are to reverse the lifting of the vaccine requirement, to allow remote work permanently, and to allow each individual employee to decide whether to work remotely or in person. \n\nAs of 4/1/22, Activision Blizzard is operating under a voluntary return to office policy, and each studio will have its own policies regarding the vaccine mandate.",
+        "online": true,
+        "locations": [
+            "usa"
+        ],
+        "companies": [
+            "activision blizzard"
+        ],
+        "workers": null,
+        "tags": [
+            "coronavirus"
+        ],
+        "author": null,
+        "latlngs": null,
+        "addresses": null
+    },
+    {
+        "id": 546,
+        "date": "2022/04/01",
+        "sources": [
+            "https://www.nytimes.com/2022/04/01/technology/amazon-union-staten-island.html",
+            "https://abcnews.go.com/Politics/wireStory/amazon-plans-object-union-win-york-83947220"
+        ],
+        "actions": [
+            "union representation"
+        ],
+        "struggles": [
+            "pay and benefits",
+            "working conditions",
+            "job security"
+        ],
+        "employment_types": [
+            "inhouse workers",
+            "blue collar workers"
+        ],
+        "description": "Despite heavy anti-union tactics, including texts and mandated anti-union meetings, Amazon workers at Staten Island voted to unionize 2,654 to 2,131 under the Amazon Labor Union. This marks the first union ever at the company. \n\nHigh attrition and firings, poor workplace safety considering the pandemic, and a \"culture of fear\" from constant monitoring have increased interest in unionization. ALU being a union composed of current employees instead of being an outside group was also effective in foiling Amazon\u2019s anti-union messages.\n\nAmazon plans to file an objection to the NLRB.",
+        "online": null,
+        "locations": [
+            "staten island-new york city-new york-usa"
+        ],
+        "companies": [
+            "amazon"
+        ],
+        "workers": 2375,
+        "tags": [
+            "coronavirus",
+            "surveillance"
+        ],
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": [
+            [
+                40.6193387,
+                -74.0727749
+            ]
+        ],
+        "addresses": [
+            "Amazon Court, Clifton, Staten Island, Richmond County, New York, 10304, United States"
+        ]
+    },
+    {
+        "id": 550,
+        "date": "2022/04/18",
+        "sources": [
+            "https://www.reuters.com/technology/amazon-workers-small-new-jersey-facility-file-union-election-2022-04-18/"
+        ],
+        "actions": [
+            "union drive"
+        ],
+        "struggles": [
+            "pay and benefits",
+            "working conditions",
+            "job security"
+        ],
+        "employment_types": [
+            "inhouse workers",
+            "blue collar workers"
+        ],
+        "description": "Amazon workers at a New Jersey facility have submitted enough cards to hold a vote on unionizing. They seek to be affiliated with Local 713 International Brotherhood of the Trade Union.",
+        "online": null,
+        "locations": [
+            "bayonne-new jersey-usa"
+        ],
+        "companies": [
+            "amazon"
+        ],
+        "workers": 60,
+        "tags": null,
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": [
+            [
+                40.65221335,
+                -74.13982828961909
+            ]
+        ],
+        "addresses": [
+            "Amazon Distribution Center, Bayview Court, Bergen Point, Bayonne, Hudson County, New Jersey, 07002, United States"
+        ]
+    },
+    {
+        "id": 551,
+        "date": "2022/04/20",
+        "sources": [
+            "https://www.cnet.com/tech/mobile/apple-store-employees-are-organizing-in-atlanta-and-new-york-raising-union-pressure-in-tech/"
+        ],
+        "actions": [
+            "union drive"
+        ],
+        "struggles": [
+            "pay and benefits",
+            "working conditions"
+        ],
+        "employment_types": [
+            "inhouse workers"
+        ],
+        "description": "Separate from the unionizing employees in New York, retail workers at an Atlanta Apple Store have filed with the NLRB for a union election, with wages being the main reason for unionization. The organizers say that they don\u2019t make a living wage. Over 70% of the 100 eligible workers have signed union authorization cards, and they would be represented by the CWA.",
+        "online": null,
+        "locations": [
+            "atlanta-georgia-usa"
+        ],
+        "companies": [
+            "apple"
+        ],
+        "workers": 70,
+        "tags": [
+            "cwa"
+        ],
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": [
+            [
+                33.8479232,
+                -84.3634799
+            ]
+        ],
+        "addresses": [
+            "Apple Store, 3393, Peachtree Road Northeast, Atlanta, Fulton County, Georgia, 30326, United States"
+        ]
+    },
+    {
+        "id": 552,
+        "date": "2022/04/29",
+        "sources": [
+            "https://minnesota.cbslocal.com/2022/05/02/dozens-of-amazon-workers-protest-outside-shakopee-warehouse-demand-time-off-for-muslim-holiday/"
+        ],
+        "actions": [
+            "protest",
+            "strike"
+        ],
+        "struggles": [
+            "pay and benefits",
+            "working conditions"
+        ],
+        "employment_types": [
+            "inhouse workers",
+            "blue collar workers"
+        ],
+        "description": "About 100 Amazon warehouse workers at Shakopee, Minnesota staged a walkout. They protested the low wages and lack of time off for Eid. Their demands include to bring back a $3/hour pay raise and unlimited volunteer time off for religious events. Members of The Awood Center joined them in solidarity.",
+        "online": null,
+        "locations": [
+            "shakopee-minnesota-usa"
+        ],
+        "companies": [
+            "amazon"
+        ],
+        "workers": 100,
+        "tags": null,
+        "author": [
+            "wynniechan"
+        ],
+        "latlngs": [
+            [
+                44.80059945,
+                -93.48865500885567
+            ]
+        ],
+        "addresses": [
+            "Amazon Fullfillment Center MSP1, 2601, 4th Avenue East, Shakopee, Scott County, Minnesota, 55379, United States"
         ]
     }
 ]

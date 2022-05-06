@@ -1,31 +1,32 @@
 {
-    "id": 331,
-    "date": "2020/09/23",
+    "id": 329,
+    "date": "2020/09/16",
     "sources": [
-        "https://www.forbes.com/sites/rachelsandler/2020/09/24/hootsuite-drops-ice-contract-after-employee-backlash/#714f8e261c50",
-        "https://www.vice.com/en/article/jgx75b/hootsuite-denied-providing-tech-to-ice-this-contract-shows-that-it-did"
+        "https://www.deccanchronicle.com/amp/nation/current-affairs/160920/swiggy-workers-go-on-strike-in-hyderabad-demand-revised-charges.html",
+        "https://www.newsclick.in/swiggy-employees-strike"
     ],
     "actions": [
-        "protest"
+        "strike"
     ],
     "struggles": [
-        "ethics"
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "Employees at Hootsuite succeeded in getting the company, a B-corporation, to drop its contract with U.S. ICE after protesting via social media and voicing their opposition internally to the company. A Tweet from a senior training specialist at Hootsuite, Sam Anderson, generated significant backlash within the industry, including from many social media managers at client companies.  ",
-    "online": true,
+    "description": "Workers for delivery company Swiggy went on strike in a number of Indian cities including Hyderabad, Chennai, and Delhi to call for greater pay. They rallied outside of restaurants and prevented third-party companies from picking up orders.",
+    "online": null,
     "locations": [
-        "usa"
+        "hyderabad-india",
+        "chennai-india",
+        "delhi-india"
     ],
     "companies": [
-        "hootsuite"
+        "swiggy"
     ],
-    "workers": 100,
+    "workers": 3000,
     "tags": [
-        "ice"
+        "delivery_workers"
     ],
     "author": [
         "nataliyaned"

@@ -1,36 +1,33 @@
 {
-    "id": 527,
-    "date": "2022/02/03",
+    "id": 526,
+    "date": "2022/01/21",
     "sources": [
-        "https://technical.ly/2022/02/03/nava-pbc-tech-union/",
-        "https://twitter.com/Nava_United/status/1489328874575912960?t=XCIQHf6V9CimZJiYw_rUoQ&s=19"
+        "https://ohionewstime.com/workers-in-a-studio-owned-by-activision-blizzard-say-they-formed-a-coalition/321196/"
     ],
     "actions": [
-        "union representation",
-        "union drive",
-        "open letter"
+        "union drive"
     ],
     "struggles": [
-        "pay and benefits",
-        "job security",
+        "working conditions",
         "ethics"
     ],
     "employment_types": [
         "white collar workers",
-        "contract workers",
         "inhouse workers"
     ],
-    "description": "After two years of organizing, Nava PBC workers formed Nava United in partnership with OPEIU. Besides adding stability and benefits, union organizers hope that this effort will \u201cincrease pay transparency, equity, employee retention and attract new talent.\u201d They are currently seeking voluntary recognition. ",
+    "description": "Thirty-four members of Activision Blizzard Studios have formed a union supported by the CWA. The members have requested for Activision Blizzard to voluntarily recognize it. Activision Blizzard responded that they are \u201ccarefully considering\u201d it. Unionization efforts have started in response to poor workplace conditions and issues of sexual harassment.",
     "online": null,
     "locations": [
-        "washington_dc-usa"
+        "san francisco-california-usa"
     ],
     "companies": [
-        "nava pbc"
+        "activision blizzard"
     ],
-    "workers": 171,
+    "workers": 34,
     "tags": [
-        "opeiu"
+        "cwa",
+        "coworker solidarity",
+        "sexual_harassment"
     ],
     "author": [
         "wynniechan"

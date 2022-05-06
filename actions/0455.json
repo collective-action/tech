@@ -1,49 +1,47 @@
 {
-    "id": 484,
-    "date": "2021/10/25",
+    "id": 485,
+    "date": "2021/10/18",
     "sources": [
-        "https://www.nbcnews.com/news/us-news/amazon-workers-staten-island-file-union-election-rcna3745",
-        "https://twitter.com/CDAW_National/status/1449913538919677954?t=1FloYuZc25cyobcFMYe7tw&s=19",
-        "https://amazonlaborunion.org/",
-        "https://www.vice.com/en/article/akvwkp/amazon-warehouse-workers-in-new-york-city-to-file-for-union-election"
+        "https://www.theverge.com/2021/10/18/22733098/netflix-trans-employees-demands-dave-chappelle-walkout",
+        "https://www.theverge.com/2021/10/15/22728337/netflix-fires-organizer-trans-employee-walkout-dave-chappelle"
     ],
     "actions": [
-        "union drive"
+        "open letter",
+        "protest"
     ],
     "struggles": [
-        "working conditions",
-        "pay and benefits",
-        "job security"
+        "discrimination",
+        "ethics"
     ],
     "employment_types": [
-        "inhouse workers",
-        "blue collar workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "More than 2,000 Amazon workers in Staten Island filed the petition to the NLRB to hold a union election. This effort, led by Chris Smalls and is called the Amazon labor Union. Smalls, a former employee, was fired after organizing a protest for lack of COVID protective gear and poor hazard pay. As an independent union, they hope to avoid Amazon\u2019s anti-union messaging targeted towards established unions. The Amazon Labor Union has begun a union drive. Its goals are to bring back variable compensation pay and stock options that Amazon removed in 2018. In response, Amazon questioned if there was a sufficient number of legitimate signatures from Amazon employees.  Amazon has also taken anti-union tactics, such as displaying anti-union messages in their facilities and bringing in anti-union consultants.",
-    "online": null,
+    "description": "In response to Dave Chappelle's controversial Netflix special,  Netflix trans employee resource group has released a list of demands and organized a walkout for October 20th. The demands are increased internal conversations about potentially harmful content, the hiring of trans and nonbinary executives, and removing transphobic content in the office; it notably does not include removing Chappelle\u2019s special from Netflix. Also, a leader of the trans-ERG was fired from Netflix because the company concluded that she leaked confidential information. ",
+    "online": true,
     "locations": [
-        "staten island-new york city-new york-usa"
+        "usa"
     ],
     "companies": [
-        "amazon"
+        "netflix"
     ],
-    "workers": 2001,
+    "workers": null,
     "tags": [
-        "coronavirus",
-        "retaliation",
-        "industry solidarity",
-        "coworker solidarity"
+        "lgbtq",
+        "coworker solidarity",
+        "online action",
+        "retaliation"
     ],
     "author": [
         "wynniechan"
     ],
     "latlngs": [
         [
-            40.6193387,
-            -74.0727749
+            40.76376354999999,
+            -73.97430267133896
         ]
     ],
     "addresses": [
-        "Amazon Court, Clifton, Staten Island, Richmond County, New York, 10304, United States"
+        "Paris Theatre, 4, West 58th Street, Midtown, Manhattan Community Board 5, New York County, New York, 10019, United States"
     ]
 }

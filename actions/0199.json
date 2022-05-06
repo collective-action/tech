@@ -1,44 +1,45 @@
 {
-    "id": 449,
-    "date": "2019/09/19",
+    "id": 182,
+    "date": "2019/09/16",
     "sources": [
-        "https://www.geekwire.com/2019/tech-company-chef-wont-renew-u-s-immigration-contracts-changing-course-amid-employee-activism/",
-        "https://seattleglobalist.com/2019/10/09/seattle-tech-firm-announces-end-of-ice-contracts/88379",
-        "https://github.com/sethvargo/chef-sugar"
+        "https://www.msn.com/en-us/news/us/at-uc-berkeley-brown-and-yale-students-are-fighting-to-keep-palantir-off-campus-over-its-ice-contracts/ar-aahtquj",
+        "https://notechforice.com/20190916-2/",
+        "https://action.mijente.net/efforts/students-pledge-notechforice/lookup/new"
     ],
     "actions": [
-        "protest"
+        "open letter"
     ],
     "struggles": [
         "ethics"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "na"
     ],
-    "description": "A former employee of Chef, a Seattle-based tech firm,\nprotested the company's involvement with ICE by deleting open source projects used by Chef customers. The CEO of Chef initially defended the decision to work with ICE but within a week, reversed course and canceled their contract following internal protests and advocacy by Chef employees.  ",
-    "online": true,
+    "description": "Over 2000 students from at least two dozen universities have signed a petition calling for universities to cut their ties with Palantir and vowing not to work for the company due to their connections with ICE. The petition was organized by Mijente and has concided with multiple protests on college campuses in recent weeks, coinciding with recruiting season. ",
+    "online": null,
     "locations": [
-        "seattle-washington-usa"
+        "usa"
     ],
     "companies": [
-        "chef"
+        "palantir"
     ],
-    "workers": 2,
+    "workers": 2000,
     "tags": [
+        "students",
+        "immigration",
         "ice",
-        "immigration"
+        "mijente"
     ],
     "author": [
-        "william boag"
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            47.6023356,
-            -122.3358275
+            37.4440869,
+            -122.16287540411753
         ]
     ],
     "addresses": [
-        "Chef Software, Inc., 619, Western Avenue, West Edge, International District/Chinatown, Seattle, King County, Washington, 98104, United States"
+        "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States"
     ]
 }

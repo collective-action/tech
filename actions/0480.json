@@ -1,46 +1,43 @@
 {
-    "id": 528,
-    "date": "2022/01/07",
+    "id": 518,
+    "date": "2022/01/04",
     "sources": [
-        "https://www.cnbc.com/2022/02/04/google-fiber-workers-in-kansas-city-face-union-busting-effort-by-bds.html",
-        "https://www.kshb.com/news/local-news/google-fiber-retail-staff-in-kansas-city-begin-unionizing-efforts"
+        "https://www.bloomberg.com/news/articles/2022-01-04/google-fiber-staff-seek-union-vote-contract-talks-with-alphabet"
     ],
     "actions": [
-        "union drive"
+        "union representation"
     ],
     "struggles": [
-        "pay and benefits",
         "working conditions"
     ],
     "employment_types": [
-        "contract workers"
+        "contract workers",
+        "blue collar workers"
     ],
-    "description": "BDS Connected Solutions workers contracted with Google Fiber petitioned the NLRB for formal union recognition. In partnership with the Alphabet Workers Union, the unionization effort was driven by concern over work conditions, pay structure changes, understaffing, and COVID safety issues. Before the vote to determine the eligibility of union votes, workers received a letter from BDS that discouraged them from unionizing by bringing up points like \u201ceveryone will be stuck with the union and forced to pay dues\u201d and that \u201cMissouri is not a right-to-work state.\u201d\n\nAWU has released a statement of solidarity towards the Kansas City workers. A Google spokesperson has responded that BDS will handle this, and Google works with both unionized and non-unionized suppliers. ",
+    "description": "Subcontracted Google Fiber workers of AWU have filed a request to the NLRB for unionization, and it seeks to negotiate with both their vendor and Alphabet. They contend that Alphabet is a \u201cjoint employer.\u201d They want to have a greater voice in shaping their working conditions.",
     "online": null,
     "locations": [
         "kansas city-missouri-usa"
     ],
     "companies": [
-        "google",
-        "bds solutions group",
-        "bds connected solutions"
+        "alphabet",
+        "bds solutions group"
     ],
-    "workers": 10,
+    "workers": null,
     "tags": [
-        "coronavirus",
         "technicians",
-        "industry solidarity"
+        "politics"
     ],
     "author": [
         "wynniechan"
     ],
     "latlngs": [
         [
-            39.2507006,
-            -94.661471
+            39.0678907,
+            -94.56529439152422
         ]
     ],
     "addresses": [
-        "Google Fiber Space, 8615, Northwest Prairie View Road, Kansas City, Platte County, Missouri, 64153, United States"
+        "Alphabet Academy Child Care, 3200, Wayne Avenue, Ivanhoe, Kansas City, Jackson County, Missouri, 64109, United States"
     ]
 }

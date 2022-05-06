@@ -1,42 +1,39 @@
 {
-    "id": 427,
-    "date": "2021/04/07",
+    "id": 424,
+    "date": "2021/04/03",
     "sources": [
-        "https://www.newsweek.com/amazon-driver-leaves-packages-upside-down-start-no-more-smiles-protest-1581599",
-        "https://twitter.com/DaveLeeFT/status/1379631120501772289?s=19"
+        "https://www.rfa.org/english/news/china/riders-03042021131132.html",
+        "https://chinadigitaltimes.net/2021/03/translation-detention-of-takeout-driver-advocate-highlights-digital-era-labor-abuses/"
     ],
     "actions": [
-        "protest"
+        "protest",
+        "strike"
     ],
     "struggles": [
+        "ethics",
+        "pay and benefits",
         "working conditions"
     ],
     "employment_types": [
-        "blue collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "Amazon drivers have begun leaving the company's trademark packages upside-down which displays the company's logo as a frown. The trend began when an Amazon delivery driver, who goes by AugustaSummerz, posted photos online of displaying packages upside-down to protest working conditions. ",
-    "online": null,
+    "description": "Food delivery drivers for the platform Ele.me are going on strike for better pay, working conditions, and to protest Xiong Yan's detainment. Xiong Yan is the head of an unofficial union for the platform who was detained in Beijing last month. Delivery workers who are on strike and part of the sabotage campaign are refusing to accept work or, in cases when they do, purposefully taking a long time to complete orders to trigger \"time outs\". ",
+    "online": true,
     "locations": [
-        "usa"
+        "shenzhen-china",
+        "beijing-china"
     ],
     "companies": [
-        "amazon"
+        "ele.me"
     ],
-    "workers": null,
+    "workers": 10000,
     "tags": [
+        "coworker solidarity",
         "delivery_workers"
     ],
     "author": [
         "hyatt d."
     ],
-    "latlngs": [
-        [
-            46.320207,
-            -112.1072224
-        ]
-    ],
-    "addresses": [
-        "Amazon, Jefferson County, Montana, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

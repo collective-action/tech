@@ -1,0 +1,44 @@
+{
+    "id": 548,
+    "date": "2022/03/30",
+    "sources": [
+        "https://www.theverge.com/2022/3/30/23001727/etsy-seller-strike-boycott-fee-increase"
+    ],
+    "actions": [
+        "strike",
+        "protest"
+    ],
+    "struggles": [
+        "pay and benefits",
+        "working conditions"
+    ],
+    "employment_types": [
+        "contract workers",
+        "gig workers"
+    ],
+    "description": "In response to Etsy CEO Josh Silverman announcing that transaction fees for sellers was increasing from 5% to 6.5%, along with prior stresses like rising fees, mandatory marketing programs, and mass-production sellers, thousands of Etsy sellers are planning to strike by going into vacation mode for a week. They also asked shoppers to boycott Etsy, with 36,000+ signatures on their coworker.org petition.\n\nTheir demands include canceling the fee increase, cracking down on resellers, and creating expedited support tickets.",
+    "online": true,
+    "locations": [
+        "usa"
+    ],
+    "companies": [
+        "etsy"
+    ],
+    "workers": 1000,
+    "tags": [
+        "coworker solidarity",
+        "online action"
+    ],
+    "author": [
+        "wynniechan"
+    ],
+    "latlngs": [
+        [
+            40.7005615,
+            -73.9881467
+        ]
+    ],
+    "addresses": [
+        "Etsy, Inc., 117, Adams Street, Brooklyn, Kings County, New York, 11201, United States"
+    ]
+}

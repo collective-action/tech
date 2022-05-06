@@ -1,0 +1,71 @@
+{
+    "id": 545,
+    "date": "2022/03/30",
+    "sources": [
+        "https://www.reuters.com/technology/tech-workers-urge-companies-join-ukraines-digital-blockade-russia-2022-03-30/"
+    ],
+    "actions": [
+        "protest"
+    ],
+    "struggles": [
+        "ethics"
+    ],
+    "employment_types": [
+        "white collar workers",
+        "inhouse workers"
+    ],
+    "description": "Microsoft, SAP SE, and IBM have continued to maintain operations in Russia. In response, groups of workers at these companies have called for them to do more than just end new sales and to instead withdraw completely. Workers also discussed and criticized the companies\u2019 stances in internal discussion forums, with some Microsoft workers even threatening to quit if the company doesn\u2019t exit. Other workers worry about the withdrawal\u2019s potential effect on civilians.",
+    "online": true,
+    "locations": [
+        "usa",
+        "ukraine",
+        "germany"
+    ],
+    "companies": [
+        "microsoft",
+        "ibm",
+        "sap se"
+    ],
+    "workers": 18,
+    "tags": [
+        "politics",
+        "online action"
+    ],
+    "author": [
+        "wynniechan"
+    ],
+    "latlngs": [
+        [
+            37.3974949,
+            -122.0842646
+        ],
+        [
+            41.32038665,
+            -73.67869784162318
+        ],
+        [
+            50.4390554,
+            30.4987257
+        ],
+        [
+            52.5167758,
+            13.3904886
+        ],
+        [
+            48.13614845,
+            11.66865734637517
+        ],
+        [
+            49.29395475,
+            8.640571372526976
+        ]
+    ],
+    "addresses": [
+        "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, California, 94043, United States",
+        "IBM, Lake Purdy, Town of Somers, Westchester County, New York, United States",
+        "Microsoft, \u0416\u0438\u043b\u044f\u043d\u0441\u044c\u043a\u0430 \u0432\u0443\u043b\u0438\u0446\u044f, \u041f\u0430\u043d\u044c\u043a\u0456\u0432\u0449\u0438\u043d\u0430, \u0413\u043e\u043b\u043e\u0441\u0456\u0457\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0438\u0457\u0432, 01032, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+        "Microsoft Berlin, 17, Unter den Linden, Mitte, Berlin, 10117, Deutschland",
+        "IBM, Stahlgruberring, Am Moosfeld, Trudering - Riem, Trudering-Riem, M\u00fcnchen, Bayern, 81829, Deutschland",
+        "SAP SE, 7, Hasso-Plattner-Ring, Walldorf, Rhein-Neckar-Kreis, Baden-W\u00fcrttemberg, 69190, Deutschland"
+    ]
+}

@@ -1,42 +1,35 @@
 {
-    "id": 336,
-    "date": "2020/10/04",
+    "id": 331,
+    "date": "2020/09/23",
     "sources": [
-        "https://www.latimes.com/california/story/2020-10-04/amazon-jeff-bezos-protest-beverly-hills"
+        "https://www.forbes.com/sites/rachelsandler/2020/09/24/hootsuite-drops-ice-contract-after-employee-backlash/#714f8e261c50",
+        "https://www.vice.com/en/article/jgx75b/hootsuite-denied-providing-tech-to-ice-this-contract-shows-that-it-did"
     ],
     "actions": [
         "protest"
     ],
     "struggles": [
-        "working conditions",
-        "pay and benefits"
+        "ethics"
     ],
     "employment_types": [
-        "blue collar workers",
+        "white collar workers",
         "inhouse workers"
     ],
-    "description": "Amazon workers, organized by the Congress of Essential Workers, protested in front of Jeff Bezos' Beverley Hills mansion, calling for improved working conditions under covid, hazard pay, and better health benefits. ",
-    "online": null,
+    "description": "Employees at Hootsuite succeeded in getting the company, a B-corporation, to drop its contract with U.S. ICE after protesting via social media and voicing their opposition internally to the company. A Tweet from a senior training specialist at Hootsuite, Sam Anderson, generated significant backlash within the industry, including from many social media managers at client companies.  ",
+    "online": true,
     "locations": [
-        "los angeles-california-usa"
+        "usa"
     ],
     "companies": [
-        "amazon"
+        "hootsuite"
     ],
     "workers": 100,
     "tags": [
-        "coronavirus"
+        "ice"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            34.593865449999996,
-            -118.14161832712509
-        ]
-    ],
-    "addresses": [
-        "Amazon, 600, Technology Drive, Palmdale, Los Angeles County, California, 93551-3713, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

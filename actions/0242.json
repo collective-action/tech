@@ -1,33 +1,41 @@
 {
-    "id": 226,
-    "date": "2020/02/03",
+    "id": 324,
+    "date": "2020/01/01",
     "sources": [
-        "https://www.vice.com/en_ca/article/qjdvgm/instacart-workers-win-historic-union-election"
+        "https://www.reuters.com/article/us-hongkong-protests-unions/hong-kong-workers-flock-to-labor-unions-as-new-protest-tactic-idUSKBN1Z9007",
+        "https://www.hkitwu.org/about-us/",
+        "https://www.hkitwu.org/2020/01/3630/"
     ],
     "actions": [
         "union representation"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "unfair labor practices"
     ],
     "employment_types": [
-        "blue collar workers",
-        "gig workers"
+        "white collar workers"
     ],
-    "description": "A group of Instacart employees in the Chicago suburb Skokie voted to unionize with the United Food and Commercial Workers Local 1546\u2014a historic win for the grocery delivery platform. The vote was 10-to-4 in favor of the union, according to workers. 'The overwhelming majority of the employees made history by becoming the first Instacart employees to win a certified union election in the United States,' UFCW Local 1546 wrote in a press statement.",
+    "description": "The Hong Kong Information Technology Workers\u2019 Union form out of the 2019 Hong Kong movement, and is developing a database of employers who do not threaten or dismiss employees for political protests. Reuters reports that unionizing in Hong Kong has grown since anti-extradition protests began last year. Organizers see unions as a means of protecting politically engaged workers from retaliation. ",
     "online": null,
     "locations": [
-        "chicago-illinois-usa"
+        "hong kong-china"
     ],
-    "companies": [
-        "instacart"
+    "companies": null,
+    "workers": 280,
+    "tags": [
+        "trade union",
+        "politics"
     ],
-    "workers": 10,
-    "tags": null,
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            22.2793278,
+            114.1628131
+        ]
+    ],
+    "addresses": [
+        "\u9999\u6e2f\u5cf6 Hong Kong Island, \u9999\u6e2f Hong Kong, \u4e2d\u56fd"
+    ]
 }

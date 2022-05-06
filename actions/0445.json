@@ -1,48 +1,58 @@
 {
-    "id": 481,
-    "date": "2021/09/30",
+    "id": 472,
+    "date": "2021/09/28",
     "sources": [
-        "https://www.theverge.com/2021/9/30/22702335/jeff-bezos-employees-essay-blue-origin-toxic-workplace",
-        "https://www.lioness.co/post/bezos-wants-to-create-a-better-future-in-space-his-company-blue-origin-is-stuck-in-a-toxic-past"
+        "https://www.mirror.co.uk/news/uk-news/uber-drivers-stage-24-hour-25087702",
+        "https://www.adcu.org.uk/uberstrike",
+        "https://twitter.com/Yaseenaslam381/status/1442827661546561538?s=19"
     ],
     "actions": [
-        "open letter"
+        "strike",
+        "protest"
     ],
     "struggles": [
-        "working conditions",
-        "ethics",
-        "discrimination"
+        "pay and benefits",
+        "unfair labor practices",
+        "job security"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers",
-        "contract workers"
+        "gig workers",
+        "inhouse workers"
     ],
-    "description": "21 current and former employees of Blue Origin published an essay that claimed that Blue Origin had multiple issues with sexism and safety. The CEO, Bob Smith was also accused of keeping track of \u201cagitators\u201d and discouraging dissent. Moreover, the letter brings up environmental issues; Blue Origin operates with no consideration of its environmental footprint or permits needed for waste. Smith has responded with a letter that says that the company would \u201creflect\u201d on ways of improvement and that it has no tolerance for discrimination or harassment. He also emphasized that the vehicle was properly certified for First Human Flight.",
+    "description": "The ADCU National Executive Committee organized a national 24-hour strike against Uber on September 28th with the hashtag campaign #UberStrike. On the 28th, Uber drivers didn\u2019t log on, and passengers were encouraged to stop using the service or book services. Employees protested about being unfairly dismissed as well as the company failing to pay for waiting time, despite a UK Supreme Court ruling. It is also a protest against the newly introduced fixed price fares. The strike occurred in London, Bristol, Birmingham, Sheffield, Manchester, Leeds, Glasgow, and Nottingham. ",
     "online": true,
     "locations": [
-        "usa"
+        "london-uk",
+        "birmingham-uk",
+        "sheffield-uk",
+        "nottingham-uk",
+        "bristol-uk",
+        "manchester-uk",
+        "leeds-uk",
+        "glasgow-uk"
     ],
     "companies": [
-        "Blue Origin"
+        "uber"
     ],
-    "workers": 21,
+    "workers": 25,
     "tags": [
-        "retaliation",
-        "climate change",
-        "sexism",
-        "sexual_harassment"
+        "drivers"
     ],
     "author": [
         "wynniechan"
     ],
     "latlngs": [
         [
-            47.407176750000005,
-            -122.24016302698797
+            51.5148804,
+            -0.0718856
+        ],
+        [
+            52.4746766,
+            -1.91586332385543
         ]
     ],
     "addresses": [
-        "Blue Origin, Kent, King County, Washington, United States"
+        "Uber, 2, Leman Street, East Smithfield, Whitechapel, London, City of London, Greater London, England, E1 8FA, United Kingdom",
+        "UBER, 100, Broad Street, Ladywood, Birmingham, Park Central, West Midlands, England, B15 1AE, United Kingdom"
     ]
 }

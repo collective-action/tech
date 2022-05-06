@@ -1,44 +1,61 @@
 {
-    "id": 247,
-    "date": "2020/03/22",
+    "id": 244,
+    "date": "2020/03/19",
     "sources": [
-        "https://www.cnbc.com/2020/03/23/amazon-gives-part-time-warehouse-workers-paid-leave-amid-coronavirus.html",
-        "https://medium.com/@dch1united/amazonians-united-wins-pto-for-all-amazon-workers-f17e6ffbb192"
+        "https://www.cnet.com/news/uber-lyft-drivers-demand-companies-do-more-to-protect-them-from-coronavirus/",
+        "https://www.sacbee.com/news/politics-government/capitol-alert/article241304131.html",
+        "https://www.forbes.com/sites/janetwburns/2020/03/19/drivers-protest-outside-uber-hq-for-covid-19-sick-leave-and-pay-under-california-law-ab5/#1d4e6af48f7a"
     ],
     "actions": [
-        "open letter",
-        "strike"
+        "open letter"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "working conditions",
+        "unfair labor practices"
     ],
     "employment_types": [
-        "blue collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "Amazonians United, a group of Amazon employee advocates around the US, won paid time off for part-time logistics workers in the midst the coronavirus pandemic. Amazon has also said it will raise pay for warehouse workers and delivery drivers by $2 per hour through April. For several weeks, the Amazonians United group has been calling for improved working conditions and paid time off using petitions and walkouts, including actions by groups in the Sacramento, Chicago, and New York areas.",
+    "description": "As the novel coronavirus spreads around the world, Uber and Lyft drivers in California are asking both companies to do more to protect them. A coalition of drivers released a list of demands, signed by thousands, asking the ride-hailing services to take immediate steps to help ensure their safety. The demands include providing free COVID-19 screenings to all drivers, along with 14 days paid leave for all affected drivers. The drivers are organized with advocacy group Mobile Workers Alliance.",
     "online": null,
     "locations": [
-        "staten island-new york city-new york-usa"
+        "san francisco-california-usa",
+        "los angeles-california-usa",
+        "san diego-california-usa"
     ],
     "companies": [
-        "amazon"
+        "lyft",
+        "uber"
     ],
-    "workers": 251,
+    "workers": 2000,
     "tags": [
         "coronavirus"
     ],
     "author": [
-        "nataliyaned"
+        "organizejs"
     ],
     "latlngs": [
         [
-            40.6193387,
-            -74.0727749
+            37.7759881,
+            -122.3919991
+        ],
+        [
+            37.7899898,
+            -122.3999799
+        ],
+        [
+            32.7717259,
+            -117.0725274
+        ],
+        [
+            32.7717259,
+            -117.0725274
         ]
     ],
     "addresses": [
-        "Amazon Court, Clifton, Staten Island, Richmond County, New York, 10304, United States"
+        "Lyft, 185, Berry Street, South Beach, San Francisco, California, 94107, United States",
+        "Uber, Market Street, Financial District, San Francisco, California, 94105, United States",
+        "UBER / Lyft Driver Drop Off, Campanile Mall, Montezuma Mesa, San Diego, San Diego County, California, 92182, United States",
+        "UBER / Lyft Driver Drop Off, Campanile Mall, Montezuma Mesa, San Diego, San Diego County, California, 92182, United States"
     ]
 }

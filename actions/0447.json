@@ -1,33 +1,33 @@
 {
-    "id": 483,
-    "date": "2021/10/06",
+    "id": 474,
+    "date": "2021/09/30",
     "sources": [
-        "https://patch.com/new-jersey/newarknj/protesters-bash-amazon-s-plan-bring-mega-hub-newark-airport",
-        "https://twitter.com/LaurenKGurley/status/1445403513660522496?s=20"
+        "https://www.vice.com/en/article/v7e9gb/instacart-shoppers-will-stage-nationwide-strike",
+        "https://gigworkerscollective.medium.com/open-letter-to-fidgi-simo-instacarts-ceo-e72c0de55e22"
     ],
     "actions": [
-        "protest"
+        "strike",
+        "open letter"
     ],
     "struggles": [
-        "pay and benefits",
         "working conditions",
-        "ethics"
+        "pay and benefits",
+        "unfair labor practices"
     ],
     "employment_types": [
-        "inhouse workers",
-        "blue collar workers"
+        "gig workers"
     ],
-    "description": "Amazon had plans to build a new Amazon \u201cmega-hub\u201d at Newark Liberty International Airport, drawing resistance from Amazon warehouse workers, some of which were Teamster members. Environmental advocates, labor groups, and small business owners also participated. They held a press conference on October 6 to protest. Protestors wanted to be part of the decision-making process, and they were worried about pollution and negative impacts on the local economy. Others worry about the working conditions of the new jobs, considering Amazon\u2019s history and how the mega-hub could depress local wages. Officials have said the deal would bring more revenue into the area while also providing opportunities for minority- and women-owned businesses. ",
+    "description": "Instacart shoppers under Gig Workers Collective have planned a nationwide work stoppage on October 16 until Instacart agrees to their demands for higher pay, occupational death benefits, and a more fair rating system. An Instacart spokesperson has responded that these experiences do not reflect the majority and are receptive to feedback. However, the workers claimed only receiving generic responses, and\ntheir open letter addressed to CEO Fidji Simo was ignored. ",
     "online": null,
     "locations": [
-        "newark-new jersey-usa"
+        "usa"
     ],
     "companies": [
-        "amazon"
+        "instacart"
     ],
-    "workers": 11,
+    "workers": null,
     "tags": [
-        "teamster"
+        "delivery_workers"
     ],
     "author": [
         "wynniechan"

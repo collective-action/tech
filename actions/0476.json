@@ -1,42 +1,41 @@
 {
-    "id": 508,
-    "date": "2021/12/23",
+    "id": 509,
+    "date": "2021/12/22",
     "sources": [
-        "https://deadline.com/2021/12/apple-employees-christmas-eve-boycott-1234901677/",
-        "https://uk.news.yahoo.com/apple-workers-walk-christmas-eve-195521760.html?guccounter=1&guce_referrer=aHR0cHM6Ly9kZWFkbGluZS5jb20v&guce_referrer_sig=AQAAALWVW9ivmXOG7qloLztp29VH4yT1Kd3tmDTuAEvYu_7W556oAVr0LDkumNrdkuaVmpezEkLAHZBeFOGyx7z2gfWiXiJ_AEyciWjsFVZxbjeutU5KvtfAT3lxRFu6zF6WR40fYR6iHqI6LS8ESCANFc5PZit7j_Oe3MXE_bbf758R"
+        "https://www.theverge.com/2021/12/22/22850880/amazon-workers-staten-island-refile-union-petition",
+        "https://www.cnbc.com/2021/12/22/amazon-warehouse-workers-on-staten-island-refile-union-petition.html"
     ],
     "actions": [
         "protest",
         "strike"
     ],
     "struggles": [
-        "working conditions",
-        "pay and benefits"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "blue collar workers"
     ],
-    "description": "Apple Together, a group of Apple employees in retail and corporate, staged a walkout and are encouraging customers to boycott Apple products on Christmas Eve. They are demanding better working conditions, including paid sick leave and COVID-related protection, and hazard pay.",
-    "online": true,
+    "description": "Staten Island Amazon workers staged a lunchtime walkout to urge Amazon to recognize their union. Their demands include better wages, safer working conditions, longer breaks, and better benefits.",
+    "online": null,
     "locations": [
-        "usa"
+        "staten island-new york city-new york-usa"
     ],
     "companies": [
-        "apple"
+        "amazon"
     ],
-    "workers": 51,
+    "workers": null,
     "tags": null,
     "author": [
         "wynniechan"
     ],
     "latlngs": [
         [
-            37.3326452,
-            -122.0299129658936
+            40.6193387,
+            -74.0727749
         ]
     ],
     "addresses": [
-        "Apple Campus, Cupertino, Santa Clara County, California, United States"
+        "Amazon Court, Clifton, Staten Island, Richmond County, New York, 10304, United States"
     ]
 }

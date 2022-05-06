@@ -1,22 +1,23 @@
 {
-    "id": 534,
-    "date": "2021/04/28",
+    "id": 511,
+    "date": "2021/04/26",
     "sources": [
-        "https://current.org/2021/04/npr-plans-to-recognize-digital-staffers-union/",
+        "https://current.org/2021/04/npr-plans-to-recognize-digital-staffers-union/?wallit_nosession=1",
         "https://www.digitalmediaunited.org/"
     ],
     "actions": [
         "union representation"
     ],
     "struggles": [
+        "ethics",
         "pay and benefits",
-        "working conditions",
-        "job security"
+        "working conditions"
     ],
     "employment_types": [
+        "inhouse workers",
         "white collar workers"
     ],
-    "description": "NPR has voluntarily recognized requests for unionization by its network digital operation employees. The union is known as Digital Media United and is in partnership with the CWA. The bargaining unit includes 63 workers. Unionization priorities include equal pay, increased staffing, restrictions on the use of temporary status, and hiring processes that ensure diverse applicants. ",
+    "description": "More than 90% of NPR tech workers, a group that includes workers in content operations, design, digital support, product management and software engineering, signed cards to unionize with the Communications Workers of America. NPR voluntarily recognized the union the same week.   ",
     "online": null,
     "locations": [
         "usa"
@@ -29,7 +30,7 @@
         "cwa"
     ],
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
     "latlngs": [
         [

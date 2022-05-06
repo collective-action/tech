@@ -1,49 +1,45 @@
 {
-    "id": 436,
-    "date": "2021/04/21",
+    "id": 417,
+    "date": "2021/04/09",
     "sources": [
-        "https://www.vice.com/en/article/epn437/nyc-gig-workers-are-organizing-against-rampant-e-bike-theft-and-assault"
+        "https://stopprotectingharassers.medium.com/alphabet-stop-protecting-harassers-d32a17aa5762",
+        "https://www.theverge.com/2021/4/9/22375913/alphabet-employees-open-letter-google-harassers"
     ],
     "actions": [
-        "protest"
+        "open letter"
     ],
     "struggles": [
-        "working conditions",
         "unfair labor practices",
-        "pay and benefits",
-        "job security"
+        "working conditions"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers",
+        "blue collar workers",
+        "inhouse workers",
+        "contract workers"
     ],
-    "description": "New York City delivery workers who ride e-bikes for food delivery apps protested against wage theft, lack of protections, and poor working conditions, including rampant theft of their e-bikes and violent assault while on the job. The protest was organized by Los Deliveristas Unidos, a grassroots campaign formed by immigrant Latinx delivery workers in New York City in 2020 during the pandemic.",
-    "online": null,
+    "description": "An open letter was sent to Sundar Pichai, CEO of Alphabet, asking him to take a stronger stance on addressing sexual harassment within the company. The letter points out that workers who have been harassed still must work directly or report to those that have harassed them. Moreover, the letter points out to a trend where the company protects harassers and not the victim. ",
+    "online": true,
     "locations": [
-        "new york city-new york-usa"
+        "usa"
     ],
     "companies": [
-        "uber",
-        "doordash",
-        "grubhub",
-        "postmates",
-        "chowbus",
-        "relay"
+        "alphabet"
     ],
-    "workers": 1000,
+    "workers": 2067,
     "tags": [
-        "delivery_workers",
-        "industry solidarity"
+        "sexual_harassment"
     ],
     "author": [
-        "CM"
+        "hyatt d."
     ],
     "latlngs": [
         [
-            40.65532605,
-            -73.79478942223645
+            37.3398646,
+            -121.8844823
         ]
     ],
     "addresses": [
-        "Uber Limo Livery Hold Lot, Cargo Plaza Road, Queens, Queens County, New York, 11430, United States"
+        "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112-3580, United States"
     ]
 }

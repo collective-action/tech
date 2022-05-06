@@ -1,41 +1,47 @@
 {
-    "id": 429,
-    "date": "2021/04/07",
+    "id": 413,
+    "date": "2021/04/01",
     "sources": [
-        "https://chicago.suntimes.com/business/2021/4/7/22372242/amazon-online-retailer-working-conditions-protest-walkout-gage-park-facility",
-        "https://twitter.com/AUchicagoland/status/1379788679649058823?s=20"
+        "https://www.bbc.com/news/technology-56659212",
+        "https://cwa-union.org/sites/default/files/20210331_nlrbsettlement_alphabet_modis.pdf",
+        "https://www2.staffingindustry.com/Editorial/Daily-News/Google-union-reports-NLRB-settlement-contingent-worker-s-suspension-rescinded-57218"
     ],
     "actions": [
-        "strike",
-        "protest"
+        "legal action"
     ],
     "struggles": [
-        "pay and benefits"
+        "unfair labor practices",
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
-        "blue collar workers",
-        "inhouse workers"
+        "contract workers",
+        "blue collar workers"
     ],
-    "description": "Amazon workers in Gage Park, Chicago walked out during their shift and protested outside the facility. Workers demanded a $2 wage increase, scheduling accommodations, and better working conditions, including hiring more full-time workers.",
+    "description": "In February, the Alphabet Worker's Union filed two lawsuits against Google for unfair labor practices on behalf of Shannon Wait, a contractor at Google and member of the union. The first lawsuit contested Wait's illegal suspension for supporting a union. The second lawsuit alleged that managers illegally asked Wait and other employees not to discuss their wages. Google, Modis (the contracting firm), and the AWU reached a settlement and had Wait's suspension overturned. Google signed a document that its employees had the right to discuss wage, bonuses, and working conditions. This is the first NLRB settlement with the AWU.",
     "online": null,
     "locations": [
-        "chicago-illinois-usa"
+        "south carolina-usa"
     ],
     "companies": [
-        "amazon"
+        "google",
+        "modis",
+        "adecco"
     ],
-    "workers": 40,
-    "tags": null,
+    "workers": null,
+    "tags": [
+        "cwa"
+    ],
     "author": [
         "hyatt d."
     ],
     "latlngs": [
         [
-            41.84040105,
-            -87.68351928672685
+            33.0639975,
+            -80.04244587737227
         ]
     ],
     "addresses": [
-        "Amazon Distribution, 2801, South Western Avenue, Lower West Side, Chicago, Cook County, Illinois, 60608, United States"
+        "Google Data Center, Berkeley County, South Carolina, United States"
     ]
 }

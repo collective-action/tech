@@ -1,37 +1,49 @@
 {
-    "id": 526,
-    "date": "2022/01/21",
+    "id": 522,
+    "date": "2022/01/06",
     "sources": [
-        "https://ohionewstime.com/workers-in-a-studio-owned-by-activision-blizzard-say-they-formed-a-coalition/321196/"
+        "https://www.theverge.com/2022/1/11/22878120/facebook-meta-whatsapp-moderators-accenture-missing-paycheck"
     ],
     "actions": [
-        "union drive"
+        "protest",
+        "open letter"
     ],
     "struggles": [
-        "working conditions",
-        "ethics"
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "contract workers"
     ],
-    "description": "Thirty-four members of Activision Blizzard Studios have formed a union supported by the CWA. The members have requested for Activision Blizzard to voluntarily recognize it. Activision Blizzard responded that they are \u201ccarefully considering\u201d it. Unionization efforts have started in response to poor workplace conditions and issues of sexual harassment.",
+    "description": "Facebook and Whatsapp moderators didn\u2019t receive paychecks after a change in payroll providers. In response, they posted an open letter and threatened a work stoppage until they receive their paychecks. There has been no indication of a work stoppage, according to Accenture. Some workers have received lump-sum payments that partially cover their pay. However, not everyone has received the payments.",
     "online": null,
     "locations": [
-        "san francisco-california-usa"
+        "austin-texas-usa"
     ],
     "companies": [
-        "activision blizzard"
+        "accenture",
+        "facebook",
+        "whatsapp"
     ],
-    "workers": 34,
+    "workers": null,
     "tags": [
-        "cwa",
         "coworker solidarity",
-        "sexual_harassment"
+        "moderators"
     ],
     "author": [
         "wynniechan"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            30.2658505,
+            -97.7434222
+        ],
+        [
+            30.2691649,
+            -97.7455041
+        ]
+    ],
+    "addresses": [
+        "Accenture, 323, Congress Avenue, Downtown, Austin, Travis County, Texas, 78701, United States",
+        "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
+    ]
 }

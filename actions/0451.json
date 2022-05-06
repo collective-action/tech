@@ -1,31 +1,32 @@
 {
-    "id": 477,
-    "date": "2021/10/18",
+    "id": 495,
+    "date": "2021/10/12",
     "sources": [
-        "https://www.total-croatia-news.com/business/57000-uber-drivers-strike-in-croatia",
-        "https://twitter.com/nicoemoe/status/1449978260289294340?t=WdHP4kHHe5sMs9VJUfPQEg&s=19"
+        "https://www.businessinsider.com/microsoft-employees-leaked-salaries-spreadsheet-2021-10"
     ],
     "actions": [
-        "strike"
+        "protest",
+        "resources"
     ],
     "struggles": [
         "pay and benefits",
-        "working conditions"
+        "discrimination"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Uber drivers, organized by the Croatian Digital Platform Workers\u2019 Union, held a strike and press conference in Croatia. They claimed that their salaries were not paid in time with no explanation. Despite Uber portraying drivers as partners, the workers feel like \u201cdigital slaves\u201d who cannot get in contact with Uber\u2019s authorities.",
-    "online": null,
-    "locations": [
-        "zagreb-croatia"
-    ],
+    "description": "In response to an internal email chain that brought up concerns over a gender wage gap, over 1200 Microsoft employees volunteered information about their salaries in a shared spreadsheet. Microsoft responded by acknowledging that there is more work to be done in the effort for equal pay for equal work. ",
+    "online": true,
+    "locations": null,
     "companies": [
-        "uber"
+        "microsoft"
     ],
-    "workers": null,
+    "workers": 1201,
     "tags": [
-        "drivers"
+        "sexism",
+        "coworker solidarity",
+        "salary sharing"
     ],
     "author": [
         "wynniechan"

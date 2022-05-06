@@ -1,39 +1,42 @@
 {
-    "id": 396,
-    "date": "2021/02/28",
+    "id": 400,
+    "date": "2021/02/19",
     "sources": [
-        "https://www.theverge.com/2021/3/2/22307671/glitch-workers-sign-historic-collective-bargaining-agreement-cwa"
+        "https://www.vice.com/en/article/3anwdy/organized-doordash-drivers-declinenow-strategy-is-driving-up-their-pay",
+        "https://declinenow.org/open-letter-to-doordash/?v=47e5dceea252"
     ],
     "actions": [
-        "union contract"
+        "protest",
+        "strike"
     ],
     "struggles": [
-        "job security"
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "Glitch workers signed a collective bargaining agreement with company management that will last for 11 months. According to a press release from the Communications Workers of America (CWA), this is the first agreement signed by white collar tech workers in the United States. The agreement did not include a call for higher wages because workers recognized that they are paid relatively high wages and that the company has faced economic pressures as a result of the pandemic. Instead, the contract improved job stability, ensuring \"just cause\" protections against firing and recall rights (priority for re-hiring for the same positions) for workers laid off due to the pandemic. ",
+    "description": "DoorDash drivers are leveraging an old Android version of the DoorDash app to strategically select deliveries and make more money on the platform. Drivers are also organizing online through a movement called #DeclineNow where they follow a strict set of rules to not accept any deliveries that would result in less pay for their time, resources, and gas. A gig worker, Amy Lee, ran an analysis and found that DoorDashers who accept every order are at a stark disadvantage make significantly less an hour than those who selective accept deliveries. Lee has written her own open letter addressing the inefficiencies regarding the pay structure of the app so that it can become a more sustainable job for drivers. ",
     "online": null,
     "locations": [
         "usa"
     ],
     "companies": [
-        "glitch"
+        "doordash"
     ],
-    "workers": null,
+    "workers": 26000,
     "tags": [
-        "cwa"
+        "drivers"
     ],
-    "author": null,
+    "author": [
+        "hyatt d."
+    ],
     "latlngs": [
         [
-            35.6006784,
-            -82.3119169
+            37.7834546,
+            -122.4080358
         ]
     ],
     "addresses": [
-        "Glitch Drive, Black Mountain, Buncombe County, North Carolina, 28711, United States"
+        "Doordash HQ, Market Street, Union Square, San Francisco, California, 94104, United States"
     ]
 }

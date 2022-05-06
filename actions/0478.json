@@ -1,43 +1,43 @@
 {
-    "id": 519,
-    "date": "2022/01/05",
+    "id": 515,
+    "date": "2021/12/23",
     "sources": [
-        "https://www.buzzfeednews.com/article/sarahemerson/facebook-moderators-who-were-ordered-back-to-the-office-can"
+        "https://www.cbsnews.com/news/amazon-reaches-settlement-that-gives-workers-more-power-to-organize/"
     ],
     "actions": [
-        "protest"
+        "legal action"
     ],
     "struggles": [
-        "pay and benefits",
+        "unfair labor practices",
         "working conditions"
     ],
     "employment_types": [
-        "contract workers"
+        "white collar workers",
+        "inhouse workers",
+        "blue collar workers"
     ],
-    "description": "Facebook moderators protested their subcontractor Accenture\u2019s return-to-office mandate, while workers at Meta were allowed to work from home. Some also threatened to resign. The protests caused Accenture to reverse the decision. Workers also raised concerns over COVID-related working conditions, benefits, and support.",
+    "description": "Amazon has reached a settlement with the NLRB that would allow its workers to organize more freely without retaliation. Amazon will also email its employees to notify them of their organizing rights.",
     "online": null,
     "locations": [
-        "mountain view-california-usa"
+        "usa"
     ],
     "companies": [
-        "accenture",
-        "meta"
+        "amazon"
     ],
     "workers": null,
     "tags": [
-        "moderators",
-        "coronavirus"
+        "retaliation"
     ],
     "author": [
         "wynniechan"
     ],
     "latlngs": [
         [
-            34.7614797,
-            -118.1669078
+            46.320207,
+            -112.1072224
         ]
     ],
     "addresses": [
-        "Mountain View, Leisure Lake Mobile Estate, Los Angeles County, California, United States"
+        "Amazon, Jefferson County, Montana, United States"
     ]
 }

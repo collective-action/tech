@@ -1,45 +1,39 @@
 {
-    "id": 376,
-    "date": "2020/07/21",
+    "id": 304,
+    "date": "2020/07/20",
     "sources": [
-        "https://www.igmetall-berlin.de/aktuelles/meldung/das-war-goldrichtig-warum-software-ingenieure-das-leben-mit-tarifvertrag-und-ig-metall-schoener-f/"
+        "https://syndicom.ch/aktuell/artikel/bei-google-zuerich-bestimmen-die-zooglers-nun-mit/"
     ],
     "actions": [
         "union representation"
     ],
     "struggles": [
-        "pay and benefits",
         "working conditions"
     ],
     "employment_types": [
-        "white collar workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "In 2019 employees of Bosch.io (subsidary of Bosch) formed a Works Council (Betriebsrat). In 2020 they formed their first Collective Bargaining Agreement, and Bosch.IO will join employer association. The CBA (Tarifvertrag) including provisions related to short time work (Kurzarbeit), home office usage during the coronavirus pandemic. An interview with several elected Works Councilors is included in German. ",
+    "description": "Employees at Google's Zurich office voted to recognize the Syndicom union as their employee representative. Employees first reached out to Syndicom after management failed to address their concerns over \"Project Dragonfly\", a search engine that would enable the Chinese government to censor certain results. Employee representatives function as consultants and do not engage in collective bargaining. ",
     "online": null,
     "locations": [
-        "germany"
+        "zurich-switzerland"
     ],
     "companies": [
-        "bosch",
-        "bosch.io"
+        "google"
     ],
-    "workers": 700,
+    "workers": null,
     "tags": null,
     "author": [
-        "@shushugah"
+        "nataliyaned"
     ],
     "latlngs": [
         [
-            47.572049050000004,
-            10.667775368755255
-        ],
-        [
-            47.68201895,
-            9.3864579
+            47.3793085,
+            8.5307904
         ]
     ],
     "addresses": [
-        "Bosch, ADAC, Schlichtling, F\u00fcssen, Landkreis Ostallg\u00e4u, Bayern, 87629, Deutschland",
-        "Bosch.IO, 7, Ziegelei, Alte Ziegelei / Steigwiesen, Immenstaad am Bodensee, Verwaltungsgemeinschaft Friedrichshafen, Bodenseekreis, Baden-W\u00fcrttemberg, 88090, Deutschland"
+        "Google, 1, Gustav-Gull-Platz, Langstrasse, Aussersihl, Z\u00fcrich, Bezirk Z\u00fcrich, Z\u00fcrich, 8004, Schweiz/Suisse/Svizzera/Svizra"
     ]
 }

@@ -1,42 +1,45 @@
 {
-    "id": 416,
-    "date": "2021/04/06",
+    "id": 450,
+    "date": "2021/04/01",
     "sources": [
-        "https://www.bloomberg.com/news/articles/2021-04-06/doordash-workers-are-trying-to-game-the-algorithm-to-increase-pay"
+        "https://labornotes.org/2021/06/dispersed-undaunted-chicago-amazon-workers-help-win-megacycle-pay-nationwide",
+        "https://www.amazoniansunited.org/megacyclepetition",
+        "https://news.wttw.com/2021/04/01/amazon-employees-chicago-demand-accommodations-brutal-shift"
     ],
     "actions": [
         "protest",
-        "strike"
+        "open letter"
     ],
     "struggles": [
-        "pay and benefits"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
-        "gig workers"
+        "blue collar workers",
+        "inhouse workers"
     ],
-    "description": "DoorDash drivers are working together with a 40,000 person online community (#DeclineNow) to increase their pay by systematically declining orders through the platform. As part of the #DeclineNow movement, DoorDash drivers do not accept orders that pay less than $7, more than twice the current $3 floor. By collectively declining orders, it forces the algorithm to offer the next driver the same delivery but at a higher price. ",
-    "online": true,
+    "description": "The Chicago chapter of Amazonians United, DCH1, created a petition demanding a $2 pay increase and full 20-minute breaks for workers on the company's megacycle shift, a new shift that runs from 1:20 am -11:50 am. In addition, the petition called for accommodations for workers who are unable to work the shift. In April DCH1 also organized a walkout in protest. On May 19th, Amazon warehouse workers across the country who work on the Megacycle shift began receiving a $1.50-$2.00 pay increase per hour for certain days of the week. ",
+    "online": null,
     "locations": [
-        "usa"
+        "chicago-illinois-usa"
     ],
     "companies": [
-        "doordash"
+        "amazon"
     ],
-    "workers": 40000,
+    "workers": null,
     "tags": [
-        "coworker solidarity",
-        "delivery_workers"
+        "coworker solidarity"
     ],
     "author": [
         "hyatt d."
     ],
     "latlngs": [
         [
-            37.7834546,
-            -122.4080358
+            41.84040105,
+            -87.68351928672685
         ]
     ],
     "addresses": [
-        "Doordash HQ, Market Street, SOMA Pilipinas, San Francisco, California, 94104, United States"
+        "Amazon Distribution, 2801, South Western Avenue, Lower West Side, Chicago, Cook County, Illinois, 60608, United States"
     ]
 }

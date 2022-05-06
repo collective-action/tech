@@ -1,41 +1,64 @@
 {
-    "id": 487,
-    "date": "2021/10/19",
+    "id": 490,
+    "date": "2021/10/14",
     "sources": [
-        "https://www.theverge.com/2021/10/19/22726915/facebook-content-moderators-protest-low-wages",
-        "https://www.foxglove.org.uk/2021/10/19/letter-facebook-content-moderators-julie-sweet/"
+        "https://www.reuters.com/world/china/chinese-tech-workers-disclose-working-hours-criticism-996-2021-10-14/",
+        "https://www.lifestyleasia.com/ind/culture/events/in-china-criticism-of-996-culture-grows/",
+        ""
     ],
     "actions": [
-        "protest",
-        "open letter"
+        "resources",
+        "protest"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "working conditions",
+        "unfair labor practices"
     ],
     "employment_types": [
-        "contract workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "With the backing of Foxglove Legal, Facebook contract moderators at Accenture are protesting low wages with a mobile billboard and internal letter. The billboard calls for Accenture CEO Julie Sweet to \u201cstop exploiting your workers,\u201d considering how much Accenture is paid compared to how much content moderators make per hour. Ukrainian and Spanish language moderators are also excluded from the $2 premium that bilingual moderators receive. Despite the demand for equal pay in June, there was no change. Moreover, the moderators\u2019 work is emotionally and mentally taxing because of the unpleasant content they moderate. Accenture only offers access to behavioral coaches instead of professional psychological care, according to Foxglove Legal. ",
-    "online": null,
+    "description": "Four anonymous creators started the \u201cWorker Lives Matter\u201d campaign, in which employees of Chinese tech companies log their working hours in a GitHub spreadsheet to protest the \u201c996\u201d working overtime culture. They hope to popularize the \u201c955\u201d instead and have GitHub serve as a reference tool for job seekers. Notably, there was a recent court ruling in China\u2019s top court that made \u201c996\u201d culture illegal in August, but the practice is still used. As of October 28, the official account and website have been permanently banned, and so the project has been suspended. A backup of GitHub data is still available to view.",
+    "online": true,
     "locations": [
-        "bethesda-maryland-usa",
-        "washington_dc-usa"
+        "china"
     ],
     "companies": [
-        "accenture",
-        "facebook"
+        "alibaba",
+        "tencent",
+        "baidu",
+        "bytedance"
     ],
-    "workers": null,
+    "workers": 4001,
     "tags": [
-        "moderators",
-        "coworker solidarity",
-        "industry solidarity",
-        "international solidarity"
+        "online action",
+        "industry solidarity"
     ],
     "author": [
         "wynniechan"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            29.3169332,
+            120.0873432
+        ],
+        [
+            26.3695593,
+            106.50085007231183
+        ],
+        [
+            24.4978707,
+            116.1954842
+        ],
+        [
+            39.970756949999995,
+            116.32344091298253
+        ]
+    ],
+    "addresses": [
+        "Alibaba (halal), \u7a20\u5dde\u5317\u8def, \u4e49\u4e4c\u5e02, \u6d59\u6c5f\u7701, 322000, \u4e2d\u56fd",
+        "\u817e\u8baf\u8d35\u5b89\u4e03\u661f\u6570\u636e\u4e2d\u5fc3, \u5e73\u575d\u533a, \u5b89\u987a\u5e02, \u8d35\u5dde\u7701, \u4e2d\u56fd",
+        "\u767d\u6e21\u9547, \u6885\u5dde\u5e02, \u5e7f\u4e1c\u7701, \u4e2d\u56fd",
+        "\u5b57\u8282\u8df3\u52a8\u603b\u90e8, \u53cc\u6986\u6811\u5317\u8def, \u77e5\u6625\u4e1c\u91cc\u793e\u533a, \u4e2d\u5173\u6751\u8857\u9053, \u6d77\u6dc0\u533a, \u5317\u4eac\u5e02, 100098, \u4e2d\u56fd"
+    ]
 }

@@ -1,46 +1,36 @@
 {
-    "id": 442,
-    "date": "2021/05/25",
+    "id": 439,
+    "date": "2021/05/18",
     "sources": [
-        "https://www.theverge.com/2021/5/25/22453516/amazon-workers-pollution-petition-letter-demand",
-        "https://secure.everyaction.com/Xsul4-F6BUuVi_MofTP5YA2"
+        "https://www.theverge.com/2021/5/18/22441236/jewish-google-employees-support-palestine-letter-anti-zionism-israel"
     ],
     "actions": [
         "open letter"
     ],
     "struggles": [
+        "discrimination",
         "ethics"
     ],
     "employment_types": [
         "white collar workers",
-        "blue collar workers",
-        "contract workers",
         "inhouse workers"
     ],
-    "description": "640 Amazon workers have signed a petition asking the company to commit to zero emissions by 2030 and to prioritize zero emission technology in communities of color hit hardest by the effects of their pollution. The petition began after Amazon rejected a shareholder resolution asking the company to report their emissions in communities of color. ",
+    "description": "At Google, a group of Jewish employees (Jewish Diaspora in Tech) is asking the company to support Palestinians during the Israeli bombing campaign in Gaza. An internal letter was circulated among employees asking Sundar Pichai to make a statement condemning recent Israeli attacks on Gaza. The letter mentions accepting the requests of Palestinian Googlers and funding relief for Palestinians affected by the violence, as well as protecting freedom of speech within the company. This new group was formed because some Jewish employees felt that the official Jewish ERG didn't allow a safe place to express anti-Zionist beliefs. ",
     "online": true,
     "locations": [
-        "usa"
+        "worldwide"
     ],
     "companies": [
-        "amazon"
+        "google"
     ],
-    "workers": 640,
+    "workers": 250,
     "tags": [
-        "climate_change",
-        "antiracism",
-        "blm"
+        "international solidarity",
+        "politics"
     ],
     "author": [
         "hyatt d."
     ],
-    "latlngs": [
-        [
-            46.320207,
-            -112.1072224
-        ]
-    ],
-    "addresses": [
-        "Amazon, Jefferson County, Montana, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

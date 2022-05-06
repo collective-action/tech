@@ -1,38 +1,44 @@
 {
-    "id": 500,
-    "date": "2021/11/28",
+    "id": 501,
+    "date": "2021/11/23",
     "sources": [
-        "https://freedomnews.org.uk/2021/11/26/sheffield-justeat-couriers-set-to-strike-protest-against-shocking-pay-cut/",
-        "https://actionnetwork.org/fundraising/sheffield-justeat-riders-are-going-on-strike-pay-rise-not-pay-cut",
-        "https://twitter.com/SYorksCouriers/status/1463197173261156353?t=Ad7HM8-Sil6pAu00vzPK-g&s=19"
+        "https://www.cnbc.com/2021/11/23/google-employees-sign-manifesto-against-widened-vaccine-mandate.html",
+        "https://www.dailymail.co.uk/news/article-10236939/At-600-Google-workers-sign-manifesto-calling-company-retract-COVID-vaccine-mandate.html"
     ],
     "actions": [
-        "protest",
-        "strike"
+        "open letter"
     ],
     "struggles": [
-        "pay and benefits"
+        "ethics"
     ],
     "employment_types": [
-        "gig workers",
-        "contract workers"
+        "white collar workers",
+        "contract workers",
+        "inhouse workers"
     ],
-    "description": "In response to a planned 25% pay cut, Stuart food delivery workers from IWGB held a demonstration outside of Sheffield Town Hall. They demand a pay rise, especially as the minimum living wage has increased. They also have no sick pay and have to pay for their own vehicle and insurance costs.",
-    "online": null,
+    "description": "Around 600 Google employees signed a manifesto that opposes Google\u2019s new COVID-19 vaccine mandate for its potential impact on corporate America and as a matter of principle and inclusion. An open letter was also sent to Google\u2019s chief health officer, Karen DeSalvo. ",
+    "online": true,
     "locations": [
-        "sheffield-englad-uk"
+        "usa"
     ],
     "companies": [
-        "stuart",
-        "justeatuk"
+        "google"
     ],
-    "workers": 22,
+    "workers": 601,
     "tags": [
-        "delivery_workers"
+        "coronavirus",
+        "politics"
     ],
     "author": [
         "wynniechan"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            33.977092,
+            -118.4092133
+        ]
+    ],
+    "addresses": [
+        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
+    ]
 }

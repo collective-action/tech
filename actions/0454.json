@@ -1,45 +1,35 @@
 {
-    "id": 489,
-    "date": "2021/10/20",
+    "id": 477,
+    "date": "2021/10/18",
     "sources": [
-        "https://www.nytimes.com/2021/10/20/business/media/netflix-protest-dave-chappelle.html"
+        "https://www.total-croatia-news.com/business/57000-uber-drivers-strike-in-croatia",
+        "https://twitter.com/nicoemoe/status/1449978260289294340?t=WdHP4kHHe5sMs9VJUfPQEg&s=19"
     ],
     "actions": [
-        "protest",
         "strike"
     ],
     "struggles": [
-        "discrimination",
-        "ethics"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "Employees walked out of a Netflix building in Los Angeles to protest Dave Chappelle\u2019s special, joining supporters and activists who were already rallying. Other Netflix employees stopped working that day as a virtual walkout. #NetflixWalkOut also trended on Twitter. In response, Netflix issued a statement expressing support of the walkout while also remaining supportive of Chappelle.",
-    "online": true,
+    "description": "Uber drivers, organized by the Croatian Digital Platform Workers\u2019 Union, held a strike and press conference in Croatia. They claimed that their salaries were not paid in time with no explanation. Despite Uber portraying drivers as partners, the workers feel like \u201cdigital slaves\u201d who cannot get in contact with Uber\u2019s authorities.",
+    "online": null,
     "locations": [
-        "los angeles-california-usa"
+        "zagreb-croatia"
     ],
     "companies": [
-        "netflix"
+        "uber"
     ],
-    "workers": 125,
+    "workers": null,
     "tags": [
-        "lgbtq",
-        "online action",
-        "politics"
+        "drivers"
     ],
     "author": [
         "wynniechan"
     ],
-    "latlngs": [
-        [
-            34.0976547,
-            -118.3164863
-        ]
-    ],
-    "addresses": [
-        "Netflix at Sunset Bronson Studios, West Sunset Boulevard, Hollywood, Los Angeles, Los Angeles County, California, 90028-5420, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

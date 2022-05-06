@@ -1,51 +1,42 @@
 {
-    "id": 307,
-    "date": "2020/07/26",
+    "id": 399,
+    "date": "2020/07/20",
     "sources": [
-        "https://www.msn.com/en-us/news/us/boycott-continues-against-cambridge-whole-foods-that-sent-employees-home-for-black-lives-matter-masks/ar-BB16mPY2"
+        "https://www.vice.com/en/article/v7gyp4/uber-drivers-sue-to-gain-access-to-its-secret-algorithms",
+        "https://declinenow.org/open-letter-to-doordash/?v=47e5dceea252"
     ],
     "actions": [
-        "protest",
-        "strike"
+        "legal action"
     ],
     "struggles": [
         "unfair labor practices",
-        "ethics",
-        "discrimination"
+        "pay and benefits"
     ],
     "employment_types": [
-        "inhouse workers",
-        "blue collar workers"
+        "gig workers"
     ],
-    "description": "Whole Foods employees and local residents protested in front of a Cambridge location that turned away seven employees on June 25th for wearing masks with \"Black Lives Matter\" slogans. The event is part of a larger boycott that has been ongoing since the incident. Suverino Frith, one of the seven employees, spoke at the event and called on the company to live up to their \"core values\". ",
+    "description": "In the United Kingdom, four Uber drivers have filed a lawsuit to gain access to Uber's algorithms. The drivers along with The UK App Drivers and Couriers Union argue that under Europe's General Data Protection Regulation they should have access to the data that Uber collects on their drivers. If given access to this data, drivers on the platform will be able to calculate an hourly wage as well as understand why they have been deactivated using trip ratings. ",
     "online": null,
     "locations": [
-        "cambridge-massachusetts-usa"
+        "uk"
     ],
     "companies": [
-        "whole_foods",
-        "amazon"
+        "uber"
     ],
-    "workers": null,
+    "workers": 4,
     "tags": [
-        "antiracism",
-        "blm"
+        "drivers"
     ],
     "author": [
-        "nataliyaned"
+        "hyatt d."
     ],
     "latlngs": [
         [
-            42.3891156,
-            -71.1417515
-        ],
-        [
-            42.3651852,
-            -71.1042178
+            51.5148804,
+            -0.0718856
         ]
     ],
     "addresses": [
-        "Whole Foods Market, Concord Lane, Fresh Pond Mall, Cambridge, Middlesex County, Massachusetts, 02474-8735, United States",
-        "Amazon Pickup, 1, Magazine Street, Central Square, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02139, United States"
+        "Uber, 2, Leman Street, East Smithfield, Whitechapel, London, City of London, Greater London, England, E1 8FA, United Kingdom"
     ]
 }

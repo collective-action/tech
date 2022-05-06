@@ -1,49 +1,43 @@
 {
-    "id": 455,
-    "date": "2021/05/07",
+    "id": 534,
+    "date": "2021/04/28",
     "sources": [
-        "https://www.protocol.com/policy/google-interns-won-stipend"
+        "https://current.org/2021/04/npr-plans-to-recognize-digital-staffers-union/",
+        "https://www.digitalmediaunited.org/"
     ],
     "actions": [
-        "open letter"
+        "union representation"
     ],
     "struggles": [
-        "pay and benefits"
+        "pay and benefits",
+        "working conditions",
+        "job security"
     ],
     "employment_types": [
-        "interns",
-        "white collar workers",
-        "inhouse workers"
+        "white collar workers"
     ],
-    "description": "Interns in Google's BOLD internship program, Tyrese Thomas and Jacob Ngai created a petition with the help of the Alphabet Workers Union. The petition asked Google to provide a $5,000 stipend for costs such as rent and other basic needs for their job. Typically, Google covers these costs with an $11,000 relocation stipend. However, due to COVID-19, the stipend wasn't instated because interns would work remotely from home. Interns argued, however, that those from lower income backgrounds might need additional funding to find office space during the day or to cover the costs of childcare. Overall, the petition gathered 1500 signatures from interns and Google employees. Google gave the interns a $5,000 stipend to spend on what they deem necessary. ",
-    "online": true,
+    "description": "NPR has voluntarily recognized requests for unionization by its network digital operation employees. The union is known as Digital Media United and is in partnership with the CWA. The bargaining unit includes 63 workers. Unionization priorities include equal pay, increased staffing, restrictions on the use of temporary status, and hiring processes that ensure diverse applicants. ",
+    "online": null,
     "locations": [
         "usa"
     ],
     "companies": [
-        "google",
-        "alphabet"
+        "NPR"
     ],
-    "workers": 1500,
+    "workers": 63,
     "tags": [
-        "students",
-        "coworker solidarity"
+        "cwa"
     ],
     "author": [
-        "hyatt d."
+        "organizejs"
     ],
     "latlngs": [
         [
-            33.977092,
-            -118.4092133
-        ],
-        [
-            37.3398646,
-            -121.8844823
+            39.108487,
+            -84.5205435
         ]
     ],
     "addresses": [
-        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
-        "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112-3580, United States"
+        "WVXU 91.7 FM, Central Parkway, Betts-Longworth Historic District, West End, Cincinnati, Hamilton County, Ohio, 45210, United States"
     ]
 }

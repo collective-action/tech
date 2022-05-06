@@ -1,31 +1,34 @@
 {
-    "id": 466,
-    "date": "2021/09/03",
+    "id": 478,
+    "date": "2021/08/09",
     "sources": [
-        "https://cwa-union.org/news/releases/workers-everyaction-become-largest-progressive-tech-union?amp"
+        "https://www.theverge.com/2021/8/11/22620874/twitch-implements-improved-chat-filters",
+        "https://www.washingtonpost.com/video-games/2021/08/11/twitch-do-better-hate-raids/"
     ],
     "actions": [
-        "union representation"
+        "protest"
     ],
     "struggles": [
-        "working conditions"
+        "discrimination"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "content creators"
     ],
-    "description": "After a supermajority of EveryAction workers signed cards to establish a union, EveryAction voluntarily recognized the EveryAction Workers Union, who will become part of the Communications Workers of America. As a result, the company will engage in negotiations over a collective bargaining agreement in the near future. EveryAction prides themselves on being a progressive workplace and has embraced this unionization.",
-    "online": null,
+    "description": "Twitch streamer RekltRaven began a hashtag movement #twitchdobetter in response to the hate raids targeting marginalized creators, especially those who identify as Black, queer, or female. Twitch responded by fixing their chat filters and are planning to update their services to include improved safety features, including an improved account verification process and ban evasion detection tools. As there are still gaps, marginalized creators are calling for more proactive moderation and tools that the creators can use to moderate the stream.",
+    "online": true,
     "locations": [
-        "boston-massachussetts-usa",
-        "washington_dc-usa"
+        "worldwide"
     ],
     "companies": [
-        "everyaction"
+        "twitch"
     ],
-    "workers": 160,
+    "workers": null,
     "tags": [
-        "cwa"
+        "lgbtq",
+        "sexism",
+        "antiracism",
+        "moderators",
+        "coworker solidarity"
     ],
     "author": [
         "wynniechan"

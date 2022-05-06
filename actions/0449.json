@@ -1,41 +1,47 @@
 {
-    "id": 476,
-    "date": "2021/10/12",
+    "id": 475,
+    "date": "2021/10/04",
     "sources": [
-        "https://www.theguardian.com/commentisfree/2021/oct/12/google-amazon-workers-condemn-project-nimbus-israeli-military-contract"
+        "https://www.dw.com/en/gorillas-delivery-service-fires-back-over-workers-strike/a-59445809",
+        "https://www.vice.com/en/article/7kvgmd/gorillas-delivery-app-fires-workers-for-striking"
     ],
     "actions": [
-        "open letter"
+        "protest",
+        "strike"
     ],
     "struggles": [
-        "ethics"
+        "pay and benefits",
+        "working conditions",
+        "unfair labor practices",
+        "job security"
     ],
     "employment_types": [
-        "white collar workers",
-        "contract workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "Google and Amazon workers condemn Amazon and Google\u2019s supplying to the Israeli military and government technology to harm Palestinians through Project Nimbus. They write that Project Nimbus would provide cloud services, including surveillance and data collection on Palestinians, that would support systematic discrimination and displacement. Workers released an internal letter, with 90+ Google workers and 300+ Amazon workers anonymously signing it.",
-    "online": true,
+    "description": "In response to recent strikes that protested unfair working conditions, Gorillas fired \u201cseveral dozen Berlin-based delivery workers.\u201d In response, the Gorillas Workers Collective called for a protest in front of the company\u2019s headquarters. Gorillas have said that these strikes were unannounced, non-unionized, spontaneous, and are illegal under German law. However, other workers have shown screenshots of schedules that violate German labor law.  After the strikes took place, the company reportedly replaced those striking with Zenjob gig workers from Bermannkiez. ",
+    "online": null,
     "locations": [
-        "worldwide"
+        "berlin-germany"
     ],
     "companies": [
-        "google",
-        "amazon"
+        "gorillas"
     ],
-    "workers": 391,
+    "workers": 150,
     "tags": [
-        "international solidarity",
-        "politics",
-        "surveillance",
-        "military_contracts",
-        "industry solidarity",
-        "ice"
+        "retaliation",
+        "coworker solidarity",
+        "delivery_workers"
     ],
     "author": [
         "wynniechan"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            52.5064919,
+            13.336216896921181
+        ]
+    ],
+    "addresses": [
+        "Flachland-Gorilla, Tiergarten, Mitte, Berlin, 10787, Deutschland"
+    ]
 }

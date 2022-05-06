@@ -1,42 +1,42 @@
 {
-    "id": 468,
-    "date": "2021/09/13",
+    "id": 470,
+    "date": "2021/09/01",
     "sources": [
-        "https://www.reuters.com/technology/canadian-amazon-facility-files-union-vote-union-2021-09-14/"
+        "https://www.nytimes.com/2021/09/03/technology/texas-abortion-law-website-tiktok.html"
     ],
     "actions": [
-        "union drive"
+        "protest",
+        "resources"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "ethics"
     ],
     "employment_types": [
-        "blue collar workers",
-        "inhouse workers"
+        "white collar workers",
+        "content creators",
+        "open source community"
     ],
-    "description": "Teamsters Local Union 362 filed a request to hold a vote to form a union at an Amazon facility in Nisku, Alberta, Canada. Teamsters Local Union 362 is part of Teamsters Canada, a trade union that is affiliated with the International Brotherhood of Teamster.  Unionization efforts have already begun, including a petition being signed by \u201chundreds\u201d of warehouse workers, and the date to vote is yet to be decided. ",
-    "online": null,
+    "description": "In response to Texas\u2019s new abortion law and the creation of the website prolifewhistleblower.com, TikTok activists, programmers, and Twitter and Reddit users engaged in \u201chacktivism\u201d by submitting fake reports to the website. Programmers have also created and released scripts for others to automatically generate fake reports. The website responded by adding a new version of a Captcha to filter out bot reports. Furthermore, some Twitter users called for a boycott of GoDaddy, the company that hosts the website, as the website violates GoDaddy\u2019s terms of service. In response, GoDaddy gave the website 24 hours to move to another provider before cutting off service.",
+    "online": true,
     "locations": [
-        "nisku-alberta-canada"
+        "usa"
     ],
-    "companies": [
-        "amazon"
-    ],
-    "workers": 601,
+    "companies": null,
+    "workers": 8451,
     "tags": [
-        "teamster"
+        "law_enforcement",
+        "politics"
     ],
     "author": [
         "wynniechan"
     ],
     "latlngs": [
         [
-            53.393627,
-            -113.49682402031908
+            39.7837304,
+            -100.445882
         ]
     ],
     "addresses": [
-        "Amazon Warehouse, Nisku Spine Road, Ellerslie Industrial, Ellerslie, Edmonton, Leduc County, Alberta, T6X 2H4, Canada"
+        "United States"
     ]
 }

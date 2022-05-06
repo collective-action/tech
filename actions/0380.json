@@ -1,33 +1,43 @@
 {
-    "id": 406,
-    "date": "2021/03/01",
+    "id": 444,
+    "date": "2021/02/23",
     "sources": [
-        "https://www.unitedigitaltech.org/2021/03/goodlord-strike-picket-line-video#more-1498"
+        "https://businesstech.co.za/news/technology/470264/uber-faces-class-action-lawsuit-in-south-africa/"
     ],
     "actions": [
-        "protest",
-        "strike"
+        "legal action"
     ],
     "struggles": [
         "pay and benefits",
+        "unfair labor practices",
         "job security"
     ],
     "employment_types": [
-        "contract workers"
+        "gig workers"
     ],
-    "description": "Contract tech workers of Goodlord have been striking for two weeks because they are being fired and rehired for permanent contracts that have less favorable terms than their current contracts. The contracts have resulted in 20% pay decrease and will have the workers making 6,000 pounds less than the livable wage in London. The workers refuse to work until Goodlord negotiates with them for better pay and benefits. Goodlord is an online platform for tenants, agents, and landlords to utilize in the real estate market. ",
+    "description": "In South Africa, Uber drivers are taking part in a class-action lawsuit against the company. Drivers are seeking compensation for unpaid overtime and holiday pay based on South African law. One of the law firms representing South African drivers also represented UK drivers in front of the UK Supreme Court, which ruled on February 19th that drivers must be classified as employees rather than independent contractors in the country.",
     "online": null,
     "locations": [
-        "london-uk"
+        "south africa"
     ],
     "companies": [
-        "goodlord"
+        "uber"
     ],
     "workers": null,
-    "tags": null,
+    "tags": [
+        "drivers",
+        "industry solidarity"
+    ],
     "author": [
         "hyatt d."
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            51.3551751,
+            10.0402186
+        ]
+    ],
+    "addresses": [
+        "\u00dcber, Thalwenden, Uder, Landkreis Eichsfeld, Th\u00fcringen, 37318, Deutschland"
+    ]
 }

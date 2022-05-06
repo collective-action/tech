@@ -1,52 +1,44 @@
 {
-    "id": 471,
-    "date": "2021/09/03",
+    "id": 464,
+    "date": "2021/08/11",
     "sources": [
-        "https://www.appletoo.us/letter/",
-        "https://twitter.com/cherthedev/status/1433865109550501888"
+        "https://www.bloomberg.com/news/articles/2021-08-10/new-york-times-tech-staff-to-walk-out-escalating-union-fight",
+        "https://collectiveaction.tech/2021/first-strike-for-a-seat-at-the-table/"
     ],
     "actions": [
-        "open letter"
+        "protest",
+        "strike"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions",
-        "ethics",
-        "discrimination",
         "unfair labor practices"
     ],
     "employment_types": [
         "white collar workers",
-        "inhouse workers",
-        "contract workers"
+        "inhouse workers"
     ],
-    "description": "The Apple workers in #AppleToo have released an open letter calling on Tim Cook and the Senior Leadership team to follow through in its diversity, equity, and inclusion promises. Workers have brought up invasive privacy policies, abuse, discrimination, and harassment. Their demands include: (1) \u201cincreased separation between Apple-owned and worker-owned digital and physical property in all Apple policies,\u201d (2) \u201ctransparent livable, equitable, and fair compensation across all of Apple,\u201d (3) \u201caudit all third-party relationships,\u201d among others. ",
+    "description": "Tech workers fighting for a union at the Times virtually walked out in protest over management\u2019s continued anti-union tactics, the first work stoppage tied to unionization in the tech industry. \nOn the day of the walk out, over 50% of the bargaining unit or 300 workers participated. They allege the company has been illegally trying to obstruct their unionization campaign. Tech workers from the company hope to join NewsGuild, an affiliate of the Communications Workers of America Union.",
     "online": true,
     "locations": [
-        "usa"
+        "new york city-new york-usa"
     ],
     "companies": [
-        "apple"
+        "the new york times"
     ],
-    "workers": null,
+    "workers": 300,
     "tags": [
-        "coworker solidarity",
-        "sexism",
-        "antiracism",
-        "surveillance",
-        "mental health",
-        "online action"
+        "cwa",
+        "coworker solidarity"
     ],
     "author": [
-        "wynniechan"
+        "hyatt d."
     ],
     "latlngs": [
         [
-            37.3326452,
-            -122.0299129658936
+            40.77541455,
+            -73.83098624117696
         ]
     ],
     "addresses": [
-        "Apple Campus, Cupertino, Santa Clara County, California, United States"
+        "The New York Times, Whitestone Expressway, Queens, Queens County, New York, 11354, United States"
     ]
 }

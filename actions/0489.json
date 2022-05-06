@@ -1,40 +1,33 @@
 {
-    "id": 532,
-    "date": "2022/02/16",
+    "id": 531,
+    "date": "2022/02/03",
     "sources": [
-        "https://www.nytimes.com/2022/02/16/technology/amazon-staten-island-union.html"
+        "https://twitter.com/Nava_United/status/1489328874575912960?s=20&t=wBhNN2TOTrksE7vxzWCo3w",
+        "https://technical.ly/company-culture/nava-pbc-tech-union/"
     ],
     "actions": [
-        "union drive"
+        "union drive",
+        "union representation"
     ],
     "struggles": [
-        "working conditions",
-        "pay and benefits"
+        "working conditions"
     ],
     "employment_types": [
-        "blue collar workers",
-        "inhouse workers"
+        "white collar workers"
     ],
-    "description": "The NLRB determined that the Amazon Labor Union has enough signatures to hold an election. The election will occur in late March. An Amazon spokesperson expressed doubt that there were enough legitimate signatures.",
-    "online": null,
-    "locations": [
-        "new york city-new york-usa"
-    ],
+    "description": "Workers at Nava PBC have joined together with a supermajority of their colleagues to form Nava United. Workers at Nava help to build accessible platforms for vital government services (like the DOJ's civil rights portal, medicare and medicaid services, and more), and more. They are forming a union to improve their working conditions and strengthen the work they do at Nava.",
+    "online": true,
+    "locations": null,
     "companies": [
-        "amazon"
+        "nava pbc"
     ],
-    "workers": null,
-    "tags": null,
+    "workers": 115,
+    "tags": [
+        "opeiu"
+    ],
     "author": [
         "wynniechan"
     ],
-    "latlngs": [
-        [
-            40.722465,
-            -73.9977307
-        ]
-    ],
-    "addresses": [
-        "Amazon, 72, Spring Street, Manhattan Community Board 2, Manhattan, New York, 10013, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

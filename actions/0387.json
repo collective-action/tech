@@ -1,56 +1,44 @@
 {
-    "id": 425,
-    "date": "2021/03/29",
+    "id": 412,
+    "date": "2021/03/22",
     "sources": [
-        "https://www.al.com/business/2021/03/workers-in-2-european-countries-strike-against-amazon.html",
-        "https://www.cnbc.com/2021/03/22/amazon-workers-go-on-strike-in-italy-over-labor-conditions-.html"
+        "https://www.bloomberg.com/news/articles/2021-03-30/youtube-refuses-to-remove-anti-asian-song-drawing-staff-ire",
+        "https://www.nbcnews.com/news/asian-america/youtube-declines-ban-video-anti-asian-lyrics-staff-outcry-rcna562",
+        "https://www.indy100.com/news/youtube-yg-song-anti-asian-song-removal-b1826955"
     ],
     "actions": [
-        "protest",
-        "strike"
+        "protest"
     ],
     "struggles": [
-        "pay and benefits",
-        "job security"
+        "ethics",
+        "discrimination"
     ],
     "employment_types": [
-        "blue collar workers",
+        "white collar workers",
         "inhouse workers"
     ],
-    "description": "Italian Amazon workers went on a national strike for 24 hours to protest for fewer hours and job stability for temporary workers. \nItalian unions FILT-CGIL, FIT-CISL and Uiltrasporti called for the strike, which took place in Tuscany, Florence, and Pisa. ",
+    "description": "Several of YouTube's employees raised concerns that a music video on the website, \"Meet the Flockers\" by YG, promotes racism towards Asian Americans. The video details a burglary and calls for targeting Chinese communities according to press reports. The employees requested that the company's Trust and Safety team pull the video from the site, which the company declined to do in a statement. Update: In early April, several newspapers reported that the video had been removed from the website. ",
     "online": null,
     "locations": [
-        "tuscany-italy",
-        "florence-italy",
-        "pisa-italy"
+        "san bruno-california-usa"
     ],
     "companies": [
-        "amazon"
+        "youtube"
     ],
     "workers": null,
     "tags": [
-        "delivery_workers"
+        "antiracism"
     ],
     "author": [
         "hyatt d."
     ],
     "latlngs": [
         [
-            43.841860749999995,
-            11.166183284518766
-        ],
-        [
-            43.841860749999995,
-            11.166183284518766
-        ],
-        [
-            43.709862,
-            10.4328227
+            37.628145950000004,
+            -122.4264270211096
         ]
     ],
     "addresses": [
-        "Amazon, Via Baldanzese, Settimello, Sesto Fiorentino, Firenze, Toscana, 50019, Italia",
-        "Amazon, Via Baldanzese, Settimello, Sesto Fiorentino, Firenze, Toscana, 50019, Italia",
-        "Amazon Hub Locker, Via Vittorio Frascani, Cisanello, Pisa, Toscana, 56124, Italia"
+        "YouTube, 901, Cherry Avenue, YouTube, San Bruno, San Mateo County, California, 94066, United States"
     ]
 }

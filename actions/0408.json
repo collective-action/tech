@@ -1,42 +1,50 @@
 {
-    "id": 438,
-    "date": "2021/05/12",
+    "id": 454,
+    "date": "2021/05/07",
     "sources": [
-        "https://www.imore.com/petition-circulating-among-apple-employees-regarding-companys-misogynistic-new-hire"
+        "https://www.bloomberg.com/news/articles/2021-05-07/google-childcare-workers-circulate-petition-for-commute-stipends?sref=i8nBPoz1",
+        "https://justiceforgcc.org/"
     ],
     "actions": [
         "open letter"
     ],
     "struggles": [
-        "discrimination"
+        "working conditions",
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "inhouse workers",
+        "white collar workers"
     ],
-    "description": "Workers at Apple have circulated a petition protesting the company's decision to hire Antonio Garcia Martinez. Employees expressed concerns about his views on women and people of color because of statements in his book, \"Chaos Monkeys\", which they find to be racist and sexist. UPDATE: As of May 12, 2021, Antonio Garcia Martinez is no longer working with Apple.",
-    "online": null,
+    "description": "Childcare and education workers at Google created an online petition to reinstate the transportation shuttles previously provided to workers before the COVID-19 pandemic. According to the petition, they are demanding a \"$1,500 per-month transportation equity stipend for childcare workers who rely on Google transportation; until Google\u2019s normal transportation operations resume\". The petition has gained 622 signatures from Google employees in all departments. ",
+    "online": true,
     "locations": [
         "usa"
     ],
     "companies": [
-        "apple"
+        "google",
+        "alphabet"
     ],
-    "workers": null,
+    "workers": 457,
     "tags": [
-        "sexism",
-        "antiracism"
+        "coworker solidarity",
+        "child_care"
     ],
     "author": [
         "hyatt d."
     ],
     "latlngs": [
         [
-            37.3326452,
-            -122.0299129658936
+            33.977092,
+            -118.4092133
+        ],
+        [
+            37.3398646,
+            -121.8844823
         ]
     ],
     "addresses": [
-        "Apple Campus, Cupertino, Santa Clara County, California, United States"
+        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
+        "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112-3580, United States"
     ]
 }

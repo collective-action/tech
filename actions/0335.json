@@ -1,43 +1,40 @@
 {
-    "id": 337,
-    "date": "2020/09/28",
+    "id": 332,
+    "date": "2020/09/21",
     "sources": [
-        "https://discotech.tech/techtruths",
-        "https://twitter.com/discotechorg/status/1310613703126114304?s=19"
+        "https://www.cnbc.com/2020/10/01/google-contractors-allege-ndas-violate-free-speech-laws.html",
+        "https://www.courts.ca.gov/opinions/documents/A157097.PDF"
     ],
     "actions": [
-        "resources"
+        "legal action"
     ],
     "struggles": [
-        "ethics",
-        "discrimination"
+        "unfair labor practices"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "contract workers"
     ],
-    "description": "A group of cross-company organizers in tech have started a repository called \"Tech Truths\" that highlights incidents of discrimination in tech, including \"discrimination by race, gender, sexual orientation, disability status, immigration status, and more\". To date (10/7/2020), 107 different stories of discrimination have been shared and published.",
-    "online": true,
+    "description": "A number of contractors for Google (employed through staffing firm Adecco) have filed a lawsuit alleging that confidentiality agreements with the company deprive them of basic legal rights, such as free speech. Contractors are prevented from discussing wages or working conditions, which they claim prohibit them from \u201cdisclosing violations of state and federal law, either within Google to their managers or outside Google to private attorneys or government officials\u201d. The Sept. 21st filing with a California appeals court reverses a lower court decision, allowing the lawsuit to proceed. ",
+    "online": null,
     "locations": [
-        "usa"
+        "san francisco-california-usa"
     ],
-    "companies": null,
-    "workers": 107,
-    "tags": [
-        "antiracism",
-        "blm",
-        "industry_solidarity"
+    "companies": [
+        "google",
+        "adecco"
     ],
+    "workers": null,
+    "tags": null,
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            39.7837304,
-            -100.445882
+            37.7924005,
+            -122.39175109524751
         ]
     ],
     "addresses": [
-        "United States"
+        "Google Community Space, 188, The Embarcadero, Port of San Francisco, San Francisco, California, 94105, United States"
     ]
 }

@@ -1,45 +1,40 @@
 {
-    "id": 533,
-    "date": "2022/02/07",
+    "id": 529,
+    "date": "2022/02/02",
     "sources": [
-        "https://progressive.international/wire/2022-02-15-turkish-delivery-workers-protest-for-wage-increase-and-unionization-rights/en"
+        "https://www.cnbc.com/2022/02/02/amazon-workers-in-new-york-file-petition-for-union-election.html"
     ],
     "actions": [
-        "protest",
-        "strike",
         "union drive"
     ],
     "struggles": [
-        "pay and benefits"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
-        "contract workers",
-        "gig workers"
+        "blue collar workers",
+        "inhouse workers"
     ],
-    "description": "In response to the economic crisis in Turkey, food delivery company, Yemeksepeti Banabi, announced a 10% raise in salary, which sparked outrage, and its delivery workers of Yemeksepeti Banabi are striking for higher wages. They are also demanding to change the business model, in which they are considered self-employed and don\u2019t have social security. A majority union, The All Shipping Workers Union, has been formed, but the company is preventing unionization rights from being implemented through legal loopholes. \n\nIn similar Turkish companies like Trendyol Express, Yurti\u00e7i Cargo, Scotty, Aras Cargo, S\u00fcrat Cargo, and Migros Warehouse, delivery workers also protested the miniscule wage increase. Trendyol Express workers succeeded in a wage increase from 11% to 39%. \n\nThe head of the Transportation Workers Union expressed solidarity and support.",
+    "description": "Workers at Amazon\u2019s Staten Island facility LDJ5 are seeking to be represented by the Amazon Labor union, and so they have filed a petition to the NLRB for a union election. ",
     "online": null,
     "locations": [
-        "levent-turkey",
-        "izmir-turkey",
-        "ankara-turkey"
+        "new york city-new york-usa"
     ],
     "companies": [
-        "yemeksepti banabi",
-        "trendyol express",
-        "yurtici cargo",
-        "scotty",
-        "aras cargo",
-        "surat cargo",
-        "migros warehouse"
+        "amazon"
     ],
     "workers": null,
-    "tags": [
-        "delivery_workers",
-        "industry solidarity"
-    ],
+    "tags": null,
     "author": [
         "wynniechan"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            40.722465,
+            -73.9977307
+        ]
+    ],
+    "addresses": [
+        "Amazon, 72, Spring Street, Manhattan Community Board 2, New York County, New York, 10013, United States"
+    ]
 }

@@ -1,42 +1,43 @@
 {
-    "id": 273,
-    "date": "2020/03/18",
+    "id": 240,
+    "date": "2020/03/17",
     "sources": [
-        "https://www.nytimes.com/2020/05/14/technology/amazon-unions-france-coronavirus.html",
-        "https://www.reuters.com/article/us-health-coronavirus-france-amazon-idUSKBN2152MP"
+        "https://medium.com/@amazonemployeesclimatejustice/coronavirus-amazon-log-cfdc9a6f4437",
+        "https://medium.com/@amazoniansunitednyc/we-amazon-workers-demand-coronavirus-protections-16f28ad8b15f"
     ],
     "actions": [
-        "strike"
+        "open letter"
     ],
     "struggles": [
         "working conditions"
     ],
     "employment_types": [
-        "inhouse workers",
-        "blue collar workers"
+        "blue collar workers",
+        "white collar workers"
     ],
-    "description": "French Amazon employees at six warehouses protested and threatened walkouts over lax covid-19 protections, calling for the company to adhere to social distancing, provide personal protective equipment, and initiate employee temperature checks. A spokesperson for Amazon's French CFDT union estimated that between 30-40% of Amazon employees in the country were no longer showing up to work over safety concerns or because of childcare obligations. A French law requires workplaces to keep paying workers who refuse to work over safety concerns. ",
+    "description": "Over 5000 Amazon employees signed an open letter to Jeff Bezos calling for improved working conditions during the coronavirus pandemic, including paid sick leave regardless of diagnosis, child care, and 1.5x hazard pay. Since then, on March 22nd, the letter has been updated to include a call for transparency on any diagnosed covid-19 cases at the facilities, a halt on the shipping of non-essential items, and medical coverage to part-time employees. On March 27th, Amazon Employees for Climate Justice emailed its constituents (mostly corporate employees) to encourage them to sign the open letter, which purportedly lead to an additional 580 signatures.",
     "online": null,
     "locations": [
-        "saran-france"
+        "new york city-new york-usa"
     ],
     "companies": [
         "amazon"
     ],
-    "workers": 250,
+    "workers": 5210,
     "tags": [
-        "coronavirus"
+        "coronavirus",
+        "coworker_solidarity"
     ],
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            47.9619318,
-            1.8440185793930501
+            40.722465,
+            -73.9977307
         ]
     ],
     "addresses": [
-        "Amazon.fr ORY1, Rue du Champs Rouge, Saran, Orl\u00e9ans, Loiret, Centre-Val de Loire, France m\u00e9tropolitaine, 45770, France"
+        "Amazon, 72, Spring Street, Manhattan Community Board 2, New York County, New York, 10013, United States"
     ]
 }

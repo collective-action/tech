@@ -1,70 +1,58 @@
 {
-    "id": 213,
-    "date": "2019/11/29",
+    "id": 420,
+    "date": "2019/11/20",
     "sources": [
-        "https://www.rte.ie/news/business/2019/1129/1095932-amazon-german-strike/",
-        "https://www.forbes.com/sites/isabeltogoh/2019/11/29/black-friday-strikes-and-protests-hit-amazon-in-france-and-germany/#269a045a5bb3"
+        "https://www.vox.com/recode/2019/12/31/21043467/google-union-cafeteria-workers-unionized-alphabet-silicon-valley-mountainview"
     ],
     "actions": [
-        "strike"
+        "union representation"
     ],
     "struggles": [
-        "working conditions",
-        "pay and benefits"
+        "pay and benefits",
+        "working conditions"
     ],
     "employment_types": [
-        "blue collar workers"
+        "blue collar workers",
+        "contract workers"
     ],
-    "description": "Hundreds of Amazon workers in Germany walked off the job as the online retailer kicked off its 'Black Friday' sales bonanza, escalating a long-simmering battle for better pay and working conditions. The strike called by the powerful Verdi union is set to last until Tuesday morning and will also cover 'Cyber Monday', another extravaganza of online discounts in what is a crucial sales period for Amazon. Verdi members are demanding a collective agreement for a living wage.",
+    "description": "About 2,300 Google cafeteria workers (contracted through Compass) voted to unionize to call for better pay and benefits. These workers include dishwashers and food preparers who serve breakfast, lunch, and dinner to Google employees. The service workers are considered contract workers and don't receive the same benefits such as retirement plans which are standard for direct Google employees. The cafeteria workers voted to unionize with a local chapter of Unite Here, which represents 300,000 workers in food, casino, laundry, hotel, and warehouse industries. Workers expressed dissatisfaction with their low wages, which start at $35,000 in the Bay Area, and lack of benefits compared to full-time Google employees. Some reported incidents of discrimination and bullying. The workers are officially employed by Compass Group, a third party contractor. The vote followed a two year effort.",
     "online": null,
     "locations": [
-        "bad hersfeld-germany",
-        "leipzig-germany",
-        "koblenz-germany",
-        "rheinberg-germany",
-        "werne-germany",
-        "graben-germany"
+        "usa",
+        "mountain view-california-usa",
+        "san francisco-california-usa"
     ],
     "companies": [
-        "amazon"
+        "google",
+        "compass group"
     ],
-    "workers": 200,
+    "workers": 2300,
     "tags": null,
     "author": [
-        "organizejs"
+        "hyatt d."
     ],
     "latlngs": [
         [
-            50.845334,
-            9.677958815746917
+            33.977092,
+            -118.4092133
         ],
         [
-            51.1238951,
-            12.492158
+            37.419000999999994,
+            -122.08237596053958
         ],
         [
-            50.3495332,
-            7.4901388
+            37.7924005,
+            -122.39175109524751
         ],
         [
-            51.5369716,
-            6.5877929
-        ],
-        [
-            51.653494949999995,
-            7.59464606445661
-        ],
-        [
-            48.198871499999996,
-            10.848663796329923
+            37.7249773,
+            -122.4603378
         ]
     ],
     "addresses": [
-        "Amazon FRA1, Eichhof, Asbach, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
-        "Abholstation, 26, Sachsenallee, Borna, Landkreis Leipzig, Sachsen, 04552, Deutschland",
-        "Amazon, Am Autobahnkreuz, Gewerbegebiet Industriepark A61/GVZ Koblenz, R\u00fcbenach, Koblenz, Rheinland-Pfalz, 56072, Deutschland",
-        "Amazon, Amazonstra\u00dfe, Winterswick, Rheinberg, Kreis Wesel, Nordrhein-Westfalen, 47495, Deutschland",
-        "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
-        "Amazon-Logistikzentrum, Graben, Landkreis Augsburg, Bayern, 86836, Deutschland"
+        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
+        "Google, Mountain View, Santa Clara County, California, United States",
+        "Google Community Space, 188, The Embarcadero, Port of San Francisco, San Francisco, California, 94105, United States",
+        "LT Group - Compass Real Estate, Ocean Avenue, Ingleside, San Francisco, California, 94112, United States"
     ]
 }

@@ -1,32 +1,34 @@
 {
-    "id": 520,
-    "date": "2021/12/13",
+    "id": 500,
+    "date": "2021/11/28",
     "sources": [
-        "https://techcrunch.com/2021/12/14/big-cartel-staff-are-voluntarily-recognized-as-the-latest-tech-workers-union/"
+        "https://freedomnews.org.uk/2021/11/26/sheffield-justeat-couriers-set-to-strike-protest-against-shocking-pay-cut/",
+        "https://actionnetwork.org/fundraising/sheffield-justeat-riders-are-going-on-strike-pay-rise-not-pay-cut",
+        "https://twitter.com/SYorksCouriers/status/1463197173261156353?t=Ad7HM8-Sil6pAu00vzPK-g&s=19"
     ],
     "actions": [
-        "union drive",
-        "union representation"
+        "protest",
+        "strike"
     ],
     "struggles": [
-        "working conditions",
         "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "gig workers",
+        "contract workers"
     ],
-    "description": "The co-founders of Big Cartel voluntarily recognized the Big Cartel Workers Union, which are represented by the OPEIU. The workers unionized in order to have a larger voice in the decision-making process, and to ensure fair pay and benefits for everyone. This union is also the first tech union in a \u201cright-to-work\u201d state.",
+    "description": "In response to a planned 25% pay cut, Stuart food delivery workers from IWGB held a demonstration outside of Sheffield Town Hall. They demand a pay rise, especially as the minimum living wage has increased. They also have no sick pay and have to pay for their own vehicle and insurance costs.",
     "online": null,
     "locations": [
-        "salt lake city-utah-usa"
+        "sheffield-englad-uk"
     ],
     "companies": [
-        "big cartel"
+        "stuart",
+        "justeatuk"
     ],
-    "workers": 30,
+    "workers": 22,
     "tags": [
-        "opeiu"
+        "delivery_workers"
     ],
     "author": [
         "wynniechan"

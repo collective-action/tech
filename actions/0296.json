@@ -1,42 +1,35 @@
 {
-    "id": 267,
-    "date": "2020/06/08",
+    "id": 342,
+    "date": "2020/06/04",
     "sources": [
-        "https://medium.com/@fbcontentmods/this-is-a-message-of-solidarity-from-a-group-of-current-and-former-content-moderators-at-facebook-6af1b3b2a020"
+        "https://www.axios.com/coinbase-controversy-b707973c-0f24-4d1e-9690-78ac5fdb94e7.html"
     ],
     "actions": [
-        "open letter"
+        "protest"
     ],
     "struggles": [
-        "ethics"
+        "discrimination"
     ],
     "employment_types": [
-        "contract workers"
+        "white collar workers",
+        "inhouse workers"
     ],
-    "description": "Nine current and former Facebook content moderators posted a message of solidarity with the Black community in the wake of the George Floyd protests and in support of the virtual walkout. The authors noted that they would have attended the walkout \"if Facebook would allow it. As outsourced contractors, non-disclosure agreements deter us from speaking openly about what we do and witness for most of our waking hours.\" The workers also remarked on the lack of protections they receive from their employer. \"We would walk out with you \u2014 if we could afford it. At the moment, content moderators have no possibility, no network or platform or financial security \u2014 especially when we are atomized in pandemic and remotely micromanaged \u2014 to stage an effective walkout without risking fines, our income and even our right to stay in the countries where we live and work.\"",
+    "description": "Employees at Coinbase held a virtual walkout following an \"ask me anything\" session with company management where CEO Brian Armstrong did not indicate that the company would be willing to publicly express support for the Black Lives Matter movement. WIRED reports: \"Pressed on whether the company would say the words \u201cBlack Lives Matter,\u201d Armstrong again demurred. 'TBD'\"",
     "online": true,
     "locations": [
         "usa"
     ],
     "companies": [
-        "facebook"
+        "coinbase"
     ],
-    "workers": 9,
+    "workers": null,
     "tags": [
         "antiracism",
-        "blm",
-        "moderators"
+        "blm"
     ],
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            30.2691649,
-            -97.7455041
-        ]
-    ],
-    "addresses": [
-        "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

@@ -1,40 +1,43 @@
 {
-    "id": 354,
-    "date": "2020/10/27",
+    "id": 352,
+    "date": "2020/10/22",
     "sources": [
-        "https://www.washingtonpost.com/context/a-statement-on-caste-bias-in-silicon-valley-from-30-dalit-women-engineers/d692b4f8-2710-41c3-9d5f-ea55c13bcc50/?itid=lk_interstitial_manual_16",
-        "https://www.washingtonpost.com/technology/2020/10/27/indian-caste-bias-silicon-valley/"
+        "https://www.nytimes.com/2020/10/22/business/amazon-shutdown-threat-election-day.html"
     ],
     "actions": [
-        "open letter"
+        "strike"
     ],
     "struggles": [
-        "discrimination"
+        "working conditions",
+        "ethics"
     ],
     "employment_types": [
-        "white collar workers",
+        "blue collar workers",
         "inhouse workers"
     ],
-    "description": "A group of 30 Indian female engineers who were born into the Dalit caste shared a statement with the Washington Post describing their experience of casteism and sexism in Silicon Valley. The group called for American corporations to adopt caste as a protected category, treated on the same terms as gender, race, and sexuality. ",
+    "description": "Amazon workers, organized by Amazon Employees for Climate Justice, are calling for a 15-minute work stoppage at warehouses across the country on Halloween in a push for paid time-off for voting on Election Day. ",
     "online": true,
     "locations": [
         "usa"
     ],
-    "companies": null,
-    "workers": 30,
+    "companies": [
+        "amazon"
+    ],
+    "workers": null,
     "tags": [
-        "sexism"
+        "politics",
+        "coworker_solidarity"
     ],
     "author": [
         "nataliyaned"
     ],
     "latlngs": [
         [
-            39.7837304,
-            -100.445882
+            46.320207,
+            -112.1072224
         ]
     ],
     "addresses": [
-        "United States"
+        "Amazon, Jefferson County, Montana, United States"
     ]
 }

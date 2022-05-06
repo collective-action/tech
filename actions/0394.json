@@ -1,50 +1,42 @@
 {
-    "id": 415,
-    "date": "2021/04/07",
+    "id": 416,
+    "date": "2021/04/06",
     "sources": [
-        "https://www.theverge.com/2021/4/7/22327090/gimlet-media-union-spotify-contract-agreement",
-        "https://www.wgaeast.org/gimlet-media-and-the-ringer-ratify-first-podcast-contracts-at-spotify/",
-        "https://www.wgaeast.org/wp-content/uploads/sites/4/2021/04/Gimlet-Media-WGA-CBA-FINAL-DRAFT-March-23-2021-1.pdf",
-        "https://www.wgaeast.org/wp-content/uploads/sites/4/2021/03/Ringer-LLC-WGAE-CBA-FINAL.pdf"
+        "https://www.bloomberg.com/news/articles/2021-04-06/doordash-workers-are-trying-to-game-the-algorithm-to-increase-pay"
     ],
     "actions": [
-        "union contract"
+        "protest",
+        "strike"
     ],
     "struggles": [
-        "pay and benefits",
-        "discrimination",
-        "working conditions",
-        "unfair labor practices",
-        "job security"
+        "pay and benefits"
     ],
     "employment_types": [
-        "white collar workers",
-        "inhouse workers"
+        "gig workers"
     ],
-    "description": "Spotify and two unions, the Ringer Union and the Gimlet Union, agreed on a 3-year union contract, the first in the tech industry. The contract sets salary minimums, annual salary increases, terms for severance pay, and diversity hiring guarantees but does not clarify terms around intellectual property. ",
-    "online": null,
+    "description": "DoorDash drivers are working together with a 40,000 person online community (#DeclineNow) to increase their pay by systematically declining orders through the platform. As part of the #DeclineNow movement, DoorDash drivers do not accept orders that pay less than $7, more than twice the current $3 floor. By collectively declining orders, it forces the algorithm to offer the next driver the same delivery but at a higher price. ",
+    "online": true,
     "locations": [
         "usa"
     ],
     "companies": [
-        "spotify",
-        "gimlet media",
-        "the ringer"
+        "doordash"
     ],
-    "workers": null,
+    "workers": 40000,
     "tags": [
-        "coworker_solidarity"
+        "coworker solidarity",
+        "delivery_workers"
     ],
     "author": [
         "hyatt d."
     ],
     "latlngs": [
         [
-            40.7411352,
-            -73.7712961
+            37.7834546,
+            -122.4080358
         ]
     ],
     "addresses": [
-        "Ringer, Queens, Queens County, New York, 11364:11427, United States"
+        "Doordash HQ, Market Street, Union Square, San Francisco, California, 94104, United States"
     ]
 }

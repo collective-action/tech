@@ -1,35 +1,46 @@
 {
-    "id": 320,
-    "date": "2020/08/19",
+    "id": 309,
+    "date": "2020/08/13",
     "sources": [
-        "https://leftfootforward.org/2020/08/give-us-better-pay-and-conditions-say-sheffield-deliveroo-drivers/"
+        "https://www.cnbc.com/2020/08/13/german-digital-bank-n26-faces-outcry-from-staff-over-management.html",
+        "https://www.finextra.com/newsarticle/36392/n26-faces-off-with-employees-over-works-council",
+        "https://www.fintechfutures.com/2020/08/n26-founders-obtain-injunction-against-works-council/",
+        "https://twitter.com/worker291/status/1293830980172689410"
     ],
     "actions": [
-        "protest",
-        "strike"
+        "union representation",
+        "open letter",
+        "union drive"
     ],
     "struggles": [
+        "working conditions",
         "pay and benefits",
-        "working conditions"
+        "unfair labor practices"
     ],
     "employment_types": [
-        "gig workers"
+        "white collar workers",
+        "contract workers"
     ],
-    "description": "Deliveroo workers in Sheffield, England kicked off two weeks of strike actions to demand higher pay and better working conditions, including the right to appeal terminations. The actions are designed to target companies, e.g. certain restaurants, that workers believe to be part of the exploitation. An outright strike was deemed too expensive by the workers, many of whom report working 60-70 hours a week to make ends meet. Actions will also include flyering and a demonstration.",
+    "description": "After workers of N26 (digital bank) announced their intent to form a Works Council (Betriebsrat), management responded by issuing a legal injunction, banning 6 of the workers from partaking in formation of electoral committee. They forgot to include the service union Ver.di, so on August 13th, Ver.di chaired a meeting for N26 Operations GmbH, and workers voted for the first electoral committee.",
     "online": null,
     "locations": [
-        "sheffield-uk"
+        "berlin-germany"
     ],
     "companies": [
-        "deliveroo"
+        "N26"
     ],
-    "workers": null,
-    "tags": [
-        "delivery_workers"
-    ],
+    "workers": 20,
+    "tags": null,
     "author": [
-        "nataliyaned"
+        "Worker26"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            52.5160429,
+            13.4125087
+        ]
+    ],
+    "addresses": [
+        "N26 Bank GmbH, 62, Klosterstra\u00dfe, Mitte, Berlin, 10179, Deutschland"
+    ]
 }

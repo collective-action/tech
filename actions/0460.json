@@ -1,107 +1,57 @@
 {
-    "id": 505,
-    "date": "2021/11/18",
+    "id": 491,
+    "date": "2021/10/29",
     "sources": [
-        "https://www.dailydot.com/debug/make-amazon-pay-black-friday/",
-        "https://www.cnet.com/tech/amazon-scattered-black-friday-protests/",
-        "https://makeamazonpay.com/"
+        "https://www.nytimes.com/2021/11/05/technology/google-workers.html",
+        "https://www.protocol.com/bulletins/google-modis-hazard-pay",
+        "https://twitter.com/AlphabetWorkers/status/1456639911444942856?t=uNa2SAn2hlXtBcaLKIVj2g&s=19"
     ],
     "actions": [
-        "protest",
-        "strike",
-        "open letter"
+        "protest"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions",
-        "ethics",
-        "job security"
+        "pay and benefits"
     ],
     "employment_types": [
-        "blue collar workers",
-        "contract workers",
-        "inhouse workers"
+        "contract workers"
     ],
-    "description": "The campaign Make Amazon Pay, composed of over 70 labor unions of 20 different countries, planned delivery drivers strike, work stoppages, demonstrations, and protests on Black Friday. Their demands include \u201cworkplace improvements, job security, respect for workers\u2019 rights, sustainable operations and paying back society.\u201d Additionally, on Black Friday, the environmental group Extinction Rebellion blocked the entrances to 13 UK distribution centers, a separate protest from Make Amazon Pay. ",
+    "description": "Data center temps who work for Modis, a Google subcontractor, were promised $200 weekly incentive bonuses because of the pandemic. After Modis stopped this program and announced that workers would not receive back pay, the Alphabet Workers Union-CWA workers began organization efforts. Workers filed \u201ctickets\u201d to Modis' management, sent more than 100 messages, and arranged a videoconference. There were also discussions of a work stoppage. Before the scheduled videoconference, however, Modis backtracked their decision in an email. Modis agreed to continue paying the hazard pay until December 19. ",
     "online": true,
     "locations": [
-        "italy",
-        "france",
-        "usa",
-        "south africa",
-        "bangladesh",
-        "cambodia",
-        "uk",
-        "germany",
-        "netherlands",
-        "india"
+        "usa"
     ],
     "companies": [
-        "amazon"
+        "google",
+        "modis",
+        "adecco"
     ],
-    "workers": 22,
+    "workers": 130,
     "tags": [
-        "international solidarity",
-        "climate_strike",
-        "climate change",
-        "politics",
-        "coronavirus"
+        "cwa",
+        "coronavirus",
+        "technicians",
+        "online action"
     ],
     "author": [
         "wynniechan"
     ],
     "latlngs": [
         [
-            45.528468950000004,
-            9.835897674840712
+            33.977092,
+            -118.4092133
         ],
         [
-            46.73690925,
-            4.850183355658723
+            39.4816128,
+            -106.046296
         ],
         [
-            46.320207,
-            -112.1072224
-        ],
-        [
-            -25.7668121,
-            28.3256044
-        ],
-        [
-            23.60752375,
-            89.49479645087905
-        ],
-        [
-            11.5673666,
-            104.9211112
-        ],
-        [
-            52.3124769,
-            -1.878707127163782
-        ],
-        [
-            51.653494949999995,
-            7.59464606445661
-        ],
-        [
-            52.3752474,
-            4.8947825
-        ],
-        [
-            12.9798967,
-            77.6954191
+            47.49030525,
+            -122.27396915604896
         ]
     ],
     "addresses": [
-        "Amazon, Cividate al Piano, Bergamo, Lombardia, Italia",
-        "Amazon.fr Logistique Distrip\u00f4le Chalon, Sevrey, Chalon-sur-Sa\u00f4ne, Sa\u00f4ne-et-Loire, Bourgogne-Franche-Comt\u00e9, France m\u00e9tropolitaine, 71100, France",
-        "Amazon, Jefferson County, Montana, United States",
-        "Amazon, The Highway Street, Wapadrand Security Village, Tshwane Ward 85, City of Tshwane Metropolitan Municipality, Gauteng, 0050, South Africa",
-        "Amazon, Narua Kheya Ghat Road, Narua, \u09b0\u09be\u099c\u09ac\u09be\u09dc\u09c0 \u099c\u09c7\u09b2\u09be, \u09a2\u09be\u0995\u09be \u09ac\u09bf\u09ad\u09be\u0997, 7730, Bangladesh",
-        "Amazon, \u1795\u17d2\u179b\u17bc\u179c \u178f\u17d2\u179a\u179f\u1780\u17cb\u1795\u17d2\u17a2\u17c2\u1798 (\u17e6\u17e3), \u179a\u17b6\u1787\u1792\u17b6\u1793\u17b8\u1797\u17d2\u1793\u17c6\u1796\u17c1\u1789, \u1781\u178e\u17d2\u178c\u178a\u17bc\u1793\u1796\u17c1\u1789, \u179a\u17b6\u1787\u1792\u17b6\u1793\u17b8\u1797\u17d2\u1793\u17c6\u1796\u17c1\u1789, 120202, \u1796\u17d2\u179a\u17c7\u179a\u17b6\u1787\u17b6\u178e\u17b6\u1785\u1780\u17d2\u179a\u200b\u1780\u1798\u17d2\u1796\u17bb\u1787\u17b6",
-        "Amazon, Beoley CP, Holt End, Bromsgrove, Worcestershire, West Midlands, England, United Kingdom",
-        "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
-        "Amazon, 169, Nieuwendijk, Centrum, Amsterdam, Noord-Holland, Nederland, 1012MG, Nederland",
-        "Amazon, Goshala Road, Vignananagar, Dodda Nekkundi, Mahadevapura Zone, Bengaluru, Bangalore East, Bangalore Urban, Karnataka, 560048, India"
+        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
+        "Modis, 113, South Main Street, Breckenridge, Summit County, Colorado, 80424, United States",
+        "Adecco, 12720, Gateway Drive South, Tukwila Commerce Park, Foster, Tukwila, King County, Washington, 98168, United States"
     ]
 }

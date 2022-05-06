@@ -1,45 +1,39 @@
 {
-    "id": 450,
-    "date": "2021/04/01",
+    "id": 426,
+    "date": "2021/03/23",
     "sources": [
-        "https://labornotes.org/2021/06/dispersed-undaunted-chicago-amazon-workers-help-win-megacycle-pay-nationwide",
-        "https://www.amazoniansunited.org/megacyclepetition",
-        "https://news.wttw.com/2021/04/01/amazon-employees-chicago-demand-accommodations-brutal-shift"
+        "https://rms-open-letter.github.io/",
+        "https://rms-open-letter.github.io/appendix",
+        "https://rms-open-letter.github.io/statements",
+        "https://itwire.com/open-source/pro-stallman-group-issues-open-letter",
+        "-wants-him-to-stay-on-fsf-board.html"
     ],
     "actions": [
-        "protest",
         "open letter"
     ],
     "struggles": [
-        "pay and benefits",
-        "working conditions"
+        "ethics",
+        "discrimination"
     ],
     "employment_types": [
-        "blue collar workers",
-        "inhouse workers"
+        "open source community"
     ],
-    "description": "The Chicago chapter of Amazonians United, DCH1, created a petition demanding a $2 pay increase and full 20-minute breaks for workers on the company's megacycle shift, a new shift that runs from 1:20 am -11:50 am. In addition, the petition called for accommodations for workers who are unable to work the shift. In April DCH1 also organized a walkout in protest. On May 19th, Amazon warehouse workers across the country who work on the Megacycle shift began receiving a $1.50-$2.00 pay increase per hour for certain days of the week. ",
-    "online": null,
+    "description": "Members of the open source community have written an open letter calling on the entire Board of the Free Software Foundation to be removed for supporting Richard M. Stallman over his many years involved with that organization. They are also demanding that Stallman be removed from all leadership positions including the GNU Project. The letter says that Stallman is misogynist, ableist, and transphobic and cites incidents thereof. It calls on members of the open source community to stop contributing and associating with the organization and their projects.",
+    "online": true,
     "locations": [
-        "chicago-illinois-usa"
+        "worldwide"
     ],
     "companies": [
-        "amazon"
+        "free_software_foundation"
     ],
-    "workers": null,
+    "workers": 3007,
     "tags": [
-        "coworker solidarity"
+        "sexism",
+        "sexual_harassment"
     ],
     "author": [
         "hyatt d."
     ],
-    "latlngs": [
-        [
-            41.84040105,
-            -87.68351928672685
-        ]
-    ],
-    "addresses": [
-        "Amazon Distribution, 2801, South Western Avenue, Lower West Side, Chicago, Cook County, Illinois, 60608, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

@@ -1,45 +1,33 @@
 {
-    "id": 233,
-    "date": "2020/02/20",
+    "id": 230,
+    "date": "2020/02/12",
     "sources": [
-        "https://www.marketwatch.com/story/hundreds-of-oracle-workers-stage-walkout-to-protest-larry-ellisons-fundraiser-for-trump-2020-02-20",
-        "https://www.marketwatch.com/story/hundreds-of-oracle-workers-stage-walkout-to-protest-larry-ellisons-fundraiser-for-trump-2020-02-20"
+        "https://www.vice.com/en_us/article/xgq4n7/uber-and-lyft-drivers-have-a-simple-request-clean-bathrooms",
+        "https://seiu721.salsalabs.org/laxhygiene2020/index.html"
     ],
     "actions": [
-        "strike",
-        "protest"
+        "open letter"
     ],
     "struggles": [
-        "ethics",
-        "discrimination"
+        "working conditions"
     ],
     "employment_types": [
-        "white collar workers"
+        "gig workers"
     ],
-    "description": "People left their desks at Oracle offices around the world to protest Chairman Larry Ellison\u2019s fundraiser a day earlier for President Donald Trump. The protest, called No Ethics/No Work, involved about 300 employees walking out of their offices or stopping work at remote locations at noon local time and devoting the rest of the day to volunteering or civic engagement.",
-    "online": true,
+    "description": "Rideshare workers have signed a petition calling on the LAX (Los Angeles) airport to provide them with better bathrooms. Currently all workers are forced to use six port-a-potties and one external handwashing station located on airport grounds. LAX management responded by saying they will install three additional port-a-potties and two more external handwashing stations. Drivers, organized through the Mobile Workers Alliance, continue to call for more.",
+    "online": null,
     "locations": [
-        "usa"
+        "los angeles-california-usa"
     ],
     "companies": [
-        "oracle"
+        "uber",
+        "lyft"
     ],
-    "workers": 300,
-    "tags": [
-        "trump",
-        "lgbtq",
-        "ableism"
-    ],
+    "workers": 2000,
+    "tags": null,
     "author": [
-        "organizejs"
+        "nataliyaned"
     ],
-    "latlngs": [
-        [
-            32.6099702,
-            -110.7651843
-        ]
-    ],
-    "addresses": [
-        "Oracle, Pinal County, Arizona, 85623, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }
