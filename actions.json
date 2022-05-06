@@ -857,15 +857,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                37.3361905,
-                -121.890583
-            ]
-        ],
-        "addresses": [
-            "San Jose, Santa Clara County, California, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 14,
@@ -2707,7 +2700,7 @@
             ]
         ],
         "addresses": [
-            "Deliveroo, Pentonville Road, Pentonville, Barnsbury, London, London Borough of Islington, Greater London, England, N1, United Kingdom"
+            "Deliveroo, Pentonville Road, Pentonville, London Borough of Islington, London, Greater London, England, N1, United Kingdom"
         ]
     },
     {
@@ -8409,7 +8402,7 @@
             ]
         ],
         "addresses": [
-            "Deliveroo, Pentonville Road, Pentonville, Barnsbury, London, London Borough of Islington, Greater London, England, N1, United Kingdom"
+            "Deliveroo, Pentonville Road, Pentonville, London Borough of Islington, London, Greater London, England, N1, United Kingdom"
         ]
     },
     {
@@ -13896,7 +13889,7 @@
             "Amazon, Beoley CP, Holt End, Bromsgrove, Worcestershire, West Midlands, England, United Kingdom",
             "Microsoft London, 2, Kingdom Street, Paddington Central, Paddington, London, City of Westminster, Greater London, England, W2 6PY, United Kingdom",
             "Samsung, 18-20, Commercial Street, City Centre, Sheffield, Yorkshire and the Humber, England, S1 2AT, United Kingdom",
-            "Deliveroo, Pentonville Road, Pentonville, Barnsbury, London, London Borough of Islington, Greater London, England, N1, United Kingdom"
+            "Deliveroo, Pentonville Road, Pentonville, London Borough of Islington, London, Greater London, England, N1, United Kingdom"
         ]
     },
     {
@@ -16573,7 +16566,7 @@
             ]
         ],
         "addresses": [
-            "Deliveroo, Pentonville Road, Pentonville, Barnsbury, London, London Borough of Islington, Greater London, England, N1, United Kingdom"
+            "Deliveroo, Pentonville Road, Pentonville, London Borough of Islington, London, Greater London, England, N1, United Kingdom"
         ]
     },
     {
