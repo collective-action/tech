@@ -13883,8 +13883,8 @@
                 -0.181935
             ],
             [
-                53.3828946,
-                -1.4634543
+                55.9519248,
+                -3.1982756
             ],
             [
                 51.5314216,
@@ -13895,7 +13895,7 @@
             "Google, 6, Pancras Road, King's Cross, London, London Borough of Camden, Greater London, England, N1C 4BJ, United Kingdom",
             "Amazon, Beoley CP, Holt End, Bromsgrove, Worcestershire, West Midlands, England, United Kingdom",
             "Microsoft London, 2, Kingdom Street, Paddington Central, Paddington, London, City of Westminster, Greater London, England, W2 6PY, United Kingdom",
-            "Samsung, 18-20, Commercial Street, City Centre, Sheffield, Yorkshire and the Humber, England, S1 2AT, United Kingdom",
+            "Samsung, Princes Street, New Town, New Town/Broughton, Edinburgh, City of Edinburgh, Alba / Scotland, EH2 2ER, United Kingdom",
             "Deliveroo, Pentonville Road, Pentonville, London Borough of Islington, London, Greater London, England, N1, United Kingdom"
         ]
     },
@@ -19107,8 +19107,15 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                34.0976547,
+                -118.3164863
+            ]
+        ],
+        "addresses": [
+            "Netflix at Sunset Bronson Studios, West Sunset Boulevard, Hollywood, Los Angeles, Los Angeles County, California, 90028-5420, United States"
+        ]
     },
     {
         "id": 484,
