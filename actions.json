@@ -857,8 +857,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.3361905,
+                -121.890583
+            ]
+        ],
+        "addresses": [
+            "San Jose, Santa Clara County, California, United States"
+        ]
     },
     {
         "id": 14,
@@ -2609,8 +2616,8 @@
         ],
         "latlngs": [
             [
-                37.7899898,
-                -122.3999799
+                37.7756962,
+                -122.4180838
             ],
             [
                 42.5032848,
@@ -2618,7 +2625,7 @@
             ]
         ],
         "addresses": [
-            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States",
+            "Uber, 1455, Market Street, Civic Center, San Francisco, California, 94103, United States",
             "Lyft Uber Pickup Location, Midstate Trail, Westminster, Worcester County, Massachusetts, 01541, United States"
         ]
     },
@@ -2807,12 +2814,12 @@
         ],
         "latlngs": [
             [
-                37.7899898,
-                -122.3999799
+                32.7841334,
+                -96.7892477
             ]
         ],
         "addresses": [
-            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States"
+            "Uber, North Central Expressway, Deep Ellum PID, Dallas, Dallas County, Texas, 75226, United States"
         ]
     },
     {
@@ -6609,12 +6616,12 @@
         ],
         "latlngs": [
             [
-                37.7924005,
-                -122.39175109524751
+                37.7933154,
+                -122.3945205
             ]
         ],
         "addresses": [
-            "Google Community Space, 188, The Embarcadero, Port of San Francisco, San Francisco, California, 94105, United States"
+            "Google One Market, 1, Market Street, Financial District, San Francisco, California, 94111, United States"
         ]
     },
     {
@@ -6695,12 +6702,12 @@
         ],
         "latlngs": [
             [
-                37.7924005,
-                -122.39175109524751
+                37.7933154,
+                -122.3945205
             ]
         ],
         "addresses": [
-            "Google Community Space, 188, The Embarcadero, Port of San Francisco, San Francisco, California, 94105, United States"
+            "Google One Market, 1, Market Street, Financial District, San Francisco, California, 94111, United States"
         ]
     },
     {
@@ -7100,17 +7107,17 @@
         ],
         "latlngs": [
             [
-                37.7899898,
-                -122.3999799
+                37.7756962,
+                -122.4180838
             ],
             [
-                37.7759881,
-                -122.3919991
+                37.7509149,
+                -122.40246883416269
             ]
         ],
         "addresses": [
-            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States",
-            "Lyft, 185, Berry Street, South Beach, San Francisco, California, 94107, United States"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, California, 94103, United States",
+            "Lyft, Kansas Street, Potrero Terrace, San Francisco, California, 94124, United States"
         ]
     },
     {
@@ -7147,17 +7154,17 @@
         ],
         "latlngs": [
             [
-                37.7899898,
-                -122.3999799
+                37.7756962,
+                -122.4180838
             ],
             [
-                37.7759881,
-                -122.3919991
+                37.7509149,
+                -122.40246883416269
             ]
         ],
         "addresses": [
-            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States",
-            "Lyft, 185, Berry Street, South Beach, San Francisco, California, 94107, United States"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, California, 94103, United States",
+            "Lyft, Kansas Street, Potrero Terrace, San Francisco, California, 94124, United States"
         ]
     },
     {
@@ -7680,17 +7687,17 @@
         ],
         "latlngs": [
             [
-                37.7899898,
-                -122.3999799
+                37.7756962,
+                -122.4180838
             ],
             [
-                37.7759881,
-                -122.3919991
+                37.7509149,
+                -122.40246883416269
             ]
         ],
         "addresses": [
-            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States",
-            "Lyft, 185, Berry Street, South Beach, San Francisco, California, 94107, United States"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, California, 94103, United States",
+            "Lyft, Kansas Street, Potrero Terrace, San Francisco, California, 94124, United States"
         ]
     },
     {
@@ -7812,7 +7819,7 @@
         ],
         "addresses": [
             "UserTesting, 690, 5th Street, South of Market, San Francisco, California, 94017, United States",
-            "Doordash HQ, Market Street, Union Square, San Francisco, California, 94104, United States"
+            "Doordash HQ, 901, Market Street, Union Square, San Francisco, California, 94104, United States"
         ]
     },
     {
@@ -8961,8 +8968,8 @@
             ]
         ],
         "addresses": [
-            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States",
-            "Lyft, 185, Berry Street, South Beach, San Francisco, California, 94107, United States"
+            "Uber, Market Street, Financial District, California, 94105, United States",
+            "Lyft, 185, Berry Street, South Beach, California, 94107, United States"
         ]
     },
     {
@@ -9096,7 +9103,7 @@
             ]
         ],
         "addresses": [
-            "Google Community Space, 188, The Embarcadero, Port of San Francisco, San Francisco, California, 94105, United States",
+            "Google Community Space, 188, The Embarcadero, Port of San Francisco, California, 94105, United States",
             "WeWork, Mission Street, West SoMa, San Francisco, California, 94103, United States",
             "Kickstarter HQ, West Street, Brooklyn, Kings County, New York, 11222, United States",
             "WeWork, Market Street, Brooklyn, Kings County, New York, 11251, United States"
@@ -9176,12 +9183,12 @@
         ],
         "latlngs": [
             [
-                37.7924005,
-                -122.39175109524751
+                37.7933154,
+                -122.3945205
             ]
         ],
         "addresses": [
-            "Google Community Space, 188, The Embarcadero, Port of San Francisco, San Francisco, California, 94105, United States"
+            "Google One Market, 1, Market Street, Financial District, San Francisco, California, 94111, United States"
         ]
     },
     {
@@ -9227,8 +9234,8 @@
                 -122.08237596053958
             ],
             [
-                37.7924005,
-                -122.39175109524751
+                37.7933154,
+                -122.3945205
             ],
             [
                 37.7249773,
@@ -9238,8 +9245,8 @@
         "addresses": [
             "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
             "Google, Mountain View, Santa Clara County, California, United States",
-            "Google Community Space, 188, The Embarcadero, Port of San Francisco, San Francisco, California, 94105, United States",
-            "LT Group - Compass Real Estate, Ocean Avenue, Ingleside, San Francisco, California, 94112, United States"
+            "Google One Market, 1, Market Street, Financial District, San Francisco, California, 94111, United States",
+            "LT Group - Compass Real Estate, 1700, Ocean Avenue, Ingleside, San Francisco, California, 94112, United States"
         ]
     },
     {
@@ -9275,12 +9282,12 @@
         ],
         "latlngs": [
             [
-                37.7924005,
-                -122.39175109524751
+                37.7933154,
+                -122.3945205
             ]
         ],
         "addresses": [
-            "Google Community Space, 188, The Embarcadero, Port of San Francisco, San Francisco, California, 94105, United States"
+            "Google One Market, 1, Market Street, Financial District, San Francisco, California, 94111, United States"
         ]
     },
     {
@@ -9653,7 +9660,7 @@
             ]
         ],
         "addresses": [
-            "Spin, Bowling Green Drive, Inner Sunset, San Francisco, California, 94118-4504, United States"
+            "Spin, 50, Bowling Green Drive, Inner Sunset, San Francisco, California, 94118-4504, United States"
         ]
     },
     {
@@ -10029,8 +10036,8 @@
         ],
         "latlngs": [
             [
-                37.7899898,
-                -122.3999799
+                37.7756962,
+                -122.4180838
             ],
             [
                 37.7509149,
@@ -10038,7 +10045,7 @@
             ]
         ],
         "addresses": [
-            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States",
+            "Uber, 1455, Market Street, Civic Center, San Francisco, California, 94103, United States",
             "Lyft, Kansas Street, Potrero Terrace, San Francisco, California, 94124, United States"
         ]
     },
@@ -10332,8 +10339,8 @@
         ],
         "latlngs": [
             [
-                37.7899898,
-                -122.3999799
+                37.7756962,
+                -122.4180838
             ],
             [
                 37.7509149,
@@ -10345,7 +10352,7 @@
             ]
         ],
         "addresses": [
-            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States",
+            "Uber, 1455, Market Street, Civic Center, San Francisco, California, 94103, United States",
             "Lyft, Kansas Street, Potrero Terrace, San Francisco, California, 94124, United States",
             "Doordash HQ, Market Street, Union Square, San Francisco, California, 94104, United States"
         ]
@@ -10879,12 +10886,12 @@
         ],
         "latlngs": [
             [
-                37.7759881,
-                -122.3919991
+                37.7509149,
+                -122.40246883416269
             ],
             [
-                37.7899898,
-                -122.3999799
+                37.7756962,
+                -122.4180838
             ],
             [
                 32.7717259,
@@ -10896,8 +10903,8 @@
             ]
         ],
         "addresses": [
-            "Lyft, 185, Berry Street, South Beach, San Francisco, California, 94107, United States",
-            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States",
+            "Lyft, Kansas Street, Potrero Terrace, San Francisco, California, 94124, United States",
+            "Uber, 1455, Market Street, Civic Center, San Francisco, California, 94103, United States",
             "UBER / Lyft Driver Drop Off, Campanile Mall, Montezuma Mesa, San Diego, San Diego County, California, 92182, United States",
             "UBER / Lyft Driver Drop Off, Campanile Mall, Montezuma Mesa, San Diego, San Diego County, California, 92182, United States"
         ]
@@ -11957,7 +11964,7 @@
             ]
         ],
         "addresses": [
-            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States"
+            "Uber, Market Street, Financial District, California, 94105, United States"
         ]
     },
     {
@@ -12469,8 +12476,8 @@
         ],
         "latlngs": [
             [
-                37.7899898,
-                -122.3999799
+                32.7841334,
+                -96.7892477
             ],
             [
                 37.7509149,
@@ -12486,9 +12493,9 @@
             ]
         ],
         "addresses": [
-            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States",
+            "Uber, North Central Expressway, Deep Ellum PID, Dallas, Dallas County, Texas, 75226, United States",
             "Lyft, Kansas Street, Potrero Terrace, San Francisco, California, 94124, United States",
-            "Doordash HQ, Market Street, Union Square, San Francisco, California, 94104, United States",
+            "Doordash HQ, 901, Market Street, Union Square, San Francisco, California, 94104, United States",
             "UserTesting, 690, 5th Street, South of Market, San Francisco, California, 94017, United States"
         ]
     },
@@ -12994,8 +13001,8 @@
                 -118.4092133
             ],
             [
-                37.7899898,
-                -122.3999799
+                32.7841334,
+                -96.7892477
             ],
             [
                 37.7509149,
@@ -13009,7 +13016,7 @@
         "addresses": [
             "Amazon, Jefferson County, Montana, United States",
             "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
-            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States",
+            "Uber, North Central Expressway, Deep Ellum PID, Dallas, Dallas County, Texas, 75226, United States",
             "Lyft, Kansas Street, Potrero Terrace, San Francisco, California, 94124, United States",
             "UserTesting, 690, 5th Street, South of Market, San Francisco, California, 94017, United States"
         ]
@@ -15380,7 +15387,7 @@
             ]
         ],
         "addresses": [
-            "Twitter, Market Street, Civic Center, San Francisco, California, 94102, United States"
+            "Twitter, Stevenson Street, Market Square, San Francisco, California, 94102, United States"
         ]
     },
     {
@@ -15728,7 +15735,7 @@
             ]
         ],
         "addresses": [
-            "Doordash HQ, Market Street, Union Square, San Francisco, California, 94104, United States"
+            "Doordash HQ, 901, Market Street, Union Square, San Francisco, California, 94104, United States"
         ]
     },
     {
@@ -17932,7 +17939,7 @@
             ]
         ],
         "addresses": [
-            "Doordash HQ, Market Street, Union Square, San Francisco, California, 94104, United States"
+            "Doordash HQ, 901, Market Street, Union Square, San Francisco, California, 94104, United States"
         ]
     },
     {
