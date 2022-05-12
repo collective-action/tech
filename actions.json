@@ -857,15 +857,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                37.3361905,
-                -121.890583
-            ]
-        ],
-        "addresses": [
-            "San Jose, Santa Clara County, California, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 14,
@@ -3152,11 +3145,16 @@
         ],
         "latlngs": [
             [
+                33.80967965,
+                -117.83605415
+            ],
+            [
                 36.1449268,
                 -115.20639
             ]
         ],
         "addresses": [
+            "AT&T, 1302, North Tustin Street, Orange, Orange County, California, 92867, United States",
             "AT&T, West Sahara Avenue, Las Vegas, Clark County, Nevada, 89102-3636, United States"
         ]
     },
