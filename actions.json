@@ -41,7 +41,7 @@
             ]
         ],
         "addresses": [
-            "New York, United States"
+            "New York, Human Rights Violator Country"
         ]
     },
     {
@@ -83,7 +83,7 @@
             ]
         ],
         "addresses": [
-            "IBM, Lake Purdy, Town of Somers, Westchester County, New York, United States"
+            "IBM, Lake Purdy, Town of Somers, Westchester County, New York, Human Rights Violator Country"
         ]
     },
     {
@@ -156,7 +156,7 @@
             ]
         ],
         "addresses": [
-            "New York, United States"
+            "New York, Human Rights Violator Country"
         ]
     },
     {
@@ -262,7 +262,7 @@
             ]
         ],
         "addresses": [
-            "AT&T, 10025, Northeast Cascades Parkway, Portland, Multnomah County, Oregon, 97220, United States"
+            "AT&T, 10025, Northeast Cascades Parkway, Portland, Multnomah County, Oregon, 97220, Human Rights Violator Country"
         ]
     },
     {
@@ -298,7 +298,7 @@
             ]
         ],
         "addresses": [
-            "United States"
+            "Human Rights Violator Country"
         ]
     },
     {
@@ -409,7 +409,7 @@
             ]
         ],
         "addresses": [
-            "Intel Corporation, Folsom, Sacramento County, California, United States"
+            "Intel Corporation, Folsom, Sacramento County, California, Human Rights Violator Country"
         ]
     },
     {
@@ -448,7 +448,7 @@
             ]
         ],
         "addresses": [
-            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, California, 94043, United States"
+            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, California, 94043, Human Rights Violator Country"
         ]
     },
     {
@@ -491,7 +491,7 @@
             ]
         ],
         "addresses": [
-            "IBM, Lake Purdy, Town of Somers, Westchester County, New York, United States"
+            "IBM, Lake Purdy, Town of Somers, Westchester County, New York, Human Rights Violator Country"
         ]
     },
     {
@@ -612,7 +612,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Belltown, Seattle, King County, Washington, 98109-5210, United States"
+            "Amazon, Belltown, Seattle, King County, Washington, 98109-5210, Human Rights Violator Country"
         ]
     },
     {
@@ -651,7 +651,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Jefferson County, Montana, United States"
+            "Amazon, Jefferson County, Montana, Human Rights Violator Country"
         ]
     },
     {
@@ -741,9 +741,9 @@
             ]
         ],
         "addresses": [
-            "Colliers International; E-Trade Financial; IBM, 4660, La Jolla Village Drive, University City, San Diego, San Diego County, California, 92039, United States",
-            "HP, Peter Coutts Circle, Peter Coutts Hill, Stanford, Sunnyvale, Santa Clara County, California, 94304-1050, United States",
-            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, California, 94043, United States"
+            "Colliers International; E-Trade Financial; IBM, 4660, La Jolla Village Drive, University City, San Diego, San Diego County, California, 92039, Human Rights Violator Country",
+            "HP, Peter Coutts Circle, Peter Coutts Hill, Stanford, Sunnyvale, Santa Clara County, California, 94304-1050, Human Rights Violator Country",
+            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, California, 94043, Human Rights Violator Country"
         ]
     },
     {
@@ -785,7 +785,7 @@
             ]
         ],
         "addresses": [
-            "IBM, Lake Purdy, Town of Somers, Westchester County, New York, United States"
+            "IBM, Lake Purdy, Town of Somers, Westchester County, New York, Human Rights Violator Country"
         ]
     },
     {
@@ -826,7 +826,7 @@
             ]
         ],
         "addresses": [
-            "Microsoft Gathering Hall, 32nd Avenue South, Holly Park, Rainier Valley, Seattle, King County, Washington, 98118, United States"
+            "Microsoft Gathering Hall, 32nd Avenue South, Holly Park, Rainier Valley, Seattle, King County, Washington, 98118, Human Rights Violator Country"
         ]
     },
     {
@@ -864,7 +864,7 @@
             ]
         ],
         "addresses": [
-            "San Jose, Santa Clara County, California, United States"
+            "San Jose, Santa Clara County, California, Human Rights Violator Country"
         ]
     },
     {
@@ -902,7 +902,7 @@
             ]
         ],
         "addresses": [
-            "Washington, District of Columbia, United States"
+            "Washington, District of Columbia, Human Rights Violator Country"
         ]
     },
     {
@@ -934,8 +934,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.3361905,
+                -121.890583
+            ]
+        ],
+        "addresses": [
+            "San Jose, Santa Clara County, California, United States"
+        ]
     },
     {
         "id": 16,
@@ -1114,8 +1121,8 @@
             ]
         ],
         "addresses": [
-            "Davis-Besse Nuclear Power Station, Carroll Township, Ottawa County, Ohio, United States",
-            "Internet Archive, 300, Funston Avenue, Richmond District, San Francisco, California, 94118, United States"
+            "Davis-Besse Nuclear Power Station, Carroll Township, Ottawa County, Ohio, Human Rights Violator Country",
+            "Internet Archive, 300, Funston Avenue, Richmond District, San Francisco, California, 94118, Human Rights Violator Country"
         ]
     },
     {
@@ -1850,10 +1857,10 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
-            "Apple Campus, Cupertino, Santa Clara County, California, United States",
-            "Intel, 12220, Scripps Summit Drive, San Diego, San Diego County, California, 92131, United States",
-            "Adobe, Little Italy, San Jose, Santa Clara County, California, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, Human Rights Violator Country",
+            "Apple Campus, Cupertino, Santa Clara County, California, Human Rights Violator Country",
+            "Intel, 12220, Scripps Summit Drive, San Diego, San Diego County, California, 92131, Human Rights Violator Country",
+            "Adobe, Little Italy, San Jose, Santa Clara County, California, Human Rights Violator Country"
         ]
     },
     {
@@ -1936,8 +1943,8 @@
             ]
         ],
         "addresses": [
-            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, California, 94043, United States",
-            "Lionbridge, 3525, Factoria Boulevard Southeast, Factoria, Bellevue, King County, Washington, 98006, United States"
+            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, California, 94043, Human Rights Violator Country",
+            "Lionbridge, 3525, Factoria Boulevard Southeast, Factoria, Bellevue, King County, Washington, 98006, Human Rights Violator Country"
         ]
     },
     {
@@ -1978,7 +1985,7 @@
             ]
         ],
         "addresses": [
-            "Apple Campus, Cupertino, Santa Clara County, California, United States"
+            "Apple Campus, Cupertino, Santa Clara County, California, Human Rights Violator Country"
         ]
     },
     {
@@ -2061,7 +2068,7 @@
             ]
         ],
         "addresses": [
-            "Meta West Campus, Belle Haven, Menlo Park, San Mateo County, California, United States"
+            "Meta West Campus, Belle Haven, Menlo Park, San Mateo County, California, Human Rights Violator Country"
         ]
     },
     {
@@ -2102,7 +2109,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Jefferson County, Montana, United States"
+            "Amazon, Jefferson County, Montana, Human Rights Violator Country"
         ]
     },
     {
@@ -2213,7 +2220,7 @@
             ]
         ],
         "addresses": [
-            "Apple Campus, Cupertino, Santa Clara County, California, United States"
+            "Apple Campus, Cupertino, Santa Clara County, California, Human Rights Violator Country"
         ]
     },
     {
@@ -2334,7 +2341,7 @@
             ]
         ],
         "addresses": [
-            "WeWork, Broad Street, Financial District, Manhattan Community Board 1, New York County, New York, 10004, United States"
+            "WeWork, Broad Street, Financial District, Manhattan Community Board 1, New York County, New York, 10004, Human Rights Violator Country"
         ]
     },
     {
@@ -2407,7 +2414,7 @@
             ]
         ],
         "addresses": [
-            "Paris Theatre, 4, West 58th Street, Midtown, Manhattan Community Board 5, New York County, New York, 10019, United States"
+            "Paris Theatre, 4, West 58th Street, Midtown, Manhattan Community Board 5, New York County, New York, 10019, Human Rights Violator Country"
         ]
     },
     {
@@ -2448,7 +2455,7 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, California, 94103, United States"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, California, 94103, Human Rights Violator Country"
         ]
     },
     {
@@ -2488,7 +2495,7 @@
             ]
         ],
         "addresses": [
-            "McAfee, Mission College Boulevard, Santa Clara, Santa Clara County, California, 95054-1231, United States"
+            "McAfee, Mission College Boulevard, Santa Clara, Santa Clara County, California, 95054-1231, Human Rights Violator Country"
         ]
     },
     {
@@ -2570,7 +2577,7 @@
             ]
         ],
         "addresses": [
-            "Adobe, Little Italy, San Jose, Santa Clara County, California, United States"
+            "Adobe, Little Italy, San Jose, Santa Clara County, California, Human Rights Violator Country"
         ]
     },
     {
@@ -2618,8 +2625,8 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, California, 94103, United States",
-            "Lyft Uber Pickup Location, Midstate Trail, Westminster, Worcester County, Massachusetts, 01541, United States"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, California, 94103, Human Rights Violator Country",
+            "Lyft Uber Pickup Location, Midstate Trail, Westminster, Worcester County, Massachusetts, 01541, Human Rights Violator Country"
         ]
     },
     {
@@ -2660,7 +2667,7 @@
             ]
         ],
         "addresses": [
-            "Uber Limo Livery Hold Lot, Cargo Plaza Road, Queens, Queens County, New York, 11430, United States"
+            "Uber Limo Livery Hold Lot, Cargo Plaza Road, Queens, Queens County, New York, 11430, Human Rights Violator Country"
         ]
     },
     {
@@ -2740,7 +2747,7 @@
             ]
         ],
         "addresses": [
-            "McAfee, Mission College Boulevard, Santa Clara, Santa Clara County, California, 95054-1231, United States"
+            "McAfee, Mission College Boulevard, Santa Clara, Santa Clara County, California, 95054-1231, Human Rights Violator Country"
         ]
     },
     {
@@ -2812,7 +2819,7 @@
             ]
         ],
         "addresses": [
-            "Uber, North Central Expressway, Deep Ellum PID, Dallas, Dallas County, Texas, 75226, United States"
+            "Uber, North Central Expressway, Deep Ellum PID, Dallas, Dallas County, Texas, 75226, Human Rights Violator Country"
         ]
     },
     {
@@ -2851,7 +2858,7 @@
             ]
         ],
         "addresses": [
-            "United States"
+            "Human Rights Violator Country"
         ]
     },
     {
@@ -2896,7 +2903,7 @@
             ]
         ],
         "addresses": [
-            "IBM, Lake Purdy, Town of Somers, Westchester County, New York, United States"
+            "IBM, Lake Purdy, Town of Somers, Westchester County, New York, Human Rights Violator Country"
         ]
     },
     {
@@ -2937,7 +2944,7 @@
             ]
         ],
         "addresses": [
-            "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States"
+            "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, Human Rights Violator Country"
         ]
     },
     {
@@ -2980,7 +2987,7 @@
             ]
         ],
         "addresses": [
-            "Cisco Way, 399, East Tasman Drive, Cisco Systems, San Jose, Santa Clara County, California, 95134, United States"
+            "Cisco Way, 399, East Tasman Drive, Cisco Systems, San Jose, Santa Clara County, California, 95134, Human Rights Violator Country"
         ]
     },
     {
@@ -3024,7 +3031,7 @@
             ]
         ],
         "addresses": [
-            "Google, Mountain View, Santa Clara County, California, United States"
+            "Google, Mountain View, Santa Clara County, California, Human Rights Violator Country"
         ]
     },
     {
@@ -3066,7 +3073,7 @@
             ]
         ],
         "addresses": [
-            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
+            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, Human Rights Violator Country"
         ]
     },
     {
@@ -3107,7 +3114,7 @@
             ]
         ],
         "addresses": [
-            "Palo Alto, Santa Clara County, California, United States"
+            "Palo Alto, Santa Clara County, California, Human Rights Violator Country"
         ]
     },
     {
@@ -3154,8 +3161,8 @@
             ]
         ],
         "addresses": [
-            "AT&T, 1302, North Tustin Street, Orange, Orange County, California, 92867, United States",
-            "AT&T, West Sahara Avenue, Las Vegas, Clark County, Nevada, 89102-3636, United States"
+            "AT&T, 1302, North Tustin Street, Orange, Orange County, California, 92867, Human Rights Violator Country",
+            "AT&T, West Sahara Avenue, Las Vegas, Clark County, Nevada, 89102-3636, Human Rights Violator Country"
         ]
     },
     {
@@ -3197,7 +3204,7 @@
             ]
         ],
         "addresses": [
-            "Meta West Campus, Belle Haven, Menlo Park, San Mateo County, California, United States"
+            "Meta West Campus, Belle Haven, Menlo Park, San Mateo County, California, Human Rights Violator Country"
         ]
     },
     {
@@ -3238,7 +3245,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Jefferson County, Montana, United States"
+            "Amazon, Jefferson County, Montana, Human Rights Violator Country"
         ]
     },
     {
@@ -3321,7 +3328,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, 72, Spring Street, Manhattan Community Board 2, New York County, New York, 10013, United States"
+            "Amazon, 72, Spring Street, Manhattan Community Board 2, New York County, New York, 10013, Human Rights Violator Country"
         ]
     },
     {
@@ -3751,7 +3758,7 @@
             ]
         ],
         "addresses": [
-            "Uber Beauty Skin Laundry, Old Bathurst Road, East Blaxland, Blaxland, Sydney, Blue Mountains City Council, New South Wales, 2774, Australia"
+            "Uber Beauty Skin Laundry, Old Bathurst Road, East Blaxland, Sydney, Blue Mountains City Council, New South Wales, 2774, Australia"
         ]
     },
     {
@@ -3825,7 +3832,7 @@
             ]
         ],
         "addresses": [
-            "Caviar Creek, Nome, Alaska, United States"
+            "Caviar Creek, Nome, Alaska, Human Rights Violator Country"
         ]
     },
     {
@@ -4005,7 +4012,7 @@
             ]
         ],
         "addresses": [
-            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, California, 94043, United States"
+            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, California, 94043, Human Rights Violator Country"
         ]
     },
     {
@@ -4052,8 +4059,8 @@
             ]
         ],
         "addresses": [
-            "Amazon, Jefferson County, Montana, United States",
-            "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States"
+            "Amazon, Jefferson County, Montana, Human Rights Violator Country",
+            "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, Human Rights Violator Country"
         ]
     },
     {
@@ -4135,7 +4142,7 @@
             ]
         ],
         "addresses": [
-            "Salesforce, 2035, Northeast Cornelius Pass Road, Orenco, Hillsboro, Washington County, Oregon, 97124, United States"
+            "Salesforce, 2035, Northeast Cornelius Pass Road, Orenco, Hillsboro, Washington County, Oregon, 97124, Human Rights Violator Country"
         ]
     },
     {
@@ -4398,7 +4405,7 @@
             ]
         ],
         "addresses": [
-            "San Francisco, California, United States"
+            "San Francisco, California, Human Rights Violator Country"
         ]
     },
     {
@@ -4522,7 +4529,7 @@
             ]
         ],
         "addresses": [
-            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, California, 94043, United States"
+            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, California, 94043, Human Rights Violator Country"
         ]
     },
     {
@@ -4817,8 +4824,8 @@
             ]
         ],
         "addresses": [
-            "Uber Limo Livery Hold Lot, Cargo Plaza Road, Queens, Queens County, New York, 11430, United States",
-            "Lyft Driver Center, 49th Avenue, Queens, Queens County, New York, 11101, United States"
+            "Uber Limo Livery Hold Lot, Cargo Plaza Road, Queens, Queens County, New York, 11430, Human Rights Violator Country",
+            "Lyft Driver Center, 49th Avenue, Queens, Queens County, New York, 11101, Human Rights Violator Country"
         ]
     },
     {
@@ -4902,7 +4909,7 @@
             ]
         ],
         "addresses": [
-            "Facebook Westlake, 1101, Westlake Avenue North, Westlake, Seattle, King County, Washington, 98109, United States"
+            "Facebook Westlake, 1101, Westlake Avenue North, Westlake, Seattle, King County, Washington, 98109, Human Rights Violator Country"
         ]
     },
     {
@@ -4940,7 +4947,7 @@
             ]
         ],
         "addresses": [
-            "Wounded Amazon, Lyndale Avenue South;Hennepin Avenue South, Lowry Hill, Bde Maka Ska - Isles, Minneapolis, Hennepin County, Minnesota, 55403, United States"
+            "Wounded Amazon, Lyndale Avenue South;Hennepin Avenue South, Lowry Hill, Bde Maka Ska - Isles, Minneapolis, Hennepin County, Minnesota, 55403, Human Rights Violator Country"
         ]
     },
     {
@@ -5197,7 +5204,7 @@
             ]
         ],
         "addresses": [
-            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, California, 94043, United States"
+            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, California, 94043, Human Rights Violator Country"
         ]
     },
     {
@@ -5273,7 +5280,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Belltown, Seattle, King County, Washington, 98109-5210, United States"
+            "Amazon, Belltown, Seattle, King County, Washington, 98109-5210, Human Rights Violator Country"
         ]
     },
     {
@@ -5352,7 +5359,7 @@
             ]
         ],
         "addresses": [
-            "Kickstarter HQ, West Street, Brooklyn, Kings County, New York, 11222, United States"
+            "Kickstarter HQ, West Street, Brooklyn, Kings County, New York, 11222, Human Rights Violator Country"
         ]
     },
     {
@@ -5426,7 +5433,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Jefferson County, Montana, United States"
+            "Amazon, Jefferson County, Montana, Human Rights Violator Country"
         ]
     },
     {
@@ -5543,7 +5550,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, Human Rights Violator Country"
         ]
     },
     {
@@ -5584,7 +5591,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, Human Rights Violator Country"
         ]
     },
     {
@@ -5625,7 +5632,7 @@
             ]
         ],
         "addresses": [
-            "Microsoft Gathering Hall, 32nd Avenue South, Holly Park, Rainier Valley, Seattle, King County, Washington, 98118, United States"
+            "Microsoft Gathering Hall, 32nd Avenue South, Holly Park, Rainier Valley, Seattle, King County, Washington, 98118, Human Rights Violator Country"
         ]
     },
     {
@@ -5667,7 +5674,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Jefferson County, Montana, United States"
+            "Amazon, Jefferson County, Montana, Human Rights Violator Country"
         ]
     },
     {
@@ -5711,8 +5718,8 @@
             ]
         ],
         "addresses": [
-            "Instagram-Ferris_Joshua / Marycate.minnigh, University Drive, Sunset Pines, Lock Haven, Clinton County, Pennsylvania, 17745, United States",
-            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
+            "Instagram-Ferris_Joshua / Marycate.minnigh, University Drive, Sunset Pines, Lock Haven, Clinton County, Pennsylvania, 17745, Human Rights Violator Country",
+            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, Human Rights Violator Country"
         ]
     },
     {
@@ -5796,8 +5803,8 @@
             ]
         ],
         "addresses": [
-            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, California, 94043, United States",
-            "GitHub, 88, Colin P. Kelly Junior Street, Port of San Francisco, San Francisco, California, 94107, United States"
+            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, California, 94043, Human Rights Violator Country",
+            "GitHub, 88, Colin P. Kelly Junior Street, Port of San Francisco, San Francisco, California, 94107, Human Rights Violator Country"
         ]
     },
     {
@@ -5880,7 +5887,7 @@
             ]
         ],
         "addresses": [
-            "Google, 111, 8th Avenue, Chelsea District, New York County, New York, 10011, United States"
+            "Google, 111, 8th Avenue, Chelsea District, New York County, New York, 10011, Human Rights Violator Country"
         ]
     },
     {
@@ -6001,7 +6008,7 @@
             ]
         ],
         "addresses": [
-            "Wounded Amazon, Lyndale Avenue South;Hennepin Avenue South, Lowry Hill, Bde Maka Ska - Isles, Minneapolis, Hennepin County, Minnesota, 55403, United States"
+            "Wounded Amazon, Lyndale Avenue South;Hennepin Avenue South, Lowry Hill, Bde Maka Ska - Isles, Minneapolis, Hennepin County, Minnesota, 55403, Human Rights Violator Country"
         ]
     },
     {
@@ -6047,8 +6054,8 @@
             ]
         ],
         "addresses": [
-            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States",
-            "Accenture, West San Fernando Street, Downtown Historic District, San Jose, Santa Clara County, California, 95113, United States"
+            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, Human Rights Violator Country",
+            "Accenture, West San Fernando Street, Downtown Historic District, San Jose, Santa Clara County, California, 95113, Human Rights Violator Country"
         ]
     },
     {
@@ -6091,7 +6098,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, Human Rights Violator Country"
         ]
     },
     {
@@ -6179,7 +6186,7 @@
             ]
         ],
         "addresses": [
-            "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States"
+            "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, Human Rights Violator Country"
         ]
     },
     {
@@ -6256,7 +6263,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Belltown, Seattle, King County, Washington, 98109-5210, United States"
+            "Amazon, Belltown, Seattle, King County, Washington, 98109-5210, Human Rights Violator Country"
         ]
     },
     {
@@ -6337,7 +6344,7 @@
             ]
         ],
         "addresses": [
-            "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States"
+            "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, Human Rights Violator Country"
         ]
     },
     {
@@ -6377,7 +6384,7 @@
             ]
         ],
         "addresses": [
-            "Meta West Campus, Belle Haven, Menlo Park, San Mateo County, California, United States"
+            "Meta West Campus, Belle Haven, Menlo Park, San Mateo County, California, Human Rights Violator Country"
         ]
     },
     {
@@ -6421,7 +6428,7 @@
             ]
         ],
         "addresses": [
-            "Facebook Westlake, 1101, Westlake Avenue North, Westlake, Seattle, King County, Washington, 98109, United States"
+            "Facebook Westlake, 1101, Westlake Avenue North, Westlake, Seattle, King County, Washington, 98109, Human Rights Violator Country"
         ]
     },
     {
@@ -6528,7 +6535,7 @@
             ]
         ],
         "addresses": [
-            "Google MAT1, 1184, North Mathilda Avenue, Sunnyvale, Santa Clara County, California, 94089, United States"
+            "Google MAT1, 1184, North Mathilda Avenue, Sunnyvale, Santa Clara County, California, 94089, Human Rights Violator Country"
         ]
     },
     {
@@ -6572,7 +6579,7 @@
             ]
         ],
         "addresses": [
-            "Microsoft Gathering Hall, 32nd Avenue South, Holly Park, Rainier Valley, Seattle, King County, Washington, 98118, United States"
+            "Microsoft Gathering Hall, 32nd Avenue South, Holly Park, Rainier Valley, Seattle, King County, Washington, 98118, Human Rights Violator Country"
         ]
     },
     {
@@ -6614,7 +6621,7 @@
             ]
         ],
         "addresses": [
-            "Google One Market, 1, Market Street, Financial District, San Francisco, California, 94111, United States"
+            "Google One Market, 1, Market Street, Financial District, San Francisco, California, 94111, Human Rights Violator Country"
         ]
     },
     {
@@ -6657,7 +6664,7 @@
             ]
         ],
         "addresses": [
-            "Wayfair, 222, Berkeley Street, Bay Village, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States"
+            "Wayfair, 222, Berkeley Street, Bay Village, Back Bay, Boston, Suffolk County, Massachusetts, 02116, Human Rights Violator Country"
         ]
     },
     {
@@ -6700,7 +6707,7 @@
             ]
         ],
         "addresses": [
-            "Google One Market, 1, Market Street, Financial District, San Francisco, California, 94111, United States"
+            "Google One Market, 1, Market Street, Financial District, San Francisco, California, 94111, Human Rights Violator Country"
         ]
     },
     {
@@ -6777,7 +6784,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, 72, Spring Street, Manhattan Community Board 2, New York County, New York, 10013, United States"
+            "Amazon, 72, Spring Street, Manhattan Community Board 2, New York County, New York, 10013, Human Rights Violator Country"
         ]
     },
     {
@@ -6991,7 +6998,7 @@
             ]
         ],
         "addresses": [
-            "Wounded Amazon, Lyndale Avenue South;Hennepin Avenue South, Lowry Hill, Bde Maka Ska - Isles, Minneapolis, Hennepin County, Minnesota, 55403, United States"
+            "Wounded Amazon, Lyndale Avenue South;Hennepin Avenue South, Lowry Hill, Bde Maka Ska - Isles, Minneapolis, Hennepin County, Minnesota, 55403, Human Rights Violator Country"
         ]
     },
     {
@@ -7109,8 +7116,8 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, California, 94103, United States",
-            "Lyft, Kansas Street, Potrero Terrace, San Francisco, California, 94124, United States"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, California, 94103, Human Rights Violator Country",
+            "Lyft, Kansas Street, Potrero Terrace, San Francisco, California, 94124, Human Rights Violator Country"
         ]
     },
     {
@@ -7156,8 +7163,8 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, California, 94103, United States",
-            "Lyft, Kansas Street, Potrero Terrace, San Francisco, California, 94124, United States"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, California, 94103, Human Rights Violator Country",
+            "Lyft, Kansas Street, Potrero Terrace, San Francisco, California, 94124, Human Rights Violator Country"
         ]
     },
     {
@@ -7429,7 +7436,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, 3130, Lexington Avenue South, Eagan, Dakota County, Minnesota, 55121, United States"
+            "Amazon, 3130, Lexington Avenue South, Eagan, Dakota County, Minnesota, 55121, Human Rights Violator Country"
         ]
     },
     {
@@ -7511,7 +7518,7 @@
             ]
         ],
         "addresses": [
-            "United States"
+            "Human Rights Violator Country"
         ]
     },
     {
@@ -7550,7 +7557,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, Human Rights Violator Country"
         ]
     },
     {
@@ -7643,7 +7650,7 @@
             ]
         ],
         "addresses": [
-            "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States"
+            "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, Human Rights Violator Country"
         ]
     },
     {
@@ -7689,8 +7696,8 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, California, 94103, United States",
-            "Lyft, Kansas Street, Potrero Terrace, San Francisco, California, 94124, United States"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, California, 94103, Human Rights Violator Country",
+            "Lyft, Kansas Street, Potrero Terrace, San Francisco, California, 94124, Human Rights Violator Country"
         ]
     },
     {
@@ -7734,7 +7741,7 @@
             ]
         ],
         "addresses": [
-            "Google, Penn Avenue, Larimer, Pittsburgh, Allegheny County, Pennsylvania, 15206-4320, United States"
+            "Google, Penn Avenue, Larimer, Pittsburgh, Allegheny County, Pennsylvania, 15206-4320, Human Rights Violator Country"
         ]
     },
     {
@@ -7811,8 +7818,8 @@
             ]
         ],
         "addresses": [
-            "UserTesting, 690, 5th Street, South of Market, San Francisco, California, 94017, United States",
-            "Doordash HQ, 901, Market Street, Union Square, San Francisco, California, 94104, United States"
+            "UserTesting, 690, 5th Street, South of Market, San Francisco, California, 94017, Human Rights Violator Country",
+            "Doordash HQ, 901, Market Street, Union Square, San Francisco, California, 94104, Human Rights Violator Country"
         ]
     },
     {
@@ -7854,7 +7861,7 @@
             ]
         ],
         "addresses": [
-            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
+            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, Human Rights Violator Country"
         ]
     },
     {
@@ -7897,7 +7904,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Belltown, Seattle, King County, Washington, 98109-5210, United States"
+            "Amazon, Belltown, Seattle, King County, Washington, 98109-5210, Human Rights Violator Country"
         ]
     },
     {
@@ -7944,8 +7951,8 @@
             ]
         ],
         "addresses": [
-            "Lyft Uber Pickup Location, Midstate Trail, Westminster, Worcester County, Massachusetts, 01541, United States",
-            "Lyft Uber Pickup Location, Midstate Trail, Westminster, Worcester County, Massachusetts, 01541, United States"
+            "Lyft Uber Pickup Location, Midstate Trail, Westminster, Worcester County, Massachusetts, 01541, Human Rights Violator Country",
+            "Lyft Uber Pickup Location, Midstate Trail, Westminster, Worcester County, Massachusetts, 01541, Human Rights Violator Country"
         ]
     },
     {
@@ -7984,7 +7991,7 @@
             ]
         ],
         "addresses": [
-            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, California, 94043, United States"
+            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, California, 94043, Human Rights Violator Country"
         ]
     },
     {
@@ -8072,7 +8079,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, Human Rights Violator Country"
         ]
     },
     {
@@ -8115,7 +8122,7 @@
             ]
         ],
         "addresses": [
-            "Microsoft Gathering Hall, 32nd Avenue South, Holly Park, Rainier Valley, Seattle, King County, Washington, 98118, United States"
+            "Microsoft Gathering Hall, 32nd Avenue South, Holly Park, Rainier Valley, Seattle, King County, Washington, 98118, Human Rights Violator Country"
         ]
     },
     {
@@ -8159,7 +8166,7 @@
             ]
         ],
         "addresses": [
-            "Chef Software, Inc., 619, Western Avenue, West Edge, International District/Chinatown, Seattle, King County, Washington, 98104, United States"
+            "Chef Software, Inc., 619, Western Avenue, West Edge, International District/Chinatown, Seattle, King County, Washington, 98104, Human Rights Violator Country"
         ]
     },
     {
@@ -8199,7 +8206,7 @@
             ]
         ],
         "addresses": [
-            "Baltimore, Maryland, United States"
+            "Baltimore, Maryland, Human Rights Violator Country"
         ]
     },
     {
@@ -8241,7 +8248,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, Human Rights Violator Country"
         ]
     },
     {
@@ -8286,7 +8293,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Locker, Sockanosset Cross Road, Sockanosset, Cranston, Providence County, Rhode Island, 02920, United States"
+            "Amazon Locker, Sockanosset Cross Road, Sockanosset, Cranston, Providence County, Rhode Island, 02920, Human Rights Violator Country"
         ]
     },
     {
@@ -8363,7 +8370,7 @@
             ]
         ],
         "addresses": [
-            "Meta West Campus, Belle Haven, Menlo Park, San Mateo County, California, United States"
+            "Meta West Campus, Belle Haven, Menlo Park, San Mateo County, California, Human Rights Violator Country"
         ]
     },
     {
@@ -8442,7 +8449,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Avenue, Sacramento, Sacramento County, California, 95835, United States"
+            "Amazon Avenue, Sacramento, Sacramento County, California, 95835, Human Rights Violator Country"
         ]
     },
     {
@@ -8562,7 +8569,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, 3130, Lexington Avenue South, Eagan, Dakota County, Minnesota, 55121, United States"
+            "Amazon, 3130, Lexington Avenue South, Eagan, Dakota County, Minnesota, 55121, Human Rights Violator Country"
         ]
     },
     {
@@ -8684,7 +8691,7 @@
             ]
         ],
         "addresses": [
-            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, California, 94043, United States"
+            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, California, 94043, Human Rights Violator Country"
         ]
     },
     {
@@ -8806,7 +8813,7 @@
             ]
         ],
         "addresses": [
-            "Tableau Software, 837, North 34th Street, Fremont, Seattle, King County, Washington, 98103, United States"
+            "Tableau Software, 837, North 34th Street, Fremont, Seattle, King County, Washington, 98103, Human Rights Violator Country"
         ]
     },
     {
@@ -8913,7 +8920,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, Human Rights Violator Country"
         ]
     },
     {
@@ -9039,7 +9046,7 @@
             ]
         ],
         "addresses": [
-            "WeWork, 1200, 17th Street, Central Business District, Denver, Colorado, 80202, United States"
+            "WeWork, 1200, 17th Street, Central Business District, Denver, Colorado, 80202, Human Rights Violator Country"
         ]
     },
     {
@@ -9181,7 +9188,7 @@
             ]
         ],
         "addresses": [
-            "Google One Market, 1, Market Street, Financial District, San Francisco, California, 94111, United States"
+            "Google One Market, 1, Market Street, Financial District, San Francisco, California, 94111, Human Rights Violator Country"
         ]
     },
     {
@@ -9236,10 +9243,10 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
-            "Google, Mountain View, Santa Clara County, California, United States",
-            "Google One Market, 1, Market Street, Financial District, San Francisco, California, 94111, United States",
-            "LT Group - Compass Real Estate, 1700, Ocean Avenue, Ingleside, San Francisco, California, 94112, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, Human Rights Violator Country",
+            "Google, Mountain View, Santa Clara County, California, Human Rights Violator Country",
+            "Google One Market, 1, Market Street, Financial District, San Francisco, California, 94111, Human Rights Violator Country",
+            "LT Group - Compass Real Estate, 1700, Ocean Avenue, Ingleside, San Francisco, California, 94112, Human Rights Violator Country"
         ]
     },
     {
@@ -9280,7 +9287,7 @@
             ]
         ],
         "addresses": [
-            "Google One Market, 1, Market Street, Financial District, San Francisco, California, 94111, United States"
+            "Google One Market, 1, Market Street, Financial District, San Francisco, California, 94111, Human Rights Violator Country"
         ]
     },
     {
@@ -9322,7 +9329,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Court, Clifton, Staten Island, Richmond County, New York, 10304, United States"
+            "Amazon Court, Clifton, Staten Island, Richmond County, New York, 10304, Human Rights Violator Country"
         ]
     },
     {
@@ -9524,7 +9531,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Avenue, Sacramento, Sacramento County, California, 95835, United States"
+            "Amazon Avenue, Sacramento, Sacramento County, California, 95835, Human Rights Violator Country"
         ]
     },
     {
@@ -9571,8 +9578,8 @@
             ]
         ],
         "addresses": [
-            "GitHub, 88, Colin P. Kelly Junior Street, Port of San Francisco, San Francisco, California, 94107, United States",
-            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, California, 94043, United States"
+            "GitHub, 88, Colin P. Kelly Junior Street, Port of San Francisco, San Francisco, California, 94107, Human Rights Violator Country",
+            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, California, 94043, Human Rights Violator Country"
         ]
     },
     {
@@ -9611,7 +9618,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Distribution, 2801, South Western Avenue, Lower West Side, Chicago, Cook County, Illinois, 60608, United States"
+            "Amazon Distribution, 2801, South Western Avenue, Lower West Side, Chicago, Cook County, Illinois, 60608, Human Rights Violator Country"
         ]
     },
     {
@@ -9653,7 +9660,7 @@
             ]
         ],
         "addresses": [
-            "Spin, 50, Bowling Green Drive, Inner Sunset, San Francisco, California, 94118-4504, United States"
+            "Spin, 50, Bowling Green Drive, Inner Sunset, San Francisco, California, 94118-4504, Human Rights Violator Country"
         ]
     },
     {
@@ -9692,7 +9699,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, Human Rights Violator Country"
         ]
     },
     {
@@ -9809,7 +9816,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Avenue, Sacramento, Sacramento County, California, 95835, United States"
+            "Amazon Avenue, Sacramento, Sacramento County, California, 95835, Human Rights Violator Country"
         ]
     },
     {
@@ -9924,7 +9931,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Jefferson County, Montana, United States"
+            "Amazon, Jefferson County, Montana, Human Rights Violator Country"
         ]
     },
     {
@@ -9995,7 +10002,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Jefferson County, Montana, United States"
+            "Amazon, Jefferson County, Montana, Human Rights Violator Country"
         ]
     },
     {
@@ -10038,8 +10045,8 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, California, 94103, United States",
-            "Lyft, Kansas Street, Potrero Terrace, San Francisco, California, 94124, United States"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, California, 94103, Human Rights Violator Country",
+            "Lyft, Kansas Street, Potrero Terrace, San Francisco, California, 94124, Human Rights Violator Country"
         ]
     },
     {
@@ -10289,9 +10296,9 @@
             ]
         ],
         "addresses": [
-            "Amazon, 72, Spring Street, Manhattan Community Board 2, New York County, New York, 10013, United States",
-            "SIL2 - Amazon SSD, 7555, Linder Avenue, Skokie, Niles Township, Cook County, Illinois, 60077, United States",
-            "Amazon Avenue, Sacramento, Sacramento County, California, 95835, United States"
+            "Amazon, 72, Spring Street, Manhattan Community Board 2, New York County, New York, 10013, Human Rights Violator Country",
+            "SIL2 - Amazon SSD, 7555, Linder Avenue, Skokie, Niles Township, Cook County, Illinois, 60077, Human Rights Violator Country",
+            "Amazon Avenue, Sacramento, Sacramento County, California, 95835, Human Rights Violator Country"
         ]
     },
     {
@@ -10345,9 +10352,9 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, California, 94103, United States",
-            "Lyft, Kansas Street, Potrero Terrace, San Francisco, California, 94124, United States",
-            "Doordash HQ, 901, Market Street, Union Square, San Francisco, California, 94104, United States"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, California, 94103, Human Rights Violator Country",
+            "Lyft, Kansas Street, Potrero Terrace, San Francisco, California, 94124, Human Rights Violator Country",
+            "Doordash HQ, 901, Market Street, Union Square, San Francisco, California, 94104, Human Rights Violator Country"
         ]
     },
     {
@@ -10502,7 +10509,7 @@
             ]
         ],
         "addresses": [
-            "Google, Penn Avenue, Larimer, Pittsburgh, Allegheny County, Pennsylvania, 15206-4320, United States"
+            "Google, Penn Avenue, Larimer, Pittsburgh, Allegheny County, Pennsylvania, 15206-4320, Human Rights Violator Country"
         ]
     },
     {
@@ -10588,7 +10595,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, 72, Spring Street, Manhattan Community Board 2, New York County, New York, 10013, United States"
+            "Amazon, 72, Spring Street, Manhattan Community Board 2, New York County, New York, 10013, Human Rights Violator Country"
         ]
     },
     {
@@ -10681,7 +10688,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Jefferson County, Montana, United States"
+            "Amazon, Jefferson County, Montana, Human Rights Violator Country"
         ]
     },
     {
@@ -10767,7 +10774,7 @@
             ]
         ],
         "addresses": [
-            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, California, 94043, United States"
+            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, California, 94043, Human Rights Violator Country"
         ]
     },
     {
@@ -10896,10 +10903,10 @@
             ]
         ],
         "addresses": [
-            "Lyft, Kansas Street, Potrero Terrace, San Francisco, California, 94124, United States",
-            "Uber, 1455, Market Street, Civic Center, San Francisco, California, 94103, United States",
-            "UBER / Lyft Driver Drop Off, Campanile Mall, Montezuma Mesa, San Diego, San Diego County, California, 92182, United States",
-            "UBER / Lyft Driver Drop Off, Campanile Mall, Montezuma Mesa, San Diego, San Diego County, California, 92182, United States"
+            "Lyft, Kansas Street, Potrero Terrace, San Francisco, California, 94124, Human Rights Violator Country",
+            "Uber, 1455, Market Street, Civic Center, San Francisco, California, 94103, Human Rights Violator Country",
+            "UBER / Lyft Driver Drop Off, Campanile Mall, Montezuma Mesa, San Diego, San Diego County, California, 92182, Human Rights Violator Country",
+            "UBER / Lyft Driver Drop Off, Campanile Mall, Montezuma Mesa, San Diego, San Diego County, California, 92182, Human Rights Violator Country"
         ]
     },
     {
@@ -11025,7 +11032,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Court, Clifton, Staten Island, Richmond County, New York, 10304, United States"
+            "Amazon Court, Clifton, Staten Island, Richmond County, New York, 10304, Human Rights Violator Country"
         ]
     },
     {
@@ -11070,7 +11077,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Jefferson County, Montana, United States"
+            "Amazon, Jefferson County, Montana, Human Rights Violator Country"
         ]
     },
     {
@@ -11150,7 +11157,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Jefferson County, Montana, United States"
+            "Amazon, Jefferson County, Montana, Human Rights Violator Country"
         ]
     },
     {
@@ -11199,8 +11206,8 @@
             ]
         ],
         "addresses": [
-            "Amazon Distribution, 2801, South Western Avenue, Lower West Side, Chicago, Cook County, Illinois, 60608, United States",
-            "Whole Foods Market, 30, West Huron Street, Chicago River North, Near North Side, Chicago, Cook County, Illinois, 60654, United States"
+            "Amazon Distribution, 2801, South Western Avenue, Lower West Side, Chicago, Cook County, Illinois, 60608, Human Rights Violator Country",
+            "Whole Foods Market, 30, West Huron Street, Chicago River North, Near North Side, Chicago, Cook County, Illinois, 60654, Human Rights Violator Country"
         ]
     },
     {
@@ -11329,7 +11336,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, 72, Spring Street, Manhattan Community Board 2, New York County, New York, 10013, United States"
+            "Amazon, 72, Spring Street, Manhattan Community Board 2, New York County, New York, 10013, Human Rights Violator Country"
         ]
     },
     {
@@ -11370,7 +11377,7 @@
             ]
         ],
         "addresses": [
-            "Amazon LGB3 Fulfillment Center;Amazon, 4950, Goodman Way, Eastvale, Riverside County, California, 91752, United States"
+            "Amazon LGB3 Fulfillment Center;Amazon, 4950, Goodman Way, Eastvale, Riverside County, California, 91752, Human Rights Violator Country"
         ]
     },
     {
@@ -11453,7 +11460,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Jefferson County, Montana, United States"
+            "Amazon, Jefferson County, Montana, Human Rights Violator Country"
         ]
     },
     {
@@ -11608,7 +11615,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Jefferson County, Montana, United States"
+            "Amazon, Jefferson County, Montana, Human Rights Violator Country"
         ]
     },
     {
@@ -11692,7 +11699,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Fullfillment Center MSP1, 2601, 4th Avenue East, Shakopee, Scott County, Minnesota, 55379, United States"
+            "Amazon Fullfillment Center MSP1, 2601, 4th Avenue East, Shakopee, Scott County, Minnesota, 55379, Human Rights Violator Country"
         ]
     },
     {
@@ -11780,8 +11787,8 @@
             ]
         ],
         "addresses": [
-            "Amazon, Jefferson County, Montana, United States",
-            "Target, Ballwin, Saint Louis County, Missouri, 63011, United States"
+            "Amazon, Jefferson County, Montana, Human Rights Violator Country",
+            "Target, Ballwin, Saint Louis County, Missouri, 63011, Human Rights Violator Country"
         ]
     },
     {
@@ -11829,8 +11836,8 @@
             ]
         ],
         "addresses": [
-            "Amazon, 72, Spring Street, Manhattan Community Board 2, New York County, New York, 10013, United States",
-            "Amazon DPD6, Gaffin Road Southeast, Salem, Marion County, Oregon, 97317, United States"
+            "Amazon, 72, Spring Street, Manhattan Community Board 2, New York County, New York, 10013, Human Rights Violator Country",
+            "Amazon DPD6, Gaffin Road Southeast, Salem, Marion County, Oregon, 97317, Human Rights Violator Country"
         ]
     },
     {
@@ -11915,7 +11922,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Jefferson County, Montana, United States"
+            "Amazon, Jefferson County, Montana, Human Rights Violator Country"
         ]
     },
     {
@@ -12074,7 +12081,7 @@
             ]
         ],
         "addresses": [
-            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
+            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, Human Rights Violator Country"
         ]
     },
     {
@@ -12116,7 +12123,7 @@
             ]
         ],
         "addresses": [
-            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
+            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, Human Rights Violator Country"
         ]
     },
     {
@@ -12192,7 +12199,7 @@
             ]
         ],
         "addresses": [
-            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
+            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, Human Rights Violator Country"
         ]
     },
     {
@@ -12232,7 +12239,7 @@
             ]
         ],
         "addresses": [
-            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
+            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, Human Rights Violator Country"
         ]
     },
     {
@@ -12274,7 +12281,7 @@
             ]
         ],
         "addresses": [
-            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
+            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, Human Rights Violator Country"
         ]
     },
     {
@@ -12317,7 +12324,7 @@
             ]
         ],
         "addresses": [
-            "Microsoft Gathering Hall, 32nd Avenue South, Holly Park, Rainier Valley, Seattle, King County, Washington, 98118, United States"
+            "Microsoft Gathering Hall, 32nd Avenue South, Holly Park, Rainier Valley, Seattle, King County, Washington, 98118, Human Rights Violator Country"
         ]
     },
     {
@@ -12486,10 +12493,10 @@
             ]
         ],
         "addresses": [
-            "Uber, North Central Expressway, Deep Ellum PID, Dallas, Dallas County, Texas, 75226, United States",
-            "Lyft, Kansas Street, Potrero Terrace, San Francisco, California, 94124, United States",
-            "Doordash HQ, 901, Market Street, Union Square, San Francisco, California, 94104, United States",
-            "UserTesting, 690, 5th Street, South of Market, San Francisco, California, 94017, United States"
+            "Uber, North Central Expressway, Deep Ellum PID, Dallas, Dallas County, Texas, 75226, Human Rights Violator Country",
+            "Lyft, Kansas Street, Potrero Terrace, San Francisco, California, 94124, Human Rights Violator Country",
+            "Doordash HQ, 901, Market Street, Union Square, San Francisco, California, 94104, Human Rights Violator Country",
+            "UserTesting, 690, 5th Street, South of Market, San Francisco, California, 94017, Human Rights Violator Country"
         ]
     },
     {
@@ -12614,7 +12621,7 @@
             ]
         ],
         "addresses": [
-            "Pinterest, 7th Street, West SoMa, San Francisco, California, 94103, United States"
+            "Pinterest, 7th Street, West SoMa, San Francisco, California, 94103, Human Rights Violator Country"
         ]
     },
     {
@@ -12827,7 +12834,7 @@
             ]
         ],
         "addresses": [
-            "Target, Ballwin, Saint Louis County, Missouri, 63011, United States"
+            "Target, Ballwin, Saint Louis County, Missouri, 63011, Human Rights Violator Country"
         ]
     },
     {
@@ -13007,11 +13014,11 @@
             ]
         ],
         "addresses": [
-            "Amazon, Jefferson County, Montana, United States",
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
-            "Uber, North Central Expressway, Deep Ellum PID, Dallas, Dallas County, Texas, 75226, United States",
-            "Lyft, Kansas Street, Potrero Terrace, San Francisco, California, 94124, United States",
-            "UserTesting, 690, 5th Street, South of Market, San Francisco, California, 94017, United States"
+            "Amazon, Jefferson County, Montana, Human Rights Violator Country",
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, Human Rights Violator Country",
+            "Uber, North Central Expressway, Deep Ellum PID, Dallas, Dallas County, Texas, 75226, Human Rights Violator Country",
+            "Lyft, Kansas Street, Potrero Terrace, San Francisco, California, 94124, Human Rights Violator Country",
+            "UserTesting, 690, 5th Street, South of Market, San Francisco, California, 94017, Human Rights Violator Country"
         ]
     },
     {
@@ -13106,8 +13113,8 @@
             ]
         ],
         "addresses": [
-            "Whole Foods Market, 340, River Street, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02139, United States",
-            "Amazon Pickup, 1, Magazine Street, Central Square, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02139, United States"
+            "Whole Foods Market, 340, River Street, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02139, Human Rights Violator Country",
+            "Amazon Pickup, 1, Magazine Street, Central Square, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02139, Human Rights Violator Country"
         ]
     },
     {
@@ -13221,7 +13228,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, 72, Spring Street, Manhattan Community Board 2, New York County, New York, 10013, United States"
+            "Amazon, 72, Spring Street, Manhattan Community Board 2, New York County, New York, 10013, Human Rights Violator Country"
         ]
     },
     {
@@ -13264,7 +13271,7 @@
             ]
         ],
         "addresses": [
-            "United States"
+            "Human Rights Violator Country"
         ]
     },
     {
@@ -13396,7 +13403,7 @@
             ]
         ],
         "addresses": [
-            "Pinterest, 7th Street, West SoMa, San Francisco, California, 94103, United States"
+            "Pinterest, 7th Street, West SoMa, San Francisco, California, 94103, Human Rights Violator Country"
         ]
     },
     {
@@ -13438,7 +13445,7 @@
             ]
         ],
         "addresses": [
-            "Google One Market, 1, Market Street, Financial District, San Francisco, California, 94111, United States"
+            "Google One Market, 1, Market Street, Financial District, San Francisco, California, 94111, Human Rights Violator Country"
         ]
     },
     {
@@ -13627,7 +13634,7 @@
             ]
         ],
         "addresses": [
-            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, California, 94043, United States"
+            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, California, 94043, Human Rights Violator Country"
         ]
     },
     {
@@ -13967,7 +13974,7 @@
             ]
         ],
         "addresses": [
-            "United States"
+            "Human Rights Violator Country"
         ]
     },
     {
@@ -14009,7 +14016,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Fullfillment Center MSP1, 2601, 4th Avenue East, Shakopee, Scott County, Minnesota, 55379, United States"
+            "Amazon Fullfillment Center MSP1, 2601, 4th Avenue East, Shakopee, Scott County, Minnesota, 55379, Human Rights Violator Country"
         ]
     },
     {
@@ -14051,7 +14058,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Skypark Drive, Walteria, Torrance, Los Angeles County, California, 90505, United States"
+            "Amazon, Skypark Drive, Walteria, Torrance, Los Angeles County, California, 90505, Human Rights Violator Country"
         ]
     },
     {
@@ -14170,8 +14177,8 @@
             ]
         ],
         "addresses": [
-            "Accenture, West San Fernando Street, Downtown Historic District, San Jose, Santa Clara County, California, 95113, United States",
-            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
+            "Accenture, West San Fernando Street, Downtown Historic District, San Jose, Santa Clara County, California, 95113, Human Rights Violator Country",
+            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, Human Rights Violator Country"
         ]
     },
     {
@@ -14216,7 +14223,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Jefferson County, Montana, United States"
+            "Amazon, Jefferson County, Montana, Human Rights Violator Country"
         ]
     },
     {
@@ -14258,7 +14265,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Skypark Drive, Walteria, Torrance, Los Angeles County, California, 90505, United States"
+            "Amazon, Skypark Drive, Walteria, Torrance, Los Angeles County, California, 90505, Human Rights Violator Country"
         ]
     },
     {
@@ -14343,7 +14350,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Belltown, Seattle, King County, Washington, 98109-5210, United States"
+            "Amazon, Belltown, Seattle, King County, Washington, 98109-5210, Human Rights Violator Country"
         ]
     },
     {
@@ -14387,7 +14394,7 @@
             ]
         ],
         "addresses": [
-            "Target, Ballwin, Saint Louis County, Missouri, 63011, United States"
+            "Target, Ballwin, Saint Louis County, Missouri, 63011, Human Rights Violator Country"
         ]
     },
     {
@@ -14430,7 +14437,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Jefferson County, Montana, United States"
+            "Amazon, Jefferson County, Montana, Human Rights Violator Country"
         ]
     },
     {
@@ -14548,7 +14555,7 @@
             ]
         ],
         "addresses": [
-            "United States"
+            "Human Rights Violator Country"
         ]
     },
     {
@@ -14626,7 +14633,7 @@
             ]
         ],
         "addresses": [
-            "Verizon, Winston Drive, San Francisco, California, 94132, United States"
+            "Verizon, Winston Drive, San Francisco, California, 94132, Human Rights Violator Country"
         ]
     },
     {
@@ -14723,7 +14730,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Fulfillment Center - BHM1, 975, Powder Plant Road, McAdory, Bessemer, Jefferson County, Alabama, 35022, United States"
+            "Amazon Fulfillment Center - BHM1, 975, Powder Plant Road, McAdory, Bessemer, Jefferson County, Alabama, 35022, Human Rights Violator Country"
         ]
     },
     {
@@ -14921,7 +14928,7 @@
             ]
         ],
         "addresses": [
-            "Ringer, Queens, Queens County, New York, 11364:11427, United States"
+            "Ringer, Queens, Queens County, New York, 11364:11427, Human Rights Violator Country"
         ]
     },
     {
@@ -14997,7 +15004,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, Human Rights Violator Country"
         ]
     },
     {
@@ -15175,7 +15182,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, Human Rights Violator Country"
         ]
     },
     {
@@ -15277,8 +15284,8 @@
             ]
         ],
         "addresses": [
-            "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112-3580, United States",
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
+            "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112-3580, Human Rights Violator Country",
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, Human Rights Violator Country",
             "Ruisseau Alphabet, Lac-au-Brochet, La Haute-C\u00f4te-Nord, C\u00f4te-Nord, Qu\u00e9bec, Canada",
             "Google Waterloo, 151, Charles Street West, Downtown, Kitchener, Region of Waterloo, Southwestern Ontario, Ontario, N2G 1H6, Canada"
         ]
@@ -15337,9 +15344,9 @@
             ]
         ],
         "addresses": [
-            "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112-3580, United States",
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
-            "YouTube, 901, Cherry Avenue, YouTube, San Bruno, San Mateo County, California, 94066, United States"
+            "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112-3580, Human Rights Violator Country",
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, Human Rights Violator Country",
+            "YouTube, 901, Cherry Avenue, YouTube, San Bruno, San Mateo County, California, 94066, Human Rights Violator Country"
         ]
     },
     {
@@ -15380,7 +15387,7 @@
             ]
         ],
         "addresses": [
-            "Twitter, Stevenson Street, Market Square, San Francisco, California, 94102, United States"
+            "Twitter, Stevenson Street, Market Square, San Francisco, California, 94102, Human Rights Violator Country"
         ]
     },
     {
@@ -15426,7 +15433,7 @@
             ]
         ],
         "addresses": [
-            "GitHub, 88, Colin P. Kelly Junior Street, Port of San Francisco, San Francisco, California, 94107, United States"
+            "GitHub, 88, Colin P. Kelly Junior Street, Port of San Francisco, San Francisco, California, 94107, Human Rights Violator Country"
         ]
     },
     {
@@ -15469,7 +15476,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Jefferson County, Montana, United States"
+            "Amazon, Jefferson County, Montana, Human Rights Violator Country"
         ]
     },
     {
@@ -15521,9 +15528,9 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, California, 94103, United States",
-            "Lyft, Kansas Street, Potrero Terrace, San Francisco, California, 94124, United States",
-            "Doordash HQ, 901, Market Street, Union Square, San Francisco, California, 94104, United States"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, California, 94103, Human Rights Violator Country",
+            "Lyft, Kansas Street, Potrero Terrace, San Francisco, California, 94124, Human Rights Violator Country",
+            "Doordash HQ, 901, Market Street, Union Square, San Francisco, California, 94104, Human Rights Violator Country"
         ]
     },
     {
@@ -15643,7 +15650,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, Human Rights Violator Country"
         ]
     },
     {
@@ -15686,7 +15693,7 @@
             ]
         ],
         "addresses": [
-            "Medium, Redondo Avenue, Sugar House, Salt Lake City, Salt Lake County, Utah, 84105, United States"
+            "Medium, Redondo Avenue, Sugar House, Salt Lake City, Salt Lake County, Utah, 84105, Human Rights Violator Country"
         ]
     },
     {
@@ -15728,7 +15735,7 @@
             ]
         ],
         "addresses": [
-            "Doordash HQ, 901, Market Street, Union Square, San Francisco, California, 94104, United States"
+            "Doordash HQ, 901, Market Street, Union Square, San Francisco, California, 94104, Human Rights Violator Country"
         ]
     },
     {
@@ -15853,7 +15860,7 @@
             ]
         ],
         "addresses": [
-            "Glitch Drive, Black Mountain, Buncombe County, North Carolina, 28711, United States"
+            "Glitch Drive, Black Mountain, Buncombe County, North Carolina, 28711, Human Rights Violator Country"
         ]
     },
     {
@@ -16007,7 +16014,7 @@
             ]
         ],
         "addresses": [
-            "Mobilize Physical Therapy, 3515, Northeast 45th Street, Seattle, King County, Washington, 98105, United States"
+            "Mobilize Physical Therapy, 3515, Northeast 45th Street, Seattle, King County, Washington, 98105, Human Rights Violator Country"
         ]
     },
     {
@@ -16051,7 +16058,7 @@
             ]
         ],
         "addresses": [
-            "YouTube, 901, Cherry Avenue, YouTube, San Bruno, San Mateo County, California, 94066, United States"
+            "YouTube, 901, Cherry Avenue, YouTube, San Bruno, San Mateo County, California, 94066, Human Rights Violator Country"
         ]
     },
     {
@@ -16258,7 +16265,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Distribution, 2801, South Western Avenue, Lower West Side, Chicago, Cook County, Illinois, 60608, United States"
+            "Amazon Distribution, 2801, South Western Avenue, Lower West Side, Chicago, Cook County, Illinois, 60608, Human Rights Violator Country"
         ]
     },
     {
@@ -16305,7 +16312,7 @@
             ]
         ],
         "addresses": [
-            "Google Data Center, Berkeley County, South Carolina, United States"
+            "Google Data Center, Berkeley County, South Carolina, Human Rights Violator Country"
         ]
     },
     {
@@ -16386,7 +16393,7 @@
             ]
         ],
         "addresses": [
-            "Doordash HQ, 901, Market Street, Union Square, San Francisco, California, 94104, United States"
+            "Doordash HQ, 901, Market Street, Union Square, San Francisco, California, 94104, Human Rights Violator Country"
         ]
     },
     {
@@ -16427,7 +16434,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Distribution, 2801, South Western Avenue, Lower West Side, Chicago, Cook County, Illinois, 60608, United States"
+            "Amazon Distribution, 2801, South Western Avenue, Lower West Side, Chicago, Cook County, Illinois, 60608, Human Rights Violator Country"
         ]
     },
     {
@@ -16469,7 +16476,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Jefferson County, Montana, United States"
+            "Amazon, Jefferson County, Montana, Human Rights Violator Country"
         ]
     },
     {
@@ -16519,7 +16526,7 @@
             ]
         ],
         "addresses": [
-            "Ringer, Queens, Queens County, New York, 11364:11427, United States"
+            "Ringer, Queens, Queens County, New York, 11364:11427, Human Rights Violator Country"
         ]
     },
     {
@@ -16611,7 +16618,7 @@
             ]
         ],
         "addresses": [
-            "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112-3580, United States"
+            "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112-3580, Human Rights Violator Country"
         ]
     },
     {
@@ -16652,7 +16659,7 @@
             ]
         ],
         "addresses": [
-            "The New York Times, Whitestone Expressway, Queens, Queens County, New York, 11354, United States"
+            "The New York Times, Whitestone Expressway, Queens, Queens County, New York, 11354, Human Rights Violator Country"
         ]
     },
     {
@@ -16738,7 +16745,7 @@
             ]
         ],
         "addresses": [
-            "Uber Limo Livery Hold Lot, Cargo Plaza Road, Queens, Queens County, New York, 11430, United States"
+            "Uber Limo Livery Hold Lot, Cargo Plaza Road, Queens, Queens County, New York, 11430, Human Rights Violator Country"
         ]
     },
     {
@@ -16782,7 +16789,7 @@
             ]
         ],
         "addresses": [
-            "WVXU 91.7 FM, Central Parkway, Betts-Longworth Historic District, West End, Cincinnati, Hamilton County, Ohio, 45210, United States"
+            "WVXU 91.7 FM, Central Parkway, Betts-Longworth Historic District, West End, Cincinnati, Hamilton County, Ohio, 45210, Human Rights Violator Country"
         ]
     },
     {
@@ -16915,7 +16922,7 @@
             ]
         ],
         "addresses": [
-            "WVXU 91.7 FM, Central Parkway, Betts-Longworth Historic District, West End, Cincinnati, Hamilton County, Ohio, 45210, United States"
+            "WVXU 91.7 FM, Central Parkway, Betts-Longworth Historic District, West End, Cincinnati, Hamilton County, Ohio, 45210, Human Rights Violator Country"
         ]
     },
     {
@@ -16957,7 +16964,7 @@
             ]
         ],
         "addresses": [
-            "Basecamp, 220, South 2nd Street, Laramie, Albany County, Wyoming, 82070, United States"
+            "Basecamp, 220, South 2nd Street, Laramie, Albany County, Wyoming, 82070, Human Rights Violator Country"
         ]
     },
     {
@@ -17006,8 +17013,8 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
-            "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112-3580, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, Human Rights Violator Country",
+            "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112-3580, Human Rights Violator Country"
         ]
     },
     {
@@ -17055,8 +17062,8 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
-            "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112-3580, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, Human Rights Violator Country",
+            "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112-3580, Human Rights Violator Country"
         ]
     },
     {
@@ -17134,7 +17141,7 @@
             ]
         ],
         "addresses": [
-            "Apple Campus, Cupertino, Santa Clara County, California, United States"
+            "Apple Campus, Cupertino, Santa Clara County, California, Human Rights Violator Country"
         ]
     },
     {
@@ -17248,7 +17255,7 @@
             ]
         ],
         "addresses": [
-            "Apple Campus, Cupertino, Santa Clara County, California, United States"
+            "Apple Campus, Cupertino, Santa Clara County, California, Human Rights Violator Country"
         ]
     },
     {
@@ -17422,8 +17429,8 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
-            "G4S Secure Soultions USA, Lorna Road, Chapel Hill, Patton Chapel, Hoover, Jefferson County, Alabama, 35216, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, Human Rights Violator Country",
+            "G4S Secure Soultions USA, Lorna Road, Chapel Hill, Patton Chapel, Hoover, Jefferson County, Alabama, 35216, Human Rights Violator Country"
         ]
     },
     {
@@ -17508,7 +17515,7 @@
             ]
         ],
         "addresses": [
-            "Apple Campus, Cupertino, Santa Clara County, California, United States"
+            "Apple Campus, Cupertino, Santa Clara County, California, Human Rights Violator Country"
         ]
     },
     {
@@ -17633,8 +17640,8 @@
             ]
         ],
         "addresses": [
-            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States",
-            "Accenture, 323, Congress Avenue, Downtown, Austin, Travis County, Texas, 78701, United States"
+            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, Human Rights Violator Country",
+            "Accenture, 323, Congress Avenue, Downtown, Austin, Travis County, Texas, 78701, Human Rights Violator Country"
         ]
     },
     {
@@ -17681,7 +17688,7 @@
             ]
         ],
         "addresses": [
-            "Change.org, 548, Market Street, Transbay, San Francisco, California, 90104, United States"
+            "Change.org, 548, Market Street, Transbay, San Francisco, California, 90104, Human Rights Violator Country"
         ]
     },
     {
@@ -17836,8 +17843,8 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
-            "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112-3580, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, Human Rights Violator Country",
+            "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112-3580, Human Rights Violator Country"
         ]
     },
     {
@@ -17888,8 +17895,8 @@
             ]
         ],
         "addresses": [
-            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States",
-            "Accenture, West San Fernando Street, Downtown Historic District, San Jose, Santa Clara County, California, 95113, United States"
+            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, Human Rights Violator Country",
+            "Accenture, West San Fernando Street, Downtown Historic District, San Jose, Santa Clara County, California, 95113, Human Rights Violator Country"
         ]
     },
     {
@@ -17932,7 +17939,7 @@
             ]
         ],
         "addresses": [
-            "Doordash HQ, 901, Market Street, Union Square, San Francisco, California, 94104, United States"
+            "Doordash HQ, 901, Market Street, Union Square, San Francisco, California, 94104, Human Rights Violator Country"
         ]
     },
     {
@@ -17974,7 +17981,7 @@
             ]
         ],
         "addresses": [
-            "Code for America, 972, Mission Street, West SoMa, San Francisco, California, 94103, United States"
+            "Code for America, 972, Mission Street, West SoMa, San Francisco, California, 94103, Human Rights Violator Country"
         ]
     },
     {
@@ -18023,7 +18030,7 @@
             ]
         ],
         "addresses": [
-            "Mapbox, 740, 15th Street Northwest, Washington, District of Columbia, 20005, United States"
+            "Mapbox, 740, 15th Street Northwest, Washington, District of Columbia, 20005, Human Rights Violator Country"
         ]
     },
     {
@@ -18109,7 +18116,7 @@
             ]
         ],
         "addresses": [
-            "Apple Campus, Cupertino, Santa Clara County, California, United States"
+            "Apple Campus, Cupertino, Santa Clara County, California, Human Rights Violator Country"
         ]
     },
     {
@@ -18191,7 +18198,7 @@
             ]
         ],
         "addresses": [
-            "The New York Times, Whitestone Expressway, Queens, Queens County, New York, 11354, United States"
+            "The New York Times, Whitestone Expressway, Queens, Queens County, New York, 11354, Human Rights Violator Country"
         ]
     },
     {
@@ -18233,7 +18240,7 @@
             ]
         ],
         "addresses": [
-            "United States"
+            "Human Rights Violator Country"
         ]
     },
     {
@@ -18320,7 +18327,7 @@
             ]
         ],
         "addresses": [
-            "Apple Campus, Cupertino, Santa Clara County, California, United States"
+            "Apple Campus, Cupertino, Santa Clara County, California, Human Rights Violator Country"
         ]
     },
     {
@@ -18706,7 +18713,7 @@
             ]
         ],
         "addresses": [
-            "Blue Origin, Kent, King County, Washington, United States"
+            "Blue Origin, Kent, King County, Washington, Human Rights Violator Country"
         ]
     },
     {
@@ -19014,7 +19021,7 @@
             ]
         ],
         "addresses": [
-            "Paris Theatre, 4, West 58th Street, Midtown, Manhattan Community Board 5, New York County, New York, 10019, United States"
+            "Paris Theatre, 4, West 58th Street, Midtown, Manhattan Community Board 5, New York County, New York, 10019, Human Rights Violator Country"
         ]
     },
     {
@@ -19142,7 +19149,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Court, Clifton, Staten Island, Richmond County, New York, 10304, United States"
+            "Amazon Court, Clifton, Staten Island, Richmond County, New York, 10304, Human Rights Violator Country"
         ]
     },
     {
@@ -19407,7 +19414,7 @@
         "addresses": [
             "Amazon, Cividate al Piano, Bergamo, Lombardia, Italia",
             "Amazon.fr Logistique Distrip\u00f4le Chalon, Sevrey, Chalon-sur-Sa\u00f4ne, Sa\u00f4ne-et-Loire, Bourgogne-Franche-Comt\u00e9, France m\u00e9tropolitaine, 71100, France",
-            "Amazon, Jefferson County, Montana, United States",
+            "Amazon, Jefferson County, Montana, Human Rights Violator Country",
             "Amazon, The Highway Street, Wapadrand Security Village, Tshwane Ward 85, City of Tshwane Metropolitan Municipality, Gauteng, 0050, South Africa",
             "Amazon, Narua Kheya Ghat Road, Narua, \u09b0\u09be\u099c\u09ac\u09be\u09dc\u09c0 \u099c\u09c7\u09b2\u09be, \u09a2\u09be\u0995\u09be \u09ac\u09bf\u09ad\u09be\u0997, 7730, \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6",
             "Amazon, \u1795\u17d2\u179b\u17bc\u179c \u178f\u17d2\u179a\u179f\u1780\u17cb\u1795\u17d2\u17a2\u17c2\u1798 (\u17e6\u17e3), \u179a\u17b6\u1787\u1792\u17b6\u1793\u17b8\u1797\u17d2\u1793\u17c6\u1796\u17c1\u1789, \u1781\u178e\u17d2\u178c\u178a\u17bc\u1793\u1796\u17c1\u1789, \u179a\u17b6\u1787\u1792\u17b6\u1793\u17b8\u1797\u17d2\u1793\u17c6\u1796\u17c1\u1789, 120202, \u1796\u17d2\u179a\u17c7\u179a\u17b6\u1787\u17b6\u178e\u17b6\u1785\u1780\u17d2\u179a\u200b\u1780\u1798\u17d2\u1796\u17bb\u1787\u17b6",
@@ -19458,7 +19465,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, Human Rights Violator Country"
         ]
     },
     {
@@ -19619,7 +19626,7 @@
             ]
         ],
         "addresses": [
-            "Google, Mountain View, Santa Clara County, California, United States"
+            "Google, Mountain View, Santa Clara County, California, Human Rights Violator Country"
         ]
     },
     {
@@ -19780,8 +19787,8 @@
             ]
         ],
         "addresses": [
-            "Amazon, 72, Spring Street, Manhattan Community Board 2, New York County, New York, 10013, United States",
-            "Amazon Fresh, 1733, 14th Street Northwest, Logan Circle/Shaw, Washington, District of Columbia, 20009, United States"
+            "Amazon, 72, Spring Street, Manhattan Community Board 2, New York County, New York, 10013, Human Rights Violator Country",
+            "Amazon Fresh, 1733, 14th Street Northwest, Logan Circle/Shaw, Washington, District of Columbia, 20009, Human Rights Violator Country"
         ]
     },
     {
@@ -19897,7 +19904,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Court, Clifton, Staten Island, Richmond County, New York, 10304, United States"
+            "Amazon Court, Clifton, Staten Island, Richmond County, New York, 10304, Human Rights Violator Country"
         ]
     },
     {
@@ -19984,7 +19991,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Distribution, 2801, South Western Avenue, Lower West Side, Chicago, Cook County, Illinois, 60608, United States"
+            "Amazon Distribution, 2801, South Western Avenue, Lower West Side, Chicago, Cook County, Illinois, 60608, Human Rights Violator Country"
         ]
     },
     {
@@ -20069,7 +20076,7 @@
             ]
         ],
         "addresses": [
-            "Apple Campus, Cupertino, Santa Clara County, California, United States"
+            "Apple Campus, Cupertino, Santa Clara County, California, Human Rights Violator Country"
         ]
     },
     {
@@ -20155,7 +20162,7 @@
             ]
         ],
         "addresses": [
-            "Mountain View, Leisure Lake Mobile Estate, Los Angeles County, California, United States"
+            "Mountain View, Leisure Lake Mobile Estate, Los Angeles County, California, Human Rights Violator Country"
         ]
     },
     {
@@ -20203,8 +20210,8 @@
             ]
         ],
         "addresses": [
-            "Accenture, 323, Congress Avenue, Downtown, Austin, Travis County, Texas, 78701, United States",
-            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
+            "Accenture, 323, Congress Avenue, Downtown, Austin, Travis County, Texas, 78701, Human Rights Violator Country",
+            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, Human Rights Violator Country"
         ]
     },
     {
@@ -20250,7 +20257,7 @@
             ]
         ],
         "addresses": [
-            "Google Fiber Space, 8615, Northwest Prairie View Road, Kansas City, Platte County, Missouri, 64153, United States"
+            "Google Fiber Space, 8615, Northwest Prairie View Road, Kansas City, Platte County, Missouri, 64153, Human Rights Violator Country"
         ]
     },
     {
@@ -20295,7 +20302,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Fresh, 1733, 14th Street Northwest, Logan Circle/Shaw, Washington, District of Columbia, 20009, United States"
+            "Amazon Fresh, 1733, 14th Street Northwest, Logan Circle/Shaw, Washington, District of Columbia, 20009, Human Rights Violator Country"
         ]
     },
     {
@@ -20382,7 +20389,7 @@
             ]
         ],
         "addresses": [
-            "Yachthafen(Blick \u00fcber New Yersey), Riverside Walk, Upper West Side, Manhattan Community Board 7, New York County, New York, 10069, United States"
+            "Yachthafen(Blick \u00fcber New Yersey), Riverside Walk, Upper West Side, Manhattan Community Board 7, New York County, New York, 10069, Human Rights Violator Country"
         ]
     },
     {
@@ -20624,7 +20631,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, 72, Spring Street, Manhattan Community Board 2, New York County, New York, 10013, United States"
+            "Amazon, 72, Spring Street, Manhattan Community Board 2, New York County, New York, 10013, Human Rights Violator Country"
         ]
     },
     {
@@ -20713,7 +20720,7 @@
             ]
         ],
         "addresses": [
-            "Google Fiber, 518, West Jones Street, Glenwood South, Raleigh, Wake County, North Carolina, 27603, United States"
+            "Google Fiber, 518, West Jones Street, Glenwood South, Raleigh, Wake County, North Carolina, 27603, Human Rights Violator Country"
         ]
     },
     {
@@ -20756,7 +20763,7 @@
             ]
         ],
         "addresses": [
-            "Apple Store, 1981, Broadway, Upper West Side, Manhattan, New York County, New York, 10023, United States"
+            "Apple Store, 1981, Broadway, Upper West Side, Manhattan, New York County, New York, 10023, Human Rights Violator Country"
         ]
     },
     {
@@ -20849,7 +20856,7 @@
             ]
         ],
         "addresses": [
-            "Google Fiber Space, 8615, Northwest Prairie View Road, Kansas City, Platte County, Missouri, 64153, United States"
+            "Google Fiber Space, 8615, Northwest Prairie View Road, Kansas City, Platte County, Missouri, 64153, Human Rights Violator Country"
         ]
     },
     {
@@ -20954,8 +20961,8 @@
             ]
         ],
         "addresses": [
-            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, California, 94043, United States",
-            "IBM, Lake Purdy, Town of Somers, Westchester County, New York, United States",
+            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, California, 94043, Human Rights Violator Country",
+            "IBM, Lake Purdy, Town of Somers, Westchester County, New York, Human Rights Violator Country",
             "Microsoft, \u0416\u0438\u043b\u044f\u043d\u0441\u044c\u043a\u0430 \u0432\u0443\u043b\u0438\u0446\u044f, \u041f\u0430\u043d\u044c\u043a\u0456\u0432\u0449\u0438\u043d\u0430, \u0413\u043e\u043b\u043e\u0441\u0456\u0457\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0438\u0457\u0432, 01032, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
             "Microsoft Berlin, 17, Unter den Linden, Mitte, Berlin, 10117, Deutschland",
             "IBM, Stahlgruberring, Am Moosfeld, Trudering - Riem, Trudering-Riem, M\u00fcnchen, Bayern, 81829, Deutschland",
@@ -21003,7 +21010,7 @@
             ]
         ],
         "addresses": [
-            "Etsy, Inc., 117, Adams Street, Brooklyn, Kings County, New York, 11201, United States"
+            "Etsy, Inc., 117, Adams Street, Brooklyn, Kings County, New York, 11201, Human Rights Violator Country"
         ]
     },
     {
@@ -21081,7 +21088,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Court, Clifton, Staten Island, Richmond County, New York, 10304, United States"
+            "Amazon Court, Clifton, Staten Island, Richmond County, New York, 10304, Human Rights Violator Country"
         ]
     },
     {
@@ -21163,7 +21170,7 @@
             ]
         ],
         "addresses": [
-            "Apple Store, 3393, Peachtree Road Northeast, Atlanta, Fulton County, Georgia, 30326, United States"
+            "Apple Store, 3393, Peachtree Road Northeast, Atlanta, Fulton County, Georgia, 30326, Human Rights Violator Country"
         ]
     },
     {
@@ -21204,7 +21211,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Fullfillment Center MSP1, 2601, 4th Avenue East, Shakopee, Scott County, Minnesota, 55379, United States"
+            "Amazon Fullfillment Center MSP1, 2601, 4th Avenue East, Shakopee, Scott County, Minnesota, 55379, Human Rights Violator Country"
         ]
     }
 ]
