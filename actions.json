@@ -4438,12 +4438,12 @@
         ],
         "latlngs": [
             [
-                51.5148804,
-                -0.0718856
+                52.4746766,
+                -1.91586332385543
             ]
         ],
         "addresses": [
-            "Uber, 2, Leman Street, East Smithfield, Whitechapel, London, City of London, Greater London, England, E1 8FA, United Kingdom"
+            "UBER, 100, Broad Street, Ladywood, Birmingham, Park Central, West Midlands, England, B15 1AE, United Kingdom"
         ]
     },
     {
@@ -18484,8 +18484,15 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                40.6453855,
+                -74.1077517
+            ]
+        ],
+        "addresses": [
+            "Blue, 1115, Richmond Terrace, Staten Island, Richmond County, New York, 10310, United States"
+        ]
     },
     {
         "id": 473,
