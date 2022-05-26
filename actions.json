@@ -5845,7 +5845,7 @@
             ]
         ],
         "addresses": [
-            "Alibaba, \u660c\u5409\u8def, \u4e0a\u6d77\u5e02, \u5609\u5b9a\u533a, 215332, \u4e2d\u56fd"
+            "Alibaba, \u660c\u5409\u8def, \u5609\u5b9a\u533a, \u4e0a\u6d77\u5e02, 215332, \u4e2d\u56fd"
         ]
     },
     {
@@ -15138,7 +15138,7 @@
             ]
         ],
         "addresses": [
-            "Apple Store, \u66f9\u6768\u8def, \u4e0a\u6d77\u5e02, \u666e\u9640\u533a, 200063, \u4e2d\u56fd"
+            "Apple Store, \u66f9\u6768\u8def, \u666e\u9640\u533a, \u4e0a\u6d77\u5e02, 200063, \u4e2d\u56fd"
         ]
     },
     {
@@ -18073,7 +18073,7 @@
             ]
         ],
         "addresses": [
-            "Alibaba, \u660c\u5409\u8def, \u4e0a\u6d77\u5e02, \u5609\u5b9a\u533a, 215332, \u4e2d\u56fd"
+            "Alibaba, \u660c\u5409\u8def, \u5609\u5b9a\u533a, \u4e0a\u6d77\u5e02, 215332, \u4e2d\u56fd"
         ]
     },
     {
@@ -18484,8 +18484,15 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                40.6453855,
+                -74.1077517
+            ]
+        ],
+        "addresses": [
+            "Blue, 1115, Richmond Terrace, Staten Island, Richmond County, New York, 10310, United States"
+        ]
     },
     {
         "id": 473,
@@ -18936,7 +18943,7 @@
             ]
         ],
         "addresses": [
-            "Alibaba, \u660c\u5409\u8def, \u4e0a\u6d77\u5e02, \u5609\u5b9a\u533a, 215332, \u4e2d\u56fd",
+            "Alibaba, \u660c\u5409\u8def, \u5609\u5b9a\u533a, \u4e0a\u6d77\u5e02, 215332, \u4e2d\u56fd",
             "\u817e\u8baf\u8d35\u5b89\u4e03\u661f\u6570\u636e\u4e2d\u5fc3, \u5e73\u575d\u533a, \u5b89\u987a\u5e02, \u8d35\u5dde\u7701, \u4e2d\u56fd",
             "\u767d\u6e21\u9547, \u6885\u5dde\u5e02, \u5e7f\u4e1c\u7701, \u4e2d\u56fd",
             "\u5b57\u8282\u8df3\u52a8\u603b\u90e8, \u53cc\u6986\u6811\u5317\u8def, \u77e5\u6625\u4e1c\u91cc\u793e\u533a, \u4e2d\u5173\u6751\u8857\u9053, \u6d77\u6dc0\u533a, \u5317\u4eac\u5e02, 100098, \u4e2d\u56fd"
