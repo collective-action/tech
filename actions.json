@@ -934,15 +934,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                37.3361905,
-                -121.890583
-            ]
-        ],
-        "addresses": [
-            "San Jose, Santa Clara County, California, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 16,
@@ -15138,7 +15131,7 @@
             ]
         ],
         "addresses": [
-            "Apple \u6d66\u4e1c, 8, \u4e16\u7eaa\u5927\u9053, \u4e0a\u6d77\u5e02, \u6d66\u4e1c\u65b0\u533a, 200002, \u4e2d\u56fd"
+            "Apple \u6d66\u4e1c, 8, \u4e16\u7eaa\u5927\u9053, \u6d66\u4e1c\u65b0\u533a, \u4e0a\u6d77\u5e02, 200002, \u4e2d\u56fd"
         ]
     },
     {
