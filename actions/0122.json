@@ -31,13 +31,6 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            47.6293105,
-            -122.34140808546655
-        ]
-    ],
-    "addresses": [
-        "Facebook Westlake, 1101, Westlake Avenue North, Westlake, Seattle, King County, Washington, 98109, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

@@ -32,13 +32,6 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            39.7492848,
-            -104.9966459
-        ]
-    ],
-    "addresses": [
-        "WeWork, 1200, 17th Street, Central Business District, Denver, Colorado, 80202, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

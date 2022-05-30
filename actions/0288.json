@@ -32,18 +32,6 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            40.722465,
-            -73.9977307
-        ],
-        [
-            44.9063923,
-            -122.94780702526626
-        ]
-    ],
-    "addresses": [
-        "Amazon, 72, Spring Street, Manhattan Community Board 2, New York County, New York, 10013, United States",
-        "Amazon DPD6, Gaffin Road Southeast, Salem, Marion County, Oregon, 97317, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

@@ -31,13 +31,6 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            37.484668049999996,
-            -122.1483654685629
-        ]
-    ],
-    "addresses": [
-        "1 Hacker Way, Menlo Park, San Mateo County, California, 94025, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }
