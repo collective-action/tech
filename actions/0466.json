@@ -28,6 +28,13 @@
     "author": [
         "wynniechan"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            51.0834196,
+            10.4234469
+        ]
+    ],
+    "addresses": [
+        "Deutschland"
+    ]
 }

@@ -29,6 +29,13 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            40.704059,
+            -74.011355
+        ]
+    ],
+    "addresses": [
+        "WeWork, Broad Street, Financial District, Manhattan Community Board 1, New York County, New York, 10004, United States"
+    ]
 }

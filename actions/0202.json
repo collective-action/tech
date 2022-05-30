@@ -32,6 +32,13 @@
     "author": [
         "william boag"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            47.6023356,
+            -122.3358275
+        ]
+    ],
+    "addresses": [
+        "Chef Software, Inc., 619, Western Avenue, West Edge, International District/Chinatown, Seattle, King County, Washington, 98104, United States"
+    ]
 }

@@ -33,6 +33,13 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.777625900000004,
+            -122.39675767463473
+        ]
+    ],
+    "addresses": [
+        "Pinterest, 505, Brannan Street, South of Market, San Francisco, California, 94017, United States"
+    ]
 }

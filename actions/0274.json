@@ -33,6 +33,18 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            41.84040105,
+            -87.68351928672685
+        ],
+        [
+            41.8916289,
+            -87.6205013
+        ]
+    ],
+    "addresses": [
+        "Amazon Distribution, 2801, South Western Avenue, Lower West Side, Chicago, Cook County, Illinois, 60608, United States",
+        "Whole Foods Market, 255, East Grand Avenue, Near North Side, Chicago, Cook County, Illinois, 60611, United States"
+    ]
 }

@@ -27,6 +27,13 @@
     "author": [
         "wynniechan"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            12.92266025,
+            79.88984389117235
+        ]
+    ],
+    "addresses": [
+        "Foxconn, Sunguvarchatram, Sriperumbudur, Kanchipuram District, Tamil Nadu, India"
+    ]
 }
