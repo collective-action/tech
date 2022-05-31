@@ -857,15 +857,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                37.3361905,
-                -121.890583
-            ]
-        ],
-        "addresses": [
-            "San Jose, Santa Clara County, California, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 14,
@@ -1752,7 +1745,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Beoley CP, Holt End, Bromsgrove, Worcestershire, West Midlands, England, United Kingdom"
+            "Amazon, Beoley CP, Holt End, Bromsgrove, Worcestershire, England, B98 9FJ, United Kingdom"
         ]
     },
     {
@@ -4483,7 +4476,7 @@
         ],
         "addresses": [
             "Uber, 2, Leman Street, East Smithfield, Whitechapel, London, City of London, Greater London, England, E1 8FA, United Kingdom",
-            "UBER, 100, Broad Street, Ladywood, Birmingham, Park Central, West Midlands, England, B15 1AE, United Kingdom"
+            "UBER, 100, Broad Street, Ladywood, Birmingham, Park Central, West Midlands Combined Authority, England, B15 1AE, United Kingdom"
         ]
     },
     {
@@ -4694,7 +4687,7 @@
             "Amazon.fr Logistique Distrip\u00f4le Chalon, Sevrey, Chalon-sur-Sa\u00f4ne, Sa\u00f4ne-et-Loire, Bourgogne-Franche-Comt\u00e9, France m\u00e9tropolitaine, 71100, France",
             "Amazon, Cividate al Piano, Bergamo, Lombardia, Italia",
             "Amazon, A R\u00faa, Cecebre, Cambre, A Coru\u00f1a, Galicia, Espa\u00f1a",
-            "Amazon, Beoley CP, Holt End, Bromsgrove, Worcestershire, West Midlands, England, United Kingdom"
+            "Amazon, Beoley CP, Holt End, Bromsgrove, Worcestershire, England, B98 9FJ, United Kingdom"
         ]
     },
     {
@@ -9442,7 +9435,7 @@
         ],
         "addresses": [
             "Amazon, Brathay Road, Wincobank, Sheffield, Yorkshire and the Humber, England, S4 8AW, United Kingdom",
-            "Amazon.co.uk, Towers Business Park, Brereton and Ravenhill, Brereton, Cannock Chase, Staffordshire, West Midlands, England, WS15 1LX, United Kingdom",
+            "Amazon.co.uk, Towers Business Park, Brereton and Ravenhill, Brereton, Cannock Chase, Staffordshire, England, WS15 1LX, United Kingdom",
             "Amazon, Unit 1, Flaxley Road, Kingston Park, Stanground, Peterborough, City of Peterborough, East of England, England, PE2 9EN, United Kingdom"
         ]
     },
@@ -13886,7 +13879,7 @@
         ],
         "addresses": [
             "Google, 6, Pancras Road, Somers Town, London, London Borough of Camden, Greater London, England, N1C 4BJ, United Kingdom",
-            "Amazon, Beoley CP, Holt End, Bromsgrove, Worcestershire, West Midlands, England, United Kingdom",
+            "Amazon, Beoley CP, Holt End, Bromsgrove, Worcestershire, England, B98 9FJ, United Kingdom",
             "Microsoft London, 2, Kingdom Street, Paddington Central, Paddington, London, City of Westminster, Greater London, England, W2 6PY, United Kingdom",
             "Samsung, Princes Street, New Town, New Town/Broughton, Edinburgh, City of Edinburgh, Alba / Scotland, EH2 2ER, United Kingdom",
             "Deliveroo, Pentonville Road, Pentonville, London Borough of Islington, London, Greater London, England, N1, United Kingdom"
@@ -18477,8 +18470,15 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                40.6453855,
+                -74.1077517
+            ]
+        ],
+        "addresses": [
+            "Blue, 1115, Richmond Terrace, Staten Island, Richmond County, New York, 10310, United States"
+        ]
     },
     {
         "id": 473,
@@ -18573,7 +18573,7 @@
         ],
         "addresses": [
             "Uber, 2, Leman Street, East Smithfield, Whitechapel, London, City of London, Greater London, England, E1 8FA, United Kingdom",
-            "UBER, 100, Broad Street, Ladywood, Birmingham, Park Central, West Midlands, England, B15 1AE, United Kingdom"
+            "UBER, 100, Broad Street, Ladywood, Birmingham, Park Central, West Midlands Combined Authority, England, B15 1AE, United Kingdom"
         ]
     },
     {
@@ -19411,7 +19411,7 @@
             "Amazon, The Highway Street, Wapadrand Security Village, Tshwane Ward 85, City of Tshwane Metropolitan Municipality, Gauteng, 0050, South Africa",
             "Amazon, Narua Kheya Ghat Road, Narua, \u09b0\u09be\u099c\u09ac\u09be\u09dc\u09c0 \u099c\u09c7\u09b2\u09be, \u09a2\u09be\u0995\u09be \u09ac\u09bf\u09ad\u09be\u0997, 7730, \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6",
             "Amazon, \u179c\u17b7\u1790\u17b8 \u1796\u17d2\u179a\u17c7\u17a2\u1784\u17d2\u1782\u1795\u17b6\u1793\u17bb\u179c\u1784\u17d2\u179f (\u17e2\u17e4\u17e0), \u179f\u1784\u17d2\u1780\u17b6\u178f\u17cb\u1794\u17b9\u1784\u179a\u17b6\u17c6\u1784, \u1781\u178e\u17d2\u178c\u178a\u17bc\u1793\u1796\u17c1\u1789, \u179a\u17b6\u1787\u1792\u17b6\u1793\u17b8\u1797\u17d2\u1793\u17c6\u1796\u17c1\u1789, 120204, \u1796\u17d2\u179a\u17c7\u179a\u17b6\u1787\u17b6\u178e\u17b6\u1785\u1780\u17d2\u179a\u200b\u1780\u1798\u17d2\u1796\u17bb\u1787\u17b6",
-            "Amazon, Beoley CP, Holt End, Bromsgrove, Worcestershire, West Midlands, England, United Kingdom",
+            "Amazon, Beoley CP, Holt End, Bromsgrove, Worcestershire, England, B98 9FJ, United Kingdom",
             "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
             "Amazon, 169, Nieuwendijk, Centrum, Amsterdam, Noord-Holland, Nederland, 1012MG, Nederland",
             "Amazon, Doddanekkundi Main Road, Doddanekundi, Dodda Nekkundi, Mahadevapura Zone, Bengaluru, Bangalore East, Bangalore Urban, Karnataka, 560 048, India"
