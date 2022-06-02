@@ -31,6 +31,13 @@
     "author": [
         "wynniechan"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            40.775066100000004,
+            -73.98266860124198
+        ]
+    ],
+    "addresses": [
+        "Apple Store, 1981, Broadway, Upper West Side, Manhattan, New York County, New York, 10023, United States"
+    ]
 }
