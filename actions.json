@@ -927,8 +927,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.3361905,
+                -121.890583
+            ]
+        ],
+        "addresses": [
+            "San Jose, Santa Clara County, California, United States"
+        ]
     },
     {
         "id": 16,
@@ -8780,12 +8787,12 @@
         ],
         "latlngs": [
             [
-                47.6476152,
-                -122.3383842
+                47.6490619,
+                -122.3479148
             ]
         ],
         "addresses": [
-            "Tableau Software - NorthEdge, 1621, North 34th Street, Fremont, Seattle, King County, Washington, 98103, United States"
+            "Tableau Software, 837, North 34th Street, Fremont, Seattle, King County, Washington, 98103, United States"
         ]
     },
     {
