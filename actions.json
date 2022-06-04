@@ -857,8 +857,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.3361905,
+                -121.890583
+            ]
+        ],
+        "addresses": [
+            "San Jose, Santa Clara County, California, United States"
+        ]
     },
     {
         "id": 14,
@@ -1851,7 +1858,7 @@
         ],
         "addresses": [
             "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
-            "Apple Campus, Cupertino, Santa Clara County, California, United States",
+            "Apple Campus, Sunnyvale, Cupertino, Santa Clara County, California, United States",
             "Intel, 12220, Scripps Summit Drive, San Diego, San Diego County, California, 92131, United States",
             "Adobe, Little Italy, San Jose, Santa Clara County, California, United States"
         ]
@@ -1978,7 +1985,7 @@
             ]
         ],
         "addresses": [
-            "Apple Campus, Cupertino, Santa Clara County, California, United States"
+            "Apple Campus, Sunnyvale, Cupertino, Santa Clara County, California, United States"
         ]
     },
     {
@@ -2213,7 +2220,7 @@
             ]
         ],
         "addresses": [
-            "Apple Campus, Cupertino, Santa Clara County, California, United States"
+            "Apple Campus, Sunnyvale, Cupertino, Santa Clara County, California, United States"
         ]
     },
     {
@@ -2334,7 +2341,7 @@
             ]
         ],
         "addresses": [
-            "WeWork, Broad Street, Financial District, Manhattan Community Board 1, New York County, New York, 10004, United States"
+            "WeWork, Broad Street, Manhattan Community Board 1, Manhattan, New York County, New York, 10004, United States"
         ]
     },
     {
@@ -5880,7 +5887,7 @@
             ]
         ],
         "addresses": [
-            "Google, 111, 8th Avenue, Chelsea District, New York County, New York, 10011, United States"
+            "Google, 111, 8th Avenue, Manhattan Community Board 4, Chelsea District, New York County, New York, 10011, United States"
         ]
     },
     {
@@ -14914,15 +14921,8 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": [
-            [
-                35.8733275,
-                -89.3881431
-            ]
-        ],
-        "addresses": [
-            "Ringer Lane, Halls, Lauderdale County, Tennessee, 38040, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 360,
@@ -15814,7 +15814,7 @@
             ]
         ],
         "addresses": [
-            "Google, 111, 8th Avenue, Chelsea District, New York County, New York, 10011, United States"
+            "Google, 111, 8th Avenue, Manhattan Community Board 4, Chelsea District, New York County, New York, 10011, United States"
         ]
     },
     {
@@ -17127,7 +17127,7 @@
             ]
         ],
         "addresses": [
-            "Apple Campus, Cupertino, Santa Clara County, California, United States"
+            "Apple Campus, Sunnyvale, Cupertino, Santa Clara County, California, United States"
         ]
     },
     {
@@ -17241,7 +17241,7 @@
             ]
         ],
         "addresses": [
-            "Apple Campus, Cupertino, Santa Clara County, California, United States"
+            "Apple Campus, Sunnyvale, Cupertino, Santa Clara County, California, United States"
         ]
     },
     {
@@ -17501,7 +17501,7 @@
             ]
         ],
         "addresses": [
-            "Apple Campus, Cupertino, Santa Clara County, California, United States"
+            "Apple Campus, Sunnyvale, Cupertino, Santa Clara County, California, United States"
         ]
     },
     {
@@ -18102,7 +18102,7 @@
             ]
         ],
         "addresses": [
-            "Apple Campus, Cupertino, Santa Clara County, California, United States"
+            "Apple Campus, Sunnyvale, Cupertino, Santa Clara County, California, United States"
         ]
     },
     {
@@ -18313,7 +18313,7 @@
             ]
         ],
         "addresses": [
-            "Apple Campus, Cupertino, Santa Clara County, California, United States"
+            "Apple Campus, Sunnyvale, Cupertino, Santa Clara County, California, United States"
         ]
     },
     {
@@ -20062,7 +20062,7 @@
             ]
         ],
         "addresses": [
-            "Apple Campus, Cupertino, Santa Clara County, California, United States"
+            "Apple Campus, Sunnyvale, Cupertino, Santa Clara County, California, United States"
         ]
     },
     {
@@ -20375,7 +20375,7 @@
             ]
         ],
         "addresses": [
-            "Yachthafen(Blick \u00fcber New Yersey), Riverside Walk, Upper West Side, Manhattan Community Board 7, New York County, New York, 10069, United States"
+            "Yachthafen(Blick \u00fcber New Yersey), Riverside Walk, Manhattan Community Board 7, Manhattan, New York County, New York, 10069, United States"
         ]
     },
     {
@@ -20658,7 +20658,7 @@
             ]
         ],
         "addresses": [
-            "Apple Campus, Cupertino, Santa Clara County, California, United States"
+            "Apple Campus, Sunnyvale, Cupertino, Santa Clara County, California, United States"
         ]
     },
     {
@@ -20749,7 +20749,7 @@
             ]
         ],
         "addresses": [
-            "Apple Store, 1981, Broadway, Upper West Side, Manhattan, New York County, New York, 10023, United States"
+            "Apple Store, 1981, Broadway, Manhattan Community Board 7, Manhattan, New York County, New York, 10023, United States"
         ]
     },
     {
