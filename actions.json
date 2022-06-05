@@ -15279,15 +15279,15 @@
                 -69.6817118
             ],
             [
-                43.4510812,
-                -80.4987516
+                43.6568083,
+                -79.3806031
             ]
         ],
         "addresses": [
             "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112, United States",
             "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
             "Ruisseau Alphabet, Lac-au-Brochet, La Haute-C\u00f4te-Nord, C\u00f4te-Nord, Qu\u00e9bec, Canada",
-            "Google Waterloo, 151, Charles Street West, Downtown, Kitchener, Region of Waterloo, Southwestern Ontario, Ontario, N2G 1H6, Canada"
+            "The Google Pro, 10, Dundas Street East, Downtown Yonge, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5B 2G9, Canada"
         ]
     },
     {
@@ -18484,8 +18484,15 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                40.6453855,
+                -74.1077517
+            ]
+        ],
+        "addresses": [
+            "Blue, 1115, Richmond Terrace, Staten Island, Richmond County, New York, 10310, United States"
+        ]
     },
     {
         "id": 473,
