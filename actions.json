@@ -927,15 +927,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                37.3361905,
-                -121.890583
-            ]
-        ],
-        "addresses": [
-            "San Jose, Santa Clara County, California, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 16,
@@ -13676,7 +13669,7 @@
             ]
         ],
         "addresses": [
-            "Uber Nigeria HQ, 2, Onikoyi Road, Ikoyi, Okepa, Eti Osa, Lagos, 106104, Nigeria"
+            "Uber Nigeria HQ, 2, Onikoyi Road, Ikoyi, Okepa, Eti Osa, Lagos, 101233, Nigeria"
         ]
     },
     {
