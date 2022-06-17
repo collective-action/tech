@@ -16505,8 +16505,15 @@
         "author": [
             "hyatt d."
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                35.8733275,
+                -89.3881431
+            ]
+        ],
+        "addresses": [
+            "Ringer Lane, Halls, Lauderdale County, Tennessee, 38040, United States"
+        ]
     },
     {
         "id": 428,
@@ -18463,8 +18470,15 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                40.6453855,
+                -74.1077517
+            ]
+        ],
+        "addresses": [
+            "Blue, 1115, Richmond Terrace, Staten Island, City of New York, New York, 10310, United States"
+        ]
     },
     {
         "id": 473,
