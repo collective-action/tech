@@ -2329,12 +2329,12 @@
         ],
         "latlngs": [
             [
-                40.704059,
-                -74.011355
+                40.7480531,
+                -73.9841627
             ]
         ],
         "addresses": [
-            "WeWork, Broad Street, Manhattan Community Board 1, Manhattan, New York County, City of New York, New York, 10004, United States"
+            "WeWork, East 34th Street, Midtown South, Manhattan Community Board 5, New York County, City of New York, New York, 10016, United States"
         ]
     },
     {
@@ -14914,15 +14914,8 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": [
-            [
-                35.8733275,
-                -89.3881431
-            ]
-        ],
-        "addresses": [
-            "Ringer Lane, Halls, Lauderdale County, Tennessee, 38040, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 360,
@@ -16512,15 +16505,8 @@
         "author": [
             "hyatt d."
         ],
-        "latlngs": [
-            [
-                35.8733275,
-                -89.3881431
-            ]
-        ],
-        "addresses": [
-            "Ringer Lane, Halls, Lauderdale County, Tennessee, 38040, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 428,
@@ -19093,15 +19079,8 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": [
-            [
-                34.0976547,
-                -118.3164863
-            ]
-        ],
-        "addresses": [
-            "Netflix at Sunset Bronson Studios, West Sunset Boulevard, Hollywood, Los Angeles, Los Angeles County, California, 90028-5420, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 484,
