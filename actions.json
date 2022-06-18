@@ -857,8 +857,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.3361905,
+                -121.890583
+            ]
+        ],
+        "addresses": [
+            "San Jose, Santa Clara County, California, United States"
+        ]
     },
     {
         "id": 14,
@@ -14914,15 +14921,8 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": [
-            [
-                35.8733275,
-                -89.3881431
-            ]
-        ],
-        "addresses": [
-            "Ringer Lane, Halls, Lauderdale County, Tennessee, 38040, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 360,
@@ -19093,8 +19093,15 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                34.0976547,
+                -118.3164863
+            ]
+        ],
+        "addresses": [
+            "Netflix at Sunset Bronson Studios, West Sunset Boulevard, Hollywood, Los Angeles, Los Angeles County, California, 90028-5420, United States"
+        ]
     },
     {
         "id": 484,
@@ -19400,8 +19407,8 @@
                 4.8947825
             ],
             [
-                12.9795028,
-                77.6959454
+                12.9854738,
+                77.703909
             ]
         ],
         "addresses": [
@@ -19414,7 +19421,7 @@
             "Amazon, Beoley CP, Holt End, Bromsgrove, Worcestershire, England, B98 9FJ, United Kingdom",
             "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
             "Amazon, 169, Nieuwendijk, Centrum, Amsterdam, Noord-Holland, Nederland, 1012MG, Nederland",
-            "Amazon, Doddanekkundi Main Road, Doddanekundi, Dodda Nekkundi, Mahadevapura Zone, Bengaluru, Bangalore East, Bangalore Urban, Karnataka, 560 048, India"
+            "Amazon, Graphite India Road, Kaveri Nagara, Garudachara Palya, Mahadevapura Zone, Bengaluru, Bangalore East, Bangalore Urban, Karnataka, 560048, India"
         ]
     },
     {
