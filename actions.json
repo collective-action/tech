@@ -7593,14 +7593,14 @@
                 -163.0526448
             ],
             [
-                40.7000871,
-                -73.6909527
+                41.0965608,
+                -81.5438926
             ]
         ],
         "addresses": [
             "Doordash HQ, 901, Market Street, Union Square, San Francisco, California, 94104, United States",
             "Caviar Creek, Nome, Alaska, United States",
-            "USA, Meacham Avenue, Franklin Square, Town of Hempstead, Nassau County, New York, 11003, United States"
+            "Square, West Market Street, Highland Square, Akron, Summit County, Ohio, 44333, United States"
         ]
     },
     {
@@ -14914,8 +14914,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                35.8733275,
+                -89.3881431
+            ]
+        ],
+        "addresses": [
+            "Ringer Lane, Halls, Lauderdale County, Tennessee, 38040, United States"
+        ]
     },
     {
         "id": 360,
@@ -16505,8 +16512,15 @@
         "author": [
             "hyatt d."
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                35.8733275,
+                -89.3881431
+            ]
+        ],
+        "addresses": [
+            "Ringer Lane, Halls, Lauderdale County, Tennessee, 38040, United States"
+        ]
     },
     {
         "id": 428,
@@ -18463,8 +18477,15 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                40.6453855,
+                -74.1077517
+            ]
+        ],
+        "addresses": [
+            "Blue, 1115, Richmond Terrace, Staten Island, City of New York, New York, 10310, United States"
+        ]
     },
     {
         "id": 473,
@@ -19079,8 +19100,15 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                34.0976547,
+                -118.3164863
+            ]
+        ],
+        "addresses": [
+            "Netflix at Sunset Bronson Studios, West Sunset Boulevard, Hollywood, Los Angeles, Los Angeles County, California, 90028-5420, United States"
+        ]
     },
     {
         "id": 484,
@@ -20737,12 +20765,12 @@
         ],
         "latlngs": [
             [
-                40.775066100000004,
-                -73.98266860124198
+                40.763841400000004,
+                -73.97297181082921
             ]
         ],
         "addresses": [
-            "Apple Store, 1981, Broadway, Manhattan Community Board 7, Manhattan, New York County, City of New York, New York, 10023, United States"
+            "Apple Fifth Avenue, 767, 5th Avenue, Midtown, Manhattan Community Board 5, New York County, City of New York, New York, 10153, United States"
         ]
     },
     {
