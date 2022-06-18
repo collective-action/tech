@@ -14914,15 +14914,8 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": [
-            [
-                35.8733275,
-                -89.3881431
-            ]
-        ],
-        "addresses": [
-            "Ringer Lane, Halls, Lauderdale County, Tennessee, 38040, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 360,
@@ -16512,8 +16505,15 @@
         "author": [
             "hyatt d."
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                35.8733275,
+                -89.3881431
+            ]
+        ],
+        "addresses": [
+            "Ringer Lane, Halls, Lauderdale County, Tennessee, 38040, United States"
+        ]
     },
     {
         "id": 428,
