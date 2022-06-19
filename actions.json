@@ -857,15 +857,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                37.3361905,
-                -121.890583
-            ]
-        ],
-        "addresses": [
-            "San Jose, Santa Clara County, California, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 14,
@@ -6664,7 +6657,7 @@
             ]
         ],
         "addresses": [
-            "Wayfair, 222, Berkeley Street, Bay Village, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States"
+            "Wayfair, 222, Berkeley Street, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States"
         ]
     },
     {
