@@ -2481,8 +2481,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.389317899999995,
+                -121.97901174515997
+            ]
+        ],
+        "addresses": [
+            "McAfee, Mission College Boulevard, Santa Clara, Santa Clara County, California, 95054-1231, United States"
+        ]
     },
     {
         "id": 54,
@@ -2726,8 +2733,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.389317899999995,
+                -121.97901174515997
+            ]
+        ],
+        "addresses": [
+            "McAfee, Mission College Boulevard, Santa Clara, Santa Clara County, California, 95054-1231, United States"
+        ]
     },
     {
         "id": 60,
@@ -5002,12 +5016,12 @@
         ],
         "latlngs": [
             [
-                30.6825091,
-                103.9767266
+                23.0341618,
+                113.4839461
             ]
         ],
         "addresses": [
-            "\u987a\u4e30\u901f\u8fd0, \u8700\u946b\u8def, \u6e05\u6ce2\u793e\u533a, \u82cf\u5761\u8857\u9053, \u9752\u7f8a\u533a, \u6210\u90fd\u5e02, \u56db\u5ddd\u7701, 610091, \u4e2d\u56fd"
+            "\u987a\u4e30\u901f\u8fd0(\u5e7f\u5dde\u5316\u9f99\u4e2d\u8f6c\u573a), \u5357\u5927\u5e72\u7ebf\u8f85\u9053, \u4e1c\u5e84, \u5316\u9f99\u9547, \u80dc\u6d32\u6751, \u756a\u79ba\u533a, \u5e7f\u5dde\u5e02, \u5e7f\u4e1c\u7701, 511434, \u4e2d\u56fd"
         ]
     },
     {
@@ -19086,8 +19100,15 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                34.0976547,
+                -118.3164863
+            ]
+        ],
+        "addresses": [
+            "Netflix at Sunset Bronson Studios, West Sunset Boulevard, Hollywood, Los Angeles, Los Angeles County, California, 90028-5420, United States"
+        ]
     },
     {
         "id": 484,
