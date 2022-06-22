@@ -857,8 +857,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.3361905,
+                -121.890583
+            ]
+        ],
+        "addresses": [
+            "San Jose, Santa Clara County, California, United States"
+        ]
     },
     {
         "id": 14,
@@ -2726,8 +2733,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.389317899999995,
+                -121.97901174515997
+            ]
+        ],
+        "addresses": [
+            "McAfee, Mission College Boulevard, Santa Clara, Santa Clara County, California, 95054-1231, United States"
+        ]
     },
     {
         "id": 60,
@@ -14666,7 +14680,7 @@
             ]
         ],
         "addresses": [
-            "Cpl Kevin Kolm Memorial Park (Triangle Park) H-19, Hicksville, Nassau County, New York, United States",
+            "Cpl Kevin Kolm Memorial Park (Triangle Park) H-19, Hicksville, Town of Oyster Bay, Nassau County, New York, United States",
             "Facebook (Meta), Campus Center Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
             "Accenture, West San Fernando Street, Downtown Historic District, San Jose, Santa Clara County, California, 95113, United States"
         ]
@@ -18463,8 +18477,15 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                40.6453855,
+                -74.1077517
+            ]
+        ],
+        "addresses": [
+            "Blue, 1115, Richmond Terrace, Staten Island, City of New York, New York, 10310, United States"
+        ]
     },
     {
         "id": 473,
@@ -19079,8 +19100,15 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                34.0976547,
+                -118.3164863
+            ]
+        ],
+        "addresses": [
+            "Netflix at Sunset Bronson Studios, West Sunset Boulevard, Hollywood, Los Angeles, Los Angeles County, California, 90028-5420, United States"
+        ]
     },
     {
         "id": 484,
