@@ -30,18 +30,6 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            33.98057375,
-            -118.40788353026585
-        ],
-        [
-            37.3339398,
-            -121.8895142
-        ]
-    ],
-    "addresses": [
-        "Facebook (Meta), Campus Center Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
-        "Accenture, West San Fernando Street, Downtown Historic District, San Jose, Santa Clara County, California, 95113, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

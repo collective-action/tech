@@ -28,13 +28,6 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            51.5314216,
-            -0.1113624
-        ]
-    ],
-    "addresses": [
-        "Deliveroo, Pentonville Road, Pentonville, Barnsbury, London Borough of Islington, London, Greater London, England, N1 9JB, United Kingdom"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

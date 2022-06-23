@@ -27,18 +27,6 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            23.09733995,
-            113.29374279344763
-        ],
-        [
-            26.3695593,
-            106.50085007231183
-        ]
-    ],
-    "addresses": [
-        "\u4e2d\u6587\u5802, 274, \u9038\u4ed9\u8def, \u65b0\u6e2f\u8857\u9053, \u65b0\u51e4\u51f0\u6751, \u6d77\u73e0\u533a, \u5e7f\u5dde\u5e02, \u5e7f\u4e1c\u7701, 510275, \u4e2d\u56fd",
-        "\u817e\u8baf\u8d35\u5b89\u4e03\u661f\u6570\u636e\u4e2d\u5fc3, \u5e73\u575d\u533a, \u5b89\u987a\u5e02, \u8d35\u5dde\u7701, \u4e2d\u56fd"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

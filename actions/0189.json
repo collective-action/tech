@@ -28,23 +28,6 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            37.7834546,
-            -122.4080358
-        ],
-        [
-            65.4102317,
-            -163.0526448
-        ],
-        [
-            41.0965608,
-            -81.5438926
-        ]
-    ],
-    "addresses": [
-        "Doordash HQ, 901, Market Street, Union Square, San Francisco, California, 94104, United States",
-        "Caviar Creek, Nome, Alaska, United States",
-        "Square, West Market Street, Highland Square, Akron, Summit County, Ohio, 44333, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

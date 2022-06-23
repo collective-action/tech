@@ -31,13 +31,6 @@
     "author": [
         "moates"
     ],
-    "latlngs": [
-        [
-            40.444189699999995,
-            -79.94271918393466
-        ]
-    ],
-    "addresses": [
-        "Carnegie Mellon University, Canterbury Lane, Shadyside, Pittsburgh, Allegheny County, Pennsylvania, 15232, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

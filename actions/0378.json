@@ -31,13 +31,6 @@
     "author": [
         "fiona tay"
     ],
-    "latlngs": [
-        [
-            40.7264299,
-            -111.8655941
-        ]
-    ],
-    "addresses": [
-        "Medium, Redondo Avenue, Sugar House, Salt Lake City, Salt Lake County, Utah, 84105, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

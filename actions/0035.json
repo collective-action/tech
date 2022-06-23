@@ -27,18 +27,6 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            50.845334,
-            9.677958815746917
-        ],
-        [
-            51.3375846,
-            12.3746848
-        ]
-    ],
-    "addresses": [
-        "Amazon FRA1, Eichhof, Asbach, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
-        "Amazon Recruitment Center, Petersstra\u00dfe, Leipzig-Zentrum, Mitte, Leipzig, Sachsen, 04109, Deutschland"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

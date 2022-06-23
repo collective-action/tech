@@ -34,13 +34,6 @@
     "author": [
         "Worker26"
     ],
-    "latlngs": [
-        [
-            52.5160429,
-            13.4125087
-        ]
-    ],
-    "addresses": [
-        "N26 Bank GmbH, 62, Klosterstra\u00dfe, Mitte, Berlin, 10179, Deutschland"
-    ]
+    "latlngs": null,
+    "addresses": null
 }
