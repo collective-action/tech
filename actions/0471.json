@@ -27,6 +27,13 @@
     "author": [
         "wynniechan"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            34.2157869,
+            -119.0615961
+        ]
+    ],
+    "addresses": [
+        "Citizen, 740, East Ventura Boulevard, Camarillo, Ventura County, California, 93010, United States"
+    ]
 }

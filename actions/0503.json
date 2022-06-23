@@ -29,6 +29,13 @@
     "author": [
         "wynniechan"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            40.65221335,
+            -74.13982828961909
+        ]
+    ],
+    "addresses": [
+        "Amazon Distribution Center, Bayview Court, Bergen Point, Bayonne, Hudson County, New Jersey, 07002, United States"
+    ]
 }

@@ -26,6 +26,13 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            40.3994421,
+            -3.6888805
+        ]
+    ],
+    "addresses": [
+        "Amazon Espa\u00f1a, 5, Calle de Ram\u00edrez de Prado, Delicias, Arganzuela, Madrid, \u00c1rea metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28045, Espa\u00f1a"
+    ]
 }

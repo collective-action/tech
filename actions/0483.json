@@ -34,6 +34,13 @@
     "author": [
         "wynniechan"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            39.2507006,
+            -94.661471
+        ]
+    ],
+    "addresses": [
+        "Google Fiber Space, 8615, Northwest Prairie View Road, Kansas City, Platte County, Missouri, 64153, United States"
+    ]
 }

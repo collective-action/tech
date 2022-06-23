@@ -26,6 +26,13 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            51.3375846,
+            12.3746848
+        ]
+    ],
+    "addresses": [
+        "Amazon Recruitment Center, Petersstra\u00dfe, Leipzig-Zentrum, Mitte, Leipzig, Sachsen, 04109, Deutschland"
+    ]
 }

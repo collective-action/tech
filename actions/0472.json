@@ -35,6 +35,18 @@
     "author": [
         "wynniechan"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            40.67345065,
+            -74.00731075906049
+        ],
+        [
+            38.9132465,
+            -77.0317256
+        ]
+    ],
+    "addresses": [
+        "Amazon, 55, Bay Street, Brooklyn, Kings County, City of New York, New York, 112321, United States",
+        "Amazon Fresh, 1733, 14th Street Northwest, Logan Circle/Shaw, Washington, District of Columbia, 20009, United States"
+    ]
 }

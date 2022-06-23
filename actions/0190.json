@@ -31,6 +31,13 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.4440869,
+            -122.16287540411753
+        ]
+    ],
+    "addresses": [
+        "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States"
+    ]
 }

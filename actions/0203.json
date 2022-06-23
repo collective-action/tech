@@ -28,6 +28,13 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            39.2908816,
+            -76.610759
+        ]
+    ],
+    "addresses": [
+        "Baltimore, Maryland, United States"
+    ]
 }

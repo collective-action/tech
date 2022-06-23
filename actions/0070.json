@@ -29,6 +29,13 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            32.7841334,
+            -96.7892477
+        ]
+    ],
+    "addresses": [
+        "Uber, North Central Expressway, Deep Ellum PID, Dallas, Dallas County, Texas, 75226, United States"
+    ]
 }

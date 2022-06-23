@@ -30,6 +30,13 @@
     "author": [
         "hyatt d."
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            41.3113886,
+            -105.59521895412776
+        ]
+    ],
+    "addresses": [
+        "Basecamp, 220, South 2nd Street, Laramie, Albany County, Wyoming, 82070, United States"
+    ]
 }

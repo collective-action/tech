@@ -32,6 +32,18 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.7756962,
+            -122.4180838
+        ],
+        [
+            37.7509149,
+            -122.40246883416269
+        ]
+    ],
+    "addresses": [
+        "Uber, 1455, Market Street, Civic Center, San Francisco, California, 94103, United States",
+        "Lyft, Kansas Street, Potrero Terrace, San Francisco, California, 94124, United States"
+    ]
 }

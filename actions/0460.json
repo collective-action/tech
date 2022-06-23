@@ -35,6 +35,23 @@
     "author": [
         "wynniechan"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            33.977092,
+            -118.4092133
+        ],
+        [
+            39.4816128,
+            -106.046296
+        ],
+        [
+            40.5109518,
+            -88.9541794
+        ]
+    ],
+    "addresses": [
+        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
+        "Modis, 113, South Main Street, Breckenridge, Summit County, Colorado, 80424, United States",
+        "Adecco, Visa Drive, Landmark Subdivision, Normal, McLean County, Illinois, 61761, United States"
+    ]
 }

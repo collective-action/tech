@@ -30,6 +30,13 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            41.32038665,
+            -73.67869784162318
+        ]
+    ],
+    "addresses": [
+        "IBM, Lake Purdy, Town of Somers, Westchester County, New York, United States"
+    ]
 }

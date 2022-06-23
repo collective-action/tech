@@ -29,6 +29,13 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            40.7480531,
+            -73.9841627
+        ]
+    ],
+    "addresses": [
+        "WeWork, East 34th Street, Midtown South, Manhattan Community Board 5, New York County, City of New York, New York, 10016, United States"
+    ]
 }

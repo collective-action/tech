@@ -30,6 +30,13 @@
     "author": [
         "wynniechan"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            23.0126505,
+            113.3050486
+        ]
+    ],
+    "addresses": [
+        "\u987a\u4e30\u901f\u8fd0(\u77f3\u5317\u4e1a\u52a1\u90e8), \u5bcc\u77f3\u8def, \u5927\u77f3\u8857\u9053, \u731b\u6d8c\u6751, \u756a\u79ba\u533a, \u5e7f\u5dde\u5e02, \u5e7f\u4e1c\u7701, 511430, \u4e2d\u56fd"
+    ]
 }

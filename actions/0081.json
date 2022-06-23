@@ -27,6 +27,18 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            51.653494949999995,
+            7.59464606445661
+        ],
+        [
+            45.528468950000004,
+            9.835897674840712
+        ]
+    ],
+    "addresses": [
+        "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
+        "Amazon, Cividate al Piano, Bergamo, Lombardia, Italia"
+    ]
 }
