@@ -1628,15 +1628,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                39.663921099999996,
-                -75.5901960007756
-            ]
-        ],
-        "addresses": [
-            "Amazon PHL1, 1, Centerpoint Boulevard, Washington Park, New Castle, New Castle County, Delaware, 19720, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 34,
@@ -19100,15 +19093,8 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": [
-            [
-                34.0976547,
-                -118.3164863
-            ]
-        ],
-        "addresses": [
-            "Netflix at Sunset Bronson Studios, West Sunset Boulevard, Hollywood, Los Angeles, Los Angeles County, California, 90028-5420, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 484,
