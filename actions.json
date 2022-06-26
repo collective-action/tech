@@ -19093,8 +19093,15 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                34.0976547,
+                -118.3164863
+            ]
+        ],
+        "addresses": [
+            "Netflix at Sunset Bronson Studios, West Sunset Boulevard, Hollywood, Los Angeles, Los Angeles County, California, 90028-5420, United States"
+        ]
     },
     {
         "id": 484,
@@ -19400,8 +19407,8 @@
                 4.8947825
             ],
             [
-                12.9854738,
-                77.703909
+                19.2336311,
+                72.84322155173452
             ]
         ],
         "addresses": [
@@ -19414,7 +19421,7 @@
             "Amazon, Beoley CP, Holt End, Bromsgrove, Worcestershire, England, B98 9FJ, United Kingdom",
             "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
             "Amazon, 169, Nieuwendijk, Centrum, Amsterdam, Noord-Holland, Nederland, 1012MG, Nederland",
-            "Amazon, Graphite India Road, Kaveri Nagara, Garudachara Palya, Mahadevapura Zone, Bengaluru, Bangalore East, Bangalore Urban, Karnataka, 560048, India"
+            "AMAZON, Jayraj Nagar, Borivali West, R/C Ward, Zone 4, Mumbai, Mumbai Metropolitan Region, Mumbai Suburban, Maharashtra, 400092, India"
         ]
     },
     {
