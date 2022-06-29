@@ -32,6 +32,18 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            40.67345065,
+            -74.00731075906049
+        ],
+        [
+            44.9063923,
+            -122.94780702526626
+        ]
+    ],
+    "addresses": [
+        "Amazon, 55, Bay Street, Brooklyn, Kings County, City of New York, New York, 112321, United States",
+        "Amazon DPD6, Gaffin Road Southeast, Salem, Marion County, Oregon, 97317, United States"
+    ]
 }
