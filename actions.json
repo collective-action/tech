@@ -76,8 +76,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                41.32038665,
+                -73.67869784162318
+            ]
+        ],
+        "addresses": [
+            "IBM, Lake Purdy, Town of Somers, Westchester County, New York, United States"
+        ]
     },
     {
         "id": 313,
@@ -5980,8 +5987,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                44.9696864,
+                -93.2883524
+            ]
+        ],
+        "addresses": [
+            "Wounded Amazon, Lyndale Avenue South;Hennepin Avenue South, Lowry Hill, Bde Maka Ska - Isles, Minneapolis, Hennepin County, Minnesota, 55403, United States"
+        ]
     },
     {
         "id": 137,
@@ -9704,8 +9718,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                22.3511148,
+                78.6677428
+            ]
+        ],
+        "addresses": [
+            "India"
+        ]
     },
     {
         "id": 222,
@@ -10467,8 +10488,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                40.4573607,
+                -79.9169227
+            ]
+        ],
+        "addresses": [
+            "Google, Penn Avenue, Larimer, Pittsburgh, Allegheny County, Pennsylvania, 15206-4320, United States"
+        ]
     },
     {
         "id": 239,
