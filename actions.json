@@ -76,15 +76,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                41.32038665,
-                -73.67869784162318
-            ]
-        ],
-        "addresses": [
-            "IBM, Lake Purdy, Town of Somers, Westchester County, New York, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 313,
@@ -5987,15 +5980,8 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": [
-            [
-                44.9696864,
-                -93.2883524
-            ]
-        ],
-        "addresses": [
-            "Wounded Amazon, Lyndale Avenue South;Hennepin Avenue South, Lowry Hill, Bde Maka Ska - Isles, Minneapolis, Hennepin County, Minnesota, 55403, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 137,
@@ -9718,15 +9704,8 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": [
-            [
-                22.3511148,
-                78.6677428
-            ]
-        ],
-        "addresses": [
-            "India"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 222,
@@ -10488,15 +10467,8 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": [
-            [
-                40.4573607,
-                -79.9169227
-            ]
-        ],
-        "addresses": [
-            "Google, Penn Avenue, Larimer, Pittsburgh, Allegheny County, Pennsylvania, 15206-4320, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 239,
@@ -19093,15 +19065,8 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": [
-            [
-                34.0976547,
-                -118.3164863
-            ]
-        ],
-        "addresses": [
-            "Netflix at Sunset Bronson Studios, West Sunset Boulevard, Hollywood, Los Angeles, Los Angeles County, California, 90028-5420, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 484,
