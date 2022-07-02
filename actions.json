@@ -2800,12 +2800,12 @@
         ],
         "latlngs": [
             [
-                32.7841334,
-                -96.7892477
+                39.2813025,
+                -76.5905444
             ]
         ],
         "addresses": [
-            "Uber, North Central Expressway, Deep Ellum PID, Dallas, Dallas County, Texas, 75226, United States"
+            "Uber, 918, Fell Street, Fell's Point, Baltimore, Maryland, 21231, United States"
         ]
     },
     {
@@ -12462,8 +12462,8 @@
         ],
         "latlngs": [
             [
-                32.7841334,
-                -96.7892477
+                39.2813025,
+                -76.5905444
             ],
             [
                 37.7509149,
@@ -12479,7 +12479,7 @@
             ]
         ],
         "addresses": [
-            "Uber, North Central Expressway, Deep Ellum PID, Dallas, Dallas County, Texas, 75226, United States",
+            "Uber, 918, Fell Street, Fell's Point, Baltimore, Maryland, 21231, United States",
             "Lyft, Kansas Street, Potrero Terrace, San Francisco, California, 94124, United States",
             "Doordash HQ, 901, Market Street, Union Square, San Francisco, California, 94104, United States",
             "UserTesting, 690, 5th Street, South of Market, San Francisco, California, 94017, United States"
@@ -12987,8 +12987,8 @@
                 -118.4092133
             ],
             [
-                32.7841334,
-                -96.7892477
+                39.2813025,
+                -76.5905444
             ],
             [
                 37.7509149,
@@ -13002,7 +13002,7 @@
         "addresses": [
             "Amazon, Jefferson County, Montana, United States",
             "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90094, United States",
-            "Uber, North Central Expressway, Deep Ellum PID, Dallas, Dallas County, Texas, 75226, United States",
+            "Uber, 918, Fell Street, Fell's Point, Baltimore, Maryland, 21231, United States",
             "Lyft, Kansas Street, Potrero Terrace, San Francisco, California, 94124, United States",
             "UserTesting, 690, 5th Street, South of Market, San Francisco, California, 94017, United States"
         ]
@@ -18456,8 +18456,15 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                40.6453855,
+                -74.1077517
+            ]
+        ],
+        "addresses": [
+            "Blue, 1115, Richmond Terrace, Staten Island, City of New York, New York, 10310, United States"
+        ]
     },
     {
         "id": 473,
@@ -19072,8 +19079,15 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                34.0976547,
+                -118.3164863
+            ]
+        ],
+        "addresses": [
+            "Netflix at Sunset Bronson Studios, West Sunset Boulevard, Hollywood, Los Angeles, Los Angeles County, California, 90028-5420, United States"
+        ]
     },
     {
         "id": 484,
