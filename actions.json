@@ -11344,12 +11344,12 @@
         ],
         "latlngs": [
             [
-                33.9985319,
-                -117.5528503240254
+                33.998523750000004,
+                -117.55284965053637
             ]
         ],
         "addresses": [
-            "Amazon LGB3 Fulfillment Center;Amazon, 4950, Goodman Way, Eastvale, Riverside County, California, 91752, United States"
+            "Amazon LGB3, 4950, Goodman Way, Eastvale, Riverside County, California, 91752, United States"
         ]
     },
     {
@@ -18456,15 +18456,8 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": [
-            [
-                40.6453855,
-                -74.1077517
-            ]
-        ],
-        "addresses": [
-            "Blue, 1115, Richmond Terrace, Staten Island, City of New York, New York, 10310, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 473,
