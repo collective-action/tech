@@ -7310,10 +7310,15 @@
             [
                 -1.2772989,
                 36.76095918258451
+            ],
+            [
+                -1.2887683,
+                36.750045
             ]
         ],
         "addresses": [
-            "Facebook, Kawangware, Nairobi, Kenya"
+            "Facebook, Kawangware, Nairobi, Kenya",
+            "The Sama Chemist, Coast Road, Kawangware, Nairobi, 00505, Kenya"
         ]
     },
     {
@@ -18470,15 +18475,8 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": [
-            [
-                40.6453855,
-                -74.1077517
-            ]
-        ],
-        "addresses": [
-            "Blue, 1115, Richmond Terrace, Staten Island, City of New York, New York, 10310, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 473,
