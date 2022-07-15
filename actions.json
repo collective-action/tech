@@ -2474,8 +2474,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.389317899999995,
+                -121.97901174515997
+            ]
+        ],
+        "addresses": [
+            "McAfee, Mission College Boulevard, Santa Clara, Santa Clara County, California, 95054-1231, United States"
+        ]
     },
     {
         "id": 54,
@@ -14905,8 +14912,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                35.8733275,
+                -89.3881431
+            ]
+        ],
+        "addresses": [
+            "Ringer Lane, Halls, Lauderdale County, Tennessee, 38040, United States"
+        ]
     },
     {
         "id": 360,
@@ -16496,8 +16510,15 @@
         "author": [
             "hyatt d."
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                35.8733275,
+                -89.3881431
+            ]
+        ],
+        "addresses": [
+            "Ringer Lane, Halls, Lauderdale County, Tennessee, 38040, United States"
+        ]
     },
     {
         "id": 428,
