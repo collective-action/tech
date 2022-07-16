@@ -732,12 +732,17 @@
                 -117.20683041525174
             ],
             [
+                37.411849450000005,
+                -122.1480713239311
+            ],
+            [
                 37.3974949,
                 -122.0842646
             ]
         ],
         "addresses": [
             "Colliers International; E-Trade Financial; IBM, 4660, La Jolla Village Drive, University City, San Diego, San Diego County, California, 92039, United States",
+            "HP, Peter Coutts Circle, Peter Coutts Hill, Stanford, Sunnyvale, Santa Clara County, California, 94304-1050, United States",
             "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, California, 94043, United States"
         ]
     },
@@ -11271,8 +11276,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                40.6193387,
+                -74.0727749
+            ]
+        ],
+        "addresses": [
+            "Amazon Court, Clifton, Staten Island, City of New York, New York, 10304, United States"
+        ]
     },
     {
         "id": 253,
