@@ -10347,16 +10347,11 @@
             [
                 37.7509149,
                 -122.40246883416269
-            ],
-            [
-                37.7834546,
-                -122.4080358
             ]
         ],
         "addresses": [
             "Uber, 555, Market Street, Financial District, San Francisco, California, 94105, United States",
-            "Lyft, Kansas Street, Potrero Terrace, San Francisco, California, 94124, United States",
-            "Doordash HQ, 901, Market Street, Union Square, San Francisco, California, 94104, United States"
+            "Lyft, Kansas Street, Potrero Terrace, San Francisco, California, 94124, United States"
         ]
     },
     {
@@ -14038,8 +14033,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                33.8053661,
+                -118.3349656038286
+            ]
+        ],
+        "addresses": [
+            "Amazon, Skypark Drive, Walteria, Torrance, Los Angeles County, California, 90505, United States"
+        ]
     },
     {
         "id": 335,
@@ -19080,8 +19082,15 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                34.0976547,
+                -118.3164863
+            ]
+        ],
+        "addresses": [
+            "Netflix at Sunset Bronson Studios, West Sunset Boulevard, Hollywood, Los Angeles, Los Angeles County, California, 90028, United States"
+        ]
     },
     {
         "id": 484,
