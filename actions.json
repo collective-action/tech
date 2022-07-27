@@ -14038,15 +14038,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                33.8053661,
-                -118.3349656038286
-            ]
-        ],
-        "addresses": [
-            "Amazon, Skypark Drive, Walteria, Torrance, Los Angeles County, California, 90505, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 335,
@@ -18567,7 +18560,7 @@
         "addresses": [
             "Uber, 2, Leman Street, East Smithfield, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, E1 8FA, United Kingdom",
             "UBER, 100, Broad Street, Ladywood, Park Central, Birmingham, West Midlands Combined Authority, England, B15 1AE, United Kingdom",
-            "Uber Pleasure, 54, Derby Street, Strangeways, Manchester, Greater Manchester, England, M8 8HF, United Kingdom"
+            "Uber Pleasure, Sherborne Street, Strangeways, Manchester, Greater Manchester, England, M8 8NE, United Kingdom"
         ]
     },
     {
