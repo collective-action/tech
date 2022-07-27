@@ -7478,13 +7478,13 @@
                 -112.1072224
             ],
             [
-                39.9427277,
-                -75.1574059
+                26.1005627,
+                -80.1371526
             ]
         ],
         "addresses": [
             "Amazon, Jefferson County, Montana, United States",
-            "Whole Foods, South Street, Bella Vista, South Philadelphia, Philadelphia, Philadelphia County, Pennsylvania, 19146, United States"
+            "Whole Foods, Southeast 17th Street, Fort Lauderdale, Broward County, Florida, 33316, United States"
         ]
     },
     {
@@ -13870,8 +13870,8 @@
                 -0.1422825722054385
             ],
             [
-                51.51579395,
-                -0.13555097805192262
+                53.3828946,
+                -1.4634543
             ],
             [
                 51.58489745,
@@ -13882,7 +13882,7 @@
             "Google, 6, Pancras Road, King's Cross, London Borough of Camden, London, Greater London, England, N1C 4BJ, United Kingdom",
             "Amazon, Beoley CP, Holt End, Bromsgrove, Worcestershire, England, B98 9FJ, United Kingdom",
             "Microsoft Experience Centre, 253-259, Regent Street, East Marylebone, Mayfair, London, Greater London, England, W1B 2ER, United Kingdom",
-            "Samsung, Wardour Street, Soho, Islington, City of Westminster, Greater London, England, W1F 8ZD, United Kingdom",
+            "Samsung, 18-20, Commercial Street, Castlegate, City Centre, Sheffield, Sheffield City Region, England, S1 2AT, United Kingdom",
             "Deliveroo Editions, Cranford Way, Haringey Heartlands, Hornsey, London Borough of Haringey, London, Greater London, England, N8 9DG, United Kingdom"
         ]
     },
@@ -19080,15 +19080,8 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": [
-            [
-                34.0976547,
-                -118.3164863
-            ]
-        ],
-        "addresses": [
-            "Netflix at Sunset Bronson Studios, West Sunset Boulevard, Hollywood, Los Angeles, Los Angeles County, California, 90028, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 484,
