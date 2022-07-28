@@ -9043,12 +9043,12 @@
         ],
         "latlngs": [
             [
-                40.704814,
-                -74.0064246
+                33.97932725,
+                -118.41465580074762
             ]
         ],
         "addresses": [
-            "WeWork, 110, Wall Street, Manhattan Community Board 1, Manhattan, New York County, City of New York, New York, 10005, United States"
+            "WeWork, West Jefferson Boulevard, Playa Vista, Los Angeles, Los Angeles County, California, 90096, United States"
         ]
     },
     {
@@ -14245,15 +14245,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                33.8053661,
-                -118.3349656038286
-            ]
-        ],
-        "addresses": [
-            "Amazon, Skypark Drive, Walteria, Torrance, Los Angeles County, California, 90505, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 419,
