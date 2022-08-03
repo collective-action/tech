@@ -36,16 +36,16 @@
     ],
     "latlngs": [
         [
-            51.5332143,
-            -0.1259925739528908
+            51.5333771,
+            -0.1258455
         ],
         [
             52.3124769,
             -1.878707127163782
         ],
         [
-            51.51500405,
-            -0.1422825722054385
+            51.5195583,
+            -0.181935
         ],
         [
             53.3828946,
@@ -57,10 +57,10 @@
         ]
     ],
     "addresses": [
-        "Google, 6, Pancras Road, King's Cross, London Borough of Camden, London, Greater London, England, N1C 4BJ, United Kingdom",
+        "Google, Pancras Road, King's Cross, London Borough of Camden, London, Greater London, England, N1C 4BJ, United Kingdom",
         "Amazon, Beoley CP, Holt End, Bromsgrove, Worcestershire, England, B98 9FJ, United Kingdom",
-        "Microsoft Experience Centre, 253-259, Regent Street, East Marylebone, Mayfair, City of Westminster, London, Greater London, England, W1B 2ER, United Kingdom",
+        "Microsoft London, Kingdom Street, Paddington Central, Paddington, City of Westminster, London, Greater London, England, W2 6PY, United Kingdom",
         "Samsung, 18-20, Commercial Street, Castlegate, City Centre, Sheffield, South Yorkshire, Sheffield City Region, England, S1 2AT, United Kingdom",
-        "Deliveroo Swiss Cottage, Dobson Close, Hilgrove Estate, Belsize Park, London Borough of Camden, Greater London, England, NW6 4RS, United Kingdom"
+        "Deliveroo Swiss Cottage, Dobson Close, Hilgrove Estate, Belsize Park, London Borough of Camden, London, Greater London, England, NW6 4RT, United Kingdom"
     ]
 }

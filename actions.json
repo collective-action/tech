@@ -2714,7 +2714,7 @@
             ]
         ],
         "addresses": [
-            "Deliveroo Swiss Cottage, Dobson Close, Hilgrove Estate, Belsize Park, London Borough of Camden, Greater London, England, NW6 4RS, United Kingdom"
+            "Deliveroo Swiss Cottage, Dobson Close, Hilgrove Estate, Belsize Park, London Borough of Camden, London, Greater London, England, NW6 4RT, United Kingdom"
         ]
     },
     {
@@ -4445,12 +4445,12 @@
         ],
         "latlngs": [
             [
-                51.5148804,
-                -0.0718856
+                51.38672435,
+                -2.365708796708529
             ]
         ],
         "addresses": [
-            "Uber, 2, Leman Street, East Smithfield, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, E1 8FA, United Kingdom"
+            "Uber, 6, Margaret's Buildings, Kingsmead, Bath, Bath and North East Somerset, West of England, England, BA1 2LP, United Kingdom"
         ]
     },
     {
@@ -4497,7 +4497,7 @@
         ],
         "addresses": [
             "Uber, 2, Leman Street, East Smithfield, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, E1 8FA, United Kingdom",
-            "UBER, 100, Broad Street, Ladywood, Park Central, Birmingham, West Midlands Combined Authority, England, B15 1AE, United Kingdom"
+            "UBER, 100, Broad Street, Ladywood, Park Central, Birmingham, West Midlands, West Midlands Combined Authority, England, B15 1AE, United Kingdom"
         ]
     },
     {
@@ -8411,7 +8411,7 @@
             ]
         ],
         "addresses": [
-            "Deliveroo Swiss Cottage, Dobson Close, Hilgrove Estate, Belsize Park, London Borough of Camden, Greater London, England, NW6 4RS, United Kingdom"
+            "Deliveroo Swiss Cottage, Dobson Close, Hilgrove Estate, Belsize Park, London Borough of Camden, London, Greater London, England, NW6 4RT, United Kingdom"
         ]
     },
     {
@@ -9450,7 +9450,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Holywell Road, Brightside, Sheffield, South Yorkshire, Sheffield City Region, England, S9 1BE, United Kingdom",
+            "Amazon, Brathay Road, Wincobank, Sheffield, South Yorkshire, Sheffield City Region, England, S4 8AW, United Kingdom",
             "Amazon.co.uk, Towers Business Park, Brereton and Ravenhill, Brereton, Cannock Chase, Staffordshire, England, WS15 1LX, United Kingdom",
             "Amazon, Unit 1, Flaxley Road, Kingston Park, Stanground, Peterborough, City of Peterborough, Cambridgeshire and Peterborough, England, PE2 9EN, United Kingdom"
         ]
@@ -12932,12 +12932,12 @@
         ],
         "latlngs": [
             [
-                51.5148804,
-                -0.0718856
+                51.38672435,
+                -2.365708796708529
             ]
         ],
         "addresses": [
-            "Uber, 2, Leman Street, East Smithfield, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, E1 8FA, United Kingdom"
+            "Uber, 6, Margaret's Buildings, Kingsmead, Bath, Bath and North East Somerset, West of England, England, BA1 2LP, United Kingdom"
         ]
     },
     {
@@ -13858,16 +13858,16 @@
         ],
         "latlngs": [
             [
-                51.5332143,
-                -0.1259925739528908
+                51.5333771,
+                -0.1258455
             ],
             [
                 52.3124769,
                 -1.878707127163782
             ],
             [
-                51.51500405,
-                -0.1422825722054385
+                51.5195583,
+                -0.181935
             ],
             [
                 53.3828946,
@@ -13879,11 +13879,11 @@
             ]
         ],
         "addresses": [
-            "Google, 6, Pancras Road, King's Cross, London Borough of Camden, London, Greater London, England, N1C 4BJ, United Kingdom",
+            "Google, Pancras Road, King's Cross, London Borough of Camden, London, Greater London, England, N1C 4BJ, United Kingdom",
             "Amazon, Beoley CP, Holt End, Bromsgrove, Worcestershire, England, B98 9FJ, United Kingdom",
-            "Microsoft Experience Centre, 253-259, Regent Street, East Marylebone, Mayfair, City of Westminster, London, Greater London, England, W1B 2ER, United Kingdom",
+            "Microsoft London, Kingdom Street, Paddington Central, Paddington, City of Westminster, London, Greater London, England, W2 6PY, United Kingdom",
             "Samsung, 18-20, Commercial Street, Castlegate, City Centre, Sheffield, South Yorkshire, Sheffield City Region, England, S1 2AT, United Kingdom",
-            "Deliveroo Swiss Cottage, Dobson Close, Hilgrove Estate, Belsize Park, London Borough of Camden, Greater London, England, NW6 4RS, United Kingdom"
+            "Deliveroo Swiss Cottage, Dobson Close, Hilgrove Estate, Belsize Park, London Borough of Camden, London, Greater London, England, NW6 4RT, United Kingdom"
         ]
     },
     {
@@ -14038,8 +14038,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                33.8053661,
+                -118.3349656038286
+            ]
+        ],
+        "addresses": [
+            "Amazon, Skypark Drive, Walteria, Torrance, Los Angeles County, California, 90505, United States"
+        ]
     },
     {
         "id": 335,
@@ -14238,8 +14245,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                33.8053661,
+                -118.3349656038286
+            ]
+        ],
+        "addresses": [
+            "Amazon, Skypark Drive, Walteria, Torrance, Los Angeles County, California, 90505, United States"
+        ]
     },
     {
         "id": 419,
@@ -16534,7 +16548,7 @@
             ]
         ],
         "addresses": [
-            "Deliveroo Swiss Cottage, Dobson Close, Hilgrove Estate, Belsize Park, London Borough of Camden, Greater London, England, NW6 4RS, United Kingdom"
+            "Deliveroo Swiss Cottage, Dobson Close, Hilgrove Estate, Belsize Park, London Borough of Camden, London, Greater London, England, NW6 4RT, United Kingdom"
         ]
     },
     {
@@ -18552,8 +18566,8 @@
         ],
         "addresses": [
             "Uber, 2, Leman Street, East Smithfield, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, E1 8FA, United Kingdom",
-            "UBER, 100, Broad Street, Ladywood, Park Central, Birmingham, West Midlands Combined Authority, England, B15 1AE, United Kingdom",
-            "Uber Pleasure, Sherborne Street, Strangeways, Manchester, England, M8 8NE, United Kingdom"
+            "UBER, 100, Broad Street, Ladywood, Park Central, Birmingham, West Midlands, West Midlands Combined Authority, England, B15 1AE, United Kingdom",
+            "Uber Pleasure, Sherborne Street, Strangeways, Manchester, Greater Manchester, England, M8 8NE, United Kingdom"
         ]
     },
     {
