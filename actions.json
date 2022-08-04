@@ -533,7 +533,7 @@
             ]
         ],
         "addresses": [
-            "Microsoft Gathering Hall, 7054, 32nd Avenue South, Holly Park, Rainier Valley, Seattle, King County, Washington, 98118, United States"
+            "Microsoft Gathering Hall, 7054, 32nd Avenue South, NewHolly, Rainier Valley, Seattle, King County, Washington, 98118, United States"
         ]
     },
     {
@@ -826,7 +826,7 @@
             ]
         ],
         "addresses": [
-            "Microsoft Gathering Hall, 7054, 32nd Avenue South, Holly Park, Rainier Valley, Seattle, King County, Washington, 98118, United States"
+            "Microsoft Gathering Hall, 7054, 32nd Avenue South, NewHolly, Rainier Valley, Seattle, King County, Washington, 98118, United States"
         ]
     },
     {
@@ -857,8 +857,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.3361663,
+                -121.890591
+            ]
+        ],
+        "addresses": [
+            "San Jose, Santa Clara County, California, United States"
+        ]
     },
     {
         "id": 14,
@@ -5632,7 +5639,7 @@
             ]
         ],
         "addresses": [
-            "Microsoft Gathering Hall, 7054, 32nd Avenue South, Holly Park, Rainier Valley, Seattle, King County, Washington, 98118, United States"
+            "Microsoft Gathering Hall, 7054, 32nd Avenue South, NewHolly, Rainier Valley, Seattle, King County, Washington, 98118, United States"
         ]
     },
     {
@@ -6579,7 +6586,7 @@
             ]
         ],
         "addresses": [
-            "Microsoft Gathering Hall, 7054, 32nd Avenue South, Holly Park, Rainier Valley, Seattle, King County, Washington, 98118, United States"
+            "Microsoft Gathering Hall, 7054, 32nd Avenue South, NewHolly, Rainier Valley, Seattle, King County, Washington, 98118, United States"
         ]
     },
     {
@@ -8117,7 +8124,7 @@
             ]
         ],
         "addresses": [
-            "Microsoft Gathering Hall, 7054, 32nd Avenue South, Holly Park, Rainier Valley, Seattle, King County, Washington, 98118, United States"
+            "Microsoft Gathering Hall, 7054, 32nd Avenue South, NewHolly, Rainier Valley, Seattle, King County, Washington, 98118, United States"
         ]
     },
     {
@@ -12324,7 +12331,7 @@
             ]
         ],
         "addresses": [
-            "Microsoft Gathering Hall, 7054, 32nd Avenue South, Holly Park, Rainier Valley, Seattle, King County, Washington, 98118, United States"
+            "Microsoft Gathering Hall, 7054, 32nd Avenue South, NewHolly, Rainier Valley, Seattle, King County, Washington, 98118, United States"
         ]
     },
     {
