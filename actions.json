@@ -13870,8 +13870,8 @@
                 -0.181935
             ],
             [
-                53.3828946,
-                -1.4634543
+                53.4828537,
+                -2.2435331
             ],
             [
                 51.5430274,
@@ -13882,7 +13882,7 @@
             "Google, Pancras Road, King's Cross, London Borough of Camden, London, Greater London, England, N1C 4BJ, United Kingdom",
             "Amazon, Beoley CP, Holt End, Bromsgrove, Worcestershire, England, B98 9FJ, United Kingdom",
             "Microsoft London, Kingdom Street, Paddington Central, Paddington, City of Westminster, London, Greater London, England, W2 6PY, United Kingdom",
-            "Samsung, 18-20, Commercial Street, Castlegate, City Centre, Sheffield, South Yorkshire, Sheffield City Region, England, S1 2AT, United Kingdom",
+            "Samsung, 26, Market Street, Central Retail District, City Centre, Manchester, Greater Manchester, England, M1 1PW, United Kingdom",
             "Deliveroo Swiss Cottage, Dobson Close, Hilgrove Estate, Belsize Park, London Borough of Camden, London, Greater London, England, NW6 4RT, United Kingdom"
         ]
     },
@@ -14038,8 +14038,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                33.8053661,
+                -118.3349656038286
+            ]
+        ],
+        "addresses": [
+            "Amazon, Skypark Drive, Walteria, Torrance, Los Angeles County, California, 90505, United States"
+        ]
     },
     {
         "id": 335,
@@ -18452,15 +18459,8 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": [
-            [
-                40.6453855,
-                -74.1077517
-            ]
-        ],
-        "addresses": [
-            "Blue, 1115, Richmond Terrace, Staten Island, City of New York, New York, 10310, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 473,
@@ -19080,8 +19080,15 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                34.0976547,
+                -118.3164863
+            ]
+        ],
+        "addresses": [
+            "Netflix at Sunset Bronson Studios, West Sunset Boulevard, Hollywood, Los Angeles, Los Angeles County, California, 90028, United States"
+        ]
     },
     {
         "id": 484,
