@@ -857,8 +857,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.3361663,
+                -121.890591
+            ]
+        ],
+        "addresses": [
+            "San Jose, Santa Clara County, California, United States"
+        ]
     },
     {
         "id": 14,
@@ -2702,12 +2709,12 @@
         ],
         "latlngs": [
             [
-                51.5430274,
-                -0.1757352
+                51.58489745,
+                -0.1133169998883049
             ]
         ],
         "addresses": [
-            "Deliveroo Swiss Cottage, Dobson Close, Hilgrove Estate, Belsize Park, London Borough of Camden, London, Greater London, England, NW6 4RT, United Kingdom"
+            "Deliveroo Editions, Hornsey, London Borough of Haringey, London, Greater London, England, N8 9DG, United Kingdom"
         ]
     },
     {
@@ -8399,12 +8406,12 @@
         ],
         "latlngs": [
             [
-                51.5430274,
-                -0.1757352
+                51.58489745,
+                -0.1133169998883049
             ]
         ],
         "addresses": [
-            "Deliveroo Swiss Cottage, Dobson Close, Hilgrove Estate, Belsize Park, London Borough of Camden, London, Greater London, England, NW6 4RT, United Kingdom"
+            "Deliveroo Editions, Hornsey, London Borough of Haringey, London, Greater London, England, N8 9DG, United Kingdom"
         ]
     },
     {
@@ -13867,8 +13874,8 @@
                 -2.2435331
             ],
             [
-                51.5430274,
-                -0.1757352
+                51.58489745,
+                -0.1133169998883049
             ]
         ],
         "addresses": [
@@ -13876,7 +13883,7 @@
             "Amazon, Beoley CP, Holt End, Bromsgrove, Worcestershire, England, B98 9FJ, United Kingdom",
             "Microsoft London, Kingdom Street, Paddington Central, Paddington, City of Westminster, London, Greater London, England, W2 6PY, United Kingdom",
             "Samsung, 26, Market Street, Central Retail District, City Centre, Manchester, Greater Manchester, England, M1 1PW, United Kingdom",
-            "Deliveroo Swiss Cottage, Dobson Close, Hilgrove Estate, Belsize Park, London Borough of Camden, London, Greater London, England, NW6 4RT, United Kingdom"
+            "Deliveroo Editions, Hornsey, London Borough of Haringey, London, Greater London, England, N8 9DG, United Kingdom"
         ]
     },
     {
@@ -16522,12 +16529,12 @@
         ],
         "latlngs": [
             [
-                51.5430274,
-                -0.1757352
+                51.58489745,
+                -0.1133169998883049
             ]
         ],
         "addresses": [
-            "Deliveroo Swiss Cottage, Dobson Close, Hilgrove Estate, Belsize Park, London Borough of Camden, London, Greater London, England, NW6 4RT, United Kingdom"
+            "Deliveroo Editions, Hornsey, London Borough of Haringey, London, Greater London, England, N8 9DG, United Kingdom"
         ]
     },
     {
