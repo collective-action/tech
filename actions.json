@@ -8728,12 +8728,12 @@
         ],
         "latlngs": [
             [
-                47.3798034,
-                8.5297304
+                47.3793085,
+                8.5307904
             ]
         ],
         "addresses": [
-            "Google, 100, Lagerstrasse, Langstrasse, Aussersihl, Z\u00fcrich, Bezirk Z\u00fcrich, Z\u00fcrich, 8004, Schweiz/Suisse/Svizzera/Svizra"
+            "Google, 1, Gustav-Gull-Platz, Langstrasse, Aussersihl, Z\u00fcrich, Bezirk Z\u00fcrich, Z\u00fcrich, 8004, Schweiz/Suisse/Svizzera/Svizra"
         ]
     },
     {
@@ -12890,12 +12890,12 @@
         ],
         "latlngs": [
             [
-                47.3798034,
-                8.5297304
+                47.3793085,
+                8.5307904
             ]
         ],
         "addresses": [
-            "Google, 100, Lagerstrasse, Langstrasse, Aussersihl, Z\u00fcrich, Bezirk Z\u00fcrich, Z\u00fcrich, 8004, Schweiz/Suisse/Svizzera/Svizra"
+            "Google, 1, Gustav-Gull-Platz, Langstrasse, Aussersihl, Z\u00fcrich, Bezirk Z\u00fcrich, Z\u00fcrich, 8004, Schweiz/Suisse/Svizzera/Svizra"
         ]
     },
     {
@@ -19073,8 +19073,15 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                34.0976547,
+                -118.3164863
+            ]
+        ],
+        "addresses": [
+            "Netflix at Sunset Bronson Studios, West Sunset Boulevard, Hollywood, Los Angeles, Los Angeles County, California, 90028, United States"
+        ]
     },
     {
         "id": 484,
