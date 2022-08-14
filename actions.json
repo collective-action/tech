@@ -14245,15 +14245,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                33.8053661,
-                -118.3349656038286
-            ]
-        ],
-        "addresses": [
-            "Amazon, Skypark Drive, Walteria, Torrance, Los Angeles County, California, 90505, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 419,
@@ -15675,7 +15668,7 @@
             ]
         ],
         "addresses": [
-            "Medium, 2004, 900 East, Sugar House, Salt Lake City, Salt Lake County, Utah, 84105, United States"
+            "Medium, Redondo Avenue, Sugar House, Salt Lake City, Salt Lake County, Utah, 84105, United States"
         ]
     },
     {
