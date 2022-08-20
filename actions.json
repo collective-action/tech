@@ -14245,15 +14245,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                33.8053661,
-                -118.3349656038286
-            ]
-        ],
-        "addresses": [
-            "Amazon, Skypark Drive, Walteria, Torrance, Los Angeles County, California, 90505, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 419,
@@ -19385,8 +19378,8 @@
                 89.49479645087905
             ],
             [
-                13.3601246,
-                103.8720356
+                13.3600449,
+                103.8720024
             ],
             [
                 52.3124769,
