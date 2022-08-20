@@ -607,8 +607,8 @@
         ],
         "latlngs": [
             [
-                47.6226943,
-                -122.33938923913493
+                47.6224574,
+                -122.33650433873851
             ]
         ],
         "addresses": [
@@ -1599,8 +1599,8 @@
                 7.5946713026350565
             ],
             [
-                47.6226943,
-                -122.33938923913493
+                47.6224574,
+                -122.33650433873851
             ]
         ],
         "addresses": [
@@ -5282,8 +5282,8 @@
         ],
         "latlngs": [
             [
-                47.6226943,
-                -122.33938923913493
+                47.6224574,
+                -122.33650433873851
             ]
         ],
         "addresses": [
@@ -6265,8 +6265,8 @@
         ],
         "latlngs": [
             [
-                47.6226943,
-                -122.33938923913493
+                47.6224574,
+                -122.33650433873851
             ]
         ],
         "addresses": [
@@ -7901,8 +7901,8 @@
         ],
         "latlngs": [
             [
-                47.6226943,
-                -122.33938923913493
+                47.6224574,
+                -122.33650433873851
             ]
         ],
         "addresses": [
@@ -14038,15 +14038,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                33.8053661,
-                -118.3349656038286
-            ]
-        ],
-        "addresses": [
-            "Amazon, Skypark Drive, Walteria, Torrance, Los Angeles County, California, 90505, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 335,
@@ -14245,15 +14238,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                33.8053661,
-                -118.3349656038286
-            ]
-        ],
-        "addresses": [
-            "Amazon, Skypark Drive, Walteria, Torrance, Los Angeles County, California, 90505, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 419,
@@ -14332,8 +14318,8 @@
         ],
         "latlngs": [
             [
-                47.6226943,
-                -122.33938923913493
+                47.6224574,
+                -122.33650433873851
             ]
         ],
         "addresses": [
@@ -19087,15 +19073,8 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": [
-            [
-                34.0976547,
-                -118.3164863
-            ]
-        ],
-        "addresses": [
-            "Netflix at Sunset Bronson Studios, West Sunset Boulevard, Hollywood, Los Angeles, Los Angeles County, California, 90028, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 484,
