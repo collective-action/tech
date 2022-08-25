@@ -857,8 +857,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.3361663,
+                -121.890591
+            ]
+        ],
+        "addresses": [
+            "San Jose, Santa Clara County, California, United States"
+        ]
     },
     {
         "id": 14,
@@ -14640,6 +14647,10 @@
         ],
         "latlngs": [
             [
+                41.288821350000006,
+                -105.57807674226049
+            ],
+            [
                 33.98057375,
                 -118.40788353026585
             ],
@@ -14649,6 +14660,7 @@
             ]
         ],
         "addresses": [
+            "CPL, Laramie, Albany County, Wyoming, United States",
             "Facebook (Meta), Campus Center Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90096, United States",
             "Accenture, 323, Congress Avenue, Downtown, Austin, Travis County, Texas, 78701, United States"
         ]
