@@ -857,8 +857,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.3361663,
+                -121.890591
+            ]
+        ],
+        "addresses": [
+            "San Jose, Santa Clara County, California, United States"
+        ]
     },
     {
         "id": 14,
@@ -1335,7 +1342,7 @@
             ]
         ],
         "addresses": [
-            "Uber, 555, Market Street, Financial District, San Francisco, California, 94105, United States"
+            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States"
         ]
     },
     {
@@ -2455,7 +2462,7 @@
             ]
         ],
         "addresses": [
-            "Uber, 555, Market Street, Financial District, San Francisco, California, 94105, United States"
+            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States"
         ]
     },
     {
@@ -4866,7 +4873,7 @@
             ]
         ],
         "addresses": [
-            "Uber, 555, Market Street, Financial District, San Francisco, California, 94105, United States"
+            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States"
         ]
     },
     {
@@ -8963,7 +8970,7 @@
             ]
         ],
         "addresses": [
-            "Uber, 555, Market Street, Financial District, San Francisco, California, 94105, United States",
+            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States",
             "Lyft, 185, Berry Street, South Beach, San Francisco, California, 94107, United States"
         ]
     },
@@ -10347,7 +10354,7 @@
             ]
         ],
         "addresses": [
-            "Uber, 555, Market Street, Financial District, San Francisco, California, 94105, United States",
+            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States",
             "Lyft, 185, Berry Street, South Beach, San Francisco, California, 94107, United States",
             "Doordash HQ, 901, Market Street, Union Square, San Francisco, California, 94104, United States"
         ]
@@ -11964,7 +11971,7 @@
             ]
         ],
         "addresses": [
-            "Uber, 555, Market Street, Financial District, San Francisco, California, 94105, United States"
+            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States"
         ]
     },
     {
@@ -12996,7 +13003,7 @@
         "addresses": [
             "Amazon, Jefferson County, Montana, United States",
             "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90096, United States",
-            "Uber, 555, Market Street, Financial District, San Francisco, California, 94105, United States",
+            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States",
             "Lyft, 185, Berry Street, South Beach, San Francisco, California, 94107, United States",
             "UserTesting, 690, 5th Street, South of Market, San Francisco, California, 94017, United States"
         ]
@@ -14031,8 +14038,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                33.8053661,
+                -118.3349656038286
+            ]
+        ],
+        "addresses": [
+            "Amazon, Skypark Drive, Walteria, Torrance, Los Angeles County, California, 90505, United States"
+        ]
     },
     {
         "id": 335,
@@ -14441,7 +14455,7 @@
             ]
         ],
         "addresses": [
-            "Uber, 555, Market Street, Financial District, San Francisco, California, 94105, United States"
+            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States"
         ]
     },
     {
@@ -15494,7 +15508,7 @@
             ]
         ],
         "addresses": [
-            "Uber, 555, Market Street, Financial District, San Francisco, California, 94105, United States",
+            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States",
             "Lyft, 185, Berry Street, South Beach, San Francisco, California, 94107, United States",
             "Doordash HQ, 901, Market Street, Union Square, San Francisco, California, 94104, United States"
         ]
