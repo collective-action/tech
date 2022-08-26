@@ -857,15 +857,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                37.3361663,
-                -121.890591
-            ]
-        ],
-        "addresses": [
-            "San Jose, Santa Clara County, California, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 14,
@@ -2632,7 +2625,7 @@
             ]
         ],
         "addresses": [
-            "Uber, 555, Market Street, Financial District, San Francisco, California, 94105, United States",
+            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States",
             "Lyft Uber Pickup Location, Midstate Trail, Westminster, Worcester County, Massachusetts, United States"
         ]
     },
@@ -2826,7 +2819,7 @@
             ]
         ],
         "addresses": [
-            "Uber, 555, Market Street, Financial District, San Francisco, California, 94105, United States"
+            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States"
         ]
     },
     {
@@ -5030,12 +5023,12 @@
         ],
         "latlngs": [
             [
-                23.418507249999998,
-                113.3119552756921
+                23.0126505,
+                113.3050486
             ]
         ],
         "addresses": [
-            "\u987a\u4e30\u901f\u8fd0, \u673a\u573a\u7981\u533a\u8f66\u9053, \u82b1\u4e1c\u9547, \u82b1\u90fd\u533a, \u5e7f\u5dde\u5e02, \u5e7f\u4e1c\u7701, \u4e2d\u56fd"
+            "\u987a\u4e30\u901f\u8fd0(\u77f3\u5317\u4e1a\u52a1\u90e8), \u5bcc\u77f3\u8def, \u5927\u77f3\u8857\u9053, \u756a\u79ba\u533a, \u5e7f\u5dde\u5e02, \u5e7f\u4e1c\u7701, 511430, \u4e2d\u56fd"
         ]
     },
     {
@@ -7118,7 +7111,7 @@
             ]
         ],
         "addresses": [
-            "Uber, 555, Market Street, Financial District, San Francisco, California, 94105, United States",
+            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States",
             "Lyft, 185, Berry Street, South Beach, San Francisco, California, 94107, United States"
         ]
     },
@@ -7165,7 +7158,7 @@
             ]
         ],
         "addresses": [
-            "Uber, 555, Market Street, Financial District, San Francisco, California, 94105, United States",
+            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States",
             "Lyft, 185, Berry Street, South Beach, San Francisco, California, 94107, United States"
         ]
     },
@@ -7698,7 +7691,7 @@
             ]
         ],
         "addresses": [
-            "Uber, 555, Market Street, Financial District, San Francisco, California, 94105, United States",
+            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States",
             "Lyft, 185, Berry Street, South Beach, San Francisco, California, 94107, United States"
         ]
     },
@@ -10047,7 +10040,7 @@
             ]
         ],
         "addresses": [
-            "Uber, 555, Market Street, Financial District, San Francisco, California, 94105, United States",
+            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States",
             "Lyft, 185, Berry Street, South Beach, San Francisco, California, 94107, United States"
         ]
     },
@@ -10906,7 +10899,7 @@
         ],
         "addresses": [
             "Lyft, 185, Berry Street, South Beach, San Francisco, California, 94107, United States",
-            "Uber, 555, Market Street, Financial District, San Francisco, California, 94105, United States",
+            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States",
             "Uber / Lyft Driver Drop Off, East Campus Drive, Montezuma Mesa, San Diego, San Diego County, California, 92182, United States",
             "Uber / Lyft Driver Drop Off, East Campus Drive, Montezuma Mesa, San Diego, San Diego County, California, 92182, United States"
         ]
@@ -12500,7 +12493,7 @@
             ]
         ],
         "addresses": [
-            "Uber, 555, Market Street, Financial District, San Francisco, California, 94105, United States",
+            "Uber, Market Street, Financial District, San Francisco, California, 94105, United States",
             "Lyft, 185, Berry Street, South Beach, San Francisco, California, 94107, United States",
             "Doordash HQ, 901, Market Street, Union Square, San Francisco, California, 94104, United States",
             "UserTesting, 690, 5th Street, South of Market, San Francisco, California, 94017, United States"
@@ -14238,15 +14231,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                33.8053661,
-                -118.3349656038286
-            ]
-        ],
-        "addresses": [
-            "Amazon, Skypark Drive, Walteria, Torrance, Los Angeles County, California, 90505, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 419,
