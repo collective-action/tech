@@ -8532,7 +8532,7 @@
             ]
         ],
         "addresses": [
-            "Carnegie Mellon University, Varsity Walk, North Oakland, Pittsburgh, Allegheny County, Pennsylvania, 15213, United States"
+            "Carnegie Mellon University, South Dithridge Street, North Oakland, Pittsburgh, Allegheny County, Pennsylvania, 15213, United States"
         ]
     },
     {
@@ -19078,8 +19078,15 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                34.0976547,
+                -118.3164863
+            ]
+        ],
+        "addresses": [
+            "Netflix at Sunset Bronson Studios, West Sunset Boulevard, Hollywood, Los Angeles, Los Angeles County, California, 90028, United States"
+        ]
     },
     {
         "id": 484,
