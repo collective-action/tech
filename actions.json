@@ -3159,8 +3159,8 @@
         ],
         "latlngs": [
             [
-                33.80967965,
-                -117.83605415
+                33.7224167,
+                -117.8301862
             ],
             [
                 36.1678814,
@@ -3168,7 +3168,7 @@
             ]
         ],
         "addresses": [
-            "AT&T, 1302, North Tustin Street, Orange, Orange County, California, 92867, United States",
+            "AT&T, Aliso, Tustin, Orange County, California, 92780, United States",
             "AT&T, North Nellis Boulevard, Sunrise Manor, Las Vegas, Clark County, Nevada, 89110, United States"
         ]
     },
@@ -14038,15 +14038,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                33.8053661,
-                -118.3349656038286
-            ]
-        ],
-        "addresses": [
-            "Amazon, Skypark Drive, Walteria, Torrance, Los Angeles County, California, 90505, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 335,
