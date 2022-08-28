@@ -12443,7 +12443,7 @@
             ]
         ],
         "addresses": [
-            "Massachusetts Institute of Technology, Erie Street, Central Square, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02139, United States"
+            "Massachusetts Institute of Technology, Galileo Galilei Way, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States"
         ]
     },
     {
@@ -14038,15 +14038,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                33.8053661,
-                -118.3349656038286
-            ]
-        ],
-        "addresses": [
-            "Amazon, Skypark Drive, Walteria, Torrance, Los Angeles County, California, 90505, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 335,
