@@ -934,15 +934,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                37.3361663,
-                -121.890591
-            ]
-        ],
-        "addresses": [
-            "San Jose, Santa Clara County, California, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 16,
@@ -19085,8 +19078,15 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                34.0976547,
+                -118.3164863
+            ]
+        ],
+        "addresses": [
+            "Netflix at Sunset Bronson Studios, West Sunset Boulevard, Hollywood, Los Angeles, Los Angeles County, California, 90028, United States"
+        ]
     },
     {
         "id": 484,
