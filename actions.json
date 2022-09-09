@@ -2265,13 +2265,13 @@
                 -121.92947128098103
             ],
             [
-                37.3496794,
-                -121.9009359
+                37.3504112,
+                -121.9016582
             ]
         ],
         "addresses": [
             "Broadcom (280/#2), 280, Innovation Drive, North San Jose, San Jose, Santa Clara County, California, 95134, United States",
-            "Universal Protection Service, 715, North 1st Street, Civic Center, Japantown, San Jose, Santa Clara County, California, 95110, United States"
+            "Universal Protection Service, 777, North 1st Street, Civic Center, Japantown, San Jose, Santa Clara County, California, 95112, United States"
         ]
     },
     {
@@ -2343,12 +2343,12 @@
         ],
         "latlngs": [
             [
-                40.704814,
-                -74.0064246
+                40.7480531,
+                -73.9841627
             ]
         ],
         "addresses": [
-            "WeWork, 110, Wall Street, Manhattan Community Board 1, Manhattan, New York County, City of New York, New York, 10005, United States"
+            "WeWork, East 34th Street, Manhattan Community Board 5, Manhattan, New York County, City of New York, New York, 10016, United States"
         ]
     },
     {
@@ -3575,12 +3575,12 @@
         ],
         "latlngs": [
             [
-                37.4417249,
-                -122.172515
+                37.4463175,
+                -122.1606932529497
             ]
         ],
         "addresses": [
-            "Apple Store, 660, Stanford Shopping Center, Stanford, Palo Alto, Santa Clara County, California, 94304, United States"
+            "Apple Store, 340, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States"
         ]
     },
     {
@@ -6537,12 +6537,12 @@
         ],
         "latlngs": [
             [
-                37.404940100000005,
-                -122.0214337065872
+                37.40858695,
+                -122.02648926338104
             ]
         ],
         "addresses": [
-            "Google MP1, Moffett Park Drive, Sunnyvale, Santa Clara County, California, 94089, United States"
+            "Google MAT1, 1184, North Mathilda Avenue, Sunnyvale, Santa Clara County, California, 94089, United States"
         ]
     },
     {
@@ -6957,7 +6957,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, 1260, North Kostner Avenue, Beat 2534, Humboldt Park, Chicago, Cook County, Illinois, 60651, United States"
+            "Amazon, 1260, North Kostner Avenue, Beat 2523, Humboldt Park, Chicago, Cook County, Illinois, 60651, United States"
         ]
     },
     {
@@ -7326,10 +7326,15 @@
             [
                 -1.2772989,
                 36.76095918258451
+            ],
+            [
+                -1.2887683,
+                36.750045
             ]
         ],
         "addresses": [
-            "Facebook, Kawangware, Nairobi, Kenya"
+            "Facebook, Kawangware, Nairobi, Kenya",
+            "The Sama Chemist, Coast Road, Kawangware, Nairobi, 00505, Kenya"
         ]
     },
     {
@@ -8532,7 +8537,7 @@
             ]
         ],
         "addresses": [
-            "Carnegie Mellon University, Frew Street, Squirrel Hill North, Pittsburgh, Allegheny County, Pennsylvania, 15213, United States"
+            "Carnegie Mellon University, Schenley Drive, Squirrel Hill South, Pittsburgh, Allegheny County, Pennsylvania, 15213, United States"
         ]
     },
     {
@@ -9445,14 +9450,14 @@
                 -1.9215828894833442
             ],
             [
-                52.542566050000005,
-                -0.2383390628291427
+                52.54251775,
+                -0.2417798541672243
             ]
         ],
         "addresses": [
             "Amazon, Brathay Road, Wincobank, Sheffield, South Yorkshire, Sheffield City Region, England, S4 8AW, United Kingdom",
             "Amazon.co.uk, Towers Business Park, Brereton and Ravenhill, Brereton, Cannock Chase, Staffordshire, England, WS15 1LX, United Kingdom",
-            "Amazon, Unit 1, Flaxley Road, Kingston Park, Stanground, Peterborough, City of Peterborough, Cambridgeshire and Peterborough, England, PE2 9EN, United Kingdom"
+            "Amazon, Unit 2, Flaxley Road, Kingston Park, Old Fletton, Peterborough, City of Peterborough, Cambridgeshire and Peterborough, England, PE2 9EN, United Kingdom"
         ]
     },
     {
@@ -9620,7 +9625,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, 1260, North Kostner Avenue, Beat 2534, Humboldt Park, Chicago, Cook County, Illinois, 60651, United States"
+            "Amazon, 1260, North Kostner Avenue, Beat 2523, Humboldt Park, Chicago, Cook County, Illinois, 60651, United States"
         ]
     },
     {
@@ -10289,8 +10294,8 @@
                 -74.00731075906049
             ],
             [
-                42.01744345,
-                -87.71965899910367
+                42.0181391,
+                -87.76355375148333
             ],
             [
                 38.6767343,
@@ -10299,7 +10304,7 @@
         ],
         "addresses": [
             "Amazon, 55, Bay Street, Brooklyn, Kings County, City of New York, New York, 11231, United States",
-            "Amazon Fulfillment Center DIL7, 3639, West Howard Street, Skokie, Niles Township, Cook County, Illinois, 60076, United States",
+            "SIL2 - Amazon SSD, 7555, Linder Avenue, Skokie, Niles Township, Cook County, Illinois, 60077, United States",
             "Amazon Avenue, Sacramento, Sacramento County, California, 95835, United States"
         ]
     },
@@ -11208,7 +11213,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, 1260, North Kostner Avenue, Beat 2534, Humboldt Park, Chicago, Cook County, Illinois, 60651, United States",
+            "Amazon, 1260, North Kostner Avenue, Beat 2523, Humboldt Park, Chicago, Cook County, Illinois, 60651, United States",
             "Whole Foods Market, 1, North Halsted Street, Greektown, Near West Side, Chicago, Cook County, Illinois, 60661, United States"
         ]
     },
@@ -11844,7 +11849,7 @@
         ],
         "addresses": [
             "Amazon, 55, Bay Street, Brooklyn, Kings County, City of New York, New York, 11231, United States",
-            "Amazon DPD6, Gaia Street Southeast, Salem, Marion County, Oregon, 97317, United States"
+            "Amazon DPD6, Gaffin Road Southeast, Salem, Marion County, Oregon, 97317, United States"
         ]
     },
     {
@@ -12443,7 +12448,7 @@
             ]
         ],
         "addresses": [
-            "Massachusetts Institute of Technology, Green Street, Central Square, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02139, United States"
+            "Massachusetts Institute of Technology, Third Street, Lechmere Square, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02142, United States"
         ]
     },
     {
@@ -12623,12 +12628,12 @@
         ],
         "latlngs": [
             [
-                37.77524325,
-                -122.39965536097225
+                37.7730978,
+                -122.4036357
             ]
         ],
         "addresses": [
-            "Pinterest, 651, Brannan Street, South of Market, San Francisco, California, 94017, United States"
+            "Pinterest, 7th Street, West SoMa, San Francisco, California, 94103, United States"
         ]
     },
     {
@@ -12890,12 +12895,12 @@
         ],
         "latlngs": [
             [
-                47.3793085,
-                8.5307904
+                47.3798034,
+                8.5297304
             ]
         ],
         "addresses": [
-            "Google, 1, Gustav-Gull-Platz, Langstrasse, Aussersihl, Z\u00fcrich, Bezirk Z\u00fcrich, Z\u00fcrich, 8004, Schweiz/Suisse/Svizzera/Svizra"
+            "Google, 100, Lagerstrasse, Langstrasse, Aussersihl, Z\u00fcrich, Bezirk Z\u00fcrich, Z\u00fcrich, 8004, Schweiz/Suisse/Svizzera/Svizra"
         ]
     },
     {
@@ -13385,12 +13390,12 @@
         "author": null,
         "latlngs": [
             [
-                37.77524325,
-                -122.39965536097225
+                37.7730978,
+                -122.4036357
             ]
         ],
         "addresses": [
-            "Pinterest, 651, Brannan Street, South of Market, San Francisco, California, 94017, United States"
+            "Pinterest, 7th Street, West SoMa, San Francisco, California, 94103, United States"
         ]
     },
     {
@@ -14245,8 +14250,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                33.8053661,
+                -118.3349656038286
+            ]
+        ],
+        "addresses": [
+            "Amazon, Skypark Drive, Walteria, Torrance, Los Angeles County, California, 90505, United States"
+        ]
     },
     {
         "id": 419,
@@ -14608,12 +14620,12 @@
         "author": null,
         "latlngs": [
             [
-                37.7271031,
-                -122.477099
+                37.7921546,
+                -122.399599
             ]
         ],
         "addresses": [
-            "Verizon, Winston Drive, San Francisco, California, 94132, United States"
+            "Verizon, Pine Street, Financial District, San Francisco, California, 94111, United States"
         ]
     },
     {
@@ -15255,8 +15267,8 @@
                 -118.4092133
             ],
             [
-                49.0312631,
-                -69.6858339
+                49.018727,
+                -69.7027005
             ],
             [
                 43.6503609,
@@ -15362,12 +15374,12 @@
         ],
         "latlngs": [
             [
-                37.7762709,
-                -122.41630688295965
+                37.7765529,
+                -122.4167931517656
             ]
         ],
         "addresses": [
-            "Twitter, 875, Stevenson Street, Market Square, San Francisco, California, 94102, United States"
+            "Twitter, 10th Street, Civic Center, San Francisco, California, 94102, United States"
         ]
     },
     {
@@ -15828,8 +15840,8 @@
         "author": null,
         "latlngs": [
             [
-                35.6006784,
-                -82.3119169
+                35.599386,
+                -82.31032
             ]
         ],
         "addresses": [
@@ -19085,8 +19097,15 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                34.0976547,
+                -118.3164863
+            ]
+        ],
+        "addresses": [
+            "Netflix at Sunset Bronson Studios, West Sunset Boulevard, Hollywood, Los Angeles, Los Angeles County, California, 90028, United States"
+        ]
     },
     {
         "id": 484,
@@ -19969,7 +19988,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, 1260, North Kostner Avenue, Beat 2534, Humboldt Park, Chicago, Cook County, Illinois, 60651, United States"
+            "Amazon, 1260, North Kostner Avenue, Beat 2523, Humboldt Park, Chicago, Cook County, Illinois, 60651, United States"
         ]
     },
     {
