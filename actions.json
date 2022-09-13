@@ -4412,7 +4412,7 @@
             ]
         ],
         "addresses": [
-            "San Francisco, California, United States"
+            "San Francisco, CAL Fire San Mateo Santa Cruz Unit, California, United States"
         ]
     },
     {
@@ -14038,8 +14038,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                33.8053661,
+                -118.3349656038286
+            ]
+        ],
+        "addresses": [
+            "Amazon, Skypark Drive, Walteria, Torrance, Los Angeles County, California, 90505, United States"
+        ]
     },
     {
         "id": 335,
@@ -15319,14 +15326,14 @@
                 -118.4092133
             ],
             [
-                37.628145950000004,
-                -122.4264270211096
+                37.6291599,
+                -122.42551778433794
             ]
         ],
         "addresses": [
             "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112, United States",
             "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90096, United States",
-            "YouTube, 901, Cherry Avenue, YouTube, San Bruno, CAL Fire San Mateo Santa Cruz Unit, California, 94066, United States"
+            "YouTube, 1000, Cherry Avenue, YouTube, San Bruno, CAL Fire San Mateo Santa Cruz Unit, California, 94066, United States"
         ]
     },
     {
@@ -16026,12 +16033,12 @@
         ],
         "latlngs": [
             [
-                37.628145950000004,
-                -122.4264270211096
+                37.6291599,
+                -122.42551778433794
             ]
         ],
         "addresses": [
-            "YouTube, 901, Cherry Avenue, YouTube, San Bruno, CAL Fire San Mateo Santa Cruz Unit, California, 94066, United States"
+            "YouTube, 1000, Cherry Avenue, YouTube, San Bruno, CAL Fire San Mateo Santa Cruz Unit, California, 94066, United States"
         ]
     },
     {
@@ -19085,8 +19092,15 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                34.0976547,
+                -118.3164863
+            ]
+        ],
+        "addresses": [
+            "Netflix at Sunset Bronson Studios, West Sunset Boulevard, Hollywood, Los Angeles, Los Angeles County, California, 90028, United States"
+        ]
     },
     {
         "id": 484,
