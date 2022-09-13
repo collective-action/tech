@@ -857,8 +857,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.3361663,
+                -121.890591
+            ]
+        ],
+        "addresses": [
+            "San Jose, Santa Clara County, California, United States"
+        ]
     },
     {
         "id": 14,
@@ -14231,8 +14238,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                33.8053661,
+                -118.3349656038286
+            ]
+        ],
+        "addresses": [
+            "Amazon, Skypark Drive, Walteria, Torrance, Los Angeles County, California, 90505, United States"
+        ]
     },
     {
         "id": 419,
@@ -14594,12 +14608,12 @@
         "author": null,
         "latlngs": [
             [
-                37.7271031,
-                -122.477099
+                37.7995723,
+                -122.439534
             ]
         ],
         "addresses": [
-            "Verizon, Winston Drive, San Francisco, California, 94132, United States"
+            "Verizon, Lombard Street, Cow Hollow, San Francisco, California, 94123, United States"
         ]
     },
     {
@@ -15312,7 +15326,7 @@
         "addresses": [
             "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112, United States",
             "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90096, United States",
-            "YouTube, 901, Cherry Avenue, YouTube, San Bruno, San Mateo County, California, 94066, United States"
+            "YouTube, 901, Cherry Avenue, YouTube, San Bruno, CAL Fire San Mateo Santa Cruz Unit, California, 94066, United States"
         ]
     },
     {
@@ -16017,7 +16031,7 @@
             ]
         ],
         "addresses": [
-            "YouTube, 901, Cherry Avenue, YouTube, San Bruno, San Mateo County, California, 94066, United States"
+            "YouTube, 901, Cherry Avenue, YouTube, San Bruno, CAL Fire San Mateo Santa Cruz Unit, California, 94066, United States"
         ]
     },
     {
