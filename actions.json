@@ -2054,7 +2054,7 @@
             ]
         ],
         "addresses": [
-            "Facebook Building 21 Rooftop Park, Meta West Campus, Belle Haven, Menlo Park, San Mateo County, California, United States"
+            "Facebook Building 21 Rooftop Park, Meta West Campus, Belle Haven, Menlo Park, San Mateo County, CAL Fire Northern Region, California, United States"
         ]
     },
     {
@@ -3197,7 +3197,7 @@
             ]
         ],
         "addresses": [
-            "Facebook Building 21 Rooftop Park, Meta West Campus, Belle Haven, Menlo Park, San Mateo County, California, United States"
+            "Facebook Building 21 Rooftop Park, Meta West Campus, Belle Haven, Menlo Park, San Mateo County, CAL Fire Northern Region, California, United States"
         ]
     },
     {
@@ -6377,7 +6377,7 @@
             ]
         ],
         "addresses": [
-            "Facebook Building 21 Rooftop Park, Meta West Campus, Belle Haven, Menlo Park, San Mateo County, California, United States"
+            "Facebook Building 21 Rooftop Park, Meta West Campus, Belle Haven, Menlo Park, San Mateo County, CAL Fire Northern Region, California, United States"
         ]
     },
     {
@@ -6609,12 +6609,12 @@
         ],
         "latlngs": [
             [
-                37.7924005,
-                -122.39175109524751
+                37.7933154,
+                -122.3945205
             ]
         ],
         "addresses": [
-            "Google Community Space, 188, The Embarcadero, Port of San Francisco, San Francisco, CAL Fire San Mateo Santa Cruz Unit, CAL Fire Northern Region, California, 94105, United States"
+            "Google One Market, 1, Market Street, Financial District, San Francisco, CAL Fire San Mateo Santa Cruz Unit, CAL Fire Northern Region, California, 94111, United States"
         ]
     },
     {
@@ -6695,12 +6695,12 @@
         ],
         "latlngs": [
             [
-                37.7924005,
-                -122.39175109524751
+                37.7933154,
+                -122.3945205
             ]
         ],
         "addresses": [
-            "Google Community Space, 188, The Embarcadero, Port of San Francisco, San Francisco, CAL Fire San Mateo Santa Cruz Unit, CAL Fire Northern Region, California, 94105, United States"
+            "Google One Market, 1, Market Street, Financial District, San Francisco, CAL Fire San Mateo Santa Cruz Unit, CAL Fire Northern Region, California, 94111, United States"
         ]
     },
     {
@@ -7593,7 +7593,7 @@
             ]
         ],
         "addresses": [
-            "Doordash HQ, 901, Market Street, Union Square, San Francisco, CAL Fire San Mateo Santa Cruz Unit, CAL Fire Northern Region, California, 94104, United States",
+            "Doordash HQ, Stevenson Street, Union Square, San Francisco, CAL Fire San Mateo Santa Cruz Unit, CAL Fire Northern Region, California, 94104, United States",
             "Caviar Creek, Nome, Alaska, United States",
             "\u7f8e\u570b\u5c0f\u93ae\u5927\u8857 Main Street, USA, Town Square, \u7af9\u7bd9\u7063 Penny's Bay, \u8343\u7063\u5340 Tsuen Wan District, \u65b0\u754c New Territories, \u9999\u6e2f Hong Kong, \u4e2d\u56fd"
         ]
@@ -7807,7 +7807,7 @@
         ],
         "addresses": [
             "UserTesting, 690, 5th Street, South of Market, San Francisco, CAL Fire San Mateo Santa Cruz Unit, CAL Fire Northern Region, California, 94017, United States",
-            "Doordash HQ, 901, Market Street, Union Square, San Francisco, CAL Fire San Mateo Santa Cruz Unit, CAL Fire Northern Region, California, 94104, United States"
+            "Doordash HQ, Stevenson Street, Union Square, San Francisco, CAL Fire San Mateo Santa Cruz Unit, CAL Fire Northern Region, California, 94104, United States"
         ]
     },
     {
@@ -8358,7 +8358,7 @@
             ]
         ],
         "addresses": [
-            "Facebook Building 21 Rooftop Park, Meta West Campus, Belle Haven, Menlo Park, San Mateo County, California, United States"
+            "Facebook Building 21 Rooftop Park, Meta West Campus, Belle Haven, Menlo Park, San Mateo County, CAL Fire Northern Region, California, United States"
         ]
     },
     {
@@ -9074,8 +9074,8 @@
         ],
         "latlngs": [
             [
-                37.7924005,
-                -122.39175109524751
+                37.7933154,
+                -122.3945205
             ],
             [
                 37.7928254,
@@ -9091,7 +9091,7 @@
             ]
         ],
         "addresses": [
-            "Google Community Space, 188, The Embarcadero, Port of San Francisco, San Francisco, CAL Fire San Mateo Santa Cruz Unit, CAL Fire Northern Region, California, 94105, United States",
+            "Google One Market, 1, Market Street, Financial District, San Francisco, CAL Fire San Mateo Santa Cruz Unit, CAL Fire Northern Region, California, 94111, United States",
             "WeWork, 600, California Street, Chinatown, San Francisco, CAL Fire San Mateo Santa Cruz Unit, CAL Fire Northern Region, California, 90104, United States",
             "Kickstarter HQ, West Street, Brooklyn, Kings County, City of New York, New York, 11222, United States",
             "WeWork, Market Street, Brooklyn, Kings County, City of New York, New York, 11251, United States"
@@ -9270,12 +9270,12 @@
         ],
         "latlngs": [
             [
-                37.7894073,
-                -122.3895538
+                37.7933154,
+                -122.3945205
             ]
         ],
         "addresses": [
-            "Google - San Francisco, 345, Spear Street, Rincon Hill, San Francisco, CAL Fire San Mateo Santa Cruz Unit, CAL Fire Northern Region, California, 94105, United States"
+            "Google One Market, 1, Market Street, Financial District, San Francisco, CAL Fire San Mateo Santa Cruz Unit, CAL Fire Northern Region, California, 94111, United States"
         ]
     },
     {
@@ -9648,7 +9648,7 @@
             ]
         ],
         "addresses": [
-            "Spin, Nancy Pelosi Drive, San Francisco, CAL Fire San Mateo Santa Cruz Unit, CAL Fire Northern Region, California, 94118, United States"
+            "Spin, 50, Bowling Green Drive, Inner Sunset, San Francisco, CAL Fire San Mateo Santa Cruz Unit, CAL Fire Northern Region, California, 94118, United States"
         ]
     },
     {
@@ -10342,7 +10342,7 @@
         "addresses": [
             "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire San Mateo Santa Cruz Unit, CAL Fire Northern Region, California, 94103, United States",
             "Lyft, 185, Berry Street, South Beach, San Francisco, CAL Fire San Mateo Santa Cruz Unit, CAL Fire Northern Region, California, 94107, United States",
-            "Doordash HQ, 901, Market Street, Union Square, San Francisco, CAL Fire San Mateo Santa Cruz Unit, CAL Fire Northern Region, California, 94104, United States"
+            "Doordash HQ, Stevenson Street, Union Square, San Francisco, CAL Fire San Mateo Santa Cruz Unit, CAL Fire Northern Region, California, 94104, United States"
         ]
     },
     {
@@ -12609,12 +12609,12 @@
         ],
         "latlngs": [
             [
-                37.77524325,
-                -122.39965536097225
+                37.7730978,
+                -122.4036357
             ]
         ],
         "addresses": [
-            "Pinterest, 651, Brannan Street, South of Market, San Francisco, CAL Fire San Mateo Santa Cruz Unit, CAL Fire Northern Region, California, 94017, United States"
+            "Pinterest, 7th Street, West SoMa, San Francisco, CAL Fire San Mateo Santa Cruz Unit, CAL Fire Northern Region, California, 94103, United States"
         ]
     },
     {
@@ -13371,12 +13371,12 @@
         "author": null,
         "latlngs": [
             [
-                37.77524325,
-                -122.39965536097225
+                37.7730978,
+                -122.4036357
             ]
         ],
         "addresses": [
-            "Pinterest, 651, Brannan Street, South of Market, San Francisco, CAL Fire San Mateo Santa Cruz Unit, CAL Fire Northern Region, California, 94017, United States"
+            "Pinterest, 7th Street, West SoMa, San Francisco, CAL Fire San Mateo Santa Cruz Unit, CAL Fire Northern Region, California, 94103, United States"
         ]
     },
     {
@@ -13413,12 +13413,12 @@
         ],
         "latlngs": [
             [
-                37.7924005,
-                -122.39175109524751
+                37.7933154,
+                -122.3945205
             ]
         ],
         "addresses": [
-            "Google Community Space, 188, The Embarcadero, Port of San Francisco, San Francisco, CAL Fire San Mateo Santa Cruz Unit, CAL Fire Northern Region, California, 94105, United States"
+            "Google One Market, 1, Market Street, Financial District, San Francisco, CAL Fire San Mateo Santa Cruz Unit, CAL Fire Northern Region, California, 94111, United States"
         ]
     },
     {
@@ -13798,12 +13798,12 @@
         ],
         "latlngs": [
             [
-                37.7924005,
-                -122.39175109524751
+                37.7933154,
+                -122.3945205
             ]
         ],
         "addresses": [
-            "Google Community Space, 188, The Embarcadero, Port of San Francisco, San Francisco, CAL Fire San Mateo Santa Cruz Unit, CAL Fire Northern Region, California, 94105, United States"
+            "Google One Market, 1, Market Street, Financial District, San Francisco, CAL Fire San Mateo Santa Cruz Unit, CAL Fire Northern Region, California, 94111, United States"
         ]
     },
     {
@@ -14587,12 +14587,12 @@
         "author": null,
         "latlngs": [
             [
-                37.7995723,
-                -122.439534
+                37.7869314,
+                -122.421939
             ]
         ],
         "addresses": [
-            "Verizon, Lombard Street, Cow Hollow, San Francisco, CAL Fire San Mateo Santa Cruz Unit, CAL Fire Northern Region, California, 94123, United States"
+            "Verizon, Daniel Burnham Court, Western Addition, San Francisco, CAL Fire San Mateo Santa Cruz Unit, CAL Fire Northern Region, California, 94164, United States"
         ]
     },
     {
@@ -15298,14 +15298,14 @@
                 -118.4092133
             ],
             [
-                37.6291599,
-                -122.42551778433794
+                37.62814305,
+                -122.42521678541321
             ]
         ],
         "addresses": [
             "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112, United States",
             "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90096, United States",
-            "YouTube, 1000, Cherry Avenue, YouTube, San Bruno, CAL Fire San Mateo Santa Cruz Unit, CAL Fire Northern Region, California, 94066, United States"
+            "YouTube, 900, Cherry Avenue, YouTube, San Bruno, CAL Fire San Mateo Santa Cruz Unit, CAL Fire Northern Region, California, 94066, United States"
         ]
     },
     {
@@ -15489,7 +15489,7 @@
         "addresses": [
             "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire San Mateo Santa Cruz Unit, CAL Fire Northern Region, California, 94103, United States",
             "Lyft, 185, Berry Street, South Beach, San Francisco, CAL Fire San Mateo Santa Cruz Unit, CAL Fire Northern Region, California, 94107, United States",
-            "Doordash HQ, 901, Market Street, Union Square, San Francisco, CAL Fire San Mateo Santa Cruz Unit, CAL Fire Northern Region, California, 94104, United States"
+            "Doordash HQ, Stevenson Street, Union Square, San Francisco, CAL Fire San Mateo Santa Cruz Unit, CAL Fire Northern Region, California, 94104, United States"
         ]
     },
     {
@@ -15694,7 +15694,7 @@
             ]
         ],
         "addresses": [
-            "Doordash HQ, 901, Market Street, Union Square, San Francisco, CAL Fire San Mateo Santa Cruz Unit, CAL Fire Northern Region, California, 94104, United States"
+            "Doordash HQ, Stevenson Street, Union Square, San Francisco, CAL Fire San Mateo Santa Cruz Unit, CAL Fire Northern Region, California, 94104, United States"
         ]
     },
     {
@@ -16345,7 +16345,7 @@
             ]
         ],
         "addresses": [
-            "Doordash HQ, 901, Market Street, Union Square, San Francisco, CAL Fire San Mateo Santa Cruz Unit, CAL Fire Northern Region, California, 94104, United States"
+            "Doordash HQ, Stevenson Street, Union Square, San Francisco, CAL Fire San Mateo Santa Cruz Unit, CAL Fire Northern Region, California, 94104, United States"
         ]
     },
     {
