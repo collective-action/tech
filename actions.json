@@ -10285,8 +10285,8 @@
         ],
         "latlngs": [
             [
-                40.67345065,
-                -74.00731075906049
+                40.67341775,
+                -74.01472461104052
             ],
             [
                 42.01744345,
@@ -10298,7 +10298,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, 55, Bay Street, Brooklyn, Kings County, City of New York, New York, 11231, United States",
+            "Amazon Delivery, 270, Richards Street, Brooklyn, Kings County, City of New York, New York, 11231, United States",
             "Amazon Fulfillment Center DIL7, 3639, West Howard Street, Skokie, Niles Township, Cook County, Illinois, 60076, United States",
             "Amazon Avenue, Sacramento, Sacramento County, California, 95835, United States"
         ]
@@ -10592,12 +10592,12 @@
         ],
         "latlngs": [
             [
-                40.67345065,
-                -74.00731075906049
+                40.67341775,
+                -74.01472461104052
             ]
         ],
         "addresses": [
-            "Amazon, 55, Bay Street, Brooklyn, Kings County, City of New York, New York, 11231, United States"
+            "Amazon Delivery, 270, Richards Street, Brooklyn, Kings County, City of New York, New York, 11231, United States"
         ]
     },
     {
@@ -11834,8 +11834,8 @@
         ],
         "latlngs": [
             [
-                40.67345065,
-                -74.00731075906049
+                40.67341775,
+                -74.01472461104052
             ],
             [
                 44.9063923,
@@ -11843,7 +11843,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, 55, Bay Street, Brooklyn, Kings County, City of New York, New York, 11231, United States",
+            "Amazon Delivery, 270, Richards Street, Brooklyn, Kings County, City of New York, New York, 11231, United States",
             "Amazon DPD6, Gaia Street Southeast, Salem, Marion County, Oregon, 97317, United States"
         ]
     },
@@ -13210,12 +13210,12 @@
         ],
         "latlngs": [
             [
-                40.67345065,
-                -74.00731075906049
+                40.67341775,
+                -74.01472461104052
             ]
         ],
         "addresses": [
-            "Amazon, 55, Bay Street, Brooklyn, Kings County, City of New York, New York, 11231, United States"
+            "Amazon Delivery, 270, Richards Street, Brooklyn, Kings County, City of New York, New York, 11231, United States"
         ]
     },
     {
@@ -19078,15 +19078,8 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": [
-            [
-                34.0976547,
-                -118.3164863
-            ]
-        ],
-        "addresses": [
-            "Netflix at Sunset Bronson Studios, West Sunset Boulevard, Hollywood, Los Angeles, Los Angeles County, California, 90028, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 484,
@@ -19763,8 +19756,8 @@
         ],
         "latlngs": [
             [
-                40.67345065,
-                -74.00731075906049
+                40.67341775,
+                -74.01472461104052
             ],
             [
                 38.9132465,
@@ -19772,7 +19765,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, 55, Bay Street, Brooklyn, Kings County, City of New York, New York, 11231, United States",
+            "Amazon Delivery, 270, Richards Street, Brooklyn, Kings County, City of New York, New York, 11231, United States",
             "Amazon Fresh, 1733, 14th Street Northwest, Logan Circle/Shaw, Washington, District of Columbia, 20009, United States"
         ]
     },
@@ -20597,12 +20590,12 @@
         ],
         "latlngs": [
             [
-                40.67345065,
-                -74.00731075906049
+                40.67341775,
+                -74.01472461104052
             ]
         ],
         "addresses": [
-            "Amazon, 55, Bay Street, Brooklyn, Kings County, City of New York, New York, 11231, United States"
+            "Amazon Delivery, 270, Richards Street, Brooklyn, Kings County, City of New York, New York, 11231, United States"
         ]
     },
     {
