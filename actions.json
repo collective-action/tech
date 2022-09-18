@@ -6786,12 +6786,12 @@
         ],
         "latlngs": [
             [
-                40.67345065,
-                -74.00731075906049
+                40.67341775,
+                -74.01472461104052
             ]
         ],
         "addresses": [
-            "Amazon, 55, Bay Street, Brooklyn, Kings County, City of New York, New York, 11231, United States"
+            "Amazon Delivery, 270, Richards Street, Brooklyn, Kings County, City of New York, New York, 11231, United States"
         ]
     },
     {
@@ -11333,12 +11333,12 @@
         ],
         "latlngs": [
             [
-                40.67345065,
-                -74.00731075906049
+                40.67341775,
+                -74.01472461104052
             ]
         ],
         "addresses": [
-            "Amazon, 55, Bay Street, Brooklyn, Kings County, City of New York, New York, 11231, United States"
+            "Amazon Delivery, 270, Richards Street, Brooklyn, Kings County, City of New York, New York, 11231, United States"
         ]
     },
     {
@@ -14038,8 +14038,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                33.8053661,
+                -118.3349656038286
+            ]
+        ],
+        "addresses": [
+            "Amazon, Skypark Drive, Walteria, Torrance, Los Angeles County, California, 90505, United States"
+        ]
     },
     {
         "id": 335,
@@ -20388,12 +20395,12 @@
         ],
         "latlngs": [
             [
-                40.67345065,
-                -74.00731075906049
+                40.67341775,
+                -74.01472461104052
             ]
         ],
         "addresses": [
-            "Amazon, 55, Bay Street, Brooklyn, Kings County, City of New York, New York, 11231, United States"
+            "Amazon Delivery, 270, Richards Street, Brooklyn, Kings County, City of New York, New York, 11231, United States"
         ]
     },
     {
