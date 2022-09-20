@@ -927,15 +927,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                37.3361663,
-                -121.890591
-            ]
-        ],
-        "addresses": [
-            "San Jose, Santa Clara County, California, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 16,
@@ -3573,7 +3566,7 @@
             ]
         ],
         "addresses": [
-            "Apple Store, 660, Stanford Shopping Center, Stanford, Palo Alto, Santa Clara County, California, 94304, United States"
+            "Apple Store, 660, Stanford Shopping Center, Stanford, Palo Alto, Santa Clara County, CAL Fire Northern Region, California, 94304, United States"
         ]
     },
     {
