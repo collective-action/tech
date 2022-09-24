@@ -7431,7 +7431,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, 3130, Lexington Avenue South, Eagan, Dakota County, Minnesota, 55121, United States"
+            "Amazon DMS2, 3130, Lexington Avenue South, Eagan, Dakota County, Minnesota, 55121, United States"
         ]
     },
     {
@@ -8564,7 +8564,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, 3130, Lexington Avenue South, Eagan, Dakota County, Minnesota, 55121, United States"
+            "Amazon DMS2, 3130, Lexington Avenue South, Eagan, Dakota County, Minnesota, 55121, United States"
         ]
     },
     {
@@ -14031,15 +14031,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                33.8053661,
-                -118.3349656038286
-            ]
-        ],
-        "addresses": [
-            "Amazon, Skypark Drive, Walteria, Torrance, Los Angeles County, California, 90505, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 335,
@@ -14238,15 +14231,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                33.8053661,
-                -118.3349656038286
-            ]
-        ],
-        "addresses": [
-            "Amazon, Skypark Drive, Walteria, Torrance, Los Angeles County, California, 90505, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 419,
@@ -19085,15 +19071,8 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": [
-            [
-                34.0976547,
-                -118.3164863
-            ]
-        ],
-        "addresses": [
-            "Netflix at Sunset Bronson Studios, West Sunset Boulevard, Hollywood, Los Angeles, Los Angeles County, California, 90028, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 484,
@@ -21189,12 +21168,12 @@
         ],
         "latlngs": [
             [
-                44.80059945,
-                -93.48865500885567
+                44.78839255,
+                -93.44285005008032
             ]
         ],
         "addresses": [
-            "Amazon Fullfillment Center MSP1, 2601, 4th Avenue East, Shakopee, Scott County, Minnesota, 55379, United States"
+            "Amazon Sortation Center MSP5, 5825, 11th Avenue East, Shakopee, Scott County, Minnesota, 55379, United States"
         ]
     }
 ]
