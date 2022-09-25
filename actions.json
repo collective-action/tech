@@ -857,8 +857,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.3361663,
+                -121.890591
+            ]
+        ],
+        "addresses": [
+            "San Jose, Santa Clara County, California, United States"
+        ]
     },
     {
         "id": 14,
@@ -927,8 +934,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.3361663,
+                -121.890591
+            ]
+        ],
+        "addresses": [
+            "San Jose, Santa Clara County, California, United States"
+        ]
     },
     {
         "id": 16,
@@ -14024,8 +14038,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                33.8053661,
+                -118.3349656038286
+            ]
+        ],
+        "addresses": [
+            "Amazon, Skypark Drive, Walteria, Torrance, Los Angeles County, California, 90505, United States"
+        ]
     },
     {
         "id": 335,
@@ -15092,12 +15113,12 @@
         ],
         "latlngs": [
             [
-                31.3018268,
-                121.5130773
+                31.239342399999998,
+                121.49697982534015
             ]
         ],
         "addresses": [
-            "Apple, 1099, \u7fd4\u6bb7\u8def, \u4e94\u89d2\u573a\u8857\u9053, \u6768\u6d66\u533a, \u4e0a\u6d77\u5e02, 200433, \u4e2d\u56fd"
+            "Apple \u6d66\u4e1c, 8, \u4e16\u7eaa\u5927\u9053, \u9646\u5bb6\u5634\u8857\u9053, \u6d66\u4e1c\u65b0\u533a, \u4e0a\u6d77\u5e02, 200002, \u4e2d\u56fd"
         ]
     },
     {
