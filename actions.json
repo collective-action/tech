@@ -4438,12 +4438,12 @@
         ],
         "latlngs": [
             [
-                52.4746766,
-                -1.91586332385543
+                51.5148804,
+                -0.0718856
             ]
         ],
         "addresses": [
-            "UBER, 100, Broad Street, Ladywood, Park Central, Birmingham, West Midlands, West Midlands Combined Authority, England, B15 1AE, United Kingdom"
+            "Uber, 2, Leman Street, East Smithfield, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, E1 8FA, United Kingdom"
         ]
     },
     {
@@ -4490,7 +4490,7 @@
         ],
         "addresses": [
             "Uber, 2, Leman Street, East Smithfield, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, E1 8FA, United Kingdom",
-            "UBER, 100, Broad Street, Ladywood, Park Central, Birmingham, West Midlands, West Midlands Combined Authority, England, B15 1AE, United Kingdom"
+            "UBER, 100, Broad Street, Ladywood, Park Central, Birmingham, West Midlands Combined Authority, England, B15 1AE, United Kingdom"
         ]
     },
     {
@@ -9443,7 +9443,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Brathay Road, Wincobank, Sheffield, South Yorkshire, Sheffield City Region, England, S4 8AW, United Kingdom",
+            "Amazon, Brathay Road, Wincobank, Sheffield, Sheffield City Region, England, S4 8AW, United Kingdom",
             "Amazon.co.uk, Towers Business Park, Brereton and Ravenhill, Brereton, Cannock Chase, Staffordshire, England, WS15 1LX, United Kingdom",
             "Amazon, Unit 1, Flaxley Road, Kingston Park, Stanground, Peterborough, City of Peterborough, Cambridgeshire and Peterborough, England, PE2 9EN, United Kingdom"
         ]
@@ -13851,8 +13851,8 @@
         ],
         "latlngs": [
             [
-                51.5333771,
-                -0.1258455
+                51.5332143,
+                -0.1259925739528908
             ],
             [
                 52.3124769,
@@ -13872,9 +13872,9 @@
             ]
         ],
         "addresses": [
-            "Google, Pancras Road, King's Cross, London Borough of Camden, London, Greater London, England, N1C 4BJ, United Kingdom",
+            "Google, 6, Pancras Road, King's Cross, London Borough of Camden, London, Greater London, England, N1C 4BJ, United Kingdom",
             "Amazon, Beoley CP, Holt End, Bromsgrove, Worcestershire, England, B98 9FJ, United Kingdom",
-            "Microsoft Experience Centre, 253-259, Regent Street, East Marylebone, Mayfair, City of Westminster, Greater London, England, W1B 2ER, United Kingdom",
+            "Microsoft Experience Centre, 253-259, Regent Street, East Marylebone, Mayfair, London, Greater London, England, W1B 2ER, United Kingdom",
             "Samsung, Princes Street, New Town, New Town/Broughton, City of Edinburgh, Alba / Scotland, EH2 2ER, United Kingdom",
             "Deliveroo Editions, Hornsey, London Borough of Haringey, London, Greater London, England, N8 9DG, United Kingdom"
         ]
@@ -18549,8 +18549,8 @@
             ]
         ],
         "addresses": [
-            "Uber, 2, Leman Street, East Smithfield, Whitechapel, London Borough of Tower Hamlets, Greater London, England, E1 8FA, United Kingdom",
-            "UBER, 100, Broad Street, Ladywood, Park Central, Birmingham, West Midlands, West Midlands Combined Authority, England, B15 1AE, United Kingdom",
+            "Uber, 2, Leman Street, East Smithfield, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, E1 8FA, United Kingdom",
+            "UBER, 100, Broad Street, Ladywood, Park Central, Birmingham, West Midlands Combined Authority, England, B15 1AE, United Kingdom",
             "Uber Pleasure, Sherborne Street, Strangeways, Manchester, Greater Manchester, England, M8 8NE, United Kingdom"
         ]
     },
