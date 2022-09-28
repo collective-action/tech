@@ -927,8 +927,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.3361663,
+                -121.890591
+            ]
+        ],
+        "addresses": [
+            "San Jose, Santa Clara County, California, United States"
+        ]
     },
     {
         "id": 16,
@@ -8149,12 +8156,12 @@
         ],
         "latlngs": [
             [
-                47.5866972,
-                -122.327927
+                47.5993997,
+                -122.303085
             ]
         ],
         "addresses": [
-            "US Foods Chef'store, 1760, 4th Avenue South, International District/Chinatown, Seattle, King County, Washington, 98134, United States"
+            "Chef Caf\u00e9 Restaurant, 2200, South Jackson Street, Little Saigon, Central District, Seattle, King County, Washington, 98122, United States"
         ]
     },
     {
