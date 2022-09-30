@@ -28,6 +28,13 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            52.6108443,
+            13.2147318
+        ]
+    ],
+    "addresses": [
+        "Amazon, Alt-Heiligensee, Heiligensee, Reinickendorf, Berlin, 13503, Deutschland"
+    ]
 }

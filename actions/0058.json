@@ -29,6 +29,13 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            40.704814,
+            -74.0064246
+        ]
+    ],
+    "addresses": [
+        "WeWork, 110, Wall Street, Manhattan Community Board 1, Manhattan, New York County, City of New York, New York, 10005, United States"
+    ]
 }
