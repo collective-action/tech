@@ -31,13 +31,6 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            37.404940100000005,
-            -122.0214337065872
-        ]
-    ],
-    "addresses": [
-        "Google MP1, Moffett Park Drive, Sunnyvale, Santa Clara County, California, 94089, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

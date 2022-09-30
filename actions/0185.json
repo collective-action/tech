@@ -26,13 +26,6 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            44.84351205,
-            -93.14540553254446
-        ]
-    ],
-    "addresses": [
-        "Amazon DMS2, 3130, Lexington Avenue South, Eagan, Dakota County, Minnesota, 55121, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }
