@@ -934,15 +934,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                37.3361663,
-                -121.890591
-            ]
-        ],
-        "addresses": [
-            "San Jose, Santa Clara County, California, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 16,
@@ -4256,12 +4249,12 @@
         ],
         "latlngs": [
             [
-                37.5226694,
-                127.0389764
+                37.5418747,
+                127.0713154610626
             ]
         ],
         "addresses": [
-            "Samsung, \uc120\ub989\ub85c, \ub17c\ud604\ub3d9, \uac15\ub0a8\uad6c, \uc11c\uc6b8, 06060, \ub300\ud55c\ubbfc\uad6d"
+            "Samsung, \ub2a5\ub3d9\ub85c, \ubaa8\uc9c4\ub3d9, \ud654\uc591\ub3d9, \uad11\uc9c4\uad6c, \uc11c\uc6b8, 05011, \ub300\ud55c\ubbfc\uad6d"
         ]
     },
     {
@@ -14038,15 +14031,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                33.8053661,
-                -118.3349656038286
-            ]
-        ],
-        "addresses": [
-            "Amazon, Skypark Drive, Walteria, Torrance, Los Angeles County, California, 90505, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 335,
@@ -14245,15 +14231,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                33.8053661,
-                -118.3349656038286
-            ]
-        ],
-        "addresses": [
-            "Amazon, Skypark Drive, Walteria, Torrance, Los Angeles County, California, 90505, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 419,
