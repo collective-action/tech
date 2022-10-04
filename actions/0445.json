@@ -41,6 +41,23 @@
     "author": [
         "wynniechan"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            51.5148804,
+            -0.0718856
+        ],
+        [
+            52.4746766,
+            -1.91586332385543
+        ],
+        [
+            53.4961813,
+            -2.2441686
+        ]
+    ],
+    "addresses": [
+        "Uber, 2, Leman Street, East Smithfield, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, E1 8FA, United Kingdom",
+        "UBER, 100, Broad Street, Ladywood, Park Central, Birmingham, West Midlands Combined Authority, England, B15 1AE, United Kingdom",
+        "Uber Pleasure, Sherborne Street, Strangeways, Manchester, Greater Manchester, England, M8 8NE, United Kingdom"
+    ]
 }

@@ -28,6 +28,13 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            52.3124769,
+            -1.878707127163782
+        ]
+    ],
+    "addresses": [
+        "Amazon, Beoley CP, Holt End, Bromsgrove, Worcestershire, England, B98 9FJ, United Kingdom"
+    ]
 }

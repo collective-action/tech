@@ -36,6 +36,13 @@
     "author": [
         "wynniechan"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            47.407176750000005,
+            -122.24016302698797
+        ]
+    ],
+    "addresses": [
+        "Blue Origin, Kent, King County, Washington, United States"
+    ]
 }

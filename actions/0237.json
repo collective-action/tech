@@ -30,6 +30,13 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.7699033,
+            -122.4595573
+        ]
+    ],
+    "addresses": [
+        "Spin, 50, Bowling Green Drive, Inner Sunset, San Francisco, CAL Fire Northern Region, California, 94118, United States"
+    ]
 }

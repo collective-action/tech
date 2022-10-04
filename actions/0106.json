@@ -26,6 +26,13 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.5418747,
+            127.0713154610626
+        ]
+    ],
+    "addresses": [
+        "Samsung, \ub2a5\ub3d9\ub85c, \ubaa8\uc9c4\ub3d9, \ud654\uc591\ub3d9, \uad11\uc9c4\uad6c, \uc11c\uc6b8, 05011, \ub300\ud55c\ubbfc\uad6d"
+    ]
 }

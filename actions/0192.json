@@ -32,6 +32,13 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            40.4573607,
+            -79.9169227
+        ]
+    ],
+    "addresses": [
+        "Google, Penn Avenue, Larimer, Pittsburgh, Allegheny County, Pennsylvania, 15206, United States"
+    ]
 }

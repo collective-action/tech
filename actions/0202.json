@@ -32,6 +32,13 @@
     "author": [
         "william boag"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            47.5993997,
+            -122.303085
+        ]
+    ],
+    "addresses": [
+        "Chef Caf\u00e9 Restaurant, 2200, South Jackson Street, Little Saigon, Central District, Seattle, King County, Washington, 98122, United States"
+    ]
 }

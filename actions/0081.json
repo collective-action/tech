@@ -27,6 +27,18 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            51.653494949999995,
+            7.5946713026350565
+        ],
+        [
+            45.4719087,
+            8.574536828783383
+        ]
+    ],
+    "addresses": [
+        "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
+        "Amazon, Agognate, Novara, Piemonte, Italia"
+    ]
 }

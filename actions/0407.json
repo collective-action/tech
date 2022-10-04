@@ -30,6 +30,13 @@
     "author": [
         "hyatt d."
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            34.158925,
+            -118.3139638
+        ]
+    ],
+    "addresses": [
+        "basecamp, Mariposa Street, Burbank, Los Angeles County, California, 91506, United States"
+    ]
 }
