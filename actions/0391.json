@@ -33,6 +33,13 @@
     "author": [
         "hyatt d."
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            41.90311505,
+            -87.73727936317198
+        ]
+    ],
+    "addresses": [
+        "Amazon, 1260, North Kostner Avenue, Beat 2534, Humboldt Park, Chicago, Cook County, Illinois, 60651, United States"
+    ]
 }

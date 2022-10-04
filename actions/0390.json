@@ -34,6 +34,23 @@
     "author": [
         "hyatt d."
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            43.841860749999995,
+            11.166183284518766
+        ],
+        [
+            43.841860749999995,
+            11.166183284518766
+        ],
+        [
+            43.7215219,
+            10.4194586
+        ]
+    ],
+    "addresses": [
+        "Amazon, Via Baldanzese, Settimello, Sesto Fiorentino, Firenze, Toscana, 50019, Italia",
+        "Amazon, Via Baldanzese, Settimello, Sesto Fiorentino, Firenze, Toscana, 50019, Italia",
+        "Amazon Locker, Via di Pratale, Don Bosco, Pisa, Toscana, 56124, Italia"
+    ]
 }
