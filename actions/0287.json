@@ -36,18 +36,6 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            46.320207,
-            -112.1072224
-        ],
-        [
-            38.594073550000005,
-            -90.54739094340695
-        ]
-    ],
-    "addresses": [
-        "Amazon, Jefferson County, Montana, United States",
-        "Target, Ballwin, Saint Louis County, Missouri, 63011, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

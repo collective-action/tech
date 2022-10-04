@@ -32,13 +32,6 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            45.4407189,
-            9.1638403
-        ]
-    ],
-    "addresses": [
-        "Deliveroo Italy S.R.L, 11, Via Carlo Bo, San Cristoforo, Municipio 6, Milano, Lombardia, 20143, Italia"
-    ]
+    "latlngs": null,
+    "addresses": null
 }
