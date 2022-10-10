@@ -857,8 +857,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.3361663,
+                -121.890591
+            ]
+        ],
+        "addresses": [
+            "San Jose, Santa Clara County, California, United States"
+        ]
     },
     {
         "id": 14,
@@ -927,8 +934,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.3361663,
+                -121.890591
+            ]
+        ],
+        "addresses": [
+            "San Jose, Santa Clara County, California, United States"
+        ]
     },
     {
         "id": 16,
@@ -7419,8 +7433,8 @@
         ],
         "latlngs": [
             [
-                44.84351205,
-                -93.14540553254446
+                44.8436917,
+                -93.14540387277793
             ]
         ],
         "addresses": [
@@ -8552,8 +8566,8 @@
         ],
         "latlngs": [
             [
-                44.84351205,
-                -93.14540553254446
+                44.8436917,
+                -93.14540387277793
             ]
         ],
         "addresses": [
@@ -9436,7 +9450,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Brathay Road, Wincobank, Sheffield, Sheffield City Region, England, S4 8AW, United Kingdom",
+            "Amazon, Brathay Road, Wincobank, Sheffield, South Yorkshire Mayoral Combined Authority, England, S4 8AW, United Kingdom",
             "Amazon.co.uk, Towers Business Park, Brereton and Ravenhill, Brereton, Cannock Chase, Staffordshire, England, WS15 1LX, United Kingdom",
             "Amazon, Unit 1, Flaxley Road, Kingston Park, Stanground, Peterborough, City of Peterborough, Cambridgeshire and Peterborough, England, PE2 9EN, United Kingdom"
         ]
