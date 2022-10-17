@@ -927,15 +927,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                37.3361663,
-                -121.890591
-            ]
-        ],
-        "addresses": [
-            "San Jose, Santa Clara County, California, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 16,
@@ -6530,12 +6523,12 @@
         ],
         "latlngs": [
             [
-                37.4076113,
-                -122.02184599569381
+                37.406604400000006,
+                -122.02542251810328
             ]
         ],
         "addresses": [
-            "Google MP4, Bordeaux Drive, Sunnyvale, Santa Clara County, California, 94089, United States"
+            "Google MP5, Innovation Way, Sunnyvale, Santa Clara County, California, 94089, United States"
         ]
     },
     {
