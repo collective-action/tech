@@ -927,8 +927,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.3361663,
+                -121.890591
+            ]
+        ],
+        "addresses": [
+            "San Jose, Santa Clara County, California, United States"
+        ]
     },
     {
         "id": 16,
@@ -19362,8 +19369,8 @@
                 89.49479645087905
             ],
             [
-                13.3600449,
-                103.8720024
+                11.5673666,
+                104.9211112
             ],
             [
                 52.3124769,
@@ -19388,7 +19395,7 @@
             "Amazon, Jefferson County, Montana, United States",
             "Amazon, The Highway Street, Wapadrand Security Village, Tshwane Ward 85, City of Tshwane Metropolitan Municipality, Gauteng, 0050, South Africa",
             "Amazon, Narua Kheya Ghat Road, Narua, \u09ac\u09be\u09b2\u09bf\u09af\u09bc\u09be\u0995\u09be\u09a8\u09cd\u09a6\u09bf \u0989\u09aa\u099c\u09c7\u09b2\u09be, \u09b0\u09be\u099c\u09ac\u09be\u09dc\u09c0 \u099c\u09c7\u09b2\u09be, \u09a2\u09be\u0995\u09be \u09ac\u09bf\u09ad\u09be\u0997, 7730, \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6",
-            "Amazon, \u179c\u17b7\u1790\u17b8\u200b\u179b\u17c4\u1780\u200b\u178f\u17b6\u200b\u178e\u17ba\u1799, Banteay Chas Village, \u1780\u17d2\u179a\u17bb\u1784\u179f\u17c0\u1798\u179a\u17b6\u1794, \u1781\u17c1\u178f\u17d2\u178f\u179f\u17c0\u1798\u179a\u17b6\u1794, 171209, \u1796\u17d2\u179a\u17c7\u179a\u17b6\u1787\u17b6\u178e\u17b6\u1785\u1780\u17d2\u179a\u200b\u1780\u1798\u17d2\u1796\u17bb\u1787\u17b6",
+            "Amazon, \u1795\u17d2\u179b\u17bc\u179c \u178f\u17d2\u179a\u179f\u1780\u17cb\u1795\u17d2\u17a2\u17c2\u1798 (\u17e6\u17e3), \u179a\u17b6\u1787\u1792\u17b6\u1793\u17b8\u1797\u17d2\u1793\u17c6\u1796\u17c1\u1789, \u1781\u178e\u17d2\u178c\u178a\u17bc\u1793\u1796\u17c1\u1789, \u179a\u17b6\u1787\u1792\u17b6\u1793\u17b8\u1797\u17d2\u1793\u17c6\u1796\u17c1\u1789, 120202, \u1796\u17d2\u179a\u17c7\u179a\u17b6\u1787\u17b6\u178e\u17b6\u1785\u1780\u17d2\u179a\u200b\u1780\u1798\u17d2\u1796\u17bb\u1787\u17b6",
             "Amazon, Beoley CP, Holt End, Bromsgrove, Worcestershire, England, B98 9FJ, United Kingdom",
             "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
             "Amazon, 169, Nieuwendijk, Centrum, Amsterdam, Noord-Holland, Nederland, 1012 MG, Nederland",
