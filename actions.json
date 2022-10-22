@@ -927,15 +927,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                37.3361663,
-                -121.890591
-            ]
-        ],
-        "addresses": [
-            "San Jose, Santa Clara County, California, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 16,
@@ -1850,7 +1843,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90096, United States",
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States",
             "Apple Campus, Cupertino, Santa Clara County, California, United States",
             "Intel, 12220, Scripps Summit Drive, San Diego, San Diego County, CAL Fire Southern Region, California, 92131, United States",
             "Adobe, Little Italy, San Jose, Santa Clara County, California, United States"
@@ -3073,7 +3066,7 @@
             ]
         ],
         "addresses": [
-            "Facebook (Meta), Campus Center Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90096, United States"
+            "Facebook (Meta), Waterfront Drive, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
         ]
     },
     {
@@ -3875,7 +3868,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90096, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
         ]
     },
     {
@@ -4101,7 +4094,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90096, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
         ]
     },
     {
@@ -4605,7 +4598,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90096, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
         ]
     },
     {
@@ -4778,7 +4771,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90096, United States",
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States",
             "Google, 555, \u8ed2\u5c3c\u8a69\u9053 Hennessy Road, \u79ae\u9813\u5c71 Leighton Hill, \u9d5d\u9838 Bowrington, \u9285\u947c\u7063 Causeway Bay, \u7063\u4ed4\u5340 Wan Chai District, \u9999\u6e2f\u5cf6 Hong Kong Island, \u9999\u6e2f Hong Kong, \u4e2d\u56fd"
         ]
     },
@@ -5550,7 +5543,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90096, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
         ]
     },
     {
@@ -5591,7 +5584,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90096, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
         ]
     },
     {
@@ -5719,7 +5712,7 @@
         ],
         "addresses": [
             "Instagram-Ferris_Joshua / Marycate.minnigh, University Drive, Sunset Pines, Lock Haven, Clinton County, Pennsylvania, 17745, United States",
-            "Facebook (Meta), Campus Center Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90096, United States"
+            "Facebook (Meta), Waterfront Drive, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
         ]
     },
     {
@@ -5967,7 +5960,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90096, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
         ]
     },
     {
@@ -6054,7 +6047,7 @@
             ]
         ],
         "addresses": [
-            "Facebook (Meta), Campus Center Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90096, United States",
+            "Facebook (Meta), Waterfront Drive, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States",
             "Accenture, 323, Congress Avenue, Downtown, Austin, Travis County, Texas, 78701, United States"
         ]
     },
@@ -6098,7 +6091,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90096, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
         ]
     },
     {
@@ -7200,7 +7193,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90096, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
         ]
     },
     {
@@ -7552,7 +7545,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90096, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
         ]
     },
     {
@@ -7856,7 +7849,7 @@
             ]
         ],
         "addresses": [
-            "Facebook (Meta), Campus Center Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90096, United States"
+            "Facebook (Meta), Waterfront Drive, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
         ]
     },
     {
@@ -8074,7 +8067,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90096, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
         ]
     },
     {
@@ -8243,7 +8236,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90096, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
         ]
     },
     {
@@ -8765,7 +8758,7 @@
             ]
         ],
         "addresses": [
-            "Facebook (Meta), Campus Center Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90096, United States"
+            "Facebook (Meta), Waterfront Drive, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
         ]
     },
     {
@@ -8915,7 +8908,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90096, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
         ]
     },
     {
@@ -9041,7 +9034,7 @@
             ]
         ],
         "addresses": [
-            "WeWork, 7083, Hollywood Boulevard, Hollywood, Los Angeles, Los Angeles County, California, 90028, United States"
+            "WeWork, 7083, Hollywood Boulevard, Hollywood, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90028, United States"
         ]
     },
     {
@@ -9238,7 +9231,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90096, United States",
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States",
             "Google, Mountain View, Santa Clara County, California, United States",
             "Google Community Space, 188, The Embarcadero, Port of San Francisco, San Francisco, CAL Fire Northern Region, California, 94105, United States",
             "LT Group - Compass Real Estate, Ocean Avenue, Ingleside, San Francisco, CAL Fire Northern Region, California, 94127, United States"
@@ -9488,7 +9481,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90096, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
         ]
     },
     {
@@ -9694,7 +9687,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90096, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
         ]
     },
     {
@@ -10547,7 +10540,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90096, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
         ]
     },
     {
@@ -10983,7 +10976,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90096, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
         ]
     },
     {
@@ -12081,7 +12074,7 @@
             ]
         ],
         "addresses": [
-            "Facebook (Meta), Campus Center Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90096, United States"
+            "Facebook (Meta), Waterfront Drive, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
         ]
     },
     {
@@ -12123,7 +12116,7 @@
             ]
         ],
         "addresses": [
-            "Facebook (Meta), Campus Center Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90096, United States"
+            "Facebook (Meta), Waterfront Drive, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
         ]
     },
     {
@@ -12199,7 +12192,7 @@
             ]
         ],
         "addresses": [
-            "Facebook (Meta), Campus Center Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90096, United States"
+            "Facebook (Meta), Waterfront Drive, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
         ]
     },
     {
@@ -12281,7 +12274,7 @@
             ]
         ],
         "addresses": [
-            "Facebook (Meta), Campus Center Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90096, United States"
+            "Facebook (Meta), Waterfront Drive, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
         ]
     },
     {
@@ -12540,7 +12533,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90096, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
         ]
     },
     {
@@ -12995,7 +12988,7 @@
         ],
         "addresses": [
             "Amazon, Jefferson County, Montana, United States",
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90096, United States",
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States",
             "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States",
             "Lyft, 185, Berry Street, South Beach, San Francisco, CAL Fire Northern Region, California, 94107, United States",
             "UserTesting, 690, 5th Street, South of Market, San Francisco, CAL Fire Northern Region, California, 94017, United States"
@@ -14151,7 +14144,7 @@
         ],
         "addresses": [
             "Accenture, 323, Congress Avenue, Downtown, Austin, Travis County, Texas, 78701, United States",
-            "Facebook (Meta), Campus Center Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90096, United States"
+            "Facebook (Meta), Waterfront Drive, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
         ]
     },
     {
@@ -14654,7 +14647,7 @@
         ],
         "addresses": [
             "CPL, Laramie, Albany County, Wyoming, United States",
-            "Facebook (Meta), Campus Center Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90096, United States",
+            "Facebook (Meta), Waterfront Drive, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States",
             "Accenture, 323, Congress Avenue, Downtown, Austin, Travis County, Texas, 78701, United States"
         ]
     },
@@ -14970,7 +14963,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90096, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
         ]
     },
     {
@@ -15148,7 +15141,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90096, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
         ]
     },
     {
@@ -15258,7 +15251,7 @@
         ],
         "addresses": [
             "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112, United States",
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90096, United States",
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States",
             "Ruisseau Alphabet, Lac-au-Brochet, La Haute-C\u00f4te-Nord, C\u00f4te-Nord, Qu\u00e9bec, Canada",
             "The Google Pro, 10, Dundas Street East, Toronto Centre, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5B 2G9, Canada"
         ]
@@ -15318,7 +15311,7 @@
         ],
         "addresses": [
             "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112, United States",
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90096, United States",
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States",
             "YouTube, 900, Cherry Avenue, YouTube, San Bruno, San Mateo County, CAL Fire Northern Region, California, 94066, United States"
         ]
     },
@@ -15623,7 +15616,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90096, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
         ]
     },
     {
@@ -16979,7 +16972,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90096, United States",
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States",
             "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112, United States"
         ]
     },
@@ -17028,7 +17021,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90096, United States",
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States",
             "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112, United States"
         ]
     },
@@ -17395,7 +17388,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90096, United States",
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States",
             "G4S Secure Soultions USA, Lorna Road, Chapel Hill, Patton Chapel, Hoover, Jefferson County, Alabama, 35216, United States"
         ]
     },
@@ -17809,7 +17802,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90096, United States",
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States",
             "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112, United States"
         ]
     },
@@ -17861,7 +17854,7 @@
             ]
         ],
         "addresses": [
-            "Facebook (Meta), Campus Center Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90096, United States",
+            "Facebook (Meta), Waterfront Drive, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States",
             "Accenture, 323, Congress Avenue, Downtown, Austin, Travis County, Texas, 78701, United States"
         ]
     },
@@ -19218,7 +19211,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90096, United States",
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States",
             "Modis, 113, South Main Street, Breckenridge, Summit County, Colorado, 80424, United States",
             "Adecco, 7335, Timberlake Road, Lynchburg, Virginia, 24502, United States"
         ]
@@ -19443,7 +19436,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, California, 90096, United States"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
         ]
     },
     {
