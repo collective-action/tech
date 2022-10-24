@@ -857,8 +857,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.3361663,
+                -121.890591
+            ]
+        ],
+        "addresses": [
+            "San Jose, Santa Clara County, California, United States"
+        ]
     },
     {
         "id": 14,
@@ -2011,7 +2018,7 @@
             ]
         ],
         "addresses": [
-            "Sony, 1, \u4e1c\u957f\u5b89\u8857, \u4e1c\u57ce\u533a, \u5317\u4eac\u5e02, 100006, \u4e2d\u56fd"
+            "Sony, 1, \u4e1c\u957f\u5b89\u8857, \u53f2\u5bb6\u793e\u533a, \u4e1c\u57ce\u533a, \u5317\u4eac\u5e02, 100006, \u4e2d\u56fd"
         ]
     },
     {
