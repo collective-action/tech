@@ -857,15 +857,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                37.3361663,
-                -121.890591
-            ]
-        ],
-        "addresses": [
-            "San Jose, Santa Clara County, California, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 14,
@@ -934,15 +927,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                37.3361663,
-                -121.890591
-            ]
-        ],
-        "addresses": [
-            "San Jose, Santa Clara County, California, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 16,
@@ -20729,12 +20715,12 @@
         ],
         "latlngs": [
             [
-                40.725039,
-                -73.9991532
+                40.7635881,
+                -73.9738596
             ]
         ],
         "addresses": [
-            "Apple Store SoHo, 103, Prince Street, Manhattan Community Board 2, Manhattan, New York County, City of New York, New York, 10012, United States"
+            "Apple 5th Avenue, West 58th Street, Manhattan Community Board 5, Manhattan, New York County, City of New York, New York, 10153, United States"
         ]
     },
     {
