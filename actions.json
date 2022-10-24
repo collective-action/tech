@@ -927,15 +927,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                37.3361663,
-                -121.890591
-            ]
-        ],
-        "addresses": [
-            "San Jose, Santa Clara County, California, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 16,
@@ -13851,8 +13844,8 @@
         ],
         "latlngs": [
             [
-                51.5332143,
-                -0.1259925739528908
+                51.5333771,
+                -0.1258455
             ],
             [
                 52.3124769,
@@ -13872,7 +13865,7 @@
             ]
         ],
         "addresses": [
-            "Google, 6, Pancras Road, King's Cross, London Borough of Camden, London, Greater London, England, N1C 4BJ, United Kingdom",
+            "Google, Pancras Road, King's Cross, London Borough of Camden, London, Greater London, England, N1C 4BJ, United Kingdom",
             "Amazon, Beoley CP, Holt End, Bromsgrove, Worcestershire, England, B98 9FJ, United Kingdom",
             "Microsoft Experience Centre, 253-259, Regent Street, East Marylebone, Mayfair, London, Greater London, England, W1B 2ER, United Kingdom",
             "Samsung, 40, Canada Square, Canary Wharf, Poplar, London Borough of Tower Hamlets, London, Greater London, England, E14 5FW, United Kingdom",
