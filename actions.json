@@ -857,15 +857,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                37.3361663,
-                -121.890591
-            ]
-        ],
-        "addresses": [
-            "San Jose, Santa Clara County, CAL Fire Northern Region, California, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 14,
@@ -934,15 +927,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                37.3361663,
-                -121.890591
-            ]
-        ],
-        "addresses": [
-            "San Jose, Santa Clara County, CAL Fire Northern Region, California, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 16,
@@ -7593,7 +7579,7 @@
             ]
         ],
         "addresses": [
-            "Doordash HQ, Stevenson Street, Union Square, San Francisco, CAL Fire Northern Region, California, 94104, United States",
+            "Doordash HQ, 901, Market Street, Union Square, San Francisco, CAL Fire Northern Region, California, 94104, United States",
             "Caviar Creek, Nome, Alaska, United States",
             "\u7f8e\u570b\u5c0f\u93ae\u5927\u8857 Main Street, USA, Town Square, \u7af9\u7bd9\u7063 Penny's Bay, \u8343\u7063\u5340 Tsuen Wan District, \u65b0\u754c New Territories, \u9999\u6e2f Hong Kong, \u4e2d\u56fd"
         ]
@@ -7807,7 +7793,7 @@
         ],
         "addresses": [
             "UserTesting, 690, 5th Street, South of Market, San Francisco, CAL Fire Northern Region, California, 94017, United States",
-            "Doordash HQ, Stevenson Street, Union Square, San Francisco, CAL Fire Northern Region, California, 94104, United States"
+            "Doordash HQ, 901, Market Street, Union Square, San Francisco, CAL Fire Northern Region, California, 94104, United States"
         ]
     },
     {
@@ -10342,7 +10328,7 @@
         "addresses": [
             "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States",
             "Lyft, 185, Berry Street, South Beach, San Francisco, CAL Fire Northern Region, California, 94107, United States",
-            "Doordash HQ, Stevenson Street, Union Square, San Francisco, CAL Fire Northern Region, California, 94104, United States"
+            "Doordash HQ, 901, Market Street, Union Square, San Francisco, CAL Fire Northern Region, California, 94104, United States"
         ]
     },
     {
@@ -12488,7 +12474,7 @@
         "addresses": [
             "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States",
             "Lyft, 185, Berry Street, South Beach, San Francisco, CAL Fire Northern Region, California, 94107, United States",
-            "Doordash HQ, Stevenson Street, Union Square, San Francisco, CAL Fire Northern Region, California, 94104, United States",
+            "Doordash HQ, 901, Market Street, Union Square, San Francisco, CAL Fire Northern Region, California, 94104, United States",
             "UserTesting, 690, 5th Street, South of Market, San Francisco, CAL Fire Northern Region, California, 94017, United States"
         ]
     },
@@ -14024,15 +14010,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                33.8053661,
-                -118.3349656038286
-            ]
-        ],
-        "addresses": [
-            "Amazon, Skypark Drive, Walteria, Torrance, Los Angeles County, CAL Fire Southern Region, California, 90505, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 335,
@@ -14594,12 +14573,12 @@
         "author": null,
         "latlngs": [
             [
-                37.7869314,
-                -122.421939
+                37.7995723,
+                -122.439534
             ]
         ],
         "addresses": [
-            "Verizon, Daniel Burnham Court, Western Addition, San Francisco, CAL Fire Northern Region, California, 94164, United States"
+            "Verizon, Lombard Street, Cow Hollow, San Francisco, CAL Fire Northern Region, California, 94123, United States"
         ]
     },
     {
@@ -15360,12 +15339,12 @@
         ],
         "latlngs": [
             [
-                37.776541949999995,
-                -122.41680699666506
+                37.7762709,
+                -122.41630688295965
             ]
         ],
         "addresses": [
-            "Twitter, 10th Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94102, United States"
+            "Twitter, 875, Stevenson Street, Market Square, San Francisco, CAL Fire Northern Region, California, 94102, United States"
         ]
     },
     {
@@ -15508,7 +15487,7 @@
         "addresses": [
             "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States",
             "Lyft, 185, Berry Street, South Beach, San Francisco, CAL Fire Northern Region, California, 94107, United States",
-            "Doordash HQ, Stevenson Street, Union Square, San Francisco, CAL Fire Northern Region, California, 94104, United States"
+            "Doordash HQ, 901, Market Street, Union Square, San Francisco, CAL Fire Northern Region, California, 94104, United States"
         ]
     },
     {
@@ -15713,7 +15692,7 @@
             ]
         ],
         "addresses": [
-            "Doordash HQ, Stevenson Street, Union Square, San Francisco, CAL Fire Northern Region, California, 94104, United States"
+            "Doordash HQ, 901, Market Street, Union Square, San Francisco, CAL Fire Northern Region, California, 94104, United States"
         ]
     },
     {
@@ -16364,7 +16343,7 @@
             ]
         ],
         "addresses": [
-            "Doordash HQ, Stevenson Street, Union Square, San Francisco, CAL Fire Northern Region, California, 94104, United States"
+            "Doordash HQ, 901, Market Street, Union Square, San Francisco, CAL Fire Northern Region, California, 94104, United States"
         ]
     },
     {
@@ -17915,7 +17894,7 @@
             ]
         ],
         "addresses": [
-            "Doordash HQ, Stevenson Street, Union Square, San Francisco, CAL Fire Northern Region, California, 94104, United States"
+            "Doordash HQ, 901, Market Street, Union Square, San Francisco, CAL Fire Northern Region, California, 94104, United States"
         ]
     },
     {
@@ -19088,15 +19067,8 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": [
-            [
-                34.09546865,
-                -118.32844174959318
-            ]
-        ],
-        "addresses": [
-            "Netflix Tudum Theater, Homewood Avenue, Hollywood, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90028, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 484,
