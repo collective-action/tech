@@ -934,8 +934,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.3361663,
+                -121.890591
+            ]
+        ],
+        "addresses": [
+            "San Jose, Santa Clara County, CAL Fire Northern Region, California, United States"
+        ]
     },
     {
         "id": 16,
@@ -14017,8 +14024,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                33.8053661,
+                -118.3349656038286
+            ]
+        ],
+        "addresses": [
+            "Amazon, Skypark Drive, Walteria, Torrance, Los Angeles County, CAL Fire Southern Region, California, 90505, United States"
+        ]
     },
     {
         "id": 335,
@@ -14217,8 +14231,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                33.8053661,
+                -118.3349656038286
+            ]
+        ],
+        "addresses": [
+            "Amazon, Skypark Drive, Walteria, Torrance, Los Angeles County, CAL Fire Southern Region, California, 90505, United States"
+        ]
     },
     {
         "id": 419,
@@ -15090,12 +15111,12 @@
         ],
         "latlngs": [
             [
-                31.239342399999998,
-                121.49697982534015
+                31.2896342,
+                121.1573352
             ]
         ],
         "addresses": [
-            "Apple \u6d66\u4e1c, 8, \u4e16\u7eaa\u5927\u9053, \u9646\u5bb6\u5634\u8857\u9053, \u6d66\u4e1c\u65b0\u533a, \u4e0a\u6d77\u5e02, 200002, \u4e2d\u56fd"
+            "Apple Store, \u5546\u573a\u5357\u8def, \u5609\u5b9a\u533a, \u4e0a\u6d77\u5e02, 201805, \u4e2d\u56fd"
         ]
     },
     {
