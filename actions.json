@@ -927,15 +927,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                37.3361663,
-                -121.890591
-            ]
-        ],
-        "addresses": [
-            "San Jose, Santa Clara County, CAL Fire Northern Region, California, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 16,
@@ -12225,7 +12218,7 @@
             ]
         ],
         "addresses": [
-            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
+            "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
         ]
     },
     {
@@ -17602,7 +17595,7 @@
             ]
         ],
         "addresses": [
-            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States",
+            "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States",
             "Accenture, 323, Congress Avenue, Downtown, Austin, Travis County, Texas, 78701, United States"
         ]
     },
@@ -20171,7 +20164,7 @@
         ],
         "addresses": [
             "Accenture, 323, Congress Avenue, Downtown, Austin, Travis County, Texas, 78701, United States",
-            "Facebook, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
+            "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
         ]
     },
     {
