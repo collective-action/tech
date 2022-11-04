@@ -857,8 +857,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.3361663,
+                -121.890591
+            ]
+        ],
+        "addresses": [
+            "San Jose, Santa Clara County, CAL Fire Northern Region, California, United States"
+        ]
     },
     {
         "id": 14,
@@ -4242,12 +4249,12 @@
         ],
         "latlngs": [
             [
-                37.5418747,
-                127.0713154610626
+                37.5758549,
+                127.0383143
             ]
         ],
         "addresses": [
-            "Samsung, \ub2a5\ub3d9\ub85c, \ubaa8\uc9c4\ub3d9, \ud654\uc591\ub3d9, \uad11\uc9c4\uad6c, \uc11c\uc6b8, 05011, \ub300\ud55c\ubbfc\uad6d"
+            "Samsung, \uace0\uc0b0\uc790\ub85c30\uae38, \uc6a9\uc2e0\ub3d9, \ub3d9\ub300\ubb38\uad6c, \uc11c\uc6b8, 02567, \ub300\ud55c\ubbfc\uad6d"
         ]
     },
     {
