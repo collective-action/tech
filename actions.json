@@ -857,8 +857,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.3361663,
+                -121.890591
+            ]
+        ],
+        "addresses": [
+            "San Jose, Santa Clara County, CAL Fire Northern Region, California, United States"
+        ]
     },
     {
         "id": 14,
@@ -927,8 +934,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.3361663,
+                -121.890591
+            ]
+        ],
+        "addresses": [
+            "San Jose, Santa Clara County, CAL Fire Northern Region, California, United States"
+        ]
     },
     {
         "id": 16,
@@ -2334,7 +2348,7 @@
             ]
         ],
         "addresses": [
-            "WeWork, 4, East 34th Street, Manhattan Community Board 5, Manhattan, New York County, City of New York, New York, 10016, United States"
+            "WeWork, East 34th Street, Manhattan Community Board 5, Manhattan, New York County, City of New York, New York, 10016, United States"
         ]
     },
     {
@@ -2660,7 +2674,7 @@
             ]
         ],
         "addresses": [
-            "Uber Limo Livery Hold Lot, Cargo Plaza Road, Queens, City of New York, New York, 11430, United States"
+            "Uber Limo Livery Hold Lot, Cargo Plaza Road, Queens County, Queens, City of New York, New York, 11430, United States"
         ]
     },
     {
@@ -4817,8 +4831,8 @@
             ]
         ],
         "addresses": [
-            "Uber Limo Livery Hold Lot, Cargo Plaza Road, Queens, City of New York, New York, 11430, United States",
-            "Lyft Driver Center, 49th Avenue, Sunnyside, Queens, City of New York, New York, 11101, United States"
+            "Uber Limo Livery Hold Lot, Cargo Plaza Road, Queens County, Queens, City of New York, New York, 11430, United States",
+            "Lyft Driver Center, 49th Avenue, Sunnyside, Queens County, Queens, City of New York, New York, 11101, United States"
         ]
     },
     {
@@ -9298,12 +9312,12 @@
         ],
         "latlngs": [
             [
-                40.6149354,
-                -74.18374209999999
+                40.6194923,
+                -74.0729948
             ]
         ],
         "addresses": [
-            "Amazon JFK8, 546, Gulf Avenue, Bloomfield, Staten Island, City of New York, New York, 10303, United States"
+            "Amazon Court, Clifton, Richmond County, Staten Island, City of New York, New York, 10304, United States"
         ]
     },
     {
@@ -11001,12 +11015,12 @@
         ],
         "latlngs": [
             [
-                40.6149354,
-                -74.18374209999999
+                40.6194923,
+                -74.0729948
             ]
         ],
         "addresses": [
-            "Amazon JFK8, 546, Gulf Avenue, Bloomfield, Staten Island, City of New York, New York, 10303, United States"
+            "Amazon Court, Clifton, Richmond County, Staten Island, City of New York, New York, 10304, United States"
         ]
     },
     {
@@ -11261,12 +11275,12 @@
         ],
         "latlngs": [
             [
-                40.6149354,
-                -74.18374209999999
+                40.6194923,
+                -74.0729948
             ]
         ],
         "addresses": [
-            "Amazon JFK8, 546, Gulf Avenue, Bloomfield, Staten Island, City of New York, New York, 10303, United States"
+            "Amazon Court, Clifton, Richmond County, Staten Island, City of New York, New York, 10304, United States"
         ]
     },
     {
@@ -16614,7 +16628,7 @@
             ]
         ],
         "addresses": [
-            "The New York Times, Whitestone Expressway, Linden Hill, Queens, City of New York, New York, 11354, United States"
+            "The New York Times, Whitestone Expressway, Linden Hill, Queens County, Queens, City of New York, New York, 11354, United States"
         ]
     },
     {
@@ -16700,7 +16714,7 @@
             ]
         ],
         "addresses": [
-            "Uber Limo Livery Hold Lot, Cargo Plaza Road, Queens, City of New York, New York, 11430, United States"
+            "Uber Limo Livery Hold Lot, Cargo Plaza Road, Queens County, Queens, City of New York, New York, 11430, United States"
         ]
     },
     {
@@ -18153,7 +18167,7 @@
             ]
         ],
         "addresses": [
-            "The New York Times, Whitestone Expressway, Linden Hill, Queens, City of New York, New York, 11354, United States"
+            "The New York Times, Whitestone Expressway, Linden Hill, Queens County, Queens, City of New York, New York, 11354, United States"
         ]
     },
     {
@@ -18446,7 +18460,7 @@
             ]
         ],
         "addresses": [
-            "Blue, 1115, Richmond Terrace, Staten Island, City of New York, New York, 10310, United States"
+            "Blue, 1115, Richmond Terrace, Richmond County, Staten Island, City of New York, New York, 10310, United States"
         ]
     },
     {
@@ -19111,12 +19125,12 @@
         ],
         "latlngs": [
             [
-                40.6149354,
-                -74.18374209999999
+                40.6194923,
+                -74.0729948
             ]
         ],
         "addresses": [
-            "Amazon JFK8, 546, Gulf Avenue, Bloomfield, Staten Island, City of New York, New York, 10303, United States"
+            "Amazon Court, Clifton, Richmond County, Staten Island, City of New York, New York, 10304, United States"
         ]
     },
     {
@@ -19703,7 +19717,7 @@
             ]
         ],
         "addresses": [
-            "Citizen, West 43rd Street, Theater District, Manhattan, New York County, City of New York, New York, 10036, United States"
+            "Citizen, 1500, Broadway, Theater District, Manhattan, New York County, City of New York, New York, 10019, United States"
         ]
     },
     {
@@ -19859,12 +19873,12 @@
         ],
         "latlngs": [
             [
-                40.6149354,
-                -74.18374209999999
+                40.6194923,
+                -74.0729948
             ]
         ],
         "addresses": [
-            "Amazon JFK8, 546, Gulf Avenue, Bloomfield, Staten Island, City of New York, New York, 10303, United States"
+            "Amazon Court, Clifton, Richmond County, Staten Island, City of New York, New York, 10304, United States"
         ]
     },
     {
@@ -19900,12 +19914,12 @@
         ],
         "latlngs": [
             [
-                40.6149354,
-                -74.18374209999999
+                40.6194923,
+                -74.0729948
             ]
         ],
         "addresses": [
-            "Amazon JFK8, 546, Gulf Avenue, Bloomfield, Staten Island, City of New York, New York, 10303, United States"
+            "Amazon Court, Clifton, Richmond County, Staten Island, City of New York, New York, 10304, United States"
         ]
     },
     {
@@ -20342,7 +20356,7 @@
             ]
         ],
         "addresses": [
-            "Yachthafen(Blick \u00fcber New Yersey), Riverside Walk, Upper West Side, Manhattan, New York County, City of New York, New York, 10024, United States"
+            "Yachthafen(Blick \u00fcber New Yersey), Hudson River Greenway, Upper West Side, Manhattan, New York County, City of New York, New York, 10024, United States"
         ]
     },
     {
@@ -20711,12 +20725,12 @@
         ],
         "latlngs": [
             [
-                40.7635881,
-                -73.9738596
+                40.763841400000004,
+                -73.97297181082921
             ]
         ],
         "addresses": [
-            "Apple 5th Avenue, West 58th Street, Manhattan Community Board 5, Manhattan, New York County, City of New York, New York, 10153, United States"
+            "Apple Fifth Avenue, 767, 5th Avenue, Manhattan Community Board 5, Manhattan, New York County, City of New York, New York, 10153, United States"
         ]
     },
     {
@@ -21041,12 +21055,12 @@
         ],
         "latlngs": [
             [
-                40.6149354,
-                -74.18374209999999
+                40.6194923,
+                -74.0729948
             ]
         ],
         "addresses": [
-            "Amazon JFK8, 546, Gulf Avenue, Bloomfield, Staten Island, City of New York, New York, 10303, United States"
+            "Amazon Court, Clifton, Richmond County, Staten Island, City of New York, New York, 10304, United States"
         ]
     },
     {
