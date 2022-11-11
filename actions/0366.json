@@ -29,13 +29,6 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            31.239342399999998,
-            121.49697982534015
-        ]
-    ],
-    "addresses": [
-        "Apple \u6d66\u4e1c, 8, \u4e16\u7eaa\u5927\u9053, \u9646\u5bb6\u5634\u8857\u9053, \u6d66\u4e1c\u65b0\u533a, \u4e0a\u6d77\u5e02, 200002, \u4e2d\u56fd"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

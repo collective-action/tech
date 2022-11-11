@@ -857,15 +857,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                37.3361663,
-                -121.890591
-            ]
-        ],
-        "addresses": [
-            "San Jose, Santa Clara County, CAL Fire Northern Region, California, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 14,
@@ -2621,20 +2614,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                37.7756962,
-                -122.4180838
-            ],
-            [
-                42.5032848,
-                -71.8857521
-            ]
-        ],
-        "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States",
-            "Lyft Uber Pickup Location, Midstate Trail, Westminster, Worcester County, Massachusetts, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 57,
@@ -2819,15 +2800,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                37.7756962,
-                -122.4180838
-            ]
-        ],
-        "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 62,
@@ -2903,15 +2877,8 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": [
-            [
-                44.05795005,
-                -92.50701462052399
-            ]
-        ],
-        "addresses": [
-            "IBM, Rochester, Olmsted County, Minnesota, 55901, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 64,
@@ -7842,15 +7809,8 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": [
-            [
-                33.98057375,
-                -118.40788353026585
-            ]
-        ],
-        "addresses": [
-            "Facebook (Meta), Waterfront Drive, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 179,
@@ -7885,15 +7845,8 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": [
-            [
-                47.6224574,
-                -122.33650433873851
-            ]
-        ],
-        "addresses": [
-            "Amazon, Belltown, Seattle, King County, Washington, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 180,
@@ -8794,15 +8747,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                47.6476152,
-                -122.3383842
-            ]
-        ],
-        "addresses": [
-            "Tableau Software - NorthEdge, 1621, North 34th Street, Fremont, Seattle, King County, Washington, 98103, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 202,
@@ -12681,15 +12627,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                42.9833851,
-                -81.2513098
-            ]
-        ],
-        "addresses": [
-            "Uber, Dundas Street, London, Southwestern Ontario, Ontario, N6A 1G2, Canada"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 292,
@@ -13194,15 +13133,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                40.67341775,
-                -74.01472461104052
-            ]
-        ],
-        "addresses": [
-            "Amazon Delivery, 270, Richards Street, Red Hook, Brooklyn, Kings County, City of New York, New York, 11231, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 338,
@@ -15095,15 +15027,8 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": [
-            [
-                31.239342399999998,
-                121.49697982534015
-            ]
-        ],
-        "addresses": [
-            "Apple \u6d66\u4e1c, 8, \u4e16\u7eaa\u5927\u9053, \u9646\u5bb6\u5634\u8857\u9053, \u6d66\u4e1c\u65b0\u533a, \u4e0a\u6d77\u5e02, 200002, \u4e2d\u56fd"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 403,
@@ -16884,15 +16809,8 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": [
-            [
-                39.108487,
-                -84.5205435
-            ]
-        ],
-        "addresses": [
-            "WVXU 91.7 FM, Central Parkway, Betts-Longworth Historic District, West End, Cincinnati, Hamilton County, Ohio, 45210, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 435,
@@ -17650,15 +17568,8 @@
         "author": [
             "hyatt d."
         ],
-        "latlngs": [
-            [
-                37.7899932,
-                -122.4008494
-            ]
-        ],
-        "addresses": [
-            "Change.org, 548, Market Street, Transbay, San Francisco, CAL Fire Northern Region, California, 90104, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 459,
