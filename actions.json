@@ -927,8 +927,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.3361663,
+                -121.890591
+            ]
+        ],
+        "addresses": [
+            "San Jose, Santa Clara County, CAL Fire Northern Region, California, United States"
+        ]
     },
     {
         "id": 16,
@@ -6924,12 +6931,12 @@
         ],
         "latlngs": [
             [
-                41.90311505,
-                -87.73727936317198
+                41.829757400000005,
+                -87.66420583944563
             ]
         ],
         "addresses": [
-            "Amazon, 1260, North Kostner Avenue, Beat 2534, Humboldt Park, Chicago, Cook County, Illinois, 60651, United States"
+            "Amazon DXH5 Delivery Station, 3523, West 35th Street, Mount Pleasant, McKinley Park, Chicago, Cook County, Illinois, 60609, United States"
         ]
     },
     {
@@ -9587,12 +9594,12 @@
         ],
         "latlngs": [
             [
-                41.90311505,
-                -87.73727936317198
+                41.829757400000005,
+                -87.66420583944563
             ]
         ],
         "addresses": [
-            "Amazon, 1260, North Kostner Avenue, Beat 2534, Humboldt Park, Chicago, Cook County, Illinois, 60651, United States"
+            "Amazon DXH5 Delivery Station, 3523, West 35th Street, Mount Pleasant, McKinley Park, Chicago, Cook County, Illinois, 60609, United States"
         ]
     },
     {
@@ -11171,8 +11178,8 @@
         ],
         "latlngs": [
             [
-                41.90311505,
-                -87.73727936317198
+                41.829757400000005,
+                -87.66420583944563
             ],
             [
                 41.882239,
@@ -11180,7 +11187,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, 1260, North Kostner Avenue, Beat 2534, Humboldt Park, Chicago, Cook County, Illinois, 60651, United States",
+            "Amazon DXH5 Delivery Station, 3523, West 35th Street, Mount Pleasant, McKinley Park, Chicago, Cook County, Illinois, 60609, United States",
             "Whole Foods Market, 1, North Halsted Street, Greektown, Near West Side, Chicago, Cook County, Illinois, 60661, United States"
         ]
     },
@@ -16210,12 +16217,12 @@
         ],
         "latlngs": [
             [
-                41.90311505,
-                -87.73727936317198
+                41.829757400000005,
+                -87.66420583944563
             ]
         ],
         "addresses": [
-            "Amazon, 1260, North Kostner Avenue, Beat 2534, Humboldt Park, Chicago, Cook County, Illinois, 60651, United States"
+            "Amazon DXH5 Delivery Station, 3523, West 35th Street, Mount Pleasant, McKinley Park, Chicago, Cook County, Illinois, 60609, United States"
         ]
     },
     {
@@ -16379,12 +16386,12 @@
         ],
         "latlngs": [
             [
-                41.90311505,
-                -87.73727936317198
+                41.829757400000005,
+                -87.66420583944563
             ]
         ],
         "addresses": [
-            "Amazon, 1260, North Kostner Avenue, Beat 2534, Humboldt Park, Chicago, Cook County, Illinois, 60651, United States"
+            "Amazon DXH5 Delivery Station, 3523, West 35th Street, Mount Pleasant, McKinley Park, Chicago, Cook County, Illinois, 60609, United States"
         ]
     },
     {
@@ -19939,12 +19946,12 @@
         ],
         "latlngs": [
             [
-                41.90311505,
-                -87.73727936317198
+                41.829757400000005,
+                -87.66420583944563
             ]
         ],
         "addresses": [
-            "Amazon, 1260, North Kostner Avenue, Beat 2534, Humboldt Park, Chicago, Cook County, Illinois, 60651, United States"
+            "Amazon DXH5 Delivery Station, 3523, West 35th Street, Mount Pleasant, McKinley Park, Chicago, Cook County, Illinois, 60609, United States"
         ]
     },
     {
