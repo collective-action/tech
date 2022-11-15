@@ -927,15 +927,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                37.3361663,
-                -121.890591
-            ]
-        ],
-        "addresses": [
-            "San Jose, Santa Clara County, CAL Fire Northern Region, California, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 16,
@@ -20709,15 +20702,8 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": [
-            [
-                40.725039,
-                -73.9991532
-            ]
-        ],
-        "addresses": [
-            "Apple Store SoHo, 103, Prince Street, Manhattan Community Board 2, Manhattan, New York County, City of New York, New York, 10012, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 541,
