@@ -857,15 +857,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                37.3361663,
-                -121.890591
-            ]
-        ],
-        "addresses": [
-            "San Jose, Santa Clara County, CAL Fire Northern Region, California, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 14,
@@ -16665,7 +16658,7 @@
             ]
         ],
         "addresses": [
-            "Imperfect Foods, Survey Road, Elk Grove, Sacramento County, California, 94624, United States"
+            "Imperfect Foods, Survey Road, Elk Grove, Sacramento County, CAL Fire Northern Region, California, 94624, United States"
         ]
     },
     {
