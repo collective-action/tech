@@ -9296,15 +9296,8 @@
         "author": [
             "ericandrewlewis"
         ],
-        "latlngs": [
-            [
-                40.6149354,
-                -74.18374209999999
-            ]
-        ],
-        "addresses": [
-            "Amazon JFK8, 546, Gulf Avenue, Bloomfield, Staten Island, City of New York, New York, 10303, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 213,
@@ -19903,15 +19896,8 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": [
-            [
-                40.6149354,
-                -74.18374209999999
-            ]
-        ],
-        "addresses": [
-            "Amazon JFK8, 546, Gulf Avenue, Bloomfield, Staten Island, City of New York, New York, 10303, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 514,
@@ -20714,15 +20700,8 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": [
-            [
-                40.725039,
-                -73.9991532
-            ]
-        ],
-        "addresses": [
-            "Apple Store SoHo, 103, Prince Street, Manhattan Community Board 2, Manhattan, New York County, City of New York, New York, 10012, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 541,
