@@ -26,13 +26,6 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            38.706946849999994,
-            -121.57281604873683
-        ]
-    ],
-    "addresses": [
-        "Amazon SMF6, 4930, Allbaugh Drive, Sacramento County, California, 95837, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

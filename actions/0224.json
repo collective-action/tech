@@ -32,13 +32,6 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            34.1017346,
-            -118.3445535
-        ]
-    ],
-    "addresses": [
-        "WeWork, 7083, Hollywood Boulevard, Hollywood, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90028, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }
