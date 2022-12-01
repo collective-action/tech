@@ -33,6 +33,13 @@
     "author": [
         "wynniechan"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.419000999999994,
+            -122.08237596053958
+        ]
+    ],
+    "addresses": [
+        "Google, Mountain View, Santa Clara County, CAL Fire Northern Region, California, United States"
+    ]
 }

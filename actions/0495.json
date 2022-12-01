@@ -31,6 +31,13 @@
     "author": [
         "wynniechan"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            40.725039,
+            -73.9991532
+        ]
+    ],
+    "addresses": [
+        "Apple Store SoHo, 103, Prince Street, Manhattan Community Board 2, Manhattan, New York County, City of New York, New York, 10012, United States"
+    ]
 }

@@ -29,6 +29,13 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            33.998523750000004,
+            -117.55284965053637
+        ]
+    ],
+    "addresses": [
+        "Amazon LGB3, 4950, Goodman Way, Eastvale, Riverside County, California, 91752, United States"
+    ]
 }
