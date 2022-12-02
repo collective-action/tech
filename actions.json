@@ -927,15 +927,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                37.3361663,
-                -121.890591
-            ]
-        ],
-        "addresses": [
-            "San Jose, Santa Clara County, CAL Fire Northern Region, California, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 16,
@@ -4779,7 +4772,7 @@
         ],
         "addresses": [
             "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States",
-            "Google, 555, \u8ed2\u5c3c\u8a69\u9053 Hennessy Road, \u79ae\u9813\u5c71 Leighton Hill, \u9d5d\u9838 Bowrington, \u9285\u947c\u7063 Causeway Bay, \u7063\u4ed4\u5340 Wan Chai District, \u9999\u6e2f\u5cf6 Hong Kong Island, \u9999\u6e2f Hong Kong, \u4e2d\u56fd"
+            "Google, \u7f85\u7d20\u8857 Russell Street, \u79ae\u9813\u5c71 Leighton Hill, \u9d5d\u9838 Bowrington, \u9285\u947c\u7063 Causeway Bay, \u7063\u4ed4\u5340 Wan Chai District, \u9999\u6e2f\u5cf6 Hong Kong Island, \u9999\u6e2f Hong Kong, \u4e2d\u56fd"
         ]
     },
     {
@@ -5021,7 +5014,7 @@
             ]
         ],
         "addresses": [
-            "\u9806\u8c50\u901f\u904b SF Express, 414, \u592a\u5b50\u9053\u897f Prince Edward Road West, \u73d3\u676f\u77f3 Kau Pui Shek, \u4e5d\u9f8d\u57ce Kowloon City, \u4e5d\u9f8d\u57ce\u5340 Kowloon City District, \u4e5d\u9f8d Kowloon, \u9999\u6e2f Hong Kong, \u4e2d\u56fd"
+            "\u9806\u8c50\u901f\u904b SF Express, 414, \u592a\u5b50\u9053\u897f Prince Edward Road West, \u9760\u80cc\u77f3 Kau Pui Shek, \u4e5d\u9f8d\u57ce Kowloon City, \u4e5d\u9f8d\u57ce\u5340 Kowloon City District, \u4e5d\u9f8d Kowloon, \u9999\u6e2f Hong Kong, \u4e2d\u56fd"
         ]
     },
     {
