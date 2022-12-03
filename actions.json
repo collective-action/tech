@@ -857,8 +857,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.3361663,
+                -121.890591
+            ]
+        ],
+        "addresses": [
+            "San Jose, Santa Clara County, CAL Fire Northern Region, California, United States"
+        ]
     },
     {
         "id": 14,
@@ -19079,8 +19086,15 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                34.09546865,
+                -118.32844174959318
+            ]
+        ],
+        "addresses": [
+            "Netflix Tudum Theater, Homewood Avenue, Hollywood, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90028, United States"
+        ]
     },
     {
         "id": 484,
@@ -20721,8 +20735,15 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                40.725039,
+                -73.9991532
+            ]
+        ],
+        "addresses": [
+            "Apple Store SoHo, 103, Prince Street, Manhattan Community Board 2, Manhattan, New York County, City of New York, New York, 10012, United States"
+        ]
     },
     {
         "id": 541,
