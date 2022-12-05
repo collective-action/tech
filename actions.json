@@ -857,8 +857,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.3361663,
+                -121.890591
+            ]
+        ],
+        "addresses": [
+            "San Jose, Santa Clara County, CAL Fire Northern Region, California, United States"
+        ]
     },
     {
         "id": 14,
@@ -11175,13 +11182,13 @@
                 -87.66420583944563
             ],
             [
-                41.882239,
-                -87.64686528786777
+                41.8682107,
+                -87.6387819
             ]
         ],
         "addresses": [
             "Amazon DXH5 Delivery Station, 3523, West 35th Street, Mount Pleasant, McKinley Park, Chicago, Cook County, Illinois, 60609, United States",
-            "Whole Foods Market, 1, North Halsted Street, Greektown, Near West Side, Chicago, Cook County, Illinois, 60661, United States"
+            "Whole Foods Market, 1101, South Canal Street, Near West Side, Chicago, Cook County, Illinois, 60607, United States"
         ]
     },
     {
