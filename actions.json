@@ -857,15 +857,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                37.3361663,
-                -121.890591
-            ]
-        ],
-        "addresses": [
-            "San Jose, Santa Clara County, CAL Fire Northern Region, California, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 14,
@@ -20347,15 +20340,8 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": [
-            [
-                40.7859179,
-                -73.9849146
-            ]
-        ],
-        "addresses": [
-            "Yachthafen(Blick \u00fcber New Yersey), Hudson River Greenway, Upper West Side, Manhattan, New York County, City of New York, New York, 10024, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 529,
