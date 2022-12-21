@@ -857,15 +857,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                37.3361663,
-                -121.890591
-            ]
-        ],
-        "addresses": [
-            "San Jose, Santa Clara County, CAL Fire Northern Region, California, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 14,
@@ -15090,12 +15083,12 @@
         ],
         "latlngs": [
             [
-                31.239342399999998,
-                121.49697982534015
+                31.2896342,
+                121.1573352
             ]
         ],
         "addresses": [
-            "Apple \u6d66\u4e1c, 8, \u4e16\u7eaa\u5927\u9053, \u9646\u5bb6\u5634\u8857\u9053, \u6d66\u4e1c\u65b0\u533a, \u4e0a\u6d77\u5e02, 200002, \u4e2d\u56fd"
+            "Apple Store, \u5546\u573a\u5357\u8def, \u5609\u5b9a\u533a, \u4e0a\u6d77\u5e02, 201805, \u4e2d\u56fd"
         ]
     },
     {
@@ -18458,15 +18451,8 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": [
-            [
-                40.6453855,
-                -74.1077517
-            ]
-        ],
-        "addresses": [
-            "Blue, 1115, Richmond Terrace, Staten Island, City of New York, New York, 10310, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 473,
