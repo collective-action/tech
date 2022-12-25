@@ -927,15 +927,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                37.3361663,
-                -121.890591
-            ]
-        ],
-        "addresses": [
-            "San Jose, Santa Clara County, CAL Fire Northern Region, California, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 16,
@@ -3683,7 +3676,7 @@
             ]
         ],
         "addresses": [
-            "\ud55c\uad6d\uacfc\ud559\uae30\uc220\uc6d0, 291, \ub300\ud559\ub85c, \uc628\ucc9c2\ub3d9, \uc628\ucc9c\ub3d9, \uc720\uc131\uad6c, \uad6c\uc131\ub3d9, \ub300\uc804, 34141, \ub300\ud55c\ubbfc\uad6d"
+            "\ud55c\uad6d\uacfc\ud559\uae30\uc220\uc6d0, 291, \ub300\ud559\ub85c, \uad6c\uc131\ub3d9, \uc628\ucc9c2\ub3d9, \uc628\ucc9c\ub3d9, \uc720\uc131\uad6c, \ub300\uc804, 34141, \ub300\ud55c\ubbfc\uad6d"
         ]
     },
     {
@@ -4249,12 +4242,12 @@
         ],
         "latlngs": [
             [
-                37.5758549,
-                127.0383143
+                36.076228900000004,
+                126.69005226346678
             ]
         ],
         "addresses": [
-            "Samsung, \uace0\uc0b0\uc790\ub85c30\uae38, \uc6a9\uc2e0\ub3d9, \ub3d9\ub300\ubb38\uad6c, \uc11c\uc6b8, 02567, \ub300\ud55c\ubbfc\uad6d"
+            "Samsung, \ucda9\uc808\ub85c59\ubc88\uae38, \uc11c\ucc9c\uc74d, \uc11c\ucc9c\uad70, \ucda9\uccad\ub0a8\ub3c4, 33643, \ub300\ud55c\ubbfc\uad6d"
         ]
     },
     {
@@ -18458,15 +18451,8 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": [
-            [
-                40.6453855,
-                -74.1077517
-            ]
-        ],
-        "addresses": [
-            "Blue, 1115, Richmond Terrace, Staten Island, City of New York, New York, 10310, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 473,
@@ -19086,15 +19072,8 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": [
-            [
-                34.09546865,
-                -118.32844174959318
-            ]
-        ],
-        "addresses": [
-            "Netflix Tudum Theater, Homewood Avenue, Hollywood, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90028, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 484,
