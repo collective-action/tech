@@ -404,12 +404,12 @@
         ],
         "latlngs": [
             [
-                38.6459452,
-                -121.1619813
+                38.64577295,
+                -121.16569779442514
             ]
         ],
         "addresses": [
-            "Intel Shuttle Terminal, Intel Folsom East Entrance, Intel Corporation, Folsom, CAL Fire Northern Region, California, 95630, United States"
+            "Intel Corporation, Folsom, Sacramento County, CAL Fire Northern Region, California, United States"
         ]
     },
     {
@@ -8423,7 +8423,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, 9051, Union Park Way, Elk Grove, Sacramento, CAL Fire Northern Region, California, 94624, United States"
+            "Amazon, 9051, Union Park Way, Elk Grove, Sacramento County, CAL Fire Northern Region, California, 94624, United States"
         ]
     },
     {
@@ -9505,7 +9505,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, 9051, Union Park Way, Elk Grove, Sacramento, CAL Fire Northern Region, California, 94624, United States"
+            "Amazon, 9051, Union Park Way, Elk Grove, Sacramento County, CAL Fire Northern Region, California, 94624, United States"
         ]
     },
     {
@@ -9752,7 +9752,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, 9051, Union Park Way, Elk Grove, Sacramento, CAL Fire Northern Region, California, 94624, United States"
+            "Amazon, 9051, Union Park Way, Elk Grove, Sacramento County, CAL Fire Northern Region, California, 94624, United States"
         ]
     },
     {
@@ -9790,7 +9790,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, 9051, Union Park Way, Elk Grove, Sacramento, CAL Fire Northern Region, California, 94624, United States"
+            "Amazon, 9051, Union Park Way, Elk Grove, Sacramento County, CAL Fire Northern Region, California, 94624, United States"
         ]
     },
     {
@@ -10272,7 +10272,7 @@
         "addresses": [
             "Amazon, 72, Spring Street, Manhattan Community Board 2, Manhattan, New York County, City of New York, New York, 10013, United States",
             "Amazon Fulfillment Center DIL7, 3639, West Howard Street, Skokie, Niles Township, Cook County, Illinois, 60076, United States",
-            "Amazon, 9051, Union Park Way, Elk Grove, Sacramento, CAL Fire Northern Region, California, 94624, United States"
+            "Amazon, 9051, Union Park Way, Elk Grove, Sacramento County, CAL Fire Northern Region, California, 94624, United States"
         ]
     },
     {
@@ -16658,7 +16658,7 @@
             ]
         ],
         "addresses": [
-            "Imperfect Foods, Survey Road, Elk Grove, Sacramento, CAL Fire Northern Region, California, 94624, United States"
+            "Imperfect Foods, Survey Road, Elk Grove, Sacramento County, CAL Fire Northern Region, California, 94624, United States"
         ]
     },
     {
@@ -18451,8 +18451,15 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                40.6453855,
+                -74.1077517
+            ]
+        ],
+        "addresses": [
+            "Blue, 1115, Richmond Terrace, Staten Island, City of New York, New York, 10310, United States"
+        ]
     },
     {
         "id": 473,
@@ -19072,15 +19079,8 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": [
-            [
-                34.09546865,
-                -118.32844174959318
-            ]
-        ],
-        "addresses": [
-            "Netflix Tudum Theater, Homewood Avenue, Hollywood, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90028, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 484,
