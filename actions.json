@@ -4391,15 +4391,8 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": [
-            [
-                37.7790262,
-                -122.419906
-            ]
-        ],
-        "addresses": [
-            "San Francisco, CAL Fire Northern Region, California, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 99,
@@ -18451,8 +18444,15 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                40.6453855,
+                -74.1077517
+            ]
+        ],
+        "addresses": [
+            "Blue, 1115, Richmond Terrace, Staten Island, City of New York, New York, 10310, United States"
+        ]
     },
     {
         "id": 473,
