@@ -7250,12 +7250,12 @@
         ],
         "latlngs": [
             [
-                48.1386201,
-                11.5776179
+                52.5232413,
+                13.3923964
             ]
         ],
         "addresses": [
-            "Google, Hofgraben, Graggenauerviertel, Graggenau, Altstadt-Lehel, M\u00fcnchen, Bayern, Deutschland"
+            "Google, Ziegelstra\u00dfe, Spandauer Vorstadt, Mitte, Berlin, 10117, Deutschland"
         ]
     },
     {
@@ -14010,8 +14010,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                33.8053661,
+                -118.3349656038286
+            ]
+        ],
+        "addresses": [
+            "Amazon, Skypark Drive, Walteria, Torrance, Los Angeles County, CAL Fire Southern Region, California, 90505, United States"
+        ]
     },
     {
         "id": 335,
