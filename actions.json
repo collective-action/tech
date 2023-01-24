@@ -3314,8 +3314,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                40.722465,
+                -73.9977307
+            ]
+        ],
+        "addresses": [
+            "Amazon, 72, Spring Street, Manhattan Community Board 2, Manhattan, New York County, City of New York, New York, 10013, United States"
+        ]
     },
     {
         "id": 74,
@@ -8651,8 +8658,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.3974949,
+                -122.0842646
+            ]
+        ],
+        "addresses": [
+            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, CAL Fire Northern Region, California, 94043, United States"
+        ]
     },
     {
         "id": 199,
@@ -18437,8 +18451,15 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                40.6453855,
+                -74.1077517
+            ]
+        ],
+        "addresses": [
+            "Blue, 1115, Richmond Terrace, Staten Island, City of New York, New York, 10310, United States"
+        ]
     },
     {
         "id": 473,
@@ -20650,8 +20671,15 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                35.78297695,
+                -78.64720791655616
+            ]
+        ],
+        "addresses": [
+            "Google Fiber, 518, West Jones Street, Glenwood South, Raleigh, Wake County, North Carolina, 27603, United States"
+        ]
     },
     {
         "id": 549,
