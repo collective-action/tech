@@ -20498,8 +20498,15 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                39.3908868,
+                26.8386935
+            ]
+        ],
+        "addresses": [
+            "Trendyol Express, \u0130zmir \u00c7anakkale Yolu, Kemalpa\u015fa Mah., Yaya, G\u00f6me\u00e7, Bal\u0131kesir, Marmara B\u00f6lgesi, 10715, T\u00fcrkiye"
+        ]
     },
     {
         "id": 530,
