@@ -6595,12 +6595,12 @@
         ],
         "latlngs": [
             [
-                37.7924005,
-                -122.39175106331551
+                37.7933154,
+                -122.3945205
             ]
         ],
         "addresses": [
-            "Google Community Space, 188, The Embarcadero, Port of San Francisco, San Francisco, CAL Fire Northern Region, California, 94105, United States"
+            "Google One Market, 1, Market Street, Financial District, San Francisco, CAL Fire Northern Region, California, 94111, United States"
         ]
     },
     {
@@ -6681,12 +6681,12 @@
         ],
         "latlngs": [
             [
-                37.7924005,
-                -122.39175106331551
+                37.7933154,
+                -122.3945205
             ]
         ],
         "addresses": [
-            "Google Community Space, 188, The Embarcadero, Port of San Francisco, San Francisco, CAL Fire Northern Region, California, 94105, United States"
+            "Google One Market, 1, Market Street, Financial District, San Francisco, CAL Fire Northern Region, California, 94111, United States"
         ]
     },
     {
@@ -9060,8 +9060,8 @@
         ],
         "latlngs": [
             [
-                37.7924005,
-                -122.39175106331551
+                37.7933154,
+                -122.3945205
             ],
             [
                 37.7928254,
@@ -9077,7 +9077,7 @@
             ]
         ],
         "addresses": [
-            "Google Community Space, 188, The Embarcadero, Port of San Francisco, San Francisco, CAL Fire Northern Region, California, 94105, United States",
+            "Google One Market, 1, Market Street, Financial District, San Francisco, CAL Fire Northern Region, California, 94111, United States",
             "WeWork, 600, California Street, Chinatown, San Francisco, CAL Fire Northern Region, California, 90104, United States",
             "Kickstarter HQ, Kent Street, Brooklyn, Kings County, City of New York, New York, 11222, United States",
             "WeWork, Market Street, Brooklyn, Kings County, City of New York, New York, 11251, United States"
@@ -9157,12 +9157,12 @@
         ],
         "latlngs": [
             [
-                37.7924005,
-                -122.39175106331551
+                37.7933154,
+                -122.3945205
             ]
         ],
         "addresses": [
-            "Google Community Space, 188, The Embarcadero, Port of San Francisco, San Francisco, CAL Fire Northern Region, California, 94105, United States"
+            "Google One Market, 1, Market Street, Financial District, San Francisco, CAL Fire Northern Region, California, 94111, United States"
         ]
     },
     {
@@ -9208,8 +9208,8 @@
                 -122.08237596053958
             ],
             [
-                37.7924005,
-                -122.39175106331551
+                37.7933154,
+                -122.3945205
             ],
             [
                 37.7249773,
@@ -9219,7 +9219,7 @@
         "addresses": [
             "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States",
             "Google, Mountain View, Santa Clara County, CAL Fire Northern Region, California, United States",
-            "Google Community Space, 188, The Embarcadero, Port of San Francisco, San Francisco, CAL Fire Northern Region, California, 94105, United States",
+            "Google One Market, 1, Market Street, Financial District, San Francisco, CAL Fire Northern Region, California, 94111, United States",
             "LT Group - Compass Real Estate, Ocean Avenue, Ingleside, San Francisco, CAL Fire Northern Region, California, 94127, United States"
         ]
     },
@@ -9256,12 +9256,12 @@
         ],
         "latlngs": [
             [
-                37.7924005,
-                -122.39175106331551
+                37.7933154,
+                -122.3945205
             ]
         ],
         "addresses": [
-            "Google Community Space, 188, The Embarcadero, Port of San Francisco, San Francisco, CAL Fire Northern Region, California, 94105, United States"
+            "Google One Market, 1, Market Street, Financial District, San Francisco, CAL Fire Northern Region, California, 94111, United States"
         ]
     },
     {
@@ -13399,12 +13399,12 @@
         ],
         "latlngs": [
             [
-                37.7924005,
-                -122.39175106331551
+                37.7933154,
+                -122.3945205
             ]
         ],
         "addresses": [
-            "Google Community Space, 188, The Embarcadero, Port of San Francisco, San Francisco, CAL Fire Northern Region, California, 94105, United States"
+            "Google One Market, 1, Market Street, Financial District, San Francisco, CAL Fire Northern Region, California, 94111, United States"
         ]
     },
     {
@@ -13784,12 +13784,12 @@
         ],
         "latlngs": [
             [
-                37.7924005,
-                -122.39175106331551
+                37.7933154,
+                -122.3945205
             ]
         ],
         "addresses": [
-            "Google Community Space, 188, The Embarcadero, Port of San Francisco, San Francisco, CAL Fire Northern Region, California, 94105, United States"
+            "Google One Market, 1, Market Street, Financial District, San Francisco, CAL Fire Northern Region, California, 94111, United States"
         ]
     },
     {
@@ -18451,15 +18451,8 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": [
-            [
-                40.6453855,
-                -74.1077517
-            ]
-        ],
-        "addresses": [
-            "Blue, 1115, Richmond Terrace, Staten Island, City of New York, New York, 10310, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 473,
