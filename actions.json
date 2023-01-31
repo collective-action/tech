@@ -1740,12 +1740,12 @@
         ],
         "latlngs": [
             [
-                52.3124769,
-                -1.878707127163782
+                53.5440843,
+                -1.040071706102423
             ]
         ],
         "addresses": [
-            "Amazon, Beoley CP, Holt End, Bromsgrove, Worcestershire, England, B98 9FJ, United Kingdom"
+            "Amazon, Armthorpe, Doncaster, South Yorkshire Mayoral Combined Authority, England, United Kingdom"
         ]
     },
     {
@@ -1781,8 +1781,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.38810755,
+                -122.08285486344786
+            ]
+        ],
+        "addresses": [
+            "Mozilla Foundation, Castro Street, Mountain View, Santa Clara County, CAL Fire Northern Region, California, 94039, United States"
+        ]
     },
     {
         "id": 38,
@@ -3138,11 +3145,16 @@
         ],
         "latlngs": [
             [
+                33.7226531,
+                -117.8299513
+            ],
+            [
                 36.1449268,
                 -115.20639
             ]
         ],
         "addresses": [
+            "AT&T, Aliso, Tustin, Orange County, CAL Fire Southern Region, California, 92780, United States",
             "AT&T, West Sahara Avenue, Las Vegas, Clark County, Nevada, 89102, United States"
         ]
     },
@@ -4673,8 +4685,8 @@
                 -8.295145534659124
             ],
             [
-                52.3124769,
-                -1.878707127163782
+                53.5440843,
+                -1.040071706102423
             ]
         ],
         "addresses": [
@@ -4682,7 +4694,7 @@
             "Amazon.fr Logistique Distrip\u00f4le Chalon, Sevrey, Chalon-sur-Sa\u00f4ne, Sa\u00f4ne-et-Loire, Bourgogne-Franche-Comt\u00e9, France m\u00e9tropolitaine, 71100, France",
             "Amazon, Agognate, Novara, Piemonte, Italia",
             "Amazon, A R\u00faa, Cecebre, Cambre, A Coru\u00f1a, Galicia, Espa\u00f1a",
-            "Amazon, Beoley CP, Holt End, Bromsgrove, Worcestershire, England, B98 9FJ, United Kingdom"
+            "Amazon, Armthorpe, Doncaster, South Yorkshire Mayoral Combined Authority, England, United Kingdom"
         ]
     },
     {
@@ -9056,6 +9068,10 @@
                 -122.4046726
             ],
             [
+                40.7302914,
+                -73.9586525
+            ],
+            [
                 40.7007485,
                 -73.9725542
             ]
@@ -9063,6 +9079,7 @@
         "addresses": [
             "Google One Market, 1, Market Street, Financial District, San Francisco, CAL Fire Northern Region, California, 94111, United States",
             "WeWork, 600, California Street, Chinatown, San Francisco, CAL Fire Northern Region, California, 90104, United States",
+            "Kickstarter HQ, Kent Street, Brooklyn, Kings County, City of New York, New York, 11222, United States",
             "WeWork, Market Street, Brooklyn, Kings County, City of New York, New York, 11251, United States"
         ]
     },
@@ -9392,8 +9409,8 @@
         ],
         "latlngs": [
             [
-                53.40766365,
-                -1.4300128864588455
+                53.5440843,
+                -1.040071706102423
             ],
             [
                 52.75329925,
@@ -9405,7 +9422,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Brathay Road, Wincobank, Sheffield, South Yorkshire Mayoral Combined Authority, England, S4 8AW, United Kingdom",
+            "Amazon, Armthorpe, Doncaster, South Yorkshire Mayoral Combined Authority, England, United Kingdom",
             "Amazon.co.uk, Towers Business Park, Brereton and Ravenhill, Brereton, Cannock Chase, Staffordshire, England, WS15 1LX, United Kingdom",
             "Amazon, Unit 2, Flaxley Road, Kingston Park, Old Fletton, Peterborough, City of Peterborough, Cambridgeshire and Peterborough, England, PE2 9EN, United Kingdom"
         ]
@@ -13817,8 +13834,8 @@
                 -0.1258455
             ],
             [
-                52.3124769,
-                -1.878707127163782
+                53.5440843,
+                -1.040071706102423
             ],
             [
                 51.51500405,
@@ -13835,7 +13852,7 @@
         ],
         "addresses": [
             "Google, Pancras Road, King's Cross, London Borough of Camden, London, Greater London, England, N1C 4BJ, United Kingdom",
-            "Amazon, Beoley CP, Holt End, Bromsgrove, Worcestershire, England, B98 9FJ, United Kingdom",
+            "Amazon, Armthorpe, Doncaster, South Yorkshire Mayoral Combined Authority, England, United Kingdom",
             "Microsoft Experience Centre, 253-259, Regent Street, East Marylebone, Mayfair, London, Greater London, England, W1B 2ER, United Kingdom",
             "Samsung, 40, Canada Square, Canary Wharf, Poplar, London Borough of Tower Hamlets, London, Greater London, England, E14 5FW, United Kingdom",
             "Deliveroo Editions, Hornsey, London Borough of Haringey, London, Greater London, England, N8 9DG, United Kingdom"
@@ -19350,8 +19367,8 @@
                 104.9211112
             ],
             [
-                52.3124769,
-                -1.878707127163782
+                53.5440843,
+                -1.040071706102423
             ],
             [
                 51.0074295,
@@ -19373,7 +19390,7 @@
             "Amazon, The Highway Street, Wapadrand Security Village, Tshwane Ward 85, City of Tshwane Metropolitan Municipality, Gauteng, 0050, South Africa",
             "Amazon, Narua Kheya Ghat Road, Narua, \u09ac\u09be\u09b2\u09bf\u09af\u09bc\u09be\u0995\u09be\u09a8\u09cd\u09a6\u09bf \u0989\u09aa\u099c\u09c7\u09b2\u09be, \u09b0\u09be\u099c\u09ac\u09be\u09dc\u09c0 \u099c\u09c7\u09b2\u09be, \u09a2\u09be\u0995\u09be \u09ac\u09bf\u09ad\u09be\u0997, 7730, \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6",
             "Amazon, \u1795\u17d2\u179b\u17bc\u179c \u178f\u17d2\u179a\u179f\u1780\u17cb\u1795\u17d2\u17a2\u17c2\u1798 (\u17e6\u17e3), \u179a\u17b6\u1787\u1792\u17b6\u1793\u17b8\u1797\u17d2\u1793\u17c6\u1796\u17c1\u1789, \u1781\u178e\u17d2\u178c\u178a\u17bc\u1793\u1796\u17c1\u1789, \u179a\u17b6\u1787\u1792\u17b6\u1793\u17b8\u1797\u17d2\u1793\u17c6\u1796\u17c1\u1789, 120202, \u1796\u17d2\u179a\u17c7\u179a\u17b6\u1787\u17b6\u178e\u17b6\u1785\u1780\u17d2\u179a\u200b\u1780\u1798\u17d2\u1796\u17bb\u1787\u17b6",
-            "Amazon, Beoley CP, Holt End, Bromsgrove, Worcestershire, England, B98 9FJ, United Kingdom",
+            "Amazon, Armthorpe, Doncaster, South Yorkshire Mayoral Combined Authority, England, United Kingdom",
             "Amazon, Remsfeld, Kn\u00fcllwald, Schwalm-Eder-Kreis, Hessen, Deutschland",
             "Amazon, Hanchi Snoa, Punda, Willemstad, Cura\u00e7ao, 0000 NA, Nederland",
             "AMAZON, Jayraj Nagar, Borivali West, R/C Ward, Zone 4, Mumbai, Mumbai Suburban, Maharashtra, 400092, India"
@@ -19886,8 +19903,15 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                40.61490055,
+                -74.18364545152917
+            ]
+        ],
+        "addresses": [
+            "Amazon JFK8, 546, Gulf Avenue, Bloomfield, Staten Island, City of New York, New York, 10303, United States"
+        ]
     },
     {
         "id": 514,
