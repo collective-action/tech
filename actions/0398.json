@@ -35,6 +35,13 @@
     "author": [
         "hyatt d."
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            51.58489745,
+            -0.1133169998883049
+        ]
+    ],
+    "addresses": [
+        "Deliveroo Editions, Hornsey, London Borough of Haringey, London, Greater London, England, N8 9DG, United Kingdom"
+    ]
 }

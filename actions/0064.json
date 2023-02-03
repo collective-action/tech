@@ -30,6 +30,13 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.33196605,
+            -121.8954904847011
+        ]
+    ],
+    "addresses": [
+        "Adobe, Little Italy, San Jose, Santa Clara County, California, United States"
+    ]
 }

@@ -32,6 +32,13 @@
     "author": [
         "hyatt d."
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            38.3752622,
+            -121.3582964
+        ]
+    ],
+    "addresses": [
+        "Imperfect Foods, Survey Road, Elk Grove, Sacramento County, CAL Fire Northern Region, California, 94624, United States"
+    ]
 }
