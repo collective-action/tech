@@ -31,28 +31,6 @@
     "author": [
         "hyatt d."
     ],
-    "latlngs": [
-        [
-            33.977092,
-            -118.4092133
-        ],
-        [
-            37.419000999999994,
-            -122.08237596053958
-        ],
-        [
-            37.7933154,
-            -122.3945205
-        ],
-        [
-            37.7249773,
-            -122.4603378
-        ]
-    ],
-    "addresses": [
-        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States",
-        "Google, Mountain View, Santa Clara County, CAL Fire Northern Region, California, United States",
-        "Google One Market, 1, Market Street, Financial District, San Francisco, CAL Fire Northern Region, California, 94111, United States",
-        "LT Group - Compass Real Estate, Ocean Avenue, Ingleside, San Francisco, CAL Fire Northern Region, California, 94127, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }
