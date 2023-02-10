@@ -31,23 +31,6 @@
     "author": [
         "CM"
     ],
-    "latlngs": [
-        [
-            37.2532293,
-            -121.802881
-        ],
-        [
-            37.411849450000005,
-            -122.1480713239311
-        ],
-        [
-            37.3974949,
-            -122.0842646
-        ]
-    ],
-    "addresses": [
-        "IBM, Cottle Road, San Jose, Santa Clara County, CAL Fire Northern Region, California, 95123, United States",
-        "HP, Hanover Street, Palo Alto, Santa Clara County, California, 94306, United States",
-        "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, CAL Fire Northern Region, California, 94043, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }
