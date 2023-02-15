@@ -732,12 +732,17 @@
                 -121.802881
             ],
             [
+                37.411849450000005,
+                -122.1480713239311
+            ],
+            [
                 37.3974949,
                 -122.0842646
             ]
         ],
         "addresses": [
             "IBM, Cottle Road, San Jose, Santa Clara County, CAL Fire Northern Region, California, 95123, United States",
+            "HP, Hanover Street, Palo Alto, Santa Clara County, California, 94306, United States",
             "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, CAL Fire Northern Region, California, 94043, United States"
         ]
     },
@@ -3304,8 +3309,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                40.722465,
+                -73.9977307
+            ]
+        ],
+        "addresses": [
+            "Amazon, 72, Spring Street, Manhattan Community Board 2, Manhattan, New York County, City of New York, New York, 10013, United States"
+        ]
     },
     {
         "id": 74,
@@ -4374,8 +4386,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.7790262,
+                -122.419906
+            ]
+        ],
+        "addresses": [
+            "San Francisco, CAL Fire Northern Region, California, United States"
+        ]
     },
     {
         "id": 99,
@@ -11730,15 +11749,10 @@
             [
                 46.320207,
                 -112.1072224
-            ],
-            [
-                40.3600626,
-                -75.98348727074037
             ]
         ],
         "addresses": [
-            "Amazon, Jefferson County, Montana, United States",
-            "Target, 2769, Papermill Road, Spring Ridge, Wyomissing, Berks County, Pennsylvania, 19610, United States"
+            "Amazon, Jefferson County, Montana, United States"
         ]
     },
     {
@@ -15449,16 +15463,11 @@
             [
                 37.7759881,
                 -122.3919991
-            ],
-            [
-                37.7834546,
-                -122.4080358
             ]
         ],
         "addresses": [
             "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States",
-            "Lyft, 185, Berry Street, South Beach, San Francisco, CAL Fire Northern Region, California, 94107, United States",
-            "Doordash HQ, 901, Market Street, Union Square, San Francisco, CAL Fire Northern Region, California, 94104, United States"
+            "Lyft, 185, Berry Street, South Beach, San Francisco, CAL Fire Northern Region, California, 94107, United States"
         ]
     },
     {
@@ -16675,15 +16684,10 @@
             [
                 40.65532605,
                 -73.79478942223645
-            ],
-            [
-                40.8648936,
-                -73.916581098189
             ]
         ],
         "addresses": [
-            "Uber Limo Livery Hold Lot, Cargo Plaza Road, Queens, City of New York, New York, 11430, United States",
-            "Relay Building A, 9th Avenue, Manhattan Community Board 12, Manhattan, New York County, City of New York, New York, 10034, United States"
+            "Uber Limo Livery Hold Lot, Cargo Plaza Road, Queens, City of New York, New York, 11430, United States"
         ]
     },
     {
