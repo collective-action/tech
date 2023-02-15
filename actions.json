@@ -3145,11 +3145,16 @@
         ],
         "latlngs": [
             [
+                33.7226531,
+                -117.8299513
+            ],
+            [
                 36.1449268,
                 -115.20639
             ]
         ],
         "addresses": [
+            "AT&T, Aliso, Tustin, Orange County, CAL Fire Southern Region, California, 92780, United States",
             "AT&T, West Sahara Avenue, Las Vegas, Clark County, Nevada, 89102, United States"
         ]
     },
@@ -10314,11 +10319,16 @@
             [
                 37.7759881,
                 -122.3919991
+            ],
+            [
+                37.7834546,
+                -122.4080358
             ]
         ],
         "addresses": [
             "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States",
-            "Lyft, 185, Berry Street, South Beach, San Francisco, CAL Fire Northern Region, California, 94107, United States"
+            "Lyft, 185, Berry Street, South Beach, San Francisco, CAL Fire Northern Region, California, 94107, United States",
+            "Doordash HQ, 901, Market Street, Union Square, San Francisco, CAL Fire Northern Region, California, 94104, United States"
         ]
     },
     {
@@ -11749,10 +11759,15 @@
             [
                 46.320207,
                 -112.1072224
+            ],
+            [
+                40.3600626,
+                -75.98348727074037
             ]
         ],
         "addresses": [
-            "Amazon, Jefferson County, Montana, United States"
+            "Amazon, Jefferson County, Montana, United States",
+            "Target, 2769, Papermill Road, Spring Ridge, Wyomissing, Berks County, Pennsylvania, 19610, United States"
         ]
     },
     {
@@ -15463,11 +15478,16 @@
             [
                 37.7759881,
                 -122.3919991
+            ],
+            [
+                37.7834546,
+                -122.4080358
             ]
         ],
         "addresses": [
             "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States",
-            "Lyft, 185, Berry Street, South Beach, San Francisco, CAL Fire Northern Region, California, 94107, United States"
+            "Lyft, 185, Berry Street, South Beach, San Francisco, CAL Fire Northern Region, California, 94107, United States",
+            "Doordash HQ, 901, Market Street, Union Square, San Francisco, CAL Fire Northern Region, California, 94104, United States"
         ]
     },
     {
@@ -16684,10 +16704,15 @@
             [
                 40.65532605,
                 -73.79478942223645
+            ],
+            [
+                40.8648936,
+                -73.916581098189
             ]
         ],
         "addresses": [
-            "Uber Limo Livery Hold Lot, Cargo Plaza Road, Queens, City of New York, New York, 11430, United States"
+            "Uber Limo Livery Hold Lot, Cargo Plaza Road, Queens, City of New York, New York, 11430, United States",
+            "Relay Building A, 9th Avenue, Manhattan Community Board 12, Manhattan, New York County, City of New York, New York, 10034, United States"
         ]
     },
     {
