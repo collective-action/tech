@@ -34,6 +34,28 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.7759881,
+            -122.3919991
+        ],
+        [
+            37.7756962,
+            -122.4180838
+        ],
+        [
+            32.7717259,
+            -117.0725274
+        ],
+        [
+            32.7717259,
+            -117.0725274
+        ]
+    ],
+    "addresses": [
+        "Lyft, 185, Berry Street, South Beach, San Francisco, CAL Fire Northern Region, California, 94107, United States",
+        "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States",
+        "UBER / Lyft Driver Drop Off, Lindo Paseo, Montezuma Mesa, San Diego, San Diego County, California, 92182, United States",
+        "UBER / Lyft Driver Drop Off, Lindo Paseo, Montezuma Mesa, San Diego, San Diego County, California, 92182, United States"
+    ]
 }

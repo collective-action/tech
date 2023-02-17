@@ -35,6 +35,18 @@
     "author": [
         "wynniechan"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            40.722465,
+            -73.9977307
+        ],
+        [
+            38.9132465,
+            -77.0317256
+        ]
+    ],
+    "addresses": [
+        "Amazon, 72, Spring Street, Manhattan Community Board 2, Manhattan, New York County, City of New York, New York, 10013, United States",
+        "Amazon Fresh, 1733, 14th Street Northwest, Logan Circle/Shaw, Washington, District of Columbia, 20009, United States"
+    ]
 }

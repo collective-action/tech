@@ -26,6 +26,13 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            65.4102317,
+            -163.0526448
+        ]
+    ],
+    "addresses": [
+        "Caviar Creek, Nome, Alaska, United States"
+    ]
 }

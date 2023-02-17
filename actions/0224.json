@@ -32,6 +32,13 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.7928254,
+            -122.4046726
+        ]
+    ],
+    "addresses": [
+        "WeWork, 600, California Street, Chinatown, San Francisco, CAL Fire Northern Region, California, 90104, United States"
+    ]
 }

@@ -33,6 +33,13 @@
     "author": [
         "wynniechan"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            38.9132465,
+            -77.0317256
+        ]
+    ],
+    "addresses": [
+        "Amazon Fresh, 1733, 14th Street Northwest, Logan Circle/Shaw, Washington, District of Columbia, 20009, United States"
+    ]
 }
