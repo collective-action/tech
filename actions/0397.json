@@ -38,18 +38,6 @@
     "author": [
         "hyatt d."
     ],
-    "latlngs": [
-        [
-            34.0398007,
-            -118.2332085
-        ],
-        [
-            35.8733275,
-            -89.3881431
-        ]
-    ],
-    "addresses": [
-        "Spotify, Mateo Street, Arts District, Downtown, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90021, United States",
-        "Ringer Lane, Halls, Lauderdale County, West Tennessee, Tennessee, 38040, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

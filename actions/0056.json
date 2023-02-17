@@ -27,18 +27,6 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            37.4012109,
-            -121.92947128098103
-        ],
-        [
-            37.3496794,
-            -121.9009359
-        ]
-    ],
-    "addresses": [
-        "Broadcom (280/#2), 280, Innovation Drive, North San Jose, San Jose, Santa Clara County, California, 95134, United States",
-        "Universal Protection Service, 715, North 1st Street, Civic Center, Japantown, San Jose, Santa Clara County, CAL Fire Northern Region, California, 95110, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }
