@@ -732,17 +732,12 @@
                 -121.802881
             ],
             [
-                37.411849450000005,
-                -122.1480713239311
-            ],
-            [
                 37.3974949,
                 -122.0842646
             ]
         ],
         "addresses": [
             "IBM, Cottle Road, San Jose, Santa Clara County, CAL Fire Northern Region, California, 95123, United States",
-            "HP, Hanover Street, Palo Alto, Santa Clara County, California, 94306, United States",
             "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, CAL Fire Northern Region, California, 94043, United States"
         ]
     },
@@ -5338,8 +5333,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                40.7302914,
+                -73.9586525
+            ]
+        ],
+        "addresses": [
+            "Kickstarter HQ, Kent Street, Brooklyn, Kings County, City of New York, New York, 11222, United States"
+        ]
     },
     {
         "id": 122,
@@ -8447,8 +8449,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                40.7302914,
+                -73.9586525
+            ]
+        ],
+        "addresses": [
+            "Kickstarter HQ, Kent Street, Brooklyn, Kings County, City of New York, New York, 11222, United States"
+        ]
     },
     {
         "id": 194,
@@ -9054,6 +9063,10 @@
                 -122.4046726
             ],
             [
+                40.7302914,
+                -73.9586525
+            ],
+            [
                 40.7007485,
                 -73.9725542
             ]
@@ -9061,6 +9074,7 @@
         "addresses": [
             "Google One Market, 1, Market Street, Financial District, San Francisco, CAL Fire Northern Region, California, 94111, United States",
             "WeWork, 600, California Street, Chinatown, San Francisco, CAL Fire Northern Region, California, 90104, United States",
+            "Kickstarter HQ, Kent Street, Brooklyn, Kings County, City of New York, New York, 11222, United States",
             "WeWork, Market Street, Brooklyn, Kings County, City of New York, New York, 11251, United States"
         ]
     },
@@ -10980,8 +10994,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                40.61490055,
+                -74.18364545152917
+            ]
+        ],
+        "addresses": [
+            "Amazon JFK8, 546, Gulf Avenue, Bloomfield, Staten Island, City of New York, New York, 10303, United States"
+        ]
     },
     {
         "id": 248,
@@ -19088,8 +19109,15 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                40.61490055,
+                -74.18364545152917
+            ]
+        ],
+        "addresses": [
+            "Amazon JFK8, 546, Gulf Avenue, Bloomfield, Staten Island, City of New York, New York, 10303, United States"
+        ]
     },
     {
         "id": 488,
