@@ -732,17 +732,12 @@
                 -121.802881
             ],
             [
-                37.411849450000005,
-                -122.1480713239311
-            ],
-            [
                 37.3974949,
                 -122.0842646
             ]
         ],
         "addresses": [
             "IBM, Cottle Road, San Jose, Santa Clara County, CAL Fire Northern Region, California, 95123, United States",
-            "HP, Hanover Street, Palo Alto, Santa Clara County, California, 94306, United States",
             "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, CAL Fire Northern Region, California, 94043, United States"
         ]
     },
@@ -1781,15 +1776,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                37.38810755,
-                -122.08285486344786
-            ]
-        ],
-        "addresses": [
-            "Mozilla Foundation, Castro Street, Mountain View, Santa Clara County, CAL Fire Northern Region, California, 94039, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 38,
@@ -3314,15 +3302,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                40.722465,
-                -73.9977307
-            ]
-        ],
-        "addresses": [
-            "Amazon, 72, Spring Street, Manhattan Community Board 2, Manhattan, New York County, City of New York, New York, 10013, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 74,
@@ -5338,15 +5319,8 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": [
-            [
-                40.7302914,
-                -73.9586525
-            ]
-        ],
-        "addresses": [
-            "Kickstarter HQ, Kent Street, Brooklyn, Kings County, City of New York, New York, 11222, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 122,
@@ -8454,15 +8428,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                40.7302914,
-                -73.9586525
-            ]
-        ],
-        "addresses": [
-            "Kickstarter HQ, Kent Street, Brooklyn, Kings County, City of New York, New York, 11222, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 194,
@@ -9068,10 +9035,6 @@
                 -122.4046726
             ],
             [
-                40.7302914,
-                -73.9586525
-            ],
-            [
                 40.7007485,
                 -73.9725542
             ]
@@ -9079,7 +9042,6 @@
         "addresses": [
             "Google One Market, 1, Market Street, Financial District, San Francisco, CAL Fire Northern Region, California, 94111, United States",
             "WeWork, 600, California Street, Chinatown, San Francisco, CAL Fire Northern Region, California, 90104, United States",
-            "Kickstarter HQ, Kent Street, Brooklyn, Kings County, City of New York, New York, 11222, United States",
             "WeWork, Market Street, Brooklyn, Kings County, City of New York, New York, 11251, United States"
         ]
     },
@@ -10319,16 +10281,11 @@
             [
                 37.7759881,
                 -122.3919991
-            ],
-            [
-                37.7834546,
-                -122.4080358
             ]
         ],
         "addresses": [
             "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States",
-            "Lyft, 185, Berry Street, South Beach, San Francisco, CAL Fire Northern Region, California, 94107, United States",
-            "Doordash HQ, 901, Market Street, Union Square, San Francisco, CAL Fire Northern Region, California, 94104, United States"
+            "Lyft, 185, Berry Street, South Beach, San Francisco, CAL Fire Northern Region, California, 94107, United States"
         ]
     },
     {
@@ -10999,15 +10956,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                40.61490055,
-                -74.18364545152917
-            ]
-        ],
-        "addresses": [
-            "Amazon JFK8, 546, Gulf Avenue, Bloomfield, Staten Island, City of New York, New York, 10303, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 248,
@@ -11259,15 +11209,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                40.61490055,
-                -74.18364545152917
-            ]
-        ],
-        "addresses": [
-            "Amazon JFK8, 546, Gulf Avenue, Bloomfield, Staten Island, City of New York, New York, 10303, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 253,
@@ -12786,15 +12729,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                40.3600626,
-                -75.98348727074037
-            ]
-        ],
-        "addresses": [
-            "Target, 2769, Papermill Road, Spring Ridge, Wyomissing, Berks County, Pennsylvania, 19610, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 303,
@@ -13397,15 +13333,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                37.7933154,
-                -122.3945205
-            ]
-        ],
-        "addresses": [
-            "Google One Market, 1, Market Street, Financial District, San Francisco, CAL Fire Northern Region, California, 94111, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 320,
@@ -15478,16 +15407,11 @@
             [
                 37.7759881,
                 -122.3919991
-            ],
-            [
-                37.7834546,
-                -122.4080358
             ]
         ],
         "addresses": [
             "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States",
-            "Lyft, 185, Berry Street, South Beach, San Francisco, CAL Fire Northern Region, California, 94107, United States",
-            "Doordash HQ, 901, Market Street, Union Square, San Francisco, CAL Fire Northern Region, California, 94104, United States"
+            "Lyft, 185, Berry Street, South Beach, San Francisco, CAL Fire Northern Region, California, 94107, United States"
         ]
     },
     {
@@ -16255,15 +16179,8 @@
         "author": [
             "hyatt d."
         ],
-        "latlngs": [
-            [
-                33.0639975,
-                -80.04244587737227
-            ]
-        ],
-        "addresses": [
-            "Google Berkeley County Data Center, Berkeley County, South Carolina, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 424,
@@ -19114,15 +19031,8 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": [
-            [
-                40.61490055,
-                -74.18364545152917
-            ]
-        ],
-        "addresses": [
-            "Amazon JFK8, 546, Gulf Avenue, Bloomfield, Staten Island, City of New York, New York, 10303, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 488,
@@ -19862,15 +19772,8 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": [
-            [
-                40.61490055,
-                -74.18364545152917
-            ]
-        ],
-        "addresses": [
-            "Amazon JFK8, 546, Gulf Avenue, Bloomfield, Staten Island, City of New York, New York, 10303, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 509,
@@ -19903,15 +19806,8 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": [
-            [
-                40.61490055,
-                -74.18364545152917
-            ]
-        ],
-        "addresses": [
-            "Amazon JFK8, 546, Gulf Avenue, Bloomfield, Staten Island, City of New York, New York, 10303, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 514,
@@ -20714,15 +20610,8 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": [
-            [
-                40.7411861,
-                -74.0054573
-            ]
-        ],
-        "addresses": [
-            "Apple West 14th Street, 401, West 14th Street, Manhattan Community Board 4, Manhattan, New York County, City of New York, New York, 10011, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 541,
@@ -21044,15 +20933,8 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": [
-            [
-                40.61490055,
-                -74.18364545152917
-            ]
-        ],
-        "addresses": [
-            "Amazon JFK8, 546, Gulf Avenue, Bloomfield, Staten Island, City of New York, New York, 10303, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 550,
