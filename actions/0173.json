@@ -28,13 +28,6 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            41.829757400000005,
-            -87.66420583944563
-        ]
-    ],
-    "addresses": [
-        "Amazon DXH5 Delivery Station, 3523, West 35th Street, Mount Pleasant, McKinley Park, Chicago, Cook County, Illinois, 60609, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

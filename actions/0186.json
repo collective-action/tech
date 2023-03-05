@@ -29,18 +29,6 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            46.320207,
-            -112.1072224
-        ],
-        [
-            39.9427277,
-            -75.1574059
-        ]
-    ],
-    "addresses": [
-        "Amazon, Jefferson County, Montana, United States",
-        "Whole Foods, South Street, Bella Vista, South Philadelphia, Philadelphia, Philadelphia County, Pennsylvania, 19146, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }
