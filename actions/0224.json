@@ -32,13 +32,6 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            41.8884208,
-            -87.6276099
-        ]
-    ],
-    "addresses": [
-        "WeWork, 330, North Wabash Avenue, River North, Near North Side, Chicago, Cook County, Illinois, 60611, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

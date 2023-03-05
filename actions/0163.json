@@ -31,13 +31,6 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            37.4076113,
-            -122.02184599569381
-        ]
-    ],
-    "addresses": [
-        "Google MP4, Bordeaux Drive, Sunnyvale, Santa Clara County, California, 94089, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

@@ -33,18 +33,6 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            41.829757400000005,
-            -87.66420583944563
-        ],
-        [
-            41.90871875,
-            -87.65284006269653
-        ]
-    ],
-    "addresses": [
-        "Amazon DXH5 Delivery Station, 3523, West 35th Street, Mount Pleasant, McKinley Park, Chicago, Cook County, Illinois, 60609, United States",
-        "Whole Foods Market, 1550, North Kingsbury Street, River North, Near North Side, Chicago, Cook County, Illinois, 60642, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

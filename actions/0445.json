@@ -41,18 +41,6 @@
     "author": [
         "wynniechan"
     ],
-    "latlngs": [
-        [
-            51.5148804,
-            -0.0718856
-        ],
-        [
-            52.4746766,
-            -1.91586332385543
-        ]
-    ],
-    "addresses": [
-        "Uber, 2, Leman Street, East Smithfield, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, E1 8FA, United Kingdom",
-        "UBER, 100, Broad Street, Ladywood, Park Central, Birmingham, West Midlands Combined Authority, England, B15 1AE, United Kingdom"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

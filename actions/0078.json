@@ -31,13 +31,6 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            36.0532225,
-            -115.279571
-        ]
-    ],
-    "addresses": [
-        "AT&T, South Durango Drive, Enterprise, Clark County, Nevada, 89113, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

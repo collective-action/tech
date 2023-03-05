@@ -32,13 +32,6 @@
     "author": [
         "william boag"
     ],
-    "latlngs": [
-        [
-            47.6729217,
-            -122.3541709
-        ]
-    ],
-    "addresses": [
-        "Chef Liao, 6012, Phinney Avenue North, Phinney Ridge, Seattle, King County, Washington, 98103, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

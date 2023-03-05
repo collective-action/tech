@@ -37,13 +37,6 @@
     "author": [
         "wynniechan"
     ],
-    "latlngs": [
-        [
-            38.8999418,
-            -77.033996
-        ]
-    ],
-    "addresses": [
-        "Mapbox, 740, 15th Street Northwest, Washington, District of Columbia, 20005, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }
