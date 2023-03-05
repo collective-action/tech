@@ -27,13 +27,6 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            47.3798034,
-            8.5297304
-        ]
-    ],
-    "addresses": [
-        "Google, 100, Lagerstrasse, Langstrasse, Kreis 4, Z\u00fcrich, Bezirk Z\u00fcrich, Z\u00fcrich, 8004, Schweiz/Suisse/Svizzera/Svizra"
-    ]
+    "latlngs": null,
+    "addresses": null
 }

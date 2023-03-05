@@ -3145,16 +3145,11 @@
         ],
         "latlngs": [
             [
-                33.7226531,
-                -117.8299513
-            ],
-            [
                 36.1449268,
                 -115.20639
             ]
         ],
         "addresses": [
-            "AT&T, Aliso, Tustin, Orange County, CAL Fire Southern Region, California, 92780, United States",
             "AT&T, West Sahara Avenue, Las Vegas, Clark County, Nevada, 89102, United States"
         ]
     },
@@ -7785,15 +7780,10 @@
             [
                 37.775325800000005,
                 -122.39765947334743
-            ],
-            [
-                37.7834546,
-                -122.4080358
             ]
         ],
         "addresses": [
-            "UserTesting, 690, 5th Street, South of Market, San Francisco, CAL Fire Northern Region, California, 94017, United States",
-            "Doordash HQ, 901, Market Street, Union Square, San Francisco, CAL Fire Northern Region, California, 94104, United States"
+            "UserTesting, 690, 5th Street, South of Market, San Francisco, CAL Fire Northern Region, California, 94017, United States"
         ]
     },
     {
@@ -9296,15 +9286,8 @@
         "author": [
             "ericandrewlewis"
         ],
-        "latlngs": [
-            [
-                40.61490055,
-                -74.18364545152917
-            ]
-        ],
-        "addresses": [
-            "Amazon JFK8, 546, Gulf Avenue, Bloomfield, Staten Island, City of New York, New York, 10303, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 213,
@@ -12860,15 +12843,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                47.3798034,
-                8.5297304
-            ]
-        ],
-        "addresses": [
-            "Google, 100, Lagerstrasse, Langstrasse, Kreis 4, Z\u00fcrich, Bezirk Z\u00fcrich, Z\u00fcrich, 8004, Schweiz/Suisse/Svizzera/Svizra"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 399,
@@ -14947,15 +14923,8 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": [
-            [
-                33.977092,
-                -118.4092133
-            ]
-        ],
-        "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 371,
@@ -18451,15 +18420,8 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": [
-            [
-                40.6453855,
-                -74.1077517
-            ]
-        ],
-        "addresses": [
-            "Blue, 1115, Richmond Terrace, Staten Island, City of New York, New York, 10310, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 473,
@@ -19869,15 +19831,8 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": [
-            [
-                40.61490055,
-                -74.18364545152917
-            ]
-        ],
-        "addresses": [
-            "Amazon JFK8, 546, Gulf Avenue, Bloomfield, Staten Island, City of New York, New York, 10303, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 509,
