@@ -29,6 +29,13 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.4443293,
+            -122.1598465
+        ]
+    ],
+    "addresses": [
+        "Palo Alto, Santa Clara County, CAL Fire Northern Region, California, United States"
+    ]
 }

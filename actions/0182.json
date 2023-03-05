@@ -34,6 +34,13 @@
     "author": [
         "wynniechan"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            -1.2772989,
+            36.76095918258451
+        ]
+    ],
+    "addresses": [
+        "Facebook, Kawangware, Nairobi, Kenya"
+    ]
 }

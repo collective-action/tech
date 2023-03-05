@@ -36,6 +36,13 @@
     "author": [
         "wynniechan"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            28.5085278,
+            -80.67980174831197
+        ]
+    ],
+    "addresses": [
+        "Blue Origin, Brevard County, Florida, United States"
+    ]
 }

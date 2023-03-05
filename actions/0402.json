@@ -37,6 +37,18 @@
     "author": [
         "CM"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            40.65532605,
+            -73.79478942223645
+        ],
+        [
+            40.8648936,
+            -73.916581098189
+        ]
+    ],
+    "addresses": [
+        "Uber Limo Livery Hold Lot, Cargo Plaza Road, Queens, City of New York, New York, 11430, United States",
+        "Relay Building A, 9th Avenue, Manhattan Community Board 12, Manhattan, New York County, City of New York, New York, 10034, United States"
+    ]
 }
