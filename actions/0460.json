@@ -37,11 +37,21 @@
     ],
     "latlngs": [
         [
-            37.3599424,
-            -79.2151481
+            33.977092,
+            -118.4092133
+        ],
+        [
+            39.4816128,
+            -106.046296
+        ],
+        [
+            45.5183403,
+            -122.6741532
         ]
     ],
     "addresses": [
-        "Adecco, 7335, Timberlake Road, Lynchburg, Virginia, 24502, United States"
+        "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States",
+        "Modis, 113, South Main Street, Breckenridge, Summit County, Colorado, 80424, United States",
+        "Adecco, 121, Southwest Morrison Street, Downtown, Portland, Multnomah County, Oregon, 97204, United States"
     ]
 }
