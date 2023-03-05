@@ -526,15 +526,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                47.5388725,
-                -122.2901728
-            ]
-        ],
-        "addresses": [
-            "Microsoft Gathering Hall, 7054, 32nd Avenue South, NewHolly, Rainier Valley, Seattle, King County, Washington, 98118, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 7,
@@ -742,7 +735,7 @@
         ],
         "addresses": [
             "IBM, Cottle Road, San Jose, Santa Clara County, CAL Fire Northern Region, California, 95123, United States",
-            "HP, Hanover Street, Palo Alto, Santa Clara County, California, 94306, United States",
+            "HP, Page Mill Road, Palo Alto, Santa Clara County, California, 94304, United States",
             "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, CAL Fire Northern Region, California, 94043, United States"
         ]
     },
@@ -857,8 +850,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.3361663,
+                -121.890591
+            ]
+        ],
+        "addresses": [
+            "San Jose, Santa Clara County, CAL Fire Northern Region, California, United States"
+        ]
     },
     {
         "id": 14,
@@ -1209,15 +1209,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                25.0375198,
-                121.5636796
-            ]
-        ],
-        "addresses": [
-            "\u81fa\u5317\u5e02, \u81fa\u7063"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 24,
@@ -1321,15 +1314,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                37.7756962,
-                -122.4180838
-            ]
-        ],
-        "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 27,
@@ -1360,20 +1346,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                50.845334,
-                9.677958815746917
-            ],
-            [
-                51.36227055,
-                12.45231287033246
-            ]
-        ],
-        "addresses": [
-            "Amazon FRA1, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
-            "Amazon Distribution GmbH, Paunsdorf, Ost, Leipzig, Sachsen, Deutschland"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 28,
@@ -1567,35 +1541,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                50.845334,
-                9.677958815746917
-            ],
-            [
-                51.36227055,
-                12.45231287033246
-            ],
-            [
-                48.198871499999996,
-                10.848663796329923
-            ],
-            [
-                51.653494949999995,
-                7.5946713026350565
-            ],
-            [
-                47.6224574,
-                -122.33650433873851
-            ]
-        ],
-        "addresses": [
-            "Amazon FRA1, Bad Hersfeld, Landkreis Hersfeld-Rotenburg, Hessen, 36251, Deutschland",
-            "Amazon Distribution GmbH, Paunsdorf, Ost, Leipzig, Sachsen, Deutschland",
-            "Amazon-Logistikzentrum, Graben, Landkreis Augsburg, Bayern, 86836, Deutschland",
-            "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
-            "Amazon, Belltown, Seattle, King County, Washington, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 33,
@@ -1698,15 +1645,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                51.36227055,
-                12.45231287033246
-            ]
-        ],
-        "addresses": [
-            "Amazon Distribution GmbH, Paunsdorf, Ost, Leipzig, Sachsen, Deutschland"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 36,
@@ -1781,15 +1721,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                37.38810755,
-                -122.08285486344786
-            ]
-        ],
-        "addresses": [
-            "Mozilla Foundation, Castro Street, Mountain View, Santa Clara County, CAL Fire Northern Region, California, 94039, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 38,
@@ -2251,13 +2184,13 @@
                 -121.92947128098103
             ],
             [
-                37.3496794,
-                -121.9009359
+                37.3504112,
+                -121.9016582
             ]
         ],
         "addresses": [
             "Broadcom (280/#2), 280, Innovation Drive, North San Jose, San Jose, Santa Clara County, California, 95134, United States",
-            "Universal Protection Service, 715, North 1st Street, Civic Center, Japantown, San Jose, Santa Clara County, CAL Fire Northern Region, California, 95110, United States"
+            "Universal Protection Service, 777, North 1st Street, Civic Center, Japantown, San Jose, Santa Clara County, CAL Fire Northern Region, California, 95112, United States"
         ]
     },
     {
@@ -2521,15 +2454,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                31.5877145,
-                -106.3916453
-            ]
-        ],
-        "addresses": [
-            "Lexmark, Boulevard Independencia, Municipio de Ju\u00e1rez, Chihuahua, 32696, M\u00e9xico"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 55,
@@ -3145,12 +3071,17 @@
         ],
         "latlngs": [
             [
-                36.1449268,
-                -115.20639
+                33.7226531,
+                -117.8299513
+            ],
+            [
+                36.1678814,
+                -115.0624459
             ]
         ],
         "addresses": [
-            "AT&T, West Sahara Avenue, Las Vegas, Clark County, Nevada, 89102, United States"
+            "AT&T, Aliso, Tustin, Orange County, CAL Fire Southern Region, California, 92780, United States",
+            "AT&T, North Nellis Boulevard, Sunrise Manor, Las Vegas, Clark County, Nevada, 89110, United States"
         ]
     },
     {
@@ -3349,15 +3280,8 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": [
-            [
-                37.4181243,
-                -122.02538023988251
-            ]
-        ],
-        "addresses": [
-            "Yahoo, Sunnyvale, Santa Clara County, California, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 479,
@@ -3431,15 +3355,8 @@
         "author": [
             "hyatt d."
         ],
-        "latlngs": [
-            [
-                18.521428,
-                73.8544541
-            ]
-        ],
-        "addresses": [
-            "Pune City, Pune, Maharashtra, India"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 75,
@@ -3554,15 +3471,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                37.4417249,
-                -122.172515
-            ]
-        ],
-        "addresses": [
-            "Apple Store, 660, Stanford Shopping Center, Stanford, Palo Alto, Santa Clara County, CAL Fire Northern Region, California, 94304, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 78,
@@ -3856,15 +3766,8 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": [
-            [
-                33.977092,
-                -118.4092133
-            ]
-        ],
-        "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 86,
@@ -4082,15 +3985,8 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": [
-            [
-                33.977092,
-                -118.4092133
-            ]
-        ],
-        "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 92,
@@ -4237,12 +4133,12 @@
         ],
         "latlngs": [
             [
-                36.076228900000004,
-                126.69005226346678
+                35.688691950000006,
+                127.90671298130133
             ]
         ],
         "addresses": [
-            "Samsung, \ucda9\uc808\ub85c59\ubc88\uae38, \uc11c\ucc9c\uc74d, \uc11c\ucc9c\uad70, \ucda9\uccad\ub0a8\ub3c4, 33643, \ub300\ud55c\ubbfc\uad6d"
+            "\uc0bc\uc131 (Samsung), 118, \uac70\uc5f4\ub85c, \uc911\uc559\ub9ac, \uac70\ucc3d\uad70, \uacbd\uc0c1\ub0a8\ub3c4, 50131, \ub300\ud55c\ubbfc\uad6d"
         ]
     },
     {
@@ -4314,15 +4210,8 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": [
-            [
-                37.44409255,
-                -122.16285963823725
-            ]
-        ],
-        "addresses": [
-            "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 97,
@@ -4424,15 +4313,8 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": [
-            [
-                52.4746766,
-                -1.91586332385543
-            ]
-        ],
-        "addresses": [
-            "UBER, 100, Broad Street, Ladywood, Park Central, Birmingham, West Midlands Combined Authority, England, B15 1AE, United Kingdom"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 100,
@@ -4586,15 +4468,8 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": [
-            [
-                33.977092,
-                -118.4092133
-            ]
-        ],
-        "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 104,
@@ -4847,15 +4722,8 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": [
-            [
-                37.7756962,
-                -122.4180838
-            ]
-        ],
-        "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 110,
@@ -5004,12 +4872,12 @@
         ],
         "latlngs": [
             [
-                22.3278776,
-                114.1896075
+                31.7706737,
+                120.0786766
             ]
         ],
         "addresses": [
-            "\u9806\u8c50\u901f\u904b SF Express, 414, \u592a\u5b50\u9053\u897f Prince Edward Road West, \u9760\u80cc\u77f3 Kau Pui Shek, \u4e5d\u9f8d\u57ce Kowloon City, \u4e5d\u9f8d\u57ce\u5340 Kowloon City District, \u4e5d\u9f8d Kowloon, \u9999\u6e2f Hong Kong, \u4e2d\u56fd"
+            "\u987a\u4e30\u901f\u8fd0(\u5e38\u5dde\u6a2a\u5c71\u6865\u4e2d\u8f6c\u573a), \u6f5e\u6a2a\u8def, \u5174\u4e1c\u793e\u533a, \u6a2a\u5c71\u6865\u9547, \u5e38\u5dde\u7ecf\u6d4e\u5f00\u53d1\u533a, \u6b66\u8fdb\u533a, \u5e38\u5dde\u5e02, \u6c5f\u82cf\u7701, 213100, \u4e2d\u56fd"
         ]
     },
     {
@@ -5294,15 +5162,8 @@
         "author": [
             "moates"
         ],
-        "latlngs": [
-            [
-                20.9670759,
-                -89.6237402
-            ]
-        ],
-        "addresses": [
-            "M\u00e9rida, Yucat\u00e1n, M\u00e9xico"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 121,
@@ -5941,15 +5802,8 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": [
-            [
-                33.977092,
-                -118.4092133
-            ]
-        ],
-        "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 136,
@@ -6504,12 +6358,12 @@
         ],
         "latlngs": [
             [
-                37.406604400000006,
-                -122.02542251810328
+                37.406317,
+                -122.02122171852054
             ]
         ],
         "addresses": [
-            "Google MP5, Innovation Way, Sunnyvale, Santa Clara County, California, 94089, United States"
+            "Google MP7, Borregas Avenue, Sunnyvale, Santa Clara County, CAL Fire Northern Region, California, 94089, United States"
         ]
     },
     {
@@ -6753,12 +6607,12 @@
         ],
         "latlngs": [
             [
-                40.67341775,
-                -74.01472461104052
+                40.673399599999996,
+                -74.00731880832103
             ]
         ],
         "addresses": [
-            "Amazon Delivery, 270, Richards Street, Red Hook, Brooklyn, Kings County, City of New York, New York, 11231, United States"
+            "Amazon, 55, Bay Street, Red Hook, Brooklyn, Kings County, City of New York, New York, 11231, United States"
         ]
     },
     {
@@ -6794,20 +6648,8 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": [
-            [
-                46.320207,
-                -112.1072224
-            ],
-            [
-                37.44409255,
-                -122.16285963823725
-            ]
-        ],
-        "addresses": [
-            "Amazon, Jefferson County, Montana, United States",
-            "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 156,
@@ -7293,10 +7135,15 @@
             [
                 -1.2772989,
                 36.76095918258451
+            ],
+            [
+                -1.2887683,
+                36.750045
             ]
         ],
         "addresses": [
-            "Facebook, Kawangware, Nairobi, Kenya"
+            "Facebook, Kawangware, Nairobi, Kenya",
+            "The Sama Chemist, Coast Road, Kawangware, Nairobi, 00505, Kenya"
         ]
     },
     {
@@ -7439,20 +7286,8 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": [
-            [
-                46.320207,
-                -112.1072224
-            ],
-            [
-                39.9427277,
-                -75.1574059
-            ]
-        ],
-        "addresses": [
-            "Amazon, Jefferson County, Montana, United States",
-            "Whole Foods, South Street, Bella Vista, South Philadelphia, Philadelphia, Philadelphia County, Pennsylvania, 19146, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 170,
@@ -7559,25 +7394,8 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": [
-            [
-                37.7834546,
-                -122.4080358
-            ],
-            [
-                65.4102317,
-                -163.0526448
-            ],
-            [
-                22.3131517,
-                114.0440677
-            ]
-        ],
-        "addresses": [
-            "Doordash HQ, 901, Market Street, Union Square, San Francisco, CAL Fire Northern Region, California, 94104, United States",
-            "Caviar Creek, Nome, Alaska, United States",
-            "\u7f8e\u570b\u5c0f\u93ae\u5927\u8857 Main Street, USA, Town Square, \u7af9\u7bd9\u7063 Penny's Bay, \u8343\u7063\u5340 Tsuen Wan District, \u65b0\u754c New Territories, \u9999\u6e2f Hong Kong, \u4e2d\u56fd"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 173,
@@ -8130,12 +7948,12 @@
         ],
         "latlngs": [
             [
-                47.5993997,
-                -122.303085
+                47.7193863,
+                -122.3557875
             ]
         ],
         "addresses": [
-            "Chef Caf\u00e9 Restaurant, 2200, South Jackson Street, Little Saigon, Central District, Seattle, King County, Washington, 98122, United States"
+            "Chef at Wok, 12427, Greenwood Avenue North, Broadview, Seattle, King County, Washington, 98133, United States"
         ]
     },
     {
@@ -8492,15 +8310,8 @@
         "author": [
             "moates"
         ],
-        "latlngs": [
-            [
-                40.444189699999995,
-                -79.94271918393466
-            ]
-        ],
-        "addresses": [
-            "Carnegie Mellon University, Frew Street, Squirrel Hill North, Pittsburgh, Allegheny County, Pennsylvania, 15213, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 195,
@@ -8574,20 +8385,8 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": [
-            [
-                37.7821769,
-                -122.3912458
-            ],
-            [
-                37.3974949,
-                -122.0842646
-            ]
-        ],
-        "addresses": [
-            "GitHub, 88, Colin P. Kelly Junior Street, Port of San Francisco, San Francisco, CAL Fire Northern Region, California, 94107, United States",
-            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, CAL Fire Northern Region, California, 94043, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 197,
@@ -8732,15 +8531,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                30.2691649,
-                -97.7455041
-            ]
-        ],
-        "addresses": [
-            "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 201,
@@ -8777,12 +8569,12 @@
         ],
         "latlngs": [
             [
-                47.6476152,
-                -122.3383842
+                47.6486714,
+                -122.3451112
             ]
         ],
         "addresses": [
-            "Tableau Software - NorthEdge, 1621, North 34th Street, Fremont, Seattle, King County, Washington, 98103, United States"
+            "Tableau Software Millworks Building, 1000, North Northlake Way, Fremont, Seattle, King County, Washington, 98103, United States"
         ]
     },
     {
@@ -8926,20 +8718,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                37.7756962,
-                -122.4180838
-            ],
-            [
-                37.7759881,
-                -122.3919991
-            ]
-        ],
-        "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States",
-            "Lyft, 185, Berry Street, South Beach, San Francisco, CAL Fire Northern Region, California, 94107, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 206,
@@ -9010,12 +8790,12 @@
         ],
         "latlngs": [
             [
-                42.3506659,
-                -71.0704668
+                41.8884208,
+                -87.6276099
             ]
         ],
         "addresses": [
-            "WeWork, 31, Saint James Avenue, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States"
+            "WeWork, 330, North Wabash Avenue, River North, Near North Side, Chicago, Cook County, Illinois, 60611, United States"
         ]
     },
     {
@@ -9053,30 +8833,8 @@
         "author": [
             "clarissa"
         ],
-        "latlngs": [
-            [
-                37.7933154,
-                -122.3945205
-            ],
-            [
-                37.7928254,
-                -122.4046726
-            ],
-            [
-                40.7302914,
-                -73.9586525
-            ],
-            [
-                40.7007485,
-                -73.9725542
-            ]
-        ],
-        "addresses": [
-            "Google One Market, 1, Market Street, Financial District, San Francisco, CAL Fire Northern Region, California, 94111, United States",
-            "WeWork, 600, California Street, Chinatown, San Francisco, CAL Fire Northern Region, California, 90104, United States",
-            "Kickstarter HQ, Kent Street, Brooklyn, Kings County, City of New York, New York, 11222, United States",
-            "WeWork, Market Street, Brooklyn, Kings County, City of New York, New York, 11251, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 208,
@@ -9402,25 +9160,8 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": [
-            [
-                53.5440843,
-                -1.040071706102423
-            ],
-            [
-                52.75329925,
-                -1.9215828894833442
-            ],
-            [
-                52.54251775,
-                -0.2417798541672243
-            ]
-        ],
-        "addresses": [
-            "Amazon, Armthorpe, Doncaster, South Yorkshire Mayoral Combined Authority, England, United Kingdom",
-            "Amazon.co.uk, Towers Business Park, Brereton and Ravenhill, Brereton, Cannock Chase, Staffordshire, England, WS15 1LX, United Kingdom",
-            "Amazon, Unit 2, Flaxley Road, Kingston Park, Old Fletton, Peterborough, City of Peterborough, Cambridgeshire and Peterborough, England, PE2 9EN, United Kingdom"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 215,
@@ -9740,15 +9481,8 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": [
-            [
-                38.38635825,
-                -121.36541634594701
-            ]
-        ],
-        "addresses": [
-            "Amazon, 9051, Union Park Way, Elk Grove, Sacramento County, CAL Fire Northern Region, California, 94624, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 223,
@@ -10121,15 +9855,8 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": [
-            [
-                32.6099702,
-                -110.7651843
-            ]
-        ],
-        "addresses": [
-            "Oracle, Pinal County, Arizona, 82623, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 232,
@@ -10162,15 +9889,8 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": [
-            [
-                40.7302914,
-                -73.9586525
-            ]
-        ],
-        "addresses": [
-            "Kickstarter HQ, Kent Street, Brooklyn, Kings County, City of New York, New York, 11222, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 233,
@@ -10252,12 +9972,12 @@
         ],
         "latlngs": [
             [
-                40.67341775,
-                -74.01472461104052
+                40.673399599999996,
+                -74.00731880832103
             ],
             [
-                42.01744345,
-                -87.71965899910367
+                42.0181391,
+                -87.76355375148333
             ],
             [
                 38.38635825,
@@ -10265,8 +9985,8 @@
             ]
         ],
         "addresses": [
-            "Amazon Delivery, 270, Richards Street, Red Hook, Brooklyn, Kings County, City of New York, New York, 11231, United States",
-            "Amazon Fulfillment Center DIL7, 3639, West Howard Street, Skokie, Niles Township, Cook County, Illinois, 60076, United States",
+            "Amazon, 55, Bay Street, Red Hook, Brooklyn, Kings County, City of New York, New York, 11231, United States",
+            "SIL2 - Amazon SSD, 7555, Linder Avenue, Skokie, Niles Township, Cook County, Illinois, 60077, United States",
             "Amazon, 9051, Union Park Way, Elk Grove, Sacramento County, CAL Fire Northern Region, California, 94624, United States"
         ]
     },
@@ -10559,12 +10279,12 @@
         ],
         "latlngs": [
             [
-                40.67341775,
-                -74.01472461104052
+                40.673399599999996,
+                -74.00731880832103
             ]
         ],
         "addresses": [
-            "Amazon Delivery, 270, Richards Street, Red Hook, Brooklyn, Kings County, City of New York, New York, 11231, United States"
+            "Amazon, 55, Bay Street, Red Hook, Brooklyn, Kings County, City of New York, New York, 11231, United States"
         ]
     },
     {
@@ -10863,19 +10583,19 @@
                 -122.4180838
             ],
             [
-                32.771334,
-                -117.06736
+                32.7717259,
+                -117.0725274
             ],
             [
-                32.771334,
-                -117.06736
+                32.7717259,
+                -117.0725274
             ]
         ],
         "addresses": [
             "Lyft, 185, Berry Street, South Beach, San Francisco, CAL Fire Northern Region, California, 94107, United States",
             "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States",
-            "Uber / Lyft Driver Drop Off, East Campus Drive, Montezuma Mesa, Mid-City, San Diego, CAL Fire San Diego Unit, CAL Fire Southern Region, California, 92182, United States",
-            "Uber / Lyft Driver Drop Off, East Campus Drive, Montezuma Mesa, Mid-City, San Diego, CAL Fire San Diego Unit, CAL Fire Southern Region, California, 92182, United States"
+            "UBER / Lyft Driver Drop Off, Lindo Paseo, Montezuma Mesa, Mid-City, San Diego, CAL Fire San Diego Unit, CAL Fire Southern Region, California, 92182, United States",
+            "UBER / Lyft Driver Drop Off, Lindo Paseo, Montezuma Mesa, Mid-City, San Diego, CAL Fire San Diego Unit, CAL Fire Southern Region, California, 92182, United States"
         ]
     },
     {
@@ -11170,13 +10890,13 @@
                 -87.66420583944563
             ],
             [
-                41.8682107,
-                -87.6387819
+                41.8964677,
+                -87.6285605
             ]
         ],
         "addresses": [
             "Amazon DXH5 Delivery Station, 3523, West 35th Street, Mount Pleasant, McKinley Park, Chicago, Cook County, Illinois, 60609, United States",
-            "Whole Foods Market, 1101, South Canal Street, Near West Side, Chicago, Cook County, Illinois, 60607, United States"
+            "Whole Foods Market, 3, West Chicago Avenue, Magnificent Mile, Near North Side, Chicago, Cook County, Illinois, 60654, United States"
         ]
     },
     {
@@ -11254,15 +10974,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                40.61490055,
-                -74.18364545152917
-            ]
-        ],
-        "addresses": [
-            "Amazon JFK8, 546, Gulf Avenue, Bloomfield, Staten Island, City of New York, New York, 10303, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 253,
@@ -11300,12 +11013,12 @@
         ],
         "latlngs": [
             [
-                40.67341775,
-                -74.01472461104052
+                40.673399599999996,
+                -74.00731880832103
             ]
         ],
         "addresses": [
-            "Amazon Delivery, 270, Richards Street, Red Hook, Brooklyn, Kings County, City of New York, New York, 11231, United States"
+            "Amazon, 55, Bay Street, Red Hook, Brooklyn, Kings County, City of New York, New York, 11231, United States"
         ]
     },
     {
@@ -11624,15 +11337,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                22.652412400000003,
-                114.0557430244003
-            ]
-        ],
-        "addresses": [
-            "\u534e\u4e3a\u6280\u672f\u6709\u9650\u516c\u53f8, \u5742\u7530\u8857\u9053, \u9f99\u5c97\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518100, \u4e2d\u56fd"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 259,
@@ -11801,8 +11507,8 @@
         ],
         "latlngs": [
             [
-                40.67341775,
-                -74.01472461104052
+                40.673399599999996,
+                -74.00731880832103
             ],
             [
                 44.902201500000004,
@@ -11810,7 +11516,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Delivery, 270, Richards Street, Red Hook, Brooklyn, Kings County, City of New York, New York, 11231, United States",
+            "Amazon, 55, Bay Street, Red Hook, Brooklyn, Kings County, City of New York, New York, 11231, United States",
             "Amazon PDX7, 4775, Depot Court, Salem, Marion County, Oregon, 97317, United States"
         ]
     },
@@ -11931,15 +11637,8 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": [
-            [
-                37.7756962,
-                -122.4180838
-            ]
-        ],
-        "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 271,
@@ -12410,7 +12109,7 @@
             ]
         ],
         "addresses": [
-            "Massachusetts Institute of Technology, Green Street, Central Square, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02139, United States"
+            "Massachusetts Institute of Technology, Technology Square, East Cambridge, Cambridge, Middlesex County, Massachusetts, 02238, United States"
         ]
     },
     {
@@ -13177,12 +12876,12 @@
         ],
         "latlngs": [
             [
-                40.67341775,
-                -74.01472461104052
+                40.673399599999996,
+                -74.00731880832103
             ]
         ],
         "addresses": [
-            "Amazon Delivery, 270, Richards Street, Red Hook, Brooklyn, Kings County, City of New York, New York, 11231, United States"
+            "Amazon, 55, Bay Street, Red Hook, Brooklyn, Kings County, City of New York, New York, 11231, United States"
         ]
     },
     {
@@ -13777,15 +13476,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                37.7933154,
-                -122.3945205
-            ]
-        ],
-        "addresses": [
-            "Google One Market, 1, Market Street, Financial District, San Francisco, CAL Fire Northern Region, California, 94111, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 330,
@@ -13846,7 +13538,7 @@
             ]
         ],
         "addresses": [
-            "Google, 6, Pancras Road, King's Cross, London Borough of Camden, London, Greater London, England, N1C 4BJ, United Kingdom",
+            "Google, 6, Coach road, Somers Town, London Borough of Camden, London, Greater London, England, N1C 4BJ, United Kingdom",
             "Amazon, Armthorpe, Doncaster, South Yorkshire Mayoral Combined Authority, England, United Kingdom",
             "Microsoft London, 2, Kingdom Street, Paddington Central, Paddington, London, Greater London, England, W2 6PY, United Kingdom",
             "Samsung, 40, Canada Square, Canary Wharf, Poplar, London Borough of Tower Hamlets, London, Greater London, England, E14 5FW, United Kingdom",
@@ -14240,15 +13932,8 @@
         "author": [
             "hyatt d."
         ],
-        "latlngs": [
-            [
-                46.320207,
-                -112.1072224
-            ]
-        ],
-        "addresses": [
-            "Amazon, Jefferson County, Montana, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 350,
@@ -14408,15 +14093,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                37.7756962,
-                -122.4180838
-            ]
-        ],
-        "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 355,
@@ -14568,12 +14246,12 @@
         "author": null,
         "latlngs": [
             [
-                37.7995723,
-                -122.439534
+                37.7271031,
+                -122.477099
             ]
         ],
         "addresses": [
-            "Verizon, Lombard Street, Cow Hollow, San Francisco, CAL Fire Northern Region, California, 94123, United States"
+            "Verizon, Winston Drive, San Francisco, CAL Fire Northern Region, California, 94132, United States"
         ]
     },
     {
@@ -14612,25 +14290,8 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": [
-            [
-                41.288821600000006,
-                -105.5780767440614
-            ],
-            [
-                30.2691649,
-                -97.7455041
-            ],
-            [
-                30.2658505,
-                -97.7434222
-            ]
-        ],
-        "addresses": [
-            "CPL, Laramie, Albany County, Wyoming, United States",
-            "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States",
-            "Accenture, 323, Congress Avenue, Downtown, Austin, Travis County, Texas, 78701, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 362,
@@ -15291,14 +14952,14 @@
                 -118.4092133
             ],
             [
-                37.62814305,
-                -122.42521678541321
+                37.628145950000004,
+                -122.4264270211096
             ]
         ],
         "addresses": [
             "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112, United States",
             "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States",
-            "YouTube, 900, Cherry Avenue, YouTube, San Bruno, San Mateo County, CAL Fire Northern Region, California, 94066, United States"
+            "YouTube, 901, Cherry Avenue, YouTube, San Bruno, San Mateo County, CAL Fire Northern Region, California, 94066, United States"
         ]
     },
     {
@@ -15759,15 +15420,8 @@
         "author": [
             "hyatt d."
         ],
-        "latlngs": [
-            [
-                40.7417176,
-                -74.0041592
-            ]
-        ],
-        "addresses": [
-            "Google, 111, 8th Avenue, Chelsea District, Manhattan, New York County, City of New York, New York, 10011, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 396,
@@ -15800,8 +15454,8 @@
         "author": null,
         "latlngs": [
             [
-                35.6006784,
-                -82.3119169
+                35.599386,
+                -82.31032
             ]
         ],
         "addresses": [
@@ -15954,8 +15608,8 @@
         ],
         "latlngs": [
             [
-                47.6609713,
-                -122.2893898
+                47.6609882,
+                -122.2895547
             ]
         ],
         "addresses": [
@@ -15998,12 +15652,12 @@
         ],
         "latlngs": [
             [
-                37.62814305,
-                -122.42521678541321
+                37.628145950000004,
+                -122.4264270211096
             ]
         ],
         "addresses": [
-            "YouTube, 900, Cherry Avenue, YouTube, San Bruno, San Mateo County, CAL Fire Northern Region, California, 94066, United States"
+            "YouTube, 901, Cherry Avenue, YouTube, San Bruno, San Mateo County, CAL Fire Northern Region, California, 94066, United States"
         ]
     },
     {
@@ -16701,13 +16355,13 @@
                 -73.79478942223645
             ],
             [
-                40.8648936,
-                -73.916581098189
+                40.86837785,
+                -73.91409719873715
             ]
         ],
         "addresses": [
             "Uber Limo Livery Hold Lot, Cargo Plaza Road, Queens, City of New York, New York, 11430, United States",
-            "Relay Building A, 9th Avenue, Manhattan Community Board 12, Manhattan, New York County, City of New York, New York, 10034, United States"
+            "Relay Building B, West 215th Street, Manhattan Community Board 12, Manhattan, New York County, City of New York, New York, 10034, United States"
         ]
     },
     {
@@ -18446,8 +18100,15 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                40.6453855,
+                -74.1077517
+            ]
+        ],
+        "addresses": [
+            "Blue, 1115, Richmond Terrace, Staten Island, City of New York, New York, 10310, United States"
+        ]
     },
     {
         "id": 473,
@@ -19194,22 +18855,12 @@
         ],
         "latlngs": [
             [
-                33.977092,
-                -118.4092133
-            ],
-            [
-                39.4816128,
-                -106.046296
-            ],
-            [
-                45.5183403,
-                -122.6741532
+                37.3599424,
+                -79.2151481
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States",
-            "Modis, 113, South Main Street, Breckenridge, Summit County, Colorado, 80424, United States",
-            "Adecco, 121, Southwest Morrison Street, Downtown, Portland, Multnomah County, Oregon, 97204, United States"
+            "Adecco, 7335, Timberlake Road, Lynchburg, Virginia, 24502, United States"
         ]
     },
     {
@@ -19696,15 +19347,8 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": [
-            [
-                47.6135193,
-                -122.31592054999999
-            ]
-        ],
-        "addresses": [
-            "Citizen, 1222, East Madison Street, First Hill, Seattle, King County, Washington, 98122, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 507,
@@ -19745,8 +19389,8 @@
         ],
         "latlngs": [
             [
-                40.67341775,
-                -74.01472461104052
+                40.673399599999996,
+                -74.00731880832103
             ],
             [
                 38.9623245,
@@ -19754,7 +19398,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Delivery, 270, Richards Street, Red Hook, Brooklyn, Kings County, City of New York, New York, 11231, United States",
+            "Amazon, 55, Bay Street, Red Hook, Brooklyn, Kings County, City of New York, New York, 11231, United States",
             "Amazon Fresh, 5463, Wisconsin Avenue, Brookdale, Friendship Heights, Chevy Chase Village, Montgomery County, Maryland, 20815, United States"
         ]
     },
@@ -19898,15 +19542,8 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": [
-            [
-                40.61490055,
-                -74.18364545152917
-            ]
-        ],
-        "addresses": [
-            "Amazon JFK8, 546, Gulf Avenue, Bloomfield, Staten Island, City of New York, New York, 10303, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 514,
@@ -19987,15 +19624,8 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": [
-            [
-                46.320207,
-                -112.1072224
-            ]
-        ],
-        "addresses": [
-            "Amazon, Jefferson County, Montana, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 508,
@@ -20368,15 +19998,8 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": [
-            [
-                40.67341775,
-                -74.01472461104052
-            ]
-        ],
-        "addresses": [
-            "Amazon Delivery, 270, Richards Street, Red Hook, Brooklyn, Kings County, City of New York, New York, 11231, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 527,
@@ -20537,15 +20160,8 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": [
-            [
-                45.55394075,
-                -122.66734744298007
-            ]
-        ],
-        "addresses": [
-            "Peloton, Boise, Portland, Multnomah County, Oregon, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 532,
@@ -20579,12 +20195,12 @@
         ],
         "latlngs": [
             [
-                40.67341775,
-                -74.01472461104052
+                40.673399599999996,
+                -74.00731880832103
             ]
         ],
         "addresses": [
-            "Amazon Delivery, 270, Richards Street, Red Hook, Brooklyn, Kings County, City of New York, New York, 11231, United States"
+            "Amazon, 55, Bay Street, Red Hook, Brooklyn, Kings County, City of New York, New York, 11231, United States"
         ]
     },
     {
@@ -20618,15 +20234,8 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": [
-            [
-                37.3326452,
-                -122.0299129658936
-            ]
-        ],
-        "addresses": [
-            "Apple Campus, Cupertino, Santa Clara County, California, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 540,
@@ -20711,12 +20320,12 @@
         ],
         "latlngs": [
             [
-                40.763841400000004,
-                -73.97297181082921
+                40.7117244,
+                -74.011569
             ]
         ],
         "addresses": [
-            "Apple Fifth Avenue, 767, 5th Avenue, Manhattan Community Board 5, Manhattan, New York County, City of New York, New York, 10153, United States"
+            "Apple World Trade Center, 185, Greenwich Street, Manhattan Community Board 1, Manhattan, New York County, City of New York, New York, 10007, United States"
         ]
     },
     {
@@ -21080,15 +20689,8 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": [
-            [
-                40.65221335,
-                -74.13982828961909
-            ]
-        ],
-        "addresses": [
-            "Amazon Distribution Center, Bayview Court, Bergen Point, Bayonne, Hudson County, New Jersey, 07002, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 551,
