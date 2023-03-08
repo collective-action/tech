@@ -32,6 +32,13 @@
     "author": [
         "hyatt d."
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.62814305,
+            -122.42521678541321
+        ]
+    ],
+    "addresses": [
+        "YouTube, 900, Cherry Avenue, YouTube, San Bruno, San Mateo County, CAL Fire Northern Region, California, 94066, United States"
+    ]
 }

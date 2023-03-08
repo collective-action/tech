@@ -31,6 +31,13 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            40.67341775,
+            -74.01472461104052
+        ]
+    ],
+    "addresses": [
+        "Amazon Delivery, 270, Richards Street, Red Hook, Brooklyn, Kings County, City of New York, New York, 11231, United States"
+    ]
 }
