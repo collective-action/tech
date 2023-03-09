@@ -7480,8 +7480,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                39.7837304,
+                -100.445882
+            ]
+        ],
+        "addresses": [
+            "United States"
+        ]
     },
     {
         "id": 171,
@@ -9143,8 +9150,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.7933154,
+                -122.3945205
+            ]
+        ],
+        "addresses": [
+            "Google One Market, 1, Market Street, Financial District, San Francisco, CAL Fire Northern Region, California, 94111, United States"
+        ]
     },
     {
         "id": 420,
@@ -16189,8 +16203,15 @@
         "author": [
             "hyatt d."
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                41.829757400000005,
+                -87.66420583944563
+            ]
+        ],
+        "addresses": [
+            "Amazon DXH5 Delivery Station, 3523, West 35th Street, Mount Pleasant, McKinley Park, Chicago, Cook County, Illinois, 60609, United States"
+        ]
     },
     {
         "id": 413,
@@ -16393,8 +16414,15 @@
         "author": [
             "hyatt d."
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                46.320207,
+                -112.1072224
+            ]
+        ],
+        "addresses": [
+            "Amazon, Jefferson County, Montana, United States"
+        ]
     },
     {
         "id": 415,
@@ -18254,8 +18282,15 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.3326452,
+                -122.0299129658936
+            ]
+        ],
+        "addresses": [
+            "Apple Campus, Cupertino, Santa Clara County, California, United States"
+        ]
     },
     {
         "id": 468,
