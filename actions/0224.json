@@ -32,6 +32,13 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            42.3506659,
+            -71.0704668
+        ]
+    ],
+    "addresses": [
+        "WeWork, 31, Saint James Avenue, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States"
+    ]
 }

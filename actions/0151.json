@@ -30,6 +30,18 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            30.2691649,
+            -97.7455041
+        ],
+        [
+            30.2658505,
+            -97.7434222
+        ]
+    ],
+    "addresses": [
+        "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States",
+        "Accenture, 323, Congress Avenue, Downtown, Austin, Travis County, Texas, 78701, United States"
+    ]
 }

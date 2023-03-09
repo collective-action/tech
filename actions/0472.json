@@ -35,6 +35,18 @@
     "author": [
         "wynniechan"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            40.67341775,
+            -74.01472461104052
+        ],
+        [
+            38.9623245,
+            -77.0844314
+        ]
+    ],
+    "addresses": [
+        "Amazon Delivery, 270, Richards Street, Red Hook, Brooklyn, Kings County, City of New York, New York, 11231, United States",
+        "Amazon Fresh, 5463, Wisconsin Avenue, Brookdale, Friendship Heights, Chevy Chase Village, Montgomery County, Maryland, 20815, United States"
+    ]
 }
