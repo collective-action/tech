@@ -3145,16 +3145,11 @@
         ],
         "latlngs": [
             [
-                33.7226531,
-                -117.8299513
-            ],
-            [
                 36.1449268,
                 -115.20639
             ]
         ],
         "addresses": [
-            "AT&T, Aliso, Tustin, Orange County, CAL Fire Southern Region, California, 92780, United States",
             "AT&T, West Sahara Avenue, Las Vegas, Clark County, Nevada, 89102, United States"
         ]
     },
@@ -9296,15 +9291,8 @@
         "author": [
             "ericandrewlewis"
         ],
-        "latlngs": [
-            [
-                40.61490055,
-                -74.18364545152917
-            ]
-        ],
-        "addresses": [
-            "Amazon JFK8, 546, Gulf Avenue, Bloomfield, Staten Island, City of New York, New York, 10303, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 213,
