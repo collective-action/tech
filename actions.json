@@ -41,7 +41,7 @@
             ]
         ],
         "addresses": [
-            "City of New York, New York, United States1"
+            "City of New York, New York, United States"
         ]
     },
     {
@@ -83,7 +83,7 @@
             ]
         ],
         "addresses": [
-            "IBM, Rochester, Olmsted County, Minnesota, 55901, United States1"
+            "IBM, Rochester, Olmsted County, Minnesota, 55901, United States"
         ]
     },
     {
@@ -156,7 +156,7 @@
             ]
         ],
         "addresses": [
-            "City of New York, New York, United States1"
+            "City of New York, New York, United States"
         ]
     },
     {
@@ -262,7 +262,7 @@
             ]
         ],
         "addresses": [
-            "AT&T, 10025, Northeast Cascades Parkway, Portland, Multnomah County, Oregon, 97220, United States1"
+            "AT&T, 10025, Northeast Cascades Parkway, Portland, Multnomah County, Oregon, 97220, United States"
         ]
     },
     {
@@ -298,7 +298,7 @@
             ]
         ],
         "addresses": [
-            "United States1"
+            "United States"
         ]
     },
     {
@@ -409,7 +409,7 @@
             ]
         ],
         "addresses": [
-            "Intel Corporation, Folsom, Sacramento County, CAL Fire Northern Region, California, United States1"
+            "Intel Corporation, Folsom, Sacramento County, CAL Fire Northern Region, California, United States"
         ]
     },
     {
@@ -448,7 +448,7 @@
             ]
         ],
         "addresses": [
-            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, CAL Fire Northern Region, California, 94043, United States1"
+            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, CAL Fire Northern Region, California, 94043, United States"
         ]
     },
     {
@@ -491,7 +491,7 @@
             ]
         ],
         "addresses": [
-            "IBM, Rochester, Olmsted County, Minnesota, 55901, United States1"
+            "IBM, Rochester, Olmsted County, Minnesota, 55901, United States"
         ]
     },
     {
@@ -533,7 +533,7 @@
             ]
         ],
         "addresses": [
-            "Microsoft Gathering Hall, 7054, 32nd Avenue South, NewHolly, Rainier Valley, Seattle, King County, Washington, 98118, United States1"
+            "Microsoft Gathering Hall, 7054, 32nd Avenue South, NewHolly, Rainier Valley, Seattle, King County, Washington, 98118, United States"
         ]
     },
     {
@@ -612,7 +612,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Belltown, Seattle, King County, Washington, United States1"
+            "Amazon, Belltown, Seattle, King County, Washington, United States"
         ]
     },
     {
@@ -651,7 +651,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Jefferson County, Montana, United States1"
+            "Amazon, Jefferson County, Montana, United States"
         ]
     },
     {
@@ -741,9 +741,9 @@
             ]
         ],
         "addresses": [
-            "IBM, Cottle Road, San Jose, Santa Clara County, CAL Fire Northern Region, California, 95123, United States1",
-            "HP, Hanover Street, Palo Alto, Santa Clara County, California, 94306, United States1",
-            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, CAL Fire Northern Region, California, 94043, United States1"
+            "IBM, Cottle Road, San Jose, Santa Clara County, CAL Fire Northern Region, California, 95123, United States",
+            "HP, Hanover Street, Palo Alto, Santa Clara County, California, 94306, United States",
+            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, CAL Fire Northern Region, California, 94043, United States"
         ]
     },
     {
@@ -785,7 +785,7 @@
             ]
         ],
         "addresses": [
-            "IBM, Rochester, Olmsted County, Minnesota, 55901, United States1"
+            "IBM, Rochester, Olmsted County, Minnesota, 55901, United States"
         ]
     },
     {
@@ -826,7 +826,7 @@
             ]
         ],
         "addresses": [
-            "Microsoft Gathering Hall, 7054, 32nd Avenue South, NewHolly, Rainier Valley, Seattle, King County, Washington, 98118, United States1"
+            "Microsoft Gathering Hall, 7054, 32nd Avenue South, NewHolly, Rainier Valley, Seattle, King County, Washington, 98118, United States"
         ]
     },
     {
@@ -895,7 +895,7 @@
             ]
         ],
         "addresses": [
-            "Washington, District of Columbia, United States1"
+            "Washington, District of Columbia, United States"
         ]
     },
     {
@@ -1107,8 +1107,8 @@
             ]
         ],
         "addresses": [
-            "Davis-Besse Nuclear Power Station, Carroll Township, Ottawa County, Ohio, United States1",
-            "Internet Archive, 300, Funston Avenue, Richmond District, San Francisco, CAL Fire Northern Region, California, 94118, United States1"
+            "Davis-Besse Nuclear Power Station, Carroll Township, Ottawa County, Ohio, United States",
+            "Internet Archive, 300, Funston Avenue, Richmond District, San Francisco, CAL Fire Northern Region, California, 94118, United States"
         ]
     },
     {
@@ -1328,7 +1328,7 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States1"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States"
         ]
     },
     {
@@ -1594,7 +1594,7 @@
             "Amazon Distribution GmbH, Paunsdorf, Ost, Leipzig, Sachsen, Deutschland",
             "Amazon-Logistikzentrum, Graben, Landkreis Augsburg, Bayern, 86836, Deutschland",
             "Amazon, Lenklar, Werne, Kreis Unna, Nordrhein-Westfalen, 59368, Deutschland",
-            "Amazon, Belltown, Seattle, King County, Washington, United States1"
+            "Amazon, Belltown, Seattle, King County, Washington, United States"
         ]
     },
     {
@@ -1788,7 +1788,7 @@
             ]
         ],
         "addresses": [
-            "Mozilla Foundation, Castro Street, Mountain View, Santa Clara County, CAL Fire Northern Region, California, 94039, United States1"
+            "Mozilla Foundation, Castro Street, Mountain View, Santa Clara County, CAL Fire Northern Region, California, 94039, United States"
         ]
     },
     {
@@ -1843,10 +1843,10 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States1",
-            "Apple Campus, Cupertino, Santa Clara County, California, United States1",
-            "Intel, 12220, Scripps Summit Drive, San Diego, San Diego County, CAL Fire Southern Region, California, 92131, United States1",
-            "Adobe, Little Italy, San Jose, Santa Clara County, California, United States1"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States",
+            "Apple Campus, Cupertino, Santa Clara County, California, United States",
+            "Intel, 12220, Scripps Summit Drive, San Diego, San Diego County, CAL Fire Southern Region, California, 92131, United States",
+            "Adobe, Little Italy, San Jose, Santa Clara County, California, United States"
         ]
     },
     {
@@ -1929,8 +1929,8 @@
             ]
         ],
         "addresses": [
-            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, CAL Fire Northern Region, California, 94043, United States1",
-            "Lionbridge, 3525, Factoria Boulevard Southeast, Factoria, Bellevue, King County, Washington, 98006, United States1"
+            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, CAL Fire Northern Region, California, 94043, United States",
+            "Lionbridge, 3525, Factoria Boulevard Southeast, Factoria, Bellevue, King County, Washington, 98006, United States"
         ]
     },
     {
@@ -1971,7 +1971,7 @@
             ]
         ],
         "addresses": [
-            "Apple Campus, Cupertino, Santa Clara County, California, United States1"
+            "Apple Campus, Cupertino, Santa Clara County, California, United States"
         ]
     },
     {
@@ -2054,7 +2054,7 @@
             ]
         ],
         "addresses": [
-            "Facebook Building 21 Rooftop Park, Meta West Campus, Belle Haven, Menlo Park, San Mateo County, CAL Fire Northern Region, California, United States1"
+            "Facebook Building 21 Rooftop Park, Meta West Campus, Belle Haven, Menlo Park, San Mateo County, CAL Fire Northern Region, California, United States"
         ]
     },
     {
@@ -2095,7 +2095,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Jefferson County, Montana, United States1"
+            "Amazon, Jefferson County, Montana, United States"
         ]
     },
     {
@@ -2213,7 +2213,7 @@
             ]
         ],
         "addresses": [
-            "Apple Campus, Cupertino, Santa Clara County, California, United States1"
+            "Apple Campus, Cupertino, Santa Clara County, California, United States"
         ]
     },
     {
@@ -2256,8 +2256,8 @@
             ]
         ],
         "addresses": [
-            "Broadcom (280/#2), 280, Innovation Drive, North San Jose, San Jose, Santa Clara County, California, 95134, United States1",
-            "Universal Protection Service, 715, North 1st Street, Civic Center, Japantown, San Jose, Santa Clara County, CAL Fire Northern Region, California, 95110, United States1"
+            "Broadcom (280/#2), 280, Innovation Drive, North San Jose, San Jose, Santa Clara County, California, 95134, United States",
+            "Universal Protection Service, 715, North 1st Street, Civic Center, Japantown, San Jose, Santa Clara County, CAL Fire Northern Region, California, 95110, United States"
         ]
     },
     {
@@ -2334,7 +2334,7 @@
             ]
         ],
         "addresses": [
-            "WeWork, Front Street, Financial District, Manhattan, New York County, City of New York, New York, 10038, United States1"
+            "WeWork, Front Street, Financial District, Manhattan, New York County, City of New York, New York, 10038, United States"
         ]
     },
     {
@@ -2407,7 +2407,7 @@
             ]
         ],
         "addresses": [
-            "Paris Theatre, 4, West 58th Street, Manhattan Community Board 5, Manhattan, New York County, City of New York, New York, 10019, United States1"
+            "Paris Theatre, 4, West 58th Street, Manhattan Community Board 5, Manhattan, New York County, City of New York, New York, 10019, United States"
         ]
     },
     {
@@ -2448,7 +2448,7 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States1"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States"
         ]
     },
     {
@@ -2488,7 +2488,7 @@
             ]
         ],
         "addresses": [
-            "McAfee, Mission College Boulevard, Santa Clara, Santa Clara County, California, 95054, United States1"
+            "McAfee, Mission College Boulevard, Santa Clara, Santa Clara County, California, 95054, United States"
         ]
     },
     {
@@ -2570,7 +2570,7 @@
             ]
         ],
         "addresses": [
-            "Adobe, Little Italy, San Jose, Santa Clara County, California, United States1"
+            "Adobe, Little Italy, San Jose, Santa Clara County, California, United States"
         ]
     },
     {
@@ -2618,8 +2618,8 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States1",
-            "Lyft Uber Pickup Location, Midstate Trail, Westminster, Worcester County, Massachusetts, United States1"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States",
+            "Lyft Uber Pickup Location, Midstate Trail, Westminster, Worcester County, Massachusetts, United States"
         ]
     },
     {
@@ -2660,7 +2660,7 @@
             ]
         ],
         "addresses": [
-            "Uber Limo Livery Hold Lot, Cargo Plaza Road, Queens, City of New York, New York, 11430, United States1"
+            "Uber Limo Livery Hold Lot, Cargo Plaza Road, Queens, City of New York, New York, 11430, United States"
         ]
     },
     {
@@ -2740,7 +2740,7 @@
             ]
         ],
         "addresses": [
-            "McAfee, Mission College Boulevard, Santa Clara, Santa Clara County, California, 95054, United States1"
+            "McAfee, Mission College Boulevard, Santa Clara, Santa Clara County, California, 95054, United States"
         ]
     },
     {
@@ -2812,7 +2812,7 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States1"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States"
         ]
     },
     {
@@ -2851,7 +2851,7 @@
             ]
         ],
         "addresses": [
-            "United States1"
+            "United States"
         ]
     },
     {
@@ -2896,7 +2896,7 @@
             ]
         ],
         "addresses": [
-            "IBM, Rochester, Olmsted County, Minnesota, 55901, United States1"
+            "IBM, Rochester, Olmsted County, Minnesota, 55901, United States"
         ]
     },
     {
@@ -2937,7 +2937,7 @@
             ]
         ],
         "addresses": [
-            "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States1"
+            "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States"
         ]
     },
     {
@@ -2980,7 +2980,7 @@
             ]
         ],
         "addresses": [
-            "Cisco Way, 399, East Tasman Drive, Cisco Systems, North San Jose, San Jose, Santa Clara County, CAL Fire Northern Region, California, 95134, United States1"
+            "Cisco Way, 399, East Tasman Drive, Cisco Systems, North San Jose, San Jose, Santa Clara County, CAL Fire Northern Region, California, 95134, United States"
         ]
     },
     {
@@ -3024,7 +3024,7 @@
             ]
         ],
         "addresses": [
-            "Google, Mountain View, Santa Clara County, CAL Fire Northern Region, California, United States1"
+            "Google, Mountain View, Santa Clara County, CAL Fire Northern Region, California, United States"
         ]
     },
     {
@@ -3066,7 +3066,7 @@
             ]
         ],
         "addresses": [
-            "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States1"
+            "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
         ]
     },
     {
@@ -3107,7 +3107,7 @@
             ]
         ],
         "addresses": [
-            "Palo Alto, Santa Clara County, CAL Fire Northern Region, California, United States1"
+            "Palo Alto, Santa Clara County, CAL Fire Northern Region, California, United States"
         ]
     },
     {
@@ -3154,8 +3154,8 @@
             ]
         ],
         "addresses": [
-            "AT&T, Aliso, Tustin, Orange County, CAL Fire Southern Region, California, 92780, United States1",
-            "AT&T, West Sahara Avenue, Las Vegas, Clark County, Nevada, 89102, United States1"
+            "AT&T, Aliso, Tustin, Orange County, CAL Fire Southern Region, California, 92780, United States",
+            "AT&T, West Sahara Avenue, Las Vegas, Clark County, Nevada, 89102, United States"
         ]
     },
     {
@@ -3197,7 +3197,7 @@
             ]
         ],
         "addresses": [
-            "Facebook Building 21 Rooftop Park, Meta West Campus, Belle Haven, Menlo Park, San Mateo County, CAL Fire Northern Region, California, United States1"
+            "Facebook Building 21 Rooftop Park, Meta West Campus, Belle Haven, Menlo Park, San Mateo County, CAL Fire Northern Region, California, United States"
         ]
     },
     {
@@ -3238,7 +3238,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Jefferson County, Montana, United States1"
+            "Amazon, Jefferson County, Montana, United States"
         ]
     },
     {
@@ -3321,7 +3321,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, 72, Spring Street, Manhattan Community Board 2, Manhattan, New York County, City of New York, New York, 10013, United States1"
+            "Amazon, 72, Spring Street, Manhattan Community Board 2, Manhattan, New York County, City of New York, New York, 10013, United States"
         ]
     },
     {
@@ -3361,7 +3361,7 @@
             ]
         ],
         "addresses": [
-            "Yahoo, Sunnyvale, Santa Clara County, California, United States1"
+            "Yahoo, Sunnyvale, Santa Clara County, California, United States"
         ]
     },
     {
@@ -3566,7 +3566,7 @@
             ]
         ],
         "addresses": [
-            "Apple Store, 660, Stanford Shopping Center, Stanford, Palo Alto, Santa Clara County, CAL Fire Northern Region, California, 94304, United States1"
+            "Apple Store, 660, Stanford Shopping Center, Stanford, Palo Alto, Santa Clara County, CAL Fire Northern Region, California, 94304, United States"
         ]
     },
     {
@@ -3825,7 +3825,7 @@
             ]
         ],
         "addresses": [
-            "Caviar Creek, Nome, Alaska, United States1"
+            "Caviar Creek, Nome, Alaska, United States"
         ]
     },
     {
@@ -3868,7 +3868,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States1"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
         ]
     },
     {
@@ -4005,7 +4005,7 @@
             ]
         ],
         "addresses": [
-            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, CAL Fire Northern Region, California, 94043, United States1"
+            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, CAL Fire Northern Region, California, 94043, United States"
         ]
     },
     {
@@ -4052,8 +4052,8 @@
             ]
         ],
         "addresses": [
-            "Amazon, Jefferson County, Montana, United States1",
-            "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States1"
+            "Amazon, Jefferson County, Montana, United States",
+            "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States"
         ]
     },
     {
@@ -4094,7 +4094,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States1"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
         ]
     },
     {
@@ -4135,7 +4135,7 @@
             ]
         ],
         "addresses": [
-            "Salesforce, 2035, Northeast Cornelius Pass Road, Orenco, Hillsboro, Washington County, Oregon, 97124, United States1"
+            "Salesforce, 2035, Northeast Cornelius Pass Road, Orenco, Hillsboro, Washington County, Oregon, 97124, United States"
         ]
     },
     {
@@ -4326,7 +4326,7 @@
             ]
         ],
         "addresses": [
-            "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States1"
+            "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States"
         ]
     },
     {
@@ -4398,7 +4398,7 @@
             ]
         ],
         "addresses": [
-            "San Francisco, CAL Fire Northern Region, California, United States1"
+            "San Francisco, CAL Fire Northern Region, California, United States"
         ]
     },
     {
@@ -4522,7 +4522,7 @@
             ]
         ],
         "addresses": [
-            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, CAL Fire Northern Region, California, 94043, United States1"
+            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, CAL Fire Northern Region, California, 94043, United States"
         ]
     },
     {
@@ -4598,7 +4598,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States1"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
         ]
     },
     {
@@ -4771,7 +4771,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States1",
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States",
             "Google, \u7f85\u7d20\u8857 Russell Street, \u79ae\u9813\u5c71 Leighton Hill, \u9d5d\u9838 Bowrington, \u9285\u947c\u7063 Causeway Bay, \u7063\u4ed4\u5340 Wan Chai District, \u9999\u6e2f\u5cf6 Hong Kong Island, \u9999\u6e2f Hong Kong, \u4e2d\u56fd"
         ]
     },
@@ -4817,8 +4817,8 @@
             ]
         ],
         "addresses": [
-            "Uber Limo Livery Hold Lot, Cargo Plaza Road, Queens, City of New York, New York, 11430, United States1",
-            "Lyft Driver Center, 49th Avenue, Sunnyside, Queens, City of New York, New York, 11101, United States1"
+            "Uber Limo Livery Hold Lot, Cargo Plaza Road, Queens, City of New York, New York, 11430, United States",
+            "Lyft Driver Center, 49th Avenue, Sunnyside, Queens, City of New York, New York, 11101, United States"
         ]
     },
     {
@@ -4859,7 +4859,7 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States1"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States"
         ]
     },
     {
@@ -4933,7 +4933,7 @@
             ]
         ],
         "addresses": [
-            "Wounded Amazon, Lyndale Avenue South;Hennepin Avenue South, Lowry Hill, Bde Maka Ska - Isles, Minneapolis, Hennepin County, Minnesota, 55403, United States1"
+            "Wounded Amazon, Lyndale Avenue South;Hennepin Avenue South, Lowry Hill, Bde Maka Ska - Isles, Minneapolis, Hennepin County, Minnesota, 55403, United States"
         ]
     },
     {
@@ -5190,7 +5190,7 @@
             ]
         ],
         "addresses": [
-            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, CAL Fire Northern Region, California, 94043, United States1"
+            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, CAL Fire Northern Region, California, 94043, United States"
         ]
     },
     {
@@ -5266,7 +5266,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Belltown, Seattle, King County, Washington, United States1"
+            "Amazon, Belltown, Seattle, King County, Washington, United States"
         ]
     },
     {
@@ -5345,7 +5345,7 @@
             ]
         ],
         "addresses": [
-            "Kickstarter HQ, Kent Street, Brooklyn, Kings County, City of New York, New York, 11222, United States1"
+            "Kickstarter HQ, Kent Street, Brooklyn, Kings County, City of New York, New York, 11222, United States"
         ]
     },
     {
@@ -5419,7 +5419,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Jefferson County, Montana, United States1"
+            "Amazon, Jefferson County, Montana, United States"
         ]
     },
     {
@@ -5536,7 +5536,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States1"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
         ]
     },
     {
@@ -5577,7 +5577,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States1"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
         ]
     },
     {
@@ -5618,7 +5618,7 @@
             ]
         ],
         "addresses": [
-            "Microsoft Gathering Hall, 7054, 32nd Avenue South, NewHolly, Rainier Valley, Seattle, King County, Washington, 98118, United States1"
+            "Microsoft Gathering Hall, 7054, 32nd Avenue South, NewHolly, Rainier Valley, Seattle, King County, Washington, 98118, United States"
         ]
     },
     {
@@ -5660,7 +5660,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Jefferson County, Montana, United States1"
+            "Amazon, Jefferson County, Montana, United States"
         ]
     },
     {
@@ -5704,8 +5704,8 @@
             ]
         ],
         "addresses": [
-            "Instagram-Ferris_Joshua / Marycate.minnigh, University Drive, Sunset Pines, Lock Haven, Clinton County, Pennsylvania, 17745, United States1",
-            "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States1"
+            "Instagram-Ferris_Joshua / Marycate.minnigh, University Drive, Sunset Pines, Lock Haven, Clinton County, Pennsylvania, 17745, United States",
+            "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
         ]
     },
     {
@@ -5789,8 +5789,8 @@
             ]
         ],
         "addresses": [
-            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, CAL Fire Northern Region, California, 94043, United States1",
-            "GitHub, 88, Colin P. Kelly Junior Street, Port of San Francisco, San Francisco, CAL Fire Northern Region, California, 94107, United States1"
+            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, CAL Fire Northern Region, California, 94043, United States",
+            "GitHub, 88, Colin P. Kelly Junior Street, Port of San Francisco, San Francisco, CAL Fire Northern Region, California, 94107, United States"
         ]
     },
     {
@@ -5873,7 +5873,7 @@
             ]
         ],
         "addresses": [
-            "Google, 111, 8th Avenue, Chelsea District, Manhattan, New York County, City of New York, New York, 10011, United States1"
+            "Google, 111, 8th Avenue, Chelsea District, Manhattan, New York County, City of New York, New York, 10011, United States"
         ]
     },
     {
@@ -5953,7 +5953,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States1"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
         ]
     },
     {
@@ -5994,7 +5994,7 @@
             ]
         ],
         "addresses": [
-            "Wounded Amazon, Lyndale Avenue South;Hennepin Avenue South, Lowry Hill, Bde Maka Ska - Isles, Minneapolis, Hennepin County, Minnesota, 55403, United States1"
+            "Wounded Amazon, Lyndale Avenue South;Hennepin Avenue South, Lowry Hill, Bde Maka Ska - Isles, Minneapolis, Hennepin County, Minnesota, 55403, United States"
         ]
     },
     {
@@ -6040,8 +6040,8 @@
             ]
         ],
         "addresses": [
-            "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States1",
-            "Accenture, 323, Congress Avenue, Downtown, Austin, Travis County, Texas, 78701, United States1"
+            "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States",
+            "Accenture, 323, Congress Avenue, Downtown, Austin, Travis County, Texas, 78701, United States"
         ]
     },
     {
@@ -6084,7 +6084,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States1"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
         ]
     },
     {
@@ -6172,7 +6172,7 @@
             ]
         ],
         "addresses": [
-            "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States1"
+            "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States"
         ]
     },
     {
@@ -6249,7 +6249,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Belltown, Seattle, King County, Washington, United States1"
+            "Amazon, Belltown, Seattle, King County, Washington, United States"
         ]
     },
     {
@@ -6330,7 +6330,7 @@
             ]
         ],
         "addresses": [
-            "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States1"
+            "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States"
         ]
     },
     {
@@ -6370,7 +6370,7 @@
             ]
         ],
         "addresses": [
-            "Facebook Building 21 Rooftop Park, Meta West Campus, Belle Haven, Menlo Park, San Mateo County, CAL Fire Northern Region, California, United States1"
+            "Facebook Building 21 Rooftop Park, Meta West Campus, Belle Haven, Menlo Park, San Mateo County, CAL Fire Northern Region, California, United States"
         ]
     },
     {
@@ -6514,7 +6514,7 @@
             ]
         ],
         "addresses": [
-            "Google MP5, Innovation Way, Sunnyvale, Santa Clara County, California, 94089, United States1"
+            "Google MP5, Innovation Way, Sunnyvale, Santa Clara County, California, 94089, United States"
         ]
     },
     {
@@ -6558,7 +6558,7 @@
             ]
         ],
         "addresses": [
-            "Microsoft Gathering Hall, 7054, 32nd Avenue South, NewHolly, Rainier Valley, Seattle, King County, Washington, 98118, United States1"
+            "Microsoft Gathering Hall, 7054, 32nd Avenue South, NewHolly, Rainier Valley, Seattle, King County, Washington, 98118, United States"
         ]
     },
     {
@@ -6600,7 +6600,7 @@
             ]
         ],
         "addresses": [
-            "Google One Market, 1, Market Street, Financial District, San Francisco, CAL Fire Northern Region, California, 94111, United States1"
+            "Google One Market, 1, Market Street, Financial District, San Francisco, CAL Fire Northern Region, California, 94111, United States"
         ]
     },
     {
@@ -6643,7 +6643,7 @@
             ]
         ],
         "addresses": [
-            "Wayfair, 222, Berkeley Street, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States1"
+            "Wayfair, 222, Berkeley Street, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States"
         ]
     },
     {
@@ -6686,7 +6686,7 @@
             ]
         ],
         "addresses": [
-            "Google One Market, 1, Market Street, Financial District, San Francisco, CAL Fire Northern Region, California, 94111, United States1"
+            "Google One Market, 1, Market Street, Financial District, San Francisco, CAL Fire Northern Region, California, 94111, United States"
         ]
     },
     {
@@ -6763,7 +6763,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Delivery, 270, Richards Street, Red Hook, Brooklyn, Kings County, City of New York, New York, 11231, United States1"
+            "Amazon Delivery, 270, Richards Street, Red Hook, Brooklyn, Kings County, City of New York, New York, 11231, United States"
         ]
     },
     {
@@ -6810,8 +6810,8 @@
             ]
         ],
         "addresses": [
-            "Amazon, Jefferson County, Montana, United States1",
-            "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States1"
+            "Amazon, Jefferson County, Montana, United States",
+            "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States"
         ]
     },
     {
@@ -6929,7 +6929,7 @@
             ]
         ],
         "addresses": [
-            "Amazon DXH5 Delivery Station, 3523, West 35th Street, Mount Pleasant, McKinley Park, Chicago, Cook County, Illinois, 60609, United States1"
+            "Amazon DXH5 Delivery Station, 3523, West 35th Street, Mount Pleasant, McKinley Park, Chicago, Cook County, Illinois, 60609, United States"
         ]
     },
     {
@@ -6972,7 +6972,7 @@
             ]
         ],
         "addresses": [
-            "Wounded Amazon, Lyndale Avenue South;Hennepin Avenue South, Lowry Hill, Bde Maka Ska - Isles, Minneapolis, Hennepin County, Minnesota, 55403, United States1"
+            "Wounded Amazon, Lyndale Avenue South;Hennepin Avenue South, Lowry Hill, Bde Maka Ska - Isles, Minneapolis, Hennepin County, Minnesota, 55403, United States"
         ]
     },
     {
@@ -7090,8 +7090,8 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States1",
-            "Lyft, 185, Berry Street, South Beach, San Francisco, CAL Fire Northern Region, California, 94107, United States1"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States",
+            "Lyft, 185, Berry Street, South Beach, San Francisco, CAL Fire Northern Region, California, 94107, United States"
         ]
     },
     {
@@ -7137,8 +7137,8 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States1",
-            "Lyft, 185, Berry Street, South Beach, San Francisco, CAL Fire Northern Region, California, 94107, United States1"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States",
+            "Lyft, 185, Berry Street, South Beach, San Francisco, CAL Fire Northern Region, California, 94107, United States"
         ]
     },
     {
@@ -7179,7 +7179,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States1"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
         ]
     },
     {
@@ -7410,7 +7410,7 @@
             ]
         ],
         "addresses": [
-            "Amazon DMS2, 3130, Lexington Avenue South, Eagan, Dakota County, Minnesota, 55121, United States1"
+            "Amazon DMS2, 3130, Lexington Avenue South, Eagan, Dakota County, Minnesota, 55121, United States"
         ]
     },
     {
@@ -7455,8 +7455,8 @@
             ]
         ],
         "addresses": [
-            "Amazon, Jefferson County, Montana, United States1",
-            "Whole Foods, South Street, Bella Vista, South Philadelphia, Philadelphia, Philadelphia County, Pennsylvania, 19146, United States1"
+            "Amazon, Jefferson County, Montana, United States",
+            "Whole Foods, South Street, Bella Vista, South Philadelphia, Philadelphia, Philadelphia County, Pennsylvania, 19146, United States"
         ]
     },
     {
@@ -7492,7 +7492,7 @@
             ]
         ],
         "addresses": [
-            "United States1"
+            "United States"
         ]
     },
     {
@@ -7531,7 +7531,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States1"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
         ]
     },
     {
@@ -7579,8 +7579,8 @@
             ]
         ],
         "addresses": [
-            "Doordash HQ, 901, Market Street, Union Square, San Francisco, CAL Fire Northern Region, California, 94104, United States1",
-            "Caviar Creek, Nome, Alaska, United States1",
+            "Doordash HQ, 901, Market Street, Union Square, San Francisco, CAL Fire Northern Region, California, 94104, United States",
+            "Caviar Creek, Nome, Alaska, United States",
             "\u7f8e\u570b\u5c0f\u93ae\u5927\u8857 Main Street, USA, Town Square, \u7af9\u7bd9\u7063 Penny's Bay, \u8343\u7063\u5340 Tsuen Wan District, \u65b0\u754c New Territories, \u9999\u6e2f Hong Kong, \u4e2d\u56fd"
         ]
     },
@@ -7624,7 +7624,7 @@
             ]
         ],
         "addresses": [
-            "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States1"
+            "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States"
         ]
     },
     {
@@ -7670,8 +7670,8 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States1",
-            "Lyft, 185, Berry Street, South Beach, San Francisco, CAL Fire Northern Region, California, 94107, United States1"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States",
+            "Lyft, 185, Berry Street, South Beach, San Francisco, CAL Fire Northern Region, California, 94107, United States"
         ]
     },
     {
@@ -7715,7 +7715,7 @@
             ]
         ],
         "addresses": [
-            "Google, Penn Avenue, Larimer, Pittsburgh, Allegheny County, Pennsylvania, 15206, United States1"
+            "Google, Penn Avenue, Larimer, Pittsburgh, Allegheny County, Pennsylvania, 15206, United States"
         ]
     },
     {
@@ -7792,8 +7792,8 @@
             ]
         ],
         "addresses": [
-            "UserTesting, 690, 5th Street, South of Market, San Francisco, CAL Fire Northern Region, California, 94017, United States1",
-            "Doordash HQ, 901, Market Street, Union Square, San Francisco, CAL Fire Northern Region, California, 94104, United States1"
+            "UserTesting, 690, 5th Street, South of Market, San Francisco, CAL Fire Northern Region, California, 94017, United States",
+            "Doordash HQ, 901, Market Street, Union Square, San Francisco, CAL Fire Northern Region, California, 94104, United States"
         ]
     },
     {
@@ -7835,7 +7835,7 @@
             ]
         ],
         "addresses": [
-            "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States1"
+            "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
         ]
     },
     {
@@ -7878,7 +7878,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Belltown, Seattle, King County, Washington, United States1"
+            "Amazon, Belltown, Seattle, King County, Washington, United States"
         ]
     },
     {
@@ -7925,8 +7925,8 @@
             ]
         ],
         "addresses": [
-            "Lyft Uber Pickup Location, Midstate Trail, Westminster, Worcester County, Massachusetts, United States1",
-            "Lyft Uber Pickup Location, Midstate Trail, Westminster, Worcester County, Massachusetts, United States1"
+            "Lyft Uber Pickup Location, Midstate Trail, Westminster, Worcester County, Massachusetts, United States",
+            "Lyft Uber Pickup Location, Midstate Trail, Westminster, Worcester County, Massachusetts, United States"
         ]
     },
     {
@@ -7965,7 +7965,7 @@
             ]
         ],
         "addresses": [
-            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, CAL Fire Northern Region, California, 94043, United States1"
+            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, CAL Fire Northern Region, California, 94043, United States"
         ]
     },
     {
@@ -8010,7 +8010,7 @@
             ]
         ],
         "addresses": [
-            "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States1"
+            "Palantir, 156, University Avenue, Palo Alto, Santa Clara County, California, 94301, United States"
         ]
     },
     {
@@ -8053,7 +8053,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States1"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
         ]
     },
     {
@@ -8096,7 +8096,7 @@
             ]
         ],
         "addresses": [
-            "Microsoft Gathering Hall, 7054, 32nd Avenue South, NewHolly, Rainier Valley, Seattle, King County, Washington, 98118, United States1"
+            "Microsoft Gathering Hall, 7054, 32nd Avenue South, NewHolly, Rainier Valley, Seattle, King County, Washington, 98118, United States"
         ]
     },
     {
@@ -8140,7 +8140,7 @@
             ]
         ],
         "addresses": [
-            "Chef Caf\u00e9 Restaurant, 2200, South Jackson Street, Little Saigon, Central District, Seattle, King County, Washington, 98122, United States1"
+            "Chef Caf\u00e9 Restaurant, 2200, South Jackson Street, Little Saigon, Central District, Seattle, King County, Washington, 98122, United States"
         ]
     },
     {
@@ -8180,7 +8180,7 @@
             ]
         ],
         "addresses": [
-            "Baltimore, Maryland, United States1"
+            "Baltimore, Maryland, United States"
         ]
     },
     {
@@ -8222,7 +8222,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States1"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
         ]
     },
     {
@@ -8267,7 +8267,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Locker, 151, Sockanosset Cross Road, Sockanosset, Cranston, Providence County, Rhode Island, 02920, United States1"
+            "Amazon Locker, 151, Sockanosset Cross Road, Sockanosset, Cranston, Providence County, Rhode Island, 02920, United States"
         ]
     },
     {
@@ -8344,7 +8344,7 @@
             ]
         ],
         "addresses": [
-            "Facebook Building 21 Rooftop Park, Meta West Campus, Belle Haven, Menlo Park, San Mateo County, CAL Fire Northern Region, California, United States1"
+            "Facebook Building 21 Rooftop Park, Meta West Campus, Belle Haven, Menlo Park, San Mateo County, CAL Fire Northern Region, California, United States"
         ]
     },
     {
@@ -8423,7 +8423,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, 9051, Union Park Way, Elk Grove, Sacramento County, CAL Fire Northern Region, California, 94624, United States1"
+            "Amazon, 9051, Union Park Way, Elk Grove, Sacramento County, CAL Fire Northern Region, California, 94624, United States"
         ]
     },
     {
@@ -8461,7 +8461,7 @@
             ]
         ],
         "addresses": [
-            "Kickstarter HQ, Kent Street, Brooklyn, Kings County, City of New York, New York, 11222, United States1"
+            "Kickstarter HQ, Kent Street, Brooklyn, Kings County, City of New York, New York, 11222, United States"
         ]
     },
     {
@@ -8504,7 +8504,7 @@
             ]
         ],
         "addresses": [
-            "Carnegie Mellon University, Frew Street, Squirrel Hill North, Pittsburgh, Allegheny County, Pennsylvania, 15213, United States1"
+            "Carnegie Mellon University, Frew Street, Squirrel Hill North, Pittsburgh, Allegheny County, Pennsylvania, 15213, United States"
         ]
     },
     {
@@ -8543,7 +8543,7 @@
             ]
         ],
         "addresses": [
-            "Amazon DMS2, 3130, Lexington Avenue South, Eagan, Dakota County, Minnesota, 55121, United States1"
+            "Amazon DMS2, 3130, Lexington Avenue South, Eagan, Dakota County, Minnesota, 55121, United States"
         ]
     },
     {
@@ -8590,8 +8590,8 @@
             ]
         ],
         "addresses": [
-            "GitHub, 88, Colin P. Kelly Junior Street, Port of San Francisco, San Francisco, CAL Fire Northern Region, California, 94107, United States1",
-            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, CAL Fire Northern Region, California, 94043, United States1"
+            "GitHub, 88, Colin P. Kelly Junior Street, Port of San Francisco, San Francisco, CAL Fire Northern Region, California, 94107, United States",
+            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, CAL Fire Northern Region, California, 94043, United States"
         ]
     },
     {
@@ -8665,7 +8665,7 @@
             ]
         ],
         "addresses": [
-            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, CAL Fire Northern Region, California, 94043, United States1"
+            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, CAL Fire Northern Region, California, 94043, United States"
         ]
     },
     {
@@ -8744,7 +8744,7 @@
             ]
         ],
         "addresses": [
-            "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States1"
+            "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
         ]
     },
     {
@@ -8787,7 +8787,7 @@
             ]
         ],
         "addresses": [
-            "Tableau Software - NorthEdge, 1621, North 34th Street, Fremont, Seattle, King County, Washington, 98103, United States1"
+            "Tableau Software - NorthEdge, 1621, North 34th Street, Fremont, Seattle, King County, Washington, 98103, United States"
         ]
     },
     {
@@ -8894,7 +8894,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States1"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
         ]
     },
     {
@@ -8942,8 +8942,8 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States1",
-            "Lyft, 185, Berry Street, South Beach, San Francisco, CAL Fire Northern Region, California, 94107, United States1"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States",
+            "Lyft, 185, Berry Street, South Beach, San Francisco, CAL Fire Northern Region, California, 94107, United States"
         ]
     },
     {
@@ -9020,7 +9020,7 @@
             ]
         ],
         "addresses": [
-            "WeWork, 31, Saint James Avenue, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States1"
+            "WeWork, 31, Saint James Avenue, Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States"
         ]
     },
     {
@@ -9077,10 +9077,10 @@
             ]
         ],
         "addresses": [
-            "Google One Market, 1, Market Street, Financial District, San Francisco, CAL Fire Northern Region, California, 94111, United States1",
-            "WeWork, 600, California Street, Chinatown, San Francisco, CAL Fire Northern Region, California, 90104, United States1",
-            "Kickstarter HQ, Kent Street, Brooklyn, Kings County, City of New York, New York, 11222, United States1",
-            "WeWork, Market Street, Brooklyn, Kings County, City of New York, New York, 11251, United States1"
+            "Google One Market, 1, Market Street, Financial District, San Francisco, CAL Fire Northern Region, California, 94111, United States",
+            "WeWork, 600, California Street, Chinatown, San Francisco, CAL Fire Northern Region, California, 90104, United States",
+            "Kickstarter HQ, Kent Street, Brooklyn, Kings County, City of New York, New York, 11222, United States",
+            "WeWork, Market Street, Brooklyn, Kings County, City of New York, New York, 11251, United States"
         ]
     },
     {
@@ -9122,7 +9122,7 @@
             ]
         ],
         "addresses": [
-            "GitHub, 88, Colin P. Kelly Junior Street, Port of San Francisco, San Francisco, CAL Fire Northern Region, California, 94107, United States1"
+            "GitHub, 88, Colin P. Kelly Junior Street, Port of San Francisco, San Francisco, CAL Fire Northern Region, California, 94107, United States"
         ]
     },
     {
@@ -9162,7 +9162,7 @@
             ]
         ],
         "addresses": [
-            "Google One Market, 1, Market Street, Financial District, San Francisco, CAL Fire Northern Region, California, 94111, United States1"
+            "Google One Market, 1, Market Street, Financial District, San Francisco, CAL Fire Northern Region, California, 94111, United States"
         ]
     },
     {
@@ -9217,10 +9217,10 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States1",
-            "Google, Mountain View, Santa Clara County, CAL Fire Northern Region, California, United States1",
-            "Google One Market, 1, Market Street, Financial District, San Francisco, CAL Fire Northern Region, California, 94111, United States1",
-            "LT Group - Compass Real Estate, Ocean Avenue, Ingleside, San Francisco, CAL Fire Northern Region, California, 94127, United States1"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States",
+            "Google, Mountain View, Santa Clara County, CAL Fire Northern Region, California, United States",
+            "Google One Market, 1, Market Street, Financial District, San Francisco, CAL Fire Northern Region, California, 94111, United States",
+            "LT Group - Compass Real Estate, Ocean Avenue, Ingleside, San Francisco, CAL Fire Northern Region, California, 94127, United States"
         ]
     },
     {
@@ -9261,7 +9261,7 @@
             ]
         ],
         "addresses": [
-            "Google One Market, 1, Market Street, Financial District, San Francisco, CAL Fire Northern Region, California, 94111, United States1"
+            "Google One Market, 1, Market Street, Financial District, San Francisco, CAL Fire Northern Region, California, 94111, United States"
         ]
     },
     {
@@ -9303,7 +9303,7 @@
             ]
         ],
         "addresses": [
-            "Amazon JFK8, 546, Gulf Avenue, Bloomfield, Staten Island, City of New York, New York, 10303, United States1"
+            "Amazon JFK8, 546, Gulf Avenue, Bloomfield, Staten Island, City of New York, New York, 10303, United States"
         ]
     },
     {
@@ -9467,7 +9467,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States1"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
         ]
     },
     {
@@ -9505,7 +9505,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, 9051, Union Park Way, Elk Grove, Sacramento County, CAL Fire Northern Region, California, 94624, United States1"
+            "Amazon, 9051, Union Park Way, Elk Grove, Sacramento County, CAL Fire Northern Region, California, 94624, United States"
         ]
     },
     {
@@ -9552,8 +9552,8 @@
             ]
         ],
         "addresses": [
-            "GitHub, 88, Colin P. Kelly Junior Street, Port of San Francisco, San Francisco, CAL Fire Northern Region, California, 94107, United States1",
-            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, CAL Fire Northern Region, California, 94043, United States1"
+            "GitHub, 88, Colin P. Kelly Junior Street, Port of San Francisco, San Francisco, CAL Fire Northern Region, California, 94107, United States",
+            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, CAL Fire Northern Region, California, 94043, United States"
         ]
     },
     {
@@ -9592,7 +9592,7 @@
             ]
         ],
         "addresses": [
-            "Amazon DXH5 Delivery Station, 3523, West 35th Street, Mount Pleasant, McKinley Park, Chicago, Cook County, Illinois, 60609, United States1"
+            "Amazon DXH5 Delivery Station, 3523, West 35th Street, Mount Pleasant, McKinley Park, Chicago, Cook County, Illinois, 60609, United States"
         ]
     },
     {
@@ -9634,7 +9634,7 @@
             ]
         ],
         "addresses": [
-            "Spin, 50, Bowling Green Drive, Inner Sunset, San Francisco, CAL Fire Northern Region, California, 94118, United States1"
+            "Spin, 50, Bowling Green Drive, Inner Sunset, San Francisco, CAL Fire Northern Region, California, 94118, United States"
         ]
     },
     {
@@ -9673,7 +9673,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States1"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
         ]
     },
     {
@@ -9752,7 +9752,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, 9051, Union Park Way, Elk Grove, Sacramento County, CAL Fire Northern Region, California, 94624, United States1"
+            "Amazon, 9051, Union Park Way, Elk Grove, Sacramento County, CAL Fire Northern Region, California, 94624, United States"
         ]
     },
     {
@@ -9790,7 +9790,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, 9051, Union Park Way, Elk Grove, Sacramento County, CAL Fire Northern Region, California, 94624, United States1"
+            "Amazon, 9051, Union Park Way, Elk Grove, Sacramento County, CAL Fire Northern Region, California, 94624, United States"
         ]
     },
     {
@@ -9905,7 +9905,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Jefferson County, Montana, United States1"
+            "Amazon, Jefferson County, Montana, United States"
         ]
     },
     {
@@ -9976,7 +9976,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Jefferson County, Montana, United States1"
+            "Amazon, Jefferson County, Montana, United States"
         ]
     },
     {
@@ -10019,8 +10019,8 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States1",
-            "Lyft, 185, Berry Street, South Beach, San Francisco, CAL Fire Northern Region, California, 94107, United States1"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States",
+            "Lyft, 185, Berry Street, South Beach, San Francisco, CAL Fire Northern Region, California, 94107, United States"
         ]
     },
     {
@@ -10133,7 +10133,7 @@
             ]
         ],
         "addresses": [
-            "Oracle, Pinal County, Arizona, 82623, United States1"
+            "Oracle, Pinal County, Arizona, 82623, United States"
         ]
     },
     {
@@ -10174,7 +10174,7 @@
             ]
         ],
         "addresses": [
-            "Kickstarter HQ, Kent Street, Brooklyn, Kings County, City of New York, New York, 11222, United States1"
+            "Kickstarter HQ, Kent Street, Brooklyn, Kings County, City of New York, New York, 11222, United States"
         ]
     },
     {
@@ -10219,7 +10219,7 @@
             ]
         ],
         "addresses": [
-            "Oracle, Pinal County, Arizona, 82623, United States1"
+            "Oracle, Pinal County, Arizona, 82623, United States"
         ]
     },
     {
@@ -10270,9 +10270,9 @@
             ]
         ],
         "addresses": [
-            "Amazon Delivery, 270, Richards Street, Red Hook, Brooklyn, Kings County, City of New York, New York, 11231, United States1",
-            "Amazon Fulfillment Center DIL7, 3639, West Howard Street, Skokie, Niles Township, Cook County, Illinois, 60076, United States1",
-            "Amazon, 9051, Union Park Way, Elk Grove, Sacramento County, CAL Fire Northern Region, California, 94624, United States1"
+            "Amazon Delivery, 270, Richards Street, Red Hook, Brooklyn, Kings County, City of New York, New York, 11231, United States",
+            "Amazon Fulfillment Center DIL7, 3639, West Howard Street, Skokie, Niles Township, Cook County, Illinois, 60076, United States",
+            "Amazon, 9051, Union Park Way, Elk Grove, Sacramento County, CAL Fire Northern Region, California, 94624, United States"
         ]
     },
     {
@@ -10326,9 +10326,9 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States1",
-            "Lyft, 185, Berry Street, South Beach, San Francisco, CAL Fire Northern Region, California, 94107, United States1",
-            "Doordash HQ, 901, Market Street, Union Square, San Francisco, CAL Fire Northern Region, California, 94104, United States1"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States",
+            "Lyft, 185, Berry Street, South Beach, San Francisco, CAL Fire Northern Region, California, 94107, United States",
+            "Doordash HQ, 901, Market Street, Union Square, San Francisco, CAL Fire Northern Region, California, 94104, United States"
         ]
     },
     {
@@ -10483,7 +10483,7 @@
             ]
         ],
         "addresses": [
-            "Google, Penn Avenue, Larimer, Pittsburgh, Allegheny County, Pennsylvania, 15206, United States1"
+            "Google, Penn Avenue, Larimer, Pittsburgh, Allegheny County, Pennsylvania, 15206, United States"
         ]
     },
     {
@@ -10526,7 +10526,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States1"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
         ]
     },
     {
@@ -10569,7 +10569,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Delivery, 270, Richards Street, Red Hook, Brooklyn, Kings County, City of New York, New York, 11231, United States1"
+            "Amazon Delivery, 270, Richards Street, Red Hook, Brooklyn, Kings County, City of New York, New York, 11231, United States"
         ]
     },
     {
@@ -10662,7 +10662,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Jefferson County, Montana, United States1"
+            "Amazon, Jefferson County, Montana, United States"
         ]
     },
     {
@@ -10748,7 +10748,7 @@
             ]
         ],
         "addresses": [
-            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, CAL Fire Northern Region, California, 94043, United States1"
+            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, CAL Fire Northern Region, California, 94043, United States"
         ]
     },
     {
@@ -10877,10 +10877,10 @@
             ]
         ],
         "addresses": [
-            "Lyft, 185, Berry Street, South Beach, San Francisco, CAL Fire Northern Region, California, 94107, United States1",
-            "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States1",
-            "Uber / Lyft Driver Drop Off, East Campus Drive, Montezuma Mesa, Mid-City, San Diego, CAL Fire San Diego Unit, CAL Fire Southern Region, California, 92182, United States1",
-            "Uber / Lyft Driver Drop Off, East Campus Drive, Montezuma Mesa, Mid-City, San Diego, CAL Fire San Diego Unit, CAL Fire Southern Region, California, 92182, United States1"
+            "Lyft, 185, Berry Street, South Beach, San Francisco, CAL Fire Northern Region, California, 94107, United States",
+            "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States",
+            "Uber / Lyft Driver Drop Off, East Campus Drive, Montezuma Mesa, Mid-City, San Diego, CAL Fire San Diego Unit, CAL Fire Southern Region, California, 92182, United States",
+            "Uber / Lyft Driver Drop Off, East Campus Drive, Montezuma Mesa, Mid-City, San Diego, CAL Fire San Diego Unit, CAL Fire Southern Region, California, 92182, United States"
         ]
     },
     {
@@ -10962,7 +10962,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States1"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
         ]
     },
     {
@@ -11006,7 +11006,7 @@
             ]
         ],
         "addresses": [
-            "Amazon JFK8, 546, Gulf Avenue, Bloomfield, Staten Island, City of New York, New York, 10303, United States1"
+            "Amazon JFK8, 546, Gulf Avenue, Bloomfield, Staten Island, City of New York, New York, 10303, United States"
         ]
     },
     {
@@ -11051,7 +11051,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Jefferson County, Montana, United States1"
+            "Amazon, Jefferson County, Montana, United States"
         ]
     },
     {
@@ -11131,7 +11131,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Jefferson County, Montana, United States1"
+            "Amazon, Jefferson County, Montana, United States"
         ]
     },
     {
@@ -11180,8 +11180,8 @@
             ]
         ],
         "addresses": [
-            "Amazon DXH5 Delivery Station, 3523, West 35th Street, Mount Pleasant, McKinley Park, Chicago, Cook County, Illinois, 60609, United States1",
-            "Whole Foods Market, 1101, South Canal Street, Near West Side, Chicago, Cook County, Illinois, 60607, United States1"
+            "Amazon DXH5 Delivery Station, 3523, West 35th Street, Mount Pleasant, McKinley Park, Chicago, Cook County, Illinois, 60609, United States",
+            "Whole Foods Market, 1101, South Canal Street, Near West Side, Chicago, Cook County, Illinois, 60607, United States"
         ]
     },
     {
@@ -11266,7 +11266,7 @@
             ]
         ],
         "addresses": [
-            "Amazon JFK8, 546, Gulf Avenue, Bloomfield, Staten Island, City of New York, New York, 10303, United States1"
+            "Amazon JFK8, 546, Gulf Avenue, Bloomfield, Staten Island, City of New York, New York, 10303, United States"
         ]
     },
     {
@@ -11310,7 +11310,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Delivery, 270, Richards Street, Red Hook, Brooklyn, Kings County, City of New York, New York, 11231, United States1"
+            "Amazon Delivery, 270, Richards Street, Red Hook, Brooklyn, Kings County, City of New York, New York, 11231, United States"
         ]
     },
     {
@@ -11351,7 +11351,7 @@
             ]
         ],
         "addresses": [
-            "Amazon LGB3, 4950, Goodman Way, Eastvale, Riverside County, California, 91752, United States1"
+            "Amazon LGB3, 4950, Goodman Way, Eastvale, Riverside County, California, 91752, United States"
         ]
     },
     {
@@ -11434,7 +11434,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Jefferson County, Montana, United States1"
+            "Amazon, Jefferson County, Montana, United States"
         ]
     },
     {
@@ -11594,7 +11594,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Jefferson County, Montana, United States1"
+            "Amazon, Jefferson County, Montana, United States"
         ]
     },
     {
@@ -11678,7 +11678,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Sortation Center MSP5, 5825, 11th Avenue East, Shakopee, Scott County, Minnesota, 55379, United States1"
+            "Amazon Sortation Center MSP5, 5825, 11th Avenue East, Shakopee, Scott County, Minnesota, 55379, United States"
         ]
     },
     {
@@ -11766,8 +11766,8 @@
             ]
         ],
         "addresses": [
-            "Amazon, Jefferson County, Montana, United States1",
-            "Target, 2769, Papermill Road, Spring Ridge, Wyomissing, Berks County, Pennsylvania, 19610, United States1"
+            "Amazon, Jefferson County, Montana, United States",
+            "Target, 2769, Papermill Road, Spring Ridge, Wyomissing, Berks County, Pennsylvania, 19610, United States"
         ]
     },
     {
@@ -11815,8 +11815,8 @@
             ]
         ],
         "addresses": [
-            "Amazon Delivery, 270, Richards Street, Red Hook, Brooklyn, Kings County, City of New York, New York, 11231, United States1",
-            "Amazon PDX7, 4775, Depot Court, Salem, Marion County, Oregon, 97317, United States1"
+            "Amazon Delivery, 270, Richards Street, Red Hook, Brooklyn, Kings County, City of New York, New York, 11231, United States",
+            "Amazon PDX7, 4775, Depot Court, Salem, Marion County, Oregon, 97317, United States"
         ]
     },
     {
@@ -11901,7 +11901,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Jefferson County, Montana, United States1"
+            "Amazon, Jefferson County, Montana, United States"
         ]
     },
     {
@@ -11943,7 +11943,7 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States1"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States"
         ]
     },
     {
@@ -12017,7 +12017,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Jefferson County, Montana, United States1"
+            "Amazon, Jefferson County, Montana, United States"
         ]
     },
     {
@@ -12060,7 +12060,7 @@
             ]
         ],
         "addresses": [
-            "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States1"
+            "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
         ]
     },
     {
@@ -12102,7 +12102,7 @@
             ]
         ],
         "addresses": [
-            "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States1"
+            "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
         ]
     },
     {
@@ -12178,7 +12178,7 @@
             ]
         ],
         "addresses": [
-            "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States1"
+            "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
         ]
     },
     {
@@ -12218,7 +12218,7 @@
             ]
         ],
         "addresses": [
-            "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States1"
+            "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
         ]
     },
     {
@@ -12260,7 +12260,7 @@
             ]
         ],
         "addresses": [
-            "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States1"
+            "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
         ]
     },
     {
@@ -12303,7 +12303,7 @@
             ]
         ],
         "addresses": [
-            "Microsoft Gathering Hall, 7054, 32nd Avenue South, NewHolly, Rainier Valley, Seattle, King County, Washington, 98118, United States1"
+            "Microsoft Gathering Hall, 7054, 32nd Avenue South, NewHolly, Rainier Valley, Seattle, King County, Washington, 98118, United States"
         ]
     },
     {
@@ -12415,7 +12415,7 @@
             ]
         ],
         "addresses": [
-            "Massachusetts Institute of Technology, Green Street, Central Square, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02139, United States1"
+            "Massachusetts Institute of Technology, Green Street, Central Square, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02139, United States"
         ]
     },
     {
@@ -12472,10 +12472,10 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States1",
-            "Lyft, 185, Berry Street, South Beach, San Francisco, CAL Fire Northern Region, California, 94107, United States1",
-            "Doordash HQ, 901, Market Street, Union Square, San Francisco, CAL Fire Northern Region, California, 94104, United States1",
-            "UserTesting, 690, 5th Street, South of Market, San Francisco, CAL Fire Northern Region, California, 94017, United States1"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States",
+            "Lyft, 185, Berry Street, South Beach, San Francisco, CAL Fire Northern Region, California, 94107, United States",
+            "Doordash HQ, 901, Market Street, Union Square, San Francisco, CAL Fire Northern Region, California, 94104, United States",
+            "UserTesting, 690, 5th Street, South of Market, San Francisco, CAL Fire Northern Region, California, 94017, United States"
         ]
     },
     {
@@ -12519,7 +12519,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States1"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
         ]
     },
     {
@@ -12600,7 +12600,7 @@
             ]
         ],
         "addresses": [
-            "Pinterest, 7th Street, West SoMa, San Francisco, CAL Fire Northern Region, California, 94103, United States1"
+            "Pinterest, 7th Street, West SoMa, San Francisco, CAL Fire Northern Region, California, 94103, United States"
         ]
     },
     {
@@ -12793,7 +12793,7 @@
             ]
         ],
         "addresses": [
-            "Target, 2769, Papermill Road, Spring Ridge, Wyomissing, Berks County, Pennsylvania, 19610, United States1"
+            "Target, 2769, Papermill Road, Spring Ridge, Wyomissing, Berks County, Pennsylvania, 19610, United States"
         ]
     },
     {
@@ -12973,11 +12973,11 @@
             ]
         ],
         "addresses": [
-            "Amazon, Jefferson County, Montana, United States1",
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States1",
-            "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States1",
-            "Lyft, 185, Berry Street, South Beach, San Francisco, CAL Fire Northern Region, California, 94107, United States1",
-            "UserTesting, 690, 5th Street, South of Market, San Francisco, CAL Fire Northern Region, California, 94017, United States1"
+            "Amazon, Jefferson County, Montana, United States",
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States",
+            "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States",
+            "Lyft, 185, Berry Street, South Beach, San Francisco, CAL Fire Northern Region, California, 94107, United States",
+            "UserTesting, 690, 5th Street, South of Market, San Francisco, CAL Fire Northern Region, California, 94017, United States"
         ]
     },
     {
@@ -13072,8 +13072,8 @@
             ]
         ],
         "addresses": [
-            "Whole Foods Market, Concord Lane, Fresh Pond Mall, Cambridge, Middlesex County, Massachusetts, 02140, United States1",
-            "Amazon Pickup, 1, Carl Barron Plaza, Central Square, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02139, United States1"
+            "Whole Foods Market, Concord Lane, Fresh Pond Mall, Cambridge, Middlesex County, Massachusetts, 02140, United States",
+            "Amazon Pickup, 1, Carl Barron Plaza, Central Square, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02139, United States"
         ]
     },
     {
@@ -13187,7 +13187,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Delivery, 270, Richards Street, Red Hook, Brooklyn, Kings County, City of New York, New York, 11231, United States1"
+            "Amazon Delivery, 270, Richards Street, Red Hook, Brooklyn, Kings County, City of New York, New York, 11231, United States"
         ]
     },
     {
@@ -13230,7 +13230,7 @@
             ]
         ],
         "addresses": [
-            "United States1"
+            "United States"
         ]
     },
     {
@@ -13362,7 +13362,7 @@
             ]
         ],
         "addresses": [
-            "Pinterest, 7th Street, West SoMa, San Francisco, CAL Fire Northern Region, California, 94103, United States1"
+            "Pinterest, 7th Street, West SoMa, San Francisco, CAL Fire Northern Region, California, 94103, United States"
         ]
     },
     {
@@ -13404,7 +13404,7 @@
             ]
         ],
         "addresses": [
-            "Google One Market, 1, Market Street, Financial District, San Francisco, CAL Fire Northern Region, California, 94111, United States1"
+            "Google One Market, 1, Market Street, Financial District, San Francisco, CAL Fire Northern Region, California, 94111, United States"
         ]
     },
     {
@@ -13549,7 +13549,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Fresh, 5463, Wisconsin Avenue, Brookdale, Friendship Heights, Chevy Chase Village, Montgomery County, Maryland, 20815, United States1"
+            "Amazon Fresh, 5463, Wisconsin Avenue, Brookdale, Friendship Heights, Chevy Chase Village, Montgomery County, Maryland, 20815, United States"
         ]
     },
     {
@@ -13593,7 +13593,7 @@
             ]
         ],
         "addresses": [
-            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, CAL Fire Northern Region, California, 94043, United States1"
+            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, CAL Fire Northern Region, California, 94043, United States"
         ]
     },
     {
@@ -13679,7 +13679,7 @@
             ]
         ],
         "addresses": [
-            "Something Special Avenue, Country Roads, Yuma, Yuma County, Arizona, 85365, United States1"
+            "Something Special Avenue, Country Roads, Yuma, Yuma County, Arizona, 85365, United States"
         ]
     },
     {
@@ -13789,7 +13789,7 @@
             ]
         ],
         "addresses": [
-            "Google One Market, 1, Market Street, Financial District, San Francisco, CAL Fire Northern Region, California, 94111, United States1"
+            "Google One Market, 1, Market Street, Financial District, San Francisco, CAL Fire Northern Region, California, 94111, United States"
         ]
     },
     {
@@ -13933,7 +13933,7 @@
             ]
         ],
         "addresses": [
-            "United States1"
+            "United States"
         ]
     },
     {
@@ -13975,7 +13975,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Sortation Center MSP5, 5825, 11th Avenue East, Shakopee, Scott County, Minnesota, 55379, United States1"
+            "Amazon Sortation Center MSP5, 5825, 11th Avenue East, Shakopee, Scott County, Minnesota, 55379, United States"
         ]
     },
     {
@@ -14129,8 +14129,8 @@
             ]
         ],
         "addresses": [
-            "Accenture, 323, Congress Avenue, Downtown, Austin, Travis County, Texas, 78701, United States1",
-            "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States1"
+            "Accenture, 323, Congress Avenue, Downtown, Austin, Travis County, Texas, 78701, United States",
+            "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
         ]
     },
     {
@@ -14175,7 +14175,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Jefferson County, Montana, United States1"
+            "Amazon, Jefferson County, Montana, United States"
         ]
     },
     {
@@ -14252,7 +14252,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Jefferson County, Montana, United States1"
+            "Amazon, Jefferson County, Montana, United States"
         ]
     },
     {
@@ -14295,7 +14295,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Belltown, Seattle, King County, Washington, United States1"
+            "Amazon, Belltown, Seattle, King County, Washington, United States"
         ]
     },
     {
@@ -14339,7 +14339,7 @@
             ]
         ],
         "addresses": [
-            "Target, 2769, Papermill Road, Spring Ridge, Wyomissing, Berks County, Pennsylvania, 19610, United States1"
+            "Target, 2769, Papermill Road, Spring Ridge, Wyomissing, Berks County, Pennsylvania, 19610, United States"
         ]
     },
     {
@@ -14382,7 +14382,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Jefferson County, Montana, United States1"
+            "Amazon, Jefferson County, Montana, United States"
         ]
     },
     {
@@ -14420,7 +14420,7 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States1"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States"
         ]
     },
     {
@@ -14500,7 +14500,7 @@
             ]
         ],
         "addresses": [
-            "United States1"
+            "United States"
         ]
     },
     {
@@ -14578,7 +14578,7 @@
             ]
         ],
         "addresses": [
-            "Verizon, Lombard Street, Cow Hollow, San Francisco, CAL Fire Northern Region, California, 94123, United States1"
+            "Verizon, Lombard Street, Cow Hollow, San Francisco, CAL Fire Northern Region, California, 94123, United States"
         ]
     },
     {
@@ -14632,9 +14632,9 @@
             ]
         ],
         "addresses": [
-            "CPL, Laramie, Albany County, Wyoming, United States1",
-            "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States1",
-            "Accenture, 323, Congress Avenue, Downtown, Austin, Travis County, Texas, 78701, United States1"
+            "CPL, Laramie, Albany County, Wyoming, United States",
+            "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States",
+            "Accenture, 323, Congress Avenue, Downtown, Austin, Travis County, Texas, 78701, United States"
         ]
     },
     {
@@ -14675,7 +14675,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Fulfillment Center - BHM1, 975, Powder Plant Road, McAdory, Bessemer, Jefferson County, Alabama, 35022, United States1"
+            "Amazon Fulfillment Center - BHM1, 975, Powder Plant Road, McAdory, Bessemer, Jefferson County, Alabama, 35022, United States"
         ]
     },
     {
@@ -14877,8 +14877,8 @@
             ]
         ],
         "addresses": [
-            "Ringer Lane, Halls, Lauderdale County, West Tennessee, Tennessee, 38040, United States1",
-            "Spotify, Mateo Street, Arts District, Downtown, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90021, United States1"
+            "Ringer Lane, Halls, Lauderdale County, West Tennessee, Tennessee, 38040, United States",
+            "Spotify, Mateo Street, Arts District, Downtown, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90021, United States"
         ]
     },
     {
@@ -14954,7 +14954,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States1"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
         ]
     },
     {
@@ -15132,7 +15132,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States1"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
         ]
     },
     {
@@ -15241,8 +15241,8 @@
             ]
         ],
         "addresses": [
-            "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112, United States1",
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States1",
+            "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112, United States",
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States",
             "Ruisseau Alphabet, Lac-au-Brochet, La Haute-C\u00f4te-Nord, C\u00f4te-Nord, Qu\u00e9bec, Canada",
             "Google Canada, 111, Richmond Street West, Financial District, Spadina\u2014Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5H 2G4, Canada"
         ]
@@ -15301,9 +15301,9 @@
             ]
         ],
         "addresses": [
-            "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112, United States1",
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States1",
-            "YouTube, 900, Cherry Avenue, YouTube, San Bruno, San Mateo County, CAL Fire Northern Region, California, 94066, United States1"
+            "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112, United States",
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States",
+            "YouTube, 900, Cherry Avenue, YouTube, San Bruno, San Mateo County, CAL Fire Northern Region, California, 94066, United States"
         ]
     },
     {
@@ -15344,7 +15344,7 @@
             ]
         ],
         "addresses": [
-            "Twitter, 875, Stevenson Street, Market Square, San Francisco, CAL Fire Northern Region, California, 94102, United States1"
+            "Twitter, 875, Stevenson Street, Market Square, San Francisco, CAL Fire Northern Region, California, 94102, United States"
         ]
     },
     {
@@ -15390,7 +15390,7 @@
             ]
         ],
         "addresses": [
-            "GitHub, 88, Colin P. Kelly Junior Street, Port of San Francisco, San Francisco, CAL Fire Northern Region, California, 94107, United States1"
+            "GitHub, 88, Colin P. Kelly Junior Street, Port of San Francisco, San Francisco, CAL Fire Northern Region, California, 94107, United States"
         ]
     },
     {
@@ -15433,7 +15433,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Jefferson County, Montana, United States1"
+            "Amazon, Jefferson County, Montana, United States"
         ]
     },
     {
@@ -15485,9 +15485,9 @@
             ]
         ],
         "addresses": [
-            "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States1",
-            "Lyft, 185, Berry Street, South Beach, San Francisco, CAL Fire Northern Region, California, 94107, United States1",
-            "Doordash HQ, 901, Market Street, Union Square, San Francisco, CAL Fire Northern Region, California, 94104, United States1"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States",
+            "Lyft, 185, Berry Street, South Beach, San Francisco, CAL Fire Northern Region, California, 94107, United States",
+            "Doordash HQ, 901, Market Street, Union Square, San Francisco, CAL Fire Northern Region, California, 94104, United States"
         ]
     },
     {
@@ -15607,7 +15607,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States1"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
         ]
     },
     {
@@ -15650,7 +15650,7 @@
             ]
         ],
         "addresses": [
-            "Medium, Redondo Avenue, Sugar House, Salt Lake City, Salt Lake County, Utah, 84105, United States1"
+            "Medium, Redondo Avenue, Sugar House, Salt Lake City, Salt Lake County, Utah, 84105, United States"
         ]
     },
     {
@@ -15692,7 +15692,7 @@
             ]
         ],
         "addresses": [
-            "Doordash HQ, 901, Market Street, Union Square, San Francisco, CAL Fire Northern Region, California, 94104, United States1"
+            "Doordash HQ, 901, Market Street, Union Square, San Francisco, CAL Fire Northern Region, California, 94104, United States"
         ]
     },
     {
@@ -15771,7 +15771,7 @@
             ]
         ],
         "addresses": [
-            "Google, 111, 8th Avenue, Chelsea District, Manhattan, New York County, City of New York, New York, 10011, United States1"
+            "Google, 111, 8th Avenue, Chelsea District, Manhattan, New York County, City of New York, New York, 10011, United States"
         ]
     },
     {
@@ -15810,7 +15810,7 @@
             ]
         ],
         "addresses": [
-            "Southwest Glitch Road, Shawnee County, Kansas, United States1"
+            "Southwest Glitch Road, Shawnee County, Kansas, United States"
         ]
     },
     {
@@ -15964,7 +15964,7 @@
             ]
         ],
         "addresses": [
-            "Mobilize Physical Therapy, 3515, Northeast 45th Street, East Campus, Seattle, King County, Washington, 98105, United States1"
+            "Mobilize Physical Therapy, 3515, Northeast 45th Street, East Campus, Seattle, King County, Washington, 98105, United States"
         ]
     },
     {
@@ -16008,7 +16008,7 @@
             ]
         ],
         "addresses": [
-            "YouTube, 900, Cherry Avenue, YouTube, San Bruno, San Mateo County, CAL Fire Northern Region, California, 94066, United States1"
+            "YouTube, 900, Cherry Avenue, YouTube, San Bruno, San Mateo County, CAL Fire Northern Region, California, 94066, United States"
         ]
     },
     {
@@ -16215,7 +16215,7 @@
             ]
         ],
         "addresses": [
-            "Amazon DXH5 Delivery Station, 3523, West 35th Street, Mount Pleasant, McKinley Park, Chicago, Cook County, Illinois, 60609, United States1"
+            "Amazon DXH5 Delivery Station, 3523, West 35th Street, Mount Pleasant, McKinley Park, Chicago, Cook County, Illinois, 60609, United States"
         ]
     },
     {
@@ -16262,7 +16262,7 @@
             ]
         ],
         "addresses": [
-            "Google Berkeley County Data Center, Berkeley County, South Carolina, United States1"
+            "Google Berkeley County Data Center, Berkeley County, South Carolina, United States"
         ]
     },
     {
@@ -16343,7 +16343,7 @@
             ]
         ],
         "addresses": [
-            "Doordash HQ, 901, Market Street, Union Square, San Francisco, CAL Fire Northern Region, California, 94104, United States1"
+            "Doordash HQ, 901, Market Street, Union Square, San Francisco, CAL Fire Northern Region, California, 94104, United States"
         ]
     },
     {
@@ -16384,7 +16384,7 @@
             ]
         ],
         "addresses": [
-            "Amazon DXH5 Delivery Station, 3523, West 35th Street, Mount Pleasant, McKinley Park, Chicago, Cook County, Illinois, 60609, United States1"
+            "Amazon DXH5 Delivery Station, 3523, West 35th Street, Mount Pleasant, McKinley Park, Chicago, Cook County, Illinois, 60609, United States"
         ]
     },
     {
@@ -16426,7 +16426,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Jefferson County, Montana, United States1"
+            "Amazon, Jefferson County, Montana, United States"
         ]
     },
     {
@@ -16480,8 +16480,8 @@
             ]
         ],
         "addresses": [
-            "Spotify, Mateo Street, Arts District, Downtown, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90021, United States1",
-            "Ringer Lane, Halls, Lauderdale County, West Tennessee, Tennessee, 38040, United States1"
+            "Spotify, Mateo Street, Arts District, Downtown, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90021, United States",
+            "Ringer Lane, Halls, Lauderdale County, West Tennessee, Tennessee, 38040, United States"
         ]
     },
     {
@@ -16573,7 +16573,7 @@
             ]
         ],
         "addresses": [
-            "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112, United States1"
+            "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112, United States"
         ]
     },
     {
@@ -16614,7 +16614,7 @@
             ]
         ],
         "addresses": [
-            "The New York Times, Whitestone Expressway, Linden Hill, Queens, City of New York, New York, 11354, United States1"
+            "The New York Times, Whitestone Expressway, Linden Hill, Queens, City of New York, New York, 11354, United States"
         ]
     },
     {
@@ -16658,7 +16658,7 @@
             ]
         ],
         "addresses": [
-            "Imperfect Foods, Survey Road, Elk Grove, Sacramento County, CAL Fire Northern Region, California, 94624, United States1"
+            "Imperfect Foods, Survey Road, Elk Grove, Sacramento County, CAL Fire Northern Region, California, 94624, United States"
         ]
     },
     {
@@ -16711,8 +16711,8 @@
             ]
         ],
         "addresses": [
-            "Uber Limo Livery Hold Lot, Cargo Plaza Road, Queens, City of New York, New York, 11430, United States1",
-            "Relay Building A, 9th Avenue, Manhattan Community Board 12, Manhattan, New York County, City of New York, New York, 10034, United States1"
+            "Uber Limo Livery Hold Lot, Cargo Plaza Road, Queens, City of New York, New York, 11430, United States",
+            "Relay Building A, 9th Avenue, Manhattan Community Board 12, Manhattan, New York County, City of New York, New York, 10034, United States"
         ]
     },
     {
@@ -16756,7 +16756,7 @@
             ]
         ],
         "addresses": [
-            "WVXU 91.7 FM, Central Parkway, Betts-Longworth Historic District, West End, Cincinnati, Hamilton County, Ohio, 45210, United States1"
+            "WVXU 91.7 FM, Central Parkway, Betts-Longworth Historic District, West End, Cincinnati, Hamilton County, Ohio, 45210, United States"
         ]
     },
     {
@@ -16889,7 +16889,7 @@
             ]
         ],
         "addresses": [
-            "WVXU 91.7 FM, Central Parkway, Betts-Longworth Historic District, West End, Cincinnati, Hamilton County, Ohio, 45210, United States1"
+            "WVXU 91.7 FM, Central Parkway, Betts-Longworth Historic District, West End, Cincinnati, Hamilton County, Ohio, 45210, United States"
         ]
     },
     {
@@ -16931,7 +16931,7 @@
             ]
         ],
         "addresses": [
-            "basecamp, Mariposa Street, Burbank, Los Angeles County, California, 91506, United States1"
+            "basecamp, Mariposa Street, Burbank, Los Angeles County, California, 91506, United States"
         ]
     },
     {
@@ -16980,8 +16980,8 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States1",
-            "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112, United States1"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States",
+            "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112, United States"
         ]
     },
     {
@@ -17029,8 +17029,8 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States1",
-            "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112, United States1"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States",
+            "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112, United States"
         ]
     },
     {
@@ -17108,7 +17108,7 @@
             ]
         ],
         "addresses": [
-            "Apple Campus, Cupertino, Santa Clara County, California, United States1"
+            "Apple Campus, Cupertino, Santa Clara County, California, United States"
         ]
     },
     {
@@ -17222,7 +17222,7 @@
             ]
         ],
         "addresses": [
-            "Apple Campus, Cupertino, Santa Clara County, California, United States1"
+            "Apple Campus, Cupertino, Santa Clara County, California, United States"
         ]
     },
     {
@@ -17268,7 +17268,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Jefferson County, Montana, United States1"
+            "Amazon, Jefferson County, Montana, United States"
         ]
     },
     {
@@ -17396,8 +17396,8 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States1",
-            "G4S Secure Soultions USA, Lorna Road, Chapel Hill, Patton Chapel, Hoover, Jefferson County, Alabama, 35216, United States1"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States",
+            "G4S Secure Soultions USA, Lorna Road, Chapel Hill, Patton Chapel, Hoover, Jefferson County, Alabama, 35216, United States"
         ]
     },
     {
@@ -17482,7 +17482,7 @@
             ]
         ],
         "addresses": [
-            "Apple Campus, Cupertino, Santa Clara County, California, United States1"
+            "Apple Campus, Cupertino, Santa Clara County, California, United States"
         ]
     },
     {
@@ -17607,8 +17607,8 @@
             ]
         ],
         "addresses": [
-            "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States1",
-            "Accenture, 323, Congress Avenue, Downtown, Austin, Travis County, Texas, 78701, United States1"
+            "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States",
+            "Accenture, 323, Congress Avenue, Downtown, Austin, Travis County, Texas, 78701, United States"
         ]
     },
     {
@@ -17655,7 +17655,7 @@
             ]
         ],
         "addresses": [
-            "Change.org, 548, Market Street, Transbay, San Francisco, CAL Fire Northern Region, California, 90104, United States1"
+            "Change.org, 548, Market Street, Transbay, San Francisco, CAL Fire Northern Region, California, 90104, United States"
         ]
     },
     {
@@ -17810,8 +17810,8 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States1",
-            "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112, United States1"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States",
+            "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112, United States"
         ]
     },
     {
@@ -17862,8 +17862,8 @@
             ]
         ],
         "addresses": [
-            "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States1",
-            "Accenture, 323, Congress Avenue, Downtown, Austin, Travis County, Texas, 78701, United States1"
+            "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States",
+            "Accenture, 323, Congress Avenue, Downtown, Austin, Travis County, Texas, 78701, United States"
         ]
     },
     {
@@ -17906,7 +17906,7 @@
             ]
         ],
         "addresses": [
-            "Doordash HQ, 901, Market Street, Union Square, San Francisco, CAL Fire Northern Region, California, 94104, United States1"
+            "Doordash HQ, 901, Market Street, Union Square, San Francisco, CAL Fire Northern Region, California, 94104, United States"
         ]
     },
     {
@@ -17948,7 +17948,7 @@
             ]
         ],
         "addresses": [
-            "Code for America, 972, Mission Street, West SoMa, San Francisco, CAL Fire Northern Region, California, 94103, United States1"
+            "Code for America, 972, Mission Street, West SoMa, San Francisco, CAL Fire Northern Region, California, 94103, United States"
         ]
     },
     {
@@ -17997,7 +17997,7 @@
             ]
         ],
         "addresses": [
-            "Mapbox, 740, 15th Street Northwest, Washington, District of Columbia, 20005, United States1"
+            "Mapbox, 740, 15th Street Northwest, Washington, District of Columbia, 20005, United States"
         ]
     },
     {
@@ -18083,7 +18083,7 @@
             ]
         ],
         "addresses": [
-            "Apple Campus, Cupertino, Santa Clara County, California, United States1"
+            "Apple Campus, Cupertino, Santa Clara County, California, United States"
         ]
     },
     {
@@ -18165,7 +18165,7 @@
             ]
         ],
         "addresses": [
-            "The New York Times, Whitestone Expressway, Linden Hill, Queens, City of New York, New York, 11354, United States1"
+            "The New York Times, Whitestone Expressway, Linden Hill, Queens, City of New York, New York, 11354, United States"
         ]
     },
     {
@@ -18207,7 +18207,7 @@
             ]
         ],
         "addresses": [
-            "United States1"
+            "United States"
         ]
     },
     {
@@ -18294,7 +18294,7 @@
             ]
         ],
         "addresses": [
-            "Apple Campus, Cupertino, Santa Clara County, California, United States1"
+            "Apple Campus, Cupertino, Santa Clara County, California, United States"
         ]
     },
     {
@@ -18685,7 +18685,7 @@
             ]
         ],
         "addresses": [
-            "Blue Origin, Brevard County, Florida, United States1"
+            "Blue Origin, Brevard County, Florida, United States"
         ]
     },
     {
@@ -18993,7 +18993,7 @@
             ]
         ],
         "addresses": [
-            "Paris Theatre, 4, West 58th Street, Manhattan Community Board 5, Manhattan, New York County, City of New York, New York, 10019, United States1"
+            "Paris Theatre, 4, West 58th Street, Manhattan Community Board 5, Manhattan, New York County, City of New York, New York, 10019, United States"
         ]
     },
     {
@@ -19121,7 +19121,7 @@
             ]
         ],
         "addresses": [
-            "Amazon JFK8, 546, Gulf Avenue, Bloomfield, Staten Island, City of New York, New York, 10303, United States1"
+            "Amazon JFK8, 546, Gulf Avenue, Bloomfield, Staten Island, City of New York, New York, 10303, United States"
         ]
     },
     {
@@ -19212,9 +19212,9 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States1",
-            "Modis, 113, South Main Street, Breckenridge, Summit County, Colorado, 80424, United States1",
-            "Adecco, 121, Southwest Morrison Street, Downtown, Portland, Multnomah County, Oregon, 97204, United States1"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States",
+            "Modis, 113, South Main Street, Breckenridge, Summit County, Colorado, 80424, United States",
+            "Adecco, 121, Southwest Morrison Street, Downtown, Portland, Multnomah County, Oregon, 97204, United States"
         ]
     },
     {
@@ -19386,7 +19386,7 @@
         "addresses": [
             "Amazon, Agognate, Novara, Piemonte, Italia",
             "Amazon.fr Logistique Distrip\u00f4le Chalon, Sevrey, Chalon-sur-Sa\u00f4ne, Sa\u00f4ne-et-Loire, Bourgogne-Franche-Comt\u00e9, France m\u00e9tropolitaine, 71100, France",
-            "Amazon, Jefferson County, Montana, United States1",
+            "Amazon, Jefferson County, Montana, United States",
             "Amazon, The Highway Street, Wapadrand Security Village, Tshwane Ward 85, City of Tshwane Metropolitan Municipality, Gauteng, 0050, South Africa",
             "Amazon, Narua Kheya Ghat Road, Narua, \u09ac\u09be\u09b2\u09bf\u09af\u09bc\u09be\u0995\u09be\u09a8\u09cd\u09a6\u09bf \u0989\u09aa\u099c\u09c7\u09b2\u09be, \u09b0\u09be\u099c\u09ac\u09be\u09dc\u09c0 \u099c\u09c7\u09b2\u09be, \u09a2\u09be\u0995\u09be \u09ac\u09bf\u09ad\u09be\u0997, 7730, \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6",
             "Amazon, \u1795\u17d2\u179b\u17bc\u179c \u178f\u17d2\u179a\u179f\u1780\u17cb\u1795\u17d2\u17a2\u17c2\u1798 (\u17e6\u17e3), \u179a\u17b6\u1787\u1792\u17b6\u1793\u17b8\u1797\u17d2\u1793\u17c6\u1796\u17c1\u1789, \u1781\u178e\u17d2\u178c\u178a\u17bc\u1793\u1796\u17c1\u1789, \u179a\u17b6\u1787\u1792\u17b6\u1793\u17b8\u1797\u17d2\u1793\u17c6\u1796\u17c1\u1789, 120202, \u1796\u17d2\u179a\u17c7\u179a\u17b6\u1787\u17b6\u178e\u17b6\u1785\u1780\u17d2\u179a\u200b\u1780\u1798\u17d2\u1796\u17bb\u1787\u17b6",
@@ -19437,7 +19437,7 @@
             ]
         ],
         "addresses": [
-            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States1"
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States"
         ]
     },
     {
@@ -19598,7 +19598,7 @@
             ]
         ],
         "addresses": [
-            "Google, Mountain View, Santa Clara County, CAL Fire Northern Region, California, United States1"
+            "Google, Mountain View, Santa Clara County, CAL Fire Northern Region, California, United States"
         ]
     },
     {
@@ -19708,7 +19708,7 @@
             ]
         ],
         "addresses": [
-            "Citizen, 1222, East Madison Street, First Hill, Seattle, King County, Washington, 98122, United States1"
+            "Citizen, 1222, East Madison Street, First Hill, Seattle, King County, Washington, 98122, United States"
         ]
     },
     {
@@ -19759,8 +19759,8 @@
             ]
         ],
         "addresses": [
-            "Amazon Delivery, 270, Richards Street, Red Hook, Brooklyn, Kings County, City of New York, New York, 11231, United States1",
-            "Amazon Fresh, 5463, Wisconsin Avenue, Brookdale, Friendship Heights, Chevy Chase Village, Montgomery County, Maryland, 20815, United States1"
+            "Amazon Delivery, 270, Richards Street, Red Hook, Brooklyn, Kings County, City of New York, New York, 11231, United States",
+            "Amazon Fresh, 5463, Wisconsin Avenue, Brookdale, Friendship Heights, Chevy Chase Village, Montgomery County, Maryland, 20815, United States"
         ]
     },
     {
@@ -19869,7 +19869,7 @@
             ]
         ],
         "addresses": [
-            "Amazon JFK8, 546, Gulf Avenue, Bloomfield, Staten Island, City of New York, New York, 10303, United States1"
+            "Amazon JFK8, 546, Gulf Avenue, Bloomfield, Staten Island, City of New York, New York, 10303, United States"
         ]
     },
     {
@@ -19910,7 +19910,7 @@
             ]
         ],
         "addresses": [
-            "Amazon JFK8, 546, Gulf Avenue, Bloomfield, Staten Island, City of New York, New York, 10303, United States1"
+            "Amazon JFK8, 546, Gulf Avenue, Bloomfield, Staten Island, City of New York, New York, 10303, United States"
         ]
     },
     {
@@ -19956,7 +19956,7 @@
             ]
         ],
         "addresses": [
-            "Amazon DXH5 Delivery Station, 3523, West 35th Street, Mount Pleasant, McKinley Park, Chicago, Cook County, Illinois, 60609, United States1"
+            "Amazon DXH5 Delivery Station, 3523, West 35th Street, Mount Pleasant, McKinley Park, Chicago, Cook County, Illinois, 60609, United States"
         ]
     },
     {
@@ -19999,7 +19999,7 @@
             ]
         ],
         "addresses": [
-            "Amazon, Jefferson County, Montana, United States1"
+            "Amazon, Jefferson County, Montana, United States"
         ]
     },
     {
@@ -20041,7 +20041,7 @@
             ]
         ],
         "addresses": [
-            "Apple Campus, Cupertino, Santa Clara County, California, United States1"
+            "Apple Campus, Cupertino, Santa Clara County, California, United States"
         ]
     },
     {
@@ -20084,7 +20084,7 @@
             ]
         ],
         "addresses": [
-            "Alphabet Academy Child Care, 3200, Wayne Avenue, Ivanhoe, Kansas City, Jackson County, Missouri, 64109, United States1"
+            "Alphabet Academy Child Care, 3200, Wayne Avenue, Ivanhoe, Kansas City, Jackson County, Missouri, 64109, United States"
         ]
     },
     {
@@ -20168,8 +20168,8 @@
             ]
         ],
         "addresses": [
-            "Accenture, 323, Congress Avenue, Downtown, Austin, Travis County, Texas, 78701, United States1",
-            "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States1"
+            "Accenture, 323, Congress Avenue, Downtown, Austin, Travis County, Texas, 78701, United States",
+            "Facebook, 300, West 6th Street, Downtown, Austin, Travis County, Texas, 78701, United States"
         ]
     },
     {
@@ -20215,7 +20215,7 @@
             ]
         ],
         "addresses": [
-            "Google Fiber Space, 8615, Northwest Prairie View Road, Kansas City, Platte County, Missouri, 64153, United States1"
+            "Google Fiber Space, 8615, Northwest Prairie View Road, Kansas City, Platte County, Missouri, 64153, United States"
         ]
     },
     {
@@ -20260,7 +20260,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Fresh, 5463, Wisconsin Avenue, Brookdale, Friendship Heights, Chevy Chase Village, Montgomery County, Maryland, 20815, United States1"
+            "Amazon Fresh, 5463, Wisconsin Avenue, Brookdale, Friendship Heights, Chevy Chase Village, Montgomery County, Maryland, 20815, United States"
         ]
     },
     {
@@ -20380,7 +20380,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Delivery, 270, Richards Street, Red Hook, Brooklyn, Kings County, City of New York, New York, 11231, United States1"
+            "Amazon Delivery, 270, Richards Street, Red Hook, Brooklyn, Kings County, City of New York, New York, 11231, United States"
         ]
     },
     {
@@ -20549,7 +20549,7 @@
             ]
         ],
         "addresses": [
-            "Peloton, Boise, Portland, Multnomah County, Oregon, United States1"
+            "Peloton, Boise, Portland, Multnomah County, Oregon, United States"
         ]
     },
     {
@@ -20589,7 +20589,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Delivery, 270, Richards Street, Red Hook, Brooklyn, Kings County, City of New York, New York, 11231, United States1"
+            "Amazon Delivery, 270, Richards Street, Red Hook, Brooklyn, Kings County, City of New York, New York, 11231, United States"
         ]
     },
     {
@@ -20630,7 +20630,7 @@
             ]
         ],
         "addresses": [
-            "Apple Campus, Cupertino, Santa Clara County, California, United States1"
+            "Apple Campus, Cupertino, Santa Clara County, California, United States"
         ]
     },
     {
@@ -20678,7 +20678,7 @@
             ]
         ],
         "addresses": [
-            "Google Fiber, 518, West Jones Street, Glenwood South, Raleigh, Wake County, North Carolina, 27603, United States1"
+            "Google Fiber, 518, West Jones Street, Glenwood South, Raleigh, Wake County, North Carolina, 27603, United States"
         ]
     },
     {
@@ -20721,7 +20721,7 @@
             ]
         ],
         "addresses": [
-            "Apple Fifth Avenue, 767, 5th Avenue, Manhattan Community Board 5, Manhattan, New York County, City of New York, New York, 10153, United States1"
+            "Apple Fifth Avenue, 767, 5th Avenue, Manhattan Community Board 5, Manhattan, New York County, City of New York, New York, 10153, United States"
         ]
     },
     {
@@ -20814,7 +20814,7 @@
             ]
         ],
         "addresses": [
-            "Google Fiber Space, 8615, Northwest Prairie View Road, Kansas City, Platte County, Missouri, 64153, United States1"
+            "Google Fiber Space, 8615, Northwest Prairie View Road, Kansas City, Platte County, Missouri, 64153, United States"
         ]
     },
     {
@@ -20923,9 +20923,9 @@
             ]
         ],
         "addresses": [
-            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, CAL Fire Northern Region, California, 94043, United States1",
-            "IBM, Rochester, Olmsted County, Minnesota, 55901, United States1",
-            "SAP Laser Tag, Lower Towamensing Township, Carbon County, Pennsylvania, United States1",
+            "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, CAL Fire Northern Region, California, 94043, United States",
+            "IBM, Rochester, Olmsted County, Minnesota, 55901, United States",
+            "SAP Laser Tag, Lower Towamensing Township, Carbon County, Pennsylvania, United States",
             "Microsoft, \u0416\u0438\u043b\u044f\u043d\u0441\u044c\u043a\u0430 \u0432\u0443\u043b\u0438\u0446\u044f, \u041f\u0430\u043d\u044c\u043a\u0456\u0432\u0449\u0438\u043d\u0430, \u041d\u043e\u0432\u0430 \u0417\u0430\u0431\u0443\u0434\u043e\u0432\u0430, \u0413\u043e\u043b\u043e\u0441\u0456\u0457\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0438\u0457\u0432, 01032, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
             "Microsoft Deutschland GmbH, 2a, Holzmarkt, Georgsviertel, Altstadt-S\u00fcd, Innenstadt, K\u00f6ln, Nordrhein-Westfalen, 50676, Deutschland",
             "IBM, Stahlgruberring, Am Moosfeld, Trudering - Riem, Trudering-Riem, M\u00fcnchen, Bayern, 81829, Deutschland",
@@ -20973,7 +20973,7 @@
             ]
         ],
         "addresses": [
-            "Etsy, Inc., 117, Adams Street, DUMBO, Brooklyn, Kings County, City of New York, New York, 11201, United States1"
+            "Etsy, Inc., 117, Adams Street, DUMBO, Brooklyn, Kings County, City of New York, New York, 11201, United States"
         ]
     },
     {
@@ -21051,7 +21051,7 @@
             ]
         ],
         "addresses": [
-            "Amazon JFK8, 546, Gulf Avenue, Bloomfield, Staten Island, City of New York, New York, 10303, United States1"
+            "Amazon JFK8, 546, Gulf Avenue, Bloomfield, Staten Island, City of New York, New York, 10303, United States"
         ]
     },
     {
@@ -21092,7 +21092,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Distribution Center, Bayview Court, Bergen Point, Bayonne, Hudson County, New Jersey, 07002, United States1"
+            "Amazon Distribution Center, Bayview Court, Bergen Point, Bayonne, Hudson County, New Jersey, 07002, United States"
         ]
     },
     {
@@ -21133,7 +21133,7 @@
             ]
         ],
         "addresses": [
-            "Apple Store, 3393, Peachtree Road Northeast, Atlanta, Fulton County, Georgia, 30326, United States1"
+            "Apple Store, 3393, Peachtree Road Northeast, Atlanta, Fulton County, Georgia, 30326, United States"
         ]
     },
     {
@@ -21174,7 +21174,7 @@
             ]
         ],
         "addresses": [
-            "Amazon Sortation Center MSP5, 5825, 11th Avenue East, Shakopee, Scott County, Minnesota, 55379, United States1"
+            "Amazon Sortation Center MSP5, 5825, 11th Avenue East, Shakopee, Scott County, Minnesota, 55379, United States"
         ]
     }
 ]
