@@ -402,8 +402,15 @@
         "author": [
             "CM"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                38.64577295,
+                -121.16569779442514
+            ]
+        ],
+        "addresses": [
+            "Intel Corporation, Folsom, Sacramento County, CAL Fire Northern Region, California, United States"
+        ]
     },
     {
         "id": 5,
@@ -1818,6 +1825,10 @@
                 -118.4092133
             ],
             [
+                37.3326452,
+                -122.0299129658936
+            ],
+            [
                 32.939795,
                 -117.1026021
             ],
@@ -1828,6 +1839,7 @@
         ],
         "addresses": [
             "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States",
+            "Apple Campus, Cupertino, Santa Clara County, California, United States",
             "Intel, 12220, Scripps Summit Drive, San Diego, San Diego County, CAL Fire Southern Region, California, 92131, United States",
             "Adobe, Little Italy, San Jose, Santa Clara County, California, United States"
         ]
@@ -2030,8 +2042,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.4810116,
+                -122.15972847833908
+            ]
+        ],
+        "addresses": [
+            "Facebook Building 21 Rooftop Park, Meta West Campus, Belle Haven, Menlo Park, San Mateo County, CAL Fire Northern Region, California, United States"
+        ]
     },
     {
         "id": 44,
@@ -3285,8 +3304,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                40.722465,
+                -73.9977307
+            ]
+        ],
+        "addresses": [
+            "Amazon, 72, Spring Street, Manhattan Community Board 2, Manhattan, New York County, City of New York, New York, 10013, United States"
+        ]
     },
     {
         "id": 74,
@@ -4355,8 +4381,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.7790262,
+                -122.419906
+            ]
+        ],
+        "addresses": [
+            "San Francisco, CAL Fire Northern Region, California, United States"
+        ]
     },
     {
         "id": 99,
@@ -4767,10 +4800,15 @@
             [
                 40.65532605,
                 -73.79478942223645
+            ],
+            [
+                40.7408482,
+                -73.9419238
             ]
         ],
         "addresses": [
-            "Uber Limo Livery Hold Lot, Cargo Plaza Road, Queens, City of New York, New York, 11430, United States"
+            "Uber Limo Livery Hold Lot, Cargo Plaza Road, Queens, City of New York, New York, 11430, United States",
+            "Lyft Driver Center, 49th Avenue, Sunnyside, Queens, City of New York, New York, 11101, United States"
         ]
     },
     {
@@ -7823,8 +7861,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                47.6224574,
+                -122.33650433873851
+            ]
+        ],
+        "addresses": [
+            "Amazon, Belltown, Seattle, King County, Washington, United States"
+        ]
     },
     {
         "id": 180,
@@ -8361,8 +8406,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                38.38635825,
+                -121.36541634594701
+            ]
+        ],
+        "addresses": [
+            "Amazon, 9051, Union Park Way, Elk Grove, Sacramento County, CAL Fire Northern Region, California, 94624, United States"
+        ]
     },
     {
         "id": 193,
@@ -10797,11 +10849,21 @@
             [
                 37.7756962,
                 -122.4180838
+            ],
+            [
+                32.771334,
+                -117.06736
+            ],
+            [
+                32.771334,
+                -117.06736
             ]
         ],
         "addresses": [
             "Lyft, 185, Berry Street, South Beach, San Francisco, CAL Fire Northern Region, California, 94107, United States",
-            "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States"
+            "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States",
+            "Uber / Lyft Driver Drop Off, East Campus Drive, Montezuma Mesa, Mid-City, San Diego, CAL Fire San Diego Unit, CAL Fire Southern Region, California, 92182, United States",
+            "Uber / Lyft Driver Drop Off, East Campus Drive, Montezuma Mesa, Mid-City, San Diego, CAL Fire San Diego Unit, CAL Fire Southern Region, California, 92182, United States"
         ]
     },
     {
@@ -13101,8 +13163,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                40.673399599999996,
+                -74.00731880832103
+            ]
+        ],
+        "addresses": [
+            "Amazon, 55, Bay Street, Red Hook, Brooklyn, Kings County, City of New York, New York, 11231, United States"
+        ]
     },
     {
         "id": 338,
@@ -13224,8 +13293,15 @@
         "author": [
             "Worker26"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                52.5160429,
+                13.4125087
+            ]
+        ],
+        "addresses": [
+            "N26 Bank GmbH, 62, Klosterstra\u00dfe, Mitte, Berlin, 10179, Deutschland"
+        ]
     },
     {
         "id": 310,
@@ -14195,8 +14271,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                47.6224574,
+                -122.33650433873851
+            ]
+        ],
+        "addresses": [
+            "Amazon, Belltown, Seattle, King County, Washington, United States"
+        ]
     },
     {
         "id": 344,
@@ -15186,8 +15269,25 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.3398646,
+                -121.8844823
+            ],
+            [
+                33.977092,
+                -118.4092133
+            ],
+            [
+                37.62814305,
+                -122.42521678541321
+            ]
+        ],
+        "addresses": [
+            "Alphabet, Horace Mann, Japantown, San Jose, Santa Clara County, California, 95112, United States",
+            "Google, West Bluff Creek Drive, Playa Vista, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90096, United States",
+            "YouTube, 900, Cherry Avenue, YouTube, San Bruno, San Mateo County, CAL Fire Northern Region, California, 94066, United States"
+        ]
     },
     {
         "id": 383,
