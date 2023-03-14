@@ -35,11 +35,26 @@
     ],
     "latlngs": [
         [
+            37.7933154,
+            -122.3945205
+        ],
+        [
             37.7928254,
             -122.4046726
+        ],
+        [
+            40.7302914,
+            -73.9586525
+        ],
+        [
+            40.7007485,
+            -73.9725542
         ]
     ],
     "addresses": [
-        "WeWork, 600, California Street, Chinatown, San Francisco, CAL Fire Northern Region, California, 90104, United States"
+        "Google One Market, 1, Market Street, Financial District, San Francisco, CAL Fire Northern Region, California, 94111, United States",
+        "WeWork, 600, California Street, Chinatown, San Francisco, CAL Fire Northern Region, California, 90104, United States",
+        "Kickstarter HQ, Kent Street, Brooklyn, Kings County, City of New York, New York, 11222, United States",
+        "WeWork, Market Street, Brooklyn, Kings County, City of New York, New York, 11251, United States"
     ]
 }

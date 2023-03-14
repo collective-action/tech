@@ -26,6 +26,13 @@
     "workers": null,
     "tags": null,
     "author": null,
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.7995723,
+            -122.439534
+        ]
+    ],
+    "addresses": [
+        "Verizon, Lombard Street, Cow Hollow, San Francisco, CAL Fire Northern Region, California, 94123, United States"
+    ]
 }
