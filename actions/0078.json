@@ -31,13 +31,6 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            36.1449268,
-            -115.20639
-        ]
-    ],
-    "addresses": [
-        "AT&T, West Sahara Avenue, Las Vegas, Clark County, Nevada, 89102, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }
