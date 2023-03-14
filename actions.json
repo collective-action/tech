@@ -2643,15 +2643,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                40.65532605,
-                -73.79478942223645
-            ]
-        ],
-        "addresses": [
-            "Uber Limo Livery Hold Lot, Cargo Plaza Road, Queens, City of New York, New York, 11430, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 58,
@@ -2963,15 +2956,8 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": [
-            [
-                37.4123687,
-                -121.9283094
-            ]
-        ],
-        "addresses": [
-            "Cisco Way, 399, East Tasman Drive, Cisco Systems, North San Jose, San Jose, Santa Clara County, CAL Fire Northern Region, California, 95134, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 66,
@@ -5316,8 +5302,15 @@
         "author": [
             "organizejs"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                40.7302914,
+                -73.9586525
+            ]
+        ],
+        "addresses": [
+            "Kickstarter HQ, Kent Street, Brooklyn, Kings County, City of New York, New York, 11222, United States"
+        ]
     },
     {
         "id": 122,
@@ -8231,15 +8224,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                41.7558634,
-                -71.4564942
-            ]
-        ],
-        "addresses": [
-            "Amazon Locker, 151, Sockanosset Cross Road, Sockanosset, Cranston, Providence County, Rhode Island, 02920, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 189,
@@ -9039,10 +9025,6 @@
                 -122.4046726
             ],
             [
-                40.7302914,
-                -73.9586525
-            ],
-            [
                 40.7007485,
                 -73.9725542
             ]
@@ -9050,7 +9032,6 @@
         "addresses": [
             "Google One Market, 1, Market Street, Financial District, San Francisco, CAL Fire Northern Region, California, 94111, United States",
             "WeWork, 600, California Street, Chinatown, San Francisco, CAL Fire Northern Region, California, 90104, United States",
-            "Kickstarter HQ, Kent Street, Brooklyn, Kings County, City of New York, New York, 11222, United States",
             "WeWork, Market Street, Brooklyn, Kings County, City of New York, New York, 11251, United States"
         ]
     },
@@ -10283,16 +10264,11 @@
             [
                 37.7759881,
                 -122.3919991
-            ],
-            [
-                37.7834546,
-                -122.4080358
             ]
         ],
         "addresses": [
             "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States",
-            "Lyft, 185, Berry Street, South Beach, San Francisco, CAL Fire Northern Region, California, 94107, United States",
-            "Doordash HQ, 901, Market Street, Union Square, San Francisco, CAL Fire Northern Region, California, 94104, United States"
+            "Lyft, 185, Berry Street, South Beach, San Francisco, CAL Fire Northern Region, California, 94107, United States"
         ]
     },
     {
@@ -11763,16 +11739,11 @@
         ],
         "latlngs": [
             [
-                40.673399599999996,
-                -74.00731880832103
-            ],
-            [
                 44.902201500000004,
                 -122.96448111992385
             ]
         ],
         "addresses": [
-            "Amazon, 55, Bay Street, Red Hook, Brooklyn, Kings County, City of New York, New York, 11231, United States",
             "Amazon PDX7, 4775, Depot Court, Salem, Marion County, Oregon, 97317, United States"
         ]
     },
@@ -13180,15 +13151,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                39.7837304,
-                -100.445882
-            ]
-        ],
-        "addresses": [
-            "United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 312,
@@ -13354,8 +13318,15 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.7933154,
+                -122.3945205
+            ]
+        ],
+        "addresses": [
+            "Google One Market, 1, Market Street, Financial District, San Francisco, CAL Fire Northern Region, California, 94111, United States"
+        ]
     },
     {
         "id": 320,
@@ -13876,15 +13847,8 @@
         "author": [
             "nataliyaned"
         ],
-        "latlngs": [
-            [
-                39.7837304,
-                -100.445882
-            ]
-        ],
-        "addresses": [
-            "United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 333,
@@ -16153,8 +16117,15 @@
         "author": [
             "hyatt d."
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                41.829757400000005,
+                -87.66420583944563
+            ]
+        ],
+        "addresses": [
+            "Amazon DXH5 Delivery Station, 3523, West 35th Street, Mount Pleasant, McKinley Park, Chicago, Cook County, Illinois, 60609, United States"
+        ]
     },
     {
         "id": 413,
@@ -18220,8 +18191,15 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                37.3326452,
+                -122.0299129658936
+            ]
+        ],
+        "addresses": [
+            "Apple Campus, Cupertino, Santa Clara County, California, United States"
+        ]
     },
     {
         "id": 468,
@@ -19781,8 +19759,15 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": null,
-        "addresses": null
+        "latlngs": [
+            [
+                40.61490055,
+                -74.18364545152917
+            ]
+        ],
+        "addresses": [
+            "Amazon JFK8, 546, Gulf Avenue, Bloomfield, Staten Island, City of New York, New York, 10303, United States"
+        ]
     },
     {
         "id": 509,
@@ -19815,15 +19800,8 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": [
-            [
-                40.61490055,
-                -74.18364545152917
-            ]
-        ],
-        "addresses": [
-            "Amazon JFK8, 546, Gulf Avenue, Bloomfield, Staten Island, City of New York, New York, 10303, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 514,
@@ -20494,15 +20472,8 @@
         "author": [
             "wynniechan"
         ],
-        "latlngs": [
-            [
-                40.673399599999996,
-                -74.00731880832103
-            ]
-        ],
-        "addresses": [
-            "Amazon, 55, Bay Street, Red Hook, Brooklyn, Kings County, City of New York, New York, 11231, United States"
-        ]
+        "latlngs": null,
+        "addresses": null
     },
     {
         "id": 539,
