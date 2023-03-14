@@ -31,6 +31,13 @@
     "author": [
         "moates"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            40.444189699999995,
+            -79.94271918393466
+        ]
+    ],
+    "addresses": [
+        "Carnegie Mellon University, Frew Street, Squirrel Hill North, Pittsburgh, Allegheny County, Pennsylvania, 15213, United States"
+    ]
 }
