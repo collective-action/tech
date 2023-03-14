@@ -24,6 +24,13 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            39.7837304,
+            -100.445882
+        ]
+    ],
+    "addresses": [
+        "United States"
+    ]
 }

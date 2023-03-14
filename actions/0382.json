@@ -27,6 +27,13 @@
         "cwa"
     ],
     "author": null,
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            39.008605,
+            -95.881675
+        ]
+    ],
+    "addresses": [
+        "Southwest Glitch Road, Shawnee County, Kansas, United States"
+    ]
 }

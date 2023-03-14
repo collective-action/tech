@@ -31,6 +31,13 @@
     "author": [
         "wynniechan"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            39.0678907,
+            -94.56529439152422
+        ]
+    ],
+    "addresses": [
+        "Alphabet Academy Child Care, 3200, Wayne Avenue, Ivanhoe, Kansas City, Jackson County, Missouri, 64109, United States"
+    ]
 }

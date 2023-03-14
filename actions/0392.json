@@ -35,6 +35,13 @@
     "author": [
         "hyatt d."
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            33.0639975,
+            -80.04244587737227
+        ]
+    ],
+    "addresses": [
+        "Google Berkeley County Data Center, Berkeley County, South Carolina, United States"
+    ]
 }
