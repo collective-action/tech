@@ -28,6 +28,13 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            37.4417249,
+            -122.172515
+        ]
+    ],
+    "addresses": [
+        "Apple Store, 660, Stanford Shopping Center, Stanford, Palo Alto, Santa Clara County, CAL Fire Northern Region, California, 94304, United States"
+    ]
 }
