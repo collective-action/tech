@@ -29,6 +29,13 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            45.53279775,
+            -122.90323257641259
+        ]
+    ],
+    "addresses": [
+        "Salesforce, 2035, Northeast Cornelius Pass Road, Orenco, Hillsboro, Washington County, Oregon, 97124, United States"
+    ]
 }

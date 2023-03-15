@@ -32,6 +32,33 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            51.0074295,
+            9.480107024664363
+        ],
+        [
+            46.73690925,
+            4.850183355658723
+        ],
+        [
+            45.471908049999996,
+            8.574538320367212
+        ],
+        [
+            43.30536375,
+            -8.295145534659124
+        ],
+        [
+            53.5440843,
+            -1.040071706102423
+        ]
+    ],
+    "addresses": [
+        "Amazon, Remsfeld, Kn\u00fcllwald, Schwalm-Eder-Kreis, Hessen, Deutschland",
+        "Amazon.fr Logistique Distrip\u00f4le Chalon, Sevrey, Chalon-sur-Sa\u00f4ne, Sa\u00f4ne-et-Loire, Bourgogne-Franche-Comt\u00e9, France m\u00e9tropolitaine, 71100, France",
+        "Amazon, Agognate, Novara, Piemonte, Italia",
+        "Amazon, A R\u00faa, Cecebre, Cambre, A Coru\u00f1a, Galicia, Espa\u00f1a",
+        "Amazon, Armthorpe, Doncaster, South Yorkshire Mayoral Combined Authority, England, United Kingdom"
+    ]
 }
