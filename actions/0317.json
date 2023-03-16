@@ -34,18 +34,6 @@
     "author": [
         "nataliyaned"
     ],
-    "latlngs": [
-        [
-            42.3891156,
-            -71.1417515
-        ],
-        [
-            42.3651852,
-            -71.1042178
-        ]
-    ],
-    "addresses": [
-        "Whole Foods Market, Concord Lane, Fresh Pond Mall, Cambridge, Middlesex County, Massachusetts, 02140, United States",
-        "Amazon Pickup, 1, Carl Barron Plaza, Central Square, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02139, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }
