@@ -52,6 +52,26 @@
     ],
     "latlngs": [
         [
+            45.471908049999996,
+            8.574538320367212
+        ],
+        [
+            46.73690925,
+            4.850183355658723
+        ],
+        [
+            46.320207,
+            -112.1072224
+        ],
+        [
+            -25.7668121,
+            28.3256044
+        ],
+        [
+            23.60752375,
+            89.49479645087905
+        ],
+        [
             11.5673666,
             104.9211112
         ],
@@ -64,14 +84,24 @@
             9.480107024664363
         ],
         [
+            12.1050021,
+            -68.93291542063619
+        ],
+        [
             9.7504099,
             77.1129311
         ]
     ],
     "addresses": [
+        "Amazon, Agognate, Novara, Piemonte, Italia",
+        "Amazon.fr Logistique Distrip\u00f4le Chalon, Sevrey, Chalon-sur-Sa\u00f4ne, Sa\u00f4ne-et-Loire, Bourgogne-Franche-Comt\u00e9, France m\u00e9tropolitaine, 71100, France",
+        "Amazon, Jefferson County, Montana, United States",
+        "Amazon, The Highway Street, Wapadrand Security Village, Tshwane Ward 85, City of Tshwane Metropolitan Municipality, Gauteng, 0050, South Africa",
+        "Amazon, Narua Kheya Ghat Road, Narua, \u09ac\u09be\u09b2\u09bf\u09af\u09bc\u09be\u0995\u09be\u09a8\u09cd\u09a6\u09bf \u0989\u09aa\u099c\u09c7\u09b2\u09be, \u09b0\u09be\u099c\u09ac\u09be\u09dc\u09c0 \u099c\u09c7\u09b2\u09be, \u09a2\u09be\u0995\u09be \u09ac\u09bf\u09ad\u09be\u0997, 7730, \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6",
         "Amazon, \u1795\u17d2\u179b\u17bc\u179c \u178f\u17d2\u179a\u179f\u1780\u17cb\u1795\u17d2\u17a2\u17c2\u1798 (\u17e6\u17e3), \u179a\u17b6\u1787\u1792\u17b6\u1793\u17b8\u1797\u17d2\u1793\u17c6\u1796\u17c1\u1789, \u1781\u178e\u17d2\u178c\u178a\u17bc\u1793\u1796\u17c1\u1789, \u179a\u17b6\u1787\u1792\u17b6\u1793\u17b8\u1797\u17d2\u1793\u17c6\u1796\u17c1\u1789, 120202, \u1796\u17d2\u179a\u17c7\u179a\u17b6\u1787\u17b6\u178e\u17b6\u1785\u1780\u17d2\u179a\u200b\u1780\u1798\u17d2\u1796\u17bb\u1787\u17b6",
         "Amazon, Armthorpe, Doncaster, South Yorkshire Mayoral Combined Authority, England, United Kingdom",
         "Amazon, Remsfeld, Kn\u00fcllwald, Schwalm-Eder-Kreis, Hessen, Deutschland",
+        "Amazon, Hanchi Snoa, Punda, Willemstad, Cura\u00e7ao, 0000 NA, Nederland",
         "amazon, Bypass Road, Idukki, Kerala, 688508, India"
     ]
 }
