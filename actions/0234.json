@@ -26,13 +26,6 @@
     "author": [
         "organizejs"
     ],
-    "latlngs": [
-        [
-            38.38635825,
-            -121.36541634594701
-        ]
-    ],
-    "addresses": [
-        "Amazon, 9051, Union Park Way, Elk Grove, Sacramento County, CAL Fire Northern Region, California, 94624, United States"
-    ]
+    "latlngs": null,
+    "addresses": null
 }
