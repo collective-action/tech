@@ -732,12 +732,17 @@
                 -121.802881
             ],
             [
+                37.411849450000005,
+                -122.1480713239311
+            ],
+            [
                 37.3974949,
                 -122.0842646
             ]
         ],
         "addresses": [
             "IBM, Cottle Road, San Jose, Santa Clara County, CAL Fire Northern Region, California, 95123, United States",
+            "HP, Hanover Street, Palo Alto, Santa Clara County, California, 94306, United States",
             "Tellme Networks;Microsoft, Central Expressway, Mountain View, Santa Clara County, CAL Fire Northern Region, California, 94043, United States"
         ]
     },
@@ -10309,11 +10314,16 @@
             [
                 37.7759881,
                 -122.3919991
+            ],
+            [
+                37.7834546,
+                -122.4080358
             ]
         ],
         "addresses": [
             "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States",
-            "Lyft, 185, Berry Street, South Beach, San Francisco, CAL Fire Northern Region, California, 94107, United States"
+            "Lyft, 185, Berry Street, South Beach, San Francisco, CAL Fire Northern Region, California, 94107, United States",
+            "Doordash HQ, 901, Market Street, Union Square, San Francisco, CAL Fire Northern Region, California, 94104, United States"
         ]
     },
     {
@@ -15463,11 +15473,16 @@
             [
                 37.7759881,
                 -122.3919991
+            ],
+            [
+                37.7834546,
+                -122.4080358
             ]
         ],
         "addresses": [
             "Uber, 1455, Market Street, Civic Center, San Francisco, CAL Fire Northern Region, California, 94103, United States",
-            "Lyft, 185, Berry Street, South Beach, San Francisco, CAL Fire Northern Region, California, 94107, United States"
+            "Lyft, 185, Berry Street, South Beach, San Francisco, CAL Fire Northern Region, California, 94107, United States",
+            "Doordash HQ, 901, Market Street, Union Square, San Francisco, CAL Fire Northern Region, California, 94104, United States"
         ]
     },
     {
