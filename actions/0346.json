@@ -30,6 +30,13 @@
     "author": [
         "hyatt d."
     ],
-    "latlngs": null,
-    "addresses": null
+    "latlngs": [
+        [
+            46.320207,
+            -112.1072224
+        ]
+    ],
+    "addresses": [
+        "Amazon, Jefferson County, Montana, United States"
+    ]
 }
