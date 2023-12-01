@@ -1,3 +1,5 @@
+> This repo has been deprecated and migrated off to a different system - for more information on the database, visit https://collectiveaction.tech
+
 # Collective Action in Tech
 ![Airtable](https://github.com/collective-action/tech/workflows/Airtable/badge.svg)
 
